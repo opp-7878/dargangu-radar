@@ -608,6 +608,7 @@ def handle_buttons(db, dry):
         print("getUpdates error:", type(e).__name__)
         return 0
     by_id, done = {s["id"]: s for s in db["stories"]}, 0
+    print("buttons: updates=%d offset=%s" % (len(d.get("result", [])), db["meta"].get("tg_offset")))
     for u in d.get("result", []):
         db["meta"]["tg_offset"] = u["update_id"] + 1
         q = u.get("callback_query")
@@ -618,6 +619,7 @@ def handle_buttons(db, dry):
         except Exception:
             pass  # кнопку нажали давно — Telegram уже не принимает ответ, это не страшно
         parts = (q.get("data") or "").split(":")
+        print("button:", q.get("data"))
         reply_to = q.get("message", {}).get("message_id")
         if len(parts) != 3 or parts[0] != "p" or parts[1] not in POST_FORMATS:
             continue
@@ -758,6 +760,10 @@ def main():
         for s0 in sorted(db["stories"], key=lambda x: -x["score"])[:2]:
             s = dict(s0, ai=None, ai_fail=0)
             print(json.dumps(enrich(s) or s.get("ai_error"), ensure_ascii=False, indent=1))
+        return None
+    if "--tg-info" in args:  # диагностика: вебхук и очередь обновлений бота (токен не печатается)
+        print(json.dumps(tg_api("getWebhookInfo", {}), ensure_ascii=False))
+        print(json.dumps(tg_api("getUpdates", {"timeout": 0, "limit": 20}), ensure_ascii=False)[:1500])
         return None
     if "--test-card" in args:  # прислать карточку с кнопками (история по RADAR_TEST_Q), чтобы проверить кнопки
         db = load_json(NEWS, {"stories": [], "meta": {}})
