@@ -1,6 +1,96 @@
 {
  "stories": [
   {
+   "id": "0c5a262356ce",
+   "title": "Аналитики: GTA VI заработала почти $600 млн до выхода. Отсутствие диска покупателей не остановило",
+   "first_seen": "2026-10-15T09:21:15Z",
+   "updated": "2026-10-15T10:31:03Z",
+   "items": [
+    {
+     "id": "0c5a262356ce",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Аналитики: GTA VI заработала почти $600 млн до выхода. Отсутствие диска покупателей не остановило",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWFiVjNpbXl4VXJEa0xJZVI2VW9oaHgzZFdIZ1NjcC12TFR3Qm5jMU1OTmdSWEEwbHhvZ0NhcDF0R3dRWHhJNDFMQWRfOTFzSDlHQzNLbWE2Rnh1cHdJc1ZIbWNWb0lmUFpTRnBUWVJaN05LTUtVTGoydW9hZC1ZdjdDbWI2dExDYVBOWjFGRm9xWW03MHV5RXdQcnhOTmhxZW9fZ0Exek1KakhqSWpWbkxhWk5SaE1ZZkZCSTlhTF9zYl9HM3pabDc3MXlscGfSAdQBQVVfeXFMTVJ5S2tYSFNFRHZPbVlVNVNEaXNlNWhtTnV5RjZSQWQ3eENrOVNrRFNVOGZqWkMxaG9KR0loang5STd2cFZ2TEgza3VvLVo5cFBXRmROeUZkVllNclZZWnRrdXBjVjVjQnJidE1JcnZWTnZ5YUwwcmM4QnN4N0hCQVhxTGdVTnR6TWdiazlqNXhrRU5SNmkxajhFYkNPNWlUUExVSFJLOFZZODRNNGE5YkMxeFktQ2RGX29tdVpvUjF5QXF2NzlYNHJlVjhsLVN4RDl0SE0?oc=5",
+     "ts": "2026-10-15T05:49:11Z",
+     "summary": ""
+    },
+    {
+     "id": "4e6578fbf653",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 заработала почти 600 миллионов долларов на предзаказах",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkszMW54d1pZTmZKTm12LXZoS2hwbEZMdW5rX3hMcFlWblRhTGt2V0UzbWVkV21LakVpVEk4SzBxZW9GTG1VZUR4MExTZWtrOUhHR2ZVNm9kSEV1U0JJLUs3Vm5YcENkXzdxRktsWF9scktRc2JNTXFueldaWGRScDlhbFBDcUZ5bjlPY0dWdEpubl9qbmtobW5jSmZsRThJVGpzcklhSjdPYnZyWEE?oc=5",
+     "ts": "2026-10-15T08:05:56Z",
+     "summary": ""
+    },
+    {
+     "id": "daf9d28e39ac",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Предзаказы GTA 6 превысили 6 миллионов копий — Зельник уже заработал более 600 миллионов долларов",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVY0ZUZsRmp1UTBsNDlleFVwOW1ya3lVaU05Q2lNSHBjVE9pVVVrTzVKanBMY0luSW1KYUg5dUpPZnV5SmNUS3VzaWM2MXVoMDI1bHF3SFk5LXRodXZNNHdNSHluMlIxTlF4Wl8tbGNock8xRVVwMWNQenVyVTFBWEVscmViV2tMdWRJMzFmNTdnb1ZMNTBmcE9PODNWcWR4SjFDV2tlaW9oMHJnTmlQMHVLV2lSaTExUFM3Umh3QQ?oc=5",
+     "ts": "2026-10-15T10:30:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 76,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: 6 млн предзаказов и $600 млн до релиза — без дисков!",
+    "summary": "По данным iXBT.games, CyberMeta и GoHa.Ru, предзаказы GTA 6 превысили 6 млн копий, а сумма — более $600 млн до выхода. Аналитики отмечают, что отсутствие дисков покупателей не остановило.",
+    "idea": "Короткая нарезка цифр и реакции: 6 млн предзаказов и $600 млн до релиза без дисков. Зрителю важно понять масштаб хайпа и что это значит для цен и дефицита.",
+    "hook": "6 миллионов предзаказов GTA 6 и 600 миллионов долларов — до релиза!",
+    "stars": 3,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-15T10:31:09Z"
+   },
+   "msg_id": 68
+  },
+  {
+   "id": "3e418c663507",
+   "title": "Rockstar о разработке GTA 6: интервью Bloomberg",
+   "first_seen": "2026-10-15T10:31:03Z",
+   "updated": "2026-10-15T10:31:03Z",
+   "items": [
+    {
+     "id": "3e418c663507",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Dead Brush",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar о разработке GTA 6: интервью Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBreHVJd1NKNUtSV3F3NTdEdzNtOEJ2bHROUGhyaDFDUDk3TG5SVy0tM2ZwaUlJd0doSUZ2eUg2UUFpNGttSUhuVVhObmptbWI3LVROUlhvUl8wMWdBbjVxQ0ZvTy05czJLOXZoaExPcFhKdmpfc2NKQQ?oc=5",
+     "ts": "2026-10-15T10:22:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "fe9c2482f5a1",
    "title": "Rockstar обещает выпустить новую игру быстрее, чем через 8 лет",
    "first_seen": "2026-10-14T12:17:55Z",
@@ -3957,47 +4047,6 @@
     "цена/издания"
    ],
    "score": 60,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0c5a262356ce",
-   "title": "Аналитики: GTA VI заработала почти $600 млн до выхода. Отсутствие диска покупателей не остановило",
-   "first_seen": "2026-10-15T09:21:15Z",
-   "updated": "2026-10-15T09:21:15Z",
-   "items": [
-    {
-     "id": "0c5a262356ce",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Аналитики: GTA VI заработала почти $600 млн до выхода. Отсутствие диска покупателей не остановило",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWFiVjNpbXl4VXJEa0xJZVI2VW9oaHgzZFdIZ1NjcC12TFR3Qm5jMU1OTmdSWEEwbHhvZ0NhcDF0R3dRWHhJNDFMQWRfOTFzSDlHQzNLbWE2Rnh1cHdJc1ZIbWNWb0lmUFpTRnBUWVJaN05LTUtVTGoydW9hZC1ZdjdDbWI2dExDYVBOWjFGRm9xWW03MHV5RXdQcnhOTmhxZW9fZ0Exek1KakhqSWpWbkxhWk5SaE1ZZkZCSTlhTF9zYl9HM3pabDc3MXlscGfSAdQBQVVfeXFMTVJ5S2tYSFNFRHZPbVlVNVNEaXNlNWhtTnV5RjZSQWQ3eENrOVNrRFNVOGZqWkMxaG9KR0loang5STd2cFZ2TEgza3VvLVo5cFBXRmROeUZkVllNclZZWnRrdXBjVjVjQnJidE1JcnZWTnZ5YUwwcmM4QnN4N0hCQVhxTGdVTnR6TWdiazlqNXhrRU5SNmkxajhFYkNPNWlUUExVSFJLOFZZODRNNGE5YkMxeFktQ2RGX29tdVpvUjF5QXF2NzlYNHJlVjhsLVN4RDl0SE0?oc=5",
-     "ts": "2026-10-15T05:49:11Z",
-     "summary": ""
-    },
-    {
-     "id": "4e6578fbf653",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "CyberMeta",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 заработала почти 600 миллионов долларов на предзаказах",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkszMW54d1pZTmZKTm12LXZoS2hwbEZMdW5rX3hMcFlWblRhTGt2V0UzbWVkV21LakVpVEk4SzBxZW9GTG1VZUR4MExTZWtrOUhHR2ZVNm9kSEV1U0JJLUs3Vm5YcENkXzdxRktsWF9scktRc2JNTXFueldaWGRScDlhbFBDcUZ5bjlPY0dWdEpubl9qbmtobW5jSmZsRThJVGpzcklhSjdPYnZyWEE?oc=5",
-     "ts": "2026-10-15T08:05:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 68,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -13750,7 +13799,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-15T10:26:00Z",
+  "last_run": "2026-10-15T10:31:09Z",
   "last_log": [
    "rockstar_site: 0/6",
    "gnews_en: 98/100",
