@@ -1,85 +1,10 @@
 {
  "stories": [
   {
-   "id": "7b27c547a742",
-   "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-   "first_seen": "2026-10-15T11:40:43Z",
-   "updated": "2026-10-15T12:10:45Z",
-   "items": [
-    {
-     "id": "7b27c547a742",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWhKUkV6dVBKMVBreGFLVGJZV3I0YzJXZWZfaEVQX1paOUdfRFdBcFU3RTJrRVdvQ05ja3YtRmVJdTByMWVfamMwRWlMSDVONk9xMWJYVkFzMVlIUi1KNjhmbVpzRWRtU3FXUTJ6d1BUTjU5WHRzQzdhWWo5NjdXVTVtVG9Ic0ZYd0dBT21uNllwZ2x3R0J2Z09VRGR6QzNSYWRWYWJzQTlwc1lZelN4aHZjNTEyOGRSNERlaS1R?oc=5",
-     "ts": "2026-10-15T11:32:34Z",
-     "summary": ""
-    },
-    {
-     "id": "7c426e735fbb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdzhOd2hybTJELU03SUF2dkhBUHBPZ2Q0cE8zWmFoR1c3X0JDNEtzVEprUzB2d0RzWHhIdU9RV25SczJXaWZKN25NaGpVdGVhR3dFcDY2bVVlUVM3VDdJS21SYkI0WEcxM3RTeDl5SGlURDV6OVo2Z0ZleEJESmZDd19semU3elVtWkFMaFJyQzd6UkM2UjNETHVXVDlXSVI5M2xuOGdGdjBFTWpGaFpFczUwT1VGMk1JaW8wd25BczR0Wi1lS0VRMG5wUWdaVXZXOVM0djVhRUptQQ?oc=5",
-     "ts": "2026-10-15T11:44:26Z",
-     "summary": ""
-    },
-    {
-     "id": "11aa0da29eb4",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-     "url": "https://www.ign.com/articles/gta-6s-level-of-detail-is-so-extreme-rockstar-built-an-entire-scripted-system-just-for-sweat",
-     "ts": "2026-10-15T11:32:24Z",
-     "summary": "Rockstar Games is of course known for its attention to detail, with previous Grand Theft Auto and Red Dead Redemption games raising the bar for realism. GTA 6, though, looks set to go further than any video game before it, with a dedicated system that determines how much the characters sweat."
-    },
-    {
-     "id": "3e7a5bd648d8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRGtVblpQVDA1aE9kQmVaN1pCcy1IcXVyaHBjNC02X1pBeUl2YWg0bEdFYmJGVVNOQ0xON2w0bDRkSjBpbVRKOGZLcnR3Y2JqSnEwLTc0cGJENFlGc2k4czFvR183ZERnYWR2dHBzalJJZVZianNtV2NCeUNPUC1ZYjM2WlVjTi1kUlhGVFBnMHRzTVd6MnlTXzNxcTFoR1JsbFdHSGU4cUNVeDRjT0MzaFV0YmVlOUR5SURIRm0yLTdZTXlSR3RvSXhmeFliY3VVS3VreXZmVGRfZVNVektUYnBxcUxFS0Yt?oc=5",
-     "ts": "2026-10-15T12:06:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 94,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "💦 В GTA 6 появится отдельная система пота у персонажей",
-    "summary": "По данным IGN, Rockstar создала отдельную скриптованную систему, которая определяет, насколько сильно потеют герои. Это часть экстремального уровня детализации GTA 6, о котором пишут IGN и IGN Nordic.",
-    "idea": "Крупный план лица Джейсона/Лусии: пот появляется по зонам и меняется от жары и бега. Зрителю интересно увидеть «невидимую» деталь, которая делает мир живее.",
-    "hook": "Rockstar сделала отдельную систему только ради пота в GTA 6.",
-    "stars": 2,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-15T12:01:18Z"
-   },
-   "msg_id": 74
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-15T12:10:45Z",
+   "updated": "2026-10-15T12:20:45Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -2303,6 +2228,19 @@
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3em1pdzFRR3FoZG9uWk5fSzVWSGZEcnZqRF8yS0JsSUJhWmItYjVYenRmZEdjbFMtMFEyeTRZZ0xYWnpiVnVRVml0dGJfeUE0aFhvRnhsWdIBV0FVX3lxTFA3em1pdzFRR3FoZG9uWk5fSzVWSGZEcnZqRF8yS0JsSUJhWmItYjVYenRmZEdjbFMtMFEyeTRZZ0xYWnpiVnVRVml0dGJfeUE0aFhvRnhsWQ?oc=5",
      "ts": "2026-10-15T10:11:36Z",
      "summary": ""
+    },
+    {
+     "id": "4477102f84b0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "3DNews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Автор утечек GTA VI передумал «сливать» сюжетный режим и пригрозил Take-Two переключателем мертвеца",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdGNxMVVGRExuNm81eDIxLV9nbjVRdTQyYkVxdEdLaTBWR1JlR1o0TEIyTkJJdWpsdW5lVmEzbmoydWxVUS1fMDJOb1NwMDYySmlxLWU4MzVmV0tPZkV6dTBrQUN3Z3lwZjJVdGxlUUo1ZFNXNEt2dVVmTEhwc3paVjdHV3U0NXB1ZEwtbko5X3JHdkltRDRCRU1sa19KckhMSzdsbXgyZHFMZVZ4UWtmTDdqM1E4R2xlRHc2ZGZpN0kxYnFn0gHKAUFVX3lxTFBGQXdZdkFBWENfQzFCdklQUDAxQjB3VFRGcnozaEVSaVBEUFJQcmZNWXZTV2ZuTVBFSUZuNGEySVUtWUxBdU5uZkpDWUl3eld4ZkZSZVdyT2xsdmpCQlllc3dnYjBpYTZRMTM0N1A1c1QtdHE4RlF4TENUM3l5cjJzSFZSSk44eGxHQjhqZU91aGJEV0EtYWQ5ODRYT0Nlb1M3Q2tUeTU3U2kzS2ZOWlEzR1hGMnpmak1nWG4zZU5JM19ya1Fxb0NGT3c?oc=5",
+     "ts": "2026-10-15T09:19:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -2320,6 +2258,253 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
    "status": "new"
+  },
+  {
+   "id": "411728ec564e",
+   "title": "GTA 6 Confirmed Eligible for The Game Awards 2026",
+   "first_seen": "2026-10-15T11:40:43Z",
+   "updated": "2026-10-15T12:20:45Z",
+   "items": [
+    {
+     "id": "411728ec564e",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 is Officially Eligible for The Game Awards 2026",
+     "url": "https://insider-gaming.com/gta-6-is-officially-eligible-for-the-game-awards-2026/",
+     "ts": "2026-10-15T11:39:22Z",
+     "summary": "We finally have confirmation about GTA 6's status and eligibility for The Game Awards 2026—the game is just about in for this year's show. The post GTA 6 is Officially Eligible for The Game Awards 2026 appeared first on Insider Gaming ."
+    },
+    {
+     "id": "b6f68d181d97",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 is Officially Eligible for The Game Awards 2026",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFIwVjJDS19BRUJxLURIUGRoc25HcFZjYlduMnpUUFUzQTRfYnYwdXczSUJKMV9nd0ZpSXJyWmdEcGMxNzExbXl0S25TelpkSG1sTzg0eklsVGFIMExaOXB6eEJwWGI0NnhSYVF1Y3hITk5aYXZjMUh1dU9BR1lrSEZkUXNYeWZG?oc=5",
+     "ts": "2026-10-15T11:39:22Z",
+     "summary": ""
+    },
+    {
+     "id": "dc7d078db90a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Confirmed Eligible for The Game Awards 2026",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa1RremlBbDMxdnNDelp1TmNEa2t0bUQ3dHZkVEc4OEpWSHEtM2hBU0M4Q3hmeFYtbWMwb3RsUU1ESWxYTXJwc3lvVmRCd3ZRSFdTbnoxYVNRZXoxWDd5elZUQW9fU3FtWWs2aTQ5OUpCeFZ5U0ZkN0JrdHJpTWJqUDlLUllld3NiV2tBeU1XSFNnSjRJUWVhNkgwaE9fMjduQ2JBb1lNWWZpc3o4VVpmODM2SGZ6czNxRUN5TlJFRkpYaGt4NWhHbXN5SFBjbkFRRDVwRUp0M28xTWpzc3hpOUNUWC0yNy1RNlZ6eUJPTmlyMkw2RXpCWQ?oc=5",
+     "ts": "2026-10-15T12:05:37Z",
+     "summary": ""
+    },
+    {
+     "id": "2e77cf7b474f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Instant Gaming News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Game Awards 2026: GTA VI is officially eligible",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazlWM2pOTWFMLWR6T3FlbzJRM01oUGp4c2FNdlZWUDRWbE45UktEWFNGNE91YWlZdENVNDlWRXVzS25IU01Ib0hqZnl5dDMxUUh4WG9teGRtRERHLVJuQ0tRNk8tY3FGYkdpXzBpdU1DNExUSjFxekZjYWIwRHVvMEtCc2QwTTNkZ1VQX3pCbzRwTzIzV05vTGRjdG1tVWdIVFE?oc=5",
+     "ts": "2026-10-15T12:14:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 100,
+   "level": "HIGH CONFIDENCE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "👀 GTA 6 официально допущена к The Game Awards 2026",
+    "summary": "По данным Insider Gaming (Tom Henderson), GTA 6 официально допущена к The Game Awards 2026. Это подтверждает статус и право игры участвовать в церемонии этого года.",
+    "idea": "Коротко объясняем, что GTA 6 официально в списке TGA 2026, и почему это шанс на новый трейлер или геймплей. Зрителю важно: где и когда ждать анонс.",
+    "hook": "GTA 6 официально в списке The Game Awards 2026. Вот что это значит.",
+    "stars": 3,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-15T11:40:47Z"
+   },
+   "msg_id": 72,
+   "posts": {
+    "flash": "<b>⚡️ GTA 6 допущена к The Game Awards 2026</b>\n\nИгра официально прошла отсечку по дате релиза, пишет Insider Gaming. Ждём номинаций и возможный рекорд.\n\n⚠️ Rockstar это не подтверждала.\n\n#GTA6 #DargaNGU #TGA2026"
+   },
+   "upgraded": true
+  },
+  {
+   "id": "5be2ab8408f0",
+   "title": "GTA 6 сможет побороться за награды The Game Awards 2026",
+   "first_seen": "2026-10-15T11:31:05Z",
+   "updated": "2026-10-15T12:20:45Z",
+   "items": [
+    {
+     "id": "5be2ab8408f0",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 35,
+     "alert": true,
+     "title": "GTA VI сможет побороться за «Игру года» уже на The Game Awards 2026",
+     "url": "https://t.me/GTAVIStar/713",
+     "ts": "2026-10-15T11:26:55Z",
+     "summary": "GTA VI сможет побороться за «Игру года» уже на The Game Awards 2026 • Игра выходит 19 ноября и успевает буквально за день до крайнего срока отбора The Game Awards. Дедлайн установлен на 20 ноября. • Это значит, что GTA VI сможет претендовать на номинации уже в этом году, включая главную категорию «Игра года». • Издатели могут заранее предоставлять журналистам копии игр для оценки перед голосованием, поэтому у жюри потенциально будет время ознакомиться с GTA VI ещё до релиза. Церемония The Game Awards пройдёт 10 декабря . 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    },
+    {
+     "id": "8440042dd4f0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VGTimes",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 сможет побороться за награды The Game Awards 2026",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRko1YmVZaW0zRU11dWgzeWtNSHVHTFc5LWt0Z3lwakRublBJdk9vSDJxdkMzNWpDOUJTUEoyT29oOXBUUWF6Y2pITlhKUnRROGxkTGJwdjdrekxOdlJ0ZGxhRUJtWm8yeTE3TzBuY09mcVdEV1IyYkhvWTJubGJQSHFITmlyTHJQZXNKOXRpbmZPckdXdVV1ajRPekVJVWkt?oc=5",
+     "ts": "2026-10-15T12:11:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ac736d873c61",
+   "title": "Нет, Grand Theft Auto VI не стоила 2 миллиарда долларов — Джейсон Шрайер раскрыл новые детали разработки флагмана Rockstar Games",
+   "first_seen": "2026-10-15T12:20:45Z",
+   "updated": "2026-10-15T12:20:45Z",
+   "items": [
+    {
+     "id": "ac736d873c61",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameMAG",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Нет, Grand Theft Auto VI не стоила 2 миллиарда долларов — Джейсон Шрайер раскрыл новые детали разработки флагмана Rockstar Games",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUUViQmVQS3NaV2tnbVhsbGtlTTR4bGxTbFBGOWEwYXBUdlFDeng0eUU2X2NzQXpKMWhKUm1ocDhmUllkVnQ1Yjc4SXVydUI2V3FPcG5zaHBYeXRMX2pfd29OMXB5SURwenAyRFFGYnl1Z2l5YTJRc2ZpWHcweGlSaTZHVC1uVVVYOWc?oc=5",
+     "ts": "2026-10-14T13:13:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "45bcfa80a93e",
+   "title": "GTA VI не придётся покупать вслепую: первые обзоры выйдут до 19 ноября – инсайдер",
+   "first_seen": "2026-10-15T12:20:45Z",
+   "updated": "2026-10-15T12:20:45Z",
+   "items": [
+    {
+     "id": "45bcfa80a93e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA VI не придётся покупать вслепую: первые обзоры выйдут до 19 ноября – инсайдер",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa19DSWpHMkQtbjN5dUFDS2RtNnBKanhCblk1YXRucFFOUm5uR0xFby1DUmlSSi10QkRzd3hnTjJFRkpIMGpiSTVId2JSTGI0clp5WVM1dUFTaGt2TWVzbW93NGkySnU5TkN5Z0ROYm9JMnRUR2RJS3pKWFVQbVkzUHM3VFIxbUFWVmpyZ05YemNOME1zZ0lOcmg5QURuaFlHLUdBdVd6eGdiN1prT243dDl0dEFBYVg3M1l2YWdn0gHDAUFVX3lxTE4zM1VxTHB1YTJSVGNZNWxxSUtTSXEyZXJVVkJyQXFGMF9BOUVZNzBoNHh2Vm10QTZDMTdVM2I0RDd3NWN3NERyVDVRVEpNZTBMRW9LczN3aENJOXY5RVZIRHluQWZBMGdfSVRrUGJsVmtOemxwd0drZkFSZ1BrYmhyenp6c3hlaUhpZ1JRN3FMZjNmZ01IN3NCOUR2d2ZxakpsUG1aY0pyOTZQU05leEsyaXpuN1hNaXFCY3hMdVduMnRlWQ?oc=5",
+     "ts": "2026-10-15T07:57:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7b27c547a742",
+   "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+   "first_seen": "2026-10-15T11:40:43Z",
+   "updated": "2026-10-15T12:10:45Z",
+   "items": [
+    {
+     "id": "7b27c547a742",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWhKUkV6dVBKMVBreGFLVGJZV3I0YzJXZWZfaEVQX1paOUdfRFdBcFU3RTJrRVdvQ05ja3YtRmVJdTByMWVfamMwRWlMSDVONk9xMWJYVkFzMVlIUi1KNjhmbVpzRWRtU3FXUTJ6d1BUTjU5WHRzQzdhWWo5NjdXVTVtVG9Ic0ZYd0dBT21uNllwZ2x3R0J2Z09VRGR6QzNSYWRWYWJzQTlwc1lZelN4aHZjNTEyOGRSNERlaS1R?oc=5",
+     "ts": "2026-10-15T11:32:34Z",
+     "summary": ""
+    },
+    {
+     "id": "7c426e735fbb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdzhOd2hybTJELU03SUF2dkhBUHBPZ2Q0cE8zWmFoR1c3X0JDNEtzVEprUzB2d0RzWHhIdU9RV25SczJXaWZKN25NaGpVdGVhR3dFcDY2bVVlUVM3VDdJS21SYkI0WEcxM3RTeDl5SGlURDV6OVo2Z0ZleEJESmZDd19semU3elVtWkFMaFJyQzd6UkM2UjNETHVXVDlXSVI5M2xuOGdGdjBFTWpGaFpFczUwT1VGMk1JaW8wd25BczR0Wi1lS0VRMG5wUWdaVXZXOVM0djVhRUptQQ?oc=5",
+     "ts": "2026-10-15T11:44:26Z",
+     "summary": ""
+    },
+    {
+     "id": "11aa0da29eb4",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+     "url": "https://www.ign.com/articles/gta-6s-level-of-detail-is-so-extreme-rockstar-built-an-entire-scripted-system-just-for-sweat",
+     "ts": "2026-10-15T11:32:24Z",
+     "summary": "Rockstar Games is of course known for its attention to detail, with previous Grand Theft Auto and Red Dead Redemption games raising the bar for realism. GTA 6, though, looks set to go further than any video game before it, with a dedicated system that determines how much the characters sweat."
+    },
+    {
+     "id": "3e7a5bd648d8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRGtVblpQVDA1aE9kQmVaN1pCcy1IcXVyaHBjNC02X1pBeUl2YWg0bEdFYmJGVVNOQ0xON2w0bDRkSjBpbVRKOGZLcnR3Y2JqSnEwLTc0cGJENFlGc2k4czFvR183ZERnYWR2dHBzalJJZVZianNtV2NCeUNPUC1ZYjM2WlVjTi1kUlhGVFBnMHRzTVd6MnlTXzNxcTFoR1JsbFdHSGU4cUNVeDRjT0MzaFV0YmVlOUR5SURIRm0yLTdZTXlSR3RvSXhmeFliY3VVS3VreXZmVGRfZVNVektUYnBxcUxFS0Yt?oc=5",
+     "ts": "2026-10-15T12:06:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 94,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "💦 В GTA 6 появится отдельная система пота у персонажей",
+    "summary": "По данным IGN, Rockstar создала отдельную скриптованную систему, которая определяет, насколько сильно потеют герои. Это часть экстремального уровня детализации GTA 6, о котором пишут IGN и IGN Nordic.",
+    "idea": "Крупный план лица Джейсона/Лусии: пот появляется по зонам и меняется от жары и бега. Зрителю интересно увидеть «невидимую» деталь, которая делает мир живее.",
+    "hook": "Rockstar сделала отдельную систему только ради пота в GTA 6.",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-15T12:01:18Z"
+   },
+   "msg_id": 74
   },
   {
    "id": "151bbf95d0e6",
@@ -2411,74 +2596,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "411728ec564e",
-   "title": "GTA 6 Confirmed Eligible for The Game Awards 2026",
-   "first_seen": "2026-10-15T11:40:43Z",
-   "updated": "2026-10-15T12:10:45Z",
-   "items": [
-    {
-     "id": "411728ec564e",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 is Officially Eligible for The Game Awards 2026",
-     "url": "https://insider-gaming.com/gta-6-is-officially-eligible-for-the-game-awards-2026/",
-     "ts": "2026-10-15T11:39:22Z",
-     "summary": "We finally have confirmation about GTA 6's status and eligibility for The Game Awards 2026—the game is just about in for this year's show. The post GTA 6 is Officially Eligible for The Game Awards 2026 appeared first on Insider Gaming ."
-    },
-    {
-     "id": "b6f68d181d97",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 is Officially Eligible for The Game Awards 2026",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFIwVjJDS19BRUJxLURIUGRoc25HcFZjYlduMnpUUFUzQTRfYnYwdXczSUJKMV9nd0ZpSXJyWmdEcGMxNzExbXl0S25TelpkSG1sTzg0eklsVGFIMExaOXB6eEJwWGI0NnhSYVF1Y3hITk5aYXZjMUh1dU9BR1lrSEZkUXNYeWZG?oc=5",
-     "ts": "2026-10-15T11:39:22Z",
-     "summary": ""
-    },
-    {
-     "id": "dc7d078db90a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Confirmed Eligible for The Game Awards 2026",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa1RremlBbDMxdnNDelp1TmNEa2t0bUQ3dHZkVEc4OEpWSHEtM2hBU0M4Q3hmeFYtbWMwb3RsUU1ESWxYTXJwc3lvVmRCd3ZRSFdTbnoxYVNRZXoxWDd5elZUQW9fU3FtWWs2aTQ5OUpCeFZ5U0ZkN0JrdHJpTWJqUDlLUllld3NiV2tBeU1XSFNnSjRJUWVhNkgwaE9fMjduQ2JBb1lNWWZpc3o4VVpmODM2SGZ6czNxRUN5TlJFRkpYaGt4NWhHbXN5SFBjbkFRRDVwRUp0M28xTWpzc3hpOUNUWC0yNy1RNlZ6eUJPTmlyMkw2RXpCWQ?oc=5",
-     "ts": "2026-10-15T12:05:37Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 100,
-   "level": "HIGH CONFIDENCE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "👀 GTA 6 официально допущена к The Game Awards 2026",
-    "summary": "По данным Insider Gaming (Tom Henderson), GTA 6 официально допущена к The Game Awards 2026. Это подтверждает статус и право игры участвовать в церемонии этого года.",
-    "idea": "Коротко объясняем, что GTA 6 официально в списке TGA 2026, и почему это шанс на новый трейлер или геймплей. Зрителю важно: где и когда ждать анонс.",
-    "hook": "GTA 6 официально в списке The Game Awards 2026. Вот что это значит.",
-    "stars": 3,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-15T11:40:47Z"
-   },
-   "msg_id": 72,
-   "posts": {
-    "flash": "<b>⚡️ GTA 6 допущена к The Game Awards 2026</b>\n\nИгра официально прошла отсечку по дате релиза, пишет Insider Gaming. Ждём номинаций и возможный рекорд.\n\n⚠️ Rockstar это не подтверждала.\n\n#GTA6 #DargaNGU #TGA2026"
-   },
-   "upgraded": true
   },
   {
    "id": "8ea55a266b02",
@@ -3656,32 +3773,6 @@
    "tags": [
     "анонс"
    ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5be2ab8408f0",
-   "title": "GTA VI сможет побороться за «Игру года» уже на The Game Awards 2026",
-   "first_seen": "2026-10-15T11:31:05Z",
-   "updated": "2026-10-15T11:31:05Z",
-   "items": [
-    {
-     "id": "5be2ab8408f0",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 35,
-     "alert": true,
-     "title": "GTA VI сможет побороться за «Игру года» уже на The Game Awards 2026",
-     "url": "https://t.me/GTAVIStar/713",
-     "ts": "2026-10-15T11:26:55Z",
-     "summary": "GTA VI сможет побороться за «Игру года» уже на The Game Awards 2026 • Игра выходит 19 ноября и успевает буквально за день до крайнего срока отбора The Game Awards. Дедлайн установлен на 20 ноября. • Это значит, что GTA VI сможет претендовать на номинации уже в этом году, включая главную категорию «Игра года». • Издатели могут заранее предоставлять журналистам копии игр для оценки перед голосованием, поэтому у жюри потенциально будет время ознакомиться с GTA VI ещё до релиза. Церемония The Game Awards пройдёт 10 декабря . 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    }
-   ],
-   "tags": [],
    "score": 35,
    "level": "SPECULATION",
    "alerted": "",
@@ -14612,11 +14703,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-15T12:10:46Z",
+  "last_run": "2026-10-15T12:20:45Z",
   "last_log": [
    "rockstar_site: 0/5",
    "gnews_en: 97/100",
-   "gnews_ru: 91/94",
+   "gnews_ru: 89/92",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
@@ -14625,7 +14716,7 @@
    "dexerto_gta: 5/50",
    "rockstarintel: 8/10",
    "gtaboom: 10/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 9/16"
   ],
   "digest": "2026-10-14",
