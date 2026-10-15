@@ -1,0 +1,165 @@
+{
+ "_about": "Источники радара. kind: rss | gnews | telegram. weight: 100 официальные, 60-80 СМИ, 40-60 инсайдеры/фан-сайты, 20 Reddit/TG. filter: true = брать только записи со словами GTA 6 / GTA VI / Rockstar. alert: false = источник никогда не шлёт уведомление сам, только усиливает историю. must: regex, который обязан быть в заголовке (строже filter). enabled: false = источник выключен.",
+ "sources": [
+  {
+   "id": "rockstar_yt",
+   "name": "Rockstar Games (YouTube)",
+   "kind": "rss",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A",
+   "weight": 100,
+   "group": "official",
+   "filter": true,
+   "must": "grand theft auto vi|gta vi|gta 6",
+   "enabled": false,
+   "note": "2026-10-14: лента YouTube отдаёт 404 и с GitHub (ID верный, UC6VcWc1rAoWdBCM0JxrRQ3A). Трейлеры ловим через Newswire и СМИ. Проверить снова позже."
+  },
+  {
+   "id": "rockstar_site",
+   "name": "Rockstar Newswire",
+   "kind": "gnews",
+   "url": "https://news.google.com/rss/search?q=site%3Arockstargames.com%2Fnewswire%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "weight": 100,
+   "group": "official",
+   "filter": true,
+   "must": "grand theft auto vi|gta vi|gta 6"
+  },
+  {
+   "id": "gnews_en",
+   "name": "Google News EN",
+   "kind": "gnews",
+   "url": "https://news.google.com/rss/search?q=%22GTA%206%22%20OR%20%22GTA%20VI%22%20OR%20%22Grand%20Theft%20Auto%20VI%22%20when%3A1d&hl=en-US&gl=US&ceid=US:en",
+   "weight": 50,
+   "group": "media",
+   "filter": true
+  },
+  {
+   "id": "gnews_ru",
+   "name": "Google News RU",
+   "kind": "gnews",
+   "url": "https://news.google.com/rss/search?q=GTA%206%20OR%20%22GTA%20VI%22%20when%3A1d&hl=ru&gl=RU&ceid=RU:ru",
+   "weight": 40,
+   "group": "media_ru",
+   "filter": true
+  },
+  {
+   "id": "gamesbeat",
+   "name": "GamesBeat",
+   "kind": "rss",
+   "url": "https://gamesbeat.com/feed/",
+   "weight": 75,
+   "group": "media",
+   "filter": true
+  },
+  {
+   "id": "vgc",
+   "name": "VGC",
+   "kind": "rss",
+   "url": "https://www.videogameschronicle.com/feed/",
+   "weight": 70,
+   "group": "media",
+   "filter": true
+  },
+  {
+   "id": "insider_gaming",
+   "name": "Insider Gaming (Tom Henderson)",
+   "kind": "rss",
+   "url": "https://insider-gaming.com/feed/",
+   "weight": 65,
+   "group": "insider",
+   "filter": true
+  },
+  {
+   "id": "ign",
+   "name": "IGN",
+   "kind": "rss",
+   "url": "https://www.ign.com/rss/articles/feed",
+   "weight": 70,
+   "group": "media",
+   "filter": true
+  },
+  {
+   "id": "eurogamer",
+   "name": "Eurogamer",
+   "kind": "rss",
+   "url": "https://www.eurogamer.net/feed",
+   "weight": 70,
+   "group": "media",
+   "filter": true
+  },
+  {
+   "id": "dexerto_gta",
+   "name": "Dexerto GTA",
+   "kind": "rss",
+   "url": "https://www.dexerto.com/gta/feed/",
+   "weight": 60,
+   "group": "media",
+   "filter": true
+  },
+  {
+   "id": "rockstarintel",
+   "name": "Rockstar INTEL",
+   "kind": "rss",
+   "url": "https://www.rockstarintel.com/feed",
+   "weight": 55,
+   "group": "fansite",
+   "filter": true
+  },
+  {
+   "id": "gtaboom",
+   "name": "GTA Boom",
+   "kind": "rss",
+   "url": "https://www.gtaboom.com/feed/",
+   "weight": 45,
+   "group": "fansite",
+   "filter": true
+  },
+  {
+   "id": "reddit",
+   "name": "Reddit r/GTA6 + r/GTAVI",
+   "kind": "rss",
+   "url": "https://www.reddit.com/r/GTA6+GTAVI/new/.rss",
+   "weight": 20,
+   "group": "reddit",
+   "filter": true,
+   "alert": false
+  },
+  {
+   "id": "tg_gtavistar",
+   "name": "TG @GTAVIStar",
+   "kind": "telegram",
+   "url": "https://t.me/s/GTAVIStar",
+   "weight": 35,
+   "group": "telegram_ru",
+   "filter": false
+  }
+ ],
+ "media_weights": {
+  "_about": "Вес издания внутри Google News (по названию источника). Остальные — вес ленты. Через Google News «Rockstar Games» = 0 (выключено): туда попадают старые и служебные страницы. Официальное (🔴) — только из лент group=official.",
+  "Rockstar Games": 0,
+  "Take-Two": 85,
+  "Take-Two Interactive": 85,
+  "Bloomberg": 85,
+  "GamesBeat": 75,
+  "IGN": 70,
+  "Eurogamer": 70,
+  "VGC": 70,
+  "Video Games Chronicle": 70,
+  "Kotaku": 65,
+  "PC Gamer": 65,
+  "The Verge": 65,
+  "Insider Gaming": 65,
+  "Forbes": 60,
+  "Dexerto": 60,
+  "GameSpot": 65,
+  "Polygon": 65,
+  "Rockstar INTEL": 55,
+  "RockstarINTEL": 55,
+  "GTA Boom": 45,
+  "Shazoo": 50,
+  "StopGame": 50,
+  "Игромания": 50,
+  "iXBT.games": 45,
+  "Канобу": 45,
+  "VGTimes": 40
+ }
+}

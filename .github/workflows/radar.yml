@@ -1,0 +1,53 @@
+name: radar
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"    # каждые 10 минут круглосуточно (репозиторий публичный — минуты бесплатные)
+  workflow_dispatch:         # кнопка «Run workflow» для ручного запуска
+    inputs:
+      digest:
+        description: "Прислать дайджест сейчас"
+        type: boolean
+        default: false
+      test_ai:
+        description: "Только проверить тексты GigaChat (в лог, без Telegram)"
+        type: boolean
+        default: false
+      test_post:
+        description: "Только показать 3 формата поста в логе (без Telegram)"
+        type: boolean
+        default: false
+      test_q:
+        description: "Для test_post: слово из заголовка истории"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: collect + alert
+        run: python3 radar.py ${{ inputs.digest && '--digest' || '' }} ${{ inputs.test_ai && '--test-ai' || '' }} ${{ inputs.test_post && '--test-post' || '' }}
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          GIGACHAT_AUTH_KEY: ${{ secrets.GIGACHAT_AUTH_KEY }}
+          RADAR_TEST_Q: ${{ inputs.test_q }}
+      - name: save state
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/news.json
+          if ! git diff --cached --quiet; then
+            git commit -q -m "radar $(date -u +%FT%TZ)"
+            git push -q
+          fi
