@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "6153fb756894",
+   "title": "What is he doing? Unplayable",
+   "first_seen": "2026-10-15T23:01:13Z",
+   "updated": "2026-10-15T23:01:13Z",
+   "items": [
+    {
+     "id": "6153fb756894",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What is he doing? Unplayable",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x70476/what_is_he_doing_unplayable/",
+     "ts": "2026-10-15T22:54:15Z",
+     "summary": "Possible run animation issue in the launch trailer submitted by /u/No_Fun_9350 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e5d1ea12248f",
+   "title": "Nostalgic for schizo posting",
+   "first_seen": "2026-10-15T23:01:13Z",
+   "updated": "2026-10-15T23:01:13Z",
+   "items": [
+    {
+     "id": "e5d1ea12248f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Nostalgic for schizo posting",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x705as/nostalgic_for_schizo_posting/",
+     "ts": "2026-10-15T22:55:40Z",
+     "summary": "submitted by /u/BBtheboy to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "19df64075cf8",
+   "title": "Jason's sniper rifle is a GM6 lynx. 50 calliber",
+   "first_seen": "2026-10-15T23:01:12Z",
+   "updated": "2026-10-15T23:01:12Z",
+   "items": [
+    {
+     "id": "19df64075cf8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Jason's sniper rifle is a GM6 lynx. 50 calliber",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x6zw18/jasons_sniper_rifle_is_a_gm6_lynx_50_calliber/",
+     "ts": "2026-10-15T22:44:00Z",
+     "summary": "At first i tought it was an as50, but now analizing the way he hold it revels it is the bulpup desing of the gm6 lynx submitted by /u/enzinhojunior to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4147e5382443",
    "title": "Фанаты GTA 6 придумали теорию, что третий трейлер игры выйдет 15 октября",
    "first_seen": "2026-10-14T12:17:55Z",
@@ -24107,9 +24187,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-15T22:50:44Z",
+  "last_run": "2026-10-15T23:01:13Z",
   "last_log": [
-   "rockstar_site: 0/4",
+   "rockstar_site: 0/5",
    "gnews_en: 94/100",
    "gnews_ru: 99/100",
    "gamesbeat: 0/10",
