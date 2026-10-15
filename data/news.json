@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "fe9c2482f5a1",
+   "title": "Rockstar обещает выпустить новую игру быстрее, чем через 8 лет",
+   "first_seen": "2026-10-14T12:17:55Z",
+   "updated": "2026-10-15T10:26:00Z",
+   "items": [
+    {
+     "id": "fe9c2482f5a1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Newxboxone",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar обещает выпустить новую игру быстрее, чем через 8 лет",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNF9GMDhQMkY1UXdWX0oteGhEX05YSzRNemZta0ZERnJtYm1yRFlnTFFHRGpVVmdMazhfcWliLXItM0JVTk9TTFFJWno5Zk0xR3ZyeVV4anlEV1Z4d3U1Z0FYcHNEX1RITUQ2OUYzZHRCcUJGSWkxQlJCaE5QZnQwOHFLcXF5N2IyMW51ZEIzTVBzNzFYbUJ4bmV2THVkVUVEWVE?oc=5",
+     "ts": "2026-10-14T12:10:21Z",
+     "summary": ""
+    },
+    {
+     "id": "faa7151f2a10",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Код.ру",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar пообещала выпустить следующую игру быстрее, чем GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yLWtIQTFsdjVFWDdHUHJxc2U2ajVWYjJNQi1qTTRDemk1M19XYVpuM1Zqc2tIM1VxS0RJWGx0QThHREt1bDFHTzltempydmxCenRn0gFYQVVfeXFMTTNwWHgxSUQxdy1TUTF4ZUJNZVJLd3JqUW03RTk2WHFLYUtja0V3NnpuV051d240SThnWHFLM29fMFRvc2tHSW9ncVVzTk1ld1p3YU4zZmlnLQ?oc=5",
+     "ts": "2026-10-15T05:02:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -11434,32 +11473,6 @@
    "status": "new"
   },
   {
-   "id": "fe9c2482f5a1",
-   "title": "Rockstar обещает выпустить новую игру быстрее, чем через 8 лет",
-   "first_seen": "2026-10-14T12:17:55Z",
-   "updated": "2026-10-14T12:17:55Z",
-   "items": [
-    {
-     "id": "fe9c2482f5a1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Newxboxone",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar обещает выпустить новую игру быстрее, чем через 8 лет",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNF9GMDhQMkY1UXdWX0oteGhEX05YSzRNemZta0ZERnJtYm1yRFlnTFFHRGpVVmdMazhfcWliLXItM0JVTk9TTFFJWno5Zk0xR3ZyeVV4anlEV1Z4d3U1Z0FYcHNEX1RITUQ2OUYzZHRCcUJGSWkxQlJCaE5QZnQwOHFLcXF5N2IyMW51ZEIzTVBzNzFYbUJ4bmV2THVkVUVEWVE?oc=5",
-     "ts": "2026-10-14T12:10:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "0ad6a9953fda",
    "title": "5 more weeks boys",
    "first_seen": "2026-10-14T12:17:55Z",
@@ -13737,11 +13750,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-15T10:11:31Z",
+  "last_run": "2026-10-15T10:26:00Z",
   "last_log": [
    "rockstar_site: 0/6",
    "gnews_en: 98/100",
-   "gnews_ru: 96/100",
+   "gnews_ru: 95/100",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
