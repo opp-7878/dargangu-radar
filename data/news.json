@@ -6393,7 +6393,9 @@
    "score": 100,
    "level": "PROBABLE",
    "alerted": "bootstrap",
-   "status": "new"
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
   },
   {
    "id": "d2ef9dab539b",
