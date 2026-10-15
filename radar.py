@@ -5,6 +5,7 @@
   python3 radar.py            # один проход (GitHub Actions, каждые 10 мин круглосуточно)
   python3 radar.py --dry      # без отправки в Telegram, сообщения печатаются
   python3 radar.py --digest   # принудительно отправить дайджест за 24 ч
+  python3 radar.py --test-card  # прислать в Telegram карточку с кнопками (проверка кнопок)
   python3 radar.py --test-post  # три формата поста в лог (RADAR_TEST_Q=текст — выбрать историю), без Telegram
   python3 radar.py --setup    # один раз: спросить токен бота (скрыто), найти chat id, записать секреты в GitHub
   python3 radar.py --setup-giga  # один раз: ключ GigaChat (скрыто) → проверка → секрет в GitHub → тестовый пост
@@ -757,6 +758,15 @@ def main():
         for s0 in sorted(db["stories"], key=lambda x: -x["score"])[:2]:
             s = dict(s0, ai=None, ai_fail=0)
             print(json.dumps(enrich(s) or s.get("ai_error"), ensure_ascii=False, indent=1))
+        return None
+    if "--test-card" in args:  # прислать карточку с кнопками (история по RADAR_TEST_Q), чтобы проверить кнопки
+        db = load_json(NEWS, {"stories": [], "meta": {}})
+        q = os.environ.get("RADAR_TEST_Q", "").lower()
+        pool = [x for x in db["stories"] if q in (x["title"] + json.dumps(x.get("ai") or {}, ensure_ascii=False)).lower()] or db["stories"]
+        s = max(pool, key=lambda x: x["score"])
+        enrich(s)
+        tg_send(card(s, "🧪 <b>Тест кнопок</b> — нажми любую, пост придёт за 10 минут"), dry=False, markup=buttons(s))
+        save_json(NEWS, db)
         return None
     if "--test-post" in args:  # три формата поста для главной истории (или с текстом из RADAR_TEST_Q), без Telegram
         db = load_json(NEWS, {"stories": []})

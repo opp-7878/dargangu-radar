@@ -17,6 +17,10 @@ on:
         description: "Только показать 3 формата поста в логе (без Telegram)"
         type: boolean
         default: false
+      test_card:
+        description: "Прислать в Telegram тестовую карточку с кнопками"
+        type: boolean
+        default: false
       test_q:
         description: "Для test_post: слово из заголовка истории"
         type: string
@@ -36,7 +40,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: collect + alert
-        run: python3 radar.py ${{ inputs.digest && '--digest' || '' }} ${{ inputs.test_ai && '--test-ai' || '' }} ${{ inputs.test_post && '--test-post' || '' }}
+        run: python3 radar.py ${{ inputs.digest && '--digest' || '' }} ${{ inputs.test_ai && '--test-ai' || '' }} ${{ inputs.test_post && '--test-post' || '' }} ${{ inputs.test_card && '--test-card' || '' }}
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
