@@ -771,7 +771,8 @@ def main():
         pool = [x for x in db["stories"] if q in (x["title"] + json.dumps(x.get("ai") or {}, ensure_ascii=False)).lower()] or db["stories"]
         s = max(pool, key=lambda x: x["score"])
         enrich(s)
-        tg_send(card(s, "🧪 <b>Тест кнопок</b> — нажми любую, пост придёт за 10 минут"), dry=False, markup=buttons(s))
+        mid = tg_send(card(s, "🧪 <b>Тест кнопок</b> — нажми любую, пост придёт за 10 минут"), dry=False, markup=buttons(s))
+        print("test-card: message_id =", mid, "story =", s["id"], "ai =", bool(s.get("ai")))
         save_json(NEWS, db)
         return None
     if "--test-post" in args:  # три формата поста для главной истории (или с текстом из RADAR_TEST_Q), без Telegram
