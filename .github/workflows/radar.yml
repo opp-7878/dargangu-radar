@@ -21,6 +21,10 @@ on:
         description: "Прислать в Telegram тестовую карточку с кнопками"
         type: boolean
         default: false
+      post:
+        description: "Служебное: пост по кнопке (формат:id:message_id) — вызывает webhook, руками не заполнять"
+        type: string
+        default: ""
       tg_info:
         description: "Диагностика бота: вебхук и очередь нажатий"
         type: boolean
@@ -34,7 +38,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: radar
+  group: ${{ inputs.post && format('radar-post-{0}', github.run_id) || 'radar' }}
   cancel-in-progress: false
 
 jobs:
@@ -44,13 +48,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: collect + alert
-        run: python3 radar.py ${{ inputs.digest && '--digest' || '' }} ${{ inputs.test_ai && '--test-ai' || '' }} ${{ inputs.test_post && '--test-post' || '' }} ${{ inputs.test_card && '--test-card' || '' }} ${{ inputs.tg_info && '--tg-info' || '' }}
+        run: python3 radar.py ${{ inputs.digest && '--digest' || '' }} ${{ inputs.test_ai && '--test-ai' || '' }} ${{ inputs.test_post && '--test-post' || '' }} ${{ inputs.test_card && '--test-card' || '' }} ${{ inputs.tg_info && '--tg-info' || '' }} ${{ inputs.post && '--post' || '' }}
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           GIGACHAT_AUTH_KEY: ${{ secrets.GIGACHAT_AUTH_KEY }}
           RADAR_TEST_Q: ${{ inputs.test_q }}
+          RADAR_POST: ${{ inputs.post }}
       - name: save state
+        if: ${{ !inputs.post }}
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"

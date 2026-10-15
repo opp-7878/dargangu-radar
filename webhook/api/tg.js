@@ -1,0 +1,59 @@
+// Webhook бота радара: нажатие кнопки под карточкой → сразу запускаем GitHub Actions для одного поста.
+// Секреты (только в настройках Vercel): TG_BOT_TOKEN, TG_WEBHOOK_SECRET, GH_TOKEN.
+const REPO = "opp-7878/dargangu-radar";
+const json = (body, status = 200) =>
+  new Response(JSON.stringify(body), { status, headers: { "Content-Type": "application/json", "Cache-Control": "no-store" } });
+
+export async function POST(request) {
+  const secret = process.env.TG_WEBHOOK_SECRET;
+  if (!secret || request.headers.get("x-telegram-bot-api-secret-token") !== secret) return json({ error: "unauthorized" }, 401);
+
+  let update;
+  try {
+    update = await request.json();
+  } catch {
+    return json({ ok: true });
+  }
+  const q = update.callback_query;
+  if (!q) return json({ ok: true });
+
+  const tg = (method, body) =>
+    fetch(`https://api.telegram.org/bot${process.env.TG_BOT_TOKEN}/${method}`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    });
+
+  const m = /^p:(full|flash|list):([0-9a-f]{12})$/.exec(q.data || "");
+  if (!m) {
+    await tg("answerCallbackQuery", { callback_query_id: q.id });
+    return json({ ok: true });
+  }
+  const msgId = (q.message && q.message.message_id) || 0;
+  const [res] = await Promise.all([
+    fetch(`https://api.github.com/repos/${REPO}/actions/workflows/radar.yml/dispatches`, {
+      method: "POST",
+      headers: {
+        Accept: "application/vnd.github+json",
+        Authorization: `Bearer ${process.env.GH_TOKEN}`,
+        "X-GitHub-Api-Version": "2022-11-28",
+        "Content-Type": "application/json",
+        "User-Agent": "dargangu-radar-hook",
+      },
+      body: JSON.stringify({ ref: "main", inputs: { post: `${m[1]}:${m[2]}:${msgId}` } }),
+    }),
+    tg("answerCallbackQuery", { callback_query_id: q.id, text: "Готовлю пост, 20–40 секунд…" }),
+  ]);
+  if (res.status !== 204 && q.message) {
+    await tg("sendMessage", {
+      chat_id: q.message.chat.id,
+      text: `Не удалось запустить создание поста (GitHub ответил ${res.status}). Нажми кнопку ещё раз через минуту.`,
+      reply_parameters: { message_id: msgId, allow_sending_without_reply: true },
+    });
+  }
+  return json({ ok: true });
+}
+
+export async function GET() {
+  return json({ ok: true, service: "dargangu-radar-hook" });
+}

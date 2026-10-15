@@ -5,6 +5,7 @@
   python3 radar.py            # один проход (GitHub Actions, каждые 10 мин круглосуточно)
   python3 radar.py --dry      # без отправки в Telegram, сообщения печатаются
   python3 radar.py --digest   # принудительно отправить дайджест за 24 ч
+  python3 radar.py --post       # (RADAR_POST=full:<id>:<msg>) один пост по нажатию кнопки — вызывает webhook
   python3 radar.py --test-card  # прислать в Telegram карточку с кнопками (проверка кнопок)
   python3 radar.py --test-post  # три формата поста в лог (RADAR_TEST_Q=текст — выбрать историю), без Telegram
   python3 radar.py --setup    # один раз: спросить токен бота (скрыто), найти chat id, записать секреты в GitHub
@@ -599,8 +600,8 @@ def tg_send(text, dry, markup=None, reply_to=None):
 
 def handle_buttons(db, dry):
     """Нажатия «📝 Пост / ⚡ Срочно / 📋 По пунктам» с прошлого запуска → готовим пост и шлём ответом на карточку."""
-    if dry or not os.environ.get("TG_BOT_TOKEN"):
-        return 0
+    if dry or not os.environ.get("TG_BOT_TOKEN") or os.environ.get("RADAR_POLL_BUTTONS") != "1":
+        return 0  # кнопки обрабатывает webhook на Vercel (webhook/), опрос — только как запасной режим
     try:
         d = tg_api("getUpdates", {"offset": db["meta"].get("tg_offset", 0), "timeout": 0,
                                   "allowed_updates": ["callback_query"]})
@@ -760,6 +761,30 @@ def main():
         for s0 in sorted(db["stories"], key=lambda x: -x["score"])[:2]:
             s = dict(s0, ai=None, ai_fail=0)
             print(json.dumps(enrich(s) or s.get("ai_error"), ensure_ascii=False, indent=1))
+        return None
+    if "--post" in args:  # один пост по нажатию кнопки: RADAR_POST=формат:id_истории:id_сообщения
+        m = re.fullmatch(r"(full|flash|list):([0-9a-f]{12}):(\d+)", os.environ.get("RADAR_POST", ""))
+        if not m:
+            sys.exit("RADAR_POST: ждём формат:id:message_id")
+        fmt, sid, mid = m.group(1), m.group(2), int(m.group(3)) or None
+        db = load_json(NEWS, {"stories": []})
+        s = next((x for x in db["stories"] if x["id"] == sid), None)
+        if not s:
+            tg_send("Эта новость уже удалена из базы (старше %d дней)." % KEEP_DAYS, False, reply_to=mid)
+            return None
+        post = None
+        for attempt in range(4):  # GigaChat: 1 поток, при занятости ждём
+            try:
+                post = make_post(s, fmt)
+            except Exception as e:
+                print("post error:", type(e).__name__, str(e)[:150])
+            if post:
+                break
+            time.sleep(8)
+        if post:
+            print("post sent:", tg_send(post, False, reply_to=mid))
+        else:
+            tg_send("Не получилось сделать пост (GigaChat не ответил). Нажми кнопку ещё раз через минуту.", False, reply_to=mid)
         return None
     if "--tg-info" in args:  # диагностика: вебхук и очередь обновлений бота (токен не печатается)
         print(json.dumps(tg_api("getWebhookInfo", {}), ensure_ascii=False))
