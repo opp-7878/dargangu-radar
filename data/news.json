@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-16T21:30:59Z",
+   "updated": "2026-10-16T21:40:44Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -7168,6 +7168,19 @@
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdzBZb1luZHlvdUpGZWxmeW9aQ1F5ZFU5LTlsMVNGVXF2VnV6Z2lzcDBDclMxUTFOc1dBTVVKVmhEWTdJZDlvYVlUa28yTHF0b0MtLVY4clU5MWkxTlkxMm0zc2FmRElaaFB1SXZId2hhcG9wYmoyc1Yyak5CMDJ6cw?oc=5",
      "ts": "2026-10-16T18:00:59Z",
      "summary": ""
+    },
+    {
+     "id": "374d0e44f00a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Slideshow: GTA 6 Launch Trailer Screenshots",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RMmstLWNUNHBVNVJ3bjBNMHN4aVJOR280OTRHUWxwZjFQWml2UUJQMHZCNzE0enhoekFvRExla3FuRDd5eGlQVzVQX2NtQV96enZWZHI4MWRFSng2b21oRnY3Q1c?oc=5",
+     "ts": "2026-10-16T11:56:14Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -7185,6 +7198,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "3b3f242b988f",
+   "title": "The release of GTA 6 almost here and what better way to start the weekend than with insane supercars cruising around Miami? The GTA 6 developer designed some real-world supercars to look like their in-game counterparts and showed them off around The",
+   "first_seen": "2026-10-16T21:40:44Z",
+   "updated": "2026-10-16T21:40:44Z",
+   "items": [
+    {
+     "id": "3b3f242b988f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Facebook",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The release of GTA 6 almost here and what better way to start the weekend than with insane supercars cruising around Miami? The GTA 6 developer designed some real-world supercars to look like their in-game counterparts and showed them off around The",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOHh6aTRmXzlQT3pKRmNKUkdLTFZrRDYxMXZJUWlGUXFUVkYwc01FSmNtTlNoTncxWXBmeTR1eTdEQ0FQZHZoaFlaY3oybW4tM3VwRmVJOFJDdmpWdTFQUUVFLWFKYmpJcjlMUDA4bnBDVTBTRWljaTlGSUh5d0tCQS15ZXl3N1pING5tbVVORGtmNk5FWndycklzcDVkaXhqMGVtT3JzZkRjenIxbmtweWFGSTFHMTZDSXQ2amNUV2wzdUYzTFJZRnRLRG0zVGJQSWxsTFJLcU50QTZMQjJnaQ?oc=5",
+     "ts": "2026-10-16T17:25:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -31340,11 +31379,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T21:30:59Z",
+  "last_run": "2026-10-16T21:40:44Z",
   "last_log": [
-   "rockstar_site: 0/4",
+   "rockstar_site: 0/3",
    "gnews_en: 100/100",
-   "gnews_ru: 78/80",
+   "gnews_ru: 76/78",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 1/10",
