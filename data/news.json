@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "947dcc09776c",
+   "title": "Sony вложила миллионы в маркетинг GTA 6 для PS5",
+   "first_seen": "2026-10-16T14:10:46Z",
+   "updated": "2026-10-16T14:10:46Z",
+   "items": [
+    {
+     "id": "947dcc09776c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://dungen.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Sony вложила миллионы в маркетинг GTA 6 для PS5",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16Z09aakNNc3Joc3hTQU9fYjBrdWFKbC1tWGtfUHo2SXQ3MEZpb2dLcXBoMnJ5eEJvcmFHWGFKTW8wcDBqY1Jmbm5lY011NjFxUTZoQ2xwa3lPUG5vUEE?oc=5",
+     "ts": "2026-10-16T14:01:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -28679,12 +28705,12 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T14:01:15Z",
+  "last_run": "2026-10-16T14:10:46Z",
   "last_log": [
-   "rockstar_site: 0/3",
-   "gnews_en: 98/100",
-   "gnews_ru: 97/99",
-   "⚠️ gamesbeat: Remote end closed connection without response",
+   "rockstar_site: 0/2",
+   "gnews_en: 97/100",
+   "gnews_ru: 94/96",
+   "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 1/10",
    "ign: 1/20",
