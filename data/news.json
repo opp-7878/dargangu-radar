@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "d7c728c3c328",
+   "title": "\"Сотни доступных локаций и интерьеров для исследования\": Роб Нельсон рассказал о наполнении открытого мира в GTA 6",
+   "first_seen": "2026-10-16T20:30:57Z",
+   "updated": "2026-10-16T20:30:57Z",
+   "items": [
+    {
+     "id": "d7c728c3c328",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "\"Сотни доступных локаций и интерьеров для исследования\": Роб Нельсон рассказал о наполнении открытого мира в GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZFBSLVd0dHdjRmZuUXFIRmpkVzRSVzE0bERmMnljcWwwNGRldWtQRzRZVmdVdERwWk9Td3pDMVlKU1ZlZDhVT0RXTTVtd2dOVDJuTzhydVk2X1NJLXN2WC03bUFMRmh2a2xhanVuaHI0Tm9lSVF2RjkxOVJzUXN0VzQzWGZNemdEZ0ZTLUNpQ0xycTBLTDBzZVpnTy1Da2pFbXZ2cWNuWjBGLVN1YjdtbFlFcTVaUHNYbDFTMU1rZzQ4cE5IRUp5b2Iza2hzQWgwMlVIV2dJU2FPSTBQUGs5aGVLbnBkcGJwNDFSRGFR?oc=5",
+     "ts": "2026-10-16T20:19:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1b423f1b913c",
+   "title": "There’s No Conspiracy For GTA VI To Be In The Game Awards",
+   "first_seen": "2026-10-16T20:30:57Z",
+   "updated": "2026-10-16T20:30:57Z",
+   "items": [
+    {
+     "id": "1b423f1b913c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Aftermath",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "There’s No Conspiracy For GTA VI To Be In The Game Awards",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCOUpsclcwa2tiaDhBbjZGLTFCOHZ2TjZFSUk5ZzB1UnV4bDhyT1QwQmVPc19TUEs5U3JHalhWY25Bc1BKcmtYaHJwNm5kMTNObThJRl8yNC12c21CTTNZ?oc=5",
+     "ts": "2026-10-16T20:25:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "308dcffd19c0",
+   "title": "All The Records GTA 6 Will Break, We Think",
+   "first_seen": "2026-10-16T20:30:57Z",
+   "updated": "2026-10-16T20:30:57Z",
+   "items": [
+    {
+     "id": "308dcffd19c0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "All The Records GTA 6 Will Break, We Think",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQkZlZTJNOXh5Q2xZdjVHb2NDVHBaUjVQcTBCZ21hckY3MW1XYmVEbmVlWTJiY0pxd3hNZjRNNEFGTkRoYW1meHgwZXQzZlVQMEIzd0NsZC1lNDZIaFF0ZzlJZXNmU0pEbmZpcmdMeVRfWXJ1VExDZkNyMGZfVzJfRU9B?oc=5",
+     "ts": "2026-10-16T20:28:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -30957,11 +31035,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T20:20:45Z",
+  "last_run": "2026-10-16T20:30:57Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 100/100",
-   "gnews_ru: 71/73",
+   "gnews_ru: 73/75",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 1/10",
