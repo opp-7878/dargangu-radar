@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-16T21:01:11Z",
+   "updated": "2026-10-16T21:10:45Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -7129,6 +7129,19 @@
      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQVFidWwtSkE2T2Q0bV9LYlVDXzZVR0F3QUg3WlJSYXZVMWVSamZIa1FWUGVJbEVhQkxIbW1oMVBqRU1ndjNMQndwSXp2TGpYZzBZUTZvcXBKbkhsM1RUb1JZTWhxRTM3cC1SYWg4aGhhZXlmVGNTWGZhTHRVQkx5TTlnd3pNQ1lOSjZnelM5LXZxaVowWllLRDdYYmJWemFFT0lfcFVwTmhpSXdQcDFhb1lUaml1ZWJHLXM1eWJDd3p2V0ZuUFZEZWR3akktYjlWRF9qQlJkSDdPOU1qVExVTk03QmdGQmxxM1d2bkY3M2JaNEhSM213d0VpR0TSAfwBQVVfeXFMTkFRYnVsLUpBNk9kNG1fS2JVQ182VUdBd0FIN1pSUmF2VTFlUmpmSGtRVlBlSWxFYUJMSG1taDFQakVNZ3YzTEJ3cEl6dkxqWGcwWVE2b3FwSm5IbDNUVG9SWU1ocUUzN3AtUmFoOGhoYWV5ZlRjU1hmYUx0VUJMeU05Z3d6TUNZTko2Z3pTOS12cWlaMFpZS0Q3WGJiVnphRU9JX3BVcE5oaUl3UHAxYW9ZVGppdWViRy1zNXliQ3d6dldGblBWRGVkd2pJLWI5VkRfakJSZEg3TzlNalRMVU5NN0JnRkJscTNXdm5GNzNiWjRIUjNtd3dFaUdE?oc=5",
      "ts": "2026-10-16T19:28:05Z",
      "summary": ""
+    },
+    {
+     "id": "f62644b775cf",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 на ПК, новая игра авторов Disco Elysium: новости недели Медиа VK Play",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSllka2JPUm9INzhTdjdWdWNPMUtxVlFqS3A3YWJMVEdiVktmSzk1SmQxUElGVy1iM0VqOF9IcFdkb0NpZU1iY1M3MFlMMl80UlFQMEVsMnVWQXpmS1p5T2ZObGQybWw5RE9jWWFvY2lDYmxmUjg0eDBfdURjTjQydi1yMzF2aDRBWm1ONEYyb21yNU8yYWxOcC1lZXlCM1Q1VHlrNEYtbw?oc=5",
+     "ts": "2026-10-16T12:16:39Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -7146,6 +7159,34 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "8d0308220bce",
+   "title": "«Экран вазелином намазали?»: геймеры разочарованы релизным трейлером GTA 6",
+   "first_seen": "2026-10-16T21:10:45Z",
+   "updated": "2026-10-16T21:10:45Z",
+   "items": [
+    {
+     "id": "8d0308220bce",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Экран вазелином намазали?»: геймеры разочарованы релизным трейлером GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejBzMXkzblllaXdneWl3X1UyN3RucDFGYkljOWc5MzJRWlYzSG55YU1iT1lfMmRyYUNXbzU0eW8xT3o1THUycWthOHBEY2ZBWUlOOWlBbnZ1bkVGSjlPMVZQdjZZQmx6NVVfYkw1TWlienNUZHhFc2hfZnAwa0t0dGxNNVRaMkNyc0Q1dWpsNlVnRTZCT3pYQWlpVDloS2FWMExB?oc=5",
+     "ts": "2026-10-16T09:30:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -31195,9 +31236,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T21:01:11Z",
+  "last_run": "2026-10-16T21:10:45Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/4",
    "gnews_en: 100/100",
    "gnews_ru: 74/76",
    "gamesbeat: 0/10",
