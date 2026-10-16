@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "ca9064e579e2",
-   "title": "«Разрушает душу»: брянский депутат выступил против GTA 6",
-   "first_seen": "2026-10-16T06:31:01Z",
-   "updated": "2026-10-16T06:31:01Z",
-   "items": [
-    {
-     "id": "ca9064e579e2",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Брянская Губерния",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Разрушает душу»: брянский депутат выступил против GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BeXdnQ0luTDJwazRRNFJRRnNnTUgwUnZwY3M4TXVSTkNUcjNLMGtJU0x0S0F1bHNnYUdBY2FpbDV6LVVHNG1tWktkV3p0a1U?oc=5",
-     "ts": "2026-10-16T05:35:58Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-16T06:20:47Z",
+   "updated": "2026-10-16T06:40:44Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -5842,6 +5816,19 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1x78ast/still_no_boobie_ike_sighting/",
      "ts": "2026-10-16T05:57:43Z",
      "summary": "Rockstar has still yet to show any footage of Boobie Ike, but yet he's on the cover of the game. Why do I feel like his character is one of the most important? submitted by /u/mark84g5 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "85b6ade8a011",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Topeka Capital-Journal",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "New GTA 6 trailer gives fans another look at gaming's biggest release",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1d6R285MFR2SjFzWWh2d2xxUnFfckRrdlBmYkR0MW56c1VucWl2SmJ0MGRuVGxNMjdKTy16WXZVYUFWUWVfQXJudDZFczVURUNqR0loeVVSZ0xjN3I2VDVvOEdQZ1lpdnNKNnJ2TlQwWmNzYkZ5OXktaTFCUnJWbWJERHdVdFh5aElBSVptZ2RRcEtSU1lxQ2FmeWZpQVduSFFmSlM3ZUVWVlQzVGVaTHdXRQ?oc=5",
+     "ts": "2026-10-15T18:40:55Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -5859,6 +5846,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "ca9064e579e2",
+   "title": "«Разрушает душу»: брянский депутат выступил против GTA 6",
+   "first_seen": "2026-10-16T06:31:01Z",
+   "updated": "2026-10-16T06:31:01Z",
+   "items": [
+    {
+     "id": "ca9064e579e2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Брянская Губерния",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Разрушает душу»: брянский депутат выступил против GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BeXdnQ0luTDJwazRRNFJRRnNnTUgwUnZwY3M4TXVSTkNUcjNLMGtJU0x0S0F1bHNnYUdBY2FpbDV6LVVHNG1tWktkV3p0a1U?oc=5",
+     "ts": "2026-10-16T05:35:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -25719,7 +25732,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T06:31:01Z",
+  "last_run": "2026-10-16T06:40:44Z",
   "last_log": [
    "rockstar_site: 0/6",
    "gnews_en: 94/100",
@@ -25732,7 +25745,7 @@
    "dexerto_gta: 5/50",
    "rockstarintel: 8/10",
    "gtaboom: 10/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 11/11"
   ],
   "digest": "2026-10-15",
