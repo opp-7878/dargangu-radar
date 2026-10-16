@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-16T16:50:42Z",
+   "updated": "2026-10-16T17:01:12Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -6817,6 +6817,32 @@
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTBzdlk5STJvV2trVUVJYWl5dm9RQURISnpWVUJTXzNJR2l5ZHpmUmVycVluM2NBN2hFc0RGakxxQ3ctVGNyZG9ERnFfXzJHclJTUk5WOFZRelVBS1o3VWlSRi1aY3lqUlBRSjJBeW1VcTg0QmxaTEJISVRZWGp2SHZyRFcxMWZvblFnRlltdmRSNnZP?oc=5",
      "ts": "2026-10-16T05:10:18Z",
      "summary": ""
+    },
+    {
+     "id": "7f2c0737d741",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Digital Foundry",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Launch Trailer Analysis: Has a Long-Standing Tech Issue Been Fixed?",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGEzX2NOWlJnbU94aVl6ZndReTQtdW1wXzBxdXFfLU53eEZNUEpzSk9iZTZTWW15ajhYQ3VkZk5Bb1R6dllteFlCQTlHQlFOQUF4QXFMWEZmN1Ywbi1fRk1qSEJsSFE2U0loQ0pibmRQaW1WQ0UwUjJ3NEtpZ0ctSC1wR2JnbDM4d1M3SlphbjJpRlJTUTJqSV9TMnduc2NETFJ4Wk1aZE1rRGluazFieg?oc=5",
+     "ts": "2026-10-16T16:04:00Z",
+     "summary": ""
+    },
+    {
+     "id": "b128c1c2f7b7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Релизный трейлер GTA 6 высоко оценили эксперты Digital Foundry",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbGN1TVFsMlJuWUxRX0VVUmNfUy1aU2FoQ0pYOURBcWZDd2RJRjR0eXJzVTZZaHRULU90d3hrQTlNRjFWT1o0N2Qtc2N6bDVPQ2VUV3ZGOEdYdUNyUm1nYVZ4b0Z4em9fY3dTN2Y3M00tRVdxaURuWXVhMy10WjZIaUo5V3F6aVQ1djQ2cmZHcWJNV1dONnJQY1RieGpCUjBPZWtva3FyT2YtM1lmUWdHVWhxaVlpYnlJb3plZzRFSDM?oc=5",
+     "ts": "2026-10-16T16:52:04Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -6834,6 +6860,35 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "efe0b7657b3e",
+   "title": "GTA VI: the game delayed yet again... Discover the new trailer!",
+   "first_seen": "2026-10-16T17:01:12Z",
+   "updated": "2026-10-16T17:01:12Z",
+   "items": [
+    {
+     "id": "efe0b7657b3e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Sortir à Paris",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI: the game delayed yet again... Discover the new trailer!",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNFJTSlZEbVI3QjFnZ1hpcW45cWd5RThhNnl5dkt0Q1pHQXhwVXQtUzVfSEpnUkN1ZVdfOEp0R3RXVG1GaWVXN200dEU3M0hWVjRMLVdmSG9ITklPdjdIb3ktZUQtck5ZMFNlYklnTlYwZ05EaVZsMVlmUDl6X2NGbDJacXN5VXBiOTdfNnh6RHBrR3RUU0dNcC12SXBsbkl2c29sN0VDRlFySmh3OGhWYjFXblJhU0F0dzctWTFpTHgxdVhKVXZRU09JSjhVMHhnT0E?oc=5",
+     "ts": "2026-10-16T16:55:56Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос",
+    "трейлер"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -29795,15 +29850,15 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T16:50:42Z",
+  "last_run": "2026-10-16T17:01:12Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 100/100",
-   "gnews_ru: 82/84",
+   "gnews_ru: 81/83",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 1/10",
-   "ign: 1/20",
+   "ign: 0/20",
    "eurogamer: 3/100",
    "dexerto_gta: 2/50",
    "rockstarintel: 4/10",
