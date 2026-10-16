@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-16T19:40:50Z",
+   "updated": "2026-10-16T19:50:45Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -7038,6 +7038,19 @@
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbHBFQWFZZUJpTDhwRUdqWlk5ZGpaUEhVeUkwM0JLWmdJaTg1NkRCZDZuZmtyTms3bm9sNGtUZUdWbWNiZGt1NUVOVWNQOWhqNl9XRHFJeXhrWFNlU1duX3pCNkhMaElvU2gtT0d0M3JiemJUTUFjT3pEZU04Qm1zY0VwbUJscUZrLWlRTWpxUzl6X1plaVF2cUh0M0xrZWI4cUJCZjVmU3ZPWEdXZGdIWFR5emZVd213NmF4d1ZnRkd2RGZuZVoyUHZsbXdCVnJ0Tk9TNHIzemlMbzlnY2lza1JISTdmQkR0SUtBNjBzenVqbngxV1M40gH8AUFVX3lxTE5BUWJ1bC1KQTZPZDRtX0tiVUNfNlVHQXdBSDdaUlJhdlUxZVJqZkhrUVZQZUlsRWFCTEhtbWgxUGpFTWd2M0xCd3BJenZMalhnMFlRNm9xcEpuSGwzVFRvUllNaHFFMzdwLVJhaDhoaGFleWZUY1NYZmFMdFVCTHlNOWd3ek1DWU5KNmd6UzktdnFpWjBaWUtEN1hiYlZ6YUVPSV9wVXBOaGlJd1BwMWFvWVRqaXVlYkctczV5YkN3enZXRm5QVkRlZHdqSS1iOVZEX2pCUmRIN085TWpUTFVOTTdCZ0ZCbHEzV3ZuRjczYlo0SFIzbXd3RWlHRA?oc=5",
      "ts": "2026-10-16T19:28:05Z",
      "summary": ""
+    },
+    {
+     "id": "7fa6385224f1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Flower in a Hurricane (from the launch trailer) original solo",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x7pxu2/flower_in_a_hurricane_from_the_launch_trailer/",
+     "ts": "2026-10-16T19:43:07Z",
+     "summary": "Dude this song is so good Rockstar has literally sold it’s soul to the devil for their music taste Also THIS IS NOT SELF PROMOTION, I’m a fan and I loved the guitar in this song and it inspired me and it’s literally my mom recording me, I AM HYPED!!!! submitted by /u/smilysmit to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [
@@ -7055,6 +7068,34 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "a77178d42197",
+   "title": "Costco Members Can Save $10 On Grand Theft Auto 6 For PlayStation 5 - Here's How",
+   "first_seen": "2026-10-16T19:50:45Z",
+   "updated": "2026-10-16T19:50:45Z",
+   "items": [
+    {
+     "id": "a77178d42197",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BGR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Costco Members Can Save $10 On Grand Theft Auto 6 For PlayStation 5 - Here's How",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZG5SQi12NkE0eTBLWVI5T0NEaDRtSFh4U1puNWM0N2NqX1NKcXA4XzFzS1Fra056TWFFdGliLVR3MmY3akdnN0NZZXhFR1dXdk02SEVnbmc2SHJiUFJPMThDcW5odjcwZjZhcGFHN2tjVWpURkRjb3pic2dwdWtsMWR0d0JFZw?oc=5",
+     "ts": "2026-10-16T19:32:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -30769,11 +30810,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T19:40:50Z",
+  "last_run": "2026-10-16T19:50:45Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 100/100",
-   "gnews_ru: 71/73",
+   "gnews_ru: 72/74",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 1/10",
@@ -30782,7 +30823,7 @@
    "dexerto_gta: 2/50",
    "rockstarintel: 4/10",
    "gtaboom: 7/30",
-   "reddit: 22/25",
+   "reddit: 23/25",
    "tg_gtavistar: 5/12"
   ],
   "digest": "2026-10-16",
