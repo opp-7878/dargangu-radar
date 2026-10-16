@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "de17d649c41b",
+   "title": "The best GTA 6 deals on PS5 and Xbox",
+   "first_seen": "2026-10-16T18:40:45Z",
+   "updated": "2026-10-16T18:40:45Z",
+   "items": [
+    {
+     "id": "de17d649c41b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Digital Spy",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The best GTA 6 deals on PS5 and Xbox",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkRGdETE16cDZBeGZGb2ZVQnJ0X29MbjNJWV81QVpPd3hNT0FXMnF0WHZDcTI3LTIxRGJ0TjR2N04xZGhPNkJFQktoU0MtTzA1NEN6RGtMU1BROW9LT2N4T3Fn?oc=5",
+     "ts": "2026-10-16T15:04:14Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "04b85f0cd518",
+   "title": "DF: новый трейлер GTA 6 лишен 20-летней проблемы игр Rockstar",
+   "first_seen": "2026-10-16T18:40:45Z",
+   "updated": "2026-10-16T18:40:45Z",
+   "items": [
+    {
+     "id": "04b85f0cd518",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "WTFTime.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "DF: новый трейлер GTA 6 лишен 20-летней проблемы игр Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUVFalVkYVdNNTRUbU9JV3JGYVl5bDNLT1duYVFyc0NESnNsN2ZPZkZQODd4Z3BvTWRhZzVYVG1aQnFkZDR4VTJFMG04cTN0M256NFpfWnN5eU9KLTFEWXFTdG96N0ZxMy1fOW5fRC1VWHVOQ09wM3BuQUNaZFdjRjFtRFNYVEhGblBRVEN6TzFmTEw5eW44M0ZGcjNGZw?oc=5",
+     "ts": "2026-10-16T18:36:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "3a90cf9f70d0",
    "title": "Behind the Scenes of ‘Grand Theft Auto VI’",
    "first_seen": "2026-10-16T17:10:43Z",
@@ -30531,11 +30585,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T18:31:09Z",
+  "last_run": "2026-10-16T18:40:45Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 100/100",
-   "gnews_ru: 73/75",
+   "gnews_ru: 74/76",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 1/10",
