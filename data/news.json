@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "f3f4db1aae4e",
+   "title": "New US Proposal Could Change What Buying GTA 6 Actually Means",
+   "first_seen": "2026-10-16T00:10:52Z",
+   "updated": "2026-10-16T00:10:52Z",
+   "items": [
+    {
+     "id": "f3f4db1aae4e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "New US Proposal Could Change What Buying GTA 6 Actually Means",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlU0dlduTGJmZlE5THQ1MXVkSFJnVndjR19wSzNQSFAxY0VoVFZHbTZWRU55NXh1NVlsQzRQRmd0VEd4Y0NBVnkyTmVMaHhVR1ZOWTRrMWtiSFhHTW5qMVY1aW85UGJxQk9YckhhWDdQOXVEZ0FiV0x0eTZtVVN6Uy1Pc0lJUWROTXJ2b1dVang?oc=5",
+     "ts": "2026-10-16T00:08:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1b7cb14fab69",
+   "title": "A US Congressman Wants to Make Buying GTA 6 Mean Owning It",
+   "first_seen": "2026-10-16T00:10:51Z",
+   "updated": "2026-10-16T00:10:51Z",
+   "items": [
+    {
+     "id": "1b7cb14fab69",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "A US Congressman Wants to Make Buying GTA 6 Mean Owning It",
+     "url": "https://www.gtaboom.com/a-us-congressman-wants-to-make-buying-gta-6-mean-owning-it-3e21",
+     "ts": "2026-10-16T00:07:56Z",
+     "summary": "The proposed Power to the Players Act would make digital Grand Theft Auto VI purchases owned and transferable, with offline play after servers close."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4147e5382443",
    "title": "Фанаты GTA 6 придумали теорию, что третий трейлер игры выйдет 15 октября",
    "first_seen": "2026-10-14T12:17:55Z",
@@ -24410,9 +24462,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T00:01:21Z",
+  "last_run": "2026-10-16T00:10:52Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/4",
    "gnews_en: 94/100",
    "gnews_ru: 99/100",
    "gamesbeat: 0/10",
@@ -24422,7 +24474,7 @@
    "eurogamer: 6/100",
    "dexerto_gta: 5/50",
    "rockstarintel: 8/10",
-   "gtaboom: 11/30",
+   "gtaboom: 12/30",
    "reddit: 21/25",
    "tg_gtavistar: 11/11"
   ],
