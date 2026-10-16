@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-16T06:50:43Z",
+   "updated": "2026-10-16T07:01:11Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -5842,6 +5842,32 @@
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pYWY4ZVBfTTE4UDB2aVFYa09TQVNXSC1mWE9VMjlrdWxCS0FhOERHbDU5SjFpaGdPdHJNTkpWOGR0SW82X2xiZ3NPd3FUTFlZUE5Oa2ZqaWQ?oc=5",
      "ts": "2026-10-16T05:13:41Z",
      "summary": ""
+    },
+    {
+     "id": "87f78471108f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The evolution of Jason: From the first trailer to the launch trailer. What do you think of the new look?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x79380/the_evolution_of_jason_from_the_first_trailer_to/",
+     "ts": "2026-10-16T06:45:58Z",
+     "summary": "submitted by /u/The_name_is_7725 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "e65a6e1e866a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The evolution of Jason: From the first trailer to the launch trailer. What do you think of the new look?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x7972g/the_evolution_of_jason_from_the_first_trailer_to/",
+     "ts": "2026-10-16T06:52:29Z",
+     "summary": "submitted by /u/The_name_is_7725 to r/GTAVI [link] [comments]"
     }
    ],
    "tags": [
@@ -5859,6 +5885,62 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "a3b2dbd082cd",
+   "title": "would you rather?",
+   "first_seen": "2026-10-16T07:01:11Z",
+   "updated": "2026-10-16T07:01:11Z",
+   "items": [
+    {
+     "id": "a3b2dbd082cd",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "would you rather?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x796kl/would_you_rather/",
+     "ts": "2026-10-16T06:51:40Z",
+     "summary": "GTA 6 ultimate edition or every currently released piece of merch (magazines, controller, collectors box, etc) but you get the standard edition and you can't upgrade for at least a year? I personally would pick the ultimate edition, because the merch is cool, but isn't appealing that much for me. but what about you? submitted by /u/Artistic_Garage5978 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "54c09401c851",
+   "title": "The \"Flashback Theory\": Jason and Lucia might be younger in this scene, showing their relationship before Lucia's release from jail; here is why:",
+   "first_seen": "2026-10-16T07:01:11Z",
+   "updated": "2026-10-16T07:01:11Z",
+   "items": [
+    {
+     "id": "54c09401c851",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The \"Flashback Theory\": Jason and Lucia might be younger in this scene, showing their relationship before Lucia's release from jail; here is why:",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x798vx/the_flashback_theory_jason_and_lucia_might_be/",
+     "ts": "2026-10-16T06:55:47Z",
+     "summary": "The Theory Breakdown by the content creator TGG: The Age Factor: Several community members, including the creator Frog, have noted that the character models in this specific car sequence appear noticeably younger than in other parts of the trailer, suggesting this is a flashback. The Army Shirt Clue: Jason is wearing a US Army Marauder Combat Training School t-shirt. The creator points out that this is highly unusual since the game establishes Jason was dishonorably discharged and left the military on poor terms. It is unlikely he would continue to wear such specific branding unless the footag"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -25745,9 +25827,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T06:50:43Z",
+  "last_run": "2026-10-16T07:01:11Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/6",
    "gnews_en: 94/100",
    "gnews_ru: 99/100",
    "gamesbeat: 0/10",
@@ -25758,7 +25840,7 @@
    "dexerto_gta: 5/50",
    "rockstarintel: 8/10",
    "gtaboom: 10/30",
-   "reddit: 23/25",
+   "reddit: 24/25",
    "tg_gtavistar: 11/11"
   ],
   "digest": "2026-10-15",
