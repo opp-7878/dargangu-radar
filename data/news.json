@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "ca9064e579e2",
+   "title": "«Разрушает душу»: брянский депутат выступил против GTA 6",
+   "first_seen": "2026-10-16T06:31:01Z",
+   "updated": "2026-10-16T06:31:01Z",
+   "items": [
+    {
+     "id": "ca9064e579e2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Брянская Губерния",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Разрушает душу»: брянский депутат выступил против GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BeXdnQ0luTDJwazRRNFJRRnNnTUgwUnZwY3M4TXVSTkNUcjNLMGtJU0x0S0F1bHNnYUdBY2FpbDV6LVVHNG1tWktkV3p0a1U?oc=5",
+     "ts": "2026-10-16T05:35:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -25693,11 +25719,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T06:20:47Z",
+  "last_run": "2026-10-16T06:31:01Z",
   "last_log": [
    "rockstar_site: 0/6",
    "gnews_en: 94/100",
-   "gnews_ru: 98/100",
+   "gnews_ru: 99/100",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
