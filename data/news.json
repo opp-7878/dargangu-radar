@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-16T05:10:45Z",
+   "updated": "2026-10-16T05:20:46Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -5751,6 +5751,19 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3Z2VzNYaUpxSEwwSEFCM25vQ3BPbGZJNTF5QU9JY0dyX292c3dHdTRxWFV0R3NFNFZjMzBtSC00TG9Fb2RHSWt0eGZseDRlS2RISUM5UGNQMktLTGRjMmJsa0p1bmt3a1pHYlNJTE4yRTNZZk5aWTFxNE5YVDhXbm5aWDNWQQ?oc=5",
      "ts": "2026-10-16T04:58:00Z",
      "summary": ""
+    },
+    {
+     "id": "e7f0da345231",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Vietnam.vn",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Компания Rockstar выпустила официальный трейлер к запуску GTA 6.",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZkxkRG5wZTZWUHpNdDBGOFJMWnpDR3M5NElmYXZHUjBfR1E3V2tfNm92UF91TWxhYzZ3bzUzeWc2YUtvakpQS3VlcDl6anhWRjNmR1NjbmJlOF9xUlFpdUg2LW9LUGRoLXJNUmkyMnFhcUlaTU53XzVodEtYaHJ5dA?oc=5",
+     "ts": "2026-10-16T04:05:26Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -5768,6 +5781,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "17668208eef6",
+   "title": "The real life GTA 6 cars are a Rockstar and West Coast Customs collaboration",
+   "first_seen": "2026-10-16T05:20:46Z",
+   "updated": "2026-10-16T05:20:46Z",
+   "items": [
+    {
+     "id": "17668208eef6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The real life GTA 6 cars are a Rockstar and West Coast Customs collaboration",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x77iy7/the_real_life_gta_6_cars_are_a_rockstar_and_west/",
+     "ts": "2026-10-16T05:10:52Z",
+     "summary": "West Coast Customs previously created a real life Banshee for GTA 5 in 2013. submitted by /u/gtawiki to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -25379,7 +25418,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T05:10:45Z",
+  "last_run": "2026-10-16T05:20:46Z",
   "last_log": [
    "rockstar_site: 0/6",
    "gnews_en: 94/100",
