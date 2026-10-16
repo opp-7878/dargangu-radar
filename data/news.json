@@ -1,124 +1,10 @@
 {
  "stories": [
   {
-   "id": "9f6d07270b54",
-   "title": "Real-Life GTA 6 Cars Spotted in Miami",
-   "first_seen": "2026-10-16T03:50:44Z",
-   "updated": "2026-10-16T18:20:47Z",
-   "items": [
-    {
-     "id": "9f6d07270b54",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Real-life versions of GTA 6 cars have been spotted in Miami",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x7609v/reallife_versions_of_gta_6_cars_have_been_spotted/",
-     "ts": "2026-10-16T03:45:58Z",
-     "summary": "Cars featured, in order: Manana , Buccaneer , Tempesta , Cheetah , Coquette D10 , Emerus submitted by /u/gtawiki to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "ef164e2a5b85",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Real-Life GTA 6 Cars Spotted in Miami",
-     "url": "https://insider-gaming.com/real-life-gta-6-cars-spotted-in-miami/",
-     "ts": "2026-10-16T09:30:00Z",
-     "summary": "Real-life cars from Grand Theft Auto 6 have taken to the streets in Miami as Rockstar Games' advertising steps up further. The post Real-Life GTA 6 Cars Spotted in Miami appeared first on Insider Gaming ."
-    },
-    {
-     "id": "66ee5c663ebc",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Another look at GTA 6 cars remade in real life",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x7cr5j/another_look_at_gta_6_cars_remade_in_real_life/",
-     "ts": "2026-10-16T10:35:42Z",
-     "summary": "submitted by /u/meechCS to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "44e3fc51c1c5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Real-Life GTA 6 Cars Spotted in Miami",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xbGhrWldnR2tWczZPSS1GYkE0MXc4dnZPckVpeE5EbjJwemVYbkFtUi04UHowY2tEd09selotVTFJUDM0eUc2cFJwakR5R0g5MkdidFExYWN1MlNmSXVodl90ckRKRURlRlNqa1FQdFBQeGc?oc=5",
-     "ts": "2026-10-16T09:30:00Z",
-     "summary": ""
-    },
-    {
-     "id": "b6b43fa684d3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Push Square",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0lDajFEMEZUQzBrd0o0UHlwUWRXREpsQWVMWmsyb1phSS1pVXp1N2ljelNfaXdTYjF6dzFoemtreGpHNHBZRGVhVmZtZnU3X0NWOG5IRS1VaXRrR2JvY05zYW9RNE5aR0pwT3Z4REdacXBNT3NhSDBRb0M3eHBjM1hqUTMzcEp4SkQ3TDlwMTJSS3F1cjJGSmp6RmExLXpsUUZlMmNSY0tMWmhtRWc?oc=5",
-     "ts": "2026-10-16T11:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "1fe5d5e05128",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Gadget Review",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Sends GTA 6’s In-Game Cars Through Real Miami Streets",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWF2aGhxRGoybHVOZkhtci1kbU05QzBNaEkzdDJtWEV5Qkl3cjFSRVFySHJRV3pXUDZOUGcxWHFqblFYOVJEQ2hkcHBJSk5zZTNnUjJKQkdlVlhNd1lVTkJhTmlVTTYxMUVlbktmVEtmSGVxV0MxVjlVQkRGbGt4SlprY1Z6cGt5TzBwNHNDM3ZKWGRw?oc=5",
-     "ts": "2026-10-16T17:42:35Z",
-     "summary": ""
-    },
-    {
-     "id": "75cea553a90f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Sends GTA 6’s In-Game Cars Through Real Miami Streets",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGhzMjZPQ1h2TkFOa1BrdUlodmppaWE4MWxuM3dQZ3pONF9JeWxhbHVPV3lHS2lMMFBvd1A4bW10X0hnOHhWMUprbW9Ub2NvTXV5M1N6alN3UGZWamV1S2tpUGxlOUltRlV5ZXF1OFNtQU80Uk8yVTRCVlFWWlVIelkxZUdRQTJJbnFSNGVMcFY4V2U5dXhJ?oc=5",
-     "ts": "2026-10-16T17:42:35Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 Машины GTA 6 выехали на улицы Майами: фото и список",
-    "summary": "По данным Insider Gaming и постам на Reddit, в Майами заметили реальные версии машин из GTA 6. Среди них Manana, Buccaneer, Tempesta, Cheetah, Coquette D10 и Emerus — фанаты публикуют фото и обсуждают детали.",
-    "idea": "Короткая уличная нарезка с реальными машинами из GTA 6 и титрами моделей — зрителю интересно узнать полный список и как это выглядит вживую.",
-    "hook": "Реальные машины GTA 6 ездят по Майами — вот полный список моделей.",
-    "stars": 3,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-16T11:01:21Z"
-   },
-   "msg_id": 94
-  },
-  {
    "id": "3a90cf9f70d0",
    "title": "Behind the Scenes of ‘Grand Theft Auto VI’",
    "first_seen": "2026-10-16T17:10:43Z",
-   "updated": "2026-10-16T18:20:47Z",
+   "updated": "2026-10-16T18:31:03Z",
    "items": [
     {
      "id": "3a90cf9f70d0",
@@ -145,6 +31,19 @@
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdld6Nm5GdGtNZXNOazNfUEJkZVJrTi1LaWNsc0h2WkEySWpkcnNWVEMzLWNwWVdwOVUwUl9xaUNwdUtOUjNicmVER09OM3pwZm1vOVlfRU9sRlR3QnVaRlRFZnV2N1dRdjV1bkpSR0ZkUjhJamQ5UDBHRlFkUEl1cU9zUTdyeGdkSkxORllCQTB5QVdRNEhWdDlR?oc=5",
      "ts": "2026-10-16T17:01:07Z",
      "summary": ""
+    },
+    {
+     "id": "b9e9dc0e8314",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Bloomberg.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Behind the Scenes of ‘Grand Theft Auto VI’",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOUN2UGpOV0dxVmQ0dHJsWXBabWlCUGduLW1zSkppdzd0RjJaa0JxYmpJU1o4MkpNSzR2aTlnLWZLa2FEVEdMSmttOHdjVTloTTBXOWZpak1RMGVnanhjVnRXU3RRNUVpXzZhVHRUU2JjWjNjYnJXMGtqYkpGNzlJMTlCb0doY055YnFaME5HOW15ZDR1eG1HRk9VNl9MalRabno2VGY0dFh4N2pFNUxIN2x1OA?oc=5",
+     "ts": "2026-10-16T17:01:07Z",
+     "summary": ""
     }
    ],
    "tags": [],
@@ -154,124 +53,10 @@
    "status": "new"
   },
   {
-   "id": "7b27c547a742",
-   "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-   "first_seen": "2026-10-15T11:40:43Z",
-   "updated": "2026-10-16T18:20:47Z",
-   "items": [
-    {
-     "id": "7b27c547a742",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWhKUkV6dVBKMVBreGFLVGJZV3I0YzJXZWZfaEVQX1paOUdfRFdBcFU3RTJrRVdvQ05ja3YtRmVJdTByMWVfamMwRWlMSDVONk9xMWJYVkFzMVlIUi1KNjhmbVpzRWRtU3FXUTJ6d1BUTjU5WHRzQzdhWWo5NjdXVTVtVG9Ic0ZYd0dBT21uNllwZ2x3R0J2Z09VRGR6QzNSYWRWYWJzQTlwc1lZelN4aHZjNTEyOGRSNERlaS1R?oc=5",
-     "ts": "2026-10-15T11:32:34Z",
-     "summary": ""
-    },
-    {
-     "id": "7c426e735fbb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdzhOd2hybTJELU03SUF2dkhBUHBPZ2Q0cE8zWmFoR1c3X0JDNEtzVEprUzB2d0RzWHhIdU9RV25SczJXaWZKN25NaGpVdGVhR3dFcDY2bVVlUVM3VDdJS21SYkI0WEcxM3RTeDl5SGlURDV6OVo2Z0ZleEJESmZDd19semU3elVtWkFMaFJyQzd6UkM2UjNETHVXVDlXSVI5M2xuOGdGdjBFTWpGaFpFczUwT1VGMk1JaW8wd25BczR0Wi1lS0VRMG5wUWdaVXZXOVM0djVhRUptQQ?oc=5",
-     "ts": "2026-10-15T11:44:26Z",
-     "summary": ""
-    },
-    {
-     "id": "11aa0da29eb4",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-     "url": "https://www.ign.com/articles/gta-6s-level-of-detail-is-so-extreme-rockstar-built-an-entire-scripted-system-just-for-sweat",
-     "ts": "2026-10-15T11:32:24Z",
-     "summary": "Rockstar Games is of course known for its attention to detail, with previous Grand Theft Auto and Red Dead Redemption games raising the bar for realism. GTA 6, though, looks set to go further than any video game before it, with a dedicated system that determines how much the characters sweat."
-    },
-    {
-     "id": "3e7a5bd648d8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRGtVblpQVDA1aE9kQmVaN1pCcy1IcXVyaHBjNC02X1pBeUl2YWg0bEdFYmJGVVNOQ0xON2w0bDRkSjBpbVRKOGZLcnR3Y2JqSnEwLTc0cGJENFlGc2k4czFvR183ZERnYWR2dHBzalJJZVZianNtV2NCeUNPUC1ZYjM2WlVjTi1kUlhGVFBnMHRzTVd6MnlTXzNxcTFoR1JsbFdHSGU4cUNVeDRjT0MzaFV0YmVlOUR5SURIRm0yLTdZTXlSR3RvSXhmeFliY3VVS3VreXZmVGRfZVNVektUYnBxcUxFS0Yt?oc=5",
-     "ts": "2026-10-15T12:06:07Z",
-     "summary": ""
-    },
-    {
-     "id": "8b67b918b903",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVXNkTDl6SUROanlJREVDX2F4N0Y2ZUdMRmdNUWVXTHFxTEliUVJNRVNidE5iS1dRYlQ5Yng1UkQtUUh3MlhqcTF5WHR5Wk5VbkhTRmRYYTVNQmo4WEdfUV9iNDd6T2pWRG54TFRYZElsX0RISmV6QWMwS3NjcHppZTRrbm1DZEw0aHlVOXJuclh2Sl9aRnlzb3BXdW1kTDN4NzV6WjlsU1RIQm9kOEZGQ29vMTZ4b3Z5Z25GTHpHMmdCaldTcHF4R1RFYjZoTlZ3U0pmNG0tc1I?oc=5",
-     "ts": "2026-10-15T13:03:01Z",
-     "summary": ""
-    },
-    {
-     "id": "47f2bd4348c2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Africa",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQmlLSUJ4Z2dDaUV0cnNoWmFhVFYwN1hSU0RId2lDRE5hWlFQaWE1S2t0eEJJSE9hOEp5WS15WC1uNHdyQlpvMzBSSUVfSUg5dDdFS3NMalowaE82MEpRb1NqVVJtdnNMMzNVaExJNG5VcmJlQXVEUzNQa01PUG1xdm9TWEdhUUVVcm5nNnVNcWRtbUszN0V2LUIyb3M5QzZVc29Ma1piWGEtX196S2NZc0RGczFUY2Q3Z3JodlBJcEdYbS1QREFKYy1sV1FGRVlHVGYwSg?oc=5",
-     "ts": "2026-10-16T05:30:19Z",
-     "summary": ""
-    },
-    {
-     "id": "3c2201c01e1c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "玩具人 TOY PEOPLE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "\"GTA 6\" Built an Entire Scripted Sweat System — Characters Perspire More as Activities Intensify",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBNmVIS21TbVRmZ0x6SjJkOEtPMWZwSTNvNjVRNklnRFJWUGdua1NkTUQyV1BvTVBpWXh5OExxNE9uOEwyUjNudGFQU0Z2V2hN?oc=5",
-     "ts": "2026-10-16T17:44:30Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 95,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "💦 В GTA 6 появится отдельная система пота у персонажей",
-    "summary": "По данным IGN, Rockstar создала отдельную скриптованную систему, которая определяет, насколько сильно потеют герои. Это часть экстремального уровня детализации GTA 6, о котором пишут IGN и IGN Nordic.",
-    "idea": "Крупный план лица Джейсона/Лусии: пот появляется по зонам и меняется от жары и бега. Зрителю интересно увидеть «невидимую» деталь, которая делает мир живее.",
-    "hook": "Rockstar сделала отдельную систему только ради пота в GTA 6.",
-    "stars": 2,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-15T12:01:18Z"
-   },
-   "msg_id": 74
-  },
-  {
    "id": "539bdfea9579",
    "title": "GTA VI могла наконец избавиться от старой проблемы RAGE",
    "first_seen": "2026-10-16T18:20:47Z",
-   "updated": "2026-10-16T18:20:47Z",
+   "updated": "2026-10-16T18:31:03Z",
    "items": [
     {
      "id": "539bdfea9579",
@@ -285,6 +70,19 @@
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVJNZ1JBR2g0UHI1dVp3WDRvTmFoeC1BNUxZbW04cHFMSGtSMlAzaGM1bnVzUFVQOGZVWTVwUGJINXZCbmo2YlplM2dGMjBJWWJBYVRaTnNWQmV1R0hzdDJNNmtUSmtOSS0zZjRyUlVzbjJKRUhRSzRTWkJHWWpEZmFheWRjc2xUQTNnQ3EwLXh2S0RCb3BlYmZIMkhmLXlVdVJJ?oc=5",
      "ts": "2026-10-16T17:10:58Z",
      "summary": ""
+    },
+    {
+     "id": "07ee63b8077f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Привет из 2008-го: GTA VI могла наконец избавиться от старой проблемы RAGE",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVm5oZlhTck1Ic2FJOEtjdFZqT24tWEdGQkh4YkhXdVAycDhlRUc3c3MyX1NUOHNQSk5fR1BYVzM0NHNoVjhpYkI4b04xR1prQTRhcnZDYXFnaUpqcGhYVENyWkhSR2JwSzRtUGx2MEN4cU1DSXdwNUtTaFc2Vkg5eWU0aXRENmNmekJ2ZUVlMDFnZlhYdDhPc3NRRjRldmpna2xWbU95aC04Q0dLS0hRaEpLUHRuMk9SUEVoMGZ5UjY?oc=5",
+     "ts": "2026-10-16T17:10:58Z",
+     "summary": ""
     }
    ],
    "tags": [],
@@ -294,36 +92,10 @@
    "status": "new"
   },
   {
-   "id": "62c42fc9d2dc",
-   "title": "Is GTA VI going to be the peak of GTA?",
-   "first_seen": "2026-10-16T18:20:47Z",
-   "updated": "2026-10-16T18:20:47Z",
-   "items": [
-    {
-     "id": "62c42fc9d2dc",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Is GTA VI going to be the peak of GTA?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1x7nm2p/is_gta_vi_going_to_be_the_peak_of_gta/",
-     "ts": "2026-10-16T18:13:12Z",
-     "summary": "Been thinking about this lately. What if GTA VI ends up being the peak of the entire franchise? I mean, look at where we are right now. The hype around this game is insane. Rockstar has spent over a decade building up to this, and expectations have never been higher. But what happens after GTA VI? We probably won’t see GTA VII for another 8-12 years, maybe even longer. Who knows what Rockstar will look like by then? Will they still care about making games the way they used to, or will things slowly shift towards milking the franchise for money? And I’m not saying GTA VI is guaranteed to be som"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-16T18:10:42Z",
+   "updated": "2026-10-16T18:31:03Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -7266,6 +7038,45 @@
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUncyWkJubUI1MTk4NEV4N1lVZHJCb2Y4N0xpTGFCMklscVp4UTZxMm91bGFHbU9DOXM1MjVCRHFwREVPVldBLVczYjNkN3JCNWtUREVPZlN0bFQzSGhOU3JOdmxIclBjS0ZVcnVMWjhoSWNfYy1CRy1BZTR4M0dZUm56djl4N0xwYUluOHZXUDdEalR4ZEFpdlRYNVBmcTNVeHhCYVpsRFhYWG1vNTNDMm14ZVJua0tF?oc=5",
      "ts": "2026-10-16T06:02:10Z",
      "summary": ""
+    },
+    {
+     "id": "e1d1e11934b8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "shattered.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Leaker Cyberleek Ends Leaks as Coin Hits $1.2M [2026]",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vaEs4SzBzUnNUaEM1Y090U293a0IzOW9zN2J4N055d1o1dU9tT1RSb0J0NmZEblVFVTkwb1NtajBNS2VTS085dzE5VDJoM1A0LU9XMnRHVVhxUzhIVEdsR2tGQlNWWDJWckJwbEVLajR6VC1kSm90SWtR?oc=5",
+     "ts": "2026-10-16T17:43:47Z",
+     "summary": ""
+    },
+    {
+     "id": "1695a7814939",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CryptoPotato",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Dacity Coin Spikes on GTA VI Trailer, Trading Against Tokenized Take-Two Stock",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHk0Y3NmUUxfR1hvZTBQdXN3UGNVei1kRTk2UTItZ203VExZS3QzenV4bzdxWC1fblRFZmJha3dxQ3JwbkhnQkhiLTlvaWllRUJxZ1ZGT29YNC02SVJpU0tZWEpzcmdmZzZ2TmZjdmJWaE1rdjktYVF3T3FmMW8yenNsYWZBTmNSbExOV0ZuV25jSGpZYmhjRzVwSHJpN3RQRHJ6YVdR?oc=5",
+     "ts": "2026-10-16T18:18:00Z",
+     "summary": ""
+    },
+    {
+     "id": "0595e321d1f3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Rob Nelson has confirmed to Jason Schreier that the game features hundreds of interiors that you can go and explore in free roam",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x7nxby/rob_nelson_has_confirmed_to_jason_schreier_that/",
+     "ts": "2026-10-16T18:24:59Z",
+     "summary": "submitted by /u/Zipo92 to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [
@@ -7283,6 +7094,326 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "709abd1a6352",
+   "title": "Shrek 2 Remastered Appears Briefly on XBOX Store",
+   "first_seen": "2026-10-16T18:31:03Z",
+   "updated": "2026-10-16T18:31:03Z",
+   "items": [
+    {
+     "id": "709abd1a6352",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Shrek 2 Remastered Appears Briefly on XBOX Store",
+     "url": "https://insider-gaming.com/shrek-2-remastered-appears-briefly-on-xbox-store/",
+     "ts": "2026-10-16T18:22:14Z",
+     "summary": "Shrek 2 Remastered briefly appeared on the XBOX store and a GTA 6-inspired announcement trailer has surfaced online. The post Shrek 2 Remastered Appears Briefly on XBOX Store appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [
+    "Online",
+    "анонс",
+    "трейлер"
+   ],
+   "score": 80,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Слитый трейлер GTA 6 всплыл в магазине Xbox? 👀",
+    "summary": "В магазине Xbox ненадолго появился Shrek 2 Remastered, а вместе с ним — трейлер в стиле анонса GTA 6. Об этом сообщил Insider Gaming (Tom Henderson).",
+    "idea": "Разбор странного трейлера: показываем кадры, сравниваем с GTA 6 и объясняем, почему это, скорее всего, фейк. Зрителю интересно, настоящий ли это тизер.",
+    "hook": "В Xbox Store всплыл трейлер GTA 6? Разбираем слитые кадры.",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-16T18:31:08Z"
+   },
+   "msg_id": 100
+  },
+  {
+   "id": "fff13fb455bd",
+   "title": "I can't wait man",
+   "first_seen": "2026-10-16T18:31:03Z",
+   "updated": "2026-10-16T18:31:03Z",
+   "items": [
+    {
+     "id": "fff13fb455bd",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I can't wait man",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x7nvr6/i_cant_wait_man/",
+     "ts": "2026-10-16T18:23:23Z",
+     "summary": "submitted by /u/Pistoluislero to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9f6d07270b54",
+   "title": "Real-Life GTA 6 Cars Spotted in Miami",
+   "first_seen": "2026-10-16T03:50:44Z",
+   "updated": "2026-10-16T18:20:47Z",
+   "items": [
+    {
+     "id": "9f6d07270b54",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Real-life versions of GTA 6 cars have been spotted in Miami",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x7609v/reallife_versions_of_gta_6_cars_have_been_spotted/",
+     "ts": "2026-10-16T03:45:58Z",
+     "summary": "Cars featured, in order: Manana , Buccaneer , Tempesta , Cheetah , Coquette D10 , Emerus submitted by /u/gtawiki to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "ef164e2a5b85",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Real-Life GTA 6 Cars Spotted in Miami",
+     "url": "https://insider-gaming.com/real-life-gta-6-cars-spotted-in-miami/",
+     "ts": "2026-10-16T09:30:00Z",
+     "summary": "Real-life cars from Grand Theft Auto 6 have taken to the streets in Miami as Rockstar Games' advertising steps up further. The post Real-Life GTA 6 Cars Spotted in Miami appeared first on Insider Gaming ."
+    },
+    {
+     "id": "66ee5c663ebc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Another look at GTA 6 cars remade in real life",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x7cr5j/another_look_at_gta_6_cars_remade_in_real_life/",
+     "ts": "2026-10-16T10:35:42Z",
+     "summary": "submitted by /u/meechCS to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "44e3fc51c1c5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Real-Life GTA 6 Cars Spotted in Miami",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xbGhrWldnR2tWczZPSS1GYkE0MXc4dnZPckVpeE5EbjJwemVYbkFtUi04UHowY2tEd09selotVTFJUDM0eUc2cFJwakR5R0g5MkdidFExYWN1MlNmSXVodl90ckRKRURlRlNqa1FQdFBQeGc?oc=5",
+     "ts": "2026-10-16T09:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "b6b43fa684d3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Push Square",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0lDajFEMEZUQzBrd0o0UHlwUWRXREpsQWVMWmsyb1phSS1pVXp1N2ljelNfaXdTYjF6dzFoemtreGpHNHBZRGVhVmZtZnU3X0NWOG5IRS1VaXRrR2JvY05zYW9RNE5aR0pwT3Z4REdacXBNT3NhSDBRb0M3eHBjM1hqUTMzcEp4SkQ3TDlwMTJSS3F1cjJGSmp6RmExLXpsUUZlMmNSY0tMWmhtRWc?oc=5",
+     "ts": "2026-10-16T11:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "1fe5d5e05128",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gadget Review",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Sends GTA 6’s In-Game Cars Through Real Miami Streets",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWF2aGhxRGoybHVOZkhtci1kbU05QzBNaEkzdDJtWEV5Qkl3cjFSRVFySHJRV3pXUDZOUGcxWHFqblFYOVJEQ2hkcHBJSk5zZTNnUjJKQkdlVlhNd1lVTkJhTmlVTTYxMUVlbktmVEtmSGVxV0MxVjlVQkRGbGt4SlprY1Z6cGt5TzBwNHNDM3ZKWGRw?oc=5",
+     "ts": "2026-10-16T17:42:35Z",
+     "summary": ""
+    },
+    {
+     "id": "75cea553a90f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Sends GTA 6’s In-Game Cars Through Real Miami Streets",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGhzMjZPQ1h2TkFOa1BrdUlodmppaWE4MWxuM3dQZ3pONF9JeWxhbHVPV3lHS2lMMFBvd1A4bW10X0hnOHhWMUprbW9Ub2NvTXV5M1N6alN3UGZWamV1S2tpUGxlOUltRlV5ZXF1OFNtQU80Uk8yVTRCVlFWWlVIelkxZUdRQTJJbnFSNGVMcFY4V2U5dXhJ?oc=5",
+     "ts": "2026-10-16T17:42:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Машины GTA 6 выехали на улицы Майами: фото и список",
+    "summary": "По данным Insider Gaming и постам на Reddit, в Майами заметили реальные версии машин из GTA 6. Среди них Manana, Buccaneer, Tempesta, Cheetah, Coquette D10 и Emerus — фанаты публикуют фото и обсуждают детали.",
+    "idea": "Короткая уличная нарезка с реальными машинами из GTA 6 и титрами моделей — зрителю интересно узнать полный список и как это выглядит вживую.",
+    "hook": "Реальные машины GTA 6 ездят по Майами — вот полный список моделей.",
+    "stars": 3,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-16T11:01:21Z"
+   },
+   "msg_id": 94
+  },
+  {
+   "id": "7b27c547a742",
+   "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+   "first_seen": "2026-10-15T11:40:43Z",
+   "updated": "2026-10-16T18:20:47Z",
+   "items": [
+    {
+     "id": "7b27c547a742",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWhKUkV6dVBKMVBreGFLVGJZV3I0YzJXZWZfaEVQX1paOUdfRFdBcFU3RTJrRVdvQ05ja3YtRmVJdTByMWVfamMwRWlMSDVONk9xMWJYVkFzMVlIUi1KNjhmbVpzRWRtU3FXUTJ6d1BUTjU5WHRzQzdhWWo5NjdXVTVtVG9Ic0ZYd0dBT21uNllwZ2x3R0J2Z09VRGR6QzNSYWRWYWJzQTlwc1lZelN4aHZjNTEyOGRSNERlaS1R?oc=5",
+     "ts": "2026-10-15T11:32:34Z",
+     "summary": ""
+    },
+    {
+     "id": "7c426e735fbb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdzhOd2hybTJELU03SUF2dkhBUHBPZ2Q0cE8zWmFoR1c3X0JDNEtzVEprUzB2d0RzWHhIdU9RV25SczJXaWZKN25NaGpVdGVhR3dFcDY2bVVlUVM3VDdJS21SYkI0WEcxM3RTeDl5SGlURDV6OVo2Z0ZleEJESmZDd19semU3elVtWkFMaFJyQzd6UkM2UjNETHVXVDlXSVI5M2xuOGdGdjBFTWpGaFpFczUwT1VGMk1JaW8wd25BczR0Wi1lS0VRMG5wUWdaVXZXOVM0djVhRUptQQ?oc=5",
+     "ts": "2026-10-15T11:44:26Z",
+     "summary": ""
+    },
+    {
+     "id": "11aa0da29eb4",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+     "url": "https://www.ign.com/articles/gta-6s-level-of-detail-is-so-extreme-rockstar-built-an-entire-scripted-system-just-for-sweat",
+     "ts": "2026-10-15T11:32:24Z",
+     "summary": "Rockstar Games is of course known for its attention to detail, with previous Grand Theft Auto and Red Dead Redemption games raising the bar for realism. GTA 6, though, looks set to go further than any video game before it, with a dedicated system that determines how much the characters sweat."
+    },
+    {
+     "id": "3e7a5bd648d8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRGtVblpQVDA1aE9kQmVaN1pCcy1IcXVyaHBjNC02X1pBeUl2YWg0bEdFYmJGVVNOQ0xON2w0bDRkSjBpbVRKOGZLcnR3Y2JqSnEwLTc0cGJENFlGc2k4czFvR183ZERnYWR2dHBzalJJZVZianNtV2NCeUNPUC1ZYjM2WlVjTi1kUlhGVFBnMHRzTVd6MnlTXzNxcTFoR1JsbFdHSGU4cUNVeDRjT0MzaFV0YmVlOUR5SURIRm0yLTdZTXlSR3RvSXhmeFliY3VVS3VreXZmVGRfZVNVektUYnBxcUxFS0Yt?oc=5",
+     "ts": "2026-10-15T12:06:07Z",
+     "summary": ""
+    },
+    {
+     "id": "8b67b918b903",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVXNkTDl6SUROanlJREVDX2F4N0Y2ZUdMRmdNUWVXTHFxTEliUVJNRVNidE5iS1dRYlQ5Yng1UkQtUUh3MlhqcTF5WHR5Wk5VbkhTRmRYYTVNQmo4WEdfUV9iNDd6T2pWRG54TFRYZElsX0RISmV6QWMwS3NjcHppZTRrbm1DZEw0aHlVOXJuclh2Sl9aRnlzb3BXdW1kTDN4NzV6WjlsU1RIQm9kOEZGQ29vMTZ4b3Z5Z25GTHpHMmdCaldTcHF4R1RFYjZoTlZ3U0pmNG0tc1I?oc=5",
+     "ts": "2026-10-15T13:03:01Z",
+     "summary": ""
+    },
+    {
+     "id": "47f2bd4348c2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQmlLSUJ4Z2dDaUV0cnNoWmFhVFYwN1hSU0RId2lDRE5hWlFQaWE1S2t0eEJJSE9hOEp5WS15WC1uNHdyQlpvMzBSSUVfSUg5dDdFS3NMalowaE82MEpRb1NqVVJtdnNMMzNVaExJNG5VcmJlQXVEUzNQa01PUG1xdm9TWEdhUUVVcm5nNnVNcWRtbUszN0V2LUIyb3M5QzZVc29Ma1piWGEtX196S2NZc0RGczFUY2Q3Z3JodlBJcEdYbS1QREFKYy1sV1FGRVlHVGYwSg?oc=5",
+     "ts": "2026-10-16T05:30:19Z",
+     "summary": ""
+    },
+    {
+     "id": "3c2201c01e1c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "玩具人 TOY PEOPLE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "\"GTA 6\" Built an Entire Scripted Sweat System — Characters Perspire More as Activities Intensify",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBNmVIS21TbVRmZ0x6SjJkOEtPMWZwSTNvNjVRNklnRFJWUGdua1NkTUQyV1BvTVBpWXh5OExxNE9uOEwyUjNudGFQU0Z2V2hN?oc=5",
+     "ts": "2026-10-16T17:44:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 95,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "💦 В GTA 6 появится отдельная система пота у персонажей",
+    "summary": "По данным IGN, Rockstar создала отдельную скриптованную систему, которая определяет, насколько сильно потеют герои. Это часть экстремального уровня детализации GTA 6, о котором пишут IGN и IGN Nordic.",
+    "idea": "Крупный план лица Джейсона/Лусии: пот появляется по зонам и меняется от жары и бега. Зрителю интересно увидеть «невидимую» деталь, которая делает мир живее.",
+    "hook": "Rockstar сделала отдельную систему только ради пота в GTA 6.",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-15T12:01:18Z"
+   },
+   "msg_id": 74
+  },
+  {
+   "id": "62c42fc9d2dc",
+   "title": "Is GTA VI going to be the peak of GTA?",
+   "first_seen": "2026-10-16T18:20:47Z",
+   "updated": "2026-10-16T18:20:47Z",
+   "items": [
+    {
+     "id": "62c42fc9d2dc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Is GTA VI going to be the peak of GTA?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x7nm2p/is_gta_vi_going_to_be_the_peak_of_gta/",
+     "ts": "2026-10-16T18:13:12Z",
+     "summary": "Been thinking about this lately. What if GTA VI ends up being the peak of the entire franchise? I mean, look at where we are right now. The hype around this game is insane. Rockstar has spent over a decade building up to this, and expectations have never been higher. But what happens after GTA VI? We probably won’t see GTA VII for another 8-12 years, maybe even longer. Who knows what Rockstar will look like by then? Will they still care about making games the way they used to, or will things slowly shift towards milking the franchise for money? And I’m not saying GTA VI is guaranteed to be som"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -30400,14 +30531,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T18:20:47Z",
+  "last_run": "2026-10-16T18:31:09Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 100/100",
-   "gnews_ru: 74/76",
+   "gnews_ru: 73/75",
    "gamesbeat: 0/10",
    "vgc: 1/10",
-   "insider_gaming: 0/10",
+   "insider_gaming: 1/10",
    "ign: 0/20",
    "eurogamer: 3/100",
    "dexerto_gta: 2/50",
