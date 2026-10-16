@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-16T00:40:45Z",
+   "updated": "2026-10-16T00:50:44Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -5556,6 +5556,19 @@
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0FRM3RpQktsN0VVd0g2QkZiQ1JSS2ttd0RmUGZGS2YxdDA4QmFrT3ZQUFJ5dXp5aXdNU2szNmVOUDJOdDNaTUVaa3hjTWMyVDRuOS1QUHdMNlpMakxUcVVCSWVnQkUtWW1INjZsRlQ1SFRIRUFFQkMtcWhfUEZEQ3ZuZ0V0djJTZHk1bU9adndSRzVrYmJR?oc=5",
      "ts": "2026-10-16T00:32:47Z",
      "summary": ""
+    },
+    {
+     "id": "41291cf72828",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Letem světem Applem",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Вышел трейлер к запуску GTA 6, и он выглядит потрясающе!",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlJiRktFbXBjOVpFeE1XX0ZWcFRZT2ZhZ3BtODR6cjF1eW1lemlFc1VnRU11Ulo0Tk5OSUJYQVNfcmVyeW1aTWRvUXB5aEZHSV8zemtTNWNIRllETHMxUHV4X0pBN3ZKYlFHaFlDVjJaaUdqamJ6aXFKS0NTSzNKREZLUVoxYWRzZUZpaHRjbG9rM0ZvdGZUQ19Zbw?oc=5",
+     "ts": "2026-10-15T13:38:44Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -5573,6 +5586,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "e189097b4028",
+   "title": "Predicting The Main Story Ending Based on Lyrical Analysis of 'Flower in a Hurricane'",
+   "first_seen": "2026-10-16T00:50:44Z",
+   "updated": "2026-10-16T00:50:44Z",
+   "items": [
+    {
+     "id": "e189097b4028",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Predicting The Main Story Ending Based on Lyrical Analysis of 'Flower in a Hurricane'",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x726s2/predicting_the_main_story_ending_based_on_lyrical/",
+     "ts": "2026-10-16T00:29:29Z",
+     "summary": "As a massive fan of Justice, Flower in a Hurricane is probably already in my Spotify top 10 for the year. I've been stewing over the lyrics pretty much all day and they downright feel like a spoiler. This is going to operate on some rumors and common speculations: The ending of the game will take place in a hurricane. Very in character for Rockstar. And supported by the name of the song... Flower in a Hurricane. Jason is secretly a fed. Honestly, kind of feels too predictable. But I think the lyrics support this assumption the most. Either Jason or Lucia will die. I imagine the camera settling"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -24566,9 +24605,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T00:40:45Z",
+  "last_run": "2026-10-16T00:50:44Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/4",
    "gnews_en: 95/100",
    "gnews_ru: 99/100",
    "gamesbeat: 0/10",
@@ -24579,7 +24618,7 @@
    "dexerto_gta: 5/50",
    "rockstarintel: 8/10",
    "gtaboom: 12/30",
-   "reddit: 21/25",
+   "reddit: 22/25",
    "tg_gtavistar: 11/11"
   ],
   "digest": "2026-10-15",
