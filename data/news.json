@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "7be1795f6868",
+   "title": "GTA VI все еще находится в процессе доработки, но переноса релиза не будет — Rockstar",
+   "first_seen": "2026-10-16T22:47:23Z",
+   "updated": "2026-10-16T22:47:23Z",
+   "items": [
+    {
+     "id": "7be1795f6868",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI все еще находится в процессе доработки, но переноса релиза не будет — Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcjl6VzJsNjJva0dFZ05fcC1yc1VRQUtjQnhKaF8xWXd5SlRQNUFtSmRUTVVuSXRVRlJTak5oSy11UTZrTl9zbE1iaFczcVltVVBEYm1QaERLWXBISHlzOTFqNUxZWTJ1SGNyaU9kRV9nTHNfNUdtQk40Ynd3c3lpNGxOYm8wRWNOZk5iYUF2cy14bGkxZnZPWTF1WGQ3d0FuemJkbEo1Qnd6NkQtaHJLS9IBsAFBVV95cUxNcjl6VzJsNjJva0dFZ05fcC1yc1VRQUtjQnhKaF8xWXd5SlRQNUFtSmRUTVVuSXRVRlJTak5oSy11UTZrTl9zbE1iaFczcVltVVBEYm1QaERLWXBISHlzOTFqNUxZWTJ1SGNyaU9kRV9nTHNfNUdtQk40Ynd3c3lpNGxOYm8wRWNOZk5iYUF2cy14bGkxZnZPWTF1WGQ3d0FuemJkbEo1Qnd6NkQtaHJLSw?oc=5",
+     "ts": "2026-10-16T22:12:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c7c3729af9fc",
+   "title": "Do you think this will happen again with gta 6?",
+   "first_seen": "2026-10-16T22:47:23Z",
+   "updated": "2026-10-16T22:47:23Z",
+   "items": [
+    {
+     "id": "c7c3729af9fc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Do you think this will happen again with gta 6?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x7u3ie/do_you_think_this_will_happen_again_with_gta_6/",
+     "ts": "2026-10-16T22:33:56Z",
+     "summary": "A fact you might not know there was a reduction in graphics on consoles in Rdr 2 after patch 1.06 Do you think it will happen again with GTA 6? submitted by /u/Careful_Plankton_987 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d8b6e19f085d",
    "title": "COFFRET COLLECTOR GTA VI",
    "first_seen": "2026-10-16T22:20:43Z",
@@ -31682,7 +31736,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T22:40:44Z",
+  "last_run": "2026-10-16T22:47:23Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 100/100",
@@ -31695,7 +31749,7 @@
    "dexerto_gta: 2/50",
    "rockstarintel: 3/10",
    "gtaboom: 7/30",
-   "reddit: 23/25",
+   "reddit: 24/25",
    "tg_gtavistar: 5/12"
   ],
   "digest": "2026-10-16",
