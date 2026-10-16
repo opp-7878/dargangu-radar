@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "8762a9debbc4",
-   "title": "We got flying car before gta 6!!",
-   "first_seen": "2026-10-16T13:01:24Z",
-   "updated": "2026-10-16T13:01:24Z",
-   "items": [
-    {
-     "id": "8762a9debbc4",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "We got flying car before gta 6!!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1x7fk8y/we_got_flying_car_before_gta_6/",
-     "ts": "2026-10-16T12:59:26Z",
-     "summary": "submitted by /u/K709Ind to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-16T12:50:48Z",
+   "updated": "2026-10-16T13:10:50Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -6427,6 +6401,45 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYm44SmQ2ZUhXRjdyYTA2VWNkZXVjN2dFV25aNVZabUg4cGtDUFRLN3hzcERncnlBbG9HT1VkdGRFdW1PRXA2a1U1SlNWSnFScjUzVWlqdHZlMm9NcWsta3FpNW9QeWtsVUhRbUhad0lKZ0tGQ0RjRnJUdFE0R0NhUHZyMXBveVFH?oc=5",
      "ts": "2026-10-16T12:43:04Z",
      "summary": ""
+    },
+    {
+     "id": "ab6ccaaaada4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Slideshow: GTA 6 Launch Trailer Screenshots",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVnJaeGd5VXk0Y2hVY3A5TnE5TkJkcEhGODFiMVlFNFd2OVhucjFjWVZ4UGlkNWFoNjhoaXNVUFNrV2J4SUV1dTQyX2IweDA5NUh3Z25PajY2dmU3WWxleHUyRWpoa251RzVJdnhtX1JWc2dubzh1cjNkMUFGMXR6STFMZXhrcF9rUlE?oc=5",
+     "ts": "2026-10-16T07:51:23Z",
+     "summary": ""
+    },
+    {
+     "id": "ebca7dbe0b96",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Simply Wall Street",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take Two Interactive Software (TTWO) Heads Into GTA VI Launch With Industry Eyes Watching",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSGhpRDd0YkI1NlNoU2hTR2FLOWxSeEgzNTFOaXRKWWJBcEdDSkNGMzFQTXE0Smo1ZmRJOHNpZ3cxQUxZSDVmdVI2VUdISC05WF91UmxSNWs5WVNWQzlxY21BQ21JQlpKLUtfQmprSFlsUGlFNnZPdk5JVGlPTnQ0RVcxcXg2ZU9ud0xTVXBDVTRydWpWRkJiRjJGdm1IMzV4UkNSOWlyQlFjOW42T3J4VklCbGJCVmd4dExYMFJiZkJXS20yRkdRWGM0ekplLTU1SWRFNGthUm16SGJJTUhtSVFB0gHiAUFVX3lxTE1IaGlEN3RiQjU2U2hTaFNHYUs5bFJ4SDM1MU5pdEpZYkFwR0NKQ0YzMVBNcTRKajVmZEk4c2lndzFBTFlINWZ1UjZVR0hILTlYX3VSbFI1azlZU1ZDOXFjbUFDbUlCWkotS19CamtIWWxQaUU2dk92TklUaU9OdDRFVzFxeDZlT253TFNVcENVNHJ1alZGQmJGMkZ2bUgzNXhSQ1I5aXJCUWM5bjZPcnhWSUJsYkJWZ3h0TFgwUmJmQldLbTJGR1FYYzR6SmUtNTVJZEU0a2FSbXpIYklNSG1JUUE?oc=5",
+     "ts": "2026-10-16T11:35:03Z",
+     "summary": ""
+    },
+    {
+     "id": "5a6aa7c4f7d1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 on PC: Why Rockstar Might Be Fast-Tracking It - Next-Gen Console Watch",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmx6eFM0LS03YnhEM2RwaV9LeWY2cFFka0p0UndSVWUtMTNmV2hwUlFpQ0hTdHQzSGMycGdaWEpWTFViM0Y5cFBsaTgyRW1xUEVOR1ktakNjRFI1Q2pnYmNVb082MGJ5UTZINHF1b2p1WXp0ekxNbF8zMkEtdjQ2SFNzWWtCWnpJSGdrTGRqS0pZYW1YTVhMVmo4NlBLYk41T0E?oc=5",
+     "ts": "2026-10-16T13:00:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -6447,36 +6460,10 @@
    "status": "new"
   },
   {
-   "id": "18336c0946de",
-   "title": "Rockstar дала фанатам важное обещание после GTA 6",
-   "first_seen": "2026-10-16T12:40:43Z",
-   "updated": "2026-10-16T12:40:43Z",
-   "items": [
-    {
-     "id": "18336c0946de",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "24 Канал",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar дала фанатам важное обещание после GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRUtBQWZsLXdRa2h6dGd1bGpka0VkUk9fLUVEdnZyUjRBNW5rbEI3QTNJQjBsZjU5RW01QjBPLXFGNmJ3MU5PS1NOLW5COV9MZzNBM0RrREJLN0g2WnBxV2FmYm9RaGFkT3c3M2g3S1p6U0FnZU1jUlAydi1fcWQyNWQyQkJFc0FXV3gxdjdsNE95eWFCOXh5NEZFMWdmRXBzZVRJYlNzVzVXN0XSAbABQVVfeXFMTWo2R01hSEM5NDY4WWh5STVYYW5OS1BpTTJjdmhMRE52UmRiT2JsLThsWjJ4RlZVSjhFY2Z0TG8wTU5MaEZlWkIzZ2pEVkgzTkVmTjdKbVpkQnNyTmhXb0JISmlrX0Yzd1lxN2xBNlVpN29QcFByMXB5TEZSVkVnZVR2NXhzeGVwSUF2eFNZallDaFRCb2NESU5hcUx2am8zeGs4MThZVXhsNE1RaHRtM04?oc=5",
-     "ts": "2026-10-16T12:14:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "e2a3d238967e",
    "title": "Justice To Score Grand Theft Auto VI",
    "first_seen": "2026-10-15T13:40:49Z",
-   "updated": "2026-10-16T12:20:49Z",
+   "updated": "2026-10-16T13:10:50Z",
    "items": [
     {
      "id": "e2a3d238967e",
@@ -6750,6 +6737,19 @@
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVDZJbHVUZWJ3ckxhbDIwY2lGUUJzYTdKMGg0bHU4RDA2SGhvendWTHdGR2k1aDM2aEFKRGlGZ3J0SkcyQVdmZ0E1Qno1bWlJQnFmUTA4N2NCZkVRV3c1cFlnTTVQNS1rbi13bVFGaDlDcGFZT2lzMlh1WVo0U3BLRWdwbzdObjJqd1JsUmpzOG9NQ2paWW1SYnJ5azV6TTg1Z2tLVnd0Ulk0MVJ6YlM3dDREUktPUjlmdVFLUlVpUExGNmFjZGRIOS1nb9IBywFBVV95cUxOSTVDVXlGTkVJeVJmMHNDaFN5VFc0TVNtdGluczZSa0JBY2JfdnZrcmtnOFFwZk0yMFU2OHdrbl9LbDRPQUphQ0JhcTFiQkVUZ2lTRTdFWEo4TnBlblhWa09MMm5Gb0ZjUHV5MGVKZFRVOTFtd2R4S1kzNUFfSWJCODlYdDdscXBmWnlMVDlxWmtoQ3hLSW9LbGt3bU80dGxqaDZjZlU4RFRWb1lGV2xReDE0eTBCOVExa1paWkJscEZDS3VUQ0sxMWppUQ?oc=5",
      "ts": "2026-10-16T12:14:49Z",
      "summary": ""
+    },
+    {
+     "id": "df52666b1750",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Line of Best Fit",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Justice to compose Grand Theft Auto VI score",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLUlrWXY5YlNSVjlLY3N1RE9CTHFjRjIxLTNpdWVFSDBQeVZYdU4zSFEtdmdMZkdJdU1VdndoeEhvUmNPZ2M3cEZkR1N3MGlYRG5uLXl0Q1N6VDQyR0JWYm02MHRCNngwUk1Wc1VldUs4eDdKSjFYUUxSYk9JanFQME9KdlpsSGE4MlE?oc=5",
+     "ts": "2026-10-16T13:05:49Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -6769,6 +6769,165 @@
     "at": "2026-10-15T14:10:50Z"
    },
    "msg_id": 82
+  },
+  {
+   "id": "c356e861bef3",
+   "title": "GTA VI \"Welcome to Vice City\" sign spotted in Microsoft Flight Simulator 2024",
+   "first_seen": "2026-10-16T13:10:50Z",
+   "updated": "2026-10-16T13:10:50Z",
+   "items": [
+    {
+     "id": "c356e861bef3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI \"Welcome to Vice City\" sign spotted in Microsoft Flight Simulator 2024",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x7extl/gta_vi_welcome_to_vice_city_sign_spotted_in/",
+     "ts": "2026-10-16T12:30:26Z",
+     "summary": "submitted by /u/Wonderer2K to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "16af1c11e77a",
+   "title": "Rockstar могла предупредить CyberLeek в трейлере GTA VI",
+   "first_seen": "2026-10-16T13:10:50Z",
+   "updated": "2026-10-16T13:10:50Z",
+   "items": [
+    {
+     "id": "16af1c11e77a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar могла предупредить CyberLeek в трейлере GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGhEVnM2ak5ONlV5bjdLa0FMU291RXJMYVVWNzJOcUhtQnRkZGpFX3BqOHBoSXBHZFpRaXZZQkY3UkNkQ2tPek1VQTdud0N2VElfRFdnWkZxaDZIRnBnMXRSU0hYdmxFak9aSUxySGpOYW1iZnNGbDZvWWdFdDZlWFlJZG1SUEV6ZlFJa3FsZ0VUWUZmT3N0ZWwtSVVkT29ISFBN?oc=5",
+     "ts": "2026-10-16T12:47:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив",
+    "трейлер"
+   ],
+   "score": 55,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a30840bb483b",
+   "title": "Justice написали музыку для GTA 6 – официальный альбом игры включает 34 трека",
+   "first_seen": "2026-10-16T13:10:50Z",
+   "updated": "2026-10-16T13:10:50Z",
+   "items": [
+    {
+     "id": "a30840bb483b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Justice написали музыку для GTA 6 – официальный альбом игры включает 34 трека",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVjJWOTdiLTZPd185RnpZeGV2RWU5dS1SSVZrRktnazlULVpIY0JHSFMydjdfdnRpMDdpWndCNDI0UUM1RElMYU5wLTVjQjVjY1hIcm9fcjBSME1ZWEVTMEVfNmdKREszRUxKQjZtR2VxbWhsYVBIQTJCMnJDamVNbC1LRmNmQVBOQnhONFNiU2ZUTEkzSkdnVU5HOXhLajRET09qMHk1TklLS0ZTRTVaUg?oc=5",
+     "ts": "2026-10-16T13:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3ab5a14bc928",
+   "title": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: \"We're Depicting Miami Like A Murder Capital\"",
+   "first_seen": "2026-10-16T13:10:50Z",
+   "updated": "2026-10-16T13:10:50Z",
+   "items": [
+    {
+     "id": "3ab5a14bc928",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: \"We're Depicting Miami Like A Murder Capital\"",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdURnazdZTGNZb1pBZTFIaGZxbmRPTElyZHlZQ3RxLWRDMDlfa3Nlc3dNUjFzNGFJWUQzMDZWVFp5cmpsdEwxSXloSkJRemc5aEp1MlZraDNtcnBINDRYRkdiYU85V19nUWp5RGp0QVN0amcyQndWY3hoNkIwcEhiTTJWYzNfZmd4YXpRSlVvRGNTbzBfZ0JIRk5CMmRSczNBdVR6TERieDdxaTNxamI5ZE5LTGN0Mkt1aF8xaGZ2aWtSaVVibFMtYW1uTUl6dw?oc=5",
+     "ts": "2026-10-16T13:04:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8762a9debbc4",
+   "title": "We got flying car before gta 6!!",
+   "first_seen": "2026-10-16T13:01:24Z",
+   "updated": "2026-10-16T13:01:24Z",
+   "items": [
+    {
+     "id": "8762a9debbc4",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We got flying car before gta 6!!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x7fk8y/we_got_flying_car_before_gta_6/",
+     "ts": "2026-10-16T12:59:26Z",
+     "summary": "submitted by /u/K709Ind to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "18336c0946de",
+   "title": "Rockstar дала фанатам важное обещание после GTA 6",
+   "first_seen": "2026-10-16T12:40:43Z",
+   "updated": "2026-10-16T12:40:43Z",
+   "items": [
+    {
+     "id": "18336c0946de",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "24 Канал",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar дала фанатам важное обещание после GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRUtBQWZsLXdRa2h6dGd1bGpka0VkUk9fLUVEdnZyUjRBNW5rbEI3QTNJQjBsZjU5RW01QjBPLXFGNmJ3MU5PS1NOLW5COV9MZzNBM0RrREJLN0g2WnBxV2FmYm9RaGFkT3c3M2g3S1p6U0FnZU1jUlAydi1fcWQyNWQyQkJFc0FXV3gxdjdsNE95eWFCOXh5NEZFMWdmRXBzZVRJYlNzVzVXN0XSAbABQVVfeXFMTWo2R01hSEM5NDY4WWh5STVYYW5OS1BpTTJjdmhMRE52UmRiT2JsLThsWjJ4RlZVSjhFY2Z0TG8wTU5MaEZlWkIzZ2pEVkgzTkVmTjdKbVpkQnNyTmhXb0JISmlrX0Yzd1lxN2xBNlVpN29QcFByMXB5TEZSVkVnZVR2NXhzeGVwSUF2eFNZallDaFRCb2NESU5hcUx2am8zeGs4MThZVXhsNE1RaHRtM04?oc=5",
+     "ts": "2026-10-16T12:14:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
   },
   {
    "id": "02f3b2fe6911",
@@ -28015,18 +28174,18 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T13:01:24Z",
+  "last_run": "2026-10-16T13:10:50Z",
   "last_log": [
-   "rockstar_site: 0/4",
-   "gnews_en: 96/100",
+   "rockstar_site: 0/3",
+   "gnews_en: 97/100",
    "gnews_ru: 98/100",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 1/10",
    "ign: 1/20",
-   "eurogamer: 3/100",
+   "eurogamer: 2/100",
    "dexerto_gta: 2/50",
-   "rockstarintel: 5/10",
+   "rockstarintel: 4/10",
    "gtaboom: 10/30",
    "reddit: 25/25",
    "tg_gtavistar: 5/11"
