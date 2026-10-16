@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "eda3ac4e22d6",
+   "title": "Original GTA's North Fort Law Is Referenced in GTA 6",
+   "first_seen": "2026-10-16T01:40:51Z",
+   "updated": "2026-10-16T01:40:51Z",
+   "items": [
+    {
+     "id": "eda3ac4e22d6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Original GTA's North Fort Law Is Referenced in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTlBqcWl6YnNiRDlBUldmVzdQTkZwMXRVcUFLTURta1h3eVgyMG9sSWF2YWJGMDdudjFocFd6SFRFNFdwSUliRkdaMDkxUVF5WS1Zb0REN1diWlAtSWx1OWxOcFN5azBaZGlVczNVTk1lZHJmcjhRODdia3dOVTEzaUotOUM?oc=5",
+     "ts": "2026-10-16T01:22:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "db46d4d6f861",
+   "title": "💿 DeltaSynthesis (@deltasyn) on X",
+   "first_seen": "2026-10-16T01:40:51Z",
+   "updated": "2026-10-16T01:40:51Z",
+   "items": [
+    {
+     "id": "db46d4d6f861",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "💿 DeltaSynthesis (@deltasyn) on X",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x73hdc/deltasynthesis_deltasyn_on_x/",
+     "ts": "2026-10-16T01:34:13Z",
+     "summary": "Someone on twitter did some contrast adjustments and it looks wayyy better IMO. submitted by /u/Equivalent-Fix-177 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "411728ec564e",
    "title": "GTA 6 Confirmed Eligible for The Game Awards 2026",
    "first_seen": "2026-10-15T11:40:43Z",
@@ -24774,9 +24826,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-16T01:31:00Z",
+  "last_run": "2026-10-16T01:40:51Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/6",
    "gnews_en: 94/100",
    "gnews_ru: 99/100",
    "gamesbeat: 0/10",
