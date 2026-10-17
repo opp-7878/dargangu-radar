@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "41e4fde4f1a5",
+   "title": "GTA VI finally arrives next month - are you playing?",
+   "first_seen": "2026-10-17T17:30:58Z",
+   "updated": "2026-10-17T17:30:58Z",
+   "items": [
+    {
+     "id": "41e4fde4f1a5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GBAtemp",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI finally arrives next month - are you playing?",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdW1BeWJ5X1VfSzFaZ0FsZ0NBZXk4d2pmai1vbEpoUUIyLVQtUXdwZG05S1BNMTNhSUxpaXZYS1BPMVlwNldzczVqY2F5UGc1dXBDMkEwYVhWVXZVaTJGeFJRQ0F5VG1LcGtHX05jSTZrczh6b0hzaVh3bGc0OG41YXRkc016aGJVOEE?oc=5",
+     "ts": "2026-10-17T17:12:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "06714761d3d0",
+   "title": "Watch Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
+   "first_seen": "2026-10-17T17:30:58Z",
+   "updated": "2026-10-17T17:30:58Z",
+   "items": [
+    {
+     "id": "06714761d3d0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Bloomberg.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Watch Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDF0bUZmOTZSTWt3elRNaFhhRVZ5VTRIcFBFV1VFcEdfeFdxX0JNenJsbWdPYnk2cElvczJfRXMyRWdpdkJSX21JdG9EeTJEOUtRS1R4d09UQ29vQjV0TXJmR0hWTktCQm1LdUZmRWE0OEtaOWk3WjFMTU9STG9aRHgxR05pNG9IRGx6c0VIMVFCdw?oc=5",
+     "ts": "2026-10-17T17:28:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -35212,11 +35264,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T17:20:44Z",
+  "last_run": "2026-10-17T17:30:58Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 96/100",
-   "gnews_ru: 49/56",
+   "gnews_ru: 48/57",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
