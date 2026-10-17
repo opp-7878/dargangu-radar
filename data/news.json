@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "7d7bcaf181cd",
+   "title": "Директор Activision не считает ремейк Zelda: Ocarina of Time претендентом на звание \"самой большой игры года\" – в отличие от Call of Duty: Modern Warfare 4 и GTA 6",
+   "first_seen": "2026-10-17T09:10:43Z",
+   "updated": "2026-10-17T09:10:43Z",
+   "items": [
+    {
+     "id": "7d7bcaf181cd",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Директор Activision не считает ремейк Zelda: Ocarina of Time претендентом на звание \"самой большой игры года\" – в отличие от Call of Duty: Modern Warfare 4 и GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPX0FqU0JVVFJqTGViVFdyVUpMSDh0Wl9Wa1FyQWVhbk9kZnRzV2tnaFhDVkxEWDVhVVBZeFMxNDNPZUwyUUh0bTVfdlJpN1BPVnhBLTFHZjdja1VfU3dteTZtdTVTZnF2TjNld2xQWEdpbHV2WlZpZjE4RXF5N3pWc2o3QVdPalV2MnVHYll1Q2pJN3lsVy1NdHhoakRDYTJtemdQYnVockMtUU1TTXI0N3UxNzQ1ZE1Xb09TUVFpMmJ6S2xMbWVfcTNXQW1QRlBaSUNZVEh5RE92dVlvRW4wMUhYc1JuU3VzT0xFVThwakFKZEIzU2dfd0RUSlVSV3hmSUZRYjE3YlUyMjMzcXJBemYyWVRpTHN2R2FSVw?oc=5",
+     "ts": "2026-10-17T09:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -33213,10 +33239,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T09:01:07Z",
+  "last_run": "2026-10-17T09:10:43Z",
   "last_log": [
-   "rockstar_site: 0/5",
-   "gnews_en: 96/100",
+   "rockstar_site: 0/4",
+   "gnews_en: 97/100",
    "gnews_ru: 71/74",
    "gamesbeat: 0/10",
    "vgc: 1/10",
@@ -33227,7 +33253,7 @@
    "rockstarintel: 2/10",
    "gtaboom: 6/30",
    "reddit: 24/25",
-   "tg_gtavistar: 5/12"
+   "⚠️ tg_gtavistar: HTTP Error 502: Bad Gateway"
   ],
   "digest": "2026-10-16",
   "tg_offset": 854319078
