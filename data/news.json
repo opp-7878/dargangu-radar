@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "038daf91b291",
+   "title": "Фразами прохожих в GTA 6 занимается отдельная команда",
+   "first_seen": "2026-10-17T21:50:45Z",
+   "updated": "2026-10-17T21:50:45Z",
+   "items": [
+    {
+     "id": "038daf91b291",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Фразами прохожих в GTA 6 занимается отдельная команда",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlloVkpMX0I1N3VJSjhzX1ZZVUFyY3QzOWd2SkJFOHVpaTc1Nm1CeVJKQXZrdm96cmEtRFp0MzY1QkVZREhsUHFQSjlla0N4S3g5dkZPeFJWMUxKMHJSUGFFZnQzUWIwMnFQZHNBQW0tM0pRYmViaVF4TE1zTUlUMFY4dHpiTHBUR01ONHVlanJERGlYTk10Mw?oc=5",
+     "ts": "2026-10-17T20:09:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -36432,11 +36458,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T21:40:42Z",
+  "last_run": "2026-10-17T21:50:45Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 95/100",
-   "gnews_ru: 43/60",
+   "gnews_en: 94/100",
+   "gnews_ru: 44/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -36445,7 +36471,7 @@
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
    "gtaboom: 4/30",
-   "reddit: 25/25",
+   "reddit: 24/25",
    "tg_gtavistar: 2/12"
   ],
   "digest": "2026-10-17",
