@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-17T10:30:58Z",
+   "updated": "2026-10-17T10:40:46Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -7584,6 +7584,19 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblNNRlpIZUNyUTl6WE5ydTI2NWVMOHFnQlFOd1lqQ2V2UUZPdjByTG9zeE92amJ1bzhJTDRHS3dEXzI1MFFtV2J5d2RhNk03UjkzNlB1ZnIxYmJYVlYzS2VITTJCa1lwVjhDZlNXb01GZXR3b0M5WXJQLVNOS2ZDU0xjSmtRTkhuOW9GTlJhUE5kRVFKV2FLeV83TTRGOWRIVEFIUDQ2dXFSWUlJNS1sb21R?oc=5",
      "ts": "2026-10-17T10:21:58Z",
      "summary": ""
+    },
+    {
+     "id": "9dd4023179ab",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Отмена предзаказа GTA 6 из-за нового трейлера стала поводом для насмешек",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTFIaHVGdm8zcDhmLTFIcFZiT19LeW1MVXdZdVJUbnBQU2c0LU14aVVxLXVFX2J3MEpnS1RIdzVJX1RqRDlocWtPLUxaLURWT245STdRQnNUMTNrVVhoT0lJZlh2LXJkYWhZQVdhY3hMR3JFWklZbHhNZ19nN3FsYU1pb2R3OUNnVEk2YVVlMTFjdmFmeE4zb2VycGg0T1dFbnJUaWg4OXExVHpqTGc?oc=5",
+     "ts": "2026-10-17T10:30:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -7601,6 +7614,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "b54ae32ff29d",
+   "title": "Which Pill?",
+   "first_seen": "2026-10-17T10:40:46Z",
+   "updated": "2026-10-17T10:40:46Z",
+   "items": [
+    {
+     "id": "b54ae32ff29d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Which Pill?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x86qhr/which_pill/",
+     "ts": "2026-10-17T10:17:55Z",
+     "summary": "submitted by /u/Adventurous-Feed-197 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -33593,11 +33632,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T10:30:58Z",
+  "last_run": "2026-10-17T10:40:46Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 97/100",
-   "gnews_ru: 71/74",
+   "gnews_en: 96/100",
+   "gnews_ru: 70/73",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
