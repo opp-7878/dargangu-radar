@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "0ada8019bc90",
+   "title": "TTWO CEO Bets On 'Grand Theft Auto VI' To Keep $8.2B Net Bookings Target On Track",
+   "first_seen": "2026-10-17T13:40:41Z",
+   "updated": "2026-10-17T13:40:41Z",
+   "items": [
+    {
+     "id": "0ada8019bc90",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Stocktwits",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "TTWO CEO Bets On 'Grand Theft Auto VI' To Keep $8.2B Net Bookings Target On Track",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVkVyQ3F1S0JDSm5RSzB3Vm9mbjRwVDRqVFdxd25kOGxaZlppZHZJWTFfT2lzQ2ktZ2xvU2pwc0lUemREaVNWMVpfX0JZeVZESWliVlBvNDBtbUc3dzFKWjhpbklyX1JIQkZYODF3QXAxbEpHQ3ZiRnpndWhoc0JvcXRnQ0wxRXF6ZEpqRVJRbWxFR3g3eG42RUptZTZEZXlHX0ctWFZteWtQMFBySGMtMFdha3JDOGQ5aFlHWHlGalBUTy1yUFhZMkZlWFVRN0pyU0ZxNUVFbGJDODA?oc=5",
+     "ts": "2026-10-16T16:54:14Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2da41a811287",
+   "title": "Эксперт по HDR заподозрил GTA 6 в дешёвой конвертации из SDR за месяц до релиза",
+   "first_seen": "2026-10-17T13:40:41Z",
+   "updated": "2026-10-17T13:40:41Z",
+   "items": [
+    {
+     "id": "2da41a811287",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Эксперт по HDR заподозрил GTA 6 в дешёвой конвертации из SDR за месяц до релиза",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbm1rSk9reWowbFVPN19fQktzdzlkU2JfSUsxT09iN2xWN2hiaDE1WmVnaUIxNmxtVXQtVVN5N2xsaXdEdk9KNHZFeU94OFg0bk1jTXpVUmI0Vi1Fem9qcjAxdEh0M3d4WjgxWDVvQ0lRRmlCZG1faUlJSW5UN2hOM0FaaUFKS0hsX2JtaS1TYThRX2VZTzh5Z1c5VGFDZ2pvTTBWd3pvcV9yWm54WUVzMmU1NVJwRlU?oc=5",
+     "ts": "2026-10-17T13:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -34289,11 +34343,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T13:30:56Z",
+  "last_run": "2026-10-17T13:40:41Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 96/100",
-   "gnews_ru: 52/55",
+   "gnews_ru: 53/56",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
