@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-17T04:40:43Z",
+   "updated": "2026-10-17T04:50:46Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -7363,6 +7363,19 @@
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX2tnT0NncEJwR0lZUWw0RTEyS2VfN2tONlIyQ2Vjb01HLVQ4dFNjQWpLazVhUS1RZUt1R25ZdlVVUXFucGJTc1ZER0FRV081akNtdVhxSW5ESGttckdqTGVJbE9kZDFEeml1YmFna2JweUNVdVllWE5BWDBkUUNLS3VxOHRSajJ3d2g4dE9B?oc=5",
      "ts": "2026-10-17T04:18:12Z",
      "summary": ""
+    },
+    {
+     "id": "7bb2223521d4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iXBT.games",
+     "group": "media",
+     "weight": 45,
+     "alert": true,
+     "title": "It seems that after 18 years, Rockstar has fixed a graphics engine bug - the GTA VI trailer was evaluated by Digital Foundry",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWFlxYnM0bEI4dHNPNHN4b21XbHdva011TS1Na2QzZDAwRVNyUlV1SUpFU0N5LWpYWnBNb1Zjd19iNzFHZlB4Ym90aXIwTEltalh3alkwWl9WeHFudE1BYnpUNXlQbEpKc0hLX2NNSGhXTVdMSTN5NlpsRjN0LV9KUEhWeUtBSVhLM0tzdXV2MkxKcm12NDhHTDhCMWkzeG4xYnRqZnFOZGVuWjBtNlJpcGVYTXktOVVoaU1IUmg3a2J1aUZHdldjRTRicG9xS3lPY21MbHpKU2taa2hnNkVrcVlrY29Fd9IB5gFBVV95cUxPWFlxYnM0bEI4dHNPNHN4b21XbHdva011TS1Na2QzZDAwRVNyUlV1SUpFU0N5LWpYWnBNb1Zjd19iNzFHZlB4Ym90aXIwTEltalh3alkwWl9WeHFudE1BYnpUNXlQbEpKc0hLX2NNSGhXTVdMSTN5NlpsRjN0LV9KUEhWeUtBSVhLM0tzdXV2MkxKcm12NDhHTDhCMWkzeG4xYnRqZnFOZGVuWjBtNlJpcGVYTXktOVVoaU1IUmg3a2J1aUZHdldjRTRicG9xS3lPY21MbHpKU2taa2hnNkVrcVlrY29Fdw?oc=5",
+     "ts": "2026-10-17T02:49:08Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -7380,6 +7393,34 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "7c7bd64c27ce",
+   "title": "GTA 6 CUSTOM PC BUILD",
+   "first_seen": "2026-10-17T04:50:46Z",
+   "updated": "2026-10-17T04:50:46Z",
+   "items": [
+    {
+     "id": "7c7bd64c27ce",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 CUSTOM PC BUILD",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x81df7/gta_6_custom_pc_build/",
+     "ts": "2026-10-17T04:49:07Z",
+     "summary": "Bro built a custom GTA 6 PC!!! Check it out!!! submitted by /u/SAKRUS762 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -32680,9 +32721,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T04:40:43Z",
+  "last_run": "2026-10-17T04:50:46Z",
   "last_log": [
-   "rockstar_site: 0/4",
+   "rockstar_site: 0/5",
    "gnews_en: 98/100",
    "gnews_ru: 80/83",
    "gamesbeat: 0/10",
