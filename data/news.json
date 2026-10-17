@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "cda7d40773ea",
-   "title": "GTA VI SOUNDTRACK BOOTLEG",
-   "first_seen": "2026-10-17T17:50:42Z",
-   "updated": "2026-10-17T17:50:42Z",
-   "items": [
-    {
-     "id": "cda7d40773ea",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA VI SOUNDTRACK BOOTLEG",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1x8ghcg/gta_vi_soundtrack_bootleg/",
-     "ts": "2026-10-17T17:48:15Z",
-     "summary": "Delete if not allowed 🚫 submitted by /u/Heat-Glittering to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-17T17:50:41Z",
+   "updated": "2026-10-17T18:01:09Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -7922,6 +7896,19 @@
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmprX3hPejVVbklBcm0tTHJGeEFSNEt2TDM0VE5kMUUwNnFuR0doX3U0ajdPOU5lb2RzeW1idjhnUlZCN3Z5VXFBNHptdHA2RjZ6UmpVUnBfdDBHYjVBTTlTdGVBWlZ4ckR5dTVodm51cjBrUy1EWjV5cnhCNEF6TWhJa0ZKNjBTZ0dsdENDa0tjbWRZTEptVkdMdw?oc=5",
      "ts": "2026-10-17T11:43:27Z",
      "summary": ""
+    },
+    {
+     "id": "b440ef196f3d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "There are two different versions of the final line of the chorus in Justice / Tame Impala’s launch trailer song. One goes, “We see the sun rise into another day,” while the other goes, “I will die before I walk away.” They chose the latter, which might be hinting at something :)",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x8gnm9/there_are_two_different_versions_of_the_final/",
+     "ts": "2026-10-17T17:55:31Z",
+     "summary": "submitted by /u/ixinho to r/GTAVI [link] [comments]"
     }
    ],
    "tags": [
@@ -7939,6 +7926,58 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "eabbf1f23c13",
+   "title": "‘Grand Theft Auto III’ Reaches 25th Anniversary as GTA 6 Release Draws Near",
+   "first_seen": "2026-10-17T18:01:09Z",
+   "updated": "2026-10-17T18:01:09Z",
+   "items": [
+    {
+     "id": "eabbf1f23c13",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Men's Journal",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto III’ Reaches 25th Anniversary as GTA 6 Release Draws Near",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX0JUWTdRelJVd1l4VXA1eDI5Sm1BbndjTnllZHdiNVNMWS1DQXpzUm9UWE1HNE9vNTlTRktMSUY0UjhWSm8zVWxVdFlDVzcxdVdIa3hmZVk1elROamhlTV9obXQxc0otR1o3c0dJSFphbE9ubjBlZkh5ZTJtUERFMmpsS1VkYzJoYUpIZ3lXQ0ozSkRHaUZKRmx0RUpXRV9MaVVkbnBWcVBPZm8wejRzVGdEM1JKdw?oc=5",
+     "ts": "2026-10-17T17:43:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cda7d40773ea",
+   "title": "GTA VI SOUNDTRACK BOOTLEG",
+   "first_seen": "2026-10-17T17:50:42Z",
+   "updated": "2026-10-17T17:50:42Z",
+   "items": [
+    {
+     "id": "cda7d40773ea",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI SOUNDTRACK BOOTLEG",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x8ghcg/gta_vi_soundtrack_bootleg/",
+     "ts": "2026-10-17T17:48:15Z",
+     "summary": "Delete if not allowed 🚫 submitted by /u/Heat-Glittering to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -35407,11 +35446,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T17:50:42Z",
+  "last_run": "2026-10-17T18:01:10Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 96/100",
-   "gnews_ru: 44/59",
+   "gnews_ru: 45/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -35423,7 +35462,7 @@
    "reddit: 25/25",
    "tg_gtavistar: 3/12"
   ],
-  "digest": "2026-10-16",
+  "digest": "2026-10-17",
   "tg_offset": 854319078
  }
 }
