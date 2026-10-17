@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "3b2de2ecdecb",
+   "title": "No, Rockstar Didn’t Say GTA 6 Is Unfinished Weeks Before Launch",
+   "first_seen": "2026-10-17T13:50:42Z",
+   "updated": "2026-10-17T13:50:42Z",
+   "items": [
+    {
+     "id": "3b2de2ecdecb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "VICE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "No, Rockstar Didn’t Say GTA 6 Is Unfinished Weeks Before Launch",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLU5BZkdBdkdyYi0zSFVOekR5N3ZlVUhOLWJpZzBsR1lKWHV6LXZIUkVFQ1dOa3NtTVNmSHczS0M3S3dzeXRZUGVjWndnek9VUHhFVXphdk1tZWJOUU91OHhXbExWRlBZS0V1Zm1fVlVvdVZNckF6YWx4WTV2M0hVRw?oc=5",
+     "ts": "2026-10-17T13:46:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "0ada8019bc90",
    "title": "TTWO CEO Bets On 'Grand Theft Auto VI' To Keep $8.2B Net Bookings Target On Track",
    "first_seen": "2026-10-17T13:40:41Z",
@@ -34343,13 +34369,13 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T13:40:41Z",
+  "last_run": "2026-10-17T13:50:42Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 96/100",
    "gnews_ru: 53/56",
    "gamesbeat: 0/10",
-   "vgc: 1/10",
+   "vgc: 0/10",
    "insider_gaming: 0/10",
    "ign: 0/20",
    "eurogamer: 2/100",
@@ -34357,7 +34383,7 @@
    "rockstarintel: 1/10",
    "gtaboom: 6/30",
    "reddit: 25/25",
-   "tg_gtavistar: 3/12"
+   "tg_gtavistar: 2/12"
   ],
   "digest": "2026-10-16",
   "tg_offset": 854319078
