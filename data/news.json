@@ -34843,11 +34843,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T15:50:41Z",
+  "last_run": "2026-10-17T16:01:33Z",
   "last_log": [
-   "rockstar_site: 0/4",
-   "gnews_en: 95/100",
-   "gnews_ru: 52/57",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -34855,7 +34855,7 @@
    "eurogamer: 2/100",
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
-   "gtaboom: 5/30",
+   "gtaboom: 4/30",
    "reddit: 25/25",
    "tg_gtavistar: 3/12"
   ],
