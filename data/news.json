@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "ba6d85dbaf22",
+   "title": "Лучше драк и пьянок: священник не стал выступать против увлечения GTA VI",
+   "first_seen": "2026-10-17T09:50:44Z",
+   "updated": "2026-10-17T09:50:44Z",
+   "items": [
+    {
+     "id": "ba6d85dbaf22",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "REGIONS.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Лучше драк и пьянок: священник не стал выступать против увлечения GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakQtU1F3amxaNWlHNDFPSDE0WWRhdVRSTUc0ZllhVm14OFlxQ3JtbElDTFM0M290TVFHMkVyWWtzdnJhbnoydTg5QmJtQUtkT2pSR0lBdWJCdWEza08wb1UzVGpoS0ROdTJpbTRqMjNLbzVpS2d6YXdTSkRkbzV1SkozZHdPbXVJRXlMWFdvbXVrdVpTdjhBMWttRlhHZU1qOWFNYUptMXhFMzQ?oc=5",
+     "ts": "2026-10-17T08:10:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4f300e11069e",
+   "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
+   "first_seen": "2026-10-17T09:50:44Z",
+   "updated": "2026-10-17T09:50:44Z",
+   "items": [
+    {
+     "id": "4f300e11069e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BeInCrypto",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sTWtBZHNIaWFoZ0RCMTdBRGQ5b1NOTkVUWkdzREV4OG1INXd2VDJfVnJxYkFvZXZKMGNTV0RiZ25NaHRTZkRyUm1WeV9jUHlSUGhDaWVMZGlfUDBGSi1fRnNIOGFjY2hJY3c?oc=5",
+     "ts": "2026-10-17T09:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -33343,11 +33397,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T09:40:47Z",
+  "last_run": "2026-10-17T09:50:44Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 96/100",
-   "gnews_ru: 67/70",
+   "gnews_ru: 68/71",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
