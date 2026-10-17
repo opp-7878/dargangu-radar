@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "bed70794ac88",
+   "title": "What is your set to play GTA 6?",
+   "first_seen": "2026-10-17T19:20:45Z",
+   "updated": "2026-10-17T19:20:45Z",
+   "items": [
+    {
+     "id": "bed70794ac88",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What is your set to play GTA 6?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x8iq5x/what_is_your_set_to_play_gta_6/",
+     "ts": "2026-10-17T19:19:54Z",
+     "summary": "📺- 50’ Oled 🎮 -Ps5 🎧- Razor Barracuda X submitted by /u/FxbioBorges to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "358bcfd26d8a",
    "title": "GTA 6 Day Gets Its Own PS5 Midnight Black Edition — But It’s Going To Be Almost Impossible To Buy",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -35827,9 +35853,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T19:10:42Z",
+  "last_run": "2026-10-17T19:20:45Z",
   "last_log": [
-   "rockstar_site: 0/2",
+   "rockstar_site: 0/1",
    "gnews_en: 96/100",
    "gnews_ru: 44/59",
    "gamesbeat: 0/10",
