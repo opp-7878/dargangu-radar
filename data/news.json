@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "8206c5fcb4bb",
+   "title": "В сети начали высмеивать геймеров, которым настолько плевать на GTA 6, что они обязательно должны всем об этом рассказать. В... 2026",
+   "first_seen": "2026-10-17T00:40:43Z",
+   "updated": "2026-10-17T00:40:43Z",
+   "items": [
+    {
+     "id": "8206c5fcb4bb",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В сети начали высмеивать геймеров, которым настолько плевать на GTA 6, что они обязательно должны всем об этом рассказать. В... 2026",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RSDJOTzlWSXNKZXlQVUttXzdoanVfN0NFNTlraFR2c1FuZmhYdXdmWS1ZdUxBdFA0NXN2LXltNVhzSlZ0YmNTZVc3OW4?oc=5",
+     "ts": "2026-10-16T23:07:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9ba3752e6ded",
    "title": "GTA 6 Has In-Game Advertising With This Much Detail?!",
    "first_seen": "2026-10-17T00:30:59Z",
@@ -32011,11 +32037,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T00:30:59Z",
+  "last_run": "2026-10-17T00:40:43Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 100/100",
-   "gnews_ru: 78/80",
+   "gnews_ru: 80/82",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
