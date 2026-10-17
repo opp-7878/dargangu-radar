@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "153e2dd03e72",
+   "title": "Почему разработка GTA 6 стоит так дорого",
+   "first_seen": "2026-10-17T20:50:44Z",
+   "updated": "2026-10-17T20:50:44Z",
+   "items": [
+    {
+     "id": "153e2dd03e72",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Почему разработка GTA 6 стоит так дорого",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaeVc3T2VRUEVUamFnTUl3aERndExfVEczZjQ1a0NfUnFRVzZCQnZMWXFodFdqdU1HcE5LcGxoOFFzdkFlaVRJZnFhbWVfblZwcDJvWjBIOEQway1KS1BzQm04aEF6c0phN1Q4WnZvTGk2ZGtZSlJEWFkxWQ?oc=5",
+     "ts": "2026-10-17T08:58:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fcc30d2beb80",
+   "title": "With the advancements in AI we could see a new GTA every year",
+   "first_seen": "2026-10-17T20:50:44Z",
+   "updated": "2026-10-17T20:50:44Z",
+   "items": [
+    {
+     "id": "fcc30d2beb80",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "With the advancements in AI we could see a new GTA every year",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x8ku60/with_the_advancements_in_ai_we_could_see_a_new/",
+     "ts": "2026-10-17T20:48:57Z",
+     "summary": "submitted by /u/Eyesiswatchin to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -36235,7 +36287,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T20:40:44Z",
+  "last_run": "2026-10-17T20:50:44Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 96/100",
