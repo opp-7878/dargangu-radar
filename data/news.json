@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "918498961492",
-   "title": "GTA VI is almost here: 6 things to know before Rockstar’s biggest release yet",
-   "first_seen": "2026-10-17T05:50:44Z",
-   "updated": "2026-10-17T05:50:44Z",
-   "items": [
-    {
-     "id": "918498961492",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Open Magazine",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI is almost here: 6 things to know before Rockstar’s biggest release yet",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMk92ZXdkSkRPS19naUlPQVdBb0xBYXF0b1lMX3NJMGN3dmlsY294bkZuelhiTkkwYVJMSFgwb3dKVklBX00wVGwwRGhVV3h2YmJ6cEptcFRsZENvOWdWUDZIaEdoTnFzWGNTck5hTHhiMEU4UnRjVnlHS09Qd0pTclNrbmtib0JEbzY2c1lkbzQ4RWZnejM4UnNhZFFkOXluTHFWMDJIV3NaODYzd1p6cmhicw?oc=5",
-     "ts": "2026-10-17T05:42:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-17T05:20:43Z",
+   "updated": "2026-10-17T06:01:09Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -7428,6 +7402,19 @@
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TTHVvOE01bnV3WnZUNWRJcXpTbk84SnkzTVNLWVhrYTNveG83cnhqbDA2MnJpNU9mUmkzbHNXYWhmLVpRZGpNYnJ6TGFIUVRFcnE1Zmw5TjlHMDctUHhhMw?oc=5",
      "ts": "2026-10-17T03:55:53Z",
      "summary": ""
+    },
+    {
+     "id": "d0ab5ca24a9e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I wouldn't be surprised if GTA 6's PC version would be available to download in less than a week of console release",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x82j1h/i_wouldnt_be_surprised_if_gta_6s_pc_version_would/",
+     "ts": "2026-10-17T05:56:48Z",
+     "summary": "Bloodborne and GOW 3's PC port is there. Also they managed to emulate PS5 Then they managed to make a whole free PS5 store free version. Now look, GTA 6 is the greatest piece of Media of all time! 100 thousands or more people would be trying to crack it or like just make it work on PC, not even 100k, even million or more people! From around the world, very skilled people, group of people from Russia, America and other so many countries, I would not be surprised if we get GTA 6 would be available to download online in less than a week of console release. I know it feels impossible like saying w"
     }
    ],
    "tags": [
@@ -7445,6 +7432,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "918498961492",
+   "title": "GTA VI is almost here: 6 things to know before Rockstar’s biggest release yet",
+   "first_seen": "2026-10-17T05:50:44Z",
+   "updated": "2026-10-17T05:50:44Z",
+   "items": [
+    {
+     "id": "918498961492",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Open Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI is almost here: 6 things to know before Rockstar’s biggest release yet",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMk92ZXdkSkRPS19naUlPQVdBb0xBYXF0b1lMX3NJMGN3dmlsY294bkZuelhiTkkwYVJMSFgwb3dKVklBX00wVGwwRGhVV3h2YmJ6cEptcFRsZENvOWdWUDZIaEdoTnFzWGNTck5hTHhiMEU4UnRjVnlHS09Qd0pTclNrbmtib0JEbzY2c1lkbzQ4RWZnejM4UnNhZFFkOXluTHFWMDJIV3NaODYzd1p6cmhicw?oc=5",
+     "ts": "2026-10-17T05:42:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -32840,9 +32853,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T05:50:44Z",
+  "last_run": "2026-10-17T06:01:09Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/4",
    "gnews_en: 98/100",
    "gnews_ru: 78/81",
    "gamesbeat: 0/10",
