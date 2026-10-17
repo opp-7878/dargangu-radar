@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "16c51eecc20b",
+   "title": "What GTA 6 coverage keeps getting wrong - Reader's Feature",
+   "first_seen": "2026-10-17T01:50:41Z",
+   "updated": "2026-10-17T01:50:41Z",
+   "items": [
+    {
+     "id": "16c51eecc20b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Metro.co.uk",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "What GTA 6 coverage keeps getting wrong - Reader's Feature",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSlk5R3dUdzVfSFRCMVY3THhRRmYycEFnaGpxajkwRXhTTHpzUzVrcXpYMS1HdTJxQUF4VnB0c2c1cDViX1c4MG03cUZiOWl6V09LWXVIbjQ4RU1DeXk4dUFDeS1wWnVSSVhueVRaeXVKMk1uTEVia0s5Y2JLT1RNcld1SDl4US1NVVlwa1ZfOF9BNnFhT2fSAZsBQVVfeXFMUFlKMThNRWFIQmRhV2N2WnlNU25ZZVMwQjdSRjcwalRqYkFOektRcmJYZkRSbE1uMWNzaGFFOU5FQXJOaDRTZ1R6cENReTQyWVFvempPbzZhODRIbWExOEVlbVBoNFNJQmRnSUk2YmluTU1DdGk2VXlZMElYRVNJMDBMU3VXZmZEMjBiR29ISjA4SThfYW1MQ0NtRHM?oc=5",
+     "ts": "2026-10-17T00:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "dd7d97cc8af4",
    "title": "GTA 6 Miami Takeover Faces Backlash From Officials",
    "first_seen": "2026-10-17T01:30:54Z",
@@ -32102,11 +32128,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T01:40:44Z",
+  "last_run": "2026-10-17T01:50:41Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 99/100",
-   "gnews_ru: 78/81",
+   "gnews_ru: 77/80",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
