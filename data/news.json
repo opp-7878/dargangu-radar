@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-17T16:40:46Z",
+   "updated": "2026-10-17T17:01:10Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -7844,6 +7844,19 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1x8dudq/i_cant_unsee_this_weird_detail_in_the_gta_6/",
      "ts": "2026-10-17T16:01:38Z",
      "summary": "Rockstar says the GTA 6 footage was captured in game on PS5, but look at the dirt bike scene. The steering is literally turned ALL the way to one side for basically the entire jump, then gets fully turned back straight before landing. That looks more like keyboard input than someone gradually moving an analog stick. I slowed the clip down to 0.5x (pls ignore the watermark) anyone else seeing it? submitted by /u/Various-Commission98 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "6885548f5e1b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Seriously, PC players are 100% screwed.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x8f4tx/seriously_pc_players_are_100_screwed/",
+     "ts": "2026-10-17T16:53:07Z",
+     "summary": "Q1 of 2027 is the supposed RD of GTA 6 for PC. That's not much long after the console RD. But really, even a 1 week delay will have most PC players seeing spoilers, let alone months. And there really isn't any way around it. You will not turn off social media for 2-4 months, don't fool yourself. You are pretty much FORCED to see that one, big and ugly YouTube thumbnail at some point, or scroll into that one reel or tiktok. Or getting told by friends on discord, or even overhearing some random person at work, school or uni who just finished the game. This wouldn't be such a big issue with other"
     }
    ],
    "tags": [
@@ -7862,6 +7875,60 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
    "status": "new"
+  },
+  {
+   "id": "709abd1a6352",
+   "title": "Shrek 2 Remastered Appears Briefly on XBOX Store",
+   "first_seen": "2026-10-16T18:31:03Z",
+   "updated": "2026-10-17T17:01:10Z",
+   "items": [
+    {
+     "id": "709abd1a6352",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Shrek 2 Remastered Appears Briefly on XBOX Store",
+     "url": "https://insider-gaming.com/shrek-2-remastered-appears-briefly-on-xbox-store/",
+     "ts": "2026-10-16T18:22:14Z",
+     "summary": "Shrek 2 Remastered briefly appeared on the XBOX store and a GTA 6-inspired announcement trailer has surfaced online. The post Shrek 2 Remastered Appears Briefly on XBOX Store appeared first on Insider Gaming ."
+    },
+    {
+     "id": "e720143f816b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Xbox Has Just Fully Leaked Shrek 2 Remastered, And It Even Parodies GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcG83aHBSM210Snk5M1ljRVBlbFhvYlI4OGFTNjVpV2s1UjNudW40bm5qNDg0bmRZQWRBRzhSLXJvUUM5Y3RMd2pFb0VMaVMzZ09nV1JxeHNlcmpWWkhjdWZHSElxbDN4TXNaMXZoQlFRR0JBSTYwWjdfU3dYQjVuc29CRFFKandBSDZFN3NablYxVHI3a1pOTzJtLXdEZENfV01jdEx6Rmk5dw?oc=5",
+     "ts": "2026-10-16T19:35:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online",
+    "анонс",
+    "слив",
+    "трейлер"
+   ],
+   "score": 88,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Слитый трейлер GTA 6 всплыл в магазине Xbox? 👀",
+    "summary": "В магазине Xbox ненадолго появился Shrek 2 Remastered, а вместе с ним — трейлер в стиле анонса GTA 6. Об этом сообщил Insider Gaming (Tom Henderson).",
+    "idea": "Разбор странного трейлера: показываем кадры, сравниваем с GTA 6 и объясняем, почему это, скорее всего, фейк. Зрителю интересно, настоящий ли это тизер.",
+    "hook": "В Xbox Store всплыл трейлер GTA 6? Разбираем слитые кадры.",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-16T18:31:08Z"
+   },
+   "msg_id": 100
   },
   {
    "id": "980af69418ae",
@@ -14220,46 +14287,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "709abd1a6352",
-   "title": "Shrek 2 Remastered Appears Briefly on XBOX Store",
-   "first_seen": "2026-10-16T18:31:03Z",
-   "updated": "2026-10-16T18:31:03Z",
-   "items": [
-    {
-     "id": "709abd1a6352",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Shrek 2 Remastered Appears Briefly on XBOX Store",
-     "url": "https://insider-gaming.com/shrek-2-remastered-appears-briefly-on-xbox-store/",
-     "ts": "2026-10-16T18:22:14Z",
-     "summary": "Shrek 2 Remastered briefly appeared on the XBOX store and a GTA 6-inspired announcement trailer has surfaced online. The post Shrek 2 Remastered Appears Briefly on XBOX Store appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [
-    "Online",
-    "анонс",
-    "трейлер"
-   ],
-   "score": 80,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Слитый трейлер GTA 6 всплыл в магазине Xbox? 👀",
-    "summary": "В магазине Xbox ненадолго появился Shrek 2 Remastered, а вместе с ним — трейлер в стиле анонса GTA 6. Об этом сообщил Insider Gaming (Tom Henderson).",
-    "idea": "Разбор странного трейлера: показываем кадры, сравниваем с GTA 6 и объясняем, почему это, скорее всего, фейк. Зрителю интересно, настоящий ли это тизер.",
-    "hook": "В Xbox Store всплыл трейлер GTA 6? Разбираем слитые кадры.",
-    "stars": 2,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-16T18:31:08Z"
-   },
-   "msg_id": 100
   },
   {
    "id": "fff13fb455bd",
@@ -35146,11 +35173,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T16:50:42Z",
+  "last_run": "2026-10-17T17:01:10Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 96/100",
-   "gnews_ru: 50/55",
+   "gnews_ru: 48/55",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
