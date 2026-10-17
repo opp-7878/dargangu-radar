@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "78435add495a",
+   "title": "Watch Rockstar Rebuilt Itself to Make GTA VI",
+   "first_seen": "2026-10-17T12:20:49Z",
+   "updated": "2026-10-17T12:20:49Z",
+   "items": [
+    {
+     "id": "78435add495a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Bloomberg.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Watch Rockstar Rebuilt Itself to Make GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFU1Z1R6NENpYzJlcFNhd3BKR1l2MTF4NGpnckNKWjBScUFMZFQtTEFVYUM5X1lQd3lTT1YyblZYZ2p0STg0cE5VeXlrUlJkNWtZeDk1c0hFc25ramdUZW03d3hNQ0dDQ2MzX3lVdm05V3piaHVFWGpxUkxaN1R5d1ZqSGMyWjBOZUFTXy1EOGNhQVg1WkJRVQ?oc=5",
+     "ts": "2026-10-17T00:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -34014,11 +34040,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T12:10:43Z",
+  "last_run": "2026-10-17T12:20:49Z",
   "last_log": [
    "rockstar_site: 0/5",
-   "gnews_en: 98/100",
-   "gnews_ru: 62/63",
+   "gnews_en: 97/100",
+   "gnews_ru: 59/61",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
