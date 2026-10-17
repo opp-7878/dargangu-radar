@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "8058f8546413",
+   "title": "GTA 6 on the base PS5 uses 1440p with 4K upscaling without PSSR and QSSR",
+   "first_seen": "2026-10-17T02:50:43Z",
+   "updated": "2026-10-17T02:50:43Z",
+   "items": [
+    {
+     "id": "8058f8546413",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 on the base PS5 uses 1440p with 4K upscaling without PSSR and QSSR",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3IzWjhaeGcxU3FkelRsTTd0NDR1UFQzMms3VE81T3IwZkwzXzB4bnZuS2JSTWxGYUpJNDItWFFFVUEtaXRILTJ2bTdkdTZ2N2ZVYzhyXy1TMUs0SGVCdVVxSUtUVGRiekZRZ1V1UU9JMXdfcmp0VGlMOGxpS19WMHRXcjlRSFF2LTBDbHVWcTNZVUVzX0lGdGw1a1RXOFV0bWVaYTE4UktEdGtfcWhURw?oc=5",
+     "ts": "2026-10-17T02:45:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -32325,11 +32351,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T02:40:44Z",
+  "last_run": "2026-10-17T02:50:43Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 99/100",
-   "gnews_ru: 76/79",
+   "gnews_en: 98/100",
+   "gnews_ru: 77/80",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
