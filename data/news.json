@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "3b7953429c21",
+   "title": "GTA 6 на базовой PS5 использует 1440p с масштабированием до 4K без PSSR и QSSR",
+   "first_seen": "2026-10-17T03:01:09Z",
+   "updated": "2026-10-17T03:01:09Z",
+   "items": [
+    {
+     "id": "3b7953429c21",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 на базовой PS5 использует 1440p с масштабированием до 4K без PSSR и QSSR",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDJpMlgzNjd2NExNUEFoR296RVNRbi1lN1N4cDB5X28zZ01kemJHOTcyZWY3ZThFZjhNQXZnQS1SS0phVEJMUm9JRi1uVEJZcUJnY2xfcTFDN3pGYko4NV9xaTJGOUFIeDF3SjFVVkNFZ29LZGpGNllxSmdDRGxwTXNhd1JHYXVJQ2hVT3kwSXBHbGlWQzFXYXN4SjBRTGZIRlhic2J4ZTIxWi1o?oc=5",
+     "ts": "2026-10-17T02:45:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "8058f8546413",
    "title": "GTA 6 on the base PS5 uses 1440p with 4K upscaling without PSSR and QSSR",
    "first_seen": "2026-10-17T02:50:43Z",
@@ -32351,7 +32377,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T02:50:43Z",
+  "last_run": "2026-10-17T03:01:09Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
