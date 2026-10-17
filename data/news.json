@@ -1,6 +1,158 @@
 {
  "stories": [
   {
+   "id": "4f300e11069e",
+   "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
+   "first_seen": "2026-10-17T09:50:44Z",
+   "updated": "2026-10-17T10:10:44Z",
+   "items": [
+    {
+     "id": "4f300e11069e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BeInCrypto",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sTWtBZHNIaWFoZ0RCMTdBRGQ5b1NOTkVUWkdzREV4OG1INXd2VDJfVnJxYkFvZXZKMGNTV0RiZ25NaHRTZkRyUm1WeV9jUHlSUGhDaWVMZGlfUDBGSi1fRnNIOGFjY2hJY3c?oc=5",
+     "ts": "2026-10-17T09:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "64c6161e9171",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Autos",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjluZXN3Zlp6ZG1jNXlYYWZxSk5ISTUtQzQ0NHNES1JIU0QxWllWMjRGUXl0b1pPMGNXelVtUVB6YjVJZ1BvN1JUeVczSlBnZUhlRXA0dWdlNk1PRF9SNDliNkh6QkVGSEphOGUtbFFFSGRKQk1JbWh3bVl3RnRBY1BTM1M5SXVYNzNlVXBEWUNuY2pI?oc=5",
+     "ts": "2026-10-17T09:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Белый дом подколол GTA 6 после показа летающего Tesla",
+    "summary": "Белый дом пошутил над GTA 6 после презентации летающего автомобиля Tesla, пишут BeInCrypto и Yahoo Autos. Официально это не связано с датой игры. Rockstar и Take-Two ситуацию не комментировали.",
+    "idea": "Сравнение: летающий Tesla vs GTA 6 — где будущее ближе. Короткие кадры презентации, титр с шуткой Белого дома, вопрос зрителю.",
+    "hook": "Белый дом только что подколол GTA 6 — после летающего Tesla.",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-17T10:10:47Z"
+   },
+   "msg_id": 101
+  },
+  {
+   "id": "e27fe35da1f5",
+   "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
+   "first_seen": "2026-10-16T09:30:59Z",
+   "updated": "2026-10-17T10:10:44Z",
+   "items": [
+    {
+     "id": "e27fe35da1f5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTlWZ0VBZWNqbEwzQ0dIb1lHVjVxMGhTNGFURlVkLVluWVEyXzBqOXIwVUwzTlU5T2JmNjNnNHg5SHhjOVZaeUpua0FPUGhSOW5yUGYtcXVSVGxXUFV5aWdYSUVnU3ZRSF9NRnh3Wi1NNHlZX25aR1l3ckE0bzhMczVpUnFoTzRqVnh6MUtOUVh3TXJ5UmdKTV9YWjlHV1p6amFtcmhENk15NUJkTzlEZ1hFbktfdDBmSGtrVXoyb0JITnU5Y3NTWVNIcFZ3OG5NTEdfLWFySDFTcUdrMldBTGRyUjY?oc=5",
+     "ts": "2026-10-16T09:25:07Z",
+     "summary": ""
+    },
+    {
+     "id": "817e041598e3",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
+     "url": "https://www.ign.com/articles/rockstar-mods-real-life-vehicles-gta-6-cars-miami",
+     "ts": "2026-10-16T09:13:30Z",
+     "summary": "Rockstar’s wild marketing push for GTA 6 is well underway, with the latest seeing modded cars cruising around Miami."
+    },
+    {
+     "id": "69f745eec992",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVnNZdkVHaUtoeFpaNlFBRjkyY0xraVBLSjl4SEQyaDBHRUF1OXoxV3N2NDI0M1BKbWxRalNMZjQ2VEJIOEd1VC1SNWhRM3J0NUtIYTdIM1BNcnFnUkRQVWVubXUzX09Md3FEMUlrYWNYblNGRGhfMzFOdmFjLWlqT1d6Q01rcVhIOG9UZjZheUJpT1JDM2pYd2xlbDBIcENOZ1c1VVNBdE9FM3V6UVZ2dW15Q2UwS21wVFVPUnBnUmNYRTFnem1mcjkyb1JRdzFTVUVGN2pleDR4TkRCNnAzVFduaWxrQQ?oc=5",
+     "ts": "2026-10-16T10:05:07Z",
+     "summary": ""
+    },
+    {
+     "id": "1a4c19618b3f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 marketing gets a unique touch as Rockstar mods real cars into in-game vehicles and drives them through Miami",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQckRFRC1FZVRVQ3JqcFpkVV96OVZLRkRTMER0TlZRdjZhXzRUc0dMRUdmQ0c3cUk1YlkwaFhRdzBnWG1fUUotZWlYbWQ2em9zWU1pUnNBVGFXalhHZFdYUGpudWRHajR5d1NSbkJpc0lCd3B5NWRsMjRxSWxpM1pXSFpKdGdjVm80NHVEeUhJRVNScHJ0YUkwSkhZWGtGWElUMjk0cHdQSHJZQWdlX2JfUzlOU0FXZTRfb3FtenFyOUMxZmxXUWxnWkpGZE1kT3JuNGptbkowSy0wSF9WWFV4UWNpYWNUS2Q5NVlYc3NfTHk?oc=5",
+     "ts": "2026-10-16T15:17:00Z",
+     "summary": ""
+    },
+    {
+     "id": "65bce8d80361",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Real Life GTA 6 Vehicles Are Driving Around Miami",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWxMUEVkdXVGMjBialB1cnVkbXlCeW00ZXhpcmZuY3lydkJIelY4R0dxVVRpMnJPNmlja0ZPTk96aktSSkRHTFNfQU1KQjNoMFZJamVKX3QzSmpVb240R1RDdVY3TUhQUlNsM3Q4UmQ5T2VrQ2JDaDJzS0FiVTZEYm5KckxodlpUTWw4?oc=5",
+     "ts": "2026-10-16T16:35:41Z",
+     "summary": ""
+    },
+    {
+     "id": "501978a91957",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU3d3Ui1oTjNaWUJiSVhYVV93QU9WSDlHd0FsMmZsVlFBU1g3S1hZMHFxTzVGQzdWb2VmNzlBMlNXSGlscnVFUHN0SkVtSk56MVRGU3oyV1hvQ3BCTHZtdkxVb3BlTHphenplQkVuRDlnYzNqRGF1NFJrSGU5UFNyUXhGWnprT1NBQnYxaHJHMGduUEZRRTNLaEh1QlpobVJySEc5OEFBRjJCbUZhOVdPUFA4T3hXZjBHdEFaRFQ0TkljUEhRWHdvazZBYTZqd2h3aVE?oc=5",
+     "ts": "2026-10-16T18:25:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 95,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Машины GTA 6 выехали на улицы Майами: промо Rockstar",
+    "summary": "Rockstar заморочилась с промо GTA 6: реальные машины переделали под игровые и пустили по Майами. Об этом пишут IGN и региональные издания IGN.",
+    "idea": "Снимем реакцию на улицах Майами: прохожие думают, что это тюнинг, а мы показываем, что это промо GTA 6. Короткие интервью и крупные планы деталей.",
+    "hook": "Это не тюнинг. Это промо GTA 6 — машины прямо из игры на улицах Майами.",
+    "stars": 3,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-16T10:10:50Z"
+   },
+   "msg_id": 93
+  },
+  {
    "id": "b416e8cfb931",
    "title": "Rockstar перенесла GTA 6 на улицы Майами – по городу ездит живая реклама игры",
    "first_seen": "2026-10-17T10:01:11Z",
@@ -74,34 +226,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4f300e11069e",
-   "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
-   "first_seen": "2026-10-17T09:50:44Z",
-   "updated": "2026-10-17T09:50:44Z",
-   "items": [
-    {
-     "id": "4f300e11069e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BeInCrypto",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sTWtBZHNIaWFoZ0RCMTdBRGQ5b1NOTkVUWkdzREV4OG1INXd2VDJfVnJxYkFvZXZKMGNTV0RiZ25NaHRTZkRyUm1WeV9jUHlSUGhDaWVMZGlfUDBGSi1fRnNIOGFjY2hJY3c?oc=5",
-     "ts": "2026-10-17T09:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -13116,94 +13240,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e27fe35da1f5",
-   "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
-   "first_seen": "2026-10-16T09:30:59Z",
-   "updated": "2026-10-16T16:40:47Z",
-   "items": [
-    {
-     "id": "e27fe35da1f5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTlWZ0VBZWNqbEwzQ0dIb1lHVjVxMGhTNGFURlVkLVluWVEyXzBqOXIwVUwzTlU5T2JmNjNnNHg5SHhjOVZaeUpua0FPUGhSOW5yUGYtcXVSVGxXUFV5aWdYSUVnU3ZRSF9NRnh3Wi1NNHlZX25aR1l3ckE0bzhMczVpUnFoTzRqVnh6MUtOUVh3TXJ5UmdKTV9YWjlHV1p6amFtcmhENk15NUJkTzlEZ1hFbktfdDBmSGtrVXoyb0JITnU5Y3NTWVNIcFZ3OG5NTEdfLWFySDFTcUdrMldBTGRyUjY?oc=5",
-     "ts": "2026-10-16T09:25:07Z",
-     "summary": ""
-    },
-    {
-     "id": "817e041598e3",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
-     "url": "https://www.ign.com/articles/rockstar-mods-real-life-vehicles-gta-6-cars-miami",
-     "ts": "2026-10-16T09:13:30Z",
-     "summary": "Rockstar’s wild marketing push for GTA 6 is well underway, with the latest seeing modded cars cruising around Miami."
-    },
-    {
-     "id": "69f745eec992",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVnNZdkVHaUtoeFpaNlFBRjkyY0xraVBLSjl4SEQyaDBHRUF1OXoxV3N2NDI0M1BKbWxRalNMZjQ2VEJIOEd1VC1SNWhRM3J0NUtIYTdIM1BNcnFnUkRQVWVubXUzX09Md3FEMUlrYWNYblNGRGhfMzFOdmFjLWlqT1d6Q01rcVhIOG9UZjZheUJpT1JDM2pYd2xlbDBIcENOZ1c1VVNBdE9FM3V6UVZ2dW15Q2UwS21wVFVPUnBnUmNYRTFnem1mcjkyb1JRdzFTVUVGN2pleDR4TkRCNnAzVFduaWxrQQ?oc=5",
-     "ts": "2026-10-16T10:05:07Z",
-     "summary": ""
-    },
-    {
-     "id": "1a4c19618b3f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Notebookcheck",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 marketing gets a unique touch as Rockstar mods real cars into in-game vehicles and drives them through Miami",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQckRFRC1FZVRVQ3JqcFpkVV96OVZLRkRTMER0TlZRdjZhXzRUc0dMRUdmQ0c3cUk1YlkwaFhRdzBnWG1fUUotZWlYbWQ2em9zWU1pUnNBVGFXalhHZFdYUGpudWRHajR5d1NSbkJpc0lCd3B5NWRsMjRxSWxpM1pXSFpKdGdjVm80NHVEeUhJRVNScHJ0YUkwSkhZWGtGWElUMjk0cHdQSHJZQWdlX2JfUzlOU0FXZTRfb3FtenFyOUMxZmxXUWxnWkpGZE1kT3JuNGptbkowSy0wSF9WWFV4UWNpYWNUS2Q5NVlYc3NfTHk?oc=5",
-     "ts": "2026-10-16T15:17:00Z",
-     "summary": ""
-    },
-    {
-     "id": "65bce8d80361",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "OpenCritic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Real Life GTA 6 Vehicles Are Driving Around Miami",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWxMUEVkdXVGMjBialB1cnVkbXlCeW00ZXhpcmZuY3lydkJIelY4R0dxVVRpMnJPNmlja0ZPTk96aktSSkRHTFNfQU1KQjNoMFZJamVKX3QzSmpVb240R1RDdVY3TUhQUlNsM3Q4UmQ5T2VrQ2JDaDJzS0FiVTZEYm5KckxodlpUTWw4?oc=5",
-     "ts": "2026-10-16T16:35:41Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 95,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 Машины GTA 6 выехали на улицы Майами: промо Rockstar",
-    "summary": "Rockstar заморочилась с промо GTA 6: реальные машины переделали под игровые и пустили по Майами. Об этом пишут IGN и региональные издания IGN.",
-    "idea": "Снимем реакцию на улицах Майами: прохожие думают, что это тюнинг, а мы показываем, что это промо GTA 6. Короткие интервью и крупные планы деталей.",
-    "hook": "Это не тюнинг. Это промо GTA 6 — машины прямо из игры на улицах Майами.",
-    "stars": 3,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-16T10:10:50Z"
-   },
-   "msg_id": 93
   },
   {
    "id": "0bf7dfe30ef4",
@@ -33449,10 +33485,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T10:01:11Z",
+  "last_run": "2026-10-17T10:10:47Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 96/100",
+   "gnews_en: 97/100",
    "gnews_ru: 69/72",
    "gamesbeat: 0/10",
    "vgc: 1/10",
