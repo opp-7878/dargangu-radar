@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "2cacaf1fd3a1",
+   "title": "The Best Consoles for Playing GTA 6",
+   "first_seen": "2026-10-17T23:01:09Z",
+   "updated": "2026-10-17T23:01:09Z",
+   "items": [
+    {
+     "id": "2cacaf1fd3a1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "SSBCrack",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Best Consoles for Playing GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tWktjeW13R0k0MDZjWXFWc1oyQjUyblRDUlA3OGtQQThzdWJ6OXJyZDNtekk4X1BNLWtZU1d0YkR1Rks4Sk9xVzBvSDdpZ3NLdHB5Rl9rNXpZWkktVkNkZmNCZ19PZFBReHJjN3c1aVRSQQ?oc=5",
+     "ts": "2026-10-17T12:51:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -36653,11 +36679,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T22:50:43Z",
+  "last_run": "2026-10-17T23:01:09Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 95/100",
-   "gnews_ru: 41/62",
+   "gnews_en: 97/100",
+   "gnews_ru: 41/63",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -36666,7 +36692,7 @@
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
    "gtaboom: 5/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 2/12"
   ],
   "digest": "2026-10-17",
