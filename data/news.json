@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "d14f1c8199b0",
+   "title": "Главное за день: критика GTA 6, бесплатные игры, отмененная Assassin's Creed",
+   "first_seen": "2026-10-17T04:01:09Z",
+   "updated": "2026-10-17T04:01:09Z",
+   "items": [
+    {
+     "id": "d14f1c8199b0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Главное за день: критика GTA 6, бесплатные игры, отмененная Assassin's Creed",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYk5OX2NGMUE4MGdsRlN3eXpWV2hOSE9hSUdWTUYtTFVSYXZoMlVNc3JZcG1ZZVltaE8yOFVhdFhxVkM2NUZZWFNjeEctZXMwVmlQc0VXV1l6RFd6ZDVrNnBqQk9sX2R6ZENOMDRVek1HRktMbTJSNDQ2bW13STI0MWw1TURzUHRDajBwalRGTmdHeGwwNGZtMHU1OHlCQXJLLWw3MQ?oc=5",
+     "ts": "2026-10-16T18:30:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4147e5382443",
    "title": "Фанаты GTA 6 придумали теорию, что третий трейлер игры выйдет 15 октября",
    "first_seen": "2026-10-14T12:17:55Z",
@@ -32537,11 +32563,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T03:50:41Z",
+  "last_run": "2026-10-17T04:01:09Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 80/83",
+   "gnews_ru: 81/84",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
