@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "f38fab4d438f",
+   "title": "В Китае предложили неофициальные физические издания GTA VI",
+   "first_seen": "2026-10-17T06:40:41Z",
+   "updated": "2026-10-17T06:40:41Z",
+   "items": [
+    {
+     "id": "f38fab4d438f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В Китае предложили неофициальные физические издания GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXprRElxbjR3OVhnbDNiTGc3MV9wTVVNQmNJdHhKcXFHX3FRWUJkNmVDYXdLUWFKU0lWeUZZNEhMeUt6YUxhOFBLU3NnT1NVOThlVks2QTRDYTVGN0t5MlZwaVBxbmVadGV3UnBnakItdEpyTURhc2Z6TnU1UFNMb2oxNThNcUVyUmlhdnY2UlNVeFlmWnowQ1VMVTQwQmU4b1FsU3Q2WE5pN3BC?oc=5",
+     "ts": "2026-10-17T06:16:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "eb5669708947",
    "title": "Машины из GTA VI появились в реальности — на улицах Майами заметили суперкары в стиле Vice City",
    "first_seen": "2026-10-16T11:40:43Z",
@@ -32879,11 +32907,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T06:30:59Z",
+  "last_run": "2026-10-17T06:40:41Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 78/81",
+   "gnews_ru: 77/80",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
