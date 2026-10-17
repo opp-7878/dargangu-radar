@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "6f231679f413",
+   "title": "Утечка GTA 6 остановлена, но концовка под угрозой спойлеров",
+   "first_seen": "2026-10-17T08:40:42Z",
+   "updated": "2026-10-17T08:40:42Z",
+   "items": [
+    {
+     "id": "6f231679f413",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Pasquale Pillitteri",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Утечка GTA 6 остановлена, но концовка под угрозой спойлеров",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbi0yU3lRZnN1bGRjc2I4a3J3VjFqMnFSdjBDNllWZm1zb2Z2LW5oeUpUTExYdjVjNzBSU3NRLXJGRC1OcEwwUXpPRlBRTmpTRHh3MHBqQ0pvbEx6bTBER3JXeHZkaURNR29kTWtxYXZCZy1tMTY4OVlrSHM2SnZsUl92NHNqeGJMRnBnai1iSU9RdkJlanRINHg2eFprckk?oc=5",
+     "ts": "2026-10-17T08:30:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 55,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -33144,11 +33172,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T08:30:57Z",
+  "last_run": "2026-10-17T08:40:42Z",
   "last_log": [
-   "rockstar_site: 0/4",
+   "rockstar_site: 0/5",
    "gnews_en: 98/100",
-   "gnews_ru: 73/76",
+   "gnews_ru: 74/77",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
