@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-17T10:20:44Z",
+   "updated": "2026-10-17T10:30:58Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -7571,6 +7571,19 @@
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBua214aWM3MlNFQlNLZmRvWGhSRVBlUXh0ZnE1cE90b214a1hEU3R6X21KcHppWVZQZ3dlWVg2VkliQ3JDV1pJZEVrZXNKN0h2aG1pc2pHZFRMdw?oc=5",
      "ts": "2026-10-16T18:53:56Z",
      "summary": ""
+    },
+    {
+     "id": "a5bec30ecf78",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VGTimes",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Ремастер «Шрека 2» спародировал трейлер GTA 6 — Xbox показала игру раньше анонса",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblNNRlpIZUNyUTl6WE5ydTI2NWVMOHFnQlFOd1lqQ2V2UUZPdjByTG9zeE92amJ1bzhJTDRHS3dEXzI1MFFtV2J5d2RhNk03UjkzNlB1ZnIxYmJYVlYzS2VITTJCa1lwVjhDZlNXb01GZXR3b0M5WXJQLVNOS2ZDU0xjSmtRTkhuOW9GTlJhUE5kRVFKV2FLeV83TTRGOWRIVEFIUDQ2dXFSWUlJNS1sb21R?oc=5",
+     "ts": "2026-10-17T10:21:58Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -7588,6 +7601,34 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "d6f23c1d70b3",
+   "title": "Rockstar борзеть не стала: предзаказы на GTA 6 за $79,99 откроются в полночь по Москве",
+   "first_seen": "2026-10-17T10:30:58Z",
+   "updated": "2026-10-17T10:30:58Z",
+   "items": [
+    {
+     "id": "d6f23c1d70b3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar борзеть не стала: предзаказы на GTA 6 за $79,99 откроются в полночь по Москве",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2FBZkpGemtJcUg0OXpnREVmVW5iYm1wdl9sVmVIYTdpcU5iY3FyT2Z6ZWJjeTJXMjZSNHRDbVVDSVFpcWF5S1RkakxqZk55Rm9PRWE2dGlaZFZSUGJwQVh1c2RSV0Z1dFNUMElMZDVjX214S0hEWHQwQ1k5V2FrVHJMRjh6eXozZzV2Z2Etb05QWFFmb2dLVmU4NmxwWmYxQV9VTWR0NEFYcElBTGZtSA?oc=5",
+     "ts": "2026-10-17T08:48:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -33552,11 +33593,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-17T10:20:44Z",
+  "last_run": "2026-10-17T10:30:58Z",
   "last_log": [
-   "rockstar_site: 0/5",
-   "gnews_en: 96/100",
-   "gnews_ru: 69/72",
+   "rockstar_site: 0/4",
+   "gnews_en: 97/100",
+   "gnews_ru: 71/74",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
