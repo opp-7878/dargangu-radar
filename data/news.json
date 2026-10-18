@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "5c1cf711e24f",
+   "title": "Every Major Game Releasing in November That Isn’t GTA 6",
+   "first_seen": "2026-10-18T05:40:41Z",
+   "updated": "2026-10-18T14:20:45Z",
+   "items": [
+    {
+     "id": "5c1cf711e24f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Every Major Game Releasing in November That Isn’t GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EeUhYWENXSExUN3FhWUpuLWRYc3UxOWdUNnM5dGRRUmxHM2FTT3FMRFJvY3JxdGw3MkVlb3JUY21JMzJkcnczLW5xVEVPSWY0SlViTDRVdHVUT0ZfRXZSZHd3?oc=5",
+     "ts": "2026-10-18T04:00:23Z",
+     "summary": ""
+    },
+    {
+     "id": "5e136e7c9f41",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "games.gg",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Every Major Game Releasing in November That Isn't GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05OWxEZVA1bVVWNGJvWXhTWWlfUHVKZ1JKOG5PSlhDNGx4MTdINk9pRXEwNGJ6OGJjZ3ZvZng5Y2RCRTk1UWZab0ZqN3dOMnNHYm9udU1vOFVWcEIxbGdaVVpreGFzZw?oc=5",
+     "ts": "2026-10-18T13:42:06Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4cedf8c966f5",
    "title": "Главные игровые релизы ноября, не считая GTA 6",
    "first_seen": "2026-10-18T14:01:10Z",
@@ -11104,32 +11143,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5c1cf711e24f",
-   "title": "Every Major Game Releasing in November That Isn’t GTA 6",
-   "first_seen": "2026-10-18T05:40:41Z",
-   "updated": "2026-10-18T05:40:41Z",
-   "items": [
-    {
-     "id": "5c1cf711e24f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Every Major Game Releasing in November That Isn’t GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EeUhYWENXSExUN3FhWUpuLWRYc3UxOWdUNnM5dGRRUmxHM2FTT3FMRFJvY3JxdGw3MkVlb3JUY21JMzJkcnczLW5xVEVPSWY0SlViTDRVdHVUT0ZfRXZSZHd3?oc=5",
-     "ts": "2026-10-18T04:00:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -38926,10 +38939,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T14:10:46Z",
+  "last_run": "2026-10-18T14:20:45Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 87/91",
+   "gnews_en: 88/92",
    "gnews_ru: 30/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
