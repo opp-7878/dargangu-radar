@@ -1,39 +1,10 @@
 {
  "stories": [
   {
-   "id": "03d2d76173dc",
-   "title": "which car/bike will be your personal vehicle ?",
-   "first_seen": "2026-10-18T22:01:13Z",
-   "updated": "2026-10-18T22:01:13Z",
-   "items": [
-    {
-     "id": "03d2d76173dc",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "which car/bike will be your personal vehicle ?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x9e3ma/which_carbike_will_be_your_personal_vehicle/",
-     "ts": "2026-10-18T20:53:22Z",
-     "summary": "i know we dont 100% know how the mechanics will work, and neither all the cars that are in the game, but based on trailers, assumptions and the gta v and online car list: which car/bike would you like as your personal ? mine would be a highly costumized matte black Vapid Dominator, asuming it reappears....which will be yours? submitted by /u/AuthorExisting3956 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "Online",
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "aa5b6eb6b19d",
    "title": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100",
    "first_seen": "2026-10-18T21:01:12Z",
-   "updated": "2026-10-18T21:50:41Z",
+   "updated": "2026-10-18T22:10:43Z",
    "items": [
     {
      "id": "aa5b6eb6b19d",
@@ -86,12 +57,25 @@
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUUxRzkwQnk0OUtaZTVwTk5xTnN4STVMSHcxU3RYZjUwdkppeHUwQl94SDVhYTZHYktRRkV0ZTg4Z1ZlM0JpVnBiOG9IbnBPYzZ2M21wXzVORVBsX2pIOF9DcGljTi1PelM3SEttdlNqb2NrbF9MQVZxUGZUYW9ScEJLb2tYWEwyVDFxVlJBLWJQUzJIRlVsTGltMVhqenBaekV2Ml9GRldGbXZKSWpIbXJHV2ZLZkxIeE5KZkhKOA?oc=5",
      "ts": "2026-10-18T20:48:00Z",
      "summary": ""
+    },
+    {
+     "id": "4dcd7e7543c9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MetroWest Daily News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUtDNWdiUEpibXh5SU01WGg2WnNCakw1LXlzSkxwZjdhdEtKSHpNa3JOY3kxallRanMtSS12VnN4aTdTcUdPY0w2bnJrOXhvb0VPRlp2LTdiMWdaaVR6d252WWhLTUUzRGJiZ0hsUU5DYjM2X0ZNdkZSZ0tZOXZZVnQ1VTRqNUw0WExfaW5VbHc2YkdZWFZ6RG1kM0hRNm9jQlduakpzZF91RUJtUzl4cWxDU0xFa1VObVJNb1QxOXVsQjVv?oc=5",
+     "ts": "2026-10-18T20:48:00Z",
+     "summary": ""
     }
    ],
    "tags": [
     "цена/издания"
    ],
-   "score": 89,
+   "score": 90,
    "level": "PROBABLE",
    "alerted": "yellow",
    "status": "new",
@@ -105,6 +89,61 @@
     "at": "2026-10-18T21:31:06Z"
    },
    "msg_id": 110
+  },
+  {
+   "id": "ce026fb4f558",
+   "title": "GTA VI | Radio Preview - \"Flash FM\" | Official Pop Station",
+   "first_seen": "2026-10-18T22:10:43Z",
+   "updated": "2026-10-18T22:10:43Z",
+   "items": [
+    {
+     "id": "ce026fb4f558",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI | Radio Preview - \"Flash FM\" | Official Pop Station",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMDZLN25CSW9QSkhOT0FUQjNlVkZZeXo0T241QjZQa242djJNWnEwNV80QXlob0djSlpOY25mVzNaQjZpVnpyaFlWeHhfb3Q1MVpyQ0VlX3k2M3pS?oc=5",
+     "ts": "2026-10-18T10:10:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "03d2d76173dc",
+   "title": "which car/bike will be your personal vehicle ?",
+   "first_seen": "2026-10-18T22:01:13Z",
+   "updated": "2026-10-18T22:01:13Z",
+   "items": [
+    {
+     "id": "03d2d76173dc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "which car/bike will be your personal vehicle ?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x9e3ma/which_carbike_will_be_your_personal_vehicle/",
+     "ts": "2026-10-18T20:53:22Z",
+     "summary": "i know we dont 100% know how the mechanics will work, and neither all the cars that are in the game, but based on trailers, assumptions and the gta v and online car list: which car/bike would you like as your personal ? mine would be a highly costumized matte black Vapid Dominator, asuming it reappears....which will be yours? submitted by /u/AuthorExisting3956 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "Online",
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
   },
   {
    "id": "a1f84441dfd3",
@@ -40507,11 +40546,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T22:01:13Z",
+  "last_run": "2026-10-18T22:10:43Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 87/88",
-   "gnews_ru: 23/62",
+   "gnews_en: 86/87",
+   "gnews_ru: 23/63",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -40520,7 +40559,7 @@
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
    "gtaboom: 4/30",
-   "reddit: 23/25",
+   "reddit: 22/25",
    "tg_gtavistar: 2/12"
   ],
   "digest": "2026-10-18",
