@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "f146c2737c52",
+   "title": "The GTA 6 distribution size on the PlayStation 5 console may exceed 200 GB.",
+   "first_seen": "2026-10-18T23:40:36Z",
+   "updated": "2026-10-18T23:40:36Z",
+   "items": [
+    {
+     "id": "f146c2737c52",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The GTA 6 distribution size on the PlayStation 5 console may exceed 200 GB.",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQVQ0OEN6RWVMNktzSzBoNmtpakdOdXlYdDBIQktjenh5T2N6azU5VDhLUUU2Zmk2Ulc0UEJTRWpuT1MwbzVyZXNoeXExemF2OUQ1VkpSUEI4Z2pIWU55SjBjdllkS0Z2S2NOM2dOOGJjY2htc3F0LVdqSUUzODJDc1Vsb05POGoxVHVyQXQxbnNONU13QWlDNEgtTmhxSnRrZDdMOU0yT3VOdw?oc=5",
+     "ts": "2026-10-18T23:31:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "33cb5c0f4e4e",
+   "title": "Размер дистрибутива GTA 6 на консоли PlayStation 5 может превысить 200 ГБ",
+   "first_seen": "2026-10-18T23:40:36Z",
+   "updated": "2026-10-18T23:40:36Z",
+   "items": [
+    {
+     "id": "33cb5c0f4e4e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Размер дистрибутива GTA 6 на консоли PlayStation 5 может превысить 200 ГБ",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3ljUm9IRTZUS1FEa1BiUi1sOExIQjZuNFNKSDBHQ2xFeUZLQ0F0QndmTEVYUDZjNlhFOEtZQ1Vtb1Q3RXVvdHd2XzM3bGNTT1dWVGhVRnZjOURPd0syLXVlWnA0MlkxdThORHlHVXFnR3hNelJ6ZmFFZ2VveHFNeHBVa3BfMzNWM3JUdm9TcU9LV1hJWG5UX0lVbG14a05pZWNjajhB?oc=5",
+     "ts": "2026-10-18T23:31:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "aa5b6eb6b19d",
    "title": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100",
    "first_seen": "2026-10-18T21:01:12Z",
@@ -40702,11 +40756,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T23:31:00Z",
+  "last_run": "2026-10-18T23:40:36Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 87/88",
-   "gnews_ru: 23/62",
+   "gnews_en: 88/89",
+   "gnews_ru: 24/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
