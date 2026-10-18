@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "1a8d36b38a74",
+   "title": "Watch out for GTA VI scams",
+   "first_seen": "2026-10-18T13:31:01Z",
+   "updated": "2026-10-18T13:31:01Z",
+   "items": [
+    {
+     "id": "1a8d36b38a74",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CBS News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Watch out for GTA VI scams",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBubVRsX0IxZGRMdGVNV3pOUExNR3BNT25MaE5aYTJUbWphZy1fYTFkNW56Vjc1RlVkaV9xaVhMSmVoR1p6SmVaUXRuZ3J3NkJHbXBKTzAxUGN2RkxjUGJkcWNyRE9iZkZVZFMwV0tBM3g?oc=5",
+     "ts": "2026-10-18T13:13:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "047e4e4441ff",
+   "title": "GTA 6 Dev Allegedly Rewarded Moles For Spying On Union Discord",
+   "first_seen": "2026-10-18T13:31:01Z",
+   "updated": "2026-10-18T13:31:01Z",
+   "items": [
+    {
+     "id": "047e4e4441ff",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TheGamer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Dev Allegedly Rewarded Moles For Spying On Union Discord",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTJKWVB1Nk9OWGtWM3Z4VXlKTThSZFdIaURmSmpvWkJkakNfVktTcFN5VEwzYU50YzFSNUFZVDM4TXBDMVJkai0weGpmbHJaM2diWmdHMkFUMENFTFlsWHhnUWl1MjBDSnpTT3VzMzc0NDdsN0ZBMGtDMjE5Vi1QLU1wdzZLUDBo?oc=5",
+     "ts": "2026-10-18T13:24:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e8f53ba85fe0",
    "title": "Grand Theft Auto VI graphics comparison based on June and October 2026 footage",
    "first_seen": "2026-10-18T13:20:44Z",
@@ -38744,11 +38796,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T13:20:44Z",
+  "last_run": "2026-10-18T13:31:01Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 88/94",
-   "gnews_ru: 32/60",
+   "gnews_en: 89/95",
+   "gnews_ru: 32/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
