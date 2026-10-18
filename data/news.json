@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "46604a0bff35",
+   "title": "Мужчина купил 500 цифровых копий GTA 6 за $55 тыс., не зная об отсутствии лимита",
+   "first_seen": "2026-10-18T05:20:44Z",
+   "updated": "2026-10-18T05:20:44Z",
+   "items": [
+    {
+     "id": "46604a0bff35",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Мужчина купил 500 цифровых копий GTA 6 за $55 тыс., не зная об отсутствии лимита",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVHlMd28zdy1PNU9OX0F3ZFdyNEMybWFudER1WS1YT1ctREhsR3dRUzhxZnBRelBzU0JpYThJZUJTdjlCSE16TVUtclhpenhkamhLNWhjUEdRSF82ODVUU3AwSTRVUUtFVmhpeWpMT2lCOTBBbGF0Sl8zY0tWeXRMcA?oc=5",
+     "ts": "2026-10-18T05:03:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -37506,11 +37534,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T05:10:47Z",
+  "last_run": "2026-10-18T05:20:44Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 95/100",
-   "gnews_ru: 39/60",
+   "gnews_ru: 40/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
