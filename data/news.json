@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-18T10:11:11Z",
+   "updated": "2026-10-18T10:20:49Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -8429,6 +8429,32 @@
      "url": "https://www.gtaboom.com/even-a-shrek-2-remaster-is-copying-the-gta-6-trailer-now-abd9",
      "ts": "2026-10-18T10:07:56Z",
      "summary": "A leaked Microsoft Store page showed an unannounced Shrek 2 remaster from Aspyr with a trailer spoofing the GTA 6 reveal style."
+    },
+    {
+     "id": "f28be3699efc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "DANAMIC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "A New Justice Song Premieres in the GTA VI Launch Trailer",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkxLVDZ3ZFVFbV9NaUlhaWJzaUdxWTlxZkgyUFNnVHJwWWw5bElKSld4RkJHSHh5YnA1OXp1Y0dQZVl3SXgyWi1tcUxtQXcyZ0NFeTV0Z1dZSzdJZDJJdXY0NmhWQTZlbWZFUkY3RFgxeFZVdGV2aG5sWXdLdmcxVDM0VUt6QmVfNVE3Mk1zZjlpNnNHenoyYThKdE5rYUVKX2F6OTAzOW90Q1lGMzRqbw?oc=5",
+     "ts": "2026-10-18T10:00:35Z",
+     "summary": ""
+    },
+    {
+     "id": "799b185bc3e0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Leaked Shrek 2 Remaster Trailer Spoofs the GTA 6 Reveal Style",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOEkwX2FIMUVnT0NSbWhaYkpNZ2RIV2FWVDFwSnVfNllDU3IxUDZLYi1xWmZtVzRrSWdtZHZkLTRubkRqWS1rTTRfaFIzdThWdlA0ckhUaG5pWmp0bU1BR2ZmQXV3X2lZYWpyejZxSGhjcy1LZkNpd1FDMXpZTV9UbmxRdjZMZkpJcDhzWnlR?oc=5",
+     "ts": "2026-10-18T10:07:57Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -8446,6 +8472,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "908230daba20",
+   "title": "First Look at GTA 6’s Horizontal Logo",
+   "first_seen": "2026-10-18T10:20:49Z",
+   "updated": "2026-10-18T10:20:49Z",
+   "items": [
+    {
+     "id": "908230daba20",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "First Look at GTA 6’s Horizontal Logo",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x8zmbd/first_look_at_gta_6s_horizontal_logo/",
+     "ts": "2026-10-18T10:11:17Z",
+     "summary": "submitted by /u/peqc to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -38194,11 +38246,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T10:11:11Z",
+  "last_run": "2026-10-18T10:20:49Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/2",
+   "gnews_en: 91/96",
+   "gnews_ru: 32/64",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
