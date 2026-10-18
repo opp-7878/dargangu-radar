@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "ce1366f29218",
+   "title": "GTA 6 может подвергнуться цензуре из-за контента для взрослых в день выхода после присвоения строгого возрастного рейтинга",
+   "first_seen": "2026-10-18T10:50:45Z",
+   "updated": "2026-10-18T10:50:45Z",
+   "items": [
+    {
+     "id": "ce1366f29218",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 может подвергнуться цензуре из-за контента для взрослых в день выхода после присвоения строгого возрастного рейтинга",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeENpVjAzSC12S1JqYWRzYmNINVdEQnB1ZURjZXNBOS1GNUxuenF1am9ycE9lb005V3FKS2JXOUF6QmtLcG5MalJ0ODVZTkZmaklsN0NtOHRGVFlIaTFOZEprM1NDdlNYXzdUZXhPZzQ3ZUdscDNvR3VKc3ZKY2g2OWRmRUtaNlhjSjd4aE9rQmFIWUM5VDczdkx2aEk5MEdqZUw4eEI0akhDOU9BUEk1Nmhta3ZZWFdDcldBTk9BZnRCVGFwYm1FLUU2OF9YYVZtLXlnLVB1d1daQXJ5d2l3UFRnV0dBQVQwVXdBaWx4ZXVMQWMweHdzWmxpNWFrTHZDdXZEYw?oc=5",
+     "ts": "2026-10-18T09:24:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -38272,11 +38298,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T10:40:45Z",
+  "last_run": "2026-10-18T10:50:45Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 91/97",
-   "gnews_ru: 29/63",
+   "gnews_en: 88/94",
+   "gnews_ru: 30/63",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
