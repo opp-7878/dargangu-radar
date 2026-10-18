@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "b590ee02c26d",
+   "title": "GTA 6 looks way too complicated",
+   "first_seen": "2026-10-18T02:50:45Z",
+   "updated": "2026-10-18T02:50:45Z",
+   "items": [
+    {
+     "id": "b590ee02c26d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 looks way too complicated",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x8s4w6/gta_6_looks_way_too_complicated/",
+     "ts": "2026-10-18T02:43:18Z",
+     "summary": "So recently, i’ve been watching youtube videos going into everything we know about GTA 6 and from what ive seen… way too much realism and things alike. The whole point of GTA 5 was to run around and steal cars and shoot people randomly but with a system that changes your entire play through if you do too much of the killing seems insane! With the cars thing, yeah it’s cool and all but do we seriously have to make it where there’s a tracker and cops remember it? Speaking of cops, they are taking the recognition system WAY too far. If you commit a crime where all of your traits are identified, g"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4f300e11069e",
    "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
    "first_seen": "2026-10-17T09:50:44Z",
@@ -37320,11 +37346,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T02:40:43Z",
+  "last_run": "2026-10-18T02:50:45Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 97/100",
-   "gnews_ru: 41/58",
+   "gnews_en: 95/98",
+   "gnews_ru: 39/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
