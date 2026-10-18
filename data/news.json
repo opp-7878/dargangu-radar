@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-18T15:50:48Z",
+   "updated": "2026-10-18T16:01:12Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -8715,6 +8715,19 @@
      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQ1MySWtWa0UwQTRlMFhhakdMRzBGVHhrVWNQRkN2Nkt1aU01aWE2SDZWWGFxR3U5MDBPNTlGNTVlczdUclpYbUxrYk5tOVVab280V0RRYV9qUmNEOHE5dmFGMXJSU3FsOXBiMXJEUDF3c0NJOVNsSFgyb2NoTlBjUkk2Yng4REVDSHhBZ2dXRllTTU51SmljOVM0N1JNYzFFNmZLRW9HcmJLcU9mVEFrTFBpREI4ZU1SdUhmSEZuSjBYLTMweEF0SE1CVmpuNzU0bGpVN3BqUVp4dmdBaFNmblNxUjRZdklVa1pqR2VwRXhUSFVPZVY4ZEVkeTluVlNzdms5SEVybnNFb0NMdFo0MFlmZnRFcl81bkw0RlJKZUFpNzlKVG1vMllaWdIBqwJBVV95cUxNQ1MySWtWa0UwQTRlMFhhakdMRzBGVHhrVWNQRkN2Nkt1aU01aWE2SDZWWGFxR3U5MDBPNTlGNTVlczdUclpYbUxrYk5tOVVab280V0RRYV9qUmNEOHE5dmFGMXJSU3FsOXBiMXJEUDF3c0NJOVNsSFgyb2NoTlBjUkk2Yng4REVDSHhBZ2dXRllTTU51SmljOVM0N1JNYzFFNmZLRW9HcmJLcU9mVEFrTFBpREI4ZU1SdUhmSEZuSjBYLTMweEF0SE1CVmpuNzU0bGpVN3BqUVp4dmdBaFNmblNxUjRZdklVa1pqR2VwRXhUSFVPZVY4ZEVkeTluVlNzdms5SEVybnNFb0NMdFo0MFlmZnRFcl81bkw0RlJKZUFpNzlKVG1vMllaWQ?oc=5",
      "ts": "2026-10-18T09:19:18Z",
      "summary": ""
+    },
+    {
+     "id": "1cdd6b11397f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "AOL.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's New Launch Trailer Shows Jason's Troubled Past and a Criminal Conspiracy",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1VGNfaTg0YTBNVEhtaUpQZV9SS3JWaU8yYmtWcnNJbEdCOFFOMVFDaGdyb25mYmRSUTJFNkozc044V0JhdzhlcHptMVIwSERMNm5zZl9mbUZ6a2NEMVlla0VWUWRXTk1jb3RLZWYxZlpRQ3dvNDZtNFpHRQ?oc=5",
+     "ts": "2026-10-18T14:38:59Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -8732,6 +8745,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "39a69fe5858c",
+   "title": "All the Big Games Launching in November Besides GTA 6",
+   "first_seen": "2026-10-18T16:01:12Z",
+   "updated": "2026-10-18T16:01:12Z",
+   "items": [
+    {
+     "id": "39a69fe5858c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "se7en.ws",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "All the Big Games Launching in November Besides GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMEJjREdOZEMzb2lBdGpKeEVpOEFRWUdnTkhQYk5EdTFxLUwtdllnUnhJYTFrN1dHakhmaWJTR1IzUEtuTDVDUkNyRHpoVzJrNEFZVDg1RGZ6TURsTG5MZWtxcG1OV2MyelJEcjlHcF9ueXdaWktYN0F3dU9KTFh3TGg1M2RlZw?oc=5",
+     "ts": "2026-10-18T01:00:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -39160,11 +39199,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T15:50:48Z",
+  "last_run": "2026-10-18T16:01:12Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 82/86",
-   "gnews_ru: 28/61",
+   "gnews_ru: 27/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
