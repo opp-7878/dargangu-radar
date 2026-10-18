@@ -1,6 +1,57 @@
 {
  "stories": [
   {
+   "id": "aa5b6eb6b19d",
+   "title": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100",
+   "first_seen": "2026-10-18T21:01:12Z",
+   "updated": "2026-10-18T21:31:02Z",
+   "items": [
+    {
+     "id": "aa5b6eb6b19d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "USA Today",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFJyQzlXZU5nWmZXUDNLb0pSRDBONGpXUGNIaVYxTHJDaVp3T3NlSUt5YkJMMjhDQXZZTEkxWG5vbkh0dC1uMVpQQm5yTEt6WDRWeFRRMWhhZHIwTzZyUE5iVERNQVNoVGdiSDE5dlRUWTVpM2FrX0RLeTVOUXB4N0pYRWpWWXR0bXlQVGhTekI2Rlo4blcwNGxNUVNGdG42eFNxNFVNSWNUSlZZTGd5LXY2MkYyNk0?oc=5",
+     "ts": "2026-10-18T20:48:00Z",
+     "summary": ""
+    },
+    {
+     "id": "32692faae688",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rockford Register Star",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEJNeHJQZDYwS0E4M3dNNXFFaEtpcmUxZm5ld3oyM2l6bnpRQWYxWVIxQ3BpcF9iWGVVUlhySnY0QlZ2OVJjWlpVNHpoSEl6QTQwZ0R5ZHVpaDZ3S2dsb3JVRUtwRm5IdG1JclBod21mdjZLWFFRNkROdkNXTlQyMVVlRExadHFreUIyQ3owVk1MU1ZGTUpSZ3U4NFduWHlHZkpkZzZISjZmNEJVbElUUUY0bFE?oc=5",
+     "ts": "2026-10-18T20:48:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️ GTA 6 уже скоро: что пишут в рекламе монитора",
+    "summary": "В материалах USA Today и Rockford Register Star появились рекламные блоки с фразой «GTA 6 is coming». Это не официальные детали от Rockstar, а промо в СМИ.",
+    "idea": "Крупный план экрана с рекламой «GTA 6 is coming» и реакция на камеру. Зрителю интересно, потому что это свежий внешний сигнал о близости игры, хоть и не от Rockstar.",
+    "hook": "Смотри: в СМИ уже крутят «GTA 6 is coming» — что это значит для нас?",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-18T21:31:06Z"
+   },
+   "msg_id": 110
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -9120,34 +9171,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "aa5b6eb6b19d",
-   "title": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100",
-   "first_seen": "2026-10-18T21:01:12Z",
-   "updated": "2026-10-18T21:01:12Z",
-   "items": [
-    {
-     "id": "aa5b6eb6b19d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "USA Today",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFJyQzlXZU5nWmZXUDNLb0pSRDBONGpXUGNIaVYxTHJDaVp3T3NlSUt5YkJMMjhDQXZZTEkxWG5vbkh0dC1uMVpQQm5yTEt6WDRWeFRRMWhhZHIwTzZyUE5iVERNQVNoVGdiSDE5dlRUWTVpM2FrX0RLeTVOUXB4N0pYRWpWWXR0bXlQVGhTekI2Rlo4blcwNGxNUVNGdG42eFNxNFVNSWNUSlZZTGd5LXY2MkYyNk0?oc=5",
-     "ts": "2026-10-18T20:48:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 65,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -40390,10 +40413,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T21:20:44Z",
+  "last_run": "2026-10-18T21:31:06Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 84/86",
+   "gnews_en: 87/89",
    "gnews_ru: 24/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
