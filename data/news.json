@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "f18787914caa",
+   "title": "Jason Shreier's sentiment on GTA6 Realism",
+   "first_seen": "2026-10-18T23:50:48Z",
+   "updated": "2026-10-18T23:50:48Z",
+   "items": [
+    {
+     "id": "f18787914caa",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Jason Shreier's sentiment on GTA6 Realism",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x9gtzd/jason_shreiers_sentiment_on_gta6_realism/",
+     "ts": "2026-10-18T22:52:42Z",
+     "summary": "In his most recent video discussing GTA 6, Jason Schreier expressed some concerns about just how realistic the game looks. He wondered how he'd feel knowing that a huge part of the GTA experience involves killing and shooting people in the face. Do you guys think the realism will affect the way you play? Will you think twice before doing things you wouldn't have hesitated to do in previous GTA games, or do you think it'll feel like any other GTA once you get used to the graphics? submitted by /u/JamaicanX to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f146c2737c52",
    "title": "The GTA 6 distribution size on the PlayStation 5 console may exceed 200 GB.",
    "first_seen": "2026-10-18T23:40:36Z",
@@ -40756,11 +40782,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T23:40:36Z",
+  "last_run": "2026-10-18T23:50:48Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 88/89",
-   "gnews_ru: 24/62",
+   "gnews_ru: 24/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -40769,7 +40795,7 @@
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
    "gtaboom: 4/30",
-   "reddit: 22/25",
+   "reddit: 23/25",
    "tg_gtavistar: 2/12"
   ],
   "digest": "2026-10-18",
