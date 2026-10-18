@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "a35229e3bdf4",
+   "title": "GTA 6 Hacker Arion Kurtaj Gets Court Date Just Days Before Launch",
+   "first_seen": "2026-10-18T07:31:01Z",
+   "updated": "2026-10-18T07:31:01Z",
+   "items": [
+    {
+     "id": "a35229e3bdf4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eTeknix",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Hacker Arion Kurtaj Gets Court Date Just Days Before Launch",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11MUQtSXp1V09jUGhjNFdWd2tWYXUwTmN4R1dsbldydzFIS24tZ01ZWGZTT2IxVDdCa3hvMW56cUlrY1Z4d0NiS044YmFmMVF6T2lTbXFLUlhzbXM2d1dBbzNBUlNZYzhieDgxdVhR?oc=5",
+     "ts": "2026-10-18T06:20:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b4bb3d0b72cc",
+   "title": "GTA 6 Indeed Rated '18'... Depicts Carrying and Snorting Drugs, Sexual Activity, and Decapitation",
+   "first_seen": "2026-10-18T07:31:01Z",
+   "updated": "2026-10-18T07:31:01Z",
+   "items": [
+    {
+     "id": "b4bb3d0b72cc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Inven Global",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Indeed Rated '18'... Depicts Carrying and Snorting Drugs, Sexual Activity, and Decapitation",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQel9JSVlqQVVrQXJJVVF0WmlveXBQVHBSRDE1ZkhleTNOUnFZdm1wOFB1Y2Z0aFU3TmdSSHRSTTU2dEFvSlp4Q2Fma3BXWlF0NkVpajNlNVNZelVUdXRPMDNqRjZYTm0wVFczdmpYbkg4Z2hWazlSeWZWYm5oYTk4UjY3YzhUYjBmck43SUVGeWZxdlBWZTlSZXc2Y05WN3VrcE91ZlJOUmNpWGFxQTA5ZXNsSDhZMDZ6TGx2RGlNem1LMEc1cThPMEh5UjFQQQ?oc=5",
+     "ts": "2026-10-18T07:17:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -37742,11 +37794,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T07:21:03Z",
+  "last_run": "2026-10-18T07:31:01Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/2",
+   "gnews_en: 96/100",
+   "gnews_ru: 36/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
