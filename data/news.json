@@ -1,38 +1,10 @@
 {
  "stories": [
   {
-   "id": "90db29eab29b",
-   "title": "Fun fact: we've never heard boobie ike speak, we've only heard of him or seen pictures",
-   "first_seen": "2026-10-18T04:30:58Z",
-   "updated": "2026-10-18T04:30:58Z",
-   "items": [
-    {
-     "id": "90db29eab29b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Fun fact: we've never heard boobie ike speak, we've only heard of him or seen pictures",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1x8twco/fun_fact_weve_never_heard_boobie_ike_speak_weve/",
-     "ts": "2026-10-18T04:20:59Z",
-     "summary": "Which is especially surprising to think that as integral of a character hes set up to he from the first half of the extended look we've never even heard his voice. Let alone see him in a trailer. He's only been in screenshots and talked of by others. So far we haven't even seen him with jason or lucia. submitted by /u/Sweaty_Arm576 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-18T04:20:46Z",
+   "updated": "2026-10-18T04:40:43Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -8249,6 +8221,19 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3NtbGZDQm9ETVlxNE9ERldfRG5iV01IbTcyS0NRd09UUnRrU2lEdDA2Vklza0dWXzJPM21JY3lGQ0Z6LTFtNlZxeWhudjJOZ3BRTVpuN3VvNXU2dzhaZ0Z3aDdpbkJ5UVpWV05QQUxHekx1cklqd2Z3Y0o3U01ueUlrZlhUNWtsQWFEUnpzcmhVYlkzMXh6cFBud3BTVVlxZ041NXhVSGtyZS1UTFBleExMd2E5MWtVTVRPNV94eGFSVVlVS2c5R0JmWFlCdW1qUlB0YtIB2gFBVV95cUxPcTJEZWx5Smo3UmJWb1FrWU94YVU4ZmdwWF9xZ29BNDFOVi1JWk1SVDFpX2toTEp2R01nQzU1MEJkUGFsNmg5dmhpZE1HVHRVemR3cjgwNTdYNDRQS0VlaU8yZkxmNDZ6VGFKU3ZFd283ejI0eDY0NXZOWDRSUGtwcjBmajJoeDRaY25STXlJNUlYc1VpZktDMXByaFU2eUxGRFgzRXhlbk5oN0oxdVZEU3c0VW9sNmctZ3lJZWFOVmJoV1dTNURWSUFzZmd4YkFrTjA1SDZMRURadw?oc=5",
      "ts": "2026-10-18T03:08:23Z",
      "summary": ""
+    },
+    {
+     "id": "a810f957e1b0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Tech4Gamers",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Launch Trailer Sparks Concerns Over Potential Graphics Downgrade",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WNi02U3JiYTBlUGdyZ1loekEwcjhfSTd6a0RxY2lwSXV5aEJrbENQeTVLMDJtNGg5QXZUTHI4ZlNNb0ZrcDJsMkktQ3VpanEtdTNjTlBReFlIdzF0RzkwVGdBc253Si1LOS1EVlJhN2RVM050UjhmNnk0M0J3SDQ?oc=5",
+     "ts": "2026-10-18T04:36:37Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -8266,6 +8251,34 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "90db29eab29b",
+   "title": "Fun fact: we've never heard boobie ike speak, we've only heard of him or seen pictures",
+   "first_seen": "2026-10-18T04:30:58Z",
+   "updated": "2026-10-18T04:30:58Z",
+   "items": [
+    {
+     "id": "90db29eab29b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Fun fact: we've never heard boobie ike speak, we've only heard of him or seen pictures",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x8twco/fun_fact_weve_never_heard_boobie_ike_speak_weve/",
+     "ts": "2026-10-18T04:20:59Z",
+     "summary": "Which is especially surprising to think that as integral of a character hes set up to he from the first half of the extended look we've never even heard his voice. Let alone see him in a trailer. He's only been in screenshots and talked of by others. So far we haven't even seen him with jason or lucia. submitted by /u/Sweaty_Arm576 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -37493,7 +37506,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T04:30:58Z",
+  "last_run": "2026-10-18T04:40:43Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 95/100",
