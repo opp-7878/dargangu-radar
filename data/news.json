@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-18T08:20:47Z",
+   "updated": "2026-10-18T08:31:00Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -8364,6 +8364,19 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWExRzd5MklPWWRjc2tva0VEdUZtLW9DcjFxRDdZNE9NaEpucEFCWEN5S0tsSmtXN2NmUDljZE9oQ0E2NEJiTlJxa09GVWpmTjdsZVhZRWtTcmxESnduQ1l0Ml8tWS1DSnNxYUhNazY5R0ZWZGZfaFh1RFc4MjQ4dzNndkdyMzRfZkJLWHNkMUlWa1pPQzQzQ1FIUmc2QVFiVUkzNDg0QTU2Zw?oc=5",
      "ts": "2026-10-18T08:13:32Z",
      "summary": ""
+    },
+    {
+     "id": "b77a3adda324",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "se7en.ws",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Digital Foundry Analyzes GTA VI Trailer as Rockstar Appears to Fix 18-Year-Old Engine Graphics Bug",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1ZCSWlWNjFKWnNfMnFVQWtsNmpJR19XS1NZSkdwR2xENmNEOEhUc3VxZWh2RXpOR1RqLXlhWGNlMjZ5eVhiVUlXMFBMTHNZOEF5bE1sZ2hRS0gzTGlwUXRvTGhCSC14NjB4S2M5NFIyM2x1TTBVV2RLem1iamhWbUZjS3FlS004SWhzZUFRQnFzUHhhbnhNSXh3UjhNdlMxWkpsMmtkLWlRNzhGeFFaQjZIN01qcmw0ZzRFR0M4LTlxUQ?oc=5",
+     "ts": "2026-10-17T21:25:02Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -8381,6 +8394,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "32f61f6431a0",
+   "title": "Detail from Extended Look : Putting on a accessory applies it on Jason and Lucia at the same time",
+   "first_seen": "2026-10-18T08:31:00Z",
+   "updated": "2026-10-18T08:31:00Z",
+   "items": [
+    {
+     "id": "32f61f6431a0",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Detail from Extended Look : Putting on a accessory applies it on Jason and Lucia at the same time",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x8xbj9/detail_from_extended_look_putting_on_a_accessory/",
+     "ts": "2026-10-18T07:44:59Z",
+     "summary": "I know it's a late to pick on details in the extended look, but I haven't seen anyone else talk about it. When both characters are together (or maybe only in a vehicle), putting on an accessory applies it on both characters. submitted by /u/Legitimate_Sky5632 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -37973,11 +38012,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T08:20:51Z",
+  "last_run": "2026-10-18T08:31:00Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 95/100",
-   "gnews_ru: 35/61",
+   "gnews_ru: 32/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
