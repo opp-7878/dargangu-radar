@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "0358876bde69",
-   "title": "Rockstar Games Partners With Miami’s Wynwood Walls Ahead of 'GTA VI'",
-   "first_seen": "2026-10-18T16:40:45Z",
-   "updated": "2026-10-18T16:40:45Z",
-   "items": [
-    {
-     "id": "0358876bde69",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Games Partners With Miami’s Wynwood Walls Ahead of 'GTA VI'",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2UySzVXQy1JbFA3b1FsVWp5OEUyOVRkbTA4TFNSbzhGU1pGWDNIZ25NNG42eExpRmFQQ2JhUkM1REo4cTQ1NnJGY2J5VE1GYkE3YVlvYVU5Z0x2VmVyM3Z3YUhDR3hEWVRRMWQ1UTdmOGFxdXNvazRqdDEwclR0cWxSX2ZIUVpJa09IQ3kzNkg2QVVrN1hTa3dsRnA0Zw?oc=5",
-     "ts": "2026-10-18T16:10:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-18T16:31:01Z",
+   "updated": "2026-10-18T16:50:44Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -8767,6 +8741,19 @@
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNVRuelZIdTM2cWtUelJHYTRHMTEwNThpdlBucFQwN3hTb0czVWVNMGx0RjRPejRyN2xoSU1UVGNRU1phS3lITkFtdzQxZzRSWF81U0ZlV1pNQVZIa255bjRmeGZ3N3R3TUNZWWp2dEJyY3dSX3Qxc2VEbUx2ZTdMWDE1VGJyUGt4NmV5NktxMDJEd3FOdDhxUHBBNkVEU09MZUVfVDJaUnczNzlHbkxGakljb1FHbEFDaHJXamJTUl9Ebl81c1Fr?oc=5",
      "ts": "2026-10-18T05:52:35Z",
      "summary": ""
+    },
+    {
+     "id": "8952d4e37e6a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "HW News - NVIDIA's $7000 RTX Spark Laptop, RIP RTX 5090, GTA VI PC Launch Rumor, CPU Price Hike",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95cWhQNkc1dWlpa2pjNzN6RFdXNkkyb2d1dkwwemJYeGVQeTBKQ2hnNjJRajBzbEI0M1RLQzdYMnNnN0JORUgycVhwZ0ZpVi1NbEpGWXpzZFFhT3hO?oc=5",
+     "ts": "2026-10-18T13:41:52Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -8784,6 +8771,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "0358876bde69",
+   "title": "Rockstar Games Partners With Miami’s Wynwood Walls Ahead of 'GTA VI'",
+   "first_seen": "2026-10-18T16:40:45Z",
+   "updated": "2026-10-18T16:40:45Z",
+   "items": [
+    {
+     "id": "0358876bde69",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games Partners With Miami’s Wynwood Walls Ahead of 'GTA VI'",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2UySzVXQy1JbFA3b1FsVWp5OEUyOVRkbTA4TFNSbzhGU1pGWDNIZ25NNG42eExpRmFQQ2JhUkM1REo4cTQ1NnJGY2J5VE1GYkE3YVlvYVU5Z0x2VmVyM3Z3YUhDR3hEWVRRMWQ1UTdmOGFxdXNvazRqdDEwclR0cWxSX2ZIUVpJa09IQ3kzNkg2QVVrN1hTa3dsRnA0Zw?oc=5",
+     "ts": "2026-10-18T16:10:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -39290,10 +39303,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T16:40:45Z",
+  "last_run": "2026-10-18T16:50:44Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 84/88",
+   "gnews_en: 83/87",
    "gnews_ru: 27/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
