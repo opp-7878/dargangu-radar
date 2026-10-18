@@ -1,61 +1,10 @@
 {
  "stories": [
   {
-   "id": "0cddae8353bf",
-   "title": "Miami TV News Now Warns Viewers About GTA 6 Scams",
-   "first_seen": "2026-10-18T17:01:11Z",
-   "updated": "2026-10-18T17:10:47Z",
-   "items": [
-    {
-     "id": "0cddae8353bf",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "Even Local News Is Warning Miami About GTA 6 Scams Now",
-     "url": "https://www.gtaboom.com/even-local-news-is-warning-miami-about-gta-6-scams-now-d7c8",
-     "ts": "2026-10-18T17:00:25Z",
-     "summary": "CBS News Miami warned viewers on October 18 that fake GTA 6 early access offers online are malware scams, echoing months of similar warnings."
-    },
-    {
-     "id": "94212d77886b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GTA BOOM",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Miami TV News Now Warns Viewers About GTA 6 Scams",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXlQelBMdVZGSXFKMEhMR2U4eXIyN3JudDhIbHhiWXBYdTJvLUVPV3hPbFpCWlJzOGJ1NkNnTDNZMzBmSS1rcGZJYXJGcWdZQ1Y0M0daRFpWMlhsQmNITnZ5SVVsZ1NMckhDVVcteElnbVdMaVRIYmFidGNfa2c1aXhINjllZVhscW53?oc=5",
-     "ts": "2026-10-18T17:00:26Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "⚠️ В Вайс-Сити снова обманывают: местные новости бьют тревогу",
-    "summary": "CBS News Miami 18 октября предупредила зрителей о мошенниках с «ранним доступом» к GTA 6 — это вредонос. Местные СМИ уже несколько месяцев говорят о таких схемах.",
-    "idea": "Короткий разбор: как выглядит «ранний доступ» к GTA 6 и почему это вредонос. Зрителю важно не потерять аккаунт и деньги перед релизом.",
-    "hook": "Думаешь, это ранний доступ к GTA 6? Стой — это вредонос.",
-    "stars": 2,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-18T17:10:51Z"
-   },
-   "msg_id": 107
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-18T17:10:47Z",
+   "updated": "2026-10-18T17:31:00Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -8831,6 +8780,19 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNi05T1Q4OS1nUnNmR1Y4TU93QWducTNQaktZdWoxY0lIRkV6YWMwYkVRTmdiTGx3eUdaZk90cGsySC1Zc0trd3NvdkdmcDdNS05nOEZFQUo3NlAxa2tIWGd1WUs1SzFZRDBSeE9RT1RxSGxBUEkyMDVEN2RlMHduajBRN3pYbWR5RHVsdzZocHI5QXAzVURMRWlKaURWMUdrT3ZjYmNWZGVBM0E?oc=5",
      "ts": "2026-10-18T16:57:30Z",
      "summary": ""
+    },
+    {
+     "id": "f2558fc8e3bd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CryptoSlate",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI launch trailer: how many views in its first week Odds & Prediction Market Analysis",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0JFSXBnWTlRb3ZQemlSbnhVSS02RXRralBTSkVMZUhlZ09taVhwRUdhUVE4NksxNndlR2llMF9NSTRzNWZqZC1CTDdhLU4wZ3FzVjkzbW9kTDhLNVgwS0JpTTNZVDVuMjR1MXZlYkVZOVBKal8wdVdIcXIyR0l0WUJfaDg5UjdwdGpUV2NaclBYN0FwbG9UakhYY2txNHc?oc=5",
+     "ts": "2026-10-18T05:57:06Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -8849,6 +8811,57 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
    "status": "new"
+  },
+  {
+   "id": "0cddae8353bf",
+   "title": "Miami TV News Now Warns Viewers About GTA 6 Scams",
+   "first_seen": "2026-10-18T17:01:11Z",
+   "updated": "2026-10-18T17:10:47Z",
+   "items": [
+    {
+     "id": "0cddae8353bf",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Even Local News Is Warning Miami About GTA 6 Scams Now",
+     "url": "https://www.gtaboom.com/even-local-news-is-warning-miami-about-gta-6-scams-now-d7c8",
+     "ts": "2026-10-18T17:00:25Z",
+     "summary": "CBS News Miami warned viewers on October 18 that fake GTA 6 early access offers online are malware scams, echoing months of similar warnings."
+    },
+    {
+     "id": "94212d77886b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Miami TV News Now Warns Viewers About GTA 6 Scams",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXlQelBMdVZGSXFKMEhMR2U4eXIyN3JudDhIbHhiWXBYdTJvLUVPV3hPbFpCWlJzOGJ1NkNnTDNZMzBmSS1rcGZJYXJGcWdZQ1Y0M0daRFpWMlhsQmNITnZ5SVVsZ1NMckhDVVcteElnbVdMaVRIYmFidGNfa2c1aXhINjllZVhscW53?oc=5",
+     "ts": "2026-10-18T17:00:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "⚠️ В Вайс-Сити снова обманывают: местные новости бьют тревогу",
+    "summary": "CBS News Miami 18 октября предупредила зрителей о мошенниках с «ранним доступом» к GTA 6 — это вредонос. Местные СМИ уже несколько месяцев говорят о таких схемах.",
+    "idea": "Короткий разбор: как выглядит «ранний доступ» к GTA 6 и почему это вредонос. Зрителю важно не потерять аккаунт и деньги перед релизом.",
+    "hook": "Думаешь, это ранний доступ к GTA 6? Стой — это вредонос.",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-18T17:10:51Z"
+   },
+   "msg_id": 107
   },
   {
    "id": "2a0eb47c9254",
@@ -39455,11 +39468,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T17:20:43Z",
+  "last_run": "2026-10-18T17:31:00Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 86/90",
-   "gnews_ru: 28/62",
+   "gnews_en: 85/89",
+   "gnews_ru: 27/63",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
