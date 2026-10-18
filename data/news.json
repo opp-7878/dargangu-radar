@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "3a9722495281",
+   "title": "Опровергнуты слухи, что Rockstar всё ещё не закончили разработку GTA 6",
+   "first_seen": "2026-10-18T20:40:48Z",
+   "updated": "2026-10-18T20:40:48Z",
+   "items": [
+    {
+     "id": "3a9722495281",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Опровергнуты слухи, что Rockstar всё ещё не закончили разработку GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2RXc1R2b2NoREdMZ21GVTl5RVlZYkxBUC1MMGk5SER2WGdVT21kWExHTE9yelQ3WGdVWDhUY0d4Z1JGOWNEemJJQUVjTVNzbkxCNS1BOC1YelVHeGM2RXBWVlZ1NFlWMm9Tc21SQUNmV3JpSWh0T21pbFFPR3JwcDY4T09UMTV1U2hJQlNoUlFWUmhGekg4RllRSmhnM19G?oc=5",
+     "ts": "2026-10-18T19:56:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a817788862fc",
    "title": "Lana Del Rey & Husband Jeremy Dufrene Join ‘GTA 6’ Alongside Bad Bunny, Morgan Wallen & More Stars",
    "first_seen": "2026-10-18T18:01:12Z",
@@ -40180,11 +40206,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T20:30:59Z",
+  "last_run": "2026-10-18T20:40:48Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 86/88",
-   "gnews_ru: 21/62",
+   "gnews_ru: 22/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
