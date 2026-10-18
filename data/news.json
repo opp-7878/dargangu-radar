@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "6ea3e3674c41",
+   "title": "Game Informers started shipping!",
+   "first_seen": "2026-10-18T17:01:11Z",
+   "updated": "2026-10-18T17:01:11Z",
+   "items": [
+    {
+     "id": "6ea3e3674c41",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Game Informers started shipping!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x951l6/game_informers_started_shipping/",
+     "ts": "2026-10-18T14:48:49Z",
+     "summary": "My brother works at the Post Office and sent me this earlier today. Looks like they’re starting to ship it finally! submitted by /u/BIGRolyXL to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0cddae8353bf",
+   "title": "Even Local News Is Warning Miami About GTA 6 Scams Now",
+   "first_seen": "2026-10-18T17:01:11Z",
+   "updated": "2026-10-18T17:01:11Z",
+   "items": [
+    {
+     "id": "0cddae8353bf",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Even Local News Is Warning Miami About GTA 6 Scams Now",
+     "url": "https://www.gtaboom.com/even-local-news-is-warning-miami-about-gta-6-scams-now-d7c8",
+     "ts": "2026-10-18T17:00:25Z",
+     "summary": "CBS News Miami warned viewers on October 18 that fake GTA 6 early access offers online are malware scams, echoing months of similar warnings."
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -39303,10 +39357,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T16:57:47Z",
+  "last_run": "2026-10-18T17:01:11Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 83/87",
+   "gnews_en: 85/89",
    "gnews_ru: 27/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
@@ -39315,7 +39369,7 @@
    "eurogamer: 0/100",
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
-   "gtaboom: 3/30",
+   "gtaboom: 4/30",
    "reddit: 24/25",
    "tg_gtavistar: 1/12"
   ],
