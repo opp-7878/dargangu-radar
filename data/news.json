@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "72cac099a8f2",
+   "title": "Its crazy how GTA 5 makes GTA 6 look like a PS5 game",
+   "first_seen": "2026-10-17T14:40:41Z",
+   "updated": "2026-10-18T05:40:41Z",
+   "items": [
+    {
+     "id": "72cac099a8f2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Its crazy how GTA 5 makes GTA 6 look like a PS5 game",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x8amdg/its_crazy_how_gta_5_makes_gta_6_look_like_a_ps5/",
+     "ts": "2026-10-17T13:44:43Z",
+     "summary": "submitted by /u/RogerRoger63358 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "9dee26bdcfe5",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Hopefully rockstar makes a poster like this for GTA 5",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x8utzq/hopefully_rockstar_makes_a_poster_like_this_for/",
+     "ts": "2026-10-18T05:15:02Z",
+     "summary": "Would be nice to see Los Santos get a goodbye graphic before we head to Vice City submitted by /u/G6atlker21 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5c1cf711e24f",
+   "title": "Every Major Game Releasing in November That Isn’t GTA 6",
+   "first_seen": "2026-10-18T05:40:41Z",
+   "updated": "2026-10-18T05:40:41Z",
+   "items": [
+    {
+     "id": "5c1cf711e24f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Every Major Game Releasing in November That Isn’t GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EeUhYWENXSExUN3FhWUpuLWRYc3UxOWdUNnM5dGRRUmxHM2FTT3FMRFJvY3JxdGw3MkVlb3JUY21JMzJkcnczLW5xVEVPSWY0SlViTDRVdHVUT0ZfRXZSZHd3?oc=5",
+     "ts": "2026-10-18T04:00:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "46604a0bff35",
    "title": "Мужчина купил 500 цифровых копий GTA 6 за $55 тыс., не зная об отсутствии лимита",
    "first_seen": "2026-10-18T05:20:44Z",
@@ -13769,32 +13834,6 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1x8alpw/how_far_will_rockstar_push_the_gym_body_morphing/",
      "ts": "2026-10-17T13:43:52Z",
      "summary": "Do we think Jason will be able to reach this level of muscularity? submitted by /u/superman_king to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "72cac099a8f2",
-   "title": "Its crazy how GTA 5 makes GTA 6 look like a PS5 game",
-   "first_seen": "2026-10-17T14:40:41Z",
-   "updated": "2026-10-17T14:40:41Z",
-   "items": [
-    {
-     "id": "72cac099a8f2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Its crazy how GTA 5 makes GTA 6 look like a PS5 game",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x8amdg/its_crazy_how_gta_5_makes_gta_6_look_like_a_ps5/",
-     "ts": "2026-10-17T13:44:43Z",
-     "summary": "submitted by /u/RogerRoger63358 to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [],
@@ -37534,10 +37573,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T05:36:19Z",
+  "last_run": "2026-10-18T05:40:41Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 94/99",
+   "gnews_en: 80/84",
    "gnews_ru: 39/59",
    "gamesbeat: 0/10",
    "vgc: 0/10",
