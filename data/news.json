@@ -1,62 +1,10 @@
 {
  "stories": [
   {
-   "id": "c86cb46bc059",
-   "title": "Micheal Does Life HATES gta 6 - And You",
-   "first_seen": "2026-10-18T06:10:47Z",
-   "updated": "2026-10-18T06:10:47Z",
-   "items": [
-    {
-     "id": "c86cb46bc059",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "YouTube",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Micheal Does Life HATES gta 6 - And You",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmdW0zdm5xLXcybWx2UGk0eHdYb2VNUWVRV3BqZHExdkxJMEpXVWt6d3VQUGR3MEpkcjJjQjdfeWNNaWVRcVhoX1pwX05fYVZJelVvSnZDVk1IQ1d1?oc=5",
-     "ts": "2026-10-18T03:29:12Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ee1dd32ea879",
-   "title": "GTA 6 Set for November Release After Years of Hype",
-   "first_seen": "2026-10-18T06:01:10Z",
-   "updated": "2026-10-18T06:01:10Z",
-   "items": [
-    {
-     "id": "ee1dd32ea879",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "POLITIS - To the point",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Set for November Release After Years of Hype",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUNWZU5sazFsZzRFNjNNVTZxUHcxb3A3MXpwVEhPb3QzQ2x3anNQaC1QN0xBSlA1alNpOXZkWkN2dXgzMVd0VW9wZUoxMHhJMmQ4cllIeTUwOE00MVlYbDdvODF2RENIaWJQOXIwQXI3ZHlRWkpVNFNYSTBrRDZNdm8wY2hnMjNFNUhvZWoxc3RnX05jZTh0c0xB?oc=5",
-     "ts": "2026-10-18T05:03:59Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-18T05:50:47Z",
+   "updated": "2026-10-18T06:20:44Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -8299,6 +8247,19 @@
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XQ0lmdlVBdUlRcFVEdTkwRW92Y0NnWHV4aEZQVXlhQTlvMGxPOGhGVWRCZlMwM2x0bVVKZmpyemowUXhXN0lxUVplU3k4TTRoY2lyWl94M0NfTjhmTWtn?oc=5",
      "ts": "2026-10-17T07:11:06Z",
      "summary": ""
+    },
+    {
+     "id": "2f6601bffd7a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "WTFTime.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В новом трейлере GTA 6 заметили отсылку к первой Grand Theft Auto",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVAyZWFRNkRyd0s4eEF1MnlTMU9odlhhOVIyWExVRE90Z2xpYVpBNVN6aXNMVGVLQk8wR3FLNzRoUDVxUjFYdTJkb2d0R0pjMkhSQTA5QnJ3UXlZVlpyWnM1SkNXOTBkTXpGQkdaaWZjYUxfYmVFS0t3ZHU4b1J6SDVfSFZzLVJSNExOeW1HOGlkZy0yaXJtcUxIZFpDbUtCWFFj?oc=5",
+     "ts": "2026-10-18T06:17:46Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -8316,6 +8277,58 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "c86cb46bc059",
+   "title": "Micheal Does Life HATES gta 6 - And You",
+   "first_seen": "2026-10-18T06:10:47Z",
+   "updated": "2026-10-18T06:10:47Z",
+   "items": [
+    {
+     "id": "c86cb46bc059",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Micheal Does Life HATES gta 6 - And You",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmdW0zdm5xLXcybWx2UGk0eHdYb2VNUWVRV3BqZHExdkxJMEpXVWt6d3VQUGR3MEpkcjJjQjdfeWNNaWVRcVhoX1pwX05fYVZJelVvSnZDVk1IQ1d1?oc=5",
+     "ts": "2026-10-18T03:29:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ee1dd32ea879",
+   "title": "GTA 6 Set for November Release After Years of Hype",
+   "first_seen": "2026-10-18T06:01:10Z",
+   "updated": "2026-10-18T06:01:10Z",
+   "items": [
+    {
+     "id": "ee1dd32ea879",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "POLITIS - To the point",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Set for November Release After Years of Hype",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUNWZU5sazFsZzRFNjNNVTZxUHcxb3A3MXpwVEhPb3QzQ2x3anNQaC1QN0xBSlA1alNpOXZkWkN2dXgzMVd0VW9wZUoxMHhJMmQ4cllIeTUwOE00MVlYbDdvODF2RENIaWJQOXIwQXI3ZHlRWkpVNFNYSTBrRDZNdm8wY2hnMjNFNUhvZWoxc3RnX05jZTh0c0xB?oc=5",
+     "ts": "2026-10-18T05:03:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -37638,11 +37651,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-18T06:10:47Z",
+  "last_run": "2026-10-18T06:20:44Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 95/100",
-   "gnews_ru: 39/59",
+   "gnews_en: 96/100",
+   "gnews_ru: 40/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
