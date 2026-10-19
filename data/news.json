@@ -1,6 +1,96 @@
 {
  "stories": [
   {
+   "id": "01daa8444917",
+   "title": "'GTA 6' is almost here, 13 years after 'GTA 5'. Here's what you need to know.",
+   "first_seen": "2026-10-19T17:10:46Z",
+   "updated": "2026-10-19T17:10:46Z",
+   "items": [
+    {
+     "id": "01daa8444917",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' is almost here, 13 years after 'GTA 5'. Here's what you need to know.",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVGM3VjI5d014aDlXdFV1VndhanMycDhBTmF5LTc1eFhXUzMtSnVndFN5c25mTGMyMXV6RkJJQzdtQ1JpZjc3bF9jSjVrT0NHMU9uYTFkaWU5dGZicExmZmxZMy15b0hUQ0trYmpoYzE0WGRnTUlzejZXOHhmTzhqdWhhcjVnME1XM3FadWs3N3dEZ1UweGoxM3RrSGQ0Y2doazdxVVkwUXUwV1ZBSU5UYUg2YWhuQ05aQ3JJTm1qYw?oc=5",
+     "ts": "2026-10-19T17:00:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "846475caa459",
+   "title": "Rockstar’s NPC Tech Was Prototyped As Early As 2014",
+   "first_seen": "2026-10-19T17:10:46Z",
+   "updated": "2026-10-19T17:10:46Z",
+   "items": [
+    {
+     "id": "846475caa459",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Rockstar’s NPC Tech Was Prototyped As Early As 2014",
+     "url": "https://insider-gaming.com/rockstars-npc-tech-was-prototyped-as-early-as-2014/",
+     "ts": "2026-10-19T17:00:17Z",
+     "summary": "New information reveals that Rockstar's NPC tech evolved with a prototype from 2014. Here are more details. The post Rockstar’s NPC Tech Was Prototyped As Early As 2014 appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 80,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Технологии NPC в GTA 6: прототип ещё с 2014 года",
+    "summary": "По данным Insider Gaming (Tom Henderson), Rockstar начала прототипировать технологии NPC для GTA 6 ещё в 2014 году. Это объясняет, почему поведение персонажей в игре выглядит так живо. Официально Rockstar детали не раскрывала.",
+    "idea": "Короткая хронология: 2014 — первый прототип NPC, 2026 — живой Вайс-Сити. Зрителю интересно, как 12 лет разработки превращаются в умных прохожих.",
+    "hook": "Секрет умных NPC в GTA 6? Прототип начали делать ещё в 2014.",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-19T17:10:50Z"
+   },
+   "msg_id": 113
+  },
+  {
+   "id": "708eb3f9d991",
+   "title": "Paris 📍 it’s almost finished already",
+   "first_seen": "2026-10-19T17:10:46Z",
+   "updated": "2026-10-19T17:10:46Z",
+   "items": [
+    {
+     "id": "708eb3f9d991",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Paris 📍 it’s almost finished already",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xa2g5g/paris_its_almost_finished_already/",
+     "ts": "2026-10-19T17:01:43Z",
+     "summary": "submitted by /u/Adventurous_Mix_2443 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -45598,14 +45688,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T17:01:22Z",
+  "last_run": "2026-10-19T17:10:50Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 47/56",
+   "gnews_ru: 48/56",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 0/10",
+   "insider_gaming: 1/10",
    "ign: 2/20",
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
