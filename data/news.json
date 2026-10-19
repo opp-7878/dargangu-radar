@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "54519c5403f3",
+   "title": "Исследование BBC: 6% опрошенных считают изменой роман с Лусией в GTA 6",
+   "first_seen": "2026-10-19T12:40:47Z",
+   "updated": "2026-10-19T12:40:47Z",
+   "items": [
+    {
+     "id": "54519c5403f3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Исследование BBC: 6% опрошенных считают изменой роман с Лусией в GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMzRyS1ZPamZYaXpSYnJaYnhEdTVmSTRVLV9RRjBQTDk5WW0xbkxQd0xQNHd3LTVNUjNzS3VQZC1yZ29DUEZOQW94TVE0Y0x2d0Y2aHhCdGF3YlhWOTJVWURJMFRXS1NTeWlyUlN4NFp5X3o0TDd0R0tHcnk5cjlqNWhhQ2VDRkRkM0oxbk9PaGFoR1B6bVdUYmxqMllCNkh1ejA5bUdaMlVHcG1VbTJweE5hQy1jcVFOa3dn?oc=5",
+     "ts": "2026-10-19T12:21:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -43756,11 +43782,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T12:31:03Z",
+  "last_run": "2026-10-19T12:40:47Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 32/56",
+   "gnews_ru: 33/56",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
