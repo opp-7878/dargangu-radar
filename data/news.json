@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-19T11:01:11Z",
+   "updated": "2026-10-19T11:10:50Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -9365,6 +9365,19 @@
      "url": "https://www.reddit.com/r/GTAVI/comments/1x9tprk/preorder_gta_vi_ok_now_im_looking_forward_to_16h/",
      "ts": "2026-10-19T10:55:33Z",
      "summary": "submitted by /u/Easy-Highway-1862 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "34ec65cf24b6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Investing.com Canada",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take-Two Interactive (TTWO) stock analysis into GTA VI release By Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3hDWE5rd2xieWI4Y0pyX2RIdnh6alhuQmxvSXdwNUlPSDlZOS0zcEZrX2ctRjVHN285NUFkN1k3b3R6bk5NYVJnMjN5bU45eDFiemlYcGYtNE9yTGpNcUh4S3JoYTdaWVprcktza1lPRWNjbHl3eXRJd2xCV21jazBvdHJWbnVremliRkZ4d2t3dmZZakVhdlM1TF80TVRLRXhkV3VrWU9lcGpsN0J6NnRDaU8wOTZqS2pCRQ?oc=5",
+     "ts": "2026-10-19T09:22:16Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -9382,6 +9395,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "937928e536f8",
+   "title": "Modder Uses AI to Put Shadow of War's Nemesis System in Rockstar's Red Dead Redemption 2",
+   "first_seen": "2026-10-19T11:10:50Z",
+   "updated": "2026-10-19T11:10:50Z",
+   "items": [
+    {
+     "id": "937928e536f8",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Modder Uses AI to Put Shadow of War's Nemesis System in Rockstar's Red Dead Redemption 2",
+     "url": "https://www.ign.com/articles/red-dead-redemption-2-enrage-mod-nemesis-system",
+     "ts": "2026-10-19T10:32:10Z",
+     "summary": "There’s a new Red Dead Redemption 2 mod inspired by Middle-earth: Shadow of War’s Nemesis System, which tracks how individual enemies feel about you."
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -43269,15 +43308,15 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T11:01:11Z",
+  "last_run": "2026-10-19T11:10:50Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 100/100",
-   "gnews_ru: 29/59",
+   "gnews_ru: 29/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
-   "ign: 0/20",
+   "ign: 1/20",
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
    "rockstarintel: 0/10",
