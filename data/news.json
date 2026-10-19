@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "8eaeb58f8185",
+   "title": "До релиза GTA 6 остаётся ровно 1 месяц",
+   "first_seen": "2026-10-19T15:50:57Z",
+   "updated": "2026-10-19T15:50:57Z",
+   "items": [
+    {
+     "id": "8eaeb58f8185",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "До релиза GTA 6 остаётся ровно 1 месяц",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11eFB6eWhUOVBza1d5LVBxelJiOTc3RGxNT2N1dmpadXQ3YXYzREZTUGNOTktXTTB6VTFBSkxzMlNOVFp2V0thckt4VQ?oc=5",
+     "ts": "2026-10-19T10:42:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "aa5b6eb6b19d",
    "title": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100",
    "first_seen": "2026-10-18T21:01:12Z",
@@ -44999,11 +45025,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T15:40:53Z",
+  "last_run": "2026-10-19T15:50:57Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
-   "gnews_ru: 43/53",
+   "gnews_ru: 43/52",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -45012,7 +45038,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 0/10",
    "gtaboom: 5/30",
-   "reddit: 21/25",
+   "reddit: 20/25",
    "tg_gtavistar: 1/12"
   ],
   "digest": "2026-10-18",
