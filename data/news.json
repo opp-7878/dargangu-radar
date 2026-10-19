@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "19e3c8332eb6",
+   "title": "Слух: легендарная электронная группа могла вернуться в последний раз для саундтрека GTA 6",
+   "first_seen": "2026-10-19T20:01:13Z",
+   "updated": "2026-10-19T20:01:13Z",
+   "items": [
+    {
+     "id": "19e3c8332eb6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Слух: легендарная электронная группа могла вернуться в последний раз для саундтрека GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXZ3UUt2UWV6OWN0aXJJcTZiTkM0QkJOdkpnM2JvdUtJR3ZSWUpRdnJsSy1iZUxOTVdVa0g0YlFNWTlBZjBkYmpQejEtd1cwaEJGckY3N1dXRHRVeUlkQXI2eXoycTRGQ2gyVnFPeEJxZUxwMVFwOFdQWWZhV2NYTXRwdkdtbzhDQkpKUFdGeXBLU2VJZmF0OUpxb3ViU2F5b0JxcnE3bk9FOEZtQnlkVl8wT0ZmSnBZSzZtdHNSRGpZZFVraTU0YmdMckllVjdua0E?oc=5",
+     "ts": "2026-10-19T19:45:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a51cdcea8668",
    "title": "New billboard wrap in LA",
    "first_seen": "2026-10-19T19:50:49Z",
@@ -46406,11 +46432,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T19:50:49Z",
+  "last_run": "2026-10-19T20:01:14Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 49/57",
+   "gnews_ru: 48/56",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
