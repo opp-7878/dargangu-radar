@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-19T07:10:54Z",
+   "updated": "2026-10-19T07:20:52Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -9105,6 +9105,19 @@
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZjVER2hrSmZ6Snlab0c5QThVbTJwQ19GT3phTjhLSHdZMHcxUGh6ZWpidFA1TkVERnpDcTVOV3BCSzZ5bFBoYzNEeW5KU1FPUkRRMndnQkxQTDdPOXZsQWJmOFNfRHlCOFpQeGxHUlFKRktvZ1F3S2x5cmE4U2VyeTNTRUQ5QUVRb0d1dlhmY0pnSUEwaWpWaHJlaEdmam5xZVFqRW9hRHVnUUN5WHZORmI2V1JfXzlmeF9pcXhBeklrcUs1Ymc?oc=5",
      "ts": "2026-10-19T07:01:06Z",
      "summary": ""
+    },
+    {
+     "id": "159582f314af",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "https://ascendants.in/",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Is One Month Away, But Its PC Launch May Wait Until 2027",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRGxfcGg5cmZGN2JWS2N5aGNaaFdwT0RwQTdtaWkydkZOcjJIdUp2N2NneXY4bUpzaHg5U2ZPWFR4ODVVd3UxS2FvTHNSQWJEaUtPSmxJeTJ2cEs2WFoyeFhtbUVSaEFxcWRRLV9sQWhnNy1Jem9zNVpXa2hjQnBPTjM0M3dhME05YXhhMlNBVVFiQlJmSlFiMmlEVVRkcEdKUC01TXU2NW9oUjg?oc=5",
+     "ts": "2026-10-19T07:01:06Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -9122,6 +9135,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "18a9ce0c65c1",
+   "title": "I haven't seen anyone talk about the redirection of this bullet",
+   "first_seen": "2026-10-19T07:20:52Z",
+   "updated": "2026-10-19T07:20:52Z",
+   "items": [
+    {
+     "id": "18a9ce0c65c1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I haven't seen anyone talk about the redirection of this bullet",
+     "url": "https://www.reddit.com/r/GTA6/comments/1x9ol2o/i_havent_seen_anyone_talk_about_the_redirection/",
+     "ts": "2026-10-19T05:37:10Z",
+     "summary": "Perhaps there is insane detail in the ballistics submitted by /u/Wide_Wallaby_9673 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -42220,11 +42259,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T07:10:54Z",
+  "last_run": "2026-10-19T07:20:52Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 87/88",
-   "gnews_ru: 25/60",
+   "gnews_en: 86/87",
+   "gnews_ru: 24/59",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
