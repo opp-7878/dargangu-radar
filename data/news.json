@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "9b822ea3cf07",
+   "title": "GTA 5 Leaves PS Plus Nov. 17, Two Days Before GTA 6",
+   "first_seen": "2026-10-19T19:20:45Z",
+   "updated": "2026-10-19T19:20:45Z",
+   "items": [
+    {
+     "id": "9b822ea3cf07",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GodisaGeek.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 5 Leaves PS Plus Nov. 17, Two Days Before GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Rc0xWdlFrdjN5OWcxeFlRRURRWVpadDZrWWxrVjdMNnZ4VVB5V1loLTV1NmhXVndoa2hFX2Vpb3VKNHU0NDBZcXdmOUFpSWthZmxUT1ZWdThwUVh3QnVBcGNRX3FRVmdSdzZNbFR1VQ?oc=5",
+     "ts": "2026-10-19T18:19:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -46263,11 +46289,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T19:10:48Z",
+  "last_run": "2026-10-19T19:20:45Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 49/57",
+   "gnews_ru: 50/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
