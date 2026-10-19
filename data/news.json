@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "6f7fa86dc437",
+   "title": "GTA 6: Can you cheat on someone with a video game character?",
+   "first_seen": "2026-10-19T00:20:47Z",
+   "updated": "2026-10-19T00:31:00Z",
+   "items": [
+    {
+     "id": "6f7fa86dc437",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Can you cheat on someone with a video game character?",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUE9rRXRVMW5kYWxFd0Nzb0NDczBlOFlpOVZoUjN2VzZHc25UcXJkdUdnSzdyM1lIZnRvMWpFVXN0dU9BT09USzdSWEhESTJGZ0lJU2Z4aFB3Y2dWSjdQNXN2OUoyTWVCcUs1RFU1MDdmSlhheHpPNXotV0l4QzdJdDY0UjRKUjJkS0R4WTJR?oc=5",
+     "ts": "2026-10-19T00:09:00Z",
+     "summary": ""
+    },
+    {
+     "id": "39bfb482081d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BBC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Can you cheat on someone with a video game character?",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TM0dKbkczM2ZZc0I5eFRCWUdUWC01NEhuOGs5NzJsTHRtRUZUUDhjS2pQMURHV0VXRGhja0FiOUZWWTU2VjI4dTRLV3NrdXprLU5oN3hvbW03VVo5UWc?oc=5",
+     "ts": "2026-10-19T00:09:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c91a86e5e387",
+   "title": "30 days",
+   "first_seen": "2026-10-19T00:31:00Z",
+   "updated": "2026-10-19T00:31:00Z",
+   "items": [
+    {
+     "id": "c91a86e5e387",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "30 days",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x9itpg/30_days/",
+     "ts": "2026-10-19T00:28:52Z",
+     "summary": "Well, we're going to get ready for being inside of our room for the rest of the year. submitted by /u/Upstairs-3234 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a1f84441dfd3",
    "title": "Should You Buy These 4 Video Game Stocks Before GTA 6 Arrives?",
    "first_seen": "2026-10-18T19:10:46Z",
@@ -74,32 +139,6 @@
    ],
    "tags": [],
    "score": 66,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6f7fa86dc437",
-   "title": "GTA 6: Can you cheat on someone with a video game character?",
-   "first_seen": "2026-10-19T00:20:47Z",
-   "updated": "2026-10-19T00:20:47Z",
-   "items": [
-    {
-     "id": "6f7fa86dc437",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: Can you cheat on someone with a video game character?",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUE9rRXRVMW5kYWxFd0Nzb0NDczBlOFlpOVZoUjN2VzZHc25UcXJkdUdnSzdyM1lIZnRvMWpFVXN0dU9BT09USzdSWEhESTJGZ0lJU2Z4aFB3Y2dWSjdQNXN2OUoyTWVCcUs1RFU1MDdmSlhheHpPNXotV0l4QzdJdDY0UjRKUjJkS0R4WTJR?oc=5",
-     "ts": "2026-10-19T00:09:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -40899,11 +40938,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T00:20:47Z",
+  "last_run": "2026-10-19T00:31:01Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 80/81",
-   "gnews_ru: 23/62",
+   "gnews_en: 81/82",
+   "gnews_ru: 22/27",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
