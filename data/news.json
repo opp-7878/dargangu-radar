@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "a474bc77bb3a",
+   "title": "GTA 6 Enters Its Final 30 Days Before the November 19 Launch",
+   "first_seen": "2026-10-19T01:40:44Z",
+   "updated": "2026-10-19T01:40:44Z",
+   "items": [
+    {
+     "id": "a474bc77bb3a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "happygamer.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Enters Its Final 30 Days Before the November 19 Launch",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zQ0gweE9Ta3owS204TWNOYUIzNkZBUzlYUERMUXdSdmpmb29CRldTNUdSYkhSczN3ODJBWlJVT3puR3kyak0zNEFHQ1RQVHRBd0lkOUVGR1plcGJHYmNZVEZkTTJnUU16OVk5UXd0U01TVllrRzVHcTZB?oc=5",
+     "ts": "2026-10-19T01:32:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -41042,11 +41068,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T01:31:01Z",
+  "last_run": "2026-10-19T01:40:44Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 80/81",
-   "gnews_ru: 23/64",
+   "gnews_en: 82/83",
+   "gnews_ru: 23/65",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
