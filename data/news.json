@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-19T18:40:45Z",
+   "updated": "2026-10-19T19:10:48Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -9625,6 +9625,19 @@
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMmdpel9tWUN4U3lOR1F5emVhYkplNHd1eFdnUWg3TVZVOFl3LXlONExHdWk5SEs3VEV5UDctOUNJcm12a3JqMXEwdXBCUUFQWDZZSFVaUFpLOENHWTBtbjlRMzRxalBGVWJFbA?oc=5",
      "ts": "2026-10-19T18:29:08Z",
      "summary": ""
+    },
+    {
+     "id": "0e75b4e066b6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Mistake in launch trailer",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xa4mem/mistake_in_launch_trailer/",
+     "ts": "2026-10-19T18:20:45Z",
+     "summary": "https://preview.redd.it/17mczkhutgwh1.png?width=1898&format=png&auto=webp&s=9b95bf7c778ff0eaf5a7933329626cd3a28bbc71 At 0:07, you can hear Jason saying, \"They don't give loans, anything, to people like me,\" though the subtitles say, \"They don't give loans, OR anything, to people like me.\" This is so unplayable. I think Rockstar should delay the game until 2027 at least. It's so annoying seeing a company make a game and not even care enough for it to subtitle it correctly. Shame on you, Rockstar. submitted by /u/MaterialAbrocoma8388 to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [
@@ -9642,6 +9655,58 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "27c98fdefec8",
+   "title": "[META] Can we get a separate tag for IRL pics/marketing?",
+   "first_seen": "2026-10-19T19:10:48Z",
+   "updated": "2026-10-19T19:10:48Z",
+   "items": [
+    {
+     "id": "27c98fdefec8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "[META] Can we get a separate tag for IRL pics/marketing?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xa485w/meta_can_we_get_a_separate_tag_for_irl/",
+     "ts": "2026-10-19T18:06:25Z",
+     "summary": "Not a bad thing but the sub is kinda flooded with real-world marketing pics mostly in the Miami area. Its flooding the \"discovery\" tag. Any chance we can get a new tag for stuff like this? submitted by /u/Next-Distance-4508 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "43fc2518cf51",
+   "title": "The way the color of Jason's beer slightly changes color depending on where the sunlight penetrates the bottle",
+   "first_seen": "2026-10-19T19:10:48Z",
+   "updated": "2026-10-19T19:10:48Z",
+   "items": [
+    {
+     "id": "43fc2518cf51",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The way the color of Jason's beer slightly changes color depending on where the sunlight penetrates the bottle",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xa56y3/the_way_the_color_of_jasons_beer_slightly_changes/",
+     "ts": "2026-10-19T18:41:27Z",
+     "summary": "I can't get over how incredible the lighting is in this game. submitted by /u/GrapevineTime to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -46198,11 +46263,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T19:01:18Z",
+  "last_run": "2026-10-19T19:10:48Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 50/58",
+   "gnews_ru: 49/57",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
