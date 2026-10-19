@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "eb422444d8d8",
+   "title": "GTA 6 Netflix extended look: What time it releases today",
+   "first_seen": "2026-10-19T06:10:45Z",
+   "updated": "2026-10-19T06:10:45Z",
+   "items": [
+    {
+     "id": "eb422444d8d8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Netflix extended look: What time it releases today",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQamxKSGkxRXZhSXZMX1d3ZXFpZjJSYXZzNXIxUDV4ZUZMUG1MU1UxM2tFWGtSSlk4OGtvS3hCMDVMTmR5ZzhfMS1lVS12VXNnN2NQcWJtMEZOUU1CckNEdmdkNlNoWjNyUjBYVnltTWQtcUF0a3RJdklMclppV2dzbg?oc=5",
+     "ts": "2026-10-19T05:29:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6b908dd4e4e9",
    "title": "Rockstar не останавливает работу над GTA VI. Что происходит перед релизом?",
    "first_seen": "2026-10-19T04:20:45Z",
@@ -41992,11 +42018,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T06:01:11Z",
+  "last_run": "2026-10-19T06:10:45Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 88/89",
-   "gnews_ru: 27/63",
+   "gnews_en: 89/90",
+   "gnews_ru: 26/63",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
