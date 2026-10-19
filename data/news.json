@@ -1,6 +1,89 @@
 {
  "stories": [
   {
+   "id": "69c617228164",
+   "title": "Today is Finally the End of an Era for GTA 6",
+   "first_seen": "2026-10-19T09:10:46Z",
+   "updated": "2026-10-19T09:20:49Z",
+   "items": [
+    {
+     "id": "69c617228164",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Today is Finally the End of an Era for GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Bdk9hY19SaE9tOUZfMEt6TVhBMWNpa1U0U0xlYU8tUy1JV1pGMnByUW5LV3BIR2xvbUtUNXN5WTRUN3VvNTFSWExQNnlmbk5MMURfeGNEVTVpU2dhNjZDZGhMM1JOZW8?oc=5",
+     "ts": "2026-10-19T09:00:16Z",
+     "summary": ""
+    },
+    {
+     "id": "f7439f097c20",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Today is Finally the End of an Era for GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUmdVQzhmS1o3dkRBYjBpTGk3a0JUQ3o2ajgxNFA2b3JNYnA5SURoYkhGMFQ4ZWNOVXFFYmdKT2FzS3Z1TXZ0Z1o1VFJVRWhkR3o3V3pnRmppdWRDTm5lWE56UXpFdWYzTzVfVTlmcmFKb0FJODZRU1d4NWxaTzVrSnlBcFo?oc=5",
+     "ts": "2026-10-19T09:12:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "059bb0287600",
+   "title": "GTA 6 Launches In Exactly One Month",
+   "first_seen": "2026-10-19T04:10:42Z",
+   "updated": "2026-10-19T09:20:49Z",
+   "items": [
+    {
+     "id": "059bb0287600",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI is now exactly one month away",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1x9mzhg/gta_vi_is_now_exactly_one_month_away/",
+     "ts": "2026-10-19T04:05:47Z",
+     "summary": "We are now exactly one month away from the release of Grand Theft Auto VI The first trailer released almost 3 full years ago, and now in just 31 days, we’ll be playing the game This still doesn’t even feel real submitted by /u/callofdutygamer_ to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "adc641791a92",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Launches In Exactly One Month",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zTVB3VVR0dlBXaU1rNlBPeFBjanpYeUZTUUp2VW5lSVdwcF9hRENBbVhvRW1jNUNSRGFRVXVycFhZOXhMcUR1am55TDN0MEh5OG9TRzJvbm1WMWpha0FQYnRnZmxBNFFyaDRUeDRqT0pqQzhmZkFmMw?oc=5",
+     "ts": "2026-10-19T09:12:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru",
+   "msg_id": 111
+  },
+  {
    "id": "aa5b6eb6b19d",
    "title": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100",
    "first_seen": "2026-10-18T21:01:12Z",
@@ -9553,32 +9636,6 @@
    "status": "new"
   },
   {
-   "id": "69c617228164",
-   "title": "Today is Finally the End of an Era for GTA 6",
-   "first_seen": "2026-10-19T09:10:46Z",
-   "updated": "2026-10-19T09:10:46Z",
-   "items": [
-    {
-     "id": "69c617228164",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameRant",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Today is Finally the End of an Era for GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Bdk9hY19SaE9tOUZfMEt6TVhBMWNpa1U0U0xlYU8tUy1JV1pGMnByUW5LV3BIR2xvbUtUNXN5WTRUN3VvNTFSWExQNnlmbk5MMURfeGNEVTVpU2dhNjZDZGhMM1JOZW8?oc=5",
-     "ts": "2026-10-19T09:00:16Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "5ab0e87f2d98",
    "title": "GTA 6 спровоцировала официальное исследование, считается ли флирт с персонажем в видеоигре изменой",
    "first_seen": "2026-10-19T09:01:12Z",
@@ -11046,34 +11103,6 @@
     "слив"
    ],
    "score": 65,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "059bb0287600",
-   "title": "GTA VI is now exactly one month away",
-   "first_seen": "2026-10-19T04:10:42Z",
-   "updated": "2026-10-19T04:10:42Z",
-   "items": [
-    {
-     "id": "059bb0287600",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA VI is now exactly one month away",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1x9mzhg/gta_vi_is_now_exactly_one_month_away/",
-     "ts": "2026-10-19T04:05:47Z",
-     "summary": "We are now exactly one month away from the release of Grand Theft Auto VI The first trailer released almost 3 full years ago, and now in just 31 days, we’ll be playing the game This still doesn’t even feel real submitted by /u/callofdutygamer_ to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 35,
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
@@ -42794,7 +42823,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T09:10:46Z",
+  "last_run": "2026-10-19T09:20:54Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/99",
