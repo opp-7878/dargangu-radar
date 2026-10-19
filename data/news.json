@@ -1,6 +1,110 @@
 {
  "stories": [
   {
+   "id": "a51cdcea8668",
+   "title": "New billboard wrap in LA",
+   "first_seen": "2026-10-19T19:50:49Z",
+   "updated": "2026-10-19T19:50:49Z",
+   "items": [
+    {
+     "id": "a51cdcea8668",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "New billboard wrap in LA",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xa5zl0/new_billboard_wrap_in_la/",
+     "ts": "2026-10-19T19:10:09Z",
+     "summary": "Posted by: retrogamingdays on IG submitted by /u/Kowakujo to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a85bf596c84a",
+   "title": "GTA 6: Rockstar два года искала замену оружейному колесу",
+   "first_seen": "2026-10-19T19:50:49Z",
+   "updated": "2026-10-19T19:50:49Z",
+   "items": [
+    {
+     "id": "a85bf596c84a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://dungen.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: Rockstar два года искала замену оружейному колесу",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FbnFtN2xFZlhaOHdYcjVUeGdsV3RHSzlqb05aaXhRemFnMTB3Slhzbnh2NVRRdElpOUsyY2RlSDlTSEhtU29GNzNhaTM0ZzNSeDBId2ZoVXVsUDJ4TTVZdFZuWQ?oc=5",
+     "ts": "2026-10-19T19:41:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "adf246ae5d45",
+   "title": "Turns Out, Even GTA 6's Devs Don't Know Everything That's in the Game",
+   "first_seen": "2026-10-19T19:50:49Z",
+   "updated": "2026-10-19T19:50:49Z",
+   "items": [
+    {
+     "id": "adf246ae5d45",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "DualShockers",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Turns Out, Even GTA 6's Devs Don't Know Everything That's in the Game",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlVFNjVOSUh3ajFoMFNaWDhjb1VrN19CdEJrQXJxVEtidzVOTmQ2cW9XaXF3aWN0WVBUOV9ibU1XaURCOGl6MkZ0by1IeXk5bTRKOEdjdHFPMnJwT2VFc01fd0hFOEE5Y0xuRFpMbjhWU2VsaXhhdmRXdTNEclJKN2hYTmJ0M05pa2E2ZWRuTFpyeDlGUzdjODFOcw?oc=5",
+     "ts": "2026-10-19T19:42:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "57761dca1e8d",
+   "title": "GTA VI Reportedly Features Significantly Narrower Roads & Denser Traffic Than GTA V",
+   "first_seen": "2026-10-19T19:50:49Z",
+   "updated": "2026-10-19T19:50:49Z",
+   "items": [
+    {
+     "id": "57761dca1e8d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TwistedVoxel",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Reportedly Features Significantly Narrower Roads & Denser Traffic Than GTA V",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQblQtYXY2S0FxX1RlZ0Y5RnZUQlVnS2dDMzJ4NzBNYkI0WTlJSjBZWGZYUlBrVk14T240eEtvQnM5NW9JcU5ZV2sxS3NCZjhPYXh1a3pCaTM0dndLTlhJeFpzSGZ5N0FseWdsOEtlaTg4UWR0S2VaUFJYYkpCc2ZSX1ZxSk84cXJyMFRFdllxSkg?oc=5",
+     "ts": "2026-10-19T19:44:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "b0d434b6cac0",
    "title": "‘No offense to Zelda’ but GTA 6 and COD Modern Warfare 4 are ‘the two biggest games of the year’, Activision exec says",
    "first_seen": "2026-10-15T13:50:48Z",
@@ -46302,11 +46406,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T19:40:49Z",
+  "last_run": "2026-10-19T19:50:49Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 48/56",
+   "gnews_ru: 49/57",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -46315,7 +46419,7 @@
    "dexerto_gta: 2/50",
    "rockstarintel: 0/10",
    "gtaboom: 4/30",
-   "reddit: 23/25",
+   "reddit: 22/25",
    "tg_gtavistar: 1/12"
   ],
   "digest": "2026-10-19",
