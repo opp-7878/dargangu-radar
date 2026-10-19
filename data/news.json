@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "8ef4dbabc066",
+   "title": "Rockstar Games Confirms Major Upgrade in GTA 6 From Grand Theft Auto V",
+   "first_seen": "2026-10-19T22:01:11Z",
+   "updated": "2026-10-19T22:01:11Z",
+   "items": [
+    {
+     "id": "8ef4dbabc066",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ComicBook.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games Confirms Major Upgrade in GTA 6 From Grand Theft Auto V",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFVCZ3hsZzRDMVQ2cjFkV0tIcEI4ckIzVmQ1cEZGRE00T1hoVVJ4S241MUlMUWhGQlBYVnFNbW1GdlBLakY5TEdyU1B2UnpfNGsyOVg3cEdWLW45c19sLVdNU2MyOWFyRHpNaE9wV3dvR3A2TlNKWVNoWS10YUxTMDA0OWowNUtYOXc?oc=5",
+     "ts": "2026-10-19T21:52:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -46979,11 +47007,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T21:50:44Z",
+  "last_run": "2026-10-19T22:01:11Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
-   "gnews_ru: 48/56",
+   "gnews_ru: 49/57",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
