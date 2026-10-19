@@ -41187,11 +41187,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T02:41:05Z",
+  "last_run": "2026-10-19T02:50:42Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/1",
+   "gnews_en: 83/84",
+   "gnews_ru: 22/64",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
