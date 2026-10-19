@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "c38c1df5cd91",
+   "title": "Rockstar accused of hiring 'snitches' to spy on unionized GTA VI developers",
+   "first_seen": "2026-10-19T12:20:46Z",
+   "updated": "2026-10-19T12:20:46Z",
+   "items": [
+    {
+     "id": "c38c1df5cd91",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iXBT.games",
+     "group": "media",
+     "weight": 45,
+     "alert": true,
+     "title": "Rockstar accused of hiring 'snitches' to spy on unionized GTA VI developers",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFlTYzlGNVBpUklWWm13ZGlGNzBZMVUwTURVQV8ySFB0UUp0LUw4ek44UGVMNnFLS3lGRnBhS1RRUXl0S2FiNE9LeWdlZ1dSZGtfWEhHdzJ2TzQ3ZzRocFlsLWsyVXVLVWFLTi1fZmx0VlM3WHZlTlNYV21tZ2VwenlkMU5FdHZRTC10cG0wd0dFU19nYnZocTFRRlR5cy1SMVNnUTc5LXpoU1BkeEdDcndnNkZfbFdPUjlYSTVqdUlXa3BwdVFiaHFPY1ZOcDJ4U1o3LQ?oc=5",
+     "ts": "2026-10-19T10:50:06Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -43583,11 +43609,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T12:10:48Z",
+  "last_run": "2026-10-19T12:20:46Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 32/56",
+   "gnews_ru: 32/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
