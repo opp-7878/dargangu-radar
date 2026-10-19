@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-19T16:30:59Z",
+   "updated": "2026-10-19T16:40:48Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -9547,6 +9547,19 @@
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObnk3U2hrcGZUbWItbjJoQl9IanQ3OURpdDBRSUZ4d0t6VnVScno0eXJqWVQ2endVWlFTcTJXMENIa0gwdEd1T01uQ0RPR2RVZmhKOWxhd0JvWkIzemtMcWpkY0E5M2pZbGRxUVRWSUljVkx0bXQ5alU3TS02cVdkS3BWLWI?oc=5",
      "ts": "2026-10-19T16:18:39Z",
      "summary": ""
+    },
+    {
+     "id": "4aa4e28f7f6c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "DLCompare.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Online: Is There Multiplayer at Launch? Everything Confirmed So Far",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnFHVzNmczFWWHJzaE16eURRcEU5M2dtQnRHSFRHRndZbXdNT2tXVS1ZYTh4c0gyTUtNVjBsVEQ0N1diYXVsbUFrT0J4NTBlVnZNMXN0ZGJidld2Wlp6OGgzQ0xoS2F0ZFFWakwtX3RqNnNiYXY4cFluOUpQYWlNQUxocTczNUJYX29XdUw2UDV3ekVQOHJwRTl1WGhuZjNtSTBkZmxndENOYjJQWWc?oc=5",
+     "ts": "2026-10-19T16:30:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -9564,6 +9577,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "3839dcac3796",
+   "title": "Yeah, that seems about right.",
+   "first_seen": "2026-10-19T16:40:48Z",
+   "updated": "2026-10-19T16:40:48Z",
+   "items": [
+    {
+     "id": "3839dcac3796",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Yeah, that seems about right.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xa1usx/yeah_that_seems_about_right/",
+     "ts": "2026-10-19T16:39:28Z",
+     "summary": "submitted by /u/Sad_Animator1686 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -45399,10 +45438,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T16:30:59Z",
+  "last_run": "2026-10-19T16:40:48Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 97/100",
+   "gnews_en: 98/100",
    "gnews_ru: 46/54",
    "gamesbeat: 0/10",
    "vgc: 0/10",
@@ -45412,7 +45451,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 0/10",
    "gtaboom: 5/30",
-   "reddit: 22/25",
+   "reddit: 21/25",
    "tg_gtavistar: 1/12"
   ],
   "digest": "2026-10-18",
