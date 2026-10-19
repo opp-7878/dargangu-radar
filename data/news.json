@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "4382baaa6754",
-   "title": "GTA 6: 6% британцев назвали изменой роман с персонажем",
-   "first_seen": "2026-10-19T01:10:44Z",
-   "updated": "2026-10-19T01:10:44Z",
-   "items": [
-    {
-     "id": "4382baaa6754",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6: 6% британцев назвали изменой роман с персонажем",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FcTRxNDFmclZZWHZTZFFVeWFiTFQtdWM0WnVCU0NJWUJLTmFzN005ZzFDQ1c2Wkk0Mlg2RmFUcUl5MEh4MDdscU5kMWp5elROZEpJcmZMaHA5QkpjN1VXckxkdno0X1ZrNjJVb05CREtLUVpNZnc1Nw?oc=5",
-     "ts": "2026-10-19T00:20:53Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-19T01:01:11Z",
+   "updated": "2026-10-19T01:31:01Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -8988,6 +8962,19 @@
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTFlKTXdmRk9WdkVKSHBYWG1CV1l3dG9rMVBJS01yOHRpekZwelU0T2x0ZnRwMXRfVmZvZDQwZXV6clozcXI2eHhvNjFfWkZ2NzROdjEyY1hjeFBpek5wR08wb1NyeUdRZUlURDNiSlR6cl9NUmtRYmI4WHNQYkZQdmt4SkZtSWRvOWNJaUl3dk8tbmdiNm9WTFAwbHBjb0pxeXJqektuZzlMOS1KUjlHU2RtdmRnT0cwNzI4c2hNbzRDQ0R5OFJERzVxdUhZWDF6X3dsM2VtNHFlcFJBNUE?oc=5",
      "ts": "2026-10-19T00:53:14Z",
      "summary": ""
+    },
+    {
+     "id": "927b2e571a89",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "HW News - NVIDIA's $7000 RTX Spark Laptop, RIP RTX 5090, GTA VI PC Launch Rumor, CPU Price Hike",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yeFRNQTNxc1hseDZMSzFXNmpqMklHOERVejBYLTM3dEEydVY4ZV9MZTFsXzNzU2JkeUpCaWJScjZWdTBoTEI2dkR6TmRFWlpHTnk5WV9acHN5LUk5?oc=5",
+     "ts": "2026-10-18T13:41:52Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -9005,6 +8992,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "4382baaa6754",
+   "title": "GTA 6: 6% британцев назвали изменой роман с персонажем",
+   "first_seen": "2026-10-19T01:10:44Z",
+   "updated": "2026-10-19T01:10:44Z",
+   "items": [
+    {
+     "id": "4382baaa6754",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: 6% британцев назвали изменой роман с персонажем",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FcTRxNDFmclZZWHZTZFFVeWFiTFQtdWM0WnVCU0NJWUJLTmFzN005ZzFDQ1c2Wkk0Mlg2RmFUcUl5MEh4MDdscU5kMWp5elROZEpJcmZMaHA5QkpjN1VXckxkdno0X1ZrNjJVb05CREtLUVpNZnc1Nw?oc=5",
+     "ts": "2026-10-19T00:20:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -41029,7 +41042,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T01:20:45Z",
+  "last_run": "2026-10-19T01:31:01Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 80/81",
