@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "72fc7c52fd34",
+   "title": "my GTA six has a lock on it",
+   "first_seen": "2026-10-19T22:50:47Z",
+   "updated": "2026-10-19T22:50:47Z",
+   "items": [
+    {
+     "id": "72fc7c52fd34",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "my GTA six has a lock on it",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xabkbq/my_gta_six_has_a_lock_on_it/",
+     "ts": "2026-10-19T22:46:02Z",
+     "summary": "My GTA six is a lock on it. I bought it on PlayStation. Does anybody else have this or no why it’s like this. submitted by /u/Remarkable-Sea-4042 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a5fa4f1194a2",
    "title": "Beer ads outside Monty’s Coconut Grove",
    "first_seen": "2026-10-19T22:40:50Z",
@@ -47202,7 +47228,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T22:40:50Z",
+  "last_run": "2026-10-19T22:50:47Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
