@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-19T18:31:03Z",
+   "updated": "2026-10-19T18:40:45Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -9612,6 +9612,19 @@
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXo4R0RidmgxeVFYdWFrYWhPd3c5bGJNeGRpc1ZnclJGYTRMUTE2ZXlHd2NKd2VXU19STF90ejdia0JqSFhMYnRZbnVuVVNPYUktam9qM3JrdG5vb2d5aURCTlEzM0ZGWi1LZnhzVUJrelNQa2FReDRPeVlNeW5JZWFNbXpiS3U4T2RybHA5ZWNVdmthVGp3d0lQcFdmUQ?oc=5",
      "ts": "2026-10-19T15:35:26Z",
      "summary": ""
+    },
+    {
+     "id": "7d6b6037f08b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Трейлер GTA 6 за три дня набрал 47 млн просмотров, обогнав трейлер GTA 5",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMmdpel9tWUN4U3lOR1F5emVhYkplNHd1eFdnUWg3TVZVOFl3LXlONExHdWk5SEs3VEV5UDctOUNJcm12a3JqMXEwdXBCUUFQWDZZSFVaUFpLOENHWTBtbjlRMzRxalBGVWJFbA?oc=5",
+     "ts": "2026-10-19T18:29:08Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -9629,6 +9642,60 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "cc035efdc877",
+   "title": "Rockstar Games отказалась от Blu-ray дисков для GTA VI из-за размера игры более 200 ГБ",
+   "first_seen": "2026-10-19T18:40:45Z",
+   "updated": "2026-10-19T18:40:45Z",
+   "items": [
+    {
+     "id": "cc035efdc877",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar Games отказалась от Blu-ray дисков для GTA VI из-за размера игры более 200 ГБ",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVG9mZHIwdWU5Z09XemVodXdyem81RUFVTkxVcVJrLXlJa0NqVUZMOERYTkJ1cFJMdUNNbTJ0T0U0X2tzU3QtVnBZdHdHUEpwYlFZSmF3MExyYjV3aUJnNGE4bHNmOXpDRTRnT0U2eGwtUHFIcFFuZVNkNmllNDBsYkRDNnJic2xGaE5zMW94TldHOFZOQWprQzhsOTBfS2Y0bmlrcG9xVUFxSVQ0bExGd1FLYm44cnM?oc=5",
+     "ts": "2026-10-19T18:16:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "42bbb3b33324",
+   "title": "GameStop’s used PS5 Pro prices are raising eyebrows as GTA 6 approaches",
+   "first_seen": "2026-10-19T18:40:45Z",
+   "updated": "2026-10-19T18:40:45Z",
+   "items": [
+    {
+     "id": "42bbb3b33324",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "DLCompare.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GameStop’s used PS5 Pro prices are raising eyebrows as GTA 6 approaches",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWllTEV5NHBJd0xKbEtTaGFsSTJCN1JBbU5xV0VWTXlxc0V2bHc2bURGZE9qeVhfZ0xRemNxa3FWeXc4MWlIeDZRaGlWX0lrTThRcGh0RDc4VFhVQlRkejFUNlZBUDRyOTNtSHBlRDlybGJNamtBbVVDS0x2a3dubC1jdWc3akpyZ0VVMW1DYWJJOVdhdDNud0ZGcnhtYy1BQWpSRGl0dm55LTltVkExelY1UE9Wdw?oc=5",
+     "ts": "2026-10-19T18:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -46131,11 +46198,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T18:31:03Z",
+  "last_run": "2026-10-19T18:40:45Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 51/58",
+   "gnews_ru: 50/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
