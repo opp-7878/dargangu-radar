@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-19T16:20:50Z",
+   "updated": "2026-10-19T16:30:59Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -9534,6 +9534,19 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xa15uc/did_anyone_call_this_number_on_the_launch_trailer/",
      "ts": "2026-10-19T16:13:21Z",
      "summary": "I just wanna know is it like a company stunt if you call it'll be like the pre recorded hyping up thing submitted by /u/Material-Hurry989 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "f4c1703944db",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "WTFTime.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Трейлер GTA 6 побил рекорд GTA 5 за 3 дня",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObnk3U2hrcGZUbWItbjJoQl9IanQ3OURpdDBRSUZ4d0t6VnVScno0eXJqWVQ2endVWlFTcTJXMENIa0gwdEd1T01uQ0RPR2RVZmhKOWxhd0JvWkIzemtMcWpkY0E5M2pZbGRxUVRWSUljVkx0bXQ5alU3TS02cVdkS3BWLWI?oc=5",
+     "ts": "2026-10-19T16:18:39Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -9551,6 +9564,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "714262d54a21",
+   "title": "По заказу Rockstar в рамках рекламной кампании GTA 6 опоры надземного метро Metromover в Майами начали обклеивать плёнкой с цветовым... 2026",
+   "first_seen": "2026-10-19T16:30:59Z",
+   "updated": "2026-10-19T16:30:59Z",
+   "items": [
+    {
+     "id": "714262d54a21",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "По заказу Rockstar в рамках рекламной кампании GTA 6 опоры надземного метро Metromover в Майами начали обклеивать плёнкой с цветовым... 2026",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PcWVreUh3eFlvZ0VwWjNPa1lKMndzX0VkN1U2cjk0enZqNW1xT0tjMVl5eS01XzVneUg1X1FZejVVcERjNko2MTFn?oc=5",
+     "ts": "2026-10-19T13:57:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -45360,11 +45399,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-19T16:20:50Z",
+  "last_run": "2026-10-19T16:30:59Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
-   "gnews_ru: 45/53",
+   "gnews_ru: 46/54",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
