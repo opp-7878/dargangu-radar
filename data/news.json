@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "8e69dba0626f",
-   "title": "Before GTA 6: Remembering the 1997 Original Game That Started It All",
-   "first_seen": "2026-10-20T02:20:49Z",
-   "updated": "2026-10-20T02:20:49Z",
-   "items": [
-    {
-     "id": "8e69dba0626f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Decked Out Magazine",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Before GTA 6: Remembering the 1997 Original Game That Started It All",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vZW1wOFB0OW82OU5EVzZKQnRUX055TFFRZ2M0ZXVXX0t2MlV3MmJ1cjJvalpONkJ6SXNCSGpzb2YwbjF4aE5YRjhfVE54c19qd3JiTy0tVmdwVWF6amNjWXQ0VVFkVkpLb0xF?oc=5",
-     "ts": "2026-10-20T01:22:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-20T02:10:43Z",
+   "updated": "2026-10-20T02:40:43Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -9859,6 +9833,19 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmJ5bEU1SUZSU1FDOHdFTjJDMEpNLWp6SGVmOUl3NHdWTGFWa1hrM1BzaGhXOTNXV2VQSl9hNlFuTkVDSjVucVozNmFmWGVfRFl2VGFxNFU0cm9UdElLaDlzZzVpZmRpb1lCZmFNMTlnQTF0N0ZocTI4VUVia2VuSGJscEMzU1Vtem4zVnd4TWRYV3lhbTNuZEtha3ZfNjdiWDZTdG1sMGp2QXJXdER3ak91WHdDVDVnQndrSi1aeU5RZw?oc=5",
      "ts": "2026-10-20T02:04:00Z",
      "summary": ""
+    },
+    {
+     "id": "90078a9c5270",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Martin Cid Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Was Built Without Generative AI. The PC Version Lets Players Bring It In",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hY1RFdlpTLUJsR0lfS0xSemFQRHRfYXZNWjlsMko3b0NnM29lSFJNVU1OZmQyNWg0NVhCcnVqaFNJa3ZCNEFjOHdndXRaRnZBdzBhcUVMVTIxUkY1d0VBQllnaUhyaktPYmM2MFQ0NTJyMlJfOWtqaEtXSVozNG8?oc=5",
+     "ts": "2026-10-20T01:43:26Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -9876,6 +9863,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "8e69dba0626f",
+   "title": "Before GTA 6: Remembering the 1997 Original Game That Started It All",
+   "first_seen": "2026-10-20T02:20:49Z",
+   "updated": "2026-10-20T02:20:49Z",
+   "items": [
+    {
+     "id": "8e69dba0626f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Decked Out Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Before GTA 6: Remembering the 1997 Original Game That Started It All",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vZW1wOFB0OW82OU5EVzZKQnRUX055TFFRZ2M0ZXVXX0t2MlV3MmJ1cjJvalpONkJ6SXNCSGpzb2YwbjF4aE5YRjhfVE54c19qd3JiTy0tVmdwVWF6amNjWXQ0VVFkVkpLb0xF?oc=5",
+     "ts": "2026-10-20T01:22:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -47856,7 +47869,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T02:31:07Z",
+  "last_run": "2026-10-20T02:40:43Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
