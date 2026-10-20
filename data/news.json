@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "899676089acc",
+   "title": "Why ‘GTA 6’ faces a problem Rockstar never saw coming",
+   "first_seen": "2026-10-20T00:10:45Z",
+   "updated": "2026-10-20T00:10:45Z",
+   "items": [
+    {
+     "id": "899676089acc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rolling Out",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Why ‘GTA 6’ faces a problem Rockstar never saw coming",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFlYXy16R1dZNzAxVHhnZHFFMk5NQUpaeU9sdk1FUzRvcmItam9NQ3BFMkszTlc0V2xhelowVFotS3JfdGhESkV1THBrNmxSZWNqb2JOa3JWYXN1Q1R6OUo3LVlVdmlla19XR3JqTjVua1F5VUVmcEdBYzVLWllwcg?oc=5",
+     "ts": "2026-10-19T16:22:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "dca20207477e",
+   "title": "Хакер взломал актуальную прошивку PS5 14.10 для запуска GTA 6",
+   "first_seen": "2026-10-20T00:10:45Z",
+   "updated": "2026-10-20T00:10:45Z",
+   "items": [
+    {
+     "id": "dca20207477e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Хакер взломал актуальную прошивку PS5 14.10 для запуска GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjI5MHhMaU9RZXh4bFFlTE9PaXdJSXAtRXBwQUtEZkd6Z191dC0zZGZ1LWNkLUhWNktwU0VGaVpiTXJVZkk2N1I0dlFCN3N2TTN4VjVEbzBsWHdPczFaV2cwallNUXRpYjNaczV3Uk1fUmtHRGpRekk2Y1dXY0xnNWxBRmxndDJrWVRkbnU3S2M3SEpfUVpnQndOcw?oc=5",
+     "ts": "2026-10-19T22:12:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4d079b8a84f1",
    "title": "No way, say it isn't so...",
    "first_seen": "2026-10-20T00:01:15Z",
@@ -47425,11 +47477,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T00:01:15Z",
+  "last_run": "2026-10-20T00:10:45Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 97/100",
-   "gnews_ru: 48/56",
+   "gnews_en: 98/100",
+   "gnews_ru: 49/57",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
