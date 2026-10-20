@@ -1,6 +1,47 @@
 {
  "stories": [
   {
+   "id": "1e945ed8d73e",
+   "title": "GTA 6 только в США заработала почти $600 миллионов на предзаказах — аналитика",
+   "first_seen": "2026-10-20T11:10:46Z",
+   "updated": "2026-10-20T12:20:51Z",
+   "items": [
+    {
+     "id": "1e945ed8d73e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "WTFTime.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 только в США заработала почти $600 миллионов на предзаказах — аналитика",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZDZJRExNZ190RXctRG9OWlQ5LU4tQ2NjalN6YVB4ODNQZHJZeGVUMmRBZGpVV2Zlb3I3TGJqeV8xVVRQXzNHaXZndDNnM1lvNEt3eTZfZGFaMFI5aUZlelczSVBuYXROTi0zeGhUbzNqaF9RYkFLckI2ZmU3WXk0QkpPc0tZWFA2bDlIWW5FTWgxakFJRUpaRy1rcUsxc1Z1US1tZFU3T3FQeVNZZ1NwS25B?oc=5",
+     "ts": "2026-10-20T10:58:13Z",
+     "summary": ""
+    },
+    {
+     "id": "f6eee13b817c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "the-geek.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 собрала почти $600 млн ещё до выхода. Конкуренты остались далеко позади",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CUHlMZ0Q0X3VLUzNPUm5XcEQtME1LR1lVU3NvaWtBb2tFNjQ4VlFyVXpPQkFNOW1VT3ZSbVJSbkZVVTQwWmV1SjVHUlFCb0xhUFMyVno1Qnkta0lGRVFKNUdFQnVmckhfaFlVS0t4aXU3eXFVc0NWTw?oc=5",
+     "ts": "2026-10-20T12:19:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 63,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -10550,34 +10591,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1e945ed8d73e",
-   "title": "GTA 6 только в США заработала почти $600 миллионов на предзаказах — аналитика",
-   "first_seen": "2026-10-20T11:10:46Z",
-   "updated": "2026-10-20T11:10:46Z",
-   "items": [
-    {
-     "id": "1e945ed8d73e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "WTFTime.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 только в США заработала почти $600 миллионов на предзаказах — аналитика",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZDZJRExNZ190RXctRG9OWlQ5LU4tQ2NjalN6YVB4ODNQZHJZeGVUMmRBZGpVV2Zlb3I3TGJqeV8xVVRQXzNHaXZndDNnM1lvNEt3eTZfZGFaMFI5aUZlelczSVBuYXROTi0zeGhUbzNqaF9RYkFLckI2ZmU3WXk0QkpPc0tZWFA2bDlIWW5FTWgxakFJRUpaRy1rcUsxc1Z1US1tZFU3T3FQeVNZZ1NwS25B?oc=5",
-     "ts": "2026-10-20T10:58:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 55,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -50454,11 +50467,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T12:10:43Z",
+  "last_run": "2026-10-20T12:20:51Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 100/100",
-   "gnews_ru: 56/63",
+   "gnews_en: 99/100",
+   "gnews_ru: 57/64",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
