@@ -1,0 +1,37 @@
+name: send-video
+
+# Ручная отправка готового ролика в Telegram-бот (тот же чат, что у радара).
+# url — временная ссылка на mp4 (до 50 МБ), caption — подпись.
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Ссылка на mp4"
+        type: string
+        required: true
+      caption:
+        description: "Подпись"
+        type: string
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Скачать и отправить
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          URL: ${{ inputs.url }}
+          CAPTION: ${{ inputs.caption }}
+        run: |
+          curl -sSfL "$URL" -o video.mp4
+          ls -l video.mp4
+          curl -sS -o resp.json -w "%{http_code}\n" "https://api.telegram.org/bot${TG_BOT_TOKEN}/sendVideo" \
+            -F chat_id="$TG_CHAT_ID" -F supports_streaming=true -F caption="$CAPTION" \
+            -F width=1080 -F height=1920 -F video=@video.mp4
+          python3 -c "import json;d=json.load(open('resp.json'));print('ok' if d.get('ok') else d.get('description'));exit(0 if d.get('ok') else 1)"
