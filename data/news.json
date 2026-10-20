@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "dca20207477e",
+   "title": "Хакер взломал актуальную прошивку PS5 14.10 для запуска GTA 6",
+   "first_seen": "2026-10-20T00:10:45Z",
+   "updated": "2026-10-20T00:40:48Z",
+   "items": [
+    {
+     "id": "dca20207477e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Хакер взломал актуальную прошивку PS5 14.10 для запуска GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjI5MHhMaU9RZXh4bFFlTE9PaXdJSXAtRXBwQUtEZkd6Z191dC0zZGZ1LWNkLUhWNktwU0VGaVpiTXJVZkk2N1I0dlFCN3N2TTN4VjVEbzBsWHdPczFaV2cwallNUXRpYjNaczV3Uk1fUmtHRGpRekk2Y1dXY0xnNWxBRmxndDJrWVRkbnU3S2M3SEpfUVpnQndOcw?oc=5",
+     "ts": "2026-10-19T22:12:19Z",
+     "summary": ""
+    },
+    {
+     "id": "0abc740aa690",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Хакер взломал актуальную прошивку PS5 14.10 для запуска GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPelJCSFB1SHhadVRSRDB5aUJ2bXNJakNuUHZLQ2FqSHQ0aHItS3ZxUXVkNnJxQTJJdzNNOXdnSFBIaWFfVHhydzJHUHJDMmIxc0F6ZlpQWlZ1SmI3ZG5DUE85V1o4SGZaU0ZrdEo5SGt4SC1FVzB3bWhWclBLakVYUk5nRGNuU2dfcXNBY1hqeXNnS0E2ZnRfMm9zNTNrcGFVZUhkV1hLNk4zN0lBVzF2dUtB?oc=5",
+     "ts": "2026-10-19T23:25:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e2a3d238967e",
    "title": "Justice To Score Grand Theft Auto VI",
    "first_seen": "2026-10-15T13:40:49Z",
@@ -493,32 +532,6 @@
    ],
    "tags": [],
    "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "dca20207477e",
-   "title": "Хакер взломал актуальную прошивку PS5 14.10 для запуска GTA 6",
-   "first_seen": "2026-10-20T00:10:45Z",
-   "updated": "2026-10-20T00:10:45Z",
-   "items": [
-    {
-     "id": "dca20207477e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Хакер взломал актуальную прошивку PS5 14.10 для запуска GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjI5MHhMaU9RZXh4bFFlTE9PaXdJSXAtRXBwQUtEZkd6Z191dC0zZGZ1LWNkLUhWNktwU0VGaVpiTXJVZkk2N1I0dlFCN3N2TTN4VjVEbzBsWHdPczFaV2cwallNUXRpYjNaczV3Uk1fUmtHRGpRekk2Y1dXY0xnNWxBRmxndDJrWVRkbnU3S2M3SEpfUVpnQndOcw?oc=5",
-     "ts": "2026-10-19T22:12:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -47557,11 +47570,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T00:30:56Z",
+  "last_run": "2026-10-20T00:40:48Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 49/57",
+   "gnews_ru: 50/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
