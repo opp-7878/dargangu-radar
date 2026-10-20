@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "8929cd1b4b05",
+   "title": "Even more GTA 6 ads spotted",
+   "first_seen": "2026-10-20T12:54:00Z",
+   "updated": "2026-10-20T12:54:00Z",
+   "items": [
+    {
+     "id": "8929cd1b4b05",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Even more GTA 6 ads spotted",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xaqquu/even_more_gta_6_ads_spotted/",
+     "ts": "2026-10-20T12:24:52Z",
+     "summary": "submitted by /u/ResponsibleRatio6569 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -50729,10 +50755,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T12:50:44Z",
+  "last_run": "2026-10-20T12:54:00Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 100/100",
+   "gnews_en: 99/100",
    "gnews_ru: 60/67",
    "gamesbeat: 0/10",
    "vgc: 0/10",
