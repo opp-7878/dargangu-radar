@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "f882b981eaa6",
+   "title": "Some New Things I Learned About Grand Theft Auto VI And Rockstar",
+   "first_seen": "2026-10-20T03:01:14Z",
+   "updated": "2026-10-20T04:20:44Z",
+   "items": [
+    {
+     "id": "f882b981eaa6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Some New Things I Learned About Grand Theft Auto VI And Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ESHZtbEhfUjJ5WFB5MFpCcTM5eGtQUE1OM1BSN1FtclRFRXJiQUJDeGROQWpDME9lckpfb2hRcUpsY01DU0l6YTV6OTlvSUxPMHE2Vk5QXzBLY2JM?oc=5",
+     "ts": "2026-10-19T15:00:47Z",
+     "summary": ""
+    },
+    {
+     "id": "13e7d1b62dc2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Some New Things I Learned About Grand Theft Auto VI And Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aSWRJYWRQejRNcVpkWkRPMndqTVhWMEY2bW9YbXZoTlN2X1lwakRQcjBQdUo4bVFOdE1LaXd2dXRaWnViV3FYYlhYazJDS2R6VUJ0dG1mT2hmV3J4?oc=5",
+     "ts": "2026-10-19T15:00:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "8866f9a7d014",
    "title": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -10913,32 +10952,6 @@
    ],
    "tags": [],
    "score": 75,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f882b981eaa6",
-   "title": "Some New Things I Learned About Grand Theft Auto VI And Rockstar",
-   "first_seen": "2026-10-20T03:01:14Z",
-   "updated": "2026-10-20T03:01:14Z",
-   "items": [
-    {
-     "id": "f882b981eaa6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "YouTube",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Some New Things I Learned About Grand Theft Auto VI And Rockstar",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ESHZtbEhfUjJ5WFB5MFpCcTM5eGtQUE1OM1BSN1FtclRFRXJiQUJDeGROQWpDME9lckpfb2hRcUpsY01DU0l6YTV6OTlvSUxPMHE2Vk5QXzBLY2JM?oc=5",
-     "ts": "2026-10-19T15:00:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -48183,11 +48196,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T04:10:46Z",
+  "last_run": "2026-10-20T04:20:44Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 48/56",
+   "gnews_ru: 47/55",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
