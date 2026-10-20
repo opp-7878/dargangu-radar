@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "1d8ddf13e2a3",
+   "title": "GTA 6 уже заработала больше, чем большинство игр за всё время своего существования",
+   "first_seen": "2026-10-20T23:37:25Z",
+   "updated": "2026-10-20T23:37:25Z",
+   "items": [
+    {
+     "id": "1d8ddf13e2a3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 уже заработала больше, чем большинство игр за всё время своего существования",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTG9kLXJxOXZZei1nUmR4V19tVWVaMFlGSFRhekxuSTdIQlBPZlFrU0lLSEFMZ3poNUhRR3RnbHM3aEdyRG1iZGJ5MXR5OTNSTnY4NE5iWUFHM19PSlhVckx5WVVPWW9UOURhQnpsRUlJV3J4TjNwMGlCT0Jjc2V3WnlBYmZTbGpaMjFoOHYxekIxTGh3QWJuajU5UFJpakl1azRIMGNQZDNQZi1YMDJtSEZJdndjQ0Z6OWJVYVlPWktVVFBab0U2SHpRaV9xY0tLREFr?oc=5",
+     "ts": "2026-10-20T23:28:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9a121052516c",
    "title": "GTA 6 vs GTA 5: How Rockstar is taking things to another level",
    "first_seen": "2026-10-20T15:01:15Z",
@@ -54735,11 +54761,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T23:31:00Z",
+  "last_run": "2026-10-20T23:37:25Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 96/100",
-   "gnews_ru: 70/79",
+   "gnews_en: 98/100",
+   "gnews_ru: 71/80",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
