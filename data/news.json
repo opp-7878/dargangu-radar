@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "6ab85632e77b",
+   "title": "Sensor Tower data shows GTA 6’s preorder lead over major games",
+   "first_seen": "2026-10-20T13:01:15Z",
+   "updated": "2026-10-20T13:01:15Z",
+   "items": [
+    {
+     "id": "6ab85632e77b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mezha.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sensor Tower data shows GTA 6’s preorder lead over major games",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOHFSUGxlYV9xTEhvaXR3N2tUdEEzREV4T1ZRUlJkNUFXb21kalFfSXJBbHR1OU1KXzFrZm5jd2NqdTgtZTc1RFZMb2ZVQ29HUWFIdmFuOW9WdDN6Tk02MmFWS3pLYnRSWDZsZExvNkRCQWwtOHZkVDdhLXFUNWxkc1B3?oc=5",
+     "ts": "2026-10-20T11:16:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ff9405c94cda",
+   "title": "GTA 6 Is 148% Ahead Of This Other Popular AAA Game So Far",
+   "first_seen": "2026-10-20T13:01:15Z",
+   "updated": "2026-10-20T13:01:15Z",
+   "items": [
+    {
+     "id": "ff9405c94cda",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Is 148% Ahead Of This Other Popular AAA Game So Far",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdHpmQjJkaWpUa3h5c0c0c25WSHU2TjRJbHZjbGlWQ2NjOGFncjVWMW1QUjFXeHpRNjNzRk9sMkk3VDNya2RpME1OekQtNWJZR29DLXVMUHlDR2h4NHRGQ1huMzE2WHZsZEY4S2M5N3dqaUluWXUtbXFvenNLcmR5ZkwwTFEwZmFnNzdUcUllVk1vTVIzeEE?oc=5",
+     "ts": "2026-10-20T12:53:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "8929cd1b4b05",
    "title": "Even more GTA 6 ads spotted",
    "first_seen": "2026-10-20T12:54:00Z",
@@ -50755,15 +50809,15 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T12:54:00Z",
+  "last_run": "2026-10-20T13:01:15Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 99/100",
+   "gnews_en: 100/100",
    "gnews_ru: 60/67",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
-   "ign: 1/20",
+   "ign: 0/20",
    "eurogamer: 1/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 0/10",
