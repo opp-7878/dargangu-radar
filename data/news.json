@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "2b6a2dcd0c0b",
+   "title": "GTA 6 beers could hit real-world stores after official labels found in US database",
+   "first_seen": "2026-10-20T17:46:47Z",
+   "updated": "2026-10-20T17:46:47Z",
+   "items": [
+    {
+     "id": "2b6a2dcd0c0b",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "GTA 6 beers could hit real-world stores after official labels found in US database",
+     "url": "https://www.dexerto.com/gta/gta-6-beers-could-hit-real-world-stores-after-official-labels-found-in-us-database-3420539/",
+     "ts": "2026-10-20T17:41:19Z",
+     "summary": "Grand Theft Auto 6 fans could soon be drinking Pißwasser and Patriot beer in real life after official labels for three GTA-inspired drinks were discovered."
+    }
+   ],
+   "tags": [],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -52838,7 +52864,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T17:40:48Z",
+  "last_run": "2026-10-20T17:46:47Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
@@ -52848,7 +52874,7 @@
    "insider_gaming: 1/10",
    "ign: 0/20",
    "eurogamer: 1/100",
-   "dexerto_gta: 3/50",
+   "dexerto_gta: 4/50",
    "rockstarintel: 0/10",
    "gtaboom: 4/30",
    "reddit: 24/25",
