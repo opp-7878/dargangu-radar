@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-20T07:31:03Z",
+   "updated": "2026-10-20T07:40:45Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -9963,6 +9963,19 @@
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNXp0ckQ0U1NRREZ4T3AxX0NBQkZ1Wkpab01JLTJ1NUpPUURUR3VMU3l5WmZEMnZROFhIMW1QeGZ1TTZyRmlrdE9ZVWZBWkNacEFkeTgwNFJaVmt5N09DTDNLeVpobjZ5MjZwWjk0NnlCNl8zNVZYdWVJcFpjaHhuVDJRT2h3NGJDRDI0?oc=5",
      "ts": "2026-10-20T07:27:55Z",
      "summary": ""
+    },
+    {
+     "id": "03252911831d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "LiveSport.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Финальный трейлер GTA 6 побил рекорд GTA 5 по просмотрам",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wZkYwb1FqTUdya0p3bDVpUlhFeWRtdWVIckE3QVNWXzUzTU00aGY0clJpZ3ZtSGp3UTc3RHRseDI0QUV3bGE4bEZwcTE2Y0g1cXZRejF5MUJqMWdRdVh1MFZROFI0c0tld3A3RkFhM2g0WUUyZHhv?oc=5",
+     "ts": "2026-10-20T07:34:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -9980,6 +9993,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "13c559d25425",
+   "title": "Rockstar Games reportedly wanted Daft Punk to compose GTA VI soundtrack",
+   "first_seen": "2026-10-20T07:40:45Z",
+   "updated": "2026-10-20T07:40:45Z",
+   "items": [
+    {
+     "id": "13c559d25425",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Instant Gaming News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games reportedly wanted Daft Punk to compose GTA VI soundtrack",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZU9CUGFRVlRUVTRWZWdRb21Mb3oycFVpa2lWQnhyRl9rU1o1SFY0QlhOQ3VzYUF6ZjRvbnB0MTN0WjM2NExLcUlyenl1WUtfMkFaWVRUOXBfNnZZaWJyUmVEODVpT1lJM1Q2RlAyVWhsZmY5blB3U0JhZVIwMzA4aE5jT3o0TDl2bjBySlhOT3Q3eDhNbUZ1QVRsdFI2R1BubDVGQk9YdXV6RXdFbnlMWktwTHZwUFRkMEZOdkF3?oc=5",
+     "ts": "2026-10-20T07:36:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -48911,11 +48950,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T07:31:03Z",
+  "last_run": "2026-10-20T07:40:45Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
-   "gnews_ru: 52/60",
+   "gnews_ru: 54/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
