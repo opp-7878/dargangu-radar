@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "a67fa4f508bf",
+   "title": "В разработке новый «аналог» GTA VI — игроки не могут поверить, что им показывают кадры геймплея из игры на базе Roblox",
+   "first_seen": "2026-10-20T13:20:48Z",
+   "updated": "2026-10-20T13:20:48Z",
+   "items": [
+    {
+     "id": "a67fa4f508bf",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "В разработке новый «аналог» GTA VI — игроки не могут поверить, что им показывают кадры геймплея из игры на базе Roblox",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ3NaZ2VLMHRRWjE2MnM1b0YweFRvVWxWN0p6eExQczR3LXVQbDFQb0VNV3BFcGFvdUdWT3lrVnBXN2hhR1Nxa3dBcFRTWkhTUFJEbkVSLWNlYUVXYy1Qb3NfaFZyYm5CWXMyMGpaMXM4czdvN3d4TzVhckZuYU9JYXE3QjVCVWV4RFBQYUlKNjZKSWpSTjItcndWNFVZbHNKTzY3d0NTWGZTV1FNbU5WRlJGMUhBdmdlSmVGTnJnelFjUmtod3gwdTZtbE90dWxYYkRURVlaOG00UC1UeGs5Qjk2ekxSY2VaQ0E?oc=5",
+     "ts": "2026-10-20T10:55:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8f2c295a4edf",
+   "title": "24% женщин будут считать изменой флирт с Люсией в GTA 6 или другими героинями игр",
+   "first_seen": "2026-10-20T13:20:48Z",
+   "updated": "2026-10-20T13:20:48Z",
+   "items": [
+    {
+     "id": "8f2c295a4edf",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "www.championat.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "24% женщин будут считать изменой флирт с Люсией в GTA 6 или другими героинями игр",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUFweHN5Rmp5Q2ZGZDdGYjJVTy16TkxFZ25NNlJKbzQzRFl6eC1PaGE5RG5uQnkxNjY3S1Z3cUFwV25BS0h5LXZUV1ZoaU9kZ1lseFVkVTRjR1hBRGxmWDF0enFuVnU0cHo5a0piLVdDNkFTLUlYbDF1VU1kUmZIUWEydmtEc0NfckhFWi1zd2pINEpmTmF4MllFMEp0cVZfSWhVaGdmVXdXQzdDTkZhcUg1UHFDTnEyLWN0UndIOUxXMXFuUllZQmZlSFRMbkhIWWltRko3QQ?oc=5",
+     "ts": "2026-10-20T13:09:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e19f6dbc64b5",
+   "title": "GTA 5 Among 10 Games Leaving PlayStation Plus in November",
+   "first_seen": "2026-10-20T13:20:48Z",
+   "updated": "2026-10-20T13:20:48Z",
+   "items": [
+    {
+     "id": "e19f6dbc64b5",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 5 Among 10 Games Leaving PlayStation Plus in November",
+     "url": "https://insider-gaming.com/gta-5-among-10-games-leaving-playstation-plus-in-november/",
+     "ts": "2026-10-20T13:10:55Z",
+     "summary": "10 games are leaving PlayStation Plus in November and two of those are from Rockstar Games. Here are more details. The post GTA 5 Among 10 Games Leaving PlayStation Plus in November appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6ab85632e77b",
    "title": "Sensor Tower data shows GTA 6’s preorder lead over major games",
    "first_seen": "2026-10-20T13:01:15Z",
@@ -50809,14 +50889,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T13:10:47Z",
+  "last_run": "2026-10-20T13:20:48Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 100/100",
-   "gnews_ru: 60/67",
+   "gnews_en: 98/100",
+   "gnews_ru: 61/68",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 1/10",
+   "insider_gaming: 2/10",
    "ign: 0/20",
    "eurogamer: 1/100",
    "dexerto_gta: 3/50",
