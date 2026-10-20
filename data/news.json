@@ -4,7 +4,7 @@
    "id": "b7938e0607d3",
    "title": "Save $10 on a Gaming Gift Card When You Buy a Select Game, Including GTA 6",
    "first_seen": "2026-10-20T17:50:43Z",
-   "updated": "2026-10-20T17:50:43Z",
+   "updated": "2026-10-20T18:01:16Z",
    "items": [
     {
      "id": "b7938e0607d3",
@@ -18,73 +18,60 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNEE1WjRPUTFqaG1TejNMTXY5a2FxSS1UbVNYaXFyTTk5Umx2NTZPbEVpWF9fenIwUjBsLTM0VEVlRFREUmM5V3JGZXlUOXhzUEJZaEY5bC0wbjJyY0xINndac3pUOTJWTHJIX2dlcGlmeFpNa0xMbGxCODJTdEZibFI4TGZFRkRia3FLQnpFLWNKMHpfMjJ4cHhjNXAtZUwxZUNMUTBTU29lM2M?oc=5",
      "ts": "2026-10-20T17:45:19Z",
      "summary": ""
+    },
+    {
+     "id": "5c3494943648",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Save $10 on a Gaming Gift Card When You Buy a Select Game, Including GTA 6",
+     "url": "https://www.ign.com/articles/save-10-gift-card-with-select-game-including-gta-6",
+     "ts": "2026-10-20T17:34:13Z",
+     "summary": "Best Buy is running a promotion that saves you $10 off a gift card to PlayStation Store, Xbox Store, or Nintendo eShop, when you buy one of the biggest games of the year."
+    },
+    {
+     "id": "8989167967bb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Save $10 on a Gaming Gift Card When You Buy a Select Game, Including GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVzVFSXBTaXJ6QmhXUWFua0dyWEhleWgtcXVqNmxrWlhUdzc4MU4yTEk5RE44X3BVYXl0emV6TkxLcUhNU3pRQ2R3eS1zQmFGbmtJRzdka0NhZndoRHRQMWg4bnBNeUJNZjNWSlhBTjF6S1A0akxiSVJLelhsajg5YXBiZTVabVAtVHU2NDFIMDNFYkItNTdmelB5SmFLRXVLR3A5LVNR?oc=5",
+     "ts": "2026-10-20T17:50:03Z",
+     "summary": ""
     }
    ],
    "tags": [
     "цена/издания"
    ],
-   "score": 65,
+   "score": 100,
    "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "fe638d8b5c9e",
-   "title": "List of GTA 6 kiosk ads spotted in Miami so far",
-   "first_seen": "2026-10-20T17:50:43Z",
-   "updated": "2026-10-20T17:50:43Z",
-   "items": [
-    {
-     "id": "fe638d8b5c9e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "List of GTA 6 kiosk ads spotted in Miami so far",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xayzds/list_of_gta_6_kiosk_ads_spotted_in_miami_so_far/",
-     "ts": "2026-10-20T17:48:53Z",
-     "summary": "Up-to-date list: gta.wiki/GTA_6_Kiosks submitted by /u/gtawiki to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2b6a2dcd0c0b",
-   "title": "GTA 6 beers could hit real-world stores after official labels found in US database",
-   "first_seen": "2026-10-20T17:46:47Z",
-   "updated": "2026-10-20T17:46:47Z",
-   "items": [
-    {
-     "id": "2b6a2dcd0c0b",
-     "src": "dexerto_gta",
-     "src_name": "Dexerto GTA",
-     "outlet": "",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "GTA 6 beers could hit real-world stores after official labels found in US database",
-     "url": "https://www.dexerto.com/gta/gta-6-beers-could-hit-real-world-stores-after-official-labels-found-in-us-database-3420539/",
-     "ts": "2026-10-20T17:41:19Z",
-     "summary": "Grand Theft Auto 6 fans could soon be drinking Pißwasser and Patriot beer in real life after official labels for three GTA-inspired drinks were discovered."
-    }
-   ],
-   "tags": [],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 GTA 6 в Best Buy: скидка $10 на карту PSN/Xbox",
+    "summary": "Best Buy даёт скидку $10 на подарочную карту PlayStation Store, Xbox Store или Nintendo eShop при покупке GTA 6. Об этом пишут IGN и региональные версии IGN. Это промо магазина, а не изменение цены самой игры.",
+    "idea": "Короткий разбор: что реально даёт эта скидка и кому она выгодна. Зрителю важно понять, экономит ли он на самой GTA 6 или только на карте.",
+    "hook": "GTA 6 и минус 10 долларов на карту PSN или Xbox — в чём подвох?",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-20T18:01:19Z"
+   },
+   "msg_id": 122,
+   "posts": {
+    "flash": "⚡️ <b>Скидка $10 на подарочную карту при покупке GTA 6</b>\n\nBest Buy даёт $10 на карту PlayStation Store, Xbox Store или Nintendo eShop при покупке GTA 6 и других хитов. Акция на все издания и платформы, пишет IGN.\n\n#GTA6 #DargaNGU"
+   }
   },
   {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-20T17:40:48Z",
+   "updated": "2026-10-20T18:01:16Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -10485,6 +10472,32 @@
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15LVBoWEtoQXZCSmtPV1dPZXhMT2lpeGNyaXNCTnJkLUJhMUZPNUs3X3NhOHRBdEtpRU1sQlN2RWpyWW9tQllmV1ZQczR6Ry1zLTdGaG5wM0pqaWt2X1V2QW5R?oc=5",
      "ts": "2026-10-20T15:30:00Z",
      "summary": ""
+    },
+    {
+     "id": "7ebd280ebf25",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Moneycontrol.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI launch could cost US economy $1 billion as employees may take a day off",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa0pGZkdSTTBPOGMwSEtLbTRid3g0ZHBxdXFLWkVKMVRJckNLQlIwcHJnOU5HR2RBTGtyTDBMQmFOOWY1S0pUaTQya1Zrc0lpWVdQaWtWWlhDZWVpQllxYXRWNnpOY0xhTndMQU00ZXBFYXRfT0dfNDBQOUlaeTYtNmV4V0dsSGNvR0xQdHA1QldweHR4aVMzbDJMOXFNNk1qZWpNNjFSYmFuY0F6NFViUURnYXJCU3pMLTVMUG1scUZYaU5ZRkNZRkQ0NmI3QmIwQ1hBTTlIbkJOU03SAdsBQVVfeXFMUGtKRmZHUk0wTzhjMEhLS200Ynd4NGRwcXVxS1pFSjFUSXJDS0JSMHByZzlOR0dkQUxrckwwTEJhTjlmNUtKVGk0MmtWa3NJaVlXUGlrVlpYQ2VlaUJZcWF0VjZ6TmNMYU53TEFNNGVwRWF0X09HXzQwUDlJWnk2LTZleFdHbEhjb0dMUHRwNUJXcHh0eGlTM2wyTDlxTTZNamVqTTYxUmJhbmNBejRVYlFEZ2FyQlN6TC01TFBtbHFGWGlOWUZDWUZENDZiN0JiMENYQU05SG5CTlNN?oc=5",
+     "ts": "2026-10-20T16:38:56Z",
+     "summary": ""
+    },
+    {
+     "id": "a51ab5904d4e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "WTFTime.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Ремастер Shrek 2 выйдет 10 ноября — вот трейлер в стиле GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXEtSGpobnpKWG9uYmI0SnYwXzdlYlJsNWhzM3VQMzVpU0ZqRlBJSF9acmlEcV9lNk1mTnhxNkFGOGZSLTNZNl9NMFFQdlF1cVY1eElWSmNVTTRUU21iem5rMHhZdWxsMFNVQlROMkhsMk5ZVEo5ampKUHJyQWRORmxpUml2ck1HVm9fMXVDaUYtZDNmQ0ZRR1VOM0Qyc2M?oc=5",
+     "ts": "2026-10-20T17:46:29Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -10502,6 +10515,122 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "1cc60ba15a02",
+   "title": "Upgrade your TV ahead of GTA VI release: LG OLED up to $2,000 off, Hisense from $208, more",
+   "first_seen": "2026-10-19T20:09:59Z",
+   "updated": "2026-10-20T18:01:15Z",
+   "items": [
+    {
+     "id": "1cc60ba15a02",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "9to5Toys",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Upgrade your TV ahead of GTA VI release: LG OLED up to $2,000 off, Hisense from $208, more",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCX3RTbVNWcHhGc3VlZmZnMDlMdlBqMTN4RDJpaW1tN0VkUlVvcjlLSGIxd1VnODUxallNTXhGeXVwdkZKS2gtaFhfQ0s2RzFhaTc0dGpSNjZYd1lUSDd0Ty1PeWp3RXgwYTBybmNaRQ?oc=5",
+     "ts": "2026-10-19T19:58:00Z",
+     "summary": ""
+    },
+    {
+     "id": "7869f0a598a9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "9to5Toys",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Upgrade your TV ahead of GTA VI release: LG OLED up to $2,000 off, Hisense from $208, more",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTZHOFNsOC1KQVdpRzIzYWJNa2VMNDZkTnZQNUtIVkVWMnJRN1VkaEFWNzZPNm56bTRON3ZQUlFqVEUtVGFVa25YYjdLQXhZakdyRmxlMTVJdl9YZEtBVjd1RVRrN0pQNllPMVIteUZSbTJ5a1JyMFBXakh4ajhON2pOQlVDMjdCaVE?oc=5",
+     "ts": "2026-10-19T19:58:00Z",
+     "summary": ""
+    },
+    {
+     "id": "76c506bb041e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Hisense 85-inch E6 Hi-QLED 4K TV is over $100 off at Amazon — go big for 'GTA 6'",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EMGpUZXhVNmxadXlBRllFNDlOUG1DU1phZlBtRXFZMjYzNnpNeVU0RVAzaW9wZ3Y2Ql9PUlY2TFZmM0E2ZzdZbmtZU2xpNmk5b0h4UUR1LWtRMlk0QURqR2kxbnIwMGFHbVBMSHJmTkhna0IyLU13MnozeVZYUQ?oc=5",
+     "ts": "2026-10-20T15:47:57Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Скидки на ТВ до выхода GTA 6: успей взять большой экран",
+    "summary": "Mashable и 9to5Toys пишут о скидках на телевизоры к выходу GTA 6. Hisense 85-дюймовый E6 Hi-QLED 4K подешевел более чем на 100 долларов на Amazon, а у LG OLED — скидки до двух тысяч долларов.",
+    "idea": "Короткий ролик с замером диагонали и показом цен: почему перед GTA 6 выгодно брать большой экран. Зрителю важно увидеть, сколько можно сэкономить прямо сейчас.",
+    "hook": "Готовишь ПК к GTA 6? Экран важнее — вот скидки на ТВ.",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-20T18:01:27Z"
+   },
+   "msg_id": 124
+  },
+  {
+   "id": "fe638d8b5c9e",
+   "title": "List of GTA 6 kiosk ads spotted in Miami so far",
+   "first_seen": "2026-10-20T17:50:43Z",
+   "updated": "2026-10-20T17:50:43Z",
+   "items": [
+    {
+     "id": "fe638d8b5c9e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "List of GTA 6 kiosk ads spotted in Miami so far",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xayzds/list_of_gta_6_kiosk_ads_spotted_in_miami_so_far/",
+     "ts": "2026-10-20T17:48:53Z",
+     "summary": "Up-to-date list: gta.wiki/GTA_6_Kiosks submitted by /u/gtawiki to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2b6a2dcd0c0b",
+   "title": "GTA 6 beers could hit real-world stores after official labels found in US database",
+   "first_seen": "2026-10-20T17:46:47Z",
+   "updated": "2026-10-20T17:46:47Z",
+   "items": [
+    {
+     "id": "2b6a2dcd0c0b",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "GTA 6 beers could hit real-world stores after official labels found in US database",
+     "url": "https://www.dexerto.com/gta/gta-6-beers-could-hit-real-world-stores-after-official-labels-found-in-us-database-3420539/",
+     "ts": "2026-10-20T17:41:19Z",
+     "summary": "Grand Theft Auto 6 fans could soon be drinking Pißwasser and Patriot beer in real life after official labels for three GTA-inspired drinks were discovered."
+    }
+   ],
+   "tags": [],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -17663,47 +17792,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1cc60ba15a02",
-   "title": "Upgrade your TV ahead of GTA VI release: LG OLED up to $2,000 off, Hisense from $208, more",
-   "first_seen": "2026-10-19T20:09:59Z",
-   "updated": "2026-10-19T21:20:44Z",
-   "items": [
-    {
-     "id": "1cc60ba15a02",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "9to5Toys",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Upgrade your TV ahead of GTA VI release: LG OLED up to $2,000 off, Hisense from $208, more",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCX3RTbVNWcHhGc3VlZmZnMDlMdlBqMTN4RDJpaW1tN0VkUlVvcjlLSGIxd1VnODUxallNTXhGeXVwdkZKS2gtaFhfQ0s2RzFhaTc0dGpSNjZYd1lUSDd0Ty1PeWp3RXgwYTBybmNaRQ?oc=5",
-     "ts": "2026-10-19T19:58:00Z",
-     "summary": ""
-    },
-    {
-     "id": "7869f0a598a9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "9to5Toys",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Upgrade your TV ahead of GTA VI release: LG OLED up to $2,000 off, Hisense from $208, more",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTZHOFNsOC1KQVdpRzIzYWJNa2VMNDZkTnZQNUtIVkVWMnJRN1VkaEFWNzZPNm56bTRON3ZQUlFqVEUtVGFVa25YYjdLQXhZakdyRmxlMTVJdl9YZEtBVjd1RVRrN0pQNllPMVIteUZSbTJ5a1JyMFBXakh4ajhON2pOQlVDMjdCaVE?oc=5",
-     "ts": "2026-10-19T19:58:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -52918,7 +53006,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T17:50:43Z",
+  "last_run": "2026-10-20T18:01:27Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
@@ -52926,7 +53014,7 @@
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
-   "ign: 0/20",
+   "ign: 1/20",
    "eurogamer: 1/100",
    "dexerto_gta: 4/50",
    "rockstarintel: 0/10",
@@ -52934,7 +53022,7 @@
    "reddit: 24/25",
    "tg_gtavistar: 2/12"
   ],
-  "digest": "2026-10-19",
+  "digest": "2026-10-20",
   "tg_offset": 854319078
  }
 }
