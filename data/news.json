@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "379f18494a90",
+   "title": "Майами: сейчас весь город покрыт рекламой GTA 6 2026 | GTA expert: Новости GTA 6",
+   "first_seen": "2026-10-20T00:20:50Z",
+   "updated": "2026-10-20T00:20:50Z",
+   "items": [
+    {
+     "id": "379f18494a90",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Майами: сейчас весь город покрыт рекламой GTA 6 2026 | GTA expert: Новости GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RRW9GYXBpdHpHX2NBVnoySndqTU1VZTNpQVoxNDlMb25RQklrQ0dMV1puYURzLTAyWTRwZU9YUHFSWjZEbjBsSXpR?oc=5",
+     "ts": "2026-10-19T18:42:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "899676089acc",
    "title": "Why ‘GTA 6’ faces a problem Rockstar never saw coming",
    "first_seen": "2026-10-20T00:10:45Z",
@@ -47477,7 +47503,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T00:10:45Z",
+  "last_run": "2026-10-20T00:20:50Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
