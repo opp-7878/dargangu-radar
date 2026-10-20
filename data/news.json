@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "02d66a366b66",
+   "title": "По Майами появились провокационные рекламные объявления в стиле GTA 6",
+   "first_seen": "2026-10-20T10:31:06Z",
+   "updated": "2026-10-20T10:31:06Z",
+   "items": [
+    {
+     "id": "02d66a366b66",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "По Майами появились провокационные рекламные объявления в стиле GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaExUMHdmSkxjUnRJSlJTeHJ3Z3dkd1VwaWRiVWRhQ3NhQzNvN2VvbDlJWldvcEc3RmhRZmlQRENGUHk1dDBBZmtpSnVUZ1d1T0F6SERkWkxsbWtWb1NsZDZqWDZCLUt1NGxXaUhzc05sU29iYUJrNm05a0FSTVZ3Q1RkN2JaVWxHMGNkekZQM1JQeHo1M0E2akQ1ai1sOFg3emJORTNzbHc2Z19yaTd1R21PNmRoR0E?oc=5",
+     "ts": "2026-10-20T09:59:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9ba02c8446d2",
+   "title": "Sensor Tower data highlights the significant disparity between GTA 6 and all other competitors",
+   "first_seen": "2026-10-20T10:31:06Z",
+   "updated": "2026-10-20T10:31:06Z",
+   "items": [
+    {
+     "id": "9ba02c8446d2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WN Hub",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sensor Tower data highlights the significant disparity between GTA 6 and all other competitors",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WQ1VKSEhORkpZeHFsUk5nZ05tNlhORXFBa2l0ajFtUnZFS1FvbXFqaEdXY214RzdUaXljUWJxLXNpeWppUURRMVNQZHpRSmxlMDJFSw?oc=5",
+     "ts": "2026-10-20T10:23:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d89383e8fb63",
    "title": "US economy could lose $1B in lost productivity due to GTA 6's release: analysts",
    "first_seen": "2026-10-20T08:20:45Z",
@@ -49774,11 +49828,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T10:20:44Z",
+  "last_run": "2026-10-20T10:31:06Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 54/62",
+   "gnews_ru: 55/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
