@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "1fc81ff1b9b2",
+   "title": "I Just Hope GTA 6 Gets the Recognition It Deserves",
+   "first_seen": "2026-10-20T06:40:46Z",
+   "updated": "2026-10-20T06:40:46Z",
+   "items": [
+    {
+     "id": "1fc81ff1b9b2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I Just Hope GTA 6 Gets the Recognition It Deserves",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xakral/i_just_hope_gta_6_gets_the_recognition_it_deserves/",
+     "ts": "2026-10-20T06:31:33Z",
+     "summary": "30 days left until GTA 6, and I can’t even describe how excited I am At the same time, I’m a little worried that the game might not get the praise it deserves, even if Rockstar absolutely cooks with it. Previous GTA games received incredible ratings, but back then, it felt like people weren’t actively rooting for them to fail. This time, the console wars and fanboy culture seem to be on another level. The amount of hate GTA 6 gets from some Zelda fans is a perfect example. I barely see a post about Zelda without someone bringing up GTA 6 just to bash it. Anyway, it is what it is. I’m still goi"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f9f4af9da01e",
+   "title": "GTA 6: разработчики добавляли детали на свободе — даже боссы не знают всё",
+   "first_seen": "2026-10-20T06:40:46Z",
+   "updated": "2026-10-20T06:40:46Z",
+   "items": [
+    {
+     "id": "f9f4af9da01e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://dungen.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: разработчики добавляли детали на свободе — даже боссы не знают всё",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvbG5tUDRrX1AtRnVqZkZCVlJHRE9TOERYaGxkTkRsWUdWQlBXbnhWV202N3pSMHlhejZvTVVLeHRaaTBHSG5CMHA4bHZrbXBSaUwxcGhiSDNJejRSWUdWRjV3Q2dnTXJoc055WQ?oc=5",
+     "ts": "2026-10-20T06:31:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6ff36f58ee24",
+   "title": "«Полное преувеличение»: журналист Bloomberg ответил на страхи, что GTA 6 станет «повесточной»",
+   "first_seen": "2026-10-20T06:40:46Z",
+   "updated": "2026-10-20T06:40:46Z",
+   "items": [
+    {
+     "id": "6ff36f58ee24",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VGTimes",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Полное преувеличение»: журналист Bloomberg ответил на страхи, что GTA 6 станет «повесточной»",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTTZ0VzhRX0tXVlZDZm1YS3Rjelh0bFY3WmpYVjRlbjRqZzVZWFRIWlpiS0lRa3BlTTdpU2RxVDZTZE5haW0xSG5lb1VzOVJINklFUFNSYWRzcGNtVHB1Y2dUaTdZUU54WllaSC1EZVR6eWR6Ulp3cGhPeVk5VmVqNDZIbzVpdEtwM0RrMXBuNlVqd2dpRFc5VE96eUY1SlhaQXRLelAzcjlDX0ZzTkI5bzlMdDdDaEhMVnVtaWFOdTVkZ016bGpWSm9pRjQ5MjkyMWdaUjNmUXJHQ1lxc3FqbkhkZ2k0bGM4MFlkR2EwOWpaUmxvNFh6ZWlrbmtSc0hBVFE?oc=5",
+     "ts": "2026-10-20T06:32:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -48469,11 +48547,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T06:31:00Z",
+  "last_run": "2026-10-20T06:40:46Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
-   "gnews_ru: 48/55",
+   "gnews_ru: 50/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
