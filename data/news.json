@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "51d29c5b551a",
+   "title": "GTA 6 GOLD Time!",
+   "first_seen": "2026-10-20T09:01:11Z",
+   "updated": "2026-10-20T09:01:11Z",
+   "items": [
+    {
+     "id": "51d29c5b551a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 GOLD Time!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xan2xx/gta_6_gold_time/",
+     "ts": "2026-10-20T09:00:39Z",
+     "summary": "When do you think gta get gold? Should Rockstar officially announce that? submitted by /u/pourya_hg to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -49274,11 +49302,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T08:50:44Z",
+  "last_run": "2026-10-20T09:01:11Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 53/59",
+   "gnews_ru: 50/55",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
