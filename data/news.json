@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "552e957e272f",
+   "title": "What adverts have you seen for GTA 6 out and about?",
+   "first_seen": "2026-10-20T15:40:46Z",
+   "updated": "2026-10-20T15:40:46Z",
+   "items": [
+    {
+     "id": "552e957e272f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What adverts have you seen for GTA 6 out and about?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xavady/what_adverts_have_you_seen_for_gta_6_out_and_about/",
+     "ts": "2026-10-20T15:32:32Z",
+     "summary": "submitted by /u/Professional-West830 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -51971,11 +51997,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T15:31:02Z",
+  "last_run": "2026-10-20T15:40:46Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 98/100",
-   "gnews_ru: 64/73",
+   "gnews_en: 97/100",
+   "gnews_ru: 62/71",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -51984,7 +52010,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 0/10",
    "gtaboom: 5/30",
-   "reddit: 23/25",
+   "reddit: 24/25",
    "tg_gtavistar: 2/12"
   ],
   "digest": "2026-10-19",
