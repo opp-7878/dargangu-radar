@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "a9c39fa4427e",
+   "title": "Создатель в Roblox представил Nightshift: проект с эстетикой GTA 6",
+   "first_seen": "2026-10-20T14:20:44Z",
+   "updated": "2026-10-20T14:20:44Z",
+   "items": [
+    {
+     "id": "a9c39fa4427e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "games.gg",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Создатель в Roblox представил Nightshift: проект с эстетикой GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNT1c1X1FTVVFWb0x3RVNvd3JPc2tDYVpRZ1VTeG0zY2ZfdnZjSXEwTmc1X0xTQzdGS1BXSHNDVjFpNS1XamRyUWFUZExham9zU2M3dVJhWEZ4QmFLRl9iY0RTalU2OGNKN0dVT29TdlN6UEhhQ1M3ZFFJLURJZzRrTkRHeVJkYXVsVkdyT2RrMktjNERXX2ZaNEdPZ0ZVanY1ajF5WkNEdzR3UVpubk1VQXhhc2hxR2hHRkxESXY1MnQ2N3prRGhnVTRpSEM4Q1FXWUltSnhXSFhGbzVCUGZ6QzBBaWlqdU1hajUxNi1udHFDVHlWQ0tTQzAzWFpWeW9ZYUlORnIxalFpeGZ6TlNBWGJkbHdBZzlGNUpXLWlOVnQwemFWckNrNThjN3B3cDVrR0d0cjh5RENVUXg0RDd3REhONDhfWWhJVjEtR3VCX19qN2I5QXJKdmVIcTg2WUwtOWxVZGF6amNNZ0x0bmU1MWFLUnNzNmdqWkRCLXcyNzYzTWFlR0E?oc=5",
+     "ts": "2026-10-20T13:57:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4532af06624d",
+   "title": "Everyone’s taking PTO and sick days to play ‘Grand Theft Auto VI’",
+   "first_seen": "2026-10-20T14:20:44Z",
+   "updated": "2026-10-20T14:20:44Z",
+   "items": [
+    {
+     "id": "4532af06624d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Fast Company",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Everyone’s taking PTO and sick days to play ‘Grand Theft Auto VI’",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNjdxZlhFN21pZmhuMUxvdVpQRVhqbXN4ejVHMklnZEtKZGZLOW1hVnAzSVotUVpIMWVQSklBeTl6Q184UF81VnREOWc5VWc4R2EtRTNldmNUa0xkRVlfTWlxcXJwOVdkb3FBU0dnQ2FOZ2RiWmNYTWRQenpPeXhYandzbkx1V0JncE53akhJZlZOOWc0b2Rod3QxRVBKSkdR?oc=5",
+     "ts": "2026-10-20T14:15:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b862b8f8fd65",
+   "title": "Here are a few backgrounds for anyone who wants to pimp up their phones before release",
+   "first_seen": "2026-10-20T14:20:44Z",
+   "updated": "2026-10-20T14:20:44Z",
+   "items": [
+    {
+     "id": "b862b8f8fd65",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Here are a few backgrounds for anyone who wants to pimp up their phones before release",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xatb2t/here_are_a_few_backgrounds_for_anyone_who_wants/",
+     "ts": "2026-10-20T14:15:31Z",
+     "summary": "submitted by /u/Foffern to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -51418,11 +51496,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T14:11:26Z",
+  "last_run": "2026-10-20T14:20:44Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 99/100",
-   "gnews_ru: 63/71",
+   "gnews_en: 98/100",
+   "gnews_ru: 63/72",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
