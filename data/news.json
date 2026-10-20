@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "62860cd9d332",
+   "title": "Why Big Publishers Left November Almost Empty For GTA VI",
+   "first_seen": "2026-10-20T11:50:46Z",
+   "updated": "2026-10-20T11:50:46Z",
+   "items": [
+    {
+     "id": "62860cd9d332",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MKAU Gaming",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Why Big Publishers Left November Almost Empty For GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVJBU3VUMFJ5NjBTdTlQOHJ6dmlFTDNRLW1yekVZd1lxT0NhaTd6c3BONnJackFRb003cWppTTZvS2FfYm1MVzc4TFA0MDcwbEd0d2R0SEVKeU9HODdhRHItNzlLZzBfVmlCVGhCWGJFN0l6eVQtejhPRkdpYTdSbnYwMy1wSXFkYVBSMQ?oc=5",
+     "ts": "2026-10-20T11:41:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5909ab83b837",
+   "title": "Help for my grandfather",
+   "first_seen": "2026-10-20T11:50:46Z",
+   "updated": "2026-10-20T11:50:46Z",
+   "items": [
+    {
+     "id": "5909ab83b837",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Help for my grandfather",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xapwwo/help_for_my_grandfather/",
+     "ts": "2026-10-20T11:44:26Z",
+     "summary": "submitted by /u/AdventurousMine3770 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9399d8b7f264",
    "title": "Джейсон Шрайер раскрыл новые подробности разработки и живого мира GTA 6",
    "first_seen": "2026-10-20T08:31:01Z",
@@ -50311,11 +50363,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T11:40:43Z",
+  "last_run": "2026-10-20T11:50:46Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 100/100",
-   "gnews_ru: 56/63",
+   "gnews_ru: 56/64",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -50324,7 +50376,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 0/10",
    "gtaboom: 5/30",
-   "reddit: 22/25",
+   "reddit: 23/25",
    "tg_gtavistar: 2/12"
   ],
   "digest": "2026-10-19",
