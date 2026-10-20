@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "8de7eb77a12c",
+   "title": "'GTA 6' Could Cause 1.5 Million Americans to Miss Work on Release Day, According to Experts",
+   "first_seen": "2026-10-20T21:50:46Z",
+   "updated": "2026-10-20T21:50:46Z",
+   "items": [
+    {
+     "id": "8de7eb77a12c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "VICE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' Could Cause 1.5 Million Americans to Miss Work on Release Day, According to Experts",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2l3aDN6bHpRRFBrYUZhcDdsV0hjSGRRZ0tUeGNiVGJnVl8yWFplenU4SDh6dl9iOUI4VXktTlpvdUo0aURvSWVZeVQ3SEtVSUVNeFFWanl1OWFxYm05UmdITmZoQ1czN0FQWHUyRzd6cW9ORVpZaHEtMUFyNzZ6eFhCUWRSYjhSNE5rMkc4eFluQjkyMEZ3OVNFTUM4RlByd19oZEhDai1ZV0dzd2hNODBFT1I4a095Vm9tQnNR?oc=5",
+     "ts": "2026-10-20T21:44:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ee8c61caa32b",
    "title": "It Looks Like GTA 6's Beer Brands Are About to Become Real",
    "first_seen": "2026-10-20T21:31:00Z",
@@ -54322,11 +54348,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T21:40:45Z",
+  "last_run": "2026-10-20T21:50:46Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 96/100",
-   "gnews_ru: 69/77",
+   "gnews_ru: 68/76",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
