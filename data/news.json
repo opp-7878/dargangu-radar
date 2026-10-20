@@ -1,49 +1,10 @@
 {
  "stories": [
   {
-   "id": "fc0681bcfb75",
-   "title": "Daft Punk reportedly turned down GTA 6 soundtrack deal despite “unlimited” budget",
-   "first_seen": "2026-10-20T10:20:44Z",
-   "updated": "2026-10-20T10:40:46Z",
-   "items": [
-    {
-     "id": "fc0681bcfb75",
-     "src": "dexerto_gta",
-     "src_name": "Dexerto GTA",
-     "outlet": "",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "Daft Punk reportedly turned down GTA 6 soundtrack deal despite “unlimited” budget",
-     "url": "https://www.dexerto.com/gta/daft-punk-reportedly-turned-down-gta-6-soundtrack-deal-despite-unlimited-budget-3420267/",
-     "ts": "2026-10-20T10:12:59Z",
-     "summary": "French music duo Daft Punk were reportedly offered an “unlimited budget” to work on Grand Theft Auto 6, but decided to turn down Rockstar Games’ advances."
-    },
-    {
-     "id": "47642f7854fe",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Dexerto",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "Daft Punk reportedly turned down GTA 6 soundtrack deal despite “unlimited” budget",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUxMMERDNk51UEo0YWtiRFMxX3JNd3ZfZ1pPTWd0ejQtVS1zUTh0cXFlVl95UTNTMl9nZlZJbVBaaWdMZm1yQjNNMDByakJheUU4MmU0X213US1ETEJBSk9xdURBdC1jTkxYSzRZVndzS253QnBKX09lOGZjazg2bER1VXhEYVh1RHVnVFRWeFMyc3dDT0YwaXF2d2RFTnVBanlTMHNvQ3pPUk5DTHViSFl1eExlXzg?oc=5",
-     "ts": "2026-10-20T10:22:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 68,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-20T10:40:46Z",
+   "updated": "2026-10-20T10:50:45Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -10106,6 +10067,19 @@
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85LUJzMTVfcjQwUThvX2Q5Y3h1Y3RzeUowOTduaDNWV21lV0YxSGFsb2t4ZzlVVG9RUUlpUS1CQm5KZkVjRGt3bndYRjJTT2tBc1o3NzhrbWIzN1VtaHNxNmtWMC1fb0VOS015anZJaWM5X1ptVjFubg?oc=5",
      "ts": "2026-10-20T10:16:18Z",
      "summary": ""
+    },
+    {
+     "id": "c487a77d9459",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "5 GTA 6 Development Details Revealed by Jason Schreier",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN1IyMWZyMzNLenBORnF4U204NUVUalc1NkZ1QklCaFR5ZVlLaC1iRkVycldiLW53ZGJlc0R3M2JGRTJwOEU5WXRvLVJHUXBrRHJSeDU3LUdFXzg5SFJYQzhiSm5CWEh4NlJZZ1Nwd2JQWHcwNmdIVG1senBuZmpVVnNrMDMxdnZTWVF6Q1VnbVhoeTI3T0I0?oc=5",
+     "ts": "2026-10-20T10:42:05Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -10123,6 +10097,149 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "5ec62149b388",
+   "title": "GTA 6 ‘Crude Ads’ Surface Across Miami",
+   "first_seen": "2026-10-20T09:50:46Z",
+   "updated": "2026-10-20T10:50:45Z",
+   "items": [
+    {
+     "id": "5ec62149b388",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 ‘Crude Ads’ Surface Across Miami",
+     "url": "https://insider-gaming.com/gta-6-crude-ads-surface-across-miami/",
+     "ts": "2026-10-20T09:49:02Z",
+     "summary": "More ads have been spotted on the streets of Miami advertising GTA 6, many of which feature true to form crude wording. The post GTA 6 ‘Crude Ads’ Surface Across Miami appeared first on Insider Gaming ."
+    },
+    {
+     "id": "350d9e449c7d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 ‘Crude Ads’ Surface Across Miami",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PeXMtZlYwVm5IYkJkTEUteXNiT05qa3Bmc3NxU2o4Q0RWb0VFUDVxcDA5YTdqdEliSmY1UVFIX1A1Z19GNDZ4Sno0SDNYTkgzamhtNzJTNjZseHVfSTA0LTYtMGlwcTU5TS0yT3RZV0FzUQ?oc=5",
+     "ts": "2026-10-20T09:49:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "adf246ae5d45",
+   "title": "Turns Out, Even GTA 6's Devs Don't Know Everything That's in the Game",
+   "first_seen": "2026-10-19T19:50:49Z",
+   "updated": "2026-10-20T10:50:45Z",
+   "items": [
+    {
+     "id": "adf246ae5d45",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "DualShockers",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Turns Out, Even GTA 6's Devs Don't Know Everything That's in the Game",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlVFNjVOSUh3ajFoMFNaWDhjb1VrN19CdEJrQXJxVEtidzVOTmQ2cW9XaXF3aWN0WVBUOV9ibU1XaURCOGl6MkZ0by1IeXk5bTRKOEdjdHFPMnJwT2VFc01fd0hFOEE5Y0xuRFpMbjhWU2VsaXhhdmRXdTNEclJKN2hYTmJ0M05pa2E2ZWRuTFpyeDlGUzdjODFOcw?oc=5",
+     "ts": "2026-10-19T19:42:27Z",
+     "summary": ""
+    },
+    {
+     "id": "dec4e2e7ad6b",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Not Even Rockstar Games' Top Executives Know Everything in GTA 6",
+     "url": "https://www.gtaboom.com/not-even-rockstar-games-top-executives-know-everything-in-gta-6-3813",
+     "ts": "2026-10-20T10:44:10Z",
+     "summary": "Rockstar art boss Aaron Garbut says no single person has all of GTA 6 in their head, since artists added details on their own."
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7c6c9f7579b2",
+   "title": "If you haven’t played every GTA game since 2001, then you’re not a true fan, you’re just following the \"hype\" for GTA 6. This is the difference between a fan and a \"fanboy.\" What are you?",
+   "first_seen": "2026-10-20T10:50:45Z",
+   "updated": "2026-10-20T10:50:45Z",
+   "items": [
+    {
+     "id": "7c6c9f7579b2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "If you haven’t played every GTA game since 2001, then you’re not a true fan, you’re just following the \"hype\" for GTA 6. This is the difference between a fan and a \"fanboy.\" What are you?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xaouj1/if_you_havent_played_every_gta_game_since_2001/",
+     "ts": "2026-10-20T10:47:00Z",
+     "summary": "submitted by /u/FxbioBorges to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fc0681bcfb75",
+   "title": "Daft Punk reportedly turned down GTA 6 soundtrack deal despite “unlimited” budget",
+   "first_seen": "2026-10-20T10:20:44Z",
+   "updated": "2026-10-20T10:40:46Z",
+   "items": [
+    {
+     "id": "fc0681bcfb75",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Daft Punk reportedly turned down GTA 6 soundtrack deal despite “unlimited” budget",
+     "url": "https://www.dexerto.com/gta/daft-punk-reportedly-turned-down-gta-6-soundtrack-deal-despite-unlimited-budget-3420267/",
+     "ts": "2026-10-20T10:12:59Z",
+     "summary": "French music duo Daft Punk were reportedly offered an “unlimited budget” to work on Grand Theft Auto 6, but decided to turn down Rockstar Games’ advances."
+    },
+    {
+     "id": "47642f7854fe",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Dexerto",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Daft Punk reportedly turned down GTA 6 soundtrack deal despite “unlimited” budget",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUxMMERDNk51UEo0YWtiRFMxX3JNd3ZfZ1pPTWd0ejQtVS1zUTh0cXFlVl95UTNTMl9nZlZJbVBaaWdMZm1yQjNNMDByakJheUU4MmU0X213US1ETEJBSk9xdURBdC1jTkxYSzRZVndzS253QnBKX09lOGZjazg2bER1VXhEYVh1RHVnVFRWeFMyc3dDT0YwaXF2d2RFTnVBanlTMHNvQ3pPUk5DTHViSFl1eExlXzg?oc=5",
+     "ts": "2026-10-20T10:22:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 68,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -10559,32 +10676,6 @@
    ],
    "score": 50,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5ec62149b388",
-   "title": "GTA 6 ‘Crude Ads’ Surface Across Miami",
-   "first_seen": "2026-10-20T09:50:46Z",
-   "updated": "2026-10-20T09:50:46Z",
-   "items": [
-    {
-     "id": "5ec62149b388",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 ‘Crude Ads’ Surface Across Miami",
-     "url": "https://insider-gaming.com/gta-6-crude-ads-surface-across-miami/",
-     "ts": "2026-10-20T09:49:02Z",
-     "summary": "More ads have been spotted on the streets of Miami advertising GTA 6, many of which feature true to form crude wording. The post GTA 6 ‘Crude Ads’ Surface Across Miami appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -14929,32 +15020,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "adf246ae5d45",
-   "title": "Turns Out, Even GTA 6's Devs Don't Know Everything That's in the Game",
-   "first_seen": "2026-10-19T19:50:49Z",
-   "updated": "2026-10-19T19:50:49Z",
-   "items": [
-    {
-     "id": "adf246ae5d45",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "DualShockers",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Turns Out, Even GTA 6's Devs Don't Know Everything That's in the Game",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlVFNjVOSUh3ajFoMFNaWDhjb1VrN19CdEJrQXJxVEtidzVOTmQ2cW9XaXF3aWN0WVBUOV9ibU1XaURCOGl6MkZ0by1IeXk5bTRKOEdjdHFPMnJwT2VFc01fd0hFOEE5Y0xuRFpMbjhWU2VsaXhhdmRXdTNEclJKN2hYTmJ0M05pa2E2ZWRuTFpyeDlGUzdjODFOcw?oc=5",
-     "ts": "2026-10-19T19:42:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -49932,11 +49997,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T10:40:46Z",
+  "last_run": "2026-10-20T10:50:45Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 55/62",
+   "gnews_ru: 53/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -49944,7 +50009,7 @@
    "eurogamer: 0/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 0/10",
-   "gtaboom: 4/30",
+   "gtaboom: 5/30",
    "reddit: 22/25",
    "tg_gtavistar: 2/12"
   ],
