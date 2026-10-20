@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "ea14a65f4ed3",
+   "title": "BBC Article Mocked For Likening Playing GTA 6 To Cheating On Your Partner",
+   "first_seen": "2026-10-20T12:40:49Z",
+   "updated": "2026-10-20T12:40:49Z",
+   "items": [
+    {
+     "id": "ea14a65f4ed3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "BBC Article Mocked For Likening Playing GTA 6 To Cheating On Your Partner",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFhxZFVhemlDOEdoX01sZHBWQmE4NS1oRm5fNzZnRzlEeXlMYmJ5RFg0MzVCS0xWeGtMaTFCNnNMcEV2Rm1FV0psN3VQNW9hSzlWZlJqT0ZnaFRHSVZOZVRlWk9lc0VmYnRreEtFbk9CUG1YYW13VHpHZWVLbGZ1aHB3SFk4bDRqeV82MFVaakpyVW1sMlE4TUpvQWgzeUFiX0NBclIwRVpmZjA?oc=5",
+     "ts": "2026-10-19T12:51:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a9321c8a5066",
+   "title": "Rockstar хотели, чтобы Daft Punk записали саундтрек к GTA 6, но группа отклонила предложение",
+   "first_seen": "2026-10-20T12:40:49Z",
+   "updated": "2026-10-20T12:40:49Z",
+   "items": [
+    {
+     "id": "a9321c8a5066",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar хотели, чтобы Daft Punk записали саундтрек к GTA 6, но группа отклонила предложение",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1NmcWJ4bG9vbGRiMHpuQVVXTDlPTDQ3bnh0ckpzdVNXWmxFaTAyOTVoRjg5cWxSSDFHRVI2aGxMMV9rZUxKQ2Y0dlkyVlZfNU5vdVBfOW1MZEVXUVMtVHlydjZfTEk5M29jYzFmNDlJc3ZWSFJRUmVWVkU4WlBQSUJENXhWN21FNlY5LXQyZWdvSEp5cFRHbjg1dExoSU1C?oc=5",
+     "ts": "2026-10-20T11:58:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d9fc0702090c",
+   "title": "По данным аналитиков, GTA 6 опережает другие крупные игры по количеству предзаказов за последние 6 лет",
+   "first_seen": "2026-10-20T12:40:49Z",
+   "updated": "2026-10-20T12:40:49Z",
+   "items": [
+    {
+     "id": "d9fc0702090c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "По данным аналитиков, GTA 6 опережает другие крупные игры по количеству предзаказов за последние 6 лет",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPazE1dUdNaEh4cEtUV2JRSk5GUUJDRnNRVmJickhncWRYTWY2RjJyMm9LaUxfN3ZRcmVhMGZqWkI2VnBicmlOMXB3NXRybGs5Y29jbE5DbWxDTXJ6MlhRZ21CcnVuV1YzQU01V29ybXN6eFdRZmVkLU5TMWRoT3hjc1ExaktYbWJIOVkyU0NuWUVpQlNWUjljYldQQUtheDJhR1dQa1Z0R3UtQWNnZzNfM0I0VkdfbU8yQnM1bFlhaS02OW5vSWFnY0E3aXBLQUstT1ZJek14OV9kWUdsSmJrbDZn?oc=5",
+     "ts": "2026-10-20T12:24:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f99704cd8385",
    "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
    "first_seen": "2026-10-20T11:20:48Z",
@@ -50519,11 +50599,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-20T12:31:00Z",
+  "last_run": "2026-10-20T12:40:49Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 99/100",
-   "gnews_ru: 56/63",
+   "gnews_ru: 58/65",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
