@@ -1,62 +1,10 @@
 {
  "stories": [
   {
-   "id": "1cdff9fd9264",
-   "title": "Started in Liberty City, grew up in Vice City, survived San Andreas. Now we're going back.",
-   "first_seen": "2026-10-21T13:50:51Z",
-   "updated": "2026-10-21T13:50:51Z",
-   "items": [
-    {
-     "id": "1cdff9fd9264",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Started in Liberty City, grew up in Vice City, survived San Andreas. Now we're going back.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xbna6b/started_in_liberty_city_grew_up_in_vice_city/",
-     "ts": "2026-10-21T13:32:48Z",
-     "summary": "From Grove Street to Vice City... one last ride before the nursing home. submitted by /u/Ineedfunding007 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3026dbc567fb",
-   "title": "PS5 | GTA 6 Custom Theme",
-   "first_seen": "2026-10-21T13:50:51Z",
-   "updated": "2026-10-21T13:50:51Z",
-   "items": [
-    {
-     "id": "3026dbc567fb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "PS5 | GTA 6 Custom Theme",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xbncg7/ps5_gta_6_custom_theme/",
-     "ts": "2026-10-21T13:35:24Z",
-     "summary": "PS5 Home Screen GTA 6 Custom Theme This custom theme features 38 carefully selected official GTA 6 images, designed as a slideshow that blends perfectly with the PS5 UI. submitted by /u/zeroTen0x10 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "8365ffa64264",
    "title": "Gearing Up for GTA 6? This $1,200 Roku TV Is the Fastest Screen I've Tested",
    "first_seen": "2026-10-21T13:50:51Z",
-   "updated": "2026-10-21T13:50:51Z",
+   "updated": "2026-10-21T14:01:16Z",
    "items": [
     {
      "id": "8365ffa64264",
@@ -70,21 +18,34 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamwyX09vQ0JRNy04LUU0dXdRdG9QMHJuY0tZNkIxR09Obld1bTRpc3JFWElGT1hRS2pMMFFXemRTUDZGdHVuRmVnYUU1dWVQaFZFX0ktel9QaTJtakZXSkNEdUFaZ3F2VElqZkZTRzBVRmZMeFBlcUdfNVRHQ1k0LVdQbGlBQk9Ma3dSczR0U2tULUtpMG16M2hPWjFoaGNwVzJ0Mmd6ZE1XZw?oc=5",
      "ts": "2026-10-21T13:45:28Z",
      "summary": ""
+    },
+    {
+     "id": "e5f026332f4f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag Australia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gearing Up for GTA 6? This $1,200 Roku TV Is the Fastest Screen I've Tested",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3JOb2NOWVpFdEhMREUzRHZNaDFaRmxRNGhtVXZRajE3amgyaXBzbjZxY19YX0xld1pSckJRUWE4b2hqZmNtQ0JNZ0pzS0s2YzVPMXBNbjlrdHVNbVpFMWh3ZmpJVE56Z1hXdHZoeW9rdGFWdVl5dy1Za195aE90LVVKeVcxN3NnVkRkVkF3TTVScnQ4b3g0QVIyYVhPdTBSdEQ5M3RLd0hfeFk?oc=5",
+     "ts": "2026-10-21T13:44:57Z",
+     "summary": ""
     }
    ],
    "tags": [
     "цена/издания"
    ],
-   "score": 65,
+   "score": 73,
    "level": "PROBABLE",
-   "alerted": "",
+   "alerted": "dup",
    "status": "new"
   },
   {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T13:40:52Z",
+   "updated": "2026-10-21T14:01:16Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -11629,6 +11590,32 @@
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUwzR2VTODFqOGk4TC1QYjBRd2c2UHliaW9qekNHSlRoOGppb1lPRlV5bWtvd2diOWswR3ZTZEczQVM3cWt1R1J4cWRrcVB1bTNvVmFudjgwSkJVMFFjSjhoVDBoMlA5a01MQ2ZGLTBaSlhSUklFMktQZTBtWGVHZGdRYy01SFN0YlIyd25JSk5pVVNVUGU4Tkhn?oc=5",
      "ts": "2026-10-21T13:16:04Z",
      "summary": ""
+    },
+    {
+     "id": "b0b5dec26184",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RockstarINTEL",
+     "group": "media",
+     "weight": 55,
+     "alert": true,
+     "title": "Extended GTA 6 Launch Trailer Has Begun Airing On TV",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRExWMzJpTnhUQTlSNXJXMlFfc09NSW1CWWlpZW96NVNjc1FFc2tXSmxRTzJYMHVscTZiek1lc19CQmF3OWczQWxhSEJoU3NYZExmLW9UUV9YUzRwUjNwYzNpdUZRcTFDY0lESEZoUVNNbGxFeFY0VzVBVGlBWFlXQ0ZuTDhQQQ?oc=5",
+     "ts": "2026-10-21T09:19:05Z",
+     "summary": ""
+    },
+    {
+     "id": "ed7dad03ad94",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PHL17.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 launch could drain $1 billion from US economy. This is how",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVpYZ3ZGNnBIYlotTF9vNG9zVldJWGUzSnd2VlNZMHlDWGpIaEtYQVEzamhRdHIzbThvel9HX2dVQnR0anFPanJhX09lN1hDX0kydnBPdjBVM1h6T0xHbnJPbHNIMmR0cHUyVHJUdlc3OFdMb09hNjBHZVVleUpaUlRmM25Za1BvVjB6N1Nn?oc=5",
+     "ts": "2026-10-21T13:57:11Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -11649,36 +11636,10 @@
    "status": "new"
   },
   {
-   "id": "513fbaead53b",
-   "title": "GTA VI fills the streets of Miami with luxury cars to film its new ad, but this time in real life",
-   "first_seen": "2026-10-21T13:31:03Z",
-   "updated": "2026-10-21T13:31:03Z",
-   "items": [
-    {
-     "id": "513fbaead53b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MARCA",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI fills the streets of Miami with luxury cars to film its new ad, but this time in real life",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSXFucDJTaV9FQlhYXzBsUkcwYl8wYTM3SUdZWXlGeEp6bGRhTkdFX2ZuTVFBYXp3dGU5RlllcjVGN0FKUzI1YWN2M0JabnRUVnFSTW9INllLWHdwX3ZvWjFqTHBPbnhuZHdTRWVOYjFQYnhwOU5lZDlyeDJMLXozSkh1ZDdlVU9CLTAxR1VpQ0RqUDIzc0Q4dHRlSjQtT2tHb3RFYmtEMlhUQlZhZWNVRl93eHN5NkhuTUdxVXVZM0k2bTVoVldpcmI2V3FZdEQwOV9fZUNhYWxmbXlHRlg1QXZaTjAxME5qemMw0gHrAUFVX3lxTE1vM3Q4b1lYM3BWU1RFUzE0ZURHLWU1N29tSUUxNUNZSWJaLW9keWUyX1VkbS02RkZuMXNuMEtNS0hyVGc4a0tEbGFCaGpZX1VVSlJRMW5QaEFNNjhad3lWVjNxc18weEloU3Y0b2pPb0FHWVBEUTRiUWZZSl9HbWd6Y3BDMVROYlVFejVBQ29ZdmtJS0VOdUlmTHZZTTdia05ZZndvMUNjQjI3bDVvRUNkMTdVRmlRSmEzZ1hVTEVENkdwekRXRUJ1dkxKM3A2V3pzNmVrUnp1bmlNbW1XVHFMd0YyT002UWFiZU0?oc=5",
-     "ts": "2026-10-21T13:21:28Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "1e945ed8d73e",
    "title": "Предзаказы GTA VI принесли $630 млн до выхода игры, говорят аналитики",
    "first_seen": "2026-10-20T11:10:46Z",
-   "updated": "2026-10-21T13:20:46Z",
+   "updated": "2026-10-21T14:01:16Z",
    "items": [
     {
      "id": "1e945ed8d73e",
@@ -11809,6 +11770,19 @@
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdGlFQUR2NEFrU0hXd2ZrX01CV1hod2o3QndYNEdtQmJqUHhsOUtkMkRFN010eU1oLVJoczlFTEpRV1Y2cFoyYTdoc3VISkQ0WkhOV1ZDZ3AxSEtpelNHc3VOSG1JNXlpclhVM0FzYUUxQUozcDNTbnpSMlVWazhFWjc5S3d6dW0yeklNamhn0gGTAUFVX3lxTE9naElPeGNMRjFaMWRZVWxrMHFQTFVlU2tqNGFIVWVVUnN2UWo0Y0RMUkhwN1BfZl93N3BSSGJLY0NJTjc4Qy12RG53Y3NmcmRnMm5GXzZFZ0xSdjdXa2VqcFZ2c0VnWERQdEVzOTB2Wnd4NWZtNzlWMFd1ODRLWXdmY3pyX3k5b0lLcVlFaVlkVUozbw?oc=5",
      "ts": "2026-10-21T11:01:00Z",
      "summary": ""
+    },
+    {
+     "id": "7178aaf7ab1c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Overclockers.ua",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI уже принесла Rockstar более $630 миллионов",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ2hJT3hjTEYxWjFkWVVsazBxUExVZVNrajRhSFVlVVJzdlFqNGNETFJIcDdQX2ZfdzdwUkhiS2NDSU43OEMtdkRud2NzZnJkZzJuRl82RWdMUnY3V2tlanBWdnNFZ1hEUHRFczkwdlp3eDVmbTc5VjBXdTg0S1l3ZmN6cl95OW9JS3FZRWlZZFVKM2_SAZMBQVVfeXFMT2doSU94Y0xGMVoxZFlVbGswcVBMVWVTa2o0YUhVZVVSc3ZRajRjRExSSHA3UF9mX3c3cFJIYktjQ0lONzhDLXZEbndjc2ZyZGcybkZfNkVnTFJ2N1drZWpwVnZzRWdYRFB0RXM5MHZad3g1Zm03OVYwV3U4NEtZd2ZjenJfeTlvSUtxWUVpWWRVSjNv?oc=5",
+     "ts": "2026-10-21T11:01:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -11828,6 +11802,149 @@
     "at": "2026-10-20T17:01:21Z"
    },
    "msg_id": 121
+  },
+  {
+   "id": "ebbc6eb58eaf",
+   "title": "Man says he was fired after leaking GTA 6 ads worth $4 million",
+   "first_seen": "2026-10-21T14:01:16Z",
+   "updated": "2026-10-21T14:01:16Z",
+   "items": [
+    {
+     "id": "ebbc6eb58eaf",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Man says he was fired after leaking GTA 6 ads worth $4 million",
+     "url": "https://www.dexerto.com/gta/man-says-he-was-fired-after-leaking-gta-6-ads-worth-4-million-3420713/",
+     "ts": "2026-10-21T12:29:03Z",
+     "summary": "A man says he was fired from a job after leaking adverts for Grand Theft Auto 6 on Miami Beach, but he “understands” why."
+    }
+   ],
+   "tags": [
+    "слив",
+    "цена/издания"
+   ],
+   "score": 75,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Слив рекламы GTA 6 за $4 млн: его уволили, но он всё понимает",
+    "summary": "Мужчина утверждает, что его уволили после утечки рекламных материалов GTA 6 на сумму $4 млн на пляже в Майами. Он заявил, что понимает решение работодателя.",
+    "idea": "Короткая история «слив — увольнение — раскаяние» с кадрами пляжа и слоганами. Зрителю интересно, что именно утекло и как на это отреагировала компания.",
+    "hook": "Слив рекламы GTA 6 за 4 миллиона — и парня уволили в тот же день.",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-21T14:01:21Z"
+   },
+   "msg_id": 130
+  },
+  {
+   "id": "0ba9c48ebac2",
+   "title": "To make sure nobody feels left out – here are a few more backgrounds!",
+   "first_seen": "2026-10-21T14:01:16Z",
+   "updated": "2026-10-21T14:01:16Z",
+   "items": [
+    {
+     "id": "0ba9c48ebac2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "To make sure nobody feels left out – here are a few more backgrounds!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xbnjub/to_make_sure_nobody_feels_left_out_here_are_a_few/",
+     "ts": "2026-10-21T13:43:37Z",
+     "summary": "submitted by /u/Foffern to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1cdff9fd9264",
+   "title": "Started in Liberty City, grew up in Vice City, survived San Andreas. Now we're going back.",
+   "first_seen": "2026-10-21T13:50:51Z",
+   "updated": "2026-10-21T13:50:51Z",
+   "items": [
+    {
+     "id": "1cdff9fd9264",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Started in Liberty City, grew up in Vice City, survived San Andreas. Now we're going back.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xbna6b/started_in_liberty_city_grew_up_in_vice_city/",
+     "ts": "2026-10-21T13:32:48Z",
+     "summary": "From Grove Street to Vice City... one last ride before the nursing home. submitted by /u/Ineedfunding007 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3026dbc567fb",
+   "title": "PS5 | GTA 6 Custom Theme",
+   "first_seen": "2026-10-21T13:50:51Z",
+   "updated": "2026-10-21T13:50:51Z",
+   "items": [
+    {
+     "id": "3026dbc567fb",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "PS5 | GTA 6 Custom Theme",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xbncg7/ps5_gta_6_custom_theme/",
+     "ts": "2026-10-21T13:35:24Z",
+     "summary": "PS5 Home Screen GTA 6 Custom Theme This custom theme features 38 carefully selected official GTA 6 images, designed as a slideshow that blends perfectly with the PS5 UI. submitted by /u/zeroTen0x10 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "513fbaead53b",
+   "title": "GTA VI fills the streets of Miami with luxury cars to film its new ad, but this time in real life",
+   "first_seen": "2026-10-21T13:31:03Z",
+   "updated": "2026-10-21T13:31:03Z",
+   "items": [
+    {
+     "id": "513fbaead53b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MARCA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI fills the streets of Miami with luxury cars to film its new ad, but this time in real life",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSXFucDJTaV9FQlhYXzBsUkcwYl8wYTM3SUdZWXlGeEp6bGRhTkdFX2ZuTVFBYXp3dGU5RlllcjVGN0FKUzI1YWN2M0JabnRUVnFSTW9INllLWHdwX3ZvWjFqTHBPbnhuZHdTRWVOYjFQYnhwOU5lZDlyeDJMLXozSkh1ZDdlVU9CLTAxR1VpQ0RqUDIzc0Q4dHRlSjQtT2tHb3RFYmtEMlhUQlZhZWNVRl93eHN5NkhuTUdxVXVZM0k2bTVoVldpcmI2V3FZdEQwOV9fZUNhYWxmbXlHRlg1QXZaTjAxME5qemMw0gHrAUFVX3lxTE1vM3Q4b1lYM3BWU1RFUzE0ZURHLWU1N29tSUUxNUNZSWJaLW9keWUyX1VkbS02RkZuMXNuMEtNS0hyVGc4a0tEbGFCaGpZX1VVSlJRMW5QaEFNNjhad3lWVjNxc18weEloU3Y0b2pPb0FHWVBEUTRiUWZZSl9HbWd6Y3BDMVROYlVFejVBQ29ZdmtJS0VOdUlmTHZZTTdia05ZZndvMUNjQjI3bDVvRUNkMTdVRmlRSmEzZ1hVTEVENkdwekRXRUJ1dkxKM3A2V3pzNmVrUnp1bmlNbW1XVHFMd0YyT002UWFiZU0?oc=5",
+     "ts": "2026-10-21T13:21:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
   },
   {
    "id": "fba18c17f6ca",
@@ -54214,20 +54331,20 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T13:50:51Z",
+  "last_run": "2026-10-21T14:01:23Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 100/100",
-   "gnews_ru: 68/73",
+   "gnews_ru: 65/70",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
    "ign: 3/20",
    "eurogamer: 1/100",
-   "dexerto_gta: 3/50",
+   "dexerto_gta: 4/50",
    "rockstarintel: 3/10",
    "gtaboom: 6/30",
-   "reddit: 21/25",
+   "reddit: 22/25",
    "tg_gtavistar: 4/9"
   ],
   "digest": "2026-10-20",
