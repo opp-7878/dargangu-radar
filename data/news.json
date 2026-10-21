@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "ebae47d7e5c6",
-   "title": "Everything that happened before gta vi",
-   "first_seen": "2026-10-21T06:01:13Z",
-   "updated": "2026-10-21T06:01:13Z",
-   "items": [
-    {
-     "id": "ebae47d7e5c6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Everything that happened before gta vi",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xbf6i3/everything_that_happened_before_gta_vi/",
-     "ts": "2026-10-21T06:00:27Z",
-     "summary": "submitted by /u/Wrestling-Emperor72 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T05:50:46Z",
+   "updated": "2026-10-21T06:10:46Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -11055,6 +11029,32 @@
      "url": "https://www.reddit.com/r/GTAVI/comments/1xasave/i_want_to_see_this/",
      "ts": "2026-10-20T13:34:05Z",
      "summary": "submitted by /u/LongAggressive9374 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "795c5c8f212a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "SQ Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Xbox Key Guide: Digital Code vs Disc, Prices and Safe Places to Buy",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tSTQ1anpYQlpXQzVCbWYwSnlKTmNZT29DdXV1WHVoUlRwTGQ5ay1lRGJ0S1VWQ0ZOYnNuTTZVbE02eUJOcXZnLTdEamIzNl9iTmJmdVVPTmtUdw?oc=5",
+     "ts": "2026-10-21T04:11:21Z",
+     "summary": ""
+    },
+    {
+     "id": "2eebd832295f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 to Drain $1B From US Economy With Take-Two Expected to Bank the Same Amount",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3pZRDJlNnRrR2VvZjllQV9KVmFHeXR2Mk1RWEVtNkRfVk1uWTN5cTJXb2lnVmhfOWdYZmRTbFplV0ZaX1g4SE9uNm8yUU1hOXExYVBTTWUwYmJBMW5kbDlFVXIzXzBxTU41X3dtdHU0bXlJYUdxTXJVTlZDSXAyYQ?oc=5",
+     "ts": "2026-10-21T05:06:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -11072,6 +11072,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "ebae47d7e5c6",
+   "title": "Everything that happened before gta vi",
+   "first_seen": "2026-10-21T06:01:13Z",
+   "updated": "2026-10-21T06:01:13Z",
+   "items": [
+    {
+     "id": "ebae47d7e5c6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Everything that happened before gta vi",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xbf6i3/everything_that_happened_before_gta_vi/",
+     "ts": "2026-10-21T06:00:27Z",
+     "summary": "submitted by /u/Wrestling-Emperor72 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -55865,7 +55891,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T06:01:13Z",
+  "last_run": "2026-10-21T06:10:46Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
