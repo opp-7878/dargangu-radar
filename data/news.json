@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "c761d370881d",
+   "title": "New GTA 6 ads have arrived on the streets of Miami.",
+   "first_seen": "2026-10-20T16:40:44Z",
+   "updated": "2026-10-21T08:10:47Z",
+   "items": [
+    {
+     "id": "c761d370881d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "virus.hr",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "New GTA 6 ads have arrived on the streets of Miami.",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGwzdW9HWlhRY0dWS3BGUXgyX3pOT0ZOUEZURHJOZExsMFNfVnlvWXJNRGkzQk9zcVlRMDVYbVAxeHhrcEQtRlZkeHE2RkhobEJXZUxIZ0gza3BsOTJaTF8zZ083NURNa3prMF9URmZIeXpXWkVMM1Z5VWwtcV9ETg?oc=5",
+     "ts": "2026-10-20T15:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "d810dfc22461",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Creative Bloq",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 unleashes saucy ads on the streets of Miami",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmMzb2xpQk45OWR0Y3o2SjZYbWQyMnY0MDZ4ck42bjl4Zk5kR2NKUWZ1aHE5aGJFZ2dJVTRDZkdhcHVaWE1CMERTVkpadjBOYWhvejJPZnlJMWVyYlkyNld3RTQ5d3lKQkdxMWN1R3hyQkM1aHprZ1RqTi1uUTZJU016N0huUFNGc1ZV?oc=5",
+     "ts": "2026-10-21T08:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -16267,32 +16306,6 @@
     "цена/издания"
    ],
    "score": 63,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c761d370881d",
-   "title": "New GTA 6 ads have arrived on the streets of Miami.",
-   "first_seen": "2026-10-20T16:40:44Z",
-   "updated": "2026-10-20T16:40:44Z",
-   "items": [
-    {
-     "id": "c761d370881d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "virus.hr",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "New GTA 6 ads have arrived on the streets of Miami.",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGwzdW9HWlhRY0dWS3BGUXgyX3pOT0ZOUEZURHJOZExsMFNfVnlvWXJNRGkzQk9zcVlRMDVYbVAxeHhrcEQtRlZkeHE2RkhobEJXZUxIZ0gza3BsOTJaTF8zZ083NURNa3prMF9URmZIeXpXWkVMM1Z5VWwtcV9ETg?oc=5",
-     "ts": "2026-10-20T15:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -54138,11 +54151,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T08:01:13Z",
+  "last_run": "2026-10-21T08:10:47Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 68/75",
+   "gnews_ru: 67/74",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
