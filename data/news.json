@@ -1,6 +1,70 @@
 {
  "stories": [
   {
+   "id": "4f244d62dee9",
+   "title": "GTA Online Event Week: Halloween Event (October 22nd-28th)",
+   "first_seen": "2026-10-21T21:31:29Z",
+   "updated": "2026-10-21T21:31:29Z",
+   "items": [
+    {
+     "id": "4f244d62dee9",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA Online Event Week: Halloween Event (October 22nd-28th)",
+     "url": "https://rockstarintel.com/gta-online-event-week-halloween-event-october-22nd-28th/",
+     "ts": "2026-10-21T21:25:36Z",
+     "summary": "A new GTA Online Weekly Update has begun and the month long event Halloween event continues with new and old spooks plus rewards. Rockstar have also rotated various content around and have big bonuses. Check out everything happening in this GTA Online during this Event Week which will run from October 22nd through 28th. Halloween [...] The post GTA Online Event Week: Halloween Event (October 22nd-28th) appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🎃 Хэллоуин в GTA Online: неделя событий и награды",
+    "summary": "С 22 по 28 октября в GTA Online проходит Хэллоуинское событие: новые и старые активности, награды и бонусы. Rockstar также обновила ротацию контента и добавила крупные бонусы, сообщает RockstarINTEL.",
+    "idea": "Короткий обзор недели: показываем 2–3 награды и бонусы на экране, чтобы зритель сразу увидел, что фармить.",
+    "hook": "Хэллоуин в GTA Online уже идёт — вот главные награды этой недели.",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-21T21:31:32Z"
+   },
+   "msg_id": 136
+  },
+  {
+   "id": "e8d1bc712920",
+   "title": "I need an advice",
+   "first_seen": "2026-10-21T21:31:29Z",
+   "updated": "2026-10-21T21:31:29Z",
+   "items": [
+    {
+     "id": "e8d1bc712920",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I need an advice",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xbzzhb/i_need_an_advice/",
+     "ts": "2026-10-21T21:27:03Z",
+     "summary": "I’m just a guy who wants to play GTA VI. I need an advice: right now, I have a limited budget that would allow me to get an Xbox Series S + a copy of GTA VI, so I’d be all set for the 19th. At the same time, I’m worried that the console’s limitations might keep me from fully enjoying the experience (even though I’d ​​be playing on a 2K monitor). Because of this, I’m torn—should I wait and save up a bit more to get a PS5? But then I wouldn’t be able to play on day one, and the FOMO is eating me alive (and.. I’m so tired of waiting). What do you suggest: go for the Xbox Series S to play on day o"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -53229,18 +53293,18 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T21:20:46Z",
+  "last_run": "2026-10-21T21:31:32Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 99/100",
-   "gnews_ru: 59/60",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
    "ign: 1/20",
    "eurogamer: 1/100",
    "dexerto_gta: 3/50",
-   "rockstarintel: 3/10",
+   "rockstarintel: 4/10",
    "gtaboom: 6/30",
    "reddit: 24/25",
    "tg_gtavistar: 5/10"
