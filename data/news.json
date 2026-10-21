@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "2202a71dcbcf",
+   "title": "Удар по экономике США в размере 1 миллиарда долларов от GTA 6",
+   "first_seen": "2026-10-20T18:31:04Z",
+   "updated": "2026-10-21T11:50:47Z",
+   "items": [
+    {
+     "id": "2202a71dcbcf",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Haberler",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Удар по экономике США в размере 1 миллиарда долларов от GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04VzJKR1RUazlZQ05LeURHTlJNeEo1bEQ5dHBDYjA1bkh6SUNlMElic0tzbGxJYU5oclRnbC1LUGdKWUczcXFFbThxdWZWUEVaZTB1OEVMdw?oc=5",
+     "ts": "2026-10-20T18:23:56Z",
+     "summary": ""
+    },
+    {
+     "id": "4c98449d2929",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Haberler",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Удар по экономике США в размере 1 миллиарда долларов от GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4VEJqcmZ1R0w3MmFmcGxQYjhzLXhudjhFS2t4X0MyU2h0WjVaY3F3ODAxb0xucEZxX0xTSDFuell2VXUzUTBrWk1ma1BFMlhxcGFnUlF3ZFk?oc=5",
+     "ts": "2026-10-20T18:23:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4b0f63399918",
+   "title": "Raul and Megamundo Security Job",
+   "first_seen": "2026-10-21T11:50:47Z",
+   "updated": "2026-10-21T11:50:47Z",
+   "items": [
+    {
+     "id": "4b0f63399918",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Raul and Megamundo Security Job",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xbjcag/raul_and_megamundo_security_job/",
+     "ts": "2026-10-21T10:18:54Z",
+     "summary": "Not sure if anyone made this connection yet, the guy who acts all twitchy in the megamundo security job seems like the same one under Raul's feet. Jason and Lucia might have been scouting for Raul before someone tries to rob them and looks like they're trying to find out who is the other person trying to rob megamundo. What do you guys think? submitted by /u/According-Tax7983 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "fb6d67137535",
    "title": "Всемирный грипп под названием GTA 6. Игра заставит миллионы взять выходной",
    "first_seen": "2026-10-21T10:40:51Z",
@@ -16583,32 +16648,6 @@
    ],
    "tags": [],
    "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2202a71dcbcf",
-   "title": "Удар по экономике США в размере 1 миллиарда долларов от GTA 6",
-   "first_seen": "2026-10-20T18:31:04Z",
-   "updated": "2026-10-20T18:31:04Z",
-   "items": [
-    {
-     "id": "2202a71dcbcf",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Haberler",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Удар по экономике США в размере 1 миллиарда долларов от GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04VzJKR1RUazlZQ05LeURHTlJNeEo1bEQ5dHBDYjA1bkh6SUNlMElic0tzbGxJYU5oclRnbC1LUGdKWUczcXFFbThxdWZWUEVaZTB1OEVMdw?oc=5",
-     "ts": "2026-10-20T18:23:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -55153,11 +55192,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T11:40:57Z",
+  "last_run": "2026-10-21T11:50:47Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 72/77",
+   "gnews_ru: 69/74",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
