@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T16:40:48Z",
+   "updated": "2026-10-21T16:50:53Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -11952,6 +11952,19 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNTdrWWRtVVNZbXRoQm5sTmtRazVoUmpBbktWaUg2czZIN0tlckhnNGtSNGFicVJUOWVfLUx0bzFPNXB0N0lfNmJhNFEtVnJqeXgtYnNxbTJFLXowT25MaW42TlFhOVkybVdjLVVBb2V0czk4Q19RdnlIbVltZGJ5NXVaa3JmMk9IM2QzbDRERDU0RERkcjBBaHpvT25KTmtXT25OR3duNU54ekNtOEtQS2UxRUnSAbQBQVVfeXFMTzU3a1lkbVVTWW10aEJubE5rUWs1aFJqQW5LVmlINnM2SDdLZXJIZzRrUjRhYnFSVDllXy1MdG8xTzVwdDdJXzZiYTRRLVZyanl4LWJzcW0yRS16ME9uTGluNk5RYTlZMm1XYy1VQW9ldHM5OENfUXZ5SG1ZbWRieTV1WmtyZjJPSDNkM2w0REQ1NEREZHIwQWh6b09uSk5rV09uTkd3bjVOeHpDbThLUEtlMUVJ?oc=5",
      "ts": "2026-10-21T14:41:20Z",
      "summary": ""
+    },
+    {
+     "id": "1d9af089a565",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ITC.ua",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 может обойтись экономике США в $1 млрд: в чём причина",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdEl4Y1BwOGRXZjhQNHNBQkdIOE81OTdWYmF6OWEtRFN5MEdRXzNIdXpQT3BLV0ZzRWNXVEpLeS1HX0Z2QmtsVE1rNFJoVzBIZ215WlV3Z3ZGNUFoT2E4QXl4UndseFhJOVVTdTRwZXM5eVc0MmdwcEJWODF1azE0bi1DYVI4YmFRVWfSAY8BQVVfeXFMTzVZRVhUbHFpSmN2WE9IMVJ3bEJab25taF9wN1dib3JSZFpjSTE1Z0J4Z203OHBMZWVFdC11Vks2RGxEMUhOemRTSWNyc09CZzRDNG5aU2VUcno1UW51Um96RjBZZzBVSjctaDVEMXFyMWhCUG1uWXhpMU1aQk5LMDV0N2VDZEVIZlVSNlM3UlE?oc=5",
+     "ts": "2026-10-21T15:54:31Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -11969,6 +11982,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "00a7b94bdd5a",
+   "title": "Rockstar Games’ Vice City Takeover May Soon Come in Six-Packs",
+   "first_seen": "2026-10-21T16:50:53Z",
+   "updated": "2026-10-21T16:50:53Z",
+   "items": [
+    {
+     "id": "00a7b94bdd5a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "DesignRush",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games’ Vice City Takeover May Soon Come in Six-Packs",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLUc5eTRpTGV1RW5XaDd1UGpfQXBSZXo2bGlBWHBpaXRjaTFkcVhqM21TUzhMTjRHd1FORUFJaHl1eDNlUjNwb1dFYmxka2c2YldkeF9RVEktbXlmUVdIVU5aT0NHQnBCZUhJR296blloS2tWWXhPZVNMeUN3SkRicUlrUzg?oc=5",
+     "ts": "2026-10-21T16:44:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -55600,11 +55639,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T16:40:48Z",
+  "last_run": "2026-10-21T16:50:53Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 100/100",
-   "gnews_ru: 83/87",
+   "gnews_en: 99/100",
+   "gnews_ru: 81/85",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -55613,7 +55652,7 @@
    "dexerto_gta: 4/50",
    "rockstarintel: 3/10",
    "gtaboom: 6/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 5/10"
   ],
   "digest": "2026-10-20",
