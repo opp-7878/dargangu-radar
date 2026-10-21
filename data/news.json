@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "9cbf2c25a94d",
-   "title": "GTA VI is coming: 5 games to play while you wait",
-   "first_seen": "2026-10-21T09:01:14Z",
-   "updated": "2026-10-21T09:01:14Z",
-   "items": [
-    {
-     "id": "9cbf2c25a94d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Stuff",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI is coming: 5 games to play while you wait",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQksxOThHUjcwdkJLNllOZHlvMEk2bHZlTDJtclp5MHdVR195YWl4c29hakxSUmdTNlhOQVdianA3QVpwSVI1eTNwRVRVdE9kZEF6R1JDQmlNTHEzcnhkTTVaNUpWb1RhVllIc1V4cTNFOE5Iajg4ZlVDMXB6UVlkS3dnU2haQQ?oc=5",
-     "ts": "2026-10-21T08:50:02Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T08:50:54Z",
+   "updated": "2026-10-21T09:20:52Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -11263,6 +11237,19 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZzNXVHZDM01fUEJ6Mld5ZkdpUFpJMWQzXzE4bUJSQXpEclpQdzRJWXRTcm9Balk5Z3o4d3N0TDZLNXBlTVg3N3JVVm9fWWdfVWp4QkJxYkg1aXBubmY0TTlYMmF5Qm84ODFtbllxTUdJenlQVFZXMmZCTER5Y2c?oc=5",
      "ts": "2026-10-21T08:44:00Z",
      "summary": ""
+    },
+    {
+     "id": "e34e07bb89c8",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "Extended GTA 6 Launch Trailer Has Begun Airing On TV",
+     "url": "https://rockstarintel.com/extended-gta-6-launch-trailer-has-begun-airing-on-tv/",
+     "ts": "2026-10-21T09:19:05Z",
+     "summary": "An alternative cut of the GTA 6 launch trailer has begun airing on TV. Following its release last week, Rockstar Games have begun promoting the trailer across different forms of media. It started with online ads found within social media feeds but now they’ve gone to a more traditional medium. During last night’s NBC broadcast [...] The post Extended GTA 6 Launch Trailer Has Begun Airing On TV appeared first on RockstarINTEL ."
     }
    ],
    "tags": [
@@ -11280,6 +11267,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "9cbf2c25a94d",
+   "title": "GTA VI is coming: 5 games to play while you wait",
+   "first_seen": "2026-10-21T09:01:14Z",
+   "updated": "2026-10-21T09:01:14Z",
+   "items": [
+    {
+     "id": "9cbf2c25a94d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Stuff",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI is coming: 5 games to play while you wait",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQksxOThHUjcwdkJLNllOZHlvMEk2bHZlTDJtclp5MHdVR195YWl4c29hakxSUmdTNlhOQVdianA3QVpwSVI1eTNwRVRVdE9kZEF6R1JDQmlNTHEzcnhkTTVaNUpWb1RhVllIc1V4cTNFOE5Iajg4ZlVDMXB6UVlkS3dnU2haQQ?oc=5",
+     "ts": "2026-10-21T08:50:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -54257,18 +54270,18 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T09:10:53Z",
+  "last_run": "2026-10-21T09:20:52Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 70/77",
+   "gnews_ru: 69/77",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
    "ign: 2/20",
    "eurogamer: 1/100",
    "dexerto_gta: 4/50",
-   "rockstarintel: 0/10",
+   "rockstarintel: 1/10",
    "gtaboom: 5/30",
    "reddit: 21/25",
    "tg_gtavistar: 3/8"
