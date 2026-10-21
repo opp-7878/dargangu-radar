@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "77b62a9092fa",
+   "title": "PlayStation Pulse headset lands November 19, the same day as GTA VI",
+   "first_seen": "2026-10-21T17:31:02Z",
+   "updated": "2026-10-21T17:31:02Z",
+   "items": [
+    {
+     "id": "77b62a9092fa",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gagadget.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation Pulse headset lands November 19, the same day as GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWThMN0NCblgyU2Y5YmxrX2FqNTZwUVNPYzJCcHRvR1R3SlJFaU95Y0VQeEtqRFRZNFBzX3pUdkZQOHNIa1JPTVhXUVE5bGFSRVN5VWg5Q2JGc0Q1OUR1RDRuMlc5X1ZFWmppeWpmTHU3d19JQi1RdmJsVXI2UnJ4d3dzQ0ViVW8yazVUWWJPVmhrRlVuUndYZ1NJZ0RlZHU1dXVCc9IBpAFBVV95cUxQWThMN0NCblgyU2Y5YmxrX2FqNTZwUVNPYzJCcHRvR1R3SlJFaU95Y0VQeEtqRFRZNFBzX3pUdkZQOHNIa1JPTVhXUVE5bGFSRVN5VWg5Q2JGc0Q1OUR1RDRuMlc5X1ZFWmppeWpmTHU3d19JQi1RdmJsVXI2UnJ4d3dzQ0ViVW8yazVUWWJPVmhrRlVuUndYZ1NJZ0RlZHU1dXVCcw?oc=5",
+     "ts": "2026-10-21T16:23:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b182ae3a0402",
+   "title": "Главный релиз ноября: сколько стоит в Украине легендарная игра GTA 6",
+   "first_seen": "2026-10-21T17:31:02Z",
+   "updated": "2026-10-21T17:31:02Z",
+   "items": [
+    {
+     "id": "b182ae3a0402",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Новини.Live",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Главный релиз ноября: сколько стоит в Украине легендарная игра GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUVZZnJLdXZhYUhpRFhEZVh1V1VzVlQ1SXNuSTRoMTdQTWRzX2JLY1lQMnlOUFBNYzJjQkIzZ2lhMWdqMTNSekJ0enNqdVljVzY1OWdRc0VaSGdtRTBQQlllOFJiZkF0UWxPejktbEJIXzFMakhCSFZNYmRsRk1iNkhqS0E1b2NiTWJvUTFuN0NjZ3cyd1ZpOGtwdy1oS3NLemNzUHNaOG1ZUVpTdGJmX2NB0gG3AUFVX3lxTE9MR2xnbmt2bUZIRFBTS01XNmNGQmxXdFZ4dG1RaDNTeXhGZ2RzNmN3MzBnN3JGZmZmX0UwQzN4VDFPdUxrSU5sc3RYWHNobWFMYkxtZU01bEV2QnZKMmFlS0E5cWRPTUlPSm9BTll0WndWYUtDYWp3WHlpb2pwcHV2dnluT1F0NFRJcm1aeXd3dW9BU1NENVU2ZXhJaTNDYmFjVmhyOUhYeGpsNGlkMW9CNkl0LTJSRQ?oc=5",
+     "ts": "2026-10-21T17:24:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -55795,10 +55847,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T17:20:49Z",
+  "last_run": "2026-10-21T17:31:02Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 99/100",
+   "gnews_en: 100/100",
    "gnews_ru: 82/86",
    "gamesbeat: 1/10",
    "vgc: 0/10",
