@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T12:40:48Z",
+   "updated": "2026-10-21T12:50:49Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -11484,6 +11484,19 @@
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS3FrRmdXdk1nc0YtWHRPUlVaaG1ZZndSdGlSaUl0X3poNWlHU3o2QlB1MU94eXktV01CLWxENm5CeWpaVEN2SUN1YWdLa2J3LW9FQVZBNERoMmdyMGpiUVo1SzBuZXBkMlc4eHE4aVBTd0toSG1LX2tsbndmb0tiTFNfSDFGM2N3U05WLUsyVU9DbFpvd1FYSEJEYmplb2MyQU1DVzg4cHJRSUNha2FDYm9Eekk0N1BsMFRSQ2FJcHhpNU55a1dwdWwzU1I5bjVrYmVnWjhjNnR4bjZfZjRrbWFmMTB0SlJobXluNjM3QdIB7wFBVV95cUxNS3FrRmdXdk1nc0YtWHRPUlVaaG1ZZndSdGlSaUl0X3poNWlHU3o2QlB1MU94eXktV01CLWxENm5CeWpaVEN2SUN1YWdLa2J3LW9FQVZBNERoMmdyMGpiUVo1SzBuZXBkMlc4eHE4aVBTd0toSG1LX2tsbndmb0tiTFNfSDFGM2N3U05WLUsyVU9DbFpvd1FYSEJEYmplb2MyQU1DVzg4cHJRSUNha2FDYm9Eekk0N1BsMFRSQ2FJcHhpNU55a1dwdWwzU1I5bjVrYmVnWjhjNnR4bjZfZjRrbWFmMTB0SlJobXluNjM3QQ?oc=5",
      "ts": "2026-10-21T11:22:00Z",
      "summary": ""
+    },
+    {
+     "id": "6c4244210875",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Hill",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 launch could drain $1 billion from US economy — this is how",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmlCZFNacWx3Y2M4SS1WV1ZwMXBJb1JjNGttNUo4ZGVpUDJaRGRmOUtYdWRFMnExVlRQRU83cTdoZFBYYVFnQXBKaG9sQlAzUkNweVlDOC14UDFwZWlfNUlzUzRhci1pWW5oaWlqM0diakpDOExUczgtbU9BN09PZkVLX18ycjZjMlNsbGVtTnFrc3QyMW9hZDl6QW5aS2NULUHSAacBQVVfeXFMTVJpQWtqcXJkc0dwdkxXUl9XbVc1Yk92Sk5WZk0zU3BHZHNpWDJLcldtUFFqYjdrUW9XcVBndEVKaHJIZGViT1E1bmdvQ2Y2RGFzdFljLUk5VGZER1JaY2hfTEVpS3hiekdIa1R6QXAtVFRMUmFHUWZyYi1YaV9mUEpyVWNfcVZZNHZYT3VfbGtnQWxDb1l6U3VPNkpLdExzUFJjQW4xcGM?oc=5",
+     "ts": "2026-10-21T12:41:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -11501,6 +11514,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "e47ba5dbfc57",
+   "title": "Do You Think GTA VI Will Have Accessible Shopping Malls?",
+   "first_seen": "2026-10-21T12:50:49Z",
+   "updated": "2026-10-21T12:50:49Z",
+   "items": [
+    {
+     "id": "e47ba5dbfc57",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Do You Think GTA VI Will Have Accessible Shopping Malls?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xbm9r8/do_you_think_gta_vi_will_have_accessible_shopping/",
+     "ts": "2026-10-21T12:49:57Z",
+     "summary": "Does anyone know if there will be shopping malls in the game, and whether we’ll actually be able to enter them? I know this might seem like a silly question to some people, but I remember Vice City having a shopping mall. It was very limited, of course, but it was there. I can’t remember if any other GTA game had one, but I know San Andreas and GTA V didn’t. I think this would be a really interesting way to explore the world on foot and see just how far this game has taken immersion. Plus, when it comes to customization, having all the stores in one place would be amazing. It would save us fro"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -53861,11 +53900,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T12:40:54Z",
+  "last_run": "2026-10-21T12:50:49Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 100/100",
-   "gnews_ru: 71/77",
+   "gnews_en: 99/100",
+   "gnews_ru: 69/74",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
