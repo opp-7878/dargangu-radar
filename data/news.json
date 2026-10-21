@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "9cbf2c25a94d",
+   "title": "GTA VI is coming: 5 games to play while you wait",
+   "first_seen": "2026-10-21T09:01:14Z",
+   "updated": "2026-10-21T09:01:14Z",
+   "items": [
+    {
+     "id": "9cbf2c25a94d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Stuff",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI is coming: 5 games to play while you wait",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQksxOThHUjcwdkJLNllOZHlvMEk2bHZlTDJtclp5MHdVR195YWl4c29hakxSUmdTNlhOQVdianA3QVpwSVI1eTNwRVRVdE9kZEF6R1JDQmlNTHEzcnhkTTVaNUpWb1RhVllIc1V4cTNFOE5Iajg4ZlVDMXB6UVlkS3dnU2haQQ?oc=5",
+     "ts": "2026-10-21T08:50:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -54231,11 +54257,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T08:50:54Z",
+  "last_run": "2026-10-21T09:01:14Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 71/79",
+   "gnews_ru: 70/77",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
