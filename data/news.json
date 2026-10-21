@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T01:30:59Z",
+   "updated": "2026-10-21T01:40:47Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -10925,6 +10925,19 @@
      "url": "https://www.gtaboom.com/a-tiktoker-says-gta-6-cost-him-his-job-after-he-revealed-the-miami-beach-gear-d198",
      "ts": "2026-10-21T01:20:58Z",
      "summary": "A TikToker says his viral South Beach unboxing of Grand Theft Auto VI Vice City gear got him fired days later."
+    },
+    {
+     "id": "fc3e4a442bb9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "93.7 KRQ",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI Launch Could Cost US Economy $1 Billion In Lost Productivity",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTG5nWFZkZXVNNnhJRnN6VGd4a3J2Nmlzc2tZaDAzVkFSeHRzeHp1R1AzRmpLYzFMUTgtS3FUeGNQMzAwUWZHY1gwTlNuQUNEblRsTGhYTVNjMGZSa3oxdE94cGJMRXNNVUhhR2tGSko0XzRjU0lmWlJWeVctWjhSUXpabFF5WGZHeVVSQ2Z2dGwyUjE2c1ZReXY5eEEycnd6VlVnQUhlR2xadE0xSkg4eWpsYjlhMDZMa1BPNVRiaw?oc=5",
+     "ts": "2026-10-20T19:16:44Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -10942,6 +10955,58 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "54297fab512b",
+   "title": "We believe you, Jason…",
+   "first_seen": "2026-10-21T01:40:47Z",
+   "updated": "2026-10-21T01:40:47Z",
+   "items": [
+    {
+     "id": "54297fab512b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We believe you, Jason…",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xb9zdp/we_believe_you_jason/",
+     "ts": "2026-10-21T01:24:42Z",
+     "summary": "submitted by /u/darkwoods625 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1f999d00c90a",
+   "title": "It's her isn't? Same nose, same earring, similar hair and makeup...",
+   "first_seen": "2026-10-21T01:40:47Z",
+   "updated": "2026-10-21T01:40:47Z",
+   "items": [
+    {
+     "id": "1f999d00c90a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "It's her isn't? Same nose, same earring, similar hair and makeup...",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xba2w7/its_her_isnt_same_nose_same_earring_similar_hair/",
+     "ts": "2026-10-21T01:29:08Z",
+     "summary": "So the lady from the 2025 screenshots with a young boy on that Hotel is the host of Weazle News? submitted by /u/imlazytown to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -55247,11 +55312,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T01:30:59Z",
+  "last_run": "2026-10-21T01:40:47Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 98/100",
-   "gnews_ru: 72/81",
+   "gnews_en: 96/100",
+   "gnews_ru: 73/81",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -55260,7 +55325,7 @@
    "dexerto_gta: 4/50",
    "rockstarintel: 0/10",
    "gtaboom: 5/30",
-   "reddit: 19/25",
+   "reddit: 20/25",
    "tg_gtavistar: 3/8"
   ],
   "digest": "2026-10-20",
