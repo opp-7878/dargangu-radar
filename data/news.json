@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "acd42b63e903",
+   "title": "Sony PlayStation 5 vs. PlayStation 5 Pro: Should You Upgrade for GTA 6?",
+   "first_seen": "2026-10-21T22:50:44Z",
+   "updated": "2026-10-21T22:50:44Z",
+   "items": [
+    {
+     "id": "acd42b63e903",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag Australia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony PlayStation 5 vs. PlayStation 5 Pro: Should You Upgrade for GTA 6?",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWNVczUtekhQVFNNWlBMMy1QREVXbTVXZEFndkp6ZHNQclV0V3psSUFoVkdBbEVxX1E5emNra05lZ0tDNXhIRGZ3ZU1EUzloVFVEZHlkdEhRcWxaQjIwZmMtQW9nZ1U1M0V6MlEzalZ3ME5VNVdfSGVKSXh4UkdJbWFIQXdwN0JiZUJDanVaRWtRZVc5Q2VrMFFjNmxjOW5CbUhLUkt1dXM1UGNINFdENA?oc=5",
+     "ts": "2026-10-21T18:14:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -53773,11 +53799,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T22:40:44Z",
+  "last_run": "2026-10-21T22:50:44Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 68/72",
+   "gnews_ru: 69/73",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
