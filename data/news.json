@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "b8fa34ac33f2",
+   "title": "Cyberpunk 2077 получила моды с механиками GTA 6",
+   "first_seen": "2026-10-21T13:07:07Z",
+   "updated": "2026-10-21T13:07:07Z",
+   "items": [
+    {
+     "id": "b8fa34ac33f2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "LiveSport.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Cyberpunk 2077 получила моды с механиками GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1haE4xRWZjYko3Sld6c3FMT0NSTGR2UXVnTWlxcVFwZWY3T2psLXVDLTZwcTNIQ0pSX05tbnIxV0hNRnRMUWVSVkNWaldXakdpTUxlaE9oYzNyaTFQNi1zU2lXX3pkSlh4cm1oZ2hkSXNuTXA1Nmc?oc=5",
+     "ts": "2026-10-21T12:58:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "31cf99751dba",
+   "title": "Marketing on release day is expected to be very hype according to some on X",
+   "first_seen": "2026-10-21T13:07:07Z",
+   "updated": "2026-10-21T13:07:07Z",
+   "items": [
+    {
+     "id": "31cf99751dba",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Marketing on release day is expected to be very hype according to some on X",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xbmh53/marketing_on_release_day_is_expected_to_be_very/",
+     "ts": "2026-10-21T12:59:26Z",
+     "summary": "I think we’ve seen most of this already so I think this is most likely going to happen submitted by /u/ResponsibleRatio6569 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -53900,11 +53952,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T13:01:18Z",
+  "last_run": "2026-10-21T13:07:07Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 100/100",
-   "gnews_ru: 68/74",
+   "gnews_ru: 70/76",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
