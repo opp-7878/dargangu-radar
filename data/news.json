@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "ebae47d7e5c6",
+   "title": "Everything that happened before gta vi",
+   "first_seen": "2026-10-21T06:01:13Z",
+   "updated": "2026-10-21T06:01:13Z",
+   "items": [
+    {
+     "id": "ebae47d7e5c6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Everything that happened before gta vi",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xbf6i3/everything_that_happened_before_gta_vi/",
+     "ts": "2026-10-21T06:00:27Z",
+     "summary": "submitted by /u/Wrestling-Emperor72 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -55839,11 +55865,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T05:50:46Z",
+  "last_run": "2026-10-21T06:01:13Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 69/75",
+   "gnews_ru: 68/74",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -55852,7 +55878,7 @@
    "dexerto_gta: 4/50",
    "rockstarintel: 0/10",
    "gtaboom: 4/30",
-   "reddit: 21/25",
+   "reddit: 22/25",
    "tg_gtavistar: 3/8"
   ],
   "digest": "2026-10-20",
