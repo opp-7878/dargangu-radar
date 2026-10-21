@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "f07f0777eb01",
+   "title": "ONE MONTH, CHAT!",
+   "first_seen": "2026-10-21T22:31:01Z",
+   "updated": "2026-10-21T22:31:01Z",
+   "items": [
+    {
+     "id": "f07f0777eb01",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "ONE MONTH, CHAT!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xc18f8/one_month_chat/",
+     "ts": "2026-10-21T22:17:37Z",
+     "summary": "submitted by /u/TheMemeGuild to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2c8125b7ed76",
+   "title": "GTA 6 Bus Advertisement Spotted",
+   "first_seen": "2026-10-21T22:31:01Z",
+   "updated": "2026-10-21T22:31:01Z",
+   "items": [
+    {
+     "id": "2c8125b7ed76",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 Bus Advertisement Spotted",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xc1b8x/gta_6_bus_advertisement_spotted/",
+     "ts": "2026-10-21T22:21:03Z",
+     "summary": "Saw this while grabbing lunch today, a few blocks north of Times Square. I love to see the game get marketed, can’t wait to play! submitted by /u/DifficultyFragrant63 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -53669,11 +53721,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T22:20:49Z",
+  "last_run": "2026-10-21T22:31:01Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 69/73",
+   "gnews_ru: 68/72",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
