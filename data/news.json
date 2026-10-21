@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T07:50:48Z",
+   "updated": "2026-10-21T08:01:13Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -11198,6 +11198,19 @@
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSXprMktFNG9HdURVeHVDcVVPcThoYVpvTWVjV1NZbzZsZXZqekNSdXQwcXZMV3FEUlBQMUV0cXdHUHdjdF84bjVyam1HMWZGcF9raDh0STJoZmhNNVpwS2lybTczczdfcWZmYkczRkpva2FVVDN2dmo5MmZobnZmbWFtRndSSC1MbWhGZ0p5NzNJR3RsaHdPMFQ1c05yS2M2S2d2Qnl4UzRVN1c1TzZPaVJHZW9ZSXR3VWNDODBERndtTG96bGdfMVJwYXJlUWlNeC01Q0lHbmU?oc=5",
      "ts": "2026-10-21T07:38:40Z",
      "summary": ""
+    },
+    {
+     "id": "5ed0eb4eb001",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 может обойтись экономике США в $1 млрд: ради игры до 1,5 млн человек могут прогулять работу",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORm5RVUZqbEJkZ1hKZWdGZ3Q2dTVzTjl3Q2ZzQ21GODJuVzltbXBxSkhJb2R1TXhCaC00UmQtNGxrbS1hSlFiMDVNcjUzUTdmTUd4OHp3LWRyUFBULWIxQWJ6b2NVenVfUlNqSzNZNDN3Sk9zSjNSM3EwcUpDYVZmZmljWVpiVXV3RnlPZG83blVkMF9PNE9KLXp4WTFKS0xqSG5uZFZLQWpWSDlWcjhEQnVlV0VZQXR3aDJwdVJrUDRWSS1KbW9QeFllOWRYVGlqTTJCS0Y2ZzNMUQ?oc=5",
+     "ts": "2026-10-21T07:38:40Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -11215,6 +11228,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "c9cb9e53ac34",
+   "title": "Rockstar almost abandoned a key GTA VI feature due to development concerns",
+   "first_seen": "2026-10-21T08:01:13Z",
+   "updated": "2026-10-21T08:01:13Z",
+   "items": [
+    {
+     "id": "c9cb9e53ac34",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iXBT.games",
+     "group": "media",
+     "weight": 45,
+     "alert": true,
+     "title": "Rockstar almost abandoned a key GTA VI feature due to development concerns",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTndpNGdOOXYzUWVMSm92eUp5dVVjeXg4VDEwcHpyQ1V5V2pCWVpnUTU3YXVieElWNkhobENTOTNGNG5uU3VhcjBrNHA3THJ1NHRfd25DUGVNMEZDZmhGS0lzS0hzbTFwc2plTmNDTHVQc0ctOGM2RF84VE01YU9BZGNpSFpVejAzZVhXcnhsV0U4eFh3QTZvUkVRWlpPV2tmblRyME0xdUJLUFR5WDVFOEpyRVp0MkJ0eW9Sb0xkZmdDbXg3Mm9ZcnJ30gHPAUFVX3lxTE13eXllel9BTHRCbFZ2QUlMMTZiLW1vYmJqanRHTDNnNjZrNDVtdjdFaTlrNnZDbENaOVo4aDFEeVpLUy1xeEJDQzFDLWI4LW1ka0RNRWJfcEFyQnFFVVFTRXZodkZhX2tUR1M3S19fYXlYQnVyY3h6VXV5eDc2bFFKQmpIWlN6SENYazJWRlMxVG9xZlhpRmJCb1U5Wld4NXFSZXVqTmpyUF9GSG5JYmhiS1hmNjNGRWdRdl9WSldhd2l0Z2RrUGFCWUloWG5BZw?oc=5",
+     "ts": "2026-10-21T05:48:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -54099,11 +54138,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T07:50:48Z",
+  "last_run": "2026-10-21T08:01:13Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 67/73",
+   "gnews_ru: 68/75",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
