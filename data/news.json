@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "1e46736b0768",
+   "title": "What’s the first thing you’re doing in GTA 6?",
+   "first_seen": "2026-10-21T18:00:10Z",
+   "updated": "2026-10-21T18:00:10Z",
+   "items": [
+    {
+     "id": "1e46736b0768",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What’s the first thing you’re doing in GTA 6?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xbu6xa/whats_the_first_thing_youre_doing_in_gta_6/",
+     "ts": "2026-10-21T17:51:07Z",
+     "summary": "Honestly, I'm going straight to the gym to check it out 😂 What about you guys? submitted by /u/Charliex1337 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -53490,11 +53516,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T17:50:48Z",
+  "last_run": "2026-10-21T18:00:11Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 100/100",
-   "gnews_ru: 70/71",
+   "gnews_ru: 81/85",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -53506,7 +53532,7 @@
    "reddit: 24/25",
    "tg_gtavistar: 5/10"
   ],
-  "digest": "2026-10-20",
+  "digest": "2026-10-21",
   "tg_offset": 854319078
  }
 }
