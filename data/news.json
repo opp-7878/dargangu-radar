@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T08:31:00Z",
+   "updated": "2026-10-21T08:50:54Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -11224,6 +11224,19 @@
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVRrdGtadDRtR0FaU3pDdFYzNHViSVk1cmxmYUpMWDNXZ0JQbmhUU0ZKNE5OSEFZTERzY1d6WENhUnl0NnBpVjZOQUtTWk5MVUlIWmVPUjYtWlVpcWdxRVBwRDNWSmpSME9fZ01GZ3VzNVVieEp0LUV4elpNZVdaT0toS0s3QUxsS2g2eDlB?oc=5",
      "ts": "2026-10-21T08:20:00Z",
      "summary": ""
+    },
+    {
+     "id": "8c7eb7c05540",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "LiveSport.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Анонсирован ремастер Shrek 2 с трейлером в стиле GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZzNXVHZDM01fUEJ6Mld5ZkdpUFpJMWQzXzE4bUJSQXpEclpQdzRJWXRTcm9Balk5Z3o4d3N0TDZLNXBlTVg3N3JVVm9fWWdfVWp4QkJxYkg1aXBubmY0TTlYMmF5Qm84ODFtbllxTUdJenlQVFZXMmZCTER5Y2c?oc=5",
+     "ts": "2026-10-21T08:44:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -11241,6 +11254,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "91899e9aee0e",
+   "title": "ГТА 6 \"Барнаул эдишн\" Появилось видео с моментом задержания виновника ДТП на шоссе Ленточный бор, у которого при обыске нашли... 2026",
+   "first_seen": "2026-10-21T08:50:54Z",
+   "updated": "2026-10-21T08:50:54Z",
+   "items": [
+    {
+     "id": "91899e9aee0e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "ГТА 6 \"Барнаул эдишн\" Появилось видео с моментом задержания виновника ДТП на шоссе Ленточный бор, у которого при обыске нашли... 2026",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9leXRVQkZ3R0VBS3llTWJoemVublM3RjFaNVQ5a3ZTZ0l1TElRQXFfQjhreTNkMk9fM2lpeGhJYTlldzJpNEk1eE55ZDc?oc=5",
+     "ts": "2026-10-21T06:03:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -54192,11 +54231,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T08:40:47Z",
+  "last_run": "2026-10-21T08:50:54Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 68/75",
+   "gnews_ru: 71/79",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
