@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T23:20:49Z",
+   "updated": "2026-10-21T23:31:05Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -12264,6 +12264,19 @@
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lVWNwZmVrdkt0LVYyMnRmYzNqWko1SjZYekMwcWVBRV9fdDVWcmV3cmtiaVJ3RnQ0c0R5d2ttX3FuQ09pdXNmc0FidFc2MlY3WjNRS2FZeHkxREVhaHZUVUJBRGxncU11bjh4dldUUnRnVWczV0U2MA?oc=5",
      "ts": "2026-10-21T20:30:31Z",
      "summary": ""
+    },
+    {
+     "id": "7ea83c50c285",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I'm surprised we haven't had a GTA VI or Vice City promotion in GTA Online yet",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xc1ykg/im_surprised_we_havent_had_a_gta_vi_or_vice_city/",
+     "ts": "2026-10-21T22:49:24Z",
+     "summary": "When Red Dead Redemption 2 was releasing, they added the Stone Hatchet as a reward in GTA Online two months before the game released but we haven't had any GTA VI promotion for GTA Online yet. Will we get one at all? submitted by /u/Nathanyal to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [
@@ -12287,7 +12300,7 @@
    "id": "19135f713fd2",
    "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
    "first_seen": "2026-10-21T22:01:15Z",
-   "updated": "2026-10-21T23:20:49Z",
+   "updated": "2026-10-21T23:31:05Z",
    "items": [
     {
      "id": "19135f713fd2",
@@ -12314,13 +12327,36 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFdCd1ZfUEp2aUdsZnE5N1JCeDBEdFZGaGk1b3QxbWdsZnhnR2pIX21XRDdvaE03STBHRXJ0NE11UWpKTHJRWmRWLVRXTWFqY0llal84Z2NwNzhuV0Vqd1NKa09CY0xONTAtSk9RWUxsTTFMeE5sc2F3czFRWGZfWk9NaV80MFc0T0swSDBjQjNzaXNKZzIxT2RjRDFhelpSRFRUVm00QXJyQmQ0VU5CZ3d6c2piOXM?oc=5",
      "ts": "2026-10-21T23:15:45Z",
      "summary": ""
+    },
+    {
+     "id": "4fa6ad1d9c04",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQmlPak8zNE45OVNZZUE0ZFlIUV9LM0tzSUNwT2QzNVR1WUJ4TkMwQVJ6TXQ2ZDBzcW52T1o2RVRJR09xU1Z5UTlZTjV3cWlmTFhyYS1tU29OajE4WVhMQmc3eFhYN1h5U0JaZjBndTZ5UFp2dXpIV3JpdUxQNmktWjVnTVJzZkRTczhuaW1iRFNZVy1rYmZ3QWJYeGNreTdDZWF5NENlZWFHRktwSlpIMDF5WG5MRm9sdjg1dko3YWZKSmZYd0k4aFBZdVY3RmxaV0VB?oc=5",
+     "ts": "2026-10-21T23:28:36Z",
+     "summary": ""
     }
    ],
    "tags": [],
-   "score": 78,
+   "score": 86,
    "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Burger Shot из GTA 6 появится в реальной арене Miami Heat",
+    "summary": "В арене Kaseya Center, где играет Miami Heat, появится реальный фудкорт Burger Shot из GTA 6. Об этом сообщили IGN и пользователи Reddit, отметив, что Rockstar начала продвигать игру через реальную еду.",
+    "idea": "Снимем реакцию на первый реальный бургер из Burger Shot на арене: крупный план, укус, честный вердикт. Зрителю интересно, насколько это вкусно и стоит ли ехать ради этого.",
+    "hook": "Burger Shot из GTA 6 стал реальным — пробую бургер прямо в арене Miami Heat.",
+    "stars": 3,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-21T23:31:09Z"
+   },
+   "msg_id": 138
   },
   {
    "id": "acd42b63e903",
@@ -53825,11 +53861,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T23:20:49Z",
+  "last_run": "2026-10-21T23:31:09Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 98/100",
-   "gnews_ru: 67/71",
+   "rockstar_site: 0/0",
+   "gnews_en: 99/100",
+   "gnews_ru: 61/62",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
