@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "8a6189ab6c25",
+   "title": "Между GTA 6 и другими AAA-играми обнаружили огромный разрыв",
+   "first_seen": "2026-10-21T07:31:02Z",
+   "updated": "2026-10-21T07:31:02Z",
+   "items": [
+    {
+     "id": "8a6189ab6c25",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Между GTA 6 и другими AAA-играми обнаружили огромный разрыв",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXMzTWloVGNtYXotTE04bnYwMnNOWlRwYld1TEtPdE5LRkQ2TFlOQW1JSThYUlpEanoxQzdvMzdlNVdVTTZWT3I4UDFndlR4N1UzOWJjMkdReUhZazBvcDdybW9oN2dadHNzZnA0SHpKbEFLSndYQ1ZKTnJWSHZXT2VtZUtyQ3E5T2VXbnlMbEgxd2RBNVRXR3dQSW13WTczOHFUTlFsXzR1VW5vMjFqbTRaWWNYWXFoQnJZdDhoaF91X29YZDkxcTZJWHc?oc=5",
+     "ts": "2026-10-21T07:09:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "afe75b188a9f",
+   "title": "One last stretch gents 📈",
+   "first_seen": "2026-10-21T07:31:02Z",
+   "updated": "2026-10-21T07:31:02Z",
+   "items": [
+    {
+     "id": "afe75b188a9f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "One last stretch gents 📈",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xbgnb6/one_last_stretch_gents/",
+     "ts": "2026-10-21T07:30:48Z",
+     "summary": "submitted by /u/Ok-Tip6138 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -53982,11 +54034,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T07:27:48Z",
+  "last_run": "2026-10-21T07:31:02Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 68/74",
+   "gnews_ru: 69/75",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
