@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "6aa37b036a7c",
+   "title": "Did anyone notice that Flower In A Hurricane uses old logo?",
+   "first_seen": "2026-10-21T10:01:38Z",
+   "updated": "2026-10-21T10:01:38Z",
+   "items": [
+    {
+     "id": "6aa37b036a7c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Did anyone notice that Flower In A Hurricane uses old logo?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xbiwbk/did_anyone_notice_that_flower_in_a_hurricane_uses/",
+     "ts": "2026-10-21T09:53:16Z",
+     "summary": "submitted by /u/Mazhura11 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -54361,11 +54387,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T09:50:45Z",
+  "last_run": "2026-10-21T10:01:38Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 99/100",
-   "gnews_ru: 66/72",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
