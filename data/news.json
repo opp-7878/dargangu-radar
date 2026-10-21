@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "1cdff9fd9264",
+   "title": "Started in Liberty City, grew up in Vice City, survived San Andreas. Now we're going back.",
+   "first_seen": "2026-10-21T13:50:51Z",
+   "updated": "2026-10-21T13:50:51Z",
+   "items": [
+    {
+     "id": "1cdff9fd9264",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Started in Liberty City, grew up in Vice City, survived San Andreas. Now we're going back.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xbna6b/started_in_liberty_city_grew_up_in_vice_city/",
+     "ts": "2026-10-21T13:32:48Z",
+     "summary": "From Grove Street to Vice City... one last ride before the nursing home. submitted by /u/Ineedfunding007 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3026dbc567fb",
+   "title": "PS5 | GTA 6 Custom Theme",
+   "first_seen": "2026-10-21T13:50:51Z",
+   "updated": "2026-10-21T13:50:51Z",
+   "items": [
+    {
+     "id": "3026dbc567fb",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "PS5 | GTA 6 Custom Theme",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xbncg7/ps5_gta_6_custom_theme/",
+     "ts": "2026-10-21T13:35:24Z",
+     "summary": "PS5 Home Screen GTA 6 Custom Theme This custom theme features 38 carefully selected official GTA 6 images, designed as a slideshow that blends perfectly with the PS5 UI. submitted by /u/zeroTen0x10 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8365ffa64264",
+   "title": "Gearing Up for GTA 6? This $1,200 Roku TV Is the Fastest Screen I've Tested",
+   "first_seen": "2026-10-21T13:50:51Z",
+   "updated": "2026-10-21T13:50:51Z",
+   "items": [
+    {
+     "id": "8365ffa64264",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gearing Up for GTA 6? This $1,200 Roku TV Is the Fastest Screen I've Tested",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamwyX09vQ0JRNy04LUU0dXdRdG9QMHJuY0tZNkIxR09Obld1bTRpc3JFWElGT1hRS2pMMFFXemRTUDZGdHVuRmVnYUU1dWVQaFZFX0ktel9QaTJtakZXSkNEdUFaZ3F2VElqZkZTRzBVRmZMeFBlcUdfNVRHQ1k0LVdQbGlBQk9Ma3dSczR0U2tULUtpMG16M2hPWjFoaGNwVzJ0Mmd6ZE1XZw?oc=5",
+     "ts": "2026-10-21T13:45:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -54134,12 +54214,12 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T13:40:52Z",
+  "last_run": "2026-10-21T13:50:51Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 100/100",
-   "gnews_ru: 69/74",
-   "gamesbeat: 0/10",
+   "gnews_ru: 68/73",
+   "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
    "ign: 3/20",
