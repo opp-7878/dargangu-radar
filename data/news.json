@@ -1,74 +1,10 @@
 {
  "stories": [
   {
-   "id": "4f244d62dee9",
-   "title": "GTA Online Event Week: Halloween Event (October 22nd-28th)",
-   "first_seen": "2026-10-21T21:31:29Z",
-   "updated": "2026-10-21T21:31:29Z",
-   "items": [
-    {
-     "id": "4f244d62dee9",
-     "src": "rockstarintel",
-     "src_name": "Rockstar INTEL",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 55,
-     "alert": true,
-     "title": "GTA Online Event Week: Halloween Event (October 22nd-28th)",
-     "url": "https://rockstarintel.com/gta-online-event-week-halloween-event-october-22nd-28th/",
-     "ts": "2026-10-21T21:25:36Z",
-     "summary": "A new GTA Online Weekly Update has begun and the month long event Halloween event continues with new and old spooks plus rewards. Rockstar have also rotated various content around and have big bonuses. Check out everything happening in this GTA Online during this Event Week which will run from October 22nd through 28th. Halloween [...] The post GTA Online Event Week: Halloween Event (October 22nd-28th) appeared first on RockstarINTEL ."
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🎃 Хэллоуин в GTA Online: неделя событий и награды",
-    "summary": "С 22 по 28 октября в GTA Online проходит Хэллоуинское событие: новые и старые активности, награды и бонусы. Rockstar также обновила ротацию контента и добавила крупные бонусы, сообщает RockstarINTEL.",
-    "idea": "Короткий обзор недели: показываем 2–3 награды и бонусы на экране, чтобы зритель сразу увидел, что фармить.",
-    "hook": "Хэллоуин в GTA Online уже идёт — вот главные награды этой недели.",
-    "stars": 2,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-21T21:31:32Z"
-   },
-   "msg_id": 136
-  },
-  {
-   "id": "e8d1bc712920",
-   "title": "I need an advice",
-   "first_seen": "2026-10-21T21:31:29Z",
-   "updated": "2026-10-21T21:31:29Z",
-   "items": [
-    {
-     "id": "e8d1bc712920",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I need an advice",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xbzzhb/i_need_an_advice/",
-     "ts": "2026-10-21T21:27:03Z",
-     "summary": "I’m just a guy who wants to play GTA VI. I need an advice: right now, I have a limited budget that would allow me to get an Xbox Series S + a copy of GTA VI, so I’d be all set for the 19th. At the same time, I’m worried that the console’s limitations might keep me from fully enjoying the experience (even though I’d ​​be playing on a 2K monitor). Because of this, I’m torn—should I wait and save up a bit more to get a PS5? But then I wouldn’t be able to play on day one, and the FOMO is eating me alive (and.. I’m so tired of waiting). What do you suggest: go for the Xbox Series S to play on day o"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T21:10:46Z",
+   "updated": "2026-10-21T21:33:29Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -12237,6 +12173,19 @@
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWlR0bS1FNnczazJjZDNVdUpIc0tBcUgtQ1RhMVNLUF8zTk9Sai1YQ2ZxS24wMnp3OGlOUFZ1Xy1HdkliNXU2ZEdpQllWZGJIUV9qSTJKU0hZUmN2ejlsVHYxRVhMcndKWWFJV0g2c21rMmpObXBSanBrODdoZThGM2REWXU3MmtaNERSQWVaam02aGpZd2duOXB2dVBtR05qZy1UaTJOOW9yNzFVaDEyQzdrdm96RVRwcmc?oc=5",
      "ts": "2026-10-21T19:00:00Z",
      "summary": ""
+    },
+    {
+     "id": "1362cf2ebf87",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GRAND THEFT AUTO VI Cometh: Breaking Down the Launch Trailer",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnNoUVNDdXM3ZGVtWVdWemRydmtUTUEyTDJPNV8zUDhvVEpiWDFwQjJzWUVXcXZZVG9vRmhvQWZPbFJ0aFk1VnlyX2ZYSXhrY1d1dWU0WUhBOHdfX2Q3TUlEczFfa3YyZEpNbkVpVG5aaktOeVBGUFBKc1RiX1NZM0pNTXdMNjQ?oc=5",
+     "ts": "2026-10-21T15:00:06Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -12254,6 +12203,174 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "f14380a9558a",
+   "title": "GTA 6 may be the first title to support AMD FSR 4.1 scaling on Xbox consoles.",
+   "first_seen": "2026-10-21T05:50:46Z",
+   "updated": "2026-10-21T21:33:29Z",
+   "items": [
+    {
+     "id": "f14380a9558a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "AMD announced FSR 4.1 for XBOX Series X|S.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xb5x7a/amd_announced_fsr_41_for_xbox_series_xs/",
+     "ts": "2026-10-20T22:16:54Z",
+     "summary": "Atlast , after QSSR, XBOX took some steps to be in level field . FSR 4.1 has been announced. However there is no specific date . It’s less than month for launch of GTA 6. It’s unlikely that FSR 4.1 will be available to GTA 6 at launch date. But at-least we can play fable on FSR 4.1 at launch date on Xbox series S. X is powerful console so I am not counting on him, everything crucial is for XBOX Series S. An budget console where most PC gamers have purchased solely for GTA 6 submitted by /u/sarthjr to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "18aa5ffe5f2e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 may be the first title to support AMD FSR 4.1 scaling on Xbox consoles.",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVpkWFFLa3drOE1KS0dxTUMzNGtlMU9GTVdqT0dGRllrMjhlTndvVW5yZC16UWdSZWstSml2X1RWUElacXVjd01lcC1PT1pjelRyNjZtbUNtZ2lWYjJPLVJyRU02R01qbzdOSkZ1b1lyaGt5MGNMTWlEcXkwSW5jWktoTmxRaGZxcUZOYnM5V3JRemt3N1JHbmZvTlNXbkVJU2ZhWTY1aXhMWW9HcG1nakpadlUzcEpDVEpIZ1Y2UDRyNld4NmNjOQ?oc=5",
+     "ts": "2026-10-21T21:16:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК",
+    "анонс"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 получит FSR 4.1? Что это значит для ПК и Xbox",
+    "summary": "AMD объявила FSR 4.1 для Xbox Series X|S, пишет Reddit. По данным GameGPU, GTA 6 может стать одной из первых игр с поддержкой FSR 4.1 на Xbox, но конкретной даты нет и к 19 ноября технология вряд ли будет готова.",
+    "idea": "Коротко объясняем, что даёт FSR 4.1 картинке и FPS на Xbox и почему это важно для будущего ПК-релиза GTA 6.",
+    "hook": "FSR 4.1 на Xbox — и вот что это значит для GTA 6 и будущего ПК.",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-21T21:33:33Z"
+   },
+   "msg_id": 137
+  },
+  {
+   "id": "00e07d1ce685",
+   "title": "GTA 6 Characters Explained Ahead of Nov. 19 Launch [2026]",
+   "first_seen": "2026-10-21T21:33:29Z",
+   "updated": "2026-10-21T21:33:29Z",
+   "items": [
+    {
+     "id": "00e07d1ce685",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "tech-insider.org",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Characters Explained Ahead of Nov. 19 Launch [2026]",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXWk9NZW1DdGUxcmh3NzF3XzViRWNpZGl6NU43ZzhBM3BBTzB4MjI5cVhlS3JiZjM0QUcwSE5jTll3THRTZ0tsU01aMVlqZFJRVEVHSzQ1M1QyazRDQ3ZnZGdqenlTN1o4Z1lpTDdxR1JRb1l4Y0J1Qg?oc=5",
+     "ts": "2026-10-21T21:18:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bd8218ac339b",
+   "title": "GTA VI Budget Fears Grow as EA Cuts 400 Jobs [2026]",
+   "first_seen": "2026-10-21T21:33:29Z",
+   "updated": "2026-10-21T21:33:29Z",
+   "items": [
+    {
+     "id": "bd8218ac339b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "shattered.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Budget Fears Grow as EA Cuts 400 Jobs [2026]",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TSTI2TUhyVkVCSWwtVHRZUUx6ZDF1dkR2THJjM1pkeko2UC04dTk1MUpEc0I5bFEza3hId2tMNFJWaUJEanFXbVN1RlVNa25CUHlPMzJCaXREVlJQcnBxc0E5Z053NXlSbWEtcExEa0twbkVuZUQxN3pR?oc=5",
+     "ts": "2026-10-21T21:31:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4f244d62dee9",
+   "title": "GTA Online Event Week: Halloween Event (October 22nd-28th)",
+   "first_seen": "2026-10-21T21:31:29Z",
+   "updated": "2026-10-21T21:31:29Z",
+   "items": [
+    {
+     "id": "4f244d62dee9",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA Online Event Week: Halloween Event (October 22nd-28th)",
+     "url": "https://rockstarintel.com/gta-online-event-week-halloween-event-october-22nd-28th/",
+     "ts": "2026-10-21T21:25:36Z",
+     "summary": "A new GTA Online Weekly Update has begun and the month long event Halloween event continues with new and old spooks plus rewards. Rockstar have also rotated various content around and have big bonuses. Check out everything happening in this GTA Online during this Event Week which will run from October 22nd through 28th. Halloween [...] The post GTA Online Event Week: Halloween Event (October 22nd-28th) appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🎃 Хэллоуин в GTA Online: неделя событий и награды",
+    "summary": "С 22 по 28 октября в GTA Online проходит Хэллоуинское событие: новые и старые активности, награды и бонусы. Rockstar также обновила ротацию контента и добавила крупные бонусы, сообщает RockstarINTEL.",
+    "idea": "Короткий обзор недели: показываем 2–3 награды и бонусы на экране, чтобы зритель сразу увидел, что фармить.",
+    "hook": "Хэллоуин в GTA Online уже идёт — вот главные награды этой недели.",
+    "stars": 2,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-21T21:31:32Z"
+   },
+   "msg_id": 136
+  },
+  {
+   "id": "e8d1bc712920",
+   "title": "I need an advice",
+   "first_seen": "2026-10-21T21:31:29Z",
+   "updated": "2026-10-21T21:31:29Z",
+   "items": [
+    {
+     "id": "e8d1bc712920",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I need an advice",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xbzzhb/i_need_an_advice/",
+     "ts": "2026-10-21T21:27:03Z",
+     "summary": "I’m just a guy who wants to play GTA VI. I need an advice: right now, I have a limited budget that would allow me to get an Xbox Series S + a copy of GTA VI, so I’d be all set for the 19th. At the same time, I’m worried that the console’s limitations might keep me from fully enjoying the experience (even though I’d ​​be playing on a 2K monitor). Because of this, I’m torn—should I wait and save up a bit more to get a PS5? But then I wouldn’t be able to play on day one, and the FOMO is eating me alive (and.. I’m so tired of waiting). What do you suggest: go for the Xbox Series S to play on day o"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -17698,35 +17815,6 @@
    ],
    "tags": [],
    "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f14380a9558a",
-   "title": "AMD announced FSR 4.1 for XBOX Series X|S.",
-   "first_seen": "2026-10-21T05:50:46Z",
-   "updated": "2026-10-21T05:50:46Z",
-   "items": [
-    {
-     "id": "f14380a9558a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "AMD announced FSR 4.1 for XBOX Series X|S.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xb5x7a/amd_announced_fsr_41_for_xbox_series_xs/",
-     "ts": "2026-10-20T22:16:54Z",
-     "summary": "Atlast , after QSSR, XBOX took some steps to be in level field . FSR 4.1 has been announced. However there is no specific date . It’s less than month for launch of GTA 6. It’s unlikely that FSR 4.1 will be available to GTA 6 at launch date. But at-least we can play fable on FSR 4.1 at launch date on Xbox series S. X is powerful console so I am not counting on him, everything crucial is for XBOX Series S. An budget console where most PC gamers have purchased solely for GTA 6 submitted by /u/sarthjr to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "ПК",
-    "анонс"
-   ],
-   "score": 35,
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
@@ -53293,11 +53381,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T21:31:32Z",
+  "last_run": "2026-10-21T21:33:33Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/1",
+   "gnews_en: 99/100",
+   "gnews_ru: 68/72",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
