@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T01:20:51Z",
+   "updated": "2026-10-21T01:30:59Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -10899,6 +10899,32 @@
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMklCbkJZaDkyckJpNXlGWWxlSVVPTWJ4eFVEcEVKLVNIRERiYjU3RmNHQTcxU0lNUTZVZ0lKVVpwejRUZ2Q1MzdHZjR3T0Q1TWhrR0N3UUxJWi1GRzluM1Etb1JHNExiU1F3T3plSjEwdkFyNWZFTWo2dVlUWjhiMlB1MWZwT0tHTjUxSkdmVHhnZERuSDRFbjF6V1h5S3NiREYyOFBPWTVwUHJES0xjVmhvaWRidFQ2LUxkc0Z5OA?oc=5",
      "ts": "2026-10-21T01:08:00Z",
      "summary": ""
+    },
+    {
+     "id": "330f155b4ac6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NewsNation",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 launch could drain $1 billion from US economy — this is how",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTjUwdDBJODZRSmQ3LUdqYnRBWEZvSFIzY3ZJQnFxVkFuZ25XNmk2eHdUZDE0SHZxeno5RHU4bFlDT0o1WWljNUpKUWctWGdmaEpBMkxqSkRQVVBaQ2pteFRXVEVpZWtPMUdLMmZidGVYZXNNdXhCdGtzRi1PN1ZvbzJiZGdfZ29kZ05EX2ZxeUTSAZYBQVVfeXFMUFl6WnR0cXlHaUlBcTlnY084dkRRbEtYYUZjc0JBdWV5enZQSmNwNC1PNUFhd1RzTzZfakpiaEJScVdnSm1QMmZGczNTVWw0Q3pqQVZNaDYwd2JDUHc5aXRXSUNvcXlWbVNzZVlnTzlwc21YTVBLUEN1UnlnZVZmZjcyTjZhdXdIUnZjaFRaVUxDal9JaEZ3?oc=5",
+     "ts": "2026-10-21T00:18:41Z",
+     "summary": ""
+    },
+    {
+     "id": "bfd7aed5a922",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "A TikToker Says GTA 6 Cost Him His Job After He Revealed the Miami Beach Gear",
+     "url": "https://www.gtaboom.com/a-tiktoker-says-gta-6-cost-him-his-job-after-he-revealed-the-miami-beach-gear-d198",
+     "ts": "2026-10-21T01:20:58Z",
+     "summary": "A TikToker says his viral South Beach unboxing of Grand Theft Auto VI Vice City gear got him fired days later."
     }
    ],
    "tags": [
@@ -10916,6 +10942,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "693afe1a9707",
+   "title": "TikToker Claims GTA 6 Beach Gear Unboxing Got Him Fired Days Later",
+   "first_seen": "2026-10-21T01:30:59Z",
+   "updated": "2026-10-21T01:30:59Z",
+   "items": [
+    {
+     "id": "693afe1a9707",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "TikToker Claims GTA 6 Beach Gear Unboxing Got Him Fired Days Later",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzZWWmR3V2JObzgwVlVxWXlZTXlyUkl6NjBTZVJ2NjY3Nk5JS1JBWnJrUVhyTlQ3U2swX0x1QkYwVl9zMHZDTl9CVVNzMkRjVDQ4dGw1MEMyeFFSSHFvZ3ZlQU90RmVaY3BkbGFTSXdDTmF4U3RDSHlWQnBGaVllYTVsLWZYdWZ5bmVQMjhKaDRDTlpjNTVlLW4xVklSWWJIdXRTUGplblN2UQ?oc=5",
+     "ts": "2026-10-21T01:24:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -55195,11 +55247,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T01:20:51Z",
+  "last_run": "2026-10-21T01:30:59Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
-   "gnews_ru: 73/81",
+   "gnews_ru: 72/81",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -55207,7 +55259,7 @@
    "eurogamer: 1/100",
    "dexerto_gta: 4/50",
    "rockstarintel: 0/10",
-   "gtaboom: 4/30",
+   "gtaboom: 5/30",
    "reddit: 19/25",
    "tg_gtavistar: 3/8"
   ],
