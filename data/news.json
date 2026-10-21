@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T10:10:50Z",
+   "updated": "2026-10-21T10:20:50Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -11276,6 +11276,19 @@
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mLTQ5V2lNeU5tc1gzM1hjeXQzWXhKMU11cUNxWmh1YXE4ZU83SkpESHA1Y2FRSWw3U0ozWDgxU3h4ZFFGVEoxUERISVdWb3k5eGxF?oc=5",
      "ts": "2026-10-21T09:55:42Z",
      "summary": ""
+    },
+    {
+     "id": "708b2d636993",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Overclockers.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Трейлер GTA 6 набрал почти 56 млн просмотров за 6 дней и обошел просмотры трейлера GTA 5 за 13 лет",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNODZZdDUxMlZwdzRrVEZDU2JjWjlSdTZpOHNlR1M2ODRmcjN2ZzZQMmdORVZhRTZLZVpRSW11TFpEVUVCb0dfcjNGLVhkNHlvVExHN01VSGdpRm56RU9tYjNQRnBpdVBPZjV0N3poMHhyM1RHa0g0RUJlYjkxbXdTTE9Yb25TWkFtSmx4enhUSTVQMjZnM3hLQUgtbVgtMVJFQXRCZlRNU0JldUx5ZnE0TTVBQThReEJpMjNGWlFGZk9ucXY1RHVUMWpvNFV1ZEpyLWN6dmlZWGpxVXhtSVYtNWdvcURsSmNaVXBHMW1UUVrSAe8BQVVfeXFMTTh6aFUteXhVZTdiY1hubzhKc0wtV1Azb3JyUlgxMFZqRUloZEZJeVBNMXhjNkZNSS1jSGpNUWVGcFRIdC1IaXFXYjhkVlMxRHBoTVRveThramNhT1doZTFDeG1lRG1pNVhfbjZVd0lGSkF3Qi1FVFJmVDNYSDNtVHg4aU1HcDAxdlFLWFItb3BQWW8xXzZEc0ctODdaMGdjVVZ6T2xidWhwWTVrZmNkZVk0SFdqZTQ3Q2NvUjJjeUFGNmY2N25DNnZSNndZUVlMZW5TVVY5WjBRUU1tMDNVdlBQWC13NXU2V3dWZHFxbm8?oc=5",
+     "ts": "2026-10-21T09:20:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -11293,6 +11306,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "19c3774081c1",
+   "title": "Астрономический ажиотаж: GTA 6 заработала более 630 миллионов долларов еще до запуска",
+   "first_seen": "2026-10-21T10:20:50Z",
+   "updated": "2026-10-21T10:20:50Z",
+   "items": [
+    {
+     "id": "19c3774081c1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "РБК-Україна",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Астрономический ажиотаж: GTA 6 заработала более 630 миллионов долларов еще до запуска",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVm1pczZldHlPVnMzaUVVOW1ZRUhocVV4MFhXM0dXckZBb2gxUFRBZXRuQkVNSW0zUEM5Nk5BR2RhUUNzOUdpZExSMV9xZkdBUFBUeW42UzdBQkd5WUpqaGNMbFoxNERmenhVTXhhd1A3TzgxNlAtenpDeF9mRkhPZDRVRFEwVjd3aFJHcW9vSjJESGPSAZgBQVVfeXFMTTVNSVlWakl1Y3dTbmNKT1dtYlROQlUwbFM3YVpuZThOaVNSeTRQT0xKWjBwSzY2elAtQ1pXcXpBMzdKNFUxZVJRTEgyUG81dG5HT2F0SDNNaTdPV1BEcXNNSHl1TEkzNWJtc1NVSTEwZWNyLWtwRHI5enVpZkJJM1Z5aTBhUDllMDZvbDIydzlxVEx1X1VBWmQ?oc=5",
+     "ts": "2026-10-21T10:12:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -54491,11 +54530,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T10:10:50Z",
+  "last_run": "2026-10-21T10:20:50Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 70/75",
+   "gnews_ru: 72/77",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
