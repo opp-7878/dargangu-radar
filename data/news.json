@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "1e46736b0768",
-   "title": "What’s the first thing you’re doing in GTA 6?",
-   "first_seen": "2026-10-21T18:00:10Z",
-   "updated": "2026-10-21T18:00:10Z",
-   "items": [
-    {
-     "id": "1e46736b0768",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What’s the first thing you’re doing in GTA 6?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xbu6xa/whats_the_first_thing_youre_doing_in_gta_6/",
-     "ts": "2026-10-21T17:51:07Z",
-     "summary": "Honestly, I'm going straight to the gym to check it out 😂 What about you guys? submitted by /u/Charliex1337 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-21T17:50:48Z",
+   "updated": "2026-10-21T18:10:49Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -12069,6 +12043,19 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDNuTkdwS0c0dDBrU0hyZm9sUGtKS1M1WEc5V3N5bWptNUFZQVpnY1ljZzlCeEpUTzN0X2YtQ0NUNXlMTUx3eUdOYjB5Y1dwaVpuUVJjZTVJWXZVUWdTRGhhZXl1UUdjcDZqZWNqelVXbF9PbllGUE5LMHZpYnRzX0tPVGRGdmtlTThvTnBIMzdCSXVnMVY0dFlSVzgtUWQxZUM2SnpjZ9IBrAFBVV95cUxOa1ZnXy1EQkxRN3lrbGJpYVdQM2pWTFJRSXRCSDlLeDc3dFNZV2FkWV9PSXltODExTG1QYWdlbWV0Yl8yNnRkNzJ6YnJDYkZFZGNYQ0JMalBXY2J5UmhDcVFHS3FUZWpDdGx5T2E5VFdPQzdBcEY5NGhCZTJOQWRkV1BhX0cwTVhzVk9TN1JzOGxydUVKaFdvTWloWWR4MUNyVWpKYy14X2ZrNG9V?oc=5",
      "ts": "2026-10-21T14:21:21Z",
      "summary": ""
+    },
+    {
+     "id": "1665c9ce452a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mezha",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Hasn't Launched Yet but Has Already Generated an Estimated $630 Million",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FbGpvazhjVkh0QkluYXVaYXNYZEpPRHpmU3J3NHl5MnNmeTVJWFpueHNPamEyRmE5SzUyRmhuaVIxX2d3eGlWLTNLdXJXOEpCMFhGUS1DLXNWVjlIQ3JYeDRkX1VoLTBNSmxBa3JmOUxjdw?oc=5",
+     "ts": "2026-10-21T13:23:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -12086,6 +12073,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "1e46736b0768",
+   "title": "What’s the first thing you’re doing in GTA 6?",
+   "first_seen": "2026-10-21T18:00:10Z",
+   "updated": "2026-10-21T18:00:10Z",
+   "items": [
+    {
+     "id": "1e46736b0768",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What’s the first thing you’re doing in GTA 6?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xbu6xa/whats_the_first_thing_youre_doing_in_gta_6/",
+     "ts": "2026-10-21T17:51:07Z",
+     "summary": "Honestly, I'm going straight to the gym to check it out 😂 What about you guys? submitted by /u/Charliex1337 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -53516,7 +53529,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-21T18:01:15Z",
+  "last_run": "2026-10-21T18:10:49Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 100/100",
