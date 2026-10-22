@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "99baa3ebc58a",
+   "title": "Do you guys think Rockstar could still switch GTA 6 to a global release?",
+   "first_seen": "2026-10-22T22:31:00Z",
+   "updated": "2026-10-22T22:31:00Z",
+   "items": [
+    {
+     "id": "99baa3ebc58a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Do you guys think Rockstar could still switch GTA 6 to a global release?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xcwu4d/do_you_guys_think_rockstar_could_still_switch_gta/",
+     "ts": "2026-10-22T22:29:25Z",
+     "summary": "I've been seeing a lot of people complaining about GTA 6's release times, especially with the whole regional rollout situation. Do you guys think there's any chance Rockstar changes its mind and switches to a worldwide release just a few days before launch? I've seen some people arguing that preloading on November 12 should already help prevent the servers from getting overwhelmed, so there's no real reason to stagger the release. Not sure how much of a difference that would actually make though. Personally, I'm on PS5 and I really don't mind waiting another 16 hours. Obviously I'd love to pla"
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -50561,9 +50589,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T22:25:32Z",
+  "last_run": "2026-10-22T22:31:00Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/2",
    "gnews_en: 98/100",
    "gnews_ru: 48/54",
    "gamesbeat: 1/10",
