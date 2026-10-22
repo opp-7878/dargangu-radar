@@ -53733,7 +53733,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T04:59:50Z",
+  "last_run": "2026-10-22T05:01:07Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
@@ -53744,9 +53744,9 @@
    "ign: 2/20",
    "eurogamer: 1/100",
    "dexerto_gta: 3/50",
-   "⚠️ rockstarintel: <urlopen error [Errno 101] Network is unreachable>",
+   "rockstarintel: 4/10",
    "gtaboom: 8/30",
-   "reddit: 25/25",
+   "⚠️ reddit: HTTP Error 429: Too Many Requests",
    "tg_gtavistar: 5/10"
   ],
   "digest": "2026-10-21",
