@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "6bac602dccde",
+   "title": "Marvel’s Wolverine tops September sales, drives PS5 numbers up | Circana",
+   "first_seen": "2026-10-22T21:50:46Z",
+   "updated": "2026-10-22T21:50:46Z",
+   "items": [
+    {
+     "id": "6bac602dccde",
+     "src": "gamesbeat",
+     "src_name": "GamesBeat",
+     "outlet": "",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "Marvel’s Wolverine tops September sales, drives PS5 numbers up | Circana",
+     "url": "https://gamesbeat.com/marvels-wolverine-tops-september-sales-drives-ps5-numbers-up-circana/",
+     "ts": "2026-10-22T19:02:00Z",
+     "summary": "September may have been crowded with games hiding from Grand Theft Auto VI’s launch window, but it doesn’t seem to have diminished gamers’ interest... The post Marvel’s Wolverine tops September sales, drives PS5 numbers up | Circana appeared first on GamesBeat ."
+    }
+   ],
+   "tags": [],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -50680,12 +50706,12 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T21:40:46Z",
+  "last_run": "2026-10-22T21:50:46Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/2",
    "gnews_en: 98/100",
-   "gnews_ru: 47/53",
-   "gamesbeat: 0/10",
+   "gnews_ru: 48/54",
+   "gamesbeat: 1/10",
    "vgc: 2/10",
    "insider_gaming: 0/10",
    "ign: 1/20",
