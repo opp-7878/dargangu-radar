@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "5e397414ae0e",
+   "title": "Xbox представила цены на часы облачного гейминга – GTA 6 в подписках не будет",
+   "first_seen": "2026-10-22T07:01:09Z",
+   "updated": "2026-10-22T07:01:09Z",
+   "items": [
+    {
+     "id": "5e397414ae0e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Xbox представила цены на часы облачного гейминга – GTA 6 в подписках не будет",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHJycW41Qzg4NmlKV1hEMGxhQlZzUVBXTE5hUHNQVXdRYWg1eHlJSzJnSUdJcDdLSVN6R1FrN3lKUVFVNVdCX3BsYlhHWWFZeFkzYTBTUnBRajRtUzZ4ZjN0eDdiMVAycUlGc3N0dmsza1N6RlNySTR6SVluWmNDNEJsTTBUdU5VTFhHaWdzNzFlaXFxUnhkMWowS3VkYVE1WFl5bm50aXZORzJlMURMMmd1dms3cFowTlM5VVVKMUFxRDQ?oc=5",
+     "ts": "2026-10-22T06:43:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -54016,11 +54042,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T06:50:48Z",
+  "last_run": "2026-10-22T07:01:09Z",
   "last_log": [
-   "rockstar_site: 0/0",
+   "rockstar_site: 0/1",
    "gnews_en: 97/100",
-   "gnews_ru: 67/70",
+   "gnews_ru: 63/64",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -54028,7 +54054,7 @@
    "eurogamer: 1/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 4/10",
-   "gtaboom: 8/30",
+   "gtaboom: 7/30",
    "reddit: 24/25",
    "tg_gtavistar: 5/10"
   ],
