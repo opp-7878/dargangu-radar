@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-22T20:01:13Z",
+   "updated": "2026-10-22T20:20:47Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -13161,6 +13161,19 @@
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83eGJwdy1vS2Q0QWVoVkFEcTl2VHJlRXhHTklFMWxXYkJ2XzBqQ0F4c0hrOFFyMXl5WnBJRUlJZGhPTnViVE1Xb3pUaWY2bFJiRTE0dm5LeXFFUUF10gFiQVVfeXFMTVdSbTlwdWJ2Uld2dFU2OW1MLXdRWDN4M3VjMmp5a1puYUFmWUdfN2xqSjJDVUlfVWFyb1RYMDRCYnR0YnI4YVpNbEVkc25SdnJBaHM2eU9FajF4R0hramE3WkE?oc=5",
      "ts": "2026-10-22T18:06:53Z",
      "summary": ""
+    },
+    {
+     "id": "5da54916bd94",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Фанаты PlayStation сделали выбор: трейлер Shrek 2 Remastered обошёл GTA VI по просмотрам на YouTube-канале PlayStation",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLWtuQmpBdm1oT0tzVjliQkhQd2JzUnVkMW9XV3FQbXQwS093cG1OMUltTnlXdkdQRXluY2ZPSjNkSGxaSDNsbFBwWVpZT2s1dC1yckctN1Bpa241SHBtdHowVEkycWlrTzFOLWo0UFJBNDNXUlRQcXpuUHY3U3BYLU5qcFFvNVVYMnpveXotZnd3REhqOFA1ZFlUc2k4a0dES1RPU2VZOFROSENRR19jWUphcWZqc181dEhsMXEtNkVtUlpULV9tNS1DTnJBUjkyc3ZGbmIyVFV3bW9ZU3BodS0wMWJRVmZBQVpJWnFlZmZLbF96NTdJ?oc=5",
+     "ts": "2026-10-22T20:06:43Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -13178,6 +13191,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "120741b03fc3",
+   "title": "Close-up shots of the McLaren GT",
+   "first_seen": "2026-10-22T20:20:47Z",
+   "updated": "2026-10-22T20:20:47Z",
+   "items": [
+    {
+     "id": "120741b03fc3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Close-up shots of the McLaren GT",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xcop3c/closeup_shots_of_the_mclaren_gt/",
+     "ts": "2026-10-22T17:17:55Z",
+     "summary": "Modelled after the Progen Emerus IG: jmiblack submitted by /u/Kowakujo to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -50673,11 +50712,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T20:10:49Z",
+  "last_run": "2026-10-22T20:20:47Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 96/100",
-   "gnews_ru: 49/53",
+   "gnews_ru: 50/54",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 0/10",
