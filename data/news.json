@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "949f5593ee1e",
+   "title": "Ещё не купили GTA 6? PlayStation объяснит, почему стоит сделать это как можно скорее",
+   "first_seen": "2026-10-22T18:40:49Z",
+   "updated": "2026-10-22T18:40:49Z",
+   "items": [
+    {
+     "id": "949f5593ee1e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Ещё не купили GTA 6? PlayStation объяснит, почему стоит сделать это как можно скорее",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdG9UVXNYQVJBSjNRd29feUp1ek1QY2QyQjIzQ0VFemJ6dEt2NS02eVJiQktfSjhMbmNScUNmUzd4a1M5RHlQT0NCcE1Zc0JJc3BmVVBGQzIwd19DQjNrd0g0c2ZjZW9CXzNjY2o5a082TGg3MUZyZUpmSk43Vi1mUVROQ1k4bmluQ3UtdVZ0cUlxdHNZMmJiNHc0bGZtdno0ODQ2VWFVbks4d3c1dW4yMWhpSFhmUk5UQUVwMjZWcWplUHJjQkFYVFg0VQ?oc=5",
+     "ts": "2026-10-22T18:26:09Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "390fd231e823",
    "title": "Продажи приставки PlayStation 5 в США подскочили на 22% в ожидании выхода GTA VI",
    "first_seen": "2026-10-22T15:10:46Z",
@@ -50735,41 +50761,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f63714e11246",
-   "title": "GTA 6 Slides In Under Game Awards 2026 Cutoff",
-   "first_seen": "2026-10-15T18:40:44Z",
-   "updated": "2026-10-15T18:40:44Z",
-   "items": [
-    {
-     "id": "f63714e11246",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "DualShockers",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Slides In Under Game Awards 2026 Cutoff",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMnlQRUR5Y3BtTGZmbFJUdVd3cWNNTzhVTlpJYXVOeGFkQy1uXzREN3BHZnVWeVdSVGRCXzZObjN1R3Mycmo3akJLZHROazRHbkQ0OW1MQWoxV04tc3A1a1lndlhfcFRFUUN2bkR0aDdCT2dEbzdEQ2I5U2VZaUVrNw?oc=5",
-     "ts": "2026-10-15T18:17:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T18:31:03Z",
+  "last_run": "2026-10-22T18:40:49Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 96/100",
-   "gnews_ru: 48/52",
+   "gnews_en: 97/100",
+   "gnews_ru: 47/51",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 0/10",
