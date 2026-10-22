@@ -1,49 +1,10 @@
 {
  "stories": [
   {
-   "id": "18b56bc95bb4",
-   "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap",
-   "first_seen": "2026-10-22T13:31:01Z",
-   "updated": "2026-10-22T19:31:03Z",
-   "items": [
-    {
-     "id": "18b56bc95bb4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2duRG5nQWtyNm5Gejk1WEc0WHktaURKZzBua0xBRk1jTFpmUy1HWkRqTGY4TC1haW1iSTQyaFJVdWJLWVIzcHEtQkJaUU14MC16ZW56SVZueDJkNzA5dXdHUTgxdldUaHRyTjlRUjZLUmhyR2VzUmc4OHFCNDVpX3hLRGdkbUNQcklCYjVJWEV6MVpPQkV0RFY3RlpsTFc3UXJMUURtQQ?oc=5",
-     "ts": "2026-10-22T13:27:53Z",
-     "summary": ""
-    },
-    {
-     "id": "6bb3dbbb8238",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVpSMG5aUC1TRXdmRlNNblI4bHB6blBPeU9pamxMWDRrXzBOclRqZ0VZNkktZ2dvV194cGV4enlsaG9pRXdFeHFZYndaVk9YNl9KaFEzQ3paaWdiNDJNX2FoY2hIbVFwSzUxRFFKLXR6U0htYjBIdUVJUXlJVkdYckVCVE9LYkxX?oc=5",
-     "ts": "2026-10-22T13:26:08Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-22T19:20:49Z",
+   "updated": "2026-10-22T19:40:46Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -13096,6 +13057,19 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVFwUHhQR0RsZ2xVQV9na0FrMV9lU1BFTW9Fb1hDVTR1QndneFN6UGtHN01rUl9lWnN2eXFISVl4WWdvelcyWFdNNlExbmdmWFljMUpWdjhHWDRUSU1feHJ6NXBVeFZ2QzIwbWNHZGc3Mm5JLXRRWlVzMzhCZ3drcjNOVFBzUXJ2?oc=5",
      "ts": "2026-10-22T18:02:34Z",
      "summary": ""
+    },
+    {
+     "id": "470a588a49ee",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Трейлер запуска GTA 6 появился на телевидении — в нём содержится несколько изменений",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0h4MWIwUFJQbWhMSUVNNW1hclM5eTJmbWdKNlRqcDdFTm92UjA2b3lBVm5TcHlxaFNHeXVQNl8tYnFYaUNGQm9BS0RndkptdFFRNVlESlpOM0Vack1HTkVuZURFRXNrdDM4eC0zQk5YMnV1WHpoSnNRN0FCN0g4Z0l6ZkI4WnhabF8zaWozMlpWSDNEdEZiY0RMTXZTNGtS?oc=5",
+     "ts": "2026-10-22T18:49:03Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -13113,6 +13087,45 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "18b56bc95bb4",
+   "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap",
+   "first_seen": "2026-10-22T13:31:01Z",
+   "updated": "2026-10-22T19:31:03Z",
+   "items": [
+    {
+     "id": "18b56bc95bb4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2duRG5nQWtyNm5Gejk1WEc0WHktaURKZzBua0xBRk1jTFpmUy1HWkRqTGY4TC1haW1iSTQyaFJVdWJLWVIzcHEtQkJaUU14MC16ZW56SVZueDJkNzA5dXdHUTgxdldUaHRyTjlRUjZLUmhyR2VzUmc4OHFCNDVpX3hLRGdkbUNQcklCYjVJWEV6MVpPQkV0RFY3RlpsTFc3UXJMUURtQQ?oc=5",
+     "ts": "2026-10-22T13:27:53Z",
+     "summary": ""
+    },
+    {
+     "id": "6bb3dbbb8238",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVpSMG5aUC1TRXdmRlNNblI4bHB6blBPeU9pamxMWDRrXzBOclRqZ0VZNkktZ2dvV194cGV4enlsaG9pRXdFeHFZYndaVk9YNl9KaFEzQ3paaWdiNDJNX2FoY2hIbVFwSzUxRFFKLXR6U0htYjBIdUVJUXlJVkdYckVCVE9LYkxX?oc=5",
+     "ts": "2026-10-22T13:26:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -50519,7 +50532,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T19:31:03Z",
+  "last_run": "2026-10-22T19:40:46Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 97/100",
