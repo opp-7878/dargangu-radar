@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-22T00:10:46Z",
+   "updated": "2026-10-22T00:20:47Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -12329,6 +12329,45 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xc2lyb/fan_made_jason_and_lucia_figures/",
      "ts": "2026-10-21T23:18:42Z",
      "summary": "If something like this was included in the collector’s edition, 10/10 would’ve bought it. Credit: @eigabiru submitted by /u/ohyoudidntknooow to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "44497992b285",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Howl.link",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 could cost the US economy $1 billion due to an estimated 1.5 million workers calling in sick, economist says",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE4xclZBTFBHQUpXQ2ZNaDlteXExcmVTU1RPN00xSXpDUDZsWE82Q2x6dUVmaVo4RUVEMFJr?oc=5",
+     "ts": "2026-10-21T09:44:30Z",
+     "summary": ""
+    },
+    {
+     "id": "b92f962da6ae",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Crypto Briefing",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 trailer’s fictional DacityCoin sends a real Solana meme token on a wild ride",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iYkJpNVFwMkJDdHBhOERnT0gzYk9yMktudnpWcmU4bmcyWnZzUWlpWnlJdHRMak1VbE9wUFFRZFp4c2VQWjQzMHVmQWoycktiQWdZQTNIdjkyRkh5UDc2b29WQ1c2b1ZTd2NPdE5Wcw?oc=5",
+     "ts": "2026-10-21T14:17:55Z",
+     "summary": ""
+    },
+    {
+     "id": "a15e3fa97869",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ScreenRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA Online Officially Confirms End Of Era Ahead Of GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05T3pRTzRPWUlZU2hYa3RRMW9OOU9jUWdkXzd2YjlES1VzNF9WNjhvUk1SUjZjWkYxZ2duQ3Q3aXNfWTg3WlVpckI5dFpPSXByQUY3LW9TaUVjV3lQaFNyUUlLV2o5T1pHMFFzNnRlQm9QQVhjb3c4?oc=5",
+     "ts": "2026-10-21T18:00:18Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -12346,6 +12385,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "6f15a523a882",
+   "title": "GTA 6 Could Have Devastating Effect On U.S. Economy",
+   "first_seen": "2026-10-22T00:20:47Z",
+   "updated": "2026-10-22T00:20:47Z",
+   "items": [
+    {
+     "id": "6f15a523a882",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ScreenRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Could Have Devastating Effect On U.S. Economy",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91aFJzMnVyRFpHblpPd3BMbFVyYlBrUkxsNTJuT29kaEFTcU4zdDFnMkVGNGpzN0FlZlg3U1dQZmdpNldsM1pnZGpyYjZSamtnd2dPUEsxdnVOaU94aDBQbVNqSDJFZGkyUzA3bW5XSGI1TVJHWF80ZFBwRWc3Zw?oc=5",
+     "ts": "2026-10-21T15:23:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -53607,10 +53672,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T00:10:46Z",
+  "last_run": "2026-10-22T00:20:47Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 99/100",
+   "gnews_en: 100/100",
    "gnews_ru: 68/73",
    "gamesbeat: 1/10",
    "vgc: 0/10",
