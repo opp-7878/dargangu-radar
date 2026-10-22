@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "3cfa8bc2cc6f",
-   "title": "Grand Theft Auto VI – the hype and the controversy",
-   "first_seen": "2026-10-22T20:31:00Z",
-   "updated": "2026-10-22T20:31:00Z",
-   "items": [
-    {
-     "id": "3cfa8bc2cc6f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Newsroom",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI – the hype and the controversy",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONi00azFjOVhKODcxWS1Id1IyR2hnd3h5eWJjTUFCNDU3WVl2X3RuTnhiOEZPQm1RRzl2T1ZvcTRLQ28wUlU5Q0d5VUpUMjlUZHM0WDdtSnRCalFzRlpSMDUzYkdqWV9ZSlltNTJWUEhCVGVobFYwTGRCUVB1ZGJGQ19ZRUpjSXpUOXdHVm5n?oc=5",
-     "ts": "2026-10-22T16:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-22T20:20:47Z",
+   "updated": "2026-10-22T20:40:46Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -13200,6 +13174,19 @@
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLWtuQmpBdm1oT0tzVjliQkhQd2JzUnVkMW9XV3FQbXQwS093cG1OMUltTnlXdkdQRXluY2ZPSjNkSGxaSDNsbFBwWVpZT2s1dC1yckctN1Bpa241SHBtdHowVEkycWlrTzFOLWo0UFJBNDNXUlRQcXpuUHY3U3BYLU5qcFFvNVVYMnpveXotZnd3REhqOFA1ZFlUc2k4a0dES1RPU2VZOFROSENRR19jWUphcWZqc181dEhsMXEtNkVtUlpULV9tNS1DTnJBUjkyc3ZGbmIyVFV3bW9ZU3BodS0wMWJRVmZBQVpJWnFlZmZLbF96NTdJ?oc=5",
      "ts": "2026-10-22T20:06:43Z",
      "summary": ""
+    },
+    {
+     "id": "9e8f4fc12287",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Is Filming A REAL LIFE GTA 6 Trailer Right Now...",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XdGZQTFQtamZYcl9ITVFPQ2o5RUstZEZLTmp4V2VfWmlLREo2bFRyV3lReWw5dHdMU25QTkY4a3NMaGVlc19zai1yckxSVmlwdHZwM2s4U3NneDNB?oc=5",
+     "ts": "2026-10-22T16:17:32Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -13217,6 +13204,58 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "151d43924d61",
+   "title": "What Is Your GTA VI Day? - The Joe Show",
+   "first_seen": "2026-10-22T20:40:46Z",
+   "updated": "2026-10-22T20:40:46Z",
+   "items": [
+    {
+     "id": "151d43924d61",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iHeart",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "What Is Your GTA VI Day? - The Joe Show",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdG9NdkxXV3NZUzFHSUZOOG1oMGw0VWZUNktMS09VSUZ4QUZ0RTh3eTBOR3RNVVlRU0tTWlRvTFdTeEJCd2w1SUgtZE1SM181R09GbW5tQmJwNG5vYmkxRmRac3EzZ3UwQnNqOFgzeUpQQVczdFhOaXlPYlJRVzN5bDd1WEJTT3Ric2JpdlcxRkhqbGdGcW5HVGg2RHowbllqWFAwUmsxUzIwTEl1MkE?oc=5",
+     "ts": "2026-10-22T13:59:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3cfa8bc2cc6f",
+   "title": "Grand Theft Auto VI – the hype and the controversy",
+   "first_seen": "2026-10-22T20:31:00Z",
+   "updated": "2026-10-22T20:31:00Z",
+   "items": [
+    {
+     "id": "3cfa8bc2cc6f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Newsroom",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI – the hype and the controversy",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONi00azFjOVhKODcxWS1Id1IyR2hnd3h5eWJjTUFCNDU3WVl2X3RuTnhiOEZPQm1RRzl2T1ZvcTRLQ28wUlU5Q0d5VUpUMjlUZHM0WDdtSnRCalFzRlpSMDUzYkdqWV9ZSlltNTJWUEhCVGVobFYwTGRCUVB1ZGJGQ19ZRUpjSXpUOXdHVm5n?oc=5",
+     "ts": "2026-10-22T16:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -50496,66 +50535,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "eb6b39811ada",
-   "title": "spring breakers reference",
-   "first_seen": "2026-10-15T20:31:02Z",
-   "updated": "2026-10-15T20:31:02Z",
-   "items": [
-    {
-     "id": "eb6b39811ada",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "spring breakers reference",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x6wf4c/spring_breakers_reference/",
-     "ts": "2026-10-15T20:18:31Z",
-     "summary": "also, anyone else notice jason’s voice sounds normal now in the vo 😂 submitted by /u/pzeo1 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "555c56b70ac8",
-   "title": "Is it just me, or does this look like Lucia?",
-   "first_seen": "2026-10-15T20:31:02Z",
-   "updated": "2026-10-15T20:31:02Z",
-   "items": [
-    {
-     "id": "555c56b70ac8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Is it just me, or does this look like Lucia?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x6wiog/is_it_just_me_or_does_this_look_like_lucia/",
-     "ts": "2026-10-15T20:22:25Z",
-     "summary": "As soon as I saw, it looks so clear like Lucia just with face tats and baggy clothes. Could it be that she’s undercover or is it a flashback or something. Anyone also feel this way? submitted by /u/aremjay24 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T20:31:00Z",
+  "last_run": "2026-10-22T20:40:46Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 96/100",
+   "gnews_en: 97/100",
    "gnews_ru: 49/53",
    "gamesbeat: 0/10",
    "vgc: 2/10",
