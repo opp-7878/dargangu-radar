@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-22T14:10:46Z",
+   "updated": "2026-10-22T14:20:46Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -12849,6 +12849,19 @@
      "url": "https://www.reddit.com/r/GTAVI/comments/1xcjj17/gta_vi_should_let_us_create_our_own_custom/",
      "ts": "2026-10-22T14:05:51Z",
      "summary": "(Ai helped me with this but the idea was mine) submitted by /u/Longjumping_Soup274 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "2c6777540268",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Fans think Rockstar is filming a live-action GTA 6 trailer on Miami’s streets",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbU5BeFhldERiekdmb3lYV0dOTVctMG4yWmQxSjZOVWxwQnJPMFNOMHVBRGxBNkxISkpHX3FtVTNXcW1BN1d3ZjhxaDhiOHl2Q1ZNS3VuVTQxOTQzSzNSVHlPWFp3azdKUWVabkFNeHBxckNidGN4MjZxUllERXRzREk2V0dUd25KT1VkMmhwSm43MFFXOVJoTGVQcDk?oc=5",
+     "ts": "2026-10-22T06:25:36Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -12866,6 +12879,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "4c4b06e5426c",
+   "title": "Пиво Pißwasser из GTA 6 станет реальным благодаря госреестру США",
+   "first_seen": "2026-10-22T14:20:46Z",
+   "updated": "2026-10-22T14:20:46Z",
+   "items": [
+    {
+     "id": "4c4b06e5426c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "games.gg",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Пиво Pißwasser из GTA 6 станет реальным благодаря госреестру США",
+     "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQZC1VQ1lxMzN5SDJQUk9UdDF3Q21XM2o1LWQzUm01LVY1bzdSM05qVHlmZ3RMbjVuM0dMdThRZ1BSdG5PNERJTkROTjh0VC13dy1RbDJ3Ym52aURSMExIS3lwcTRkblJxSE9wa2NJWldnNTFNelAwYUtka3dnR1Q2WWpVc2FvVkJ0RmxlbHlheVd0Z21aY2VZeHA4Z3dzXzBUMGJfZE13M2M3UkdtLVdRc1o4MUp3YnlKVld2VEFrREZZUEVwMkstSVNpdFhCM1pzQ001ejBBOXhsRFVjb2V4aWRwc3Q3QUNzX0h2eFYxdUhsZmRpWXA4TWJqc2dyc2czajE2ZnNScnJZVU1FSTRtdFV6WGdZN2RmN0xZbEkxNFZtWmRXMURfWGR0R2swVHM1ZkZEVjRLT2xrRi1MRVh5Wnk1cHJSQ3AzZV91MWxuU1VtMTFRdzUzVk16ekZJSThFOGFzc1ZCbXZBYkRBVG5UTnB1YmRwQWlhQjhXMjM3ZzRreHhHRWgweWV0YWp3YjMzSlZHMnp2T20wRFNVaHVGZXd6bFVtaDhpUTFFQ0xpNVdJR3c?oc=5",
+     "ts": "2026-10-22T13:33:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -51771,11 +51810,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T14:10:47Z",
+  "last_run": "2026-10-22T14:20:46Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 98/100",
-   "gnews_ru: 50/53",
+   "gnews_en: 97/100",
+   "gnews_ru: 50/54",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 0/10",
