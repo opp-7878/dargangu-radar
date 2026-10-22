@@ -1,152 +1,10 @@
 {
  "stories": [
   {
-   "id": "d9fc0702090c",
-   "title": "По данным аналитиков, GTA 6 опережает другие крупные игры по количеству предзаказов за последние 6 лет",
-   "first_seen": "2026-10-20T12:40:49Z",
-   "updated": "2026-10-22T06:40:44Z",
-   "items": [
-    {
-     "id": "d9fc0702090c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "По данным аналитиков, GTA 6 опережает другие крупные игры по количеству предзаказов за последние 6 лет",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPazE1dUdNaEh4cEtUV2JRSk5GUUJDRnNRVmJickhncWRYTWY2RjJyMm9LaUxfN3ZRcmVhMGZqWkI2VnBicmlOMXB3NXRybGs5Y29jbE5DbWxDTXJ6MlhRZ21CcnVuV1YzQU01V29ybXN6eFdRZmVkLU5TMWRoT3hjc1ExaktYbWJIOVkyU0NuWUVpQlNWUjljYldQQUtheDJhR1dQa1Z0R3UtQWNnZzNfM0I0VkdfbU8yQnM1bFlhaS02OW5vSWFnY0E3aXBLQUstT1ZJek14OV9kWUdsSmJrbDZn?oc=5",
-     "ts": "2026-10-20T12:24:17Z",
-     "summary": ""
-    },
-    {
-     "id": "41c2f4f1a878",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 бьёт рекорды по количеству предзаказов — опубликованы свежие данные",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVNGY2RqT0kwVnZkMGJ3YTJuNVdCOHA4WURFblgtRWdvQWR2VlpzLUdjWEtoNUtGN3JQN0JzZ0ZWU2s3dWYxWlFNWGRHWVlmNVdOWk9NQ3Q5OUgwQzV4WHBfTS1jdnhnS3gxa2V6bjNJRVRfcnhnZFVPYWpIZHlyTGpvVDBjd0M4SlBadThXVGgxYXRPUXBmeDdTU0gxZDg?oc=5",
-     "ts": "2026-10-20T16:22:52Z",
-     "summary": ""
-    },
-    {
-     "id": "b4c86d8563b5",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "dungen.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 разнесла все рекорды предзаказов за десятилетие",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtSndWQVc1NTRIR2dCSERXMHAzZVFnd1BNUkl3QWQwc3NHZEtxaF96bWxlT2V3OUtZb3IycHBKZWE5dVFhZEItRmJPNHdOM3pfMzNKNEJnX3Zadl8tcGc?oc=5",
-     "ts": "2026-10-22T06:35:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 71,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 бьёт рекорды предзаказов: аналитики назвали цифры",
-    "summary": "По данным аналитиков и свежих отчётов, GTA 6 опережает другие крупные игры по числу предзаказов за последние 6–10 лет. Об этом пишут PlayGround.ru, EGW News и dungen.ru. Официальных данных от Rockstar нет.",
-    "idea": "Сравним GTA 6 с GTA 5 и другими хитами по предзаказам и покажем, что это значит для игроков — ажиотаж, очереди на выдачу и риск дефицита.",
-    "hook": "GTA 6 бьёт рекорды предзаказов за 6–10 лет — вот что это значит для вас.",
-    "stars": 3,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-22T06:40:47Z"
-   },
-   "msg_id": 139
-  },
-  {
-   "id": "3b26ec17e3c3",
-   "title": "GTA VI доберётся до Switch 2? В сети заметили интересные вакансии",
-   "first_seen": "2026-10-22T06:40:44Z",
-   "updated": "2026-10-22T06:40:44Z",
-   "items": [
-    {
-     "id": "3b26ec17e3c3",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA VI доберётся до Switch 2? В сети заметили интересные вакансии",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjQ0alZyNFJXalJEeVhyaFh0QXhXUkw3Y2JLdTNwMkZDTDI2Y2RLeXZubHU2ZlRoNGhGRS00cWRpQVRMXzhBRUZrVmU3eU83WGc4c3VTYUJrS0JobGFSSXBZWWNFV2pUcVlnSkhDNmV3alZtbTdNNk50YjRsNWRZdFhZWTU3RzVzZFdjQ3NSQUVhSGlLNEo2SFd6NzRSQTUxM2FxbklqSlfSAa4BQVVfeXFMT21qem15bEsxMDNENjZtSlVFRW1MaVlCNlZLNTlDUUJ6OTEtZEc5aGZ6WGlNSS1fNGxyMFNZZmhQWWhsY3VzRW0tNzkzMHZnVGl6eEhOWUgyaFRwcXA5c2pPZEhpbVhyQVpOTHdkeW1NNFlxTHZzVU5Cb25ZeXJMMjZDYVhIUWFrT1JyUmxBTkpUSkRONnkxVjhfMnJoZzFyeXpEVzdwTm13UHBzS0N3?oc=5",
-     "ts": "2026-10-22T05:37:25Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "94e2a351da33",
-   "title": "Пора тренировать пальцы! В Британии фитнес-центр запустил специальную программу тренировок для подготовки к GTA 6",
-   "first_seen": "2026-10-22T06:40:44Z",
-   "updated": "2026-10-22T06:40:44Z",
-   "items": [
-    {
-     "id": "94e2a351da33",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Пора тренировать пальцы! В Британии фитнес-центр запустил специальную программу тренировок для подготовки к GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVXBSQWRQbWNKNkg3UklleENfOHhoVlN1VmhtUWpJNXNMRUpZRTdRV05EVDBMYWlTSmMyRERPYjFCVUZzVVBITFBqVk5wNUREQW9XV2N4NncybE9sOEp4dnVhZU90M1ZwRWlleFdVOW1fc05SQ05WQWxiRFhYN3ppMzFUZVNoczRNQ00tdTR5N0NjcmZJLTZrMXhDbXdxNVJvRmFpZkhwdEMxQmJtYjJkTkl1NkdoTzZuVEU2MXMwM01tZTk2TmZ5Rkx4cFZiN0R6SWE2X1hoXy14YnRKd3loVFdOYWh4MGRBeHJockJoZFM?oc=5",
-     "ts": "2026-10-22T06:20:22Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0ae585f385ba",
-   "title": "Latest GI Magazine Arrived",
-   "first_seen": "2026-10-22T06:20:45Z",
-   "updated": "2026-10-22T06:20:45Z",
-   "items": [
-    {
-     "id": "0ae585f385ba",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Latest GI Magazine Arrived",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xcaw4s/latest_gi_magazine_arrived/",
-     "ts": "2026-10-22T06:18:39Z",
-     "summary": "Glad to own a bit of gaming history. The article is fantastic. I can't wait to play this! submitted by /u/gamerlikesanime to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-22T06:01:10Z",
+   "updated": "2026-10-22T06:50:48Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -12692,6 +12550,32 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0RheEJ4X2ltbUhXbTNFZnZFT2dRa2VRa0N6dnJDb1lOOUdSQld0MzVHdG1VSTAyNHdiOXhiazY5MDBDZXBHc1VVOGpNTk1qeEVNWWdnWjFkLXVLdEV3OGlEQVQyMHdpZXNKNDVMeFlmeVdkUlFVakdTSTRNeTI4V1B4eWN2bXIwM2dxOE1WNi1OYzFKcWFLNEFVNGpGUW5wWlRzUHBmSGdaSjRQTWhmTDJOLVY?oc=5",
      "ts": "2026-10-22T05:51:15Z",
      "summary": ""
+    },
+    {
+     "id": "3fbd1b8beac0",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Is it realistic to NOT expect the game emulated before official pc port?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xcb99r/is_it_realistic_to_not_expect_the_game_emulated/",
+     "ts": "2026-10-22T06:40:45Z",
+     "summary": "Ive been getting a lot of shit for this in my friendgroup and even Ive been worried I chose wrong by playing at launch and not waiting for a \"better, emulated expirience\" but its it okay to not expect this game to run on or atleast to not run at ps5 quality on pc? Because how I see it is even if we get an exploit the emualtors run only simple 3d games slightly better than ps5 and anyps5 is months from completion. Am I right? submitted by /u/Moldy_Pancake_11 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "bfeacec6a4f8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MMOEXP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Gameplay Guide: Wanted System, Focus Ability, Criminal Profile & Key Mechanics",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaURZMUtQWHNET21lNFJoNDgyVHdEWDhqRllSVVpnYmE1c3pNT0xoNVh4R0pVbk9UVU8zemFSNTJYYmx2N3ItMFBGR1FJWW4tT1lPTE8td2s2Nm15aHRxcF9tZTA3MDdlY3F3OUwxdnQycnl5dHRPNnpNNDdGd2VyNDBhOWtyQ29qOGF0SEdDeDlRTUpIbFVncnh5eWF2SVNmXzk1Qk94WjBwa01aeVcyU0pR?oc=5",
+     "ts": "2026-10-22T06:45:28Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -12709,6 +12593,174 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "ba4479ce8e61",
+   "title": "За месяц до релиза GTA 6 в Майами может появиться пиво из игры: власти США одобрили появление бренда",
+   "first_seen": "2026-10-22T06:50:48Z",
+   "updated": "2026-10-22T06:50:48Z",
+   "items": [
+    {
+     "id": "ba4479ce8e61",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VGTimes",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "За месяц до релиза GTA 6 в Майами может появиться пиво из игры: власти США одобрили появление бренда",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVk9tLUplQl95YUZ6MWd6cTJpSTVJOTVZandmRzRaUWxIQld3cGVKZ1ExVjR5bWFwc29PU1FHVVlod0Zjai1XUmtGQlo3NTZxak1hdDA5dExTNW5mQVdaTFJ6RFY4TDJfeXlubWNFZzRSNGNkUXh1cUxKbEFNT05GOEg4YWxnaDZyd0FvaFB2ZVZiN3hacnpybDAzSVo0M2x2YVZvNWtYU0VmVTZVZmx3c21rS1AzODZ2SWQ3T0NlTEdpeEpBSEE?oc=5",
+     "ts": "2026-10-22T06:46:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d9fc0702090c",
+   "title": "По данным аналитиков, GTA 6 опережает другие крупные игры по количеству предзаказов за последние 6 лет",
+   "first_seen": "2026-10-20T12:40:49Z",
+   "updated": "2026-10-22T06:40:44Z",
+   "items": [
+    {
+     "id": "d9fc0702090c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "По данным аналитиков, GTA 6 опережает другие крупные игры по количеству предзаказов за последние 6 лет",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPazE1dUdNaEh4cEtUV2JRSk5GUUJDRnNRVmJickhncWRYTWY2RjJyMm9LaUxfN3ZRcmVhMGZqWkI2VnBicmlOMXB3NXRybGs5Y29jbE5DbWxDTXJ6MlhRZ21CcnVuV1YzQU01V29ybXN6eFdRZmVkLU5TMWRoT3hjc1ExaktYbWJIOVkyU0NuWUVpQlNWUjljYldQQUtheDJhR1dQa1Z0R3UtQWNnZzNfM0I0VkdfbU8yQnM1bFlhaS02OW5vSWFnY0E3aXBLQUstT1ZJek14OV9kWUdsSmJrbDZn?oc=5",
+     "ts": "2026-10-20T12:24:17Z",
+     "summary": ""
+    },
+    {
+     "id": "41c2f4f1a878",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 бьёт рекорды по количеству предзаказов — опубликованы свежие данные",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVNGY2RqT0kwVnZkMGJ3YTJuNVdCOHA4WURFblgtRWdvQWR2VlpzLUdjWEtoNUtGN3JQN0JzZ0ZWU2s3dWYxWlFNWGRHWVlmNVdOWk9NQ3Q5OUgwQzV4WHBfTS1jdnhnS3gxa2V6bjNJRVRfcnhnZFVPYWpIZHlyTGpvVDBjd0M4SlBadThXVGgxYXRPUXBmeDdTU0gxZDg?oc=5",
+     "ts": "2026-10-20T16:22:52Z",
+     "summary": ""
+    },
+    {
+     "id": "b4c86d8563b5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "dungen.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 разнесла все рекорды предзаказов за десятилетие",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtSndWQVc1NTRIR2dCSERXMHAzZVFnd1BNUkl3QWQwc3NHZEtxaF96bWxlT2V3OUtZb3IycHBKZWE5dVFhZEItRmJPNHdOM3pfMzNKNEJnX3Zadl8tcGc?oc=5",
+     "ts": "2026-10-22T06:35:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 71,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 бьёт рекорды предзаказов: аналитики назвали цифры",
+    "summary": "По данным аналитиков и свежих отчётов, GTA 6 опережает другие крупные игры по числу предзаказов за последние 6–10 лет. Об этом пишут PlayGround.ru, EGW News и dungen.ru. Официальных данных от Rockstar нет.",
+    "idea": "Сравним GTA 6 с GTA 5 и другими хитами по предзаказам и покажем, что это значит для игроков — ажиотаж, очереди на выдачу и риск дефицита.",
+    "hook": "GTA 6 бьёт рекорды предзаказов за 6–10 лет — вот что это значит для вас.",
+    "stars": 3,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-22T06:40:47Z"
+   },
+   "msg_id": 139
+  },
+  {
+   "id": "3b26ec17e3c3",
+   "title": "GTA VI доберётся до Switch 2? В сети заметили интересные вакансии",
+   "first_seen": "2026-10-22T06:40:44Z",
+   "updated": "2026-10-22T06:40:44Z",
+   "items": [
+    {
+     "id": "3b26ec17e3c3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA VI доберётся до Switch 2? В сети заметили интересные вакансии",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjQ0alZyNFJXalJEeVhyaFh0QXhXUkw3Y2JLdTNwMkZDTDI2Y2RLeXZubHU2ZlRoNGhGRS00cWRpQVRMXzhBRUZrVmU3eU83WGc4c3VTYUJrS0JobGFSSXBZWWNFV2pUcVlnSkhDNmV3alZtbTdNNk50YjRsNWRZdFhZWTU3RzVzZFdjQ3NSQUVhSGlLNEo2SFd6NzRSQTUxM2FxbklqSlfSAa4BQVVfeXFMT21qem15bEsxMDNENjZtSlVFRW1MaVlCNlZLNTlDUUJ6OTEtZEc5aGZ6WGlNSS1fNGxyMFNZZmhQWWhsY3VzRW0tNzkzMHZnVGl6eEhOWUgyaFRwcXA5c2pPZEhpbVhyQVpOTHdkeW1NNFlxTHZzVU5Cb25ZeXJMMjZDYVhIUWFrT1JyUmxBTkpUSkRONnkxVjhfMnJoZzFyeXpEVzdwTm13UHBzS0N3?oc=5",
+     "ts": "2026-10-22T05:37:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "94e2a351da33",
+   "title": "Пора тренировать пальцы! В Британии фитнес-центр запустил специальную программу тренировок для подготовки к GTA 6",
+   "first_seen": "2026-10-22T06:40:44Z",
+   "updated": "2026-10-22T06:40:44Z",
+   "items": [
+    {
+     "id": "94e2a351da33",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Пора тренировать пальцы! В Британии фитнес-центр запустил специальную программу тренировок для подготовки к GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVXBSQWRQbWNKNkg3UklleENfOHhoVlN1VmhtUWpJNXNMRUpZRTdRV05EVDBMYWlTSmMyRERPYjFCVUZzVVBITFBqVk5wNUREQW9XV2N4NncybE9sOEp4dnVhZU90M1ZwRWlleFdVOW1fc05SQ05WQWxiRFhYN3ppMzFUZVNoczRNQ00tdTR5N0NjcmZJLTZrMXhDbXdxNVJvRmFpZkhwdEMxQmJtYjJkTkl1NkdoTzZuVEU2MXMwM01tZTk2TmZ5Rkx4cFZiN0R6SWE2X1hoXy14YnRKd3loVFdOYWh4MGRBeHJockJoZFM?oc=5",
+     "ts": "2026-10-22T06:20:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0ae585f385ba",
+   "title": "Latest GI Magazine Arrived",
+   "first_seen": "2026-10-22T06:20:45Z",
+   "updated": "2026-10-22T06:20:45Z",
+   "items": [
+    {
+     "id": "0ae585f385ba",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Latest GI Magazine Arrived",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xcaw4s/latest_gi_magazine_arrived/",
+     "ts": "2026-10-22T06:18:39Z",
+     "summary": "Glad to own a bit of gaming history. The article is fantastic. I can't wait to play this! submitted by /u/gamerlikesanime to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -53964,11 +54016,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T06:40:48Z",
+  "last_run": "2026-10-22T06:50:48Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 69/73",
+   "gnews_ru: 67/70",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
