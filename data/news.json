@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "0ae585f385ba",
+   "title": "Latest GI Magazine Arrived",
+   "first_seen": "2026-10-22T06:20:45Z",
+   "updated": "2026-10-22T06:20:45Z",
+   "items": [
+    {
+     "id": "0ae585f385ba",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Latest GI Magazine Arrived",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xcaw4s/latest_gi_magazine_arrived/",
+     "ts": "2026-10-22T06:18:39Z",
+     "summary": "Glad to own a bit of gaming history. The article is fantastic. I can't wait to play this! submitted by /u/gamerlikesanime to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -53863,11 +53889,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T06:10:48Z",
+  "last_run": "2026-10-22T06:20:45Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 98/100",
-   "gnews_ru: 67/72",
+   "gnews_en: 97/100",
+   "gnews_ru: 66/71",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
