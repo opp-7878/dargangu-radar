@@ -1,6 +1,87 @@
 {
  "stories": [
   {
+   "id": "03249fc16cea",
+   "title": "До выхода GTA VI - 4 недели!",
+   "first_seen": "2026-10-22T08:01:12Z",
+   "updated": "2026-10-22T08:01:12Z",
+   "items": [
+    {
+     "id": "03249fc16cea",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Russian Bazaar",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "До выхода GTA VI - 4 недели!",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ld3JtS2RDTWJaQ1p1MXc5UTdkN0s5ZTlzRTgtWnRjWmJJTlVOQUJYTUVwZV9rMGVJV2QxdkpPbUNibll3R3Z2Z3Qyc1ZGWWR0aGZBSXNROUEzVUo5N1E5R2R3?oc=5",
+     "ts": "2026-10-22T01:51:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c7451ec9abcb",
+   "title": "Фанаты GTA 6 смогут попробовать Вайс-Сити на вкус: базе алкогольной продукции обнаружили этикетки трёх сортов пива",
+   "first_seen": "2026-10-22T08:01:12Z",
+   "updated": "2026-10-22T08:01:12Z",
+   "items": [
+    {
+     "id": "c7451ec9abcb",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Фанаты GTA 6 смогут попробовать Вайс-Сити на вкус: базе алкогольной продукции обнаружили этикетки трёх сортов пива",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNVBoemY5cmVjbUdTd3FYUndNVEo3bV8xVERwR0xNRXhaSjBseUlxNFNwTGdHSnZzSjJHenJnalRzUmRoTWducHBMMmE0TDlVSzlUMmJhNVdacG4tYnRtd010cks1ZHc1dExWcGhBdFAxV2QwWWpVdS1IVW43ZTQxUlplVzMzMHBTbnBMOTBjUl8xNExCTW85UWduc0NOOXJ4cEhxWTN1MUh2MzlMRWhiMHQxWUJSS1pjM1pEMHhFVDR1b1ZuQkJtU1pyTVRRMTN5T3hyY1NLRktPLU1IOF9JbVZoMWFFSFhPODNXbnlfQmI?oc=5",
+     "ts": "2026-10-22T07:45:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3a1ef6a2915c",
+   "title": "Premium edition question",
+   "first_seen": "2026-10-22T08:01:12Z",
+   "updated": "2026-10-22T08:01:12Z",
+   "items": [
+    {
+     "id": "3a1ef6a2915c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Premium edition question",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xccipk/premium_edition_question/",
+     "ts": "2026-10-22T08:00:52Z",
+     "summary": "GTA VI premium edition comes with 1 month of GTAO plus, will i be able to save this for GTA VI online or will it automatically start itself and only be useful for GTAVO. If it will just automatically be used for 1 month of Gta 5 then its not a very good addition to the bundle because why would I want 500k on gta 5 when 500k on gta 6 online (when it comes out) will be a great headstart. submitted by /u/jawatribe to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "Online",
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "dfe3fe330137",
    "title": "Vice City mod makes an entire GTA game bounce to your favorite song",
    "first_seen": "2026-10-22T07:50:48Z",
@@ -54172,11 +54253,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T07:50:48Z",
+  "last_run": "2026-10-22T08:01:12Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 63/66",
+   "gnews_ru: 70/74",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
