@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "4c22897d56ea",
+   "title": "Cluckin' Bell in the Kaseya Center",
+   "first_seen": "2026-10-22T01:50:48Z",
+   "updated": "2026-10-22T01:50:48Z",
+   "items": [
+    {
+     "id": "4c22897d56ea",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Cluckin' Bell in the Kaseya Center",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xc55fr/cluckin_bell_in_the_kaseya_center/",
+     "ts": "2026-10-22T01:17:44Z",
+     "summary": "submitted by /u/RealGiancarlosR to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e0389cf50861",
    "title": "‘Grand Theft Auto VI’ isn’t even out yet, but creators are already flocking to Miami",
    "first_seen": "2026-10-21T23:50:42Z",
@@ -53724,11 +53750,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T01:40:46Z",
+  "last_run": "2026-10-22T01:50:48Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 68/73",
+   "gnews_ru: 67/72",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
