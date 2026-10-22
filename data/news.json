@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "61c03b7d06a5",
+   "title": "GTA 6 and Gasoline in Video Games",
+   "first_seen": "2026-10-22T21:10:45Z",
+   "updated": "2026-10-22T21:10:45Z",
+   "items": [
+    {
+     "id": "61c03b7d06a5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 and Gasoline in Video Games",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IOGY3aGpsazdHQ0JPaHhxM3FDRmpBNC1qSmZhWS1qSjhIcDA5VDQ1LWRLLTFraVBaTEQ5NlZNYnpfc2RpdUpFMHIzRHZRVUVVX1hfVmg4MGZ3VW50NDI3bTdQR3BvQlZabmZLZ0hOenN1VkVq?oc=5",
+     "ts": "2026-10-22T21:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -50481,41 +50507,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "fb69d641e2e7",
-   "title": "GTA 6 Teases Jason & Lucia’s Chaotic Upcoming Criminal Journey",
-   "first_seen": "2026-10-15T21:01:17Z",
-   "updated": "2026-10-15T21:01:17Z",
-   "items": [
-    {
-     "id": "fb69d641e2e7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Simulation Daily",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Teases Jason & Lucia’s Chaotic Upcoming Criminal Journey",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wc0xhVWNJZXVDVDM5WjMzN2hlaWxkc3UwZFdjcHNrZmVGN2hqNHdCS0pBQWZNNnhJY0ZSUEcwdnc1bEtLSVdKZEtNeDFBVjQ3TDNuU3Y1VkpRVHBrdlRJZzdTX1VuQUNEQmdHTWtUZ21Uc0J3c3c?oc=5",
-     "ts": "2026-10-15T19:35:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T21:01:13Z",
+  "last_run": "2026-10-22T21:10:45Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 97/100",
-   "gnews_ru: 47/53",
+   "rockstar_site: 0/3",
+   "gnews_en: 98/100",
+   "gnews_ru: 48/53",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 0/10",
