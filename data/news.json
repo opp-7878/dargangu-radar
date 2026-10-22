@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "dfe3fe330137",
+   "title": "Vice City mod makes an entire GTA game bounce to your favorite song",
+   "first_seen": "2026-10-22T07:50:48Z",
+   "updated": "2026-10-22T07:50:48Z",
+   "items": [
+    {
+     "id": "dfe3fe330137",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Boing Boing",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Vice City mod makes an entire GTA game bounce to your favorite song",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWlrTFNlWmxKQlE2SVlraDJEQWVzYU1XZVMyZ01iXzZOVS1tdEk3WkItX3EtSkxrY3dPTDBWRW9melU5RnNiaTNDR3lKYU01U3pBSVVyb3FSanhrZFJUbGVKV0hiVWhpaDhQSGV5S2syNXlVY2gtMkNMT0RJaEpGREItOXJoRlJpb01VdWtHT2tvMnJpa3dRQXBHOTRMSTdS0gGmAUFVX3lxTE9pa1U4dEIzekVaYlFWOUZjT3E1Y3Awa1QwOGUwc2s2RWpJUUZLOVVrVmxnMDNGem9BeVF1SEpRR2hjY0VQNGpCcnVVV1U4dmthdjQwN3drcGxzMEllWVhseXdmbm5JRm1UZ094VTd3RkZBN0VUWGwyVlB6VDNnc0FrLS1ld09iLWRsQ3RvR1dCNE1xd1gtY29CSXhOby1MX3VCYmVqSVE?oc=5",
+     "ts": "2026-10-21T16:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "acd42b63e903",
    "title": "Sony PlayStation 5 vs. PlayStation 5 Pro: Should You Upgrade for GTA 6?",
    "first_seen": "2026-10-21T22:50:44Z",
@@ -54146,11 +54172,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T07:40:46Z",
+  "last_run": "2026-10-22T07:50:48Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 69/74",
+   "gnews_ru: 63/66",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
