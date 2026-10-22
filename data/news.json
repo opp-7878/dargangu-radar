@@ -1,62 +1,10 @@
 {
  "stories": [
   {
-   "id": "9bbbe72dfa16",
-   "title": "Spotted at La Defense, the business district of Paris",
-   "first_seen": "2026-10-22T21:21:05Z",
-   "updated": "2026-10-22T21:21:05Z",
-   "items": [
-    {
-     "id": "9bbbe72dfa16",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Spotted at La Defense, the business district of Paris",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xcv0fi/spotted_at_la_defense_the_business_district_of/",
-     "ts": "2026-10-22T21:13:26Z",
-     "summary": "submitted by /u/NoPiece2723 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "61c03b7d06a5",
-   "title": "GTA 6 and Gasoline in Video Games",
-   "first_seen": "2026-10-22T21:10:45Z",
-   "updated": "2026-10-22T21:10:45Z",
-   "items": [
-    {
-     "id": "61c03b7d06a5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 and Gasoline in Video Games",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IOGY3aGpsazdHQ0JPaHhxM3FDRmpBNC1qSmZhWS1qSjhIcDA5VDQ1LWRLLTFraVBaTEQ5NlZNYnpfc2RpdUpFMHIzRHZRVUVVX1hfVmg4MGZ3VW50NDI3bTdQR3BvQlZabmZLZ0hOenN1VkVq?oc=5",
-     "ts": "2026-10-22T21:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-22T20:50:48Z",
+   "updated": "2026-10-22T21:31:02Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -13252,6 +13200,19 @@
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VZ3VEYkVURVZETU5OUDUtOV9XcGFOcnROVVFfd1hTcVVvbWhOeXRzYUJtUjhxS3hDTi1tSnlxRXdqdFh1NEszVXdiRWFVLWo2M1Bod2M0S3h4ekZkeFFaSUJyVDBXUnhGOUZj?oc=5",
      "ts": "2026-10-22T17:40:26Z",
      "summary": ""
+    },
+    {
+     "id": "471c4dcb586b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Фанаты PlayStation сделали выбор: трейлер Shrek 2 Remastered обошёл GTA VI по просмотрам на YouTube-канале PlayStation",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPc1VxaG94YnlsQTNkWklRYVpnb0o1bnlHTDZtSDJrUzZzVWNHZ2d6S0JKR1BvR21tUGhyMDRPcUcyUTVOWFJnT1JLNE9icHFfbTROaUZQalh6dnBlWlNIck1NaW80a0tPZUlFVzRoT1FOb0QxY3R1S2I4WjU5b3lRVWI2Y2JmZEZfRElOaXFFVDBuYWlDZ2JyV0pYOUN5OGYtbXdNX1ZGMDFONGx5NGxDWmdvZ3JQbU5JeHVjWFBTdmFsWnRUN2xCMTJzNXVWeG5hZFFYTFJoNDhYRkNTaGJNVGtWalZOei1OX3ZfU1E0WE5nV3h4RjE5TWtIZ2o?oc=5",
+     "ts": "2026-10-22T20:06:43Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -13269,6 +13230,84 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "7e9a91910ccd",
+   "title": "GTA 6 Map 2026: 125+ km² — How Much Bigger Than GTA 5",
+   "first_seen": "2026-10-22T21:31:02Z",
+   "updated": "2026-10-22T21:31:02Z",
+   "items": [
+    {
+     "id": "7e9a91910ccd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "VPEsports",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Map 2026: 125+ km² — How Much Bigger Than GTA 5",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YZm83QUVoWTVsYmJSaG9XSEFZZmlETFY2Wm1GWWlVUWUyQWs0VnJPZlhKNzl1MVQ2NWExT3k4VkRvOVcySUFiMFN1TzdxaXJHNjV4cmhOcHdQWFp6QmRsVllXNA?oc=5",
+     "ts": "2026-10-22T14:55:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9bbbe72dfa16",
+   "title": "Spotted at La Defense, the business district of Paris",
+   "first_seen": "2026-10-22T21:21:05Z",
+   "updated": "2026-10-22T21:21:05Z",
+   "items": [
+    {
+     "id": "9bbbe72dfa16",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Spotted at La Defense, the business district of Paris",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xcv0fi/spotted_at_la_defense_the_business_district_of/",
+     "ts": "2026-10-22T21:13:26Z",
+     "summary": "submitted by /u/NoPiece2723 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "61c03b7d06a5",
+   "title": "GTA 6 and Gasoline in Video Games",
+   "first_seen": "2026-10-22T21:10:45Z",
+   "updated": "2026-10-22T21:10:45Z",
+   "items": [
+    {
+     "id": "61c03b7d06a5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 and Gasoline in Video Games",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IOGY3aGpsazdHQ0JPaHhxM3FDRmpBNC1qSmZhWS1qSjhIcDA5VDQ1LWRLLTFraVBaTEQ5NlZNYnpfc2RpdUpFMHIzRHZRVUVVX1hfVmg4MGZ3VW50NDI3bTdQR3BvQlZabmZLZ0hOenN1VkVq?oc=5",
+     "ts": "2026-10-22T21:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -50362,67 +50401,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "65973ccaf893",
-   "title": "GOTY 2027",
-   "first_seen": "2026-10-15T21:31:01Z",
-   "updated": "2026-10-15T21:31:01Z",
-   "items": [
-    {
-     "id": "65973ccaf893",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GOTY 2027",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1x6y039/goty_2027/",
-     "ts": "2026-10-15T21:22:07Z",
-     "summary": "lucia feet 🤤 submitted by /u/sincerelylunar to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "351a84698e78",
-   "title": "This is NOT an Army mission",
-   "first_seen": "2026-10-15T21:31:01Z",
-   "updated": "2026-10-15T21:31:01Z",
-   "items": [
-    {
-     "id": "351a84698e78",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "This is NOT an Army mission",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1x6y78u/this_is_not_an_army_mission/",
-     "ts": "2026-10-15T21:30:27Z",
-     "summary": "I've seen speculation that is is a flashback to an army mission but I am 99% sure that is not the case. We know from early screenshots that Jason was possibly special forces Army given his arm tattoo is more fitting of a SF tattoo than a standard army tattoo. But the Army rarely uses this kind of boat, called a RIB. The navy does, and coast guard, and also civilian divers in florida. That big tree on the left of the screenshot next to the monitor lizard is a mangrove tree which is in the wetlands of Leonida, it can also be found in asia along with monitor lizards but I doubt Rockstar wants to "
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-22T21:21:05Z",
+  "last_run": "2026-10-22T21:31:02Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/3",
+   "gnews_en: 97/100",
+   "gnews_ru: 48/54",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 0/10",
