@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "de23fae24055",
+   "title": "Starting November 16th, Discord and GTA 6 will be running a promotion that features a new Custom App Icon, Display Name Font and Client Theme.",
+   "first_seen": "2026-10-23T19:01:13Z",
+   "updated": "2026-10-23T19:01:13Z",
+   "items": [
+    {
+     "id": "de23fae24055",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Starting November 16th, Discord and GTA 6 will be running a promotion that features a new Custom App Icon, Display Name Font and Client Theme.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xdlm0c/starting_november_16th_discord_and_gta_6_will_be/",
+     "ts": "2026-10-23T18:13:53Z",
+     "summary": "submitted by /u/peqc to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "94d1e89a0b44",
+   "title": "Бывший разработчик Rockstar рассказал, почему Клода из GTA 3 сделали молчаливым",
+   "first_seen": "2026-10-23T19:01:13Z",
+   "updated": "2026-10-23T19:01:13Z",
+   "items": [
+    {
+     "id": "94d1e89a0b44",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VGTimes",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Бывший разработчик Rockstar рассказал, почему Клода из GTA 3 сделали молчаливым",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTndwTm9uU19tNEMwOElOUHlHZ1FzVU92LUdKX1RfWTAtSFRFbWtYQ2V1eVJsWGo3WHVzd1FaMXFYOFlsTzFBZ2xIX0tCOFFxSHgwTXVfUElDMFBXeUI4Q3hCbEd5NzE1andWMUxhUnBYZ25WOEdGYnpQeGlrUDlmYXFoS0hyMVpkdjhSRlNpRzNJSDhyR2Uyd01TRmJRUlNINmFQTlpUTjdOOVNnZUVQZGprTHNmN29LQ1hVYm1TRWVnMzg4TmxqaVRLdjM5YjVZMXc?oc=5",
+     "ts": "2026-10-23T18:51:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "b54c0ff7bedb",
    "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
    "first_seen": "2026-10-23T18:50:49Z",
@@ -49930,11 +49982,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T18:50:49Z",
+  "last_run": "2026-10-23T19:01:13Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 97/98",
-   "gnews_ru: 28/62",
+   "gnews_en: 98/99",
+   "gnews_ru: 27/62",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
