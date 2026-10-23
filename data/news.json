@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "b54c0ff7bedb",
+   "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
+   "first_seen": "2026-10-23T18:50:49Z",
+   "updated": "2026-10-23T18:50:49Z",
+   "items": [
+    {
+     "id": "b54c0ff7bedb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1hrYjVsWTlsenVYWE9pTThDa0hnbFJId3ZtUGwzd0RPVFd2YVpHSE9BaXVHV1Y3VS01MFZWUWVnSjBmcTFVZnVKMElkdEpnMVpsT1NSU0I3d3V2TkRfQ1laVmdLRkxGVldJNVNOR3BGdzM0b3dFTjFBU2E3TnQ0RFNWcHBSRUVXYWxtYThpWmRnbk9raU14TmZKUnNsQUU?oc=5",
+     "ts": "2026-10-23T18:43:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -49900,53 +49926,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "6544895b9fff",
-   "title": "Первые обзоры GTA 6 появятся до 19 ноября по информации инсайдера",
-   "first_seen": "2026-10-15T14:20:51Z",
-   "updated": "2026-10-16T18:50:42Z",
-   "items": [
-    {
-     "id": "6544895b9fff",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "SE7EN.ws",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Первые обзоры GTA 6 появятся до 19 ноября по информации инсайдера",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlNlbHgxRUNiR2l2alhpYnhxNGxBeTJzeUtZWkg5VGlCWGFVQVpwN0ZNRENZenhJZVFIeDN4V2VBSG0zWnZRUlJQWmtoZU00aGE3RlVlZHltTGFqLTBIc0M4N0loQTNXNWZVZFhUMXR5bG1ZbThSRkdiN1prLWFMazFCMG9UVkNkN0ctYjcxQlo1RlE?oc=5",
-     "ts": "2026-10-15T11:12:09Z",
-     "summary": ""
-    },
-    {
-     "id": "901913b760c8",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameMAG",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Обзоры и оценки Grand Theft Auto VI появятся до 19 ноября — СМИ",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Na1VpdVcwanF5ek9rSVo4MzBRUFRNQjlXWXluOGVfTnNHbmtmcWNJaDg0emx2TWl0OTNLNENVRFdKTVVIS2tOZ2tqWUtTVUVYVFZ0QVh0WUNjM3RqUEc2OXRDMEtMczdBaGhxYzNON1hSWFdrUWc?oc=5",
-     "ts": "2026-10-16T18:38:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 48,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T18:40:46Z",
+  "last_run": "2026-10-23T18:50:49Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 99/100",
+   "gnews_en: 97/98",
    "gnews_ru: 28/62",
    "gamesbeat: 2/10",
    "vgc: 0/10",
