@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "cc6a92a65747",
+   "title": "PS5 Sales Jump 22% in September Ahead of GTA 6",
+   "first_seen": "2026-10-23T00:49:17Z",
+   "updated": "2026-10-23T00:49:17Z",
+   "items": [
+    {
+     "id": "cc6a92a65747",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Briefs Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PS5 Sales Jump 22% in September Ahead of GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0s4dWJtRkhrSXZMTGpCZEJpNTlLbTl1cFBadElXNG42R1pnVVM3dkxHX2lySmRqX0Qwa21XVHlUaUlWWWtZY3k3R1lfRzV1QmV1a0c3MXB0Ykc4enp1YmtJaHpBUGNldUExTGFuanhDaGFsczI5akVvU1JVcDdZMVlJSVFWVTk3eTNUUVpkVnB6Zw?oc=5",
+     "ts": "2026-10-22T20:40:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -50492,10 +50518,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T00:40:49Z",
+  "last_run": "2026-10-23T00:49:17Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 96/100",
+   "gnews_en: 97/100",
    "gnews_ru: 46/52",
    "gamesbeat: 1/10",
    "vgc: 2/10",
