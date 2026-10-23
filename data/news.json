@@ -49902,48 +49902,22 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "797dea979825",
-   "title": "Запрет на рецензии GTA 6 снимут до релиза",
-   "first_seen": "2026-10-16T21:30:59Z",
-   "updated": "2026-10-16T21:30:59Z",
-   "items": [
-    {
-     "id": "797dea979825",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Plugged In Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Запрет на рецензии GTA 6 снимут до релиза",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40RmhvbVQzd2lwcXpFRjB6MXg3T0NBZVpXNW5hTTBmVVBKYVhabTJxM1hldGhZenZkZ29VVXk2aVNoWUk4TzJyQzlZWnk4emVOV1M1NXFKbVFtUWYtYVNXUktXa2w5Zl92V0pEQXYzSlhGV21KMHUwZE4yUnRTUQ?oc=5",
-     "ts": "2026-10-16T21:17:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T21:20:46Z",
+  "last_run": "2026-10-23T21:31:22Z",
   "last_log": [
-   "rockstar_site: 0/3",
-   "gnews_en: 73/74",
-   "gnews_ru: 31/62",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
    "ign: 2/20",
    "eurogamer: 0/100",
    "dexerto_gta: 3/50",
-   "rockstarintel: 2/10",
+   "rockstarintel: 1/10",
    "gtaboom: 4/30",
    "reddit: 21/25",
    "tg_gtavistar: 1/11"
