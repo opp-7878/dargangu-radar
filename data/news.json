@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "cc6a92a65747",
-   "title": "PS5 Sales Jump 22% in September Ahead of GTA 6",
-   "first_seen": "2026-10-23T00:49:17Z",
-   "updated": "2026-10-23T00:49:17Z",
-   "items": [
-    {
-     "id": "cc6a92a65747",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Briefs Finance",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "PS5 Sales Jump 22% in September Ahead of GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0s4dWJtRkhrSXZMTGpCZEJpNTlLbTl1cFBadElXNG42R1pnVVM3dkxHX2lySmRqX0Qwa21XVHlUaUlWWWtZY3k3R1lfRzV1QmV1a0c3MXB0Ykc4enp1YmtJaHpBUGNldUExTGFuanhDaGFsczI5akVvU1JVcDdZMVlJSVFWVTk3eTNUUVpkVnB6Zw?oc=5",
-     "ts": "2026-10-22T20:40:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-23T00:40:49Z",
+   "updated": "2026-10-23T01:01:09Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -13382,6 +13356,19 @@
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGV6M1VLSWFYWER0MUlVdk1vY2duSTEzaW01RU1jbFlfMWthNGpnWG1qQ2NFV1RBSU0yeGZfTWsxR3piNFRiVmZLRFRlaDEwUmJxUHpIOTNNNUtQbFo5RTZGbmlRVDR5Q1VXTFFFUHBJT2ZvTy16dm03REx4RWFud1JVaw?oc=5",
      "ts": "2026-10-23T00:31:27Z",
      "summary": ""
+    },
+    {
+     "id": "b212e959b847",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KXAN Austin",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 release date reportedly sparks planned mass sick day; US may lose billions | Jesse Weber Live",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVHZ5VkpnQzFEbW9rYzY3Y1ZnWmJwczZFaWI1S182aHRWREFCWldhTTFlWHdWMmxzMmd1ZWx0dF9DN2ZaZjBWeGNkTVAyQlFoTW8zblM4Vi1XM3djSlFya0pEZDNJTEtkWUpDVkFXaVBETkNpNnRGSVRyY2lZNTlSTnpDeGU4em96a3h4UkJyM0g5c0FnU3FqOUtyTzhHcmZRWVB1TFhaWTR2Ylo4T2hLX1RjVFRRd2JTc3VVSml6ZFBibTMyWnhBaDZvd2ltdw?oc=5",
+     "ts": "2026-10-22T12:58:08Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -13399,6 +13386,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "cc6a92a65747",
+   "title": "PS5 Sales Jump 22% in September Ahead of GTA 6",
+   "first_seen": "2026-10-23T00:49:17Z",
+   "updated": "2026-10-23T00:49:17Z",
+   "items": [
+    {
+     "id": "cc6a92a65747",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Briefs Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PS5 Sales Jump 22% in September Ahead of GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0s4dWJtRkhrSXZMTGpCZEJpNTlLbTl1cFBadElXNG42R1pnVVM3dkxHX2lySmRqX0Qwa21XVHlUaUlWWWtZY3k3R1lfRzV1QmV1a0c3MXB0Ykc4enp1YmtJaHpBUGNldUExTGFuanhDaGFsczI5akVvU1JVcDdZMVlJSVFWVTk3eTNUUVpkVnB6Zw?oc=5",
+     "ts": "2026-10-22T20:40:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -50492,7 +50505,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T00:50:48Z",
+  "last_run": "2026-10-23T01:01:09Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 97/100",
