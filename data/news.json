@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "ce4eae2504f2",
+   "title": "Выход GTA 6 назвали угрозой для мировой экономики",
+   "first_seen": "2026-10-23T10:20:49Z",
+   "updated": "2026-10-23T10:20:49Z",
+   "items": [
+    {
+     "id": "ce4eae2504f2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Газета",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Выход GTA 6 назвали угрозой для мировой экономики",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kaVkzX1dTU1MxcXFCUDFpbEJfTjJ3aHM1WVFNb0FPTDZoWHBQWDB5UUIxRGJIdi04R3hKeVdCNnV4WVljcWZCMFIwbWF0OEZpaW9KRTdVZUNMa0RZeWY3Vzh1R1ZWaEdnWFRURGd4d0QyUdIBckFVX3lxTE9kaVkzX1dTU1MxcXFCUDFpbEJfTjJ3aHM1WVFNb0FPTDZoWHBQWDB5UUIxRGJIdi04R3hKeVdCNnV4WVljcWZCMFIwbWF0OEZpaW9KRTdVZUNMa0RZeWY3Vzh1R1ZWaEdnWFRURGd4d0QyUQ?oc=5",
+     "ts": "2026-10-22T13:44:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "55b27f45dcb9",
    "title": "How Will Gas And Refueling Work In GTA 6?",
    "first_seen": "2026-10-23T10:10:49Z",
@@ -50316,56 +50342,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "5164c4bae60a",
-   "title": "Rockstar Issues New Official Statement on the GTA 6 Leaks",
-   "first_seen": "2026-10-15T04:24:41Z",
-   "updated": "2026-10-16T10:20:46Z",
-   "items": [
-    {
-     "id": "5164c4bae60a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "OpenCritic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Issues New Official Statement on the GTA 6 Leaks",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGRIel93bXR4WVFfX21BN0MzUC10dlN2TUJJVFMyQUJmY2xXdy1OZHdSX0FaOXVCdElUMWJFNHVZZEZhSEVlYnFiNExBV3pFU1BvbENEeS0zTXNtNEdCMXJFZ28xcldUd2d0RnB5VktwemVSM2VuQmN1a1gtUC05Mk9xY1I0ZDBVZVlUTWl2NUdWb0JyYWc?oc=5",
-     "ts": "2026-10-14T23:55:34Z",
-     "summary": ""
-    },
-    {
-     "id": "fe336e5c410d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "OpenCritic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Games Issues New Official Statement on GTA 6's Jason + Lucia",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDgtZUlieWM1OWJVZzRvdllYNzRWMGEteVo3eVNTOWR1U29PQXoxYjdCaFBKSHNEaWtCUVl0cFJZNmIxX2lPUlJfTkc5UGIzUjZzamhHZHMwTWZaYmxFbE16SzVKSHN6c1FSVVBpRVp3c0FqVFNtSjk1TU9DX0tDbUxBSEsybURIN19DQzNUZjQ2Rm8wamJJWXRRSEtTS1JqTnc?oc=5",
-     "ts": "2026-10-16T10:15:59Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 65,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T10:10:49Z",
+  "last_run": "2026-10-23T10:20:49Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 39/40",
+   "gnews_ru: 47/56",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
