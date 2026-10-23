@@ -1,6 +1,109 @@
 {
  "stories": [
   {
+   "id": "1bcf1fd40789",
+   "title": "As GTA VI approaches, advertisers are building a playbook to capitalize on the hype",
+   "first_seen": "2026-10-23T12:10:49Z",
+   "updated": "2026-10-23T12:20:50Z",
+   "items": [
+    {
+     "id": "1bcf1fd40789",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesBeat",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "As GTA VI approaches, advertisers are building a playbook to capitalize on the hype",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ3VRQ19XOExmR3RNdHdDdWh4Y2pYS2NGdUdDNVFkYlI3M3AtZ19kdXFKbllBQzZSQ3A2Y2ZacUhOOXJIdEFTYUhJWUNwSWlMV0FhSW9sU2dHbTVjMDVSZWpvYjVVYTdKQ1J2S1pMdUNhdzRnazgycGlPOW0yNUJJWnlLRVByY29ScEpjeEFEU2hHRWV5MXAySWtPaFVKZll5eFp4WDF3SkM?oc=5",
+     "ts": "2026-10-23T12:01:59Z",
+     "summary": ""
+    },
+    {
+     "id": "01953381451c",
+     "src": "gamesbeat",
+     "src_name": "GamesBeat",
+     "outlet": "",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "As GTA VI approaches, advertisers are building a playbook to capitalize on the hype",
+     "url": "https://gamesbeat.com/as-gta-vi-approaches-advertisers-are-building-a-playbook-to-capitalize-on-the-hype/",
+     "ts": "2026-10-23T12:00:00Z",
+     "summary": "The release of Grand Theft Auto VI is gearing up to be the Super Bowl of gaming, and advertisers are looking to soak up... The post As GTA VI approaches, advertisers are building a playbook to capitalize on the hype appeared first on GamesBeat ."
+    }
+   ],
+   "tags": [],
+   "score": 83,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 как Супербоул: бренды готовят рекламу к релизу",
+    "summary": "По данным GamesBeat, рекламодатели готовят кампанию к выходу GTA 6, сравнивая её с Супербоулом. Бренды строят плейбук, чтобы поймать хайп вокруг релиза.",
+    "idea": "Угол: бренды готовятся к релизу GTA 6 как к Супербоулу — что это значит для игроков. Зрителю интересно, увидит ли он рекламу в игре и сколько шума будет вокруг 19 ноября.",
+    "hook": "GTA 6 называют Супербоулом гейминга — бренды уже готовят рекламу.",
+    "stars": 3,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-23T12:20:54Z"
+   },
+   "msg_id": 149
+  },
+  {
+   "id": "d01bf7ef877f",
+   "title": "The Miami Heat x Vice City merch has gotten a little more affordable for fans outside the US!",
+   "first_seen": "2026-10-23T12:20:50Z",
+   "updated": "2026-10-23T12:20:50Z",
+   "items": [
+    {
+     "id": "d01bf7ef877f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The Miami Heat x Vice City merch has gotten a little more affordable for fans outside the US!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xdbutt/the_miami_heat_x_vice_city_merch_has_gotten_a/",
+     "ts": "2026-10-23T11:50:28Z",
+     "summary": "reports the store is now offering an additional $5 discount on international shipping costs. submitted by /u/Bk4LL to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7aa6998f6b41",
+   "title": "GTA 6 Has Millions Of People Skipping Work On Launch Day, Study Finds",
+   "first_seen": "2026-10-23T12:20:50Z",
+   "updated": "2026-10-23T12:20:50Z",
+   "items": [
+    {
+     "id": "7aa6998f6b41",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA 6 Has Millions Of People Skipping Work On Launch Day, Study Finds",
+     "url": "https://rockstarintel.com/gta-6-has-millions-of-people-skipping-work-on-launch-day-study-finds/",
+     "ts": "2026-10-23T12:16:35Z",
+     "summary": "GTA 6 is set to release in less than a month on November 19. And although the hype is international, it’s a recent study from Uswitch which estimates the number of employees on sick leave, the day of the game release. On a sample of 1000 British employees selected by their affinity to video games, [...] The post GTA 6 Has Millions Of People Skipping Work On Launch Day, Study Finds appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "1f88d4f4e94a",
    "title": "GTA 6 Focus Ability Explained: How It Works and How to Use It",
    "first_seen": "2026-10-23T11:50:46Z",
@@ -13748,32 +13851,6 @@
    ],
    "tags": [],
    "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1bcf1fd40789",
-   "title": "As GTA VI approaches, advertisers are building a playbook to capitalize on the hype",
-   "first_seen": "2026-10-23T12:10:49Z",
-   "updated": "2026-10-23T12:10:49Z",
-   "items": [
-    {
-     "id": "1bcf1fd40789",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesBeat",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "As GTA VI approaches, advertisers are building a playbook to capitalize on the hype",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ3VRQ19XOExmR3RNdHdDdWh4Y2pYS2NGdUdDNVFkYlI3M3AtZ19kdXFKbllBQzZSQ3A2Y2ZacUhOOXJIdEFTYUhJWUNwSWlMV0FhSW9sU2dHbTVjMDVSZWpvYjVVYTdKQ1J2S1pMdUNhdzRnazgycGlPOW0yNUJJWnlLRVByY29ScEpjeEFEU2hHRWV5MXAySWtPaFVKZll5eFp4WDF3SkM?oc=5",
-     "ts": "2026-10-23T12:01:59Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 75,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -50196,103 +50273,22 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "02f3b2fe6911",
-   "title": "Avon Hertz is doing everything he can to bring flying vehicles into GTA 6",
-   "first_seen": "2026-10-16T12:20:49Z",
-   "updated": "2026-10-16T12:20:49Z",
-   "items": [
-    {
-     "id": "02f3b2fe6911",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Avon Hertz is doing everything he can to bring flying vehicles into GTA 6",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x7e2me/avon_hertz_is_doing_everything_he_can_to_bring/",
-     "ts": "2026-10-16T11:48:55Z",
-     "summary": "submitted by /u/RogerRoger63358 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2b07f4d9546a",
-   "title": "When GTA6 comes out is there any tips on how to best approach the game?",
-   "first_seen": "2026-10-16T12:20:49Z",
-   "updated": "2026-10-16T12:20:49Z",
-   "items": [
-    {
-     "id": "2b07f4d9546a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "When GTA6 comes out is there any tips on how to best approach the game?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x7elll/when_gta6_comes_out_is_there_any_tips_on_how_to/",
-     "ts": "2026-10-16T12:14:42Z",
-     "summary": "I didn’t get GTAV right when it came out so when I started playing it was when friends had already played through it and went online. Preordered GTA6 and wondering if there’s any benefit to online in playing through the whole story first or if it’s better to start online first? My friends plan on getting it as well so want to know if there’s an approach that makes the experience nicer submitted by /u/Boysenberry-Secret-1 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "Online",
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "98bbfb35e5a8",
-   "title": "Tactical Dog man!",
-   "first_seen": "2026-10-16T12:20:49Z",
-   "updated": "2026-10-16T12:20:49Z",
-   "items": [
-    {
-     "id": "98bbfb35e5a8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Tactical Dog man!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1x7endp/tactical_dog_man/",
-     "ts": "2026-10-16T12:17:02Z",
-     "summary": "Look at that good boy... submitted by /u/WillSenpaiii to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T12:10:49Z",
+  "last_run": "2026-10-23T12:20:54Z",
   "last_log": [
-   "rockstar_site: 0/2",
+   "rockstar_site: 0/3",
    "gnews_en: 99/100",
-   "gnews_ru: 38/39",
-   "gamesbeat: 1/10",
+   "gnews_ru: 46/58",
+   "gamesbeat: 2/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
    "ign: 0/20",
    "eurogamer: 0/100",
    "dexerto_gta: 3/50",
-   "rockstarintel: 1/10",
+   "rockstarintel: 2/10",
    "gtaboom: 4/30",
    "reddit: 23/25",
    "tg_gtavistar: 2/11"
