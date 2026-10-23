@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "4c22897d56ea",
+   "title": "Cluckin’ Bell Food Stand Reportedly Opens at Kaseya Center for GTA VI",
+   "first_seen": "2026-10-22T01:50:48Z",
+   "updated": "2026-10-23T03:31:01Z",
+   "items": [
+    {
+     "id": "4c22897d56ea",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Cluckin' Bell in the Kaseya Center",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xc55fr/cluckin_bell_in_the_kaseya_center/",
+     "ts": "2026-10-22T01:17:44Z",
+     "summary": "submitted by /u/RealGiancarlosR to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "87f2f819e687",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Happy Gamer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Cluckin’ Bell Food Stand Reportedly Opens at Kaseya Center for GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWEwUWtGQU82OHQ1ZnRDNnBKRExTLVZaTFpBaTRLeW5pMW55NUx4Zk9KMC1YZ0ZQVDFHamx0aThXY1kyRFl0UHc5bTBBbFZabk5pVzFJZEFITzdGVlp4NnZiMU95Z254NUltOVFCRTJPYWl3SUxLWFlaSkRsN0x0MA?oc=5",
+     "ts": "2026-10-22T10:21:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9c285ac8f66d",
+   "title": "Train your thumbs for GTA 6: UK gym launches new workout",
+   "first_seen": "2026-10-23T03:31:01Z",
+   "updated": "2026-10-23T03:31:01Z",
+   "items": [
+    {
+     "id": "9c285ac8f66d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Al-Bawaba",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Train your thumbs for GTA 6: UK gym launches new workout",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd1FicXNNdUtOcjBvX3JBVU9CR3RKQ2ZuZFJubFMwdGktendKSkZ4V0RwSDZqUC1qTGtlZlduX2oySFVHX0NnRnRWWVVpTU83RnNwbGtmNGd6RFJ5Yzc3Q1dMcXJwYUNnMkxPRFg0TGhsbHRUSmRHN0cxY0pXeVFrMU9mZGNfTGdJRk81b2s3OA?oc=5",
+     "ts": "2026-10-22T07:04:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -19158,32 +19223,6 @@
    "tags": [],
    "score": 40,
    "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4c22897d56ea",
-   "title": "Cluckin' Bell in the Kaseya Center",
-   "first_seen": "2026-10-22T01:50:48Z",
-   "updated": "2026-10-22T01:50:48Z",
-   "items": [
-    {
-     "id": "4c22897d56ea",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Cluckin' Bell in the Kaseya Center",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xc55fr/cluckin_bell_in_the_kaseya_center/",
-     "ts": "2026-10-22T01:17:44Z",
-     "summary": "submitted by /u/RealGiancarlosR to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
    "alerted": "",
    "status": "new"
   },
@@ -50360,10 +50399,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T03:20:48Z",
+  "last_run": "2026-10-23T03:31:01Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 98/100",
+   "rockstar_site: 0/1",
+   "gnews_en: 97/100",
    "gnews_ru: 45/53",
    "gamesbeat: 1/10",
    "vgc: 2/10",
