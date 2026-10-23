@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-23T11:20:45Z",
+   "updated": "2026-10-23T11:31:00Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -13642,6 +13642,19 @@
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVGRsZGE5WlFkTVh6ODAwSHB2U0pUeTR0VHZDdHRSamNlS0NieEJnUjF4MndLWFU4LVBwZFVJTGhQejk0RzJua2UyeXNqYlFZNS1Ba3gwRS1vR3VqRmRPQ3JDZ1dGT3hWYm43U3VMak1kTDlxMUZVMXg0Mkc4X0dybjVubV9HU3hZNk5wenZwbmkya1Zwc08td09R?oc=5",
      "ts": "2026-10-23T09:48:57Z",
      "summary": ""
+    },
+    {
+     "id": "5c84e825b4b0",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "GTA 6 sick days predicted to cost the US $1 billion",
+     "url": "https://www.dexerto.com/gta/gta-6-sick-days-predicted-to-cost-the-us-1-billion-3421034/",
+     "ts": "2026-10-22T14:35:09Z",
+     "summary": "The release of GTA 6 could cost the US economy around $1 billion, with an estimated 1.5 million people reportedly planning to take time off work to play Rockstar’s long-awaited sequel."
     }
    ],
    "tags": [
@@ -13659,6 +13672,45 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "55b27f45dcb9",
+   "title": "How Will Gas And Refueling Work In GTA 6?",
+   "first_seen": "2026-10-23T10:10:49Z",
+   "updated": "2026-10-23T11:31:00Z",
+   "items": [
+    {
+     "id": "55b27f45dcb9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "How Will Gas And Refueling Work In GTA 6?",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0ZhS29YVkx5Ukd2VlV4M0xwRHpLYUhPRV9UYkxGaUp1ZTdJMHc4Y3llaUhfT19VYzhxZHRfbXd0eng2eXFUdHAzRWdGQUd3UWFMWGRqc05jTkNKaV9RS3VjUWJhTmpUakpKQ25JNmJybFY4RVl1MGRPRU9LRUo2UQ?oc=5",
+     "ts": "2026-10-22T21:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "47e4bcf6691e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How Will Gas And Refueling Work In GTA 6?",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yeTNkakpZZ0JIT01zNjluaWRUT1JVbFlaNkJRWkRfOHdyc3BUTXR3aXgxTk04ZFlnSWk1WXNhb0NheEk3SjhZbV83QUZPem5Sb0RMUTB5Q3NrX0lMc0ZORTh3SVlCYTdPQ3U2eEI1aEpPMU5yUUhrbDNiVThWQQ?oc=5",
+     "ts": "2026-10-23T09:57:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -13897,32 +13949,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "55b27f45dcb9",
-   "title": "How Will Gas And Refueling Work In GTA 6?",
-   "first_seen": "2026-10-23T10:10:49Z",
-   "updated": "2026-10-23T10:10:49Z",
-   "items": [
-    {
-     "id": "55b27f45dcb9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "How Will Gas And Refueling Work In GTA 6?",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0ZhS29YVkx5Ukd2VlV4M0xwRHpLYUhPRV9UYkxGaUp1ZTdJMHc4Y3llaUhfT19VYzhxZHRfbXd0eng2eXFUdHAzRWdGQUd3UWFMWGRqc05jTkNKaV9RS3VjUWJhTmpUakpKQ25JNmJybFY4RVl1MGRPRU9LRUo2UQ?oc=5",
-     "ts": "2026-10-22T21:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -50294,127 +50320,21 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "dec21621455c",
-   "title": "Эксперты усомнились в качестве HDR в GTA 6: анализ трейлера не выявил дополнительных деталей в ярких участках",
-   "first_seen": "2026-10-16T11:30:58Z",
-   "updated": "2026-10-16T11:30:58Z",
-   "items": [
-    {
-     "id": "dec21621455c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Эксперты усомнились в качестве HDR в GTA 6: анализ трейлера не выявил дополнительных деталей в ярких участках",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWE9lLUZHR0FsQTBGQ2JjM0FRSXZXQ0NsU1ViZlZuTzMtV1BlTUZ6OWQtVk9iY3ZpRkM4Zkg2Z3lVcU5IQXN2VXU4RU1YRmZXNl9KclVCa2xMSkFhOTZmZDdLTTllSVF5a0xzNDVJcmZTS2RSZnVJVUEtQWs2elNwVnJrUGhOMlNOMlNfQUdRaS1UeHZYWnlXRVhwVXE5WXF3Mm9mMTRWRXRmZEo3R19JTGVoTkNjd3ZIZEp5N0NWTDR0S0pUd3pLaUtsbXVqSWo3VUpBTkQtVHg2MmlEZmswTDdUY3EtR0h0aXVB?oc=5",
-     "ts": "2026-10-16T11:16:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "73e748ea3431",
-   "title": "GTA VI lowering real-life crime/death rate?",
-   "first_seen": "2026-10-16T11:30:58Z",
-   "updated": "2026-10-16T11:30:58Z",
-   "items": [
-    {
-     "id": "73e748ea3431",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA VI lowering real-life crime/death rate?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1x7dk50/gta_vi_lowering_reallife_crimedeath_rate/",
-     "ts": "2026-10-16T11:20:56Z",
-     "summary": "Had this thought as I read a news story about a guy that did a pre-meditated violent crime a few weeks before release. Like, dam, he won't get to play GTA 6, what an idiot! Which made me think a lot of people are potentially holding off on doing stupid shit so they don't miss out on the game so close to release. Same for death rates - dive from this bridge into a river? Nah mate, need to be able to play GTA. Anyone found themselves steering away from risky behaviour as the launch gets closer? submitted by /u/54-Over to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6178522e3443",
-   "title": "'GTA 6' soundtrack: Every song, artist, and celebrity DJ we know about so far",
-   "first_seen": "2026-10-16T11:30:58Z",
-   "updated": "2026-10-16T11:30:58Z",
-   "items": [
-    {
-     "id": "6178522e3443",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6' soundtrack: Every song, artist, and celebrity DJ we know about so far",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoMnI2QU5XdmdwTzRHZnE1Q29yekVWSXVMd0xYSEIwa3ZrQ0VvQzJtbkRBY1k0RTNCY2ZBbVhuRUxwYlpXZHVNTWNNaDdXb0wwX25ybm5rQlBxUVJWQThGYmx3b3BXQjVjcDJieQ?oc=5",
-     "ts": "2026-10-16T11:26:10Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "97d8110cc853",
-   "title": "GTA 6 Is Still Making Changes With Only 1 Month Left Until Launch",
-   "first_seen": "2026-10-16T11:30:58Z",
-   "updated": "2026-10-16T11:30:58Z",
-   "items": [
-    {
-     "id": "97d8110cc853",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "OpenCritic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Is Still Making Changes With Only 1 Month Left Until Launch",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkU4bEhYdk1uWk5GVWhqZGRjbW1lOTA3RGNHdEYzM2FPU0xScENydGlWblJ6UFdCXzZfTDV3NG1XVGtsV2lOS0lFQTdzODF3dGVxTTljN3VaQzJqWFczLVNHTzVkNFZGdXU4VTYwLXUwdWlCWERvclBBOXFkaE00Q0hRblFzaTY5NUh1bUJGT1FxWjJSamp4QW8zTmdMS1lF?oc=5",
-     "ts": "2026-10-16T11:26:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T11:20:45Z",
+  "last_run": "2026-10-23T11:31:00Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 45/58",
+   "gnews_ru: 45/57",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
    "ign: 0/20",
    "eurogamer: 0/100",
-   "dexerto_gta: 2/50",
+   "dexerto_gta: 3/50",
    "rockstarintel: 1/10",
    "gtaboom: 4/30",
    "reddit: 23/25",
