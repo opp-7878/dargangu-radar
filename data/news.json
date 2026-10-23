@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "97fa6492f731",
+   "title": "Директор Mass Effect 5 с иронией отреагировал на закрытие BioWare: \"Зато не придется брать больничный ради GTA 6\"",
+   "first_seen": "2026-10-23T21:40:47Z",
+   "updated": "2026-10-23T21:40:47Z",
+   "items": [
+    {
+     "id": "97fa6492f731",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Директор Mass Effect 5 с иронией отреагировал на закрытие BioWare: \"Зато не придется брать больничный ради GTA 6\"",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWEJTZXd2SmdfMVJDb2o1X01wZVg2RGFRbFozaWk5ZUpvUTBIdGo2WnI3THl3VDJlSGtuYWJGY0RYWEFKNmxmQUZBRV9rUGRZRVF4LUpHc1NscDByYXFTS0tKNTBkS2tWN3VTRmQ0SUxzZ2t1eGtRUU5JWXA4X3dPUzR0N1oxd0djLXp5ZWRxT3pQbEZVSHN2QnZKb2FrQnJPUjZaVm14TXVfaEJEeU1rdjktelFhV0xEWWNnb0lLR1VSQzI4OFdIdVA3RWNWa1IyX05NWV9XLVFHSjVfYjl5Y0ZKNVd1dmhLYTlsSHh6cV9BUHNTOWc?oc=5",
+     "ts": "2026-10-23T21:09:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "06523fa99978",
    "title": "the Jason side of the New York bus!",
    "first_seen": "2026-10-23T21:20:46Z",
@@ -49876,41 +49902,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "3b3f242b988f",
-   "title": "The release of GTA 6 almost here and what better way to start the weekend than with insane supercars cruising around Miami? The GTA 6 developer designed some real-world supercars to look like their in-game counterparts and showed them off around The",
-   "first_seen": "2026-10-16T21:40:44Z",
-   "updated": "2026-10-16T21:40:44Z",
-   "items": [
-    {
-     "id": "3b3f242b988f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Facebook",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The release of GTA 6 almost here and what better way to start the weekend than with insane supercars cruising around Miami? The GTA 6 developer designed some real-world supercars to look like their in-game counterparts and showed them off around The",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOHh6aTRmXzlQT3pKRmNKUkdLTFZrRDYxMXZJUWlGUXFUVkYwc01FSmNtTlNoTncxWXBmeTR1eTdEQ0FQZHZoaFlaY3oybW4tM3VwRmVJOFJDdmpWdTFQUUVFLWFKYmpJcjlMUDA4bnBDVTBTRWljaTlGSUh5d0tCQS15ZXl3N1pING5tbVVORGtmNk5FWndycklzcDVkaXhqMGVtT3JzZkRjenIxbmtweWFGSTFHMTZDSXQ2amNUV2wzdUYzTFJZRnRLRG0zVGJQSWxsTFJLcU50QTZMQjJnaQ?oc=5",
-     "ts": "2026-10-16T17:25:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T21:31:22Z",
+  "last_run": "2026-10-23T21:40:47Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/3",
+   "gnews_en: 99/100",
+   "gnews_ru: 32/64",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -49919,7 +49919,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 1/10",
    "gtaboom: 4/30",
-   "reddit: 21/25",
+   "reddit: 23/25",
    "tg_gtavistar: 1/11"
   ],
   "digest": "2026-10-23",
