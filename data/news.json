@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-23T23:10:47Z",
+   "updated": "2026-10-23T23:40:46Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -14136,6 +14136,19 @@
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcW16STB5Wjk1RjYyTjRhR0dvZWQyQWJPek1TQzFWMjFfU1BmTUd4NlFRR3djYmtxb2hjckYyQ0xTUnN2UnVDYlhRUEZwdURLTkNFbGRlOWFGNVZzbDdoM052Znd3eHc1YUd6aDIzUG0ydHNwNFJOUHZHTndwd0JvRTlkdlhlQmFFNWc?oc=5",
      "ts": "2026-10-23T23:04:10Z",
      "summary": ""
+    },
+    {
+     "id": "11a246c71499",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Investing.com Canada",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How should investors think about GTA VI pre-order performance? By Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMURSNkJhdnluLXNfdmtSUDJkWUFucS1veTUwQkFuaG1xN1ZPZDlCcDlfbDFlNlBaeDliX1RUWjk0Z1NFaXVoRXlicUNPeWpEWjBjZjdXSGdXTTBzUWZGdWh3a3R0aE5ZY3V1MVQ2NDdyRG0zSnlLa1p2Ump5WGdTOWMzRWpwRnRMSFFhOHNrYU9FeGRoYVRPcWpJY3ZrZWlxNURRYWVhQTVxMk96SE1KRQ?oc=5",
+     "ts": "2026-10-23T23:38:03Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -14153,6 +14166,34 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "b9544ca55155",
+   "title": "Как инвесторам оценивать предзаказы GTA VI?",
+   "first_seen": "2026-10-23T23:40:46Z",
+   "updated": "2026-10-23T23:40:46Z",
+   "items": [
+    {
+     "id": "b9544ca55155",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Investing.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Как инвесторам оценивать предзаказы GTA VI?",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BOFFxMUo4LUtaeFNid2JEYWhESUg5NkNRb09JX1JrNHVubU5NeWJUMUVXemVVcUh3c1FqREU1c19VM3VXR0gwSUJaeVFLb0lULVFNczZuV1dXeE9wVm9pbXVrZnR2M2F5VGc?oc=5",
+     "ts": "2026-10-23T23:33:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -49665,41 +49706,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4e7015307160",
-   "title": "Rockstar is literally turning Miami into Vice City: Convoy of GTA 6 supercars spotted driving around town today!",
-   "first_seen": "2026-10-16T23:30:58Z",
-   "updated": "2026-10-16T23:30:58Z",
-   "items": [
-    {
-     "id": "4e7015307160",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Rockstar is literally turning Miami into Vice City: Convoy of GTA 6 supercars spotted driving around town today!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x7ukrm/rockstar_is_literally_turning_miami_into_vice/",
-     "ts": "2026-10-16T22:55:50Z",
-     "summary": "Cool stuff happening around Miami. I love that R* is doing so much irl marketing right now. submitted by /u/Great-External-2439 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T23:30:56Z",
+  "last_run": "2026-10-23T23:40:46Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 99/100",
-   "gnews_ru: 32/61",
+   "gnews_en: 98/99",
+   "gnews_ru: 34/61",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
