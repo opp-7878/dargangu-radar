@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "261036cac153",
+   "title": "GTA 6 Survey Finds 30% Of Remote Working Players May Play During Work",
+   "first_seen": "2026-10-23T22:10:49Z",
+   "updated": "2026-10-23T22:10:49Z",
+   "items": [
+    {
+     "id": "261036cac153",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iGaming.org",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Survey Finds 30% Of Remote Working Players May Play During Work",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXpMTklKVEdTYXJkY01YVHdnSkR1Q2NfS001c04zUDVZaXctZ0psSFhBUEl3ZUZaZlhDQ0VaYWJNQ29mYXNkOWpYQUE2YlNyMW93WjZtNVRHRTRBTElka09CTXpQamYtRTQzMXYzbDFTZDhtQ0h6TVNFRjkyZ1doVlVveXRXVTRvT3FpVnhpeFNuWk5sMjNVbNIBmAFBVV95cUxORXpMTklKVEdTYXJkY01YVHdnSkR1Q2NfS001c04zUDVZaXctZ0psSFhBUEl3ZUZaZlhDQ0VaYWJNQ29mYXNkOWpYQUE2YlNyMW93WjZtNVRHRTRBTElka09CTXpQamYtRTQzMXYzbDFTZDhtQ0h6TVNFRjkyZ1doVlVveXRXVTRvT3FpVnhpeFNuWk5sMjNVbA?oc=5",
+     "ts": "2026-10-23T21:39:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "de92d8ac0306",
+   "title": "Why GTA 6 Fans Are Preordering A Game They Still Haven't Seen Properly Played",
+   "first_seen": "2026-10-23T22:10:49Z",
+   "updated": "2026-10-23T22:10:49Z",
+   "items": [
+    {
+     "id": "de92d8ac0306",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "www.svg.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Why GTA 6 Fans Are Preordering A Game They Still Haven't Seen Properly Played",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0VCbk5mMi1LY0pLTGIwdGc4ZS1PRlFSSkhpNVhVX080T1V6dUJ4NmxuMWRSLXl1UE5hTFNDNGQ5ZWMwV082M0Npc2NGV3plem9IVkhUdFVaWUZfTjRoMlV4MG4xaVl0ODFEUFh0YTZXaHFVWEQyMTI5SkptdlhKMzl4cllLUW5H?oc=5",
+     "ts": "2026-10-23T22:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "97fa6492f731",
    "title": "Директор Mass Effect 5 с иронией отреагировал на закрытие BioWare: \"Зато не придется брать больничный ради GTA 6\"",
    "first_seen": "2026-10-23T21:40:47Z",
@@ -49906,11 +49960,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T22:01:12Z",
+  "last_run": "2026-10-23T22:10:49Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 98/99",
-   "gnews_ru: 32/62",
+   "gnews_en: 97/98",
+   "gnews_ru: 31/62",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
