@@ -50329,41 +50329,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e59ebfd7af6e",
-   "title": "Машины из GTA 6 вывели на улицы Майами",
-   "first_seen": "2026-10-16T10:50:45Z",
-   "updated": "2026-10-16T10:50:45Z",
-   "items": [
-    {
-     "id": "e59ebfd7af6e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "WTFTime.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Машины из GTA 6 вывели на улицы Майами",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXY4bGZ3NnMtUVlCRktpSmhpYVdPc2x3Zzd2THphN0g1Q05ya2RJWERaUm9mZEN1cFIwaFZYVVR3b1N1dklpZ3NCb1FaZ0xmWi1lQWJQWElyLW56VkJuUkJLc0NvNndOWU9CQTRjU1M1c0o0VzhyOW9XMWFEZ2YyXzFB?oc=5",
-     "ts": "2026-10-16T10:45:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T10:40:47Z",
+  "last_run": "2026-10-23T10:50:47Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 47/57",
+   "gnews_ru: 43/57",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
