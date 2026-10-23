@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "73b7e25fcf88",
+   "title": "Daft Punk Might’ve Skipped GTA VI But They’re Getting a LEGO Set",
+   "first_seen": "2026-10-23T09:10:49Z",
+   "updated": "2026-10-23T10:01:14Z",
+   "items": [
+    {
+     "id": "73b7e25fcf88",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GLITCHED",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Daft Punk Might’ve Skipped GTA VI But They’re Getting a LEGO Set",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHZyblRITy16WXFwckRqaXdCQW52Y1NVQXM5bXFyMlZNU3VGZFRlMmYwY0FSenBrTWN2ZjE5bFRDUlJ0cjFSb2h1cnhPTlF4SzVRQThMNXFSUThCYzVyODFqX0lGOGZfa2djQldCU05wOVlqMUQzbmZNdHhGRjFIYi15RXYyazFDbmdoaDEtY3k5eS1hNUE?oc=5",
+     "ts": "2026-10-23T06:42:02Z",
+     "summary": ""
+    },
+    {
+     "id": "8dc253930da8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Nexus Hub",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Daft Punk Might’ve Skipped GTA VI But They’re Getting a LEGO Set",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajkzU1ZIakxXdXZWOFpGQU1nY213ZDJ0N0lqVzlMTTNxSDMtSzU2eHpxMXVzenVWYWFFaHZIYXZXcTcxdmRDUm5uU1JnQU9NbUczeEpVbzMycVM0NEJvOVdZWGdKS0d6SEluSzJaOFI2dllSVmhoNjNxZ0JRM0VwZHE3WFBjcld4b2E4N1dZVlJsbVkxQ2p2T0p4NWRUYjN6d0RpS1RBLVdZSTNWSEtqemdLcU0?oc=5",
+     "ts": "2026-10-23T09:48:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "8ed721498fd0",
    "title": "GTA 6 Marketing Now Includes Real-Life Burger Shot & Cluckin’ Bell",
    "first_seen": "2026-10-22T03:20:48Z",
@@ -14739,32 +14778,6 @@
      "title": "Why The Duskbloods Is The Only Real Rival To GTA 6 In 2026",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3YyTzRGbVF3ZndOTHdPNHFrTlZLY0JzUFVkdFBzdHlKS2kwclpHblZOTW41bUlfcV94ZjJHWk1kLXJXaVZGem9vSDR1NENIQnVLSHM5ZUNNWDFGOGxHUmZlc2h4MmU1TEdNRzJTXzc0TEZPamhEcWZuam1LZzNld3k4WTlBSG43ajMxdA?oc=5",
      "ts": "2026-10-23T05:52:52Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "73b7e25fcf88",
-   "title": "Daft Punk Might’ve Skipped GTA VI But They’re Getting a LEGO Set",
-   "first_seen": "2026-10-23T09:10:49Z",
-   "updated": "2026-10-23T09:10:49Z",
-   "items": [
-    {
-     "id": "73b7e25fcf88",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GLITCHED",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Daft Punk Might’ve Skipped GTA VI But They’re Getting a LEGO Set",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHZyblRITy16WXFwckRqaXdCQW52Y1NVQXM5bXFyMlZNU3VGZFRlMmYwY0FSenBrTWN2ZjE5bFRDUlJ0cjFSb2h1cnhPTlF4SzVRQThMNXFSUThCYzVyODFqX0lGOGZfa2djQldCU05wOVlqMUQzbmZNdHhGRjFIYi15RXYyazFDbmdoaDEtY3k5eS1hNUE?oc=5",
-     "ts": "2026-10-23T06:42:02Z",
      "summary": ""
     }
    ],
@@ -50361,11 +50374,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T09:50:51Z",
+  "last_run": "2026-10-23T10:01:14Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 45/56",
+   "gnews_ru: 46/56",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
