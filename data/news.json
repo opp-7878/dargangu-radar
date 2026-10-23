@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "06523fa99978",
+   "title": "the Jason side of the New York bus!",
+   "first_seen": "2026-10-23T21:20:46Z",
+   "updated": "2026-10-23T21:20:46Z",
+   "items": [
+    {
+     "id": "06523fa99978",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "the Jason side of the New York bus!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xdq7ax/the_jason_side_of_the_new_york_bus/",
+     "ts": "2026-10-23T21:11:04Z",
+     "summary": "saw it a few times around the south end of central park, i wonder how many there are? submitted by /u/aidopotato5 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "fd156d4c62e4",
    "title": "First time playing older GTA games.",
    "first_seen": "2026-10-23T21:10:48Z",
@@ -49902,66 +49928,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ba8469342d30",
-   "title": "Чего лично вы ждете от GTA 6?",
-   "first_seen": "2026-10-16T21:20:43Z",
-   "updated": "2026-10-16T21:20:43Z",
-   "items": [
-    {
-     "id": "ba8469342d30",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Чего лично вы ждете от GTA 6?",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kZHR5djFJcXZlTHdIcVNsS0I2ZzZ6VDQwc2Q1QUFWUXlHcTVzWW5rZWpYVF9fNldWa3ZwekNIbFBiTGo5MmNSeTA5TzZrbm16NlJCckNmaUpjdmx1Z21xVV9ydEx5ZHhEc2FpUUZ3?oc=5",
-     "ts": "2026-10-16T11:01:31Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "214ae7b1b127",
-   "title": "What I expect happened after...",
-   "first_seen": "2026-10-16T21:20:43Z",
-   "updated": "2026-10-16T21:20:43Z",
-   "items": [
-    {
-     "id": "214ae7b1b127",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What I expect happened after...",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x7s28w/what_i_expect_happened_after/",
-     "ts": "2026-10-16T21:07:32Z",
-     "summary": "submitted by /u/S_Shadow77 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T21:10:48Z",
+  "last_run": "2026-10-23T21:20:46Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 99/100",
+   "gnews_en: 73/74",
    "gnews_ru: 31/62",
    "gamesbeat: 2/10",
    "vgc: 0/10",
