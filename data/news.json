@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "b54c0ff7bedb",
+   "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
+   "first_seen": "2026-10-23T18:50:49Z",
+   "updated": "2026-10-23T19:10:47Z",
+   "items": [
+    {
+     "id": "b54c0ff7bedb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1hrYjVsWTlsenVYWE9pTThDa0hnbFJId3ZtUGwzd0RPVFd2YVpHSE9BaXVHV1Y3VS01MFZWUWVnSjBmcTFVZnVKMElkdEpnMVpsT1NSU0I3d3V2TkRfQ1laVmdLRkxGVldJNVNOR3BGdzM0b3dFTjFBU2E3TnQ0RFNWcHBSRUVXYWxtYThpWmRnbk9raU14TmZKUnNsQUU?oc=5",
+     "ts": "2026-10-23T18:43:18Z",
+     "summary": ""
+    },
+    {
+     "id": "63c9fb8d3ce5",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
+     "url": "https://www.ign.com/articles/ahead-of-gta-6-playstation-5-sales-were-up-22-likely-due-to-wolverine",
+     "ts": "2026-10-23T18:43:16Z",
+     "summary": "The latter part of 2026 has been packed with excellent games, all leading up to GTA 6 on November 19, so it's not surprising that PS5 sales have jumped over last month."
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "de23fae24055",
    "title": "Starting November 16th, Discord and GTA 6 will be running a promotion that features a new Custom App Icon, Display Name Font and Client Theme.",
    "first_seen": "2026-10-23T19:01:13Z",
@@ -48,32 +87,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b54c0ff7bedb",
-   "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
-   "first_seen": "2026-10-23T18:50:49Z",
-   "updated": "2026-10-23T18:50:49Z",
-   "items": [
-    {
-     "id": "b54c0ff7bedb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1hrYjVsWTlsenVYWE9pTThDa0hnbFJId3ZtUGwzd0RPVFd2YVpHSE9BaXVHV1Y3VS01MFZWUWVnSjBmcTFVZnVKMElkdEpnMVpsT1NSU0I3d3V2TkRfQ1laVmdLRkxGVldJNVNOR3BGdzM0b3dFTjFBU2E3TnQ0RFNWcHBSRUVXYWxtYThpWmRnbk9raU14TmZKUnNsQUU?oc=5",
-     "ts": "2026-10-23T18:43:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -49982,15 +49995,15 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T19:01:13Z",
+  "last_run": "2026-10-23T19:10:47Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 98/99",
-   "gnews_ru: 27/62",
+   "gnews_ru: 28/62",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
-   "ign: 1/20",
+   "ign: 2/20",
    "eurogamer: 0/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 2/10",
