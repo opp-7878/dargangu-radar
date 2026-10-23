@@ -1,75 +1,10 @@
 {
  "stories": [
   {
-   "id": "4c22897d56ea",
-   "title": "Cluckin’ Bell Food Stand Reportedly Opens at Kaseya Center for GTA VI",
-   "first_seen": "2026-10-22T01:50:48Z",
-   "updated": "2026-10-23T03:31:01Z",
-   "items": [
-    {
-     "id": "4c22897d56ea",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Cluckin' Bell in the Kaseya Center",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xc55fr/cluckin_bell_in_the_kaseya_center/",
-     "ts": "2026-10-22T01:17:44Z",
-     "summary": "submitted by /u/RealGiancarlosR to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "87f2f819e687",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Happy Gamer",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Cluckin’ Bell Food Stand Reportedly Opens at Kaseya Center for GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWEwUWtGQU82OHQ1ZnRDNnBKRExTLVZaTFpBaTRLeW5pMW55NUx4Zk9KMC1YZ0ZQVDFHamx0aThXY1kyRFl0UHc5bTBBbFZabk5pVzFJZEFITzdGVlp4NnZiMU95Z254NUltOVFCRTJPYWl3SUxLWFlaSkRsN0x0MA?oc=5",
-     "ts": "2026-10-22T10:21:51Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9c285ac8f66d",
-   "title": "Train your thumbs for GTA 6: UK gym launches new workout",
-   "first_seen": "2026-10-23T03:31:01Z",
-   "updated": "2026-10-23T03:31:01Z",
-   "items": [
-    {
-     "id": "9c285ac8f66d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Al-Bawaba",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Train your thumbs for GTA 6: UK gym launches new workout",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd1FicXNNdUtOcjBvX3JBVU9CR3RKQ2ZuZFJubFMwdGktendKSkZ4V0RwSDZqUC1qTGtlZlduX2oySFVHX0NnRnRWWVVpTU83RnNwbGtmNGd6RFJ5Yzc3Q1dMcXJwYUNnMkxPRFg0TGhsbHRUSmRHN0cxY0pXeVFrMU9mZGNfTGdJRk81b2s3OA?oc=5",
-     "ts": "2026-10-22T07:04:08Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-23T03:20:48Z",
+   "updated": "2026-10-23T03:40:46Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -13460,6 +13395,19 @@
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1A3Q2NZN2ZaS3Q3ZlVvcUIwdWpTYUU0LUpYWDkyZndKN2pka2swcFFiZjdkTDZPLW5wcGxZTTMyT3RRd0Y0YlhFZGZ3WC1ESjV6WDJOWlphc01lZmd4X0xTMmZxMWdYeFoxVGdNUTdXejJnS3ZaU2ZoV0hBWVJidGtwRWlCTjFFMHVheHdwTkpmbHRxQTlBb2F0S08?oc=5",
      "ts": "2026-10-23T01:53:02Z",
      "summary": ""
+    },
+    {
+     "id": "b0390d5ca7f6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag Middle East",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Standard Edition vs. Ultimate Edition: Which Version Is the Better Deal?",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1UwQm1RQmotTkJ0eWlYMlBIdTJnREJGWmtyaXowQW12WEZZdS04V0llMlJqRjhxX2NGTmx5Q2s2NHllcXV0b3pmU1dGZEFtUHFyX1VELWg3WTR5U1FxSzYyUFl5RWV1OVdnUGdWMU1fMUV2dWtPLU1LYmpNaDExaXBsT2VDeEFhWjlya2gyV3pzNFo3TWhKQnh1ZmZmLVI0NHhxWHpvY0p1cXBTX3pibw?oc=5",
+     "ts": "2026-10-23T03:35:34Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -13477,6 +13425,123 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "aa4b5174e993",
+   "title": "🌴 Welcome to Vice City: Your Ultimate GTA VI Hub Starts Here!",
+   "first_seen": "2026-10-23T03:40:46Z",
+   "updated": "2026-10-23T03:40:46Z",
+   "items": [
+    {
+     "id": "aa4b5174e993",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "🌴 Welcome to Vice City: Your Ultimate GTA VI Hub Starts Here!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xd3asv/welcome_to_vice_city_your_ultimate_gta_vi_hub/",
+     "ts": "2026-10-23T03:35:26Z",
+     "summary": "​ Hey Everyone, The wait is almost over. Grand Theft Auto VI is right around the corner, and Vice City is about to open its gates to the most massive gaming launch in history. If you’re looking for the ultimate community to experience it all with, you just found your new home. We’ve launched the [ GTA 6 Vice after hour] Discord server—a dedicated, high-energy hub built specifically for GTA VI players, crew builders, and die-hard Rockstar fans. Here is why you need to join us before launch day: 🚗 Find Your Heist Crew & Squads: Connect with reliable players across PS5, Xbox Series X|S, and futur"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0cbbe644797a",
+   "title": "Call Duty Promises Return as GTA 6 Nears: Explained",
+   "first_seen": "2026-10-23T03:40:46Z",
+   "updated": "2026-10-23T03:40:46Z",
+   "items": [
+    {
+     "id": "0cbbe644797a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "JournalArta",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Call Duty Promises Return as GTA 6 Nears: Explained",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YT05uLXlrUFVhVWJMbmQyNmJEZHlkZHZ6cEhFdFJzOWJxaVZlb2xlT3g0Y0FOaG1CRllHNGo0YVhlTHBwT25tc0pGWnJkbHJ1Tm8yVVdRVFJFUHhISjh4bmhSU3lPOWVTMXFENi1Rdm1FUQ?oc=5",
+     "ts": "2026-10-23T03:35:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4c22897d56ea",
+   "title": "Cluckin’ Bell Food Stand Reportedly Opens at Kaseya Center for GTA VI",
+   "first_seen": "2026-10-22T01:50:48Z",
+   "updated": "2026-10-23T03:31:01Z",
+   "items": [
+    {
+     "id": "4c22897d56ea",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Cluckin' Bell in the Kaseya Center",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xc55fr/cluckin_bell_in_the_kaseya_center/",
+     "ts": "2026-10-22T01:17:44Z",
+     "summary": "submitted by /u/RealGiancarlosR to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "87f2f819e687",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Happy Gamer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Cluckin’ Bell Food Stand Reportedly Opens at Kaseya Center for GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWEwUWtGQU82OHQ1ZnRDNnBKRExTLVZaTFpBaTRLeW5pMW55NUx4Zk9KMC1YZ0ZQVDFHamx0aThXY1kyRFl0UHc5bTBBbFZabk5pVzFJZEFITzdGVlp4NnZiMU95Z254NUltOVFCRTJPYWl3SUxLWFlaSkRsN0x0MA?oc=5",
+     "ts": "2026-10-22T10:21:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9c285ac8f66d",
+   "title": "Train your thumbs for GTA 6: UK gym launches new workout",
+   "first_seen": "2026-10-23T03:31:01Z",
+   "updated": "2026-10-23T03:31:01Z",
+   "items": [
+    {
+     "id": "9c285ac8f66d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Al-Bawaba",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Train your thumbs for GTA 6: UK gym launches new workout",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd1FicXNNdUtOcjBvX3JBVU9CR3RKQ2ZuZFJubFMwdGktendKSkZ4V0RwSDZqUC1qTGtlZlduX2oySFVHX0NnRnRWWVVpTU83RnNwbGtmNGd6RFJ5Yzc3Q1dMcXJwYUNnMkxPRFg0TGhsbHRUSmRHN0cxY0pXeVFrMU9mZGNfTGdJRk81b2s3OA?oc=5",
+     "ts": "2026-10-22T07:04:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -50369,40 +50434,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7fd466954caf",
-   "title": "The 'GTA VI' Soundtrack Is Getting a Big Physical Media Rollout — Even if the Game Itself Isn't",
-   "first_seen": "2026-10-16T03:40:46Z",
-   "updated": "2026-10-16T03:40:46Z",
-   "items": [
-    {
-     "id": "7fd466954caf",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Rolling Stone",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The 'GTA VI' Soundtrack Is Getting a Big Physical Media Rollout — Even if the Game Itself Isn't",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNemg5SG1QMHpJYW5HS2czUUZINFVkNFVjRDVMcmN3dEZsRWJyUjVId1ZOdTZUUW9DQmtWZF9pMGEwWkJJeTJObnMzb0Z2RlB1RDl3VVRvTUtsWGVHUm0tQVFGbWxSTS1iR1pJblBUcW5JZ21Xa1piMTctOFZhZml6aFNpNnZvbHNhdVBVSUJhbXhBY3NDTExTZ2RpY1hfQ0JtSmZISnJXdC15WXZacEE0Zld5MnZhOWMyb2ltbUdYMA?oc=5",
-     "ts": "2026-10-16T03:37:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T03:31:01Z",
+  "last_run": "2026-10-23T03:40:46Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 97/100",
+   "rockstar_site: 0/2",
+   "gnews_en: 98/100",
    "gnews_ru: 45/53",
    "gamesbeat: 1/10",
    "vgc: 2/10",
