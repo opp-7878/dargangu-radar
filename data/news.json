@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-23T23:40:46Z",
+   "updated": "2026-10-23T23:50:48Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -14149,6 +14149,19 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMURSNkJhdnluLXNfdmtSUDJkWUFucS1veTUwQkFuaG1xN1ZPZDlCcDlfbDFlNlBaeDliX1RUWjk0Z1NFaXVoRXlicUNPeWpEWjBjZjdXSGdXTTBzUWZGdWh3a3R0aE5ZY3V1MVQ2NDdyRG0zSnlLa1p2Ump5WGdTOWMzRWpwRnRMSFFhOHNrYU9FeGRoYVRPcWpJY3ZrZWlxNURRYWVhQTVxMk96SE1KRQ?oc=5",
      "ts": "2026-10-23T23:38:03Z",
      "summary": ""
+    },
+    {
+     "id": "66034d873d04",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Investing.com Australia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How should investors think about GTA VI pre-order performance? By Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVUxaWXdab2plS1pWWExEaVlldFR5RGExbjdtRVg1Y2xWN25ZNGJMdXROSnZneldiT1JyNXVnTVhfaVBKU2dNWV9CdnMyYV8tYkRjeG5XSjBremJlay1HVURQN0xfcl9sUFl5Qno5S01fUzBrRzlacFJyYTc3QjJVNmdJMkE2dEFmQm5fWHVtN2dIYktOcXYwcHZKWVdFRFMtUlBFajFuSXBHejlNSldjZA?oc=5",
+     "ts": "2026-10-23T23:39:41Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -14166,6 +14179,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "83daed88a6d7",
+   "title": "Will GTA 6 Come to PS4 or Xbox One?",
+   "first_seen": "2026-10-23T23:50:48Z",
+   "updated": "2026-10-23T23:50:48Z",
+   "items": [
+    {
+     "id": "83daed88a6d7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "DLCompare.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Will GTA 6 Come to PS4 or Xbox One?",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Qak9pN1ZoUUE4cWRhTXR1RTlseDFTcG5PXzNyTXJUNXc5b1dGc0dhQk5jeXdxdnNvVlo1WDRvT1A1cGo0MFZna2o0MjFpQ3p6eFdiSk9OSnV3TVFNQkxzdWhIaUFtWEdkeDdsS09YZnMxRkh5VkNOb01CRVU?oc=5",
+     "ts": "2026-10-23T17:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -49710,10 +49749,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T23:40:46Z",
+  "last_run": "2026-10-23T23:50:48Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 98/99",
+   "gnews_en: 99/100",
    "gnews_ru: 34/61",
    "gamesbeat: 2/10",
    "vgc: 0/10",
