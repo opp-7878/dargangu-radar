@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "fd156d4c62e4",
+   "title": "First time playing older GTA games.",
+   "first_seen": "2026-10-23T21:10:48Z",
+   "updated": "2026-10-23T21:10:48Z",
+   "items": [
+    {
+     "id": "fd156d4c62e4",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "First time playing older GTA games.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xdq2d1/first_time_playing_older_gta_games/",
+     "ts": "2026-10-23T21:05:22Z",
+     "summary": "In preparation for GTA VI I wanted to dive into the past GTA games since I had never played them. I pre-ordered GTA VI so I had the free gta+ so I figured why not. I thought as a fan of GTA V I would love all these games, but I will let the ratings speak for themselves. GTA 3 - 3/10 Sucks in the modern day at least. I remember great games from my childhood that I look back now and they suck. I'm sure im just spoiled and it was actually a great game for the time, but i hated almost everything about it. The story was almost nonexistent, controls felt stiff, the cars handled like crap, and the Co"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -49926,43 +49954,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "8d0308220bce",
-   "title": "«Экран вазелином намазали?»: геймеры разочарованы релизным трейлером GTA 6",
-   "first_seen": "2026-10-16T21:10:45Z",
-   "updated": "2026-10-16T21:10:45Z",
-   "items": [
-    {
-     "id": "8d0308220bce",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Экран вазелином намазали?»: геймеры разочарованы релизным трейлером GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejBzMXkzblllaXdneWl3X1UyN3RucDFGYkljOWc5MzJRWlYzSG55YU1iT1lfMmRyYUNXbzU0eW8xT3o1THUycWthOHBEY2ZBWUlOOWlBbnZ1bkVGSjlPMVZQdjZZQmx6NVVfYkw1TWlienNUZHhFc2hfZnAwa0t0dGxNNVRaMkNyc0Q1dWpsNlVnRTZCT3pYQWlpVDloS2FWMExB?oc=5",
-     "ts": "2026-10-16T09:30:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T21:01:11Z",
+  "last_run": "2026-10-23T21:10:48Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
-   "gnews_ru: 32/63",
+   "gnews_ru: 31/62",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
