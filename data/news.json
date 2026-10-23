@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "c6a8f9efe0f1",
+   "title": "секрет популярности GTA VI | Русский Базар",
+   "first_seen": "2026-10-23T02:01:12Z",
+   "updated": "2026-10-23T02:01:12Z",
+   "items": [
+    {
+     "id": "c6a8f9efe0f1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Russian Bazaar",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "секрет популярности GTA VI | Русский Базар",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZRmFwV1pFWGtLdkNPaVpua1pjaGFNQXkzaFRGTUp1c1QwSmpaa2EzRnZtbDB4LS11VUMwNFFhUFRGdWY3NktxZjh6TmVyelVSOE1qTGtkQy1KMFk?oc=5",
+     "ts": "2026-10-22T16:51:06Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -50267,39 +50293,13 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "d99f2c1fc5ab",
-   "title": "Development Red Dead Redemption 3 will take less time thanks to GTA 6 technology",
-   "first_seen": "2026-10-16T01:50:47Z",
-   "updated": "2026-10-16T01:50:47Z",
-   "items": [
-    {
-     "id": "d99f2c1fc5ab",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Development Red Dead Redemption 3 will take less time thanks to GTA 6 technology",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeGZnWGQxVDl5blg1WFdTMF93SWZ3SjdtR3lRNjlQM01qc2Fvelludk1aX3U5Z3NSMXczNENyaklMNTloWUxHbk9BN3MtcXdiSlN0OFRxcmlyU3o5ZW85MXpfVWxCWEVscnhNRDVHSW5xU3RUbXE1YnYxS3BXZGtRd21YdFlJb2JyZ3VkcGoyWi1naGJxUkxKYloyUThwX0RxSzRzb0h4QUZqemdoajh0NjhBelhZV25YSmc?oc=5",
-     "ts": "2026-10-16T01:36:48Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-23T01:50:44Z",
+  "last_run": "2026-10-23T02:01:12Z",
   "last_log": [
-   "rockstar_site: 0/2",
+   "rockstar_site: 0/1",
    "gnews_en: 97/100",
    "gnews_ru: 46/53",
    "gamesbeat: 1/10",
