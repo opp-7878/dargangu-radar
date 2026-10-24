@@ -49844,57 +49844,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ec8fe6315134",
-   "title": "Justice Confirmed as Composers of ‘Grand Theft Auto VI’s Original Score",
-   "first_seen": "2026-10-15T13:31:07Z",
-   "updated": "2026-10-17T01:20:44Z",
-   "items": [
-    {
-     "id": "ec8fe6315134",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "From Rockstar Newswire - JUSTICE confirmed as composers of the GTAVI original score!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x6lk27/from_rockstar_newswire_justice_confirmed_as/",
-     "ts": "2026-10-15T13:24:37Z",
-     "summary": "From the launch trailer newswire Rockstar Games submitted by /u/DJToaster to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "8e351b1f94f4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "V13 Media",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Justice Confirmed as Composers of ‘Grand Theft Auto VI’s Original Score",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkpDcHJ3bVNtbGtNb29keHV5d0NuaWp3ZVhRcmV5ZElrZ1dGZ3JFbFA2OGJMWjB3aVNLV2xJZDI3T1IwRmtjU0xTRGZBYkMycDM0ZTZHQlZDZjY1VldDd2tMSUlVTWVLZGl6V2w1d0RwMVNYSWN5NDdmQjgwRXloVmNUTlpKYkh5NGI5VXNzR0JmZUY1RG9OTExR?oc=5",
-     "ts": "2026-10-17T01:12:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс",
-    "трейлер"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T01:10:48Z",
+  "last_run": "2026-10-24T01:20:51Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
-   "gnews_ru: 34/62",
+   "gnews_ru: 33/62",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
