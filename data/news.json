@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "47243a1c536b",
-   "title": "Article of the Day #53: Flash FM",
-   "first_seen": "2026-10-24T17:20:53Z",
-   "updated": "2026-10-24T17:20:53Z",
-   "items": [
-    {
-     "id": "47243a1c536b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Article of the Day #53: Flash FM",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xee83o/article_of_the_day_53_flash_fm/",
-     "ts": "2026-10-24T17:15:36Z",
-     "summary": "Flash FM previously appeared ) in GTA Vice City and GTA Vice City Stories. submitted by /u/gtawiki to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-24T17:01:17Z",
+   "updated": "2026-10-24T17:31:04Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -14526,6 +14500,19 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzZyb1FEYTM2bHNTZWdYQUw5QVFzSGxLMngxXzRqYXhsa045cF9nNG1KY1E4bmVEd0RuNU8xc1JOVkluWnE0M2RVd2xqTmtLMnRlR3hyUVBhZlBCZGdJUFhvN3dHOFA5MEZRMlh5dm91ZDFVSVMxTEtUcHNxWUJVR3lUeXdVS0hWcERiT1dlVWI0dEEyZnBrMXhzZ2Z1cmlzNnhJM0JQNWxMeEMxSlFZcNIBtgFBVV95cUxPQ2kwMXJ0UUFDQXVUdlY3ZzMtcmhJbXBsenBsUWZTSFBUUjFmNnlpQzNhX2J6NTRDbEFrcWhwMU5CWGVsVUJhejNCYTNpa0Jfd0Z6T1AyNV8wRGNWZGFmQTVFX1dvSklmdnF0WGFXUzhfMGFkOWpmUV8wc01BcHpYYVJ2elpfX0VmYzJmblg5SExSSTgtY0hwLWwzR1dTRm1GWHplbWVtcFVKN2NsU29PdWxVUEc5dw?oc=5",
      "ts": "2026-10-24T08:52:31Z",
      "summary": ""
+    },
+    {
+     "id": "0f7eed906ad4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 review embargo reportedly lifts November 18th, but some outlets may wait until launch",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDQ4ZE5IbldRZXJLcjZERUl1OUdjTTRFSnp2YjdKaHhYelBja2kwQi1RMmxGMEE1anhxY05VbXNmcS1mdDI3d201OFhvR2dpQUQzV043YUYwT28wbF91cm15bTVNanFhcXZIZkY5NUhZQTY3Qldjb3lLOFloemZISWdwV04tSDV6VVZsVldtenlWVWdfeVFJOW5QMjZrc3NIQ1VvcG04Z1lDZzF6Q0JZ?oc=5",
+     "ts": "2026-10-24T17:24:15Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -14543,6 +14530,58 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "b2c21039b18d",
+   "title": "How to Make REAL Life Money from GTA 6",
+   "first_seen": "2026-10-24T17:31:04Z",
+   "updated": "2026-10-24T17:31:04Z",
+   "items": [
+    {
+     "id": "b2c21039b18d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Howl.Link",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How to Make REAL Life Money from GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5KQmlxcDBNYmo3TnhTNTN3cWE5X0RpWm1UOTc1VGhOQkZlYkI3cXBzcmduMTM5ejg0dVRB?oc=5",
+     "ts": "2026-10-24T16:25:09Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "47243a1c536b",
+   "title": "Article of the Day #53: Flash FM",
+   "first_seen": "2026-10-24T17:20:53Z",
+   "updated": "2026-10-24T17:20:53Z",
+   "items": [
+    {
+     "id": "47243a1c536b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Article of the Day #53: Flash FM",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xee83o/article_of_the_day_53_flash_fm/",
+     "ts": "2026-10-24T17:15:36Z",
+     "summary": "Flash FM previously appeared ) in GTA Vice City and GTA Vice City Stories. submitted by /u/gtawiki to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -48838,66 +48877,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "41e4fde4f1a5",
-   "title": "GTA VI finally arrives next month - are you playing?",
-   "first_seen": "2026-10-17T17:30:58Z",
-   "updated": "2026-10-17T17:30:58Z",
-   "items": [
-    {
-     "id": "41e4fde4f1a5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GBAtemp",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI finally arrives next month - are you playing?",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdW1BeWJ5X1VfSzFaZ0FsZ0NBZXk4d2pmai1vbEpoUUIyLVQtUXdwZG05S1BNMTNhSUxpaXZYS1BPMVlwNldzczVqY2F5UGc1dXBDMkEwYVhWVXZVaTJGeFJRQ0F5VG1LcGtHX05jSTZrczh6b0hzaVh3bGc0OG41YXRkc016aGJVOEE?oc=5",
-     "ts": "2026-10-17T17:12:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "06714761d3d0",
-   "title": "Watch Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
-   "first_seen": "2026-10-17T17:30:58Z",
-   "updated": "2026-10-17T17:30:58Z",
-   "items": [
-    {
-     "id": "06714761d3d0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Bloomberg.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Watch Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDF0bUZmOTZSTWt3elRNaFhhRVZ5VTRIcFBFV1VFcEdfeFdxX0JNenJsbWdPYnk2cElvczJfRXMyRWdpdkJSX21JdG9EeTJEOUtRS1R4d09UQ29vQjV0TXJmR0hWTktCQm1LdUZmRWE0OEtaOWk3WjFMTU9STG9aRHgxR05pNG9IRGx6c0VIMVFCdw?oc=5",
-     "ts": "2026-10-17T17:28:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T17:20:53Z",
+  "last_run": "2026-10-24T17:31:04Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 62/64",
+   "gnews_en: 64/66",
    "gnews_ru: 21/58",
    "gamesbeat: 2/10",
    "vgc: 0/10",
