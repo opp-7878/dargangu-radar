@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "f0645d531321",
+   "title": "How do I unlock Bobby Ike?",
+   "first_seen": "2026-10-24T04:10:48Z",
+   "updated": "2026-10-24T04:10:48Z",
+   "items": [
+    {
+     "id": "f0645d531321",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How do I unlock Bobby Ike?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xdyuyq/how_do_i_unlock_bobby_ike/",
+     "ts": "2026-10-24T04:08:40Z",
+     "summary": "Im just wondering. I've seen lots of gameplay about Lucia and Jason but what about Bobby Ike I want to see if I can cheat on Jason with Bobby Ike submitted by /u/OrganicSoapOpera to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -49618,67 +49646,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "2c5bd4bbe69f",
-   "title": "Well let’s start playing…..GTA6",
-   "first_seen": "2026-10-17T04:10:40Z",
-   "updated": "2026-10-17T04:10:40Z",
-   "items": [
-    {
-     "id": "2c5bd4bbe69f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Well let’s start playing…..GTA6",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1x80jns/well_lets_start_playinggta6/",
-     "ts": "2026-10-17T04:02:04Z",
-     "summary": "submitted by /u/Minute-Split2509 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d14f1c8199b0",
-   "title": "Главное за день: критика GTA 6, бесплатные игры, отмененная Assassin's Creed",
-   "first_seen": "2026-10-17T04:01:09Z",
-   "updated": "2026-10-17T04:01:09Z",
-   "items": [
-    {
-     "id": "d14f1c8199b0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Главное за день: критика GTA 6, бесплатные игры, отмененная Assassin's Creed",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYk5OX2NGMUE4MGdsRlN3eXpWV2hOSE9hSUdWTUYtTFVSYXZoMlVNc3JZcG1ZZVltaE8yOFVhdFhxVkM2NUZZWFNjeEctZXMwVmlQc0VXV1l6RFd6ZDVrNnBqQk9sX2R6ZENOMDRVek1HRktMbTJSNDQ2bW13STI0MWw1TURzUHRDajBwalRGTmdHeGwwNGZtMHU1OHlCQXJLLWw3MQ?oc=5",
-     "ts": "2026-10-16T18:30:35Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T04:01:08Z",
+  "last_run": "2026-10-24T04:10:48Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 99/100",
-   "gnews_ru: 33/60",
+   "gnews_en: 69/70",
+   "gnews_ru: 29/30",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
