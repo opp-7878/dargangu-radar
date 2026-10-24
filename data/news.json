@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "75158bd6e00c",
+   "title": "Подтверждено, что в GTA 6 будет пародия на OnlyFans под названием Peekhole",
+   "first_seen": "2026-10-24T19:50:48Z",
+   "updated": "2026-10-24T19:50:48Z",
+   "items": [
+    {
+     "id": "75158bd6e00c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Подтверждено, что в GTA 6 будет пародия на OnlyFans под названием Peekhole",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0JPaExvMjBWSXdzSDVVdS1UUlRrTzh2VGZrWG1TU0NrQkdOM1djZ05DU2NfSmpyZVh2X3hRR0F2VE9icHYzckt0amVKUTZrRG5JWGJyREIwWDZmR2FRNl9Tbm9jZzFSUWd1RFQ5djl5ZEdKVkJ0Yk8tc3dTY0NtQ1dDTjVVcnlvelNTd3BaN3BBMTlLTVhPR1VRa3pyczZq?oc=5",
+     "ts": "2026-10-24T13:12:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -48354,41 +48380,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "cea355403184",
-   "title": "GTA 6 Fans Have Found A Rare Reference To The Game That Started It All",
-   "first_seen": "2026-10-17T19:50:46Z",
-   "updated": "2026-10-17T19:50:46Z",
-   "items": [
-    {
-     "id": "cea355403184",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TheGamer",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Fans Have Found A Rare Reference To The Game That Started It All",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUDU4MnRQYmg0dS12TUhnWkdWSjE4Y1gySE5tN1BxYjlZellUd21EeXZKckJQVzczVTh6UmlnZ1kxR3l4bUZpMDJaZ1pYNTFla0NCR1haOXUwMWpBVDVqSjB0SEd0QlQwWC1GUTk2NlotUzE1VVhGWHFYU0podG9lOUt6dlh1M2hCa0E?oc=5",
-     "ts": "2026-10-17T19:45:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T19:40:51Z",
+  "last_run": "2026-10-24T19:50:48Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 54/56",
-   "gnews_ru: 15/60",
+   "gnews_ru: 16/60",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
