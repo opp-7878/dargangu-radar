@@ -48851,41 +48851,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b2e39a407676",
-   "title": "Imagine seeing your house in the most anticipated game ever",
-   "first_seen": "2026-10-17T17:40:45Z",
-   "updated": "2026-10-17T17:40:45Z",
-   "items": [
-    {
-     "id": "b2e39a407676",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Imagine seeing your house in the most anticipated game ever",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1x8g2l7/imagine_seeing_your_house_in_the_most_anticipated/",
-     "ts": "2026-10-17T17:30:59Z",
-     "summary": "Man I wish I was rich submitted by /u/Unstable_Dentist_917 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T17:31:04Z",
+  "last_run": "2026-10-24T17:40:49Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 64/66",
-   "gnews_ru: 21/58",
+   "gnews_en: 63/65",
+   "gnews_ru: 19/58",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -48894,7 +48868,7 @@
    "dexerto_gta: 2/50",
    "rockstarintel: 1/10",
    "gtaboom: 1/30",
-   "reddit: 22/25",
+   "⚠️ reddit: HTTP Error 429: Too Many Requests",
    "tg_gtavistar: 4/13"
   ],
   "digest": "2026-10-23",
