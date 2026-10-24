@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "a8b4a5cd886b",
+   "title": "GTA 6 Ads Appear in Hollywood, Including a Mural, Banner, and Billboard",
+   "first_seen": "2026-10-24T01:01:49Z",
+   "updated": "2026-10-24T01:01:49Z",
+   "items": [
+    {
+     "id": "a8b4a5cd886b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "se7en.ws",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Ads Appear in Hollywood, Including a Mural, Banner, and Billboard",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajRzaFNaTE9vZ1NXR2NxWkVYMVdVOXFjenBSbkt5SUZNcmVZUlZjZnpNeVRLcEhzV3dHaW1YQ1ZGakhLQlpua01fTmh2Ql96SWxGc1dBOUxmUDhjSjZkZzZ3TWhIOE5UN1dSQlJ6UDVxYjByb2tDZF9WMDl5ZlBOc1BQM0lSTTZTOHhoOHhjcnhjMnVGV1Y3dFlR?oc=5",
+     "ts": "2026-10-23T17:56:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "7f2f8e57db27",
    "title": "Thought I’d paint my favorite scene.",
    "first_seen": "2026-10-24T00:50:46Z",
@@ -49838,11 +49864,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T01:01:08Z",
+  "last_run": "2026-10-24T01:01:49Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 99/100",
-   "gnews_ru: 34/61",
+   "gnews_en: 100/100",
+   "gnews_ru: 30/31",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
