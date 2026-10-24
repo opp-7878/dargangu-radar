@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "b6ca842783a3",
+   "title": "Welcome to GTA VI speedrunning! What are your predictions for speed running in GTA VI?",
+   "first_seen": "2026-10-24T19:10:50Z",
+   "updated": "2026-10-24T19:10:50Z",
+   "items": [
+    {
+     "id": "b6ca842783a3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Welcome to GTA VI speedrunning! What are your predictions for speed running in GTA VI?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xegvjw/welcome_to_gta_vi_speedrunning_what_are_your/",
+     "ts": "2026-10-24T19:01:40Z",
+     "summary": "My personal thoughts on speed running is that eventually we will be able to shave so much time off this game that you will be able to finish in in under 20 Hours... what are your thoughts? submitted by /u/False-Government8587 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "b54c0ff7bedb",
    "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
    "first_seen": "2026-10-23T18:50:49Z",
@@ -48515,40 +48541,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f6a9f3b68e37",
-   "title": "GTA 6 Review Copies Reportedly Arriving Before October Ends as Rockstar Ramps Up Marketing Ahead of Launch",
-   "first_seen": "2026-10-17T19:10:42Z",
-   "updated": "2026-10-17T19:10:42Z",
-   "items": [
-    {
-     "id": "f6a9f3b68e37",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NoobFeed",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Review Copies Reportedly Arriving Before October Ends as Rockstar Ramps Up Marketing Ahead of Launch",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3VTFLNDdDZFMtbVFRQmI5dFh5eV9HWmtGOEQ1UTFNQmhiVG55eFQ5WjlzOE4zSlc5WnNFUU1qMnByc3ZMTHo0TU0tWDVwcnNEUlhsbEVmQUZjdmlJUHF0bF9MZS00ZG1MVDdzY083M2V2SGdm?oc=5",
-     "ts": "2026-10-17T19:03:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T19:01:13Z",
+  "last_run": "2026-10-24T19:10:50Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 57/59",
+   "gnews_en: 56/58",
    "gnews_ru: 15/60",
    "gamesbeat: 2/10",
    "vgc: 0/10",
