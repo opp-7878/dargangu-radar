@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "b84fb38197b5",
+   "title": "Исследование: из-за GTA 6 экономика Великобритании потеряет 10% дневного объёма",
+   "first_seen": "2026-10-24T14:10:50Z",
+   "updated": "2026-10-24T14:10:50Z",
+   "items": [
+    {
+     "id": "b84fb38197b5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "SE7EN.ws",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Исследование: из-за GTA 6 экономика Великобритании потеряет 10% дневного объёма",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JRjdmVkhOQUNrQmdCVnpJQkFXRV92ZGhpdlhyOTh0Q3hjbV9KVF8tQVhDVHFnT01WU2E2cVJYT0doc3pIb0VGTXZOUXhYWUFNNEFEdmVRLW5DaVREU25CRFEwZktENE94VU9r?oc=5",
+     "ts": "2026-10-24T08:41:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "61ede9987887",
+   "title": "GTA VI Review Situation",
+   "first_seen": "2026-10-24T14:10:50Z",
+   "updated": "2026-10-24T14:10:50Z",
+   "items": [
+    {
+     "id": "61ede9987887",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI Review Situation",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xe9gbt/gta_vi_review_situation/",
+     "ts": "2026-10-24T14:01:36Z",
+     "summary": "Yesterday on the X button show, hosted by Seth, Brian, and Max, recent ex-IGN employees were asked if they will do their GTA6 discussions on embargo date or release, and Brian, a 17-year veteran in the gaming industry, said he doesn’t know of anyone who received or will actually receive a review code. [ https://www.youtube.com/live/D0eG7ai0XrI?t=5384\\](https://www.youtube.com/live/D0eG7ai0XrI?t=5384) Take it with a grain of salt as the trio then discusses who could have it or not. submitted by /u/tloucollectorTM to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -49709,41 +49761,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "83e830051c41",
-   "title": "Fancy Smile – Cruisin' in the Sunset | GTA VI Inspired Synthwave / City Pop",
-   "first_seen": "2026-10-17T14:10:41Z",
-   "updated": "2026-10-17T14:10:41Z",
-   "items": [
-    {
-     "id": "83e830051c41",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "YouTube",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Fancy Smile – Cruisin' in the Sunset | GTA VI Inspired Synthwave / City Pop",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqeDRKT2ZzTlNQei1LbGZiVk5kdm5PNGdhckRhaFJubFUwWWhVQVpGdEJtVUlBQVd6U0tGS1FBak5idjFfQ2ZadVlINm5oeEEtMjYwZkVYRDZ4VFZa?oc=5",
-     "ts": "2026-10-16T19:53:12Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T14:01:19Z",
+  "last_run": "2026-10-24T14:10:50Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 74/75",
-   "gnews_ru: 19/27",
+   "gnews_en: 72/72",
+   "gnews_ru: 20/59",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
