@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "90307ec16ecc",
+   "title": "GTA 6’s First TV Ad Keeps the Guns, Cuts the Kiss and Leaves Out Xbox",
+   "first_seen": "2026-10-24T05:10:45Z",
+   "updated": "2026-10-24T05:10:45Z",
+   "items": [
+    {
+     "id": "90307ec16ecc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Martin Cid Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6’s First TV Ad Keeps the Guns, Cuts the Kiss and Leaves Out Xbox",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zVFhyZndXdWh6QWdTNUJ2V3lxbmw5Wk1Nd2t5SktoR1lrYjhLem93VTQxVUJpZEl5dElNLWI2MmdGdEpxS1lKZGdlVDNOYXV3T1BmUXJIcGtXODZDYUNyZmhiMVlSa29WYzRONi1idTZPRWpyNTNGVmhBRjRtUG8?oc=5",
+     "ts": "2026-10-23T12:43:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "69bc7484f851",
+   "title": "Like the economy, will there be a noticeable drop in overall player count in other games?",
+   "first_seen": "2026-10-24T05:10:45Z",
+   "updated": "2026-10-24T05:10:45Z",
+   "items": [
+    {
+     "id": "69bc7484f851",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Like the economy, will there be a noticeable drop in overall player count in other games?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xdzt01/like_the_economy_will_there_be_a_noticeable_drop/",
+     "ts": "2026-10-24T05:01:06Z",
+     "summary": "Might be a silly question but on launch day, could it be possible that a very much alive game like Arc Raiders, have noticeably longer queue times due to GTA 6 submitted by /u/Pulian_ to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -49603,43 +49655,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "6af2125024e4",
-   "title": "Our First Rides…",
-   "first_seen": "2026-10-17T05:04:54Z",
-   "updated": "2026-10-17T05:04:54Z",
-   "items": [
-    {
-     "id": "6af2125024e4",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Our First Rides…",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x81k4z/our_first_rides/",
-     "ts": "2026-10-17T04:59:54Z",
-     "summary": "All right, ladies and gentlemen, it’s about that time, we all know what car was the first ever car that we stole and put into our garage in GTA V and GTA Online. Now that VI is coming out, what are going to be YOUR first FOUR cars to steal and own in VI and VI Online. They can be OG Models from 2013 GTA V that have been re-added into GTA VI with updated models, or any of the many vehicles / variants they’ve added into GTA Online over the years. Here is the way this is going to work: Pick ONE vehicle for each protagonist and TWO for your VI Online character. Since we don’t know how many online "
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T05:01:13Z",
+  "last_run": "2026-10-24T05:10:45Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 29/30",
+   "gnews_ru: 34/60",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
