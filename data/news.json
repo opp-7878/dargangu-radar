@@ -1,6 +1,110 @@
 {
  "stories": [
   {
+   "id": "7f2f8e57db27",
+   "title": "Thought I’d paint my favorite scene.",
+   "first_seen": "2026-10-24T00:50:46Z",
+   "updated": "2026-10-24T00:50:46Z",
+   "items": [
+    {
+     "id": "7f2f8e57db27",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Thought I’d paint my favorite scene.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xdsejk/thought_id_paint_my_favorite_scene/",
+     "ts": "2026-10-23T22:44:31Z",
+     "summary": "All paintings done by jujuras. NO AI used submitted by /u/Goylianos to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a4d21cf4d03e",
+   "title": "Not enough Latin representation in Gta 6",
+   "first_seen": "2026-10-24T00:50:46Z",
+   "updated": "2026-10-24T00:50:46Z",
+   "items": [
+    {
+     "id": "a4d21cf4d03e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Not enough Latin representation in Gta 6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xdt56z/not_enough_latin_representation_in_gta_6/",
+     "ts": "2026-10-23T23:18:13Z",
+     "summary": "Look, i'm a pretty open guy, I love diversity but it feels like rockstar is pandering to a white audience, \"Heh let's give this white dude with no personality a hot latin chick\" It feel's like a self insert for them, on top of that theres almost no Latin characters almost all of them are White, DESPITE being in a Latin dominated city. Nobody else find that weird? Like if Jason were a Latino or Black it'd be more reasonable... But white? submitted by /u/Tudkitsh to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9735ac56e4f4",
+   "title": "The Woodlands of GTA6",
+   "first_seen": "2026-10-24T00:50:46Z",
+   "updated": "2026-10-24T00:50:46Z",
+   "items": [
+    {
+     "id": "9735ac56e4f4",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The Woodlands of GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xdus2r/the_woodlands_of_gta6/",
+     "ts": "2026-10-24T00:34:13Z",
+     "summary": "I honestly cannot wait to explore the woodlands of Leonida. The forests look incredibly dense and detailed, and I'm really looking forward to wandering through them to see just how much attention Rockstar put into the environment. How about you guys? One thing I'm curious about is how Jason and Lucia will physically interact with all the vegetation. I wonder if they'll use their hands to push aside bushes, tree branches, and tall grass as they move through it. If I remember correctly, Arthur does something similar in RDR2, so I hope Rockstar expand on that level of environmental interaction in"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1fea66a1a988",
+   "title": "PlayStation 5 Refurbished Consoles Available with Discounts Ahead of GTA VI Launch",
+   "first_seen": "2026-10-24T00:50:46Z",
+   "updated": "2026-10-24T00:50:46Z",
+   "items": [
+    {
+     "id": "1fea66a1a988",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "SSBCrack",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation 5 Refurbished Consoles Available with Discounts Ahead of GTA VI Launch",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVklIdXF3RnBKQ2VwRHotbkdBSExHTXhGZGtkNmpNMm01Zy1NODluMnRlVzJ1VnVyMUR4QUxkdkhhZGNYV19HQVVITFlMTVhtcS1QU1l0NXh4eHpic214UWJGSUVhc25EQ09JS1ZZVlRTSFNaTlBPdm9GdlB5WXZ0aC1vb3htNDZNMEZyOHItMklVZ2ptUWw2cW5rUEtaRVZUeEYzMzZEUkYxQnpZUEE?oc=5",
+     "ts": "2026-10-24T00:43:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -49734,11 +49838,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T00:40:45Z",
+  "last_run": "2026-10-24T00:50:46Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
-   "gnews_ru: 33/61",
+   "gnews_ru: 34/61",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
