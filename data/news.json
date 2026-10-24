@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "65d524ebba4d",
+   "title": "Rockstar games marketing is craazyyy!",
+   "first_seen": "2026-10-24T20:40:47Z",
+   "updated": "2026-10-24T20:40:47Z",
+   "items": [
+    {
+     "id": "65d524ebba4d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Rockstar games marketing is craazyyy!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xeisx1/rockstar_games_marketing_is_craazyyy/",
+     "ts": "2026-10-24T20:20:25Z",
+     "summary": "Damn they got a good budget, this is so cool! submitted by /u/Kind_Possibility2027 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2ec4c452e0dc",
+   "title": "The mystery of this game's story is appreciated",
+   "first_seen": "2026-10-24T20:40:47Z",
+   "updated": "2026-10-24T20:40:47Z",
+   "items": [
+    {
+     "id": "2ec4c452e0dc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The mystery of this game's story is appreciated",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xej3vb/the_mystery_of_this_games_story_is_appreciated/",
+     "ts": "2026-10-24T20:33:17Z",
+     "summary": "With GTA 5 there was a lot more shown with character trailers and in general. Heck even the extended look didn't really show that much if you think about it. A lot of previous rockstar games tend to show a good idea of the story. Maybe red dead 2 being an exception? Do you think they're just trying to be as illusive as red dead 2 keeping the story under wraps or maybe because of how huge the game is culturally that they see no reason to spill too much on story details? submitted by /u/No-Worldliness-492 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3b2da983fb40",
+   "title": "For the physical release, will the Vintage City Pack be an insert or a retailer code?",
+   "first_seen": "2026-10-24T20:40:47Z",
+   "updated": "2026-10-24T20:40:47Z",
+   "items": [
+    {
+     "id": "3b2da983fb40",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "For the physical release, will the Vintage City Pack be an insert or a retailer code?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xej8ug/for_the_physical_release_will_the_vintage_city/",
+     "ts": "2026-10-24T20:39:10Z",
+     "summary": "Wondering submitted by /u/Omega2307 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "79d178303cf1",
    "title": "You can order real-life GTA 6 burgers as Florida's Skinny Louie locations transform into Burger Shots",
    "first_seen": "2026-10-24T20:31:02Z",
@@ -48253,42 +48333,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ea795d926f82",
-   "title": "Rockstar Games Confirms GTA 6 Brings Back Grand Theft Auto IV Feature",
-   "first_seen": "2026-10-17T20:40:44Z",
-   "updated": "2026-10-17T20:40:44Z",
-   "items": [
-    {
-     "id": "ea795d926f82",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ComicBook.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Games Confirms GTA 6 Brings Back Grand Theft Auto IV Feature",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazNGcE9xcmxHWkhFU3hLTDBSMko3WWMyU2ZpRTZOX2dycnN6QWNGZk5DUGhKV0tGWm1MS0VjMzZCNWNQVVA1RHoyeUVXODVRX3Z1STFoQklzd2JMNjByeTlINHduTDJHczNvUWFQSjdaWnpJRC1ibUxWNW5IQ3BRMV9XXzVXUHA5WUh3?oc=5",
-     "ts": "2026-10-17T20:28:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T20:31:02Z",
+  "last_run": "2026-10-24T20:40:47Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 55/57",
+   "gnews_en: 46/47",
    "gnews_ru: 16/60",
    "gamesbeat: 2/10",
    "vgc: 0/10",
