@@ -1,62 +1,10 @@
 {
  "stories": [
   {
-   "id": "b84fb38197b5",
-   "title": "Исследование: из-за GTA 6 экономика Великобритании потеряет 10% дневного объёма",
-   "first_seen": "2026-10-24T14:10:50Z",
-   "updated": "2026-10-24T14:10:50Z",
-   "items": [
-    {
-     "id": "b84fb38197b5",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "SE7EN.ws",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Исследование: из-за GTA 6 экономика Великобритании потеряет 10% дневного объёма",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JRjdmVkhOQUNrQmdCVnpJQkFXRV92ZGhpdlhyOTh0Q3hjbV9KVF8tQVhDVHFnT01WU2E2cVJYT0doc3pIb0VGTXZOUXhYWUFNNEFEdmVRLW5DaVREU25CRFEwZktENE94VU9r?oc=5",
-     "ts": "2026-10-24T08:41:43Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "61ede9987887",
-   "title": "GTA VI Review Situation",
-   "first_seen": "2026-10-24T14:10:50Z",
-   "updated": "2026-10-24T14:10:50Z",
-   "items": [
-    {
-     "id": "61ede9987887",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA VI Review Situation",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xe9gbt/gta_vi_review_situation/",
-     "ts": "2026-10-24T14:01:36Z",
-     "summary": "Yesterday on the X button show, hosted by Seth, Brian, and Max, recent ex-IGN employees were asked if they will do their GTA6 discussions on embargo date or release, and Brian, a 17-year veteran in the gaming industry, said he doesn’t know of anyone who received or will actually receive a review code. [ https://www.youtube.com/live/D0eG7ai0XrI?t=5384\\](https://www.youtube.com/live/D0eG7ai0XrI?t=5384) Take it with a grain of salt as the trio then discusses who could have it or not. submitted by /u/tloucollectorTM to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-24T13:50:52Z",
+   "updated": "2026-10-24T14:20:54Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -14500,6 +14448,32 @@
      "url": "https://www.reddit.com/r/GTAVI/comments/1xe914v/i_want_to_see_raf_in_gtavi/",
      "ts": "2026-10-24T13:43:41Z",
      "summary": "I really enjoy his character and he’s not bad to look at either. Anyone you’re hoping to see return to the franchise? submitted by /u/Floopy_hotpocket to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "5e6fb6f072da",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "GTA 6-inspired CS2 map makes you save leaker Cyberleek from Rockstar mansion",
+     "url": "https://www.dexerto.com/counter-strike-2/gta-6-inspired-cs2-map-makes-you-save-leaker-cyberleek-from-rockstar-mansion-3421409/",
+     "ts": "2026-10-23T16:23:57Z",
+     "summary": "A new Counter-Strike 2 community map tasks players with rescuing GTA 6 leaker Cyberleek from a mansion supposedly belonging to Rockstar Games."
+    },
+    {
+     "id": "621c8ebc23f2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' 2025 release date window confirmed by Rockstar Games",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUpTb1J6M0ljTmxLRkhNUVo2ZDNFaTRsRHF2OHpJTkh2eHlXblRQd2lXcE10ZnhFbTdwSEl1LTRFUVNUVlVQR2tQX2JOYThSSXRaalRGN2JhVWUwalh1NUNYdUFqemJndXd1YkZOR0lWdy1NS2wyMGdDWG52OG1MVkJ1R0VobTcyM0xib0FR?oc=5",
+     "ts": "2026-10-24T09:00:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -14517,6 +14491,58 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "b84fb38197b5",
+   "title": "Исследование: из-за GTA 6 экономика Великобритании потеряет 10% дневного объёма",
+   "first_seen": "2026-10-24T14:10:50Z",
+   "updated": "2026-10-24T14:10:50Z",
+   "items": [
+    {
+     "id": "b84fb38197b5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "SE7EN.ws",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Исследование: из-за GTA 6 экономика Великобритании потеряет 10% дневного объёма",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JRjdmVkhOQUNrQmdCVnpJQkFXRV92ZGhpdlhyOTh0Q3hjbV9KVF8tQVhDVHFnT01WU2E2cVJYT0doc3pIb0VGTXZOUXhYWUFNNEFEdmVRLW5DaVREU25CRFEwZktENE94VU9r?oc=5",
+     "ts": "2026-10-24T08:41:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "61ede9987887",
+   "title": "GTA VI Review Situation",
+   "first_seen": "2026-10-24T14:10:50Z",
+   "updated": "2026-10-24T14:10:50Z",
+   "items": [
+    {
+     "id": "61ede9987887",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI Review Situation",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xe9gbt/gta_vi_review_situation/",
+     "ts": "2026-10-24T14:01:36Z",
+     "summary": "Yesterday on the X button show, hosted by Seth, Brian, and Max, recent ex-IGN employees were asked if they will do their GTA6 discussions on embargo date or release, and Brian, a 17-year veteran in the gaming industry, said he doesn’t know of anyone who received or will actually receive a review code. [ https://www.youtube.com/live/D0eG7ai0XrI?t=5384\\](https://www.youtube.com/live/D0eG7ai0XrI?t=5384) Take it with a grain of salt as the trio then discusses who could have it or not. submitted by /u/tloucollectorTM to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -49735,47 +49761,21 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e7c9236fc665",
-   "title": "\"Grand Theft Auto V\" Leaves PS Plus Just Two Days Before \"Grand Theft Auto VI\" Launches—Sony Warns Players to Beat the Deadline",
-   "first_seen": "2026-10-17T14:20:46Z",
-   "updated": "2026-10-17T14:20:46Z",
-   "items": [
-    {
-     "id": "e7c9236fc665",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "玩具人 TOY PEOPLE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "\"Grand Theft Auto V\" Leaves PS Plus Just Two Days Before \"Grand Theft Auto VI\" Launches—Sony Warns Players to Beat the Deadline",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHS192Q3ZoMkVjbkJVZWhNbFRzbVhLUzBkaWZhNVNqZ0xuaE95eXRzalJZdWZONVQtOGk4LTFYbzZWMUd0VVVLeDFldnhJV1Jx?oc=5",
-     "ts": "2026-10-17T13:17:48Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T14:10:50Z",
+  "last_run": "2026-10-24T14:20:54Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 72/72",
-   "gnews_ru: 20/59",
+   "gnews_en: 71/72",
+   "gnews_ru: 20/60",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
    "ign: 0/20",
    "eurogamer: 0/100",
-   "dexerto_gta: 2/50",
+   "dexerto_gta: 3/50",
    "rockstarintel: 1/10",
    "gtaboom: 1/30",
    "reddit: 23/25",
