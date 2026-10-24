@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "e81841150f62",
+   "title": "Майами превращается в Вайс-Сити: Rockstar захватила город рекламой GTA 6",
+   "first_seen": "2026-10-24T15:20:50Z",
+   "updated": "2026-10-24T15:20:50Z",
+   "items": [
+    {
+     "id": "e81841150f62",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Майами превращается в Вайс-Сити: Rockstar захватила город рекламой GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzY5T1hmc21PZlZMMVBDdkc5aWtNUkpOekJmckhZMzhUcFhBREhicThaTDJkbFdNUzVwWDM3djl3RENsMDh0VVZMa20zZnZ1eVBvUlgtcl95blRpVnl2djZmR2RNSjlSM0dfM0RBaW5nYl91NGlUNFItVXRScXBLeS14WUJjTTlqTkhNUkJpZldzMWRpTXQwTlB5b3hFMFdKUk9odFpqYWMybTR3WWdWNko4c0NuT2VJQ08waC1lNWo?oc=5",
+     "ts": "2026-10-24T15:11:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f342556e57bf",
    "title": "В GTA 6 появится аналог OnlyFans - внутриигровое приложение по подписке Peekhole",
    "first_seen": "2026-10-24T14:40:51Z",
@@ -49687,11 +49713,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-24T15:10:54Z",
+  "last_run": "2026-10-24T15:20:50Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 71/73",
-   "gnews_ru: 21/60",
+   "gnews_en: 68/69",
+   "gnews_ru: 21/59",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
