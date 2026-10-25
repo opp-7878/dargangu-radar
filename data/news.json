@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "014a4a886c84",
+   "title": "GTA 6: механика топлива и заправки — как это работает",
+   "first_seen": "2026-10-25T21:50:46Z",
+   "updated": "2026-10-25T21:50:46Z",
+   "items": [
+    {
+     "id": "014a4a886c84",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "games.gg",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: механика топлива и заправки — как это работает",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdHQwWk5OSUt0WlF4NV9mR0FCM3E3eHZYN3QtblNDQ0R3NGNpQ1IxUmdtZnRVM1hicjF6d3Y4VGFGTk5LSnptTWZlRHNoT0gzUHZIem8tb0p1bG04QlQ0b2I1TG1jVnVGSGxGNThBbVItVkM4TGxHWWR0c0dITXFKV1U1X2puVVRVbXlPMmtVbDdMWTZiT3JwUjJfcjF6Tjd0SmVMYlNTVWZndXFvYUFLR2FEVXpLQjR0VzVPMjVhTm1oSVRLYTJDNzNZQWFUdkZlc2ZZMWJfZ19BbmdaaVViOUFGZzJWeUFYN0E3T24xY2lGRmd2aXFHUzlva25pNWVmdW9Iclg0cXUwczg?oc=5",
+     "ts": "2026-10-25T14:58:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6c764171729a",
    "title": "Theory on Character Dynamics",
    "first_seen": "2026-10-25T21:31:01Z",
@@ -48076,41 +48102,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ee46983626bb",
-   "title": "GTA 6: 5 Major Car Details That Make It Better Than Forza Horizon 6",
-   "first_seen": "2026-10-18T21:50:41Z",
-   "updated": "2026-10-18T21:50:41Z",
-   "items": [
-    {
-     "id": "ee46983626bb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "FandomWire",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: 5 Major Car Details That Make It Better Than Forza Horizon 6",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xTUtfQ3djTjRnT1k5dVJLYXUtSHV3cDNfRy1oS0lSLUNMUGZwR05mN2tzRkd6MlI4T1lFWWF0dFMzMjlCY1ZhR04tZ2pZOTItdTBnUlF2M2FBdnFLa0owY184SC1QSFJibVVHdVJxRnJSWTRXWklv?oc=5",
-     "ts": "2026-10-18T21:42:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T21:40:47Z",
+  "last_run": "2026-10-25T21:50:46Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 56/58",
-   "gnews_ru: 19/61",
+   "gnews_ru: 20/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
