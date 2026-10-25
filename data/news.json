@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "c9f5cb992a3f",
+   "title": "The GTA VI sickie: Nearly 900,000 workers estimated to call in sick on launch day",
+   "first_seen": "2026-10-25T10:11:12Z",
+   "updated": "2026-10-25T10:11:12Z",
+   "items": [
+    {
+     "id": "c9f5cb992a3f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IFA Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The GTA VI sickie: Nearly 900,000 workers estimated to call in sick on launch day",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRURCZmw0bGE4MENoeC1xcXRmS0trc0xPQkNWSFFOTjQ1R0prSzBieHIwVVEtZzFoZVhJa0dEanA2WUFoM0otaXNBNWJPa3RSbWI2Xzlxb2F4RE56TENnLUNYUzZuaEdlalNfdkI3V3ZUQmd0VlZOcnJfSDg2UlhMVW16SjA2OWxBNEkyV3VZZGlGRjdBdS1Mam0xZXVKbWN6SURzY1hicw?oc=5",
+     "ts": "2026-10-25T10:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d293b4a75815",
    "title": "Rockstar is quietly transforming the real Miami into GTA 6’s Vice City",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -47484,10 +47510,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T10:01:08Z",
+  "last_run": "2026-10-25T10:11:12Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 48/49",
+   "gnews_en: 52/53",
    "gnews_ru: 15/58",
    "gamesbeat: 2/10",
    "vgc: 0/10",
