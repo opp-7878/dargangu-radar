@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "16a58a002528",
+   "title": "The Video Game Violence Panic Is Back Just in Time for GTA 6",
+   "first_seen": "2026-10-25T17:20:47Z",
+   "updated": "2026-10-25T17:20:47Z",
+   "items": [
+    {
+     "id": "16a58a002528",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "The Video Game Violence Panic Is Back Just in Time for GTA 6",
+     "url": "https://www.gtaboom.com/the-video-game-violence-panic-is-back-just-in-time-for-gta-6-04bf",
+     "ts": "2026-10-25T17:11:47Z",
+     "summary": "Criticism of GTA 6's violence and adult content is reviving a debate that has followed every major Grand Theft Auto launch for over two decades."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "894c97292d71",
    "title": "GTA VI is now available for preorder at Walmart",
    "first_seen": "2026-10-25T17:01:20Z",
@@ -47840,11 +47866,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T17:10:51Z",
+  "last_run": "2026-10-25T17:20:47Z",
   "last_log": [
-   "rockstar_site: 0/3",
-   "gnews_en: 54/55",
-   "gnews_ru: 15/59",
+   "rockstar_site: 0/1",
+   "gnews_en: 56/57",
+   "gnews_ru: 15/60",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -47852,7 +47878,7 @@
    "eurogamer: 0/100",
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
-   "gtaboom: 5/30",
+   "gtaboom: 6/30",
    "reddit: 21/25",
    "tg_gtavistar: 5/13"
   ],
