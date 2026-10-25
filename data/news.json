@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "24f7a129139c",
+   "title": "GTA 6 Sign Near Miami Tells Drivers the Game Is a Month Away",
+   "first_seen": "2026-10-25T10:40:46Z",
+   "updated": "2026-10-25T10:40:46Z",
+   "items": [
+    {
+     "id": "24f7a129139c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "happygamer.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Sign Near Miami Tells Drivers the Game Is a Month Away",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QWkxZYzdUSkRoR1V4MnRMNW5FaXFrRzZuTW1PZTJ5R2lOb3VKVmFWd2c5bkl4NjNOcHRMVzZWVGdrc2JnRzRoSmxhUkJCZnVBbk1nT1RfbUpPSHE1a3plQlozblVFQ3hmVGc?oc=5",
+     "ts": "2026-10-25T10:36:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c85fc68de771",
    "title": "В CS 2 появилась карта, посвященная хакеру GTA 6 – игрокам предлагается спасти его от Rockstar",
    "first_seen": "2026-10-25T10:31:03Z",
@@ -47601,11 +47627,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T10:31:03Z",
+  "last_run": "2026-10-25T10:40:46Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 47/48",
-   "gnews_ru: 16/26",
+   "gnews_en: 52/53",
+   "gnews_ru: 17/58",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
