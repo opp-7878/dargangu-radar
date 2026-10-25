@@ -47836,143 +47836,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "0cddae8353bf",
-   "title": "Miami TV News Now Warns Viewers About GTA 6 Scams",
-   "first_seen": "2026-10-18T17:01:11Z",
-   "updated": "2026-10-18T17:10:47Z",
-   "items": [
-    {
-     "id": "0cddae8353bf",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "Even Local News Is Warning Miami About GTA 6 Scams Now",
-     "url": "https://www.gtaboom.com/even-local-news-is-warning-miami-about-gta-6-scams-now-d7c8",
-     "ts": "2026-10-18T17:00:25Z",
-     "summary": "CBS News Miami warned viewers on October 18 that fake GTA 6 early access offers online are malware scams, echoing months of similar warnings."
-    },
-    {
-     "id": "94212d77886b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GTA BOOM",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Miami TV News Now Warns Viewers About GTA 6 Scams",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXlQelBMdVZGSXFKMEhMR2U4eXIyN3JudDhIbHhiWXBYdTJvLUVPV3hPbFpCWlJzOGJ1NkNnTDNZMzBmSS1rcGZJYXJGcWdZQ1Y0M0daRFpWMlhsQmNITnZ5SVVsZ1NMckhDVVcteElnbVdMaVRIYmFidGNfa2c1aXhINjllZVhscW53?oc=5",
-     "ts": "2026-10-18T17:00:26Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "⚠️ В Вайс-Сити снова обманывают: местные новости бьют тревогу",
-    "summary": "CBS News Miami 18 октября предупредила зрителей о мошенниках с «ранним доступом» к GTA 6 — это вредонос. Местные СМИ уже несколько месяцев говорят о таких схемах.",
-    "idea": "Короткий разбор: как выглядит «ранний доступ» к GTA 6 и почему это вредонос. Зрителю важно не потерять аккаунт и деньги перед релизом.",
-    "hook": "Думаешь, это ранний доступ к GTA 6? Стой — это вредонос.",
-    "stars": 2,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-18T17:10:51Z"
-   },
-   "msg_id": 107
-  },
-  {
-   "id": "2a0eb47c9254",
-   "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
-   "first_seen": "2026-10-18T11:30:59Z",
-   "updated": "2026-10-18T17:10:47Z",
-   "items": [
-    {
-     "id": "2a0eb47c9254",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTdtUHJuYnljdHpZem9pOHMzdmJxX1JLaWZNa3UwRVpPUy1xanRmQVNTUTJTdnVvMXlmRGw5ZUR6bFRvOVZFQjFNYk1sSjE0MmdwQW1xbzVEN1RDX0NETkhKUkR3NVZ5MHI1TWNsM2xyYmFleGNDb2VKUUlBaXRBX3ZuS2FvbERRZ2Z2dWNhbzkyUUU1?oc=5",
-     "ts": "2026-10-18T11:00:18Z",
-     "summary": ""
-    },
-    {
-     "id": "ac79402eb971",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "International Business Times, Singapore Edition",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Leaks Look Bad, But Rockstar Faced a Bigger Nightmare 13 Years Ago With GTA 5",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXJHVjFfbndKZVI4dENDMVJmWk1XNmxJMDFsSjdRUnZvYm9lOHBxTHZkOHBoc2R0STBITkM1aTdBRGRBY0JrMDd4NkU2S0pMWjYxZzY1WEY0Z3dvci1WN1RaSWhYTU50YVZmMnlUSEplYlhfZTk4SGpiSDVicVY1MUpMZTAzMkl0b2ZVNl9abWZrWVR3RU5uY0xDZFVlVHdPei1Z?oc=5",
-     "ts": "2026-10-18T17:02:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 73,
-   "level": "SPECULATION",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Хуже, чем слив GTA 6? Что утекло по GTA 5 тринадцать лет назад",
-    "summary": "Polygon и IBTimes напоминают: 13 лет назад по GTA 5 утекло больше материалов, чем по GTA 6. Речь о старых сливах и их масштабах, а не о сегодняшних утечках GTA 6.",
-    "idea": "Сравнение двух крупнейших сливов Rockstar: GTA 5 vs GTA 6. Зрителю интересно, какой слив был масштабнее и почему это важно сейчас.",
-    "hook": "Слив GTA 6 — не худший. 13 лет назад по GTA 5 утекло больше.",
-    "stars": 2,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-18T17:10:54Z"
-   },
-   "msg_id": 108
-  },
-  {
-   "id": "f96f13695fda",
-   "title": "I spent the last couple of years making GTA 6 inspired renders in blender out of pure hype, and it feels unreal knowing we’re finally playing it next month.",
-   "first_seen": "2026-10-18T17:10:47Z",
-   "updated": "2026-10-18T17:10:47Z",
-   "items": [
-    {
-     "id": "f96f13695fda",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I spent the last couple of years making GTA 6 inspired renders in blender out of pure hype, and it feels unreal knowing we’re finally playing it next month.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x95khv/i_spent_the_last_couple_of_years_making_gta_6/",
-     "ts": "2026-10-18T15:10:32Z",
-     "summary": "submitted by /u/Bullsht999 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T17:01:20Z",
+  "last_run": "2026-10-25T17:10:51Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 56/57",
-   "gnews_ru: 15/60",
+   "rockstar_site: 0/3",
+   "gnews_en: 54/55",
+   "gnews_ru: 15/59",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
