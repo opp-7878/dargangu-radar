@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "95d06586cb23",
+   "title": "GTA 6: Everything You Should Do Before Launch",
+   "first_seen": "2026-10-25T06:58:01Z",
+   "updated": "2026-10-25T06:58:01Z",
+   "items": [
+    {
+     "id": "95d06586cb23",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN India",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Everything You Should Do Before Launch",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUExJWlFKZ3lEa08yS243YWh0bTY5VXhEOHAzTFg2dFlkbWpkeVF3OEJVTXBHTHJHLVFmR3ExOWV1M2RRa3FhT1NwRjVSc2hyR2JReWtwMzdGY3lRZDEwTW1LWmRzcDY1S3ZjMjlzbjBINjBRSHJfNVl6T20wOWZDdHFlTGVDU21STGc3SUNEYnotLVMw?oc=5",
+     "ts": "2026-10-25T02:25:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -47416,10 +47442,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T06:50:48Z",
+  "last_run": "2026-10-25T06:58:01Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 51/52",
+   "gnews_en: 53/54",
    "gnews_ru: 18/58",
    "gamesbeat: 2/10",
    "vgc: 0/10",
