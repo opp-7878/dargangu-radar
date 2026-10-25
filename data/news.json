@@ -1,6 +1,62 @@
 {
  "stories": [
   {
+   "id": "1ff1fd3ec5e1",
+   "title": "Why GTA 6 Was Delayed Twice, According to Rockstar",
+   "first_seen": "2026-10-25T15:01:14Z",
+   "updated": "2026-10-25T15:01:14Z",
+   "items": [
+    {
+     "id": "1ff1fd3ec5e1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Why GTA 6 Was Delayed Twice, According to Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51c2hvNUF6aElMRHlqUTBpbG5qY1htai1qU1prcmRod3hTM280bno3TW1lYWhRdFUxUHRoUEp0bTB1XzhWU0hudnRCNEFvWEtVbVNOQVV4OW9VZFVOQ0V3djNnOEFqYkdRaGU4?oc=5",
+     "ts": "2026-10-25T05:43:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "94db775e0a92",
+   "title": "Rockstar Co-Founder is Avoiding GTA 6 Gameplay",
+   "first_seen": "2026-10-25T15:01:14Z",
+   "updated": "2026-10-25T15:01:14Z",
+   "items": [
+    {
+     "id": "94db775e0a92",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Co-Founder is Avoiding GTA 6 Gameplay",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQTjlrN0hna2RmTnl1cWNQdFI3REdER1pMUmE4Z1JndTVzREF3Uk1VRW9JRmFPZ3JVUkZneVNDdEpkazdVaUp5ZlhRc1VZMU8yTUdHS0dvLXFZeExnR1c1V3R6S0o?oc=5",
+     "ts": "2026-10-25T08:01:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "15f9afb30620",
    "title": "Актриса, которую считают прототипом Люсии из GTA 6, провела первый прямой эфир и проигнорировала все вопросы об игре",
    "first_seen": "2026-10-25T14:40:46Z",
@@ -47580,10 +47636,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T14:50:46Z",
+  "last_run": "2026-10-25T15:01:14Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 43/44",
+   "gnews_en: 46/47",
    "gnews_ru: 15/60",
    "gamesbeat: 1/10",
    "vgc: 0/10",
