@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "f01a1034419e",
+   "title": "Рекламные сувениры GTA 6 перепродают за сотни долларов - фанаты сражаются за стаканы и бумажные пакеты",
+   "first_seen": "2026-10-25T20:20:47Z",
+   "updated": "2026-10-25T20:20:47Z",
+   "items": [
+    {
+     "id": "f01a1034419e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Рекламные сувениры GTA 6 перепродают за сотни долларов - фанаты сражаются за стаканы и бумажные пакеты",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMUhMekRBRVNKbzBJV0tyVHlYYXJiZ21mODM0djgxWmFoMXNJM1V4U0h1MjhuMVo3djFUakhuN00ydU1JdEo3YmhJei1YbXE3MlRHcDZGcy1qM2Nfa0tGcUg4c0ljVVFmb0kwUC02blNMNjNPbWpiNUdvb0s1cUdQTXNQdTVQbzhsNVBIUjFrY2VHSmt5ZjBiX2dNVUtjM2tsSTJ4dGN2U0hKMWVkeWhoWnpPdUNtS1lIZmNzbk9WcFZTV0xGNzRTclhpekJ4dzF2dkJXZHBrLVFOT1d2TktGRVJUZU0?oc=5",
+     "ts": "2026-10-25T20:05:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "167b11075a20",
    "title": "GTA 6 заработала 630 млн долларов ещё до релиза: PS5 принесла Rockstar 468 млн с предзаказов",
    "first_seen": "2026-10-25T20:10:47Z",
@@ -48091,11 +48117,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T20:10:47Z",
+  "last_run": "2026-10-25T20:20:47Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 56/57",
-   "gnews_ru: 17/61",
+   "gnews_en: 56/58",
+   "gnews_ru: 18/63",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -48104,7 +48130,7 @@
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
    "gtaboom: 6/30",
-   "reddit: 22/25",
+   "reddit: 21/25",
    "tg_gtavistar: 6/13"
   ],
   "digest": "2026-10-25",
