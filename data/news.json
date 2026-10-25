@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "7c4031f8293b",
+   "title": "Майами превратился в Вайс-Сити в рамках масштабной рекламной кампании GTA VI",
+   "first_seen": "2026-10-25T08:01:15Z",
+   "updated": "2026-10-25T08:01:15Z",
+   "items": [
+    {
+     "id": "7c4031f8293b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Land of Games",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Майами превратился в Вайс-Сити в рамках масштабной рекламной кампании GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV0Y4TktaSVlna0kxeTl3UXZsdlp0dkN4ZENySkFuQWQ2SDRPRjh1QUZ2UWxBQ3dESnp0V1FXZ2N3NmdPdF9vd2ZyN0ZVMGRFMnBTRkNNX0FRT2NDeFFqejR6MjI3d1dyTkNZeU55UmhlSGZ0YnIxV09CRE1fZUxLX0V3UXdsLTl5VUwzbmlQc3M3TnFmLVJYRzN6c3RzZDZvdTRKVHRWYk9XbTg3SnNoWEwyN3k1MmJ0NnBJMWpCNF90UmFDVTc4?oc=5",
+     "ts": "2026-10-25T07:54:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "8bb73ec2b471",
    "title": "Cops after November 19th…",
    "first_seen": "2026-10-25T07:50:49Z",
@@ -47507,11 +47533,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T07:50:49Z",
+  "last_run": "2026-10-25T08:01:15Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 49/50",
-   "gnews_ru: 19/57",
+   "gnews_en: 53/54",
+   "gnews_ru: 20/58",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
