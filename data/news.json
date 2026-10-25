@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "1d54fd5a1b8a",
+   "title": "It's insane that she's had to go 5+ years not being able to say a word about GTA 6.",
+   "first_seen": "2026-10-25T20:01:11Z",
+   "updated": "2026-10-25T20:01:11Z",
+   "items": [
+    {
+     "id": "1d54fd5a1b8a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "It's insane that she's had to go 5+ years not being able to say a word about GTA 6.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xf927u/its_insane_that_shes_had_to_go_5_years_not_being/",
+     "ts": "2026-10-25T17:56:43Z",
+     "summary": "submitted by /u/jalen_nelson235 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f8789020df1c",
    "title": "GTA 6 Devs Officially Debunk Disney World Parody Rumour",
    "first_seen": "2026-10-25T19:31:02Z",
@@ -48033,39 +48059,13 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c0022d30e6c7",
-   "title": "The GTA 6 Game Awards Drama is SO F*CKING STUPID!",
-   "first_seen": "2026-10-18T20:01:09Z",
-   "updated": "2026-10-18T20:01:09Z",
-   "items": [
-    {
-     "id": "c0022d30e6c7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "YouTube",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The GTA 6 Game Awards Drama is SO F*CKING STUPID!",
-     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IcThIOEJPdThLXzNjMWlNdUVKY3BHa05fZF9BUXgzeGlfNGZHdnNpWFNtZ2stRkNPZmFKdGFKRFJfZw?oc=5",
-     "ts": "2026-10-18T17:00:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T19:50:46Z",
+  "last_run": "2026-10-25T20:01:11Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/2",
    "gnews_en: 58/59",
    "gnews_ru: 17/61",
    "gamesbeat: 1/10",
