@@ -1,6 +1,88 @@
 {
  "stories": [
   {
+   "id": "2809d0bfeed0",
+   "title": "GTA San Andreas 22 года спустя: оригинальная локация, управление и сравнение с GTA 6.",
+   "first_seen": "2026-10-25T15:10:45Z",
+   "updated": "2026-10-25T15:10:45Z",
+   "items": [
+    {
+     "id": "2809d0bfeed0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA San Andreas 22 года спустя: оригинальная локация, управление и сравнение с GTA 6.",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajFxZFcza2gzV1NPMGwyQ1JHV2xoX0l2SlEtZkRjbGYwQVFRTUVlYnByX042eng0ZFVyV3ZXb25OTjJtb1M1ejdiREF6VENVYmRyX0FxVUJ4dFphRE9pYl82eGVfdFdEbkNSeE9OWnkycmtJWlRmeTVyVjcwa1VHQmJEenlTMVN4b1BqSlY0TVUyMWhvQ3lLTDlUZ01LZ1dt?oc=5",
+     "ts": "2026-10-25T14:36:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2e1affdd120b",
+   "title": "😂 GTA VI уволила человека!",
+   "first_seen": "2026-10-25T15:10:45Z",
+   "updated": "2026-10-25T15:10:45Z",
+   "items": [
+    {
+     "id": "2e1affdd120b",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 35,
+     "alert": true,
+     "title": "😂 GTA VI уволила человека!",
+     "url": "https://t.me/GTAVIStar/744",
+     "ts": "2026-10-25T15:03:27Z",
+     "summary": "😂 GTA VI уволила человека! Парень слил рекламу игры на $4 млн раньше времени Житель Майами Грэм Симмон решил похвастаться в TikTok рекламными материалами GTA VI. Он работал над оформлением пляжа, где Rockstar готовила масштабную рекламную кампанию в стиле Вайс-Сити. В ролике Симмон показал новые шезлонги, зонтики и пляжные шатры с символикой игры — это часть рекламного соглашения Rockstar с компанией Boucher Brothers на $4 млн. 😬 Изначально видео собрало меньше тысячи просмотров. Однако вскоре Грэма попросили удалить публикацию, а кадры уже успели разлететься по X, Instagram и TikTok. Работодателю такая популярность не понравилась — парня уволили. «Короче, GTA VI стоила мне работы», — рассказал он в видео от 20 октября. Грэм понимает решение работодателя. По его словам, он был новичком и даже не знал, что рекламные материалы нельзя показывать раньше времени. А Rockstar продолжает превращать настоящий Майами в Вайс-Сити: город украшают рекламой GTA VI, тематическими автомобилями и декорациями. Когда получил достижение «Безработный» до выхода GTA VI и теперь не придётся брать отпуск 🧠 🎮 Подписывайся на @igryrostelecom"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 50,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bc940633d2a8",
+   "title": "Side quests ?",
+   "first_seen": "2026-10-25T15:10:45Z",
+   "updated": "2026-10-25T15:10:45Z",
+   "items": [
+    {
+     "id": "bc940633d2a8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Side quests ?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xf4sal/side_quests/",
+     "ts": "2026-10-25T15:08:32Z",
+     "summary": "I dont remember leaks or anything official about some type of side quests maybe like the '' ? '' in RDR 2 ? I'm the type of player that likes to not rush the main story and do a lot of different things of course there will be ( gym , billiard , basketball etc ... ) but do you think there will be some type / sort of side quests ? submitted by /u/KingOfEreb0r to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "1ff1fd3ec5e1",
    "title": "Why GTA 6 Was Delayed Twice, According to Rockstar",
    "first_seen": "2026-10-25T15:01:14Z",
@@ -47636,11 +47718,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T15:01:14Z",
+  "last_run": "2026-10-25T15:10:45Z",
   "last_log": [
-   "rockstar_site: 0/2",
+   "rockstar_site: 0/3",
    "gnews_en: 46/47",
-   "gnews_ru: 15/60",
+   "gnews_ru: 16/60",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -47650,7 +47732,7 @@
    "rockstarintel: 0/10",
    "gtaboom: 5/30",
    "reddit: 21/25",
-   "tg_gtavistar: 3/13"
+   "tg_gtavistar: 4/13"
   ],
   "digest": "2026-10-24",
   "tg_offset": 854319078
