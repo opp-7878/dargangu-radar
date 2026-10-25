@@ -47563,41 +47563,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4cedf8c966f5",
-   "title": "Главные игровые релизы ноября, не считая GTA 6",
-   "first_seen": "2026-10-18T14:01:10Z",
-   "updated": "2026-10-18T14:01:10Z",
-   "items": [
-    {
-     "id": "4cedf8c966f5",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "games.gg",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Главные игровые релизы ноября, не считая GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxObzVxeXVxSFhzdU9LWXlOWVBiRXlLekFsS1JOOHhwbFRveUFNVHdnYjJUdHNMRmMzcW1qUVBlYW94OWxhVXN4cThtbG9MRHVyaG5IR2NXTmQ2TzJ6WUExTWZtT041R2h2Y2xDVUNVWDl1X2pyUXJnZk1GdE85d0J0SGdmVHBJMk9yOFB3MG1lM28zQWRsUEZYSUJuNnlpRXlPZVJjNnFiTDJldlgwdjFTQ2FJYm5fTF9Tb1hrNGZYd1BlSk5FbFBhUzBjVnh4R2Q4QjYyNENydGhLQzFOTXFwNEhTbF9uTncyeDZGQkc1aWh6dlJIbHIxeVcycE5sZDhEOTVra0RFYUFVa01wMDkyRHBQdmtBZjJ4MWl3ZnVnS183SjEtRUNqR1ZFVDE0cEpUMmNUM0VCZUVvbFEtNEpHZS1vV1VPelAzZUMzcVdzMFNFZnowTWJRalZYc3k1UQ?oc=5",
-     "ts": "2026-10-18T13:46:06Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T13:50:51Z",
+  "last_run": "2026-10-25T14:01:33Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 47/49",
-   "gnews_ru: 15/58",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
