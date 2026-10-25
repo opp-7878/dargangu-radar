@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "acfccd3ea507",
+   "title": "Soon to be the most popular spot in Miami",
+   "first_seen": "2026-10-25T21:54:40Z",
+   "updated": "2026-10-25T21:54:40Z",
+   "items": [
+    {
+     "id": "acfccd3ea507",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Soon to be the most popular spot in Miami",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xfebp5/soon_to_be_the_most_popular_spot_in_miami/",
+     "ts": "2026-10-25T21:26:31Z",
+     "summary": "submitted by /u/Someabe to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5189da62f8a4",
+   "title": "GTA vi first person mode;",
+   "first_seen": "2026-10-25T21:54:40Z",
+   "updated": "2026-10-25T21:54:40Z",
+   "items": [
+    {
+     "id": "5189da62f8a4",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA vi first person mode;",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xfevls/gta_vi_first_person_mode/",
+     "ts": "2026-10-25T21:50:36Z",
+     "summary": "submitted by /u/dopy9 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "014a4a886c84",
    "title": "GTA 6: механика топлива и заправки — как это работает",
    "first_seen": "2026-10-25T21:50:46Z",
@@ -48106,11 +48158,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T21:50:46Z",
+  "last_run": "2026-10-25T21:54:40Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 56/58",
-   "gnews_ru: 20/61",
+   "gnews_en: 58/61",
+   "gnews_ru: 21/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -48119,7 +48171,7 @@
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
    "gtaboom: 6/30",
-   "reddit: 21/25",
+   "reddit: 22/25",
    "tg_gtavistar: 6/13"
   ],
   "digest": "2026-10-25",
