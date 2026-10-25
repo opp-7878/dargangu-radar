@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "214d0f8e0f6e",
+   "title": "Rockstar превращает Майами в настоящий Вайс-Сити к выходу GTA 6",
+   "first_seen": "2026-10-24T13:01:16Z",
+   "updated": "2026-10-25T12:40:49Z",
+   "items": [
+    {
+     "id": "214d0f8e0f6e",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 35,
+     "alert": true,
+     "title": "Рекламная кампания GTA 6 превращает Майами в Вайс-Сити",
+     "url": "https://t.me/GTAVIStar/741",
+     "ts": "2026-10-24T12:58:14Z",
+     "summary": "Рекламная кампания GTA 6 превращает Майами в Вайс-Сити • Rockstar продолжает продвигать GTA 6 перед релизом. Улицы Майами постепенно заполняются рекламой игры, а в городе появляются вывески, баннеры и транспорт с отсылками к виртуальному миру. • Некоторые такси уже начали менять оформление под RydeMe , игровой аналог Uber из GTA 6. Теперь даже обычная поездка по Майами напоминает прогулку по Вайс-Сити. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    },
+    {
+     "id": "e5ee9deb7891",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "24 Канал",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar превращает Майами в настоящий Вайс-Сити к выходу GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVW1meFhuZkw3NV9rRUgwV2Jfb0lha0hGVUNNZ2Rod1lYMVpXblo3TzdIQVJxY2FWc1FJY3JVVHV2dE45SFZDeEdNelozYXlMTHdZcTFJR3pOMTJudXpJV0NmOG5FVDB4TGxOLW1CbVZOYVhKYnlJQ3dWekRsYnIyX01WQjNmM0FKbm1RVDIyRjFoTWU1Y2Vaa2EzR0NXczdIUHhzY1VTNVdXNUUxRWdQWtIBtgFBVV95cUxQWFlkRWtsOFYyUkN4cEEzMERZSUpWUUNCUE81a0tDWkNRYW96bi1INGZLeERLTnRGeGNkeGZfQ0RfaXJWbGJXNHMyZWJlZWNoUWU4dDU1eWlqVFJ2LVE5SWFDTnBVZDVKd2p5eC13WFRJcDRWSkVVM3JLc0Jpcm9NalQyY2dxTVpPZDVhUE5WRElHTlZxQW5kZUZ2UWd4NGFyQTRxTl91RjJEQnB0QTYxRVBxLVZUZw?oc=5",
+     "ts": "2026-10-25T11:26:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "cbbe0bf95666",
    "title": "What types of achievements do you think there should be in GTA 6?",
    "first_seen": "2026-10-25T12:26:40Z",
@@ -18882,32 +18921,6 @@
    ],
    "tags": [],
    "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "214d0f8e0f6e",
-   "title": "Рекламная кампания GTA 6 превращает Майами в Вайс-Сити",
-   "first_seen": "2026-10-24T13:01:16Z",
-   "updated": "2026-10-24T13:01:16Z",
-   "items": [
-    {
-     "id": "214d0f8e0f6e",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 35,
-     "alert": true,
-     "title": "Рекламная кампания GTA 6 превращает Майами в Вайс-Сити",
-     "url": "https://t.me/GTAVIStar/741",
-     "ts": "2026-10-24T12:58:14Z",
-     "summary": "Рекламная кампания GTA 6 превращает Майами в Вайс-Сити • Rockstar продолжает продвигать GTA 6 перед релизом. Улицы Майами постепенно заполняются рекламой игры, а в городе появляются вывески, баннеры и транспорт с отсылками к виртуальному миру. • Некоторые такси уже начали менять оформление под RydeMe , игровой аналог Uber из GTA 6. Теперь даже обычная поездка по Майами напоминает прогулку по Вайс-Сити. 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    }
-   ],
-   "tags": [],
-   "score": 35,
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
@@ -47658,11 +47671,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T12:31:05Z",
+  "last_run": "2026-10-25T12:40:49Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 47/47",
-   "gnews_ru: 15/26",
+   "gnews_en: 52/52",
+   "gnews_ru: 17/56",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
