@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "07a9618e04a5",
+   "title": "Am I the only person whos thinks Key West might not be scrapped?",
+   "first_seen": "2026-10-25T19:18:41Z",
+   "updated": "2026-10-25T19:18:41Z",
+   "items": [
+    {
+     "id": "07a9618e04a5",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Am I the only person whos thinks Key West might not be scrapped?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xf948q/am_i_the_only_person_whos_thinks_key_west_might/",
+     "ts": "2026-10-25T17:59:03Z",
+     "summary": "This screenshot gives me a lot of hope that its still in the game due to the amount of traffic thats heading to the south of the map. At first i thought itd just be for the naval station but it just seems too small for all that traffic imo, and im pretty sure it (Key West) was loctaed in the south in the 2015 map right? (could be wrong) but what do yall think? submitted by /u/isitmikefr to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7c9eb7919320",
+   "title": "GTA 6: Rob Brinkmann Is Rumored as Voice Actor of Jason",
+   "first_seen": "2026-10-25T19:18:41Z",
+   "updated": "2026-10-25T19:18:41Z",
+   "items": [
+    {
+     "id": "7c9eb7919320",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "EGW News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Rob Brinkmann Is Rumored as Voice Actor of Jason",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVR4eDE0eXpsN0JnTHJHM2hDRDV0SjJHYkFsa3JmRVY1MzhINlp3ZnBMM3NRSzBTWnJ3NGdPbE55STEwX0pyMFRMaVkyd2dGTmw1OWo5YVlqN20zQVJ0aGdrdUNvdG1LdmQ3dnc0WW1aQzhpSXZRQXYtdXJqYlAzS05ZbTlMVDh6RnhuNmVnUDQ5djlDTlJySkhR?oc=5",
+     "ts": "2026-10-25T18:35:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d41a2d939f6e",
    "title": "Does anyone else wish they made Lucia attractive like Lara Croft?",
    "first_seen": "2026-10-25T19:10:46Z",
@@ -48141,10 +48193,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T19:10:46Z",
+  "last_run": "2026-10-25T19:18:41Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 63/65",
+   "gnews_en: 62/63",
    "gnews_ru: 17/59",
    "gamesbeat: 1/10",
    "vgc: 0/10",
