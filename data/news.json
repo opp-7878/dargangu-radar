@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "c85fc68de771",
+   "title": "В CS 2 появилась карта, посвященная хакеру GTA 6 – игрокам предлагается спасти его от Rockstar",
+   "first_seen": "2026-10-25T10:31:03Z",
+   "updated": "2026-10-25T10:31:03Z",
+   "items": [
+    {
+     "id": "c85fc68de771",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "24 Канал",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В CS 2 появилась карта, посвященная хакеру GTA 6 – игрокам предлагается спасти его от Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUtGMWI3NjQ5blo1MG5wTWtVckU2RlFZRlZQdzZ5cWJQdDBiUjdnRnRKc1B2cGtLXzlZeE85Q3MtVDBCUzBkM3Y4ekI0dXZIRVduR21tUzRuT0xlR0Jnd1VraEZwdFpibVQwSGZjdzJHbmVPVjVvbmVZWXVLR2diV3drOW9vSWZJUFVRdVE0Yjd2cXdQeFdDdy1sXzN5UGtsRHFLOGZONTFqbDTSAasBQVVfeXFMUG1LRjFiNzY0OW5aNTBucE1rVXJFNkZRWUZWUHc2eXFiUHQwYlI3Z0Z0SnNQdnBrS185WXhPOUNzLVQwQlMwZDN2OHpCNHV2SEVXbkdtbVM0bk9MZUdCZ3dVa2hGcHRaYm1UMEhmY3cyR25lT1Y1b25lWVl1S0dnYld3azlvb0lmSVBVUXVRNGI3dnF3UHhXQ3ctbF8zeVBrbERxSzhmTjUxamw0?oc=5",
+     "ts": "2026-10-25T08:47:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -47575,11 +47601,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T10:20:48Z",
+  "last_run": "2026-10-25T10:31:03Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 48/49",
-   "gnews_ru: 17/58",
+   "gnews_en: 47/48",
+   "gnews_ru: 16/26",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
