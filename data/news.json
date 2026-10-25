@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "7e22c55182af",
+   "title": "I feel like this mission is going to be the GTA equivalent of the RDR2 mission where you get drunk in the saloon and look for Lenny",
+   "first_seen": "2026-10-25T09:20:51Z",
+   "updated": "2026-10-25T09:20:51Z",
+   "items": [
+    {
+     "id": "7e22c55182af",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I feel like this mission is going to be the GTA equivalent of the RDR2 mission where you get drunk in the saloon and look for Lenny",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xex3n8/i_feel_like_this_mission_is_going_to_be_the_gta/",
+     "ts": "2026-10-25T08:37:17Z",
+     "summary": "submitted by /u/RogerRoger63358 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "cc6a92a65747",
    "title": "PS5 Sales Jump 22% in September Ahead of GTA 6",
    "first_seen": "2026-10-23T00:49:17Z",
@@ -47335,54 +47361,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "11d2f36f0f98",
-   "title": "С гигантского баннера GTA 6 в Париже исчезли два ствола",
-   "first_seen": "2026-10-16T16:50:42Z",
-   "updated": "2026-10-18T09:20:43Z",
-   "items": [
-    {
-     "id": "11d2f36f0f98",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "С гигантского баннера GTA 6 в Париже исчезли два ствола",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMTBGSVlGaW5UUTJwLXlQN2JvOGlXMTM3djZFdWw2Z2hMcnlNY3ZBLUJjckhKR2JQR0IzOEh0NUZwVGo0ZVJTR3dYbGNYU0pGV1VpUGdxMVkzTGN1TU5UeUNYc3F1MmsyRndNN0JpSlEzMC13TklZNThSbmowVHcwVmN3UjB0Q3NJRzlsQ2wzNGlqbU5mdEE?oc=5",
-     "ts": "2026-10-16T16:40:00Z",
-     "summary": ""
-    },
-    {
-     "id": "1d1c201ab81b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "24 Канал",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar отредактировала обложку GTA 6 для гигантского баннера в Париже",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHhWVlVrS3lYd3puSEh5WGRGVnBMeWZuTjZKZEpiQWVIQmxPZHBvVUhnUlhXWldXR2o5SXNXY1FXb0Z5WExuZTVOeHBDVHA5VTVnZ0twWmowUTUtVnVUUnlOZE5hMGhzS1QtZnMwdzVsWWVhUFUtS3RiRGdISnZrX3FTMkRSeVZNSzFDVEpIdFo2QktZdU5oY3Z4QdIBoAFBVV95cUxNSUJ1Rm9FcklXWWFmQVBiTnJ6ekhLV0JJMGF4dXJMVzNwMkhMSmxZdXpCT0dLcExMVnpGTmdYTmdqaG93blU2WFFranFuR0cwckdYUW5LbjgwUEM3SXNuQks0YWZ1dlJmVElfam5mR09wLWhqUlhGVS1tb1QxMlR6Zlg3VVFjVHpVLWJDTkdTMTlZM0h2emdLTm9ZSWFMWU5k?oc=5",
-     "ts": "2026-10-18T09:04:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T09:10:48Z",
+  "last_run": "2026-10-25T09:20:51Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 48/49",
-   "gnews_ru: 14/59",
+   "rockstar_site: 0/2",
+   "gnews_en: 50/51",
+   "gnews_ru: 14/58",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
