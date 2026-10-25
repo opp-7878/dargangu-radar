@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "a34ba144c9b0",
+   "title": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade (TTWO:NASDAQ)",
+   "first_seen": "2026-10-24T10:40:48Z",
+   "updated": "2026-10-25T03:50:49Z",
+   "items": [
+    {
+     "id": "a34ba144c9b0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Seeking Alpha",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade (TTWO:NASDAQ)",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR05tbFZaZ1d4NkJJb2IzQXUzLWJCVXE4MjRqQ2x2UmlJdWlhcmNsd1NBWHMtalJSbXJ5ODFRR1NVQXhhQU9fT2wxbzRWM3Q3Q0Z6NVRwbGQ1Rk5hRFF3RHNITHBEODF6MlNDMDFicFZCZXFtVEdRZ3hoQmxxT05YdjN6VDF0Y3lCWkdmeVZkdTlhVV9XNEhFMW1Pc1poa3NFT1Zr?oc=5",
+     "ts": "2026-10-24T10:30:48Z",
+     "summary": ""
+    },
+    {
+     "id": "145369a4f93f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "shattered.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Vibe Theft Auto: GTA 6 Fade Trade and TTWO [2026]",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc1VWei1FTmtRZVNnM3RJaHVITGhSa2xZSGFiamhrUTVkZnBsdkRxSXZSMGVWYi1NNXo3UXl6TFc1eWdfaks3Y2x3OHBfQ3pScGdIODJjRmxjRXdSVXQxSFFLTzJoWDZXTEVvU052VmRpUXZxOUZIaERtNWpLZUFHUjBSMlZnQQ?oc=5",
+     "ts": "2026-10-25T02:45:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -16992,32 +17031,6 @@
      "title": "1.5 Million US Workers Plan to Skip 19 November for GTA 6, Estimate Says",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVllXQktQTGdWSTRoX3RKT3hqajVlNXZTdzdnbUpCMUEtT2ZjQ2VGM1BIRnBUTkxmeUVSN0wySnZ3Rl95VFhMRURsbEVqRkdCbklTVWJad3JHOExFOWhxNTFyLUtJbG1vX2VvVVI0NDhVQ0Fwa0YwNERVdmNjWEZ5eWd3Wjg3bG81SE5NczloaGJlbFU?oc=5",
      "ts": "2026-10-24T08:35:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a34ba144c9b0",
-   "title": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade (TTWO:NASDAQ)",
-   "first_seen": "2026-10-24T10:40:48Z",
-   "updated": "2026-10-24T10:40:48Z",
-   "items": [
-    {
-     "id": "a34ba144c9b0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Seeking Alpha",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade (TTWO:NASDAQ)",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR05tbFZaZ1d4NkJJb2IzQXUzLWJCVXE4MjRqQ2x2UmlJdWlhcmNsd1NBWHMtalJSbXJ5ODFRR1NVQXhhQU9fT2wxbzRWM3Q3Q0Z6NVRwbGQ1Rk5hRFF3RHNITHBEODF6MlNDMDFicFZCZXFtVEdRZ3hoQmxxT05YdjN6VDF0Y3lCWkdmeVZkdTlhVV9XNEhFMW1Pc1poa3NFT1Zr?oc=5",
-     "ts": "2026-10-24T10:30:48Z",
      "summary": ""
     }
    ],
@@ -47472,11 +47485,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T03:40:46Z",
+  "last_run": "2026-10-25T03:50:49Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 43/49",
-   "gnews_ru: 18/58",
+   "rockstar_site: 0/0",
+   "gnews_en: 47/49",
+   "gnews_ru: 18/57",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
