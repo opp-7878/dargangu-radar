@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-25T02:31:02Z",
+   "updated": "2026-10-25T02:40:52Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -14669,6 +14669,19 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xeotqb/famous_jamaican_artist_m_dot_r_confirms_his_song/",
      "ts": "2026-10-25T00:56:15Z",
      "summary": "submitted by /u/poroplease to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "6aa93383a0c1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Shrek 2 game trailer is GTA 6 inspired!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xenszk/shrek_2_game_trailer_is_gta_6_inspired/",
+     "ts": "2026-10-25T00:06:13Z",
+     "summary": "submitted by /u/BATMAN_5777 to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [
@@ -14686,6 +14699,62 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "14db39175a82",
+   "title": "GTA 6 Weapon System: Weapon Limits, Gunplay Changes, and Confirmed Weapons",
+   "first_seen": "2026-10-25T02:40:52Z",
+   "updated": "2026-10-25T02:40:52Z",
+   "items": [
+    {
+     "id": "14db39175a82",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MMOEXP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Weapon System: Weapon Limits, Gunplay Changes, and Confirmed Weapons",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObm1zTVhyNk9QSnRsbDdBY1NsTzNyMnRXM21ySFJWeVpZQUpEampKY1JHWXNQVE1JV01vbTBHdUsxY0Q5NXhXRGVZdHNiSXNTYWJHSnd3Y2NudTBKd0dDUDJITzdzX1VFRGhQVWsydHllTVMyUXBpNTJyUHFGLUNtMWVJSDh5dUZPSmVzT0FMTF82YUh2TDBHd18zVlkteHhwcmNybWhQbw?oc=5",
+     "ts": "2026-10-25T02:32:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e7c584bbedd5",
+   "title": "Thoughts on Lucia's hand movement?",
+   "first_seen": "2026-10-25T02:40:52Z",
+   "updated": "2026-10-25T02:40:52Z",
+   "items": [
+    {
+     "id": "e7c584bbedd5",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Thoughts on Lucia's hand movement?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xeqvlu/thoughts_on_lucias_hand_movement/",
+     "ts": "2026-10-25T02:40:31Z",
+     "summary": "Noticed this hand movement by Lucia where she flattens her palm and then moves to a clenched fist in the extended look and some of the leaks. Could be some sort of tick when she is angry and/or stressed? This is when she finds the infuencer in the trunk. What are yall thoughts? submitted by /u/Knomis3 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -47444,11 +47513,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T02:31:02Z",
+  "last_run": "2026-10-25T02:40:52Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 46/51",
-   "gnews_ru: 18/57",
+   "rockstar_site: 0/1",
+   "gnews_en: 46/50",
+   "gnews_ru: 18/58",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -47457,7 +47526,7 @@
    "dexerto_gta: 2/50",
    "rockstarintel: 1/10",
    "gtaboom: 2/30",
-   "reddit: 23/25",
+   "reddit: 22/25",
    "tg_gtavistar: 4/13"
   ],
   "digest": "2026-10-24",
