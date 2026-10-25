@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "30c267cf682d",
+   "title": "Is there a reason to play gta 6 on emulators if I have a ps5?",
+   "first_seen": "2026-10-25T16:20:45Z",
+   "updated": "2026-10-25T16:20:45Z",
+   "items": [
+    {
+     "id": "30c267cf682d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Is there a reason to play gta 6 on emulators if I have a ps5?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xf6k9j/is_there_a_reason_to_play_gta_6_on_emulators_if_i/",
+     "ts": "2026-10-25T16:18:46Z",
+     "summary": "I played astro bot on emultor and it had 30-40 fps, stable 67 in the menu and 30ms frametime. Also the second level had severe ghosting and I could almost vomit Im scared Ill be missing out on a better version of gta 6 (emulating) by not waiting 1-3 months, and instead playing on ps5 on launch. I dont want to have the option to expirience the game better for the first time, but miss it out because I didnt wait :(. On one hand astrobot is sub ps5 performance on my pc (rtx 5070 ryzen 7700x and 32gb ddr5) and has extreme graphical issues without castrating the graphics, on another hand we have pe"
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -47808,11 +47836,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T16:10:55Z",
+  "last_run": "2026-10-25T16:20:45Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 54/54",
-   "gnews_ru: 14/28",
+   "gnews_en: 52/54",
+   "gnews_ru: 15/59",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
