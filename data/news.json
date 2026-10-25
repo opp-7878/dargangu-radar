@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "0fc55da0dda9",
+   "title": "В Тольятти оркестр исполнил главную тему GTA: San Andreas",
+   "first_seen": "2026-10-25T16:50:48Z",
+   "updated": "2026-10-25T16:50:48Z",
+   "items": [
+    {
+     "id": "0fc55da0dda9",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 35,
+     "alert": true,
+     "title": "В Тольятти оркестр исполнил главную тему GTA: San Andreas",
+     "url": "https://t.me/GTAVIStar/745",
+     "ts": "2026-10-25T16:46:03Z",
+     "summary": "В Тольятти оркестр исполнил главную тему GTA: San Andreas • Знакомая мелодия из игры прозвучала в исполнении живых музыкантов. • Музыка из игр давно вышла за пределы гейминга и теперь находит своё место даже на подобных оркестровых выступлениях. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -47888,10 +47914,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T16:42:01Z",
+  "last_run": "2026-10-25T16:50:48Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 54/55",
+   "rockstar_site: 0/3",
+   "gnews_en: 52/54",
    "gnews_ru: 14/60",
    "gamesbeat: 1/10",
    "vgc: 0/10",
@@ -47902,7 +47928,7 @@
    "rockstarintel: 0/10",
    "gtaboom: 5/30",
    "reddit: 21/25",
-   "tg_gtavistar: 4/13"
+   "tg_gtavistar: 5/13"
   ],
   "digest": "2026-10-24",
   "tg_offset": 854319078
