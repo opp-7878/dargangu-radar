@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "d43b295950cd",
+   "title": "Сообщается, что эмбарго на обзоры GTA 6 будет снят 18 ноября, а критики получат копии в ближайшее время",
+   "first_seen": "2026-10-25T13:01:11Z",
+   "updated": "2026-10-25T13:01:11Z",
+   "items": [
+    {
+     "id": "d43b295950cd",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Сообщается, что эмбарго на обзоры GTA 6 будет снят 18 ноября, а критики получат копии в ближайшее время",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWdOMXYyTi12YkNaMnh2dHlDaXNBVGk4bjFkbnRMbzZQV3Y5UjVWN28xOWhNSGVabF9oNGtJMkE5TnFDaWZQdmNxYTNyYjhaWW4tbG9uSm5VY3RJbEFtZ0xIZlM5OEI2eEl4ZVZHY0NxX2g4eVhmNkVOakI0V2NfZnZKSU56ZUZMNlZOUHlRYUpoUG40TG1hT0ttXzB4S1JN?oc=5",
+     "ts": "2026-10-25T12:01:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "31671e254735",
+   "title": "What should I cook for my husband when GTA 6 comes out?",
+   "first_seen": "2026-10-25T13:01:11Z",
+   "updated": "2026-10-25T13:01:11Z",
+   "items": [
+    {
+     "id": "31671e254735",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What should I cook for my husband when GTA 6 comes out?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xf1r8j/what_should_i_cook_for_my_husband_when_gta_6/",
+     "ts": "2026-10-25T13:00:18Z",
+     "summary": "I’m not a huge gamer myself, but he is and I’m just looking for any excuse to celebrate something and cook 😂 Set up: 77in OLED TV PS5 Pro Some Govee lights Surround sound speaker set up with subwoofer Gigabit internet speed No kids I took the Thursday (11/19) and the following Friday + Monday off work. My PTO is use it or lose it so why not? I was thinking of making a GTA/Vice City themed game day menu. Kind of like a Super Bowl platter, but replace the theme with GTA 6. Is that a good idea? Don’t worry, I’ll def incorporate his personal preferences and ask him for what he wants, but I just li"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "214d0f8e0f6e",
    "title": "Rockstar превращает Майами в настоящий Вайс-Сити к выходу GTA 6",
    "first_seen": "2026-10-24T13:01:16Z",
@@ -47645,11 +47697,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T12:50:46Z",
+  "last_run": "2026-10-25T13:01:11Z",
   "last_log": [
-   "rockstar_site: 0/3",
-   "gnews_en: 53/53",
-   "gnews_ru: 16/56",
+   "rockstar_site: 0/2",
+   "gnews_en: 48/48",
+   "gnews_ru: 18/56",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
