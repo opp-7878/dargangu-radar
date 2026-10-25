@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "c42dc786a693",
+   "title": "В тот же день, что и GTA 6, вышла смелая инди-игра.",
+   "first_seen": "2026-10-25T09:50:43Z",
+   "updated": "2026-10-25T09:50:43Z",
+   "items": [
+    {
+     "id": "c42dc786a693",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Vietnam.vn",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В тот же день, что и GTA 6, вышла смелая инди-игра.",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92Y3d5bEd4RE1UVXpTakEyNE85Qnd4Qm5lejBKR0U2ckV4Nk9ZVEp1enM4Rk5Yd05DTGdmWDczazZETDFDTU1tRVV3OS1GemQzMFNQOVR2al9QNEFiWXNDQXh1dDZSemhxX2NxX212cHh1OUVRbUxQZQ?oc=5",
+     "ts": "2026-10-25T08:21:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0a7cb905267f",
+   "title": "GTA VI home view",
+   "first_seen": "2026-10-25T09:50:43Z",
+   "updated": "2026-10-25T09:50:43Z",
+   "items": [
+    {
+     "id": "0a7cb905267f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI home view",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xey8f9/gta_vi_home_view/",
+     "ts": "2026-10-25T09:48:27Z",
+     "summary": "As we get closer to the day we can finally start living in our new home, I’m realizing how much I’m going to love this place. The stop sign right outside of our driveway, the bins that we will obviously never crash into, the street beyond the first intersection. All of it is just stunning. I wonder what the view on the other side of the house looks like, especially during sunset. 🌅 Can you imagine driving out of our driveway for the very first time? Where are we going to go? And what are we going to do? submitted by /u/MiamiVicx to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d293b4a75815",
    "title": "Rockstar is quietly transforming the real Miami into GTA 6’s Vice City",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -47458,11 +47510,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T09:40:44Z",
+  "last_run": "2026-10-25T09:50:43Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 49/50",
-   "gnews_ru: 14/58",
+   "gnews_en: 48/49",
+   "gnews_ru: 15/58",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
