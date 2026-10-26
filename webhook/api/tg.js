@@ -24,14 +24,9 @@ export async function POST(request) {
       body: JSON.stringify(body),
     });
 
-  const m = /^p:(full|flash|list):([0-9a-f]{12})$/.exec(q.data || "");
-  if (!m) {
-    await tg("answerCallbackQuery", { callback_query_id: q.id });
-    return json({ ok: true });
-  }
   const msgId = (q.message && q.message.message_id) || 0;
-  const [res] = await Promise.all([
-    fetch(`https://api.github.com/repos/${REPO}/actions/workflows/radar.yml/dispatches`, {
+  const dispatch = (workflow, inputs) =>
+    fetch(`https://api.github.com/repos/${REPO}/actions/workflows/${workflow}/dispatches`, {
       method: "POST",
       headers: {
         Accept: "application/vnd.github+json",
@@ -40,14 +35,26 @@ export async function POST(request) {
         "Content-Type": "application/json",
         "User-Agent": "dargangu-radar-hook",
       },
-      body: JSON.stringify({ ref: "main", inputs: { post: `${m[1]}:${m[2]}:${msgId}` } }),
-    }),
-    tg("answerCallbackQuery", { callback_query_id: q.id, text: "Готовлю пост, 20–40 секунд…" }),
+      body: JSON.stringify({ ref: "main", inputs }),
+    });
+
+  let job = null;
+  const p = /^p:(full|flash|list):([0-9a-f]{12})$/.exec(q.data || "");
+  const w = /^w:([A-Za-z0-9_-]{11})$/.exec(q.data || "");
+  if (p) job = { wf: "radar.yml", inputs: { post: `${p[1]}:${p[2]}:${msgId}` }, ok: "Готовлю пост, 20–40 секунд…", what: "создание поста" };
+  else if (w) job = { wf: "outliers.yml", inputs: { work: `${w[1]}:${msgId}` }, ok: "Кладу в очередь FUMO…", what: "очередь FUMO" };
+  if (!job) {
+    await tg("answerCallbackQuery", { callback_query_id: q.id, text: q.data === "w:done" ? "Уже в работе ✅" : undefined });
+    return json({ ok: true });
+  }
+  const [res] = await Promise.all([
+    dispatch(job.wf, job.inputs),
+    tg("answerCallbackQuery", { callback_query_id: q.id, text: job.ok }),
   ]);
   if (res.status !== 204 && q.message) {
     await tg("sendMessage", {
       chat_id: q.message.chat.id,
-      text: `Не удалось запустить создание поста (GitHub ответил ${res.status}). Нажми кнопку ещё раз через минуту.`,
+      text: `Не удалось запустить ${job.what} (GitHub ответил ${res.status}). Нажми кнопку ещё раз через минуту.`,
       reply_parameters: { message_id: msgId, allow_sending_without_reply: true },
     });
   }

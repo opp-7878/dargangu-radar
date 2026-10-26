@@ -1,0 +1,55 @@
+name: outliers
+
+# YouTube-выбросы по GTA раз в день → Telegram с кнопкой «🎬 В работу».
+# Кнопка → webhook (Vercel) → этот же workflow с input work → ролик в очередь data/work/.
+on:
+  schedule:
+    - cron: "0 7 * * *"      # 10:00 МСК (GitHub может запустить с опозданием до часа)
+  workflow_dispatch:
+    inputs:
+      dry:
+        description: "Пробный прогон: в лог, без Telegram и без сохранения"
+        type: boolean
+        default: false
+      no_search:
+        description: "Без поиска YouTube, только известные каналы"
+        type: boolean
+        default: false
+      work:
+        description: "Служебное: кнопка «В работу» (videoId:message_id) — вызывает webhook, руками не заполнять"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ inputs.work && format('outliers-work-{0}', github.run_id) || 'outliers' }}
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: yt-dlp
+        if: ${{ !inputs.work }}
+        run: python3 -m pip install -q --disable-pip-version-check yt-dlp
+      - name: outliers
+        run: python3 outliers.py ${{ inputs.work && '--work' || '' }} ${{ inputs.dry && '--dry' || '' }} ${{ inputs.no_search && '--no-search' || '' }}
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          GIGACHAT_AUTH_KEY: ${{ secrets.GIGACHAT_AUTH_KEY }}
+          RADAR_WORK: ${{ inputs.work }}
+      - name: save state
+        if: ${{ !inputs.dry }}
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/yt_channels.json data/yt_outliers.json data/work 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -q -m "outliers $(date -u +%FT%TZ)"
+            for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep $((i * 5)); done
+          fi

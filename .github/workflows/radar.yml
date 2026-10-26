@@ -63,5 +63,5 @@ jobs:
           git add data/news.json
           if ! git diff --cached --quiet; then
             git commit -q -m "radar $(date -u +%FT%TZ)"
-            git push -q
+            for i in 1 2 3; do git push -q && break; git pull -q --rebase; done  # outliers.yml тоже пушит
           fi
