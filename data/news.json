@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "51116762a9ec",
+   "title": "GTA 6 — Все вымышленные приложения и их реальные аналоги, которые появятся в игре",
+   "first_seen": "2026-10-26T14:00:57Z",
+   "updated": "2026-10-26T14:00:57Z",
+   "items": [
+    {
+     "id": "51116762a9ec",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 — Все вымышленные приложения и их реальные аналоги, которые появятся в игре",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYk9xc29wQmtZNXdudk9hbjNIbjNGSU10MGFaNkFQbEZTMWhtSVBZM2owLS1zdm95bVBwamhUYkdpTHJjN1JEVW8wUFZOQVBqSkNoOTN6empNSlBXMk0tcFNIWU4xNVBfdU9lOURlZVR2NFpjYkJWSlVpSDdCaW5tdEpEbGVaTVM0V0VhRkQzNEtBaHZWZFd0R0tJOGNuT19n?oc=5",
+     "ts": "2026-10-26T12:35:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f2ce2e01f0ae",
+   "title": "Fan art",
+   "first_seen": "2026-10-26T14:00:57Z",
+   "updated": "2026-10-26T14:00:57Z",
+   "items": [
+    {
+     "id": "f2ce2e01f0ae",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Fan art",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xfx8o0/fan_art/",
+     "ts": "2026-10-26T13:44:58Z",
+     "summary": "I made another little drawing! submitted by /u/grkmstlm1907 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "bb9f1b5c6928",
    "title": "GTA 6 release date, price in India, map, gameplay and other details you need to know",
    "first_seen": "2026-10-26T11:41:14Z",
@@ -49391,41 +49443,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "93e049493402",
-   "title": "Rockstar's GTA 6 Union Row Takes a New Turn Over Alleged Insider Reports",
-   "first_seen": "2026-10-19T13:50:50Z",
-   "updated": "2026-10-19T13:50:50Z",
-   "items": [
-    {
-     "id": "93e049493402",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Analytics Insight",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar's GTA 6 Union Row Takes a New Turn Over Alleged Insider Reports",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVm5vRkhaZElzUHdvWWE0NzhCRlZjZ2Nsa3hSN0poOWV6NnJRWUpvLUdHWTFiVlh4bDNUdl9aNGhLdklweTJrRzdsN3ZDTGdNNDlqR01HdklZMElhM05OQVh4Z1pSVmlyXzg4R3NvVkNmTlFLX1NRd3c5OVhxYVFFTGdHMllYU1lIN0dnS0NoTUM1S1NHbjJPY0dmTWh6VDM2UmFGOFAxUzFURjBZZElSUi1SeDZiSV9GMGRv0gG7AUFVX3lxTE5Wbm9GSFpkSXNQd29ZYTQ3OEJGVmNnY2xreFI3Smg5ZXo2clFZSm8tR0dZMWJWWHhsM1R2X1o0aEt2SXB5MmtHN2w3dkNMZ000OWpHTUd2SVkwSWEzTk5BWHhnWlJWaXJfODhHc29WQ2ZOUUtfU1F3dzk5WHFhUUVMZ0cyWVhTWUg3R2dLQ2hNQzVLU0duMk9jR2ZNaHpUMzZSYUY4UDFTMVRGMFlkSVJSLVJ4NmJJX0YwZG8?oc=5",
-     "ts": "2026-10-19T12:19:09Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T13:40:59Z",
+  "last_run": "2026-10-26T14:00:57Z",
   "last_log": [
-   "rockstar_site: 0/3",
-   "gnews_en: 92/97",
-   "gnews_ru: 27/55",
+   "rockstar_site: 0/2",
+   "gnews_en: 91/96",
+   "gnews_ru: 28/55",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
