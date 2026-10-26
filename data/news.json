@@ -4,7 +4,7 @@
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-26T04:51:09Z",
+   "updated": "2026-10-26T05:01:08Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -15033,6 +15033,19 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xfndf3/trailers_1_2/",
      "ts": "2026-10-26T04:35:11Z",
      "summary": "I was thinking about something. A lot of people seemed to be disappointed that Rockstar released trailers for each of the protagonists of GTA 5 but not for 6, but when 1 watch them I feel like trailer 1 is about Lucia and trailer 2 is about Jason Does anybody else agree? Let me know your thoughts! submitted by /u/BankInternational114 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "0b18f62876be",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Esquire India",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rumored GTA 6's Lucia Actress Revealed?",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRV91MjBPTUljaldMQm9lNFhvcl9pXzBsbUZEUEp1MjZXUmJ1ZXJmb2pQYlVIaTFXcmZzd2FlR0pjOVQ5NjhqY1dYdkJoanVBemFXS2g2UTM2VkhGUDFnR21nWjVMSFJJRG9UQ0FwQWFueENzd1pEd2xfa1kzc2V4bV81YUUyUWZ6Q01SS2J4dzBUYXBlMHBITW1zemQ4bjEwRUpGV2V5M2NuZUNFWWpKaS1XVdIBwAFBVV95cUxPcWJvSTN4M252eHdBM3hmSF9zbkhoQS1sQ0x2R05nZ1lNanprSkhLMDdTNlVtR0lDMjdzNHJwT2dSblRoVW9FY092QkloUndYRi1qMU91MHlxQW1ZdjM2a3dSci1XVzhKZWR5bDJhRmU1LV9QMm56MzNZdXdfcldwazdWOXZ1blJmV25peFR6ZmpzZ3B1Q0ZyeGw5X195UTdxREhDZkgwTjlMUVN1UXVIM0dEX24yeEpVTjUyMFRVa1I?oc=5",
+     "ts": "2026-10-26T01:48:17Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -48203,18 +48216,18 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T04:51:09Z",
+  "last_run": "2026-10-26T05:01:08Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/2",
+   "gnews_en: 67/70",
+   "gnews_ru: 25/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
    "ign: 1/20",
    "eurogamer: 0/100",
    "dexerto_gta: 0/50",
-   "rockstarintel: 0/10",
+   "⚠️ rockstarintel: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1081)>",
    "gtaboom: 6/30",
    "reddit: 22/25",
    "tg_gtavistar: 6/13"
