@@ -1,6 +1,188 @@
 {
  "stories": [
   {
+   "id": "34203c069613",
+   "title": "Restaurants from Grand Theft Auto VI pop up in Miami. Here's where",
+   "first_seen": "2026-10-26T18:10:51Z",
+   "updated": "2026-10-26T19:01:19Z",
+   "items": [
+    {
+     "id": "34203c069613",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Daytona Beach News-Journal",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Restaurants from Grand Theft Auto VI pop up in Miami. Here's where",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLThrbFpzQ2ExTnEwNGd6TkFJdUJyX2I3WlRwRVJMY0xVcXlnTlhBc2hucE9KUlctMFFwUU0tQTJLWkVwbXZHNWkxSWx4dnhqMnVPdWpfbnhsYVJYQ0Q5YVJ0MnJwWWVJMUhSU1B5bi1paTZqVUFQQVNZNmpOdUV6NVRTVjZGSnpMUVVCU3owQUtKczlJMjg2ZlBfbEprUjh4cVhzc29xRklEbzV4N0MyQU81TnhTR3NabnJpTlV3dDAxS2lKdklGUVNXd1VxU1FN?oc=5",
+     "ts": "2026-10-26T18:08:34Z",
+     "summary": ""
+    },
+    {
+     "id": "ff73bc123a64",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Restaurants from Grand Theft Auto VI pop up in Miami. Here's where",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZEZqYTJFclN2VTQ0SWJlb0NDMmdua1ZIVGFzR3A4NkdFaWtLV1p0eFhyRF81RG9LTVZxeEY1Qkd6emxaM3BEZlMxUTFyVGV5eDRvUVdnV09mb0dQUHI3N016MWppZm9TWHdlaTRmbjVVUTlxc09kTXZOVDNuZTVRdzlKT0w4Q0dhN245R0h4Nzh4UEd3TjdVbkxMNTBSWlE?oc=5",
+     "ts": "2026-10-26T18:03:01Z",
+     "summary": ""
+    },
+    {
+     "id": "28aac439ece6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Naples Daily News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Restaurants from Grand Theft Auto VI pop up in Miami. Here's where",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHJaY2dhdkhFTVlGTjBxVk95dUV6bWRZQVFXUEFwYXpkVDdJX202R3A2STBqUWptOUFtTkNvbzFRejhpWWNibUU2YmdycXZOQ1ZqU2JCejktNTlWMjBqQzU5VkdfME5vZzBTV2g3SUI5OTgzLXgwX253TnFhekRVanlldGpob2NXakRhYTdrOFNGbEtwZFNDUUlvV0tKM3VQRkhqTmR1WWRiNDVJcW5FOTBrX0NMeUxGbUxBUU14VFVKZnhYaEE?oc=5",
+     "ts": "2026-10-26T18:07:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru",
+   "ai": {
+    "title_ru": "Рестораны из GTA 6 открылись в Майами. Вот где их найти",
+    "summary": "В Майами появились временные заведения, стилизованные под рестораны из GTA 6, сообщает Daytona Beach News-Journal. Об этом также пишут Yahoo и Naples Daily News. В заметках указаны локации точек.",
+    "idea": "Короткая карта-охота: где в Майами стоят «рестораны из GTA 6» и что там выдают фанатам. Зрителю интересно повторить маршрут и снять свою реакцию.",
+    "hook": "В Майами открылись рестораны из GTA 6 — вот где их реально найти.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T19:01:23Z"
+   },
+   "msg_id": 185
+  },
+  {
+   "id": "19540891fca1",
+   "title": "По данным инсайдера, Rockstar начала рассылать пресс-коды GTA 6 - обзоры появятся 18 ноября",
+   "first_seen": "2026-10-26T16:40:59Z",
+   "updated": "2026-10-26T19:01:19Z",
+   "items": [
+    {
+     "id": "19540891fca1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "По данным инсайдера, Rockstar начала рассылать пресс-коды GTA 6 - обзоры появятся 18 ноября",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOENOcXBHeUU5Qlc1ZjE2MWtjSk1BX3dPRUtBS1d5c2FnZUxtOG9CcS1VOVo2X2NkcDY0Zm11NldNd3FIM3gtdkpoUHpxZ3VWSkFaNzJiTHlxQ1c4MVdBSEVBeng5MFdxQ1FUblIyeE05SlM1UmREYnZfRVRLTkdPeG5BZnRieUlZSkRfb21RaTZGMVJqZ2pUMi16bmVBb1JYUW5hcm9vaXVManRTN1QyQ2ptRVYyNkx2MXhoNVRRdEhzM3luV2VCU0tuUmFfWlUxYTFkTg?oc=5",
+     "ts": "2026-10-26T16:24:38Z",
+     "summary": ""
+    },
+    {
+     "id": "fb0cc9077174",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "По данным инсайдера, Rockstar начала рассылать пресс-коды GTA 6 - обзоры появятся 18 ноября",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVFAycjdwUHE3MXRFNnN6UmFNTGpycDFOak1RM2I0VWYwTDVvcVFkWHNUOWVvWkt0TlV0cXlHMXg0OWRDaGJiRVZFZHpnMDNscFdoa2FzR282aFYydDN0S1ZOSUd6TUQ5aE00RU9IcmJIUFJGV3pwQUxxZFhHakxlbi01QWJ2QU9VeEZ6Z21yVkNIbGtlNzVabmpkU0tjZWZ1eFMwVUIzRDhHWmxURU82SEhkaXdtWnNISE03bzYtSHRyMWxuY0tKTUROYllzVnl4WFgwejhTY2p2QQ?oc=5",
+     "ts": "2026-10-26T16:24:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "68d5d538df15",
+   "title": "GTA 6 Port Gellhorn Location Guide",
+   "first_seen": "2026-10-26T15:40:55Z",
+   "updated": "2026-10-26T19:01:19Z",
+   "items": [
+    {
+     "id": "68d5d538df15",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Beebom",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Port Gellhorn Location Guide",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96TXZST2ZMV05FcHd3aE81STdMVEhHYWRUWWFlaVdadUpBUTlXVGVFQzRwc0FWX3RGS2YxWUFpdlRGeG4yNkpQeUl0bHh6MHBsa3UyRTlXQXo2Wkh6NFHSAV5BVV95cUxPek12Uk9mTFdORXB3d2hPNUk3TFRIR2FkVFlhZWlXWnVKQVE5V1RlRUM0cHNBVl90RktmMVlBaXZURnhuMjZKUHlJdGx4ejBwbGt1MkU5V0F6NlpIejRR?oc=5",
+     "ts": "2026-10-26T13:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "5b4ce3a09daf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Beebom",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Port Gellhorn Location Guide",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1SEhPdFo0Yi1SNVF0UkpFZmpGRGJMX1I4aGxtWTNmREYyS2NJMnNncGxLZ3oyY0FoSkZVd3dCWE4xMnBzQmVOTVctcDBfb3IwODhaMGVUbTnSAV5BVV95cUxPek12Uk9mTFdORXB3d2hPNUk3TFRIR2FkVFlhZWlXWnVKQVE5V1RlRUM0cHNBVl90RktmMVlBaXZURnhuMjZKUHlJdGx4ejBwbGt1MkU5V0F6NlpIejRR?oc=5",
+     "ts": "2026-10-26T13:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "10fd6dce4ff4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Beebom",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Grassrivers Location Guide",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zOUwwOEdRM0tSa2tyRlBaSGEwd3ZZdUlDc2djMW1zbjU3Y3BGNDhkcjhQd2twUThVa3dQMmRsUC1UT25UYVZyT0hUTXRxbTJWZGFTUnh6X3dFZUHSAVtBVV95cUxOczlMMDhHUTNLUmtrckZQWkhhMHd2WXVJQ3NnYzFtc241N2NwRjQ4ZHI4UHdrcFE4VWt3UDJkbFAtVE9uVGFWck9IVE10cW0yVmRhU1J4el93RWVB?oc=5",
+     "ts": "2026-10-26T16:56:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "002cc412ae8e",
+   "title": "GTA VI unleashes Latino flavor in Vice City",
+   "first_seen": "2026-10-26T19:01:19Z",
+   "updated": "2026-10-26T19:01:19Z",
+   "items": [
+    {
+     "id": "002cc412ae8e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "https://latination.com/",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI unleashes Latino flavor in Vice City",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aUzVWUjh0NXNjUTZfS0FSZG5DTmY5bHVvWnBPcWhYaDQ5SEthYXZ0SFpINnd2Y2tSWXh1YXlrX3FjYTJwbUJYWXBhdk9IMmtkUE84ZVRtdjZ1dy1fazJnRnpDS1p1Zw?oc=5",
+     "ts": "2026-10-26T18:56:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c4b0127c1eec",
    "title": "One of the best things about a new GTA release is that we get a new era of bizarre easter eggs and mysteries to solve. Can’t wait to dive in this world",
    "first_seen": "2026-10-26T18:50:49Z",
@@ -416,47 +598,6 @@
     "at": "2026-10-26T17:20:54Z"
    },
    "msg_id": 183
-  },
-  {
-   "id": "34203c069613",
-   "title": "Restaurants from Grand Theft Auto VI pop up in Miami. Here's where",
-   "first_seen": "2026-10-26T18:10:51Z",
-   "updated": "2026-10-26T18:20:55Z",
-   "items": [
-    {
-     "id": "34203c069613",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Daytona Beach News-Journal",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Restaurants from Grand Theft Auto VI pop up in Miami. Here's where",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLThrbFpzQ2ExTnEwNGd6TkFJdUJyX2I3WlRwRVJMY0xVcXlnTlhBc2hucE9KUlctMFFwUU0tQTJLWkVwbXZHNWkxSWx4dnhqMnVPdWpfbnhsYVJYQ0Q5YVJ0MnJwWWVJMUhSU1B5bi1paTZqVUFQQVNZNmpOdUV6NVRTVjZGSnpMUVVCU3owQUtKczlJMjg2ZlBfbEprUjh4cVhzc29xRklEbzV4N0MyQU81TnhTR3NabnJpTlV3dDAxS2lKdklGUVNXd1VxU1FN?oc=5",
-     "ts": "2026-10-26T18:08:34Z",
-     "summary": ""
-    },
-    {
-     "id": "ff73bc123a64",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Restaurants from Grand Theft Auto VI pop up in Miami. Here's where",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZEZqYTJFclN2VTQ0SWJlb0NDMmdua1ZIVGFzR3A4NkdFaWtLV1p0eFhyRF81RG9LTVZxeEY1Qkd6emxaM3BEZlMxUTFyVGV5eDRvUVdnV09mb0dQUHI3N016MWppZm9TWHdlaTRmbjVVUTlxc09kTXZOVDNuZTVRdzlKT0w4Q0dhN245R0h4Nzh4UEd3TjdVbkxMNTBSWlE?oc=5",
-     "ts": "2026-10-26T18:03:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
   },
   {
    "id": "575fed4e28d3",
@@ -1320,32 +1461,6 @@
    "status": "new"
   },
   {
-   "id": "19540891fca1",
-   "title": "По данным инсайдера, Rockstar начала рассылать пресс-коды GTA 6 - обзоры появятся 18 ноября",
-   "first_seen": "2026-10-26T16:40:59Z",
-   "updated": "2026-10-26T16:40:59Z",
-   "items": [
-    {
-     "id": "19540891fca1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "По данным инсайдера, Rockstar начала рассылать пресс-коды GTA 6 - обзоры появятся 18 ноября",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOENOcXBHeUU5Qlc1ZjE2MWtjSk1BX3dPRUtBS1d5c2FnZUxtOG9CcS1VOVo2X2NkcDY0Zm11NldNd3FIM3gtdkpoUHpxZ3VWSkFaNzJiTHlxQ1c4MVdBSEVBeng5MFdxQ1FUblIyeE05SlM1UmREYnZfRVRLTkdPeG5BZnRieUlZSkRfb21RaTZGMVJqZ2pUMi16bmVBb1JYUW5hcm9vaXVManRTN1QyQ2ptRVYyNkx2MXhoNVRRdEhzM3luV2VCU0tuUmFfWlUxYTFkTg?oc=5",
-     "ts": "2026-10-26T16:24:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "577118df3eca",
    "title": "GTA 6's Rumored Lucia Refuses to Acknowledge the Game in New Livestream",
    "first_seen": "2026-10-26T16:40:59Z",
@@ -1412,45 +1527,6 @@
      "title": "GTA 6 review codes are out in the wild giving outlets just over three weeks",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUNsZ2l1dTZEcTFhb3FEelk5SWRma0p6cHhLZHkxc3RJX1ZiRTVZYWlyMUdvelA2WnAyR2pUSkJFc1NrcVJTMVgwSlZMb05tNnVvYnBQN3NPbGVUekhBWDFWUXpsUVprSW9NckZLYzAwUzVpa3hQb0dUOHJOOUFpcExkN256SzVZWFlEQzBFX1o4VWtBbHdzWnRqcHZWS2hBNVBCa0N0Z21uSFhSQmtEcXRzd1E3a0NGc1BGWg?oc=5",
      "ts": "2026-10-26T16:32:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "68d5d538df15",
-   "title": "GTA 6 Port Gellhorn Location Guide",
-   "first_seen": "2026-10-26T15:40:55Z",
-   "updated": "2026-10-26T16:31:04Z",
-   "items": [
-    {
-     "id": "68d5d538df15",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Beebom",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Port Gellhorn Location Guide",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96TXZST2ZMV05FcHd3aE81STdMVEhHYWRUWWFlaVdadUpBUTlXVGVFQzRwc0FWX3RGS2YxWUFpdlRGeG4yNkpQeUl0bHh6MHBsa3UyRTlXQXo2Wkh6NFHSAV5BVV95cUxPek12Uk9mTFdORXB3d2hPNUk3TFRIR2FkVFlhZWlXWnVKQVE5V1RlRUM0cHNBVl90RktmMVlBaXZURnhuMjZKUHlJdGx4ejBwbGt1MkU5V0F6NlpIejRR?oc=5",
-     "ts": "2026-10-26T13:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "5b4ce3a09daf",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Beebom",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Port Gellhorn Location Guide",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1SEhPdFo0Yi1SNVF0UkpFZmpGRGJMX1I4aGxtWTNmREYyS2NJMnNncGxLZ3oyY0FoSkZVd3dCWE4xMnBzQmVOTVctcDBfb3IwODhaMGVUbTnSAV5BVV95cUxPek12Uk9mTFdORXB3d2hPNUk3TFRIR2FkVFlhZWlXWnVKQVE5V1RlRUM0cHNBVl90RktmMVlBaXZURnhuMjZKUHlJdGx4ejBwbGt1MkU5V0F6NlpIejRR?oc=5",
-     "ts": "2026-10-26T13:24:00Z",
      "summary": ""
     }
    ],
@@ -49570,14 +49646,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T18:50:49Z",
+  "last_run": "2026-10-26T19:01:23Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
-   "gnews_ru: 37/54",
+   "gnews_ru: 36/55",
    "gamesbeat: 1/10",
    "vgc: 1/10",
-   "insider_gaming: 1/10",
+   "insider_gaming: 0/10",
    "ign: 0/20",
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
@@ -49585,7 +49661,7 @@
    "gtaboom: 9/30",
    "reddit: 23/25",
    "tg_gtavistar: 5/13",
-   "tg_gta6deluxe: 9/11",
+   "tg_gta6deluxe: 8/11",
    "tg_gta6_m: 11/19",
    "tg_gta6newsdaily: 10/15"
   ],
