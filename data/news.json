@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "ed58007561ee",
+   "title": "GTA 6's Release Has Led to a Notable Spike in Time Off Requests, According to New Data",
+   "first_seen": "2026-10-26T21:50:47Z",
+   "updated": "2026-10-26T22:01:14Z",
+   "items": [
+    {
+     "id": "ed58007561ee",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6's Release Has Led to a Notable Spike in Time Off Requests, According to New Data",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVi1KNlVFamJ5clROX3QxMU1KYjBXbU9VdVFXTFl0RVp0YWVoaHI3bEpJQUhqOVhDbU5xYThxN240cXM1OFRsa1F1a2QtakRpNFh2YVd1T25GMHpjbXRTNkxKSXhpUHVZenNZTjVjMWcwTGVVWFRxbnBndXNoa2dCLVV3NmpQSXF5dGVkVm9HVDV1WlAyU0xBUQ?oc=5",
+     "ts": "2026-10-26T21:42:50Z",
+     "summary": ""
+    },
+    {
+     "id": "847ae86c9b24",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Causes 17% Spike in Time Off Requests on Game's Release Date",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXR6bFlqQV9mZGI5cjFnUFBsZWFZTUpuaTRvcF9uZDVFSk95c0dtMmlCS3RUYTQ2cFl5OENTV1pFUjRLV3ZhaTRmUzR5a2VKZ1BUM2NTVFBscGNTSUNoODdKRG52TXVWZHplUlQ3bDBIN25mejFCLXluemw2XzczalFOSUsxN19RQS1OM2JKR01WNVY5aWxubnBBdjJaX1dmMlQ2VnVGSTVaZ2VLVi1HTUFOUy0?oc=5",
+     "ts": "2026-10-26T21:56:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос"
+   ],
+   "score": 93,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: игроки массово берут отпуск в ноябре",
+    "summary": "По данным IGN, после анонса GTA 6 резко выросло число заявок на отпуск в ноябре. Работники массово планируют отдых на время выхода игры.",
+    "idea": "Короткий ролик о том, как офисы пустеют в ноябре из-за GTA 6. Зрителю смешно узнавать себя и коллег.",
+    "hook": "Офис пустеет в ноябре? Вот что делает GTA 6 с графиками отпусков.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T21:50:49Z"
+   },
+   "msg_id": 191
+  },
+  {
+   "id": "63f4b3853bbf",
+   "title": "Do people really think Rockstar has already sent out GTA 6 review copies?",
+   "first_seen": "2026-10-26T22:01:14Z",
+   "updated": "2026-10-26T22:01:14Z",
+   "items": [
+    {
+     "id": "63f4b3853bbf",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Do people really think Rockstar has already sent out GTA 6 review copies?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xgackv/do_people_really_think_rockstar_has_already_sent/",
+     "ts": "2026-10-26T21:50:49Z",
+     "summary": "Do people genuinely think Rockstar has already started sending out GTA 6 copies to reviewers and streamers? If I’m not mistaken, I remember everyone having to wait until release to get their hands on GTA V, although I could be remembering it wrong. I can understand Rockstar sending review copies to gaming journalists ahead of release so they can prepare their reviews, but what I find strange is the possibility of certain streamers already getting copies. I’m curious what everyone else thinks. Do you believe Rockstar is already distributing copies behind the scenes, or is this just speculation?"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4c6f4faf0017",
    "title": "Grand Theft Auto 6 Review Embargo Date Details",
    "first_seen": "2026-10-26T17:01:19Z",
@@ -94,43 +172,6 @@
    "status": "new",
    "ai_fail": 1,
    "ai_error": "ValueError: выдуманные числа: 000"
-  },
-  {
-   "id": "ed58007561ee",
-   "title": "GTA 6's Release Has Led to a Notable Spike in Time Off Requests, According to New Data",
-   "first_seen": "2026-10-26T21:50:47Z",
-   "updated": "2026-10-26T21:50:47Z",
-   "items": [
-    {
-     "id": "ed58007561ee",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6's Release Has Led to a Notable Spike in Time Off Requests, According to New Data",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVi1KNlVFamJ5clROX3QxMU1KYjBXbU9VdVFXTFl0RVp0YWVoaHI3bEpJQUhqOVhDbU5xYThxN240cXM1OFRsa1F1a2QtakRpNFh2YVd1T25GMHpjbXRTNkxKSXhpUHVZenNZTjVjMWcwTGVVWFRxbnBndXNoa2dCLVV3NmpQSXF5dGVkVm9HVDV1WlAyU0xBUQ?oc=5",
-     "ts": "2026-10-26T21:42:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6: игроки массово берут отпуск в ноябре",
-    "summary": "По данным IGN, после анонса GTA 6 резко выросло число заявок на отпуск в ноябре. Работники массово планируют отдых на время выхода игры.",
-    "idea": "Короткий ролик о том, как офисы пустеют в ноябре из-за GTA 6. Зрителю смешно узнавать себя и коллег.",
-    "hook": "Офис пустеет в ноябре? Вот что делает GTA 6 с графиками отпусков.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-26T21:50:49Z"
-   },
-   "msg_id": 191
   },
   {
    "id": "c947c4ec8fc1",
@@ -49678,43 +49719,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "8ef4dbabc066",
-   "title": "Rockstar Games Confirms Major Upgrade in GTA 6 From Grand Theft Auto V",
-   "first_seen": "2026-10-19T22:01:11Z",
-   "updated": "2026-10-19T22:01:11Z",
-   "items": [
-    {
-     "id": "8ef4dbabc066",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ComicBook.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Games Confirms Major Upgrade in GTA 6 From Grand Theft Auto V",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFVCZ3hsZzRDMVQ2cjFkV0tIcEI4ckIzVmQ1cEZGRE00T1hoVVJ4S241MUlMUWhGQlBYVnFNbW1GdlBLakY5TEdyU1B2UnpfNGsyOVg3cEdWLW45c19sLVdNU2MyOWFyRHpNaE9wV3dvR3A2TlNKWVNoWS10YUxTMDA0OWowNUtYOXc?oc=5",
-     "ts": "2026-10-19T21:52:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T21:50:53Z",
+  "last_run": "2026-10-26T22:01:14Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 96/100",
-   "gnews_ru: 35/42",
+   "gnews_en: 94/99",
+   "gnews_ru: 39/50",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
