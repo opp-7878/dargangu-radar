@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "5c10eb5adc3c",
+   "title": "A Mass Effect Developer Is Celebrating GTA 6 for the Saddest Reason",
+   "first_seen": "2026-10-26T10:40:57Z",
+   "updated": "2026-10-26T10:40:57Z",
+   "items": [
+    {
+     "id": "5c10eb5adc3c",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "A Mass Effect Developer Is Celebrating GTA 6 for the Saddest Reason",
+     "url": "https://www.gtaboom.com/a-mass-effect-developer-is-celebrating-gta-6-for-the-saddest-reason-7ca6",
+     "ts": "2026-10-26T10:30:59Z",
+     "summary": "Mass Effect 5 director Mike Gamble joked he won't dodge GTA 6 anymore, since EA cancelled his game and shut down BioWare."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2caea0fcfe6f",
+   "title": "⚽️ GTA VI добралась до Эль-Класико Во время матча «Реала» и «Барселоны» на рекламных щитах неоднократно показывали баннер с GTA VI Мировая аудитория матча могла",
+   "first_seen": "2026-10-26T10:40:57Z",
+   "updated": "2026-10-26T10:40:57Z",
+   "items": [
+    {
+     "id": "2caea0fcfe6f",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "⚽️ GTA VI добралась до Эль-Класико Во время матча «Реала» и «Барселоны» на рекламных щитах неоднократно показывали баннер с GTA VI Мировая аудитория матча могла",
+     "url": "https://t.me/GTA6_m/9250",
+     "ts": "2026-10-26T10:31:44Z",
+     "summary": "⚽️ GTA VI добралась до Эль-Класико Во время матча «Реала» и «Барселоны» на рекламных щитах неоднократно показывали баннер с GTA VI Мировая аудитория матча могла достигать 650 миллионов человек Вот это я понимаю, маркетинг! 👍 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bacb93273cae",
+   "title": "Why Is This Developer Celebrating GTA 6 After Losing His Own Game",
+   "first_seen": "2026-10-26T10:40:57Z",
+   "updated": "2026-10-26T10:40:57Z",
+   "items": [
+    {
+     "id": "bacb93273cae",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Why Is This Developer Celebrating GTA 6 After Losing His Own Game",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWS1CVm9JM1VGWUdlQm90WXdFdW5KZjI4VnRxU1VEVEdEZVpmamg5NklGTlk1ZHRFVnhfaU41MTBGekFYckhHTkpIQjB4Mk5RUG9kTTVJT2czc2JEb3ozaHpFTTRpa0VEb1hqWEhjamttTEZqLTR0TVBlSVRuc0RrbGFXTWtBQnpqYWxKRFNiRGhCdzJ3M0VoZzNNTEg?oc=5",
+     "ts": "2026-10-26T10:35:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ace3e8489b71",
    "title": "Can Activision's Reported Open World Project Really Rival GTA 6?",
    "first_seen": "2026-10-26T10:31:07Z",
@@ -49063,11 +49141,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T10:31:07Z",
+  "last_run": "2026-10-26T10:40:57Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 80/85",
-   "gnews_ru: 23/26",
+   "gnews_ru: 24/55",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -49075,11 +49153,11 @@
    "eurogamer: 0/100",
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
-   "gtaboom: 9/30",
+   "gtaboom: 10/30",
    "reddit: 23/25",
    "tg_gtavistar: 5/13",
    "tg_gta6deluxe: 8/12",
-   "tg_gta6_m: 10/19",
+   "tg_gta6_m: 11/19",
    "tg_gta6newsdaily: 10/13"
   ],
   "digest": "2026-10-25",
