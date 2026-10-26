@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "7553e2460fe8",
+   "title": "You Can Install GTA VI Early — Here’s The Preload Window",
+   "first_seen": "2026-10-26T23:10:50Z",
+   "updated": "2026-10-26T23:10:50Z",
+   "items": [
+    {
+     "id": "7553e2460fe8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "You Can Install GTA VI Early — Here’s The Preload Window",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDNSdlRkSnRseVF4ZHFTMGhqc0x2bVBKc3RQZVhhaEROTGFxblRoSzlyMXl6eTZZT2J2LXVucWJxV0tzSElKUzZoaThVUkkzTENHZDZsdjJ5OV9ORXJhTk9Od2lzNUlMdDJpNk1lRGNMT29YV0V5V0tCVjVFVWgyRl9sZDJzM0lxLUE?oc=5",
+     "ts": "2026-10-26T23:00:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "b7e0db00fcfa",
+   "title": "I really love the color!",
+   "first_seen": "2026-10-26T23:10:50Z",
+   "updated": "2026-10-26T23:10:50Z",
+   "items": [
+    {
+     "id": "b7e0db00fcfa",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I really love the color!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xgc3z0/i_really_love_the_color/",
+     "ts": "2026-10-26T23:03:16Z",
+     "summary": "Got the cap and rhe Tote. The Tote is nice quality as well😍 submitted by /u/WesternFirefighter5 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e3cf37d8fd68",
    "title": "Выход GTA 6 увеличил число заявок на отгул 19 ноября на 17%",
    "first_seen": "2026-10-26T22:40:51Z",
@@ -49567,39 +49621,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c1a2876f7881",
-   "title": "GTA 6 November 'rival' drops 9/10 free sample on Steam for a limited-time",
-   "first_seen": "2026-10-19T23:10:47Z",
-   "updated": "2026-10-19T23:10:47Z",
-   "items": [
-    {
-     "id": "c1a2876f7881",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GAMINGbible",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 November 'rival' drops 9/10 free sample on Steam for a limited-time",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1lSUDhNeDB5aTljdWJXakN5ejQ0UUdUYmZldmN5T05tdGVKeC12WVFFSmFxWFJDbThqLUpzZGdXUGp2ak12bmFOenNwQXI0Q25teTJ2c1Y3SHRtU1g4bnFpUG1HZk5MRlVJRmVWVWRvTkhIMmMtRG5zYmFMSmNRY1J3SExneVF0My12cHpHVl9IN1ZrNXNiZFRIc3A4dWFfZnBndGN6NkxxTkhjUHVXY3owQ3I0RmR2X0hLcVgxSmc3enNaekQtQ0l3bzY?oc=5",
-     "ts": "2026-10-19T23:00:37Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T23:01:17Z",
+  "last_run": "2026-10-26T23:10:50Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 94/100",
