@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "82ee8c9ad621",
+   "title": "Копию GTA 6 для обзора могли отправить ютуберу, который публикует спойлеры о дате выхода",
+   "first_seen": "2026-10-26T02:40:45Z",
+   "updated": "2026-10-26T02:40:45Z",
+   "items": [
+    {
+     "id": "82ee8c9ad621",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Копию GTA 6 для обзора могли отправить ютуберу, который публикует спойлеры о дате выхода",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd1FYaE1TTmVPM1RQWEVScnJ2Z251MWhmblRNMUJYem1uc0ZoaGlkNTJ3dE10RjA0TFdCUkZnaVJBc3dQNFBpVGdyWEJzQ2hGUXh1WTZqXzJKSHEyNjhfZG1UVEs4aFU2TXhqZlpFQzZkRmM3cG8zWE5NeE1YejJ1cUtfYUdLRTlobXFXR0lPZGo5LW95bmtpcVB1SkZLa0pwUi1yTE9NZnZzaGVpOUdITndUbE9LLXVvb0kyT01Ha29tUV9HdHNhWm5DdzRYd3VSMk5Bdg?oc=5",
+     "ts": "2026-10-26T02:12:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9f3199f0cee0",
+   "title": "3 weeks to go until gta 6 releases",
+   "first_seen": "2026-10-26T02:40:45Z",
+   "updated": "2026-10-26T02:40:45Z",
+   "items": [
+    {
+     "id": "9f3199f0cee0",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "3 weeks to go until gta 6 releases",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xfl3m4/3_weeks_to_go_until_gta_6_releases/",
+     "ts": "2026-10-26T02:35:27Z",
+     "summary": "Who is all excited submitted by /u/InfernoBlaze1221 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9f3c27d8329a",
    "title": "Rockstar Games Officially Teases Next Game After GTA 6",
    "first_seen": "2026-10-26T02:10:45Z",
@@ -48168,11 +48220,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T02:31:01Z",
+  "last_run": "2026-10-26T02:40:45Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 59/63",
-   "gnews_ru: 21/60",
+   "gnews_en: 60/64",
+   "gnews_ru: 22/27",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
