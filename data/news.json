@@ -1,6 +1,142 @@
 {
  "stories": [
   {
+   "id": "58ac22abdfd7",
+   "title": "GTA VI Last Thing You Need | Morgan Wallen",
+   "first_seen": "2026-10-26T16:50:53Z",
+   "updated": "2026-10-26T16:50:53Z",
+   "items": [
+    {
+     "id": "58ac22abdfd7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Last Thing You Need | Morgan Wallen",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBna3BHTEFhOFphSXQtSS1ZRU9QU1dzYk9SWElXcFN2bXFzMnlZZnp3VTZud3dma2tQT2FKVUY4ZGdpLVhCTEVoVDE3MFFHRTRsYnctTE45R09rVWZr?oc=5",
+     "ts": "2026-10-26T08:27:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "575fed4e28d3",
+   "title": "Инсайдер подтвердил, что Rockstar начала рассылать копии GTA 6 игровым критикам",
+   "first_seen": "2026-10-26T16:50:53Z",
+   "updated": "2026-10-26T16:50:53Z",
+   "items": [
+    {
+     "id": "575fed4e28d3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Инсайдер подтвердил, что Rockstar начала рассылать копии GTA 6 игровым критикам",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmVPaG5aa2FaUUFQR2VKSlVTc0h5VW5EaTF4Z2VNcmF3NmVFNHdWNDk4Qk16R3IzSGFDSmxoUmZGX21WVDNGOE1ObXFSS1pmLTZxNEttRW0tNkNqbnlSclc2X0VZUGZpaXlRYmFKNEx3b1YtbTFUbWhYdWdPU1BOcXBubGN1Rlh1dDBlMlNYTVd6Ny1haVl2OHRlODJRb09q?oc=5",
+     "ts": "2026-10-26T16:24:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "df5c63dd4031",
+   "title": "Crossplay ps5 pro/ ps5",
+   "first_seen": "2026-10-26T16:50:53Z",
+   "updated": "2026-10-26T16:50:53Z",
+   "items": [
+    {
+     "id": "df5c63dd4031",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Crossplay ps5 pro/ ps5",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xg2180/crossplay_ps5_pro_ps5/",
+     "ts": "2026-10-26T16:40:51Z",
+     "summary": "Do you think I could play gta VI online with my friend who has a pro? submitted by /u/coldasice23 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "17226b11725e",
+   "title": "Review Codes are going out per Nate The Hate",
+   "first_seen": "2026-10-26T16:50:53Z",
+   "updated": "2026-10-26T16:50:53Z",
+   "items": [
+    {
+     "id": "17226b11725e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Review Codes are going out per Nate The Hate",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xg23za/review_codes_are_going_out_per_nate_the_hate/",
+     "ts": "2026-10-26T16:43:33Z",
+     "summary": "submitted by /u/Midgeti to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7216b1110fdc",
+   "title": "Rockstar Games has begun distributing Grand Theft Auto VI keys to gaming journalists.",
+   "first_seen": "2026-10-26T16:50:53Z",
+   "updated": "2026-10-26T16:50:53Z",
+   "items": [
+    {
+     "id": "7216b1110fdc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games has begun distributing Grand Theft Auto VI keys to gaming journalists.",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVA3UkJwVUlhbWJ2bXNKcW5DR1duWFFkYlUxMVdXQWI2OTI3ZE10c1lVWlNYWDlzQzBRMGl0STltUUJyaWhXdUliMWR3bmZybmIyNExWUEozYll5UDkzd3BIY0ljYWZvMERGdG1LNVJIRFVCMzZIb3NfazlLNmtMUG83eEhqX0EwX3NpSTltdFQ4NjRjVDBPRnFZSWVranBIRm50Um8zX2Q5M0tmRmNqTXNRTktGb0I1TktXX1pOVEFVdw?oc=5",
+     "ts": "2026-10-26T16:46:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "0da14add549d",
    "title": "Phantom Blade Zero opens with an 88 Metascore as GTA 6 debuts at No. 1 in Inven rankings",
    "first_seen": "2026-10-26T16:40:59Z",
@@ -48908,118 +49044,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "8c465542e9db",
-   "title": "Дэн Хаузер считает свой сценарий GTA: Vice City ужасным – но он сработал благодаря актёрскому мастерству Рэя Лиотты",
-   "first_seen": "2026-10-17T14:10:41Z",
-   "updated": "2026-10-19T16:50:45Z",
-   "items": [
-    {
-     "id": "8c465542e9db",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "www.championat.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Сюжет ужасный, но его спас Рэй Лиотта»: экс-сценарист Rockstar — о GTA: Vice City",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFNabm1KZUtfZXBKN2N1SjRCYmlNUXE5a0xYOWhCU3NvSzdzNnVLT2pzeHJBazc5ZWJMQTRWMnRuazRKaVB3YnI3eXd5TWJ5QnRiRFczc3EyZG1VQlh5Y2hSVjRDV0xiV1JPOWFVM0FvUndOYkxOX1ZBTVVkWnBCRzZiZkthQ3F1RUxLMXFjdFF2MUxneTdMSzBpVmg0LWw2T3RodWMtdkM2ZHpKQnRQREJmM3pIbEt4aDR5c2dLZ0J5Z2VITk5zSmtfaGFkYXM?oc=5",
-     "ts": "2026-10-17T14:03:35Z",
-     "summary": ""
-    },
-    {
-     "id": "6ff1b6a31781",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Бывший ведущий сценарист Rockstar Дэн Хаузер: \"Мой сценарий Vice City был ужасен, но Рэй Лиотта сделал его великим\"",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQ09LY2poWDNKWUlvVTlBVHdnZ2EtYW1FVGV2OW9aSUVjdTVlR3pHN181Rks0bE5Oa0ZpYTNIVnV1SUgzeWFWWWg0OHhPRlFneVNpR053R1NyYkxNTVc3V0tvbFA5RFd0MzUtVGVUOUpwVWVkWG5lRHhVbXBVNGdvUmVGS0V0Y1FVbS0zRE9MdTE3VjFJQXhKRU5WUmlnUDhKN2YyMUl5NUVydElqcDlFVWpCNV9USkcwNGhjUWFYQ3dOa3NTSzEySlJYRnFvNFBkU3RXM3c1RG5XWmlBNFB0NnJqclhoXzRlQkJ1d3pkMktOclN3RE5ocUZhcmQ4Rmc?oc=5",
-     "ts": "2026-10-17T19:51:34Z",
-     "summary": ""
-    },
-    {
-     "id": "1fb7421607db",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "games.gg",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Дэн Хаузер: Ray Liotta спас сценарий Vice City",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUVhqb0JROUFhYi1YV1R5Wkdla1FpQnlTTXhJX3VkSzZYdlhEd0R6djAwamhtV04zUmJRcWxHeklJTHJiUkljbFctcmQ3Tm5Xb3ZGQS15UWRRZ1NvOHRySUFlcS1JQ2R2cUFiMF9OUVlWYWpsUl9QX0l6WlFwYWc5VGZTTldsV2FpSUd6bXNRa2ZrdUI4YjRXUkYtN204MDhObmVYSEtsVGN4M0cyYnRSSlNNdjVYYlNsOHpVdUJNa1QyWDRVTWUxdERIMHVQWWljZXpKWFZidnJBMXUzUS1PSjYyZUlPcTlycUdOUHdJLVJIVS1zN2NBSFRHcXJmckpoUjVnN0FoNGtDZDRQ?oc=5",
-     "ts": "2026-10-18T10:58:03Z",
-     "summary": ""
-    },
-    {
-     "id": "58c1f8d7208b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Дэн Хаузер считает свой сценарий GTA: Vice City ужасным – но он сработал благодаря актёрскому мастерству Рэя Лиотты",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd1lVMUNreWJBS2dzZ2hRcEtnRmNNTTNscEpQZTVCWDViczJJdmhMX1VCS0s1cGNwaEdtNkUzbURoUW9iNTZuY1lRLUFJdE9wajN3MjdhZ1RMVG00MWE0dmZUTXpCUXhkRDM5bkx2MFVpZHFNMmk1bVE0Z1VlYllydlp6NmFXS1VHNV93dVViQ2ZOS2NyeHVzRDRXclNhR2pNckpjZjVwcXJkMnQwa2swdUFXQUZGajNVSGRKZDV6bkJIai04a3pwOGRnZVR2NmRBUHYyT01sWjhKbm5OOW1oRllMUXY?oc=5",
-     "ts": "2026-10-19T16:40:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 89,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Дэн Хаузер: мой сценарий Vice City был ужасен",
-    "summary": "Бывший ведущий сценарист Rockstar Дэн Хаузер заявил, что его сценарий Vice City был ужасен. По его словам, игру спасла игра Рэя Лиотты — именно она сделала Vice City великой. Об этом Хаузер рассказал в недавних интервью, которые приводят Championat, PlayGround.ru и games.gg.",
-    "idea": "Короткий контраст: «ужасный сценарий» спасает один актёр. Показываем титр, фрагмент Лиотты и реакцию — зрителю любопытно, как одна роль вытянула культовую игру.",
-    "hook": "Сценарий Vice City был ужасен — пока не включился Рэй Лиотта.",
-    "stars": 2,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-18T11:10:49Z"
-   },
-   "msg_id": 106
-  },
-  {
-   "id": "f139c85209c3",
-   "title": "В Grand Theft Auto VI не стоит опасаться «повестки» и «отмены юмора» заявил Джейсон Шрайер",
-   "first_seen": "2026-10-19T16:50:45Z",
-   "updated": "2026-10-19T16:50:45Z",
-   "items": [
-    {
-     "id": "f139c85209c3",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Newxboxone",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "В Grand Theft Auto VI не стоит опасаться «повестки» и «отмены юмора» заявил Джейсон Шрайер",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNODdkNDh1cElZNVluaHl5OEwyTG0xSU1nZFBKTHNEek9LUHlPX3JvOVdHZFhOOE9xWjFRNXlXUnR0d28yeEVPdTZZQ3VHbFlNYkp0WlFOY3lJM3NFV21XQ0RIRUl2UmVSdmN1aGpfN0traDFNUTlfS3dQUThadjJHRG8zV05pd1dQU1Y4MlZiMlo3Z3lkSU4xWDVYcTc1OVBfbVJuYURGNUhPb043QVR3RmtTNkVrTmhmWnEtX0dXTGxPd00?oc=5",
-     "ts": "2026-10-19T16:48:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T16:41:06Z",
+  "last_run": "2026-10-26T16:50:58Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 97/100",
-   "gnews_ru: 29/56",
+   "gnews_ru: 31/56",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 1/10",
