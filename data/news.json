@@ -1,6 +1,82 @@
 {
  "stories": [
   {
+   "id": "9f1e1896bd44",
+   "title": "До выхода GTA VI осталось 24 дня А пока мы продолжаем быть в режиме ожидания.",
+   "first_seen": "2026-10-26T08:01:23Z",
+   "updated": "2026-10-26T08:01:23Z",
+   "items": [
+    {
+     "id": "9f1e1896bd44",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "До выхода GTA VI осталось 24 дня А пока мы продолжаем быть в режиме ожидания.",
+     "url": "https://t.me/GTAVIStar/747",
+     "ts": "2026-10-26T07:52:41Z",
+     "summary": "До выхода GTA VI осталось 24 дня А пока мы продолжаем быть в режиме ожидания. Всем удачной рабочей недели. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f8b3c59cf9cc",
+   "title": "Should You Let Your Kid Play GTA 6 ? A Parent's Guide to GTA 6",
+   "first_seen": "2026-10-26T08:01:23Z",
+   "updated": "2026-10-26T08:01:23Z",
+   "items": [
+    {
+     "id": "f8b3c59cf9cc",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Should You Let Your Kid Play GTA 6? A Parent's Guide to GTA 6",
+     "url": "https://www.gtaboom.com/should-you-let-your-kid-play-gta-6-a-parents-guide-to-gta-6-f88c",
+     "ts": "2026-10-26T07:54:32Z",
+     "summary": "GTA 6 carries adult ratings everywhere, and PS5 and Xbox parental controls let parents block, limit or supervise access now."
+    },
+    {
+     "id": "96c86953ac56",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Should You Let Your Kid Play GTA 6 ? A Parent's Guide to GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX1dyakE2NDBGNzdLOXZ2dWxZdjZpX0o5dTJzaGtjME9NWkpvQ25ucVktdUhZSlZxd0lLVE5FUkk5dnV0NUVyV25ZWU5hZERWRFZEU3hpaUtaT0wtTDI4S1AwZWxYdm84VHRpamx1OVkxWFRGb1Z4ZFdqWXZFZk5nNHViM1d1dW1YeXR2NkV6YkhHdw?oc=5",
+     "ts": "2026-10-26T07:55:14Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 для детей? Родительский контроль на PS5 и Xbox",
+    "summary": "По данным GTA BOOM, GTA 6 имеет взрослые рейтинги во всех регионах. На PS5 и Xbox уже сейчас доступны родительские контроли, которые позволяют блокировать, ограничивать или контролировать доступ ребёнка к игре.",
+    "idea": "Короткий гайд для родителей: как за 30 секунд настроить ограничения на PS5 и Xbox перед выходом GTA 6. Зрителю важно быстро получить понятную инструкцию и не волноваться за детей.",
+    "hook": "GTA 6 близко — как за минуту защитить ребёнка от взрослого контента?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T08:01:28Z"
+   },
+   "msg_id": 156
+  },
+  {
    "id": "7c9eb7919320",
    "title": "GTA 6: Rob Brinkmann Is Rumored as Voice Actor of Jason",
    "first_seen": "2026-10-25T19:18:41Z",
@@ -48938,11 +49014,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T07:50:55Z",
+  "last_run": "2026-10-26T08:01:28Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 73/79",
-   "gnews_ru: 26/59",
+   "gnews_en: 72/78",
+   "gnews_ru: 25/57",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -48950,9 +49026,9 @@
    "eurogamer: 0/100",
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
-   "gtaboom: 7/30",
+   "gtaboom: 8/30",
    "reddit: 23/25",
-   "tg_gtavistar: 6/13",
+   "tg_gtavistar: 7/13",
    "tg_gta6deluxe: 7/12",
    "tg_gta6_m: 10/19",
    "tg_gta6newsdaily: 11/13"
