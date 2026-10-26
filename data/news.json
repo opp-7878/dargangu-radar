@@ -1,6 +1,100 @@
 {
  "stories": [
   {
+   "id": "fdcfa723ed33",
+   "title": "GTA VI review codes are going out with reviews due 1 day before launch",
+   "first_seen": "2026-10-26T18:01:37Z",
+   "updated": "2026-10-26T18:01:37Z",
+   "items": [
+    {
+     "id": "fdcfa723ed33",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Spilled",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI review codes are going out with reviews due 1 day before launch",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aR3dpamRldEpVb0o2REhRV0pFaHh5R2dERFBRYUpmMV92ZjJ4QnpKVklBVUdVYks2V1RmUVNRbEM0Q1J2S0dZZ1lnS0hmeTg2Qnd6U1FnbzRabmpCcHk2RmVvY0xpSU1aaWpEM3BQYndTc2ZH?oc=5",
+     "ts": "2026-10-26T17:43:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3e65f3743501",
+   "title": "GTA VI Xbox early download?",
+   "first_seen": "2026-10-26T18:01:37Z",
+   "updated": "2026-10-26T18:01:37Z",
+   "items": [
+    {
+     "id": "3e65f3743501",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI Xbox early download?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xg40if/gta_vi_xbox_early_download/",
+     "ts": "2026-10-26T17:52:46Z",
+     "summary": "I keep hearing that we’ll be able to play GTA VI “early” on Xbox if w set the timezone to New Zealand but will that actually work? Like is that actually a thing you can do on Xbox to get around the “midnight local release” restriction? submitted by /u/Successful-Elk9242 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bd5ccf071503",
+   "title": "Insider Claims GTA 6 Review Codes Are Already Going Out to Media",
+   "first_seen": "2026-10-26T18:01:37Z",
+   "updated": "2026-10-26T18:01:37Z",
+   "items": [
+    {
+     "id": "bd5ccf071503",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Trusted Insider Says GTA 6 Review Codes Are Going Out Right Now",
+     "url": "https://www.gtaboom.com/trusted-insider-says-gta-6-review-codes-are-going-out-right-now-4d27",
+     "ts": "2026-10-26T17:55:32Z",
+     "summary": "Insider NateTheHate claims Rockstar sent GTA 6 review code to media with a November 18 embargo, unconfirmed by Rockstar or Take Two."
+    },
+    {
+     "id": "e1c5f0049f66",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Insider Claims GTA 6 Review Codes Are Already Going Out to Media",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDI1NnZqY1ZieE44M01KcTFUOTNqV3c1aFdHcDUtT01rSGpKOWltaDJTM3ZObS1nQWJ0UUZsSUduUHZLSC1YT0JqZGZpWGdIdTVfa2RmT2dLaFhtc1ZFSURYU0pTN1dORlZEcGRHTXp4Ukc1YnhiOVBkNWtRdEdLVjR2T0QwYVZVbjdkNTBkNC1QQXUtZ0VJ?oc=5",
+     "ts": "2026-10-26T17:55:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two",
+    "анонс"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "1c6fd9d1fc2f",
    "title": "For Rockstar Games, Q1 is April-June, not January-March",
    "first_seen": "2026-10-26T17:50:56Z",
@@ -49218,11 +49312,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T17:50:56Z",
+  "last_run": "2026-10-26T18:01:37Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 97/100",
-   "gnews_ru: 31/54",
+   "gnews_ru: 27/34",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 2/10",
@@ -49230,14 +49324,14 @@
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
-   "gtaboom: 8/30",
+   "gtaboom: 9/30",
    "reddit: 23/25",
    "tg_gtavistar: 5/13",
    "tg_gta6deluxe: 9/11",
    "tg_gta6_m: 11/19",
    "tg_gta6newsdaily: 9/14"
   ],
-  "digest": "2026-10-25",
+  "digest": "2026-10-26@21",
   "tg_offset": 854319078
  }
 }
