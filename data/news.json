@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "d0ab12aa4bb4",
+   "title": "'GTA VI' Has More Places Players Can Enter But Not a Larger Open World Compared to 'GTA V,' Says Rockstar",
+   "first_seen": "2026-10-26T07:31:04Z",
+   "updated": "2026-10-26T07:31:04Z",
+   "items": [
+    {
+     "id": "d0ab12aa4bb4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Player.One",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA VI' Has More Places Players Can Enter But Not a Larger Open World Compared to 'GTA V,' Says Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVpXN1lPY1d0cm9lMzVJUmJWQ1ZaUExkdGpBSllfNlpWMnJPeUZTTzhOektGbzNrT2w2ako5b216R0x1eEFaUlFkREVOeWhtNWx3QzhwaGVGYjJsbkxqX0g1OVd0Z0xXb19WZnpqVjE4UVhmYXBvQ1B4N29mRmNrUTBqWHBkTFBBZUhwaWtiZC1JOFl4eGRVUzRXYUlXazVJVHhnMDF3amFYbmhQSnY3eERCV1d2MVdSSHlHMnpB?oc=5",
+     "ts": "2026-10-26T07:22:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8150427be71c",
+   "title": "GTAVI game key PS5 pre order",
+   "first_seen": "2026-10-26T07:31:04Z",
+   "updated": "2026-10-26T07:31:04Z",
+   "items": [
+    {
+     "id": "8150427be71c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTAVI game key PS5 pre order",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xfq4zc/gtavi_game_key_ps5_pre_order/",
+     "ts": "2026-10-26T07:25:08Z",
+     "summary": "I originally tried to post this on the Kinguin subreddit, but it was not accepted by moderators. Since I am talking mainly about GTAVI game key, I think I can ask this here. I wanted to pre order GTAVI for PS5 on Kinguin. I always bought game keys for Steam. Does it change if I buy a pre order for a console? I never had problem with Kinguin in the past. Should I expect more problems with console pre orders? I'm asking this in general since I think I will do the same for Fable in the next months. I was always mainly a PC gamet, but at the moment I don't have access to my PC and I have to play o"
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -48324,37 +48378,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "18a9ce0c65c1",
-   "title": "I haven't seen anyone talk about the redirection of this bullet",
-   "first_seen": "2026-10-19T07:20:52Z",
-   "updated": "2026-10-19T07:20:52Z",
-   "items": [
-    {
-     "id": "18a9ce0c65c1",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I haven't seen anyone talk about the redirection of this bullet",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x9ol2o/i_havent_seen_anyone_talk_about_the_redirection/",
-     "ts": "2026-10-19T05:37:10Z",
-     "summary": "Perhaps there is insane detail in the ballistics submitted by /u/Wide_Wallaby_9673 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T07:20:51Z",
+  "last_run": "2026-10-26T07:31:04Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 76/80",
@@ -48367,7 +48395,7 @@
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
    "gtaboom: 7/30",
-   "reddit: 22/25",
+   "reddit: 23/25",
    "tg_gtavistar: 6/13"
   ],
   "digest": "2026-10-25",
