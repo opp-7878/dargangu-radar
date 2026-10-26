@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "bec3f7ce5aa7",
+   "title": "I hope that gta6 doesn't meet the same fate as iPhone duo!",
+   "first_seen": "2026-10-26T02:01:14Z",
+   "updated": "2026-10-26T02:01:14Z",
+   "items": [
+    {
+     "id": "bec3f7ce5aa7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I hope that gta6 doesn't meet the same fate as iPhone duo!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xfk96i/i_hope_that_gta6_doesnt_meet_the_same_fate_as/",
+     "ts": "2026-10-26T01:53:49Z",
+     "summary": "**I hope the game launches smoothly.** submitted by /u/ManufacturerDry7036 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
@@ -48097,69 +48123,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b675c0622fde",
-   "title": "While you guys wait for GTA VI I'm thinking about how to reenact the France riots in Call of Duty Modern Warfare 4 🔥 Writer: Oliver",
-   "first_seen": "2026-10-19T02:01:09Z",
-   "updated": "2026-10-19T02:01:09Z",
-   "items": [
-    {
-     "id": "b675c0622fde",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "X",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "While you guys wait for GTA VI I'm thinking about how to reenact the France riots in Call of Duty Modern Warfare 4 🔥 Writer: Oliver",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSE55Q2VZdDB5cU1zbm42anhZM3VrRUJ6Q1huLXlNdjM1Qkl4ZmJUbFJMQkZwUXhzTGJNWi1nZlhwNHZEelR2YVE2OFFiSFhWX1UtdVB3RW9ER3VvWUNmVEpacEoySjZ2WDFEbQ?oc=5",
-     "ts": "2026-10-19T01:53:25Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "122499b05d89",
-   "title": "GTA 6 Fans Want a Physical Copy So Badly They Are Buying Bootlegs",
-   "first_seen": "2026-10-19T02:01:09Z",
-   "updated": "2026-10-19T02:01:09Z",
-   "items": [
-    {
-     "id": "122499b05d89",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA 6 Fans Want a Physical Copy So Badly They Are Buying Bootlegs",
-     "url": "https://www.gtaboom.com/gta-6-fans-want-a-physical-copy-so-badly-they-are-buying-bootlegs-b69f",
-     "ts": "2026-10-19T02:00:05Z",
-     "summary": "Chinese sellers are peddling bootleg GTA 6 disc sets fans knowingly buy as display props, since Rockstar's real edition is just a download code."
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T01:50:46Z",
+  "last_run": "2026-10-26T02:01:14Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 61/65",
-   "gnews_ru: 21/26",
+   "gnews_en: 59/63",
+   "gnews_ru: 21/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
