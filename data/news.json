@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "79077572ccb8",
-   "title": "GTA 6 Fans Asked Manni L. Perez About Lucia, but She Never Answered",
-   "first_seen": "2026-10-26T01:40:47Z",
-   "updated": "2026-10-26T01:40:47Z",
-   "items": [
-    {
-     "id": "79077572ccb8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MMOEXP",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Fans Asked Manni L. Perez About Lucia, but She Never Answered",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXlvWFhpUVhrZUxNZlVnRWtYNlNMSGpLdm1ubkdTaGhsUVdMdmxZSGxfaUI5Z2N2eVpyU1pPcFBNd1BVZjdFejJHX2lvRHU4NUxmWXVBZGI0RnA4eTVWb0J6RXhHM2E1dGJnTTNaaWt5dERSM1gzLUJ1WnFENFktdnZmQkdYU2pQT0hRd1ZETXB6eGZ6NWJuYUJvbDJFZDA?oc=5",
-     "ts": "2026-10-26T01:38:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "619a3fc807c8",
    "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027",
    "first_seen": "2026-10-14T06:27:47Z",
-   "updated": "2026-10-26T01:20:49Z",
+   "updated": "2026-10-26T01:50:10Z",
    "items": [
     {
      "id": "619a3fc807c8",
@@ -15033,6 +15007,19 @@
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1FZVVNKQW02OXdEaXhrOVN3bV81UkZzdlhJV2tZdkhKM21ENkhpMGRhRW42a1pBQnRmalA5N3d3Q05SZ2JaWVJMTjQzaUJlSGZUdmd2WGI1alBZNXNkZ1FVNlB4TVd0cmE0dkxFVFVEY3lXQ3Rqa0lxdVFqRUw1UzBGMUg?oc=5",
      "ts": "2026-10-26T01:15:46Z",
      "summary": ""
+    },
+    {
+     "id": "7d62f74b2924",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 review copy may have been sent to YouTuber who posts release date spoilers",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ1JrWldMYXJPLW91N2NFV091MDZoX1lEaUtMeUFGMHhLbUNNaHpKSFotTXM3S0N3NXRlM3BhMjFoc2w3UFh4d2cwb1lWaG52aElKMDhkQ2VYNks2MDhocjBNQTRmcW9hdTdzNXhRWDliOXMzNU9saWp5N2xQZ2dWT18wTlRySXZ1d1ZuRGkzTTdxbm9PM3M5YTZJSWVuMzJpSFlGZlFSMnVXWTVYdTc1TG0tMDhWYWRjekRYblZMMXZhTE0?oc=5",
+     "ts": "2026-10-26T01:41:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -15050,6 +15037,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "bootstrap",
+   "status": "new"
+  },
+  {
+   "id": "79077572ccb8",
+   "title": "GTA 6 Fans Asked Manni L. Perez About Lucia, but She Never Answered",
+   "first_seen": "2026-10-26T01:40:47Z",
+   "updated": "2026-10-26T01:40:47Z",
+   "items": [
+    {
+     "id": "79077572ccb8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MMOEXP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Fans Asked Manni L. Perez About Lucia, but She Never Answered",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXlvWFhpUVhrZUxNZlVnRWtYNlNMSGpLdm1ubkdTaGhsUVdMdmxZSGxfaUI5Z2N2eVpyU1pPcFBNd1BVZjdFejJHX2lvRHU4NUxmWXVBZGI0RnA4eTVWb0J6RXhHM2E1dGJnTTNaaWt5dERSM1gzLUJ1WnFENFktdnZmQkdYU2pQT0hRd1ZETXB6eGZ6NWJuYUJvbDJFZDA?oc=5",
+     "ts": "2026-10-26T01:38:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -48142,11 +48155,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T01:40:47Z",
+  "last_run": "2026-10-26T01:50:10Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 60/63",
-   "gnews_ru: 21/27",
+   "gnews_en: 59/63",
+   "gnews_ru: 21/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
