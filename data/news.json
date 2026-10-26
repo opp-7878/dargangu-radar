@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "8b8a5c93f9b0",
+   "title": "👀 GTA 6 за $80 — дёшево?",
+   "first_seen": "2026-10-26T08:50:51Z",
+   "updated": "2026-10-26T08:50:51Z",
+   "items": [
+    {
+     "id": "8b8a5c93f9b0",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "👀 GTA 6 за $80 — дёшево?",
+     "url": "https://t.me/GTA6_m/9249",
+     "ts": "2026-10-26T08:50:10Z",
+     "summary": "👀 GTA 6 за $80 — дёшево? С поправкой на инфляцию GTA 6 окажется самой дешёвой игрой Rockstar даже при цене $80 Главное не сравнивать цены на консоли... 🪑 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 за $80 — это дёшево? Сравнение с инфляцией",
+    "summary": "По данным канала @GTA6_m, с поправкой на инфляцию GTA 6 за $80 окажется самой дешёвой игрой Rockstar. Автор отмечает, что не стоит сравнивать цены на консоли.",
+    "idea": "Короткий разбор: $80 сегодня против прошлых цен Rockstar с инфляцией. Зрителю важно понять, переплачивает он или нет.",
+    "hook": "GTA 6 за $80 — дорого? Считаем инфляцию и прошлые цены Rockstar.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T08:50:54Z"
+   },
+   "msg_id": 165
+  },
+  {
    "id": "3ff9ed59ada3",
    "title": "GTA 6 Marketing Hits Football’s Biggest Clash as Rockstar Takes over El Clasico with New Ads",
    "first_seen": "2026-10-26T08:10:52Z",
@@ -48868,132 +48907,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "5274969a1900",
-   "title": "GTA 6 launch day is officially one month away",
-   "first_seen": "2026-10-19T06:59:14Z",
-   "updated": "2026-10-19T08:50:44Z",
-   "items": [
-    {
-     "id": "5274969a1900",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Khel Now",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 launch day is officially one month away",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR0Vtc211X3NsZ28zRTNsVWlKRTJVTFQxb3hLMEJDUHdwVnNSakY1T1l2TTV1blFDR1JSZHc1dGJmRlp2UjEzLThjWkFKaktHU0FULTlpYkhwbDg1a3B4NV82SHNQRlpjTzhYMmh4RFl1UkVnTGRweWZWaWE4TUYxMWtyVldxUQ?oc=5",
-     "ts": "2026-10-19T06:35:28Z",
-     "summary": ""
-    },
-    {
-     "id": "653af69c536e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Launch Day Is Officially One Month Away: Everything We Know So Far",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcW9RNjVFSEZScGtmY2o2RXZuMFlZQm5IS19EVHpSX3VqaGtIRjBhbGY2cVZvbll3Nk9kaTh3VzVuOENNVmwwY20tTlQyMmk3Tjh3TVVoelV3NVVYcjQ3TV9hRDRCRTJJMURoR0xpbWJpX3RnT2tzSG5ZdVhtOF9TY2lyTkpqN3VZQzZNWV9Uc1dtYnBOUlM0TEUyaEJ1UFFncnRxMkc0TDk3QUU?oc=5",
-     "ts": "2026-10-19T08:40:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "838526d96cb4",
-   "title": "Тем временем до релиза GTA VI в большинстве регионов остался месяц Уточнение про большинство регионов не случайно: например, согласно PS... 2026",
-   "first_seen": "2026-10-19T08:50:44Z",
-   "updated": "2026-10-19T08:50:44Z",
-   "items": [
-    {
-     "id": "838526d96cb4",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ВКонтакте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Тем временем до релиза GTA VI в большинстве регионов остался месяц Уточнение про большинство регионов не случайно: например, согласно PS... 2026",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lN21PM21XaVBVaWlIRkh0RGsxSEE2OG1XTGdtLWJQVU04VHE5VEh1R1ZwNTBJakFldzZEdjRFS1BfN3JobVR4c2RKaw?oc=5",
-     "ts": "2026-10-19T07:11:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7fb82694ba15",
-   "title": "Будешь играть в GTA 6 много — станешь импотентом: очередное \"напоминание врачей\"",
-   "first_seen": "2026-10-19T08:50:44Z",
-   "updated": "2026-10-19T08:50:44Z",
-   "items": [
-    {
-     "id": "7fb82694ba15",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Будешь играть в GTA 6 много — станешь импотентом: очередное \"напоминание врачей\"",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU1BDWEM0MjEyUEI3ZE81RUVwXy13dkd6S05adERlUzd5cndiUDZoX25RcG9GUlgxWEQ0VVFZaFBuamdCV2JWME95NG1hS3lIZm9wUUVlQVRraG9tb2E5X0hCeU1ENlhVYlFLSTlsNnNpZU9sMVd6V2FxbUdxZlBua3hoS1Jsc0hWek9jMFI3SEh0QUN3YmlkUjZFV2hJalhPaUJMWnJn?oc=5",
-     "ts": "2026-10-19T08:00:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "93fbf338702b",
-   "title": "Ocarina of Crime: Why Zelda is able to escape GTA 6’s shadow",
-   "first_seen": "2026-10-19T08:50:44Z",
-   "updated": "2026-10-19T08:50:44Z",
-   "items": [
-    {
-     "id": "93fbf338702b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Game Business",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Ocarina of Crime: Why Zelda is able to escape GTA 6’s shadow",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Qc3dKdXZKTWhhVXpwNkVjZ0tMcTRFQzBNWnhJZ2l0bkpKN1hvbHBqMmFZOGY5b2FPRldiSThHVXdFalZocFl3SjhjX0g2M3RqeldCZDBzYzRSSlZmbHdCTXBBZzFuTUR1cEJZOHQ4NGhFdnRZZlZj?oc=5",
-     "ts": "2026-10-19T08:47:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T08:40:52Z",
+  "last_run": "2026-10-26T08:50:55Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 72/77",
-   "gnews_ru: 27/56",
+   "gnews_en: 73/78",
+   "gnews_ru: 26/56",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -49005,7 +48927,7 @@
    "reddit: 23/25",
    "tg_gtavistar: 7/13",
    "tg_gta6deluxe: 7/12",
-   "tg_gta6_m: 10/19",
+   "tg_gta6_m: 11/19",
    "tg_gta6newsdaily: 11/13"
   ],
   "digest": "2026-10-25",
