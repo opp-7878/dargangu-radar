@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "e2e56f671cfc",
+   "title": "Is Manni L. Perez really GTA 6's Lucia? What we know",
+   "first_seen": "2026-10-26T09:20:52Z",
+   "updated": "2026-10-26T09:20:52Z",
+   "items": [
+    {
+     "id": "e2e56f671cfc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The News International",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Is Manni L. Perez really GTA 6's Lucia? What we know",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbElTMDM2eVlQbGkyNVlqZk9LdktmdDRQazE2ZHRZTXkzdV9pQms3ZmhxYTlXcU5zNVczRzJUSVZBb1F1ek1palNRRFl6dVBpdTlkZ2xzemJtTzlDSEFQWjF2cVpyOEEySHFNTWFxRi1pOHBScHZMRk1PbGVXbjRQbDh2ZEhqdFM1dkR1cVZyeUk4MkZCY3fSAZIBQVVfeXFMUDJnUUM3ODFPc05kcnBNZ1lxLUVJd3NONmtFU2xkbFR2YzhSVFV2XzVoUzIzb0lKYk1JMEoxOHBHUDhIS3d0ckptSzNHa082UTNoUkg1SlBWajZHQ2g0XzRFeE1IZVIxMDA1cnZtS1pXZThJc192Zl9EYmpjUDI0eHRHZHNycm5LUnZBVUthZk1qaUE?oc=5",
+     "ts": "2026-10-26T08:01:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9e73cfdf46a8",
    "title": "Does Shirrako Have GTA 6 Early? What We Know About the Rumoured Rockstar NDA Breach",
    "first_seen": "2026-10-26T09:01:21Z",
@@ -48907,54 +48933,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "69c617228164",
-   "title": "Today is Finally the End of an Era for GTA 6",
-   "first_seen": "2026-10-19T09:10:46Z",
-   "updated": "2026-10-19T09:20:49Z",
-   "items": [
-    {
-     "id": "69c617228164",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameRant",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Today is Finally the End of an Era for GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Bdk9hY19SaE9tOUZfMEt6TVhBMWNpa1U0U0xlYU8tUy1JV1pGMnByUW5LV3BIR2xvbUtUNXN5WTRUN3VvNTFSWExQNnlmbk5MMURfeGNEVTVpU2dhNjZDZGhMM1JOZW8?oc=5",
-     "ts": "2026-10-19T09:00:16Z",
-     "summary": ""
-    },
-    {
-     "id": "f7439f097c20",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "OpenCritic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Today is Finally the End of an Era for GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUmdVQzhmS1o3dkRBYjBpTGk3a0JUQ3o2ajgxNFA2b3JNYnA5SURoYkhGMFQ4ZWNOVXFFYmdKT2FzS3Z1TXZ0Z1o1VFJVRWhkR3o3V3pnRmppdWRDTm5lWE56UXpFdWYzTzVfVTlmcmFKb0FJODZRU1d4NWxaTzVrSnlBcFo?oc=5",
-     "ts": "2026-10-19T09:12:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T09:10:51Z",
+  "last_run": "2026-10-26T09:20:52Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 72/77",
-   "gnews_ru: 26/56",
+   "gnews_en: 75/80",
+   "gnews_ru: 26/55",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -48964,7 +48951,7 @@
    "rockstarintel: 0/10",
    "gtaboom: 8/30",
    "reddit: 23/25",
-   "tg_gtavistar: 7/13",
+   "tg_gtavistar: 6/13",
    "tg_gta6deluxe: 7/12",
    "tg_gta6_m: 11/19",
    "tg_gta6newsdaily: 11/13"
