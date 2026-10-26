@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "5e37e15bb4a9",
+   "title": "Take-Two Interactive (NASDAQ:TTWO) In Focus as Grand Theft Auto VI Nears Launch",
+   "first_seen": "2026-10-26T11:50:45Z",
+   "updated": "2026-10-26T11:50:45Z",
+   "items": [
+    {
+     "id": "5e37e15bb4a9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Kalkine Media",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take-Two Interactive (NASDAQ:TTWO) In Focus as Grand Theft Auto VI Nears Launch",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEpVU3kzR19lOUNXOGZXbUtpbkh4aUF1MGVQRlVnVTNhOFNpR09JLUx0TFJOczdFcEtSSlVYV2tUeTFfUHgwcktEd2twVUpxVlpzdGZxcVF5clhvb1FqVnlBb293YU93OE5TYWVFTXMyQ001el9val92MnZrSHRtX3AwUjNlZHpJTGd6OEpWMkpaR2JjV2gtdUIzcVBZNjJVeldybHJtenlmMjBDSGc5MTJwN0V5cF9PYlZyUE5pb2UweHM?oc=5",
+     "ts": "2026-10-26T10:10:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Take-Two в центре внимания: до GTA 6 остаются считанные дни",
+    "summary": "По данным Kalkine Media, Take-Two Interactive (NASDAQ:TTWO) оказалась в центре внимания из-за скорого выхода Grand Theft Auto VI. Издание отмечает, что релиз игры уже близко.",
+    "idea": "Коротко показываем график TTWO и календарь до 19 ноября, объясняя, почему инвесторы и геймеры сейчас смотрят на Take-Two. Зрителю интересно, как ожидания GTA 6 отражаются на компании прямо сейчас.",
+    "hook": "До GTA 6 — меньше месяца. Что сейчас происходит с Take-Two?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T11:50:49Z"
+   },
+   "msg_id": 173
+  },
+  {
    "id": "a0ddd40c813a",
    "title": "The actor rumoured to be playing Lucia in GTA 6 actively ignored questions about it during an introductory livestream",
    "first_seen": "2026-10-26T11:31:18Z",
@@ -49328,48 +49367,22 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "019a12011e42",
-   "title": "11 дней отпуска ради GTA 6 – взрослые игроки готовятся к релизу всерьёз",
-   "first_seen": "2026-10-19T11:50:46Z",
-   "updated": "2026-10-19T11:50:46Z",
-   "items": [
-    {
-     "id": "019a12011e42",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "11 дней отпуска ради GTA 6 – взрослые игроки готовятся к релизу всерьёз",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVNDODdVOGhvd2htcDNhUEVqTDRWVlhQQVFSQ3R6Um0wMFNmTVJGVTZ4RFFReXpMby1LbG9sQ2FTU1RmSUZiSVJWVGJIUmgwTXNYd3lnMW55cHYwa0J5TkhkTUJrU00xeWNlS2NzbG1oMHhIOUxRanYxQUUwMFI4dEdRakZ3Q040M0tuWmFjQzF3WGlENlFNWHhQZUJjNUUyakJmdVl4Wnc1UQ?oc=5",
-     "ts": "2026-10-19T11:40:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T11:41:18Z",
+  "last_run": "2026-10-26T11:50:50Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 78/83",
-   "gnews_ru: 25/57",
+   "gnews_en: 86/91",
+   "gnews_ru: 26/56",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
    "ign: 1/20",
    "eurogamer: 0/100",
    "dexerto_gta: 0/50",
-   "rockstarintel: 0/10",
+   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
    "gtaboom: 9/30",
    "reddit: 23/25",
    "tg_gtavistar: 5/13",
