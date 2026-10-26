@@ -1,6 +1,69 @@
 {
  "stories": [
   {
+   "id": "b393cd1c1635",
+   "title": "'Grand Theft Auto' Beers May Be Coming to Life Ahead of 'GTA 6'",
+   "first_seen": "2026-10-26T10:01:35Z",
+   "updated": "2026-10-26T10:01:35Z",
+   "items": [
+    {
+     "id": "b393cd1c1635",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Hypebeast",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto' Beers May Be Coming to Life Ahead of 'GTA 6'",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDNrLVdzNWNEVE1mQnYyWnUtQVN6ZjgzRW81ZWxLWjVPcWdOcHAyRV9rVzZsNUx0WVc4ZFhacmVzRkRvcmhvNi1iSUF5RzFhcVU1R2hHbHYxeW55VEw1NVNaRE5WTlpKNGI4VlByRzZtekJJU2MwUWJDZzY2VlVfdjN5MmZscDdkekdLc2Vqc0hDRjltLXBucW1ua2RlaUt1RDlrOTlwY0ZIZTg?oc=5",
+     "ts": "2026-10-26T09:50:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "da2e7240db29",
+   "title": "🔞 В GTA 6 появится собственный OnlyFans — Peekhole, это игровой аналог мирового сервиса Упоминание этого сайта фанаты обнаружили в официальных промо-материалах ",
+   "first_seen": "2026-10-26T10:01:35Z",
+   "updated": "2026-10-26T10:01:35Z",
+   "items": [
+    {
+     "id": "da2e7240db29",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "🔞 В GTA 6 появится собственный OnlyFans — Peekhole, это игровой аналог мирового сервиса Упоминание этого сайта фанаты обнаружили в официальных промо-материалах ",
+     "url": "https://t.me/gta6deluxe/1839",
+     "ts": "2026-10-26T09:53:26Z",
+     "summary": "🔞 В GTA 6 появится собственный OnlyFans — Peekhole, это игровой аналог мирового сервиса Упоминание этого сайта фанаты обнаружили в официальных промо-материалах от Rockstar. Пока неизвестно, будет ли Peekhole полностью интерактивным приложением в игровом смартфоне или же останется фоновым элементом. 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В GTA 6 нашли Peekhole — аналог OnlyFans в игре",
+    "summary": "Фанаты обнаружили в официальных промо-материалах Rockstar упоминание сервиса Peekhole — игрового аналога OnlyFans. Пока неизвестно, будет ли Peekhole интерактивным приложением в смартфоне или фоновым элементом.",
+    "idea": "Разбираем, что такое Peekhole в GTA 6 и как он может работать в открытом мире. Зрителю интересно, будет ли это мини-игра с подписками и контентом.",
+    "hook": "В GTA 6 будет свой OnlyFans? Разбираем Peekhole.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T10:01:39Z"
+   },
+   "msg_id": 166
+  },
+  {
    "id": "1fb62c072560",
    "title": "All GTA 6 Locations in Leonida",
    "first_seen": "2026-10-26T09:50:51Z",
@@ -48974,11 +49037,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T09:50:51Z",
+  "last_run": "2026-10-26T10:01:39Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 76/81",
-   "gnews_ru: 26/55",
+   "gnews_ru: 25/56",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -48988,8 +49051,8 @@
    "rockstarintel: 0/10",
    "gtaboom: 8/30",
    "reddit: 23/25",
-   "tg_gtavistar: 6/13",
-   "tg_gta6deluxe: 7/12",
+   "tg_gtavistar: 5/13",
+   "tg_gta6deluxe: 8/12",
    "tg_gta6_m: 11/19",
    "tg_gta6newsdaily: 10/13"
   ],
