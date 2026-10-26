@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "1fb62c072560",
+   "title": "All GTA 6 Locations in Leonida",
+   "first_seen": "2026-10-26T09:50:51Z",
+   "updated": "2026-10-26T09:50:51Z",
+   "items": [
+    {
+     "id": "1fb62c072560",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Beebom",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "All GTA 6 Locations in Leonida",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44cXhRM1RkcWVqTXdsU01ndXR6cmlFdTZDNE9CUHcxS19XZlNHc2lXaGZZNG1NRTF3RzV5QnZDU0RVUW80U29EY0ZpZ9IBUEFVX3lxTE5Pc3VNOXZMbS1Delh5TF9EWm12R2FiSFZQMEtzVTFaTUtiYmhWSmZVcGE5aGs0dHF3X3c5Z1d0Y1NwV3BGbTVWNzVyMHRySzYz?oc=5",
+     "ts": "2026-10-26T09:36:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b848826cc5ab",
+   "title": "Предполагаемая Лусия из GTA 6 целых 20 минут игнорировала вопросы о своей роли",
+   "first_seen": "2026-10-26T09:50:51Z",
+   "updated": "2026-10-26T09:50:51Z",
+   "items": [
+    {
+     "id": "b848826cc5ab",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Предполагаемая Лусия из GTA 6 целых 20 минут игнорировала вопросы о своей роли",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcFIzc2U2REhrTGpkVTZ2aUFuUmNXQUpIZ21iNldHcDJKdWlkaW5oM2dzbXBZWGdzVnNnS21fNk00b1NVZEYyNEhLZGJybnJEQThqVzNYNUpUYWQwakdpUzQtM0U5emItWG9yR0FiVHBpUUVRdWVpZjV4c3pXX3FUTlVCTFl0UkJkQlZUVG9JYm9mQXg3N2d1MGlxNUZuaXJrZGFZZnViLVhwcWxiN3NFNG1YREc5djg?oc=5",
+     "ts": "2026-10-26T09:40:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "73f5bf7564e0",
    "title": "GTA 6 Has Had “No Positive Impact” on Xbox Console Sales, Reports Suggest",
    "first_seen": "2026-10-26T06:10:49Z",
@@ -48922,11 +48974,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T09:40:57Z",
+  "last_run": "2026-10-26T09:50:51Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 73/78",
-   "gnews_ru: 25/56",
+   "gnews_en: 76/81",
+   "gnews_ru: 26/55",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
