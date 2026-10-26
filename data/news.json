@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "37e298b5de27",
+   "title": "GTA VI Preload Time, Specs and Key Information",
+   "first_seen": "2026-10-26T23:31:14Z",
+   "updated": "2026-10-26T23:31:14Z",
+   "items": [
+    {
+     "id": "37e298b5de27",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Forbes",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "GTA VI Preload Time, Specs and Key Information",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWM3amsxRE11SGN1SzZGREc1cHZxSzZLdVI3NGJtdU5zU1dLQm1rZDY5OHAxOGdlQjR4XzVYai1ab2xXZS1JWm9hNUNUbjhLQmZUUmR5T0hPMDZsNFdqWE9UUWFVMVN2SWNkUTlXbjl2cW9qUi14TllwdTlZTndQOGJRSU5yOG1UTWI3MHJpamtWNWlNVnV5eE5LRnlQUkduTmJfZTkyRTI4Ym5UV0E?oc=5",
+     "ts": "2026-10-26T23:00:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "7553e2460fe8",
    "title": "You Can Install GTA VI Early — Here’s The Preload Window",
    "first_seen": "2026-10-26T23:10:50Z",
@@ -49599,11 +49627,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T23:20:51Z",
+  "last_run": "2026-10-26T23:31:14Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 94/100",
-   "gnews_ru: 40/51",
+   "gnews_ru: 36/43",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
