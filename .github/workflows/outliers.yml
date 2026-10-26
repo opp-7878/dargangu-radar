@@ -15,6 +15,10 @@ on:
         description: "Без поиска YouTube, только известные каналы"
         type: boolean
         default: false
+      mark_only:
+        description: "Служебное: отметить лучшие как отправленные, не отправляя"
+        type: boolean
+        default: false
       work:
         description: "Служебное: кнопка «В работу» (videoId:message_id) — вызывает webhook, руками не заполнять"
         type: string
@@ -37,7 +41,7 @@ jobs:
         if: ${{ !inputs.work }}
         run: python3 -m pip install -q --disable-pip-version-check yt-dlp
       - name: outliers
-        run: python3 outliers.py ${{ inputs.work && '--work' || '' }} ${{ inputs.dry && '--dry' || '' }} ${{ inputs.no_search && '--no-search' || '' }}
+        run: python3 outliers.py ${{ inputs.work && '--work' || '' }} ${{ inputs.dry && '--dry' || '' }} ${{ inputs.no_search && '--no-search' || '' }} ${{ inputs.mark_only && '--mark-only' || '' }}
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
@@ -48,7 +52,7 @@ jobs:
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
-          git add data/yt_channels.json data/yt_outliers.json data/work 2>/dev/null || true
+          for f in data/yt_channels.json data/yt_outliers.json data/work; do [ -e "$f" ] && git add -A "$f"; done
           if ! git diff --cached --quiet; then
             git commit -q -m "outliers $(date -u +%FT%TZ)"
             for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep $((i * 5)); done

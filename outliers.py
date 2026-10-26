@@ -234,6 +234,11 @@ def daily(dry):
     res, n_feeds = analyse(ch)
     log.append("каналов %d, лент %d, выбросов %d" % (len(ch), n_feeds, len(res)))
     top = pick(res, state["sent"])
+    if "--mark-only" in sys.argv:  # service: remember the picks as sent without sending (state recovery)
+        for o in top:
+            state["sent"][o["id"]] = dict(o, ai=None, msg_id=None, sent_at=radar.iso(radar.now()))
+            print("marked:", o["id"], o["score"], o["channel"], o["title"][:60])
+        top = []
     if top:
         radar.tg_send("📈 <b>YouTube-выбросы по GTA за %d дней</b>: %d всего, новых лучших — %d.\n"
                       "Под каждым — «🎬 В работу»: ролик попадёт в очередь FUMO." % (DAYS, len(res), len(top)), dry)
@@ -261,9 +266,14 @@ def work(dry):
     state = radar.load_json(STATE, {"sent": {}})
     o = state["sent"].get(vid)
     path = os.path.join(WORK, vid + ".json")
-    if not o:
-        radar.tg_send("Этот выброс уже удалён из базы (старше %d дней)." % KEEP_DAYS, dry, reply_to=mid)
-        return
+    if not o:  # not in state (older than KEEP_DAYS or state lost): take title/channel from YouTube oEmbed
+        try:
+            meta = json.loads(http("https://www.youtube.com/oembed?format=json&url=https://www.youtube.com/watch?v=" + vid))
+        except Exception:
+            meta = {}
+        o = {"id": vid, "title": meta.get("title", vid), "channel": meta.get("author_name", ""),
+             "url": "https://www.youtube.com/watch?v=" + vid, "lang": "", "format": "", "views": 0,
+             "baseline": 0, "score": 0, "ai": None}
     if not os.path.exists(path):
         os.makedirs(WORK, exist_ok=True)
         item = {k: o.get(k) for k in ("id", "title", "url", "channel", "lang", "format", "views", "baseline", "score", "ai")}
