@@ -1,6 +1,108 @@
 {
  "stories": [
   {
+   "id": "df8ba6c3d87a",
+   "title": "Grand Theft Auto VI debuts 'extended look': What to know",
+   "first_seen": "2026-10-26T11:31:18Z",
+   "updated": "2026-10-26T11:31:18Z",
+   "items": [
+    {
+     "id": "df8ba6c3d87a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ABC News - Breaking News, Latest News and Videos",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI debuts 'extended look': What to know",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVo1THd4XzhBWk1sTUFHRm1qV0hKUm1DYU1fUXlIZnI5aG9RbjV4WThMRHJUeURUalpRa180YUpYU01hRU1VeTJzR0lBM3EzVTgzY3lJV0g0Z21ySG5mTllaSWVSU25BVUxjdUx4STRXdjItTGxqUE1qejZsczRTdlFmVlZ0blnSAYwBQVVfeXFMTXpJX3FvcHBzMEtkRmVzUktPeTluYUFSM3JwUlpyM3NIeHlSUjlEREZ1TExETmpacU1YNThtVDd6cDBBNGc2ZDlPZlIteHBLd1VFRVN5SjJGQkNBd3RLV0N1ZUgxOG5lMmFUdEdjOEFTQ3BCZk0tbUd1bWV4azhFR004WjdEcGF4UUJ1eDQ?oc=5",
+     "ts": "2026-10-26T08:04:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "636f8dfcac4d",
+   "title": "Can GTA 6 Make You Cheat On Your Partner? Heres What Survey Reveals",
+   "first_seen": "2026-10-26T11:31:18Z",
+   "updated": "2026-10-26T11:31:18Z",
+   "items": [
+    {
+     "id": "636f8dfcac4d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ABP Live English",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Can GTA 6 Make You Cheat On Your Partner? Heres What Survey Reveals",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXZ6dVQzN25Mak0yRzBvZ2M4dEIxSW9ibUQ1d2dRLXJ1LWJvbEoyWmdsS2djX1F4Z0Y1Slg4ZmRPSzY3VjZVVkM4NlJGdlJJNmE4bWRwTlNtLXloRmJWeXZaUU8tazRaQ2o4RElqc29rb3oxS1lZTU9hc1pKc2FUUTZGVzRJVEh60gGIAUFVX3lxTE1xdnp1VDM3bkxqTTJHMG9nYzh0QjFJb2JtRDV3Z1EtcnUtYm9sSjJaZ2xLZ2NfUXhnRjVKWDhmZE9LNjdWNlVWQzg2UkZ2Ukk2YThtZHBOU20teWhGYlZ5dlpRTy1rNFpDajhESWpzb2tvejFLWVlNT2FzWkpzYVRRNkZXNElUSHo?oc=5",
+     "ts": "2026-10-26T10:39:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 заставляет изменять? Что показал опрос",
+    "summary": "По данным ABP Live English, опрос показал, что часть игроков считает GTA 6 причиной измен в отношениях. Rockstar это не комментировала.",
+    "idea": "Короткий опрос: «GTA 6 — повод для измен?» с реакциями и шуткой в конце. Зрителю интересно поспорить и проголосовать.",
+    "hook": "GTA 6 рушит отношения? Опрос показал неожиданные цифры — смотри.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T11:31:25Z"
+   },
+   "msg_id": 170
+  },
+  {
+   "id": "a0ddd40c813a",
+   "title": "The actor rumoured to be playing Lucia in GTA 6 actively ignored questions about it during an introductory livestream",
+   "first_seen": "2026-10-26T11:31:18Z",
+   "updated": "2026-10-26T11:31:18Z",
+   "items": [
+    {
+     "id": "a0ddd40c813a",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "The actor rumoured to be playing Lucia in GTA 6 actively ignored questions about it during an introductory livestream",
+     "url": "https://www.videogameschronicle.com/news/the-actor-rumoured-to-be-playing-lucia-in-gta-6-actively-ignored-questions-about-it-during-an-introductory-livestream/",
+     "ts": "2026-10-26T11:29:36Z",
+     "summary": "Manni L. Perez smiled and didn't read out comments about Rockstar's game"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "👀 Актриса Лусии в GTA 6 ушла от вопросов на стриме",
+    "summary": "По данным VGC, актриса Мани Л. Перес на вводном стриме улыбалась и не зачитывала комментарии о Rockstar и GTA 6. Она не подтвердила и не опровергла роль Лусии.",
+    "idea": "Короткая нарезка: стрим, вопрос про GTA 6 — пауза и улыбка. Зрителю интересно, потому что это живая реакция «без комментариев» от предполагаемой Лусии.",
+    "hook": "Она улыбнулась и промолчала. Это Лусия из GTA 6 или совпадение?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T11:31:22Z"
+   },
+   "msg_id": 169
+  },
+  {
    "id": "d997d58e798e",
    "title": "GTA 6 Actor Hosts First Instagram Live, Dodges Every Question About Lucia",
    "first_seen": "2026-10-26T11:23:11Z",
@@ -49224,49 +49326,23 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "0751c9cfa40e",
-   "title": "planning a little gta vi release day surprise for my bf! any ideas?",
-   "first_seen": "2026-10-19T11:30:58Z",
-   "updated": "2026-10-19T11:30:58Z",
-   "items": [
-    {
-     "id": "0751c9cfa40e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "planning a little gta vi release day surprise for my bf! any ideas?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1x9uau9/planning_a_little_gta_vi_release_day_surprise_for/",
-     "ts": "2026-10-19T11:26:58Z",
-     "summary": "so i’m in the process of planning a little surprise for my bf for gta vi release day, and i want to make the whole experience as fun as possible! we’ve both been waiting for this game for so long, and he’s the one who got me into gta in the first place, so i feel like it’s only right that i make his release day special lol. so far, i’ve ordered a V1 blanket i found on etsy so he can wrap himself up in it while he plays, which i thought was cute. i also got sprunk labels that i’m going to put over sprite bottles, and i’m planning on getting kfc and putting cluckin’ bell chicken labels over the "
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T11:23:21Z",
+  "last_run": "2026-10-26T11:31:25Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 81/86",
-   "gnews_ru: 27/55",
+   "gnews_en: 83/88",
+   "gnews_ru: 26/56",
    "gamesbeat: 0/10",
-   "vgc: 0/10",
+   "vgc: 1/10",
    "insider_gaming: 0/10",
    "ign: 1/20",
    "eurogamer: 0/100",
    "dexerto_gta: 0/50",
    "rockstarintel: 0/10",
-   "gtaboom: 10/30",
+   "gtaboom: 9/30",
    "reddit: 23/25",
    "tg_gtavistar: 5/13",
    "tg_gta6deluxe: 9/10",
