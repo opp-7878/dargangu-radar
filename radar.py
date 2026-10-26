@@ -41,9 +41,15 @@ MSK = dt.timezone(dt.timedelta(hours=3))
 KEEP_DAYS = 7          # сколько дней хранить истории
 MAX_AGE_H = 48         # записи старше — не берём
 CLUSTER_SIM = 0.34     # похожесть заголовков, чтобы считать одной историей
-ALERT_SCORE = 70       # порог жёлтой карточки
+MERGE_H = 24           # новая статья клеится только к истории, начатой не раньше 24 ч назад (иначе старые истории «съедают» новые)
+ALERT_SCORE = 70       # порог жёлтой карточки, если GigaChat не ответил
+CANDIDATE_SCORE = 55   # порог кандидата: дальше решает оценка GigaChat ★1–5
+SEND_STARS = 3         # карточкой сразу — от ★3, слабее — только в дайджест
+FRESH_H = 3            # карточкой — только если первой статье не больше 3 ч (решение пользователя 2026-10-26)
+OFFICIAL_FRESH_H = 12  # официальное от Rockstar — до 12 ч
 QUIET = None          # тихие часы МСК, например (0, 8): жёлтые карточки ждут утра. None = присылать и ночью
-DIGEST_HOUR = 21       # дайджест в 21:00 МСК
+DIGEST_HOURS = (9, 21)  # дайджест утром и вечером, МСК
+DEAL_RE = re.compile(r"save \$|\$\d+ off|\d+% off|up to \$\d|\bdeals?\b\s*[:|]|^deals?\b|\bdeals? on\b|best .{0,30}deals?|discount|coupon|gift card|refurbished|lowest price|cheapest|grab this|under \$\d+|скидк|распродаж|промокод|дешевле всего", re.I)
 URGENT_TAGS = {"дата/перенос", "ПК", "трейлер", "цена/издания", "размер/preload"}  # с ними важная новость = срочная
 URGENT_SCORE = 85      # порог срочной новости (официальное — срочно всегда)
 
@@ -214,7 +220,7 @@ def hot_tags(text):
 def level_of(story):
     groups = {i["group"] for i in story["items"]}
     strong = {i["outlet"] or i["src"] for i in story["items"] if i["group"] in ("media", "insider") and i["weight"] >= 60}
-    media = {i["outlet"] or i["src"] for i in story["items"] if i["group"] in ("media", "media_ru", "insider", "fansite")}
+    media = {i["outlet"] or i["src"] for i in story["items"] if i["group"] in ("media", "media_ru", "insider", "fansite", "telegram_ru", "telegram_en")}
     if "official" in groups:
         return "CONFIRMED"
     leak = sum(1 for i in story["items"] if re.search(HOT["слив"], i["title"], re.I))
@@ -253,6 +259,8 @@ def collect(cfg, log):
                 continue
             if len(tokens(it["title"])) < 2:  # пустые и служебные заголовки
                 continue
+            if src["group"] != "official" and DEAL_RE.search(it["title"]):  # скидки на мониторы, PS5, карты — не новости
+                continue
             ts = it["ts"] or now()
             if now() - ts > dt.timedelta(hours=MAX_AGE_H):
                 continue
@@ -282,7 +290,7 @@ def merge(db, items):
         seen.add(it["id"])
         best, best_sim = None, 0.0
         for s in db["stories"]:
-            if now() - parse_iso(s["updated"]) > dt.timedelta(hours=MAX_AGE_H):
+            if now() - parse_iso(s["first_seen"]) > dt.timedelta(hours=MERGE_H):
                 continue
             sim = max(similar(it["title"], x["title"]) for x in s["items"])
             if sim > best_sim:
@@ -377,7 +385,12 @@ def enrich(s):
             '"summary": суть в 2–3 предложениях по-русски, только факты из источников, кто сообщил;\n'
             '"idea": идея для Shorts на 30–40 секунд: угол и почему зрителю интересно, 1–2 предложения;\n'
             '"hook": первая фраза ролика, до 12 слов;\n'
-            '"stars": 1, 2 или 3 — насколько это хорошая тема для ролика прямо сейчас.') % (
+            '"stars": число от 1 до 5 — насколько это хорошая тема для развлекательного ролика о GTA 6 прямо сейчас: '
+            '5 — официальное или очень горячее (трейлер, дата, цена, ПК, громкий слив), полезно зрителю, есть что показать; '
+            '4 — горячий слух или яркая история, о которой будут спорить в комментариях; '
+            '3 — нормальная тема на день: забавный случай, реклама, фанаты, интервью; '
+            '2 — слабая или повтор уже известного; '
+            '1 — не новость: реклама товара, скидка, мнение без фактов.') % (
         s["level"], ", ".join(s["tags"]) or "—", len(s["items"]), "\n".join(src))
     allowed = set(re.findall(r"\d+", user + system))
     try:
@@ -399,7 +412,8 @@ def enrich(s):
         else:
             raise ValueError("выдуманные числа: " + ", ".join(extra))
         ai = {k: ai[k] for k in AI_FIELDS}
-        ai["stars"] = max(1, min(3, int(ai["stars"]))) if str(ai["stars"]).isdigit() else 1
+        ai["stars"] = max(1, min(5, int(ai["stars"]))) if str(ai["stars"]).isdigit() else 1
+        ai["scale"] = 5
         ai.update(model=model, at=iso(now()))
         s["ai"] = ai
         return ai
@@ -518,6 +532,11 @@ def ago(ts):
     return "%d мин назад" % m if m < 60 else "%d ч назад" % (m // 60)
 
 
+def age_h(s):
+    """Сколько часов прошло с первой статьи истории."""
+    return (now() - min(parse_iso(i["ts"]) for i in s["items"])).total_seconds() / 3600
+
+
 def card(s, head):
     ai = s.get("ai")
     outlets = []
@@ -535,7 +554,8 @@ def card(s, head):
         return "%s\n<b>%s</b>\n\n%s" % (head, html.escape(s["title"]), meta)
     e = lambda x: html.escape(str(x))
     return "%s\n<b>%s</b>\n\n%s\n\n💡 <b>Ролик</b> %s: %s\n🎬 Хук: «%s»\n\n%s" % (
-        head, e(ai["title_ru"]), e(ai["summary"]), "⭐" * ai["stars"], e(ai["idea"]), e(ai["hook"]), meta)
+        head, e(ai["title_ru"]), e(ai["summary"]), "⭐" * ai["stars"] + ("☆" * (5 - ai["stars"]) if ai.get("scale") == 5 else ""),
+        e(ai["idea"]), e(ai["hook"]), meta)
 
 
 def buttons(s):
@@ -650,7 +670,8 @@ def alerts(db, touched, dry, bootstrap):
     if bootstrap:
         for s in db["stories"]:
             s["alerted"] = s["alerted"] or "bootstrap"
-        tg_send("📡 <b>Радар DargaNGU запущен.</b>\nВ базе %d историй за последние 48 ч. Дальше пришлю только новое: 🔴 официальное и ⚡ срочное — сразу с коротким постом, 🟡 важное — с кнопками постов, дайджест — в %d:00 МСК." % (len(db["stories"]), DIGEST_HOUR), dry)
+        tg_send("📡 <b>Радар DargaNGU запущен.</b>\nВ базе %d историй за последние 48 ч. Дальше пришлю только новое: 🔴 официальное и ⚡ срочное — сразу с коротким постом, 🟡 важное (★3+, не старше %d ч) — с кнопками постов, дайджест — в %s МСК." % (
+            len(db["stories"]), FRESH_H, " и ".join("%d:00" % h for h in DIGEST_HOURS)), dry)
         return 0
     recent = [s for s in db["stories"] if s.get("alerted") in ("red", "yellow")
               and now() - parse_iso(s["updated"]) < dt.timedelta(hours=24)]
@@ -659,38 +680,57 @@ def alerts(db, touched, dry, bootstrap):
         mine = tokens(s["title"])
         return any(r["id"] != s["id"] and mine & tokens(r["title"]) and set(r["tags"]) & set(s["tags"]) for r in recent)
 
+    def worth(s):
+        """Решает GigaChat (★1–5). Если он не ответил — старое правило по важности."""
+        ai = enrich(s)
+        if ai and ai.get("scale") == 5:
+            return ai["stars"] >= SEND_STARS or urgent(s)
+        return s["score"] >= ALERT_SCORE + 10 or (s["score"] >= ALERT_SCORE and bool(s["tags"]))
+
     queue = touched + [s for s in db["stories"] if s.get("alerted") == "queued"]
     for s in sorted({x["id"]: x for x in queue}.values(), key=lambda x: -x["score"]):
         alertable = any(i["alert"] for i in s["items"])
         if not alertable:
             continue
-        if s["level"] == "CONFIRMED" and s["alerted"] in ("", "queued", "yellow"):
-            if send_story(s, "🔴 <b>ОФИЦИАЛЬНО</b>", dry):
+        age = age_h(s)
+        if s["level"] == "CONFIRMED" and s["alerted"] in ("", "queued", "yellow", "late", "low"):
+            if age > OFFICIAL_FRESH_H:
+                s["alerted"] = "late"
+            elif send_story(s, "🔴 <b>ОФИЦИАЛЬНО</b>", dry):
                 s["alerted"], sent = "red", sent + 1
-        elif (s["score"] >= ALERT_SCORE + 10 or (s["score"] >= ALERT_SCORE and s["tags"])) and s["alerted"] in ("", "queued"):
-            if dup(s):
+        elif s["score"] >= CANDIDATE_SCORE and s["alerted"] in ("", "queued"):
+            if age > FRESH_H:
+                s["alerted"] = "late"  # новость уже не свежая — только в дайджест
+            elif dup(s):
                 s["alerted"] = "dup"
             elif quiet and not urgent(s):
                 s["alerted"] = "queued"
+            elif not worth(s):
+                s["alerted"] = "low" if s.get("ai") else ""  # без оценки GigaChat попробуем на следующем запуске
             elif send_story(s, "⚡ <b>СРОЧНО</b>" if urgent(s) else "🟡 <b>Новость</b>", dry):
                 s["alerted"], sent = "yellow", sent + 1
                 recent.append(s)
-        elif s["alerted"] == "yellow" and s["level"] == "HIGH CONFIDENCE" and not s.get("upgraded"):
+        elif s["alerted"] == "yellow" and s["level"] == "HIGH CONFIDENCE" and not s.get("upgraded") and age <= OFFICIAL_FRESH_H:
             if tg_send(card(s, "⬆️ <b>Подтверждают уже 3+ СМИ</b>"), dry, markup=buttons(s)):
                 s["upgraded"], sent = True, sent + 1
     return sent
 
 
 def digest(db, dry):
-    since = now() - dt.timedelta(hours=24)
-    day = [s for s in db["stories"] if parse_iso(s["updated"]) >= since]
-    top = sorted(day, key=lambda s: -s["score"])[:7]
+    """Утром и вечером: то, что не пришло карточками (опоздавшее, слабее ★3), плюс отметка о уже присланном."""
+    since = now() - dt.timedelta(hours=12)
+    day = [s for s in db["stories"] if parse_iso(s["updated"]) >= since and s.get("alerted") not in ("bootstrap", "dup")]
+    top = sorted(day, key=lambda s: (s.get("alerted") in ("yellow", "red"), -s["score"]))[:7]  # сначала то, что ты ещё не видел
     if not top:
-        return tg_send("🗞 За сутки по GTA 6 ничего важного.", dry)
-    lines = ["🗞 <b>Дайджест GTA 6 за сутки</b> (%d историй, топ-%d)\n" % (len(day), len(top))]
+        return tg_send("🗞 За 12 часов по GTA 6 ничего важного.", dry)
+    mark = {"late": "🔁 поздно", "low": "▫️ слабее ★3", "yellow": "✅ было карточкой", "red": "✅ было карточкой"}
+    lines = ["🗞 <b>Дайджест GTA 6 за 12 часов</b> (%d историй, топ-%d)\n" % (len(day), len(top))]
     for n, s in enumerate(top, 1):
         u = max(s["items"], key=lambda i: i["weight"])["url"]
-        lines.append('%d. <a href="%s">%s</a>\n   %s · %d' % (n, html.escape(u, True), html.escape((s.get("ai") or {}).get("title_ru") or s["title"]), LEVEL_RU.get(s["level"], ""), s["score"]))
+        stars = (s.get("ai") or {}).get("stars") if (s.get("ai") or {}).get("scale") == 5 else None
+        lines.append('%d. <a href="%s">%s</a>\n   %s · %d%s%s' % (n, html.escape(u, True), html.escape((s.get("ai") or {}).get("title_ru") or s["title"]),
+                     LEVEL_RU.get(s["level"], ""), s["score"], (" · ★%d" % stars) if stars else "",
+                     (" · " + mark[s["alerted"]]) if s.get("alerted") in mark else ""))
     lines.append("\nВзять в работу: напиши Claude «радар: &lt;номер или тема&gt;».")
     return tg_send("\n".join(lines), dry)
 
@@ -820,10 +860,10 @@ def main():
     touched = merge(db, collect(cfg, log))
     sent = alerts(db, touched, dry, bootstrap)
     msk = now().astimezone(MSK)
-    today = msk.strftime("%Y-%m-%d")
-    if "--digest" in args or (msk.hour == DIGEST_HOUR and db["meta"].get("digest") != today and not bootstrap):
+    slot = msk.strftime("%Y-%m-%d") + "@%d" % msk.hour
+    if "--digest" in args or (msk.hour in DIGEST_HOURS and db["meta"].get("digest") != slot and not bootstrap):
         if digest(db, dry):
-            db["meta"]["digest"] = today
+            db["meta"]["digest"] = slot
     prune(db)
     db["meta"].update(started=db["meta"].get("started") or iso(now()), last_run=iso(now()), last_log=log)
     db["stories"].sort(key=lambda s: s["updated"], reverse=True)

@@ -128,8 +128,35 @@
    "name": "TG @GTAVIStar",
    "kind": "telegram",
    "url": "https://t.me/s/GTAVIStar",
-   "weight": 35,
+   "weight": 45,
    "group": "telegram_ru",
+   "filter": false
+  },
+  {
+   "id": "tg_gta6deluxe",
+   "name": "TG @gta6deluxe",
+   "kind": "telegram",
+   "url": "https://t.me/s/gta6deluxe",
+   "weight": 55,
+   "group": "telegram_ru",
+   "filter": false
+  },
+  {
+   "id": "tg_gta6_m",
+   "name": "TG @GTA6_m",
+   "kind": "telegram",
+   "url": "https://t.me/s/GTA6_m",
+   "weight": 50,
+   "group": "telegram_ru",
+   "filter": false
+  },
+  {
+   "id": "tg_gta6newsdaily",
+   "name": "TG @gta6newsdaily",
+   "kind": "telegram",
+   "url": "https://t.me/s/gta6newsdaily",
+   "weight": 45,
+   "group": "telegram_en",
    "filter": false
   }
  ],
