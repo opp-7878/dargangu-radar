@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "0296bdf4bf42",
+   "title": "How the release of GTA VI is rewriting the playbook for gaming retail and marketing",
+   "first_seen": "2026-10-26T12:11:07Z",
+   "updated": "2026-10-26T12:11:07Z",
+   "items": [
+    {
+     "id": "0296bdf4bf42",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesBeat",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "How the release of GTA VI is rewriting the playbook for gaming retail and marketing",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1FNbk01YTM4d3o4eFhLX3JVME1JZUp4STBhclBUblBoRWlSUDB1NWZUcEpGVFFKWENHd2hMSm44ZGg5WE55WGNwYW1oLUV0SjBXMTEyckdJM1huR01WY2s3b2hwVnV4YXVrWTFNSFFwX1RCVXlzZHRNbVlZZ1pobXVybHRDSy1GdGk2MTlsZmR3ZjNRbXJrb0RtTEw1b2xOZnI0eGlnOEN1UQ?oc=5",
+     "ts": "2026-10-26T12:00:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 меняет правила: что пишет GamesBeat о ритейле и маркетинге",
+    "summary": "По данным GamesBeat, выход GTA 6 меняет правила ритейла и маркетинга в играх. Издание описывает новые подходы магазинов и издателей к запуску, не раскрывая деталей. Официально Rockstar это не комментировала.",
+    "idea": "Угол: как GTA 6 меняет запуск игр для магазинов и игроков. Зрителю интересно, потому что это влияет на предзаказы, бонусы и доступность в день релиза.",
+    "hook": "GTA 6 ломает привычные правила запуска — вот что это значит для тебя.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T12:11:12Z"
+   },
+   "msg_id": 174
+  },
+  {
    "id": "21743674dab6",
    "title": "Возможная исполнительница главной роли в GTA 6 провела трансляцию в соцсетях",
    "first_seen": "2026-10-26T10:50:58Z",
@@ -49410,41 +49447,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "8ca12d32690a",
-   "title": "Эксперты выделили пять классических автомобилей из GTA VI",
-   "first_seen": "2026-10-19T12:10:48Z",
-   "updated": "2026-10-19T12:10:48Z",
-   "items": [
-    {
-     "id": "8ca12d32690a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "autopilot.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Эксперты выделили пять классических автомобилей из GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HYUdOUXJVenVJWG1kMVlRY1pxUGtOMm5MQzlfSWtnWHlvaWJWX1VJS3dSZWRjcHk0VjNpamZENGVJdDM2SHNvLVdlbUQ?oc=5",
-     "ts": "2026-10-19T12:02:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T12:02:03Z",
+  "last_run": "2026-10-26T12:11:12Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 77/81",
-   "gnews_ru: 27/57",
+   "gnews_en: 85/89",
+   "gnews_ru: 26/56",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
