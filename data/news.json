@@ -1,6 +1,35 @@
 {
  "stories": [
   {
+   "id": "2c8eb86b93b9",
+   "title": "Insider reassures those fearing a GTA VI delay — he confirmed the distribution of keys and the review publication date",
+   "first_seen": "2026-10-26T20:40:49Z",
+   "updated": "2026-10-26T20:40:49Z",
+   "items": [
+    {
+     "id": "2c8eb86b93b9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iXBT.games",
+     "group": "media",
+     "weight": 45,
+     "alert": true,
+     "title": "Insider reassures those fearing a GTA VI delay — he confirmed the distribution of keys and the review publication date",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPb2Fjc3VqV29TQjRVUEIwZF9xR25kNHVQZTBUUGF6UjBqR2hOTGNDZEtSRGdhTC1velhVS1J3ZzNsaVVpbEFZVnZxY04xR3diMmhBQ2tuRUdXb0hONy1PMHU5ZjluRlRUa1RaMjFSUFp6cmpIdzZ5SjZOaWo2NVJRMl9wZkctY0NsdV9nYnpJejJpNDBZdnRpcEYxR1lpQ0VwaUxwNVZSWmhZWHIyYjVRQzJNUFQ3ZnZWZC05WnE2aGxXbUZ0Tkk3WUEtZko5QzZlZWNhcko4WmJ4eWx1UlNoMGZBdS1DWTjSAewBQVVfeXFMT2kwQlRaSTlyRFhlM3lRbzJGU2s1OTJSNWNPTGp2MURNV2lfak82Ty10OURFWVVQdm1aZU1ORVczOEZMYlNQUGdJSWJhc000Q1A4cHZ6cms0ak5DZTN5dzllbW5QdGlncHVFLUFfWm1JMnpPSEJ0alhXRk9Oa2dHS2ZtX0N2TlQ3VEg3NDFGdFpDRy1Ia09CV3NCNERyRnZEQUcxOUNSSUJqWEtEZjFnUlFqT0JRb055YURYVENHRDVlbnVGenJoUDdvWlJ1QVAyTndFZlEtUV9uNm5UYS16VkgtQjNRLVY2OWN5SWs?oc=5",
+     "ts": "2026-10-26T20:20:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "дата/перенос"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "d997d58e798e",
    "title": "GTA 6 Actor Hosts First Instagram Live, Dodges Every Question About Lucia",
    "first_seen": "2026-10-26T11:23:11Z",
@@ -49741,39 +49770,13 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "466812c66c8b",
-   "title": "Not even Rockstar heads know everything that's in GTA 6 because devs will just add stuff – which is also how Red Dead Redemption 2 got its absurd horse testicle physics",
-   "first_seen": "2026-10-19T20:40:49Z",
-   "updated": "2026-10-19T20:40:49Z",
-   "items": [
-    {
-     "id": "466812c66c8b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesRadar+",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Not even Rockstar heads know everything that's in GTA 6 because devs will just add stuff – which is also how Red Dead Redemption 2 got its absurd horse testicle physics",
-     "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPeGE2UEJEMC02ZmZ0V3N6a2Z2aDJvME9pc2NMbTlVTldhRnZxZXR2ZFcyTTBjRDVKZUh4YVFZVmExNm9LM21kQ3dCMFo0M0JRQ2pNekdBRFIweXR6X3B1dnhtbnNBWXdLZDJqdGZkWDdkSm85RjlmMVplY2FBS3NDWlByQm5kRE4wWU1sQ3h6REZQZHVGcG9STUw0b08wMXNnS1NtUV9kckJKOTVMekRXcmtTbldlMnRvX2tQS2NpclhTY2h1aUo3eEg2NURBbUNnQ0IxZi1lOXZ4M0l2YWxOQzhCZ19rNENhbjVKTU9Yek9Md01aU1kyZGlia1ZNNXY2YWRlQU9GU1FMQl9MTTV1UDV5Q2NiMHJ4YzRDWWJtcUlVTkhhcTBEU05UWHZ5RnlFbVk1OHJLMUFGUnNH?oc=5",
-     "ts": "2026-10-19T20:31:40Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T20:31:12Z",
+  "last_run": "2026-10-26T20:40:49Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/2",
    "gnews_en: 96/100",
    "gnews_ru: 37/49",
    "gamesbeat: 1/10",
