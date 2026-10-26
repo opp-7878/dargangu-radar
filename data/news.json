@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "fc1859c39b9f",
+   "title": "Regarding pre ordering on xbox, using Microsoft account?",
+   "first_seen": "2026-10-26T00:01:12Z",
+   "updated": "2026-10-26T00:01:12Z",
+   "items": [
+    {
+     "id": "fc1859c39b9f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Regarding pre ordering on xbox, using Microsoft account?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xfhsoe/regarding_pre_ordering_on_xbox_using_microsoft/",
+     "ts": "2026-10-26T00:00:15Z",
+     "summary": "Soo, I just pre ordered this on my xbox series x, fully using Microsoft account money cause saved up. But when I checked my order on the Microsoft account page, it listed both my card and my Microsoft account as the methods used, basically. Am I gonna have to pay with my actual card either way? Or does it just not charge until a few days before even if you use your Microsoft account money? Sorry if this is dumb. submitted by /u/Better-Dig-7775 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "01cecfcb6354",
    "title": "Peekhole QR code is scannable",
    "first_seen": "2026-10-25T23:40:47Z",
@@ -48099,41 +48125,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f18787914caa",
-   "title": "Jason Shreier's sentiment on GTA6 Realism",
-   "first_seen": "2026-10-18T23:50:48Z",
-   "updated": "2026-10-18T23:50:48Z",
-   "items": [
-    {
-     "id": "f18787914caa",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Jason Shreier's sentiment on GTA6 Realism",
-     "url": "https://www.reddit.com/r/GTA6/comments/1x9gtzd/jason_shreiers_sentiment_on_gta6_realism/",
-     "ts": "2026-10-18T22:52:42Z",
-     "summary": "In his most recent video discussing GTA 6, Jason Schreier expressed some concerns about just how realistic the game looks. He wondered how he'd feel knowing that a huge part of the GTA experience involves killing and shooting people in the face. Do you guys think the realism will affect the way you play? Will you think twice before doing things you wouldn't have hesitated to do in previous GTA games, or do you think it'll feel like any other GTA once you get used to the graphics? submitted by /u/JamaicanX to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-25T23:50:46Z",
+  "last_run": "2026-10-26T00:01:12Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 59/62",
-   "gnews_ru: 21/61",
+   "gnews_ru: 21/59",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
