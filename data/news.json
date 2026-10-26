@@ -1,6 +1,125 @@
 {
  "stories": [
   {
+   "id": "ca9db14559a4",
+   "title": "Оценки GTA 6 могут появиться за день до релиза — 18 ноября",
+   "first_seen": "2026-10-26T17:01:19Z",
+   "updated": "2026-10-26T17:01:19Z",
+   "items": [
+    {
+     "id": "ca9db14559a4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Оценки GTA 6 могут появиться за день до релиза — 18 ноября",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnFIQ0lMVjFodURpTGw4YUUtTUpzVzQtYzJ1QnRNR0JOWmU5RENyN2RwRXBsOVhUcFpDWXZQV1BkRlhnZVFhclZYdVRYOUo2dTRyMFBOQjI3MW13M09nTkVJX1c3RDhyVkh3TXZkNjFJejdIZnIxMEtoWnlKcjRFT1ZiSThnbWpXYTBlQmJsSEg5aDRtZUhwLUJNaEVYQnVVVmhtNGh2LXNSZ19CcmI0MjhZaU54MnpDbE1TWUNPOUtQU0J3eWdyblhQMF90dw?oc=5",
+     "ts": "2026-10-26T16:54:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4c6f4faf0017",
+   "title": "Grand Theft Auto 6 Review Embargo Date Details",
+   "first_seen": "2026-10-26T17:01:19Z",
+   "updated": "2026-10-26T17:01:19Z",
+   "items": [
+    {
+     "id": "4c6f4faf0017",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Grand Theft Auto 6 Review Embargo Date Details",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCWHVkcV81al8tNTY0b0xoNmFvVU1Va2lDS2hfTnVjRl9aclNfY1JqUEprTWpwRGxSUm5SdHZ6NVE1a2hDX0s0NFJKY0NwejRubzhYbi1RUU41aFVqR2ViZFl5UXMtTkZLNUd6T2dR?oc=5",
+     "ts": "2026-10-26T16:54:31Z",
+     "summary": ""
+    },
+    {
+     "id": "b82b2bca1a1a",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Grand Theft Auto 6 Review Embargo Date Details",
+     "url": "https://insider-gaming.com/grand-theft-auto-6-review-embargo/",
+     "ts": "2026-10-26T16:54:31Z",
+     "summary": "One of the most important dates in gaming history has been revealed: We know when the GTA 6 review embargo is. The post Grand Theft Auto 6 Review Embargo Date Details appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 88,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Известна дата эмбарго на обзоры GTA 6",
+    "summary": "По информации Insider Gaming, известна дата эмбарго на обзоры GTA 6. Издание ссылается на инсайдера Тома Хендерсона. Официально Rockstar это пока не подтверждала.",
+    "idea": "Считаем дни от даты эмбарго до релиза и прикидываем, когда ждать геймплей. Зрителю важно понять, когда появятся первые честные обзоры.",
+    "hook": "Дата эмбарго на обзоры GTA 6 уже известна — вот что это значит.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T17:01:24Z"
+   },
+   "msg_id": 181
+  },
+  {
+   "id": "2eb8a00bd319",
+   "title": "GTA 6 Has Just Been Sent Out Early To Reviewers",
+   "first_seen": "2026-10-26T17:01:19Z",
+   "updated": "2026-10-26T17:01:19Z",
+   "items": [
+    {
+     "id": "2eb8a00bd319",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA 6 Has Just Been Sent Out Early To Reviewers",
+     "url": "https://rockstarintel.com/gta-6-has-just-been-sent-out-early-to-reviewers/",
+     "ts": "2026-10-26T16:55:57Z",
+     "summary": "A highly reputable leaker has just revealed information regarding GTA 6 reviews. We now know when reviewers will be getting the game plus what day reviews will go live. There has been a lot of speculation regarding the review period of GTA 6. We’ve seen quite a few gamers online think that there will be [...] The post GTA 6 Has Just Been Sent Out Early To Reviewers appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [
+    "Online",
+    "анонс",
+    "слив"
+   ],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 ушла к рецензентам: когда ждать обзоры",
+    "summary": "По данным известного сливщика, копии GTA 6 уже разослали рецензентам. Обзоры игры появятся в день релиза — 19 ноября 2026.",
+    "idea": "Угол: «обзоры в день релиза — это нормально?» Коротко объясняем, почему Rockstar так делает, и когда ждать первые оценки.",
+    "hook": "Копии GTA 6 уже у рецензентов — и это значит, что обзоры выйдут в день релиза.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T17:01:27Z"
+   },
+   "msg_id": 182
+  },
+  {
    "id": "58ac22abdfd7",
    "title": "GTA VI Last Thing You Need | Morgan Wallen",
    "first_seen": "2026-10-26T16:50:53Z",
@@ -48936,130 +49055,22 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b089e9915aea",
-   "title": "Weazel News!",
-   "first_seen": "2026-10-19T17:01:22Z",
-   "updated": "2026-10-19T17:01:22Z",
-   "items": [
-    {
-     "id": "b089e9915aea",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Weazel News!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xa21yl/weazel_news/",
-     "ts": "2026-10-19T16:46:59Z",
-     "summary": "submitted by /u/KuntaWuKnicks to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e81db1883a1a",
-   "title": "GTA 6 Nightclub promoted in Miami",
-   "first_seen": "2026-10-19T17:01:22Z",
-   "updated": "2026-10-19T17:01:22Z",
-   "items": [
-    {
-     "id": "e81db1883a1a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 Nightclub promoted in Miami",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xa243w/gta_6_nightclub_promoted_in_miami/",
-     "ts": "2026-10-19T16:49:13Z",
-     "summary": "Credit: Joel Franco This is really cool man!! submitted by /u/Weird-Judge-4578 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e8349715be05",
-   "title": "Anyone else extremely excited for the upcoming game, but was absolutely careless about it a few days ago?",
-   "first_seen": "2026-10-19T17:01:22Z",
-   "updated": "2026-10-19T17:01:22Z",
-   "items": [
-    {
-     "id": "e8349715be05",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Anyone else extremely excited for the upcoming game, but was absolutely careless about it a few days ago?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xa29si/anyone_else_extremely_excited_for_the_upcoming/",
-     "ts": "2026-10-19T16:55:14Z",
-     "summary": "Because the one and only GTA game I've ever played was Vice City, and back then, in 2003 it was just about stealing cars and mass-murdering NPCs. Or at least that's what 12 yo me was feeling about it. Launch the game for an hour or so to have some fun, story was just... there, absolutely irrelevant. And then an immense world of RPG and TBS devoured me completely, leaving no room for such games like GTA, CS, etc. So this (probably stereotype) definition of GTA was still with me: stealing cars, killing NPCs, making chaos. And now I made a mistake and watched GTA IV release trailer (I was complet"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "68230e60f93f",
-   "title": "GTA 6 Display WIP",
-   "first_seen": "2026-10-19T17:01:22Z",
-   "updated": "2026-10-19T17:01:22Z",
-   "items": [
-    {
-     "id": "68230e60f93f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 Display WIP",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xa2ahi/gta_6_display_wip/",
-     "ts": "2026-10-19T16:55:57Z",
-     "summary": "I’m not entirely sure how I’ll display all of this yet, I’ve also got the limited edition vinyl coming so looking forward to receiving that. I hope everyone is enjoying their merch, this is my mock up with what I’ve got so far. submitted by /u/CDaCosta97 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T16:50:58Z",
+  "last_run": "2026-10-26T17:01:27Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 97/100",
-   "gnews_ru: 31/56",
+   "gnews_ru: 31/54",
    "gamesbeat: 1/10",
    "vgc: 1/10",
-   "insider_gaming: 1/10",
+   "insider_gaming: 2/10",
    "ign: 1/20",
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
-   "rockstarintel: 0/10",
+   "rockstarintel: 1/10",
    "gtaboom: 9/30",
    "reddit: 24/25",
    "tg_gtavistar: 5/13",
