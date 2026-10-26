@@ -1,6 +1,85 @@
 {
  "stories": [
   {
+   "id": "c24b08f820d8",
+   "title": "October 29 Marks the Next Official News Update for GTA 6",
+   "first_seen": "2026-10-26T10:10:53Z",
+   "updated": "2026-10-26T12:21:10Z",
+   "items": [
+    {
+     "id": "c24b08f820d8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "October 29 Marks the Next Official News Update for GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4aHNBQ2o3YkZlUzRGUW83aTVybkIwNzlFVHBqZ0k1M283SHkxbm4yeHhnMExPaGxyNmFhT01QRktNbVVXRWJzekJUNHM0Vzk2NGJOY1RNdTlpald0MkVlalJUMHpFb1pOUVc1UU1IaVF3Ym5J?oc=5",
+     "ts": "2026-10-26T10:03:16Z",
+     "summary": ""
+    },
+    {
+     "id": "c7a46b722bc2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "October 29 Marks the Next Official News Update for GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUd6Ty1Gd3dmcUhBbFAtazBld2NpS096YWJMV1FwX3lyNFUyYlRwc2JacDZvRVJFei1OYmxEYXFPSS1WcmZWZWlCaHNvUWdUNzdBbVhFSHdtM01YTVpJYzZQOTB6U1J2M2hBSF9oTXo3c0VJSVMtUS1lbHVuYkpNejQ5MFMxRjM3Z2RIT0dXMm1OTS1U?oc=5",
+     "ts": "2026-10-26T10:07:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️GTA 6: следующая новость от Rockstar 29 октября",
+    "summary": "По данным GameRant и OpenCritic, следующий официальный апдейт по GTA 6 ожидается 29 октября. Это не слух, а анонс даты от профильных изданий. Ждём подробности от Rockstar в конце недели.",
+    "idea": "Короткий обратный отсчёт до 29 октября с таймером и кадрами GTA 6 — зрителю важно знать точную дату и не пропустить апдейт.",
+    "hook": "29 октября — следующая официальная новость по GTA 6. Ставь таймер.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T12:21:13Z"
+   },
+   "msg_id": 175
+  },
+  {
+   "id": "6f62fbb352f1",
+   "title": "Has rockstar said anything about cross progression?",
+   "first_seen": "2026-10-26T12:21:10Z",
+   "updated": "2026-10-26T12:21:10Z",
+   "items": [
+    {
+     "id": "6f62fbb352f1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Has rockstar said anything about cross progression?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xfuhqq/has_rockstar_said_anything_about_cross_progression/",
+     "ts": "2026-10-26T11:43:46Z",
+     "summary": "I'll be pissed if I lose my preorder bonus once I switch to PC because I was already stupid enough to get a PS5 for this game and preorder the game, but preordering again is just stupid. Forgive the questionable quality of the image edit. submitted by /u/SeteMan1235 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "ПК",
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "0296bdf4bf42",
    "title": "How the release of GTA VI is rewriting the playbook for gaming retail and marketing",
    "first_seen": "2026-10-26T12:11:07Z",
@@ -840,32 +919,6 @@
    ],
    "tags": [],
    "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c24b08f820d8",
-   "title": "October 29 Marks the Next Official News Update for GTA 6",
-   "first_seen": "2026-10-26T10:10:53Z",
-   "updated": "2026-10-26T10:10:53Z",
-   "items": [
-    {
-     "id": "c24b08f820d8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameRant",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "October 29 Marks the Next Official News Update for GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4aHNBQ2o3YkZlUzRGUW83aTVybkIwNzlFVHBqZ0k1M283SHkxbm4yeHhnMExPaGxyNmFhT01QRktNbVVXRWJzekJUNHM0Vzk2NGJOY1RNdTlpald0MkVlalJUMHpFb1pOUVc1UU1IaVF3Ym5J?oc=5",
-     "ts": "2026-10-26T10:03:16Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -49421,41 +49474,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c38c1df5cd91",
-   "title": "Rockstar accused of hiring 'snitches' to spy on unionized GTA VI developers",
-   "first_seen": "2026-10-19T12:20:46Z",
-   "updated": "2026-10-19T12:20:46Z",
-   "items": [
-    {
-     "id": "c38c1df5cd91",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "iXBT.games",
-     "group": "media",
-     "weight": 45,
-     "alert": true,
-     "title": "Rockstar accused of hiring 'snitches' to spy on unionized GTA VI developers",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFlTYzlGNVBpUklWWm13ZGlGNzBZMVUwTURVQV8ySFB0UUp0LUw4ek44UGVMNnFLS3lGRnBhS1RRUXl0S2FiNE9LeWdlZ1dSZGtfWEhHdzJ2TzQ3ZzRocFlsLWsyVXVLVWFLTi1fZmx0VlM3WHZlTlNYV21tZ2VwenlkMU5FdHZRTC10cG0wd0dFU19nYnZocTFRRlR5cy1SMVNnUTc5LXpoU1BkeEdDcndnNkZfbFdPUjlYSTVqdUlXa3BwdVFiaHFPY1ZOcDJ4U1o3LQ?oc=5",
-     "ts": "2026-10-19T10:50:06Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T12:11:12Z",
+  "last_run": "2026-10-26T12:21:14Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 85/89",
-   "gnews_ru: 26/56",
+   "gnews_en: 86/90",
+   "gnews_ru: 26/55",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
