@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "c947c4ec8fc1",
+   "title": "AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release",
+   "first_seen": "2026-10-26T21:40:58Z",
+   "updated": "2026-10-26T21:40:58Z",
+   "items": [
+    {
+     "id": "c947c4ec8fc1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Kotaku",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGQ4QlQ2SFAyTmZZOWFxNTVLU1pERmQ2SHh4b25BbHQ0LWRLUWFGWGdieldFOVZrdXd5V3FBa3Rsa0hCQW4zQnl1MzlvcWtzRGI1Z2pwM2Q5ZE85dDN3M3FmSUQ4MnNhWTl4ZHhtc2JJeUFjMUk2LXJka3cwVkRvaENuanI3a2VnVmdWRzlfNWgxV0FwTnFseHlUTnNsNHNUdFBsbUFiWVk3cVliazFfYW14M01vN1EzUVJHUVBPcEp3b2YwMnBZ?oc=5",
+     "ts": "2026-10-26T21:30:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Почему GTA 6 не взломают на релизе: ИИ против пиратов",
+    "summary": "По данным Kotaku, ИИ-защита PS5 и новые методы шифрования Rockstar делают взлом GTA 6 на старте почти невозможным. Из-за этого на PS5 сейчас бум самодельных приложений, но саму игру пока не взломать.",
+    "idea": "Коротко объясняем, как ИИ-защита PS5 и шифрование Rockstar блокируют пиратство GTA 6 на старте. Зрителю важно знать, ждать ли взлом в день релиза и почему консоль сейчас «непрошибаема».",
+    "hook": "GTA 6 выходит через 3 недели. Её НЕ взломают на релизе — вот почему.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T21:41:01Z"
+   },
+   "msg_id": 190
+  },
+  {
    "id": "4e0edbc980d8",
    "title": "Danish casting agency looking for extras for a GTA 6 commercial. Has anyone seen similar casting calls in other countries?",
    "first_seen": "2026-10-26T21:31:07Z",
@@ -49589,37 +49626,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4e9a118bfa38",
-   "title": "GTA 6 Has Narrower Roads Than GTA 5; RDR2-Like Guns System",
-   "first_seen": "2026-10-19T21:40:44Z",
-   "updated": "2026-10-19T21:40:44Z",
-   "items": [
-    {
-     "id": "4e9a118bfa38",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MP1st",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Has Narrower Roads Than GTA 5; RDR2-Like Guns System",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2tMOG0xZHNNSVgzSldYVThxY1lsMzEwdHlfSHlpX005NmNjMS1NZTdIT3puOHdoY3VvWTR3WU4wcEM4NkM5UkZZNWpVSERDdzBOejJWS0lnZV9WN3d5TjhEejRWYURwQ1E2MlRCMWVMb1prZnNBY3RGeDVGdEdjcE00OTdmOElTWlN3aEZIVFdZVGNfeEVfTHFQTFJPN3RQM25yYVV5TUhkNmI4bm5LbFdVUTdsMzBf?oc=5",
-     "ts": "2026-10-19T21:31:42Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T21:31:07Z",
+  "last_run": "2026-10-26T21:41:01Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 96/100",
