@@ -1,6 +1,138 @@
 {
  "stories": [
   {
+   "id": "4c6f4faf0017",
+   "title": "Grand Theft Auto 6 Review Embargo Date Details",
+   "first_seen": "2026-10-26T17:01:19Z",
+   "updated": "2026-10-26T21:50:47Z",
+   "items": [
+    {
+     "id": "4c6f4faf0017",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Grand Theft Auto 6 Review Embargo Date Details",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCWHVkcV81al8tNTY0b0xoNmFvVU1Va2lDS2hfTnVjRl9aclNfY1JqUEprTWpwRGxSUm5SdHZ6NVE1a2hDX0s0NFJKY0NwejRubzhYbi1RUU41aFVqR2ViZFl5UXMtTkZLNUd6T2dR?oc=5",
+     "ts": "2026-10-26T16:54:31Z",
+     "summary": ""
+    },
+    {
+     "id": "b82b2bca1a1a",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Grand Theft Auto 6 Review Embargo Date Details",
+     "url": "https://insider-gaming.com/grand-theft-auto-6-review-embargo/",
+     "ts": "2026-10-26T16:54:31Z",
+     "summary": "One of the most important dates in gaming history has been revealed: We know when the GTA 6 review embargo is. The post Grand Theft Auto 6 Review Embargo Date Details appeared first on Insider Gaming ."
+    },
+    {
+     "id": "2c7183870e02",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Dot Esports",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 review embargo date reportedly revealed",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wc2VNWFBhVDZTQ2VVbjkzeG1XSkY3RlNJSGRqOWQzWFJrX2doSzEtZXlPdHd6SXF2YnJRTk1leG9zOFZiWVZUWV9qTEFJVTNKQXlHQ21EZkNIR0UyS2lLdFM2eG5BOGNv?oc=5",
+     "ts": "2026-10-26T21:38:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 96,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Известна дата эмбарго на обзоры GTA 6",
+    "summary": "По информации Insider Gaming, известна дата эмбарго на обзоры GTA 6. Издание ссылается на инсайдера Тома Хендерсона. Официально Rockstar это пока не подтверждала.",
+    "idea": "Считаем дни от даты эмбарго до релиза и прикидываем, когда ждать геймплей. Зрителю важно понять, когда появятся первые честные обзоры.",
+    "hook": "Дата эмбарго на обзоры GTA 6 уже известна — вот что это значит.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T17:01:24Z"
+   },
+   "msg_id": 181
+  },
+  {
+   "id": "0e493818813d",
+   "title": "«Хотя бы GTA 6 на это куплю»: хакер нашёл уязвимость PS5 с помощью ИИ и получил от Sony $50 тысяч",
+   "first_seen": "2026-10-26T21:50:47Z",
+   "updated": "2026-10-26T21:50:47Z",
+   "items": [
+    {
+     "id": "0e493818813d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VGTimes",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Хотя бы GTA 6 на это куплю»: хакер нашёл уязвимость PS5 с помощью ИИ и получил от Sony $50 тысяч",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU29PQl9qdTA0VldZSFZiZ2d1Ry1XejRBaUVXTk1rUjZEUXVqTE1QSXRnLXZfVXJqWTMtU1hVRW96M0VFcVg4VFRXY2hzbVprRUlxSnBScnlza1VJZFRqR3FFOXBKeEhpZVF1eGh1WUVoNjZUZ2tpcFdpWndVRVZNN1VMcjJJVlNNY0dENzdNMk9RZjRPb2hXV0tqenh1VU1mTXBsbEpXcHFSUU1KU0M3Qg?oc=5",
+     "ts": "2026-10-26T21:39:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: выдуманные числа: 000"
+  },
+  {
+   "id": "ed58007561ee",
+   "title": "GTA 6's Release Has Led to a Notable Spike in Time Off Requests, According to New Data",
+   "first_seen": "2026-10-26T21:50:47Z",
+   "updated": "2026-10-26T21:50:47Z",
+   "items": [
+    {
+     "id": "ed58007561ee",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6's Release Has Led to a Notable Spike in Time Off Requests, According to New Data",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVi1KNlVFamJ5clROX3QxMU1KYjBXbU9VdVFXTFl0RVp0YWVoaHI3bEpJQUhqOVhDbU5xYThxN240cXM1OFRsa1F1a2QtakRpNFh2YVd1T25GMHpjbXRTNkxKSXhpUHVZenNZTjVjMWcwTGVVWFRxbnBndXNoa2dCLVV3NmpQSXF5dGVkVm9HVDV1WlAyU0xBUQ?oc=5",
+     "ts": "2026-10-26T21:42:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: игроки массово берут отпуск в ноябре",
+    "summary": "По данным IGN, после анонса GTA 6 резко выросло число заявок на отпуск в ноябре. Работники массово планируют отдых на время выхода игры.",
+    "idea": "Короткий ролик о том, как офисы пустеют в ноябре из-за GTA 6. Зрителю смешно узнавать себя и коллег.",
+    "hook": "Офис пустеет в ноябре? Вот что делает GTA 6 с графиками отпусков.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T21:50:49Z"
+   },
+   "msg_id": 191
+  },
+  {
    "id": "c947c4ec8fc1",
    "title": "AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release",
    "first_seen": "2026-10-26T21:40:58Z",
@@ -2149,58 +2281,6 @@
     "model": "GigaChat-3-Ultra",
     "at": "2026-10-26T17:10:57Z"
    }
-  },
-  {
-   "id": "4c6f4faf0017",
-   "title": "Grand Theft Auto 6 Review Embargo Date Details",
-   "first_seen": "2026-10-26T17:01:19Z",
-   "updated": "2026-10-26T17:01:19Z",
-   "items": [
-    {
-     "id": "4c6f4faf0017",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Grand Theft Auto 6 Review Embargo Date Details",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCWHVkcV81al8tNTY0b0xoNmFvVU1Va2lDS2hfTnVjRl9aclNfY1JqUEprTWpwRGxSUm5SdHZ6NVE1a2hDX0s0NFJKY0NwejRubzhYbi1RUU41aFVqR2ViZFl5UXMtTkZLNUd6T2dR?oc=5",
-     "ts": "2026-10-26T16:54:31Z",
-     "summary": ""
-    },
-    {
-     "id": "b82b2bca1a1a",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Grand Theft Auto 6 Review Embargo Date Details",
-     "url": "https://insider-gaming.com/grand-theft-auto-6-review-embargo/",
-     "ts": "2026-10-26T16:54:31Z",
-     "summary": "One of the most important dates in gaming history has been revealed: We know when the GTA 6 review embargo is. The post Grand Theft Auto 6 Review Embargo Date Details appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 88,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Известна дата эмбарго на обзоры GTA 6",
-    "summary": "По информации Insider Gaming, известна дата эмбарго на обзоры GTA 6. Издание ссылается на инсайдера Тома Хендерсона. Официально Rockstar это пока не подтверждала.",
-    "idea": "Считаем дни от даты эмбарго до релиза и прикидываем, когда ждать геймплей. Зрителю важно понять, когда появятся первые честные обзоры.",
-    "hook": "Дата эмбарго на обзоры GTA 6 уже известна — вот что это значит.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-26T17:01:24Z"
-   },
-   "msg_id": 181
   },
   {
    "id": "58ac22abdfd7",
@@ -49630,11 +49710,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-26T21:41:01Z",
+  "last_run": "2026-10-26T21:50:53Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 96/100",
-   "gnews_ru: 38/49",
+   "gnews_ru: 35/42",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
