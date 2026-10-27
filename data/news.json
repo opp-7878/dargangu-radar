@@ -1,6 +1,97 @@
 {
  "stories": [
   {
+   "id": "a4a7e6d66fca",
+   "title": "Аналитик уверен, что у GTA 6 останутся конкуренты даже после переноса других игр",
+   "first_seen": "2026-10-27T15:01:17Z",
+   "updated": "2026-10-27T15:01:17Z",
+   "items": [
+    {
+     "id": "a4a7e6d66fca",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VGTimes",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Аналитик уверен, что у GTA 6 останутся конкуренты даже после переноса других игр",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUTdQSjF1aWExVDY4VlBDelExTTdGZW1LYTZwcDFBaTJQOWhxS0p5dmRyMFo2YjN2bS1vb0dsR1JndWFweVRGNkRCOWFZQ2JHZjU0VjBLTU5oRUZTTkpHci14aVdnQlJUTFFwaXZpc3lqNHVuNEw4bnRWTDN0Y2pqckdXTjFWRzNydUR3OElYeERqRm5rR3VpbFQxQ2JsVlYyaHY5V2cwS2Z4TEw4eWwyRUZuRUI2SzBmenBvTHF2RXpzM2s?oc=5",
+     "ts": "2026-10-27T14:21:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Перенос GTA 6 не спасёт конкурентов: мнение аналитика",
+    "summary": "Аналитик считает, что у GTA 6 останутся конкуренты даже после переноса других игр. Об этом пишет VGTimes. По его мнению, сдвиги дат не уберут все крупные релизы рядом.",
+    "idea": "Короткий разбор: почему переносы не спасут конкурентов от GTA 6. Зрителю важно понять, как календарь релизов влияет на ожидания.",
+    "hook": "Перенос других игр не спасёт их от GTA 6 — вот почему.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-27T15:01:20Z"
+   },
+   "msg_id": 214
+  },
+  {
+   "id": "ef545e5ef6a0",
+   "title": "Edge 430 – Grand Theft Auto VI cover",
+   "first_seen": "2026-10-27T15:01:17Z",
+   "updated": "2026-10-27T15:01:17Z",
+   "items": [
+    {
+     "id": "ef545e5ef6a0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Edge 430 – Grand Theft Auto VI cover",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04OU85bFA5YnFOX1F5cEtFcUJKLVVPSmR6MEdpU0JhUnExZGhGYWZMdE5mM0ZSUVJwY3M3czl6ZENZakxjd3lEazFrd0JuRnlsZlNNeUpwWklOUl91ODlHdlFReDBnM1VmOGxJVVRBeWdWaVRTc3Q0V3Z3?oc=5",
+     "ts": "2026-10-27T14:29:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b912d86b9466",
+   "title": "My local tech store already has some promo materials on the entrance",
+   "first_seen": "2026-10-27T15:01:17Z",
+   "updated": "2026-10-27T15:01:17Z",
+   "items": [
+    {
+     "id": "b912d86b9466",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "My local tech store already has some promo materials on the entrance",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xguo0u/my_local_tech_store_already_has_some_promo/",
+     "ts": "2026-10-27T14:53:13Z",
+     "summary": "submitted by /u/rokcket52gaz to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "3e65f3743501",
    "title": "An Official Xbox Photo Just Hinted at Early Access to GTA 6",
    "first_seen": "2026-10-26T18:01:37Z",
@@ -49631,11 +49722,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T14:50:55Z",
+  "last_run": "2026-10-27T15:01:21Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 94/100",
-   "gnews_ru: 51/55",
+   "gnews_ru: 52/56",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
