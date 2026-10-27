@@ -1,6 +1,76 @@
 {
  "stories": [
   {
+   "id": "c088c5d63446",
+   "title": "Virgin Media wants to pay someone $900 to play GTA 6 for eight hours",
+   "first_seen": "2026-10-27T15:50:56Z",
+   "updated": "2026-10-27T16:01:15Z",
+   "items": [
+    {
+     "id": "c088c5d63446",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Virgin Media wants to pay someone $900 to play GTA 6 for eight hours",
+     "url": "https://www.dexerto.com/gaming/virgin-media-wants-to-pay-someone-900-to-play-gta-6-for-eight-hours-3422216/",
+     "ts": "2026-10-27T15:48:26Z",
+     "summary": "Virgin Media Ireland is offering one lucky gamer the chance to get paid to play GTA 6, with the company launching a competition that pay someone to play the game."
+    },
+    {
+     "id": "2f103c2c7bd2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Dexerto",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Virgin Media wants to pay someone $900 to play GTA 6 for eight hours",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXVhNmxhRms3ZEdWODlORmVodllLVHlqc1lGWHZ6NEZSZElZamZ6WEpRUEdtOF9aWE1CWXNVaFJQcy1YZlVwNWw1NkdaVllCQ1BIVjhxOEZiOXlRTGJabzd6SkFQY0dTdnAzVXFzdEJwdHdzTWVMUlZwS1RwZWJvQWg0UGt0TUxTdzdMcTZGME80WlFlRktvOGZIMkQ0VVlOcThFSll6TEtuVVk?oc=5",
+     "ts": "2026-10-27T15:51:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 83,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 2,
+   "ai_error": "ValueError: выдуманные числа: 8",
+   "msg_id": 217
+  },
+  {
+   "id": "024c5912daee",
+   "title": "My excitement is bleeding into basically every facet of my life",
+   "first_seen": "2026-10-27T16:01:15Z",
+   "updated": "2026-10-27T16:01:15Z",
+   "items": [
+    {
+     "id": "024c5912daee",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "My excitement is bleeding into basically every facet of my life",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xgw0g5/my_excitement_is_bleeding_into_basically_every/",
+     "ts": "2026-10-27T15:43:33Z",
+     "summary": "submitted by /u/Steelrain121 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "87a7fc2cd956",
    "title": "Grand Theft Auto VI launches 19 November 2026 on PS5 and Xbox Series X|S at $79.99, and digital pre-orders can start pre-loading on 12 November.",
    "first_seen": "2026-10-26T20:20:48Z",
@@ -157,37 +227,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c088c5d63446",
-   "title": "Virgin Media wants to pay someone $900 to play GTA 6 for eight hours",
-   "first_seen": "2026-10-27T15:50:56Z",
-   "updated": "2026-10-27T15:50:56Z",
-   "items": [
-    {
-     "id": "c088c5d63446",
-     "src": "dexerto_gta",
-     "src_name": "Dexerto GTA",
-     "outlet": "",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "Virgin Media wants to pay someone $900 to play GTA 6 for eight hours",
-     "url": "https://www.dexerto.com/gaming/virgin-media-wants-to-pay-someone-900-to-play-gta-6-for-eight-hours-3422216/",
-     "ts": "2026-10-27T15:48:26Z",
-     "summary": "Virgin Media Ireland is offering one lucky gamer the chance to get paid to play GTA 6, with the company launching a competition that pay someone to play the game."
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 2,
-   "ai_error": "ValueError: выдуманные числа: 8",
-   "msg_id": 217
   },
   {
    "id": "15f7da5590b9",
@@ -49843,11 +49882,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T15:51:10Z",
+  "last_run": "2026-10-27T16:01:15Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 94/100",
-   "gnews_ru: 52/56",
+   "gnews_ru: 48/51",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
