@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "ee94880d8bb7",
+   "title": "What does GTA 6 hide behind its no-disc release?",
+   "first_seen": "2026-10-27T17:10:49Z",
+   "updated": "2026-10-27T17:10:49Z",
+   "items": [
+    {
+     "id": "ee94880d8bb7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rolling Out",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "What does GTA 6 hide behind its no-disc release?",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zN2FfRDFqTF9KM3duSHZaTm9NM2ctSmZkX3V6VU5aOVZuMW5ac0pYLTJ0YlZ6ZVZHTnplOTBQQUhiMzY5WmVGTDExV2hHWkJoNHpwVk9WYm8tUW5vZWRCX243eUlKOXFMeERpVTBrQlVHY3RXMVpCLWstRQ?oc=5",
+     "ts": "2026-10-27T16:38:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "677eddbc9d45",
+   "title": "Журнал Edge выпустит большое интервью с создателями GTA 6 и покажет новые скриншоты",
+   "first_seen": "2026-10-27T17:10:49Z",
+   "updated": "2026-10-27T17:10:49Z",
+   "items": [
+    {
+     "id": "677eddbc9d45",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Журнал Edge выпустит большое интервью с создателями GTA 6 и покажет новые скриншоты",
+     "url": "https://t.me/GTAVIStar/752",
+     "ts": "2026-10-27T17:08:47Z",
+     "summary": "Журнал Edge выпустит большое интервью с создателями GTA 6 и покажет новые скриншоты • В следующем выпуске журнала Edge, который выйдет 29 октября , опубликуют 16-страничное интервью с разработчиками GTA 6. Материал обещает раскрыть новые подробности о самой ожидаемой игре Rockstar. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c088c5d63446",
    "title": "Virgin Media wants to pay someone $900 to play GTA 6 for eight hours",
    "first_seen": "2026-10-27T15:50:56Z",
@@ -49867,11 +49919,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T17:01:32Z",
+  "last_run": "2026-10-27T17:10:49Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 93/100",
-   "gnews_ru: 44/47",
+   "rockstar_site: 0/1",
+   "gnews_en: 94/100",
+   "gnews_ru: 43/46",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -49881,7 +49933,7 @@
    "rockstarintel: 1/10",
    "gtaboom: 11/30",
    "reddit: 24/25",
-   "tg_gtavistar: 5/14",
+   "tg_gtavistar: 6/15",
    "tg_gta6deluxe: 7/11",
    "tg_gta6_m: 11/19",
    "tg_gta6newsdaily: 10/13"
