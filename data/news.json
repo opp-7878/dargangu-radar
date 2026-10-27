@@ -1,6 +1,87 @@
 {
  "stories": [
   {
+   "id": "611c0ea2e6cf",
+   "title": "Discord to Add GTA 6-Themed Accessories",
+   "first_seen": "2026-10-27T02:10:48Z",
+   "updated": "2026-10-27T02:10:48Z",
+   "items": [
+    {
+     "id": "611c0ea2e6cf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "se7en.ws",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Discord to Add GTA 6-Themed Accessories",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pYkVIRDNIMmVvQnVTV29YcmRuX25QaTNweGhGSnZEN3pBZmVsTXRKZ08weEdZdFhOeml1dUVQb3VUclVzaTEtVGlaamFyV20tVUZrMEI0UEhZUy1CSjhYeDFfd3MzM2hXVUVRSmhWZDN6cHc?oc=5",
+     "ts": "2026-10-26T16:07:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "55cf032f6159",
+   "title": "GTA6 promotional cars spotted and Building Potential GTA6 Ad",
+   "first_seen": "2026-10-27T02:10:48Z",
+   "updated": "2026-10-27T02:10:48Z",
+   "items": [
+    {
+     "id": "55cf032f6159",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA6 promotional cars spotted and Building Potential GTA6 Ad",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xgfl19/gta6_promotional_cars_spotted_and_building/",
+     "ts": "2026-10-27T01:36:10Z",
+     "summary": "submitted by /u/Jealous-Guarantee441 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "73d6c6ef5cd9",
+   "title": "Elevators seem to contribute to a mechanic",
+   "first_seen": "2026-10-27T02:10:48Z",
+   "updated": "2026-10-27T02:10:48Z",
+   "items": [
+    {
+     "id": "73d6c6ef5cd9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Elevators seem to contribute to a mechanic",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xgg3e5/elevators_seem_to_contribute_to_a_mechanic/",
+     "ts": "2026-10-27T01:59:59Z",
+     "summary": "Gameplay trailer in the beginning, the elevator goes out and we cut over to them going into that man’s mom’s apartment to try and hide…. Could be rockstar surprising us with a elevator mechanic Same with the megamundo mission where she falls down the elevator shaft with dude… I can’t imagine we just jump to she’s done in the mission. There’s gotta be something they are surprising us with. submitted by /u/Ok-Quantity-3370 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "геймплей",
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "75c71c488aab",
    "title": "По словам аналитика, GTA 6 не оказала положительного влияния на продажи консолей Xbox Series",
    "first_seen": "2026-10-27T00:40:49Z",
@@ -49522,11 +49603,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T02:01:12Z",
+  "last_run": "2026-10-27T02:10:48Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 92/98",
-   "gnews_ru: 39/45",
+   "gnews_en: 94/100",
+   "gnews_ru: 38/45",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
