@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "6e91a772e79e",
+   "title": "У GTA VI появился собственный кофе",
+   "first_seen": "2026-10-27T08:20:56Z",
+   "updated": "2026-10-27T08:20:56Z",
+   "items": [
+    {
+     "id": "6e91a772e79e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "se7en.ws",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "У GTA VI появился собственный кофе",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95MlFfNFZ5UzN0aUZWNU5Jd2x1VzNYa3o2T25uYzVFWm5vTHQ0dEJMRG5SMmNTeXJRdUk5dzl3aHJIeE40Wng4WG5GTXczb0ZEdmRxNXUzYWFxcE0xNTBCMnlEdVo?oc=5",
+     "ts": "2026-10-27T05:08:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e88176e83435",
    "title": "GTA 6 review codes are out & review embargo is set for November 18, 2026",
    "first_seen": "2026-10-27T08:17:01Z",
@@ -49395,11 +49421,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T08:17:01Z",
+  "last_run": "2026-10-27T08:20:56Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 85/92",
-   "gnews_ru: 35/42",
+   "gnews_en: 92/100",
+   "gnews_ru: 42/54",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
