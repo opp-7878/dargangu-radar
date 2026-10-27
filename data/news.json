@@ -1,6 +1,97 @@
 {
  "stories": [
   {
+   "id": "4c6f4faf0017",
+   "title": "Grand Theft Auto 6 Review Embargo Date Details",
+   "first_seen": "2026-10-26T17:01:19Z",
+   "updated": "2026-10-27T13:50:49Z",
+   "items": [
+    {
+     "id": "4c6f4faf0017",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Grand Theft Auto 6 Review Embargo Date Details",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCWHVkcV81al8tNTY0b0xoNmFvVU1Va2lDS2hfTnVjRl9aclNfY1JqUEprTWpwRGxSUm5SdHZ6NVE1a2hDX0s0NFJKY0NwejRubzhYbi1RUU41aFVqR2ViZFl5UXMtTkZLNUd6T2dR?oc=5",
+     "ts": "2026-10-26T16:54:31Z",
+     "summary": ""
+    },
+    {
+     "id": "b82b2bca1a1a",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Grand Theft Auto 6 Review Embargo Date Details",
+     "url": "https://insider-gaming.com/grand-theft-auto-6-review-embargo/",
+     "ts": "2026-10-26T16:54:31Z",
+     "summary": "One of the most important dates in gaming history has been revealed: We know when the GTA 6 review embargo is. The post Grand Theft Auto 6 Review Embargo Date Details appeared first on Insider Gaming ."
+    },
+    {
+     "id": "2c7183870e02",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Dot Esports",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 review embargo date reportedly revealed",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wc2VNWFBhVDZTQ2VVbjkzeG1XSkY3RlNJSGRqOWQzWFJrX2doSzEtZXlPdHd6SXF2YnJRTk1leG9zOFZiWVZUWV9qTEFJVTNKQXlHQ21EZkNIR0UyS2lLdFM2eG5BOGNv?oc=5",
+     "ts": "2026-10-26T21:38:00Z",
+     "summary": ""
+    },
+    {
+     "id": "df32506145a2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Beebom",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Review Embargo Date Revealed as Rockstar Sends Out Review Codes",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vUnIzWDVISmhyQk12M0lNWXd2VFBGUXNBc3RKaG9zdGRKaTc5NEg0Y1E2SDVPV2hpRHEtT0VhVzVGMk10Tkh6dUdfNExRWlJvTTRoMXBfbmtTUTc4cWkwTldRenjSAWpBVV95cUxNNkhJV2FzU2hjanNZbHBrQ1RuLWNMcW84c0RhZkF0T01HV0RsazRVZkhiY0lQN1BITmp2NWpIUzBrLVJCU0c3akZiZkw3YXJXTldaajBUenJObmhWU2dGUjBOSjRIbUZFY05B?oc=5",
+     "ts": "2026-10-27T10:55:10Z",
+     "summary": ""
+    },
+    {
+     "id": "d3c1b3de008c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TalkEsport",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Review Embargo Date Revealed Ahead of November Launch",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xbnViWjdiQjlZLXI4MlN2aFA0UkVKdzh2eTZiSm8tLVJZTFA3bS1rajBZQkVCS3cwR2FyaDJTOUIxc3FZaDNoQzRTVDZvUkJBY3NZeXNpT0l1aTFsUFB0U1BVMURhZlFlYzhKeF9mYlUzc0NB?oc=5",
+     "ts": "2026-10-27T13:37:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Известна дата эмбарго на обзоры GTA 6",
+    "summary": "По информации Insider Gaming, известна дата эмбарго на обзоры GTA 6. Издание ссылается на инсайдера Тома Хендерсона. Официально Rockstar это пока не подтверждала.",
+    "idea": "Считаем дни от даты эмбарго до релиза и прикидываем, когда ждать геймплей. Зрителю важно понять, когда появятся первые честные обзоры.",
+    "hook": "Дата эмбарго на обзоры GTA 6 уже известна — вот что это значит.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-26T17:01:24Z"
+   },
+   "msg_id": 181
+  },
+  {
    "id": "a10b94929689",
    "title": "Сотрудники начали массово брать отгулы на ноябрь — в день релиза GTA VI",
    "first_seen": "2026-10-27T13:31:08Z",
@@ -1144,84 +1235,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4c6f4faf0017",
-   "title": "Grand Theft Auto 6 Review Embargo Date Details",
-   "first_seen": "2026-10-26T17:01:19Z",
-   "updated": "2026-10-27T11:11:02Z",
-   "items": [
-    {
-     "id": "4c6f4faf0017",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Grand Theft Auto 6 Review Embargo Date Details",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCWHVkcV81al8tNTY0b0xoNmFvVU1Va2lDS2hfTnVjRl9aclNfY1JqUEprTWpwRGxSUm5SdHZ6NVE1a2hDX0s0NFJKY0NwejRubzhYbi1RUU41aFVqR2ViZFl5UXMtTkZLNUd6T2dR?oc=5",
-     "ts": "2026-10-26T16:54:31Z",
-     "summary": ""
-    },
-    {
-     "id": "b82b2bca1a1a",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Grand Theft Auto 6 Review Embargo Date Details",
-     "url": "https://insider-gaming.com/grand-theft-auto-6-review-embargo/",
-     "ts": "2026-10-26T16:54:31Z",
-     "summary": "One of the most important dates in gaming history has been revealed: We know when the GTA 6 review embargo is. The post Grand Theft Auto 6 Review Embargo Date Details appeared first on Insider Gaming ."
-    },
-    {
-     "id": "2c7183870e02",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Dot Esports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 review embargo date reportedly revealed",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wc2VNWFBhVDZTQ2VVbjkzeG1XSkY3RlNJSGRqOWQzWFJrX2doSzEtZXlPdHd6SXF2YnJRTk1leG9zOFZiWVZUWV9qTEFJVTNKQXlHQ21EZkNIR0UyS2lLdFM2eG5BOGNv?oc=5",
-     "ts": "2026-10-26T21:38:00Z",
-     "summary": ""
-    },
-    {
-     "id": "df32506145a2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Beebom",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Review Embargo Date Revealed as Rockstar Sends Out Review Codes",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vUnIzWDVISmhyQk12M0lNWXd2VFBGUXNBc3RKaG9zdGRKaTc5NEg0Y1E2SDVPV2hpRHEtT0VhVzVGMk10Tkh6dUdfNExRWlJvTTRoMXBfbmtTUTc4cWkwTldRenjSAWpBVV95cUxNNkhJV2FzU2hjanNZbHBrQ1RuLWNMcW84c0RhZkF0T01HV0RsazRVZkhiY0lQN1BITmp2NWpIUzBrLVJCU0c3akZiZkw3YXJXTldaajBUenJObmhWU2dGUjBOSjRIbUZFY05B?oc=5",
-     "ts": "2026-10-27T10:55:10Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Известна дата эмбарго на обзоры GTA 6",
-    "summary": "По информации Insider Gaming, известна дата эмбарго на обзоры GTA 6. Издание ссылается на инсайдера Тома Хендерсона. Официально Rockstar это пока не подтверждала.",
-    "idea": "Считаем дни от даты эмбарго до релиза и прикидываем, когда ждать геймплей. Зрителю важно понять, когда появятся первые честные обзоры.",
-    "hook": "Дата эмбарго на обзоры GTA 6 уже известна — вот что это значит.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-26T17:01:24Z"
-   },
-   "msg_id": 181
   },
   {
    "id": "5e37e15bb4a9",
@@ -49708,93 +49721,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4d202331ddeb",
-   "title": "GTA 6 Almost Replaced The One Part Of Its UI Fans Hate The Most",
-   "first_seen": "2026-10-20T13:50:44Z",
-   "updated": "2026-10-20T13:50:44Z",
-   "items": [
-    {
-     "id": "4d202331ddeb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TheGamer",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Almost Replaced The One Part Of Its UI Fans Hate The Most",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UT19lYWtnSmNDdjhOWXY2RTdEaWY1WU5HcmNVVnd4cmlkYjRGSkpyRlA1ZVd6U3JaSUNULWtTWnJwTlM0ejhCM1h1THBWNVI2VWV4dXg5aEdENENFR1lReG1fVGpGYVhyZFdQU0h2b3lIYUFBY2c?oc=5",
-     "ts": "2026-10-20T11:09:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3e46cdc8673b",
-   "title": "A PS5 AND GTA 6 Up for Grabs?! Don’t Miss GoGoGoldWin’s Giveaway Before November 8",
-   "first_seen": "2026-10-20T13:50:44Z",
-   "updated": "2026-10-20T13:50:44Z",
-   "items": [
-    {
-     "id": "3e46cdc8673b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Deadspin",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "A PS5 AND GTA 6 Up for Grabs?! Don’t Miss GoGoGoldWin’s Giveaway Before November 8",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeXdNOS03NTFnQW9Ua1BweXhwUGg1WEJFajFuSk1jem85OFdZX00yUE5KTGs2ZkZqaktkbXAwUW9yRVV3NllQTGsyTVNDdjNEWVlfbGFGRWktZlF2MVlRNFNYWm1lZ203MHM0N0xZd19ZVW1mUkZkVUN3YS1CNlpRMUxhR29xb2xZcGVXdDdabVVzSy1renB0d2M5akhzd1N4QXZKZ0RSVDQ0eHV2UHlYYzlxTVJPdUg1QXlCZUVva3BET0k?oc=5",
-     "ts": "2026-10-20T13:01:36Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f8af6f6f4090",
-   "title": "GTA 6 NPC Systems Have Been In The Works For 10+ Years At Rockstar",
-   "first_seen": "2026-10-20T13:50:44Z",
-   "updated": "2026-10-20T13:50:44Z",
-   "items": [
-    {
-     "id": "f8af6f6f4090",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Tech4Gamers",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 NPC Systems Have Been In The Works For 10+ Years At Rockstar",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sWmVQWHJFcGtxZGZmUUlJbk4zT3BRY0FjTHFNRmx6QXhXLUxmb2pocE9CRFhvN0lRdUN4ckRMY2YtLTFjcEZSZjJfVnhFQmszNHhHR3lOZ1VISVp3X05xMHlRZ0JndHZqZXozV28zUkpzdmZrc0d3?oc=5",
-     "ts": "2026-10-20T13:24:22Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T13:40:52Z",
+  "last_run": "2026-10-27T13:50:49Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 94/100",
-   "gnews_ru: 51/56",
+   "rockstar_site: 0/1",
+   "gnews_en: 91/97",
+   "gnews_ru: 50/55",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
