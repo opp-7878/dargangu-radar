@@ -1,6 +1,47 @@
 {
  "stories": [
   {
+   "id": "87a7fc2cd956",
+   "title": "Grand Theft Auto VI launches 19 November 2026 on PS5 and Xbox Series X|S at $79.99, and digital pre-orders can start pre-loading on 12 November.",
+   "first_seen": "2026-10-26T20:20:48Z",
+   "updated": "2026-10-27T02:40:48Z",
+   "items": [
+    {
+     "id": "87a7fc2cd956",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Xbox account showing GTA VI at the dashboard without (Pre-ordered) in title",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xg7xst/xbox_account_showing_gta_vi_at_the_dashboard/",
+     "ts": "2026-10-26T20:17:18Z",
+     "summary": "https://x.com/xbox/status/2114794197161058650?s=46 submitted by /u/lennonfish to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "cb41d95460e3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Make Tech Easier",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI launches 19 November 2026 on PS5 and Xbox Series X|S at $79.99, and digital pre-orders can start pre-loading on 12 November.",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54ejBVQzgwdDV5Y0x5a0piN0J1OW11SThtcmJDeHlUekNlbkdJb3gxeEtNN01rdnBSdXkyUDZMR1hmWTNUM2hJeGtZTGVPdENvbHZ5dEJLVFBzbmJ3X3lTbGloZV94dlZFRmFneA?oc=5",
+     "ts": "2026-10-27T02:32:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
    "id": "c6ee91f0c238",
    "title": "Never forget the great information drought 🫡",
    "first_seen": "2026-10-27T02:21:16Z",
@@ -1400,34 +1441,6 @@
    ],
    "tags": [],
    "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "87a7fc2cd956",
-   "title": "Xbox account showing GTA VI at the dashboard without (Pre-ordered) in title",
-   "first_seen": "2026-10-26T20:20:48Z",
-   "updated": "2026-10-26T20:20:48Z",
-   "items": [
-    {
-     "id": "87a7fc2cd956",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Xbox account showing GTA VI at the dashboard without (Pre-ordered) in title",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xg7xst/xbox_account_showing_gta_vi_at_the_dashboard/",
-     "ts": "2026-10-26T20:17:18Z",
-     "summary": "https://x.com/xbox/status/2114794197161058650?s=46 submitted by /u/lennonfish to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
@@ -49603,11 +49616,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T02:31:05Z",
+  "last_run": "2026-10-27T02:40:48Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 94/100",
-   "gnews_ru: 41/50",
+   "gnews_en: 93/98",
+   "gnews_ru: 40/52",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
