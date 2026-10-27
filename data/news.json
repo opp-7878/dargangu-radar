@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "35c294cc10d4",
+   "title": "This Book Release Is Basically GTA 6 Launch For Thirsty Women, And Larian Knows It",
+   "first_seen": "2026-10-27T03:31:03Z",
+   "updated": "2026-10-27T03:31:03Z",
+   "items": [
+    {
+     "id": "35c294cc10d4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "This Book Release Is Basically GTA 6 Launch For Thirsty Women, And Larian Knows It",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWdGRmJMMlBSMmhpWnVpMkNwQU5Dbk1mM1dnVUF4S2JrcGFua3A1ZWNtWGdhYnJhZkp2aUxMSUxTekRvVVVFeHRXWjMzMnotclVJbC1ybDktNEU0a1V4WWlSZFlaOXl4OGl2OGd0Wk5TQ1p3TDA3U1dRc3JHWElwUHlUQXNvbnk2QWRtdmtUY0g4eEZ1bkZmTFViekVrVV9qSEhOMlc0LXRydHN2U1ZKOGE4THFITkU?oc=5",
+     "ts": "2026-10-27T03:27:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Книга к запуску GTA 6: Larian готовит фанатов",
+    "summary": "GameSpot пишет, что релиз новой книги Larian Studios совпадает с запуском GTA 6 и рассчитан на «жаждущих» женщин-читательниц. Издание отмечает, что студия специально выбрала дату под ажиотаж вокруг игры.",
+    "idea": "Сравним ажиотаж: GTA 6 — дата и предзаказы, а Larian — книга в тот же день. Зрителю интересно, как студии ловят волну хайпа.",
+    "hook": "GTA 6 стартует — и Larian выпускает книгу в тот же день.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-27T03:31:06Z"
+   },
+   "msg_id": 194
+  },
+  {
    "id": "3ba62cb9c7f1",
    "title": "Billion-dollar sick day: US productivity expected to take a hit with release of 'GTA VI'",
    "first_seen": "2026-10-26T19:10:50Z",
@@ -49464,10 +49501,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T03:20:51Z",
+  "last_run": "2026-10-27T03:31:07Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 94/100",
+   "rockstar_site: 0/2",
+   "gnews_en: 91/96",
    "gnews_ru: 39/51",
    "gamesbeat: 1/10",
    "vgc: 1/10",
