@@ -1,6 +1,98 @@
 {
  "stories": [
   {
+   "id": "42eb3e1f903e",
+   "title": "Геймер, который раскрыл концовку Red Dead Redemption 2 в день релиза, получил свою копию GTA 6",
+   "first_seen": "2026-10-27T12:10:48Z",
+   "updated": "2026-10-27T12:10:48Z",
+   "items": [
+    {
+     "id": "42eb3e1f903e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Геймер, который раскрыл концовку Red Dead Redemption 2 в день релиза, получил свою копию GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXNTcTJ1VVBvUms3Q3dJX3ptQ1RwdjVEZFZ0U3RtM1llX0xJSExmanV1WVREN2tTRWgxamtWQmFvQURfbjRDcWRucjRRajBoVDhrTFpfYVNJOXpaUHpwMmlIekdGRW13QkY5anF6NDgxbTRXYkZDMlEycFVidks1dENPYjlHTkVEZFZJWnBmU1VUWS1PYkFRM1hDYnNtRlhu?oc=5",
+     "ts": "2026-10-27T11:13:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bb2fbf71fe5f",
+   "title": "Дата выхода GTA 6 и время по МСК: сколько весит игра и когда предзагрузка",
+   "first_seen": "2026-10-27T12:10:48Z",
+   "updated": "2026-10-27T12:10:48Z",
+   "items": [
+    {
+     "id": "bb2fbf71fe5f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VGTimes",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Дата выхода GTA 6 и время по МСК: сколько весит игра и когда предзагрузка",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJLTA2cEpjS3J3Vk0waEg3a1FoYkVSUHlmMDdSZzlNSkFkRXJxX0RaYkd2U2ZDSXgtb3RWZmNrQTNadFF0UTh2VDFSSWFqM3N0NmRKU1B4cGN2WTNfX1Y1aEthQkpqM2Vz?oc=5",
+     "ts": "2026-10-27T12:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос",
+    "размер/preload"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: дата выхода, время по МСК и сколько весит игра",
+    "summary": "По данным VGTimes, GTA 6 выходит 19 ноября 2026 года, предзагрузка стартует 12 ноября 2026. Указано время релиза по МСК и ориентировочный размер установки.",
+    "idea": "Коротко показываем дату, время по МСК и вес игры на экране — зрителю важно знать, когда качать и сколько нужно места.",
+    "hook": "Готовы освободить место? GTA 6: точная дата, время по МСК и размер.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-27T12:10:52Z"
+   },
+   "msg_id": 203
+  },
+  {
+   "id": "b2720bc6a1f2",
+   "title": "Opole, Poland Ad",
+   "first_seen": "2026-10-27T12:10:48Z",
+   "updated": "2026-10-27T12:10:48Z",
+   "items": [
+    {
+     "id": "b2720bc6a1f2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Opole, Poland Ad",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xgqrew/opole_poland_ad/",
+     "ts": "2026-10-27T12:08:01Z",
+     "summary": "submitted by /u/silentdigger0 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e88176e83435",
    "title": "GTA 6 review codes are out & review embargo is set for November 18, 2026",
    "first_seen": "2026-10-27T08:17:01Z",
@@ -49770,41 +49862,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "87928cfdb0c5",
-   "title": "В GTA 6 хотели отказаться от колеса оружия, но Rockstar передумала",
-   "first_seen": "2026-10-20T12:10:43Z",
-   "updated": "2026-10-20T12:10:43Z",
-   "items": [
-    {
-     "id": "87928cfdb0c5",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VGTimes",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "В GTA 6 хотели отказаться от колеса оружия, но Rockstar передумала",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOGRJWTRHUXB2TFp4bDNFZGYxNGZ0aHcwbVNPNzk1TDU4b0JBRnJlQWNKdFlERzRwVE1XaEpIX0dVX0VyRVdPcDZxWG1fN3lJWEhCR3pOMWlOMkZlU1pYcGFubVNHSUJuTTc3WkF2ZXAyME9SdGFOWlpLbzk0MTdIVldoRzFodUx6SEJpX2NMbDYteV9aT05xNW1Ud1ZTSk5fZENsTlNPZ051MWx0aFVZR1hEWlZIQS12cnNiMUg0U0ZkclZJMWF4Yw?oc=5",
-     "ts": "2026-10-20T12:06:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T12:01:18Z",
+  "last_run": "2026-10-27T12:10:53Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 93/100",
-   "gnews_ru: 47/56",
+   "rockstar_site: 0/0",
+   "gnews_en: 91/97",
+   "gnews_ru: 49/57",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
