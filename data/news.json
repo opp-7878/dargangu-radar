@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "6ac95339b703",
+   "title": "GTA 6's Download Size Could Be A Major Problem For Some Players",
+   "first_seen": "2026-10-27T00:10:49Z",
+   "updated": "2026-10-27T00:10:49Z",
+   "items": [
+    {
+     "id": "6ac95339b703",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "SVG",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's Download Size Could Be A Major Problem For Some Players",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JbUFQYTFyWmNteU96ckl4WHZqNjk3NmR6aUdmQTJaWHNHb21nN1VDU3F5ZXY1MmltRzhmQ0djc0xpTm9LRVBpRWRQWGg3WG5na0hWZ1k1UHltSklYbXhZTlFrOGlCb1k?oc=5",
+     "ts": "2026-10-27T00:03:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "2326f3746ab8",
    "title": "Фанаты GTA VI сражаются на аукционах за бумажные пакеты и стаканы в стиле Vice City — за них отдают сотни долларов",
    "first_seen": "2026-10-27T00:01:18Z",
@@ -49612,41 +49638,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "899676089acc",
-   "title": "Why ‘GTA 6’ faces a problem Rockstar never saw coming",
-   "first_seen": "2026-10-20T00:10:45Z",
-   "updated": "2026-10-20T00:10:45Z",
-   "items": [
-    {
-     "id": "899676089acc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Rolling Out",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Why ‘GTA 6’ faces a problem Rockstar never saw coming",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFlYXy16R1dZNzAxVHhnZHFFMk5NQUpaeU9sdk1FUzRvcmItam9NQ3BFMkszTlc0V2xhelowVFotS3JfdGhESkV1THBrNmxSZWNqb2JOa3JWYXN1Q1R6OUo3LVlVdmlla19XR3JqTjVua1F5VUVmcEdBYzVLWllwcg?oc=5",
-     "ts": "2026-10-19T16:22:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T00:01:18Z",
+  "last_run": "2026-10-27T00:10:49Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 93/99",
-   "gnews_ru: 41/52",
+   "gnews_en: 94/100",
+   "gnews_ru: 39/50",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
