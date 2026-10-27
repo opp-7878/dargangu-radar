@@ -1,6 +1,202 @@
 {
  "stories": [
   {
+   "id": "e88176e83435",
+   "title": "GTA 6 review codes are out & review embargo is set for November 18, 2026",
+   "first_seen": "2026-10-27T08:17:01Z",
+   "updated": "2026-10-27T11:31:08Z",
+   "items": [
+    {
+     "id": "e88176e83435",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Khel Now",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 review codes are out & review embargo is set for November 18, 2026",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5raUJLMHRpY3B0LWJiR1RxaFFtUGxnOEJyRFNlYm8xYmlqcDhBR0htSlZVejhFdUZVYlFtS0oteDVITHVPMy12TVlZbk5aYm5HNHV5Vk83UnRfYmIwVkdrVjYtc2pmQzBhTlludw?oc=5",
+     "ts": "2026-10-27T07:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "df63f2cae3ab",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Shane the Gamer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Review Embargo Reportedly Set for 18 November as Review Codes Go Out",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByc2stWDNjWkhaYWRHVVJYS28xZGt6UTNaN1JnTHJUMWRlenlzbnlkSHZEaXNrLVNiUjhTT1dwZnZwbGJGejZGeTVIX3JsRWZmRjlSd19iaXJYWjlfa3UyZUpVYk5DOFVMQmJQU0phbjlzVk1DMWpV?oc=5",
+     "ts": "2026-10-27T05:14:00Z",
+     "summary": ""
+    },
+    {
+     "id": "5016e3f591c0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gameranx",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rumor: GTA 6's Rumor Embargo Ends On November 18 - And Review Copies Are Going Out Now",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUHhISVBNZGNhTXJsaEdKNGRsbFZWZXhmM1d2TzRLRjVfdmZ1bXdCRGt4STNkUFJxOFM5T1FscWp3MzZVMzk1SlBqVzNJdVB4a0EtQmVvSDQ2T2Rqd0Y3UTFHeUNyaHZabnVaLXRoTnRNUFhteWVnNkU3OEhmNXhwRmx5cE1oeEpJekJQNU5WcXJTbHF1Q1NTeTN1Wk5ObUhIa1oyZlhITVlHd0pfQVFLX3lUbHdHa2NDZkZ1a3ZSUmVUUEozelF6amxn?oc=5",
+     "ts": "2026-10-27T11:23:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "a2cb6863f7f2",
+   "title": "Хакер-группа Сyberleek, слившая геймплей GTA 6, опубликовала манифест",
+   "first_seen": "2026-10-27T11:31:08Z",
+   "updated": "2026-10-27T11:31:08Z",
+   "items": [
+    {
+     "id": "a2cb6863f7f2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Хакер-группа Сyberleek, слившая геймплей GTA 6, опубликовала манифест",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3h4WTNtRFNFeDViRG82QVRWY2o0cXUzM3hEaG94NDh0N3VuRzdTZjZXUzNuNUl1Z3F1UzZ3eHMxTFlTYUNtZGJRRW8zZUVVelNWRHc5UnQ2VDMyUG1Cay1GTkJEMDZQdFd1d1c0RGx5eXYwUVp3NUdQMDM4a1k4Ry1vT1J3OF9fY1A3cWhTNmFLYmxFdDQyX0xjUXk?oc=5",
+     "ts": "2026-10-27T10:34:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "геймплей",
+    "слив"
+   ],
+   "score": 55,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Cyberleek выпустил манифест после слива геймплея GTA 6",
+    "summary": "Хакер-группа Cyberleek, ранее слившая геймплей GTA 6, опубликовала манифест. Об этом сообщил портал GoHa.Ru.",
+    "idea": "За 40 секунд — что написано в манифесте Cyberleek и почему это важно для игроков. Коротко, с кадрами слива и титрами.",
+    "hook": "Cyberleek снова в деле: хакеры опубликовали манифест после слива GTA 6.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-27T11:31:12Z"
+   },
+   "msg_id": 202
+  },
+  {
+   "id": "82b0cbe24dfb",
+   "title": "Time-off requests for GTA 6 launch day up 9-17%: BambooHR | Tap to know more | Inshorts",
+   "first_seen": "2026-10-27T11:31:08Z",
+   "updated": "2026-10-27T11:31:08Z",
+   "items": [
+    {
+     "id": "82b0cbe24dfb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Inshorts",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Time-off requests for GTA 6 launch day up 9-17%: BambooHR | Tap to know more | Inshorts",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0swV1BaaXZPb18wb0w0amxhWjNLWXNPdG1TUUpRVnE0a0c3Q281VFV4TVVoN18tWDdrYXFmZTJVSWY3Z1ljZFcySkJQSlgzMXZQelJZOVAwdC1QVVYwRzUxbTJja2F1d25JeTFDTUJfX09qbVNXTDhTdHZYcFJGSlI1SzZuZHBmVWtaX1U3bWtPUVpyaEFpakFpUG11SkJ0ZEHSAacBQVVfeXFMTjRudExRTjdYZVpHa1llWm4wbVpkbnZOdURGNFg1S0dlNzE3SEJ4YWhqRVEzVmt0Y2o5S2lvclRoWThxejhDSmFacWFBdC1jbnNuSm1yUnBQNlJyT09TdVRGMUlSXzJIRmVjRnFHTG54QVNOekZ3b3BSWjJnbVE0N0RoMmNRcFRvMG5YVXNscGozZ2hKSzV2SDU4R0p5aEFGRnRRSzJkeTA?oc=5",
+     "ts": "2026-10-27T10:42:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ac6bb61481bd",
+   "title": "GTA 6’s Vice City Is Packed With Real Miami — Here’s Every Spot So Far",
+   "first_seen": "2026-10-27T11:31:08Z",
+   "updated": "2026-10-27T11:31:08Z",
+   "items": [
+    {
+     "id": "ac6bb61481bd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6’s Vice City Is Packed With Real Miami — Here’s Every Spot So Far",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2lKS3BiQmNFeFhyTjZWZERfeThUT2g5QzZTV0FkOGg3VVhPbWFKNVZJLTZhWjF4QUc1WjlXQTRaNmNKX0otQjNUcFllN2g3UkFGTkl6RTBjaXBtZmd1MkhiWVVqc09pV0xDNU1SWGhfekZCWDJKTjZuY19CcnBHTDRR?oc=5",
+     "ts": "2026-10-27T11:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5e5d9a410ca2",
+   "title": "Вкус и аромат Леониды – Vice City Bean выпустила лимитированное кофе в честь GTA 6",
+   "first_seen": "2026-10-27T11:31:08Z",
+   "updated": "2026-10-27T11:31:08Z",
+   "items": [
+    {
+     "id": "5e5d9a410ca2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Вкус и аромат Леониды – Vice City Bean выпустила лимитированное кофе в честь GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmdyWGNPUW5sSEdJNl9pRmhCbERWUWFGQnE0WkxUSVJkbjVjWTlBeFlVOWc4ZjZ1a3VjZFp4SEswRExtOGlpTlJ0aUFKTHFKN1Z6R01aNGFZcHA4a0dnaUJ5M1VDZ3BSZlc5N3JMakJQVVpINDdwMjlnak5PQXZuM01QTjU5TWxYNGRsV3FyYU1mRVFQMFRLNGJZRzJrVW5nWmFGLUdoek9JZjV1RGktMkQ5ZzdybzloMkdIYjhZM0VvOVN6UUE?oc=5",
+     "ts": "2026-10-27T11:13:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "433bf7fbf89b",
+   "title": "Devs \"fear\" launching near GTA 6, but one analyst says they shouldn't – a lot of people \"are going to want to play other things\"",
+   "first_seen": "2026-10-27T11:31:08Z",
+   "updated": "2026-10-27T11:31:08Z",
+   "items": [
+    {
+     "id": "433bf7fbf89b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Devs \"fear\" launching near GTA 6, but one analyst says they shouldn't – a lot of people \"are going to want to play other things\"",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNW9ZTDVlTUhKcFJSUEgtekl4MERjcDZDNUE0bktKeUtvbjNMTDU1XzBHdEZfWUpZNVQ0dmVVMXNXQ1lrWGRqZ08zTFFIenZxNDI5SzhTeFJpQ2w4ZE1BZkRyazNQQUlKM2hOV1A5VllLOUk3QmhoZ3daMHp1Y2hfOHQxUHZyYUFpdmNDai1WaHEwdHVza19jWmNxQzhmV2d6aFlNelk2dm1pYkFhYU1HSGZGUklES0FBQ0RUNVpsQmZJRnhBVWprZVFVQ0MtbklvMThBTWxYQjQwb25IUWVQVkxTX3N5WHIzcFNrbXlWd1psTXRzbU9aQW5sczhlOXVi?oc=5",
+     "ts": "2026-10-27T11:18:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "1526a7a2b826",
    "title": "Релиз GTA 6 вызвал рост запросов на отгулы на 17%",
    "first_seen": "2026-10-27T11:20:51Z",
@@ -1513,45 +1709,6 @@
     "at": "2026-10-27T09:10:57Z"
    },
    "msg_id": 197
-  },
-  {
-   "id": "e88176e83435",
-   "title": "GTA 6 review codes are out & review embargo is set for November 18, 2026",
-   "first_seen": "2026-10-27T08:17:01Z",
-   "updated": "2026-10-27T08:40:58Z",
-   "items": [
-    {
-     "id": "e88176e83435",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Khel Now",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 review codes are out & review embargo is set for November 18, 2026",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5raUJLMHRpY3B0LWJiR1RxaFFtUGxnOEJyRFNlYm8xYmlqcDhBR0htSlZVejhFdUZVYlFtS0oteDVITHVPMy12TVlZbk5aYm5HNHV5Vk83UnRfYmIwVkdrVjYtc2pmQzBhTlludw?oc=5",
-     "ts": "2026-10-27T07:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "df63f2cae3ab",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Shane the Gamer",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Review Embargo Reportedly Set for 18 November as Review Codes Go Out",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByc2stWDNjWkhaYWRHVVJYS28xZGt6UTNaN1JnTHJUMWRlenlzbnlkSHZEaXNrLVNiUjhTT1dwZnZwbGJGejZGeTVIX3JsRWZmRjlSd19iaXJYWjlfa3UyZUpVYk5DOFVMQmJQU0phbjlzVk1DMWpV?oc=5",
-     "ts": "2026-10-27T05:14:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
   },
   {
    "id": "575fed4e28d3",
@@ -49598,119 +49755,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "491ae4a318a5",
-   "title": "GTA 6 is so detailed no single Rockstar employee has seen it all - which is exactly how we got shrinking horse testicles in Red Dead Redemption 2",
-   "first_seen": "2026-10-20T11:20:49Z",
-   "updated": "2026-10-20T11:31:03Z",
-   "items": [
-    {
-     "id": "491ae4a318a5",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 is so detailed no single Rockstar employee has seen it all - which is exactly how we got shrinking horse testicles in Red Dead Redemption 2",
-     "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
-     "ts": "2026-10-20T11:20:20Z",
-     "summary": "Red Dead Redemption 2's infamous animated horse testicles , which are realistic enough to contract in cold weather and expand again in the warmth, were apparently not a feature mandated by Rockstar. As iconic as they've become - a symbol of extraordinary detail in the game - they didn't originate from a list of features that needed to be added to the game. The horse testicles were instead the unexpected work of one person, or a group of people, autonomously working on the Cowboy epic. Read more"
-    },
-    {
-     "id": "a50669770e61",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Eurogamer.net",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 is so detailed no single Rockstar employee has seen it all - which is exactly how we got shrinking horse testicles in Red Dead Redemption 2",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTRPQTlGamtxa3EtYmVTc1JQeGl0MVlTNXZ2eHVicXRfSUVaNjhvRG5nMWxQWGFnTjhJSDAwRElMU3RlVklIN0pSbnE1bGpKeXNCSlRNdmtxUnNlZUplRWJYYUY1SUNQaUNaQVk4YS1jUnZjUW1RM3hrRXdQOEM5S2ZxZXNrUTQtbEtCag?oc=5",
-     "ts": "2026-10-20T11:20:20Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0af97200342c",
-   "title": "Rockstar потратила годы на попытки создать новое круговое меню оружия для GTA 6, но в итоге отказалась от этой затеи",
-   "first_seen": "2026-10-20T09:50:46Z",
-   "updated": "2026-10-20T11:31:03Z",
-   "items": [
-    {
-     "id": "0af97200342c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar потратила годы на попытки создать новое круговое меню оружия для GTA 6, но в итоге отказалась от этой затеи",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPN3h5WGRTTXFvUXYyejIwakFDc25VVk01eHBOaUs4bU5Ka2pjbFJIRjFsREFXVGpNZDNmSFN0WHBlNURJZUREcG9QOWlXbUxRckE2SV9DOHU2V1RNLTZKdjNNZmRTTVczUXY0WHY1WUhxQ1U5LXpTcU5fazNJalBNOWpTdWNlMjZwVW5oQWh5NlNaU0hwblIwVUdubHZfODBQMWJIandGVnkzbFdvSDFvTEZQV3BBSFEtME1iQ290dERMc285cnNzQUYwNlhSVlp1c1ZCYlFzTjRVTFdXNXI4enlxcG84UUFrbmNaS1NzeTNCTk1Q?oc=5",
-     "ts": "2026-10-20T09:39:42Z",
-     "summary": ""
-    },
-    {
-     "id": "1d98be4aacd5",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar потратила годы на попытки создать новое круговое меню оружия для GTA 6, но в итоге отказалась от этой затеи",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTG54elFRV3VIYm1sM0dZV2Q0bnNyOVBKV29CU0pJRGVEVmpWdjZib2RnYWljSDBkOTVTQmQtQjFEY2dVR044UWNOREpRb0taRmk4M2hBYUJ6dVI4MXQweVJ3TG91M1pReDZaMWtBYl9RZEtvY0UzSktLbl92ck11NE96djZPNGRuVkI2ekVXM1hBZWdtX214VTNtYmF1S2VrTXZfV2lIanlhM0JYWTNDZ3hzQXozYno4M1RCYTdEX2NJZzRVQ2drQ0ROVG9DMkVHUFEwSHJRaWVPemFWZ1VFSkwxeHB0aHFwaHdUV2RhMHBlQ1AzR2FiX05R?oc=5",
-     "ts": "2026-10-20T09:39:42Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "17ac47420fed",
-   "title": "Взлом ради GTA 6: хакеры обошли свежее обновление PS5",
-   "first_seen": "2026-10-20T11:31:03Z",
-   "updated": "2026-10-20T11:31:03Z",
-   "items": [
-    {
-     "id": "17ac47420fed",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "РБК-Україна",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Взлом ради GTA 6: хакеры обошли свежее обновление PS5",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0FIZG5jaW1oRFRxYndONkpXbi03b1RnRklBRFlpT3RPcm5pMUo0R1pkbFFMME1ZaW1Vc3U1NFhObWY1a1pDRldnNEFza3UzYnB5dGN4M1c0R2FXdTZZY29HU1dRbHFKR25XU3Y2RFE5eEEzaVI0b09QMGhHYVJDYXo5a3dTcWl0SEY4NtIBkgFBVV95cUxPNjBmc0w4NTdEN2J2UEVTbHViclM1T0hkN2lLeWc1WG5Ncjk2QUdMNmVUak9NU1AyVzQzdDEwS1l5TVdXX0FZRjYtcnRqQUVUbjlKd3N0dTNaLTk3S0JXVUJSTjVYR1dIZUROSTZGa2JubGlFR2RtQ2RpcmdJbU9IcF9jVVoxSmNCVElKTEN5empnUQ?oc=5",
-     "ts": "2026-10-20T11:16:05Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T11:20:55Z",
+  "last_run": "2026-10-27T11:31:12Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 84/90",
-   "gnews_ru: 46/56",
+   "rockstar_site: 0/1",
+   "gnews_en: 86/92",
+   "gnews_ru: 48/56",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
