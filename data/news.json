@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "cb2e61c7246f",
+   "title": "Ink's lost the plot",
+   "first_seen": "2026-10-27T23:40:49Z",
+   "updated": "2026-10-27T23:40:49Z",
+   "items": [
+    {
+     "id": "cb2e61c7246f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Ink's lost the plot",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xh8fde/inks_lost_the_plot/",
+     "ts": "2026-10-27T23:32:49Z",
+     "summary": "submitted by /u/No-Customer-8554 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "1b8855a0b189",
    "title": "Grand Theft Auto 6 Download Size Revealed To Be 210 GB",
    "first_seen": "2026-10-27T17:20:54Z",
@@ -51531,67 +51557,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "82ee51400085",
-   "title": "Rockstar's art team grew 13x just for GTA 6",
-   "first_seen": "2026-10-20T23:40:45Z",
-   "updated": "2026-10-20T23:40:45Z",
-   "items": [
-    {
-     "id": "82ee51400085",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TweakTown",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar's art team grew 13x just for GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeDVueGRLenBaVmwtUFdWaGxOTGFrODJhVTdWcDFZUFJRMHF3MFREQmNvbjJWUHhLRFIwY3FJeEctcTA2cGhiM2ppdmVOdWlIM2tqbzd2MFdVNm5BS2pHUHJxdlp1TWY1RHptS21BZ0JJZkJfU3I4TmlieDVQMzhGa2JReFpNRlFkeDR6ODd5RWk0T3dGY3c?oc=5",
-     "ts": "2026-10-20T23:36:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1d8ddf13e2a3",
-   "title": "GTA 6 уже заработала больше, чем большинство игр за всё время своего существования",
-   "first_seen": "2026-10-20T23:37:25Z",
-   "updated": "2026-10-20T23:37:25Z",
-   "items": [
-    {
-     "id": "1d8ddf13e2a3",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Notebookcheck-ru.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 уже заработала больше, чем большинство игр за всё время своего существования",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTG9kLXJxOXZZei1nUmR4V19tVWVaMFlGSFRhekxuSTdIQlBPZlFrU0lLSEFMZ3poNUhRR3RnbHM3aEdyRG1iZGJ5MXR5OTNSTnY4NE5iWUFHM19PSlhVckx5WVVPWW9UOURhQnpsRUlJV3J4TjNwMGlCT0Jjc2V3WnlBYmZTbGpaMjFoOHYxekIxTGh3QWJuajU5UFJpakl1azRIMGNQZDNQZi1YMDJtSEZJdndjQ0Z6OWJVYVlPWktVVFBab0U2SHpRaV9xY0tLREFr?oc=5",
-     "ts": "2026-10-20T23:28:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T23:31:02Z",
+  "last_run": "2026-10-27T23:40:49Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 96/100",
-   "gnews_ru: 57/59",
+   "gnews_en: 98/100",
+   "gnews_ru: 53/55",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -51599,7 +51573,7 @@
    "eurogamer: 0/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 3/10",
-   "gtaboom: 13/30",
+   "gtaboom: 12/30",
    "reddit: 23/25",
    "tg_gtavistar: 7/17",
    "tg_gta6deluxe: 8/11",
