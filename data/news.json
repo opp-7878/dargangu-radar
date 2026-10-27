@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "a78b04fc9f56",
+   "title": "Аналитик призвал студии не бояться релиза GTA 6: \"Огромная часть геймеров захочет поиграть во что-то другое\"",
+   "first_seen": "2026-10-27T13:10:51Z",
+   "updated": "2026-10-27T13:10:51Z",
+   "items": [
+    {
+     "id": "a78b04fc9f56",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Аналитик призвал студии не бояться релиза GTA 6: \"Огромная часть геймеров захочет поиграть во что-то другое\"",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMEJISUw3VDZtekhxajc5Wk15YzZIbnRsMGhOWDdyVWVQZng4N0hMMVVfOHo1OEZyemVtdC04cVhWS1VmV2pOWl9YMVVrSjhLN0ZlelVDZEtKZlZWZ2tDWHkwaURDTFUzQjFyc0tDSlhNTTFYUXZYWmVsaklGUGd0aFI0bTdQdlhiQTcyX2FHeldrZ3ZFbzFEdHVjampqdldzY3IwNDg3WDRBc1dRNWdOV092SlBGTzVPU25STkVwTUNyaEQ3RHN5Q08wcEFSc2tRS0hIeXdfQzB2ZXNrcEVKVHRKZ2NISnNT?oc=5",
+     "ts": "2026-10-27T12:54:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6485c8fdb551",
+   "title": "Xbox Racks Up Millions Of Views Teasing GTA 6 On Xbox Series X",
+   "first_seen": "2026-10-27T13:10:51Z",
+   "updated": "2026-10-27T13:10:51Z",
+   "items": [
+    {
+     "id": "6485c8fdb551",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Pure Xbox",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Xbox Racks Up Millions Of Views Teasing GTA 6 On Xbox Series X",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVdIY3JpYlpXNE1xVndTS19HNElLMXBwakNxY1oxXzRPVm5tLXlQd1RFWmJvOC1ramNhcDFPcnlKWTZQVUdHOEZfQWNXUjlWTkM3Qi1GcXktclBBa0lvN3NXRnpIeHNyektWYzA3V1NYMHNQV0Z5eXI0NHJRdU16SVRmNmlFRmZ1WlB0U2NOZE40MVpocHdDRzVEM0dJQUNoN0E?oc=5",
+     "ts": "2026-10-27T13:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fed8d5d14148",
+   "title": "GTA 6 strikes again as anticipated RPG delays to January one day before launch",
+   "first_seen": "2026-10-27T13:10:51Z",
+   "updated": "2026-10-27T13:10:51Z",
+   "items": [
+    {
+     "id": "fed8d5d14148",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GAMINGbible",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 strikes again as anticipated RPG delays to January one day before launch",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWd0QlpGSDEzVTg0T2RkZUIyV2NCZXd2RnFGZ2stMkZpd1dBblgwbXlrc29OenFXRWd2UTRBWUItRlVNNTRwQlBNS1NjNlJwamViLTVHeXJPd19yMnozd09heFk5Z0dETDVoV29fc3J1WGJvc1BmTEhvTmFaWGJIVDQ3a0l1SmM?oc=5",
+     "ts": "2026-10-27T13:00:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "60d8a4d8ec56",
    "title": "Take Two Interactive Software (TTWO) Stock Looks Near Fair Value As GTA VI Nears",
    "first_seen": "2026-10-27T12:40:49Z",
@@ -49910,15 +49990,15 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T13:01:23Z",
+  "last_run": "2026-10-27T13:10:51Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 94/100",
-   "gnews_ru: 45/49",
+   "gnews_en: 95/100",
+   "gnews_ru: 50/56",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
-   "ign: 2/20",
+   "ign: 1/20",
    "eurogamer: 0/100",
    "dexerto_gta: 2/50",
    "rockstarintel: 1/10",
