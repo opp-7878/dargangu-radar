@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "78c5a5beffb1",
+   "title": "🌪 В Тольятти местный оркестр исполнил главный саундтрек из игры GTA: San Andreas 🔫 — х#я себе они джазу дают 😀 Подписаться | Наш чат 😀",
+   "first_seen": "2026-10-27T15:40:52Z",
+   "updated": "2026-10-27T15:40:52Z",
+   "items": [
+    {
+     "id": "78c5a5beffb1",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "🌪 В Тольятти местный оркестр исполнил главный саундтрек из игры GTA: San Andreas 🔫 — х#я себе они джазу дают 😀 Подписаться | Наш чат 😀",
+     "url": "https://t.me/gta6deluxe/1855",
+     "ts": "2026-10-27T15:38:28Z",
+     "summary": "🌪 В Тольятти местный оркестр исполнил главный саундтрек из игры GTA: San Andreas 🔫 — х#я себе они джазу дают 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В Тольятти оркестр сыграл GTA: San Andreas — зал в шоке",
+    "summary": "В Тольятти местный оркестр исполнил главный саундтрек из GTA: San Andreas. Об этом написал Telegram-канал @gta6deluxe.",
+    "idea": "Снимем реакцию зала и музыкантов на живое исполнение культового трека — коротко, громко и с драйвом. Зрителю зайдёт ностальгия по San Andreas и энергия живого выступления.",
+    "hook": "Тольятти, оркестр и GTA: San Andreas — вы такого не ждали.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-27T15:40:56Z"
+   },
+   "msg_id": 216
+  },
+  {
    "id": "35b3b7d4024f",
    "title": "GTA 6 Won't Be Released On Disc — Here's What The Physical Copy Contains Instead",
    "first_seen": "2026-10-27T15:31:08Z",
@@ -49682,41 +49719,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "552e957e272f",
-   "title": "What adverts have you seen for GTA 6 out and about?",
-   "first_seen": "2026-10-20T15:40:46Z",
-   "updated": "2026-10-20T15:40:46Z",
-   "items": [
-    {
-     "id": "552e957e272f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What adverts have you seen for GTA 6 out and about?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xavady/what_adverts_have_you_seen_for_gta_6_out_and_about/",
-     "ts": "2026-10-20T15:32:32Z",
-     "summary": "submitted by /u/Professional-West830 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T15:31:08Z",
+  "last_run": "2026-10-27T15:40:56Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 94/100",
-   "gnews_ru: 46/49",
+   "gnews_ru: 52/56",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -49727,7 +49738,7 @@
    "gtaboom: 10/30",
    "reddit: 24/25",
    "tg_gtavistar: 6/14",
-   "tg_gta6deluxe: 7/11",
+   "tg_gta6deluxe: 8/11",
    "tg_gta6_m: 11/19",
    "tg_gta6newsdaily: 7/15"
   ],
