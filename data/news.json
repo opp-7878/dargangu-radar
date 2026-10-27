@@ -1,6 +1,137 @@
 {
  "stories": [
   {
+   "id": "13d92840c186",
+   "title": "Энтузиаст создал аналог GTA 6 с помощью Claude и ChatGPT на движке Godot",
+   "first_seen": "2026-10-27T10:10:54Z",
+   "updated": "2026-10-27T10:10:54Z",
+   "items": [
+    {
+     "id": "13d92840c186",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Энтузиаст создал аналог GTA 6 с помощью Claude и ChatGPT на движке Godot",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN0FRTmltRmRjS2lFTDVwMGhkaWx6ZWltVFNWbDR3NW5fSWtTV3NaWmNUS0R1OXBzeDBHNWR1Mm9hTHlLOHlBSVlncXAycUtZajRzNmV3blJXZk85U2NBLTlEOW1uTGRqV3VJOUs5R3MzSUxwWjVRWmkzMjRxX3B2eEF5Q2hpME1sbVBrUXVDOC1Tc2psSllMNlNJdExJWTloRFV0ODRNVzR0Q3pCU1FSQTQ0U2tNVGdZTUl3OTdGR1U?oc=5",
+     "ts": "2026-10-27T09:59:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "37e864ca02c8",
+   "title": "Beloved PS2 classic steals GTA 6’s thunder with physical edition announcement",
+   "first_seen": "2026-10-27T10:10:54Z",
+   "updated": "2026-10-27T10:10:54Z",
+   "items": [
+    {
+     "id": "37e864ca02c8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GAMINGbible",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Beloved PS2 classic steals GTA 6’s thunder with physical edition announcement",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXludWk5Wlp2dVFYSWVGS01ESjRKQ3BEY01nc281WHRwUy0zM2tjdlVSZ1Z5TjRoaVhoYWJleXAteE5yQjZYb0ljSWQ5NmRYbWxWZDA4UTdydXlMR0lraEc3OGZnNTNIa1FEZ0FPR1BhaTI5R3dEMW55ckNVSXJRRE11VFBGN2dMSzMyeHF0VzBra1ZQ?oc=5",
+     "ts": "2026-10-27T10:00:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "a0867a7b7ed8",
+   "title": "Верхушка Xbox уже может играть в GTA 6",
+   "first_seen": "2026-10-27T10:10:54Z",
+   "updated": "2026-10-27T10:10:54Z",
+   "items": [
+    {
+     "id": "a0867a7b7ed8",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Верхушка Xbox уже может играть в GTA 6",
+     "url": "https://t.me/GTAVIStar/751",
+     "ts": "2026-10-27T10:01:49Z",
+     "summary": "Верхушка Xbox уже может играть в GTA 6 • Официальный аккаунт Xbox в X опубликовал фотографию, на которой заметили интересную деталь: рядом с ярлыком GTA 6 нет привычной подписи Pre-ordered . А нам, работягам, ждать до 19 ноября. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Верхушка Xbox уже играет в GTA 6, а нам ждать до 19 ноября",
+    "summary": "Официальный аккаунт Xbox в X опубликовал фото, где у ярлыка GTA 6 нет подписи Pre-ordered. По данным TG @GTAVIStar, это значит, что руководство Xbox уже может играть в GTA 6.",
+    "idea": "Сравнение: у топов Xbox GTA 6 уже на консолях, а игрокам — ждать релиза 19 ноября. Короткий монтаж фото и счётчик дней до выхода.",
+    "hook": "Верхушка Xbox уже рубится в GTA 6. А мы — считаем дни до 19 ноября.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-27T10:10:58Z"
+   },
+   "msg_id": 198
+  },
+  {
+   "id": "1553b5b118b4",
+   "title": "Analyst says GTA 6 won’t hurt Fortnite and Roblox as “not everyone” will play it",
+   "first_seen": "2026-10-27T10:10:54Z",
+   "updated": "2026-10-27T10:10:54Z",
+   "items": [
+    {
+     "id": "1553b5b118b4",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Analyst says GTA 6 won’t hurt Fortnite and Roblox as “not everyone” will play it",
+     "url": "https://www.dexerto.com/gta/analyst-says-gta-6-wont-hurt-fortnite-and-roblox-as-not-everyone-will-play-it-3422026/",
+     "ts": "2026-10-27T10:09:11Z",
+     "summary": "A video game analyst believes that “not everyone” wants to play Grand Theft Auto 6 when it finally releases, and that the fear of releasing games near it has been “overblown.”"
+    }
+   ],
+   "tags": [],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Аналитик: GTA 6 не навредит Fortnite и Roblox",
+    "summary": "Видеоигровой аналитик считает, что не все будут играть в GTA 6 при релизе. По его словам, страх выпускать игры рядом с GTA 6 преувеличен.",
+    "idea": "Коротко объясняем, почему GTA 6 не «убьёт» Fortnite и Roblox: разные аудитории и вкусы. Зрителю интересно, потому что это снимает страх «пустых серверов» в других играх.",
+    "hook": "GTA 6 выходит, но Fortnite и Roblox не исчезнут. Вот почему.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-27T10:11:04Z"
+   },
+   "msg_id": 199
+  },
+  {
    "id": "4e43f3c2cf0f",
    "title": "GTA 6 Ads Light Up Camp Nou During Real Madrid’s El Clasico Win",
    "first_seen": "2026-10-27T09:40:50Z",
@@ -49321,105 +49452,25 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b0749c63a287",
-   "title": "Little details",
-   "first_seen": "2026-10-20T10:10:46Z",
-   "updated": "2026-10-20T10:10:46Z",
-   "items": [
-    {
-     "id": "b0749c63a287",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Little details",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xamy14/little_details/",
-     "ts": "2026-10-20T08:51:46Z",
-     "summary": "So, i was watching (again) the last trailer, and i saw some really great details, some i never read about : - photo 1 : 2 PNJ's are getting scared by the police car coming fast - photo 2 : will this guy get chopped by the blade? The protection is off and he seems to go right through it! - photo 3 : look at that bullet flying just by Lucia, we can see the smoke trail - photo 4 and 5 are just for pleasure (the lightining in the smoke of the 5 is great). submitted by /u/Illustrious_Nerve500 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "189f9b57e2af",
-   "title": "Хакеры взломали свежую прошивку PS5 — она нужна для запуска GTA 6",
-   "first_seen": "2026-10-20T10:10:46Z",
-   "updated": "2026-10-20T10:10:46Z",
-   "items": [
-    {
-     "id": "189f9b57e2af",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "https://www.championat.ru/",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Хакеры взломали свежую прошивку PS5 — она нужна для запуска GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjFsOU94VjFUbk9UTEwzSTNTSkxhZ2xNZkNVYWU0cHRVU0hCazR5NmVrRGRycXFLdktBUUg3X0JaeXJmakxlbmhmSDZlUm9iU3JSVGF0bGVRVDBhTGFZWFdUTkx5UHpJTnFKYWhaRlRMUGlYZkxHOS1Mc0Ytd2J1SlRyUzBLdHczb0JPSWRxTmJCeDZWeGp4QlRkYkw4TmdPZk9CRnRqTFFPWE9HX0cyOWVobHZYY0xrU0p5UE9BWG0?oc=5",
-     "ts": "2026-10-20T09:58:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "bb3c6901ec15",
-   "title": "10 Movies To Watch While Waiting for ‘Grand Theft Auto VI’",
-   "first_seen": "2026-10-20T10:10:46Z",
-   "updated": "2026-10-20T10:10:46Z",
-   "items": [
-    {
-     "id": "bb3c6901ec15",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Collider",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "10 Movies To Watch While Waiting for ‘Grand Theft Auto VI’",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KN3FSZEJtS3VOUU9DVFZ2VTdtV1NRVlpiSDhMRmF1cWdzM0lGUFowdTZWOUxGb3RNbFQwdmhNV01aUVZLaGRxSWxCUndWMDR3ZW1EUHJGM1FIY2lXdUNta3dMd3VpRi1TVHVR?oc=5",
-     "ts": "2026-10-20T10:06:12Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T10:01:17Z",
+  "last_run": "2026-10-27T10:11:04Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 83/90",
-   "gnews_ru: 45/53",
+   "gnews_en: 79/86",
+   "gnews_ru: 42/48",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
    "ign: 2/20",
    "eurogamer: 0/100",
-   "dexerto_gta: 1/50",
+   "dexerto_gta: 2/50",
    "rockstarintel: 1/10",
    "gtaboom: 8/30",
    "reddit: 23/25",
-   "tg_gtavistar: 6/13",
+   "tg_gtavistar: 7/14",
    "tg_gta6deluxe: 7/11",
    "tg_gta6_m: 11/19",
    "tg_gta6newsdaily: 9/15"
