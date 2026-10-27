@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "1fdd0f288a65",
+   "title": "This GTA 6 Job Pays 800 Euros but Bans You From Showing Any Gameplay",
+   "first_seen": "2026-10-27T21:40:52Z",
+   "updated": "2026-10-27T21:40:52Z",
+   "items": [
+    {
+     "id": "1fdd0f288a65",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "This GTA 6 Job Pays 800 Euros but Bans You From Showing Any Gameplay",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUxWQUM0ZDNRbXBqb2o3TUJNUzZHYzJUMEFfdWVQaXh3djg3LUZ6dnAyQmtXX2RCNWdMMFhmS3dfWGFScW9oTjItcHh1OUZKblJ0NjJrVVc0akRsRC15SHd2Q1J2dVF6SDBtc1dCUWRVeFJyakd2ZkxZRS05eWlRVmhRam01QkNRZzBTQmhmdjRxem81cTg4ckRyZw?oc=5",
+     "ts": "2026-10-27T19:15:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "cf0552bec01f",
+   "title": "8 самых ожидаемых игр ноября 2026 года — месяц в тени релиза GTA VI",
+   "first_seen": "2026-10-27T21:40:52Z",
+   "updated": "2026-10-27T21:40:52Z",
+   "items": [
+    {
+     "id": "cf0552bec01f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Overclockers.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "8 самых ожидаемых игр ноября 2026 года — месяц в тени релиза GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdndsek1KSEFFZUNFd1gwYVg1bXVtTUFHZmxLb0VRYVJBTmtVZTV2OGJnZ1ZtTzNaQkZERlRZZG45UWR1aEZvd0gxV0t6aDFSSGJFQ0hVdDBsWjRWYXdVeVR4VXpBZUJYVkg3ZDk4RUJ5OUl3SHY3a0dWVlN1OEJPSkUzQ2lxam5SYk40TFM5Ukdzcjh3bVVpNDc0NHpjLXhrcS13R2l3S25GaEgwYmJoQnBTdjFvdHd0d0xYaHE5cUHSAb8BQVVfeXFMUEplaGhPM1g3UWozZzNORkZKNXFrMTJhTlZPdVZqczBXMFRRZWdWZ3dTTkVZU0RvREFsV3preUFQeUtQOU5XMWlvQlI0dVZJUmtVTDBSSkVBTTh0bHhBY1NLcm9UM3gtbzNwaHNVZVZ6T05nbmZMcXVaZ2hxdnBhaEp0cGtsNnB6c1BXWkpRSkZaaE54ajZ2RzlVbExHY2dNRTJPZFAyUC0wa3Z2Q1BvbXRXY0p3bktIaGdCclh4MGs?oc=5",
+     "ts": "2026-10-27T21:01:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c088c5d63446",
    "title": "Virgin Media wants to pay someone $900 to play GTA 6 for eight hours",
    "first_seen": "2026-10-27T15:50:56Z",
@@ -51380,11 +51434,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T21:31:11Z",
+  "last_run": "2026-10-27T21:40:52Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 97/100",
-   "gnews_ru: 56/58",
+   "gnews_en: 95/100",
+   "gnews_ru: 51/53",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
