@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "487a35d8b25e",
+   "title": "☺️ GTA 6 is currently being marketed in Times Square in NYC.",
+   "first_seen": "2026-10-27T00:20:52Z",
+   "updated": "2026-10-27T00:20:52Z",
+   "items": [
+    {
+     "id": "487a35d8b25e",
+     "src": "tg_gta6newsdaily",
+     "src_name": "TG @gta6newsdaily",
+     "outlet": "",
+     "group": "telegram_en",
+     "weight": 45,
+     "alert": true,
+     "title": "☺️ GTA 6 is currently being marketed in Times Square in NYC.",
+     "url": "https://t.me/gta6newsdaily/5002",
+     "ts": "2026-10-27T00:13:45Z",
+     "summary": "☺️ GTA 6 is currently being marketed in Times Square in NYC. #GTA6 #GTAVI #GTA6News #ViceCity #NYC #RockstarGames"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6ac95339b703",
    "title": "GTA 6's Download Size Could Be A Major Problem For Some Players",
    "first_seen": "2026-10-27T00:10:49Z",
@@ -49612,41 +49638,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "379f18494a90",
-   "title": "Майами: сейчас весь город покрыт рекламой GTA 6 2026 | GTA expert: Новости GTA 6",
-   "first_seen": "2026-10-20T00:20:50Z",
-   "updated": "2026-10-20T00:20:50Z",
-   "items": [
-    {
-     "id": "379f18494a90",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ВКонтакте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Майами: сейчас весь город покрыт рекламой GTA 6 2026 | GTA expert: Новости GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RRW9GYXBpdHpHX2NBVnoySndqTU1VZTNpQVoxNDlMb25RQklrQ0dMV1puYURzLTAyWTRwZU9YUHFSWjZEbjBsSXpR?oc=5",
-     "ts": "2026-10-19T18:42:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T00:10:49Z",
+  "last_run": "2026-10-27T00:20:52Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 94/100",
-   "gnews_ru: 39/50",
+   "gnews_en: 93/100",
+   "gnews_ru: 40/51",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
@@ -49659,7 +49659,7 @@
    "tg_gtavistar: 5/13",
    "tg_gta6deluxe: 8/11",
    "tg_gta6_m: 11/19",
-   "tg_gta6newsdaily: 8/15"
+   "tg_gta6newsdaily: 9/15"
   ],
   "digest": "2026-10-26@21",
   "tg_offset": 854319078
