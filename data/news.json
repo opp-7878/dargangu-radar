@@ -4,7 +4,7 @@
    "id": "e88176e83435",
    "title": "GTA 6 review codes are out & review embargo is set for November 18, 2026",
    "first_seen": "2026-10-27T08:17:01Z",
-   "updated": "2026-10-27T11:50:51Z",
+   "updated": "2026-10-27T12:01:18Z",
    "items": [
     {
      "id": "e88176e83435",
@@ -57,12 +57,51 @@
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fQXpUMVRsSlhiSGpoRl9QdWl4eGp3TGU2NUtPa0NpaW4wYW9UWUdGYl9Sc0w0MzZkaU5uUzhWbjlGYXJvdmU1Z28zSHdZcHMwMjlVSlNWNF9TSE1oeUdQSGgtcGUtdzdjeGc?oc=5",
      "ts": "2026-10-27T11:42:03Z",
      "summary": ""
+    },
+    {
+     "id": "46e6e6595280",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameWatcher",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Review Embargo Reportedly Set for November 18",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWtxNzJIbjFFSUNJem1NTkZDMDNCQnFCRTh2ZXB4UXFGejZ0NDFfVGhCazQ1amdPeWFHZkRsZ2s0QjgwWXlrQTVhT1d1UHJ3czltRWxaZEUxUFh3U2I0LXk4b0V1T3FuelY2dTRHZVpERkdVWDhNZV8zanNscktJRVBfTV8xUVJqQ0M1Z3NqWnJqS18yMEljVDQ3a0l4b2pqZGFtb2p6WS1lQQ?oc=5",
+     "ts": "2026-10-27T11:30:00Z",
+     "summary": ""
     }
    ],
    "tags": [],
-   "score": 74,
+   "score": 75,
    "level": "PROBABLE",
    "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "18347420e07e",
+   "title": "SURPRISE! ShipShaper Drops Explosive Multiplayer Update Launching Head-to-Head with GTA VI!",
+   "first_seen": "2026-10-27T12:01:18Z",
+   "updated": "2026-10-27T12:01:18Z",
+   "items": [
+    {
+     "id": "18347420e07e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Games Press",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "SURPRISE! ShipShaper Drops Explosive Multiplayer Update Launching Head-to-Head with GTA VI!",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZU55Z2VmbU5pc1E3Z0lNR29xVUlscUxWSmRseXRaOFNwcWlfdUlJb0pqZkFydXZ6MllPZHJCRXladUJkTjQtWW8xNnNjNWtjekJBOEV0RmhUakFOc0puYXJuaVczWndPTUwyeGZseTU4Mk9KdU9pVHVnbGNyM01POWkwb1BjMjVaMVhGM3YtU0xPQ0pwU0NIQmlzeGZKU1FDQ1kydGFR?oc=5",
+     "ts": "2026-10-27T11:50:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -49761,10 +49800,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T11:50:51Z",
+  "last_run": "2026-10-27T12:01:18Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 94/100",
+   "rockstar_site: 0/1",
+   "gnews_en: 93/100",
    "gnews_ru: 47/56",
    "gamesbeat: 1/10",
    "vgc: 0/10",
@@ -49773,7 +49812,7 @@
    "eurogamer: 0/100",
    "dexerto_gta: 2/50",
    "rockstarintel: 1/10",
-   "gtaboom: 8/30",
+   "gtaboom: 7/30",
    "reddit: 23/25",
    "tg_gtavistar: 7/14",
    "tg_gta6deluxe: 8/11",
