@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "0c95a0da28c9",
+   "title": "You can now smell GTA VI: the game gets its own coffee",
+   "first_seen": "2026-10-27T07:10:52Z",
+   "updated": "2026-10-27T07:10:52Z",
+   "items": [
+    {
+     "id": "0c95a0da28c9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iXBT.games",
+     "group": "media",
+     "weight": 45,
+     "alert": true,
+     "title": "You can now smell GTA VI: the game gets its own coffee",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2ZjQzhDeUV6ck1SMFNlMmVsajJSdFdXWFpySnVJWGpJYlpEVmhyOERweDNBNmd3VVZ0Rm5zaWpyVVpkMVJNUzNCalYxWm5JdUVvY29ONW9jZW9tXzU4ckFKNlRaZDFuNFJaaE5DLVdCLWRycDBVeTFGX3FZY3pfbkNzVWJtTGgwQzBua0RQNXVwdXFHQS1FSmlZaU81NFVHa2FiR3dDbTZZTl9CUFA5ZnF30gG3AUFVX3lxTE8tWUZabS11aklTWDB3N2ZLUW5lS290YnFrTmNMMUFWSE5maU9ySk5vbVRoYjdaTm1Hb0VUUk1tLTROOW44NzJrZklmV2dfanNYMW83bExlNVYwN0Rvc1hWamtrS3JtR0F5V01GaGNuMkVqWkhrRTRZV3N3ZmRORWhCMjJITG52eGpLTlQweXMxVkliMDQ0QjYxZnNRY3hENzRVczFPbzJLQlZtdDY2TEViNENUZUFpaw?oc=5",
+     "ts": "2026-10-27T06:54:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c2c77d32b138",
+   "title": "Аромат GTA VI теперь можно почувствовать: игра получила собственный кофе",
+   "first_seen": "2026-10-27T07:10:52Z",
+   "updated": "2026-10-27T07:10:52Z",
+   "items": [
+    {
+     "id": "c2c77d32b138",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Аромат GTA VI теперь можно почувствовать: игра получила собственный кофе",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTdHcVRoTTdTSHdQemwycnFLakxFVDhhS0xaNmZOTzd1a0tQaEZaRXB5TFQyUlQ5cHEwYWV2aExKdnRVS1ZueHJoVHdYOVhGSkJ4ODRZMFBZemQtQ1RkZFB1cEpjY3RIQlhVcmhrNkJNQlcxUThubS1KS0p1YWNudXd1LXRNWFMtWjRjbnhZRlZ1NmZkblpjZjRxS0p1TU9UUkpWQ1piWTJpVU96Q3fSAbMBQVVfeXFMT09IVlJGeFdmemNHLW0xaVpkT0VSQy15WURDWGVwbWRTYnFyYlFXb2w1LXhTWFR6ZTV1RmRMbWxDMnp0TTlmb0gwczdjSGdWNm90cE90UGptX09pT2lvdjluSEhBOGc4eWxnNTNraHU4ak9IOUhtNnNVVWtwV2ZNUEJuTVhhNzVqWWhXU2xpaDY0V2lXbGhWMGZrWDY5SmE3TVFRNWMyckhwd3JiR0t2aHhFakE?oc=5",
+     "ts": "2026-10-27T06:54:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6931d50a37f8",
    "title": "GTA 6 Is Releasing Next Month And Employees Are Already Planning Leaves From Work",
    "first_seen": "2026-10-27T06:01:17Z",
@@ -49485,11 +49537,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T07:01:16Z",
+  "last_run": "2026-10-27T07:10:52Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 93/100",
-   "gnews_ru: 36/43",
+   "gnews_ru: 42/54",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
@@ -49498,7 +49550,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 9/30",
-   "⚠️ reddit: HTTP Error 429: Too Many Requests",
+   "reddit: 24/25",
    "tg_gtavistar: 6/13",
    "tg_gta6deluxe: 8/11",
    "tg_gta6_m: 11/19",
