@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "c6ee91f0c238",
+   "title": "Never forget the great information drought 🫡",
+   "first_seen": "2026-10-27T02:21:16Z",
+   "updated": "2026-10-27T02:21:16Z",
+   "items": [
+    {
+     "id": "c6ee91f0c238",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Never forget the great information drought 🫡",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xgg5y5/never_forget_the_great_information_drought/",
+     "ts": "2026-10-27T02:03:02Z",
+     "summary": "submitted by /u/Coltyn03 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "611c0ea2e6cf",
    "title": "Discord to Add GTA 6-Themed Accessories",
    "first_seen": "2026-10-27T02:10:48Z",
@@ -49573,47 +49599,21 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "8e69dba0626f",
-   "title": "Before GTA 6: Remembering the 1997 Original Game That Started It All",
-   "first_seen": "2026-10-20T02:20:49Z",
-   "updated": "2026-10-20T02:20:49Z",
-   "items": [
-    {
-     "id": "8e69dba0626f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Decked Out Magazine",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Before GTA 6: Remembering the 1997 Original Game That Started It All",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vZW1wOFB0OW82OU5EVzZKQnRUX055TFFRZ2M0ZXVXX0t2MlV3MmJ1cjJvalpONkJ6SXNCSGpzb2YwbjF4aE5YRjhfVE54c19qd3JiTy0tVmdwVWF6amNjWXQ0VVFkVkpLb0xF?oc=5",
-     "ts": "2026-10-20T01:22:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T02:10:48Z",
+  "last_run": "2026-10-27T02:21:16Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 94/100",
-   "gnews_ru: 38/45",
+   "gnews_ru: 41/50",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
    "ign: 2/20",
    "eurogamer: 0/100",
-   "dexerto_gta: 1/50",
+   "⚠️ dexerto_gta: The read operation timed out",
    "rockstarintel: 1/10",
    "gtaboom: 9/30",
    "reddit: 24/25",
