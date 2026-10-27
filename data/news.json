@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "629690ded445",
+   "title": "GTA 6 Is Getting the Full Edge Magazine Treatment Before November 19",
+   "first_seen": "2026-10-27T16:40:52Z",
+   "updated": "2026-10-27T16:40:52Z",
+   "items": [
+    {
+     "id": "629690ded445",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Is Getting the Full Edge Magazine Treatment Before November 19",
+     "url": "https://www.gtaboom.com/gta-6-is-getting-the-full-edge-magazine-treatment-before-november-19-f9ec",
+     "ts": "2026-10-27T16:33:20Z",
+     "summary": "Edge joins Game Informer, LOVE, Dazed and Bloomberg in a run of exclusives, each revealing different GTA VI details before November 19."
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Edge Magazine посвятит GTA 6 целый выпуск до релиза",
+    "summary": "По данным GTA Boom, журнал Edge готовит полный выпуск о GTA 6 до 19 ноября. К Edge присоединились Game Informer, LOVE, Dazed и Bloomberg — каждый раскроет свои детали.",
+    "idea": "Коротко показываем обложки и заголовки из Edge и других изданий, собираем в один тизер. Зрителю интересно, потому что это концентрированные детали перед релизом.",
+    "hook": "Edge Magazine делает целый выпуск о GTA 6 — что внутри до 19 ноября?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-27T16:41:14Z"
+   },
+   "msg_id": 221
+  },
+  {
    "id": "d704e95226db",
    "title": "GTA 6 Release Fears Are ‘Overblown,’ Circana Analyst Says",
    "first_seen": "2026-10-27T16:31:04Z",
@@ -49809,41 +49848,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "18b6394998bb",
-   "title": "Hovering a helicopter over a Beyoncé concert, 'police ride-alongs', and a 40th birthday spent in a nightclub — Rockstar did heavy research on Miami for GTA 6 and even met people who 'want to tell you every crime they or their friends have ever done'",
-   "first_seen": "2026-10-20T16:40:44Z",
-   "updated": "2026-10-20T16:40:44Z",
-   "items": [
-    {
-     "id": "18b6394998bb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TechRadar",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Hovering a helicopter over a Beyoncé concert, 'police ride-alongs', and a 40th birthday spent in a nightclub — Rockstar did heavy research on Miami for GTA 6 and even met people who 'want to tell you every crime they or their friends have ever done'",
-     "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPNXBGeGg3SUZaN0hDMlBNT0NGZnZwVkstR3duaC0ySkhxVGRJU3lHLXZMR29Ga0FKSjgyYVVEMFotYkRLWVpzN0YtWFBZM1VxbXFzc3h5cHNEV3dOaFI2RUxTMUxOR3BoSjE0eDF2QVNqR0k3eUdsUVl1NHVLbllTaWcyTkVvREhkZV9mQ1lia3RhMkhCbnE3VGdja2dlTV9lM05RVjBWeXdmcnpLclVkcTZhb3ZVcDFVakN3UjVmS3lheVF5NnRnMV9zYkUxRmMtNVd6ZDlkWlNxUnUyMzI0VzZzUXcwVE0xMjVBaGlNVmJ1MFpxbndyeW9tSkRocXMyR0YtcEF1UkltUGREWnhRLTJ1TV9BWUJkdDFqcVNfYUlxQ24zbXdhUzk0WnUzeGdKQVpTMkdkdnZBSDlKUGcyeUVyUTZaaXk0NG9DMXdOZGk3My1kcXpNR3FOeHZfbkFvSndockVoN1dnOTlaQkgwaEZxQ0pHczkxUjN0VWVZdXEwaEt6LWFUQUFiQzJ4cHQx?oc=5",
-     "ts": "2026-10-20T16:30:59Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T16:31:04Z",
+  "last_run": "2026-10-27T16:41:15Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 94/100",
-   "gnews_ru: 51/55",
+   "gnews_ru: 50/56",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -49851,10 +49864,10 @@
    "eurogamer: 0/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 1/10",
-   "gtaboom: 10/30",
+   "gtaboom: 11/30",
    "reddit: 24/25",
    "tg_gtavistar: 6/14",
-   "tg_gta6deluxe: 8/11",
+   "tg_gta6deluxe: 7/11",
    "tg_gta6_m: 11/19",
    "tg_gta6newsdaily: 9/15"
   ],
