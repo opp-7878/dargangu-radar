@@ -4,7 +4,7 @@
    "id": "60d8a4d8ec56",
    "title": "Take Two Interactive Software (TTWO) Stock Looks Near Fair Value As GTA VI Nears",
    "first_seen": "2026-10-27T12:40:49Z",
-   "updated": "2026-10-27T17:20:54Z",
+   "updated": "2026-10-27T17:31:05Z",
    "items": [
     {
      "id": "60d8a4d8ec56",
@@ -57,14 +57,316 @@
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRTlLdkY3clhoRllkbkJ1UHVSRHdMOE5xbk45Sy1yY0dYbmNkdU9Cakxwd0wxQ1FSSno5cHNWZUZSVTNOZ1AtMUZMcEhLcjJ4RTJUWXViS09vMkoxSkVKcFRzVkF3dTExdDZXWEYza09WREZJMkVtaHBicUFKUF9YcFJwbEFoblIwRzFkazJHUXhfbjVvQjlwam5rMU8zWnhwRk1CWnA2MTlTU0tpMGdrLUZFSWJhdUR3MzFqN0U0MkRwb1ZHT0xERFN4cw?oc=5",
      "ts": "2026-10-27T16:45:41Z",
      "summary": ""
+    },
+    {
+     "id": "adee94d54632",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Buy Take-Two stock before huge GTA 6 release drives earnings explosion, BofA says",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yekhNRElfV0ZKYXFCbHMyWllVZnJ0ZnlTZzR1NFNaOGpSRXhMWWRNR1o1X3UwbDA2dExSTVpDb2Z4V0JKMlVoT1dNNlk2R19rTFNURVZrSVB4ck9XQkxPMnNnSmNvei1SdXdQYUtsaFRkbWFMZ2hyczA0VQ?oc=5",
+     "ts": "2026-10-27T16:45:41Z",
+     "summary": ""
     }
    ],
    "tags": [
     "Take-Two"
    ],
-   "score": 89,
+   "score": 90,
    "level": "PROBABLE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "5c67fd72c2e1",
+   "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
+   "first_seen": "2026-10-27T17:20:54Z",
+   "updated": "2026-10-27T17:31:05Z",
+   "items": [
+    {
+     "id": "5c67fd72c2e1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzRKYmJ1N25mREpRT0ZKdF9mNFIzN1BRZzQxYUg1cDI5b2NrMU1vb1lVRVBnQmJIOEE5NjNxMUw4NFBNdWtuMlJpNGpHMUh4NVFNbUJsakdkbXJxcGtQN1hfWi1xbGtnT3FvQVZjMUN5a3Nwa1Y2eHVQbmUyRXhyMUFrX0k?oc=5",
+     "ts": "2026-10-27T17:10:45Z",
+     "summary": ""
+    },
+    {
+     "id": "1d2e44e44791",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN India",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQUZMRV9uMkhWUzN1enFwVlRZTDFRak9kUUtuV2tXUElxcVRXSzZiMVBaNUhNbEYtdkpRTWJhVnluNTZjeWNDZkZOTWlkcXRfbDNqZTZNMWZqcURESFN6S1FMWS1vU2U3cnNVQkpfdjVuTnBVa2FFckNYSURvUVJ1eG5vUl9ERE1FZGxJQ1BfdmtoSG5DSUtxcDFkejlYdTBqN2RkT2RZTkQ5Tnl6QXp6bWpjRkhMYlJGVVV1eGdqeXV1YmhGZE5wc2dXSUZuUmxwV3ZPTHhZdGdjVzZPdWc?oc=5",
+     "ts": "2026-10-27T17:25:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 60 (char 61)",
+   "ai": {
+    "title_ru": "🔥 GTA 6 вернула 86-летнего Клиффа Ричарда в чарты",
+    "summary": "По данным IGN, после выхода GTA 6 в чартах снова поднялся 86-летний Клифф Ричард. Сам певец, по словам IGN India, до сих пор не понимает, что такое GTA 6.",
+    "idea": "Короткая нарезка: кадры GTA 6 и старый клип Клиффа Ричарда с подписью о его возвращении в чарты. Зрителю интересно увидеть неожиданный культурный эффект игры.",
+    "hook": "GTA 6 вернула в чарты 86-летнего певца, который не знает, что это.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-27T17:31:09Z"
+   },
+   "msg_id": 224
+  },
+  {
+   "id": "1b8855a0b189",
+   "title": "Grand Theft Auto 6 Download Size Revealed To Be 210 GB",
+   "first_seen": "2026-10-27T17:20:54Z",
+   "updated": "2026-10-27T17:31:05Z",
+   "items": [
+    {
+     "id": "1b8855a0b189",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "BREAKING: GTA6 Download Size Revealed",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xgyi81/breaking_gta6_download_size_revealed/",
+     "ts": "2026-10-27T17:13:34Z",
+     "summary": "submitted by /u/RehanEU to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "c18e9efbbe9f",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Grand Theft Auto 6 Download Size Revealed To Be 210 GB",
+     "url": "https://insider-gaming.com/gta-6-install-size-revealed-210-gb/",
+     "ts": "2026-10-27T17:17:26Z",
+     "summary": "Grand Theft Auto 6's install size will come in at a whopping 210 GB, it has been revealed, making it one of the largest games ever. The post Grand Theft Auto 6 Download Size Revealed To Be 210 GB appeared first on Insider Gaming ."
+    },
+    {
+     "id": "9a1ba575bfee",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Grand Theft Auto 6 Download Size Revealed To Be 210 GB",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwVlNSMUY1Uk5qMUNxVy1PVXlkYVczUDhxd05Zd3lrUHlDY05KRDJ3RlhPVUVkdHBQSUdGTUo1SWRhTUtpQzRBbkd1dk5QenZ3WHVmdVZON3BGOWgtWk5UdzNQamF4Q3NMUmxQSnkzdw?oc=5",
+     "ts": "2026-10-27T17:17:26Z",
+     "summary": ""
+    },
+    {
+     "id": "a41c4e9d3084",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TwistedVoxel",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Download Size and Pre-Load Details Revealed",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWThVRWFLTGl0akdlc184WXZpQ2V5Z3FuVmdVY2llSDVmMGJDTlVMZVpvX3FQMGVZRkxJdkpwRlVmRHNUc1p1VnlFTEVaQ0o3ZS15VUhzQTI0WTRUWnNPbFNoNjJ2eXpYbmJOZXJyWDZfZmc1bU5Ea3piYmNMaFZqZg?oc=5",
+     "ts": "2026-10-27T17:26:31Z",
+     "summary": ""
+    },
+    {
+     "id": "d4037cfe3faa",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA 6 Download Size Revealed And It’s 210GB",
+     "url": "https://rockstarintel.com/gta-6-download-size-revealed-and-its-210gb/",
+     "ts": "2026-10-27T17:29:12Z",
+     "summary": "The GTA 6 download size has finally been revealed. After years of rumours about how the game could exceed 300GB, we finally know it is the biggest game yet. The final, full download size of GTA VI comes from the ever reliable PlayStation Game Size Twitter account. They scrape the PlayStation Store database backend for [...] The post GTA 6 Download Size Revealed And It’s 210GB appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [
+    "анонс",
+    "размер/preload"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "bcf49aae78d4",
+   "title": "Why GTA 6 characters could have nude models that players never get to use",
+   "first_seen": "2026-10-27T17:31:05Z",
+   "updated": "2026-10-27T17:31:05Z",
+   "items": [
+    {
+     "id": "bcf49aae78d4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "UNILAD Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Why GTA 6 characters could have nude models that players never get to use",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXdNUkZ0UXlEUkR5LURJNjdGeU1JMHgzeTMyRGY5RVNBRThpM3lUN1p2U2l3VEdjaHRKbUtZeE41TTI1VlhvTEtfSjc2R0NLcnJVQWVaR3E4U2ZqOUg0SUU5V1ZJN1JKSU1JOWVxMTlSWEhXWmRoMHZZbTlwalU3Ylc4Znc5TE03aWpOanVVTkVjWGdSWV91X1FR?oc=5",
+     "ts": "2026-10-27T10:14:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c8819dfe1c10",
+   "title": "GTA 6 начали отправлять журналистам за 3 недели до релиза",
+   "first_seen": "2026-10-27T17:31:05Z",
+   "updated": "2026-10-27T17:31:05Z",
+   "items": [
+    {
+     "id": "c8819dfe1c10",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "MobiDevices",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 начали отправлять журналистам за 3 недели до релиза",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCdjBVNk5FSzNzcnVIQWMybDVoR09Kc1NoQ2Y1SkRrQXZGbVlYTEZKTXBsMk9lellUUGF6MkxKaHJiNVVjbEgzMzI4ZnE3UVdlYlR5YmIwb0lOZw?oc=5",
+     "ts": "2026-10-27T17:22:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cfb1ce90823e",
+   "title": "GTA 6 review copies sent to journalists three weeks before release",
+   "first_seen": "2026-10-27T17:31:05Z",
+   "updated": "2026-10-27T17:31:05Z",
+   "items": [
+    {
+     "id": "cfb1ce90823e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "mobidevices.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 review copies sent to journalists three weeks before release",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYZ0J2eEVRbURFcWFIVFVEcXRVbXJ6TU1VVjVhZ3NjWHJEUmItVmxsdmptaDdkTjFQOEZXcU9hWVZqUlg1TEEzb2RSN3ZfZkdOYW5ucXpPaWZmd2NuSWc?oc=5",
+     "ts": "2026-10-27T17:22:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "54973f7acbb4",
+   "title": "Число запросов на отпуск резко возросло из-за предстоящего релиза GTA 6",
+   "first_seen": "2026-10-27T17:31:05Z",
+   "updated": "2026-10-27T17:31:05Z",
+   "items": [
+    {
+     "id": "54973f7acbb4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "24 Канал",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Число запросов на отпуск резко возросло из-за предстоящего релиза GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbEJHa0xGU0ltNmpzV2NocnlKcF9vdDVpVVhzdHFzaUtCR2M2ZGtqNGRIel91TEVtUExCSGtnRFUzX2VsTkhnS0JfRmplM0I2MzNpalY5Wk1KYVFYVlZvRlkzMXliYWtlQlZkdGFyY2hwQjhjZXl2T2JFTGZpN0VqRzhMWlhkVUZhZDM2Tm92a9IBlAFBVV95cUxPbk84aWIzaVM1OTFmZXkyOGVvVlJIU3RFV2E4VHlPYlFWWkgySjZTUnl3b1pBOFB6WVBBaFJjUzZvNXU3eGozbEJadmVORzhvTEFRV1AwZ0RvcHN3NXpvbGdod1hQeGdxVkMtT0h3Sng0RTMzNXJNUEhsUmNub3Zfb2dETlBkLWEwdVdQOHlDbjBBeUE5?oc=5",
+     "ts": "2026-10-27T17:24:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3c5b3032a1e6",
+   "title": "GTA 6 весит 210 ГБ на PlayStation 5 — это самая «тяжёлая» игра в истории",
+   "first_seen": "2026-10-27T17:31:05Z",
+   "updated": "2026-10-27T17:31:05Z",
+   "items": [
+    {
+     "id": "3c5b3032a1e6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "www.championat.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 весит 210 ГБ на PlayStation 5 — это самая «тяжёлая» игра в истории",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYmxsQjM2NE9Jd3ZDWFh4cEx5YkFsRVFiWXhrV3N2bzVtTWY5aEFxRmxHU1U5OE1iUnpveGY0NjdVWU84VEZpZlBhazc5X2NHNVJIdWtlZVRFMUZtOEVmMEdnUi01eUZWR2NDSldUZDNoeHZwV21FMHZuei1Ic2JYVHdDT3RmYUFCRVY5dnFHWkJJNmdkSUJHSTM4SmU1TTRSQ1kyNGNYTTB1NmhiTWdOc2ZSZ0VuQUZQSHpKdElrNlVJNGZJbkdj?oc=5",
+     "ts": "2026-10-27T17:25:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "67dccf9242df",
+   "title": "Раскрыто, сколько места займет GTA 6 на PS5",
+   "first_seen": "2026-10-27T17:31:05Z",
+   "updated": "2026-10-27T17:31:05Z",
+   "items": [
+    {
+     "id": "67dccf9242df",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Plugged In Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Раскрыто, сколько места займет GTA 6 на PS5",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvdkxWMXJQQmROUnNOeHJZY3ZFV3Eyb2xDMjFFd241QU9Zc2ZsUWtTREJZejV0YVRHd1RhS0dieWhheHdBUkcxa2J0ajdlX0FWR1BnY0FLRWd5dE9mSTEtRkt3RVpBUFZvcHlOVEJlVExOLTZVRG00alo3QW0wY00?oc=5",
+     "ts": "2026-10-27T17:27:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -159,34 +461,6 @@
    "status": "new"
   },
   {
-   "id": "5c67fd72c2e1",
-   "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
-   "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-27T17:20:54Z",
-   "items": [
-    {
-     "id": "5c67fd72c2e1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzRKYmJ1N25mREpRT0ZKdF9mNFIzN1BRZzQxYUg1cDI5b2NrMU1vb1lVRVBnQmJIOEE5NjNxMUw4NFBNdWtuMlJpNGpHMUh4NVFNbUJsakdkbXJxcGtQN1hfWi1xbGtnT3FvQVZjMUN5a3Nwa1Y2eHVQbmUyRXhyMUFrX0k?oc=5",
-     "ts": "2026-10-27T17:10:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 60 (char 61)"
-  },
-  {
    "id": "e59356b85172",
    "title": "I made a Chrome Extension that hides spoilers for good",
    "first_seen": "2026-10-27T17:20:54Z",
@@ -278,48 +552,6 @@
     "at": "2026-10-27T17:21:03Z"
    },
    "msg_id": 223
-  },
-  {
-   "id": "1b8855a0b189",
-   "title": "Grand Theft Auto 6 Download Size Revealed To Be 210 GB",
-   "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-27T17:20:54Z",
-   "items": [
-    {
-     "id": "1b8855a0b189",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "BREAKING: GTA6 Download Size Revealed",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xgyi81/breaking_gta6_download_size_revealed/",
-     "ts": "2026-10-27T17:13:34Z",
-     "summary": "submitted by /u/RehanEU to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "c18e9efbbe9f",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Grand Theft Auto 6 Download Size Revealed To Be 210 GB",
-     "url": "https://insider-gaming.com/gta-6-install-size-revealed-210-gb/",
-     "ts": "2026-10-27T17:17:26Z",
-     "summary": "Grand Theft Auto 6's install size will come in at a whopping 210 GB, it has been revealed, making it one of the largest games ever. The post Grand Theft Auto 6 Download Size Revealed To Be 210 GB appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [
-    "анонс",
-    "размер/preload"
-   ],
-   "score": 88,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   },
   {
    "id": "b4072804e2cf",
@@ -50015,61 +50247,22 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "fd8a80dcf1b7",
-   "title": "Flying cars before GTA 6: What Tesla’s memes can teach real estate agents",
-   "first_seen": "2026-10-20T10:10:46Z",
-   "updated": "2026-10-20T17:31:01Z",
-   "items": [
-    {
-     "id": "fd8a80dcf1b7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Inman Real Estate News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Flying cars before GTA 6: What Tesla’s memes can teach real estate agents",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TZ1dxam9sM0VQc1otMnJ1NTZjTlJkamczMmhJNHRlQ2dIVFBKVmFJU3c4UDdJYXB1aXdxalFaZGUyY05IQk9XTkVvLV9WMDktX2h5NWR1d1NwVHVrVWgyUE12b2tPZEp4amFsQVFB?oc=5",
-     "ts": "2026-10-19T22:03:09Z",
-     "summary": ""
-    },
-    {
-     "id": "b47d85171469",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Flying cars before GTA 6: What Tesla’s memes can teach real estate agents",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSEtzVWVHSFdNN1hpOUN0bEFqUVZFa0RmeG5TaXdfaW5DaGNNRGY0UnQ1MEFMVGtjUFg4eGdwZExFRFhMWjlFUk1IekpxN0V4enUzLWRDRzRvMEtiVmJVTk55eFNXeWhxaWRMOFgtTURGd2I1R1NNNGNWQjl3bWlxZWk2Q09wZw?oc=5",
-     "ts": "2026-10-19T22:03:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T17:21:04Z",
+  "last_run": "2026-10-27T17:31:10Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 95/100",
-   "gnews_ru: 43/46",
+   "rockstar_site: 0/1",
+   "gnews_en: 94/100",
+   "gnews_ru: 47/50",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
    "ign: 1/20",
    "eurogamer: 0/100",
    "dexerto_gta: 3/50",
-   "rockstarintel: 1/10",
+   "rockstarintel: 2/10",
    "gtaboom: 10/30",
    "reddit: 24/25",
    "tg_gtavistar: 7/16",
