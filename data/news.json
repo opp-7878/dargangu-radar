@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "41d8463dd3e5",
+   "title": "Inside Grand Theft Auto VI - A Documentary",
+   "first_seen": "2026-10-26T15:01:35Z",
+   "updated": "2026-10-27T01:01:15Z",
+   "items": [
+    {
+     "id": "41d8463dd3e5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Howl.Link",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Inside Grand Theft Auto VI - A Documentary",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5oS1VWVFpiWUQ3dzhROHRWeUVOOFVtTmtZMU5KXy1Xb1F3dGdnSDMweGpfZVpOeF9tbERz?oc=5",
+     "ts": "2026-10-26T13:42:40Z",
+     "summary": ""
+    },
+    {
+     "id": "301967d957e0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Inside Grand Theft Auto VI - A Documentary",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQTDhpQy1lWVNRblRJRUd0NTkyOVVDLW44WlVGY0pWYUVFZjdWWjVSeEdjQTlxM1JIdG5Rb0luUkE0eEpTUThTeVE1S1EtUjBibnd4cnpHX3NVeE1v?oc=5",
+     "ts": "2026-10-26T13:42:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
    "id": "75c71c488aab",
    "title": "По словам аналитика, GTA 6 не оказала положительного влияния на продажи консолей Xbox Series",
    "first_seen": "2026-10-27T00:40:49Z",
@@ -3589,32 +3628,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "41d8463dd3e5",
-   "title": "Inside Grand Theft Auto VI - A Documentary",
-   "first_seen": "2026-10-26T15:01:35Z",
-   "updated": "2026-10-26T15:01:35Z",
-   "items": [
-    {
-     "id": "41d8463dd3e5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Howl.Link",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Inside Grand Theft Auto VI - A Documentary",
-     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5oS1VWVFpiWUQ3dzhROHRWeUVOOFVtTmtZMU5KXy1Xb1F3dGdnSDMweGpfZVpOeF9tbERz?oc=5",
-     "ts": "2026-10-26T13:42:40Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -49638,11 +49651,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-27T00:50:57Z",
+  "last_run": "2026-10-27T01:01:15Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 94/100",
-   "gnews_ru: 43/53",
+   "gnews_en: 93/100",
+   "gnews_ru: 41/51",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
