@@ -4,7 +4,7 @@
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-28T11:10:54Z",
+   "updated": "2026-10-28T11:20:54Z",
    "items": [
     {
      "id": "1b8855a0b189",
@@ -798,6 +798,32 @@
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPYk1OSXZJeURwUWNFdWExajFIckJQbWpYN0NjMU51LTIyaUxjU0MtcnZLWU5odS1ZT1ZLeFBieEF2VW1Vck1iWHkxSEhiVGJndTU1WkNpYlDSAVhBVV95cUxQT2JNTkl2SXlEcFFjRXVhMWoxSHJCUG1qWDdDYzFOdS0yMmlMY1NDLXJ2S1lOaHUtWU9WS3hQYnhBdlVtVXJNYlh5MUhIYlRiZ3U1NVpDaWJQ?oc=5",
      "ts": "2026-10-28T08:41:33Z",
      "summary": ""
+    },
+    {
+     "id": "40c17141ec18",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "inkl",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' File Size Revealed: Rockstar Games Is Set to Deliver a Massive Game This November",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUJpalpfSUxNMUxNQVBFUFJXZ0V1bzAzN25QVWhzX19mREkwTTB5QXFUeWFlZ3V3aEpnYkYtLU1QX0U1UmxwQWFuMFZYd2lYOXZUUHVLdFhIa2M1NGlqcDU5cUplMGZGNVpEanlKM0FuRnlWZC1XYko2OENKZG9Xa0VKVjZoQzFPWXBra3lTY2RwSm1JRFhORmNJa3haY0RPbmpnYzl5Yy1UQWdpbjN3eVFn?oc=5",
+     "ts": "2026-10-28T07:00:08Z",
+     "summary": ""
+    },
+    {
+     "id": "e008258fc916",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Express Tribune",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 reportedly requires 210GB of storage on PS5",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXE2V0Z4OVVSeDRPdHZ5RU1oeVQwWGpCeTQwYlFaMjRocjRTcnhmb0JLTXByYmV0dFo2NFc0RjNUZVU5WWRTQTV3NFFwcGZUelZZc0JFaW5zSWJrS0t6bk0wOXh2ZkRtN0RnYmNaTFhRdVhnd01xWGlqRVJWTkFMa05Qd2dzdms3NE1PaGdwWQ?oc=5",
+     "ts": "2026-10-28T11:12:43Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -812,6 +838,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "ce228833e9f6",
+   "title": "Will there really be people who will speedrun the game",
+   "first_seen": "2026-10-28T11:20:54Z",
+   "updated": "2026-10-28T11:20:54Z",
+   "items": [
+    {
+     "id": "ce228833e9f6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Will there really be people who will speedrun the game",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xhlbvd/will_there_really_be_people_who_will_speedrun_the/",
+     "ts": "2026-10-28T11:20:31Z",
+     "summary": "I've heard of people who speedrun the story mode in a straight line without taking the pleasure of walking around this game aftzr 10 y... I find it so bad submitted by /u/yacamaa to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -52288,14 +52340,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T11:10:54Z",
+  "last_run": "2026-10-28T11:20:54Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 98/100",
-   "gnews_ru: 63/68",
+   "gnews_en: 96/100",
+   "gnews_ru: 56/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 3/10",
+   "insider_gaming: 2/10",
    "ign: 1/20",
    "eurogamer: 2/100",
    "dexerto_gta: 3/50",
@@ -52303,7 +52355,7 @@
    "gtaboom: 9/30",
    "reddit: 25/25",
    "tg_gtavistar: 6/17",
-   "tg_gta6deluxe: 8/10",
+   "tg_gta6deluxe: 7/10",
    "tg_gta6_m: 9/19",
    "tg_gta6newsdaily: 9/15"
   ],
