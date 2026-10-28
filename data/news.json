@@ -1,6 +1,95 @@
 {
  "stories": [
   {
+   "id": "74dcd794000b",
+   "title": "GTA 6 Will Receive New Details and Screenshots on October 29th",
+   "first_seen": "2026-10-28T13:40:56Z",
+   "updated": "2026-10-28T13:40:56Z",
+   "items": [
+    {
+     "id": "74dcd794000b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamingBolt",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Will Receive New Details and Screenshots on October 29th",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWF81Y0M3TWdjOWtaaGlMSVVmdU9mZmJaSUg0ZXBxQWNaY1dTVDRKTklfdDhLd0tXc196RlYyRjJxVTc2bXIySU40NS1VOGk4amJGS3dfWnFXeHVxUXk2TTZaVFBtVGJyZXNOOGpRcjc1eUlsUHREbmlHaG1zNE02RHZWU2xXV1ppTWx1X1FLSGxoTXQ3dUNpT01zY1l1UQ?oc=5",
+     "ts": "2026-10-28T12:34:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d04f2449c402",
+   "title": "GTA 6: советы актёрам от звёзд GTA 5 и San Andreas",
+   "first_seen": "2026-10-28T13:40:56Z",
+   "updated": "2026-10-28T13:40:56Z",
+   "items": [
+    {
+     "id": "d04f2449c402",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "dungen.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: советы актёрам от звёзд GTA 5 и San Andreas",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IMzRINUQ0MHdGand4SlNVVUt5WGJQQmxfdG1NWFJkQmFnQnhLa0tpV01RcnNfaExla1NDdDJqQkNNUl9tU24tcW9VTWx0c2JvUEhFVXo0bmVmN2VtR3ByendQTUo?oc=5",
+     "ts": "2026-10-28T13:31:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "78c6a08ca7b3",
+   "title": "GTA 6 Breaks A Record, And It’s Not Even Out Yet",
+   "first_seen": "2026-10-28T13:40:56Z",
+   "updated": "2026-10-28T13:40:56Z",
+   "items": [
+    {
+     "id": "78c6a08ca7b3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Breaks A Record, And It’s Not Even Out Yet",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWG9hWGQxU3RHT2ZhYlVfenVvTkZYUzhPeE1FM3lTVFMtSTBWNHEyVnk2Y1NkcEJabzlaX295eDl3Y3NNZm9WRk1xWno5M3NwTFNJeVl4alFPWE12bGdCUWNPQVNQenhINUlXcjBpVWs4TG5DaDhXNUhzRS1KV3lLZFNGTlViYVpW?oc=5",
+     "ts": "2026-10-28T13:32:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 бьёт рекорд до релиза: что случилось",
+    "summary": "По данным GameSpot, GTA 6 уже побила рекорд до выхода. Игра стала самой предзаказываемой в истории платформы, где зафиксирован результат.",
+    "idea": "Короткий факт: «самая предзаказываемая игра в истории» — и что это значит для игроков. В кадре — логотип GTA 6, график предзаказов и дата 19 ноября.",
+    "hook": "GTA 6 ещё не вышла, но уже побила исторический рекорд.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T13:40:59Z"
+   },
+   "msg_id": 255
+  },
+  {
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
@@ -52899,11 +52988,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T13:31:14Z",
+  "last_run": "2026-10-28T13:41:00Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 70/77",
+   "gnews_ru: 71/81",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
@@ -52914,7 +53003,7 @@
    "gtaboom: 9/30",
    "reddit: 25/25",
    "tg_gtavistar: 6/17",
-   "tg_gta6deluxe: 7/10",
+   "tg_gta6deluxe: 6/10",
    "tg_gta6_m: 9/19",
    "tg_gta6newsdaily: 9/14"
   ],
