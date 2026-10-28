@@ -1,6 +1,219 @@
 {
  "stories": [
   {
+   "id": "b72541dc436c",
+   "title": "🫳 Rockstar подстраховалась от сливов — все копии для прессы содержат водяными знаками с именем владельца и названием его редакции Если журналист или блогер соль",
+   "first_seen": "2026-10-28T06:10:52Z",
+   "updated": "2026-10-28T14:40:50Z",
+   "items": [
+    {
+     "id": "b72541dc436c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Разработчики GTA 6 устали терпеть сливы - версию игры для СМИ защитили водяными знаками с именами журналистов",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQXFwOXZRNXEtN1FkTk81bTV5RVpCU0VCM1lQY1cwZDNfdUhfMnkwZGQ4V3lmMTc5YjIwdlNONThoVVhXdWhXbTctY0VRdm10OFN6dFg2anYyalRXNUFkWDNLcUtBRUlZdkJuLUVLSXRNdmliZC1nY05SX0RPeXJvWXRwU3hZNmI5WmpjUk5nNy1GaFJBc3dRbXItQ1lMSGVncml6a1c0VnFHWFBNZUZ5NDBGYXJGajlTNGVUVFlsVy1nOFBwSGVlbWt6MktSQkdLbk91QWV1OW1hWm54dXI5alZZakJOU3hjTFFjLUxLaw?oc=5",
+     "ts": "2026-10-28T06:00:34Z",
+     "summary": ""
+    },
+    {
+     "id": "dc4a272dee98",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🫳 Rockstar подстраховалась от сливов — все копии для прессы содержат водяными знаками с именем владельца и названием его редакции Если журналист или блогер соль",
+     "url": "https://t.me/GTA6_m/9262",
+     "ts": "2026-10-28T14:34:40Z",
+     "summary": "🫳 Rockstar подстраховалась от сливов — все копии для прессы содержат водяными знаками с именем владельца и названием его редакции Если журналист или блогер сольёт игру, отметка поможет его вычислить. Дальше а ннулирование копии и пожизненный бан от Rockstar Посмотрим, найдётся ли храбрец, готовый пожертвовать карьерой ради эксклюзивного слива 👀 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 73,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Сливы GTA 6: у журналистов версии с водяными знаками",
+    "summary": "По данным PlayGround.ru, разработчики GTA 6 защитили пресс-версии водяными знаками с именами журналистов. Так Rockstar пытается вычислять источники утечек.",
+    "idea": "Покажем, как выглядят водяные знаки и как по ним находят «крота». Зрителю интересно, кто следующий попадётся.",
+    "hook": "У журналистов GTA 6 — версии с водяными знаками. Вот как вычисляют сливщиков.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T06:10:56Z"
+   },
+   "msg_id": 240
+  },
+  {
+   "id": "30cf716f42bf",
+   "title": "Rockstar employees voting on union plan alongside GTA 6 launch",
+   "first_seen": "2026-10-28T14:40:50Z",
+   "updated": "2026-10-28T14:40:50Z",
+   "items": [
+    {
+     "id": "30cf716f42bf",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Rockstar employees voting on union plan alongside GTA 6 launch",
+     "url": "https://www.dexerto.com/gta/rockstar-employees-voting-on-union-plan-alongside-gta-6-launch-3422399/",
+     "ts": "2026-10-28T12:30:21Z",
+     "summary": "The Independent Workers’ Union of Great Britain (IWGB) announced that staff will cast anonymous online votes between November 12 and 26."
+    }
+   ],
+   "tags": [
+    "Online",
+    "анонс"
+   ],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "393c1f379330",
+   "title": "GTA 6 ‘Original Score’ Releases After Launch With 50 Songs",
+   "first_seen": "2026-10-28T14:40:50Z",
+   "updated": "2026-10-28T14:40:50Z",
+   "items": [
+    {
+     "id": "393c1f379330",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 ‘Original Score’ Releases After Launch With 50 Songs",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTzFCYjJTWlY3ZktyUEFIVlVPc3JoekhWUklxZlJUbEdKNWllS1E2eEQzUnBfVHl1ZU1QWGFOZVdzZXg1MG56T3JzMGsyMnJXTkNNbDNYMEVXRXNneGxEYTBhVFFzQnpnWDFXSmVoc0pHT0tvSUhZaFZJXzdZeWlST2hiT1BEc3dMbWp6bQ?oc=5",
+     "ts": "2026-10-28T14:29:49Z",
+     "summary": ""
+    },
+    {
+     "id": "e66d6a72b339",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 ‘Original Score’ Releases After Launch With 50 Songs",
+     "url": "https://insider-gaming.com/gta-6-original-score-releases-after-launch-with-50-songs/",
+     "ts": "2026-10-28T14:29:49Z",
+     "summary": "'Grand Theft Auto VI: Original Score' is on Apple Music right now, and the track list shows 50 songs will be included. The post GTA 6 ‘Original Score’ Releases After Launch With 50 Songs appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Оригинальный саундтрек GTA 6: 50 треков после релиза",
+    "summary": "По информации Insider Gaming, после выхода GTA 6 выпустят официальный саундтрек «Grand Theft Auto VI: Original Score» на Apple Music. В треклисте указано 50 композиций.",
+    "idea": "Коротко показываем обложку и треклист на 50 позиций, считаем, сколько это часов музыки, и спрашиваем, что игроки будут ставить на фон. Зрителю интересно узнать объём и как это повлияет на атмосферу.",
+    "hook": "Оригинальный саундтрек GTA 6 — 50 треков. Вот что это значит для нас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T14:40:55Z"
+   },
+   "msg_id": 262
+  },
+  {
+   "id": "6383068de3af",
+   "title": "Рецензенты GTA 6 играют в тайтл с собственным именем на экране – как Rockstar борется с утечками",
+   "first_seen": "2026-10-28T14:40:50Z",
+   "updated": "2026-10-28T14:40:50Z",
+   "items": [
+    {
+     "id": "6383068de3af",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Рецензенты GTA 6 играют в тайтл с собственным именем на экране – как Rockstar борется с утечками",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZVJhN25xWTFEUklDdmsyenM0XzFXOXZxRkItSURaWUowODI1NGo3S2V0V2pyWXVhbTN0aXVHZjBzWl9MS3JuT3BNQTkxTUR2REN0TVBlWjUzLThWdm1vYk1RdHpidnd3YS1wRzMxUHVYTDd2Tl9RVVQwYXB3RGNSNXptN3JaRzRYOUNuU3JlWi14TFZuZl9LdVAyRkhNaTM0U1ZfZTJCZnRYeVpWXzlMa1F6UmdraXE2a2N6dUM3NjA3REQ2R3h4Rmd5ekQ?oc=5",
+     "ts": "2026-10-28T14:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 65,
+   "level": "SPECULATION",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "24417a5653a4",
+   "title": "Circana: Nearly 1-in-3 U.S. Gamers Plan to Buy 'Grand Theft Auto VI,' Setting New Industry Record",
+   "first_seen": "2026-10-28T14:40:50Z",
+   "updated": "2026-10-28T14:40:50Z",
+   "items": [
+    {
+     "id": "24417a5653a4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Media Play News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Circana: Nearly 1-in-3 U.S. Gamers Plan to Buy 'Grand Theft Auto VI,' Setting New Industry Record",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGtRT0wtNjFLNEVlV1FNNjBPOERhVFpVZ2RrQk9IV3VzNnRtZ2xZUmFZaTNKRDFPeWRScmlHd29mX3ZiTjNDd3RRTWJuRmhJQlE2SGRHYmx4MmtkY2JzU29LVURUV3VvSVY5LVRsRVJ5SDJyN2k1T3NERUhRdGJuMWFjUTlnN1pIbnF5NHlxSnY0SVR1a2RQZWl0aVdadldabnFjNXlrLTFkVnAtYWxNeEF1eGgzRVBudG4zdkdWLUk?oc=5",
+     "ts": "2026-10-28T14:38:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cbe3abc9457b",
+   "title": "New Hunger Games Movie Comes Out The Day After GTA 6, But Is The Director Scared?",
+   "first_seen": "2026-10-28T14:40:50Z",
+   "updated": "2026-10-28T14:40:50Z",
+   "items": [
+    {
+     "id": "cbe3abc9457b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "New Hunger Games Movie Comes Out The Day After GTA 6, But Is The Director Scared?",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2xnUTMtRk5EYm1oLVEydW5Ja0NIcFB5Z1lxcFp3MHg2eWNiUHVYaFItb28zRmV0N3UwV08zckVjMTJIR0M2RWRHTG9ZekxGY2hxcWM4Vnc2c1RzeXJGaEpZdDFBZ1FldXVYalBvOVRYMDF5aU9iN2kzXzRKOVV2S0xUdVpocXFCX21BaTNGRnF4UXBveHhUQTZTcmc5ZFFITHhtbHQyakhsYm52c2NUUkswM24?oc=5",
+     "ts": "2026-10-28T14:38:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: выдуманные числа: 20"
+  },
+  {
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
@@ -4221,45 +4434,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b72541dc436c",
-   "title": "Разработчики GTA 6 устали терпеть сливы - версию игры для СМИ защитили водяными знаками с именами журналистов",
-   "first_seen": "2026-10-28T06:10:52Z",
-   "updated": "2026-10-28T06:10:52Z",
-   "items": [
-    {
-     "id": "b72541dc436c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Разработчики GTA 6 устали терпеть сливы - версию игры для СМИ защитили водяными знаками с именами журналистов",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQXFwOXZRNXEtN1FkTk81bTV5RVpCU0VCM1lQY1cwZDNfdUhfMnkwZGQ4V3lmMTc5YjIwdlNONThoVVhXdWhXbTctY0VRdm10OFN6dFg2anYyalRXNUFkWDNLcUtBRUlZdkJuLUVLSXRNdmliZC1nY05SX0RPeXJvWXRwU3hZNmI5WmpjUk5nNy1GaFJBc3dRbXItQ1lMSGVncml6a1c0VnFHWFBNZUZ5NDBGYXJGajlTNGVUVFlsVy1nOFBwSGVlbWt6MktSQkdLbk91QWV1OW1hWm54dXI5alZZakJOU3hjTFFjLUxLaw?oc=5",
-     "ts": "2026-10-28T06:00:34Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 55,
-   "level": "SPECULATION",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Сливы GTA 6: у журналистов версии с водяными знаками",
-    "summary": "По данным PlayGround.ru, разработчики GTA 6 защитили пресс-версии водяными знаками с именами журналистов. Так Rockstar пытается вычислять источники утечек.",
-    "idea": "Покажем, как выглядят водяные знаки и как по ним находят «крота». Зрителю интересно, кто следующий попадётся.",
-    "hook": "У журналистов GTA 6 — версии с водяными знаками. Вот как вычисляют сливщиков.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-28T06:10:56Z"
-   },
-   "msg_id": 240
   },
   {
    "id": "d171778761b5",
@@ -52917,79 +53091,27 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f2b6988b39fc",
-   "title": "Sony Updates PS5 Ahead Of GTA 6, But Has It Quietly Patched A Jailbreak Exploit?",
-   "first_seen": "2026-10-21T14:40:51Z",
-   "updated": "2026-10-21T14:40:51Z",
-   "items": [
-    {
-     "id": "f2b6988b39fc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NDTV Profit",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony Updates PS5 Ahead Of GTA 6, But Has It Quietly Patched A Jailbreak Exploit?",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQV95c0JQS09JMnhia1BlTVJhYUhJeFhaTnNXd3F3NHEzaEJCVWJGZ3JOb0RMSFpuOUNPbGpDZmJWcjl6U3k2N0h5enROMVdyREJhcjVmUWNOTGlGNVBQa0xoX0tDM3hrMGU0Nlhwc3RZLUlmd3R3cHJGMVBhc29FZHZpcDd2T05UcmZTWV9YSGdyZy1wTzNYejY3RHZsVG5qMFRiVHZJOFA4RmU0V291OF9wbWp6NnRhQzRzb0ZvVXJBN1XSAcsBQVVfeXFMTmZJUHhBX0JFdGg3WGVINmlqVjBuRDduVXIzVmVJWlNEYW1QRmhvTU9WQ0F0X3pSUEJuRm9LWklzb1BUX3F0eDFKM043c1lYajFtb2tTTHE5YXBWMmNVYlVrcVh0d2hUdkU2Z3NmbUg0Z0xfNzJNQm5XS0JMTUFQdk1fUW8ydWw4SENPWjdPWW11VnNvalhpVHNSdkpGUURtRmJuU2t4TGhrcHJFU0luZlZUNXRVX2NWMGdoTl82bUxyUldPbEh3dEJFTXM?oc=5",
-     "ts": "2026-10-21T14:29:49Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "09af9cdd7775",
-   "title": "Xbox Wants Idle Gamers To Sell Their Consoles As GTA 6 Spikes Demand",
-   "first_seen": "2026-10-21T14:40:51Z",
-   "updated": "2026-10-21T14:40:51Z",
-   "items": [
-    {
-     "id": "09af9cdd7775",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "HotHardware",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Xbox Wants Idle Gamers To Sell Their Consoles As GTA 6 Spikes Demand",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkFpem9oVUVjZUYzYVlieUVLSXBrbFRnSVZhS2FYSm9fQjBxbm1tbGVlZmVrSFBsLVRaSnpWX0xvNVVhLXN0WXVJcTFTMTBZcXMwTFJFdzNiZE12b01rNk5idUx5Zk9iSXZ6SkIxX2dEYnFkUm45Yzl5Tm55OHJaS21qenRxMnQ0UnBqbURB?oc=5",
-     "ts": "2026-10-21T14:35:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T14:31:14Z",
+  "last_run": "2026-10-28T14:41:00Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 97/100",
-   "gnews_ru: 67/81",
+   "gnews_en: 98/100",
+   "gnews_ru: 68/83",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 1/10",
+   "insider_gaming: 2/10",
    "ign: 1/20",
    "eurogamer: 2/100",
-   "dexerto_gta: 4/50",
+   "dexerto_gta: 5/50",
    "rockstarintel: 3/10",
    "gtaboom: 9/30",
    "reddit: 25/25",
    "tg_gtavistar: 6/17",
    "tg_gta6deluxe: 6/10",
-   "tg_gta6_m: 9/19",
+   "tg_gta6_m: 10/19",
    "tg_gta6newsdaily: 9/14"
   ],
   "digest": "2026-10-28@9",
