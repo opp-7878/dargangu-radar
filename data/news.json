@@ -4,7 +4,7 @@
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-28T15:44:16Z",
+   "updated": "2026-10-28T15:50:53Z",
    "items": [
     {
      "id": "1b8855a0b189",
@@ -1162,6 +1162,19 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUVsVFFzZXZOamRIdDdITlQwUDhSaVNtM2dkWWFHZC1CVW4zdDFMUjR0cUVJZmhvd1dVeWU1bWh3amJ2dWFvRFU3NjdrODJtY2J1dDY3bmtGdmJGS196azNKSTcxcEFiQUk4RFBxLVJrWXpzOGk5NS0yNDlTVXExM3lQeExlU0R4Rm4tWUFoUUF0WWk5a1pDLTBKQXF3bWV0M3RwLXh3?oc=5",
      "ts": "2026-10-28T15:36:45Z",
      "summary": ""
+    },
+    {
+     "id": "911c29761caa",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable SEA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' file size reportedly revealed and it's gargantuan",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSENEX1VRVDllME9NRnBad2tOSVNJSHhQRnBaQWpfbTdvWk1UdjMwcTY2QUhrRTl0bk5SSUJFZjJGUUpWaGNjd0xjUGRaTXVnQVNtSlZ1UzVjcDlxWUREOW5uOVlTVlgyQ0s2R1pINWE0bDV3c1lQQ2NEanpTNTVLZ1ZxX0dadVNaQTF5czBXWUNfNzhr?oc=5",
+     "ts": "2026-10-28T15:23:02Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -1177,6 +1190,69 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "363ba71ac60e",
+   "title": "If GTA 6 Beats Football On Thanksgiving, That’s A Win, EA Founder Says",
+   "first_seen": "2026-10-28T15:50:53Z",
+   "updated": "2026-10-28T15:50:53Z",
+   "items": [
+    {
+     "id": "363ba71ac60e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "If GTA 6 Beats Football On Thanksgiving, That’s A Win, EA Founder Says",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSE13cmtrNUp6b241RHhJSmZnUGlyRVRZcnN6YjctcHFsS3JaZ24xV1czOEJqVWdwTUwteWE1RUNnQUF3SkV4WWJWQ3hTMnpfUE9LX1JieXNTZWZvazQ5aUFvVnNrYThBWUIyWTI4ZXFtQnBYNjk5dnE5QnpvMjNuUy1WSFJoeWJ6MGJ0QlUzNU5VVUJ6MFMxQXNWNl9iUk1sSFVrRw?oc=5",
+     "ts": "2026-10-28T15:44:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 против футбола на День благодарения: победа — это победа",
+    "summary": "Основатель EA считает, что если GTA 6 обгонит американский футбол по просмотрам в День благодарения, это уже победа. Он отметил, что игра может стать самым просматриваемым событием в этот день. Об этом он рассказал в интервью GameSpot.",
+    "idea": "Сравним ожидания: GTA 6 против матчей Дня благодарения — кто соберёт больше зрителей. Зрителю интересно, потому что это понятная битва цифр и статусов.",
+    "hook": "GTA 6 против футбола на День благодарения — кто победит по просмотрам?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T15:50:57Z"
+   },
+   "msg_id": 263
+  },
+  {
+   "id": "baf5f29113f5",
+   "title": "Bought a PS5 just for GTA6. Should I do the NZ exploit?",
+   "first_seen": "2026-10-28T15:50:53Z",
+   "updated": "2026-10-28T15:50:53Z",
+   "items": [
+    {
+     "id": "baf5f29113f5",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Bought a PS5 just for GTA6. Should I do the NZ exploit?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xhrpdt/bought_a_ps5_just_for_gta6_should_i_do_the_nz/",
+     "ts": "2026-10-28T15:46:32Z",
+     "summary": "I'm not familiar with PlayStation. Is this a bad idea? submitted by /u/Abalone_Antique to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -53091,37 +53167,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4b6e38173d65",
-   "title": "New billboard in Biscayne!",
-   "first_seen": "2026-10-21T15:50:50Z",
-   "updated": "2026-10-21T15:50:50Z",
-   "items": [
-    {
-     "id": "4b6e38173d65",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "New billboard in Biscayne!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xbqo6m/new_billboard_in_biscayne/",
-     "ts": "2026-10-21T15:44:07Z",
-     "summary": "New billboard outside my job! submitted by /u/Gregorioz15 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T15:44:16Z",
+  "last_run": "2026-10-28T15:50:57Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
