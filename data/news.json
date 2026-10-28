@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "60fcf70c6968",
+   "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
+   "first_seen": "2026-10-28T17:31:09Z",
+   "updated": "2026-10-28T17:31:09Z",
+   "items": [
+    {
+     "id": "60fcf70c6968",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUU96dGpoNHNTRFhaMnBZOTViWjlxY203YTBFXzFSS3FiREowVWlnQVJ3blBmSC1nUVVBTml0Qm9aNlBfRFpGVl9fWjJja3FoTVdJeGdoTF9aQXdEZERiYVlMbExWVE81Z1RxN25oUXRpMVZvVW1ZUEFmVHhDWjZDLTR0ampzc09CVHFQX1hMMTZHTXBha0syMEFUN1p6MWpnWmlKQkhybWZ1S3J4MHREWDJjRlVaV1liaE51SVgzRlZlUVlaT01SVmI3NEd2eTMxa0hONkxTRDBVUjJQdHc?oc=5",
+     "ts": "2026-10-28T06:59:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d02681facf4b",
    "title": "GameSir launches GTA VI-inspired controllers for Xbox consoles",
    "first_seen": "2026-10-28T14:10:53Z",
@@ -53329,41 +53355,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b182ae3a0402",
-   "title": "Главный релиз ноября: сколько стоит в Украине легендарная игра GTA 6",
-   "first_seen": "2026-10-21T17:31:02Z",
-   "updated": "2026-10-21T17:31:02Z",
-   "items": [
-    {
-     "id": "b182ae3a0402",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Новини.Live",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Главный релиз ноября: сколько стоит в Украине легендарная игра GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUVZZnJLdXZhYUhpRFhEZVh1V1VzVlQ1SXNuSTRoMTdQTWRzX2JLY1lQMnlOUFBNYzJjQkIzZ2lhMWdqMTNSekJ0enNqdVljVzY1OWdRc0VaSGdtRTBQQlllOFJiZkF0UWxPejktbEJIXzFMakhCSFZNYmRsRk1iNkhqS0E1b2NiTWJvUTFuN0NjZ3cyd1ZpOGtwdy1oS3NLemNzUHNaOG1ZUVpTdGJmX2NB0gG3AUFVX3lxTE9MR2xnbmt2bUZIRFBTS01XNmNGQmxXdFZ4dG1RaDNTeXhGZ2RzNmN3MzBnN3JGZmZmX0UwQzN4VDFPdUxrSU5sc3RYWHNobWFMYkxtZU01bEV2QnZKMmFlS0E5cWRPTUlPSm9BTll0WndWYUtDYWp3WHlpb2pwcHV2dnluT1F0NFRJcm1aeXd3dW9BU1NENVU2ZXhJaTNDYmFjVmhyOUhYeGpsNGlkMW9CNkl0LTJSRQ?oc=5",
-     "ts": "2026-10-21T17:24:51Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T17:20:56Z",
+  "last_run": "2026-10-28T17:31:09Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 100/100",
-   "gnews_ru: 69/87",
+   "gnews_en: 99/100",
+   "gnews_ru: 63/81",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
