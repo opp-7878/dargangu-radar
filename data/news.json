@@ -1,6 +1,48 @@
 {
  "stories": [
   {
+   "id": "93a1117ed604",
+   "title": "I've hunted down every confirmed GTA 6 gun in its trailers and screenshots so far",
+   "first_seen": "2026-10-28T14:21:01Z",
+   "updated": "2026-10-28T22:50:55Z",
+   "items": [
+    {
+     "id": "93a1117ed604",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Every time explosions appear in the gta 6 trailers",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xhp3tq/every_time_explosions_appear_in_the_gta_6_trailers/",
+     "ts": "2026-10-28T14:09:12Z",
+     "summary": "submitted by /u/Fur-Fetish to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "0c0d2bf70309",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "I've hunted down every confirmed GTA 6 gun in its trailers and screenshots so far",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42cE1pbTlDa09kNnFsTmVZTWdTOUV4V2lmMFpHQUVhSXNlQWE3YWo5dUQweTdnclNaQlZxc1VUQlhtRGRIY3JfeGtoQ2hHQVZHR2V0N2doVmxRRDd2ZDl1QldhZVZNcVcxbkFDU2RCeVkxcngz?oc=5",
+     "ts": "2026-10-28T19:43:06Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "трейлер"
+   ],
+   "score": 88,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
    "id": "2720986e2305",
    "title": "Аналитик ожидает релиз GTA 6 на ПК через 6–7 месяцев после консолей",
    "first_seen": "2026-10-28T18:50:54Z",
@@ -4938,34 +4980,6 @@
    "status": "new",
    "ai_fail": 1,
    "ai_error": "ValueError: выдуманные числа: 20"
-  },
-  {
-   "id": "93a1117ed604",
-   "title": "Every time explosions appear in the gta 6 trailers",
-   "first_seen": "2026-10-28T14:21:01Z",
-   "updated": "2026-10-28T14:21:01Z",
-   "items": [
-    {
-     "id": "93a1117ed604",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Every time explosions appear in the gta 6 trailers",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xhp3tq/every_time_explosions_appear_in_the_gta_6_trailers/",
-     "ts": "2026-10-28T14:09:12Z",
-     "summary": "submitted by /u/Fur-Fetish to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "7a5b153524fe",
@@ -53837,11 +53851,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T22:40:52Z",
+  "last_run": "2026-10-28T22:50:55Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 53/61",
+   "gnews_ru: 52/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
