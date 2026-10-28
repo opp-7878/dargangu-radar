@@ -1,6 +1,97 @@
 {
  "stories": [
   {
+   "id": "3428c7db0931",
+   "title": "AWESOME TYLARIOUS x GTA VI ANNOUNCEMENT!!!",
+   "first_seen": "2026-10-28T20:50:52Z",
+   "updated": "2026-10-28T20:50:52Z",
+   "items": [
+    {
+     "id": "3428c7db0931",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "AWESOME TYLARIOUS x GTA VI ANNOUNCEMENT!!!",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hbW5MQVQ0ZGpSalVxZHV5NmVDWG9IbTNDazJtWDl4QVNxS2ZTX25TTWNPLTR1QzFESXBnSTVtajdmWHp0RWVkLU5kdy04d3Z5ZTlDeE5CcWdYZnQ3?oc=5",
+     "ts": "2026-10-28T19:27:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Новый ролик: AWESOME TYLARIOUS и анонс GTA 6",
+    "summary": "На YouTube вышел ролик AWESOME TYLARIOUS x GTA VI ANNOUNCEMENT!!! Автор заявляет, что в видео есть анонс GTA 6. Официально Rockstar это пока не подтверждала.",
+    "idea": "Быстрый разбор ролика AWESOME TYLARIOUS: что он показывает как «анонс» и где факты, а где хайп. Зрителю интересно понять, есть ли там реальные новости или просто кликбейт.",
+    "hook": "AWESOME TYLARIOUS выложил «анонс» GTA 6 — что там на самом деле?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T20:50:55Z"
+   },
+   "msg_id": 274
+  },
+  {
+   "id": "671ccaf83a91",
+   "title": "Фанаты обнаружили отсылку к Максу Пейну в GTA 6",
+   "first_seen": "2026-10-28T20:50:52Z",
+   "updated": "2026-10-28T20:50:52Z",
+   "items": [
+    {
+     "id": "671ccaf83a91",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Фанаты обнаружили отсылку к Максу Пейну в GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0xoWnNha1o4Ti1FOGJucFJxZF8xaEM0MXh6dFpQSnJmZW1peThRWVFPVXE4VDFQR1JaUkFnX09POExvVmN3TGpwRWlXWHZuNWRabFhQN0lFZmxwbmlOVmRTOXVwMFpfSFNtbEQ1NVRvOGVSMEZqeFpYQVJPZ2wtSlhKcU9YNS1VcFQ1OEh6MmZjWUhydzVTeHQyYw?oc=5",
+     "ts": "2026-10-28T19:49:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "697870288e5c",
+   "title": "Has anyone found the Game Informer GTA VI issue at their local Barnes and Noble?",
+   "first_seen": "2026-10-28T20:50:52Z",
+   "updated": "2026-10-28T20:50:52Z",
+   "items": [
+    {
+     "id": "697870288e5c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Has anyone found the Game Informer GTA VI issue at their local Barnes and Noble?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xi01md/has_anyone_found_the_game_informer_gta_vi_issue/",
+     "ts": "2026-10-28T20:46:20Z",
+     "summary": "submitted by /u/kerndogg17 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6cb4727efcc8",
    "title": "How it feels to be a Miami resident",
    "first_seen": "2026-10-28T20:36:20Z",
@@ -53887,11 +53978,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T20:40:51Z",
+  "last_run": "2026-10-28T20:50:56Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
-   "gnews_ru: 52/61",
+   "gnews_ru: 53/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
