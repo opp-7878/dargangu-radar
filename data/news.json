@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "1720767e24ed",
+   "title": "Rockstar Games employees may vote to create the largest video game union in UK games history, and it's all happening around the release window of Grand Theft Auto 6",
+   "first_seen": "2026-10-28T10:01:21Z",
+   "updated": "2026-10-28T10:01:21Z",
+   "items": [
+    {
+     "id": "1720767e24ed",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Eurogamer.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games employees may vote to create the largest video game union in UK games history, and it's all happening around the release window of Grand Theft Auto 6",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XOVg2S2cxWkhLejh1WVg5bkJEQVJUWW5TM2NvN0c3VllGb1B1QmdTM3MzbUEtLXpveEx0WU9JdVJPTGRDZzUzZE1ubVB2SnVaRDBlRmlCTzBCelRXalgwa1hWb1Q?oc=5",
+     "ts": "2026-10-28T09:49:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "923fd58d2310",
    "title": "Инсайдер раскрыл защиту от утечек в рецензионных копиях GTA 6",
    "first_seen": "2026-10-28T09:50:56Z",
@@ -52200,11 +52226,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T09:51:01Z",
+  "last_run": "2026-10-28T10:01:21Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 99/100",
-   "gnews_ru: 60/63",
+   "gnews_ru: 63/66",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -52215,7 +52241,7 @@
    "gtaboom: 10/30",
    "reddit: 25/25",
    "tg_gtavistar: 6/17",
-   "tg_gta6deluxe: 8/11",
+   "tg_gta6deluxe: 7/11",
    "tg_gta6_m: 9/19",
    "tg_gta6newsdaily: 9/15"
   ],
