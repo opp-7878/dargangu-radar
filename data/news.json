@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "aee9254b3bea",
+   "title": "Broadband ISPs in the UK braced for monster 200-240GB GTA VI download",
+   "first_seen": "2026-10-28T15:10:58Z",
+   "updated": "2026-10-28T15:10:58Z",
+   "items": [
+    {
+     "id": "aee9254b3bea",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ISPreview UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Broadband ISPs in the UK braced for monster 200-240GB GTA VI download",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTc0S01aekppdlNLb1ZGbTNLMjdqZUdGOF9GWjFNY0lnSWY3MVN3RzBVYVBSYkRQNW9nWnlCRm9jdUJqaGVnbW13NGFNclVsb2J3Ymg4VGtQc04wQ0NUdXdqQWhtZDg0R2hkM2pOaDIyOEsyaE5ucEJ4eXJNWG9oMVBLOXBIa3k1allfVmFxSW9kSmZWZmx6cDc4eVhEaWFCcjVBVjhlYm5EX1hDOFRXTVlFdUJuVlBzdHhkTA?oc=5",
+     "ts": "2026-10-28T10:55:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b7844f96992e",
+   "title": "Justice drops new GTA VI track ‘Pusher’ on Spotify",
+   "first_seen": "2026-10-28T15:10:58Z",
+   "updated": "2026-10-28T15:10:58Z",
+   "items": [
+    {
+     "id": "b7844f96992e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The News International",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Justice drops new GTA VI track ‘Pusher’ on Spotify",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQzNkYzhhMG1QWmRfamRveVlJMEZ5cVdHdjEzNFkxcjBFNDU5d0xkd0poZFg5NDRkVks3R2pWVFk5X2VHY2RabndkQXg5aHBuZThtaWlJZjlOV0t2TFMzakczWFFrWDZ2ZmZzZTAxdjFhVGd1cS1LT2ZnQjFSeFdIeDREM0NhSDN2SEpVbFVNNkdneFVt0gGQAUFVX3lxTE5JaU5ib2ZtZ3pzcXN4WjYydkZ3TnZ5NEMyOXhyVDFBejRmZmFrTmN3NkpmbWdVVTFsd0ZvNTJFRlJSWmRVeEVXa3pNWTY2TWc3Z2hINTd1VkpJRTJNejNRZkFJWU1IZ2hJUDB6U01NeXhKRFN1Rmxxb21RN1dYX3dqMkRTTmFpVVpzNXhXQ0JGdw?oc=5",
+     "ts": "2026-10-28T14:31:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "265a5efcc306",
    "title": "\"Придётся удалить все игры\": размер GTA VI в 210 ГБ вызвал недовольство владельцев консолей",
    "first_seen": "2026-10-28T13:31:14Z",
@@ -53017,10 +53069,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T15:01:21Z",
+  "last_run": "2026-10-28T15:10:58Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 97/100",
+   "gnews_en: 98/100",
    "gnews_ru: 75/93",
    "gamesbeat: 0/10",
    "vgc: 0/10",
@@ -53033,7 +53085,7 @@
    "reddit: 25/25",
    "tg_gtavistar: 6/17",
    "tg_gta6deluxe: 6/10",
-   "tg_gta6_m: 10/19",
+   "tg_gta6_m: 9/19",
    "tg_gta6newsdaily: 9/14"
   ],
   "digest": "2026-10-28@9",
