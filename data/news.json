@@ -1,151 +1,10 @@
 {
  "stories": [
   {
-   "id": "ddc5e273c777",
-   "title": "GTA 6 XBOX CONTROLLER",
-   "first_seen": "2026-10-28T09:01:31Z",
-   "updated": "2026-10-28T09:01:31Z",
-   "items": [
-    {
-     "id": "ddc5e273c777",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 XBOX CONTROLLER",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xhiuzw/gta_6_xbox_controller/",
-     "ts": "2026-10-28T08:56:06Z",
-     "summary": "Look at this GTA 6 controller for the XBOX 🔥🔥 submitted by /u/16kdb to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "867bcc79b5e3",
-   "title": "Grand Theft Auto VI will reportedly take up 210GB of SSD storage on consoles",
-   "first_seen": "2026-10-28T08:50:52Z",
-   "updated": "2026-10-28T08:51:43Z",
-   "items": [
-    {
-     "id": "867bcc79b5e3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Stuff South Africa",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI will reportedly take up 210GB of SSD storage on consoles",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0U1MjdrMG12Qml0cVZFbHNpRS0tMTlRNTZTVDQwVU1JTWNhTkZaWVBTa1RqSHFSSXFEMnYzaF9mVDUxUFJsVEJBN0FFTGVORkJiWXN2QXpTS2dQT0ZmcndmXzZCOU4zbVlhaDFrWXZFeFVRQ3kybmREQ3U2R0d4ZGlWa2pWV3Zpenp3R1M4Rms4WXRXcVFwTk5wcllTQXRKRUxlZlVMUUV3amZG?oc=5",
-     "ts": "2026-10-28T08:45:30Z",
-     "summary": ""
-    },
-    {
-     "id": "b803d4484e83",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Gadgets 360",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto 6 Will Reportedly Take Up 210GB of SSD Storage on Consoles",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1JDU0hfVVlKR0k5NW5DR0VPY0hPM05XYWk1NDBPMUtmU1lpUEhfTFRGcGQyVUtfbzRGRk92ZTd1Sm5pcmtSdU1JRVMwRU00MV9hWlR6NzJtd0ZkRjRWMmhqQWk4STFaZEowTUxlV1JRNmQ3amVjTGtSR2VPYlBSckhxMndtZU5iNVAwN3pMMFfSAZYBQVVfeXFMTjRkMEl4VUpPSEswLVJkampsdFp6bHYtaEkwOUVHb0kwU0cwQ05hcmRBck5lSzVFZGJkTk1RTjBDTUlna0JjMkFWX2laNVU4NDh4MTdkeWY1N0hJTnhkNk55UzRzVFZueDlieExTSlZmcjRXR0k0azlxMlNhakRSSl9yQ2U4RTliVTlpV1AtbDU0NlRaV3Fn?oc=5",
-     "ts": "2026-10-28T07:36:51Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 займет 210 ГБ на SSD — готовьте место",
-    "summary": "По данным Stuff South Africa и Gadgets 360, GTA 6 на консолях займет около 210 ГБ на SSD. Rockstar это пока не подтверждала.",
-    "idea": "Короткий чек-лист: сколько нужно места, сколько займет обновление, и что чистить. Зрителю важно успеть освободить SSD до 12 ноября.",
-    "hook": "Готовы к GTA 6? На SSD нужно 210 ГБ — вот что чистить прямо сейчас.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-28T08:51:46Z"
-   },
-   "msg_id": 243
-  },
-  {
-   "id": "4920e6822917",
-   "title": "Rockstar Has Found a Way to Identify the Sources of GTA VI Leaks",
-   "first_seen": "2026-10-28T08:50:52Z",
-   "updated": "2026-10-28T08:50:52Z",
-   "items": [
-    {
-     "id": "4920e6822917",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Root-Nation.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Has Found a Way to Identify the Sources of GTA VI Leaks",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNktJb0thNTlVcy1kQmdRQ19jcHU0RFA0WGVXNzBpaG11NEstUEpKS2V2VlgtSGRfSDNZUWY3UW5jYTdTN0xZUDdZWnpfT0JoWEM1cGxhdC1QOHNLSk9SaTZhTmtycnJOS1kwNGVRZkdLb2NnUmh0cHBpSHkxbWpUN0loZzIyNFUydjJmc3FHaXdMbFRvbVBF?oc=5",
-     "ts": "2026-10-28T08:38:28Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 65,
-   "level": "SPECULATION",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Rockstar научилась вычислять источники сливов GTA 6",
-    "summary": "По данным Root-Nation.com, Rockstar нашла способ определять источники утечек по GTA 6. Официально это не подтверждено, но издание утверждает, что студия усилила отслеживание.",
-    "idea": "Коротко объясняем, как Rockstar якобы вычисляет сливщиков, и спрашиваем, станут ли утечки реже. Зрителю интересно, потому что это напрямую влияет на будущие сливы и тизеры.",
-    "hook": "Rockstar научилась вычислять сливщиков GTA 6 — вот как.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-28T08:50:55Z"
-   },
-   "msg_id": 242
-  },
-  {
-   "id": "1b583b8797d5",
-   "title": "Rockstar нашла способ разоблачать авторов утечек GTA VI",
-   "first_seen": "2026-10-28T08:50:52Z",
-   "updated": "2026-10-28T08:50:52Z",
-   "items": [
-    {
-     "id": "1b583b8797d5",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Root-Nation.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar нашла способ разоблачать авторов утечек GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcTlIUWJwdjlPUk16ejdBYS0yX21zaXdDU3dlRUR6dEVra21ERXFZbExCRzNkR0hHcURPelp6WlQ2eGY2VTRJS1hwekVnTDlhN1pfQmVjN3lSbzd4Ul94bVpJcV9PT2lPVHdWSjlSMElVc0pYYmFrWW9fRHhCV3VycHNRaEhIaERjeEFlWTNibU1zeHhNOXc?oc=5",
-     "ts": "2026-10-28T08:38:28Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "1b8855a0b189",
    "title": "Grand Theft Auto 6 Download Size Revealed To Be 210 GB",
    "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-28T08:31:12Z",
+   "updated": "2026-10-28T09:10:55Z",
    "items": [
     {
      "id": "1b8855a0b189",
@@ -796,6 +655,32 @@
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CNTVpaUFUc0lRTnlDYW5QcU1SQ29JWXlUWFpDVF8tMkRzLUhVR2dzQUpKZTRWYmRxYzM5SkZ1eEZlZTYwaXNCeTZjM05OWVpTS1VRdFBqa0ZvWUlFel9qQk5EbGRSQlVFMlRBMw?oc=5",
      "ts": "2026-10-28T08:00:16Z",
      "summary": ""
+    },
+    {
+     "id": "c030bcd9743c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Overclockers.ua",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI потребует 210 ГБ для установки на PlayStation 5. Версия для PC может быть еще больше",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WUnhJVGJ0MzRHalVsckRiWTdURWo4RDdSZVpRNXNWM0N4cnZyczNjeG91b0JOYk9qeTYyTGpzdTE3Y0ppcGk3NGVpSk43ZW1tWUlkYnd0Qi13OU50ZkdkUHdrOXNfTjY5clItMFphYUpTZE82OWtIMNIBeEFVX3lxTE1WUnhJVGJ0MzRHalVsckRiWTdURWo4RDdSZVpRNXNWM0N4cnZyczNjeG91b0JOYk9qeTYyTGpzdTE3Y0ppcGk3NGVpSk43ZW1tWUlkYnd0Qi13OU50ZkdkUHdrOXNfTjY5clItMFphYUpTZE82OWtIMA?oc=5",
+     "ts": "2026-10-28T07:31:00Z",
+     "summary": ""
+    },
+    {
+     "id": "c740dd3f6687",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Хабр",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Чемпион в супертяжелом весе: GTA 6 займет 210 ГБ на PS5",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1saWh3Xzk4MnZ2V2U0WDZydFd2ZXA2bE51aHFEcTI4TDVGaFItQmV6R0RVTldLWjE3LUFSdUpPdGVtbXRiQmlOVWtlUE41clJNU01VNUpkaEN5alc5LWfSAVhBVV95cUxQT2JNTkl2SXlEcFFjRXVhMWoxSHJCUG1qWDdDYzFOdS0yMmlMY1NDLXJ2S1lOaHUtWU9WS3hQYnhBdlVtVXJNYlh5MUhIYlRiZ3U1NVpDaWJQ?oc=5",
+     "ts": "2026-10-28T08:41:33Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -810,6 +695,199 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "6d488bd7672c",
+   "title": "Rockstar Games: GTA VI потребует 210 ГБ на накопителе",
+   "first_seen": "2026-10-28T09:10:55Z",
+   "updated": "2026-10-28T09:10:55Z",
+   "items": [
+    {
+     "id": "6d488bd7672c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "World News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar Games: GTA VI потребует 210 ГБ на накопителе",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9BUzZkZGZScTduXzRJRkt0MnpBOHNybmR2YkszZEI3ZzJOOW14YjlPUWNVbFdPMXhVNGt5UnpvWUpra0drUGViUXhB?oc=5",
+     "ts": "2026-10-28T06:56:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5bfc60f89f09",
+   "title": "Разработчики GTA 6 отметят выход игры голосованием по профсоюзу в Rockstar",
+   "first_seen": "2026-10-28T09:10:55Z",
+   "updated": "2026-10-28T09:10:55Z",
+   "items": [
+    {
+     "id": "5bfc60f89f09",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "WTFTime.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Разработчики GTA 6 отметят выход игры голосованием по профсоюзу в Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGpLMUF0Qi1GN2ozdVd6alBkMmVzZE45MGVieHZoS2thVi0yenhTdEoxU29lTjM4Sk9lSWVzQUViXzhrTFlGUERnUHUxRERjbHNTRjhpdHc4UzJjVDBOZ1NHc3J5U0xfRDR5ajJ3N3ZrT3RjazFaYi1XZkd2TlkwY25RWGxBQkRuNnNUNktDWTh1bXJHNldOWDdYOHV5aHJaMTlEa3RCR1NiMVowS2RLMVVZTQ?oc=5",
+     "ts": "2026-10-28T08:58:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ddc5e273c777",
+   "title": "GTA 6 XBOX CONTROLLER",
+   "first_seen": "2026-10-28T09:01:31Z",
+   "updated": "2026-10-28T09:01:31Z",
+   "items": [
+    {
+     "id": "ddc5e273c777",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 XBOX CONTROLLER",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xhiuzw/gta_6_xbox_controller/",
+     "ts": "2026-10-28T08:56:06Z",
+     "summary": "Look at this GTA 6 controller for the XBOX 🔥🔥 submitted by /u/16kdb to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "867bcc79b5e3",
+   "title": "Grand Theft Auto VI will reportedly take up 210GB of SSD storage on consoles",
+   "first_seen": "2026-10-28T08:50:52Z",
+   "updated": "2026-10-28T08:51:43Z",
+   "items": [
+    {
+     "id": "867bcc79b5e3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Stuff South Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI will reportedly take up 210GB of SSD storage on consoles",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0U1MjdrMG12Qml0cVZFbHNpRS0tMTlRNTZTVDQwVU1JTWNhTkZaWVBTa1RqSHFSSXFEMnYzaF9mVDUxUFJsVEJBN0FFTGVORkJiWXN2QXpTS2dQT0ZmcndmXzZCOU4zbVlhaDFrWXZFeFVRQ3kybmREQ3U2R0d4ZGlWa2pWV3Zpenp3R1M4Rms4WXRXcVFwTk5wcllTQXRKRUxlZlVMUUV3amZG?oc=5",
+     "ts": "2026-10-28T08:45:30Z",
+     "summary": ""
+    },
+    {
+     "id": "b803d4484e83",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gadgets 360",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto 6 Will Reportedly Take Up 210GB of SSD Storage on Consoles",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1JDU0hfVVlKR0k5NW5DR0VPY0hPM05XYWk1NDBPMUtmU1lpUEhfTFRGcGQyVUtfbzRGRk92ZTd1Sm5pcmtSdU1JRVMwRU00MV9hWlR6NzJtd0ZkRjRWMmhqQWk4STFaZEowTUxlV1JRNmQ3amVjTGtSR2VPYlBSckhxMndtZU5iNVAwN3pMMFfSAZYBQVVfeXFMTjRkMEl4VUpPSEswLVJkampsdFp6bHYtaEkwOUVHb0kwU0cwQ05hcmRBck5lSzVFZGJkTk1RTjBDTUlna0JjMkFWX2laNVU4NDh4MTdkeWY1N0hJTnhkNk55UzRzVFZueDlieExTSlZmcjRXR0k0azlxMlNhakRSSl9yQ2U4RTliVTlpV1AtbDU0NlRaV3Fn?oc=5",
+     "ts": "2026-10-28T07:36:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 займет 210 ГБ на SSD — готовьте место",
+    "summary": "По данным Stuff South Africa и Gadgets 360, GTA 6 на консолях займет около 210 ГБ на SSD. Rockstar это пока не подтверждала.",
+    "idea": "Короткий чек-лист: сколько нужно места, сколько займет обновление, и что чистить. Зрителю важно успеть освободить SSD до 12 ноября.",
+    "hook": "Готовы к GTA 6? На SSD нужно 210 ГБ — вот что чистить прямо сейчас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T08:51:46Z"
+   },
+   "msg_id": 243
+  },
+  {
+   "id": "4920e6822917",
+   "title": "Rockstar Has Found a Way to Identify the Sources of GTA VI Leaks",
+   "first_seen": "2026-10-28T08:50:52Z",
+   "updated": "2026-10-28T08:50:52Z",
+   "items": [
+    {
+     "id": "4920e6822917",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Root-Nation.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Has Found a Way to Identify the Sources of GTA VI Leaks",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNktJb0thNTlVcy1kQmdRQ19jcHU0RFA0WGVXNzBpaG11NEstUEpKS2V2VlgtSGRfSDNZUWY3UW5jYTdTN0xZUDdZWnpfT0JoWEM1cGxhdC1QOHNLSk9SaTZhTmtycnJOS1kwNGVRZkdLb2NnUmh0cHBpSHkxbWpUN0loZzIyNFUydjJmc3FHaXdMbFRvbVBF?oc=5",
+     "ts": "2026-10-28T08:38:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 65,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Rockstar научилась вычислять источники сливов GTA 6",
+    "summary": "По данным Root-Nation.com, Rockstar нашла способ определять источники утечек по GTA 6. Официально это не подтверждено, но издание утверждает, что студия усилила отслеживание.",
+    "idea": "Коротко объясняем, как Rockstar якобы вычисляет сливщиков, и спрашиваем, станут ли утечки реже. Зрителю интересно, потому что это напрямую влияет на будущие сливы и тизеры.",
+    "hook": "Rockstar научилась вычислять сливщиков GTA 6 — вот как.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T08:50:55Z"
+   },
+   "msg_id": 242
+  },
+  {
+   "id": "1b583b8797d5",
+   "title": "Rockstar нашла способ разоблачать авторов утечек GTA VI",
+   "first_seen": "2026-10-28T08:50:52Z",
+   "updated": "2026-10-28T08:50:52Z",
+   "items": [
+    {
+     "id": "1b583b8797d5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Root-Nation.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar нашла способ разоблачать авторов утечек GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcTlIUWJwdjlPUk16ejdBYS0yX21zaXdDU3dlRUR6dEVra21ERXFZbExCRzNkR0hHcURPelp6WlQ2eGY2VTRJS1hwekVnTDlhN1pfQmVjN3lSbzd4Ul94bVpJcV9PT2lPVHdWSjlSMElVc0pYYmFrWW9fRHhCV3VycHNRaEhIaERjeEFlWTNibU1zeHhNOXc?oc=5",
+     "ts": "2026-10-28T08:38:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -52020,11 +52098,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T09:01:31Z",
+  "last_run": "2026-10-28T09:10:55Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 60/64",
+   "gnews_ru: 63/67",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
