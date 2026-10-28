@@ -1,80 +1,10 @@
 {
  "stories": [
   {
-   "id": "07aa5dfefcc6",
-   "title": "🔈 Радио GTA-Тольятти — музыканты из Тольятти сыграли оркестром трек GTA V Ранее они уже играли саундтрек San Andreas ❤️ — +вайб, красавчики",
-   "first_seen": "2026-10-28T11:01:23Z",
-   "updated": "2026-10-28T11:01:23Z",
-   "items": [
-    {
-     "id": "07aa5dfefcc6",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "🔈 Радио GTA-Тольятти — музыканты из Тольятти сыграли оркестром трек GTA V Ранее они уже играли саундтрек San Andreas ❤️ — +вайб, красавчики",
-     "url": "https://t.me/GTA6_m/9260",
-     "ts": "2026-10-28T10:51:04Z",
-     "summary": "🔈 Радио GTA-Тольятти — музыканты из Тольятти сыграли оркестром трек GTA V Ранее они уже играли саундтрек San Andreas ❤️ — +вайб, красавчики"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "aa7d697d320b",
-   "title": "GameSir Reveals ‘GTA 6 Controllers’ That Aren’t GTA 6 Controllers",
-   "first_seen": "2026-10-28T11:01:23Z",
-   "updated": "2026-10-28T11:01:23Z",
-   "items": [
-    {
-     "id": "aa7d697d320b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GameSir Reveals ‘GTA 6 Controllers’ That Aren’t GTA 6 Controllers",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10ajFjdFk4OTRtMklyYy1VbGdqZG80MDdvdE1RM3NMSVl5cHFwQy1yUWZsc09uR0FRaUJMUDB3ZGlNaVZpZkgtSWZtVVhrNXp4Q0Y1eU0tcTUtd0tWNEk4akFIME5jeS1kbHB3?oc=5",
-     "ts": "2026-10-28T10:57:05Z",
-     "summary": ""
-    },
-    {
-     "id": "d4acaf460d30",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "GameSir Reveals ‘GTA 6 Controllers’ That Aren’t GTA 6 Controllers",
-     "url": "https://insider-gaming.com/gamesir-gta-6-themed-controller/",
-     "ts": "2026-10-28T10:57:05Z",
-     "summary": "GameSir has unveiled a new G7 Pro line that's themed around GTA 6 without being OFFICIALLY themed around GTA 6... The post GameSir Reveals ‘GTA 6 Controllers’ That Aren’t GTA 6 Controllers appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 88,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 2,
-   "ai_error": "ValueError: нет полей: title_ru",
-   "msg_id": 249
-  },
-  {
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-28T10:40:55Z",
+   "updated": "2026-10-28T11:10:54Z",
    "items": [
     {
      "id": "1b8855a0b189",
@@ -855,6 +785,19 @@
      "url": "https://www.reddit.com/r/GTAVI/comments/1xhkgp2/dualsense_preorder/",
      "ts": "2026-10-28T10:33:51Z",
      "summary": "Does anyone know if those of us who pre-ordered the controllers will receive them before the game launches—like, will we actually be able to start playing the game with the controller in hand? submitted by /u/bruxothevillain to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "571121d74b18",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Хабр",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Чемпион в супертяжелом весе: GTA 6 займет 210 ГБ на PS5",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPYk1OSXZJeURwUWNFdWExajFIckJQbWpYN0NjMU51LTIyaUxjU0MtcnZLWU5odS1ZT1ZLeFBieEF2VW1Vck1iWHkxSEhiVGJndTU1WkNpYlDSAVhBVV95cUxQT2JNTkl2SXlEcFFjRXVhMWoxSHJCUG1qWDdDYzFOdS0yMmlMY1NDLXJ2S1lOaHUtWU9WS3hQYnhBdlVtVXJNYlh5MUhIYlRiZ3U1NVpDaWJQ?oc=5",
+     "ts": "2026-10-28T08:41:33Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -870,6 +813,152 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
+  },
+  {
+   "id": "f150eab607c1",
+   "title": "'We Have the Chance to Make Gaming History Not Once but Twice' — Rockstar Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
+   "first_seen": "2026-10-28T10:10:52Z",
+   "updated": "2026-10-28T11:10:54Z",
+   "items": [
+    {
+     "id": "f150eab607c1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "'We Have the Chance to Make Gaming History Not Once but Twice' — Rockstar Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGR6MGpTamJwOFY4c3FTa2JsQTF5U0ZjcnhiSVpabkVBNllBXzdxOHFINUlLZXd5UXN4M0xvSkJWLVlBMW1iZm5MTW1CQVRVUHppamFtb0cwN1RuaHBjQkdTNEg5YWlESVhfRmNHdUotbEliN1VqbExRcGNkUHJlU1NraTgtal9CTXpuMjlGZU9NM3R4MkN6am53NjJlZnM4cTljN0FQd0ZLMUZvc1pN?oc=5",
+     "ts": "2026-10-28T10:06:46Z",
+     "summary": ""
+    },
+    {
+     "id": "0c01f178a09e",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rockstar Games Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
+     "url": "https://www.ign.com/articles/rockstar-games-staff-set-for-historic-union-vote-at-the-same-time-gta-6-comes-out",
+     "ts": "2026-10-28T10:06:45Z",
+     "summary": "Rockstar Games staff will vote on union recognition amid the launch of GTA 6."
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В день выхода GTA 6 у Rockstar голосуют за профсоюз",
+    "summary": "Сотрудники Rockstar будут голосовать за объединение в профсоюз в день выхода GTA 6, пишет IGN. Руководство называет это «историческим» моментом и говорит о шансе «дважды войти в историю игр».",
+    "idea": "Коротко показываем дату релиза GTA 6 и день голосования за профсоюз, чтобы зритель понял редкое совпадение. Почему интересно: редкий «исторический» дубль — игра года и голосование студии в один день.",
+    "hook": "GTA 6 выходит — и в тот же день Rockstar голосует за профсоюз.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T10:10:59Z"
+   },
+   "msg_id": 246
+  },
+  {
+   "id": "ecbb4adb68de",
+   "title": "Happy Halloween",
+   "first_seen": "2026-10-28T11:10:54Z",
+   "updated": "2026-10-28T11:10:54Z",
+   "items": [
+    {
+     "id": "ecbb4adb68de",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Happy Halloween",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xhkd6u/happy_halloween/",
+     "ts": "2026-10-28T10:28:27Z",
+     "summary": "submitted by /u/Mck070890 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "07aa5dfefcc6",
+   "title": "🔈 Радио GTA-Тольятти — музыканты из Тольятти сыграли оркестром трек GTA V Ранее они уже играли саундтрек San Andreas ❤️ — +вайб, красавчики",
+   "first_seen": "2026-10-28T11:01:23Z",
+   "updated": "2026-10-28T11:01:23Z",
+   "items": [
+    {
+     "id": "07aa5dfefcc6",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🔈 Радио GTA-Тольятти — музыканты из Тольятти сыграли оркестром трек GTA V Ранее они уже играли саундтрек San Andreas ❤️ — +вайб, красавчики",
+     "url": "https://t.me/GTA6_m/9260",
+     "ts": "2026-10-28T10:51:04Z",
+     "summary": "🔈 Радио GTA-Тольятти — музыканты из Тольятти сыграли оркестром трек GTA V Ранее они уже играли саундтрек San Andreas ❤️ — +вайб, красавчики"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "aa7d697d320b",
+   "title": "GameSir Reveals ‘GTA 6 Controllers’ That Aren’t GTA 6 Controllers",
+   "first_seen": "2026-10-28T11:01:23Z",
+   "updated": "2026-10-28T11:01:23Z",
+   "items": [
+    {
+     "id": "aa7d697d320b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GameSir Reveals ‘GTA 6 Controllers’ That Aren’t GTA 6 Controllers",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10ajFjdFk4OTRtMklyYy1VbGdqZG80MDdvdE1RM3NMSVl5cHFwQy1yUWZsc09uR0FRaUJMUDB3ZGlNaVZpZkgtSWZtVVhrNXp4Q0Y1eU0tcTUtd0tWNEk4akFIME5jeS1kbHB3?oc=5",
+     "ts": "2026-10-28T10:57:05Z",
+     "summary": ""
+    },
+    {
+     "id": "d4acaf460d30",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GameSir Reveals ‘GTA 6 Controllers’ That Aren’t GTA 6 Controllers",
+     "url": "https://insider-gaming.com/gamesir-gta-6-themed-controller/",
+     "ts": "2026-10-28T10:57:05Z",
+     "summary": "GameSir has unveiled a new G7 Pro line that's themed around GTA 6 without being OFFICIALLY themed around GTA 6... The post GameSir Reveals ‘GTA 6 Controllers’ That Aren’t GTA 6 Controllers appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 88,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 2,
+   "ai_error": "ValueError: нет полей: title_ru",
+   "msg_id": 249
   },
   {
    "id": "7a2401b7f149",
@@ -1215,43 +1304,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f150eab607c1",
-   "title": "'We Have the Chance to Make Gaming History Not Once but Twice' — Rockstar Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
-   "first_seen": "2026-10-28T10:10:52Z",
-   "updated": "2026-10-28T10:10:52Z",
-   "items": [
-    {
-     "id": "f150eab607c1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "'We Have the Chance to Make Gaming History Not Once but Twice' — Rockstar Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGR6MGpTamJwOFY4c3FTa2JsQTF5U0ZjcnhiSVpabkVBNllBXzdxOHFINUlLZXd5UXN4M0xvSkJWLVlBMW1iZm5MTW1CQVRVUHppamFtb0cwN1RuaHBjQkdTNEg5YWlESVhfRmNHdUotbEliN1VqbExRcGNkUHJlU1NraTgtal9CTXpuMjlGZU9NM3R4MkN6am53NjJlZnM4cTljN0FQd0ZLMUZvc1pN?oc=5",
-     "ts": "2026-10-28T10:06:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "В день выхода GTA 6 у Rockstar голосуют за профсоюз",
-    "summary": "Сотрудники Rockstar будут голосовать за объединение в профсоюз в день выхода GTA 6, пишет IGN. Руководство называет это «историческим» моментом и говорит о шансе «дважды войти в историю игр».",
-    "idea": "Коротко показываем дату релиза GTA 6 и день голосования за профсоюз, чтобы зритель понял редкое совпадение. Почему интересно: редкий «исторический» дубль — игра года и голосование студии в один день.",
-    "hook": "GTA 6 выходит — и в тот же день Rockstar голосует за профсоюз.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-28T10:10:59Z"
-   },
-   "msg_id": 246
   },
   {
    "id": "da5871e9d753",
@@ -52232,123 +52284,19 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7f52296d8a74",
-   "title": "Gaming Can’t Afford More Games the Size of ‘Grand Theft Auto VI’",
-   "first_seen": "2026-10-21T11:10:47Z",
-   "updated": "2026-10-21T11:10:47Z",
-   "items": [
-    {
-     "id": "7f52296d8a74",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WIRED",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gaming Can’t Afford More Games the Size of ‘Grand Theft Auto VI’",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uRFZuc0ctNFN5dGpVc1U1U3drV3dBU19DZ3ZCMlNNMlFTTDhQWDdScUg2VVl0OEpBNjh4TVN6S3oyeVhEU1B3QzhSTEIwRUJacjlzMk8xbDhpRnM5ZjMzeA?oc=5",
-     "ts": "2026-10-21T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "aaca45d33443",
-   "title": "Is GTA 6 Cross-Platform? Crossplay and Cross-Progression Explained",
-   "first_seen": "2026-10-21T11:10:47Z",
-   "updated": "2026-10-21T11:10:47Z",
-   "items": [
-    {
-     "id": "aaca45d33443",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "DLCompare.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Is GTA 6 Cross-Platform? Crossplay and Cross-Progression Explained",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRldRQ05QMjRmVFdYNl8xM1NGVW43dV9GODVqRXpwem5hRVV6c1NreUMtVmFPazJQQkVRYkN5bHNYUmF3X3RBMjBoeGFqOUhwQ09tbFd4LWtTaVV4STU3UHRRT3g5S2JXYzVnbFU0anBtV2V0cy1hLVY1bGVTQld2QW4zeXRQdi1MTlZmMDRlSDNqU1hNWUgxaDZCVEl1N2h2MWI3eGlR?oc=5",
-     "ts": "2026-10-21T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e550e6e0bff6",
-   "title": "GTA 6 Turns Jason and Lucia Into a Real Couple You Can Hang Out With",
-   "first_seen": "2026-10-21T11:10:47Z",
-   "updated": "2026-10-21T11:10:47Z",
-   "items": [
-    {
-     "id": "e550e6e0bff6",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA 6 Turns Jason and Lucia Into a Real Couple You Can Hang Out With",
-     "url": "https://www.gtaboom.com/gta-6-turns-jason-and-lucia-into-a-real-couple-you-can-hang-out-with-f7bb",
-     "ts": "2026-10-21T11:03:15Z",
-     "summary": "In GTA 6, Jason and Lucia can date, hit the gym, and rob stores together in free roam, outside any scripted story cutscenes."
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b77f160b2248",
-   "title": "GTA 6's Jason and Lucia Date, Work Out and Commit Crimes Together in Free Roam",
-   "first_seen": "2026-10-21T11:10:47Z",
-   "updated": "2026-10-21T11:10:47Z",
-   "items": [
-    {
-     "id": "b77f160b2248",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GTA BOOM",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Jason and Lucia Date, Work Out and Commit Crimes Together in Free Roam",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSmZXbV93YXZVRFM3aWxOYkhtYVA1Qmp3TUQ3UHFHd3RBS1ZBWVB4eWpEYXJHUkNTZXoxaEVwY21XbFZjajA2MzFuck1Nc1ZrT2NJWEFtLURKbWtCTUgyaXlvX2tsYXJNRTMtbWJfMkdHN21nUU9odHJoTFQzbnF1WldFMzFsOWMtXzFfa3dqSEtPdnlTSDloS2dtYVdzZw?oc=5",
-     "ts": "2026-10-21T11:03:16Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T11:01:29Z",
+  "last_run": "2026-10-28T11:10:54Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 97/100",
-   "gnews_ru: 59/63",
+   "gnews_en: 98/100",
+   "gnews_ru: 63/68",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
-   "ign: 0/20",
+   "ign: 1/20",
    "eurogamer: 2/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 3/10",
