@@ -1,6 +1,69 @@
 {
  "stories": [
   {
+   "id": "923fd58d2310",
+   "title": "Инсайдер раскрыл защиту от утечек в рецензионных копиях GTA 6",
+   "first_seen": "2026-10-28T09:50:56Z",
+   "updated": "2026-10-28T09:50:56Z",
+   "items": [
+    {
+     "id": "923fd58d2310",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VGTimes",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Инсайдер раскрыл защиту от утечек в рецензионных копиях GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2x1eWFSQTh5U25TZWE5QjhlWE5GQmRSMWRCNXUwVkUwMno2a3hEOXFYT2VCcGRMX2NxcDNkU2ExNW1zbkhGT0ZpekRVNFUzYUQ4dnNRWnJBLXdGUVYwUkFFOE54VmRySS1fZm1HT001elpBRXRMdzFlWS1aaWl1TktLOUI3Z1RrR0RTaGN4TFlrQ1RhUm1iZGY0dGwzVUxHdUp5TFNTVXJsWHdJ?oc=5",
+     "ts": "2026-10-28T09:39:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e5ca55ec7ede",
+   "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
+   "first_seen": "2026-10-28T09:50:56Z",
+   "updated": "2026-10-28T09:50:56Z",
+   "items": [
+    {
+     "id": "e5ca55ec7ede",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
+     "url": "https://www.eurogamer.net/rockstar-union-vote-november",
+     "ts": "2026-10-28T09:49:39Z",
+     "summary": "A date has been locked in for Rockstar Games employees to vote on whether to recognise their developer union. If successful, it will become the largest recognised union across the entirety of the UK video games industry. Read more"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Профсоюз Rockstar голосует в окно выхода GTA 6",
+    "summary": "Сотрудники Rockstar Games назначили голосование по признанию профсоюза на следующий месяц, оно пройдет в период выхода GTA 6. Об этом пишет Eurogamer. Если голосование пройдет успешно, это станет крупнейшим признанным профсоюзом в британской игровой индустрии.",
+    "idea": "Угол: голосование профсоюза Rockstar прямо в окно релиза GTA 6 — что это значит для игроков. Почему интересно: возможный риск переносов и как это влияет на стабильность запуска.",
+    "hook": "Профсоюз Rockstar голосует в окно выхода GTA 6 — что это значит для нас?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T09:51:01Z"
+   },
+   "msg_id": 244
+  },
+  {
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
@@ -52137,16 +52200,16 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T09:40:54Z",
+  "last_run": "2026-10-28T09:51:01Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 98/100",
-   "gnews_ru: 59/62",
+   "gnews_en: 99/100",
+   "gnews_ru: 60/63",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
    "ign: 0/20",
-   "eurogamer: 1/100",
+   "eurogamer: 2/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 3/10",
    "gtaboom: 10/30",
