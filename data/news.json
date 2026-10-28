@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "8235f74d0513",
+   "title": "Inducing coma",
+   "first_seen": "2026-10-28T06:40:52Z",
+   "updated": "2026-10-28T06:40:52Z",
+   "items": [
+    {
+     "id": "8235f74d0513",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Inducing coma",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xhbnt8/inducing_coma/",
+     "ts": "2026-10-28T01:59:20Z",
+     "summary": "I can't take it, time is going too slow. I can no longer wait for the 19th. I'm planning on putting myself in a coma by oxygen deprivation. Should I use helium or carbon monoxide? submitted by /u/PinballWizrd69 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "984b0ec57ae8",
+   "title": "Инсайд: Rockstar придумала несколько способов защиты ревью-копий GTA 6 от утечек",
+   "first_seen": "2026-10-28T06:40:52Z",
+   "updated": "2026-10-28T06:40:52Z",
+   "items": [
+    {
+     "id": "984b0ec57ae8",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "WTFTime.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Инсайд: Rockstar придумала несколько способов защиты ревью-копий GTA 6 от утечек",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON05jVk83b0ExNVh2RUJkeVJjVmtfYTlzN3J6VlB4NDlEWnFqUVp4N0d2SVJIU1RhTEwyS2FUT25yMVAzcm9wRG82a2VpMHIzUWhZR09OZjNoODBZOE42TjFVY3Vsc0Q0QkMxWGVPYUYyOXQ1VV9HVmIySFNrV3llRWFQbTVqaG0zUThWMzRVckNsb1NsQ2NrZ3dhWkx1ZVNQcUhQSE81cmxoVFBoM3ItSjFwcVZFOUZ6?oc=5",
+     "ts": "2026-10-28T06:33:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "b72541dc436c",
    "title": "Разработчики GTA 6 устали терпеть сливы - версию игры для СМИ защитили водяными знаками с именами журналистов",
    "first_seen": "2026-10-28T06:10:52Z",
@@ -51647,11 +51699,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T06:31:04Z",
+  "last_run": "2026-10-28T06:40:52Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
-   "gnews_ru: 58/61",
+   "gnews_ru: 56/59",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
