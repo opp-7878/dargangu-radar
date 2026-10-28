@@ -1,99 +1,10 @@
 {
  "stories": [
   {
-   "id": "1720767e24ed",
-   "title": "Rockstar Games employees may vote to create the largest video game union in UK games history, and it's all happening around the release window of Grand Theft Auto 6",
-   "first_seen": "2026-10-28T10:01:21Z",
-   "updated": "2026-10-28T10:01:21Z",
-   "items": [
-    {
-     "id": "1720767e24ed",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Eurogamer.net",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Games employees may vote to create the largest video game union in UK games history, and it's all happening around the release window of Grand Theft Auto 6",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XOVg2S2cxWkhLejh1WVg5bkJEQVJUWW5TM2NvN0c3VllGb1B1QmdTM3MzbUEtLXpveEx0WU9JdVJPTGRDZzUzZE1ubVB2SnVaRDBlRmlCTzBCelRXalgwa1hWb1Q?oc=5",
-     "ts": "2026-10-28T09:49:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "923fd58d2310",
-   "title": "Инсайдер раскрыл защиту от утечек в рецензионных копиях GTA 6",
-   "first_seen": "2026-10-28T09:50:56Z",
-   "updated": "2026-10-28T09:50:56Z",
-   "items": [
-    {
-     "id": "923fd58d2310",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VGTimes",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Инсайдер раскрыл защиту от утечек в рецензионных копиях GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2x1eWFSQTh5U25TZWE5QjhlWE5GQmRSMWRCNXUwVkUwMno2a3hEOXFYT2VCcGRMX2NxcDNkU2ExNW1zbkhGT0ZpekRVNFUzYUQ4dnNRWnJBLXdGUVYwUkFFOE54VmRySS1fZm1HT001elpBRXRMdzFlWS1aaWl1TktLOUI3Z1RrR0RTaGN4TFlrQ1RhUm1iZGY0dGwzVUxHdUp5TFNTVXJsWHdJ?oc=5",
-     "ts": "2026-10-28T09:39:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e5ca55ec7ede",
-   "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
-   "first_seen": "2026-10-28T09:50:56Z",
-   "updated": "2026-10-28T09:50:56Z",
-   "items": [
-    {
-     "id": "e5ca55ec7ede",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
-     "url": "https://www.eurogamer.net/rockstar-union-vote-november",
-     "ts": "2026-10-28T09:49:39Z",
-     "summary": "A date has been locked in for Rockstar Games employees to vote on whether to recognise their developer union. If successful, it will become the largest recognised union across the entirety of the UK video games industry. Read more"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 Профсоюз Rockstar голосует в окно выхода GTA 6",
-    "summary": "Сотрудники Rockstar Games назначили голосование по признанию профсоюза на следующий месяц, оно пройдет в период выхода GTA 6. Об этом пишет Eurogamer. Если голосование пройдет успешно, это станет крупнейшим признанным профсоюзом в британской игровой индустрии.",
-    "idea": "Угол: голосование профсоюза Rockstar прямо в окно релиза GTA 6 — что это значит для игроков. Почему интересно: возможный риск переносов и как это влияет на стабильность запуска.",
-    "hook": "Профсоюз Rockstar голосует в окно выхода GTA 6 — что это значит для нас?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-28T09:51:01Z"
-   },
-   "msg_id": 244
-  },
-  {
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-28T09:40:54Z",
+   "updated": "2026-10-28T10:10:52Z",
    "items": [
     {
      "id": "1b8855a0b189",
@@ -835,6 +746,19 @@
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0I2UHBrVGhoZ0RvVWhDRnNHV2hmTUJ3Z0N6ejdOdnZaQS1FUGJHbW55Zmx6cHVHVExKeVo3UENPenhZR1FIbzJpM3BwTjdvdDFTaDhPTTM3XzdIMlhYOW5fOThGVXZwVDFJNzFNS2hZakt0QkFpc09PVUM2T1Joa1dXcjZTT1pCZWFlNW9vLVY?oc=5",
      "ts": "2026-10-28T09:29:55Z",
      "summary": ""
+    },
+    {
+     "id": "724c77c20520",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GAMINGbible",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's reported file size could spell trouble for PS5 owners",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaHJkbDl4SWFRR0J3VEFWY0hndzNaRExWMHNlM01rVnZpTy10VXc3WEZOTldZWVNveTJYNm0wQnpWcFdIVkNLMUZCNlkxeXpOTzc2cEo3R3BpeGJCZ2xjZHJSNmp5d0Z5MFlac3M0UkFmOVdUbXBsWkEzWEdITmtzZlFSTUR6YjNXcFYxTTZGb3NqODN3ZFI2RWpvMmRLZ0FiaTFGRktB?oc=5",
+     "ts": "2026-10-28T10:04:46Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -850,6 +774,286 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
+  },
+  {
+   "id": "82b0cbe24dfb",
+   "title": "Time-off requests for GTA 6 launch day up 9-17%: BambooHR | Tap to know more | Inshorts",
+   "first_seen": "2026-10-27T11:31:08Z",
+   "updated": "2026-10-28T10:10:52Z",
+   "items": [
+    {
+     "id": "82b0cbe24dfb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Inshorts",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Time-off requests for GTA 6 launch day up 9-17%: BambooHR | Tap to know more | Inshorts",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0swV1BaaXZPb18wb0w0amxhWjNLWXNPdG1TUUpRVnE0a0c3Q281VFV4TVVoN18tWDdrYXFmZTJVSWY3Z1ljZFcySkJQSlgzMXZQelJZOVAwdC1QVVYwRzUxbTJja2F1d25JeTFDTUJfX09qbVNXTDhTdHZYcFJGSlI1SzZuZHBmVWtaX1U3bWtPUVpyaEFpakFpUG11SkJ0ZEHSAacBQVVfeXFMTjRudExRTjdYZVpHa1llWm4wbVpkbnZOdURGNFg1S0dlNzE3SEJ4YWhqRVEzVmt0Y2o5S2lvclRoWThxejhDSmFacWFBdC1jbnNuSm1yUnBQNlJyT09TdVRGMUlSXzJIRmVjRnFHTG54QVNOekZ3b3BSWjJnbVE0N0RoMmNRcFRvMG5YVXNscGozZ2hKSzV2SDU4R0p5aEFGRnRRSzJkeTA?oc=5",
+     "ts": "2026-10-27T10:42:37Z",
+     "summary": ""
+    },
+    {
+     "id": "6cde38aa8db6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "tech-insider.org",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Launch Day: PTO Requests Up 9-17% [2026]",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb0N1WExkX0c5OFpnOXhsN1h2R0FqeUVwOVhwTkZMSXA2elJlTG9aR01JcE5XcFprNVFTOW9yUVY1LVBjUWp1VUJXU25LZHZRbTZuMlB6dHNqMGxqdERYMm1FZTZPZHNiUUNIclYwMXhWMW1hMDFodVBkdjBsYTBQOVg2TjY3NFpKN0ZLZm1B?oc=5",
+     "ts": "2026-10-28T00:46:05Z",
+     "summary": ""
+    },
+    {
+     "id": "1354b5206388",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "BambooHR Data Shows GTA 6 Launch Day Time Off Requests Spiking 9 to 17 Percent",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSXJkekV1NGRQMlIzakVhX3VHVVZSbXoyeWNHVnpMaVhia21NR0kwUHBSNVlrTUlBcG1OT1FPUC1jMnB6T1U3XzZmMG9RVnFFWVNRanhSTGRrS2FuS0hCM0VXaU9HZi1WcWJVSGpSTjgyUUtFM2ljOTk4bVF2b214UHhrdUpCSnhI?oc=5",
+     "ts": "2026-10-28T10:05:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "51c75e90adf8",
+   "title": "World War Z ‘Viral State’ Update Feels Like GTA 6 With Zombies",
+   "first_seen": "2026-10-28T10:10:52Z",
+   "updated": "2026-10-28T10:10:52Z",
+   "items": [
+    {
+     "id": "51c75e90adf8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "World War Z ‘Viral State’ Update Feels Like GTA 6 With Zombies",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CWWlyWWRyaDJkcjhTeTlhbF9mc20wQWxaNU1PYzV4N1c1eUUxZ2NPbWVRaHZsN1hBQzZHN1VpSmdON0wzWHMtYW9abW1DOVUwUXNoRWltSVZSN21nMkdFVlVIZWxMQ1c3SS1IdFViYXEtQQ?oc=5",
+     "ts": "2026-10-28T10:00:55Z",
+     "summary": ""
+    },
+    {
+     "id": "dcc4154f5318",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "World War Z ‘Viral State’ Update Feels Like GTA 6 With Zombies",
+     "url": "https://insider-gaming.com/world-war-z-viral-state-update-gta-6/",
+     "ts": "2026-10-28T10:00:55Z",
+     "summary": "World War Z is getting a new update called Viral State, and it looks like someone took GTA 6 and added zombies to the map. The post World War Z ‘Viral State’ Update Feels Like GTA 6 With Zombies appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "World War Z обновили — теперь как GTA 6 с зомби",
+    "summary": "В World War Z вышло обновление Viral State, и автор Insider Gaming Том Хендерсон пишет, что оно ощущается как GTA 6 с зомби на карте. По его словам, новая версия меняет атмосферу и напоминает ожидания от GTA 6.",
+    "idea": "Сравнение кадров Viral State с ожиданиями по GTA 6: карта, неон, масштаб — и почему это цепляет фанатов. Зрителю интересно, потому что это «тест-драйв» ощущений от GTA 6 на живом примере.",
+    "hook": "World War Z только что стал как GTA 6, но с зомби — смотри сравнение.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T10:10:56Z"
+   },
+   "msg_id": 245
+  },
+  {
+   "id": "efe0190d622f",
+   "title": "HR Data Shows a GTA 6 Time-Off Surge GTA 5 Never Had",
+   "first_seen": "2026-10-28T10:10:52Z",
+   "updated": "2026-10-28T10:10:52Z",
+   "items": [
+    {
+     "id": "efe0190d622f",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "HR Data Shows a GTA 6 Time-Off Surge GTA 5 Never Had",
+     "url": "https://www.gtaboom.com/hr-data-shows-a-gta-6-time-off-surge-gta-5-never-had-e610",
+     "ts": "2026-10-28T10:05:43Z",
+     "summary": "BambooHR data shows November 19 time off requests running 9 to 17 percent above normal, a surge no past GTA launch ever had tracked."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f150eab607c1",
+   "title": "'We Have the Chance to Make Gaming History Not Once but Twice' — Rockstar Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
+   "first_seen": "2026-10-28T10:10:52Z",
+   "updated": "2026-10-28T10:10:52Z",
+   "items": [
+    {
+     "id": "f150eab607c1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "'We Have the Chance to Make Gaming History Not Once but Twice' — Rockstar Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGR6MGpTamJwOFY4c3FTa2JsQTF5U0ZjcnhiSVpabkVBNllBXzdxOHFINUlLZXd5UXN4M0xvSkJWLVlBMW1iZm5MTW1CQVRVUHppamFtb0cwN1RuaHBjQkdTNEg5YWlESVhfRmNHdUotbEliN1VqbExRcGNkUHJlU1NraTgtal9CTXpuMjlGZU9NM3R4MkN6am53NjJlZnM4cTljN0FQd0ZLMUZvc1pN?oc=5",
+     "ts": "2026-10-28T10:06:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В день выхода GTA 6 у Rockstar голосуют за профсоюз",
+    "summary": "Сотрудники Rockstar будут голосовать за объединение в профсоюз в день выхода GTA 6, пишет IGN. Руководство называет это «историческим» моментом и говорит о шансе «дважды войти в историю игр».",
+    "idea": "Коротко показываем дату релиза GTA 6 и день голосования за профсоюз, чтобы зритель понял редкое совпадение. Почему интересно: редкий «исторический» дубль — игра года и голосование студии в один день.",
+    "hook": "GTA 6 выходит — и в тот же день Rockstar голосует за профсоюз.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T10:10:59Z"
+   },
+   "msg_id": 246
+  },
+  {
+   "id": "da5871e9d753",
+   "title": "Rockstar Games Officially Comments on GTA 6's Realism + Immersion",
+   "first_seen": "2026-10-28T10:10:52Z",
+   "updated": "2026-10-28T10:10:52Z",
+   "items": [
+    {
+     "id": "da5871e9d753",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games Officially Comments on GTA 6's Realism + Immersion",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWTlxUG8wdVl2YzlWMWRiOXR1TGJLZjZGRndtM0Z3c1BEWDRBV21HNVRDUVNuUkdkZzVMQXFWd196RXNLU1p5NXlwakE3Qk16cmY3S3dhLW5aX0k0WjVQX29QdjdmUFlhNS12RW1kVjZRSVQ1eEhHcXNGOWVjLVViRGpIYVYwa2ozdldHX2pETlJqZnFTR1hNM0szNDI?oc=5",
+     "ts": "2026-10-28T10:08:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1720767e24ed",
+   "title": "Rockstar Games employees may vote to create the largest video game union in UK games history, and it's all happening around the release window of Grand Theft Auto 6",
+   "first_seen": "2026-10-28T10:01:21Z",
+   "updated": "2026-10-28T10:01:21Z",
+   "items": [
+    {
+     "id": "1720767e24ed",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Eurogamer.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games employees may vote to create the largest video game union in UK games history, and it's all happening around the release window of Grand Theft Auto 6",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XOVg2S2cxWkhLejh1WVg5bkJEQVJUWW5TM2NvN0c3VllGb1B1QmdTM3MzbUEtLXpveEx0WU9JdVJPTGRDZzUzZE1ubVB2SnVaRDBlRmlCTzBCelRXalgwa1hWb1Q?oc=5",
+     "ts": "2026-10-28T09:49:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "923fd58d2310",
+   "title": "Инсайдер раскрыл защиту от утечек в рецензионных копиях GTA 6",
+   "first_seen": "2026-10-28T09:50:56Z",
+   "updated": "2026-10-28T09:50:56Z",
+   "items": [
+    {
+     "id": "923fd58d2310",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VGTimes",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Инсайдер раскрыл защиту от утечек в рецензионных копиях GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2x1eWFSQTh5U25TZWE5QjhlWE5GQmRSMWRCNXUwVkUwMno2a3hEOXFYT2VCcGRMX2NxcDNkU2ExNW1zbkhGT0ZpekRVNFUzYUQ4dnNRWnJBLXdGUVYwUkFFOE54VmRySS1fZm1HT001elpBRXRMdzFlWS1aaWl1TktLOUI3Z1RrR0RTaGN4TFlrQ1RhUm1iZGY0dGwzVUxHdUp5TFNTVXJsWHdJ?oc=5",
+     "ts": "2026-10-28T09:39:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e5ca55ec7ede",
+   "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
+   "first_seen": "2026-10-28T09:50:56Z",
+   "updated": "2026-10-28T09:50:56Z",
+   "items": [
+    {
+     "id": "e5ca55ec7ede",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
+     "url": "https://www.eurogamer.net/rockstar-union-vote-november",
+     "ts": "2026-10-28T09:49:39Z",
+     "summary": "A date has been locked in for Rockstar Games employees to vote on whether to recognise their developer union. If successful, it will become the largest recognised union across the entirety of the UK video games industry. Read more"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Профсоюз Rockstar голосует в окно выхода GTA 6",
+    "summary": "Сотрудники Rockstar Games назначили голосование по признанию профсоюза на следующий месяц, оно пройдет в период выхода GTA 6. Об этом пишет Eurogamer. Если голосование пройдет успешно, это станет крупнейшим признанным профсоюзом в британской игровой индустрии.",
+    "idea": "Угол: голосование профсоюза Rockstar прямо в окно релиза GTA 6 — что это значит для игроков. Почему интересно: возможный риск переносов и как это влияет на стабильность запуска.",
+    "hook": "Профсоюз Rockstar голосует в окно выхода GTA 6 — что это значит для нас?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T09:51:01Z"
+   },
+   "msg_id": 244
   },
   {
    "id": "78a171f1ba31",
@@ -3543,45 +3747,6 @@
     "at": "2026-10-27T20:01:20Z"
    },
    "msg_id": 232
-  },
-  {
-   "id": "82b0cbe24dfb",
-   "title": "Time-off requests for GTA 6 launch day up 9-17%: BambooHR | Tap to know more | Inshorts",
-   "first_seen": "2026-10-27T11:31:08Z",
-   "updated": "2026-10-28T00:50:52Z",
-   "items": [
-    {
-     "id": "82b0cbe24dfb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Inshorts",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Time-off requests for GTA 6 launch day up 9-17%: BambooHR | Tap to know more | Inshorts",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0swV1BaaXZPb18wb0w0amxhWjNLWXNPdG1TUUpRVnE0a0c3Q281VFV4TVVoN18tWDdrYXFmZTJVSWY3Z1ljZFcySkJQSlgzMXZQelJZOVAwdC1QVVYwRzUxbTJja2F1d25JeTFDTUJfX09qbVNXTDhTdHZYcFJGSlI1SzZuZHBmVWtaX1U3bWtPUVpyaEFpakFpUG11SkJ0ZEHSAacBQVVfeXFMTjRudExRTjdYZVpHa1llWm4wbVpkbnZOdURGNFg1S0dlNzE3SEJ4YWhqRVEzVmt0Y2o5S2lvclRoWThxejhDSmFacWFBdC1jbnNuSm1yUnBQNlJyT09TdVRGMUlSXzJIRmVjRnFHTG54QVNOekZ3b3BSWjJnbVE0N0RoMmNRcFRvMG5YVXNscGozZ2hKSzV2SDU4R0p5aEFGRnRRSzJkeTA?oc=5",
-     "ts": "2026-10-27T10:42:37Z",
-     "summary": ""
-    },
-    {
-     "id": "6cde38aa8db6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "tech-insider.org",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Launch Day: PTO Requests Up 9-17% [2026]",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb0N1WExkX0c5OFpnOXhsN1h2R0FqeUVwOVhwTkZMSXA2elJlTG9aR01JcE5XcFprNVFTOW9yUVY1LVBjUWp1VUJXU25LZHZRbTZuMlB6dHNqMGxqdERYMm1FZTZPZHNiUUNIclYwMXhWMW1hMDFodVBkdjBsYTBQOVg2TjY3NFpKN0ZLZm1B?oc=5",
-     "ts": "2026-10-28T00:46:05Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
   },
   {
    "id": "cb35998fa7cf",
@@ -52157,88 +52322,23 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "eca0ae8baf3c",
-   "title": "\"Пиво Вайс-Сити\": в США запустят производство реального пива по мотивам GTA 6",
-   "first_seen": "2026-10-20T20:30:57Z",
-   "updated": "2026-10-21T10:10:50Z",
-   "items": [
-    {
-     "id": "eca0ae8baf3c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "\"Пиво Вайс-Сити\": в США запустят производство реального пива по мотивам GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcmpzdjFOWm9CSTZoTlhTWWh6Y09FOFZ1QkZtVWoyOGtrUlRWR3lIMDhoTnVEanR6eVRHVmpLbUhFTW5QekQzajZNM0toMWJTYmJkSkp4Q2hGMDJVeWVmcEozMWJoTVpnRDZMcVJPZTc3VkZuZGYzdDZRbFRDdmI2bktZLVBVeFIxZmtNNXNuN2pDQnFhVjM0NzFza3M4MkJpZW94cGl2bXBYcVhQaEZQVTN5Um5vMkhsMUYweA?oc=5",
-     "ts": "2026-10-20T20:12:14Z",
-     "summary": ""
-    },
-    {
-     "id": "934a82b5c851",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Crispy news",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Производство пива по мотивам GTA 6 запустят в США?",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTQxT2E1YnBmOTFNOHBNcVpNRUs4V2JCdXdoNHZtUGYtNHFOV2RTYm8xUG54SjBiMWpPTDZiZktQdVFqS18tNHpFMmJUeDQ1dzdwbHhsLWUwUW5HZFVoY3NKTkw0NlpLaWN4UXhRUGt6TTlqa1ZGTUhJaTFpejI5clRoLXI4djZ3dDNpOTY2V29CNUU2Nnc?oc=5",
-     "ts": "2026-10-21T09:42:36Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 48,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6aa37b036a7c",
-   "title": "Did anyone notice that Flower In A Hurricane uses old logo?",
-   "first_seen": "2026-10-21T10:01:38Z",
-   "updated": "2026-10-21T10:01:38Z",
-   "items": [
-    {
-     "id": "6aa37b036a7c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Did anyone notice that Flower In A Hurricane uses old logo?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xbiwbk/did_anyone_notice_that_flower_in_a_hurricane_uses/",
-     "ts": "2026-10-21T09:53:16Z",
-     "summary": "submitted by /u/Mazhura11 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T10:01:21Z",
+  "last_run": "2026-10-28T10:10:59Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 99/100",
-   "gnews_ru: 63/66",
+   "gnews_en: 98/100",
+   "gnews_ru: 59/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 1/10",
+   "insider_gaming: 2/10",
    "ign: 0/20",
    "eurogamer: 2/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 3/10",
-   "gtaboom: 10/30",
+   "gtaboom: 11/30",
    "reddit: 25/25",
    "tg_gtavistar: 6/17",
    "tg_gta6deluxe: 7/11",
