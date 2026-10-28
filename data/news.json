@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "6ae857f24763",
+   "title": "Lucia and Jason in GTA6 club",
+   "first_seen": "2026-10-28T19:20:52Z",
+   "updated": "2026-10-28T19:20:52Z",
+   "items": [
+    {
+     "id": "6ae857f24763",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Lucia and Jason in GTA6 club",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xhxgox/lucia_and_jason_in_gta6_club/",
+     "ts": "2026-10-28T19:10:48Z",
+     "summary": "submitted by /u/vovalucky to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6d03ab1d9982",
    "title": "GTA VI sets record for video game purchase intent, Circana says (MSFT:NASDAQ)",
    "first_seen": "2026-10-28T13:31:14Z",
@@ -53780,11 +53806,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T19:10:56Z",
+  "last_run": "2026-10-28T19:20:52Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 100/100",
-   "gnews_ru: 62/83",
+   "gnews_en: 99/100",
+   "gnews_ru: 57/74",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
