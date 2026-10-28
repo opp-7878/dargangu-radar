@@ -4,7 +4,7 @@
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-28T15:50:53Z",
+   "updated": "2026-10-28T16:01:22Z",
    "items": [
     {
      "id": "1b8855a0b189",
@@ -1175,6 +1175,19 @@
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSENEX1VRVDllME9NRnBad2tOSVNJSHhQRnBaQWpfbTdvWk1UdjMwcTY2QUhrRTl0bk5SSUJFZjJGUUpWaGNjd0xjUGRaTXVnQVNtSlZ1UzVjcDlxWUREOW5uOVlTVlgyQ0s2R1pINWE0bDV3c1lQQ2NEanpTNTVLZ1ZxX0dadVNaQTF5czBXWUNfNzhr?oc=5",
      "ts": "2026-10-28T15:23:02Z",
      "summary": ""
+    },
+    {
+     "id": "fb2bde931cd5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Grand Theft Auto 6 set to take up a whopping 210 GB on consoles",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlBQWnhPTFgtQXNieFc3azRpX2NCWDFvZE9FeXNxbmh3ZjBycUZRZWY4UXJ0Qk53dXlpQXUzU1pBQXJReEY4c3lmMThoRnpRWWlzcUlxbnh3cHVKRFhHdnptQmo4d2pON1ctbTZjUm55dDhnZnIzTkFic3V0ZFN3anRFQnlzMVRVTDc2X2NKU2pVWDhXNHdkUGdZZFFZMmpHVWQtOXp2OFpCSGNpOWdGZnlEN3drVWU2bXZiZFk5SXBKNGRPMkE?oc=5",
+     "ts": "2026-10-28T15:52:11Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -1191,6 +1204,141 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
+  },
+  {
+   "id": "24417a5653a4",
+   "title": "Circana: Nearly 1-in-3 U.S. Gamers Plan to Buy 'Grand Theft Auto VI,' Setting New Industry Record",
+   "first_seen": "2026-10-28T14:40:50Z",
+   "updated": "2026-10-28T16:01:22Z",
+   "items": [
+    {
+     "id": "24417a5653a4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Media Play News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Circana: Nearly 1-in-3 U.S. Gamers Plan to Buy 'Grand Theft Auto VI,' Setting New Industry Record",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGtRT0wtNjFLNEVlV1FNNjBPOERhVFpVZ2RrQk9IV3VzNnRtZ2xZUmFZaTNKRDFPeWRScmlHd29mX3ZiTjNDd3RRTWJuRmhJQlE2SGRHYmx4MmtkY2JzU29LVURUV3VvSVY5LVRsRVJ5SDJyN2k1T3NERUhRdGJuMWFjUTlnN1pIbnF5NHlxSnY0SVR1a2RQZWl0aVdadldabnFjNXlrLTFkVnAtYWxNeEF1eGgzRVBudG4zdkdWLUk?oc=5",
+     "ts": "2026-10-28T14:38:24Z",
+     "summary": ""
+    },
+    {
+     "id": "971f5ca62cfd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "StreetInsider",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Nearly 1-in-3 U.S. Console and PC Gamers Plan to Buy Grand Theft Auto VI, Setting a New Industry Record, Circana Reports",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORG81VG1kZGVuaDhGWmdNVnRxYTdzNllwUDVQOVFXZUFKN0RmbWo2S0xGZllKQUNyMS1IdXZSU1FoWWszZHNsVkczYlJHOTkweTVySnIweV9URTFuWk5IU2VjcFNERUNKdExLZk4yTmkzazBYc2R3N1Q1bFJfZTNIOW1KSVBpbFVZU2g3LTZIckVsVkVmenFkTVk1X1BBR3JlQkt6Q1o3WGlGMHNmczdkUXVOUFdmSTFKbjB5aWRMdG9jc1Nid29yc1VHV3F0eUJNZjZ2UGlqdnZqTTlTemptX19JY2F3S2gzY09FZkdINkh4bGFoYjBjOGsxckhrTUpWUUFYLWp4ZnVRcUVMMGkzdQ?oc=5",
+     "ts": "2026-10-28T15:53:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 2,
+   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 53 (char 54)",
+   "msg_id": 265
+  },
+  {
+   "id": "7c50688b678b",
+   "title": "50 original tracks prepared for GTA VI",
+   "first_seen": "2026-10-28T16:01:22Z",
+   "updated": "2026-10-28T16:01:22Z",
+   "items": [
+    {
+     "id": "7c50688b678b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iXBT.games",
+     "group": "media",
+     "weight": 45,
+     "alert": true,
+     "title": "50 original tracks prepared for GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0lQLW1TUTRuZXhkNW9LUkpObjJZcXowS1piX0VHLWI3MDF1QmluM25CRVZ5bUt0dzNPWWpvZDlvMUFLa0MtRnJhUVBPZVVHNC1fcWduNVdRa2prTjIzSkxOelVhWmNoSVFJeVM2c01xX293XzJLdmZSVHBMYUUySVd5dHIxVjZkVFRNQmFqY0k5Q1pKWl9r0gGcAUFVX3lxTE04d1NEWnk5aEZXNEhveGRUb2g2NkVNd0FYX1lxSTN3M3hxbDZpN2tjY1F4SHJ4TEU5b05rdU1mMEhGd29LRzR0dnhkNVpMRjFCdnVZRVVzaHgySHpBN3pjVW1pRHNvd2R2bE5ucUtlMVpTMHBVbV9TblpkM1ZiNmE3ZGpaQUdZb204VDZGZGEwUWlrQ1oxdmRURUE4TA?oc=5",
+     "ts": "2026-10-28T15:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a083539276aa",
+   "title": "Taking a stand.",
+   "first_seen": "2026-10-28T16:01:22Z",
+   "updated": "2026-10-28T16:01:22Z",
+   "items": [
+    {
+     "id": "a083539276aa",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Taking a stand.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xhs15e/taking_a_stand/",
+     "ts": "2026-10-28T15:58:31Z",
+     "summary": "submitted by /u/Crazy_Persimmon6730 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8dc62b70069c",
+   "title": "GTA 5 stars explain biggest thing GTA 6’s actors need to do once game finally releases",
+   "first_seen": "2026-10-28T16:01:22Z",
+   "updated": "2026-10-28T16:01:22Z",
+   "items": [
+    {
+     "id": "8dc62b70069c",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "GTA 5 stars explain biggest thing GTA 6’s actors need to do once game finally releases",
+     "url": "https://www.dexerto.com/gta/gta-5-stars-explain-biggest-thing-gta-6s-actors-need-to-do-once-game-finally-releases-3422531/",
+     "ts": "2026-10-28T15:59:22Z",
+     "summary": "The actors behind Michael, Franklin, and Trevor in Grand Theft Auto 5 have revealed what their counterparts in GTA 6 need to do once the game launches."
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Звёзды GTA 5 дали совет актёрам GTA 6 перед релизом",
+    "summary": "Актёры Майкла, Франклина и Тревора из GTA 5 рассказали, что нужно сделать их коллегам из GTA 6 после выхода игры. По их словам, главное — не потеряться в хайпе и держать голову холодной. Об этом сообщает Dexerto со ссылкой на интервью актёров GTA 5.",
+    "idea": "Короткие советы звёзд GTA 5 актёрам GTA 6 с быстрыми вставками лиц и эмоций — зрителю любопытно сравнить ожидания и реальность релиза.",
+    "hook": "Что посоветовали звёзды GTA 5 актёрам GTA 6 перед самым релизом?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T16:01:26Z"
+   },
+   "msg_id": 264
   },
   {
    "id": "363ba71ac60e",
@@ -2080,32 +2228,6 @@
    "score": 65,
    "level": "SPECULATION",
    "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "24417a5653a4",
-   "title": "Circana: Nearly 1-in-3 U.S. Gamers Plan to Buy 'Grand Theft Auto VI,' Setting New Industry Record",
-   "first_seen": "2026-10-28T14:40:50Z",
-   "updated": "2026-10-28T14:40:50Z",
-   "items": [
-    {
-     "id": "24417a5653a4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Media Play News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Circana: Nearly 1-in-3 U.S. Gamers Plan to Buy 'Grand Theft Auto VI,' Setting New Industry Record",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGtRT0wtNjFLNEVlV1FNNjBPOERhVFpVZ2RrQk9IV3VzNnRtZ2xZUmFZaTNKRDFPeWRScmlHd29mX3ZiTjNDd3RRTWJuRmhJQlE2SGRHYmx4MmtkY2JzU29LVURUV3VvSVY5LVRsRVJ5SDJyN2k1T3NERUhRdGJuMWFjUTlnN1pIbnF5NHlxSnY0SVR1a2RQZWl0aVdadldabnFjNXlrLTFkVnAtYWxNeEF1eGgzRVBudG4zdkdWLUk?oc=5",
-     "ts": "2026-10-28T14:38:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -53037,151 +53159,21 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "9a121052516c",
-   "title": "GTA 6 vs GTA 5: How Rockstar is taking things to another level",
-   "first_seen": "2026-10-20T15:01:15Z",
-   "updated": "2026-10-21T16:01:12Z",
-   "items": [
-    {
-     "id": "9a121052516c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 vs GTA 5: How Rockstar is taking things to another level",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YY1NWQU5FTXZzVHdvTklDNktSNG1DT3JSMmZ2cjdYUmpDenh0X21EWlE2SDBsWjhVX1FqYS0xNlFGTzBWQlhLQmMzYWxZazdHbDhyZEx0SXEtcDRkUng1NURHQTJWTWtaUVE?oc=5",
-     "ts": "2026-10-20T14:55:44Z",
-     "summary": ""
-    },
-    {
-     "id": "f24e67d96194",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 vs GTA 5: How Rockstar is taking things to another level",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ld0kwU0FIZG1fTG5KcFU3R2VrbVFtQWtYQ1Vpdy14ekp0bFBzS0pKZVNSc01zVUNMRXZ0SDFxM0E3Q0s3ZWR3UXRwSnp1WlltME1WNmhvSU1PYml0MTBHRHFmWllWUl94?oc=5",
-     "ts": "2026-10-20T16:00:43Z",
-     "summary": ""
-    },
-    {
-     "id": "9b72d1f324c2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 vs GTA 5: How Rockstar is taking things to another level",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3dmdFOEgwdDlDRFJXWUpfYk1sN0Y2SWhzYjRCSGhKNlJadXZoTEVfeGdSVEx4MUczT3dVT05nSTBXRkEzV1NuUXJWUzJXMzJrUm01NWpTU2Y0XzNRbnVjZHBDb2VaWmNh?oc=5",
-     "ts": "2026-10-20T14:55:44Z",
-     "summary": ""
-    },
-    {
-     "id": "06b625bd8186",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 vs GTA 5: How Rockstar is taking things to another level",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoOGVLWmJrSmVDaGp4WmRaLWZheEpHZDFHcVBYdVJMbTZWM3U4N2pmSlZrcnZGSFFYalRYeTRZbEFhWEVSNnRibW9jTjRLV2JnTTZRZlItVEJLcXAwR19NTFVGZzQyUVBQ?oc=5",
-     "ts": "2026-10-20T14:55:44Z",
-     "summary": ""
-    },
-    {
-     "id": "937570988701",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 vs GTA 5: How Rockstar is taking things to another level",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xUEJTeVhfQzN1Ni1oekFPd3BUX25zcnNobzgzbXA2VjdCSi1POUJ3TFRPc3lyYlU1c0tkWV9XN2ZHbzlCbkRwcDdnelBOb0ltODVTX0d4dWlEUk5PQ1puVmttcVBINE5v?oc=5",
-     "ts": "2026-10-20T14:55:44Z",
-     "summary": ""
-    },
-    {
-     "id": "090de0c750d6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 vs GTA 5: How Rockstar is taking things to another level",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rbmhnRmlHZFNkSjZUUGVreEhFc2RDc1o2UzBGOXNqWGFiZFBmeW5NSjV4Wk1oSktEWno5bEhZYkJjTmxwMHN6aW9QcVpWc19iaTJtOEhMbm5pNVEyaGI4NGxZc1hiT2o5?oc=5",
-     "ts": "2026-10-20T14:55:44Z",
-     "summary": ""
-    },
-    {
-     "id": "db0583a5c77e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 vs GTA 5: How Rockstar is taking things to another level",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BQ3JERXcwWmcxMHlvZ2QwaHdPUFFaTnMyQThwazU3aXMzVWdrUHJpdURIU1JGbEtuWk92NkdJZnJGanpfSGJXa0xTUXJzMVFQUndhQmptWGhNaENOODl2MG5SSnFLNVNp?oc=5",
-     "ts": "2026-10-20T22:29:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0f1d4bd71fd0",
-   "title": "Совпадение? Гарнитура PlayStation Pulse поступит в продажу в день релиза GTA VI",
-   "first_seen": "2026-10-21T16:01:12Z",
-   "updated": "2026-10-21T16:01:12Z",
-   "items": [
-    {
-     "id": "0f1d4bd71fd0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Gagadget.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Совпадение? Гарнитура PlayStation Pulse поступит в продажу в день релиза GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWk5SGFHc1VLSk44UV82Y3VNMC1DZXAtT095VDRjeC1WOEdXXzNpSFNlbEF6YXZieUFrVkNlLW11aUxFaENUR1prQWFDM0Frd0sxVDd3ZVNlQVp4dkpyQ2NoSUZEX3VxalNRWGVtODdhM2M1VUVLdmNQVUhuTHQ0MUVlMWJ1VGhHZUdNMHRnYWdUTzR5cFM5M0VZUzI1NEF1VjhlUmlIRG1sb1FvWHgw0gG0AUFVX3lxTE1lMmR4TU42Q2l5VGZremZhVF9KVzNxMTVHSlhhNjdWWWVOcDU2aHNtcFNxeFVpN2ZUdVpyeDJ3cDlOODlObkhZVGZfVldYalZETGFfTlAtMEl3UUx0SVNNRHRFRGp6WTN2WERVSGlYU1FlQjZJZmVfTFJJdHJxWUJodHJyenFkamctZnhnaDgwbFVkTjRZYW1LemZHaU41bUZCZU5nQS1hbFF3ZmRQRU03NElnRg?oc=5",
-     "ts": "2026-10-21T15:36:58Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T15:50:57Z",
+  "last_run": "2026-10-28T16:01:32Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 98/100",
+   "gnews_en: 97/100",
    "gnews_ru: 65/81",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
    "ign: 1/20",
    "eurogamer: 2/100",
-   "dexerto_gta: 5/50",
+   "dexerto_gta: 6/50",
    "rockstarintel: 3/10",
    "gtaboom: 9/30",
    "reddit: 25/25",
