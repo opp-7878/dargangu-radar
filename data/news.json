@@ -4,7 +4,7 @@
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-28T09:20:54Z",
+   "updated": "2026-10-28T09:31:15Z",
    "items": [
     {
      "id": "1b8855a0b189",
@@ -720,6 +720,19 @@
      "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
      "ts": "2026-10-28T09:14:37Z",
      "summary": "There wasn't really any chance Grand Theft Auto 6 wasn't going to be a big download. Thanks to some new information, though, we now have a hard number. Read more"
+    },
+    {
+     "id": "936bf44b31f5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Make Tech Easier",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony's PlayStation Pulse wireless headset costs $99.99, opens for pre-order on 29 October and lands 19 November, the same day GTA VI arrives.",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RN2QyZWFiaVlZMldvZDlFOGlaTWJtYTRpVmtyVjBSVkVuaHBuV1R3UzB3eEFsdUZkTE55d3VqTDVNNlBXR3JRMHd2RzJYcW9UOEJ4M2hOQ011dGdNS0tzRGN3Zw?oc=5",
+     "ts": "2026-10-28T05:21:12Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -734,6 +747,32 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "78a171f1ba31",
+   "title": "Займет половину консоли: GTA 6 потребует рекордные 210 ГБ памяти",
+   "first_seen": "2026-10-28T09:31:15Z",
+   "updated": "2026-10-28T09:31:15Z",
+   "items": [
+    {
+     "id": "78a171f1ba31",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "РБК-Україна",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Займет половину консоли: GTA 6 потребует рекордные 210 ГБ памяти",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDBxSGY3YlRYMnk3NXRzNEw2MldyMmNTdkVUT2NNZmJERWhZbGl1UW5sMzRNdDgwWmRYd3pfcnExR3U1MTViYTZLeTU3OWE1TkZDWGhPYzl2VGtuU1BxR28tU1d0ajZ3QTJudmRSQ3pJLWRtSUJNWTlYbDRuSmdnTVlFOFFQclFwZVhhZDFPNjA3RTVTRFRV0gGcAUFVX3lxTE9BUFBqSlg2cE95c3dxeEFFR0NQQlJtMnV4di1zNm1NMzFfbzFBREVLZVUxejR0S3kyZ3JyQ05rQXdIczRzbUM1dmVtd3EwR0JhNWowTFRfdl9oZ0FrS0xiUWpfWTUxR1NYUlNpazBGVFVCOUVldDdNQWRGS0ZPSjJKOUkwZTJsZFJxbGloMnRXVzQzYXZOZzhDaHNoUQ?oc=5",
+     "ts": "2026-10-28T09:12:09Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -52137,11 +52176,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T09:20:54Z",
+  "last_run": "2026-10-28T09:31:15Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 99/100",
-   "gnews_ru: 62/66",
+   "gnews_en: 98/100",
+   "gnews_ru: 59/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
