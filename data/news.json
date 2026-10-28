@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "3a7e126e1177",
+   "title": "GTA 6 brand new release seemingly locked in by Rockstar Games, launching December 11",
+   "first_seen": "2026-10-28T15:20:53Z",
+   "updated": "2026-10-28T15:20:53Z",
+   "items": [
+    {
+     "id": "3a7e126e1177",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GAMINGbible",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 brand new release seemingly locked in by Rockstar Games, launching December 11",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTlXNzdhVVpvcVJjclVHNmFSNEhIVDVxakdONW5VX2NuSlR6RUQ0M0RSUmhWSlRwSlFseEtMd2tPQ2x5TjQ1anQ1T21nbnhGN19mdTNYYjJrNlUydlh2VGVXZ3o2OUV1Y2dXYnU5elhJSnNmVGdpdndETVRNci1IcnNfNE4wZVJUS2o2d2JzNm1tTVlXNUJEMHMxbU5xel9P?oc=5",
+     "ts": "2026-10-28T15:10:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "aee9254b3bea",
    "title": "Broadband ISPs in the UK braced for monster 200-240GB GTA VI download",
    "first_seen": "2026-10-28T15:10:58Z",
@@ -53039,41 +53065,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b650a60b52ec",
-   "title": "Новые наушники PlayStation Pulse выйдут одновременно с GTA 6",
-   "first_seen": "2026-10-21T15:20:49Z",
-   "updated": "2026-10-21T15:20:49Z",
-   "items": [
-    {
-     "id": "b650a60b52ec",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Igromania.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Новые наушники PlayStation Pulse выйдут одновременно с GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkt0WUpxTlpBeVpRN0pMMi1EVnJ2bUUySE44TjY2eThEVWU4Um9QWTB2c0FTMndpc1hxS0NvNXhKV3U4ZE5LNjlZTnZZY2J5d095UWRwODAxRWg2ejE2R25maTJLM1VuV2h5cmxrSklzQk9GZVQ4a19DR2R1cWMxX1ZNZzRNT1dTQXRFQUtxNkk4MGlOdUpDdWRiRGo1aGlCWUpZ?oc=5",
-     "ts": "2026-10-21T15:17:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T15:10:58Z",
+  "last_run": "2026-10-28T15:20:53Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
-   "gnews_ru: 75/93",
+   "gnews_ru: 73/89",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
