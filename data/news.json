@@ -4,7 +4,7 @@
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-28T10:10:52Z",
+   "updated": "2026-10-28T10:20:52Z",
    "items": [
     {
      "id": "1b8855a0b189",
@@ -758,6 +758,19 @@
      "title": "GTA 6's reported file size could spell trouble for PS5 owners",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaHJkbDl4SWFRR0J3VEFWY0hndzNaRExWMHNlM01rVnZpTy10VXc3WEZOTldZWVNveTJYNm0wQnpWcFdIVkNLMUZCNlkxeXpOTzc2cEo3R3BpeGJCZ2xjZHJSNmp5d0Z5MFlac3M0UkFmOVdUbXBsWkEzWEdITmtzZlFSTUR6YjNXcFYxTTZGb3NqODN3ZFI2RWpvMmRLZ0FiaTFGRktB?oc=5",
      "ts": "2026-10-28T10:04:46Z",
+     "summary": ""
+    },
+    {
+     "id": "d95c206c87eb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eTeknix",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Nears Cyberpunk 2077’s Pre-Order Record After 470,000 Sales in One Week",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWNxMXlVbFhzUXVoNHFPbnl5WXZIZ3JJbk1jX1ZmcDhDX0NxODFlV1ZBLU5xb2toeVhvZVJaNzJBVTlhbFRISG9iOXNUcjFSakEwaE1FWmtuR1ByVHJlWU1UQ00zb1JkUnRhOG9zM0xZamJFbmlaUnNwd1RmMjdsNEIxTmhVa3V1bHlHaEZLUzlXSnprNkkyVC1OQVNDOU1VSVE?oc=5",
+     "ts": "2026-10-28T10:10:52Z",
      "summary": ""
     }
    ],
@@ -52296,40 +52309,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "19c3774081c1",
-   "title": "Астрономический ажиотаж: GTA 6 заработала более 630 миллионов долларов еще до запуска",
-   "first_seen": "2026-10-21T10:20:50Z",
-   "updated": "2026-10-21T10:20:50Z",
-   "items": [
-    {
-     "id": "19c3774081c1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "РБК-Україна",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Астрономический ажиотаж: GTA 6 заработала более 630 миллионов долларов еще до запуска",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVm1pczZldHlPVnMzaUVVOW1ZRUhocVV4MFhXM0dXckZBb2gxUFRBZXRuQkVNSW0zUEM5Nk5BR2RhUUNzOUdpZExSMV9xZkdBUFBUeW42UzdBQkd5WUpqaGNMbFoxNERmenhVTXhhd1A3TzgxNlAtenpDeF9mRkhPZDRVRFEwVjd3aFJHcW9vSjJESGPSAZgBQVVfeXFMTTVNSVlWakl1Y3dTbmNKT1dtYlROQlUwbFM3YVpuZThOaVNSeTRQT0xKWjBwSzY2elAtQ1pXcXpBMzdKNFUxZVJRTEgyUG81dG5HT2F0SDNNaTdPV1BEcXNNSHl1TEkzNWJtc1NVSTEwZWNyLWtwRHI5enVpZkJJM1Z5aTBhUDllMDZvbDIydzlxVEx1X1VBWmQ?oc=5",
-     "ts": "2026-10-21T10:12:04Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T10:10:59Z",
+  "last_run": "2026-10-28T10:20:52Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 98/100",
+   "gnews_en: 99/100",
    "gnews_ru: 59/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
@@ -52338,7 +52325,7 @@
    "eurogamer: 2/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 3/10",
-   "gtaboom: 11/30",
+   "gtaboom: 10/30",
    "reddit: 25/25",
    "tg_gtavistar: 6/17",
    "tg_gta6deluxe: 7/11",
