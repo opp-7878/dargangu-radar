@@ -4,7 +4,7 @@
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-28T11:20:54Z",
+   "updated": "2026-10-28T11:31:11Z",
    "items": [
     {
      "id": "1b8855a0b189",
@@ -824,6 +824,19 @@
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXE2V0Z4OVVSeDRPdHZ5RU1oeVQwWGpCeTQwYlFaMjRocjRTcnhmb0JLTXByYmV0dFo2NFc0RjNUZVU5WWRTQTV3NFFwcGZUelZZc0JFaW5zSWJrS0t6bk0wOXh2ZkRtN0RnYmNaTFhRdVhnd01xWGlqRVJWTkFMa05Qd2dzdms3NE1PaGdwWQ?oc=5",
      "ts": "2026-10-28T11:12:43Z",
      "summary": ""
+    },
+    {
+     "id": "4409d14b711a",
+     "src": "tg_gta6newsdaily",
+     "src_name": "TG @gta6newsdaily",
+     "outlet": "",
+     "group": "telegram_en",
+     "weight": 45,
+     "alert": true,
+     "title": "☺️ A pre-order zone for the physical version of GTA VI (with a code in the box) has appeared in a Tokyo PlayStation store.",
+     "url": "https://t.me/gta6newsdaily/5010",
+     "ts": "2026-10-28T11:28:50Z",
+     "summary": "☺️ A pre-order zone for the physical version of GTA VI (with a code in the box) has appeared in a Tokyo PlayStation store. #GTA6 #GTAVI #GTA6News"
     }
    ],
    "tags": [
@@ -52310,41 +52323,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "cbb4d1b6a2d6",
-   "title": "Hacker Exploits PS5 Firmware to Run GTA VI - Sony Soon Released System Update",
-   "first_seen": "2026-10-21T11:31:02Z",
-   "updated": "2026-10-21T11:31:02Z",
-   "items": [
-    {
-     "id": "cbb4d1b6a2d6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "iXBT.games",
-     "group": "media",
-     "weight": 45,
-     "alert": true,
-     "title": "Hacker Exploits PS5 Firmware to Run GTA VI - Sony Soon Released System Update",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbmdtTHhCdXZ2R1pOa01MRW1kNnAyeTI2U2hPNHhYVjdCSXVyaGNJTDNEbENMcFZCOWc5dGloWUtZTnNwdDFLdnVzdm1CQjZfYV96TmZIUkw5bnpJcloxeWNPTmthdVhmUGg0YlA1R1hyalZneHh5QjBaYW9faU4tQnFtUFNneWJBYU9yVXFLMDY5RGMzRFZ3QTRjMmtBX0N1WkdGUy1MNHhadndvaEk1amdtRWtLZmk4SnAxRmdWNk85dHVlbkhkdUZR0gHPAUFVX3lxTE9ENW05TmV6cVdkOFcwRTQ2WXNkY0hFVVEwZzYxU3c5cU55djdyMUpPclhjNnFEX05GREFuSkZ6b0M3ZDFzdHBBUzBXQy11X2tXSkU2YUdoX0JxRnljVERLeF96V3V2Um14V0FfTkhSVjQ1NXRiLUxkTXQzcGlObmVpSU4ydkZrdFZCTWxpYVhCWWdzc1VQRW9rc2N6TTA4RVB6aXFLeUtJdDlMYzJaUE45LTMyNzd0ZXdrb1ZqaTlKZ0dkMWQ1T0IzWFhRTzJDVQ?oc=5",
-     "ts": "2026-10-21T10:50:51Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T11:20:54Z",
+  "last_run": "2026-10-28T11:31:11Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 96/100",
-   "gnews_ru: 56/60",
+   "gnews_ru: 60/64",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
@@ -52357,7 +52344,7 @@
    "tg_gtavistar: 6/17",
    "tg_gta6deluxe: 7/10",
    "tg_gta6_m: 9/19",
-   "tg_gta6newsdaily: 9/15"
+   "tg_gta6newsdaily: 10/15"
   ],
   "digest": "2026-10-28@9",
   "tg_offset": 854319078
