@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "a7b0478202d1",
+   "title": "Why It Is In No Way Worth Buying A PS5 Pro For ‘GTA 6’",
+   "first_seen": "2026-10-28T16:50:54Z",
+   "updated": "2026-10-28T16:50:54Z",
+   "items": [
+    {
+     "id": "a7b0478202d1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Forbes",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Why It Is In No Way Worth Buying A PS5 Pro For ‘GTA 6’",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNkJ6alBiUl8wc2xLdk1XczUxNHprcmR4ZDI1azFabDhES3E5NjBpb05VZ3lTTGx6cEtmOFFkM1MxejRzZFlaWS1JT1RnUkdzR0Q1NGRyUnc3OVRfVFE4ZktaSTdiSndWVTl6WWQ5V3Y5YUtrZEhySm9naDJtZTZKZEd3d1pOVUFLS2ZQMXpMakk5eWs4bTB1OHdPOXpScE51NFJmRFlB?oc=5",
+     "ts": "2026-10-28T15:24:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "PS5 Pro для GTA 6? Forbes говорит — не стоит",
+    "summary": "Forbes опубликовал колонку, где утверждает, что покупать PS5 Pro ради GTA 6 не стоит. Автор считает, что прирост производительности не оправдывает цену для этой игры.",
+    "idea": "Короткий разбор тезиса Forbes: стоит ли переплачивать за PS5 Pro ради GTA 6. Зрителю важно понять, есть ли реальная выгода за свои деньги.",
+    "hook": "Forbes считает, что PS5 Pro ради GTA 6 — пустая трата денег.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T16:50:58Z"
+   },
+   "msg_id": 266
+  },
+  {
    "id": "65a43a934f8e",
    "title": "I Compared Every PlayStation and Xbox for GTA 6. Here’s My Verdict",
    "first_seen": "2026-10-28T16:40:58Z",
@@ -53199,41 +53236,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "00a7b94bdd5a",
-   "title": "Rockstar Games’ Vice City Takeover May Soon Come in Six-Packs",
-   "first_seen": "2026-10-21T16:50:53Z",
-   "updated": "2026-10-21T16:50:53Z",
-   "items": [
-    {
-     "id": "00a7b94bdd5a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "DesignRush",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Games’ Vice City Takeover May Soon Come in Six-Packs",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLUc5eTRpTGV1RW5XaDd1UGpfQXBSZXo2bGlBWHBpaXRjaTFkcVhqM21TUzhMTjRHd1FORUFJaHl1eDNlUjNwb1dFYmxka2c2YldkeF9RVEktbXlmUVdIVU5aT0NHQnBCZUhJR296blloS2tWWXhPZVNMeUN3SkRicUlrUzg?oc=5",
-     "ts": "2026-10-21T16:44:34Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T16:40:58Z",
+  "last_run": "2026-10-28T16:50:58Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 99/100",
-   "gnews_ru: 73/92",
+   "gnews_ru: 72/91",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
