@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "473ecb9e9c37",
+   "title": "How are you guys coping with not being able to play the game?",
+   "first_seen": "2026-10-28T02:31:10Z",
+   "updated": "2026-10-28T02:31:10Z",
+   "items": [
+    {
+     "id": "473ecb9e9c37",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How are you guys coping with not being able to play the game?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xhc6id/how_are_you_guys_coping_with_not_being_able_to/",
+     "ts": "2026-10-28T02:23:42Z",
+     "summary": "submitted by /u/Rare-Sun-6861 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6e27ea005349",
    "title": "Was 'GTA 6' really delayed again to 2027?",
    "first_seen": "2026-10-27T19:01:16Z",
@@ -51619,43 +51645,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "2861750f0394",
-   "title": "GTA 6 встановлює рекорди ще до виходу: понад 6 млн передзамовлень і $594 млн доходу",
-   "first_seen": "2026-10-21T02:31:01Z",
-   "updated": "2026-10-21T02:31:01Z",
-   "items": [
-    {
-     "id": "2861750f0394",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Ukr.net",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 встановлює рекорди ще до виходу: понад 6 млн передзамовлень і $594 млн доходу",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SaEg1V3NXNHRBVm9jWHNvM2U4RmVxcXpiN1BGV3hrOHBkTnFNZkdTdnRYQXRYUnRVR2M2MWcyZ2JsM2VzTURLWi1XNlkxWU50RWI5MElhVVFybWFlajl3cHR5Y0t5SkZhcElNaG5heng?oc=5",
-     "ts": "2026-10-20T18:57:37Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T02:22:16Z",
+  "last_run": "2026-10-28T02:31:10Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 96/100",
-   "gnews_ru: 50/52",
+   "gnews_en: 98/100",
+   "gnews_ru: 56/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
