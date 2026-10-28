@@ -1,6 +1,73 @@
 {
  "stories": [
   {
+   "id": "b72541dc436c",
+   "title": "Разработчики GTA 6 устали терпеть сливы - версию игры для СМИ защитили водяными знаками с именами журналистов",
+   "first_seen": "2026-10-28T06:10:52Z",
+   "updated": "2026-10-28T06:10:52Z",
+   "items": [
+    {
+     "id": "b72541dc436c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Разработчики GTA 6 устали терпеть сливы - версию игры для СМИ защитили водяными знаками с именами журналистов",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQXFwOXZRNXEtN1FkTk81bTV5RVpCU0VCM1lQY1cwZDNfdUhfMnkwZGQ4V3lmMTc5YjIwdlNONThoVVhXdWhXbTctY0VRdm10OFN6dFg2anYyalRXNUFkWDNLcUtBRUlZdkJuLUVLSXRNdmliZC1nY05SX0RPeXJvWXRwU3hZNmI5WmpjUk5nNy1GaFJBc3dRbXItQ1lMSGVncml6a1c0VnFHWFBNZUZ5NDBGYXJGajlTNGVUVFlsVy1nOFBwSGVlbWt6MktSQkdLbk91QWV1OW1hWm54dXI5alZZakJOU3hjTFFjLUxLaw?oc=5",
+     "ts": "2026-10-28T06:00:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 55,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Сливы GTA 6: у журналистов версии с водяными знаками",
+    "summary": "По данным PlayGround.ru, разработчики GTA 6 защитили пресс-версии водяными знаками с именами журналистов. Так Rockstar пытается вычислять источники утечек.",
+    "idea": "Покажем, как выглядят водяные знаки и как по ним находят «крота». Зрителю интересно, кто следующий попадётся.",
+    "hook": "У журналистов GTA 6 — версии с водяными знаками. Вот как вычисляют сливщиков.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T06:10:56Z"
+   },
+   "msg_id": 240
+  },
+  {
+   "id": "d171778761b5",
+   "title": "🥹 Релизный трейлер GTA 6 покадрово перенесли в GTA 5 🥺 Канал про GTA 6 | Наш чат",
+   "first_seen": "2026-10-28T06:10:52Z",
+   "updated": "2026-10-28T06:10:52Z",
+   "items": [
+    {
+     "id": "d171778761b5",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🥹 Релизный трейлер GTA 6 покадрово перенесли в GTA 5 🥺 Канал про GTA 6 | Наш чат",
+     "url": "https://t.me/GTA6_m/9259",
+     "ts": "2026-10-28T06:05:04Z",
+     "summary": "🥹 Релизный трейлер GTA 6 покадрово перенесли в GTA 5 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "4baf58c19904",
    "title": "GTA VI Won’t Run On Last-Gen Boxes — Here’s What You Actually Need",
    "first_seen": "2026-10-28T05:40:50Z",
@@ -51606,11 +51673,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T06:01:20Z",
+  "last_run": "2026-10-28T06:10:57Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 98/100",
-   "gnews_ru: 53/55",
+   "gnews_en: 97/100",
+   "gnews_ru: 54/57",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -51622,7 +51689,7 @@
    "reddit: 24/25",
    "tg_gtavistar: 7/17",
    "tg_gta6deluxe: 8/11",
-   "tg_gta6_m: 9/19",
+   "tg_gta6_m: 10/19",
    "tg_gta6newsdaily: 9/15"
   ],
   "digest": "2026-10-28@9",
