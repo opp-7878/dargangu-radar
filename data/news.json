@@ -1,6 +1,99 @@
 {
  "stories": [
   {
+   "id": "727c7e74f1cc",
+   "title": "GTA6 box art in EBGames Canada:",
+   "first_seen": "2026-10-28T18:50:54Z",
+   "updated": "2026-10-28T18:50:54Z",
+   "items": [
+    {
+     "id": "727c7e74f1cc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA6 box art in EBGames Canada:",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xhvxfx/gta6_box_art_in_ebgames_canada/",
+     "ts": "2026-10-28T18:16:24Z",
+     "summary": "Someone wanted a clearer look at the back cover art work, so here it is. Before you ask if it'll include the map or a poster, I don't know - but I assume it won't. Just the code in the box. I also assume that the spine is not final artwork since it doesn't feature the logo treatment. submitted by /u/JetBlackIris to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ab7230344f16",
+   "title": "GTA 6 PC release by May 2027?",
+   "first_seen": "2026-10-28T18:50:54Z",
+   "updated": "2026-10-28T18:50:54Z",
+   "items": [
+    {
+     "id": "ab7230344f16",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 PC release by May 2027?",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JUnZ1RWVvSlY4VVF1Y3VnZWVQM2pZYl9KMm4xVE5kaENtT01acURfTnRORW1zUXR4NVg4MVc1eHBab2pFRHoxQi1yY3U3Q3dRWWdDd0NEQ0dHV3V1Q3IyYW5wVjgtR2xhRER2R3lqOGFYNXNiNktxa3h2U3Z2UQ?oc=5",
+     "ts": "2026-10-28T18:33:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 на ПК: ждать до мая 2027?",
+    "summary": "По данным Notebookcheck, GTA 6 на ПК может выйти не позднее мая 2027 года. Официально Rockstar это не подтверждала — речь о прогнозе издания.",
+    "idea": "Коротко разбираем прогноз Notebookcheck о релизе ПК-версии до мая 2027 и сравниваем с историей задержек GTA 5 и RDR 2. Зрителю важно понять, насколько реалистичен срок и когда реально ждать ПК.",
+    "hook": "ПК-версия GTA 6 — до мая 2027? Вот что говорит Notebookcheck.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T18:50:58Z"
+   },
+   "msg_id": 271
+  },
+  {
+   "id": "2720986e2305",
+   "title": "Аналитик: версия GTA 6 для ПК выйдет всего через 6-7 месяцев",
+   "first_seen": "2026-10-28T18:50:54Z",
+   "updated": "2026-10-28T18:50:54Z",
+   "items": [
+    {
+     "id": "2720986e2305",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Аналитик: версия GTA 6 для ПК выйдет всего через 6-7 месяцев",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVEk5MVFqQXQxYnVlOXlKeFFmUUFtazMxeWdYS2kzUG9xdDRSTUZrVFIzcmUwNnQ4X2tFeHRLRHp2OVNiOW13d3RxVy1GMGJsQ0FvbGNOTERxWVYzSWZkWlkzWEZkSG9zeUY4NFNRSG4wZUNNbmZVa2tRZUVtOVB5TUJscVRaRGRNUnd2ajJxdk5UVFlzNk5wSHEzTzNRMTdxek9KT0pZSHNqWjBneXc?oc=5",
+     "ts": "2026-10-28T18:34:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "72f861d3e8f7",
    "title": "GTA 6 Standard vs. Ultimate Edition: Which Version Should You Buy?",
    "first_seen": "2026-10-28T02:40:48Z",
@@ -53642,43 +53735,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "025fc17e9a1c",
-   "title": "I’m unofficially promoting GTA 6 inside GTA Online.",
-   "first_seen": "2026-10-21T18:50:49Z",
-   "updated": "2026-10-21T18:50:49Z",
-   "items": [
-    {
-     "id": "025fc17e9a1c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I’m unofficially promoting GTA 6 inside GTA Online.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xbuveq/im_unofficially_promoting_gta_6_inside_gta_online/",
-     "ts": "2026-10-21T18:15:23Z",
-     "summary": "Just doing Rockstar's marketing for free, no big deal. submitted by /u/zeroTen0x10 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T18:41:00Z",
+  "last_run": "2026-10-28T18:50:58Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 100/100",
-   "gnews_ru: 61/83",
+   "gnews_ru: 58/76",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
