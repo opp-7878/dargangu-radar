@@ -1,6 +1,108 @@
 {
  "stories": [
   {
+   "id": "4baf58c19904",
+   "title": "GTA VI Won’t Run On Last-Gen Boxes — Here’s What You Actually Need",
+   "first_seen": "2026-10-28T05:40:50Z",
+   "updated": "2026-10-28T05:50:49Z",
+   "items": [
+    {
+     "id": "4baf58c19904",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Forbes",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "GTA VI Won’t Run On Last-Gen Boxes — Here’s What You Actually Need",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmFYY2t4elhkX211UlQ2dzczOHhrUENtbHdXWHFwemZqcmdoWkJHZjc4VmpMUm1JMjVYU2NGY1gtTDVOeEVxaHRkWGg0VjBxQ2tKSmxlTkVqY0RjUkI3UWVQOFJGVGNwMVVtNDVpRGVYaFVGWE5yeXdqUjNkcGw3aHZBc3dPdEdSWnk5akdsdkJLOE5LazFNSGNqQm1TRmZKVzlkeWZaRVZNZFJDMXJmNGlKWUQybTVWRWc?oc=5",
+     "ts": "2026-10-28T05:34:23Z",
+     "summary": ""
+    },
+    {
+     "id": "a5b9a1c45a3b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Won’t Run On Last-Gen Boxes — Here’s What You Actually Need",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Qd0lQRXJ5UzVSdHNQekRiVWRwdDBKQ19DY3poNkFXWlVGS3ZMUGlmZTVkWWJwa1FrcmdvR2J4Ukk4eVZpRlVTeDNEM1l0SFdSOURMU1RrTldkVWVVQ1kzdEFvSUQ0T25vcWZTbkxMNmpjQjJuMGFVbDZn?oc=5",
+     "ts": "2026-10-28T05:34:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 68,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️GTA 6 не запустится на старых Xbox и PS4 — что нужно",
+    "summary": "По данным Forbes, GTA 6 не будет работать на консолях прошлого поколения — только на PS5 и Xbox Series X|S. Издание объясняет, какие требования реально нужны для игры.",
+    "idea": "Коротко объясняем, почему старые консоли не потянут GTA 6, и показываем минимально нужные характеристики. Зрителю важно понять, потянет ли его система игру.",
+    "hook": "Твоя старая консоль GTA 6 не потянет — вот что реально нужно.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T05:40:53Z"
+   },
+   "msg_id": 238
+  },
+  {
+   "id": "b4db40e3ca8d",
+   "title": "I think I know who voices Petra in the extended look",
+   "first_seen": "2026-10-28T05:50:49Z",
+   "updated": "2026-10-28T05:50:49Z",
+   "items": [
+    {
+     "id": "b4db40e3ca8d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I think I know who voices Petra in the extended look",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xhfc15/i_think_i_know_who_voices_petra_in_the_extended/",
+     "ts": "2026-10-28T05:11:02Z",
+     "summary": "I’ve rewatched the EL several times and Petra‘s voice kept standing out. I thought about where I’d heard it before and then it came to me: Piper from Fallout 4 (voiced by Courtney Ford). the tone and infliction of Petra seem very similar to what she sounds like in fallout, so that’s my guess. Thoughts? submitted by /u/Pretty_Nail_2461 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0fecac5be379",
+   "title": "Do I have enough space?",
+   "first_seen": "2026-10-28T05:50:49Z",
+   "updated": "2026-10-28T05:50:49Z",
+   "items": [
+    {
+     "id": "0fecac5be379",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Do I have enough space?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xhfu9z/do_i_have_enough_space/",
+     "ts": "2026-10-28T05:41:32Z",
+     "summary": "Got rid of of a couple of games on my PlayStation 5 and I'm wondering if I've got enough space for GTA VI 🧐❓ submitted by /u/LadyLoki33 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6e27ea005349",
    "title": "Was 'GTA 6' really delayed again to 2027?",
    "first_seen": "2026-10-27T19:01:16Z",
@@ -273,43 +375,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4baf58c19904",
-   "title": "GTA VI Won’t Run On Last-Gen Boxes — Here’s What You Actually Need",
-   "first_seen": "2026-10-28T05:40:50Z",
-   "updated": "2026-10-28T05:40:50Z",
-   "items": [
-    {
-     "id": "4baf58c19904",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Forbes",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "GTA VI Won’t Run On Last-Gen Boxes — Here’s What You Actually Need",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmFYY2t4elhkX211UlQ2dzczOHhrUENtbHdXWHFwemZqcmdoWkJHZjc4VmpMUm1JMjVYU2NGY1gtTDVOeEVxaHRkWGg0VjBxQ2tKSmxlTkVqY0RjUkI3UWVQOFJGVGNwMVVtNDVpRGVYaFVGWE5yeXdqUjNkcGw3aHZBc3dPdEdSWnk5akdsdkJLOE5LazFNSGNqQm1TRmZKVzlkeWZaRVZNZFJDMXJmNGlKWUQybTVWRWc?oc=5",
-     "ts": "2026-10-28T05:34:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️GTA 6 не запустится на старых Xbox и PS4 — что нужно",
-    "summary": "По данным Forbes, GTA 6 не будет работать на консолях прошлого поколения — только на PS5 и Xbox Series X|S. Издание объясняет, какие требования реально нужны для игры.",
-    "idea": "Коротко объясняем, почему старые консоли не потянут GTA 6, и показываем минимально нужные характеристики. Зрителю важно понять, потянет ли его система игру.",
-    "hook": "Твоя старая консоль GTA 6 не потянет — вот что реально нужно.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-28T05:40:53Z"
-   },
-   "msg_id": 238
   },
   {
    "id": "667cc41021aa",
@@ -51563,92 +51628,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "46ff86c76776",
-   "title": "GTA 6 4gb vram 32gb ram 1tb",
-   "first_seen": "2026-10-21T05:50:46Z",
-   "updated": "2026-10-21T05:50:46Z",
-   "items": [
-    {
-     "id": "46ff86c76776",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 4gb vram 32gb ram 1tb",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xb5b55/gta_6_4gb_vram_32gb_ram_1tb/",
-     "ts": "2026-10-20T21:51:17Z",
-     "summary": "Will these specs be able to run the game do you think submitted by /u/AdMedical1614 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "31e3af627e37",
-   "title": "GTA has a football team called the Manatees to mimic the Miami Dolphins",
-   "first_seen": "2026-10-21T05:50:46Z",
-   "updated": "2026-10-21T05:50:46Z",
-   "items": [
-    {
-     "id": "31e3af627e37",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA has a football team called the Manatees to mimic the Miami Dolphins",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xb5pou/gta_has_a_football_team_called_the_manatees_to/",
-     "ts": "2026-10-20T22:08:07Z",
-     "summary": "submitted by /u/shotbymajor to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "62ec5b44248b",
-   "title": "PS5 Update 26.07-14.20.00 Is a Minor System Patch Released for Security and GTA 6",
-   "first_seen": "2026-10-21T05:50:46Z",
-   "updated": "2026-10-21T05:50:46Z",
-   "items": [
-    {
-     "id": "62ec5b44248b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MP1st",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "PS5 Update 26.07-14.20.00 Is a Minor System Patch Released for Security and GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcDZzaFdjTi1XVU9BVHZfSmdRb0Z6M0d5aW9fY3p0OGVQMWJ1czRQUWZjMlVPQUZacTNLeWlOYVF1SVBUR2dGcXZwRkYyc1djUHZnbVZ0OWktZXZtYmhqWFIzWEM3eVFLeWJoNWlsOXBoUXZlTjBXYmh5T0VyNEwxYXN6ekdOZVVXVVFBRjJpUWJkQk15OVk0RkRn?oc=5",
-     "ts": "2026-10-21T05:46:42Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T05:40:54Z",
+  "last_run": "2026-10-28T05:50:49Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 97/100",
+   "gnews_en: 98/100",
    "gnews_ru: 54/56",
    "gamesbeat: 0/10",
    "vgc: 0/10",
