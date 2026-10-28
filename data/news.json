@@ -1,6 +1,56 @@
 {
  "stories": [
   {
+   "id": "867bcc79b5e3",
+   "title": "Grand Theft Auto VI will reportedly take up 210GB of SSD storage on consoles",
+   "first_seen": "2026-10-28T08:50:52Z",
+   "updated": "2026-10-28T08:51:43Z",
+   "items": [
+    {
+     "id": "867bcc79b5e3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Stuff South Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI will reportedly take up 210GB of SSD storage on consoles",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0U1MjdrMG12Qml0cVZFbHNpRS0tMTlRNTZTVDQwVU1JTWNhTkZaWVBTa1RqSHFSSXFEMnYzaF9mVDUxUFJsVEJBN0FFTGVORkJiWXN2QXpTS2dQT0ZmcndmXzZCOU4zbVlhaDFrWXZFeFVRQ3kybmREQ3U2R0d4ZGlWa2pWV3Zpenp3R1M4Rms4WXRXcVFwTk5wcllTQXRKRUxlZlVMUUV3amZG?oc=5",
+     "ts": "2026-10-28T08:45:30Z",
+     "summary": ""
+    },
+    {
+     "id": "b803d4484e83",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gadgets 360",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto 6 Will Reportedly Take Up 210GB of SSD Storage on Consoles",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1JDU0hfVVlKR0k5NW5DR0VPY0hPM05XYWk1NDBPMUtmU1lpUEhfTFRGcGQyVUtfbzRGRk92ZTd1Sm5pcmtSdU1JRVMwRU00MV9hWlR6NzJtd0ZkRjRWMmhqQWk4STFaZEowTUxlV1JRNmQ3amVjTGtSR2VPYlBSckhxMndtZU5iNVAwN3pMMFfSAZYBQVVfeXFMTjRkMEl4VUpPSEswLVJkampsdFp6bHYtaEkwOUVHb0kwU0cwQ05hcmRBck5lSzVFZGJkTk1RTjBDTUlna0JjMkFWX2laNVU4NDh4MTdkeWY1N0hJTnhkNk55UzRzVFZueDlieExTSlZmcjRXR0k0azlxMlNhakRSSl9yQ2U4RTliVTlpV1AtbDU0NlRaV3Fn?oc=5",
+     "ts": "2026-10-28T07:36:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 займет 210 ГБ на SSD — готовьте место",
+    "summary": "По данным Stuff South Africa и Gadgets 360, GTA 6 на консолях займет около 210 ГБ на SSD. Rockstar это пока не подтверждала.",
+    "idea": "Короткий чек-лист: сколько нужно места, сколько займет обновление, и что чистить. Зрителю важно успеть освободить SSD до 12 ноября.",
+    "hook": "Готовы к GTA 6? На SSD нужно 210 ГБ — вот что чистить прямо сейчас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T08:51:46Z"
+   },
+   "msg_id": 243
+  },
+  {
    "id": "4920e6822917",
    "title": "Rockstar Has Found a Way to Identify the Sources of GTA VI Leaks",
    "first_seen": "2026-10-28T08:50:52Z",
@@ -61,32 +111,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "867bcc79b5e3",
-   "title": "Grand Theft Auto VI will reportedly take up 210GB of SSD storage on consoles",
-   "first_seen": "2026-10-28T08:50:52Z",
-   "updated": "2026-10-28T08:50:52Z",
-   "items": [
-    {
-     "id": "867bcc79b5e3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Stuff South Africa",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI will reportedly take up 210GB of SSD storage on consoles",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0U1MjdrMG12Qml0cVZFbHNpRS0tMTlRNTZTVDQwVU1JTWNhTkZaWVBTa1RqSHFSSXFEMnYzaF9mVDUxUFJsVEJBN0FFTGVORkJiWXN2QXpTS2dQT0ZmcndmXzZCOU4zbVlhaDFrWXZFeFVRQ3kybmREQ3U2R0d4ZGlWa2pWV3Zpenp3R1M4Rms4WXRXcVFwTk5wcllTQXRKRUxlZlVMUUV3amZG?oc=5",
-     "ts": "2026-10-28T08:45:30Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -51996,11 +52020,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T08:50:55Z",
+  "last_run": "2026-10-28T08:51:46Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 97/100",
-   "gnews_ru: 60/64",
+   "gnews_en: 98/100",
+   "gnews_ru: 57/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
