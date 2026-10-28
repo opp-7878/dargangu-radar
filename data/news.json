@@ -1,6 +1,95 @@
 {
  "stories": [
   {
+   "id": "a35679f70f6a",
+   "title": "A $50,000 PS5 bug bounty has sparked a fight over GTA 6 and console modding",
+   "first_seen": "2026-10-28T18:40:56Z",
+   "updated": "2026-10-28T21:20:52Z",
+   "items": [
+    {
+     "id": "a35679f70f6a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "SecurityLab.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "ИИ нашёл дыру в PS5 и принёс хакеру $50 000. Казалось бы, причём тут GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HREx2ZjBzSDNEeERMd2lXM3BPaUE4bVl1bjFUVGUxYUFfcWoybV8wNUU3NE1OX3p2THpEc2FRWTVZMVBjX0hKLVN2X1hSQ1Y5M1E4Tw?oc=5",
+     "ts": "2026-10-28T18:34:11Z",
+     "summary": ""
+    },
+    {
+     "id": "0cfa4d0ae607",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "A $50,000 PS5 bug bounty has sparked a fight over GTA 6 and console modding",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZlRtVGt3TDIyU0ZvZ1JlVGNnR0VaZnlTVmtsMXlmSHhRb2pFNmRjU0NaZmh0YWYyX1l4NzJMdHZIdFNEYURyWFNZR0xsNXRGbldyOUs3ckhpWjFZQzIwT0Mya3BDejlVMkN2am1RdEJQQXNiMWZNZnpKcTdoZDdTbw?oc=5",
+     "ts": "2026-10-28T21:00:56Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "ИИ взломал PS5 и принёс $50 000. При чём тут GTA 6?",
+    "summary": "ИИ нашёл уязвимость в PS5 и принёс хакеру 50 000 долларов, сообщает SecurityLab. Из-за этого Rockstar может пересмотреть защиту и предзагрузку GTA 6 на PS5.",
+    "idea": "Показываем, как ИИ «взламывает» PS5 за минуты, и объясняем, почему это может изменить защиту и предзагрузку GTA 6. Зрителю важно: не пропадёт ли предзагрузка и не задержат ли релиз.",
+    "hook": "ИИ взломал PS5 и заработал 50 тысяч. Что будет с GTA 6 на плойке?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T18:40:59Z"
+   },
+   "msg_id": 270
+  },
+  {
+   "id": "ad76a3bc4426",
+   "title": "'They Can Smell Fake Appreciation' — GTA 5 Cast Urge Jason and Lucia’s Actors to Be Grateful to Fans Before GTA 6 Launches Them to Fame",
+   "first_seen": "2026-10-28T21:20:52Z",
+   "updated": "2026-10-28T21:20:52Z",
+   "items": [
+    {
+     "id": "ad76a3bc4426",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "'They Can Smell Fake Appreciation' — GTA 5 Cast Urge Jason and Lucia’s Actors to Be Grateful to Fans Before GTA 6 Launches Them to Fame",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS1ZjSHE3dERCSlFfUEpjUGVHZDIyOHdkZ3gtNlRZYXhqbC10WVRqVzNibFdNTTRxaTAwNWU4d2JVU21hTzdiWVpmemZtb1hBVXFBTF9vcjdvX3hPSGxTdUNod3M1MGtqYmNNdFotUjd2dDZpS0NMeEZGeDBNTDVFR1lvWnF1Rm9ZQ0hlbEgzYjB3OTNEaThuaU5zSWhVWVp4d3BQa18wVGZIYUViQ1BlV1hhc2k0WGNVRV9tNjUycENnaUtQcFJOWmgxT2VidUgzc081amtTZjNTUncwN0Q5MkVvRGdNakl1emdNcV9rUEpFcE5tTkFwUnN3?oc=5",
+     "ts": "2026-10-28T21:16:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Звёзды GTA 5 советуют актёрам GTA 6: цените фанатов",
+    "summary": "Актёры GTA 5 обратились к Лусии и Джейсону из GTA 6 с советом ценить фанатов до того, как слава их изменит. Об этом пишет IGN. Послание вышло перед релизом GTA 6.",
+    "idea": "Короткий монолог: что именно сказали звёзды GTA 5 и почему это важно актёрам GTA 6. Плюс реакция зрителей — согласны ли они с советом.",
+    "hook": "Звёзды GTA 5 написали актёрам GTA 6 — и это не про деньги.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T21:20:55Z"
+   },
+   "msg_id": 275
+  },
+  {
    "id": "edda58b39762",
    "title": "PlayStation 5 Pro and Xbox Series X compared using a single GTA 6 location.",
    "first_seen": "2026-10-28T21:01:26Z",
@@ -997,45 +1086,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a35679f70f6a",
-   "title": "ИИ нашёл дыру в PS5 и принёс хакеру $50 000. Казалось бы, причём тут GTA 6",
-   "first_seen": "2026-10-28T18:40:56Z",
-   "updated": "2026-10-28T18:40:56Z",
-   "items": [
-    {
-     "id": "a35679f70f6a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "SecurityLab.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "ИИ нашёл дыру в PS5 и принёс хакеру $50 000. Казалось бы, причём тут GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HREx2ZjBzSDNEeERMd2lXM3BPaUE4bVl1bjFUVGUxYUFfcWoybV8wNUU3NE1OX3p2THpEc2FRWTVZMVBjX0hKLVN2X1hSQ1Y5M1E4Tw?oc=5",
-     "ts": "2026-10-28T18:34:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "ИИ взломал PS5 и принёс $50 000. При чём тут GTA 6?",
-    "summary": "ИИ нашёл уязвимость в PS5 и принёс хакеру 50 000 долларов, сообщает SecurityLab. Из-за этого Rockstar может пересмотреть защиту и предзагрузку GTA 6 на PS5.",
-    "idea": "Показываем, как ИИ «взламывает» PS5 за минуты, и объясняем, почему это может изменить защиту и предзагрузку GTA 6. Зрителю важно: не пропадёт ли предзагрузка и не задержат ли релиз.",
-    "hook": "ИИ взломал PS5 и заработал 50 тысяч. Что будет с GTA 6 на плойке?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-28T18:40:59Z"
-   },
-   "msg_id": 270
   },
   {
    "id": "335c7395089e",
@@ -53942,7 +53992,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T21:10:51Z",
+  "last_run": "2026-10-28T21:20:56Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
