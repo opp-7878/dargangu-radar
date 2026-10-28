@@ -4,7 +4,7 @@
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-28T12:31:10Z",
+   "updated": "2026-10-28T12:40:54Z",
    "items": [
     {
      "id": "1b8855a0b189",
@@ -980,6 +980,32 @@
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wbk1sLThsR3pzazB2dllfOUVOYlhnUWZSaGFPdm5YRDBDSlY0OGZBT1dzUGZVeW5zZkU2Sk9zREJaZURIV0VsaGZJUGZzdURE?oc=5",
      "ts": "2026-10-28T12:05:23Z",
      "summary": ""
+    },
+    {
+     "id": "79d0679f23d8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KitGuru",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI game file size revealed",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV3pNSVFYUWlHMFhqWWJ6S3ZydVRNOXlHSmJ1N2N3Slk0eEdwVzU2X1JHUy1nSDJWaXB5THU5dmFBRGZSREpOcmZDcUZhbUFudDZhbDVRam1qclRqZGZmR2YwZkJTTjEzT2tIdk5YSXozbURPZjRuejZubWdXNDhvYnRTNFU4aEFNQ2NIbWFJRTJNY2Y1ZE9PTk9kOWlGNnhaMWNPT0dkMzhDSHc4bGlKYy1aeXJZNkpCd2JF?oc=5",
+     "ts": "2026-10-28T11:29:29Z",
+     "summary": ""
+    },
+    {
+     "id": "7c9e483348e9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 file size revealed at 210GB, but SSD upgrades aren't the answer if you're already running out of space",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNm1hSTc4RDRERnk4c3lSZWRpVVZuTHU3aWx1WTMwMWV4bDFZX01YdUVGdXl1Y3hnZUJyQ0lFZU04anFXZkQtV1RIN0JRNHljYnp2V3JiclB5ekd4dExDdnQwYThEWGdfM2VGamJVeW14ai1DMjhsLV9Xa09PUF9ROW9UcUVDRlZLb09RX2ozY205TDBrX1piajNoaVVKZUlNNW1lc1ROTkl5cHFhbElWZ1ZITXY5ZlNkYzZvYzRKSkk5WVo3LXN0OWFOMGlzN1pHbFczNHRMT2VvdF9wTnZYYlJ4b2Z5Vlc0ajh5aEVERQ?oc=5",
+     "ts": "2026-10-28T12:34:27Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -994,6 +1020,71 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "7f2ef08e267c",
+   "title": "Инсайдер раскрыл, как Rockstar Games предотвратила будущие утечки GTA 6",
+   "first_seen": "2026-10-28T12:40:54Z",
+   "updated": "2026-10-28T12:40:54Z",
+   "items": [
+    {
+     "id": "7f2ef08e267c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Инсайдер раскрыл, как Rockstar Games предотвратила будущие утечки GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1RoY25HaGdNNGhhUnpXNDYyVUwxdC1rQVBPYnVnaktyTFJVZUpaV0dYUHNGVWVVN1A5ZjhRb29rZjdMNDB2QV9sY2xWWkhTYlVvRDNTTWJOTEM3Nl84UU5Ua1VfYlBSNEJ2YTlXbTJxUDVqcVNMR2Y1NjFNYmhLUVduZmUybTQ1cFhxdkI3OFlCaUtwQVhkMnJ5ZWhLOEdN?oc=5",
+     "ts": "2026-10-28T11:34:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 55,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Как Rockstar остановила утечки GTA 6: инсайдер раскрыл схему",
+    "summary": "Инсайдер рассказал, как Rockstar Games предотвратила будущие утечки GTA 6. По его словам, студия усилила контроль доступа и изоляцию сборок. Официально Rockstar это не подтверждала.",
+    "idea": "Короткий разбор: какие барьеры ставит Rockstar против сливов и почему это важно перед релизом. Зрителю интересно, как защищают игру, которую все ждут.",
+    "hook": "Сливы GTA 6 достали Rockstar — вот как они их остановили.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-28T12:40:58Z"
+   },
+   "msg_id": 253
+  },
+  {
+   "id": "a617fe7fbd05",
+   "title": "Cliff Richard doesn’t know what ‘GTA 6’ is – despite ‘Devil Woman’ sync resurgence",
+   "first_seen": "2026-10-28T12:40:54Z",
+   "updated": "2026-10-28T12:40:54Z",
+   "items": [
+    {
+     "id": "a617fe7fbd05",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NME",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Cliff Richard doesn’t know what ‘GTA 6’ is – despite ‘Devil Woman’ sync resurgence",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnZNS0RFQ2NramtqamphandEaXF3eTRHam5vTlp6dGdacTJIalRiZ1pNMnM4dUllNHNkME9jVTNmRktBWWVhZmY3WTQxbXh4QkdXa1NSR2I4TVQ5cks1S2lRVmlwc2xrNjZmQkZ4azRRTWhpVGRfSnp4YndtQ0k4Ym9PWVhkS3BWLWRmUDhJek1qeFMwUEwzUmNtSXlvQ3liZlJ0LUp3clpjX0Vj?oc=5",
+     "ts": "2026-10-28T12:37:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -52671,118 +52762,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "1705e05f3b46",
-   "title": "Gaming creators are going all-in on GTA VI before it even launches",
-   "first_seen": "2026-10-21T12:10:51Z",
-   "updated": "2026-10-21T12:40:48Z",
-   "items": [
-    {
-     "id": "1705e05f3b46",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesBeat",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "Gaming creators are going all-in on GTA VI before it even launches",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3BIMFd3SE5qMWVIVWVwUXR4elo0d3VOVVQ1c256dkRzeURMdFhTQ0F6U1BEUGJnVng2bTdVclVOVjFQNG40TWRIemxZNEtQYWZQMXpqdExWRU9JNkdzQ2JyOXhwV0UzNXlTcmtibkFDSkVGWXA1dHRsNHRHU3NCQkRQQ2RZUFc2Qi01MEJadF9XQ2s?oc=5",
-     "ts": "2026-10-21T12:00:40Z",
-     "summary": ""
-    },
-    {
-     "id": "6dc0eb25fba3",
-     "src": "gamesbeat",
-     "src_name": "GamesBeat",
-     "outlet": "",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "Gaming creators are going all-in on GTA VI before it even launches",
-     "url": "https://gamesbeat.com/gaming-creators-are-going-all-in-on-gta-vi-before-it-even-launches/",
-     "ts": "2026-10-21T12:00:00Z",
-     "summary": "The release of Grand Theft Auto VI is shaping up to be a bonanza for gaming content creators — and some creators are already getting... The post Gaming creators are going all-in on GTA VI before it even launches appeared first on GamesBeat ."
-    }
-   ],
-   "tags": [],
-   "score": 83,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Авторы контента уже делают GTA 6: что готовят до релиза",
-    "summary": "По данным GamesBeat, авторы контента делают ставку на GTA 6 ещё до релиза: готовят спецвыпуски, коллаборации и спонсорские интеграции. Rockstar пока не раскрывает детали, но ожидания аудитории уже разгоняют подготовку.",
-    "idea": "Короткий обзор форматов, которые готовят авторы к релизу GTA 6, и почему зрителям стоит ждать премьеры именно у них. Плюс — как это влияет на выбор, что смотреть в день запуска.",
-    "hook": "Глотай кофе: авторы уже снимают GTA 6, и вот что они готовят.",
-    "stars": 3,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-21T12:40:53Z"
-   },
-   "msg_id": 129
-  },
-  {
-   "id": "014cc8c17983",
-   "title": "Data suggests that the launch of GTA 6 could pose a significant risk of player loss for games such as Call of Duty and EA Sports FC",
-   "first_seen": "2026-10-21T12:40:48Z",
-   "updated": "2026-10-21T12:40:48Z",
-   "items": [
-    {
-     "id": "014cc8c17983",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WN Hub",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Data suggests that the launch of GTA 6 could pose a significant risk of player loss for games such as Call of Duty and EA Sports FC",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RREdyTjJfWUkzcEdnTkNnSC02QTFkMXROMkpzM1NOT3hXRFBfek4wVjBsanJ5UEZGbFRsNmNjWmNrN0FOS3pRRkUtYU1ORC14alJwcA?oc=5",
-     "ts": "2026-10-21T11:06:57Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5c88d84df354",
-   "title": "Flower in a huricane being played on dutch radio",
-   "first_seen": "2026-10-21T12:40:48Z",
-   "updated": "2026-10-21T12:40:48Z",
-   "items": [
-    {
-     "id": "5c88d84df354",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Flower in a huricane being played on dutch radio",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xblvco/flower_in_a_huricane_being_played_on_dutch_radio/",
-     "ts": "2026-10-21T12:31:23Z",
-     "summary": "Its insane that this song is being played on the radio that usualy plays like 80s 90s rock. They are like \"yeah this is a song from the brand new game gta 6 trailer\" Its insane that rockstar doenst really have to do anyting to promote the game. The world does it for them. submitted by /u/maicokip to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T12:31:14Z",
+  "last_run": "2026-10-28T12:40:58Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 96/100",
-   "gnews_ru: 58/62",
+   "gnews_en: 97/100",
+   "gnews_ru: 64/70",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
