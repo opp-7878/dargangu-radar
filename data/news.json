@@ -1,6 +1,76 @@
 {
  "stories": [
   {
+   "id": "07aa5dfefcc6",
+   "title": "🔈 Радио GTA-Тольятти — музыканты из Тольятти сыграли оркестром трек GTA V Ранее они уже играли саундтрек San Andreas ❤️ — +вайб, красавчики",
+   "first_seen": "2026-10-28T11:01:23Z",
+   "updated": "2026-10-28T11:01:23Z",
+   "items": [
+    {
+     "id": "07aa5dfefcc6",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🔈 Радио GTA-Тольятти — музыканты из Тольятти сыграли оркестром трек GTA V Ранее они уже играли саундтрек San Andreas ❤️ — +вайб, красавчики",
+     "url": "https://t.me/GTA6_m/9260",
+     "ts": "2026-10-28T10:51:04Z",
+     "summary": "🔈 Радио GTA-Тольятти — музыканты из Тольятти сыграли оркестром трек GTA V Ранее они уже играли саундтрек San Andreas ❤️ — +вайб, красавчики"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "aa7d697d320b",
+   "title": "GameSir Reveals ‘GTA 6 Controllers’ That Aren’t GTA 6 Controllers",
+   "first_seen": "2026-10-28T11:01:23Z",
+   "updated": "2026-10-28T11:01:23Z",
+   "items": [
+    {
+     "id": "aa7d697d320b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GameSir Reveals ‘GTA 6 Controllers’ That Aren’t GTA 6 Controllers",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10ajFjdFk4OTRtMklyYy1VbGdqZG80MDdvdE1RM3NMSVl5cHFwQy1yUWZsc09uR0FRaUJMUDB3ZGlNaVZpZkgtSWZtVVhrNXp4Q0Y1eU0tcTUtd0tWNEk4akFIME5jeS1kbHB3?oc=5",
+     "ts": "2026-10-28T10:57:05Z",
+     "summary": ""
+    },
+    {
+     "id": "d4acaf460d30",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GameSir Reveals ‘GTA 6 Controllers’ That Aren’t GTA 6 Controllers",
+     "url": "https://insider-gaming.com/gamesir-gta-6-themed-controller/",
+     "ts": "2026-10-28T10:57:05Z",
+     "summary": "GameSir has unveiled a new G7 Pro line that's themed around GTA 6 without being OFFICIALLY themed around GTA 6... The post GameSir Reveals ‘GTA 6 Controllers’ That Aren’t GTA 6 Controllers appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 88,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 2,
+   "ai_error": "ValueError: нет полей: title_ru",
+   "msg_id": 249
+  },
+  {
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
@@ -52266,72 +52336,18 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ee03e4eed49e",
-   "title": "Взломана новая версия PS5, которая необходима для GTA 6",
-   "first_seen": "2026-10-21T11:01:13Z",
-   "updated": "2026-10-21T11:01:13Z",
-   "items": [
-    {
-     "id": "ee03e4eed49e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "SE7EN.ws",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Взломана новая версия PS5, которая необходима для GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4eHVQR2JGQ1VjQlFvSVFqblpZTzQ2RmhlSnZOck92UEQ5ZXVjYVNjaExXUTVESzJRUU10UFh2bGtLNTNKa3liNlZ6MzVRRHRnREJ5UnFHTXVhTm1sSzYwREp2WENRWGlIdUpXUQ?oc=5",
-     "ts": "2026-10-21T07:51:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "bf78b67fe744",
-   "title": "Did waiting for GTA 6 change the way you experience gaming?",
-   "first_seen": "2026-10-21T11:01:13Z",
-   "updated": "2026-10-21T11:01:13Z",
-   "items": [
-    {
-     "id": "bf78b67fe744",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Did waiting for GTA 6 change the way you experience gaming?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xbj3l9/did_waiting_for_gta_6_change_the_way_you/",
-     "ts": "2026-10-21T10:05:07Z",
-     "summary": "GTA 6 is my most anticipated game ever, and the idea of it being a real thing and releasing, made me appreciate games more, I been on a story games run for some time because in my head these are cool games and I wanna experience them before my most anticipated one releases. Funny enough tho, seeing more of the game and knowing some stuff about the gameplay made me be more critical of what I play, especially now being this close to launch, although I'm kinda fine with what I'm currently playing, I'm still like 'this is cool' but I just want GTA 6. Being a big fan of R*'s open world games, the f"
-    }
-   ],
-   "tags": [
-    "геймплей"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T10:50:52Z",
+  "last_run": "2026-10-28T11:01:29Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 99/100",
+   "gnews_en: 97/100",
    "gnews_ru: 59/63",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 2/10",
+   "insider_gaming: 3/10",
    "ign: 0/20",
    "eurogamer: 2/100",
    "dexerto_gta: 3/50",
@@ -52340,7 +52356,7 @@
    "reddit: 25/25",
    "tg_gtavistar: 6/17",
    "tg_gta6deluxe: 8/10",
-   "tg_gta6_m: 8/19",
+   "tg_gta6_m: 9/19",
    "tg_gta6newsdaily: 9/15"
   ],
   "digest": "2026-10-28@9",
