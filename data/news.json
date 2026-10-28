@@ -4,7 +4,7 @@
    "id": "1b8855a0b189",
    "title": "GTA 6 is a massive 210GB download on PlayStation 5",
    "first_seen": "2026-10-27T17:20:54Z",
-   "updated": "2026-10-28T16:10:58Z",
+   "updated": "2026-10-28T16:20:51Z",
    "items": [
     {
      "id": "1b8855a0b189",
@@ -1201,6 +1201,19 @@
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQaEVOelpxTVQyZkZMTkxHRHNRNWdPVTJzZFh3bkt0NW96UmtUYTh5MF9ESmluUWtfbE9ncTdnWlZGQ2k3cXlaYkdQeEVIenMzZS1ZSkF6QnFtaHB1MGYtc3V3c0dEVFpJVTNjVmVRNmM?oc=5",
      "ts": "2026-10-28T14:00:00Z",
      "summary": ""
+    },
+    {
+     "id": "beb544611e94",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Korben",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 at 210 GB: get ready to clean house on your PS5",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1STDBLZUlNbjNEa0ppVHRjWWNmN0p2bnowRXVCMnVfV3hNVkNjRDdJbDQ0T3RUUXdjVEtQakoyR1RRSndwalc1aDU4cUtJR25ZOXVpSVdsdm5laDRvMEo1aC1OYVBlaGE4TEE?oc=5",
+     "ts": "2026-10-28T15:34:10Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -1215,6 +1228,87 @@
    ],
    "score": 100,
    "level": "HIGH CONFIDENCE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "c2b7b19a67ae",
+   "title": "GTA 6 Coming to PC in \"6 or 7 Months,\" Claims Analyst",
+   "first_seen": "2026-10-27T18:20:50Z",
+   "updated": "2026-10-28T16:20:51Z",
+   "items": [
+    {
+     "id": "c2b7b19a67ae",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "An Analyst Told the BBC GTA 6 Hits PC in About Six Months",
+     "url": "https://www.gtaboom.com/an-analyst-told-the-bbc-gta-6-hits-pc-in-about-six-months-d54a",
+     "ts": "2026-10-27T18:15:36Z",
+     "summary": "Wedbush analyst Michael Pachter estimates GTA 6 will reach PC in mid 2027, but Rockstar has not announced a PC version."
+    },
+    {
+     "id": "fefa1bcd8086",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 PC Release May Land in Early 2027, Analyst Says on BBC",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTzVhZERTcXVwLVNqSWdQTk5wRVJKbEVKRnVneDg1UTJmcWlsVWJaQzFQMnltZnpzTmxHWUhfQVh2VHZKMUJLdTJmQW5SZFRsV1VUYlFUVFgyTC04WWR2Rk5mbURobnpUZmhIZGl1Xzlkc3Z6NXowYkUtTE1xSDVZc18xUThWYkR3TnY0blpsNA?oc=5",
+     "ts": "2026-10-27T18:17:18Z",
+     "summary": ""
+    },
+    {
+     "id": "4ae871bc2257",
+     "src": "tg_gta6newsdaily",
+     "src_name": "TG @gta6newsdaily",
+     "outlet": "",
+     "group": "telegram_en",
+     "weight": 45,
+     "alert": true,
+     "title": "☺️ Michael Pachter of Wedbush Securities tells BBC News that \"in about 6 or 7 months GTA 6 will come to PC\".",
+     "url": "https://t.me/gta6newsdaily/5009",
+     "ts": "2026-10-27T22:44:28Z",
+     "summary": "☺️ Michael Pachter of Wedbush Securities tells BBC News that \"in about 6 or 7 months GTA 6 will come to PC\". #GTA6 #GTAVI #GTA6News #PC #BBC"
+    },
+    {
+     "id": "1509d020d7a7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Coming to PC in \"6 or 7 Months,\" Claims Analyst",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWW9yVVE5UDdmTXg0Q2FnS3JwYk1NdDZTYlIxWkl0TktZVkNiczktZW5teGYzMklTYk13cmE0UXU3SHdPeHhxbmdjdldpcmM0MklGRmxFQlhpRThQV3RXM0xsV1dwSU9tSWQ3dzZhdnlUNWpBQWFra2pkNXVSeVZ4Sk96UFM?oc=5",
+     "ts": "2026-10-28T16:15:06Z",
+     "summary": ""
+    },
+    {
+     "id": "b5313915e4bd",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Coming to PC in “6 or 7 Months,” Claims Analyst",
+     "url": "https://insider-gaming.com/gta-6-coming-to-pc-in-6-or-7-months-claims-analyst/",
+     "ts": "2026-10-28T16:15:06Z",
+     "summary": "One of the final major questions looming over GTA 6 concerns its debut on PC, and an analyst has made their prediction. The post GTA 6 Coming to PC in “6 or 7 Months,” Claims Analyst appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [
+    "ПК",
+    "анонс"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
   },
@@ -6744,61 +6838,6 @@
    "score": 20,
    "level": "SPECULATION",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c2b7b19a67ae",
-   "title": "GTA 6 PC Release May Land in Early 2027, Analyst Says on BBC",
-   "first_seen": "2026-10-27T18:20:50Z",
-   "updated": "2026-10-27T22:50:55Z",
-   "items": [
-    {
-     "id": "c2b7b19a67ae",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "An Analyst Told the BBC GTA 6 Hits PC in About Six Months",
-     "url": "https://www.gtaboom.com/an-analyst-told-the-bbc-gta-6-hits-pc-in-about-six-months-d54a",
-     "ts": "2026-10-27T18:15:36Z",
-     "summary": "Wedbush analyst Michael Pachter estimates GTA 6 will reach PC in mid 2027, but Rockstar has not announced a PC version."
-    },
-    {
-     "id": "fefa1bcd8086",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GTA BOOM",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 PC Release May Land in Early 2027, Analyst Says on BBC",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTzVhZERTcXVwLVNqSWdQTk5wRVJKbEVKRnVneDg1UTJmcWlsVWJaQzFQMnltZnpzTmxHWUhfQVh2VHZKMUJLdTJmQW5SZFRsV1VUYlFUVFgyTC04WWR2Rk5mbURobnpUZmhIZGl1Xzlkc3Z6NXowYkUtTE1xSDVZc18xUThWYkR3TnY0blpsNA?oc=5",
-     "ts": "2026-10-27T18:17:18Z",
-     "summary": ""
-    },
-    {
-     "id": "4ae871bc2257",
-     "src": "tg_gta6newsdaily",
-     "src_name": "TG @gta6newsdaily",
-     "outlet": "",
-     "group": "telegram_en",
-     "weight": 45,
-     "alert": true,
-     "title": "☺️ Michael Pachter of Wedbush Securities tells BBC News that \"in about 6 or 7 months GTA 6 will come to PC\".",
-     "url": "https://t.me/gta6newsdaily/5009",
-     "ts": "2026-10-27T22:44:28Z",
-     "summary": "☺️ Michael Pachter of Wedbush Securities tells BBC News that \"in about 6 or 7 months GTA 6 will come to PC\". #GTA6 #GTAVI #GTA6News #PC #BBC"
-    }
-   ],
-   "tags": [
-    "ПК",
-    "анонс"
-   ],
-   "score": 81,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -53066,51 +53105,25 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "5410d1dc4b5f",
-   "title": "'Grand Theft Auto' Fans Will Be Able To Drink Real Version Of Beers That Appear In The Games After Rockstar Teams Up With Florida Brewery",
-   "first_seen": "2026-10-21T16:20:48Z",
-   "updated": "2026-10-21T16:20:48Z",
-   "items": [
-    {
-     "id": "5410d1dc4b5f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BroBible",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto' Fans Will Be Able To Drink Real Version Of Beers That Appear In The Games After Rockstar Teams Up With Florida Brewery",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNFAwZC1jSmJuTVc5SDV1ZVBSVlZJRkVPV2NpeEI5cFN1Y3pWZHNhZ1JfZDhrQlFBOXB4RXdLR3lWZVlCWmlCM1M1ZFFKSV9pcHpuUzFUWWFETEtSX3p1WFlvS1FzVHlJZDgxYTRLdTBGb0RXbHRGVTFTdnFTRHJkYl9uWG1kRnA3amxtd3F1UzlxTHZIM2RVMXVmYmhwZklXTG5V?oc=5",
-     "ts": "2026-10-21T16:14:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T16:10:59Z",
+  "last_run": "2026-10-28T16:20:51Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 97/100",
+   "gnews_en: 99/100",
    "gnews_ru: 66/82",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 1/10",
+   "insider_gaming: 2/10",
    "ign: 1/20",
    "eurogamer: 2/100",
    "dexerto_gta: 6/50",
    "rockstarintel: 3/10",
    "gtaboom: 9/30",
    "reddit: 25/25",
-   "tg_gtavistar: 6/17",
+   "tg_gtavistar: 5/17",
    "tg_gta6deluxe: 5/10",
    "tg_gta6_m: 9/19",
    "tg_gta6newsdaily: 9/14"
