@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "cb8a187de859",
+   "title": "Before GTA 6 drops, let's settle it.",
+   "first_seen": "2026-10-28T07:10:52Z",
+   "updated": "2026-10-28T07:10:52Z",
+   "items": [
+    {
+     "id": "cb8a187de859",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Before GTA 6 drops, let's settle it.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xhh8nw/before_gta_6_drops_lets_settle_it/",
+     "ts": "2026-10-28T07:09:11Z",
+     "summary": "submitted by /u/Nezzak47 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f3464e3eb24b",
    "title": "Scooter brother!",
    "first_seen": "2026-10-28T07:01:19Z",
@@ -51764,11 +51790,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T07:01:19Z",
+  "last_run": "2026-10-28T07:10:52Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
-   "gnews_ru: 59/62",
+   "gnews_ru: 55/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
