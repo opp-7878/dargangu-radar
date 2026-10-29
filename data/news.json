@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "cd7e1eeec29e",
+   "title": "\"GTA 6\" early access scams on the rise",
+   "first_seen": "2026-10-29T19:40:54Z",
+   "updated": "2026-10-29T19:40:54Z",
+   "items": [
+    {
+     "id": "cd7e1eeec29e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "FOX 13 Seattle",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "\"GTA 6\" early access scams on the rise",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CdWhQVzVGTktVVFlPci1XVUpiVWk2TTNjRW85eWIwUkZUbXVpV1RJb0pGNDNmcndUcFk4OW9jNkN6akZIS0VFS2o3OUwyckFyb0pVa0tHeHpFcTc4T0F3OWRFOHRHQdIBa0FVX3lxTE51alpYYlBjSDJhc0FaUC1vNm5TdmdIakVCUDg4NF9wWDlDTkcyeFN4SERycGRDd0dzMDRlLW91UUhJbWN1S1NnMlRnaHh5YWlBcE9IU2c3RDV3bjB3dE1WQW9VTm5xNkh1ZG9j?oc=5",
+     "ts": "2026-10-29T19:16:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "742319be2772",
    "title": "Nearly 30% of US Console and PC Gamers Intend to Purchase GTA VI",
    "first_seen": "2026-10-29T19:20:52Z",
@@ -60362,10 +60388,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T19:31:09Z",
+  "last_run": "2026-10-29T19:40:54Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 97/100",
+   "gnews_en: 98/100",
    "gnews_ru: 94/100",
    "gamesbeat: 1/10",
    "vgc: 2/10",
