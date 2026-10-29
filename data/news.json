@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "ddab697810c2",
-   "title": "How to read the GamesRadar article without entering your email",
-   "first_seen": "2026-10-29T06:31:09Z",
-   "updated": "2026-10-29T06:31:09Z",
-   "items": [
-    {
-     "id": "ddab697810c2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "How to read the GamesRadar article without entering your email",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xiccta/how_to_read_the_gamesradar_article_without/",
-     "ts": "2026-10-29T06:25:23Z",
-     "summary": "Go to this link https://www.gamesradar.com/edge/gtavi-cover/ and you'll see the entire page content load with the email prompt. Refresh with F5, wait a second + Esc to immediately to stop executing the script showing the email prompt. Hope this helps! submitted by /u/Electrical-Cattle211 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "227f4044f119",
    "title": "New Grand Theft Auto 6 Gameplay Revealed During South Park",
    "first_seen": "2026-10-29T03:50:49Z",
-   "updated": "2026-10-29T06:20:53Z",
+   "updated": "2026-10-29T06:40:50Z",
    "items": [
     {
      "id": "227f4044f119",
@@ -187,6 +161,19 @@
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2dRNHNkanZMNlJEZnFyczBGb0VXNS1IeS1KVHZfRUpuNjFVR2J0TWpmSnZlcWNGZVRRb2dCLWw3QWU3R0gwOXBrQVl0OVhCcHphLUMxS3hncE5QRmZ4Vi1BX0xmRTZ0Y1VlcGRISlUtVGtkQS1rY2swY2NUalhVaEpUYlVnY3dZQTZNMUJ2cjlrQQ?oc=5",
      "ts": "2026-10-29T06:17:56Z",
      "summary": ""
+    },
+    {
+     "id": "2c18f0d9f82e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘South Park’ Parodies ‘GTA VI’ Hype With Dog Poop Gameplay",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkS3pid09Palo1Q3g4a1NQS0xGVXpsZmJ1WHVUSS05WURvRkJpTE9JM1hkc1BLaHoyMV96U0VsR0oyUV9oNTJFekI5RWFlVHdFdHgtSVhqS1RBSmRybHM0dnIzaXpiaGc?oc=5",
+     "ts": "2026-10-29T04:50:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -196,6 +183,136 @@
    "score": 100,
    "level": "PROBABLE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "951f8b345b7b",
+   "title": "\"Это же какое-то телешоу?\": 86-летний Клифф Ричард не знает, что такое GTA 6, хотя его песня прозвучит в игре",
+   "first_seen": "2026-10-29T06:40:50Z",
+   "updated": "2026-10-29T06:40:50Z",
+   "items": [
+    {
+     "id": "951f8b345b7b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "\"Это же какое-то телешоу?\": 86-летний Клифф Ричард не знает, что такое GTA 6, хотя его песня прозвучит в игре",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObU8wVDV1cGZ3OXJncFEyNkVVZ0l5c3pfVUsxbnJVN3V2TWUwZFZXelplTFFoYjJYNEhHaV8ySTRIWGxnU2pSdTBFSzlaZ1JPNm5Td2xYWURTNUFDMFlsRk1EY3VUbmJBOFpoQi1CZHFSQ1dNUlFwc0kybVoyb25WdU5NLUNNYXljUDZHdm9lcG5Lc08yci1kWjg0RlFheUtxWDFaZTNidHg1X01YVjBncGw2dXhic0xoU21QYmxzdlBFS3hFek1YTmc3aS1oLU5aazFxUjh1dE02eUZtM2o1cTVvd196STVLNVUw?oc=5",
+     "ts": "2026-10-29T06:22:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d07a10ad218f",
+   "title": "Сэм Хаузер принимает активное участие в разработке GTA 6, но не любит раскрывать секреты публике",
+   "first_seen": "2026-10-29T06:40:50Z",
+   "updated": "2026-10-29T06:40:50Z",
+   "items": [
+    {
+     "id": "d07a10ad218f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Сэм Хаузер принимает активное участие в разработке GTA 6, но не любит раскрывать секреты публике",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU84RVhDcDZEQU5tTlBvOWM1N1JUOFRkZ2ZqTmMtXzI3VDNCNVdxTmJ1a2lrR2IxaDdQV1EyOFhTeTZUZzFVV3dtWmNyWlR5MFRUMUhTZmRsZXJDNjlhMUY2N1dWSnZDd2o0dXVnaldzbml3eFVGY25kTVNHV0hfOEtHMnd4Sk4zandBdHNxeEZIS0U3WWluMkFrb19PRlhxd3JhU0dFZmxnX292VVVIU05wb2ppNVNiNTdncWZ3RFBTel9oNU91bUUweHRyb3V2M242MFI0NTU?oc=5",
+     "ts": "2026-10-29T06:26:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "01d3efa5930e",
+   "title": "Почти каждый третий геймер в США собирается купить GTA VI - Circana зафиксировала рекордный интерес",
+   "first_seen": "2026-10-29T06:40:50Z",
+   "updated": "2026-10-29T06:40:50Z",
+   "items": [
+    {
+     "id": "01d3efa5930e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Почти каждый третий геймер в США собирается купить GTA VI - Circana зафиксировала рекордный интерес",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVk52dXByU0FwSWNBbEo3QVdZTEpjZ1daT2hNc295enJDZ00tMktvUTZrVVM0MWtQVklpM3lKZ2JLS293bGdLdUl0U0VucmpucGhiRW5KUE1NLWVkd2kwTXo4V1IyZVRrb0hSUVJ1VDViU0lKWXRLbmFIZ0h5Z1BqS1Vxa1dmVlEzb3pacnBJMkVxNlZhNmVpVWRsbVdXOV9DRnZYcS0xOTl5Qm9Gd2htQlg1X0J0S2QxcURsaGZWMGJjQVdsTG0yX0gwZHlvaTVmNW9NTnJKanpEa0h5T0E?oc=5",
+     "ts": "2026-10-29T06:28:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b26077a8d9e3",
+   "title": "GTA 6’s Total Landmass is Nearly Equal to GTA 4, GTA 5 and Red Dead Redemption 2 Combined",
+   "first_seen": "2026-10-29T06:40:50Z",
+   "updated": "2026-10-29T06:40:50Z",
+   "items": [
+    {
+     "id": "b26077a8d9e3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamingBolt",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6’s Total Landmass is Nearly Equal to GTA 4, GTA 5 and Red Dead Redemption 2 Combined",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQklrejQ4T2I2TWNZRllvc1M1RGpudFVvZ2tPbUgzSl9IZWRRX2lUbzNYTC1xbm5yZjNvZjA2bUUtcGNyRTNKYm1PM2k0VlFlNEZYdjhEVmx3dHNmeXdNZEQ4VE5XU3hXOUhzLWhuRC0wc1dxM0NDMkd4dV9DOEs1ektISEszMm1ScEhlZ1FJMGszRGJGS2RLT25DemswdHFJUjRLWjllZVE0M05HcHBj?oc=5",
+     "ts": "2026-10-29T06:39:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ddab697810c2",
+   "title": "How to read the GamesRadar article without entering your email",
+   "first_seen": "2026-10-29T06:31:09Z",
+   "updated": "2026-10-29T06:31:09Z",
+   "items": [
+    {
+     "id": "ddab697810c2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How to read the GamesRadar article without entering your email",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xiccta/how_to_read_the_gamesradar_article_without/",
+     "ts": "2026-10-29T06:25:23Z",
+     "summary": "Go to this link https://www.gamesradar.com/edge/gtavi-cover/ and you'll see the entire page content load with the email prompt. Refresh with F5, wait a second + Esc to immediately to stop executing the script showing the email prompt. Hope this helps! submitted by /u/Electrical-Cattle211 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -56051,105 +56168,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "d9fc0702090c",
-   "title": "По данным аналитиков, GTA 6 опережает другие крупные игры по количеству предзаказов за последние 6 лет",
-   "first_seen": "2026-10-20T12:40:49Z",
-   "updated": "2026-10-22T06:40:44Z",
-   "items": [
-    {
-     "id": "d9fc0702090c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "По данным аналитиков, GTA 6 опережает другие крупные игры по количеству предзаказов за последние 6 лет",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPazE1dUdNaEh4cEtUV2JRSk5GUUJDRnNRVmJickhncWRYTWY2RjJyMm9LaUxfN3ZRcmVhMGZqWkI2VnBicmlOMXB3NXRybGs5Y29jbE5DbWxDTXJ6MlhRZ21CcnVuV1YzQU01V29ybXN6eFdRZmVkLU5TMWRoT3hjc1ExaktYbWJIOVkyU0NuWUVpQlNWUjljYldQQUtheDJhR1dQa1Z0R3UtQWNnZzNfM0I0VkdfbU8yQnM1bFlhaS02OW5vSWFnY0E3aXBLQUstT1ZJek14OV9kWUdsSmJrbDZn?oc=5",
-     "ts": "2026-10-20T12:24:17Z",
-     "summary": ""
-    },
-    {
-     "id": "41c2f4f1a878",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 бьёт рекорды по количеству предзаказов — опубликованы свежие данные",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVNGY2RqT0kwVnZkMGJ3YTJuNVdCOHA4WURFblgtRWdvQWR2VlpzLUdjWEtoNUtGN3JQN0JzZ0ZWU2s3dWYxWlFNWGRHWVlmNVdOWk9NQ3Q5OUgwQzV4WHBfTS1jdnhnS3gxa2V6bjNJRVRfcnhnZFVPYWpIZHlyTGpvVDBjd0M4SlBadThXVGgxYXRPUXBmeDdTU0gxZDg?oc=5",
-     "ts": "2026-10-20T16:22:52Z",
-     "summary": ""
-    },
-    {
-     "id": "b4c86d8563b5",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "dungen.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 разнесла все рекорды предзаказов за десятилетие",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtSndWQVc1NTRIR2dCSERXMHAzZVFnd1BNUkl3QWQwc3NHZEtxaF96bWxlT2V3OUtZb3IycHBKZWE5dVFhZEItRmJPNHdOM3pfMzNKNEJnX3Zadl8tcGc?oc=5",
-     "ts": "2026-10-22T06:35:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 71,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 бьёт рекорды предзаказов: аналитики назвали цифры",
-    "summary": "По данным аналитиков и свежих отчётов, GTA 6 опережает другие крупные игры по числу предзаказов за последние 6–10 лет. Об этом пишут PlayGround.ru, EGW News и dungen.ru. Официальных данных от Rockstar нет.",
-    "idea": "Сравним GTA 6 с GTA 5 и другими хитами по предзаказам и покажем, что это значит для игроков — ажиотаж, очереди на выдачу и риск дефицита.",
-    "hook": "GTA 6 бьёт рекорды предзаказов за 6–10 лет — вот что это значит для вас.",
-    "stars": 3,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-22T06:40:47Z"
-   },
-   "msg_id": 139
-  },
-  {
-   "id": "3b26ec17e3c3",
-   "title": "GTA VI доберётся до Switch 2? В сети заметили интересные вакансии",
-   "first_seen": "2026-10-22T06:40:44Z",
-   "updated": "2026-10-22T06:40:44Z",
-   "items": [
-    {
-     "id": "3b26ec17e3c3",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA VI доберётся до Switch 2? В сети заметили интересные вакансии",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjQ0alZyNFJXalJEeVhyaFh0QXhXUkw3Y2JLdTNwMkZDTDI2Y2RLeXZubHU2ZlRoNGhGRS00cWRpQVRMXzhBRUZrVmU3eU83WGc4c3VTYUJrS0JobGFSSXBZWWNFV2pUcVlnSkhDNmV3alZtbTdNNk50YjRsNWRZdFhZWTU3RzVzZFdjQ3NSQUVhSGlLNEo2SFd6NzRSQTUxM2FxbklqSlfSAa4BQVVfeXFMT21qem15bEsxMDNENjZtSlVFRW1MaVlCNlZLNTlDUUJ6OTEtZEc5aGZ6WGlNSS1fNGxyMFNZZmhQWWhsY3VzRW0tNzkzMHZnVGl6eEhOWUgyaFRwcXA5c2pPZEhpbVhyQVpOTHdkeW1NNFlxTHZzVU5Cb25ZeXJMMjZDYVhIUWFrT1JyUmxBTkpUSkRONnkxVjhfMnJoZzFyeXpEVzdwTm13UHBzS0N3?oc=5",
-     "ts": "2026-10-22T05:37:25Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T06:31:09Z",
+  "last_run": "2026-10-29T06:40:50Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 96/100",
-   "gnews_ru: 75/82",
+   "gnews_ru: 77/83",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -56159,7 +56186,7 @@
    "rockstarintel: 5/10",
    "gtaboom: 12/30",
    "reddit: 22/25",
-   "tg_gtavistar: 9/10",
+   "tg_gtavistar: 8/10",
    "tg_gta6deluxe: 5/10",
    "tg_gta6_m: 9/19",
    "tg_gta6newsdaily: 8/14"
