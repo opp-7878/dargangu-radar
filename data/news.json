@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "55b2c9b9c3e5",
+   "title": "Grand Theft Auto VI: New Original Song 'Pusher' Out Now, Full Score Album Arrives This December",
+   "first_seen": "2026-10-29T14:41:02Z",
+   "updated": "2026-10-29T22:01:21Z",
+   "items": [
+    {
+     "id": "55b2c9b9c3e5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Game Informer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI: New Original Song 'Pusher' Out Now, Full Score Album Arrives This December",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFI0RGw4WGc3b1ZtdHpGeXlCZnpReGR0NFZZaS1TTGFlWkx0WnNUVDNPTTRuU3ctXzFkc0MyWU54X2pqdElPVmthb0Y5Zk9DeE9kNkdVTE1wRVZEU2lDVnBIX2JWaUFldmhsQ3Z1UGR3U1QzajJjemR5RHdiMFhYSTVQaV96bERHOFRZMUNUVmVrWERFbFpiUlp2MjMtTWtrejJwWnA4Wm45TVNjN1lmV05keEo0SDZDRVE?oc=5",
+     "ts": "2026-10-29T14:01:24Z",
+     "summary": ""
+    },
+    {
+     "id": "0acf25d8f0c7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mezha.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Justice’s GTA VI Score Arrives December 11, With New Track “Pusher” Out Now",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeE5QbDNGeDBya0tYRE9wbHkwUmp6SFJaLU5RZ3M3RGJFN0o4MzktQkJDRTc3U2FSNjlrSEJKRDlYNE1NRGNGbEVWdW1sNkNHc1Q4V2g4MUJIRHBJbUJwRUhMYm9fYkVWcFhLSmYzN1BGWHFWdEZLcUZFc1h1RTM1OA?oc=5",
+     "ts": "2026-10-29T18:06:57Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
    "id": "3e4f2939cf26",
    "title": "Miami Dade Approves $3.9 Million GTA 6 Vice City Marketing Deal",
    "first_seen": "2026-10-29T05:20:50Z",
@@ -4295,32 +4334,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "55b2c9b9c3e5",
-   "title": "Grand Theft Auto VI: New Original Song 'Pusher' Out Now, Full Score Album Arrives This December",
-   "first_seen": "2026-10-29T14:41:02Z",
-   "updated": "2026-10-29T14:41:02Z",
-   "items": [
-    {
-     "id": "55b2c9b9c3e5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Game Informer",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI: New Original Song 'Pusher' Out Now, Full Score Album Arrives This December",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFI0RGw4WGc3b1ZtdHpGeXlCZnpReGR0NFZZaS1TTGFlWkx0WnNUVDNPTTRuU3ctXzFkc0MyWU54X2pqdElPVmthb0Y5Zk9DeE9kNkdVTE1wRVZEU2lDVnBIX2JWaUFldmhsQ3Z1UGR3U1QzajJjemR5RHdiMFhYSTVQaV96bERHOFRZMUNUVmVrWERFbFpiUlp2MjMtTWtrejJwWnA4Wm45TVNjN1lmV05keEo0SDZDRVE?oc=5",
-     "ts": "2026-10-29T14:01:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -60285,10 +60298,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T21:50:50Z",
+  "last_run": "2026-10-29T22:01:21Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 98/100",
+   "gnews_en: 99/100",
    "gnews_ru: 95/100",
    "gamesbeat: 1/10",
    "vgc: 2/10",
