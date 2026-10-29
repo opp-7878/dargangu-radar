@@ -1,6 +1,100 @@
 {
  "stories": [
   {
+   "id": "a9f492e66d31",
+   "title": "A Famous GTA 4 Meme Is Now a Mechanic in GTA 6",
+   "first_seen": "2026-10-29T03:50:49Z",
+   "updated": "2026-10-29T03:50:49Z",
+   "items": [
+    {
+     "id": "a9f492e66d31",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "A Famous GTA 4 Meme Is Now a Mechanic in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZVg0b2dfdG1RTXRvMVN5QmluTjlsWjZYSTFUSEJzT0ZwWE9xZXBJMnJ2UWJOSUdWNDFGSVgzM3NBT2h5SW4temQ3eGVrTEJGeWt3dWI3cEZaNnU1Mzd4aGhkRUJnc3BYVDVzSnpfMU54UjVyT2ViY3V2R21WR3dNU0c3Z1FMR2FRVnllSXhuV1dUY3kxQ2RR?oc=5",
+     "ts": "2026-10-29T03:39:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "227f4044f119",
+   "title": "New Grand Theft Auto 6 Gameplay Revealed During South Park",
+   "first_seen": "2026-10-29T03:50:49Z",
+   "updated": "2026-10-29T03:50:49Z",
+   "items": [
+    {
+     "id": "227f4044f119",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "New Grand Theft Auto 6 Gameplay Revealed During South Park",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3Z2RzRkakJoU0k1MXc0UVFkOHFPaThMcUtLelJfOU5zVGlGVW5pX0VmbHh2MmZiaHdmWGg5ZHpEZkQxNmRfemk1Y2wwaFBiQk9BbmZBOWd1cjd4VXhKTmZEbUFtYWRjenJ4dWxKdU03WHdyeFRwcFdjT0p3a0N4R1dqUHVpS0VQM2I5dURWRQ?oc=5",
+     "ts": "2026-10-29T03:44:15Z",
+     "summary": ""
+    },
+    {
+     "id": "c4ec806bb471",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "New Grand Theft Auto 6 Gameplay Revealed During South Park",
+     "url": "https://insider-gaming.com/new-grand-theft-auto-6-gameplay-revealed-during-south-park/",
+     "ts": "2026-10-29T03:44:15Z",
+     "summary": "On a new episode of South Park, brand-new gameplay for Grand Theft Auto 6 (GTA 6) was revealed in the most fitting fashion. The post New Grand Theft Auto 6 Gameplay Revealed During South Park appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [
+    "анонс",
+    "геймплей"
+   ],
+   "score": 88,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "19c7bfafff7c",
+   "title": "GTA 6 Reportedly Needs 210GB on PS5, and Even Physical Buyers Will Have to Download It",
+   "first_seen": "2026-10-29T03:50:49Z",
+   "updated": "2026-10-29T03:50:49Z",
+   "items": [
+    {
+     "id": "19c7bfafff7c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ThePCEnthusiast",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Reportedly Needs 210GB on PS5, and Even Physical Buyers Will Have to Download It",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTc0NlemtBUVlKSm9mQ2M0ZE90WHNvQjlSZUU4OUFYR3dsaXVDc19SaWJMLXppbzJwZVV0bkpLei0xQTVyZEVHdmJDSEpoaG11WTc1eTdrZ3NMRTRYSjdoa3N5SU9SY0QzUkE?oc=5",
+     "ts": "2026-10-29T03:44:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d02681facf4b",
    "title": "GTA VI Release Date and Pre-Order Info Are Set",
    "first_seen": "2026-10-28T14:10:53Z",
@@ -55323,14 +55417,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T03:40:56Z",
+  "last_run": "2026-10-29T03:50:49Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 96/100",
+   "gnews_en: 97/100",
    "gnews_ru: 63/71",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 2/10",
+   "insider_gaming: 3/10",
    "ign: 1/20",
    "eurogamer: 2/100",
    "dexerto_gta: 6/50",
