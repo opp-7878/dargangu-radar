@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "b9b26876c7b4",
+   "title": "Новые скриншоты GTA 6: акулы, байкеры и погоны",
+   "first_seen": "2026-10-29T08:20:53Z",
+   "updated": "2026-10-29T08:20:53Z",
+   "items": [
+    {
+     "id": "b9b26876c7b4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "WTFTime.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Новые скриншоты GTA 6: акулы, байкеры и погоны",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWcwTS1OYTg4cGV6cmpWU0VuazZHSHFVdG1mSUs1aVlFRktFbi1ianNWMjA0ZXZmTHpDVXlzNFV3Umdsb1BvR0w5T2dieUpIajVRS2NnSEwwYnRqYkNiWkRzc2gzZXA0ZjRrU1lKVl95OWFTWldqbFhRVWtmMHVnZGVQRE1LaFZy?oc=5",
+     "ts": "2026-10-29T08:13:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "23fb0cf5d246",
+   "title": "GTA 6 Team “Built a Pyramid on Everest,” No Compromises on “Scale, Detail, Story or Open World”",
+   "first_seen": "2026-10-29T08:20:53Z",
+   "updated": "2026-10-29T08:20:53Z",
+   "items": [
+    {
+     "id": "23fb0cf5d246",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamingBolt",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Team “Built a Pyramid on Everest,” No Compromises on “Scale, Detail, Story or Open World”",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUJGa2U1dTFlWmZaSy1fendNdjhHNERfX0FtNTR2dXctMTFKSTZjbGxieFFicmw1WlkzaEticThqWnJFYnBwOXlzOXozSHRpc3ZRaDA3QjIxNEI0bXItRVVOc2hKeGF5SjZ0bkJfeHFaaXlLZVBRUHU5SEVLWkRmRmp4eVBjcXZxaTR0SUZ2RTZfTUoyQ0ZHMkRhNlRrUnFSUncxOGtmajZEYmRUZDM1Nw?oc=5",
+     "ts": "2026-10-29T08:15:06Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ddab697810c2",
    "title": "How to read the GamesRadar article without entering your email",
    "first_seen": "2026-10-29T06:31:09Z",
@@ -56521,11 +56573,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T08:11:05Z",
+  "last_run": "2026-10-29T08:20:53Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 99/100",
-   "gnews_ru: 80/86",
+   "gnews_en: 96/100",
+   "gnews_ru: 79/82",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
