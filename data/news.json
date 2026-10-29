@@ -1,6 +1,88 @@
 {
  "stories": [
   {
+   "id": "6cd29ec2f9b7",
+   "title": "As gamers await the release of 'Grand Theft Auto VI' next month, 'South Park' took aim at the upcoming game, armed with dog poop. Read more below.",
+   "first_seen": "2026-10-29T16:10:52Z",
+   "updated": "2026-10-29T16:10:52Z",
+   "items": [
+    {
+     "id": "6cd29ec2f9b7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Facebook",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "As gamers await the release of 'Grand Theft Auto VI' next month, 'South Park' took aim at the upcoming game, armed with dog poop. Read more below.",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRlJQYWRjWHdfV2E0U3lhc1ZRUW52REp2Q3duWjZFMFNXdDFBWjdPYjZwd3ZMTFgyWTlZbmZrSU5pbi1Qcno4anRzVEJHSkhzMXlZblBsMXZmdFhNWGY1UEkxTl8xWVkxRURxZDNDZEs0Qks0ejl3LUxoeENMNjVrUGlxVlJSdFU5N1ZhX01xRHNNSVE0RnBDTWNJTERxczBXS255SGNZVTFRQWYzdTU5b1YtSm1QdDdlVGpKTloyVnVGUldYQUIwazNLYlk5eGRPZE9hMQ?oc=5",
+     "ts": "2026-10-29T10:00:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0ced40f1495f",
+   "title": "The Duskbloods delayed to 2027, as expected, avoiding the GTA 6 takeover",
+   "first_seen": "2026-10-29T16:10:52Z",
+   "updated": "2026-10-29T16:10:52Z",
+   "items": [
+    {
+     "id": "0ced40f1495f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Duskbloods delayed to 2027, as expected, avoiding the GTA 6 takeover",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNU1qMkl1LW5LMFFnTnlOYm1MS3dyMmxWQU90LUhCRTA3RzhKeVhfQkFtTFpIQjA2d0FtblViNDZINC0tWjJ2TmRndVBLQTBPbVhsbHJtZE85aFAzYm5ZMjNxWUVTZHhGSkYtNUpSNTVrRnltTEItRldBNGlyWjNPQ1ZUTDJONWV3YWZMTkVIQVdGOExBdFA2V0ZuTk9rMmNMbTdLOXFNRjZDV2VwNW5IREF1ZkIxUQ?oc=5",
+     "ts": "2026-10-29T15:22:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "fcf7221ae4e9",
+   "title": "GTA 6's map is roughly twice GTA 5's and almost as big as GTA 4, GTA 5, and RDR2 combined",
+   "first_seen": "2026-10-29T16:10:52Z",
+   "updated": "2026-10-29T16:10:52Z",
+   "items": [
+    {
+     "id": "fcf7221ae4e9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TweakTown",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's map is roughly twice GTA 5's and almost as big as GTA 4, GTA 5, and RDR2 combined",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUmlEV1ZfVHFYdE5LbmtBT1Y4akxWT29DSGRnTEVzRDlDaWxuYXNENFkteDlrSF9xdFE4ZFpsVVFkMm1pcmRtd3Y0M3VvMEF4d1VvczMzdXFLak90SjRGLVI1ZzM5MTZHOGRYT3Vpam1GNUZjYnAyd3JFTlRDQnZ1TUtWMEJuaW0wMWdVV3B1NEJkbHJKWjhmUUJuQ3hiazN1VFRNRmZaRkdZTU1Qam1kNmNmZ3VrOWN6SjA0WUZwbWJkQnIybUtHSnYyTlBFaHM?oc=5",
+     "ts": "2026-10-29T16:05:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6020c5b9d4cb",
    "title": "Creator hilariously mocks GTA 6 “feminist slop” complaints in viral video",
    "first_seen": "2026-10-29T16:01:22Z",
@@ -59374,37 +59456,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "09046f88fef4",
-   "title": "The VYB nightclub is based on LIV Miami",
-   "first_seen": "2026-10-22T16:10:51Z",
-   "updated": "2026-10-22T16:10:51Z",
-   "items": [
-    {
-     "id": "09046f88fef4",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "The VYB nightclub is based on LIV Miami",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xcmo82/the_vyb_nightclub_is_based_on_liv_miami/",
-     "ts": "2026-10-22T16:04:10Z",
-     "summary": "VYB first appeared on the side of a taxi in a clip on the GTA VI website from May 2025. gta.wiki/VYB submitted by /u/gtawiki to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T16:01:22Z",
+  "last_run": "2026-10-29T16:10:55Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
@@ -59412,7 +59468,7 @@
    "gamesbeat: 1/10",
    "vgc: 2/10",
    "insider_gaming: 2/10",
-   "ign: 2/20",
+   "ign: 1/20",
    "eurogamer: 3/100",
    "dexerto_gta: 7/50",
    "rockstarintel: 7/10",
@@ -59421,7 +59477,7 @@
    "tg_gtavistar: 7/10",
    "tg_gta6deluxe: 5/11",
    "tg_gta6_m: 10/19",
-   "tg_gta6newsdaily: 9/15"
+   "tg_gta6newsdaily: 8/15"
   ],
   "digest": "2026-10-29@9",
   "tg_offset": 854319078
