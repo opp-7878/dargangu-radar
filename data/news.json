@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "d016d7f2e0a9",
+   "title": "Like my Spooky Halloween Pumpkin",
+   "first_seen": "2026-10-29T23:40:53Z",
+   "updated": "2026-10-29T23:40:53Z",
+   "items": [
+    {
+     "id": "d016d7f2e0a9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Like my Spooky Halloween Pumpkin",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xizog9/like_my_spooky_halloween_pumpkin/",
+     "ts": "2026-10-29T23:26:55Z",
+     "summary": "Carved this today in celebration of the end of October and beginning of November The Holy month. Let me know what you think? submitted by /u/Some_Opportunity_374 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "227f4044f119",
    "title": "20 Seconds of GTA 6 Dog Poop Gameplay Premieres in the Latest Episode of South Park",
    "first_seen": "2026-10-29T03:50:49Z",
@@ -60397,63 +60423,11 @@
     "at": "2026-10-23T00:20:54Z"
    },
    "msg_id": 147
-  },
-  {
-   "id": "ad06ab53c6e2",
-   "title": "New PS5 Accessories Launching Alongside GTA VI",
-   "first_seen": "2026-10-22T15:01:17Z",
-   "updated": "2026-10-22T23:40:47Z",
-   "items": [
-    {
-     "id": "ad06ab53c6e2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "AOL.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "New PS5 Accessories Launching Alongside GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHVkYWFtc0tSVktVWTRQc2l6clN1cmg5YllHYk5GWmlIb0ppanJhZHlRdW5xOUtaX2IyUmI4WG56Z09oVFN0V2hmYVNyOWR1M2JXdE8zNXp3ekgxaHlxX1pHSnZBUm84V0VPZThKZ2k3N25HeUswVUpEUGdvdVZtc3JXSXlvOFpCUnZv?oc=5",
-     "ts": "2026-10-22T12:50:32Z",
-     "summary": ""
-    },
-    {
-     "id": "f3dd7f8c388a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PlayStation LifeStyle",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "New PS5 Accessories Launching Alongside GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1RqUWNVS19FYlByMFR6azZnTTE5V1RkaGNERDVhZF9Lb1VBSEFzQ1M4NV9aWlVRR3lPNV9mMGFQQ2FfQ292MlMzcDNDejBuWFppSF9pcGJfYTUxbmU4Ym9IY2ctRGV4Uy1KWGptZWRNME41eDNRQzZ0RDYyRWR1M1J5NVBfQnA5cGVZWDQxWS3SAZYBQVVfeXFMTXp3elhCWTdSQVdqSVBESzltaTFGalloUFVWT0hRNzl0d2hPSmZ3MlVNMEYyMHRhNmZ3cllYNXN4WHJBd3EwTnZ0a0FaSjFUTngyVm5hOEM4SWxmR1NUQVhBWTdudGVueFhWUE54b184RW9BenJXejNlZTdEanJxZnM3MzU4aW9KVmkxWlNad3I0ZG42S3pR?oc=5",
-     "ts": "2026-10-22T12:50:32Z",
-     "summary": ""
-    },
-    {
-     "id": "21681d91f3c7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "AOL.co.uk",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "New PS5 Accessories Launching Alongside GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEZhZmRQbHB3MDFjZzZKWDFuWG5TWC01ODRxNGc2cmhYT09CemM3UVotZFBrNDJ4OUN5NFJRSVhIXzdEUkVFaFVCVEY0RGJWOF96eTRGbUtTUjdnOFphMEFpNzJiandnelJ4NmVFMmYxTGJ2VDJxdktTclltd3BXbnQ3bURIdlYzSUtaMWxn?oc=5",
-     "ts": "2026-10-22T12:50:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T23:31:05Z",
+  "last_run": "2026-10-29T23:40:53Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
