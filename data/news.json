@@ -1,6 +1,69 @@
 {
  "stories": [
   {
+   "id": "3adc47618549",
+   "title": "Artist With Music In GTA 6 Had No Idea About Any Of That",
+   "first_seen": "2026-10-29T18:59:53Z",
+   "updated": "2026-10-29T18:59:53Z",
+   "items": [
+    {
+     "id": "3adc47618549",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Artist With Music In GTA 6 Had No Idea About Any Of That",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGRGalQ5QmJiaXhDX05BV2VqUTJwcmlxNnltaGhEUXA1Tmx2SEl5aDBxenhyQWh0SFFmdXZ3MkJUend2SjRuNnN6TVZtWnc4RnBsTVJnQjRfOFZ1SF9kQ1BxNTBVTDJkalprUlpWX2xvaVpGS0xxOV81UXZoM0Rvei15MERmOUozRk1YaDJma2NULXJKdmc?oc=5",
+     "ts": "2026-10-29T18:51:14Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Музыкант из GTA 6 узнал о саундтреке только из новостей",
+    "summary": "По данным GameSpot, артист, чья музыка попала в GTA 6, узнал об этом только из новостей. Rockstar не предупредила его заранее.",
+    "idea": "Показываем реакцию музыканта, который узнал о саундтреке из новостей. Зрителям нравится узнавать закулисье и «косяки» больших релизов.",
+    "hook": "Твоя песня в GTA 6, а ты узнал об этом из новостей.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-29T18:59:57Z"
+   },
+   "msg_id": 336
+  },
+  {
+   "id": "96867e7517fc",
+   "title": "\"GTA VI\" gave King Gizzard its first Hot 100 hit",
+   "first_seen": "2026-10-29T18:59:53Z",
+   "updated": "2026-10-29T18:59:53Z",
+   "items": [
+    {
+     "id": "96867e7517fc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Westword",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "\"GTA VI\" gave King Gizzard its first Hot 100 hit",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOVVoVlljeFdBLUZJN1VZNjdPQ00zUVV3RmpNNDdaUi15dUc3NXY2ZS12OGY5RF9KR3dUeUp5cFlxZ01zQTJRRnA1cGhDRm51cWMxb0hqUDVjSUVEbHFHV0gtVEg1WnJYb1VtMnpsV3Z2T0hOV2pITTZEeWN1RGpodkROSlN5ME9yekZHSHl1WXU?oc=5",
+     "ts": "2026-10-29T18:53:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a214c4127153",
    "title": "«Это какое-то ТВ-шоу?»: Спустя полвека песня стала хитом благодаря GTA VI — 86-летний исполнитель удивился",
    "first_seen": "2026-10-29T18:50:53Z",
@@ -60174,7 +60237,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T18:50:53Z",
+  "last_run": "2026-10-29T18:59:57Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
@@ -60187,7 +60250,7 @@
    "dexerto_gta: 6/50",
    "rockstarintel: 6/10",
    "gtaboom: 8/30",
-   "reddit: 21/25",
+   "reddit: 20/25",
    "tg_gtavistar: 4/10",
    "tg_gta6deluxe: 5/11",
    "tg_gta6_m: 11/19",
