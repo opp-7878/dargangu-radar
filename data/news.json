@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "4fc8acd5a889",
+   "title": "Скриншоты GTA VI показали свободное исследование Леониды",
+   "first_seen": "2026-10-29T01:40:56Z",
+   "updated": "2026-10-29T01:40:56Z",
+   "items": [
+    {
+     "id": "4fc8acd5a889",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Скриншоты GTA VI показали свободное исследование Леониды",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUNzc1QxU0FVb2FwX010WFJmUkxyOHBNMVFKRE5EZFZKNUxjellHSHdkNmxMekVFOEdwT2N2U3NNSER3TVhsMmRicXdIaE41UVVsWDR5QlZSRTRMdEg2UHRZOVMxeHVVaGxwcklxNXM5d040Z0ZfUHl4YXk1bjZPXzVOUHkzS3daNjJOMw?oc=5",
+     "ts": "2026-10-29T00:28:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c4833ce36d37",
    "title": "В GTA 6 будет около 600 тысяч анимаций неигровых персонажей с индивидуальными характерами",
    "first_seen": "2026-10-29T01:31:06Z",
@@ -54727,54 +54753,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e0389cf50861",
-   "title": "‘Grand Theft Auto VI’ isn’t even out yet, but creators are already flocking to Miami",
-   "first_seen": "2026-10-21T23:50:42Z",
-   "updated": "2026-10-22T01:40:46Z",
-   "items": [
-    {
-     "id": "e0389cf50861",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Tubefilter",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ isn’t even out yet, but creators are already flocking to Miami",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUzctWmktWXVPYV93STFTUm1TT09nb1B6ZlhtaGR6bk9wMzBndGdPWFJGb3lnNndUd05zWDUtbjIwS2pqZzRiOEtRc1hkbVVnWDF2Q21kY1QzZVhDTkptSFJET3NuUkkxa2FMd2tROTB5T1pKUnl1S3dWQ3c3VlZZTXZCV2RJbWlrNmJfbUFFWGh2R1pz0gGaAUFVX3lxTE0xenBhYVBCbjFlQ0VSbHA0RWpWYlE5czlZREVEMFB5cHk2eFBaa1U2UHpsWUEzVFNkNGV1QTZVY2tqQkRqeEZVc19vaklMNkFiUkFOSUpuYnU0ejZHdWhUNGxIYWs3dXFCQnhTU2FqTlFOSnFZMFVzV2w0dlZTYmVaci1MZEljMTRwbk9QQzhiY2VYLUNjdUJXeVE?oc=5",
-     "ts": "2026-10-21T22:41:31Z",
-     "summary": ""
-    },
-    {
-     "id": "e80b3967e06c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Tubefilter",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ isn’t even out yet, but creators are already flocking to Miami",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXpwYWFQQm4xZUNFUmxwNEVqVmJROXM5WURFRDBQeXB5NnhQWmtVNlB6bFlBM1RTZDRldUE2VWNrakJEanhGVXNfb2pJTDZBYlJBTklKbmJ1NHo2R3VoVDRsSGFrN3VxQkJ4U1Nhak5RTkpxWTBVc1dsNHZWU2JlWnItTGRJYzE0cG5PUEM4YmNlWC1DY3VCV3lR0gGaAUFVX3lxTE0xenBhYVBCbjFlQ0VSbHA0RWpWYlE5czlZREVEMFB5cHk2eFBaa1U2UHpsWUEzVFNkNGV1QTZVY2tqQkRqeEZVc19vaklMNkFiUkFOSUpuYnU0ejZHdWhUNGxIYWs3dXFCQnhTU2FqTlFOSnFZMFVzV2w0dlZTYmVaci1MZEljMTRwbk9QQzhiY2VYLUNjdUJXeVE?oc=5",
-     "ts": "2026-10-21T22:40:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T01:31:06Z",
+  "last_run": "2026-10-29T01:40:56Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 59/67",
+   "gnews_ru: 60/68",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
