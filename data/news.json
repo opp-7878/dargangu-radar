@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "636fb5819170",
+   "title": "\"Такое чувство, что мы построили пирамиду на Эвересте\": глава разработки GTA 6 о том, как игра оправдывает ожидания",
+   "first_seen": "2026-10-29T01:50:51Z",
+   "updated": "2026-10-29T03:01:18Z",
+   "items": [
+    {
+     "id": "636fb5819170",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "\"Такое чувство, что мы построили пирамиду на Эвересте\": глава разработки GTA 6 о том, как игра оправдывает ожидания",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTFhyY2l5SVBrUFc5TzZMQmpKQ3Bob2wxOE9tRUE0REFwaVd5SFQyQjZNazBheG05V1pXWF83VWhmalNyRmtIcmtkOGYwaFEzcmxZUDFnOXFtZGZlellkTTFIZ1BweFdUTE9lRDh5ZExIQ0JNa29pNkQ5ak1ZaGU2LXh3aW5IclpNZG0tVkQxM0lDcFgzRFMtVmpkYVo5N051LXRxWFpKd01RQ1l0UHdtcjdqcmdtdk8xN2tvbEFmUTdKcUtza1V3MnZZdVpsSmtudkVxa2NxRm1GdXlYTV9wN0w0YkxhbTlHNGIxN3VqNWg?oc=5",
+     "ts": "2026-10-29T01:38:50Z",
+     "summary": ""
+    },
+    {
+     "id": "4427508e50ac",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "\"Такое чувство, что мы построили пирамиду на Эвересте\": глава разработки GTA 6 о том, как игра оправдывает ожидания",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUTZDcExMQzRzZDgxc2hNbGZ1VktlbzVFRm1wcllaMGlVQzg0ZVd3aVdWZ0pTcFR2bC1XYmtIRWJLOU9wS0JSMHJ5MHZzVWRVQ2dYY2pBQVdVa2dZaHdvVzhzSmtKSDFEY2RfS0hPMHRCb2FXT2dJMW9VNU5PR08zVWlQRUEtWkdEYk9PV1Q5MkdsRDROQ3VtaHFuWm9pc3pjTHpCeFVfNHJtLWl6TEsyWWVJdk53cEJKV1JTbC1GdEFQZlpfeW1LSTU4UFc3UEp1WndFenk5WWxmV0x6ZXVLLUltaDNYVjhTc1VneWFNVnMzU1NLT2c?oc=5",
+     "ts": "2026-10-29T01:38:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f612dbb41d75",
+   "title": "GTA 6 map is bigger than thought, with more interiors explorable on release date",
+   "first_seen": "2026-10-29T03:01:18Z",
+   "updated": "2026-10-29T03:01:18Z",
+   "items": [
+    {
+     "id": "f612dbb41d75",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 map is bigger than thought, with more interiors explorable on release date",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMmNjd3VPSldMalIyNXJUOC1zcFZ6ejBCUXB4YlNTN2lPQ3gyWWprc3NyTjd4R2t2Z0QtNzlYX1ZOdzV3QTM3czZROEliM0JNZnB0YlpPYWZNSkt1NEw1M3I1MkNKME5ZSHFQcTJfYmo0ZDJRTjVjMVd1R056dDhtNFdfYUVxOGtNUUFOdzRMR0dJOG5YcWJZVkk4VHRWWW11ZVdlUG12Rm5heEdRQVloTHhDVGphX1llbDNDcFZ3X2J0UQ?oc=5",
+     "ts": "2026-10-29T02:36:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Карта GTA 6 больше, чем думали: больше интерьеров на старте",
+    "summary": "По данным Notebookcheck, карта GTA 6 больше ожидаемого, а на релизе 19 ноября 2026 можно будет исследовать больше интерьеров. Официально Rockstar это не подтверждала.",
+    "idea": "Сравним ожидания и реальность: показываем карту и интерьеры, которые теперь обещают на старте. Зрителю важно понять, станет ли мир реально живее с первого дня.",
+    "hook": "Карта GTA 6 больше, чем мы думали. Что это значит на релизе?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-29T03:01:21Z"
+   },
+   "msg_id": 283
+  },
+  {
    "id": "f6f913a7ed65",
    "title": "GTA VI’s Physical Copy Has A Twist — What You Actually Get At Launch",
    "first_seen": "2026-10-29T02:50:53Z",
@@ -619,32 +697,6 @@
    "score": 65,
    "level": "SPECULATION",
    "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "636fb5819170",
-   "title": "\"Такое чувство, что мы построили пирамиду на Эвересте\": глава разработки GTA 6 о том, как игра оправдывает ожидания",
-   "first_seen": "2026-10-29T01:50:51Z",
-   "updated": "2026-10-29T01:50:51Z",
-   "items": [
-    {
-     "id": "636fb5819170",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "\"Такое чувство, что мы построили пирамиду на Эвересте\": глава разработки GTA 6 о том, как игра оправдывает ожидания",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTFhyY2l5SVBrUFc5TzZMQmpKQ3Bob2wxOE9tRUE0REFwaVd5SFQyQjZNazBheG05V1pXWF83VWhmalNyRmtIcmtkOGYwaFEzcmxZUDFnOXFtZGZlellkTTFIZ1BweFdUTE9lRDh5ZExIQ0JNa29pNkQ5ak1ZaGU2LXh3aW5IclpNZG0tVkQxM0lDcFgzRFMtVmpkYVo5N051LXRxWFpKd01RQ1l0UHdtcjdqcmdtdk8xN2tvbEFmUTdKcUtza1V3MnZZdVpsSmtudkVxa2NxRm1GdXlYTV9wN0w0YkxhbTlHNGIxN3VqNWg?oc=5",
-     "ts": "2026-10-29T01:38:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -54997,11 +55049,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T02:50:53Z",
+  "last_run": "2026-10-29T03:01:22Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 95/100",
-   "gnews_ru: 67/77",
+   "gnews_en: 96/100",
+   "gnews_ru: 66/76",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
