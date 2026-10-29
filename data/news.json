@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "530bd23a955a",
+   "title": "Главное за день: 70 000 рублей за GTA 6, рекорд Phantom Blade Zero до релиза",
+   "first_seen": "2026-10-29T04:50:56Z",
+   "updated": "2026-10-29T04:50:56Z",
+   "items": [
+    {
+     "id": "530bd23a955a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Главное за день: 70 000 рублей за GTA 6, рекорд Phantom Blade Zero до релиза",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0dUN3owdm84MnVSZklQenNMRUNGNUxXMW1fLWhnaWtRaVAtTUg3OURQOVgxU2ZvNXpTN0VqUWxhN1I3b3hDcnNnME9HOVNzRTk0ZERJM05lMHMzcUNEMWhIb2FWRVh5LURucGZIejI5clRaOVlwRmN2a0IxTFJadXNoNF9iOGRUTmRaR044dktyU1ZCNFE5elV6eHA4ZzRoUDJHVTVB?oc=5",
+     "ts": "2026-10-28T19:13:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "842d9de704bc",
+   "title": "Gta6 download and play",
+   "first_seen": "2026-10-29T04:50:56Z",
+   "updated": "2026-10-29T04:50:56Z",
+   "items": [
+    {
+     "id": "842d9de704bc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Gta6 download and play",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xianiu/gta6_download_and_play/",
+     "ts": "2026-10-29T04:44:11Z",
+     "summary": "Hello my question is for people that know a bit about servers and such. I am wondering if anyone else thinks maybe that there are so many pre orders that when we all go to download the game at once then it's either going to be slow as a turtle or possibly crash. I also think that the day it comes online so I was just wondering if anyone could tell me why or why not that may happen other than Rockstar taking into consideration how many people will be playing and downloading the game. submitted by /u/HappyBlacksmith2030 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "227f4044f119",
    "title": "New Grand Theft Auto 6 Gameplay Revealed During South Park",
    "first_seen": "2026-10-29T03:50:49Z",
@@ -55562,11 +55616,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T04:40:53Z",
+  "last_run": "2026-10-29T04:50:56Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 96/100",
-   "gnews_ru: 68/78",
+   "gnews_en: 98/100",
+   "gnews_ru: 69/79",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
