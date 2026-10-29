@@ -1,6 +1,77 @@
 {
  "stories": [
   {
+   "id": "a864e7cd4df7",
+   "title": "'GTA 6' Reportedly Breaks Massive Franchise Record Ahead of Release",
+   "first_seen": "2026-10-29T00:01:24Z",
+   "updated": "2026-10-29T00:01:24Z",
+   "items": [
+    {
+     "id": "a864e7cd4df7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Collider",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' Reportedly Breaks Massive Franchise Record Ahead of Release",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DZnhURzVZRVlEbWxzVkczcXgyWUNHOGhuN2Fqc1ZENEVkVDVlX2pXd1kwMnA3Rmd5VlBUOGdxdWlhOHJoN3ZSMGp0OXl4OXE0aHpTMjRtNVQ4VmJGZHc?oc=5",
+     "ts": "2026-10-28T23:50:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "39212f1ff07d",
+   "title": "Rockstar Announce $4M GTA 6 Takeover Of Miami",
+   "first_seen": "2026-10-29T00:01:24Z",
+   "updated": "2026-10-29T00:01:24Z",
+   "items": [
+    {
+     "id": "39212f1ff07d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RockstarINTEL",
+     "group": "media",
+     "weight": 55,
+     "alert": true,
+     "title": "Rockstar Announce $4M GTA 6 Takeover Of Miami",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43eExsZUR6YXA2Q0ZRcEcycVdkSENpMnZrOVlEUnY0YVU1QW9tZ05FNWdYRElBQ2RKZUtNVmZfU1lqZ2pIelJkUVJhanhOdWctTy1UUjZWSFRBRnhRX2dmZmxKRnEwbTRGUGtPTlNoLTFEU2ZUaTBJSE9OQQ?oc=5",
+     "ts": "2026-10-28T23:51:22Z",
+     "summary": ""
+    },
+    {
+     "id": "2d03f6c531d1",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "Rockstar Announce $4M GTA 6 Takeover Of Miami",
+     "url": "https://rockstarintel.com/rockstar-announce-4m-gta-6-takeover-of-miami/",
+     "ts": "2026-10-28T23:51:22Z",
+     "summary": "Rockstar Games and Miami-Dade County announce that they have finalised a multi-million dollar agreement to market GTA 6. Images of what they expect it to look like have also been released. We’re just 3 weeks away from the biggest game of all time and Miami has begun being transformed into Vice City in recent weeks. [...] The post Rockstar Announce $4M GTA 6 Takeover Of Miami appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [
+    "анонс",
+    "цена/издания"
+   ],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 2,
+   "ai_error": "ValueError: нет полей: title_ru",
+   "msg_id": 277
+  },
+  {
    "id": "3ebf2d294c8e",
    "title": "GTA 6 already in your team’s diary?",
    "first_seen": "2026-10-28T23:50:51Z",
@@ -53970,18 +54041,18 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-28T23:50:51Z",
+  "last_run": "2026-10-29T00:01:30Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 53/60",
+   "gnews_ru: 57/66",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
    "ign: 1/20",
    "eurogamer: 2/100",
    "dexerto_gta: 6/50",
-   "rockstarintel: 3/10",
+   "rockstarintel: 4/10",
    "gtaboom: 9/30",
    "reddit: 21/25",
    "tg_gtavistar: 6/17",
