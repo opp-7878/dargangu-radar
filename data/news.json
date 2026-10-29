@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "ddab697810c2",
+   "title": "How to read the GamesRadar article without entering your email",
+   "first_seen": "2026-10-29T06:31:09Z",
+   "updated": "2026-10-29T06:31:09Z",
+   "items": [
+    {
+     "id": "ddab697810c2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How to read the GamesRadar article without entering your email",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xiccta/how_to_read_the_gamesradar_article_without/",
+     "ts": "2026-10-29T06:25:23Z",
+     "summary": "Go to this link https://www.gamesradar.com/edge/gtavi-cover/ and you'll see the entire page content load with the email prompt. Refresh with F5, wait a second + Esc to immediately to stop executing the script showing the email prompt. Hope this helps! submitted by /u/Electrical-Cattle211 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "227f4044f119",
    "title": "New Grand Theft Auto 6 Gameplay Revealed During South Park",
    "first_seen": "2026-10-29T03:50:49Z",
@@ -56119,11 +56145,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T06:20:53Z",
+  "last_run": "2026-10-29T06:31:09Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 97/100",
-   "gnews_ru: 76/83",
+   "gnews_en: 96/100",
+   "gnews_ru: 75/82",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -56132,7 +56158,7 @@
    "dexerto_gta: 6/50",
    "rockstarintel: 5/10",
    "gtaboom: 12/30",
-   "reddit: 21/25",
+   "reddit: 22/25",
    "tg_gtavistar: 9/10",
    "tg_gta6deluxe: 5/10",
    "tg_gta6_m: 9/19",
