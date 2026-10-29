@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "19c7bfafff7c",
+   "title": "GTA 6 Reportedly Needs 210GB on PS5, and Even Physical Buyers Will Have to Download It",
+   "first_seen": "2026-10-29T03:50:49Z",
+   "updated": "2026-10-29T23:01:19Z",
+   "items": [
+    {
+     "id": "19c7bfafff7c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ThePCEnthusiast",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Reportedly Needs 210GB on PS5, and Even Physical Buyers Will Have to Download It",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTc0NlemtBUVlKSm9mQ2M0ZE90WHNvQjlSZUU4OUFYR3dsaXVDc19SaWJMLXppbzJwZVV0bkpLei0xQTVyZEVHdmJDSEpoaG11WTc1eTdrZ3NMRTRYSjdoa3N5SU9SY0QzUkE?oc=5",
+     "ts": "2026-10-29T03:44:26Z",
+     "summary": ""
+    },
+    {
+     "id": "38c1c8ea37b8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Reportedly a Massive 210GB Download on PS5",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYWxTbGhXdGt4Q0pZWTI4R3ZJeW1HNGc4WEc4cmMxTnFCWk83UENvRGtuRGZVY2RIRUJ5Zll0dHN4UmNaOGFudC1QWWc2WkNmazBGSzdpc09meGZCcGxRdk9GUGQ2bXJfTXlpdmdlcEhVU1lzNFNJbDRET0ZpNHBOUTlZcW8zNllNRFpWNFdR?oc=5",
+     "ts": "2026-10-29T20:03:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "5680349db238",
+   "title": "what’s everybody eating for there gta 6 gaming session",
+   "first_seen": "2026-10-29T23:01:19Z",
+   "updated": "2026-10-29T23:01:19Z",
+   "items": [
+    {
+     "id": "5680349db238",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "what’s everybody eating for there gta 6 gaming session",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xiyyfw/whats_everybody_eating_for_there_gta_6_gaming/",
+     "ts": "2026-10-29T22:56:27Z",
+     "summary": "ordering out,cooking from home what’s everybody food plans for the night/day gta 6 comes out submitted by /u/blondedaff to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f308ebc9634a",
    "title": "GTA 6 Review Embargo Date: When Do Reviews Go Live?",
    "first_seen": "2026-10-29T22:50:55Z",
@@ -9936,32 +10001,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "19c7bfafff7c",
-   "title": "GTA 6 Reportedly Needs 210GB on PS5, and Even Physical Buyers Will Have to Download It",
-   "first_seen": "2026-10-29T03:50:49Z",
-   "updated": "2026-10-29T03:50:49Z",
-   "items": [
-    {
-     "id": "19c7bfafff7c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ThePCEnthusiast",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Reportedly Needs 210GB on PS5, and Even Physical Buyers Will Have to Download It",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTc0NlemtBUVlKSm9mQ2M0ZE90WHNvQjlSZUU4OUFYR3dsaXVDc19SaWJMLXppbzJwZVV0bkpLei0xQTVyZEVHdmJDSEpoaG11WTc1eTdrZ3NMRTRYSjdoa3N5SU9SY0QzUkE?oc=5",
-     "ts": "2026-10-29T03:44:26Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -60493,7 +60532,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T22:50:55Z",
+  "last_run": "2026-10-29T23:01:19Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
