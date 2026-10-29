@@ -1,6 +1,73 @@
 {
  "stories": [
   {
+   "id": "3731cab428f0",
+   "title": "Grand Theft Auto VI will feature a massive map with changing seasons and intelligent NPCs.",
+   "first_seen": "2026-10-29T05:20:50Z",
+   "updated": "2026-10-29T05:20:50Z",
+   "items": [
+    {
+     "id": "3731cab428f0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI will feature a massive map with changing seasons and intelligent NPCs.",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2dGRTZIR0g1LWd5em5iNlE1d2lzcVJseURfR0RnVWJYSHRZbmtwNjY5OTQ0dkE0bkxZLTB3M212UWMtNXlNbURockZyX2pEanRmM3dxbDM5RkIzNTFFOGlRZl9xTGlOMTNpSTQ3bW9CdUhXcUlCZm5NdjhrenBzMEpUNThzMmRiMnU4U3RKNkVCUW1VeWZwcDh5WWRmVWVfa1I2MmJYd2NZTnZTT1lMVg?oc=5",
+     "ts": "2026-10-29T05:09:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3e4f2939cf26",
+   "title": "Miami Dade Approves $3.9 Million GTA 6 Vice City Marketing Deal",
+   "first_seen": "2026-10-29T05:20:50Z",
+   "updated": "2026-10-29T05:20:50Z",
+   "items": [
+    {
+     "id": "3e4f2939cf26",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Miami-Dade Is Spending $3.9 Million to Turn Itself Into Vice City for GTA 6",
+     "url": "https://www.gtaboom.com/miami-dade-is-spending-39-million-to-turn-itself-into-vice-city-for-gta-6-f0be",
+     "ts": "2026-10-29T05:12:56Z",
+     "summary": "Miami Dade approved a $3.9 million deal bringing GTA 6 lighting, signage and transit ads to county facilities."
+    },
+    {
+     "id": "d280f9952d64",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Miami Dade Approves $3.9 Million GTA 6 Vice City Marketing Deal",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXJEaHhIekJzdUtCdy1Pd3pqVi1lZVVRNE9XRGNqUjFoT2ZuME5xbGt1X04wc2xkdGhBNlY4WnY5S2cySUhReUFUUFEwcUVpbFhmSEpaZEFMRzlTRzJja3FXLVBFTFAzcXR4bVBYZmhXR2I3UVA4WFdiMWpJSUdDdENKUjdGd2x0RXkwOHNTX1BPNkMyZTNGWFpsQlY2eDhkTWdIRQ?oc=5",
+     "ts": "2026-10-29T05:12:57Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "22ea91ad8d0a",
    "title": "Has GTA 6 Been Delayed Again? What to Know",
    "first_seen": "2026-10-29T02:01:20Z",
@@ -55789,10 +55856,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T05:10:51Z",
+  "last_run": "2026-10-29T05:20:50Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 98/100",
+   "gnews_en: 97/100",
    "gnews_ru: 65/73",
    "gamesbeat: 0/10",
    "vgc: 0/10",
@@ -55801,7 +55868,7 @@
    "eurogamer: 2/100",
    "dexerto_gta: 6/50",
    "rockstarintel: 5/10",
-   "gtaboom: 10/30",
+   "gtaboom: 11/30",
    "reddit: 21/25",
    "tg_gtavistar: 8/10",
    "tg_gta6deluxe: 5/10",
