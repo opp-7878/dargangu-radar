@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "0f1a7ebcb473",
+   "title": "В пресс-копиях GTA 6 якобы появились персональные вотермарки для борьбы с утечками (ManaByte)",
+   "first_seen": "2026-10-29T08:50:53Z",
+   "updated": "2026-10-29T08:50:53Z",
+   "items": [
+    {
+     "id": "0f1a7ebcb473",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Tribuna.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В пресс-копиях GTA 6 якобы появились персональные вотермарки для борьбы с утечками (ManaByte)",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHFWZDZqbFo4TkxGdEw0QmZuMkoxNnFBemE1emFmVDdUUUNDYmgtRWNTZ0xKamZkdlN2UVJvaTNibmtQTXN1UWwwSzZSZGFlQXEyYWJDQldpWXNaUjNXbjBSX2d4aU9YU0g4bWJGNmhHSXZlM09zbHp0cVRSOTQ3N0txMTI3dnBPM2kyQ21FR3ZIa3p5OTlJWkgtcnk0WkZweE1RREFpRHjSAa4BQVVfeXFMTW9LaHJucnlsMjdrTVh2Tjg2ZlUwYjJ3ak1CRVdmQXRIQ0stYTdtTFNzSEh3emoyQ21aY0kwYVpvN0Y4aG1UTlNxUE5VWnNNeTJ0Tk1lQ1hyekMtTG9Ga0RIWlRoZ3BwdDhBQ1lqbUYtMkVhempOY3RrYVJNLVBmTHZ2c0tzMU81aHpGUDJPRmhUSUVnTTRRN09fS0x4VzY3NDFSaGJkU0hIVFktN0NR?oc=5",
+     "ts": "2026-10-29T08:47:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 55,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В пресс-копиях GTA 6 появились персональные вотермарки",
+    "summary": "В пресс-копиях GTA 6 якобы появились персональные вотермарки для борьбы с утечками, пишет ManaByte со ссылкой на Tribuna.com. Официально Rockstar это не подтверждала. Если это правда, авторам сливов станет сложнее прятаться.",
+    "idea": "Коротко объясняем, как персональные вотермарки могут вычислять сливщиков, и зачем это Rockstar. Зрителю интересно, потому что утечки — главный источник слухов о GTA 6.",
+    "hook": "Сливы GTA 6 могут закончиться? В пресс-копиях появились вотермарки.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-29T08:50:57Z"
+   },
+   "msg_id": 297
+  },
+  {
    "id": "227f4044f119",
    "title": "New Grand Theft Auto 6 Gameplay Revealed During South Park",
    "first_seen": "2026-10-29T03:50:49Z",
@@ -56705,11 +56744,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T08:40:54Z",
+  "last_run": "2026-10-29T08:50:57Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 96/100",
-   "gnews_ru: 83/86",
+   "gnews_en: 98/100",
+   "gnews_ru: 81/84",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
