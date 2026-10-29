@@ -1,6 +1,82 @@
 {
  "stories": [
   {
+   "id": "4920e876d7d1",
+   "title": "Edge Magazine Official Screenshots",
+   "first_seen": "2026-10-29T00:40:52Z",
+   "updated": "2026-10-29T01:01:19Z",
+   "items": [
+    {
+     "id": "4920e876d7d1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Edge Magazine Official Screenshots",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xi57cu/edge_magazine_official_screenshots/",
+     "ts": "2026-10-29T00:16:21Z",
+     "summary": "Magazine out earlier than expected. Yes these are official, not AI upscale. submitted by /u/Logical_Decision_706 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "4b91d2358a51",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "New Edge Magazine screenshots",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xi5bnq/new_edge_magazine_screenshots/",
+     "ts": "2026-10-29T00:21:44Z",
+     "summary": "submitted by /u/Snak3D0ct0r to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9e39451ff8c6",
+   "title": "GTA 6's NPCs have about 600,000 animations, as well as personality traits that take 'demographic and professional' variables into account",
+   "first_seen": "2026-10-29T01:01:19Z",
+   "updated": "2026-10-29T01:01:19Z",
+   "items": [
+    {
+     "id": "9e39451ff8c6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6's NPCs have about 600,000 animations, as well as personality traits that take 'demographic and professional' variables into account",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSEdyZnQwc19xN3kxckpYNXMzWEVJUnVqQVc4Qk5ueXR1N0JvQjh6THQzdVQtVWl4b1BXV2J4dVFpMWM3R2lEbnloZy1xdHdTTExxeWlmMkI5YVlRR1JrbTNMdVBlQTVTUVFQWHppY1VORzVpdWNuRDl4cEJvMHI2ZDVvR1I4VVF3Ti02OVZ0TmZ6cWRUdGg1ZVFwV25pVE1uZXc4US14cG10YnI5d3FpV2lqV3oyUjJpQ2NKMFhKRDNuYndBTnoxUk5wa0p2M0MySmtwMkF1WTR3YVZyNjhnd0pfbE05WURORTN2S0JpUzlNQXNKTDlUNUYxNTVvVGVDWXo3WnZiR2c0UzNwVXc?oc=5",
+     "ts": "2026-10-29T00:52:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "600 000 анимаций NPC в GTA 6: что это значит",
+    "summary": "По данным PC Gamer, в GTA 6 у NPC около 600 000 анимаций и черты личности с учётом демографии и профессии. Это объясняет, почему прохожие ведут себя по-разному. Официально Rockstar детали не раскрывала.",
+    "idea": "Покажем, как NPC реагируют на одни и те же действия игрока — от паники до агрессии — и сравним с GTA 5. Зрителю интересно увидеть живость мира и понять, за что он платит.",
+    "hook": "600 тысяч анимаций NPC в GTA 6 — вот как это ощущается вживую.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-29T01:01:22Z"
+   },
+   "msg_id": 280
+  },
+  {
    "id": "2720986e2305",
    "title": "Аналитик ожидает релиз GTA 6 на ПК через 6–7 месяцев после консолей",
    "first_seen": "2026-10-28T18:50:54Z",
@@ -450,32 +526,6 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xi55jj/new_gta6_details_via_edge_magazine/",
      "ts": "2026-10-29T00:14:10Z",
      "summary": "submitted by /u/ADeadlyAlien to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4920e876d7d1",
-   "title": "Edge Magazine Official Screenshots",
-   "first_seen": "2026-10-29T00:40:52Z",
-   "updated": "2026-10-29T00:40:52Z",
-   "items": [
-    {
-     "id": "4920e876d7d1",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Edge Magazine Official Screenshots",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xi57cu/edge_magazine_official_screenshots/",
-     "ts": "2026-10-29T00:16:21Z",
-     "summary": "Magazine out earlier than expected. Yes these are official, not AI upscale. submitted by /u/Logical_Decision_706 to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [],
@@ -54460,11 +54510,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T00:50:55Z",
+  "last_run": "2026-10-29T01:01:23Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 98/100",
-   "gnews_ru: 57/66",
+   "gnews_en: 97/100",
+   "gnews_ru: 53/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -54473,7 +54523,7 @@
    "dexerto_gta: 6/50",
    "rockstarintel: 5/10",
    "gtaboom: 9/30",
-   "reddit: 21/25",
+   "reddit: 22/25",
    "tg_gtavistar: 6/17",
    "tg_gta6deluxe: 5/10",
    "tg_gta6_m: 9/19",
