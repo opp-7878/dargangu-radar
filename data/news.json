@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "813581f38144",
+   "title": "Журнал Edge представил новые скриншоты Grand Theft Auto 6",
+   "first_seen": "2026-10-29T03:21:00Z",
+   "updated": "2026-10-29T04:01:22Z",
+   "items": [
+    {
+     "id": "813581f38144",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Журнал Edge представил новые скриншоты Grand Theft Auto 6",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTJLaGJ0b1BtakF1ZGxDN1hNbF9qemI5VWRLczM2b3dyOG8wLXo1V2cyUnFLYkFnc1FGeXBBRXBIQjlraURPcURmYnRXYUY2ZGRQWjVkRTVhMk1TZ1gtRHJFRGI2Y3VpbXNFS0VxX2RLOE1CekRsUkwyMFRMc2hSUVZ3Z2VCaXJqN2pRS0dMYmduUVBFbl81cHQwZ0dyWkppZ09iQ3lkaw?oc=5",
+     "ts": "2026-10-29T01:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "4109d85e8cf0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Журнал Edge представил новые скриншоты Grand Theft Auto 6",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2U2UWxabGQtRjFUME8tbjZZQ3NJZUxrNUJfMXRNb09OMzIzNkkxMk5sZXhZc2MxSzN6aERQZEVTMUhTTjJ5S2xmLUdmMHFCeXN0ZmdfNEVHRmVCc01JOVYxVXMwQ1VSS3pNTHJjdkNJMEYxcENDOEJHRC1xbU9lN2Jlb1RURS1KZzY2SU9qWTRUSi1DYWExQi1Bc0FKbU5oT2MyLUhqbUtPS3Jn?oc=5",
+     "ts": "2026-10-29T01:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a9f492e66d31",
    "title": "A Famous GTA 4 Meme Is Now a Mechanic in GTA 6",
    "first_seen": "2026-10-29T03:50:49Z",
@@ -617,32 +656,6 @@
     "at": "2026-10-29T01:01:22Z"
    },
    "msg_id": 280
-  },
-  {
-   "id": "813581f38144",
-   "title": "Журнал Edge представил новые скриншоты Grand Theft Auto 6",
-   "first_seen": "2026-10-29T03:21:00Z",
-   "updated": "2026-10-29T03:21:00Z",
-   "items": [
-    {
-     "id": "813581f38144",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Журнал Edge представил новые скриншоты Grand Theft Auto 6",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTJLaGJ0b1BtakF1ZGxDN1hNbF9qemI5VWRLczM2b3dyOG8wLXo1V2cyUnFLYkFnc1FGeXBBRXBIQjlraURPcURmYnRXYUY2ZGRQWjVkRTVhMk1TZ1gtRHJFRGI2Y3VpbXNFS0VxX2RLOE1CekRsUkwyMFRMc2hSUVZ3Z2VCaXJqN2pRS0dMYmduUVBFbl81cHQwZ0dyWkppZ09iQ3lkaw?oc=5",
-     "ts": "2026-10-29T01:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "4b0475b6842c",
@@ -55417,11 +55430,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T03:50:49Z",
+  "last_run": "2026-10-29T04:01:22Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 63/71",
+   "gnews_ru: 66/76",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
