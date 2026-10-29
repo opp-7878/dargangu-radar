@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "57790a7d346d",
+   "title": "«Это собака, и она покакала» — в «Южном парке» показали GTA 6",
+   "first_seen": "2026-10-29T04:20:49Z",
+   "updated": "2026-10-29T04:20:49Z",
+   "items": [
+    {
+     "id": "57790a7d346d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Это собака, и она покакала» — в «Южном парке» показали GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV05mZDBqbjhmWTNIRFo1ZWhDdjg1YUJPR0J2cWRIbUt6cE9pTjE3dnFvQkRJVjRwdXdMbjd5WUptZXZiMjBmQkhQakN4X1ptazZ1Rmg5ZTRnZDRJWDNQSm5vRTZKZVFtenFEcmJFeFEyYldpV3NKMFBQcVRGRURxM1BsdzJMUU9YMmt6bHVxNFY4bzhZRFR1Z2hWclhobVJNSW8xd25US3gwc1RNM1BYQ0dMejg0V3o2QXBScWF6aEd2M200Q1UtUnFHaTY1VjhiOG5r?oc=5",
+     "ts": "2026-10-29T04:08:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "554501f5dd1d",
+   "title": "GTA 6 Unreleased Yet – Overseas Users Already Drive In-Game Cars Using Google's New AI Model",
+   "first_seen": "2026-10-29T04:20:49Z",
+   "updated": "2026-10-29T04:20:49Z",
+   "items": [
+    {
+     "id": "554501f5dd1d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "36Kr",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Unreleased Yet – Overseas Users Already Drive In-Game Cars Using Google's New AI Model",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsOGZpb1Izck5kcm1iVFJiaGZ5OFgxYWsydjdIdzZRZGw0c1poWVg4VjZNY0w2UzNDZUc0d3BPX1dQdkVaVjZURGRTQV9IemFOYTZZ?oc=5",
+     "ts": "2026-10-29T04:15:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a9f492e66d31",
    "title": "A Famous GTA 4 Meme Is Now a Mechanic in GTA 6",
    "first_seen": "2026-10-29T03:50:49Z",
@@ -55480,11 +55532,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T04:10:57Z",
+  "last_run": "2026-10-29T04:20:49Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 62/70",
+   "gnews_ru: 66/76",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
