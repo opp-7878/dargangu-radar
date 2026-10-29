@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "d4bd246ebcc7",
+   "title": "Российского рэпера заметили возле офиса Rockstar — перед анонсом саундтрека GTA 6",
+   "first_seen": "2026-10-29T15:10:53Z",
+   "updated": "2026-10-29T21:31:03Z",
+   "items": [
+    {
+     "id": "d4bd246ebcc7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "www.championat.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Российского рэпера заметили возле офиса Rockstar — перед анонсом саундтрека GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHI4eTVLWG4ta0UzekN2UGtjdU9YWFdlLU0tbmRNQWRBZ2dzdHpzSTFnTEFOOW84TTdkLVZfc1lfSzVJOTlZc0JLVTBYdmNsdnlxeU9NdkVuLTZIYkE2cW5RYkpudXBLQnVNYXFSdEwxU1hreW5BbGx4aV85WEdxNjFiQWV3anhfcGxveU1fWndNUEFEQjNRam1pQjhxN05xeFRHNnNGaTFNcFdjNDlEbmIzTXFUQ1ZTV1BKdDhUY3RnNXBqRmZkTnlhaWpocXM?oc=5",
+     "ts": "2026-10-29T14:56:18Z",
+     "summary": ""
+    },
+    {
+     "id": "a008aaaf7475",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "irbis.spb.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Российского рэпера заметили возле офиса Rockstar — перед анонсом саундтрека GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1RwTUxONjRHUkFaU2Q1RTdMM0MwNnQza0ZYMWR5Z1RJZ01iY015VDFqbjdPMVpZVGFMQ1A3YlJLcTRKb3l0THVEZjVXYW84UHRtMkVTSnd1NXVMdy1ILWZxSVJDcnVONlMzRTNVRVF1VWduX0M1SjkzY3k0cE5mMi0tejJEOTUyMWNFdjFDS2hKX3J6ckdVUHB4MW1SemxXVnJPSTZiOFhiZEg5QnBxWVVfWEpOaVhhQ1E?oc=5",
+     "ts": "2026-10-29T17:21:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 63,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Российского рэпера заметили у Rockstar — анонс саундтрека GTA 6?",
+    "summary": "По данным «Чемпионата», российского рэпера заметили возле офиса Rockstar. Фанаты считают, что это может быть тизер к анонсу саундтрека GTA 6.",
+    "idea": "Короткий разбор: кто именно замечен, где и когда, плюс кадры у офиса Rockstar. Зрителю интересно — это возможный намёк на первый трек GTA 6.",
+    "hook": "Рэпера из России засняли у офиса Rockstar — ждём саундтрек GTA 6?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-29T15:10:59Z"
+   },
+   "msg_id": 324
+  },
+  {
    "id": "2e356bd3cdc0",
    "title": "GTA VI Purchase Intent Hits 29%: Survey vs Sales [2026]",
    "first_seen": "2026-10-29T18:40:51Z",
@@ -4009,45 +4061,6 @@
     "at": "2026-10-29T15:31:16Z"
    },
    "msg_id": 325
-  },
-  {
-   "id": "d4bd246ebcc7",
-   "title": "Российского рэпера заметили возле офиса Rockstar — перед анонсом саундтрека GTA 6",
-   "first_seen": "2026-10-29T15:10:53Z",
-   "updated": "2026-10-29T15:10:53Z",
-   "items": [
-    {
-     "id": "d4bd246ebcc7",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "www.championat.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Российского рэпера заметили возле офиса Rockstar — перед анонсом саундтрека GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHI4eTVLWG4ta0UzekN2UGtjdU9YWFdlLU0tbmRNQWRBZ2dzdHpzSTFnTEFOOW84TTdkLVZfc1lfSzVJOTlZc0JLVTBYdmNsdnlxeU9NdkVuLTZIYkE2cW5RYkpudXBLQnVNYXFSdEwxU1hreW5BbGx4aV85WEdxNjFiQWV3anhfcGxveU1fWndNUEFEQjNRam1pQjhxN05xeFRHNnNGaTFNcFdjNDlEbmIzTXFUQ1ZTV1BKdDhUY3RnNXBqRmZkTnlhaWpocXM?oc=5",
-     "ts": "2026-10-29T14:56:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Российского рэпера заметили у Rockstar — анонс саундтрека GTA 6?",
-    "summary": "По данным «Чемпионата», российского рэпера заметили возле офиса Rockstar. Фанаты считают, что это может быть тизер к анонсу саундтрека GTA 6.",
-    "idea": "Короткий разбор: кто именно замечен, где и когда, плюс кадры у офиса Rockstar. Зрителю интересно — это возможный намёк на первый трек GTA 6.",
-    "hook": "Рэпера из России засняли у офиса Rockstar — ждём саундтрек GTA 6?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-29T15:10:59Z"
-   },
-   "msg_id": 324
   },
   {
    "id": "2a06999b2ab8",
@@ -60438,63 +60451,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7e9a91910ccd",
-   "title": "GTA 6 Map 2026: 125+ km² — How Much Bigger Than GTA 5",
-   "first_seen": "2026-10-22T21:31:02Z",
-   "updated": "2026-10-22T21:31:02Z",
-   "items": [
-    {
-     "id": "7e9a91910ccd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "VPEsports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Map 2026: 125+ km² — How Much Bigger Than GTA 5",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YZm83QUVoWTVsYmJSaG9XSEFZZmlETFY2Wm1GWWlVUWUyQWs0VnJPZlhKNzl1MVQ2NWExT3k4VkRvOVcySUFiMFN1TzdxaXJHNjV4cmhOcHdQWFp6QmRsVllXNA?oc=5",
-     "ts": "2026-10-22T14:55:12Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9bbbe72dfa16",
-   "title": "Spotted at La Defense, the business district of Paris",
-   "first_seen": "2026-10-22T21:21:05Z",
-   "updated": "2026-10-22T21:21:05Z",
-   "items": [
-    {
-     "id": "9bbbe72dfa16",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Spotted at La Defense, the business district of Paris",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xcv0fi/spotted_at_la_defense_the_business_district_of/",
-     "ts": "2026-10-22T21:13:26Z",
-     "summary": "submitted by /u/NoPiece2723 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T21:20:53Z",
+  "last_run": "2026-10-29T21:31:03Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
