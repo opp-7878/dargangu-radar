@@ -2,9 +2,9 @@
  "stories": [
   {
    "id": "227f4044f119",
-   "title": "New Grand Theft Auto 6 Gameplay Revealed During South Park",
+   "title": "20 Seconds of GTA 6 Dog Poop Gameplay Premieres in the Latest Episode of South Park",
    "first_seen": "2026-10-29T03:50:49Z",
-   "updated": "2026-10-29T09:40:54Z",
+   "updated": "2026-10-29T09:50:51Z",
    "items": [
     {
      "id": "227f4044f119",
@@ -252,6 +252,45 @@
      "url": "https://rockstarintel.com/new-gta-6-gameplay-released-in-an-episode-of-south-park/",
      "ts": "2026-10-29T09:37:46Z",
      "summary": "New GTA 6 gameplay was revealed in a new episode of South Park on Wednesday night. The show, which was renamed South America for its 29th season, has had recurring GTA 6 jokes throughout its latest run. It went a step further last night with some interesting official gameplay given out by Rockstar. We’ll be showing [...] The post New GTA 6 Gameplay Released In An Episode Of South Park appeared first on RockstarINTEL ."
+    },
+    {
+     "id": "fac983302ea6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RockstarINTEL",
+     "group": "media",
+     "weight": 55,
+     "alert": true,
+     "title": "New GTA 6 Gameplay Released In An Episode Of South Park",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZzhhZWpPNFYwOVdkWm9GVjQycktlUTBlMWNHczY0SzkyN2lBLUk0a1BKNF9YZjFoMlRjcHVxMi01Q0RoZ2RVdDgwcWlSS3MxV1lwYXl2MXQ2VE1QQzZOT3hSUGtxTW85eERQZnFKdmhuQTNYbHg1WE0xU0VGYlF1TS1SY3lUV05icUE?oc=5",
+     "ts": "2026-10-29T09:37:46Z",
+     "summary": ""
+    },
+    {
+     "id": "d2ca29841bcd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "20 Seconds of GTA 6 Dog Poop Gameplay Premieres in the Latest Episode of South Park",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWpjQ2p3MFM2WV83LXN2RFRtSF85QkQ2S29rWTdfZ2hVNE9UdXI1Y1I5ODUxeEVBR1BCU2FmQndJZUZkUWpEN3NnbndhOERDelNqNUZmOUdqbEtQZ0ZLaGpOcmRiVGRoeTFTdHFrR3NRS3R3dUtYZlFWTHVVLUJLYXZNV2VaQnhPdEFuUFdOQklpbEh6X3BvaFlHRHhYMUU?oc=5",
+     "ts": "2026-10-29T09:40:45Z",
+     "summary": ""
+    },
+    {
+     "id": "76638b380dea",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://www.championat.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В «Южном парке» показали новый геймплей GTA 6 с собачьим калом",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmxlYXNhck1Edl9xVmdyaW1vQlZkcUdlSjBPM3FUV1ZpakJWRnd4ZjNsYzNGWjQ2aFZpbnBTeDFMV0ZYdFdfa0dnSHJlVHJFWjQ2TnpwWXluSDNzU2tVNk9paUlfcDJvRkVfWVpYd2tKcFExN3FlMzBvenU3MFp0dldRVFJTT2VwSHZmQ0FpeS1mRkZEMVlBZ1FKemZFWEVMWlcxX3ZaWUNXZnFmS2Y0X1F5X3NKUTdG?oc=5",
+     "ts": "2026-10-29T09:47:07Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -259,7 +298,7 @@
     "геймплей"
    ],
    "score": 100,
-   "level": "PROBABLE",
+   "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
   },
@@ -56797,11 +56836,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T09:40:59Z",
+  "last_run": "2026-10-29T09:50:51Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
-   "gnews_ru: 85/90",
+   "gnews_ru: 89/98",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
