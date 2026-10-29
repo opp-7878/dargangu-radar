@@ -1,6 +1,73 @@
 {
  "stories": [
   {
+   "id": "22ea91ad8d0a",
+   "title": "Has GTA 6 Been Delayed Again? What to Know",
+   "first_seen": "2026-10-29T02:01:20Z",
+   "updated": "2026-10-29T05:10:51Z",
+   "items": [
+    {
+     "id": "22ea91ad8d0a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Men's Journal",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Has GTA 6 Been Delayed Again? What to Know",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZNkZES0dXTlZkcHlLdGRvazZycDhhMWNwR2R0SzA3RUZNb0xVbFVXV0owZ2FaRmpmWWhNZlotLVhRbUhETkFFNVluOEliWU53M2FjRzBPeFc5MGJZcjBzY2VTdUl4TS04X2g3ODA5VjhkS1Yyd0txM0JZa0ROYnM?oc=5",
+     "ts": "2026-10-29T01:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "81037aa00619",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Has GTA 6 Been Delayed Again? What to Know",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON2ZhcThMSC1TdDJBU245X0hMWGZyaGtxRHdzdWxpdkM1bmlYUmVFeDVpUWdhQVBTcXlPV2RpTHlGa2wyZ0lhME1OVXJMTXV6OXpVbnhXRnFfOTZoUDUtLWdZM2V4N1dHQVZrWFNiOVZQRzRXcEY0Q3NDdzVHTTduTWhYOHQ?oc=5",
+     "ts": "2026-10-29T01:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "1b4e43f29fa6",
+   "title": "Новы скриншоты GTA VI",
+   "first_seen": "2026-10-29T05:10:51Z",
+   "updated": "2026-10-29T05:10:51Z",
+   "items": [
+    {
+     "id": "1b4e43f29fa6",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Новы скриншоты GTA VI",
+     "url": "https://t.me/GTAVIStar/757",
+     "ts": "2026-10-29T05:07:41Z",
+     "summary": "⚡️ Новы скриншоты GTA VI • Также стало известно, что карта игры по площади почти такая же, как карты GTA IV, GTA V и Red Dead Redemption 2 вместе взятые. • И она доступна для полного исследования уже почти с самого начала игры. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "159e343e690e",
    "title": "delayed animations when npcs get hit feels so wrong",
    "first_seen": "2026-10-29T05:01:17Z",
@@ -1616,34 +1683,6 @@
     "at": "2026-10-29T01:20:57Z"
    },
    "msg_id": 282
-  },
-  {
-   "id": "22ea91ad8d0a",
-   "title": "Has GTA 6 Been Delayed Again? What to Know",
-   "first_seen": "2026-10-29T02:01:20Z",
-   "updated": "2026-10-29T02:01:20Z",
-   "items": [
-    {
-     "id": "22ea91ad8d0a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Men's Journal",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Has GTA 6 Been Delayed Again? What to Know",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZNkZES0dXTlZkcHlLdGRvazZycDhhMWNwR2R0SzA3RUZNb0xVbFVXV0owZ2FaRmpmWWhNZlotLVhRbUhETkFFNVluOEliWU53M2FjRzBPeFc5MGJZcjBzY2VTdUl4TS04X2g3ODA5VjhkS1Yyd0txM0JZa0ROYnM?oc=5",
-     "ts": "2026-10-29T01:50:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "дата/перенос"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   },
   {
    "id": "03c11f2caaf7",
@@ -55750,7 +55789,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T05:01:17Z",
+  "last_run": "2026-10-29T05:10:51Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
@@ -55764,7 +55803,7 @@
    "rockstarintel: 5/10",
    "gtaboom: 10/30",
    "reddit: 21/25",
-   "tg_gtavistar: 7/17",
+   "tg_gtavistar: 8/10",
    "tg_gta6deluxe: 5/10",
    "tg_gta6_m: 9/19",
    "tg_gta6newsdaily: 8/14"
