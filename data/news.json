@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "2e356bd3cdc0",
+   "title": "GTA VI Purchase Intent Hits 29%: Survey vs Sales [2026]",
+   "first_seen": "2026-10-29T18:40:51Z",
+   "updated": "2026-10-29T18:40:51Z",
+   "items": [
+    {
+     "id": "2e356bd3cdc0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "https://tech-insider.org/",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Purchase Intent Hits 29%: Survey vs Sales [2026]",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUlTdl9xckdJRlJ4OGwwWkFGMTFoWVZFYk1xeWJoZU1JTWhobGpZTmV2YnJ0dHFISFpqQjhYV1p5TXFvaFVPR3JnMGxXOXZtdWZCcjdleC1oUzhScGpRRFotUm9Lb0JZRXpJc0Iya19WZzM0V0xaUXlKWGtHb2xXZDRPLTkxRENjdGR3Ng?oc=5",
+     "ts": "2026-10-29T18:14:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "56484f8384ee",
+   "title": "The GTA 6 map size is going to be absolutely gargantuan",
+   "first_seen": "2026-10-29T18:40:51Z",
+   "updated": "2026-10-29T18:40:51Z",
+   "items": [
+    {
+     "id": "56484f8384ee",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Android Headlines",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The GTA 6 map size is going to be absolutely gargantuan",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ012YnpLSm1XREtyb0JqVVZVZXpTT1V1bHphRExSa3I4czVmbFZHOVhpSDc2Vk1ZWWN6WEpFenFqQnF5SlI3UFg4cC1lZmdFZER3bkctQmJUZ1lMSEM5SFlTN2RyWHE0ZXU1SXVjcVY2N1BaMFR0ZHRRaHBEZHFYb2xvRUd1cWtLQV8wNWNoTF96VnpJM1VLVVUxaGxHVjhJYmxR?oc=5",
+     "ts": "2026-10-29T18:33:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "2720986e2305",
    "title": "Which Platforms Is GTA 6 Coming Out On? PlayStation, XBOX, Nintendo & PC Status",
    "first_seen": "2026-10-28T18:50:54Z",
@@ -60066,37 +60118,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "949f5593ee1e",
-   "title": "Ещё не купили GTA 6? PlayStation объяснит, почему стоит сделать это как можно скорее",
-   "first_seen": "2026-10-22T18:40:49Z",
-   "updated": "2026-10-22T18:40:49Z",
-   "items": [
-    {
-     "id": "949f5593ee1e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Ещё не купили GTA 6? PlayStation объяснит, почему стоит сделать это как можно скорее",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdG9UVXNYQVJBSjNRd29feUp1ek1QY2QyQjIzQ0VFemJ6dEt2NS02eVJiQktfSjhMbmNScUNmUzd4a1M5RHlQT0NCcE1Zc0JJc3BmVVBGQzIwd19DQjNrd0g0c2ZjZW9CXzNjY2o5a082TGg3MUZyZUpmSk43Vi1mUVROQ1k4bmluQ3UtdVZ0cUlxdHNZMmJiNHc0bGZtdno0ODQ2VWFVbks4d3c1dW4yMWhpSFhmUk5UQUVwMjZWcWplUHJjQkFYVFg0VQ?oc=5",
-     "ts": "2026-10-22T18:26:09Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T18:31:09Z",
+  "last_run": "2026-10-29T18:40:51Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
@@ -60109,7 +60135,7 @@
    "dexerto_gta: 6/50",
    "rockstarintel: 6/10",
    "gtaboom: 8/30",
-   "reddit: 22/25",
+   "reddit: 21/25",
    "tg_gtavistar: 4/10",
    "tg_gta6deluxe: 5/11",
    "tg_gta6_m: 11/19",
