@@ -1,6 +1,371 @@
 {
  "stories": [
   {
+   "id": "4b74b73981a3",
+   "title": "GTA 6 Features a Fully Functional Public Transport System",
+   "first_seen": "2026-10-29T11:01:26Z",
+   "updated": "2026-10-29T11:10:56Z",
+   "items": [
+    {
+     "id": "4b74b73981a3",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Features a Fully Functional Public Transport System",
+     "url": "https://insider-gaming.com/gta-6-features-a-fully-functional-public-transport-system/",
+     "ts": "2026-10-29T10:52:41Z",
+     "summary": "Rockstar Games has added a fully functional public transport system to the world of Grand Theft Auto 6, adding another layer of realism. The post GTA 6 Features a Fully Functional Public Transport System appeared first on Insider Gaming ."
+    },
+    {
+     "id": "f76c476b7035",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Features a Fully Functional Public Transport System",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnBiWDZBYm93RW1uRnZtRGotSzNCM0RZWGo5eU1FM3ZxZzlUb1FXVHVsbkwwaWxVckVsWHJoVTB3UEc2UzJoTGM5Vi1LSEF6Sy1qUXdpX2xYQldVUVVkd19kY0UzTkhtNzk5VkZ5akVCRXFMNjlRYkpHUXpEWElRZjIzaFlHYklUSlVjU0xB?oc=5",
+     "ts": "2026-10-29T10:52:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🚌 В GTA 6 будет рабочий общественный транспорт",
+    "summary": "По информации Insider Gaming (Tom Henderson), в GTA 6 появится полностью рабочий общественный транспорт, добавляющий реализма. Официально Rockstar это не подтверждала.",
+    "idea": "Короткая нарезка: Лусия и Джейсон садятся в автобус/поезд, карта маршрутов, сравнение с GTA 5. Зрителю интересно, как это изменит перемещение по Вайс-Сити.",
+    "hook": "В GTA 6 можно будет просто сесть в автобус. Смотри, как это работает.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-29T11:01:30Z"
+   },
+   "msg_id": 300
+  },
+  {
+   "id": "3cee92b097ee",
+   "title": "12 New GTA 6 Gameplay Screenshots Released",
+   "first_seen": "2026-10-29T00:20:53Z",
+   "updated": "2026-10-29T11:10:56Z",
+   "items": [
+    {
+     "id": "3cee92b097ee",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "12 New GTA 6 Screenshots Released",
+     "url": "https://rockstarintel.com/12-new-gta-6-screenshots-released-2/",
+     "ts": "2026-10-29T00:16:14Z",
+     "summary": "A dozen new GTA 6 screenshots have been released by Rockstar Games. These are different from all of the others we have gotten in the past month or so. As we get ever closer to launch, the company continue to show more off about the game with different outlets. These new images show us characters [...] The post 12 New GTA 6 Screenshots Released appeared first on RockstarINTEL ."
+    },
+    {
+     "id": "60fdc6fd6781",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "12 New GTA 6 Gameplay Screenshots Released",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vWk1OX2wyNkxfRTlzb0ZuaFFFdmJvOVlhcjJxYkc0VHY0SGVBaks1WjV6QS1EanhXcFdiUmpxeFowN3FxajJBWjl5MHI0X0xQUnJodlp3ZXVpY3h6YVdyQjUtaVdmZm1KR1Zvdk95cWEwQS1BYVE3eVpB?oc=5",
+     "ts": "2026-10-29T02:10:51Z",
+     "summary": ""
+    },
+    {
+     "id": "2a08b1ae7b32",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "12 New GTA 6 Gameplay Screenshots Released",
+     "url": "https://insider-gaming.com/12-new-gta-6-gameplay-screenshots-released/",
+     "ts": "2026-10-29T02:10:51Z",
+     "summary": "Grand Theft Auto 6 launches on November 19, and 14 new screenshots have been released giving another look at the detail in the game. The post 12 New GTA 6 Gameplay Screenshots Released appeared first on Insider Gaming ."
+    },
+    {
+     "id": "314ee2f2447f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RockstarINTEL",
+     "group": "media",
+     "weight": 55,
+     "alert": true,
+     "title": "12 New GTA 6 Screenshots Released",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10QTN6TW5mSU9NOUJfTzNQMXhBZHprVWdHNG1WeVM2SDZDdjZ2WUpRMEdIR1EzRG5hdGFvQU5nT1REVUstaF9melJONmo0QmZ6UzQxbjV4QmtfSEhNVlQtYUxLMHRkNnFrMHpXbHlVcw?oc=5",
+     "ts": "2026-10-29T00:16:14Z",
+     "summary": ""
+    },
+    {
+     "id": "528d32331f32",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "virus.hr",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "12 new screenshots from GTA 6 - Rockstar Games",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MMW1qd2sxY0dEZXQtUUMxeVN6RENQOWFHU09DQVg1RjkyYjJPODZTQ1kzdFN4VG1MRHhQNl9BOWhVcjZkTUR1WEpCYk9uMjY5b054YmN5c292QjlQTnFYMFVNamllNGhSWmFSTEpIb1F6NW1kbl9PWGIyWElWQQ?oc=5",
+     "ts": "2026-10-29T07:10:00Z",
+     "summary": ""
+    },
+    {
+     "id": "a7d809765ba9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Push Square",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMm9xV0NOVlIwODBybTFmejlkMzMxdHVRZ3UzVm5ROS1TTHhvRFdkNE5wZ2xSM2p4R01UdW1XakgxbUxiVnVpZU9BS09iSDdDZEpDTTlaWnNjT0M3djVjQmtWMEphTUV4MnVKaEhLcktZMHlJNm9FUUFyeHM5ZXBfYmdTME9zeXJBUlVtUkRPMzJ0YlEwYy1NOTI1MHhSSkNqNEVnUWdURW5vLUk?oc=5",
+     "ts": "2026-10-29T09:27:49Z",
+     "summary": ""
+    },
+    {
+     "id": "9f8d959beca6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Game News Plus",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "12 New GTA 6 Gameplay Screenshots Released",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVbWxCMEJ2YzlxN2FuUEo4cXhxeUNIc1c4Sm5QOHNIbE5PUFlnd0NWMWVVQ25FUnJGbTJvNy0tdnhHR2M0YzlZQTh6d3ZMYTJOWkpjYWtTNVFhZTM3dVFxRWw3ck5sVzB2RGMzdEloQ2tQLXo2NG95cjlwTVU?oc=5",
+     "ts": "2026-10-29T09:25:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "геймплей"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 12 новых скриншотов GTA 6 от Rockstar — больше деталей",
+    "summary": "Rockstar Games опубликовала 12 новых скриншотов GTA 6, которые отличаются от недавних кадров. По данным RockstarINTEL, компания всё активнее показывает игру разным изданиям ближе к релизу.",
+    "idea": "Карусель из 12 скриншотов за 30 секунд с крупными планами героев и Вайс-Сити — зритель сразу видит новые детали и ловит вайб перед релизом.",
+    "hook": "12 новых скриншотов GTA 6 — смотрим, что Rockstar показала на этот раз.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-29T00:20:59Z"
+   },
+   "msg_id": 279
+  },
+  {
+   "id": "fad53f2b7839",
+   "title": "Rockstar Games Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
+   "first_seen": "2026-10-29T11:10:56Z",
+   "updated": "2026-10-29T11:10:56Z",
+   "items": [
+    {
+     "id": "fad53f2b7839",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkNsSU5NVzlTanF2a1k5a1JLTlBJWk45blNuX0psSHF2WDNMNnZKVVNJVGpGdU1nd05Ka0dTN1lBUkxQbi1qNUh6TkQ3aVgwNGtKTEhhcTR6c0pQUEZZcXRpSGhULUNXRUVrbGtMZjJKcTZIVk9VNmJKSWNrWGgzbzdGY19GZ081aHRrM3Nid085a2JPZ0pLcElJWGttTGgxcC1Ec05IbnIwR2E4UFVPY29hWEpLVEhwZUJZaHVHRFQ4WEJNbGc?oc=5",
+     "ts": "2026-10-29T06:49:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b60375634178",
+   "title": "Арсенал GTA 6: как Люсия и Джейсон будут выбирать оружие для заданий",
+   "first_seen": "2026-10-29T11:10:56Z",
+   "updated": "2026-10-29T11:10:56Z",
+   "items": [
+    {
+     "id": "b60375634178",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Арсенал GTA 6: как Люсия и Джейсон будут выбирать оружие для заданий",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWRlNzIwdXR0aHd2N00yQklLQzJpVDA2MUpNdV9GNWZsVXU5TE83YXA4RXp6SG9aVGJCTzNFYmFRWGlQWnBiU19nX1FfelQ2eFdyTk9sVTBNaGJDS0hNMHFsMkJIb3dPcFdGSmgwNkYzN1NXSjlKRmJxVk5qaVduSHY1ZGxIdzZLdDBnMXQzTXJCWDJXNnJmcmxWSlNNRHc?oc=5",
+     "ts": "2026-10-29T09:14:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "58fad9620a4b",
+   "title": "GTA 6: 12 новых скриншотов показывают интересные детали за пределами Vice City",
+   "first_seen": "2026-10-29T11:10:56Z",
+   "updated": "2026-10-29T11:10:56Z",
+   "items": [
+    {
+     "id": "58fad9620a4b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: 12 новых скриншотов показывают интересные детали за пределами Vice City",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkJtYXdGTnFvV09IWWVFeU5hVEpOZTZEbzd1SlY1bE9jcVB2VUM2cnhLVnd0bVZEdTNnZmJoVjZzY29fLVhIbkdkNnJUZjVUbGFlQ1hQTEc0aUh0aUlpcUVVbGw3TlZWYUMxaVhhWUp0dUZoRERtMXQ5QUhnci1mQWFibEhrOUx0cl9Ka3g2RmFRM2VLSlF1R2QyeTBSUm5sdndoMkZVTUVhYU8wZWxBalZxMFpXZ081UUI0S2tTZy1YOVZ6LWNr?oc=5",
+     "ts": "2026-10-29T10:28:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d04fdcd54e3d",
+   "title": "GTA V and San Andreas stars gave advice to actors playing Lucia and Jason ahead of GTA VI release",
+   "first_seen": "2026-10-29T11:10:56Z",
+   "updated": "2026-10-29T11:10:56Z",
+   "items": [
+    {
+     "id": "d04fdcd54e3d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iXBT.games",
+     "group": "media",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA V and San Andreas stars gave advice to actors playing Lucia and Jason ahead of GTA VI release",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVzRNODVweTB6dHdHeXkzamFCWE9LdUNLWXRiS2dXalBKZ2JVMl9mZkdOaHdJYkk4bVFSeXd0Wlc0YnpGbko0Z0hhV2hZSzlSeTM5bWJUMmYwRkk0Y0Z3SFh2ZUo3dXdwZUgwV093eHlyTllxMW9Yck1ROW9VWmlKcWx3cndFX1RLa2NyNnNjZ3BiZGlQVV92VmV5OEd1OTVjYXFaZFBkcmlTQ2ZTSURTdnJ4QWpLTVR3bjE3TjlfSzV3d3hYVGlqV1dQRkFKbTV1a2k5MtIB2gFBVV95cUxNUEpseTVLY3dFSER6UDl4QTBtSnRBV3BhRmNLUXdfcjljTFF6TjdwX3drTXRJdmlPblBDUGNzV0FWVVdFcldTUnJKa3N6UU5SOEhxeC1EOVdFczMzTkRrU19hVjNGWXA5RkxxTEk2WTMybmhPaG9MTm5uak1valN6MVFac2p4eVNTaV9ER1FfRTNCYU1oQ1JyRmltSEhEY1Ffd05za3FTRy1lbDRLWDhIeDNvcXJJUGlYX0tYQlNZUVNEcldxWHl5LXdlT296S0FhZUhfYk53dWdWdw?oc=5",
+     "ts": "2026-10-29T10:49:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c539053cd49a",
+   "title": "Журналисты разразились скриншотам и подробностями GTA VI, а «Южный Парк» показал новый геймплей",
+   "first_seen": "2026-10-29T11:10:56Z",
+   "updated": "2026-10-29T11:10:56Z",
+   "items": [
+    {
+     "id": "c539053cd49a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "3DNews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Журналисты разразились скриншотам и подробностями GTA VI, а «Южный Парк» показал новый геймплей",
+     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9TMEduZ2daQ1RzOENwWWZYVERwd05pYnZyU0tZR1FHTFpwaFVQWjFnTkJjaU1Qd0tpbWVlMDFB?oc=5",
+     "ts": "2026-10-29T10:57:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Южный Парк показал геймплей GTA 6? Скриншоты и детали",
+    "summary": "Журналисты 3DNews опубликовали новые скриншоты и подробности GTA 6, а в Южном Парке показали свежий геймплей. Официально Rockstar это не подтверждала — пока это слухи и фанатские находки.",
+    "idea": "Сравним кадры из Южного Парка с утёкшими скриншотами: ищем совпадения локаций и анимаций. Зрителю интересно, где тут правда, а где шутка.",
+    "hook": "Южный Парк внезапно показал геймплей GTA 6 — смотрим, что реально.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-29T11:11:03Z"
+   },
+   "msg_id": 301
+  },
+  {
+   "id": "8cd7609150df",
+   "title": "New Grand Theft Auto VI Details Include Unique Personality Traits For NPCs, Full Bus & Train Systems, Expanded Day & Night Cycle",
+   "first_seen": "2026-10-29T11:10:56Z",
+   "updated": "2026-10-29T11:10:56Z",
+   "items": [
+    {
+     "id": "8cd7609150df",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PlayStation Universe",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "New Grand Theft Auto VI Details Include Unique Personality Traits For NPCs, Full Bus & Train Systems, Expanded Day & Night Cycle",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVVlYRkNsQXBFV0xtRWtoX0RXUGo5ZjVSblpONWVYZHc4SGlvNWZrYVVmei1qRWRRMDBiWmtQcHE3U2trUWJmY2RaM0tmblNmTGNvMlFpMVh4NTlNU2QyaThNVDdFVFNTRTBGdklBVUltNHVjUFZXRnhJTkg5TURJYzF1Z240RVJUNGxYREhBSmpTSlhVVHZoNDVnVkJrc00weUpLVVNOVXl3SGNaaC1pQ2hCeFplS2MzUUFnZnJlTXhuTFBZcXBxR2xhT3hsZlhWaW1WZVpXVkl5NHl5eEhBc2FB?oc=5",
+     "ts": "2026-10-29T10:59:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6f5dd8f498e2",
+   "title": "GTA 6 Won’t Let You Speedrun the Main Story",
+   "first_seen": "2026-10-29T11:10:56Z",
+   "updated": "2026-10-29T11:10:56Z",
+   "items": [
+    {
+     "id": "6f5dd8f498e2",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Won’t Let You Speedrun the Main Story",
+     "url": "https://insider-gaming.com/gta-6-wont-let-you-speedrun-the-main-story/",
+     "ts": "2026-10-29T11:05:19Z",
+     "summary": "Grand Theft Auto 6 features natural gating in story progression requiring you to wait or raise funds, affecting speedruns. The post GTA 6 Won’t Let You Speedrun the Main Story appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
    "id": "227f4044f119",
    "title": "20 Seconds of GTA 6 Dog Poop Gameplay Premieres in the Latest Episode of South Park",
    "first_seen": "2026-10-29T03:50:49Z",
@@ -457,43 +822,6 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "4b74b73981a3",
-   "title": "GTA 6 Features a Fully Functional Public Transport System",
-   "first_seen": "2026-10-29T11:01:26Z",
-   "updated": "2026-10-29T11:01:26Z",
-   "items": [
-    {
-     "id": "4b74b73981a3",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 Features a Fully Functional Public Transport System",
-     "url": "https://insider-gaming.com/gta-6-features-a-fully-functional-public-transport-system/",
-     "ts": "2026-10-29T10:52:41Z",
-     "summary": "Rockstar Games has added a fully functional public transport system to the world of Grand Theft Auto 6, adding another layer of realism. The post GTA 6 Features a Fully Functional Public Transport System appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🚌 В GTA 6 будет рабочий общественный транспорт",
-    "summary": "По информации Insider Gaming (Tom Henderson), в GTA 6 появится полностью рабочий общественный транспорт, добавляющий реализма. Официально Rockstar это не подтверждала.",
-    "idea": "Короткая нарезка: Лусия и Джейсон садятся в автобус/поезд, карта маршрутов, сравнение с GTA 5. Зрителю интересно, как это изменит перемещение по Вайс-Сити.",
-    "hook": "В GTA 6 можно будет просто сесть в автобус. Смотри, как это работает.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-29T11:01:30Z"
-   },
-   "msg_id": 300
   },
   {
    "id": "ec35cc7cdc70",
@@ -1464,111 +1792,6 @@
     "at": "2026-10-29T09:40:58Z"
    },
    "msg_id": 298
-  },
-  {
-   "id": "3cee92b097ee",
-   "title": "12 New GTA 6 Gameplay Screenshots Released",
-   "first_seen": "2026-10-29T00:20:53Z",
-   "updated": "2026-10-29T09:31:07Z",
-   "items": [
-    {
-     "id": "3cee92b097ee",
-     "src": "rockstarintel",
-     "src_name": "Rockstar INTEL",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 55,
-     "alert": true,
-     "title": "12 New GTA 6 Screenshots Released",
-     "url": "https://rockstarintel.com/12-new-gta-6-screenshots-released-2/",
-     "ts": "2026-10-29T00:16:14Z",
-     "summary": "A dozen new GTA 6 screenshots have been released by Rockstar Games. These are different from all of the others we have gotten in the past month or so. As we get ever closer to launch, the company continue to show more off about the game with different outlets. These new images show us characters [...] The post 12 New GTA 6 Screenshots Released appeared first on RockstarINTEL ."
-    },
-    {
-     "id": "60fdc6fd6781",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "12 New GTA 6 Gameplay Screenshots Released",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vWk1OX2wyNkxfRTlzb0ZuaFFFdmJvOVlhcjJxYkc0VHY0SGVBaks1WjV6QS1EanhXcFdiUmpxeFowN3FxajJBWjl5MHI0X0xQUnJodlp3ZXVpY3h6YVdyQjUtaVdmZm1KR1Zvdk95cWEwQS1BYVE3eVpB?oc=5",
-     "ts": "2026-10-29T02:10:51Z",
-     "summary": ""
-    },
-    {
-     "id": "2a08b1ae7b32",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "12 New GTA 6 Gameplay Screenshots Released",
-     "url": "https://insider-gaming.com/12-new-gta-6-gameplay-screenshots-released/",
-     "ts": "2026-10-29T02:10:51Z",
-     "summary": "Grand Theft Auto 6 launches on November 19, and 14 new screenshots have been released giving another look at the detail in the game. The post 12 New GTA 6 Gameplay Screenshots Released appeared first on Insider Gaming ."
-    },
-    {
-     "id": "314ee2f2447f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "RockstarINTEL",
-     "group": "media",
-     "weight": 55,
-     "alert": true,
-     "title": "12 New GTA 6 Screenshots Released",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10QTN6TW5mSU9NOUJfTzNQMXhBZHprVWdHNG1WeVM2SDZDdjZ2WUpRMEdIR1EzRG5hdGFvQU5nT1REVUstaF9melJONmo0QmZ6UzQxbjV4QmtfSEhNVlQtYUxLMHRkNnFrMHpXbHlVcw?oc=5",
-     "ts": "2026-10-29T00:16:14Z",
-     "summary": ""
-    },
-    {
-     "id": "528d32331f32",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "virus.hr",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "12 new screenshots from GTA 6 - Rockstar Games",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MMW1qd2sxY0dEZXQtUUMxeVN6RENQOWFHU09DQVg1RjkyYjJPODZTQ1kzdFN4VG1MRHhQNl9BOWhVcjZkTUR1WEpCYk9uMjY5b054YmN5c292QjlQTnFYMFVNamllNGhSWmFSTEpIb1F6NW1kbl9PWGIyWElWQQ?oc=5",
-     "ts": "2026-10-29T07:10:00Z",
-     "summary": ""
-    },
-    {
-     "id": "a7d809765ba9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Push Square",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMm9xV0NOVlIwODBybTFmejlkMzMxdHVRZ3UzVm5ROS1TTHhvRFdkNE5wZ2xSM2p4R01UdW1XakgxbUxiVnVpZU9BS09iSDdDZEpDTTlaWnNjT0M3djVjQmtWMEphTUV4MnVKaEhLcktZMHlJNm9FUUFyeHM5ZXBfYmdTME9zeXJBUlVtUkRPMzJ0YlEwYy1NOTI1MHhSSkNqNEVnUWdURW5vLUk?oc=5",
-     "ts": "2026-10-29T09:27:49Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс",
-    "геймплей"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 12 новых скриншотов GTA 6 от Rockstar — больше деталей",
-    "summary": "Rockstar Games опубликовала 12 новых скриншотов GTA 6, которые отличаются от недавних кадров. По данным RockstarINTEL, компания всё активнее показывает игру разным изданиям ближе к релизу.",
-    "idea": "Карусель из 12 скриншотов за 30 секунд с крупными планами героев и Вайс-Сити — зритель сразу видит новые детали и ловит вайб перед релизом.",
-    "hook": "12 новых скриншотов GTA 6 — смотрим, что Rockstar показала на этот раз.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-29T00:20:59Z"
-   },
-   "msg_id": 279
   },
   {
    "id": "a51aa6d28591",
@@ -57036,96 +57259,18 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "145f63fae6b3",
-   "title": "Перед выходом GTA 6 ситуация со взломом PlayStation 5 становится сложнее: Sony выпустила новую прошивку для...",
-   "first_seen": "2026-10-22T10:40:45Z",
-   "updated": "2026-10-22T11:10:51Z",
-   "items": [
-    {
-     "id": "145f63fae6b3",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Перед выходом GTA 6 ситуация со взломом PlayStation 5 становится сложнее: Sony выпустила новую прошивку для...",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaklvakNGeERVWEVxcWJSVjJ3bFF0MUFGSXNFOWZjZWk1azNINFVhQjRlaE80TTJkbVNaVEdiN0x2OWF6MFp0Z1F2b3NSc0luVmltNlJ0SUNKeWdzUGxlLUIzcDQ0TlR0WGpPX2RhbF9BUkhRZTczc2ZjeVQ2eUgtdGktdEh2UXB2Mm5tSTdxR1Y4NUpUN1o5T2xBR1ozZEFmcFRXeS1ITWtiMkFTTDktWC14R21IX3NVRmR4MjdVSnBQY2JmMm9RdmdBbHlDOFFueXpmM014Zkg0V2k2RWpUaDFyblNBRnNOMDRF0gHwAUFVX3lxTE50dDdaZXZLSXFrcXV0ZHNSZ01Da1Y1cWFGd3dmQ2xzd25XTnRmaXRYdENSTGFGcWNacXQxa05lZnpmNjJoM0NNV09JUWNCZk9YREtveUdpYUw2UGFma0VRNFZRMUxxY2FWcmdTMG4xNjhicFJaWmJ2M0xDeTZKT1kxZnkxYWdROF9BYk5UZS1tdnZoc0ZHVHl2WWdnT2Fyc0NSUE52blhuYW5tb1BOZnNnQlBXaDFDcnNhZ3pmeXRYZXF2RnVVdEtESjQyNFZwRFl6WG1CR01mZjVDUjlhMk9Jaklrc0ZrVl9KSmoxdlVvag?oc=5",
-     "ts": "2026-10-22T10:30:09Z",
-     "summary": ""
-    },
-    {
-     "id": "5b54ae58eedb",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Перед выходом GTA 6 ситуация со взломом PlayStation 5 становится сложнее: Sony выпустила новую прошивку для...",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdHQ3WmV2S0lxa3F1dGRzUmdNQ2tWNXFhRnd3ZkNsc3duV050Zml0WHRDUkxhRnFjWnF0MWtOZWZ6ZjYyaDNDTVdPSVFjQmZPWERLb3lHaWFMNlBhZmtFUTRWUTFMcWNhVnJnUzBuMTY4YnBSWlpidjNMQ3k2Sk9ZMWZ5MWFnUThfQWJOVGUtbXZ2aHNGR1R5dllnZ09hcnNDUlBOdm5YbmFubW9QTmZzZ0JQV2gxQ3JzYWd6Znl0WGVxdkZ1VXRLREo0MjRWcERZelhtQkdNZmY1Q1I5YTJPSWpJa3NGa1ZfSkpqMXZVb2rSAfABQVVfeXFMTnR0N1pldktJcWtxdXRkc1JnTUNrVjVxYUZ3d2ZDbHN3bldOdGZpdFh0Q1JMYUZxY1pxdDFrTmVmemY2MmgzQ01XT0lRY0JmT1hES295R2lhTDZQYWZrRVE0VlExTHFjYVZyZ1MwbjE2OGJwUlpaYnYzTEN5NkpPWTFmeTFhZ1E4X0FiTlRlLW12dmhzRkdUeXZZZ2dPYXJzQ1JQTnZuWG5hbm1vUE5mc2dCUFdoMUNyc2FnemZ5dFhlcXZGdVV0S0RKNDI0VnBEWXpYbUJHTWZmNUNSOWEyT0lqSWtzRmtWX0pKajF2VW9q?oc=5",
-     "ts": "2026-10-22T10:30:09Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e20ba4a97bab",
-   "title": "Mass Effect TV series ‘still in production’ despite BioWare closure, as game director writes: ‘At least I can play GTA 6’",
-   "first_seen": "2026-10-22T11:10:51Z",
-   "updated": "2026-10-22T11:10:51Z",
-   "items": [
-    {
-     "id": "e20ba4a97bab",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Video Games Chronicle",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Mass Effect TV series ‘still in production’ despite BioWare closure, as game director writes: ‘At least I can play GTA 6’",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRXJPazFVZE9QRjZSNjFCUzZsTVd6NGZQZldLWmZyaF9nOHctbnIyeF9iY2tFLXlzd1NXblAtR05ob0lsS1lwZmEwTmJ5dy1rdlZrTDJ4YmlsTnlXRlBXa0ltSDE4OVp3SWdyb0l5b2M0eHBtOGR3emw1UGZucXViRVBOQnRUZ2pWOUx5ay1DcU9fdGg0VE5jSDhONDItb2x3REZVUEhwWG1mS2JpR3NydndVMUNNRmZQTVl2NUJ6UzJ1aDhwVWZsVWZsZ2d6eVNXMGNHVzU4ZXcxQ21YVkM2a2Ita3h0eGY4VkZHaUZR?oc=5",
-     "ts": "2026-10-22T11:06:04Z",
-     "summary": ""
-    },
-    {
-     "id": "c6f931d653df",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Mass Effect TV series ‘still in production’ despite BioWare closure, as game director writes: ‘At least I can play GTA 6’",
-     "url": "https://www.videogameschronicle.com/news/mass-effect-tv-series-still-in-production-despite-bioware-closure-as-game-director-writes-at-least-i-can-play-gta-6/",
-     "ts": "2026-10-22T11:06:04Z",
-     "summary": "Amazon's Mass Effect series is reportedly unaffected by this week's game cancellation"
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T11:01:30Z",
+  "last_run": "2026-10-29T11:11:04Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 90/100",
+   "gnews_ru: 91/100",
    "gamesbeat: 0/10",
    "vgc: 1/10",
-   "insider_gaming: 4/10",
+   "insider_gaming: 5/10",
    "ign: 4/20",
    "eurogamer: 3/100",
    "dexerto_gta: 5/50",
