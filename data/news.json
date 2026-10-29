@@ -1,6 +1,97 @@
 {
  "stories": [
   {
+   "id": "040b94899f57",
+   "title": "Grand Theft Auto VI exclusive – The state that never sleeps",
+   "first_seen": "2026-10-29T00:23:07Z",
+   "updated": "2026-10-29T02:01:20Z",
+   "items": [
+    {
+     "id": "040b94899f57",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI exclusive – The state that never sleeps",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZkxrQXY3Vmh6cF9SbEgzWHQyUk55bzlwelFjOGhINmlmdHhqblBnQ3VOT1BxdkQ5Qnc2VEM4X1l2NndOOVFUZkhDZkY0c3V3bjNCZXJn?oc=5",
+     "ts": "2026-10-29T00:16:26Z",
+     "summary": ""
+    },
+    {
+     "id": "363234e69ebe",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Grand Theft Auto VI exclusive – The state that never sleeps",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xi6fb6/grand_theft_auto_vi_exclusive_the_state_that/",
+     "ts": "2026-10-29T01:12:07Z",
+     "summary": "submitted by /u/PatOverTheBack to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "22193888bec7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI exclusive – The state that never sleeps",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NTjVpeHZ6ZjVOZ1Y3WjBIOWhrc0FTY0toVGdMYjBhY2ZpOEN1enZwb3NtZENsMC1JMFowY1NBZk9sVkJPX1RrMXc3VDliLThsd1gwZDlHVQ?oc=5",
+     "ts": "2026-10-29T00:16:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "👀 GTA 6: «Штат, который никогда не спит» — что это?",
+    "summary": "GamesRadar+ опубликовал материал с фразой «The state that never sleeps», а на Reddit обсуждают, что это намёк на Вайс-Сити или новый город в GTA 6. Официально Rockstar это не подтверждала — пока только слухи и догадки.",
+    "idea": "Коротко разбираем фразу «The state that never sleeps» и показываем карту с отметками — где это может быть в GTA 6. Зрителю интересно, потому что это свежий намёк на локацию, и можно быстро проголосовать за свой вариант.",
+    "hook": "Фраза «Штат, который никогда не спит» — Вайс-Сити или новый город в GTA 6?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-29T01:20:57Z"
+   },
+   "msg_id": 282
+  },
+  {
+   "id": "22ea91ad8d0a",
+   "title": "Has GTA 6 Been Delayed Again? What to Know",
+   "first_seen": "2026-10-29T02:01:20Z",
+   "updated": "2026-10-29T02:01:20Z",
+   "items": [
+    {
+     "id": "22ea91ad8d0a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Men's Journal",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Has GTA 6 Been Delayed Again? What to Know",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZNkZES0dXTlZkcHlLdGRvazZycDhhMWNwR2R0SzA3RUZNb0xVbFVXV0owZ2FaRmpmWWhNZlotLVhRbUhETkFFNVluOEliWU53M2FjRzBPeFc5MGJZcjBzY2VTdUl4TS04X2g3ODA5VjhkS1Yyd0txM0JZa0ROYnM?oc=5",
+     "ts": "2026-10-29T01:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "8ed7cc7a94ba",
    "title": "GTA 6 Map Size Officially Revealed---How Big Is It?",
    "first_seen": "2026-10-28T17:50:54Z",
@@ -333,56 +424,6 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "040b94899f57",
-   "title": "Grand Theft Auto VI exclusive – The state that never sleeps",
-   "first_seen": "2026-10-29T00:23:07Z",
-   "updated": "2026-10-29T01:20:54Z",
-   "items": [
-    {
-     "id": "040b94899f57",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesRadar+",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI exclusive – The state that never sleeps",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZkxrQXY3Vmh6cF9SbEgzWHQyUk55bzlwelFjOGhINmlmdHhqblBnQ3VOT1BxdkQ5Qnc2VEM4X1l2NndOOVFUZkhDZkY0c3V3bjNCZXJn?oc=5",
-     "ts": "2026-10-29T00:16:26Z",
-     "summary": ""
-    },
-    {
-     "id": "363234e69ebe",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Grand Theft Auto VI exclusive – The state that never sleeps",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xi6fb6/grand_theft_auto_vi_exclusive_the_state_that/",
-     "ts": "2026-10-29T01:12:07Z",
-     "summary": "submitted by /u/PatOverTheBack to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "👀 GTA 6: «Штат, который никогда не спит» — что это?",
-    "summary": "GamesRadar+ опубликовал материал с фразой «The state that never sleeps», а на Reddit обсуждают, что это намёк на Вайс-Сити или новый город в GTA 6. Официально Rockstar это не подтверждала — пока только слухи и догадки.",
-    "idea": "Коротко разбираем фразу «The state that never sleeps» и показываем карту с отметками — где это может быть в GTA 6. Зрителю интересно, потому что это свежий намёк на локацию, и можно быстро проголосовать за свой вариант.",
-    "hook": "Фраза «Штат, который никогда не спит» — Вайс-Сити или новый город в GTA 6?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-29T01:20:57Z"
-   },
-   "msg_id": 282
   },
   {
    "id": "b6a5ce606b85",
@@ -54820,40 +54861,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "0079fc9a4003",
-   "title": "GTA 6 на Switch 2: студия, портировавшая Red Dead Redemption, работает над «громким проектом",
-   "first_seen": "2026-10-22T02:01:08Z",
-   "updated": "2026-10-22T02:01:08Z",
-   "items": [
-    {
-     "id": "0079fc9a4003",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Notebookcheck-ru.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 на Switch 2: студия, портировавшая Red Dead Redemption, работает над «громким проектом",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeE8ycUd0bnZxNTFORjlOMGN1Ri0xb29QRkVYQVBISWZiZXJFOXZIRFNYeElKUFc2b19aNGFTaXh0SGZ1MHJTTU0xWk8wRUZ5ZTBMc2xHSWRVVWMzaFZKb1BOYWJETEQxMmpWQXhRcGc1QWFkWE9YSEVRNFQwN1VjX2RJYXo1Ym1uVDdpYW9TalZxYTNCMGlaaVM5SVEwTndQZkZxQXhQVjkyZ3N4TTRzNWpNa1ZqZUJ2cEVnUExLYVY2Z1FhYm1PWjFYZHBILWc4cV84WnNB?oc=5",
-     "ts": "2026-10-22T01:33:52Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T01:50:51Z",
+  "last_run": "2026-10-29T02:01:20Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 96/100",
+   "gnews_en: 95/100",
    "gnews_ru: 60/68",
    "gamesbeat: 0/10",
    "vgc: 0/10",
