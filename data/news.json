@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "461a7c75786e",
+   "title": "🍿 Первый трейлер GTA VI преодолел отметку в 300 млн просмотров 🥺 Канал про GTA 6 | Наш чат",
+   "first_seen": "2026-10-29T18:21:14Z",
+   "updated": "2026-10-29T18:21:14Z",
+   "items": [
+    {
+     "id": "461a7c75786e",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🍿 Первый трейлер GTA VI преодолел отметку в 300 млн просмотров 🥺 Канал про GTA 6 | Наш чат",
+     "url": "https://t.me/GTA6_m/9270",
+     "ts": "2026-10-29T18:15:08Z",
+     "summary": "🍿 Первый трейлер GTA VI преодолел отметку в 300 млн просмотров 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Первый трейлер GTA 6: 300 млн просмотров 🥺",
+    "summary": "По сообщению Telegram-канала @GTA6_m, первый трейлер GTA 6 преодолел отметку в 300 млн просмотров. Источник — пост канала, официального подтверждения от Rockstar нет.",
+    "idea": "Считаем до 300 млн за 30 секунд на таймлапсе с отметками: дата, платформы, вайс‑сити. Зрителю нравится масштаб и быстрый контекст.",
+    "hook": "300 миллионов просмотров первого трейлера GTA 6 — давай посчитаем это вместе.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-29T18:21:17Z"
+   },
+   "msg_id": 335
+  },
+  {
    "id": "a4aadee43350",
    "title": "GTA 6 Original Score by Justice Releases December 11",
    "first_seen": "2026-10-29T13:10:52Z",
@@ -59987,114 +60026,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "2202a71dcbcf",
-   "title": "Выход GTA 6 может стоить экономике США 1 миллиард долларов из-за 1,5 миллиона \"больничных\"",
-   "first_seen": "2026-10-20T18:31:04Z",
-   "updated": "2026-10-22T18:20:48Z",
-   "items": [
-    {
-     "id": "2202a71dcbcf",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Haberler",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Удар по экономике США в размере 1 миллиарда долларов от GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04VzJKR1RUazlZQ05LeURHTlJNeEo1bEQ5dHBDYjA1bkh6SUNlMElic0tzbGxJYU5oclRnbC1LUGdKWUczcXFFbThxdWZWUEVaZTB1OEVMdw?oc=5",
-     "ts": "2026-10-20T18:23:56Z",
-     "summary": ""
-    },
-    {
-     "id": "4c98449d2929",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Haberler",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Удар по экономике США в размере 1 миллиарда долларов от GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4VEJqcmZ1R0w3MmFmcGxQYjhzLXhudjhFS2t4X0MyU2h0WjVaY3F3ODAxb0xucEZxX0xTSDFuell2VXUzUTBrWk1ma1BFMlhxcGFnUlF3ZFk?oc=5",
-     "ts": "2026-10-20T18:23:04Z",
-     "summary": ""
-    },
-    {
-     "id": "1c5111906483",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ВКонтакте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Релиз GTA 6, по прогнозам, обойдётся экономике США в 1 миллиард долларов",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50TnY5SjA3MEpmWDdUblRWb1RtTnMwejFlRDIwZm9kdTMybEVNUWVtLXhKUTNHaE1oMTViSGVGWnZpOHY4VzNvV1BwNA?oc=5",
-     "ts": "2026-10-22T01:30:00Z",
-     "summary": ""
-    },
-    {
-     "id": "804ff6b4c553",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Выход GTA 6 может стоить экономике США 1 миллиард долларов из-за 1,5 миллиона \"больничных\"",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNUVCcnYyRkk0X1NoeUNMOHRVOFBTZGJGRG95YlRrTS1HOWJGSG41aVpPeWpGUTc1TXJtOGpNVW52SmVucDJsQy1fYV9zcW5mYWdwYTBhdW5vT2ZjVFIwMXdtNUZDSXZKWWYzQU9Td1B2UjlPQmVMOEN4VU92TURjUmlwOTNyVURhM2FRTXVuWTBQU1ozamkxS3hlUFRNcXk4elc3dXBTbU40Nm9JYVN2MlhpTURQc0FEUUtyaGhn?oc=5",
-     "ts": "2026-10-22T05:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "5194b24bc01f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Рамблер",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "NewsNation: выход GTA VI может стоить экономике США $1 млрд",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTW93Sno1NXByazFVOHRFWnFPQy1RNWpBRGV0azRsdzVoaUJ1WDBBcjFUSmZvUm5QMU9BdERmOUtGTGxFMEhPRXUwVFVKVVp1dXltNFVPNm5keVFWZFNZdGZ4QV83LVM2WnJMaFFRNGt0Nl9KTEtVU2VIQkF0akV2YWJIZC0wZ2hjcFN2cmJmWHlGVUpkMlRPMTZOT0JuSFXSAaQBQVVfeXFMT0J6R0RKRTJwNTlyRGdnOWIxZVBfZWgtVGhKQU9uZEY4bGZmVVVvLU81dXhZT2RfQlpzZ0E0cFlueTRtd2lxUXdld1VHWXg2VXp0eHpJWXlNYTVUMktDU0RuTTBRelk3YXJSclZPeGNlNmF4aXdPMUJmZFZrMTEtaThiQy0tekMtbkhzWWNmTlZBOGFMQXNlRG0xMnhSaHhlaEpIcnQ?oc=5",
-     "ts": "2026-10-22T08:27:56Z",
-     "summary": ""
-    },
-    {
-     "id": "b3f491b64cce",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Рамблер",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "NewsNation: выход GTA VI может стоить экономике США $1 млрд",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnpHREpFMnA1OXJEZ2c5YjFlUF9laC1UaEpBT25kRjhsZmZVVW8tTzV1eFlPZF9CWnNnQTRwWW55NG13aXFRd2V3VUdZeDZVenR4eklZeU1hNVQyS0NTRG5NMFF6WTdhclJyVk94Y2U2YXhpd08xQmZkVmsxMS1pOGJDLS16Qy1uSHNZY2ZOVkE4YUxBc2VEbTEyeFJoeGVoSkhydNIBpAFBVV95cUxPQnpHREpFMnA1OXJEZ2c5YjFlUF9laC1UaEpBT25kRjhsZmZVVW8tTzV1eFlPZF9CWnNnQTRwWW55NG13aXFRd2V3VUdZeDZVenR4eklZeU1hNVQyS0NTRG5NMFF6WTdhclJyVk94Y2U2YXhpd08xQmZkVmsxMS1pOGJDLS16Qy1uSHNZY2ZOVkE4YUxBc2VEbTEyeFJoeGVoSkhydA?oc=5",
-     "ts": "2026-10-22T08:27:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 89,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru",
-   "msg_id": 142,
-   "posts": {
-    "flash": "⚡️ <b>GTA 6 «стоит» экономике США 1 миллиард</b> — из-за 1,5 млн «больничных»\n\nПо данным NewsNation и Shazoo, выход GTA 6 может обойтись экономике США в 1 млрд долларов из-за массовых отгулов. Официально Rockstar это не комментировала.\n\n#GTA6 #DargaNGU"
-   }
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T18:10:52Z",
+  "last_run": "2026-10-29T18:21:17Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 97/100",
-   "gnews_ru: 95/100",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 1/10",
    "vgc: 2/10",
    "insider_gaming: 2/10",
@@ -60102,11 +60042,11 @@
    "eurogamer: 3/100",
    "dexerto_gta: 6/50",
    "rockstarintel: 6/10",
-   "gtaboom: 9/30",
+   "gtaboom: 8/30",
    "reddit: 22/25",
    "tg_gtavistar: 4/10",
    "tg_gta6deluxe: 5/11",
-   "tg_gta6_m: 10/19",
+   "tg_gta6_m: 11/19",
    "tg_gta6newsdaily: 6/14"
   ],
   "digest": "2026-10-29@21",
