@@ -1,6 +1,114 @@
 {
  "stories": [
   {
+   "id": "2b113db3cb68",
+   "title": "Edge Interview Breaks Down How the GTA 6 Romance Works",
+   "first_seen": "2026-10-30T05:10:51Z",
+   "updated": "2026-10-30T05:10:51Z",
+   "items": [
+    {
+     "id": "2b113db3cb68",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Edge Interview Breaks Down How the GTA 6 Romance Works",
+     "url": "https://www.gtaboom.com/edge-interview-breaks-down-how-the-gta-6-romance-works-f036",
+     "ts": "2026-10-30T05:02:13Z",
+     "summary": "GTA 6's Jason and Lucia bond runs on a trackable four point closeness meter raised through shared activities, Rockstar's Rob Nelson reveals."
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "70da918cc456",
+   "title": "How the Jason and Lucia Relationship System Works in GTA 6",
+   "first_seen": "2026-10-30T05:10:51Z",
+   "updated": "2026-10-30T05:10:51Z",
+   "items": [
+    {
+     "id": "70da918cc456",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How the Jason and Lucia Relationship System Works in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWFRV3ZvNEFGQlhZWDNOb09HVmhiTE4xVXNMOXBxWjFTaFVQMlNMWC1admZsQW8xNzA3UzVwcWYyVkJqQy0zcTlUU0VDWE5MRTJMLWtwcThzN2duY0RDTHppSWFsSUZmemgyNlo0cUh5d0c0R1dXUnlSMHpzN05qM1oyaUVpQ0V1R2pB?oc=5",
+     "ts": "2026-10-30T05:05:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0836078fec6b",
+   "title": "Last Halloween before GTA 6. Anyone doing GTA costumes or other stuff?",
+   "first_seen": "2026-10-30T05:10:51Z",
+   "updated": "2026-10-30T05:10:51Z",
+   "items": [
+    {
+     "id": "0836078fec6b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Last Halloween before GTA 6. Anyone doing GTA costumes or other stuff?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xj6lvs/last_halloween_before_gta_6_anyone_doing_gta/",
+     "ts": "2026-10-30T05:06:56Z",
+     "summary": "To celebrate I carved a GTA-O-Lantern. Anyone doing GTA themed Halloween costumes this year or anything else GTA related? Show us what you got! submitted by /u/No-Position9710 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fe9d3403c661",
+   "title": "GTA6 Mobile ads are getting out of hand",
+   "first_seen": "2026-10-30T05:10:51Z",
+   "updated": "2026-10-30T05:10:51Z",
+   "items": [
+    {
+     "id": "fe9d3403c661",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA6 Mobile ads are getting out of hand",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xj6m37/gta6_mobile_ads_are_getting_out_of_hand/",
+     "ts": "2026-10-30T05:07:19Z",
+     "summary": "For a while now my tik tok for some reason has been filled with like GTA6 mobile free scamming ads every like 10 scrolls, and it’s not just me somehow, during one of my lectures in university a few weeks back, I was just watching my friend on tik tok when around 100 scrolls later we just see a GTA6 mobile scamming video. And I low-key feel bad about people who are falling for this because I can’t tell if theres a bunch of bots or if some of them are actually praising them literally asking “how do I get it?” I thought just some random kids were downloading this shit only, well now a few days ag"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a772364e913e",
    "title": "Главное за день: название TES 6, подробности GTA 6, релиз Phantom Blade Zero",
    "first_seen": "2026-10-30T05:01:18Z",
@@ -60709,7 +60817,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T05:01:18Z",
+  "last_run": "2026-10-30T05:10:54Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
@@ -60721,7 +60829,7 @@
    "eurogamer: 3/100",
    "dexerto_gta: 6/50",
    "rockstarintel: 6/10",
-   "gtaboom: 10/30",
+   "gtaboom: 11/30",
    "reddit: 20/25",
    "tg_gtavistar: 4/10",
    "tg_gta6deluxe: 6/7",
