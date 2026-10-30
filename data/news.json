@@ -1,6 +1,47 @@
 {
  "stories": [
   {
+   "id": "e2b229f2408b",
+   "title": "What GTA VI’s $20 Ultimate Edition Upgrade Actually Buys You",
+   "first_seen": "2026-10-30T01:40:52Z",
+   "updated": "2026-10-30T11:41:00Z",
+   "items": [
+    {
+     "id": "e2b229f2408b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Will the Ultimate Edition ruin some of the “grind” of the game?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xj1nm1/will_the_ultimate_edition_ruin_some_of_the_grind/",
+     "ts": "2026-10-30T00:56:13Z",
+     "summary": "Can’t wait for GTA6 like everyone and keen to get the ultimate edition for the quest lines (gang pad and classic car collection missions) but I really hate when you just get given a bunch of stuff (cars, guns, hideouts) for free in games like this because it feels like it makes it all so easy or takes some of the grind out. For example, I’d like to save up to buy a nice car or but my first boat in the game so it feels like an actual achievement as opposed to buying UE and then getting so a certain part of the story and getting given a huge expensive boat, or a super fast luxury car. Rather tha"
+    },
+    {
+     "id": "84daeb20ed1a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Forbes",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "What GTA VI’s $20 Ultimate Edition Upgrade Actually Buys You",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDBSb1RpazAxT2liR2hwTGlDZU5XY19zMzcwakxrYVBua29WZUg2TU11Nmh6Y1l1cUVWRDRkZkNZa3E4eER3b0lkUU82OGJvbFVYLTk5aHBVa3A0N0hDeWNnQUt1VlRiSnI3ZThpS0RhdjdiWGFEaG16M0QxMi1rSlpHa0RaRW9OMjNWTmVsS2piVHA0eHJzU3NNdGZuUGdDUHYwSGx0X0xfaFBsWk5LNll3?oc=5",
+     "ts": "2026-10-30T11:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 83,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
    "id": "6cc82b88916c",
    "title": "GTA 6 posters I’ve made recently. Hope you guys like them",
    "first_seen": "2026-10-30T11:31:07Z",
@@ -3640,34 +3681,6 @@
    ],
    "tags": [
     "слив"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e2b229f2408b",
-   "title": "Will the Ultimate Edition ruin some of the “grind” of the game?",
-   "first_seen": "2026-10-30T01:40:52Z",
-   "updated": "2026-10-30T01:40:52Z",
-   "items": [
-    {
-     "id": "e2b229f2408b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Will the Ultimate Edition ruin some of the “grind” of the game?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xj1nm1/will_the_ultimate_edition_ruin_some_of_the_grind/",
-     "ts": "2026-10-30T00:56:13Z",
-     "summary": "Can’t wait for GTA6 like everyone and keen to get the ultimate edition for the quest lines (gang pad and classic car collection missions) but I really hate when you just get given a bunch of stuff (cars, guns, hideouts) for free in games like this because it feels like it makes it all so easy or takes some of the grind out. For example, I’d like to save up to buy a nice car or but my first boat in the game so it feels like an actual achievement as opposed to buying UE and then getting so a certain part of the story and getting given a huge expensive boat, or a super fast luxury car. Rather tha"
-    }
-   ],
-   "tags": [
-    "цена/издания"
    ],
    "score": 35,
    "level": "SPECULATION",
@@ -61471,11 +61484,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T11:31:07Z",
+  "last_run": "2026-10-30T11:41:00Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 59/67",
+   "gnews_ru: 58/66",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
@@ -61488,7 +61501,7 @@
    "tg_gtavistar: 4/10",
    "tg_gta6deluxe: 5/7",
    "tg_gta6_m: 11/19",
-   "tg_gta6newsdaily: 4/15"
+   "tg_gta6newsdaily: 3/15"
   ],
   "digest": "2026-10-30@9",
   "tg_offset": 854319078
