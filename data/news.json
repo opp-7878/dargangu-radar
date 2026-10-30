@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "c10fb59921d5",
+   "title": "The Onion is ready for GTA 6: ‘You're kind of a dummy for thinking this is gonna change everything’",
+   "first_seen": "2026-10-30T14:40:55Z",
+   "updated": "2026-10-30T14:40:55Z",
+   "items": [
+    {
+     "id": "c10fb59921d5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Onion is ready for GTA 6: ‘You're kind of a dummy for thinking this is gonna change everything’",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NZ3lsVkg4aWxiOS0xaGdLalVHcWJ5OGd2OHN2NzBHNzl5LXVwY3UwWG9uNDU3MkhJV1lJcWU0U0sxaENzYnlWU3o2bmN6SHk1TFZISEN6c2N1TU9DVXc?oc=5",
+     "ts": "2026-10-30T14:30:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c2699973ade0",
+   "title": "The GTA 6 Mapping Project is now co-owned by GTA Wiki",
+   "first_seen": "2026-10-30T14:40:55Z",
+   "updated": "2026-10-30T14:40:55Z",
+   "items": [
+    {
+     "id": "c2699973ade0",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The GTA 6 Mapping Project is now co-owned by GTA Wiki",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xjh1nz/the_gta_6_mapping_project_is_now_coowned_by_gta/",
+     "ts": "2026-10-30T14:34:41Z",
+     "summary": "The final version of the Mapping Project will release sometime in November, ahead of the game's launch. After release, the project will shift its focus to identifying all real-life versions of GTA 6 locations and updating gta.wiki and its affiliated databases such as stateofleonida.net and gtadb.org with location information. If you were previously banned on the GTA VI Mapping Discord server prior to the change in ownership and want an appeal, feel free to message any of the GTA Wiki social media accounts. submitted by /u/gtawiki to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "efa341df9d76",
    "title": "Take-Two's Pullback Hasn't Made GTA VI A Cheap Bet (Earnings Preview) (NASDAQ:TTWO)",
    "first_seen": "2026-10-30T14:31:07Z",
@@ -61294,11 +61346,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T14:31:13Z",
+  "last_run": "2026-10-30T14:40:55Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 97/100",
-   "gnews_ru: 46/51",
+   "gnews_ru: 45/55",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 2/10",
@@ -61310,7 +61362,7 @@
    "reddit: 22/25",
    "tg_gtavistar: 4/10",
    "tg_gta6deluxe: 5/7",
-   "tg_gta6_m: 11/19",
+   "tg_gta6_m: 10/19",
    "tg_gta6newsdaily: 3/15"
   ],
   "digest": "2026-10-30@9",
