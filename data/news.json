@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "67eae5cf01db",
+   "title": "GTA 6 fans spot real Georgia buildings in new screenshots",
+   "first_seen": "2026-10-30T22:31:18Z",
+   "updated": "2026-10-30T22:31:18Z",
+   "items": [
+    {
+     "id": "67eae5cf01db",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "news.lavx.hu",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 fans spot real Georgia buildings in new screenshots",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2hzOGhaUFNxckh1Yy1DX20yWlZ1ejViZGJDUHZUa25KTHZHSmhLd1R4ZkxGSFB3czNLRGFmMHZmSThwa1hEdUQ3VURuRERZNkhKcUhGbGNDVnVKY1hPekdSZ1JyM3d5SjEzcEt1dFNiRlVuRG83V1BOX09FU3RDUzRRRGRqR2dEN3pQMHV4aw?oc=5",
+     "ts": "2026-10-30T08:40:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b5c495da3697",
+   "title": "Rockstar Says GTA 6 Is Ready: 12 New Screenshots Drop As November 19 Launch Holds",
+   "first_seen": "2026-10-30T22:31:18Z",
+   "updated": "2026-10-30T22:31:18Z",
+   "items": [
+    {
+     "id": "b5c495da3697",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Daily Scrum News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Says GTA 6 Is Ready: 12 New Screenshots Drop As November 19 Launch Holds",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbnV4Mlo4RnlwY3lyWExVVTI2VjhkSkJzMUtPMmZ6aWRhbnZBTkJfWDVCSWlYMjdWQTJ4czhhUm9FV2JNbGtfeTQxMndPaDE3aXRRLWtWQU5ZdnF4LWthZUxaTm56bGxyVmJ5S0JIcy1FQXBGQnRUa1RVOU1kN3FzRmRINnlLc2tablZEalhxRkl6NVlzQ2dNWVlyUlRWRVZvOTRDQXFRYTlmZHBvdkotbXMwMHA4QQ?oc=5",
+     "ts": "2026-10-30T22:19:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "463ba9d4bedd",
+   "title": "what will be the first place you visit once you’re free?",
+   "first_seen": "2026-10-30T22:31:18Z",
+   "updated": "2026-10-30T22:31:18Z",
+   "items": [
+    {
+     "id": "463ba9d4bedd",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "what will be the first place you visit once you’re free?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xjt9so/what_will_be_the_first_place_you_visit_once_youre/",
+     "ts": "2026-10-30T22:23:52Z",
+     "summary": "submitted by /u/bruxothevillain to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f884f413752b",
    "title": "Please don’t die, we’re just 19 days away.",
    "first_seen": "2026-10-30T22:20:53Z",
@@ -62027,11 +62105,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T22:20:53Z",
+  "last_run": "2026-10-30T22:31:18Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 95/100",
-   "gnews_ru: 42/49",
+   "gnews_ru: 41/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
