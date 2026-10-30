@@ -1,6 +1,73 @@
 {
  "stories": [
   {
+   "id": "64fe83d192a6",
+   "title": "GTA 6 posts record purchase intent as nearly one in three US gamers plan to buy it",
+   "first_seen": "2026-10-30T06:10:49Z",
+   "updated": "2026-10-30T06:10:49Z",
+   "items": [
+    {
+     "id": "64fe83d192a6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 posts record purchase intent as nearly one in three US gamers plan to buy it",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa09lbHZGdk5tNVJ1NXUwelZaX0lPakRIUEhJaXQteEhJSUgzbF9KaENPeHFtMHdVY3ZSLU8ycDF6M1lhY3NCSVRBODg1SWxyR3lmdTNZZ21uYXp1SEo2X2VKc3RPb0JzV0Z4U0RVNU1TWkJHZnQyeVZyMVBnRHB4MTR5Y1JMOXM2d284bnpONTM2TmJqdmNGdjBaNm0talVUamlpc2RKZGlNaFVDSHd3ckVYSS1JX2VHMEtISV9Mbk5OYUh5VHc?oc=5",
+     "ts": "2026-10-30T05:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "405941305332",
+   "title": "💾 Готовьте место под GTA VI По сливам из баз данных Sony, размер GTA VI составит 210 ГБ.",
+   "first_seen": "2026-10-30T06:10:49Z",
+   "updated": "2026-10-30T06:10:49Z",
+   "items": [
+    {
+     "id": "405941305332",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "💾 Готовьте место под GTA VI По сливам из баз данных Sony, размер GTA VI составит 210 ГБ.",
+     "url": "https://t.me/GTA6_m/9271",
+     "ts": "2026-10-30T06:05:07Z",
+     "summary": "💾 Готовьте место под GTA VI По сливам из баз данных Sony, размер GTA VI составит 210 ГБ. Предзагрузка начнётся 12 ноября Для сравнения, GTA V Enhanced и RDR2 на ПК в сумме требуют 255 ГБ Если у вас Xbox Series S на 512 ГБ, — вам придётся удалить почти…"
+    }
+   ],
+   "tags": [
+    "ПК",
+    "размер/preload",
+    "слив"
+   ],
+   "score": 65,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: 210 ГБ и предзагрузка 12 ноября? Слив из баз Sony",
+    "summary": "По сливам из баз данных Sony, размер GTA 6 составит 210 ГБ, а предзагрузка начнётся 12 ноября. Для сравнения, GTA V Enhanced и RDR2 на ПК в сумме занимают 255 ГБ.",
+    "idea": "Короткий разбор цифр: 210 ГБ, 12 ноября и что удалять владельцам Xbox Series S. Зрителю важно понять, влезет ли игра и когда качать.",
+    "hook": "210 ГБ и предзагрузка 12 ноября — что говорит слив из баз Sony.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-30T06:10:53Z"
+   },
+   "msg_id": 345
+  },
+  {
    "id": "87211f2c1ecf",
    "title": "GTA 6 New Gameplay in South Park Shows Jason Attacking NPC With Dog Poop",
    "first_seen": "2026-10-30T04:40:54Z",
@@ -60906,41 +60973,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "6dc76b2ed42c",
-   "title": "The Daily Star: релиз GTA 6 обвалит производство в США на 2%",
-   "first_seen": "2026-10-23T06:10:46Z",
-   "updated": "2026-10-23T06:10:46Z",
-   "items": [
-    {
-     "id": "6dc76b2ed42c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "prospect.com.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "The Daily Star: релиз GTA 6 обвалит производство в США на 2%",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGFYcEFVaU13TGZWTlozV053UDlUNDZ1NkRLbDZTM0lUUTJFZUlkU3dNdmJoM1dlc1RlN2JWX2ltdGZCWTk5czFiaWRhaGE5UkZsSWxWeUsybjN5ci1QTDg1dS1DQW5pUHlqQ0tZdGZoZFJwLVhRbnlfczVibTlpaVQxWmNYSnZZemVEM2x5QzZVb2tjVUdjUjVlLXFfWUpSU3Mw?oc=5",
-     "ts": "2026-10-22T18:12:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T06:01:25Z",
+  "last_run": "2026-10-30T06:10:53Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 100/100",
-   "gnews_ru: 83/91",
+   "gnews_ru: 82/90",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
