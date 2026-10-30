@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "ac097aef9568",
+   "title": "Article of the Day #59: Morgan Revolver",
+   "first_seen": "2026-10-30T22:50:52Z",
+   "updated": "2026-10-30T22:50:52Z",
+   "items": [
+    {
+     "id": "ac097aef9568",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Article of the Day #59: Morgan Revolver",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xjtv7u/article_of_the_day_59_morgan_revolver/",
+     "ts": "2026-10-30T22:49:26Z",
+     "summary": "As first revealed in June, the Morgan revolvers that come with the Ultimate Edition notably contain references to the release dates of GTA Vice City (October 29, 2002) and GTA Vice City Stories (October 31, 2006) in their serial numbers. submitted by /u/gtawiki to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс",
+    "дата/перенос",
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4d46e89fa846",
    "title": "GTA 6 Open-World Map Size Officially Confirmed",
    "first_seen": "2026-10-30T17:20:54Z",
@@ -62322,11 +62352,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T22:42:23Z",
+  "last_run": "2026-10-30T22:50:52Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 96/100",
-   "gnews_ru: 43/49",
+   "gnews_ru: 41/48",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -62335,7 +62365,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 7/10",
    "gtaboom: 11/30",
-   "reddit: 24/25",
+   "reddit: 25/25",
    "tg_gtavistar: 5/10",
    "tg_gta6deluxe: 6/6",
    "tg_gta6_m: 10/18",
