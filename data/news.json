@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "4ed78de62ad8",
+   "title": "Действие GTA 6 разворачивается и в Джорджии? Фанаты обнаружили здания в 900 км от Майами",
+   "first_seen": "2026-10-30T10:10:57Z",
+   "updated": "2026-10-30T10:10:57Z",
+   "items": [
+    {
+     "id": "4ed78de62ad8",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Действие GTA 6 разворачивается и в Джорджии? Фанаты обнаружили здания в 900 км от Майами",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcEpEeHdLVWpITUtRM1p2YWtlS0FQaWZGeUF3Y1BCeUpsNXJQbEkyMnNlb1JSczFrRWhZWk4yb2h5OFJhZ21LUjhxS3hqbXRUQXA0YTBKVER0QjJNRjY4TEVTbFpXeWZremNMYnVWeHhVT2RNQUdYem4xR25xS2Z4UXpQVUhIM1VmZUc2bjQtMjRKTWlNbDFiUlIwOFM2ZHhoMjRZMFVIbEhGNjh3YUluSzFzV0dHcGJ4MVAtekF6VS1PcnY2M0RlX1FicEoycGhNUnEwLTdtbzE?oc=5",
+     "ts": "2026-10-30T08:58:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "87211f2c1ecf",
    "title": "GTA 6 New Gameplay in South Park Shows Jason Attacking NPC With Dog Poop",
    "first_seen": "2026-10-30T04:40:54Z",
@@ -61223,41 +61249,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "9ba1578e96d0",
-   "title": "Официальный пропуск ради видеоигры: подразделение армии США пообещало бойцам время на прохождение GTA 6",
-   "first_seen": "2026-10-23T10:10:49Z",
-   "updated": "2026-10-23T10:10:49Z",
-   "items": [
-    {
-     "id": "9ba1578e96d0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Официальный пропуск ради видеоигры: подразделение армии США пообещало бойцам время на прохождение GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVm1mWndTZXRBbWlhM0lkZ0VkLWFhazhLb25lWGNRXzUwTWp3QmgyU2FYeXQ0RzRGT2thQlBSU3g3YVZWbGM3ZXZES0FGX2dZTGRwNXRrZ3QwZE1zSnl2eTY4ck9kRjdUSllUQlFMV09TaE5MUkVqY0g1aTh5bmduVUNRbHJSdnJoWGZCRmhEZUNQNi1wdUVqU0RoZ0dJMDJxSVZUeGJkZWxUNE9pcWl3SGVIZGlXU2ZlRmhTS3NJMzFkZml4VmdwOXdVSzVIUQ?oc=5",
-     "ts": "2026-10-23T08:51:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T10:01:19Z",
+  "last_run": "2026-10-30T10:10:57Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
-   "gnews_ru: 66/75",
+   "gnews_ru: 64/69",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
@@ -61265,7 +61265,7 @@
    "eurogamer: 1/100",
    "dexerto_gta: 6/50",
    "rockstarintel: 6/10",
-   "gtaboom: 11/30",
+   "gtaboom: 10/30",
    "reddit: 23/25",
    "tg_gtavistar: 4/10",
    "tg_gta6deluxe: 6/7",
