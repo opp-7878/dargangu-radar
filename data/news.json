@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "ab6b1e641513",
+   "title": "Someone commented on one of my posts saying they plan to download GTA 6 onto a flash drive at work so they don't burn through their home data cap and the crazy thing is, the guy is from some middle of nowhere town in the US. That really got me thinking: why is managing internet access practically",
+   "first_seen": "2026-10-30T18:31:06Z",
+   "updated": "2026-10-30T18:31:06Z",
+   "items": [
+    {
+     "id": "ab6b1e641513",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Someone commented on one of my posts saying they plan to download GTA 6 onto a flash drive at work so they don't burn through their home data cap and the crazy thing is, the guy is from some middle of nowhere town in the US. That really got me thinking: why is managing internet access practically",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xjn7tp/someone_commented_on_one_of_my_posts_saying_they/",
+     "ts": "2026-10-30T18:24:30Z",
+     "summary": "submitted by /u/el_solo_lobo_spectre to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9e816192063d",
    "title": "РЕЛИЗНЫЙ ТРЕЙЛЕР GTA VI В РУССКОМ ДУБЛЯЖЕ",
    "first_seen": "2026-10-30T17:50:52Z",
@@ -61828,82 +61854,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "246b130182d7",
-   "title": "Rockstar Explains GTA VI’s Lengthy Development, Hints Next Game Won’t Take as Long",
-   "first_seen": "2026-10-22T14:01:15Z",
-   "updated": "2026-10-23T18:31:02Z",
-   "items": [
-    {
-     "id": "246b130182d7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamerBraves",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Explains GTA VI’s Lengthy Development, Hints Next Game Won’t Take as Long",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzU4TjZMSzYyMmljRUlZZUpFLTREUEVhSXpvQ2x3YXJ0WmdUd1JfaUYxMG1MX3RhbjI4dHgwczZSR1FTZmRVVkNvUFlnVlFrcWNiWFFQWG90dVRMQlMzcm9Nc3JfdWcwdTR0bUwydFZpZklCZThfSEZnamtlVTR2S2Jld1JHNWtuNGF0TVRVLU16ZEJ6VG1iUjZKV1hSQV8yRm9DM1g4RWM0QjdI?oc=5",
-     "ts": "2026-10-22T12:23:39Z",
-     "summary": ""
-    },
-    {
-     "id": "56d97599c08f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IMDb",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Was A Fluke: Rockstar Promises Next Game Won't Take As Long To Launch",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoUUlrT3RKT1FYaGh1ZVVWUzdPUDFldGtHQ0pQcjdFdmloaW11OUc0ekNBQ1kxSnRqVm9fYVBHQ2lZSDVsSE9TXzQtOWpYajhkNVdWdHFORjZNQWZNY04wUGJzTFQ?oc=5",
-     "ts": "2026-10-23T15:33:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8525c065153c",
-   "title": "GTA VI Marketing Starts Soon: Is the $100 Price Rumour True?",
-   "first_seen": "2026-10-23T18:31:02Z",
-   "updated": "2026-10-23T18:31:02Z",
-   "items": [
-    {
-     "id": "8525c065153c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TechJuice",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI Marketing Starts Soon: Is the $100 Price Rumour True?",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNm5ESmw3dTRvVVgxejRKb05welVuUzg4U3RnQXlMbFFJZ1UzTDhFeTJrRzFZZUVJUmFEMGQxcDJBU2REV3BCYzNMUTRGVjZJZDhlUDRNcGVuYm5XejJCR2NlS0VkeGFoaHF5MFQ5cWp1czdZbW1aV3R6eUxwdG5oTl92NUw0Ri1IeFlUUmJ1cTdEWWMtVFBfQXFUVFdtak51WUUydVV3?oc=5",
-     "ts": "2026-10-23T12:21:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T18:20:54Z",
+  "last_run": "2026-10-30T18:31:06Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 98/100",
-   "gnews_ru: 41/59",
+   "gnews_en: 97/100",
+   "gnews_ru: 42/47",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
