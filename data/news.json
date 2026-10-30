@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "2dc85352b84c",
+   "title": "Инсайдеры назвали ложным недавний слух о защите ревью-копий GTA 6",
+   "first_seen": "2026-10-30T08:11:07Z",
+   "updated": "2026-10-30T08:11:07Z",
+   "items": [
+    {
+     "id": "2dc85352b84c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Инсайдеры назвали ложным недавний слух о защите ревью-копий GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd0d0OTA0TkNnRnUyd0VMTEhsMy1lZWRVMUUyQ3hLZUlzUmk4aW9sSEY2ZGpOWjNXcEk5WkhmME9zSER5YVc5WDdGN0Z3YnVVekcyTlFHdEhYcURPMU9BeXFPNV9EUktJTW4xNWljeVB5cHk3cVJNUlBIbGFmUENsUkNYVUFjU0FtZmdKUHp6RG4wUE00YjNISDA2eEtmbDM2SXZ2R1hrSjVHQmZuOE5FWU13Vnl3Z08yRFJuQUc5Nmx1QU9PclN3V3MzUE8xUm02MXJ0S1NBU1c?oc=5",
+     "ts": "2026-10-30T07:57:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e972d0474832",
    "title": "Слух: GTA 6 Online и версия для ПК выйдут в начале 2027 года",
    "first_seen": "2026-10-30T07:50:52Z",
@@ -61011,48 +61037,22 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7d1587458b6f",
-   "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
-   "first_seen": "2026-10-23T08:10:47Z",
-   "updated": "2026-10-23T08:10:47Z",
-   "items": [
-    {
-     "id": "7d1587458b6f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MFpia1NOWXd5U3kxY0pmaG1IWGVHcTMyeUQ3cS1jTERlMkc1UW4yaXdBYlNPNE9xRk5vakZ3emk4X3V2OUItZ0J6dE5IdEhtRUdzRTdadGpkUjhRVDlhY0t2Yzh3eEllSXIwZ2JYT3dyczZKdXd3bGVabThJZw?oc=5",
-     "ts": "2026-10-22T21:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T08:01:26Z",
+  "last_run": "2026-10-30T08:11:07Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 98/100",
-   "gnews_ru: 77/88",
+   "gnews_en: 99/100",
+   "gnews_ru: 69/76",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
    "ign: 0/20",
    "eurogamer: 3/100",
    "dexerto_gta: 6/50",
-   "rockstarintel: 6/10",
+   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
    "gtaboom: 11/30",
    "reddit: 22/25",
    "tg_gtavistar: 4/10",
