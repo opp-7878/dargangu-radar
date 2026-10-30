@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "2e57d173660b",
+   "title": "GTA 6's souped-up Red Dead Redemption 2-style morality system will scale from 'Professional' to 'Irredeemable' so players can decide what kind of criminal they want to be",
+   "first_seen": "2026-10-30T15:31:10Z",
+   "updated": "2026-10-30T15:31:10Z",
+   "items": [
+    {
+     "id": "2e57d173660b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6's souped-up Red Dead Redemption 2-style morality system will scale from 'Professional' to 'Irredeemable' so players can decide what kind of criminal they want to be",
+     "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQSG05NzBrMkJFTWM3eDZXUWZlVDN2RnJaOHVLLVhCblBJbmNaYnZsVEphMXI5dFNDRVVXR3V6cE13NEFZWm9jT3ZoeWozYkc3UmE3MHNPRzJ2bnhhcnJ6QVRUamtvekZubGJLaDE4dG14QzJhMUZFcGdGYXFTcDl2MW5vZm5nNG05MU5aTjN1WlNhWVd2N091SHJac01QVzE1NHJvc1diaWEzc1pWdS1mTzRobjNmR0txazRyRGZ4dnBwOEhSQnhNcHJOZmxRVDFSUktyNS1FbHhzNkluNExydHRxQ3pBcUl4dU81Slg4UlVuZi1GREMwVTh5TDRlYzRyUndDUUxJOGVqQi1NR0Q3cXc5WUhVdlYzaHN3UU5yWTNBS3FBbkhjRjEyTWxXV0txODNZLUdGZ0k?oc=5",
+     "ts": "2026-10-30T15:23:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В GTA 6 будет шкала морали как в RDR 2 — от профи до отморозка",
+    "summary": "По данным PC Gamer, в GTA 6 появится система морали в духе Red Dead Redemption 2. Она будет меняться от «Professional» до «Irredeemable», позволяя выбрать стиль преступника.",
+    "idea": "Показываем шкалу морали на экране и реакции: как выбор меняет миссии, цены и отношение NPC. Зрителю интересно, кем станет его персонаж и как это повлияет на геймплей.",
+    "hook": "В GTA 6 можно стать профи или отморозком — вот как это работает.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-30T15:31:14Z"
+   },
+   "msg_id": 360
+  },
+  {
    "id": "3dd5188ef307",
    "title": "Jacksepticeye on becoming a Hitman target and GTA 6 hype | BBC News",
    "first_seen": "2026-10-30T15:20:53Z",
@@ -61434,41 +61471,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c42a44ef09ca",
-   "title": "First drive across the bridge from Keys onto the mainland",
-   "first_seen": "2026-10-23T15:31:06Z",
-   "updated": "2026-10-23T15:31:06Z",
-   "items": [
-    {
-     "id": "c42a44ef09ca",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "First drive across the bridge from Keys onto the mainland",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xdh1x8/first_drive_across_the_bridge_from_keys_onto_the/",
-     "ts": "2026-10-23T15:23:24Z",
-     "summary": "https://preview.redd.it/008ig5z3i8xh1.png?width=954&format=png&auto=webp&s=8f75eadbdac5ef298f85b60a379064069da25177 Ive never heard people discuss how legendary it will feel to cross this bridge for the first time ever. If of course prologue ends in the Keys and most of us gonna probably take the path to Hamlet. Years of waiting and speculations led to this bridge and it is going to be very emotional submitted by /u/Yaykozoltz to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T15:20:53Z",
+  "last_run": "2026-10-30T15:31:15Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 98/100",
-   "gnews_ru: 44/49",
+   "gnews_ru: 45/55",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
