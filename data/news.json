@@ -1,6 +1,46 @@
 {
  "stories": [
   {
+   "id": "e972d0474832",
+   "title": "Слух: GTA 6 Online и версия для ПК выйдут в начале 2027 года",
+   "first_seen": "2026-10-30T07:50:52Z",
+   "updated": "2026-10-30T07:50:52Z",
+   "items": [
+    {
+     "id": "e972d0474832",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Слух: GTA 6 Online и версия для ПК выйдут в начале 2027 года",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUm51V3hOWk9RdGN0cWdKVmNPSGRDOHZKYldRekk0UlptbEVEX0l5eDRiWktaM1RMM0pwMmstX3JxM0pCWm1rQTZKN3prZkFScE1hZzlud1ZsWkoyZHUwV2JsTGlBZklzcXB1Q3VSZ1JhVnRaTFpaRkx4S3pOY2xYRkRZRHFfX2xmR3RPeW1PZWI4bWxyRDF5Y1dYN2QxWEt2Y2VIQUVqc0RWYkNnNEM0?oc=5",
+     "ts": "2026-10-30T07:36:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online",
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Слух: GTA 6 Online и ПК-версия — старт в начале 2027",
+    "summary": "По данным CyberMeta, GTA 6 Online и версия для ПК могут выйти в начале 2027 года. Официально Rockstar это не подтверждала. Ждём деталей и сроков.",
+    "idea": "Коротко разложим слух: когда ждать ПК и Online, что подтверждено, а что — нет. Зрителю важно понять реальные ориентиры без кликбейта.",
+    "hook": "ПК и Online для GTA 6 — в начале 2027? Разбираем слух без кликбейта.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-30T07:50:54Z"
+   },
+   "msg_id": 346
+  },
+  {
    "id": "173858e90842",
    "title": "GTA 6’s Map Size and The 201-Mission Rumor, Explained",
    "first_seen": "2026-10-30T04:20:48Z",
@@ -60997,54 +61037,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "251c4854847b",
-   "title": "GTA 6 Lucia And Jason Love Life Sparks Real-World Cheating Concerns",
-   "first_seen": "2026-10-23T07:20:53Z",
-   "updated": "2026-10-23T07:41:02Z",
-   "items": [
-    {
-     "id": "251c4854847b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Esquire India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Lucia And Jason Love Life Sparks Real-World Cheating Concerns",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMzEyQzNNZ2F4VHc2dnkyOVhpY19uRkxQb3dMLVQxSnZfaTJxQTg2WEp0RDU0b3gweWw3VURudnBodUJadU52b2IyNHoxVnUweWlTUkJzZWtTWWFQVFVFdjAwYWYyalVLSmVBbUQ1VFpDdmo5ZXpsYWtHZVctS2VTZy1ZcVNwbEdsLVJYbGtyeE4wYlU5bkdZSlRlYnZhd1pqQzVxY1EySWxEQ1lGNTFLQ3JqVjVZeUVtUU4zd2pMVTRzUkQzd2dIOGNKU1JMM2xTUDVTSHBzMlY4Q0nSAdsBQVVfeXFMUDMxMkMzTWdheFR3NnZ5MjlYaWNfbkZMUG93TC1UMUp2X2kycUE4NlhKdEQ1NG94MHlsN1VEbnZwaHVCWnVOdm9iMjR6MVZ1MHlpU1JCc2VrU1lhUFRVRXYwMGFmMmpVS0plQW1ENVRaQ3ZqOWV6bGFrR2VXLUtlU2ctWXFTcGxHbC1SWGxrcnhOMGJVOW5HWUpUZWJ2YXdaakM1cWNRMklsRENZRjUxS0NyalY1WXlFbVFOM3dqTFU0c1JEM3dnSDhjSlNSTDNsU1A1U0hwczJWOENJ?oc=5",
-     "ts": "2026-10-23T04:20:00Z",
-     "summary": ""
-    },
-    {
-     "id": "62047cc6e50d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Esquire India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Lucia And Jason Love Life Sparks Real-World Cheating Concerns",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNmFZd01uRl9OaUphS2hfcmZhdW9wR2luZ1dKM1FEdzNmZ0ZuMmQwaGRlQVpEZHl5OXFSVFhfX24teU9iVXZDVjFEY1Y0RG01VVBvUlFtSlJUdjdtbFkxVUg4dHI0WVlLb01NRncxM2hPV25WWnFnQ1Jkd1A1TlBoZjRnZkRHM01GdU5xRC1yNW9GUGdfZjdBbEl0RDBwYkZaM1NZSGhLTnJrUERDNnpmZzJqZng1bTU2SVVZTEpyTm0zcFVoWm1OSGZ1Tm1EUdIB2wFBVV95cUxQMzEyQzNNZ2F4VHc2dnkyOVhpY19uRkxQb3dMLVQxSnZfaTJxQTg2WEp0RDU0b3gweWw3VURudnBodUJadU52b2IyNHoxVnUweWlTUkJzZWtTWWFQVFVFdjAwYWYyalVLSmVBbUQ1VFpDdmo5ZXpsYWtHZVctS2VTZy1ZcVNwbEdsLVJYbGtyeE4wYlU5bkdZSlRlYnZhd1pqQzVxY1EySWxEQ1lGNTFLQ3JqVjVZeUVtUU4zd2pMVTRzUkQzd2dIOGNKU1JMM2xTUDVTSHBzMlY4Q0k?oc=5",
-     "ts": "2026-10-23T04:20:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T07:40:49Z",
+  "last_run": "2026-10-30T07:50:55Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 99/100",
-   "gnews_ru: 72/78",
+   "gnews_en: 98/100",
+   "gnews_ru: 71/77",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
