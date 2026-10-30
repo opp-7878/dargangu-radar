@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "d016d7f2e0a9",
+   "title": "Like my Spooky Halloween Pumpkin",
+   "first_seen": "2026-10-29T23:40:53Z",
+   "updated": "2026-10-30T00:10:53Z",
+   "items": [
+    {
+     "id": "d016d7f2e0a9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Like my Spooky Halloween Pumpkin",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xizog9/like_my_spooky_halloween_pumpkin/",
+     "ts": "2026-10-29T23:26:55Z",
+     "summary": "Carved this today in celebration of the end of October and beginning of November The Holy month. Let me know what you think? submitted by /u/Some_Opportunity_374 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "521ca8cd73e5",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Like my Spooky Halloween Pumpkin",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xj0ibb/like_my_spooky_halloween_pumpkin/",
+     "ts": "2026-10-30T00:02:34Z",
+     "summary": "submitted by /u/Some_Opportunity_374 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7c7fa34fc22e",
+   "title": "GTA 6 Preview Details Fuel, Car Trackers, Public Transport and Reactive Police Searches",
+   "first_seen": "2026-10-30T00:10:53Z",
+   "updated": "2026-10-30T00:10:53Z",
+   "items": [
+    {
+     "id": "7c7fa34fc22e",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Preview Details Fuel, Car Trackers, Public Transport and Reactive Police Searches",
+     "url": "https://www.gtaboom.com/gta-6-edge-preview-new-gameplay-details-5848",
+     "ts": "2026-10-30T00:02:51Z",
+     "summary": "Edge's Rockstar North demo shows GTA 6 cars with fuel, trackers and damage, plus police who track witnesses, clothes and weapons after a robbery."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ae39a034d510",
    "title": "And now we wait⏳",
    "first_seen": "2026-10-30T00:01:17Z",
@@ -75,32 +140,6 @@
    "tags": [],
    "score": 40,
    "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d016d7f2e0a9",
-   "title": "Like my Spooky Halloween Pumpkin",
-   "first_seen": "2026-10-29T23:40:53Z",
-   "updated": "2026-10-29T23:40:53Z",
-   "items": [
-    {
-     "id": "d016d7f2e0a9",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Like my Spooky Halloween Pumpkin",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xizog9/like_my_spooky_halloween_pumpkin/",
-     "ts": "2026-10-29T23:26:55Z",
-     "summary": "Carved this today in celebration of the end of October and beginning of November The Holy month. Let me know what you think? submitted by /u/Some_Opportunity_374 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
    "alerted": "",
    "status": "new"
   },
@@ -60505,11 +60544,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T00:01:17Z",
+  "last_run": "2026-10-30T00:10:53Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 94/100",
+   "gnews_ru: 95/100",
    "gamesbeat: 1/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
@@ -60517,8 +60556,8 @@
    "eurogamer: 3/100",
    "dexerto_gta: 6/50",
    "rockstarintel: 6/10",
-   "gtaboom: 7/30",
-   "reddit: 15/25",
+   "gtaboom: 8/30",
+   "reddit: 16/25",
    "tg_gtavistar: 4/10",
    "tg_gta6deluxe: 6/7",
    "tg_gta6_m: 11/19",
