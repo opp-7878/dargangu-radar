@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "275bbdc8706d",
+   "title": "Авторы GTA 6 подготовили свыше 600 тысяч анимаций для NPC",
+   "first_seen": "2026-10-30T09:50:53Z",
+   "updated": "2026-10-30T09:50:53Z",
+   "items": [
+    {
+     "id": "275bbdc8706d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Land of Games",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Авторы GTA 6 подготовили свыше 600 тысяч анимаций для NPC",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPem13eVJJWk85SDgxcXRKVDBreDh3LUswcHRWdngwWmJIUUZHSFk4SjN2YjNRdUM3ZG83MDVvQkF5ZUZDNUVadlBVOHExV0FOZ1VjUVpJYlp0MFBLR1FkLWMtQVZIN0hydlBkX3J5VnFqaFB4eWhfWkc3V1JUbWcxT2JWUzNfTlR6V2xKMFh0YXI5cHBPLTJyeElYQzE5MlpmNjlINFRFNk13dk5BSmE4NA?oc=5",
+     "ts": "2026-10-30T09:43:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "054cd8cb61e0",
    "title": "Rockstar поделилась новыми подробностями о GTA 6",
    "first_seen": "2026-10-30T09:40:56Z",
@@ -61227,16 +61253,16 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T09:41:00Z",
+  "last_run": "2026-10-30T09:50:53Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 99/100",
-   "gnews_ru: 69/80",
+   "gnews_en: 98/100",
+   "gnews_ru: 68/78",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
    "ign: 0/20",
-   "eurogamer: 2/100",
+   "eurogamer: 1/100",
    "dexerto_gta: 6/50",
    "rockstarintel: 6/10",
    "gtaboom: 11/30",
