@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "d2e182d49c85",
+   "title": "\"GTA VI\" может стать крупнейшим игровым релизом десятилетия",
+   "first_seen": "2026-10-30T21:50:52Z",
+   "updated": "2026-10-30T21:50:52Z",
+   "items": [
+    {
+     "id": "d2e182d49c85",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "KinoNews.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "\"GTA VI\" может стать крупнейшим игровым релизом десятилетия",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YRUlGeDJLUzh4Ymh6OHdvUThPcGY1dklraEdEWTR1V0RSeHl0WHIxZ2hKQWgzTm12Sjk5cHQ4RUF3S05GeGVKZTNTOEPSAVJBVV95cUxNXzUyQlcyZmJidHVJMnp6a2Y4ZDNBb2pNYmp4VnhRZVUzRGZJRGNZQzJKTXViUVJhLTdvZ21mUTUwTUNOdE90N0NPZTZ5NGJCQnVR?oc=5",
+     "ts": "2026-10-30T20:26:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d47c5fc32b86",
    "title": "Does anyone know the exact dimensions of the GTA VI Collector’s Box poster?",
    "first_seen": "2026-10-30T21:40:54Z",
@@ -61899,11 +61925,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T21:40:54Z",
+  "last_run": "2026-10-30T21:50:52Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 95/100",
-   "gnews_ru: 45/51",
+   "gnews_ru: 43/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
