@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "b9d267f90660",
+   "title": "Roblox stock falls 19% as daily users drop and GTA VI launch pressures outlook",
+   "first_seen": "2026-10-30T21:10:50Z",
+   "updated": "2026-10-30T21:10:50Z",
+   "items": [
+    {
+     "id": "b9d267f90660",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Pluang",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Roblox stock falls 19% as daily users drop and GTA VI launch pressures outlook",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN3lKWGQwdDc3cWM3QWg4MFczSVZIYUw1WUY0Rl9pSHY0V1lNNjllaF81M3RUNDV2RUJYRmV1TFk2VlAyNm9UNUM2MmpHa2xZaGNrRlRpUzgwRUpSeW9PbVdLWHBSTExzNXdTRWFSWE1aM3NEZmVyR3VQWmEzUkw0Yy0yNkN4NUhsbkgydFluRkUtR2JYRjVlVGJMZm9NYy0xYjQwZFd4X0FTZw?oc=5",
+     "ts": "2026-10-30T15:03:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3ef760faefaf",
+   "title": "My copy of Game Informer arrived :)",
+   "first_seen": "2026-10-30T21:10:50Z",
+   "updated": "2026-10-30T21:10:50Z",
+   "items": [
+    {
+     "id": "3ef760faefaf",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "My copy of Game Informer arrived :)",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xjrauj/my_copy_of_game_informer_arrived/",
+     "ts": "2026-10-30T21:01:57Z",
+     "summary": "submitted by /u/PNW-Ryan to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "35d7b830139d",
    "title": "(18+) GamesVoice представила русскую озвучку трейлера GTA VI, San Andreas, дополнения Cyberpunk 2077 и других игр на шоу VoiceCon 2026",
    "first_seen": "2026-10-30T20:31:06Z",
@@ -61708,39 +61760,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "fd156d4c62e4",
-   "title": "First time playing older GTA games.",
-   "first_seen": "2026-10-23T21:10:48Z",
-   "updated": "2026-10-23T21:10:48Z",
-   "items": [
-    {
-     "id": "fd156d4c62e4",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "First time playing older GTA games.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xdq2d1/first_time_playing_older_gta_games/",
-     "ts": "2026-10-23T21:05:22Z",
-     "summary": "In preparation for GTA VI I wanted to dive into the past GTA games since I had never played them. I pre-ordered GTA VI so I had the free gta+ so I figured why not. I thought as a fan of GTA V I would love all these games, but I will let the ratings speak for themselves. GTA 3 - 3/10 Sucks in the modern day at least. I remember great games from my childhood that I look back now and they suck. I'm sure im just spoiled and it was actually a great game for the time, but i hated almost everything about it. The story was almost nonexistent, controls felt stiff, the cars handled like crap, and the Co"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T21:01:22Z",
+  "last_run": "2026-10-30T21:10:50Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 96/100",
