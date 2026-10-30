@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "ae39a034d510",
+   "title": "And now we wait⏳",
+   "first_seen": "2026-10-30T00:01:17Z",
+   "updated": "2026-10-30T00:01:17Z",
+   "items": [
+    {
+     "id": "ae39a034d510",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "And now we wait⏳",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xj0aqh/and_now_we_wait/",
+     "ts": "2026-10-29T23:54:21Z",
+     "summary": "submitted by /u/Gold_Finance7530 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "484461a6fb96",
    "title": "Rockstar сохранит эмбарго на обзоры GTA 6 до 18 ноября",
    "first_seen": "2026-10-29T23:50:48Z",
@@ -60479,11 +60505,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-29T23:50:48Z",
+  "last_run": "2026-10-30T00:01:17Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 95/100",
+   "gnews_ru: 94/100",
    "gamesbeat: 1/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
@@ -60492,7 +60518,7 @@
    "dexerto_gta: 6/50",
    "rockstarintel: 6/10",
    "gtaboom: 7/30",
-   "reddit: 16/25",
+   "reddit: 15/25",
    "tg_gtavistar: 4/10",
    "tg_gta6deluxe: 6/7",
    "tg_gta6_m: 11/19",
