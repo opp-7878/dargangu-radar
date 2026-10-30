@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "3013c19f10de",
+   "title": "Пляж в GTA в 2013 году против пляжа в GTA в 2026 году. 2026 | GTA expert: Новости GTA 6",
+   "first_seen": "2026-10-30T17:10:51Z",
+   "updated": "2026-10-30T17:10:51Z",
+   "items": [
+    {
+     "id": "3013c19f10de",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Пляж в GTA в 2013 году против пляжа в GTA в 2026 году. 2026 | GTA expert: Новости GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwQm9WS19KeFRlUnlXbE9HVXBNT09CLTdBeV9NTUVvdHZCSXdHNzY1NUNMSmFQRmMwM2FRUEZIRmdQeU5nNmw2XzdB?oc=5",
+     "ts": "2026-10-30T14:19:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0e50c73cb447",
+   "title": "Ночной клуб E11EVEN на время превратится в NINE1NINE из GTA 6! 6 ноября в Майами состоится торжественное открытие реального ночного... 2026",
+   "first_seen": "2026-10-30T17:10:51Z",
+   "updated": "2026-10-30T17:10:51Z",
+   "items": [
+    {
+     "id": "0e50c73cb447",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Ночной клуб E11EVEN на время превратится в NINE1NINE из GTA 6! 6 ноября в Майами состоится торжественное открытие реального ночного... 2026",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGY3MtbWNmVVZTZVRXQVE4RWJNTk1JV1JWcFhSeENPNTZJWHlHOHZBNjJ3MXAyQmo1eEN1WkNJcVpMVHdVTHNfeGdB?oc=5",
+     "ts": "2026-10-30T15:22:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f864881f5ffe",
+   "title": "REAL LIFE GTA 6 NIGHTCLUB!",
+   "first_seen": "2026-10-30T17:10:51Z",
+   "updated": "2026-10-30T17:10:51Z",
+   "items": [
+    {
+     "id": "f864881f5ffe",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "REAL LIFE GTA 6 NIGHTCLUB!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xjl1wq/real_life_gta_6_nightclub/",
+     "ts": "2026-10-30T17:04:53Z",
+     "summary": "E11even Miami the United States #1 nightclub in Miami just announced they’ll be rebranding to NINE1NINE, the same nightclub we saw throughout the Extended Look. submitted by /u/SAKRUS762 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "3dd5188ef307",
    "title": "Jacksepticeye on becoming a Hitman target and GTA 6 hype | BBC News",
    "first_seen": "2026-10-30T15:20:53Z",
@@ -61733,11 +61813,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T17:01:20Z",
+  "last_run": "2026-10-30T17:10:51Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 97/100",
-   "gnews_ru: 45/51",
+   "gnews_ru: 46/56",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
