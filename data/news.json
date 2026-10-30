@@ -1,6 +1,63 @@
 {
  "stories": [
   {
+   "id": "68cfc7bbf6fe",
+   "title": "Похоже, что сейчас в Майами снимается рекламный ролик GTA 6.Вертолет и его раскраску узнаете? 2026",
+   "first_seen": "2026-10-30T16:50:56Z",
+   "updated": "2026-10-30T16:50:56Z",
+   "items": [
+    {
+     "id": "68cfc7bbf6fe",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Похоже, что сейчас в Майами снимается рекламный ролик GTA 6.Вертолет и его раскраску узнаете? 2026",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tMndBX3dyY0RLVkszNER4cDNKWG5ITnowZUtsV0ZwNVVqWkFnS3YyQ3RPZkFxYzVQOXdvNnlyMjFZYWJGNnc2RzJB?oc=5",
+     "ts": "2026-10-30T09:49:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a4a883b02399",
+   "title": "Where to pre-order GTA 6 as Rockstar announces soundtrack on vinyl",
+   "first_seen": "2026-10-30T16:50:56Z",
+   "updated": "2026-10-30T16:50:56Z",
+   "items": [
+    {
+     "id": "a4a883b02399",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Independent",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Where to pre-order GTA 6 as Rockstar announces soundtrack on vinyl",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGFIME9kRGVBNDdDZ2xQVnd4NUYwMlJPUVNlamx3cEhjTzI5UXZSdnRITjlaNi13Qll3VXd5QWZxQWM1ZXVycVZ1Y29ZR20waW93OU9DMGxJdXNTUlYtUHZKcHpWZm5xcjFGXzB5Y01pNGZ6UWpiTXAyTzhoeHJzSmtlOU9BWHJVdVh3S1hjbE1TZTR6QUVrN2lFYXdyX2dnekFlazM5eGV2UzYza1g1OHE5MG1rZV9qUDY3cDByMjBrNnA2WDM0?oc=5",
+     "ts": "2026-10-30T16:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
    "id": "9d5d7a5d7a45",
    "title": "GTA VI (Solana) Exchanges GTA6 Markets | Buy & Sell & Trade",
    "first_seen": "2026-10-30T16:40:56Z",
@@ -61674,89 +61731,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a77d1944d974",
-   "title": "Rumor: Rockstar Tried To Get Daft Punk For GTA 6’s Soundtrack Before Going With Justice",
-   "first_seen": "2026-10-20T08:50:44Z",
-   "updated": "2026-10-23T16:50:48Z",
-   "items": [
-    {
-     "id": "a77d1944d974",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Gameranx",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rumor: Rockstar Tried To Get Daft Punk For GTA 6’s Soundtrack Before Going With Justice",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQjB5emQ1elZTeTNTRkhOOUZtNWJaM1IyX2FXa2NkX3dpLXc4RHNscTZBRXZNWTRzLW1yUy10MWhlVWtZNEJjR1lqS0cyTHNHeVNxUlRucWhJdTJnVUhFUDBWVHA2eEFSYktWQU9CRlVwcXBTbkhQNjBPNlE1cHB1UEZSTXM5UmhsSG9nWW5NNE03RFg3Vlc1MU5YZktVRV9jRHZyOENLejJYdkVtZ0l6ZXRtNzdIOHM1eFhqRS1ibkpERTNBNG1HR0FmWXVfUQ?oc=5",
-     "ts": "2026-10-20T08:37:07Z",
-     "summary": ""
-    },
-    {
-     "id": "fcafae0e759a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Nexus Hub",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Daft Punk Was Pitched to Do GTA VI Soundtrack Before Justice – Report",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaW1LQUUxbTlsak1KaWRhY25fZ05zZmkzRDU2N3dGbzRMLVFCWjNROVFZN054VF82Q0dFS3NfRlJ0QlJkcHlDU1NfbEtCNXJYQnl1bDFkY0wyUHo3bkxQZE5QMDJWcGJYb1ZwRmZ1X3IwQWhzSkk2bThFLXI3V0tMeE1saTh3S01UZHRTbHAtZm1oYVZiZFdsQ2ZNSURYb0tTZ0dN?oc=5",
-     "ts": "2026-10-20T12:17:57Z",
-     "summary": ""
-    },
-    {
-     "id": "4795cf51b5b5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NME",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Daft Punk reportedly turned down ‘GTA 6’ soundtrack offer before Justice said yes",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHVua2xvYVdtMWRWbWY4Umoyd2ItOVh0RDBHNFM3T1AzbTVtWGJ5aFlNQnZ1ZTlSWXZaY2pHR3lNR3BzTDhWZld5RlZqYmRZWVhVN2NTOEFmTnZ5allGNGVtN0NCb21XV3RUUGxZcE1XaVAyeEkyb2dkeGpOQUZEYnZjRkN0ZmRtdndKdjZlck9IaTJxUkFzeEl0TFlvSm92YUE?oc=5",
-     "ts": "2026-10-21T11:34:08Z",
-     "summary": ""
-    },
-    {
-     "id": "661e407ac776",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Happy Mag",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Daft Punk reportedly declined GTA 6 soundtrack before Justice took the offer -",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43ZndxTzVtNWpDbk5ZRTM3NURCNHNRSWdrU3NlNmFqa1RYaVc0Nl90NC1na1gxeGRtS20yZDQ0bEZIWjdLbU13QVowQ1lmYW1laENaY3Y5dGJpbmVNMUVpM21kVENsamM?oc=5",
-     "ts": "2026-10-22T01:53:13Z",
-     "summary": ""
-    },
-    {
-     "id": "653e4cc86ef1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "se7en.ws",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rumor: Daft Punk Approached to Compose GTA 6 Soundtrack",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOW9fdk5tZUtRR2lzMnpUT0xpM0hyQzN1N3NndEdJeGlFMGpVelc1UkRfNWpTemhHRGE5aWlYVG1ub2ZlOENLYWN6aWNJRllsVHczOWItR0hucDNJMkxMREhSTUFrVVZXQ1B3ckMzU0Y3ZEdrNl9kZmV2M1k3WVozc0JEY0lmazA?oc=5",
-     "ts": "2026-10-23T09:01:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T16:40:56Z",
+  "last_run": "2026-10-30T16:51:00Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 98/100",
