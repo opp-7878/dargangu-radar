@@ -1,6 +1,47 @@
 {
  "stories": [
   {
+   "id": "f5127c6e6419",
+   "title": "Additional Q&A from the Physical Edition of EDGE Magazine",
+   "first_seen": "2026-10-29T13:10:52Z",
+   "updated": "2026-10-30T13:01:21Z",
+   "items": [
+    {
+     "id": "f5127c6e6419",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Additional Q&A from the Physical Edition of EDGE Magazine",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xihfb8/additional_qa_from_the_physical_edition_of_edge/",
+     "ts": "2026-10-29T11:30:55Z",
+     "summary": "An additional Q&A with Phil Hooker was provided at the end of the GTA6 write up. What is your personal approach to testing the game, through an engineer’s lens? I either do structured plays where we’re looking at particular content, or more open plays where you set yourself an objective in the game and just let it lead you through whatever happens along the way. What sort of objectives? Well, during one test run we decided we had to travel to Watson Bay only using the public transport systems, just to see if everything ran as it should. More generally, when new content is added to the game, I "
+    },
+    {
+     "id": "0319139a5f32",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "EDGE magazine GTA6 edition. Where can I get physical? Country: Netherlands",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xjeifj/edge_magazine_gta6_edition_where_can_i_get/",
+     "ts": "2026-10-30T12:50:49Z",
+     "summary": "I live in Eindhoven and want to know if anyone has bought or knows where to buy the EDGE magazine GTA 6 cover around Eindhoven or anywhere around NL. submitted by /u/MrCurryBowl to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4f648010780e",
    "title": "GTA 6 Reveals New Details on Map, Police and Car Theft in Edge",
    "first_seen": "2026-10-30T12:50:52Z",
@@ -8908,34 +8949,6 @@
    "tags": [],
    "score": 40,
    "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f5127c6e6419",
-   "title": "Additional Q&A from the Physical Edition of EDGE Magazine",
-   "first_seen": "2026-10-29T13:10:52Z",
-   "updated": "2026-10-29T13:10:52Z",
-   "items": [
-    {
-     "id": "f5127c6e6419",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Additional Q&A from the Physical Edition of EDGE Magazine",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xihfb8/additional_qa_from_the_physical_edition_of_edge/",
-     "ts": "2026-10-29T11:30:55Z",
-     "summary": "An additional Q&A with Phil Hooker was provided at the end of the GTA6 write up. What is your personal approach to testing the game, through an engineer’s lens? I either do structured plays where we’re looking at particular content, or more open plays where you set yourself an objective in the game and just let it lead you through whatever happens along the way. What sort of objectives? Well, during one test run we decided we had to travel to Watson Bay only using the public transport systems, just to see if everything ran as it should. More generally, when new content is added to the game, I "
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
    "alerted": "",
    "status": "new"
   },
@@ -61393,41 +61406,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "07ac98893520",
-   "title": "GTA 6 новую карту с доступными для посещения домами показали",
-   "first_seen": "2026-10-23T13:01:17Z",
-   "updated": "2026-10-23T13:01:17Z",
-   "items": [
-    {
-     "id": "07ac98893520",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Gamebomb",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 новую карту с доступными для посещения домами показали",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9RbEhNLXFxbHFPdEVsbkRubmlGT3RGOHhjQk8tNzlwZnUwazZkMkRWWFBPQ2lxT2NKdHF0STJiSEV1cWlHVWw0?oc=5",
-     "ts": "2026-10-23T11:27:06Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T12:50:57Z",
+  "last_run": "2026-10-30T13:01:21Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 54/59",
+   "gnews_ru: 55/62",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 1/10",
