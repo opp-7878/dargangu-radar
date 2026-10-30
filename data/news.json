@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "9810ff8a9241",
+   "title": "Any one else?",
+   "first_seen": "2026-10-30T18:40:51Z",
+   "updated": "2026-10-30T18:40:51Z",
+   "items": [
+    {
+     "id": "9810ff8a9241",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Any one else?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xjng9t/any_one_else/",
+     "ts": "2026-10-30T18:33:24Z",
+     "summary": "submitted by /u/Which_Cobbler_8179 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ab6b1e641513",
    "title": "Someone commented on one of my posts saying they plan to download GTA 6 onto a flash drive at work so they don't burn through their home data cap and the crazy thing is, the guy is from some middle of nowhere town in the US. That really got me thinking: why is managing internet access practically",
    "first_seen": "2026-10-30T18:31:06Z",
@@ -61815,54 +61841,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "51976ceffe10",
-   "title": "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI’s Release",
-   "first_seen": "2026-10-23T17:10:48Z",
-   "updated": "2026-10-23T18:40:46Z",
-   "items": [
-    {
-     "id": "51976ceffe10",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI’s Release",
-     "url": "https://www.ign.com/articles/ign-is-partnering-with-best-buy-for-3-weeks-of-giveaways-leading-up-to-gta-vis-release",
-     "ts": "2026-10-23T17:00:00Z",
-     "summary": "We should all be well aware by now that Grand Theft Auto VI is going to take the world by storm when it releases on November 19. It’s widely expected to be the biggest launch in gaming history and one of the biggest launches of any piece of entertainment. Countless people will be taking the day off (or will coincidentally be feeling very sick), leading to that day being the world’s biggest out of office. Well, IGN is teaming up with Best Buy to celebrate the big day with three weeks of giveaways that can upgrade your setup and get you prepared to play GTA VI in style. That includes TVs, headse"
-    },
-    {
-     "id": "10bad655e25f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI’s Release",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSE9QSlNJdk9tVUVoR3J3YzlqcmZWVHVHUDlTaTdkWVNZR2d5NmdvRXYtMHFXcUlfLXRTYkp6R1d0enVUWTZPdmQxRlJDWm1qbU1rX1BVX042NGszRGNYUzNhUHl5X2xoQk0teEhSUDhmTGdCelNuYzBpTk44TkJvMWFuSVpQemlYTkdhV3BIcmN1UWlHOU5BaGRqMFAzS3QtZmVTdjQ0NTNOV3cxSVR3MUk4eWJRZw?oc=5",
-     "ts": "2026-10-23T17:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T18:31:06Z",
+  "last_run": "2026-10-30T18:40:51Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 97/100",
-   "gnews_ru: 42/47",
+   "gnews_ru: 43/59",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -61871,7 +61858,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 7/10",
    "gtaboom: 11/30",
-   "reddit: 22/25",
+   "reddit: 23/25",
    "tg_gtavistar: 5/10",
    "tg_gta6deluxe: 6/6",
    "tg_gta6_m: 10/18",
