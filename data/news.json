@@ -1,6 +1,82 @@
 {
  "stories": [
   {
+   "id": "7c7fa34fc22e",
+   "title": "GTA 6 Links Fuel, Car Trackers and Police Searches in Reactive Getaways",
+   "first_seen": "2026-10-30T00:10:53Z",
+   "updated": "2026-10-30T00:20:53Z",
+   "items": [
+    {
+     "id": "7c7fa34fc22e",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Preview Details Fuel, Car Trackers, Public Transport and Reactive Police Searches",
+     "url": "https://www.gtaboom.com/gta-6-edge-preview-new-gameplay-details-5848",
+     "ts": "2026-10-30T00:02:51Z",
+     "summary": "Edge's Rockstar North demo shows GTA 6 cars with fuel, trackers and damage, plus police who track witnesses, clothes and weapons after a robbery."
+    },
+    {
+     "id": "9d859cb54b19",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Links Fuel, Car Trackers and Police Searches in Reactive Getaways",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NakV6dzJ3dDQ4VWM5bF8wTVNRZ1hMVmZXaGYtblVfdVhpVVBhWVQ3c1ZYYVF1dGxSQzFPLVdGSTB0VGRUM3dGLVQ2UEhYVnV1TG4xa2lfaXpuUUxXY0FlOUJtMmRRUnJlVEZ6UkphUFROYlFIaFdv?oc=5",
+     "ts": "2026-10-30T00:10:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Бензин, трекеры и умная полиция: как устроены погони в GTA 6",
+    "summary": "По данным превью Edge, в GTA 6 появятся топливо, трекеры на машинах и продвинутые погони. Полиция сможет отслеживать свидетелей, одежду и оружие после ограбления.",
+    "idea": "Короткая нарезка: пустые баки, трекер на авто, умные копы. Объяснить, как это меняет погони и планирование ограблений.",
+    "hook": "Погоня в GTA 6 не закончится, пока не кончится бензин.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-30T00:20:56Z"
+   },
+   "msg_id": 339
+  },
+  {
+   "id": "18370872dde7",
+   "title": "GTA 6: Jason использует собачьи экскременты против NPC в South Park",
+   "first_seen": "2026-10-30T00:20:53Z",
+   "updated": "2026-10-30T00:20:53Z",
+   "items": [
+    {
+     "id": "18370872dde7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "games.gg",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: Jason использует собачьи экскременты против NPC в South Park",
+     "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPN1drbjVlX2loMXQ1dVdKX3ZsMERWZkVyYXlCNDV2NFY4c0lWd0U4N0ZVUGRYckdxMlF3Smk4TWNwRTVYbHJtUkZCOWN3b2Z4N2F0bzMtU1A0NXJGZ1RJVk90QW16QVNLVzBjMFRRTkF0Y2tBaXdGcVRkRG1IVVRZQ19JaUo0WjVHMUdwQmNWMFNFMTJUS1VTc3RRNUdqOGdBVzJrc1hmWWxGMllpZmNJeHkyY3FTWjJSUkwzdUpKclVrS0dwckRqdVcxLTRoY1JTV0xxb1NHYmZuRDhucmNET0NHU1JwWE1WS0JWM1hOdjBodmtobU5pREEwaWN0NngwY1F4QjVYLUp6MTYzTTVUREFuamVUdEowRjVqOEhWejEtU1JlWXVmUDRLeEVGWWo0cmZhd25jRnBoYVdMXzB3bzRWcFFGSk9iTlJvYlpyN2ZWYmVDeXl2blNveXpWa1MxbmYtc1RRQWhUSTRtSE1pQWxUTlBuYjAzUnZ1VDFwblI?oc=5",
+     "ts": "2026-10-29T22:20:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d016d7f2e0a9",
    "title": "Like my Spooky Halloween Pumpkin",
    "first_seen": "2026-10-29T23:40:53Z",
@@ -36,32 +112,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7c7fa34fc22e",
-   "title": "GTA 6 Preview Details Fuel, Car Trackers, Public Transport and Reactive Police Searches",
-   "first_seen": "2026-10-30T00:10:53Z",
-   "updated": "2026-10-30T00:10:53Z",
-   "items": [
-    {
-     "id": "7c7fa34fc22e",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA 6 Preview Details Fuel, Car Trackers, Public Transport and Reactive Police Searches",
-     "url": "https://www.gtaboom.com/gta-6-edge-preview-new-gameplay-details-5848",
-     "ts": "2026-10-30T00:02:51Z",
-     "summary": "Edge's Rockstar North demo shows GTA 6 cars with fuel, trackers and damage, plus police who track witnesses, clothes and weapons after a robbery."
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -60489,67 +60539,16 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "9e6bf13b7cf4",
-   "title": "Daft Punk GTA 6 Soundtrack Report: 34-Track Album [2026]",
-   "first_seen": "2026-10-22T15:11:35Z",
-   "updated": "2026-10-23T00:20:48Z",
-   "items": [
-    {
-     "id": "9e6bf13b7cf4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "shattered.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Daft Punk GTA 6 Soundtrack Report: 34-Track Album [2026]",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mOGJSb2RZalJQSG1hWVNRM1hXeml0Q19YQlZHMlUzSjM5aTJieEl2QXA0bDlaUEZfUmgwQjBzVzZzdGozc0ZvRG5EQVRnZUxLekNiQjZwSmlabnhDZWVlNC05SDVUT2hUbV96bjZTYXZ5bVpyR3lucGpB?oc=5",
-     "ts": "2026-10-22T15:07:50Z",
-     "summary": ""
-    },
-    {
-     "id": "bb4de3183b70",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "https://tech-insider.org/",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Soundtrack Leak: Daft Punk Claim, 34 Tracks [2026]",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdDZFWkhmeERpOU1ma3ZTWVV2UGZtY2JCXzBMdDNHaWIxWkxncFVITEpfanY5TURxZzRieVlyVFlYMDZXNVExOE9ZSUhXOGdUVUt0b3BDRVNBa0hQcDNRbTBUQUtoMERCMWhEbWlzWmNaNjZNNTMxX1hBeTA3RUVXSFE4R2p5TDg?oc=5",
-     "ts": "2026-10-23T00:10:59Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 73,
-   "level": "SPECULATION",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Слив: саундтрек GTA 6 — Daft Punk и 34 трека",
-    "summary": "По данным shattered.io и tech-insider.org, в сеть попал отчёт о саундтреке GTA 6: 34 трека и заявлен Daft Punk. Официального подтверждения от Rockstar нет.",
-    "idea": "Короткий разбор утекшего списка: что значит Daft Punk и 34 трека для атмосферы Вайс-Сити. Зрителю интересно, какой будет звук и подтвердит ли Rockstar.",
-    "hook": "Саундтрек GTA 6 слили: Daft Punk и 34 трека — правда или фейк?",
-    "stars": 2,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-23T00:20:54Z"
-   },
-   "msg_id": 147
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T00:10:53Z",
+  "last_run": "2026-10-30T00:20:57Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
    "gnews_ru: 95/100",
-   "gamesbeat: 1/10",
+   "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
    "ign: 0/20",
