@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "9eb1e6a8cdd1",
+   "title": "Marketing on Madrid",
+   "first_seen": "2026-10-30T22:01:17Z",
+   "updated": "2026-10-30T22:01:17Z",
+   "items": [
+    {
+     "id": "9eb1e6a8cdd1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Marketing on Madrid",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xjsjv2/marketing_on_madrid/",
+     "ts": "2026-10-30T21:53:24Z",
+     "summary": "I came in Madrid to visit, and banngg. There he is, the big onee👀 submitted by /u/Claweer to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f928179d05b0",
+   "title": "Nicely wrapped car. Think it's official or fan-made?",
+   "first_seen": "2026-10-30T22:01:17Z",
+   "updated": "2026-10-30T22:01:17Z",
+   "items": [
+    {
+     "id": "f928179d05b0",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Nicely wrapped car. Think it's official or fan-made?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xjsklg/nicely_wrapped_car_think_its_official_or_fanmade/",
+     "ts": "2026-10-30T21:54:17Z",
+     "summary": "submitted by /u/cancan2232 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d2e182d49c85",
    "title": "\"GTA VI\" может стать крупнейшим игровым релизом десятилетия",
    "first_seen": "2026-10-30T21:50:52Z",
@@ -61925,10 +61977,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T21:50:52Z",
+  "last_run": "2026-10-30T22:01:17Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 95/100",
+   "gnews_en: 94/100",
    "gnews_ru: 43/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
@@ -61938,7 +61990,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 7/10",
    "gtaboom: 11/30",
-   "reddit: 23/25",
+   "reddit: 24/25",
    "tg_gtavistar: 5/10",
    "tg_gta6deluxe: 6/6",
    "tg_gta6_m: 10/18",
