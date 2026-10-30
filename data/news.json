@@ -1,6 +1,56 @@
 {
  "stories": [
   {
+   "id": "877e3646da89",
+   "title": "15 GTA 6 Screenshots From Edge's Rockstar North Preview",
+   "first_seen": "2026-10-30T00:40:50Z",
+   "updated": "2026-10-30T00:40:50Z",
+   "items": [
+    {
+     "id": "877e3646da89",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "15 GTA 6 Screenshots From Edge's Rockstar North Preview",
+     "url": "https://www.gtaboom.com/gta-6-edge-preview-screenshots-october-2026-a85b",
+     "ts": "2026-10-30T00:31:53Z",
+     "summary": "See Vice City, the wetlands, Jason and Lucia's getaways, bikers and nightlife in the images accompanying Edge's GTA VI cover story."
+    },
+    {
+     "id": "1167ec1f1ae2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "15 GTA 6 Screenshots From Edge's Rockstar North Preview",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xUTZZRElvTW9RVDdxMEJBWnZuOE90b19MU1Rad0R5MktpYjZQYkxmblpvYlVwZ2dlSk1hSEVyZFZTN191LXdDa1Z4UkFQUm9BTU0tVHBidkhWQ3BYVEQ1UnhkRnUyMXVZTVNDSzZ6d3dtN3I1b01qS0pleDg?oc=5",
+     "ts": "2026-10-30T00:35:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "15 новых скриншотов GTA 6: Вайс-Сити, болота и Джейсон с Лусией",
+    "summary": "Журнал Edge опубликовал материал о Rockstar North с 15 скриншотами GTA 6. На кадрах — Вайс-Сити, болота, побеги Джейсона и Лусии, байкеры и ночная жизнь.",
+    "idea": "Быстрый тур по 15 скриншотам Edge: город, природа, герои и ночные улицы. Зрителю — максимум деталей за 30 секунд.",
+    "hook": "15 скриншотов GTA 6 из Edge — смотри, что вытащили из материала.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-30T00:40:53Z"
+   },
+   "msg_id": 340
+  },
+  {
    "id": "7c7fa34fc22e",
    "title": "GTA 6 Links Fuel, Car Trackers and Police Searches in Reactive Getaways",
    "first_seen": "2026-10-30T00:10:53Z",
@@ -60543,7 +60593,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T00:31:06Z",
+  "last_run": "2026-10-30T00:40:53Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
@@ -60555,7 +60605,7 @@
    "eurogamer: 3/100",
    "dexerto_gta: 6/50",
    "rockstarintel: 6/10",
-   "gtaboom: 8/30",
+   "gtaboom: 9/30",
    "reddit: 16/25",
    "tg_gtavistar: 4/10",
    "tg_gta6deluxe: 6/7",
