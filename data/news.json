@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "aec6cf4eb7a0",
+   "title": "Anyone else gonna miss the wait?",
+   "first_seen": "2026-10-30T01:50:52Z",
+   "updated": "2026-10-30T01:50:52Z",
+   "items": [
+    {
+     "id": "aec6cf4eb7a0",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Anyone else gonna miss the wait?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xj2src/anyone_else_gonna_miss_the_wait/",
+     "ts": "2026-10-30T01:50:03Z",
+     "summary": "3 weeks away, still doesn't feel real. It's been a long journey, still remember how hype I was in 2022 when the leaks came out. submitted by /u/FreezeClawz to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "227f4044f119",
    "title": "20 Seconds of GTA 6 Dog Poop Gameplay Premieres in the Latest Episode of South Park",
    "first_seen": "2026-10-29T03:50:49Z",
@@ -60831,11 +60859,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T01:40:52Z",
+  "last_run": "2026-10-30T01:50:52Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 94/100",
+   "gnews_ru: 88/95",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
@@ -60844,7 +60872,7 @@
    "dexerto_gta: 6/50",
    "rockstarintel: 6/10",
    "gtaboom: 9/30",
-   "reddit: 16/25",
+   "reddit: 17/25",
    "tg_gtavistar: 4/10",
    "tg_gta6deluxe: 6/7",
    "tg_gta6_m: 11/19",
