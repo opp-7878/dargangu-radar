@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "f25ca5c4ff14",
+   "title": "Rockstar показала кадры GTA VI в новом эпизоде South Park",
+   "first_seen": "2026-10-30T06:20:50Z",
+   "updated": "2026-10-30T06:20:50Z",
+   "items": [
+    {
+     "id": "f25ca5c4ff14",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "World News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar показала кадры GTA VI в новом эпизоде South Park",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSSm5CMFJsWS02bmowLXphbUJpalJ5UkZYVktOMDdUSG5sc1RubW1jWVBHak5CSEhoSGFiRUo4b2hHUnczMWg1ZnlB?oc=5",
+     "ts": "2026-10-29T11:15:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "64fe83d192a6",
    "title": "GTA 6 posts record purchase intent as nearly one in three US gamers plan to buy it",
    "first_seen": "2026-10-30T06:10:49Z",
@@ -60977,11 +61003,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T06:10:53Z",
+  "last_run": "2026-10-30T06:20:50Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 100/100",
-   "gnews_ru: 82/90",
+   "gnews_ru: 87/99",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
