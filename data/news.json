@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "985d05ef05cc",
+   "title": "You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale",
+   "first_seen": "2026-10-30T10:40:57Z",
+   "updated": "2026-10-30T10:40:57Z",
+   "items": [
+    {
+     "id": "985d05ef05cc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale",
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPc2NaQUZsdTJodGNPRGdJRXoybko4cXpISG9RbUF4NENWQVM2NU5pZlRnSkh3QnhEVVRPWF85VHlOSHBlcUVqZzY0VzhLM3lXZDdoTmJLb3VNdXoxekcwZHQ3WTFVbHdPM0xNTGRocDRESTFreFM1NHFObFYwZ3lKdU45X21NLWlpd0VvM1NQelByRFluZjRNZ19JOFg1dVJJUUVDa1hlX1dtX01XcFdzUjdUX0dMTVdpN19URWtVMkJUZUl1WjRDRjVSWnBwb3hya0lJUU9XbEpqcmpraGZ3b3NsQVNyMk81cnN1QVZzQXBiYXRvYlhrekRWTm1DOEVVaWhSc0x0dUNLM2J3RXNNRGZ4QnFwZUlKY0ZOeUU4OA?oc=5",
+     "ts": "2026-10-30T10:31:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В GTA 6 прокачка отношений: пляж и зал повышают рейтинг",
+    "summary": "По данным PC Gamer, в GTA 6 прогулки по пляжу и совместные тренировки повышают рейтинг пары по 4-балльной шкале. Это похоже на механику отношений из GTA: San Andreas. Официально Rockstar детали не подтверждала.",
+    "idea": "Короткая проверка: пляж или зал — что быстрее поднимет рейтинг пары в GTA 6. Зрителю интересно, как это влияет на геймплей и бонусы.",
+    "hook": "Пляж или зал — что быстрее прокачает отношения в GTA 6?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-30T10:41:10Z"
+   },
+   "msg_id": 348
+  },
+  {
    "id": "a4aadee43350",
    "title": "GTA 6 Original Score by Justice Releases December 11",
    "first_seen": "2026-10-29T13:10:52Z",
@@ -61227,11 +61264,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T10:31:12Z",
+  "last_run": "2026-10-30T10:41:10Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
-   "gnews_ru: 60/64",
+   "gnews_ru: 63/71",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
@@ -61242,7 +61279,7 @@
    "gtaboom: 11/30",
    "reddit: 23/25",
    "tg_gtavistar: 4/10",
-   "tg_gta6deluxe: 6/7",
+   "tg_gta6deluxe: 5/7",
    "tg_gta6_m: 12/19",
    "tg_gta6newsdaily: 4/14"
   ],
