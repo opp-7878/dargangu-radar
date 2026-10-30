@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "f5c326549083",
+   "title": "Capcom выпустит коллекционное издание по GTA 6 в Японии за 100 тысяч иен - без самой игры",
+   "first_seen": "2026-10-30T05:50:52Z",
+   "updated": "2026-10-30T05:50:52Z",
+   "items": [
+    {
+     "id": "f5c326549083",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Capcom выпустит коллекционное издание по GTA 6 в Японии за 100 тысяч иен - без самой игры",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQV9nVGhKYlRZT0FvdGozdVFJZ1RaLUZRaERfN1RwWFdneTZjQmJkc1ZKVjNkM0FScFRzNnFXb0VUSUtGTzA0SEJPNjQtQ2FoN21BRGdoRHhZRXhVdTVZR1VGOW5CcW82RmktNURUWTBpQlpCTUFCbUxVYUY3N1E2d3JCV2pOSXQ3YXFHQXpONldiRmNvajBjaGx5VldLMHZ3VTV4RlRzX2VDYUVMRVFycXN3SkE2UC1iZ3dzZVYzVTFxVWc3c2RUdE82cGNOZUdUUXc?oc=5",
+     "ts": "2026-10-30T05:37:06Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Коллекционка GTA 6 в Японии за 100 тысяч иен — без игры",
+    "summary": "PlayGround.ru сообщает, что в Японии выпустят коллекционное издание по GTA 6 за 100 тысяч иен без самой игры. Речь о мерче/боксе от Capcom, а не об издании от Rockstar.",
+    "idea": "Короткая реакция на цену коллекционки без игры: показываем ценник и реакцию, объясняем, что это мерч Capcom в Японии.",
+    "hook": "100 тысяч иен за коробку GTA 6. Без самой игры. Серьёзно?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-30T05:50:55Z"
+   },
+   "msg_id": 342
+  },
+  {
    "id": "0be9e3527cc8",
    "title": "I know South 𝖯̶𝖺̶𝗋̶𝗄̶ America was kinda sorta joking, but I think they're right...",
    "first_seen": "2026-10-30T05:40:49Z",
@@ -60845,11 +60884,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T05:40:49Z",
+  "last_run": "2026-10-30T05:50:55Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 100/100",
-   "gnews_ru: 92/100",
+   "gnews_en: 99/100",
+   "gnews_ru: 84/92",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
