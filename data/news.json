@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "d9bd1f543d36",
+   "title": "Miami vibes",
+   "first_seen": "2026-10-30T04:01:16Z",
+   "updated": "2026-10-30T04:01:16Z",
+   "items": [
+    {
+     "id": "d9bd1f543d36",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Miami vibes",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xj5dk9/miami_vibes/",
+     "ts": "2026-10-30T03:58:50Z",
+     "summary": "submitted by /u/BaBaDoooooooook to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "3e4f2939cf26",
    "title": "Miami Dade Approves $3.9 Million GTA 6 Vice City Marketing Deal",
    "first_seen": "2026-10-29T05:20:50Z",
@@ -60575,11 +60601,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T03:50:52Z",
+  "last_run": "2026-10-30T04:01:16Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
-   "gnews_ru: 92/100",
+   "gnews_ru: 93/100",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
