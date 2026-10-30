@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "5a2a24bbe18a",
+   "title": "Роб Бринкманн опроверг слухи, что он озвучивает Джейсона в GTA 6",
+   "first_seen": "2026-10-30T12:31:08Z",
+   "updated": "2026-10-30T12:31:08Z",
+   "items": [
+    {
+     "id": "5a2a24bbe18a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Роб Бринкманн опроверг слухи, что он озвучивает Джейсона в GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVVkeW4wUVY0QmdaNWR1RkpfZDBGNmt3bmlwTlJVZllmWV9vRmIzNXlxeENvOGZtaGtsWUFIQlRKazFidGdFTDF4QXdkaW1LUC1HbjZBVS1zNURZSXlQUVVzSEJyYUhnRm9xcUtOS0RjM3duemczRTVLWENvSnJrelFfLUh6aTAwMW9GWFpDT1kwVnpSTWtqcEthWWE?oc=5",
+     "ts": "2026-10-30T11:22:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0530beea3e69",
+   "title": "GTA 6 map size is so big it rivals GTA 4, GTA 5, and Red Dead Redemption 2's combined – and Rockstar devs are still discovering places they've never seen",
+   "first_seen": "2026-10-30T12:31:08Z",
+   "updated": "2026-10-30T12:31:08Z",
+   "items": [
+    {
+     "id": "0530beea3e69",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 map size is so big it rivals GTA 4, GTA 5, and Red Dead Redemption 2's combined – and Rockstar devs are still discovering places they've never seen",
+     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPUERqY1VSa1Y3WjY1bW9qcUJmTEpLRzE3WVZhVWhYVVBaVTVNenduQ0NUSnlCUHFLczRiWTNIWWhQaHo2RTBkbFloTjJMU2tmWmVTQ0p5c1k2Vl9HVUhzV2tPTTJrTmQwNE1IOVB0RmVSYV9XOGt1VnJzMFJzbVY1ZG1ZTnBlMld6Yjgyc0FERHpVZnM3b1RGajQ4LU9NX2I3RVAyeE1iUHdhQmltT05yRC1qNjlHY1dZaUg4QlFNYkhqTXJ6SF9QdWdGTjhVS2hIM19sUnU5cmxxZzFVd1VWcV9EMkFtZHVIXzVtSHhTQktsYkNxaEk5YlljNERxOEEzbTU0TmpGM2pVaHlVYXBtLTM1bzNTWm9pWHo4RFA0WFVZTDla?oc=5",
+     "ts": "2026-10-30T12:18:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e2b229f2408b",
    "title": "What GTA VI’s $20 Ultimate Edition Upgrade Actually Buys You",
    "first_seen": "2026-10-30T01:40:52Z",
@@ -61449,17 +61501,17 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T12:20:50Z",
+  "last_run": "2026-10-30T12:31:08Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
-   "gnews_ru: 58/64",
+   "gnews_ru: 56/60",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
    "ign: 0/20",
    "eurogamer: 1/100",
-   "dexerto_gta: 5/50",
+   "dexerto_gta: 4/50",
    "rockstarintel: 7/10",
    "gtaboom: 11/30",
    "reddit: 23/25",
