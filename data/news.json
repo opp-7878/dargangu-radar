@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "87211f2c1ecf",
+   "title": "GTA 6 New Gameplay in South Park Shows Jason Attacking NPC With Dog Poop",
+   "first_seen": "2026-10-30T04:40:54Z",
+   "updated": "2026-10-30T06:01:20Z",
+   "items": [
+    {
+     "id": "87211f2c1ecf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MMOEXP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 New Gameplay in South Park Shows Jason Attacking NPC With Dog Poop",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlp1YmRuOHN2dERLVmo5Y0lYcFpLR1o4VWlWeWVndERpakMyeVpxRGlzeFpvTW4xWk9fX25xd3NFaEhVdzRqUVV5WTBZV0xfaDZTX1hwb2JVcThiVENaVEhveThrZGM5TTEzNUlOMzFTVWNRbTJLQTRiWDhLZm8yVDFRT2dQSmZEU0dKdUhlMVVZVmU0MDkySVNYV2VDLUZ6cnplVHhxZzA?oc=5",
+     "ts": "2026-10-30T02:18:53Z",
+     "summary": ""
+    },
+    {
+     "id": "3e87ce8eb0ba",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Next episode of South Park will contain more gameplay clips.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xj7h05/next_episode_of_south_park_will_contain_more/",
+     "ts": "2026-10-30T05:59:42Z",
+     "summary": "Mark my words. The next episode is November 11th; it only makes sense for South Park and Rockstar to capitalize on this further. submitted by /u/Pry_3rd_Eye to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "dd0314198f64",
+   "title": "Rockstar действительно усилила защиту обзорных копий GTA 6, но слухи о водяных знаках не подтвердились",
+   "first_seen": "2026-10-30T06:01:20Z",
+   "updated": "2026-10-30T06:01:20Z",
+   "items": [
+    {
+     "id": "dd0314198f64",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar действительно усилила защиту обзорных копий GTA 6, но слухи о водяных знаках не подтвердились",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQXdmNXRSdW1CSVZIR2dRVmsyakpMQk1FNEZYbUwtbEFGTE9OLXRWTlBtblcyZmd2eGgxcmhVeEg0RHVad1lsMnJoWUFlWE45TlZuSW5PNVFlU2FLLWExelhjNU1BaEczdTVaNHVUQjkzVlBwbmVtcmtUc1J2TTItUFFjUzc4V1BMYTJrSXh0WmtWRnpzTHNfOW1od2J3NnVFOGpITnBjQzVKRkxyOElGelN3OTVMWWFrQ1AtX0EwWkJVSDkzQlp6eTQtc2x1QzlPQkZVNFNOQlR4TjJQeEJ1Mg?oc=5",
+     "ts": "2026-10-30T05:52:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Rockstar усилила защиту обзорных копий GTA 6",
+    "summary": "По данным PlayGround.ru, Rockstar усилила защиту обзорных копий GTA 6. Слухи о водяных знаках в версиях для прессы не подтвердились.",
+    "idea": "Коротко объясняем, как Rockstar защищает пресс-копии GTA 6 и почему водяные знаки — фейк. Зрителю важно знать, что утечек меньше, а слухи — не всегда правда.",
+    "hook": "Водяные знаки в пресс-копиях GTA 6? Rockstar ответила — вот правда.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-30T06:01:24Z"
+   },
+   "msg_id": 343
+  },
+  {
    "id": "f5c326549083",
    "title": "Capcom выпустит коллекционное издание по GTA 6 в Японии за 100 тысяч иен - без самой игры",
    "first_seen": "2026-10-30T05:50:52Z",
@@ -251,34 +331,6 @@
    "score": 40,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "87211f2c1ecf",
-   "title": "GTA 6 New Gameplay in South Park Shows Jason Attacking NPC With Dog Poop",
-   "first_seen": "2026-10-30T04:40:54Z",
-   "updated": "2026-10-30T04:40:54Z",
-   "items": [
-    {
-     "id": "87211f2c1ecf",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MMOEXP",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 New Gameplay in South Park Shows Jason Attacking NPC With Dog Poop",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlp1YmRuOHN2dERLVmo5Y0lYcFpLR1o4VWlWeWVndERpakMyeVpxRGlzeFpvTW4xWk9fX25xd3NFaEhVdzRqUVV5WTBZV0xfaDZTX1hwb2JVcThiVENaVEhveThrZGM5TTEzNUlOMzFTVWNRbTJLQTRiWDhLZm8yVDFRT2dQSmZEU0dKdUhlMVVZVmU0MDkySVNYV2VDLUZ6cnplVHhxZzA?oc=5",
-     "ts": "2026-10-30T02:18:53Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "геймплей"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -60884,11 +60936,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-30T05:50:55Z",
+  "last_run": "2026-10-30T06:01:25Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 99/100",
-   "gnews_ru: 84/92",
+   "gnews_en: 100/100",
+   "gnews_ru: 83/91",
    "gamesbeat: 0/10",
    "vgc: 2/10",
    "insider_gaming: 1/10",
@@ -60897,13 +60949,13 @@
    "dexerto_gta: 6/50",
    "rockstarintel: 6/10",
    "gtaboom: 11/30",
-   "reddit: 21/25",
+   "reddit: 22/25",
    "tg_gtavistar: 4/10",
    "tg_gta6deluxe: 6/7",
    "tg_gta6_m: 11/19",
    "tg_gta6newsdaily: 4/14"
   ],
-  "digest": "2026-10-29@21",
+  "digest": "2026-10-30@9",
   "tg_offset": 854319078
  }
 }
