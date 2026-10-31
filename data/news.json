@@ -1,6 +1,118 @@
 {
  "stories": [
   {
+   "id": "31783f6a54ff",
+   "title": "Take-Two's November Gauntlet: A Union Ballot, a Fresh GTA VI Trailer, and Two Bulls Who Won't Blink",
+   "first_seen": "2026-10-31T19:20:48Z",
+   "updated": "2026-10-31T19:20:48Z",
+   "items": [
+    {
+     "id": "31783f6a54ff",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ad-hoc-news.de",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take-Two's November Gauntlet: A Union Ballot, a Fresh GTA VI Trailer, and Two Bulls Who Won't Blink",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUFpYUlJBaTdpa3h2LUlKQWlQUnFOd0hxZXZzLVNMSGZzNU03Y2tGUGF6RW9VY0EzZE9wYzJ3QWcwWll4S0NGUE1Femd1N1FKWDJFVVBPRFRkU2M1Q3RaVTBiQ0VZdzBsMDhFNG15N3NjbUlhRmRTQ0pXa3RIR2ZsSlIwdnpiMlNEck5GQUVqNmFtRDUxUE1kMUNubGxZRmV5OFNuN00yMHVETlh6Y1F4N2FIaDlNaGJSUjVQd2NaMUJ6Zk03ZU1oeWNIbEx1ZDducUY1MDE0dVpiRDNsYmUwZlZ5Uk9ZbHQ1bW9BdzVvd1BmZlRyYkxuUFJpY2Y?oc=5",
+     "ts": "2026-10-31T19:10:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two",
+    "трейлер"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "6123fdc2c49b",
+   "title": "🎙 Узнали голос?",
+   "first_seen": "2026-10-31T19:20:48Z",
+   "updated": "2026-10-31T19:20:48Z",
+   "items": [
+    {
+     "id": "6123fdc2c49b",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🎙 Узнали голос?",
+     "url": "https://t.me/GTA6_m/9281",
+     "ts": "2026-10-31T19:15:08Z",
+     "summary": "🎙 Узнали голос? — оказывается, фрагмент GTA VI в коллаборации Rockstar с South Park озвучила Тиш Хикс Та самая дикторша из геймплейного трейлера GTA V 2013 года 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [
+    "геймплей",
+    "трейлер"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "URLError: <urlopen error timed out>"
+  },
+  {
+   "id": "9b14aae5fbaf",
+   "title": "Getting in a bike accident with lucia is gonna be so funny 😭",
+   "first_seen": "2026-10-31T19:20:48Z",
+   "updated": "2026-10-31T19:20:48Z",
+   "items": [
+    {
+     "id": "9b14aae5fbaf",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Getting in a bike accident with lucia is gonna be so funny 😭",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xkivbw/getting_in_a_bike_accident_with_lucia_is_gonna_be/",
+     "ts": "2026-10-31T19:19:26Z",
+     "summary": "Its so funny just imagining it. She might really get disappointed. submitted by /u/Adept-Site-2235 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6de946a55600",
+   "title": "Gta6 is not far away",
+   "first_seen": "2026-10-31T19:20:48Z",
+   "updated": "2026-10-31T19:20:48Z",
+   "items": [
+    {
+     "id": "6de946a55600",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Gta6 is not far away",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xkiw8m/gta6_is_not_far_away/",
+     "ts": "2026-10-31T19:20:28Z",
+     "summary": "submitted by /u/AdultGamersAdmin to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f6a27e49d718",
    "title": "Криминальный профиль. В GTA VI появится система репутации, которая будет влиять на сюжет и геймплей",
    "first_seen": "2026-10-31T18:10:53Z",
@@ -64902,10 +65014,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T19:10:52Z",
+  "last_run": "2026-10-31T19:22:19Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 75/78",
+   "gnews_en: 75/77",
    "gnews_ru: 28/44",
    "gamesbeat: 0/10",
    "vgc: 0/10",
@@ -64913,12 +65025,12 @@
    "ign: 0/20",
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
-   "rockstarintel: 4/10",
+   "rockstarintel: 3/10",
    "gtaboom: 6/30",
    "reddit: 23/25",
    "tg_gtavistar: 4/11",
    "tg_gta6deluxe: 8/9",
-   "tg_gta6_m: 7/17",
+   "tg_gta6_m: 8/17",
    "tg_gta6newsdaily: 1/15"
   ],
   "digest": "2026-10-31@21",
