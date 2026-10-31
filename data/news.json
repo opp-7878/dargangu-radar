@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "d69a61c85074",
+   "title": "В GTA VI можно будет кидаться какашками в людей — новый отрывок геймплея игры показали в «Южном Парке»",
+   "first_seen": "2026-10-31T05:50:51Z",
+   "updated": "2026-10-31T05:50:51Z",
+   "items": [
+    {
+     "id": "d69a61c85074",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В GTA VI можно будет кидаться какашками в людей — новый отрывок геймплея игры показали в «Южном Парке»",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50ak5XTk9jN3l0UWJDbVJ3WUY4V3A1aUdZb2NuMnE2d1g2dWJCSUtkeWsxcDVIV2packZPTm9lT09GdVhiaWg4MEJCVnA?oc=5",
+     "ts": "2026-10-30T17:15:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
    "id": "85d7219757a2",
    "title": "[OC] Looks Like Reviewers are Leaking Early Access",
    "first_seen": "2026-10-31T05:31:06Z",
@@ -62759,41 +62787,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "615363634c88",
-   "title": "Circana’s Mat Piscatella: ‘Not everyone wants to play GTA’ | interview",
-   "first_seen": "2026-10-24T05:50:45Z",
-   "updated": "2026-10-24T05:50:45Z",
-   "items": [
-    {
-     "id": "615363634c88",
-     "src": "gamesbeat",
-     "src_name": "GamesBeat",
-     "outlet": "",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "Circana’s Mat Piscatella: ‘Not everyone wants to play GTA’ | interview",
-     "url": "https://gamesbeat.com/circanas-mat-piscatella-not-everyone-wants-to-play-gta-interview/",
-     "ts": "2026-10-23T21:25:00Z",
-     "summary": "“The fear of Grand Theft Auto VI is overblown.” When Mat Piscatella, Circana’s director of video games, dropped that line in a conversation with... The post Circana’s Mat Piscatella: ‘Not everyone wants to play GTA’ | interview appeared first on GamesBeat ."
-    }
-   ],
-   "tags": [],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T05:40:52Z",
+  "last_run": "2026-10-31T05:50:51Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 95/100",
-   "gnews_ru: 39/49",
+   "gnews_ru: 41/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
