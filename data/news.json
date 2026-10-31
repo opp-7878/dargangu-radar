@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "251b844b9f4e",
+   "title": "No swimming allowed?",
+   "first_seen": "2026-10-31T00:40:53Z",
+   "updated": "2026-10-31T00:40:53Z",
+   "items": [
+    {
+     "id": "251b844b9f4e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "No swimming allowed?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xjucob/no_swimming_allowed/",
+     "ts": "2026-10-30T23:10:20Z",
+     "summary": "Can someone explain to me why there are still no NPCs swimming in the water? This has bothered me from the very beginning. They just stand around in the water. Is it difficult to animate this for multiple NPCs, or why hasn't it been implemented in the game? submitted by /u/LetMeHeal to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "98f5ee6ce864",
+   "title": "GTA 6: 12 New Screenshots Leave Vice City [2026]",
+   "first_seen": "2026-10-31T00:40:53Z",
+   "updated": "2026-10-31T00:40:53Z",
+   "items": [
+    {
+     "id": "98f5ee6ce864",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "tech-insider.org",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: 12 New Screenshots Leave Vice City [2026]",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1JiNmdGVHBuUEU4X1I4Z1ROYXRKUy1NS2JsZWhOQUVnTUdzcGlDZXVRd0pTLTZ5TTRJUmpmb3Y1VWRkS1NCbjdIN05HV3JMa3U2b1B3OXFYeW1Yc0w4QVBnYndPbnZkNHRLRTJrc1FVUjdqM2hNU2YtUVJRRkZfWlZhS1Jfd0lR?oc=5",
+     "ts": "2026-10-31T00:32:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c8c38faca7de",
+   "title": "Had an epiphany how to play my first play through.",
+   "first_seen": "2026-10-31T00:40:53Z",
+   "updated": "2026-10-31T00:40:53Z",
+   "items": [
+    {
+     "id": "c8c38faca7de",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Had an epiphany how to play my first play through.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xjw7ga/had_an_epiphany_how_to_play_my_first_play_through/",
+     "ts": "2026-10-31T00:33:03Z",
+     "summary": "The majority of us at this stage in our gaming careers have so much experience. Theres an abundance of games, styles, experiences to be had picking up a controller and gaming in 2026. I think I speak for most of us at this point when talking about how much we are all anticipating this Grand Theft Auto 6 experience to unfold. We’ve been blessed to this point with so many game breaking games and stories. Thousands of hours of joy and unadulterated bliss playing different video games. The GTA hype has been broken down a million times over. Over literally, the last decade. I’ve read a million arti"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c08857dbeb69",
    "title": "Банда Marabunta Grande возвращается в GTA VI Marabunta Grande - сальвадорская уличная банда, знакомая игрокам GTA V и GTA Online.... 2026",
    "first_seen": "2026-10-31T00:31:16Z",
@@ -62536,11 +62614,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T00:31:16Z",
+  "last_run": "2026-10-31T00:40:53Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 95/100",
-   "gnews_ru: 40/49",
+   "gnews_ru: 40/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
