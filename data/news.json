@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "3ceccad08630",
+   "title": "GTA 6 South Park preview: What the gameplay clip shows",
+   "first_seen": "2026-10-31T19:40:54Z",
+   "updated": "2026-10-31T19:40:54Z",
+   "items": [
+    {
+     "id": "3ceccad08630",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rolling Out",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 South Park preview: What the gameplay clip shows",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DSFpxRXYtenhHYVlkWXJBc2NlVUZEUmJDME5lU2JzYmJQY05Kc3BSUzY0Z243NElqRnJyekRfR0QtZ1RUaDlUSjBEb2JiRUxjcnE0U2VGcW5CNEVDTF9LOTNYcXVWckpkXzNiT1VqZDlldHFZU0ZOXzF4SC0?oc=5",
+     "ts": "2026-10-31T19:30:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Геймплей GTA 6 в стиле South Park: что показали в ролике",
+    "summary": "По данным Rolling Out, появился ролик с геймплеем GTA 6 в стиле South Park. В клипе видно, как меняется визуальный стиль и как это влияет на анимацию и окружение.",
+    "idea": "Покажем нарезку кадров из клипа с обводкой деталей: как меняется стиль и анимация. Зрителю интересно увидеть, как GTA 6 выглядит в необычном визуальном стиле.",
+    "hook": "Геймплей GTA 6 в стиле South Park — смотрим, что изменилось.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-31T19:40:58Z"
+   },
+   "msg_id": 391
+  },
+  {
+   "id": "49a45b820efe",
+   "title": "Extended Look with Pusher from Justice",
+   "first_seen": "2026-10-31T19:40:54Z",
+   "updated": "2026-10-31T19:40:54Z",
+   "items": [
+    {
+     "id": "49a45b820efe",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Extended Look with Pusher from Justice",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkj9gg/extended_look_with_pusher_from_justice/",
+     "ts": "2026-10-31T19:35:47Z",
+     "summary": "submitted by /u/MrKoddy to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "40e1652a2f00",
    "title": "In 10 years, will GTA 6 be considered the best in the series?",
    "first_seen": "2026-10-31T19:35:00Z",
@@ -65042,10 +65107,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T19:35:00Z",
+  "last_run": "2026-10-31T19:40:58Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 83/85",
+   "gnews_en: 85/87",
    "gnews_ru: 29/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
