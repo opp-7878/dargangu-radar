@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "cb943aa867bf",
+   "title": "GTA 6 marketing in Serie A league in Italy",
+   "first_seen": "2026-10-31T20:20:53Z",
+   "updated": "2026-10-31T20:20:53Z",
+   "items": [
+    {
+     "id": "cb943aa867bf",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 marketing in Serie A league in Italy",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkk6fv/gta_6_marketing_in_serie_a_league_in_italy/",
+     "ts": "2026-10-31T20:13:15Z",
+     "summary": "submitted by /u/_m1rko_vp to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3230ffd814a0",
+   "title": "GTA 6 Has More Sports Activities Than You Might Expect — Here’s What’s Included",
+   "first_seen": "2026-10-31T20:20:53Z",
+   "updated": "2026-10-31T20:20:53Z",
+   "items": [
+    {
+     "id": "3230ffd814a0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Athlon Sports",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Has More Sports Activities Than You Might Expect — Here’s What’s Included",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hRWJCVHlXTEVOc0sxdUxuWlBYMlFJLWUtX0lEaUs3Z3hkbV8wM0tTZjhPdzY1X25Hamhjb3JuUk5xR0dldkNaaXhBdmg5ZkdZRTVjUklaMG15RE9OcXY5eUt6ckgxUkFrV1k1Q2cya3Jmd2tROFlQYVlsbE0?oc=5",
+     "ts": "2026-10-31T20:14:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a5737c63cb4f",
    "title": "When Will Grand Theft Auto VI Launch on PC? Analyst Reveals When the Highly Anticipated Port Could Arrive",
    "first_seen": "2026-10-31T14:10:50Z",
@@ -65258,53 +65310,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c0813702576c",
-   "title": "GTA 6 Is Taking Its Marketing to a Whole New Level",
-   "first_seen": "2026-10-24T20:10:50Z",
-   "updated": "2026-10-24T20:20:46Z",
-   "items": [
-    {
-     "id": "c0813702576c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "OpenCritic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Is Taking Its Marketing to a Whole New Level",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeVBVSGtBLVpuZWVZUkZQNms1eG5DMlFud24wcXd3MWNYVzNSWkZtTk44LUpJaVpUYnZKMXFnZi1IMDF4NHJTMjJpWG9NcnhzeThnUzRPM2d3dmRBNDdSNV9yWm1CZW5aMmU4a01ORHpGZEY0cm5CVFZLeVVHbjlpMW5xb0trMXdhWWpIag?oc=5",
-     "ts": "2026-10-24T20:07:12Z",
-     "summary": ""
-    },
-    {
-     "id": "cf3cdf54bd8f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameRant",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Is Taking Its Marketing to a Whole New Level",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0a294QXNmd1Z5QTFtZHhKd1RoQ2VuSkFKWktvN3R5ZDFjUXNYZkZPMnNJWVZjeUxDV1lWZlNBQ01TZl9na1d1bW5obGh5N2pHOVBSYXlSM1dYT2lwZTFjZ01mekx2aDlEeEdvRGNqdF8?oc=5",
-     "ts": "2026-10-24T20:00:16Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T20:10:51Z",
+  "last_run": "2026-10-31T20:20:53Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 78/80",
+   "gnews_en: 87/90",
    "gnews_ru: 29/46",
    "gamesbeat: 0/10",
    "vgc: 0/10",
@@ -65314,7 +65327,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 3/10",
    "gtaboom: 6/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 4/11",
    "tg_gta6deluxe: 8/9",
    "tg_gta6_m: 8/17",
