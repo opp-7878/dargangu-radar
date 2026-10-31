@@ -4,7 +4,7 @@
    "id": "6e176e4b3249",
    "title": "GTA VI's 210GB download could cost an extra €11.55 in France if a new data tax becomes law",
    "first_seen": "2026-10-31T15:47:44Z",
-   "updated": "2026-10-31T15:47:44Z",
+   "updated": "2026-10-31T16:01:24Z",
    "items": [
     {
      "id": "6e176e4b3249",
@@ -18,11 +18,52 @@
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwMmg0a2t5QkVxY0l3QTJoMFN4QW5FQklBLXRZR1RoTXhJWHV6WmNPYTAybTdEZGFFT1ZQVHhVazhpeGJpaHJDUkU2MERnUDRQMlIwbWlla3RVdVhSaV8ybHZ0bXBraWdrSUE?oc=5",
      "ts": "2026-10-31T15:41:13Z",
      "summary": ""
+    },
+    {
+     "id": "3bb3d7b69872",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TweakTown",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI's 210GB download could cost an extra €11.55 in France if a new data tax becomes law",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdWhreEJqdmdFNU5tQTBHc3pRMUV4LTBUMTc0QU5uMzFEcWROdUZLR3JCb3E4cmpBRkpIUVZMTWZfemE2c0c0OEpLUFdKMkNwV0hOR1FEdjdSZGh1SndtdXpTcTlHdW9Yb1NSUDRZZFVkSkpIdWtSLV92T25XM2RYYUNaLWVVRzZMa25EdGlxSlNYV1A4b3ppb1JJNnBUQUdpZUZpcXZHdHFMZGptV3dISXFCdndISkdWOF9VNV9WczZMbmxkcGpKSldROTVfbzJ4ZHltelFXT2Y?oc=5",
+     "ts": "2026-10-31T15:41:13Z",
+     "summary": ""
     }
    ],
    "tags": [],
    "score": 50,
    "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e7920b312e91",
+   "title": "Does anyone expect further expansions to GTA VI, similar to GTA IV?",
+   "first_seen": "2026-10-31T16:01:24Z",
+   "updated": "2026-10-31T16:01:24Z",
+   "items": [
+    {
+     "id": "e7920b312e91",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Does anyone expect further expansions to GTA VI, similar to GTA IV?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xkdqf8/does_anyone_expect_further_expansions_to_gta_vi/",
+     "ts": "2026-10-31T15:53:39Z",
+     "summary": "I know many live and breathe for the expected GTA VI online (following the game's release), and also how early it is to discuss something like this, but personally, having played both expansions of GTA IV, I would love to see more. I hope R* doesn't follow the same route with GTA V, focusing only on multiplayer. What are your thoughts? submitted by /u/Antique_Newspaper_99 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
    "alerted": "",
    "status": "new"
   },
@@ -64242,11 +64283,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T15:50:53Z",
+  "last_run": "2026-10-31T16:01:24Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 86/90",
-   "gnews_ru: 29/42",
+   "gnews_en: 82/86",
+   "gnews_ru: 34/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
