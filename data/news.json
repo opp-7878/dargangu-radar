@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "5656ef5ea3e3",
+   "title": "В GTA 6 будет русская озвучка: кто сделает дубляж?",
+   "first_seen": "2026-10-31T14:20:53Z",
+   "updated": "2026-10-31T14:20:53Z",
+   "items": [
+    {
+     "id": "5656ef5ea3e3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В GTA 6 будет русская озвучка: кто сделает дубляж?",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0owakNLeFVaaFNuV2RCbHowU05OeGo5TEtiTUZwUGlZT21WMjFnQklTaU1BV3ZSd2tJZzRnWkl4VDVZNmZLVnZBOXhTNjNHbFRsdklrYVZsMnd5V1QtU0t2OE1BT2FNZVJsWDBrbGZEOEtYR21HN1BycC1DVEZCWGZfc3l1Ty1MSkNyYnF2TndJQQ?oc=5",
+     "ts": "2026-10-31T13:50:56Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "06bc534c0bac",
+   "title": "GTA 6 Police Won’t Search a Bus They Didn’t See a Player Board, Rockstar Says",
+   "first_seen": "2026-10-31T14:20:53Z",
+   "updated": "2026-10-31T14:20:53Z",
+   "items": [
+    {
+     "id": "06bc534c0bac",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Happy Gamer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Police Won’t Search a Bus They Didn’t See a Player Board, Rockstar Says",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94OTdGMVJSLTQ4SkFOMFBXajhUUHlGQnZZRzJ6QllnRmk2UFVMTUdqUE1HajVMdWp3VlRINlRDWjRZNlhmamlqQmVHZGhqVlM2Ty1VbzdRZGRQalZYazUtSG1ucW9NRXlrS28w?oc=5",
+     "ts": "2026-10-31T14:06:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d2e182d49c85",
    "title": "\"GTA VI\" может стать крупнейшим игровым релизом десятилетия",
    "first_seen": "2026-10-30T21:50:52Z",
@@ -63956,11 +64008,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T14:10:50Z",
+  "last_run": "2026-10-31T14:20:53Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 84/86",
-   "gnews_ru: 31/40",
+   "gnews_en: 83/85",
+   "gnews_ru: 31/42",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
