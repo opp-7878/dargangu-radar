@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "5ff0b66af92f",
+   "title": "What took Grand Theft Auto VI so long?",
+   "first_seen": "2026-10-31T02:20:54Z",
+   "updated": "2026-10-31T02:20:54Z",
+   "items": [
+    {
+     "id": "5ff0b66af92f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PressReader",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "What took Grand Theft Auto VI so long?",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTdHeXRIMF80NnNnX0NjM2huTHNIRTRFTWFyc1hic3NtcXJwLWtlbVotTk1NaEQ3azBBeXBucDNCU3pkOEpGZ1FDZG5jc25VS3c3UVA0WTdXT2hWSTYwTm5LTUdOMG9HalllbEJCNUotdmpXRjNyNkM2QkhfZlVabWhKYVhaX19ydWFyMzJHd2RuTkZhZEJ0UG9UaXo?oc=5",
+     "ts": "2026-10-31T01:32:05Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4d9c5fa1cbf1",
+   "title": "Guys, I am concerned something will happen before the 19th.",
+   "first_seen": "2026-10-31T02:20:54Z",
+   "updated": "2026-10-31T02:20:54Z",
+   "items": [
+    {
+     "id": "4d9c5fa1cbf1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Guys, I am concerned something will happen before the 19th.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xjyetu/guys_i_am_concerned_something_will_happen_before/",
+     "ts": "2026-10-31T02:17:16Z",
+     "summary": "I’m so excited to play gta vi and I can’t help but feel we aren’t going to make it maybe. Like something bad is going to happen before the 19th. Anyone else feel that way? submitted by /u/Even-Leadership8220 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "efa341df9d76",
    "title": "Take-Two's Pullback Hasn't Made GTA VI A Cheap Bet (Earnings Preview) (NASDAQ:TTWO)",
    "first_seen": "2026-10-30T14:31:07Z",
@@ -62499,11 +62551,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T02:10:53Z",
+  "last_run": "2026-10-31T02:20:54Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 95/100",
-   "gnews_ru: 39/57",
+   "gnews_ru: 40/50",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
