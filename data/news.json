@@ -1,6 +1,47 @@
 {
  "stories": [
   {
+   "id": "43eab2d5e4a9",
+   "title": "Rockstar Games Makes New Official Statement on GTA 6's Story",
+   "first_seen": "2026-10-31T10:10:52Z",
+   "updated": "2026-10-31T10:40:49Z",
+   "items": [
+    {
+     "id": "43eab2d5e4a9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games Makes New Official Statement on GTA 6's Story",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42eWxBdWgtTnFKQ000YjZBR1VKaEpadTFsVzZIc3hvVDY5UmpZeFNsaXZ0RDRzbTIwZEN1TWdpQWZGd0hFek9pZzR0dXBsWlZGd1ZfZUJLYlBtSW5ZTDFabjd1SmtnR003YkVUYnhYM3dNY19XZGc?oc=5",
+     "ts": "2026-10-31T10:01:15Z",
+     "summary": ""
+    },
+    {
+     "id": "8ce5e6b85f5d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games Makes New Official Statement on GTA 6's Story",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVldHLXNkQ2lkQmVjSDdNNFY0Qlp5UXRuZ0lTU08wdzJyUmk4ZmV3cjJaODhZMk9ZelN5WFlzeWpUSVFiSEp2X0NLRmlkWGtSUzc4ajhldUVtRHN6VTdHT3lsN2swV0FpZC1PN3RkcEIwV1BTemtqWkttWGhjeHFQektYYTNvcHIzaGYyQkpkdXUxT0ZmcFhHeQ?oc=5",
+     "ts": "2026-10-31T10:37:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "URLError: <urlopen error timed out>"
+  },
+  {
    "id": "72607e0fbc81",
    "title": "GTA 6 map is twice the size of GTA 5 before November 19 launch",
    "first_seen": "2026-10-31T10:31:04Z",
@@ -237,32 +278,6 @@
    "score": 90,
    "level": "PROBABLE",
    "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "43eab2d5e4a9",
-   "title": "Rockstar Games Makes New Official Statement on GTA 6's Story",
-   "first_seen": "2026-10-31T10:10:52Z",
-   "updated": "2026-10-31T10:10:52Z",
-   "items": [
-    {
-     "id": "43eab2d5e4a9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameRant",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Games Makes New Official Statement on GTA 6's Story",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42eWxBdWgtTnFKQ000YjZBR1VKaEpadTFsVzZIc3hvVDY5UmpZeFNsaXZ0RDRzbTIwZEN1TWdpQWZGd0hFek9pZzR0dXBsWlZGd1ZfZUJLYlBtSW5ZTDFabjd1SmtnR003YkVUYnhYM3dNY19XZGc?oc=5",
-     "ts": "2026-10-31T10:01:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -63245,41 +63260,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b7eda0f1e1fc",
-   "title": "1.5 Million US Workers Plan to Skip 19 November for GTA 6, Estimate Says",
-   "first_seen": "2026-10-24T10:40:48Z",
-   "updated": "2026-10-24T10:40:48Z",
-   "items": [
-    {
-     "id": "b7eda0f1e1fc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Loadout",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "1.5 Million US Workers Plan to Skip 19 November for GTA 6, Estimate Says",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVllXQktQTGdWSTRoX3RKT3hqajVlNXZTdzdnbUpCMUEtT2ZjQ2VGM1BIRnBUTkxmeUVSN0wySnZ3Rl95VFhMRURsbEVqRkdCbklTVWJad3JHOExFOWhxNTFyLUtJbG1vX2VvVVI0NDhVQ0Fwa0YwNERVdmNjWEZ5eWd3Wjg3bG81SE5NczloaGJlbFU?oc=5",
-     "ts": "2026-10-24T08:35:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T10:31:04Z",
+  "last_run": "2026-10-31T10:42:21Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 97/100",
-   "gnews_ru: 26/37",
+   "gnews_en: 96/100",
+   "gnews_ru: 26/36",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
