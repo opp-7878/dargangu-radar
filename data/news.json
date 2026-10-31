@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "b31bb52fc1a5",
+   "title": "GTA 6 Confirmed to Feature Fuel Gauges and Quick Refuelling",
+   "first_seen": "2026-10-31T07:31:13Z",
+   "updated": "2026-10-31T07:31:13Z",
+   "items": [
+    {
+     "id": "b31bb52fc1a5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "A 90s Kid",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Confirmed to Feature Fuel Gauges and Quick Refuelling",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQW50akxkOUh5WlRKcmR6bzR3blFzcWJ0V0NjQTh2NmpPVFluaHBDSVBZOTFBaC1aYTFGVUx5QzFrYXZ2bVFpeGxkaHJvUzVjelkzdzRWWTdnZFAta1B0RDhESE1LbUkyMS1VLWRvZFVYdnFIZlVzVWdTTk9oMDZFYUV1STlFVUVXaW9PdQ?oc=5",
+     "ts": "2026-10-30T08:36:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
    "id": "179743c51823",
    "title": "Grand Theft Auto 6 Soundtrack Album by Justice to Release on December 11: Everything we Know so Far",
    "first_seen": "2026-10-31T07:20:52Z",
@@ -62866,11 +62894,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T07:20:52Z",
+  "last_run": "2026-10-31T07:31:13Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 96/100",
-   "gnews_ru: 38/60",
+   "gnews_en: 97/100",
+   "gnews_ru: 38/59",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
