@@ -1,6 +1,69 @@
 {
  "stories": [
   {
+   "id": "5989670365ec",
+   "title": "I'm 100% here for a more realistic GTA 6, one I believe won't come at the expense of its usual chaos",
+   "first_seen": "2026-10-31T13:10:52Z",
+   "updated": "2026-10-31T13:10:52Z",
+   "items": [
+    {
+     "id": "5989670365ec",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "I'm 100% here for a more realistic GTA 6, one I believe won't come at the expense of its usual chaos",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaTlqQnczU25mLTROWFpvU3Nla3RGX0lfajRXYTYwQjJkaVdUbGRBMlpRX1BDTlRNUHp5M2ZjWmMxQWtlMUVPMVI3VjdnVTVVYmpPQXp6UTd4UDJmeHJnWGZXQXY1ckJFOUJRWjc4M1hYc0tTbC1CZExxTGJ6RDI4Skc2TmZNejVTWDMya3dPcXdGRm9CVVI0TVRnSUNKVEJjeEs4WUVXZC1EbkVrd05MTnI4MHVYd3dyQmZFWVowVFpGQURvNEI1Nk5XM1FzMTR6ekFjb01LMmxNM1BwOVMyLTU1ZGtzdVpERnBxZ1J0YWROdUFqU2hnR2x3MmhTRnI5?oc=5",
+     "ts": "2026-10-31T13:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 станет реалистичнее, но без потери хаоса",
+    "summary": "PC Gamer пишет, что GTA 6 может стать реалистичнее, но без ущерба для фирменного хаоса серии. Автор отмечает, что не хочет терять безумные моменты ради реализма.",
+    "idea": "Короткий монтаж: реалистичная физика и аварии против безумных трюков. Зрителю интересно, сохранит ли GTA 6 фирменный хаос.",
+    "hook": "Реализм без скуки? Смотрим, как GTA 6 удержит фирменный хаос.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-31T13:10:57Z"
+   },
+   "msg_id": 375
+  },
+  {
+   "id": "4fdbd665dc99",
+   "title": "Do you think GTA 6 will bring back missions where they tell you to lose weight beforehand?",
+   "first_seen": "2026-10-31T13:10:52Z",
+   "updated": "2026-10-31T13:10:52Z",
+   "items": [
+    {
+     "id": "4fdbd665dc99",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Do you think GTA 6 will bring back missions where they tell you to lose weight beforehand?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xk9qew/do_you_think_gta_6_will_bring_back_missions_where/",
+     "ts": "2026-10-31T13:06:09Z",
+     "summary": "This feature was first introduced all the way back in 2004 with GTA San Andreas and now it will be returning in GTA 6. I thought this would be a neat detail. submitted by /u/Mechanic_Willing to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "0308127ce554",
    "title": "Marketing of GTA 6 in Miami Will Cover Airport, Public Transport, and More",
    "first_seen": "2026-10-31T13:01:16Z",
@@ -63762,11 +63825,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T13:01:16Z",
+  "last_run": "2026-10-31T13:10:57Z",
   "last_log": [
-   "rockstar_site: 0/3",
-   "gnews_en: 90/93",
-   "gnews_ru: 29/40",
+   "rockstar_site: 0/2",
+   "gnews_en: 89/92",
+   "gnews_ru: 33/63",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
