@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "26de172c8ef7",
+   "title": "GTA 6’s November 19 Launch Could Reshape the Entertainment Calendar",
+   "first_seen": "2026-10-31T13:40:56Z",
+   "updated": "2026-10-31T13:40:56Z",
+   "items": [
+    {
+     "id": "26de172c8ef7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Spiel Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6’s November 19 Launch Could Reshape the Entertainment Calendar",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYjB2TlkwWEtLbF8zNXpITWVvNzFNeEoxRzV2dzhrVDh5emlQeDljaGVSMDBsNVhFaF9vQ1FGelZvRjIwRWJpVm1OYm5DRnQ4aVFjaVljYmVqWmoxMU9SN1NwcmwyaVIwendpU3hYNzJyTGpTX0xaRUxCU1pWa2kyQUIxVnl4MTFUSTBxdF8yR2tZV0NuYXJHRFpaZE9KcktVcVNF?oc=5",
+     "ts": "2026-10-31T10:29:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2ca2f52a6d3d",
+   "title": "NYC last night.",
+   "first_seen": "2026-10-31T13:40:56Z",
+   "updated": "2026-10-31T13:40:56Z",
+   "items": [
+    {
+     "id": "2ca2f52a6d3d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "NYC last night.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xk9iqa/nyc_last_night/",
+     "ts": "2026-10-31T12:56:36Z",
+     "summary": "submitted by /u/BreakfastLopsided906 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "897a23743aef",
    "title": "GTA 6 Early Access Story Review (I Didn’t Read the NDA)",
    "first_seen": "2026-10-31T09:20:50Z",
@@ -63847,11 +63899,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T13:31:07Z",
+  "last_run": "2026-10-31T13:40:56Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 95/100",
-   "gnews_ru: 29/39",
+   "gnews_en: 87/89",
+   "gnews_ru: 32/63",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
