@@ -1,6 +1,123 @@
 {
  "stories": [
   {
+   "id": "1bd309f9cc0b",
+   "title": "Grand Theft Auto VI: The Original Score Is Up for Preorder",
+   "first_seen": "2026-10-31T20:01:13Z",
+   "updated": "2026-10-31T20:01:13Z",
+   "items": [
+    {
+     "id": "1bd309f9cc0b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI: The Original Score Is Up for Preorder",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2hDd1M5b29GTFkySlBXMTJTRnpPUmpBV3RUaWRndGRIdVZWdkNqOEhBYjUwQUV2V0dtWFNDMUVQdjVRWlVoUHVsWF9ZdlNweHljZlVkY0dteS1NdzlYbjFyMXduVk9kTXNRZTRYMmo1NUNGLWZXaHA5cm5XMFh6TmVmdXRsdFplTkZmT2IwVFZLWkdYazdDcm9ZdU5rREMzazhWbA?oc=5",
+     "ts": "2026-10-31T08:44:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "52c8ffb56ea6",
+   "title": "As GTA VI Looms, The Game Industry Faces A Painful Transition",
+   "first_seen": "2026-10-31T20:01:13Z",
+   "updated": "2026-10-31T20:01:13Z",
+   "items": [
+    {
+     "id": "52c8ffb56ea6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Forbes",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "As GTA VI Looms, The Game Industry Faces A Painful Transition",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjN5WkVCNjhvM0Q5aG1nX0lYVS1XbjBQTUs0bVVWUDMzRHFEM3ltOHFZa04tRWo3dTdGSE1NZnZ0TzBmUk1TTHhxRGdxSzNfV0JUVlJ6UVk3SWhVWElrb0JuU05WYkdOS0d6cTRRTzZ4WExzOHVER3hNeHFFRk5XY2FDUmhrMHNMMHhsdUk3bUlfS2h6NkQtSUg2QUhpS1h6MVZtSlkyYWxWTkZ4eFE?oc=5",
+     "ts": "2026-10-31T19:56:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 на пороге: игровая индустрия готовится к переменам",
+    "summary": "По данным Forbes, выход GTA 6 заставляет всю игровую индустрию готовиться к болезненному переходу. Издание отмечает, что релиз такого масштаба меняет ожидания игроков и планы других издателей.",
+    "idea": "Угол: GTA 6 как «землетрясение» для индустрии — что изменится для игроков и студий. Зрителю интересно, как это повлияет на цены, релизы и стандарты.",
+    "hook": "GTA 6 почти здесь — и вся индустрия готовится к шоку.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-31T20:01:17Z"
+   },
+   "msg_id": 392
+  },
+  {
+   "id": "d2c4b1d595e2",
+   "title": "GTA 6 advert in Milan derby",
+   "first_seen": "2026-10-31T20:01:13Z",
+   "updated": "2026-10-31T20:01:13Z",
+   "items": [
+    {
+     "id": "d2c4b1d595e2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 advert in Milan derby",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkjtc4/gta_6_advert_in_milan_derby/",
+     "ts": "2026-10-31T19:58:43Z",
+     "summary": "Like El Classico last week, a GTA 6 advert has popped up on the advertising boardings in the Milan derby. submitted by /u/Ceejayncl to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9595c2205958",
+   "title": "We are in the Endgame Now!",
+   "first_seen": "2026-10-31T20:01:13Z",
+   "updated": "2026-10-31T20:01:13Z",
+   "items": [
+    {
+     "id": "9595c2205958",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We are in the Endgame Now!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkjurj/we_are_in_the_endgame_now/",
+     "ts": "2026-10-31T20:00:16Z",
+     "summary": "be safe folks we are almost there. submitted by /u/Sad-University-3649 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "dbed276a4ab1",
    "title": "Русский трейлер GTA 6 — Видео от Fosters",
    "first_seen": "2026-10-31T16:50:51Z",
@@ -65064,67 +65181,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "acdc430c5782",
-   "title": "Spotted in Key West for Fantasy Fest!",
-   "first_seen": "2026-10-24T20:01:10Z",
-   "updated": "2026-10-24T20:01:10Z",
-   "items": [
-    {
-     "id": "acdc430c5782",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Spotted in Key West for Fantasy Fest!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xehs4o/spotted_in_key_west_for_fantasy_fest/",
-     "ts": "2026-10-24T19:38:27Z",
-     "summary": "submitted by /u/Traditional_Part_626 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c0f730fd1eb4",
-   "title": "Suit Up on November 19!",
-   "first_seen": "2026-10-24T20:01:10Z",
-   "updated": "2026-10-24T20:01:10Z",
-   "items": [
-    {
-     "id": "c0f730fd1eb4",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Suit Up on November 19!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xei53q/suit_up_on_november_19/",
-     "ts": "2026-10-24T19:53:13Z",
-     "summary": "Hey, fellow GTA VI fans! I'm putting together a little community event for GTA VI's launch day. To celebrate the release of the game we've been waiting 13 years for, I'd like to call on everyone to dress up on November 19 and take part in something special. Here's the idea: put on a suit, or any outfit that fits the GTA VI vibe (GTA-themed prints, pink clothing, or whatever else you can come up with), stand in front of the gaming setup you'll be using to play GTA VI, make sure the game's title screen or launch screen is displayed on your monitor or TV, and take a picture! Then post it on which"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T19:50:51Z",
+  "last_run": "2026-10-31T20:01:17Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 81/83",
-   "gnews_ru: 29/47",
+   "gnews_en: 84/86",
+   "gnews_ru: 31/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
