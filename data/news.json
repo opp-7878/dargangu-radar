@@ -62653,67 +62653,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "22813392f4f6",
-   "title": "MARKETING TEAM HELLO?",
-   "first_seen": "2026-10-24T03:31:16Z",
-   "updated": "2026-10-24T03:31:16Z",
-   "items": [
-    {
-     "id": "22813392f4f6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "MARKETING TEAM HELLO?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xdxo9l/marketing_team_hello/",
-     "ts": "2026-10-24T03:04:38Z",
-     "summary": "saw this driving on i-75 about 30min away from Miami aka Vice City submitted by /u/itsOnlyMarvin to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4186d2e251da",
-   "title": "GTA 6 Miami Marketing Guide: Vice Beach Sign, Burger Shot, Y Hotel & Launch Events",
-   "first_seen": "2026-10-24T03:31:16Z",
-   "updated": "2026-10-24T03:31:16Z",
-   "items": [
-    {
-     "id": "4186d2e251da",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MMOEXP",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Miami Marketing Guide: Vice Beach Sign, Burger Shot, Y Hotel & Launch Events",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRHBWMVpESXMyVWxBUGVQZmNhUGNHX1djWGhkTmZkNWFyYVdDT3Y1c3F4dWpJR3NPSmhMYU1CNnVfZlFSaElsUVQtMDFncW9KTmxCRDExZmR3ODNEb0dLVXF2alhjeWV4UUQtMG10VElGOVFFc2p5ak01enVKay1rRzk4djh0YTFabGtWYVZXaXVkaTVVT0Z6Q3F3ZVBuVV9XR0o0dmJzTFg2X2dfVURB?oc=5",
-     "ts": "2026-10-24T03:22:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T03:20:56Z",
+  "last_run": "2026-10-31T03:31:17Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 95/100",
-   "gnews_ru: 40/50",
+   "gnews_ru: 40/49",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
