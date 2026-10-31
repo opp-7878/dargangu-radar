@@ -1,6 +1,97 @@
 {
  "stories": [
   {
+   "id": "dbed276a4ab1",
+   "title": "Русский трейлер GTA 6 — Видео от Fosters",
+   "first_seen": "2026-10-31T16:50:51Z",
+   "updated": "2026-10-31T16:50:51Z",
+   "items": [
+    {
+     "id": "dbed276a4ab1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Русский трейлер GTA 6 — Видео от Fosters",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uMml1ZFpGZ0puZU16QmNvTmNHVGN4M25tSFVNUU5ZbXJCMGFPUURoQ1gxa0tnS0wyempGLXNaMEdlQ3BRdl9pRG03NUo1YjUxYUE?oc=5",
+     "ts": "2026-10-31T12:15:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "1023d7476a9d",
+   "title": "‘The Odyssey’ Decimates ‘Doomsday’, ‘Spider-Man’ And Even ‘GTA 6’ In Popularity Review",
+   "first_seen": "2026-10-31T16:50:51Z",
+   "updated": "2026-10-31T16:50:51Z",
+   "items": [
+    {
+     "id": "1023d7476a9d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Forbes",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "‘The Odyssey’ Decimates ‘Doomsday’, ‘Spider-Man’ And Even ‘GTA 6’ In Popularity Review",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGRGMjE4OGVuNE1SczJJYnNLbkZrOUdUeUw5ckxncDFXQlpyV2ZOUUlEbjZTVExDUnM4d0txWmhSbGlWM3NibDlMWXNFWFVKNEtiQm5faEVMRWZmWmpUYUFrbThxXzBMWDU0c3RUOElubEU4M09VXy1NV2l0LWlFQVZ3RVVOVFMyYUJnV1lPSFZsaVpOUk9rbDhoeDBCZWVCZXllT1ZNd3hXM0hYVnBXOVM1Wk9RV0lXNlhZaGZJN29IZTlxbEUteW5HZw?oc=5",
+     "ts": "2026-10-31T16:40:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 проиграла в опросе популярности. Кто обогнал игру?",
+    "summary": "По данным Forbes, в обзоре популярности проект The Odyssey обогнал Doomsday, Spider-Man и даже GTA 6. Rockstar и Take-Two это не комментировали.",
+    "idea": "Сравним, почему The Odyssey внезапно обошла GTA 6 в опросе, и спросим зрителей, согласны ли они с этим.",
+    "hook": "GTA 6 проиграла в опросе популярности. Что за The Odyssey всех обошла?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-31T16:50:54Z"
+   },
+   "msg_id": 386
+  },
+  {
+   "id": "70911547c422",
+   "title": "До релиза GTA VI осталось всего 18 дней Путешествие по Вайс-Сити начнётся уже скоро.",
+   "first_seen": "2026-10-31T16:50:51Z",
+   "updated": "2026-10-31T16:50:51Z",
+   "items": [
+    {
+     "id": "70911547c422",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "До релиза GTA VI осталось всего 18 дней Путешествие по Вайс-Сити начнётся уже скоро.",
+     "url": "https://t.me/GTAVIStar/771",
+     "ts": "2026-10-31T16:49:13Z",
+     "summary": "До релиза GTA VI осталось всего 18 дней Путешествие по Вайс-Сити начнётся уже скоро. Готовы? ❤️ — готов, ещё как готов 🔥 — подожду на РС и поиграю в 4К, 120 FPS 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d34ae9dc5c25",
    "title": "Rockstar reportedly teaming up with and Nike for $130 GTA 6 sneakers",
    "first_seen": "2026-10-31T16:31:12Z",
@@ -64445,67 +64536,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c1b48e82c6d3",
-   "title": "Study Says GTA 6 Could Cost UK 10% of Daily Economic Output",
-   "first_seen": "2026-10-24T16:40:53Z",
-   "updated": "2026-10-24T16:40:53Z",
-   "items": [
-    {
-     "id": "c1b48e82c6d3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "se7en.ws",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Study Says GTA 6 Could Cost UK 10% of Daily Economic Output",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1NZUGVka1RBSXVxZG5MZXZxcF9JZGFiamtFM2xBZHRfZEF0dnhXbUxuUWt1Nm5GbExvVk9NbmZiU0RiYVVvRWl3MnE2cU5aOVdNTUlRZ0Y5VW9MLV9wNktSbzhrTFhlZENsV1Bkd0lEa0pxYks0VnFiVktTbV9SOUJwT0xGSWhPT0tiRg?oc=5",
-     "ts": "2026-10-24T08:41:43Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b82239333c80",
-   "title": "saw this driving past the hard rock stadium on the way to orlando!",
-   "first_seen": "2026-10-24T16:40:53Z",
-   "updated": "2026-10-24T16:40:53Z",
-   "items": [
-    {
-     "id": "b82239333c80",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "saw this driving past the hard rock stadium on the way to orlando!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xed5tm/saw_this_driving_past_the_hard_rock_stadium_on/",
-     "ts": "2026-10-24T16:33:13Z",
-     "summary": "(photo credits to my sister, as my phone camera sucks ass) super stoked to see this as i'm visiting family nearish miami, and then i think this blimp will also be at the homestead-miami raceway from november 6th-8th for NASCAR which is right near where i'm visiting family! i hope to see it over there too, and maybe i can see it from my family's yard if so LOL. what's cool is if i remember correctly, this blimp flew from ohio, where i live! the hype is real!! submitted by /u/FalsumVis to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T16:40:51Z",
+  "last_run": "2026-10-31T16:50:54Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 71/76",
-   "gnews_ru: 33/60",
+   "gnews_en: 76/80",
+   "gnews_ru: 34/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -64515,7 +64554,7 @@
    "rockstarintel: 4/10",
    "gtaboom: 7/30",
    "reddit: 24/25",
-   "tg_gtavistar: 3/11",
+   "tg_gtavistar: 4/11",
    "tg_gta6deluxe: 8/8",
    "tg_gta6_m: 8/17",
    "tg_gta6newsdaily: 1/15"
