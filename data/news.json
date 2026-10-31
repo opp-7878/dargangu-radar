@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "eed5b4075961",
+   "title": "Франция одобрила налог €0,055 за каждый ГБ интернет трафика и загрузка GTA 6 может подорожать",
+   "first_seen": "2026-10-31T11:01:15Z",
+   "updated": "2026-10-31T11:01:15Z",
+   "items": [
+    {
+     "id": "eed5b4075961",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Франция одобрила налог €0,055 за каждый ГБ интернет трафика и загрузка GTA 6 может подорожать",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbnRWR0E2UFF1aUJnTWxpTFlpcUUxQ1dvRUxtVnh3b0xDc0pvZjhQRDViOGkxZEJEVHV1c0RhVmd6b2ZEZzk1NGh2QU5pdHBvSEVKNnBwZlozUVFDd2Q0SHBXWDZUYzdrOVRZRHE3VDFrdHZGT29GOGI5RV9nT2U3bGUyNXZFYU9kZlp6b0l2Yy1DTlVWQkpqdlJoejFBOGhTTm1KTC1yc0VwcWN3VkVlc04yVGZFY05CV1gwRXFqcG8zWnNQakd5MQ?oc=5",
+     "ts": "2026-10-31T10:45:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "79974e40ac7c",
+   "title": "Movies to watch for hype?",
+   "first_seen": "2026-10-31T11:01:15Z",
+   "updated": "2026-10-31T11:01:15Z",
+   "items": [
+    {
+     "id": "79974e40ac7c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Movies to watch for hype?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xk78a5/movies_to_watch_for_hype/",
+     "ts": "2026-10-31T10:56:34Z",
+     "summary": "So just like everyone else my brain is itching for GTA VI so much that my brain is itching to consume media with similar tones/vibes submitted by /u/throwaway71692038532 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "43eab2d5e4a9",
    "title": "Rockstar Games Makes New Official Statement on GTA 6's Story",
    "first_seen": "2026-10-31T10:10:52Z",
@@ -63264,11 +63316,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T10:51:11Z",
+  "last_run": "2026-10-31T11:01:15Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/3",
+   "gnews_en: 96/100",
+   "gnews_ru: 28/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
