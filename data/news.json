@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "8d5f1490e869",
+   "title": "GameSir выпустила геймпады с дизайном в стиле GTA VI",
+   "first_seen": "2026-10-31T14:50:48Z",
+   "updated": "2026-10-31T14:50:48Z",
+   "items": [
+    {
+     "id": "8d5f1490e869",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Cubiq.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GameSir выпустила геймпады с дизайном в стиле GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNTHFyTlJNd2U1MVBCRTVtYlVMR2ltXzk3aVNmcHZQOGVyMFp4WlU4anNNTC00eFEtdm1zdTZpeV8zUm5KbGpBejJ2NGtKUTh1a3NRNnlLT0NScEhpaTlxWlY0S24ycURXRExteFV2ZldwaVZObjBPY2V3?oc=5",
+     "ts": "2026-10-31T10:53:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3f91d2ff0134",
+   "title": "😬 PS5 продолжают дорожать Ловите печальную собрали динамику цен на консоли за последние несколько месяцев PlayStation: ▫️ PS5 Pro, 2 ТБ: 145 000 → 148 000 ₽ ▫️ ",
+   "first_seen": "2026-10-31T14:50:48Z",
+   "updated": "2026-10-31T14:50:48Z",
+   "items": [
+    {
+     "id": "3f91d2ff0134",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "😬 PS5 продолжают дорожать Ловите печальную собрали динамику цен на консоли за последние несколько месяцев PlayStation: ▫️ PS5 Pro, 2 ТБ: 145 000 → 148 000 ₽ ▫️ ",
+     "url": "https://t.me/GTA6_m/9279",
+     "ts": "2026-10-31T14:50:13Z",
+     "summary": "😬 PS5 продолжают дорожать Ловите печальную собрали динамику цен на консоли за последние несколько месяцев PlayStation: ▫️ PS5 Pro, 2 ТБ: 145 000 → 148 000 ₽ ▫️ PS5 Slim с дисководом, 1 ТБ: 85 000 → 83 800 ₽ ▫️ PS5 Slim без дисковода, 1 ТБ: 80 000 → 79 000 ₽ Xbox: ▫️ Series X, 1 ТБ: 80 000 → 85 000 ₽ ▫️ Series X Digital Edition, 1 ТБ: 74 000 → 80 000 ₽ ▫️ Series S, 512 ГБ: 50 000 → 55 000 ₽ За неделю до релиза ценники ещё могут измениться 🤷‍♂️ 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "9e816192063d",
    "title": "В GTA VI будет русская озвучка — студия GamesVoice опубликовала в своих соцсетях трейлер с русской озвучкой В конце ролика диктор намекает, что герои заговорят ",
    "first_seen": "2026-10-30T17:50:52Z",
@@ -63991,41 +64045,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4b1eefbd2ccb",
-   "title": "Spent most of yesterday hand-painting my PS5 plate for GTA VI. Pretty proud of how it turned out! What do y'all think?",
-   "first_seen": "2026-10-24T14:40:51Z",
-   "updated": "2026-10-24T14:40:51Z",
-   "items": [
-    {
-     "id": "4b1eefbd2ccb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Spent most of yesterday hand-painting my PS5 plate for GTA VI. Pretty proud of how it turned out! What do y'all think?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xea764/spent_most_of_yesterday_handpainting_my_ps5_plate/",
-     "ts": "2026-10-24T14:32:55Z",
-     "summary": "I decided to test painting my PS5 plates yesterday and I'm honestly shocked with how well it turned out. I wasn't sure if I could pull it off at all, really. I'm going to go ahead and do Jason on the other one. It's not perfect but it's hand painted. Did the best I could! I included the progress pictures so y'all could see the process. How do y'all think it turned out? submitted by /u/Ok_Pause_436 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T14:40:50Z",
+  "last_run": "2026-10-31T14:50:48Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 92/96",
-   "gnews_ru: 36/62",
+   "gnews_en: 79/81",
+   "gnews_ru: 34/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -64037,7 +64065,7 @@
    "reddit: 24/25",
    "tg_gtavistar: 3/11",
    "tg_gta6deluxe: 7/7",
-   "tg_gta6_m: 9/17",
+   "tg_gta6_m: 10/18",
    "tg_gta6newsdaily: 1/15"
   ],
   "digest": "2026-10-31@9",
