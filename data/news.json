@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "bc4e3486ef03",
+   "title": "Главное за день: русская озвучка GTA 6, актер GTA 5 в РФ, геймплей «Царевны»",
+   "first_seen": "2026-10-31T04:31:08Z",
+   "updated": "2026-10-31T04:31:08Z",
+   "items": [
+    {
+     "id": "bc4e3486ef03",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Главное за день: русская озвучка GTA 6, актер GTA 5 в РФ, геймплей «Царевны»",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXy1tT0RpRmY1YkNJOG9MdE9YS195elU0VENNLTNoanRYbEtreVRTS29Ebmk5UXpUSEZIWHJkOTVieDdfWHVZVnhUcTJHZ1JjN2JVWXJNaUVIRUlsaTZ0YXNEQllrdHFkM1Z2ZlVjaGUtMFdmdE93UVE2VTZ6MEtuaHpkUjl1ajJSZGNjMGh6MEttYS1zYWxpLUxiSzNid0hYRnh2Ym13?oc=5",
+     "ts": "2026-10-30T22:22:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "1d259164b2a4",
+   "title": "Spoiler Strategy ?",
+   "first_seen": "2026-10-31T04:31:08Z",
+   "updated": "2026-10-31T04:31:08Z",
+   "items": [
+    {
+     "id": "1d259164b2a4",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Spoiler Strategy ?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xk0ssj/spoiler_strategy/",
+     "ts": "2026-10-31T04:22:02Z",
+     "summary": "What are your strategies for you know like not getting spoiled ? I’m planning on uninstalling every social media platform I have and not even venturing onto YouTube . I have already unsubscribed to every newsletter or updates via email from Reddit , insta and all other social media platforms for now . I think one good thing gta vi will do for me is finally let me free doomscrolling and allows me to finally detox from social media submitted by /u/Upbeat-Ebb-4585 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "da8eade4609d",
    "title": "5 Must-Play New Xbox Games Coming in November, Including GTA 6",
    "first_seen": "2026-10-31T04:10:50Z",
@@ -62772,11 +62826,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T04:20:49Z",
+  "last_run": "2026-10-31T04:31:08Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 95/100",
-   "gnews_ru: 41/58",
+   "gnews_ru: 40/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
