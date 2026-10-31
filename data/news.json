@@ -4,7 +4,7 @@
    "id": "c0e43019c1a5",
    "title": "GTA 6 story goes beyond money, cars, crime",
    "first_seen": "2026-10-31T12:10:49Z",
-   "updated": "2026-10-31T12:10:49Z",
+   "updated": "2026-10-31T12:20:49Z",
    "items": [
     {
      "id": "c0e43019c1a5",
@@ -18,6 +18,19 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYm05YkJPUVlDSE1tVkRrVFVmcDVGWm1tLTd2MXdDTFpQMUozX0p3Uk1waU1GOHI4NTJsSWkwMkJxTTZ3VjhjZmhLVXBIN2lfYjN3QkxhdUFIODUyR2tReHNCZW9QcV9CaUhySnJkb1JZRlc5UWxJLUthbi1fazkzVEw2SHlFUdIBhgFBVV95cUxNYm05YkJPUVlDSE1tVkRrVFVmcDVGWm1tLTd2MXdDTFpQMUozX0p3Uk1waU1GOHI4NTJsSWkwMkJxTTZ3VjhjZmhLVXBIN2lfYjN3QkxhdUFIODUyR2tReHNCZW9QcV9CaUhySnJkb1JZRlc5UWxJLUthbi1fazkzVEw2SHlFUQ?oc=5",
      "ts": "2026-10-31T11:46:27Z",
      "summary": ""
+    },
+    {
+     "id": "f35985a22876",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The News International",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 story goes beyond money, cars, crime",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTFha1plano4R2djUjkxRVY3VUMwTzlCbTFudERkQlRGY1JhbE9acWxoOXlrdXRVRng4c3hkOGd4NjBRNjRENzZOVTNBaVZaTjkzazJUdnZMVU1VVzVOZWRxSVQyTjIyTWpWNFVTWGg3UjFRWW9Kd3VYYVB6LUZ0S0pKSnNqaFBSRUHSAYYBQVVfeXFMTWJtOWJCT1FZQ0hNbVZEa1RVZnA1RlptbS03djF3Q0xaUDFKM19Kd1JNcGlNRjhyODUybElpMDJCcU02d1Y4Y2ZoS1VwSDdpX2Izd0JMYXVBSDg1MkdrUXhzQmVvUHFfQmlIckpyZG9SWUZXOVFsSS1LYW4tX2s5M1RMNkh5RVE?oc=5",
+     "ts": "2026-10-31T11:46:27Z",
+     "summary": ""
     }
    ],
    "tags": [],
@@ -25,6 +38,46 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
+  },
+  {
+   "id": "a07f0b34e7d4",
+   "title": "Rockstar Games to team up with Nike & Travis Scott on Air Force 1s collab",
+   "first_seen": "2026-10-31T12:20:49Z",
+   "updated": "2026-10-31T12:20:49Z",
+   "items": [
+    {
+     "id": "a07f0b34e7d4",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "Rockstar Games to team up with Nike & Travis Scott on Air Force 1s collab",
+     "url": "https://rockstarintel.com/rockstar-games-to-team-up-with-nike-travis-scott-on-air-force-1s-collab/",
+     "ts": "2026-10-31T12:17:08Z",
+     "summary": "This morning, rumours within the Sneaker community have surfaced regarding a Nike x Travis Scott x Rockstar Games collaboration on Air Force 1s. The news, first dropped by Sneaker Market RO, reveals the collaboration, along with the release date. They have also confirmed that There will be three different Colourways of the Nike Air Force [...] The post Rockstar Games to team up with Nike & Travis Scott on Air Force 1s collab appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [
+    "анонс",
+    "дата/перенос"
+   ],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Rockstar, Nike и Travis Scott: коллаб Air Force 1 и дата",
+    "summary": "По данным Sneaker Market RO, Rockstar Games, Nike и Travis Scott готовят коллаборацию Air Force 1 в трёх расцветках. В сообществе говорят и о дате релиза, но Rockstar официально это не подтверждала.",
+    "idea": "Угол: кроссовки как тизер GTA 6 — показываем утёкшие расцветки и обсуждаем, что значит дата релиза. Зрителю интересно, потому что мерч часто намекает на анонс игры.",
+    "hook": "Rockstar делает кроссовки с Nike и Travis Scott — и это похоже на тизер GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-31T12:20:53Z"
+   },
+   "msg_id": 374
   },
   {
    "id": "e0d7403dd2d0",
@@ -63495,20 +63548,20 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T12:10:53Z",
+  "last_run": "2026-10-31T12:20:53Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 94/95",
-   "gnews_ru: 24/36",
+   "gnews_en: 96/100",
+   "gnews_ru: 27/63",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
    "ign: 0/20",
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
-   "rockstarintel: 3/10",
+   "rockstarintel: 4/10",
    "gtaboom: 8/30",
-   "reddit: 23/25",
+   "reddit: 22/25",
    "tg_gtavistar: 3/11",
    "tg_gta6deluxe: 7/7",
    "tg_gta6_m: 10/18",
