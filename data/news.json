@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "dc5a8a64c357",
+   "title": "GTA 6 advertisement in Inter Milan VS AC Milan game",
+   "first_seen": "2026-10-31T20:31:02Z",
+   "updated": "2026-10-31T20:31:02Z",
+   "items": [
+    {
+     "id": "dc5a8a64c357",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 advertisement in Inter Milan VS AC Milan game",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkkeei/gta_6_advertisement_in_inter_milan_vs_ac_milan/",
+     "ts": "2026-10-31T20:22:25Z",
+     "summary": "submitted by /u/Strange_Window2097 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "25449ad4bd9e",
+   "title": "Unc knows ball",
+   "first_seen": "2026-10-31T20:31:02Z",
+   "updated": "2026-10-31T20:31:02Z",
+   "items": [
+    {
+     "id": "25449ad4bd9e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Unc knows ball",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkkj7l/unc_knows_ball/",
+     "ts": "2026-10-31T20:28:17Z",
+     "summary": "Consider this an opportunity to save money submitted by /u/Same_Return_1878 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "cb943aa867bf",
    "title": "GTA 6 marketing in Serie A league in Italy",
    "first_seen": "2026-10-31T20:20:53Z",
@@ -65284,41 +65336,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "79d178303cf1",
-   "title": "You can order real-life GTA 6 burgers as Florida's Skinny Louie locations transform into Burger Shots",
-   "first_seen": "2026-10-24T20:31:02Z",
-   "updated": "2026-10-24T20:31:02Z",
-   "items": [
-    {
-     "id": "79d178303cf1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Secret Miami",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "You can order real-life GTA 6 burgers as Florida's Skinny Louie locations transform into Burger Shots",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YREJzeGsyOTFCRnZ2dHVzcGFVNmFXVWRqUXdIX2Q4YUpkWmxYSjlBWUxBSVZlNk5mdUxKOUtQZ2xpeEFUQnM0ODJjZlMySWxXTjVDMWhxVm4ybWdSWlMzUjVXMm05SFhjNXhBYg?oc=5",
-     "ts": "2026-10-24T20:08:04Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T20:20:53Z",
+  "last_run": "2026-10-31T20:31:02Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 87/90",
-   "gnews_ru: 29/46",
+   "gnews_en: 79/82",
+   "gnews_ru: 31/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
