@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "0cc9955ae378",
+   "title": "Which GTA 6 Edition Fits the Way You Play",
+   "first_seen": "2026-10-31T18:01:16Z",
+   "updated": "2026-10-31T18:01:16Z",
+   "items": [
+    {
+     "id": "0cc9955ae378",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameWatcher",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Which GTA 6 Edition Fits the Way You Play",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRUIxWHRTOHkzZWdhdlVpeGxHM2RpaHhBRmQtMXRrWE5Kd1JnZFowUUpqbVlHTE9Xc0dHTnVvT05lckZ3emFTc2V3eUc3OVdCY2t0a1dtbUtyWXl1YlhWVVlucF85MXBJWGlEaWRUNVJlS2ZoOWVGN19IVFRLNjF1NUQxZ3VEZWNtWF9hdmUtWQ?oc=5",
+     "ts": "2026-10-31T10:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "a2746ca1608e",
+   "title": "Tip for anyone that has slow internet or pays for data usage on downloading GTA6.",
+   "first_seen": "2026-10-31T18:01:16Z",
+   "updated": "2026-10-31T18:01:16Z",
+   "items": [
+    {
+     "id": "a2746ca1608e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Tip for anyone that has slow internet or pays for data usage on downloading GTA6.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xkgoin/tip_for_anyone_that_has_slow_internet_or_pays_for/",
+     "ts": "2026-10-31T17:51:39Z",
+     "summary": "Check your local libraries. More often than not, you should be able to bring in your console and download the game using their internet. My local library in Nashville has areas for setting up computers and other electronics to use for people who don't have internet. submitted by /u/Fluffy_Brilliant_718 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "dbed276a4ab1",
    "title": "Русский трейлер GTA 6 — Видео от Fosters",
    "first_seen": "2026-10-31T16:50:51Z",
@@ -64562,41 +64616,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "99178b35abea",
-   "title": "Rockstar Is Already Tracking Vanoss Crew's Miami GTA 6 Launch Shoot",
-   "first_seen": "2026-10-24T18:01:14Z",
-   "updated": "2026-10-24T18:01:14Z",
-   "items": [
-    {
-     "id": "99178b35abea",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GTA BOOM",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Is Already Tracking Vanoss Crew's Miami GTA 6 Launch Shoot",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXVJeWtZU2lyUUhyX01PdzhTcHpoejE5Zjkyc2dmQ3c4TFB4bnpDY2w2VzRLTG1yUFNkazZ2NEtEaU5vQTdSTllVZkJLLWMwSHlXZ2dPMUJ6NjVrWV9yYXR4anJWNG51RE9vQ0lyeFZWUVBlZ1dJajZfSS1QMzRHUkNhN0gxOFk5NDFSdko3LXludmwxLXpoTG9oZ3E?oc=5",
-     "ts": "2026-10-24T17:50:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T17:50:52Z",
+  "last_run": "2026-10-31T18:01:17Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 76/81",
-   "gnews_ru: 36/61",
+   "gnews_en: 77/81",
+   "gnews_ru: 35/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -64605,13 +64633,13 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 4/10",
    "gtaboom: 6/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 4/11",
    "tg_gta6deluxe: 8/8",
    "tg_gta6_m: 8/17",
    "tg_gta6newsdaily: 1/15"
   ],
-  "digest": "2026-10-31@9",
+  "digest": "2026-10-31@21",
   "tg_offset": 854319078
  }
 }
