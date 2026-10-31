@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "d4fd72e1b3ca",
+   "title": "On Theme Movies",
+   "first_seen": "2026-10-31T17:31:05Z",
+   "updated": "2026-10-31T17:31:05Z",
+   "items": [
+    {
+     "id": "d4fd72e1b3ca",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "On Theme Movies",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xkg23c/on_theme_movies/",
+     "ts": "2026-10-31T17:26:35Z",
+     "summary": "I’ve been taking a break from video games leading up to the release; I get burnt out on open world games and I want to feel fresh & psyched on release. But I want to start getting in the right headspace to play this game. What movies would you guys watch to get into the mindset of Jason & Lucia’s story? submitted by /u/SayNomeOar to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c5e6cb23606d",
    "title": "Как выглядел Джейсон в 2021 году и как сейчас 2026 | GTA expert: Новости GTA 6",
    "first_seen": "2026-10-31T17:20:52Z",
@@ -64575,66 +64601,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b2c21039b18d",
-   "title": "How to Make REAL Life Money from GTA 6",
-   "first_seen": "2026-10-24T17:31:04Z",
-   "updated": "2026-10-24T17:31:04Z",
-   "items": [
-    {
-     "id": "b2c21039b18d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Howl.Link",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How to Make REAL Life Money from GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5KQmlxcDBNYmo3TnhTNTN3cWE5X0RpWm1UOTc1VGhOQkZlYkI3cXBzcmduMTM5ejg0dVRB?oc=5",
-     "ts": "2026-10-24T16:25:09Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "47243a1c536b",
-   "title": "Article of the Day #53: Flash FM",
-   "first_seen": "2026-10-24T17:20:53Z",
-   "updated": "2026-10-24T17:20:53Z",
-   "items": [
-    {
-     "id": "47243a1c536b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Article of the Day #53: Flash FM",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xee83o/article_of_the_day_53_flash_fm/",
-     "ts": "2026-10-24T17:15:36Z",
-     "summary": "Flash FM previously appeared ) in GTA Vice City and GTA Vice City Stories. submitted by /u/gtawiki to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T17:20:52Z",
+  "last_run": "2026-10-31T17:31:05Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 74/79",
+   "gnews_en: 79/83",
    "gnews_ru: 34/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
