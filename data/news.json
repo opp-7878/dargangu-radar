@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "1d5764798371",
+   "title": "GTA 6 Introduces Unique Criminal Profile System for Jason & Lucia",
+   "first_seen": "2026-10-31T08:01:10Z",
+   "updated": "2026-10-31T18:20:51Z",
+   "items": [
+    {
+     "id": "1d5764798371",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TechJuice",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Introduces Unique Criminal Profile System for Jason & Lucia",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNmI0VXZPWTJHc2VOb2xRam56aGtORG9YTmlvN1N2NXBfWDNLdlExMXVRME5XWE0xcVFxVTlVQ0toWk5Vb1ZFZEpGc3kxQndScFlYVXZOOVVwRWw0eWw5dGlZU2JBLVF2V0hwX19HaDFlQnhnaHY0Zk9xUjNMNW1ybU9TTXA1VkVQcGE1U05rWnVsMFNGNDRQZ2NaNFJWUQ?oc=5",
+     "ts": "2026-10-31T07:45:08Z",
+     "summary": ""
+    },
+    {
+     "id": "3c8eeb098695",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Tech4Gamers",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6’s Criminal Profile Tracks How Jason and Lucia Commit Crimes",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vZ05WN041emwwQzUwd3V0dFZjSHIzTDJXWngtNm53X3NEeTZ2ZEFfeVo1YXB5U1R4SlZVMF9vdWRHcmtZa01sbjJMMUFUdHlaVjlZMjlyTHVOTU1OSElHWGNWV0Z3ZHI4VTlaampHUGs?oc=5",
+     "ts": "2026-10-31T12:10:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
    "id": "a07f0b34e7d4",
    "title": "Rockstar Games to team up with Nike & Travis Scott on Air Force 1s collab",
    "first_seen": "2026-10-31T12:20:49Z",
@@ -3519,32 +3558,6 @@
    ],
    "score": 35,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1d5764798371",
-   "title": "GTA 6 Introduces Unique Criminal Profile System for Jason & Lucia",
-   "first_seen": "2026-10-31T08:01:10Z",
-   "updated": "2026-10-31T08:01:10Z",
-   "items": [
-    {
-     "id": "1d5764798371",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TechJuice",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Introduces Unique Criminal Profile System for Jason & Lucia",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNmI0VXZPWTJHc2VOb2xRam56aGtORG9YTmlvN1N2NXBfWDNLdlExMXVRME5XWE0xcVFxVTlVQ0toWk5Vb1ZFZEpGc3kxQndScFlYVXZOOVVwRWw0eWw5dGlZU2JBLVF2V0hwX19HaDFlQnhnaHY0Zk9xUjNMNW1ybU9TTXA1VkVQcGE1U05rWnVsMFNGNDRQZ2NaNFJWUQ?oc=5",
-     "ts": "2026-10-31T07:45:08Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -64735,11 +64748,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T18:11:00Z",
+  "last_run": "2026-10-31T18:20:51Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 78/82",
-   "gnews_ru: 33/49",
+   "gnews_en: 79/83",
+   "gnews_ru: 31/47",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -64751,7 +64764,7 @@
    "reddit: 23/25",
    "tg_gtavistar: 4/11",
    "tg_gta6deluxe: 9/9",
-   "tg_gta6_m: 8/17",
+   "tg_gta6_m: 7/17",
    "tg_gta6newsdaily: 1/15"
   ],
   "digest": "2026-10-31@21",
