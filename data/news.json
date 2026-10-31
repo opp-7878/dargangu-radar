@@ -1,6 +1,95 @@
 {
  "stories": [
   {
+   "id": "c0e43019c1a5",
+   "title": "GTA 6 story goes beyond money, cars, crime",
+   "first_seen": "2026-10-31T12:10:49Z",
+   "updated": "2026-10-31T13:20:52Z",
+   "items": [
+    {
+     "id": "c0e43019c1a5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The News International",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 story goes beyond money, cars, crime",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYm05YkJPUVlDSE1tVkRrVFVmcDVGWm1tLTd2MXdDTFpQMUozX0p3Uk1waU1GOHI4NTJsSWkwMkJxTTZ3VjhjZmhLVXBIN2lfYjN3QkxhdUFIODUyR2tReHNCZW9QcV9CaUhySnJkb1JZRlc5UWxJLUthbi1fazkzVEw2SHlFUdIBhgFBVV95cUxNYm05YkJPUVlDSE1tVkRrVFVmcDVGWm1tLTd2MXdDTFpQMUozX0p3Uk1waU1GOHI4NTJsSWkwMkJxTTZ3VjhjZmhLVXBIN2lfYjN3QkxhdUFIODUyR2tReHNCZW9QcV9CaUhySnJkb1JZRlc5UWxJLUthbi1fazkzVEw2SHlFUQ?oc=5",
+     "ts": "2026-10-31T11:46:27Z",
+     "summary": ""
+    },
+    {
+     "id": "f35985a22876",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The News International",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 story goes beyond money, cars, crime",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTFha1plano4R2djUjkxRVY3VUMwTzlCbTFudERkQlRGY1JhbE9acWxoOXlrdXRVRng4c3hkOGd4NjBRNjRENzZOVTNBaVZaTjkzazJUdnZMVU1VVzVOZWRxSVQyTjIyTWpWNFVTWGg3UjFRWW9Kd3VYYVB6LUZ0S0pKSnNqaFBSRUHSAYYBQVVfeXFMTWJtOWJCT1FZQ0hNbVZEa1RVZnA1RlptbS03djF3Q0xaUDFKM19Kd1JNcGlNRjhyODUybElpMDJCcU02d1Y4Y2ZoS1VwSDdpX2Izd0JMYXVBSDg1MkdrUXhzQmVvUHFfQmlIckpyZG9SWUZXOVFsSS1LYW4tX2s5M1RMNkh5RVE?oc=5",
+     "ts": "2026-10-31T11:46:27Z",
+     "summary": ""
+    },
+    {
+     "id": "ac040259e675",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Minute Mirror",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar says GTA 6 story goes beyond crime, with optional romance",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjU3MkhnMkxDSlExWlNHT3l1X2thQXhxZTliZllSRGJNNy0xMkI3RXd4MFRqTWh4REk5M054ZzZJTnllVzJDWVA3UFA4bFFfeFFEc254bFQ1T0NhTURFbVZOaUVnUzFTa1hNLXNkckhOdEYzQk02YjI0czJaOEtUR25WVGtycldmQWZLME1FQUFyd2FxN01OcWhIb0hYLUk0Q3BN?oc=5",
+     "ts": "2026-10-31T13:15:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Сюжет GTA 6 — не только про деньги и криминал",
+    "summary": "По данным The News International и Minute Mirror, Rockstar говорит, что сюжет GTA 6 выходит за рамки денег, машин и преступности. Minute Mirror добавляет, что в игре будут и необязательные романтические линии.",
+    "idea": "Коротко разбираем, чем сюжет GTA 6 отличается от прошлых частей и почему это важно для игроков. Плюс — намёк на романтику как на опциональный контент.",
+    "hook": "GTA 6 — не только про криминал и тачки. Сюжет глубже, чем вы думаете.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-31T13:20:57Z"
+   },
+   "msg_id": 382
+  },
+  {
+   "id": "cdb45f839eb3",
+   "title": "Take a wild guess",
+   "first_seen": "2026-10-31T13:20:52Z",
+   "updated": "2026-10-31T13:20:52Z",
+   "items": [
+    {
+     "id": "cdb45f839eb3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Take a wild guess",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xka146/take_a_wild_guess/",
+     "ts": "2026-10-31T13:19:12Z",
+     "summary": "My guess is 500+ Million submitted by /u/muntiqaninja to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "5989670365ec",
    "title": "I'm 100% here for a more realistic GTA 6, one I believe won't come at the expense of its usual chaos",
    "first_seen": "2026-10-31T13:10:52Z",
@@ -537,45 +626,6 @@
    ],
    "score": 35,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c0e43019c1a5",
-   "title": "GTA 6 story goes beyond money, cars, crime",
-   "first_seen": "2026-10-31T12:10:49Z",
-   "updated": "2026-10-31T12:20:49Z",
-   "items": [
-    {
-     "id": "c0e43019c1a5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The News International",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 story goes beyond money, cars, crime",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYm05YkJPUVlDSE1tVkRrVFVmcDVGWm1tLTd2MXdDTFpQMUozX0p3Uk1waU1GOHI4NTJsSWkwMkJxTTZ3VjhjZmhLVXBIN2lfYjN3QkxhdUFIODUyR2tReHNCZW9QcV9CaUhySnJkb1JZRlc5UWxJLUthbi1fazkzVEw2SHlFUdIBhgFBVV95cUxNYm05YkJPUVlDSE1tVkRrVFVmcDVGWm1tLTd2MXdDTFpQMUozX0p3Uk1waU1GOHI4NTJsSWkwMkJxTTZ3VjhjZmhLVXBIN2lfYjN3QkxhdUFIODUyR2tReHNCZW9QcV9CaUhySnJkb1JZRlc5UWxJLUthbi1fazkzVEw2SHlFUQ?oc=5",
-     "ts": "2026-10-31T11:46:27Z",
-     "summary": ""
-    },
-    {
-     "id": "f35985a22876",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The News International",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 story goes beyond money, cars, crime",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTFha1plano4R2djUjkxRVY3VUMwTzlCbTFudERkQlRGY1JhbE9acWxoOXlrdXRVRng4c3hkOGd4NjBRNjRENzZOVTNBaVZaTjkzazJUdnZMVU1VVzVOZWRxSVQyTjIyTWpWNFVTWGg3UjFRWW9Kd3VYYVB6LUZ0S0pKSnNqaFBSRUHSAYYBQVVfeXFMTWJtOWJCT1FZQ0hNbVZEa1RVZnA1RlptbS03djF3Q0xaUDFKM19Kd1JNcGlNRjhyODUybElpMDJCcU02d1Y4Y2ZoS1VwSDdpX2Izd0JMYXVBSDg1MkdrUXhzQmVvUHFfQmlIckpyZG9SWUZXOVFsSS1LYW4tX2s5M1RMNkh5RVE?oc=5",
-     "ts": "2026-10-31T11:46:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -63795,41 +63845,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "beb990a98022",
-   "title": "The virtual relationship in GTA 6 has sparked debate! Does flirting in the game count as cheating? 6 percent of Brits said 'yes'.",
-   "first_seen": "2026-10-24T13:20:48Z",
-   "updated": "2026-10-24T13:20:48Z",
-   "items": [
-    {
-     "id": "beb990a98022",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Haberler.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The virtual relationship in GTA 6 has sparked debate! Does flirting in the game count as cheating? 6 percent of Brits said 'yes'.",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWtfTWF6WmZCcXFCNHlxU0c1TVItbmZZWDcwWG9Lam1JYnlNMlhrZE9yUDN6Umt2bEtKU1ZEdDl3eUN5Z2psLVVnZ1NDWUJ1ZG1pMU1zcWJISHlzSFNILTV6NnoxYkZoNWxHMk14RUlqYzhFd0x3X21yUzJHQlQwOFE2Q2c?oc=5",
-     "ts": "2026-10-24T13:13:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T13:10:57Z",
+  "last_run": "2026-10-31T13:20:58Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 89/92",
-   "gnews_ru: 33/63",
+   "gnews_en: 90/93",
+   "gnews_ru: 33/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
