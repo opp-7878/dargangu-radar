@@ -1,6 +1,82 @@
 {
  "stories": [
   {
+   "id": "58628aa8a6db",
+   "title": "GTA 6 Parents Guide: Is It Safe to Play for Kids?",
+   "first_seen": "2026-10-30T22:40:51Z",
+   "updated": "2026-10-31T10:01:20Z",
+   "items": [
+    {
+     "id": "58628aa8a6db",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Beebom",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Parents Guide: Is It Safe to Play for Kids?",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00SV9mdHg0dTlKZ3NyYTZvU0FTSzJBQmE3OGVna1FOeXZrZ2o3Tk9SeE42Q21qTUk3VXpLWHZ3eXNwa3lzMDhkTG90QWpuY3VlYnBtbXVDVE9vd081b1lZZFVTbmpaVWPSAWxBVV95cUxNWG4xWEtvQmZnbkdpYjRLNEpzWFFEYnRXNXB2dUJRdlBhVE53dGpTM0NUbGdoYzNLclhGclI0YUVjbjdpY1RaeXY4emF2N1dPMEhHUmYtcGpGZEw0aEFnZ2hiWTJFNE5ra0w5YkM?oc=5",
+     "ts": "2026-10-30T12:18:47Z",
+     "summary": ""
+    },
+    {
+     "id": "5589cf2ff492",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Beebom",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Parents Guide: Is It Safe to Play for Kids?",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YbjFYS29CZmduR2liNEs0SnNYUURidFc1cHZ1QlF2UGFUTnd0alMzQ1RsZ2hjM0tyWEZyUjRhRWNuN2ljVFp5djh6YXY3V08wSEdSZi1wakZkTDRoQWdnaGJZMkU0TmtrTDliQ9IBbEFVX3lxTE1YbjFYS29CZmduR2liNEs0SnNYUURidFc1cHZ1QlF2UGFUTnd0alMzQ1RsZ2hjM0tyWEZyUjRhRWNuN2ljVFp5djh6YXY3V08wSEdSZi1wakZkTDRoQWdnaGJZMkU0TmtrTDliQw?oc=5",
+     "ts": "2026-10-30T12:18:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3adcad6b31a7",
+   "title": "🤩 SLAY 2026: НОВАЯ ЭРА ЦИФРОВОЙ РЕАЛЬНОСТИ НАЧИНАЕТСЯ Главная стримерская премия возвращается в новом визуальном воплощении — Digital Nature , объединив естеств",
+   "first_seen": "2026-10-31T10:01:20Z",
+   "updated": "2026-10-31T10:01:20Z",
+   "items": [
+    {
+     "id": "3adcad6b31a7",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "🤩 SLAY 2026: НОВАЯ ЭРА ЦИФРОВОЙ РЕАЛЬНОСТИ НАЧИНАЕТСЯ Главная стримерская премия возвращается в новом визуальном воплощении — Digital Nature , объединив естеств",
+     "url": "https://t.me/gta6deluxe/1884",
+     "ts": "2026-10-31T10:00:10Z",
+     "summary": "🤩 SLAY 2026: НОВАЯ ЭРА ЦИФРОВОЙ РЕАЛЬНОСТИ НАЧИНАЕТСЯ Главная стримерская премия возвращается в новом визуальном воплощении — Digital Nature , объединив естественную красоту природы и эстетику цифрового будущего 🤩 Стать частью премии сможет каждый: церемония награждения вновь пройдет со зрителями во Дворце Ирины Винер, а билеты на SLAY 2026 совсем скоро поступят в продажу 🤩"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🤩 SLAY 2026: новая эра стриминга и билеты уже скоро",
+    "summary": "Главная стримерская премия SLAY возвращается в 2026 году с темой Digital Nature, объединяющей природу и цифровой стиль. Церемония пройдет со зрителями во Дворце Ирины Винер, билеты поступят в продажу совсем скоро. Об этом сообщил канал TG @gta6deluxe.",
+    "idea": "Короткий динамичный ролик о SLAY 2026: визуал Digital Nature, офлайн-церемония и старт продаж билетов. Зрителю важно знать, когда брать билеты и чего ждать от шоу.",
+    "hook": "SLAY 2026 возвращается: Digital Nature, офлайн и билеты уже на подходе.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-31T10:01:23Z"
+   },
+   "msg_id": 369
+  },
+  {
    "id": "9e816192063d",
    "title": "РЕЛИЗНЫЙ ТРЕЙЛЕР GTA VI В РУССКОМ ДУБЛЯЖЕ",
    "first_seen": "2026-10-30T17:50:52Z",
@@ -2831,32 +2907,6 @@
    "score": 65,
    "level": "PROBABLE",
    "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "58628aa8a6db",
-   "title": "GTA 6 Parents Guide: Is It Safe to Play for Kids?",
-   "first_seen": "2026-10-30T22:40:51Z",
-   "updated": "2026-10-30T22:40:51Z",
-   "items": [
-    {
-     "id": "58628aa8a6db",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Beebom",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Parents Guide: Is It Safe to Play for Kids?",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00SV9mdHg0dTlKZ3NyYTZvU0FTSzJBQmE3OGVna1FOeXZrZ2o3Tk9SeE42Q21qTUk3VXpLWHZ3eXNwa3lzMDhkTG90QWpuY3VlYnBtbXVDVE9vd081b1lZZFVTbmpaVWPSAWxBVV95cUxNWG4xWEtvQmZnbkdpYjRLNEpzWFFEYnRXNXB2dUJRdlBhVE53dGpTM0NUbGdoYzNLclhGclI0YUVjbjdpY1RaeXY4emF2N1dPMEhHUmYtcGpGZEw0aEFnZ2hiWTJFNE5ra0w5YkM?oc=5",
-     "ts": "2026-10-30T12:18:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -63106,78 +63156,26 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "bc0430b0b164",
-   "title": "30 FPS immersive and dense or 60 FPS simple and empty?",
-   "first_seen": "2026-10-24T10:01:19Z",
-   "updated": "2026-10-24T10:01:19Z",
-   "items": [
-    {
-     "id": "bc0430b0b164",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "30 FPS immersive and dense or 60 FPS simple and empty?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xe4lak/30_fps_immersive_and_dense_or_60_fps_simple_and/",
-     "ts": "2026-10-24T09:51:22Z",
-     "summary": "I see a lot of people complaining about 30 fps, but before criticizing, take a moment to analyze the situation. GTA 6 will be running on a console from 2020, and the hardware is limited. Rockstar can’t perform miracles, they had to sacrifice 60 fps to accommodate various technologies and an incredibly dense world. To boost performance, they would have to drastically reduce the complexity of the game's mechanics. So, here’s the million dollar question: would you rather play at 30 fps in a fully dense, immersive world, filled with interiors, interactions, and countless things happening all at on"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9a4bea21e3fa",
-   "title": "Discord готовит коллаборацию с GTA 6 перед релизом игры",
-   "first_seen": "2026-10-24T10:01:19Z",
-   "updated": "2026-10-24T10:01:19Z",
-   "items": [
-    {
-     "id": "9a4bea21e3fa",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 35,
-     "alert": true,
-     "title": "Discord готовит коллаборацию с GTA 6 перед релизом игры",
-     "url": "https://t.me/GTAVIStar/740",
-     "ts": "2026-10-24T10:00:31Z",
-     "summary": "Discord готовит коллаборацию с GTA 6 перед релизом игры • В коде Discord обнаружили упоминания временной акции под названием Hexagon. По предварительным данным, она стартует 17 ноября , за два дня до выхода GTA 6. • Игрокам якобы дадут возможность установить иконку приложения в стиле GTA 6, включить новую тему интерфейса с цветами Vice City и изменить шрифт своего имени. 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    }
-   ],
-   "tags": [],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T09:50:51Z",
+  "last_run": "2026-10-31T10:01:24Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 96/100",
-   "gnews_ru: 27/38",
+   "gnews_ru: 29/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
    "ign: 0/20",
-   "eurogamer: 1/100",
+   "eurogamer: 0/100",
    "dexerto_gta: 2/50",
    "rockstarintel: 4/10",
    "gtaboom: 8/30",
    "reddit: 23/25",
    "tg_gtavistar: 2/10",
-   "tg_gta6deluxe: 6/6",
+   "tg_gta6deluxe: 7/7",
    "tg_gta6_m: 10/18",
    "tg_gta6newsdaily: 2/15"
   ],
