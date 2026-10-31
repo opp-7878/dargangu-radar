@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "d34ae9dc5c25",
+   "title": "Rockstar reportedly teaming up with and Nike for $130 GTA 6 sneakers",
+   "first_seen": "2026-10-31T16:31:12Z",
+   "updated": "2026-10-31T16:40:51Z",
+   "items": [
+    {
+     "id": "d34ae9dc5c25",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Rockstar reportedly teaming up with and Nike for $130 GTA 6 sneakers",
+     "url": "https://www.dexerto.com/entertainment/rockstar-reportedly-teaming-up-with-and-nike-for-130-gta-6-sneakers-3423514/",
+     "ts": "2026-10-31T16:28:19Z",
+     "summary": "Rockstar Games is reportedly teaming up with Travis Scott and Nike to release a collection of Grand Theft Auto 6-themed sneakers in time for the game’s launch."
+    },
+    {
+     "id": "ee9ce7658d1e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Dexerto",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Rockstar reportedly teaming up with and Nike for $130 GTA 6 sneakers",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlN6MUp1M21ZSE4tQkR4dENtYi1JODdBYll4WV9WWnlMYXVqWUs1eEpIOTZQbXFjclBtYUNBR0tkeGlGUkZfYzg4YklCY2NQU3AtX0hQeFVzMlZlSWlScDBGUmk4LThwOXBxMTFXTlhEZFBCU1B0VXNoTHFBVGp2WjdRbjRZNHhEemRKaEpUMmdxVmVVazVXOFczVVNhZjA1SnRTME8weEtZN3c5c1Ewa21MZDc?oc=5",
+     "ts": "2026-10-31T16:32:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 83,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Кроссовки GTA 6 от Трэвиса Скотта за $130? 👟",
+    "summary": "По данным Dexerto, Rockstar якобы сотрудничает с Трэвисом Скоттом и Nike для выпуска кроссовок к запуску GTA 6. Коллекция приурочена к релизу игры, цена — около 130 долларов.",
+    "idea": "Показываем «мерч мечты» к запуску GTA 6: распаковка и реакция на кроссовки Travis Scott x Nike. Зрителю интересно, сколько стоит и реально ли достать.",
+    "hook": "Кроссовки GTA 6 от Трэвиса Скотта за 130 баксов — реально или фейк?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-10-31T16:31:15Z"
+   },
+   "msg_id": 384
+  },
+  {
    "id": "1aefeb95850b",
    "title": "PlayStation 5 November 2026 Games List: Release Dates, GTA 6 and More",
    "first_seen": "2026-10-31T16:31:12Z",
@@ -38,45 +90,6 @@
     "at": "2026-10-31T16:31:18Z"
    },
    "msg_id": 385
-  },
-  {
-   "id": "d34ae9dc5c25",
-   "title": "Rockstar reportedly teaming up with and Nike for $130 GTA 6 sneakers",
-   "first_seen": "2026-10-31T16:31:12Z",
-   "updated": "2026-10-31T16:31:12Z",
-   "items": [
-    {
-     "id": "d34ae9dc5c25",
-     "src": "dexerto_gta",
-     "src_name": "Dexerto GTA",
-     "outlet": "",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "Rockstar reportedly teaming up with and Nike for $130 GTA 6 sneakers",
-     "url": "https://www.dexerto.com/entertainment/rockstar-reportedly-teaming-up-with-and-nike-for-130-gta-6-sneakers-3423514/",
-     "ts": "2026-10-31T16:28:19Z",
-     "summary": "Rockstar Games is reportedly teaming up with Travis Scott and Nike to release a collection of Grand Theft Auto 6-themed sneakers in time for the game’s launch."
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Кроссовки GTA 6 от Трэвиса Скотта за $130? 👟",
-    "summary": "По данным Dexerto, Rockstar якобы сотрудничает с Трэвисом Скоттом и Nike для выпуска кроссовок к запуску GTA 6. Коллекция приурочена к релизу игры, цена — около 130 долларов.",
-    "idea": "Показываем «мерч мечты» к запуску GTA 6: распаковка и реакция на кроссовки Travis Scott x Nike. Зрителю интересно, сколько стоит и реально ли достать.",
-    "hook": "Кроссовки GTA 6 от Трэвиса Скотта за 130 баксов — реально или фейк?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-31T16:31:15Z"
-   },
-   "msg_id": 384
   },
   {
    "id": "b00cf66e2a2e",
@@ -64488,11 +64501,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T16:31:19Z",
+  "last_run": "2026-10-31T16:40:51Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 79/83",
-   "gnews_ru: 30/44",
+   "gnews_en: 71/76",
+   "gnews_ru: 33/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
