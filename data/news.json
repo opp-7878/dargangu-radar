@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "4cd3e258ff14",
+   "title": "Is there a chance it isn't good?",
+   "first_seen": "2026-10-31T06:50:47Z",
+   "updated": "2026-10-31T06:50:47Z",
+   "items": [
+    {
+     "id": "4cd3e258ff14",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Is there a chance it isn't good?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xk37p6/is_there_a_chance_it_isnt_good/",
+     "ts": "2026-10-31T06:45:49Z",
+     "summary": "I know it seems like blasphemy, but with all the systems, huge map, updated wanted rating and all that, etc., is there actually a legitimate chance the game will be just too bloated and/or just genuinely not fun? And if it is, will anyone actually admit it? submitted by /u/LostandFoundPilgrim to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "5cc8efd47071",
    "title": "Insider Claim GTA 6 Copies for Gaming Journalists Are Not Watermarked",
    "first_seen": "2026-10-31T06:40:52Z",
@@ -62791,11 +62817,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T06:40:52Z",
+  "last_run": "2026-10-31T06:50:47Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 95/100",
-   "gnews_ru: 37/48",
+   "gnews_ru: 39/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
