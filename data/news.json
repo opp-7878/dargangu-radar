@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "4a966c37815d",
+   "title": "GTA 6 Lands on the Cover of Edge Issue 430",
+   "first_seen": "2026-10-31T10:20:18Z",
+   "updated": "2026-10-31T10:20:18Z",
+   "items": [
+    {
+     "id": "4a966c37815d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "happygamer.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Lands on the Cover of Edge Issue 430",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjakZuaHhlYmU5MHdvV3RrTUxZYzBnNllEUGhyRXR4XzNqMmpOLXp0N2ZQcUVneDR1eWFacE1qVkNxZmgyTWRCQURxZ0FqaXFpQVBtMXladFRSVWFJZE00d0tJU1VQMEs3bDZxc25uZHE?oc=5",
+     "ts": "2026-10-31T10:10:05Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "554c28cc56b7",
+   "title": "Driving across the entire Grand Theft Auto VI map can take around 35 minutes.",
+   "first_seen": "2026-10-31T10:20:18Z",
+   "updated": "2026-10-31T10:20:18Z",
+   "items": [
+    {
+     "id": "554c28cc56b7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Driving across the entire Grand Theft Auto VI map can take around 35 minutes.",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWQ3aS04NzZCejRFTGlZWEM2OXFjQXZnaV9aYmhfZTNIazZ3YW4zVzI4ZkFOdkQ1VE5UOG54ckM1QnlhVHgtTS1Bcm9ZUVlLNzl0cG9SMjU2RkJYN3VWal9jdm5BWG8zZjhXdUZ1QWxIc0RSN2VxZUFUcWdZcWtsdzVkMmhtV0VlSlhzaVZCVkQtbW1LYlVta0xQTWE1RHJVS3BhRGQ3WU9FNW8?oc=5",
+     "ts": "2026-10-31T10:16:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4d46e89fa846",
    "title": "GTA 6 Open-World Map Size Officially Confirmed",
    "first_seen": "2026-10-30T17:20:54Z",
@@ -63171,7 +63223,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T10:10:52Z",
+  "last_run": "2026-10-31T10:20:18Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 97/100",
@@ -63188,7 +63240,7 @@
    "tg_gtavistar: 2/10",
    "tg_gta6deluxe: 7/7",
    "tg_gta6_m: 10/18",
-   "tg_gta6newsdaily: 2/15"
+   "tg_gta6newsdaily: 1/15"
   ],
   "digest": "2026-10-31@9",
   "tg_offset": 854319078
