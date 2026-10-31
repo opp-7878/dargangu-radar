@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "897a23743aef",
+   "title": "GTA 6 Early Access Story Review (I Didn’t Read the NDA)",
+   "first_seen": "2026-10-31T09:20:50Z",
+   "updated": "2026-10-31T09:20:50Z",
+   "items": [
+    {
+     "id": "897a23743aef",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Early Access Story Review (I Didn’t Read the NDA)",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rTThYaGlhV1FHVzJCLUNZSnBiQzR4WnNScEJnNDUyQzNraVNkUEhSYkM5c3c1R3B5V0thUlQzYmlUODBhSE95ZU9uZEN0M3lQZ1JMVnNaX1lPRFdX?oc=5",
+     "ts": "2026-10-31T05:11:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a137a7afeea3",
+   "title": "I made GTA6 in Minecraft before GTA6 🤣",
+   "first_seen": "2026-10-31T09:20:50Z",
+   "updated": "2026-10-31T09:20:50Z",
+   "items": [
+    {
+     "id": "a137a7afeea3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I made GTA6 in Minecraft before GTA6 🤣",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xk52fc/i_made_gta6_in_minecraft_before_gta6/",
+     "ts": "2026-10-31T08:44:21Z",
+     "summary": "submitted by /u/GolliCRAFT to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c27d40f162d2",
    "title": "Own the music of GTA VI when it comes to streaming and physical media on December 11th",
    "first_seen": "2026-10-31T04:01:16Z",
@@ -63156,40 +63208,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "eca0b6d6d01c",
-   "title": "Макрон заявил, что большинство преступлений в GTA VI совершают ультралевые уголовники",
-   "first_seen": "2026-10-24T09:10:59Z",
-   "updated": "2026-10-24T09:10:59Z",
-   "items": [
-    {
-     "id": "eca0b6d6d01c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ИА Панорама",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Макрон заявил, что большинство преступлений в GTA VI совершают ультралевые уголовники",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00dUoxNHl6RTJYblZMNXZrcU5QZUV2R0d5Wm1scktDWmZvaElleEsyamsxd25id09yVUhFUnc3MEliblRXQlZpdVFhcVBzTEVWRnZFVk9nOHRPdV92clZrby1Pa3RHejNNVElFUTVDTGdaaXFZeEE?oc=5",
-     "ts": "2026-10-24T09:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T09:10:50Z",
+  "last_run": "2026-10-31T09:20:50Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 97/100",
+   "gnews_en: 96/100",
    "gnews_ru: 34/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
