@@ -1,6 +1,48 @@
 {
  "stories": [
   {
+   "id": "d6b7d574401c",
+   "title": "Has anyone else been mentally unable to play other video games in the lead up to GTA VI?",
+   "first_seen": "2026-10-31T15:01:20Z",
+   "updated": "2026-10-31T21:20:51Z",
+   "items": [
+    {
+     "id": "d6b7d574401c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Has anyone else been mentally unable to play other video games in the lead up to GTA VI?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xkc6rg/has_anyone_else_been_mentally_unable_to_play/",
+     "ts": "2026-10-31T14:50:49Z",
+     "summary": "The closer I get to the launch of GTA VI the less entertaining and fulfilling other games are. I'll turn on COD bo6 for a game then I'm done, Elden Ring for 45 mins and Elder Scrolls 4 for 30. I even started new playthroughs on GTA 3, VC, SA, GTA 4 and RDR2. I just can't play anything, I don't want to play anything. I'm really just waiting to play GTA VI. I used to be able to sit down and play games for a long ass time but now they just don't hit right knowing what's around the corner. Does anyone else feel this way? submitted by /u/pmofromo to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "4a638e0767ae",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Anyone else that doesn't play any other video games besides for GTA?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkljyq/anyone_else_that_doesnt_play_any_other_video/",
+     "ts": "2026-10-31T21:13:10Z",
+     "summary": "Curious to see how many of you are like me and don't play any other video games? I bought a PS5 in 2022 from my buddy who won it at a Christmas party. Paid him $250 as he already had one. I just set it up today and bought the pre-order for GTA6. The PS5 was sitting in the box unopened for years. Prior to that, I bought a PS4 in 2013 just for GTA5. Played it for a year and then stopped (never played online). Haven't touched a video game since 2014. I was 26 back then and 38 now. I have a decent set up in my basement with a 75\" TV, and 5.1 surround so I'm pumped to play GTA6 on that. Hopefully t"
+    }
+   ],
+   "tags": [
+    "Online",
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "dbed276a4ab1",
    "title": "Русский трейлер GTA 6 — Видео от Fosters",
    "first_seen": "2026-10-31T16:50:51Z",
@@ -2485,32 +2527,6 @@
    "score": 100,
    "level": "PROBABLE",
    "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "d6b7d574401c",
-   "title": "Has anyone else been mentally unable to play other video games in the lead up to GTA VI?",
-   "first_seen": "2026-10-31T15:01:20Z",
-   "updated": "2026-10-31T15:01:20Z",
-   "items": [
-    {
-     "id": "d6b7d574401c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Has anyone else been mentally unable to play other video games in the lead up to GTA VI?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xkc6rg/has_anyone_else_been_mentally_unable_to_play/",
-     "ts": "2026-10-31T14:50:49Z",
-     "summary": "The closer I get to the launch of GTA VI the less entertaining and fulfilling other games are. I'll turn on COD bo6 for a game then I'm done, Elden Ring for 45 mins and Elder Scrolls 4 for 30. I even started new playthroughs on GTA 3, VC, SA, GTA 4 and RDR2. I just can't play anything, I don't want to play anything. I'm really just waiting to play GTA VI. I used to be able to sit down and play games for a long ass time but now they just don't hit right knowing what's around the corner. Does anyone else feel this way? submitted by /u/pmofromo to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -65329,11 +65345,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-10-31T21:10:52Z",
+  "last_run": "2026-10-31T21:20:51Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 85/88",
-   "gnews_ru: 32/61",
+   "gnews_ru: 28/40",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
