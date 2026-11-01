@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "084c0cb6e332",
+   "title": "GTA 6: отношения Джейсона и Люсии зависят от твоих выборов",
+   "first_seen": "2026-11-01T15:50:54Z",
+   "updated": "2026-11-01T15:50:54Z",
+   "items": [
+    {
+     "id": "084c0cb6e332",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://dungen.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: отношения Джейсона и Люсии зависят от твоих выборов",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rajVmNnl6RDV1WW8zTjVDQl9mNkRELVV1aEVhTzFEUFFrN1ByT1pXcGpwb0hxWDZZa1kzTU5uN3ZLVDEtYmRqMlpjWVp4M3ltaFJCN0FwMnh1RENpMlVUZw?oc=5",
+     "ts": "2026-11-01T15:44:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d34ae9dc5c25",
    "title": "Rockstar reportedly teaming up with and Nike for $130 GTA 6 sneakers",
    "first_seen": "2026-10-31T16:31:12Z",
@@ -68607,11 +68633,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T15:40:56Z",
+  "last_run": "2026-11-01T15:50:54Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 68/74",
-   "gnews_ru: 24/26",
+   "gnews_en: 66/72",
+   "gnews_ru: 25/60",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -68620,7 +68646,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 2/10",
    "gtaboom: 1/30",
-   "reddit: 20/25",
+   "reddit: 19/25",
    "tg_gtavistar: 8/11",
    "tg_gta6deluxe: 8/11",
    "tg_gta6_m: 9/17",
