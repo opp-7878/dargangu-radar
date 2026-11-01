@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "cba29db2fde4",
+   "title": "GTA 6: Actor Who Plays Cal Hampton Reportedly Revealed",
+   "first_seen": "2026-11-01T12:20:53Z",
+   "updated": "2026-11-01T12:20:53Z",
+   "items": [
+    {
+     "id": "cba29db2fde4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "EGW.News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Actor Who Plays Cal Hampton Reportedly Revealed",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdnJSMGpWZFF2dnBxeVpORzFIbFVnWG5hVDc5UXBhOGl6VnJvU3NkRk0zVk1kY0h0R2ZnZm9neWVPd3BpbUs3TWJkY3lLLWI0aklsZldiemxjakJ5UE5pRm5rbkVWeTcwQS02bTVSSFF1aFJ4Rmh3ZmtFNjNfZjZJMVY2TThaRGl0Q1puU2F1VUI2SDNXVWkzRHV4VQ?oc=5",
+     "ts": "2026-11-01T11:38:05Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Раскрыли актёра Каля Хэмптона? Что известно об этом слухе",
+    "summary": "По информации EGW.News, стало известно имя актёра, который якобы играет Каля Хэмптона в GTA 6. Официально Rockstar это не подтверждала, так что пока это слух.",
+    "idea": "Разбираем, кто такой Каль Хэмптон и почему имя актёра всплыло только сейчас — зрителям интересно сверить слухи с фактами.",
+    "hook": "Имя актёра Каля Хэмптона всплыло в сети — кто он и правда ли это?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-01T12:20:57Z"
+   },
+   "msg_id": 400
+  },
+  {
    "id": "a653a5c97bc9",
    "title": "November has come...",
    "first_seen": "2026-11-01T12:10:49Z",
@@ -67789,11 +67828,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T12:10:49Z",
+  "last_run": "2026-11-01T12:20:57Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 80/89",
-   "gnews_ru: 30/34",
+   "gnews_en: 79/88",
+   "gnews_ru: 32/55",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
