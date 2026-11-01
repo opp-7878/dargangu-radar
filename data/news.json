@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "f4d7cf4d3df9",
+   "title": "A true tragedy",
+   "first_seen": "2026-11-01T04:01:10Z",
+   "updated": "2026-11-01T04:01:10Z",
+   "items": [
+    {
+     "id": "f4d7cf4d3df9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "A true tragedy",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xktjpu/a_true_tragedy/",
+     "ts": "2026-11-01T04:00:30Z",
+     "summary": "submitted by /u/Global-Ear9206 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "914d173313ef",
    "title": "TTWO Stock Rises Premarket: GTA 6 Boss Explains Why Keeping Its Satire Relevant Is Harder Than Ever",
    "first_seen": "2026-11-01T03:40:49Z",
@@ -66365,11 +66391,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T03:50:49Z",
+  "last_run": "2026-11-01T04:01:10Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 71/75",
-   "gnews_ru: 28/57",
+   "gnews_en: 69/73",
+   "gnews_ru: 26/35",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
