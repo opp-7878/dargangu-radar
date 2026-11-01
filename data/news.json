@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "7a5a57a3ddcf",
+   "title": "GTA 6 Launch Trailer Shared By Xbox A Week After PlayStation",
+   "first_seen": "2026-11-01T09:01:13Z",
+   "updated": "2026-11-01T09:01:13Z",
+   "items": [
+    {
+     "id": "7a5a57a3ddcf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Launch Trailer Shared By Xbox A Week After PlayStation",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xQmtEU1FDQlIxNXlRaW1veXJOd1RHX3N0VWNVT0FvSTFEWW9aTWdOLWtIdzdiaXNvOExDWUJnaUx4bm9pTzEtZ1Q2WFBqLWRxZlFoOXVtajl5b01TX0JPN0VrMzY?oc=5",
+     "ts": "2026-10-31T22:17:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "cac6510f2f57",
+   "title": "The hype is unreal",
+   "first_seen": "2026-11-01T09:01:13Z",
+   "updated": "2026-11-01T09:01:13Z",
+   "items": [
+    {
+     "id": "cac6510f2f57",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The hype is unreal",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkya44/the_hype_is_unreal/",
+     "ts": "2026-11-01T08:55:15Z",
+     "summary": "This is the official state account of Assam(Indian state) Game needs zero marketing lmao. submitted by /u/Affectionate-Key5198 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2caf9f91d574",
+   "title": "Randomly saw a mouth gag in the apartment that Lucia stays in.",
+   "first_seen": "2026-11-01T09:01:13Z",
+   "updated": "2026-11-01T09:01:13Z",
+   "items": [
+    {
+     "id": "2caf9f91d574",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Randomly saw a mouth gag in the apartment that Lucia stays in.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkyawp/randomly_saw_a_mouth_gag_in_the_apartment_that/",
+     "ts": "2026-11-01T08:56:41Z",
+     "summary": "submitted by /u/AceOfSpades_4 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "cdfc944e4ea6",
    "title": "To everyone who couldn’t live to see the final month",
    "first_seen": "2026-11-01T08:40:48Z",
@@ -67320,11 +67400,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T08:50:48Z",
+  "last_run": "2026-11-01T09:01:13Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 66/71",
-   "gnews_ru: 32/55",
+   "gnews_en: 69/74",
+   "gnews_ru: 34/56",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -67336,7 +67416,7 @@
    "reddit: 22/25",
    "tg_gtavistar: 5/11",
    "tg_gta6deluxe: 9/10",
-   "tg_gta6_m: 9/17",
+   "tg_gta6_m: 8/17",
    "tg_gta6newsdaily: 1/15"
   ],
   "digest": "2026-11-01@9",
