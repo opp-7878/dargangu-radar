@@ -1,6 +1,87 @@
 {
  "stories": [
   {
+   "id": "353b8a3fcd55",
+   "title": "Soo, are we getting a physical map with the preorder or not?",
+   "first_seen": "2026-11-01T12:01:15Z",
+   "updated": "2026-11-01T12:01:15Z",
+   "items": [
+    {
+     "id": "353b8a3fcd55",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Soo, are we getting a physical map with the preorder or not?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xl18kd/soo_are_we_getting_a_physical_map_with_the/",
+     "ts": "2026-11-01T11:56:56Z",
+     "summary": "Can anyone confirm here that we getting a map or not? It will be pretty awkward to only get code in the box and nothing else. submitted by /u/dacabbagebutt to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс",
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3b101fa63b91",
+   "title": "The one thing I am most excited about.",
+   "first_seen": "2026-11-01T12:01:15Z",
+   "updated": "2026-11-01T12:01:15Z",
+   "items": [
+    {
+     "id": "3b101fa63b91",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The one thing I am most excited about.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xl19ob/the_one_thing_i_am_most_excited_about/",
+     "ts": "2026-11-01T11:58:42Z",
+     "summary": "The sheer variety we've seen and heard so far from manatees to macaques And especially the underwater creatures, cause that's one thing we have no proper reference for in rdr2(yes we had fishing but yk) Gotta catch'em all! submitted by /u/ShriyanshPandey to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "da4aaaf5e8b8",
+   "title": "Gun Customisation?",
+   "first_seen": "2026-11-01T12:01:15Z",
+   "updated": "2026-11-01T12:01:15Z",
+   "items": [
+    {
+     "id": "da4aaaf5e8b8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Gun Customisation?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xl1ahy/gun_customisation/",
+     "ts": "2026-11-01T12:00:01Z",
+     "summary": "Are we expecting to see a return of GTA V’s very flat-feeling ammunition, or conversely a more weighted interaction like RDR2’s Gunsmiths? Personally I hope for the latter. I must’ve spent hours altering metals, stocks etc. What do you guys think? submitted by /u/Lincolnshire_Rocker to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "b34e9a7ef443",
    "title": "Will GTA VI push people to go to the gym more ?",
    "first_seen": "2026-11-01T11:50:52Z",
@@ -67676,41 +67757,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "6a2d2448d363",
-   "title": "GTA VI vs. Modern Warfare 4 convenience stores",
-   "first_seen": "2026-10-25T12:01:13Z",
-   "updated": "2026-10-25T12:01:13Z",
-   "items": [
-    {
-     "id": "6a2d2448d363",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA VI vs. Modern Warfare 4 convenience stores",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xezxji/gta_vi_vs_modern_warfare_4_convenience_stores/",
-     "ts": "2026-10-25T11:26:22Z",
-     "summary": "Just look at the amount of detail in GTA VI. The lighting, the clutter, the shelves, the overall atmosphere, everything feels so much more alive and realistic. Rockstar really seems to be pushing environmental detail to another level with this game, and it's honestly impressive. submitted by /u/MaliHizm to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T11:50:52Z",
+  "last_run": "2026-11-01T12:01:15Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/0",
    "gnews_en: 67/73",
-   "gnews_ru: 30/34",
+   "gnews_ru: 31/56",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -67719,9 +67774,9 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 2/10",
    "gtaboom: 1/30",
-   "reddit: 19/25",
+   "reddit: 20/25",
    "tg_gtavistar: 5/11",
-   "tg_gta6deluxe: 9/10",
+   "tg_gta6deluxe: 8/10",
    "tg_gta6_m: 9/17",
    "tg_gta6newsdaily: 0/15"
   ],
