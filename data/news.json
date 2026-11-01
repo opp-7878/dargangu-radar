@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "2cb3c9d4385f",
+   "title": "HAPPY NOVEMBER, GUYS!!! 🎉",
+   "first_seen": "2026-11-01T08:10:52Z",
+   "updated": "2026-11-01T08:10:52Z",
+   "items": [
+    {
+     "id": "2cb3c9d4385f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "HAPPY NOVEMBER, GUYS!!! 🎉",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkxj08/happy_november_guys/",
+     "ts": "2026-11-01T08:06:02Z",
+     "summary": "WE GET TO PLAY GTA 6 THIS MONTH!!! 😭 Stay safe out there, everyone. It’s finally happening! ❤️ submitted by /u/mankomal3 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b4a0b73bbd98",
+   "title": "GTA VI выйдет уже в ЭТОМ МЕСЯЦЕ — до релиза главной игры года осталось совсем немного Напомним: 😀 Предзагрузка игры — 12 ноября 😀 Релиз — 19 ноября Кстати, на Л",
+   "first_seen": "2026-11-01T08:10:52Z",
+   "updated": "2026-11-01T08:10:52Z",
+   "items": [
+    {
+     "id": "b4a0b73bbd98",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA VI выйдет уже в ЭТОМ МЕСЯЦЕ — до релиза главной игры года осталось совсем немного Напомним: 😀 Предзагрузка игры — 12 ноября 😀 Релиз — 19 ноября Кстати, на Л",
+     "url": "https://t.me/gta6deluxe/1890",
+     "ts": "2026-11-01T08:10:33Z",
+     "summary": "⚡️ GTA VI выйдет уже в ЭТОМ МЕСЯЦЕ — до релиза главной игры года осталось совсем немного Напомним: 😀 Предзагрузка игры — 12 ноября 😀 Релиз — 19 ноября Кстати, на Люсию в этом месяце ни-ни 🙅‍♂️ 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: предзагрузка 12 ноября, релиз 19 ноября",
+    "summary": "По данным Telegram-канала @gta6deluxe, предзагрузка GTA 6 стартует 12 ноября, а релиз — 19 ноября. Источник также напомнил, что игра выходит в этом месяце.",
+    "idea": "Быстрый обратный отсчёт до предзагрузки и релиза с датами на экране — зрителю важно не пропустить загрузку и старт.",
+    "hook": "До GTA 6 — считанные дни: предзагрузка стартует 12 ноября.",
+    "stars": 5,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-01T08:10:55Z"
+   },
+   "msg_id": 395
+  },
+  {
    "id": "21c85c8f225f",
    "title": "🤬 Rockstar вдохновилась реальной бандой Marabunta Grande из новых показов GTA VI придумали не с нуля.",
    "first_seen": "2026-11-01T08:06:14Z",
@@ -67120,11 +67185,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T08:06:14Z",
+  "last_run": "2026-11-01T08:10:55Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 66/71",
-   "gnews_ru: 34/56",
+   "gnews_en: 67/72",
+   "gnews_ru: 33/56",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -67135,7 +67200,7 @@
    "gtaboom: 2/30",
    "reddit: 22/25",
    "tg_gtavistar: 4/11",
-   "tg_gta6deluxe: 8/9",
+   "tg_gta6deluxe: 9/10",
    "tg_gta6_m: 9/17",
    "tg_gta6newsdaily: 1/15"
   ],
