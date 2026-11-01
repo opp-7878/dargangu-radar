@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "a1f04abc3c0f",
+   "title": "Рекламный ролик Tesla Roadster 2026 | GTA expert: Новости GTA 6",
+   "first_seen": "2026-11-01T01:01:22Z",
+   "updated": "2026-11-01T01:01:22Z",
+   "items": [
+    {
+     "id": "a1f04abc3c0f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Рекламный ролик Tesla Roadster 2026 | GTA expert: Новости GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqTWRDQmxHYmw2RGlpNFd4a3g4TGtKYnljYlRrcUQwaXFKNnJaNFFzLWtCRmNaSG0zT2dSeTNDMWgtQ2VzNWxrQ253?oc=5",
+     "ts": "2026-10-31T16:37:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6441046568b7",
    "title": "GTA 6 Is Tipped To Cost A Billion Dollars In Sick Days",
    "first_seen": "2026-11-01T00:50:53Z",
@@ -65954,11 +65980,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T00:50:53Z",
+  "last_run": "2026-11-01T01:01:22Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 86/89",
-   "gnews_ru: 29/58",
+   "gnews_ru: 28/38",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -65967,7 +65993,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 3/10",
    "gtaboom: 4/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 4/11",
    "tg_gta6deluxe: 8/9",
    "tg_gta6_m: 8/17",
