@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "e1763412f0a8",
+   "title": "Is GTA 6 on PC? Not on Nov. 19: what Rockstar has said and what the early-2027 report claims",
+   "first_seen": "2026-11-01T21:10:51Z",
+   "updated": "2026-11-01T21:10:51Z",
+   "items": [
+    {
+     "id": "e1763412f0a8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Nacionale",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Is GTA 6 on PC? Not on Nov. 19: what Rockstar has said and what the early-2027 report claims",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGhuZUtnZG12RmNmS09HX3M1TE82YkdvRzV6MC04V29aRWxva1BsZ0dCOWpFRmpJNl9xSk5zcHI2RG9VaXRsT2h0S1VHWWIya1VoNnA0VkVXdE50aTNHb1ZRWmZaZDNWR1E0V29jaXNUTS1TdlRNWk9PWjhMa2VmblF0MV9sYW1VOEx2dQ?oc=5",
+     "ts": "2026-11-01T20:59:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "4ce1d771e99d",
+   "title": "GTA 6 Promotion in Miami Expands to Airport and Transit Locations",
+   "first_seen": "2026-11-01T21:10:51Z",
+   "updated": "2026-11-01T21:10:51Z",
+   "items": [
+    {
+     "id": "4ce1d771e99d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RS Web Solutions",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Promotion in Miami Expands to Airport and Transit Locations",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSjQxamZhUjFWUUhxbmUtWHBjVkY1b2loSGhMUmp2dGk4WnhQVnBSUzI2NWN5VWdPMGlaSm9wX0J5ZWQ1UndMbVNYVlJOS1lYX2tlbWdRLTA4NzYtLVAyS25SNHByUGJfZFhSUkJhQW1YV1FrMnlOMWpPcVota3NaRlczV05MelJ0STJUQTFSY3lyODlWcDM4RHlHTFl0WjRJUXJJSVh3QjJTanItX3g3QzBZc2VjeEg2Q1E?oc=5",
+     "ts": "2026-11-01T21:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "7a5a57a3ddcf",
    "title": "GTA 6 Launch Trailer Shared By Xbox A Week After PlayStation",
    "first_seen": "2026-11-01T09:01:13Z",
@@ -70091,41 +70145,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c57edc36b2f1",
-   "title": "GTA 6 может обойтись экономике США в миллиард долларов. И всё потому, что полтора миллиона американцев внезапно «заболеют» в день... 2026",
-   "first_seen": "2026-10-25T21:10:48Z",
-   "updated": "2026-10-25T21:10:48Z",
-   "items": [
-    {
-     "id": "c57edc36b2f1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ВКонтакте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 может обойтись экономике США в миллиард долларов. И всё потому, что полтора миллиона американцев внезапно «заболеют» в день... 2026",
-     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5IYzdQeUlhdGtmTGZCMk5qM285QUg1MndFZW8tUmlVQmtKaXRHVFJQRlJQTjU1UzVaYXhyY2haZ2tlN3VRQ0pkeGZR?oc=5",
-     "ts": "2026-10-25T19:20:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T21:01:17Z",
+  "last_run": "2026-11-01T21:10:51Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 68/73",
-   "gnews_ru: 24/26",
+   "gnews_en: 65/70",
+   "gnews_ru: 26/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -70134,7 +70162,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 22/25",
+   "reddit: 21/25",
    "tg_gtavistar: 7/11",
    "tg_gta6deluxe: 8/12",
    "tg_gta6_m: 9/17",
