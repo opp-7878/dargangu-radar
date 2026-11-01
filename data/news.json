@@ -1,6 +1,87 @@
 {
  "stories": [
   {
+   "id": "68e0d75bb21b",
+   "title": "Walmart GTA 6 Preorders Will Get a ‘Surprise and Delight’ Bag, It’s Claimed",
+   "first_seen": "2026-11-01T23:20:51Z",
+   "updated": "2026-11-01T23:20:51Z",
+   "items": [
+    {
+     "id": "68e0d75bb21b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Walmart GTA 6 Preorders Will Get a ‘Surprise and Delight’ Bag, It’s Claimed",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FWU81ckpGYWtPazVxXzllaENEcTdVbW9tNVc3ZlB1YU5panBlTUFDaDk5aHdpSktFRkNlYzVLcG5JSy1ycnRlS0M5NFktR0FoR19MM1oydEtKbzhOQ0x0ZVRTV3c3SVA4N0UzQQ?oc=5",
+     "ts": "2026-11-01T23:10:28Z",
+     "summary": ""
+    },
+    {
+     "id": "5f818ae2b9d1",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Walmart GTA 6 Preorders Will Get a ‘Surprise and Delight’ Bag, It’s Claimed",
+     "url": "https://insider-gaming.com/walmart-gta-6-preorder-bonus-bag/",
+     "ts": "2026-11-01T23:10:28Z",
+     "summary": "It has been reported on social media that users picking up GTA 6 pre-orders at Walmart will receive an exclusive goodie bag. The post Walmart GTA 6 Preorders Will Get a ‘Surprise and Delight’ Bag, It’s Claimed appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 88,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Walmart обещает «мешок сюрпризов» за предзаказ GTA 6",
+    "summary": "По сообщениям в соцсетях, Walmart выдаёт эксклюзивный «мешок сюрпризов» за предзаказ GTA 6, пишет Insider Gaming со ссылкой на Tom Henderson. Речь о бонусном пакете для тех, кто заберёт предзаказ в магазине. Официально Rockstar это не подтверждала.",
+    "idea": "Короткий разбор, что может быть в «мешке сюрпризов» Walmart и стоит ли ради этого идти в магазин. Зрителю важно понять реальную ценность бонуса и не переплатить.",
+    "hook": "Walmart обещает «мешок сюрпризов» за предзаказ GTA 6 — что внутри?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-01T23:20:55Z"
+   },
+   "msg_id": 414,
+   "posts": {
+    "flash": "<b>⚡️ Walmart выдаст «мешок сюрпризов» за предзаказ GTA 6</b>\n\nПо данным Insider Gaming, покупатели, оформившие предзаказ онлайн с самовывозом, получат эксклюзивный пакет на выдаче с 12 ноября. Rockstar это пока не подтверждала.\n\n#GTA6 #DargaNGU"
+   }
+  },
+  {
+   "id": "d2d4b448da34",
+   "title": "Rockstar, Please Change This Horrible UI.",
+   "first_seen": "2026-11-01T23:20:51Z",
+   "updated": "2026-11-01T23:20:51Z",
+   "items": [
+    {
+     "id": "d2d4b448da34",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Rockstar, Please Change This Horrible UI.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlhg04/rockstar_please_change_this_horrible_ui/",
+     "ts": "2026-11-01T23:15:03Z",
+     "summary": "Again, I'm concerned about the game, I really care about the game, I'm not hating, I'm just worried the UI and Radar end up looking they way they do, everyone knows it's very wrong, not because it's simplistic. submitted by /u/SpecterK1 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "226adbb2cba7",
    "title": "Who's Pre-ordered Grand Theft Auto 6?",
    "first_seen": "2026-11-01T23:10:52Z",
@@ -70719,14 +70800,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T23:10:52Z",
+  "last_run": "2026-11-01T23:20:58Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 78/83",
-   "gnews_ru: 26/60",
+   "gnews_en: 68/72",
+   "gnews_ru: 24/27",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 4/10",
+   "insider_gaming: 5/10",
    "ign: 0/20",
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
