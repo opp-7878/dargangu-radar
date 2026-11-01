@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "833e197921fd",
+   "title": "Kids don’t care about GTA6 ?",
+   "first_seen": "2026-11-01T12:31:06Z",
+   "updated": "2026-11-01T12:31:06Z",
+   "items": [
+    {
+     "id": "833e197921fd",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Kids don’t care about GTA6 ?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xl1qd9/kids_dont_care_about_gta6/",
+     "ts": "2026-11-01T12:22:25Z",
+     "summary": "I took my 2 kids tick or treating last night with about 5 of their friends. Ages ranged from 11-13. I asked in the car if they were excited about gta 6 (they all game) and none of them really knew or cared. One kid said “we got flying cars before gta 6!” But that was the extent of his knowledge. Is all the hype solely middle aged men like myself ? submitted by /u/Olneyvillain4190 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e8cc881b456b",
+   "title": "GTA 6 и конец старых условностей: почему реализм вынуждает менять механики",
+   "first_seen": "2026-11-01T12:31:06Z",
+   "updated": "2026-11-01T12:31:06Z",
+   "items": [
+    {
+     "id": "e8cc881b456b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://dungen.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 и конец старых условностей: почему реализм вынуждает менять механики",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02eWVxZjNlM0ZxVENsZFd6Z25TTEhhbnE3ZTYzTkt1UnQ5cHR5SElPTU9HUzNqY2V3U0dIbmZGUnEya3Y2b0dmMXB1Q1I2aHBaQVhseEt1Nm11QkxMal8tb2IxQXZVWmMz?oc=5",
+     "ts": "2026-11-01T12:26:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "cba29db2fde4",
    "title": "GTA 6: Actor Who Plays Cal Hampton Reportedly Revealed",
    "first_seen": "2026-11-01T12:20:53Z",
@@ -67798,41 +67850,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "cbbe0bf95666",
-   "title": "What types of achievements do you think there should be in GTA 6?",
-   "first_seen": "2026-10-25T12:26:40Z",
-   "updated": "2026-10-25T12:26:40Z",
-   "items": [
-    {
-     "id": "cbbe0bf95666",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What types of achievements do you think there should be in GTA 6?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xf0v6b/what_types_of_achievements_do_you_think_there/",
-     "ts": "2026-10-25T12:16:26Z",
-     "summary": "For me, I'd like to see an achievement/trophy called \"driving over the influencer\" that you can get by running internet pranksters submitted by /u/TheWoodsman27 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T12:20:57Z",
+  "last_run": "2026-11-01T12:31:06Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 79/88",
-   "gnews_ru: 32/55",
+   "gnews_ru: 32/36",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
