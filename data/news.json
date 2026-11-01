@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "13f0dd2803e8",
+   "title": "WAKE UP EVERYBODY ITS GTA 6 RELEASE MONTH",
+   "first_seen": "2026-11-01T10:31:06Z",
+   "updated": "2026-11-01T10:31:06Z",
+   "items": [
+    {
+     "id": "13f0dd2803e8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "WAKE UP EVERYBODY ITS GTA 6 RELEASE MONTH",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkznsy/wake_up_everybody_its_gta_6_release_month/",
+     "ts": "2026-11-01T10:22:53Z",
+     "summary": "We’re about to cross the finish line. GTA 6 is a little less than 3 weeks away. How are we feeling? submitted by /u/SozinMadeit to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ff2b9c083631",
+   "title": "13 years",
+   "first_seen": "2026-11-01T10:31:06Z",
+   "updated": "2026-11-01T10:31:06Z",
+   "items": [
+    {
+     "id": "ff2b9c083631",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "13 years",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkzq54/13_years/",
+     "ts": "2026-11-01T10:26:47Z",
+     "summary": "I remember being 10 years old, looking up \"gta5 psp\". I was getting ready on how I ll get my father to buy it for me, yes, on psp, didn't know nothing. Well my Godfather got me an Xbox 360 and gta5 for Christmas. I didn't have any friends, I remember getting a free online code for 3 months with the Xbox. I had no idea what that was l. So I was playing offline for like 3 years. Then I got Xbox one for watchdogs 2. I have sold and bought again GTA 5 like 4 times in three different consoles those 13 years. I ve been having dreams about playing gta6 the past 2 years at least once per month. Omg I "
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "31783f6a54ff",
    "title": "Take-Two's November Gauntlet: A Union Ballot, a Fresh GTA VI Trailer, and Two Bulls Who Won't Blink",
    "first_seen": "2026-10-31T19:20:48Z",
@@ -67421,41 +67475,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c85fc68de771",
-   "title": "В CS 2 появилась карта, посвященная хакеру GTA 6 – игрокам предлагается спасти его от Rockstar",
-   "first_seen": "2026-10-25T10:31:03Z",
-   "updated": "2026-10-25T10:31:03Z",
-   "items": [
-    {
-     "id": "c85fc68de771",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "24 Канал",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "В CS 2 появилась карта, посвященная хакеру GTA 6 – игрокам предлагается спасти его от Rockstar",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUtGMWI3NjQ5blo1MG5wTWtVckU2RlFZRlZQdzZ5cWJQdDBiUjdnRnRKc1B2cGtLXzlZeE85Q3MtVDBCUzBkM3Y4ekI0dXZIRVduR21tUzRuT0xlR0Jnd1VraEZwdFpibVQwSGZjdzJHbmVPVjVvbmVZWXVLR2diV3drOW9vSWZJUFVRdVE0Yjd2cXdQeFdDdy1sXzN5UGtsRHFLOGZONTFqbDTSAasBQVVfeXFMUG1LRjFiNzY0OW5aNTBucE1rVXJFNkZRWUZWUHc2eXFiUHQwYlI3Z0Z0SnNQdnBrS185WXhPOUNzLVQwQlMwZDN2OHpCNHV2SEVXbkdtbVM0bk9MZUdCZ3dVa2hGcHRaYm1UMEhmY3cyR25lT1Y1b25lWVl1S0dnYld3azlvb0lmSVBVUXVRNGI3dnF3UHhXQ3ctbF8zeVBrbERxSzhmTjUxamw0?oc=5",
-     "ts": "2026-10-25T08:47:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T10:20:50Z",
+  "last_run": "2026-11-01T10:31:06Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 85/93",
-   "gnews_ru: 34/56",
+   "gnews_en: 70/76",
+   "gnews_ru: 32/35",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
