@@ -1,6 +1,82 @@
 {
  "stories": [
   {
+   "id": "3016490938ec",
+   "title": "People Are Massively Taking Day Offs on November 19 to Play GTA 6",
+   "first_seen": "2026-11-01T08:20:52Z",
+   "updated": "2026-11-01T09:40:51Z",
+   "items": [
+    {
+     "id": "3016490938ec",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "EGW.News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "People Are Massively Taking Day Offs on November 19 to Play GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDR2d1dGUTFfTlVJaHV0NS1QQkpjREhkWWdNRFdxZ0lxMUUzT1dtdmxCbXVHT1RFdVZxU1FxSUJXZlRfMERXUUxlQmVXTUc5WUpkVHZQMTcyNzVDOTY1Z0J1RGdMZEJLNDVFS2VQd29ub0RHaXc3SHVwV0NtaEotR2Q4aHRFaDJrbGcxcjNreGV0WlZJLURCdE1naw?oc=5",
+     "ts": "2026-11-01T08:06:13Z",
+     "summary": ""
+    },
+    {
+     "id": "61286ed1a854",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "So excited to watch people play GTA 6 on 19 November on YouTube 😊",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xkyxub/so_excited_to_watch_people_play_gta_6_on_19/",
+     "ts": "2026-11-01T09:37:40Z",
+     "summary": "Soooo excited 😊 submitted by /u/Fox1439 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "19 ноября — день GTA 6: люди массово берут отгул",
+    "summary": "По данным EGW.News, многие берут отгул 19 ноября, чтобы играть в GTA 6. На Reddit обсуждают, как будут смотреть прохождения на YouTube в день выхода.",
+    "idea": "Короткий ролик о том, что 19 ноября — почти «народный выходной» под GTA 6: опрос зрителей, берут ли они отгул, и что будут смотреть на YouTube.",
+    "hook": "19 ноября — день GTA 6. Ты берёшь отгул или смотришь на YouTube?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-01T09:40:54Z"
+   },
+   "msg_id": 398
+  },
+  {
+   "id": "80017e6464dc",
+   "title": "GTA 6 Expectations: 18 Days to Nov 19 Launch [2026]",
+   "first_seen": "2026-11-01T09:40:51Z",
+   "updated": "2026-11-01T09:40:51Z",
+   "items": [
+    {
+     "id": "80017e6464dc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "https://tech-insider.org/",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Expectations: 18 Days to Nov 19 Launch [2026]",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYlpNSElPYkdTMWhENmFmM2dMWXNEeDBWSkM2RFRXclhfWlllLWU1SE9qUHZqQTBfTzlPVnRsTVZTRllkUTlLMllDeVVrQzhscmVLQTVGdHB0MUFJb3pDZmVoV0sxVVBTQnUzRUIyMUx2T1JWRG9hd1ZSTnZ4dkdoVjVyU29uVV9PWUt1eDg1Q2x0dVly?oc=5",
+     "ts": "2026-11-01T08:11:09Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e89eaf2c1b8d",
    "title": "GTA 6 Is Reportedly a 210GB Download, Boxed Copies Included",
    "first_seen": "2026-11-01T09:31:06Z",
@@ -291,32 +367,6 @@
    "posts": {
     "flash": "<b>❗️Миллионер посчитал цену GTA 6: дешевле вечеринок</b>\n\nВ вирусном видео блогер «Тилбери» сравнил $99.99 за игру с $100 за ночь в баре. По его логике, GTA 6 выходит выгоднее любых тусовок.\n\n#GTA6 #DargaNGU"
    }
-  },
-  {
-   "id": "3016490938ec",
-   "title": "People Are Massively Taking Day Offs on November 19 to Play GTA 6",
-   "first_seen": "2026-11-01T08:20:52Z",
-   "updated": "2026-11-01T08:20:52Z",
-   "items": [
-    {
-     "id": "3016490938ec",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "EGW.News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "People Are Massively Taking Day Offs on November 19 to Play GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDR2d1dGUTFfTlVJaHV0NS1QQkpjREhkWWdNRFdxZ0lxMUUzT1dtdmxCbXVHT1RFdVZxU1FxSUJXZlRfMERXUUxlQmVXTUc5WUpkVHZQMTcyNzVDOTY1Z0J1RGdMZEJLNDVFS2VQd29ub0RHaXc3SHVwV0NtaEotR2Q4aHRFaDJrbGcxcjNreGV0WlZJLURCdE1naw?oc=5",
-     "ts": "2026-11-01T08:06:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "933effc83c8a",
@@ -67382,95 +67432,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "07111f36716f",
-   "title": "Rockstar Is Now Sponsoring Comedy YouTube Shows to Sell GTA 6",
-   "first_seen": "2026-10-25T09:40:44Z",
-   "updated": "2026-10-25T09:40:44Z",
-   "items": [
-    {
-     "id": "07111f36716f",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "Rockstar Is Now Sponsoring Comedy YouTube Shows to Sell GTA 6",
-     "url": "https://www.gtaboom.com/rockstar-is-now-sponsoring-comedy-youtube-shows-to-sell-gta-6-0544",
-     "ts": "2026-10-25T09:38:43Z",
-     "summary": "Rockstar paid to sponsor Druski's comedy show Coulda Been Records, with an Ali G sketch plugging GTA 6 preorders."
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "56a8717abd74",
-   "title": "GTA 6 Just Got an Ad Spot on Druski's Show, Ali G and All",
-   "first_seen": "2026-10-25T09:40:44Z",
-   "updated": "2026-10-25T09:40:44Z",
-   "items": [
-    {
-     "id": "56a8717abd74",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GTA BOOM",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Just Got an Ad Spot on Druski's Show, Ali G and All",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamZ3QzdPTlhSQlRoZVd2eU1wTzhpWVJJYk9jVmNDNl9WQXJPWVdfTDdZU1RuX3ZXbV9ZY3VoeHI5OHRSVldfOEh5cVVkZFVCYWZKUV9zbFVxa3NpaWJVSG9EZDNUUUNiNVE0dFNSMkEycGJHWTJxb05DM04tbmxYVF91VFgyX1BJUVN0cmluNmd6R3pk?oc=5",
-     "ts": "2026-10-25T09:38:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4698d775a6c4",
-   "title": "«Мировой форс-мажор»: россияне начали оформлять официальные отпуска ради релиза GTA 6",
-   "first_seen": "2026-10-25T09:31:13Z",
-   "updated": "2026-10-25T09:31:13Z",
-   "items": [
-    {
-     "id": "4698d775a6c4",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "CyberMeta",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Мировой форс-мажор»: россияне начали оформлять официальные отпуска ради релиза GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdjNhendvZTdmZVhES0hfdHZna0FoeXBZZTFGbjlEOVkyOWtOMm1EOHBzaFB5R0hWeUFDUkg5aHg0alY2ZzRTVUlSaTlfaDNibFBvS3g3cmtnc19pZXI0MXZwT2xOTHZYMWVjSE1CdExieHJDcGxIM0UwR1paSHByUHNlakFrRVgwZXhyY2d0Z1k1NldycUVHWHdLeWtjSXpPck1mNE9tVHRUZzI5UFpGWEVqZVppYjJFNG5CT3R5T3RjSHJjeWtaMTMyWQ?oc=5",
-     "ts": "2026-10-25T09:26:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T09:31:06Z",
+  "last_run": "2026-11-01T09:40:55Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 82/89",
-   "gnews_ru: 33/57",
+   "rockstar_site: 0/0",
+   "gnews_en: 68/74",
+   "gnews_ru: 30/34",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
