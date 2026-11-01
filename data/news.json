@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "89390f2eacd7",
+   "title": "GTA 6 lead channels the spirit of Skyrim-era Todd Howard: \"You can go anywhere, any random location, and so many people have thought about that location\"",
+   "first_seen": "2026-11-01T18:10:51Z",
+   "updated": "2026-11-01T18:10:51Z",
+   "items": [
+    {
+     "id": "89390f2eacd7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 lead channels the spirit of Skyrim-era Todd Howard: \"You can go anywhere, any random location, and so many people have thought about that location\"",
+     "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxORGVIMUtOSDVUMFNsSTVIQ2hJX2hMV2E2d1BFSS1vV1YxTnhXaDZzUlhqM0RfakczZHBkYmNrbnJ2Ymg3M09TbG9KR25QZGhxMHNkdlBqU01oN2hvRFVGWDBDOGxabzZFdW5KcDNBazJNcm9TWDJ4cWQwRDYtejlVYjZJSy1qZlJ5TzloNnI1VXEzdnZ0TDdSRG1KSVlJb1hJTFJWRWFIY01Mc2tLcDY0Y18wTmdyVWhxdGEtOUcyUWE2UW5rVFBmWUNIZ0NoMElfZDgzZUEwaHI4ZFVEdVd1aHUtelBMa29KdjZvblc1R3F0ekRPa0xFaHVqYk9oUVVZR0gxdFFkRWRoeG02c3JJUWZFR3Z6QmZRVl9iYTJ1RkljTTRqTUE?oc=5",
+     "ts": "2026-11-01T18:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "aaa8c5553a52",
+   "title": "This guy was a visionnary",
+   "first_seen": "2026-11-01T18:10:51Z",
+   "updated": "2026-11-01T18:10:51Z",
+   "items": [
+    {
+     "id": "aaa8c5553a52",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "This guy was a visionnary",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xl9u7e/this_guy_was_a_visionnary/",
+     "ts": "2026-11-01T18:02:52Z",
+     "summary": "He was downvoted for saying the truth submitted by /u/outhinking to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "18f8bfd2197d",
    "title": "Liberty City x Vice City 🗽🌴",
    "first_seen": "2026-11-01T11:01:14Z",
@@ -69085,41 +69137,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "969165051063",
-   "title": "Xbox Series console users can get Grand Theft Auto VI completely free",
-   "first_seen": "2026-10-25T18:10:47Z",
-   "updated": "2026-10-25T18:10:47Z",
-   "items": [
-    {
-     "id": "969165051063",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Xbox Series console users can get Grand Theft Auto VI completely free",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVDJ2VXozVjNjVlJtSWVxeENPM1VOVFFLU1NHU2dzWEcyNVFlOXloaVRmbGVwTFdMU202M0h3Z2hLelBydTRmenhsYWVKTnVwN3FBMW4wczhHaURwcXZoTjJ4UkVDTFlpd0lpaEVteVlZaTY1NlZTZWRDM1pGZ2tmZk5GbTBvSzdWWVRZYmFBS2pUbFlOdXlIRGlTRUtBUWE3WFZRMm5kWHNMcmRRYmw4LVZoaW9YX1BaV3BwLTliYw?oc=5",
-     "ts": "2026-10-25T18:03:17Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T18:01:19Z",
+  "last_run": "2026-11-01T18:10:51Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 68/75",
-   "gnews_ru: 24/26",
+   "gnews_en: 69/76",
+   "gnews_ru: 25/57",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
