@@ -66281,54 +66281,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "6130f7cb5fce",
-   "title": "Виртуальные отношения в GTA 6 вызвали споры! Считается ли флирт в игре изменой? 6 процентов британцев сказали «да»",
-   "first_seen": "2026-10-24T13:20:48Z",
-   "updated": "2026-10-25T03:20:50Z",
-   "items": [
-    {
-     "id": "6130f7cb5fce",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Haberler",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Виртуальные отношения в GTA 6 вызвали споры! Считается ли флирт в игре изменой? 6 процентов британцев сказали «да»",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QN1gzaWRSYnVCNVdDalctWTk4cU4tb08wLWRiTmIzdEtRT0RXXzJQT0F5a0FPUXVkMDc4QjFEQlIzVUFNM2N0aWRmcUhIM2V1bk5kMjkwSjc?oc=5",
-     "ts": "2026-10-24T13:14:25Z",
-     "summary": ""
-    },
-    {
-     "id": "f56a1bad0c94",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Haberler",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Виртуальные отношения в GTA 6 вызвали споры! Считается ли флирт в игре изменой? 6 процентов британцев сказали «да»",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3UmhXeDZWM01qUGlCTm4yVEY3ME9GanBibnh6XzNxN3NqQ0lHOGVXUE5zN09nRlF0c09oUkl6LWQ4blQ2MnFDZDAwZUpKa2t5QjZfNFNyUQ?oc=5",
-     "ts": "2026-10-24T13:14:25Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T03:11:16Z",
+  "last_run": "2026-11-01T03:20:51Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/1",
+   "gnews_en: 71/74",
+   "gnews_ru: 27/36",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
