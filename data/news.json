@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "21c85c8f225f",
+   "title": "🤬 Rockstar вдохновилась реальной бандой Marabunta Grande из новых показов GTA VI придумали не с нуля.",
+   "first_seen": "2026-11-01T08:06:14Z",
+   "updated": "2026-11-01T08:06:14Z",
+   "items": [
+    {
+     "id": "21c85c8f225f",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🤬 Rockstar вдохновилась реальной бандой Marabunta Grande из новых показов GTA VI придумали не с нуля.",
+     "url": "https://t.me/GTA6_m/9283",
+     "ts": "2026-11-01T08:05:05Z",
+     "summary": "🤬 Rockstar вдохновилась реальной бандой Marabunta Grande из новых показов GTA VI придумали не с нуля. Её прототипом считается MS-13, одна из самых известных банд Центральной Америки При этом появилась она в Лос-Анджелесе ещё в 1980-х А игровая Marabunta Grande уже знакома нам по GTA V. Старые знакомые добрались и до Леониды 🔫 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "5f2cde482423",
    "title": "From 4 years to only a couple days left.",
    "first_seen": "2026-10-31T23:31:03Z",
@@ -67090,40 +67116,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7c4031f8293b",
-   "title": "Майами превратился в Вайс-Сити в рамках масштабной рекламной кампании GTA VI",
-   "first_seen": "2026-10-25T08:01:15Z",
-   "updated": "2026-10-25T08:01:15Z",
-   "items": [
-    {
-     "id": "7c4031f8293b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Land of Games",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Майами превратился в Вайс-Сити в рамках масштабной рекламной кампании GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV0Y4TktaSVlna0kxeTl3UXZsdlp0dkN4ZENySkFuQWQ2SDRPRjh1QUZ2UWxBQ3dESnp0V1FXZ2N3NmdPdF9vd2ZyN0ZVMGRFMnBTRkNNX0FRT2NDeFFqejR6MjI3d1dyTkNZeU55UmhlSGZ0YnIxV09CRE1fZUxLX0V3UXdsLTl5VUwzbmlQc3M3TnFmLVJYRzN6c3RzZDZvdTRKVHRWYk9XbTg3SnNoWEwyN3k1MmJ0NnBJMWpCNF90UmFDVTc4?oc=5",
-     "ts": "2026-10-25T07:54:10Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T08:01:11Z",
+  "last_run": "2026-11-01T08:06:14Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 81/88",
+   "gnews_en: 66/71",
    "gnews_ru: 34/56",
    "gamesbeat: 0/10",
    "vgc: 0/10",
@@ -67136,7 +67136,7 @@
    "reddit: 22/25",
    "tg_gtavistar: 4/11",
    "tg_gta6deluxe: 8/9",
-   "tg_gta6_m: 8/17",
+   "tg_gta6_m: 9/17",
    "tg_gta6newsdaily: 1/15"
   ],
   "digest": "2026-11-01@9",
