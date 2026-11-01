@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "f7b0fd63dff2",
+   "title": "I got Early access to GMT6",
+   "first_seen": "2026-11-01T06:01:16Z",
+   "updated": "2026-11-01T06:01:16Z",
+   "items": [
+    {
+     "id": "f7b0fd63dff2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I got Early access to GMT6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xkvj1l/i_got_early_access_to_gmt6/",
+     "ts": "2026-11-01T05:59:15Z",
+     "summary": "https://preview.redd.it/4p2wzyu0yxyh1.png?width=450&format=png&auto=webp&s=100e7c5fe2b3dc91e619130babca8bf52e822d33 Many people only dream of such opportunities, keep dreaming guys one day you might make it as well submitted by /u/George_7171 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a40410bb0d35",
    "title": "Полиция в GTA 6 больше не забудет преступника: как это изменит погони в игре",
    "first_seen": "2026-11-01T05:50:48Z",
@@ -66897,11 +66923,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T05:50:48Z",
+  "last_run": "2026-11-01T06:01:17Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 84/91",
-   "gnews_ru: 29/36",
+   "rockstar_site: 0/1",
+   "gnews_en: 80/87",
+   "gnews_ru: 30/56",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -66916,7 +66942,7 @@
    "tg_gta6_m: 8/17",
    "tg_gta6newsdaily: 1/15"
   ],
-  "digest": "2026-10-31@21",
+  "digest": "2026-11-01@9",
   "tg_offset": 854319078
  }
 }
