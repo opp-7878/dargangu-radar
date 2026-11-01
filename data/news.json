@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "ea9145a06723",
+   "title": "Rockstar и Nike выпустят кроссовки в стиле GTA 6 по цене 130 долларов (Sneaker Market Romania)",
+   "first_seen": "2026-11-01T19:50:48Z",
+   "updated": "2026-11-01T19:50:48Z",
+   "items": [
+    {
+     "id": "ea9145a06723",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Tribuna.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar и Nike выпустят кроссовки в стиле GTA 6 по цене 130 долларов (Sneaker Market Romania)",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeXgxWjNqZFdxT0Q5ZHZZZUg4RlY3NnFBN0hfeURHNERpN3MyWGZOWV9FSGVXUXduMnNsWDBsczRfd0lmV1BIM2trZ28yZmVBc2xoVTJSTTlvbzh5cW1IYzl5bFJSTnRZR3hCNmZwblpWdDVwUWZtTGJlY0tVN1MxeGtod0NnWkVWdTJ6YVVtN1h1REU1SjhaUHo1bW5FbjhHTW5HQ3pvb9IBrAFBVV95cUxPRk1kN2k1TElZQ0R4Nnh3VTF6aWRpVTFBZnkyVHl5OUdIZy1pMTNPMXlFTi1NUGV3V2NSS3drbGtBdm9uZnRTUXpldHJmT3VBS1lkNG8zRnFUYmx3c1N0c0VCZURvQzdEenZCdFVpYWFua0FCS2dIa0xBOGhtZlF1SUFYLUNMZy1sZWUySWNKRU5fb3NjSGR6RmxDaVdDT3FXa1BuNUtCRXFWRUQ4?oc=5",
+     "ts": "2026-11-01T19:40:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c6dff9212ddf",
+   "title": "GTA 6 Enters Its Launch Month With a November 19 Release Date",
+   "first_seen": "2026-11-01T19:50:48Z",
+   "updated": "2026-11-01T19:50:48Z",
+   "items": [
+    {
+     "id": "c6dff9212ddf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "happygamer.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Enters Its Launch Month With a November 19 Release Date",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51Qkhjb0ZxbjFQcXpHLU95TEJiajl4aTNlS2hsNkYtUldEaDk4YVdWS1lVTkliSU91UnZZbVczdUVReExZX1R1aEdGRHRiYXJKTUkzVkdJMDRic1pWMEtjVzVZWTE1bGpobDFHS0h2cmtVdlc4QTBVUDZoQzAyZ0E?oc=5",
+     "ts": "2026-11-01T19:47:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "5f21d055ddbf",
    "title": "What games made the waiting easier for you?",
    "first_seen": "2026-11-01T19:40:56Z",
@@ -69620,11 +69674,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T19:40:56Z",
+  "last_run": "2026-11-01T19:50:48Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 68/73",
-   "gnews_ru: 24/61",
+   "gnews_ru: 24/26",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -69633,7 +69687,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 2/10",
    "gtaboom: 0/30",
-   "reddit: 23/25",
+   "reddit: 22/25",
    "tg_gtavistar: 7/11",
    "tg_gta6deluxe: 8/12",
    "tg_gta6_m: 9/17",
