@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "613a7f0969a0",
+   "title": "GTA 6, всё, что известно, что подтверждено и что слухи",
+   "first_seen": "2026-11-01T21:20:52Z",
+   "updated": "2026-11-01T21:20:52Z",
+   "items": [
+    {
+     "id": "613a7f0969a0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Pasquale Pillitteri",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6, всё, что известно, что подтверждено и что слухи",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmdvVEh4WEM0VUVrS3ZINTJvN0lWR3VKTnRjUTRDRm01X292NkFhOHdkaFJ6ckpFQURRUnpMOEN1SDNhN1hBS0pueTNqS2hQaE1pWG5GWHNRdjFEZXozZ244dE0tLXNEQTZ1TndIVzNKNWcwME1ELXd1Z3Fya2JaUXdjRUo2X3dNZXJFU0RpNklYTGs?oc=5",
+     "ts": "2026-11-01T21:11:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3b77d4b19410",
+   "title": "Check your local Barnes & Noble for the latest Game Informer issue",
+   "first_seen": "2026-11-01T21:20:52Z",
+   "updated": "2026-11-01T21:20:52Z",
+   "items": [
+    {
+     "id": "3b77d4b19410",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Check your local Barnes & Noble for the latest Game Informer issue",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlekxi/check_your_local_barnes_noble_for_the_latest_game/",
+     "ts": "2026-11-01T21:11:41Z",
+     "summary": "submitted by /u/UnbanFreelanceNobody to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6a7a1f972b60",
+   "title": "Lucia's facial expressions from Grand Theft Auto VI were compared to Ellie's animations from The Last of Us Part II",
+   "first_seen": "2026-11-01T21:20:52Z",
+   "updated": "2026-11-01T21:20:52Z",
+   "items": [
+    {
+     "id": "6a7a1f972b60",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Lucia's facial expressions from Grand Theft Auto VI were compared to Ellie's animations from The Last of Us Part II",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdUZ6ZWItSlNyeW5peklOWENnOXlkbGVLLVdFSWtLMHpFU2dxdVB3TXl2MXJYc3lUZzZ6Ty0wMXNPNUo2ZXdGamwtR1dXcExReTJTV1NsZF9VTVhpUEJVMXdsMTVjakVVOVpRLWNKOHpiY2xIdldRTGo0S1o2MWdENGZuYV9lMHlCWjlzUFFYdkN4RWxIQkFwMlY1RzBpQ1F6akRGVktCbnpqY0h3M0pZVkhZNUtJMGwxMzV5NFMzaw?oc=5",
+     "ts": "2026-11-01T21:14:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e1763412f0a8",
    "title": "Is GTA 6 on PC? Not on Nov. 19: what Rockstar has said and what the early-2027 report claims",
    "first_seen": "2026-11-01T21:10:51Z",
@@ -70149,11 +70227,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T21:10:51Z",
+  "last_run": "2026-11-01T21:20:52Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 65/70",
-   "gnews_ru: 26/62",
+   "gnews_en: 65/69",
+   "gnews_ru: 25/28",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
