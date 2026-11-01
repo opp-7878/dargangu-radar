@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "3016490938ec",
+   "title": "People Are Massively Taking Day Offs on November 19 to Play GTA 6",
+   "first_seen": "2026-11-01T08:20:52Z",
+   "updated": "2026-11-01T08:20:52Z",
+   "items": [
+    {
+     "id": "3016490938ec",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "EGW.News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "People Are Massively Taking Day Offs on November 19 to Play GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDR2d1dGUTFfTlVJaHV0NS1QQkpjREhkWWdNRFdxZ0lxMUUzT1dtdmxCbXVHT1RFdVZxU1FxSUJXZlRfMERXUUxlQmVXTUc5WUpkVHZQMTcyNzVDOTY1Z0J1RGdMZEJLNDVFS2VQd29ub0RHaXc3SHVwV0NtaEotR2Q4aHRFaDJrbGcxcjNreGV0WlZJLURCdE1naw?oc=5",
+     "ts": "2026-11-01T08:06:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "933effc83c8a",
+   "title": "В это тяжело поверить, но GTA VI выходит уже в ЭТОМ месяце",
+   "first_seen": "2026-11-01T08:20:52Z",
+   "updated": "2026-11-01T08:20:52Z",
+   "items": [
+    {
+     "id": "933effc83c8a",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "В это тяжело поверить, но GTA VI выходит уже в ЭТОМ месяце",
+     "url": "https://t.me/GTAVIStar/773",
+     "ts": "2026-11-01T08:18:24Z",
+     "summary": "В это тяжело поверить, но GTA VI выходит уже в ЭТОМ месяце • Напоминаем даты: 12 ноября — начало предзагрузки. 19 ноября — официальный релиз. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "2cb3c9d4385f",
    "title": "HAPPY NOVEMBER, GUYS!!! 🎉",
    "first_seen": "2026-11-01T08:10:52Z",
@@ -67185,11 +67239,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T08:10:55Z",
+  "last_run": "2026-11-01T08:20:52Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 67/72",
-   "gnews_ru: 33/56",
+   "gnews_ru: 31/36",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -67199,7 +67253,7 @@
    "rockstarintel: 3/10",
    "gtaboom: 2/30",
    "reddit: 22/25",
-   "tg_gtavistar: 4/11",
+   "tg_gtavistar: 5/11",
    "tg_gta6deluxe: 9/10",
    "tg_gta6_m: 9/17",
    "tg_gta6newsdaily: 1/15"
