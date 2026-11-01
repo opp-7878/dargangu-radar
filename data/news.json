@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "8a2d2458b5ed",
+   "title": "Does anybody else on the east coast see this too",
+   "first_seen": "2026-11-01T21:50:54Z",
+   "updated": "2026-11-01T21:50:54Z",
+   "items": [
+    {
+     "id": "8a2d2458b5ed",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Does anybody else on the east coast see this too",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlfdcg/does_anybody_else_on_the_east_coast_see_this_too/",
+     "ts": "2026-11-01T21:44:23Z",
+     "summary": "Hey guys, I’m wondering if anyone on the east coast sees this as well, I just counted on my calendar and it says that the game would come out on the 18th for us instead of the 19th. Now if I’m mistaken on this and it would still come out on the 19th at midnight please let me know. submitted by /u/Low_Plankton4649 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "18f8bfd2197d",
    "title": "A comparison of Vice City beach graphics from the GTA VI debut trailer and a South Park episode.",
    "first_seen": "2026-11-01T11:01:14Z",
@@ -70251,41 +70277,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "014a4a886c84",
-   "title": "GTA 6: механика топлива и заправки — как это работает",
-   "first_seen": "2026-10-25T21:50:46Z",
-   "updated": "2026-10-25T21:50:46Z",
-   "items": [
-    {
-     "id": "014a4a886c84",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "games.gg",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6: механика топлива и заправки — как это работает",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdHQwWk5OSUt0WlF4NV9mR0FCM3E3eHZYN3QtblNDQ0R3NGNpQ1IxUmdtZnRVM1hicjF6d3Y4VGFGTk5LSnptTWZlRHNoT0gzUHZIem8tb0p1bG04QlQ0b2I1TG1jVnVGSGxGNThBbVItVkM4TGxHWWR0c0dITXFKV1U1X2puVVRVbXlPMmtVbDdMWTZiT3JwUjJfcjF6Tjd0SmVMYlNTVWZndXFvYUFLR2FEVXpLQjR0VzVPMjVhTm1oSVRLYTJDNzNZQWFUdkZlc2ZZMWJfZ19BbmdaaVViOUFGZzJWeUFYN0E3T24xY2lGRmd2aXFHUzlva25pNWVmdW9Iclg0cXUwczg?oc=5",
-     "ts": "2026-10-25T14:58:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T21:40:53Z",
+  "last_run": "2026-11-01T21:50:54Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 68/71",
-   "gnews_ru: 29/59",
+   "gnews_en: 72/78",
+   "gnews_ru: 25/27",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
