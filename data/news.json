@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "a653a5c97bc9",
+   "title": "November has come...",
+   "first_seen": "2026-11-01T12:10:49Z",
+   "updated": "2026-11-01T12:10:49Z",
+   "items": [
+    {
+     "id": "a653a5c97bc9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "November has come...",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xl1fe3/november_has_come/",
+     "ts": "2026-11-01T12:06:30Z",
+     "summary": "Synchronize your watch. We are in the end game gentlemen/women. What is something you are looking the most in GTA VI and what is something iconic that you will remember this our long wait for? submitted by /u/Tvrdak to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5785f64287b3",
+   "title": "Ultimate edition for shared accounts",
+   "first_seen": "2026-11-01T12:10:49Z",
+   "updated": "2026-11-01T12:10:49Z",
+   "items": [
+    {
+     "id": "5785f64287b3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Ultimate edition for shared accounts",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xl1gch/ultimate_edition_for_shared_accounts/",
+     "ts": "2026-11-01T12:08:00Z",
+     "summary": "Hello, I have a very important question regarding the ultimate edition: I want to pre order GTA VI with the ultimate edition but me and my brother usually share the games on PS5 (my account has his PS5 like my main console, so he can access my games in his account), we do that for many games, but my question with GTA is: if I buy the ultimate edition, he also have access to the exclusive contents that are included, or he has access like he had only the standard edition? We both want the ultimate edition, and for us is not important the extra $ and RP which is included and the montly subscripti"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "353b8a3fcd55",
    "title": "Soo, are we getting a physical map with the preorder or not?",
    "first_seen": "2026-11-01T12:01:15Z",
@@ -67731,41 +67785,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "11a328357514",
-   "title": "GTA 6: Review Embargo Will Lift on November 18, Just a Day Before Official Launch",
-   "first_seen": "2026-10-25T12:10:46Z",
-   "updated": "2026-10-25T12:10:46Z",
-   "items": [
-    {
-     "id": "11a328357514",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "EGW News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: Review Embargo Will Lift on November 18, Just a Day Before Official Launch",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR1czVEtXQXhUZklMMWM4V0RCem8yS1B3VzE3QWxab2dtdC1VZlY0TV94UWx1V2dkODltQ0VhQVFxbGc1RXNGVVFzVlJpREVzYTk5UzFCYnktWEpWeDhkS01QYmNMM2hNWnV1X2tCX05Ea3B5Rnd0ZFN6YWNsQkZnOVdEU3NmVnZSTTRsdGlDWlJsX1Y0aHpSQ3NiTQ?oc=5",
-     "ts": "2026-10-25T12:01:49Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T12:01:15Z",
+  "last_run": "2026-11-01T12:10:49Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 67/73",
-   "gnews_ru: 31/56",
+   "rockstar_site: 0/1",
+   "gnews_en: 80/89",
+   "gnews_ru: 30/34",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
