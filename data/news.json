@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "b7b9f7a0a0f3",
+   "title": "Nina’s What’s Trending: GTA 6 Hype, Halloween Deals & a Chipotle Spiral - Nina's What's Trending on The Jubal Show",
+   "first_seen": "2026-11-02T05:40:53Z",
+   "updated": "2026-11-02T05:40:53Z",
+   "items": [
+    {
+     "id": "b7b9f7a0a0f3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iHeart",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Nina’s What’s Trending: GTA 6 Hype, Halloween Deals & a Chipotle Spiral - Nina's What's Trending on The Jubal Show",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWZhbjdGRHdhdFl4cF83S1pZcWQ2VjZyZ1RmR3l6eHZVWlRkcFNuQ2dua184c2NhZkNJaVZrcmt2OHB5RExFSWU5LUpaWmNYNHBHNzZQeXpNejFuYWdCNUQ5S2ppNEhHSUEzeTlNSy1VRTI3U0tnV1MzR2laY1hQOXlhS0kyWWp0QnZYQlBwcFJWUmFaMlVaTXZTRU1mWkZ2NTR1SDhPSDZORTFPaE80?oc=5",
+     "ts": "2026-11-01T21:21:56Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "092da2e223ed",
+   "title": "How big is the GTA 6 map?",
+   "first_seen": "2026-11-02T05:40:53Z",
+   "updated": "2026-11-02T05:40:53Z",
+   "items": [
+    {
+     "id": "092da2e223ed",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Shacknews",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How big is the GTA 6 map?",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9veVdERXJiOFp1cXN4R2JZMVduVHFBSWp2RUhKMGEyZkZMU2RkNnQ4aGRkcE1xRFM3Mktqa0hkcEtfUk5UaU9lVWdGdzFmT3doU2hwYm5IOGFpUW82MTdFSTJoelI5ZTBhYzRqbHE1WVUzRjdPb3c?oc=5",
+     "ts": "2026-11-02T05:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a80b3b0f624e",
+   "title": "What if we waited this long...",
+   "first_seen": "2026-11-02T05:40:53Z",
+   "updated": "2026-11-02T05:40:53Z",
+   "items": [
+    {
+     "id": "a80b3b0f624e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What if we waited this long...",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xlp202/what_if_we_waited_this_long/",
+     "ts": "2026-11-02T05:37:55Z",
+     "summary": "2:30am anxiety thoughts > What if we waited this long for game to come out only to have the world end or some random global disaster to happen right before release? It would just be my luck... submitted by /u/Real_Spacegoogie to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ac532d213574",
    "title": "New GTA VI theme on Chess.com!",
    "first_seen": "2026-11-01T20:50:51Z",
@@ -70279,11 +70357,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T05:31:11Z",
+  "last_run": "2026-11-02T05:40:53Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 77/82",
-   "gnews_ru: 24/61",
+   "gnews_en: 81/86",
+   "gnews_ru: 22/26",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
