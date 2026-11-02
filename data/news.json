@@ -1,6 +1,113 @@
 {
  "stories": [
   {
+   "id": "2ec1d634ff94",
+   "title": "Слух: Nike, Travis Scott и Rockstar выпустят кроссовки в честь GTA 6",
+   "first_seen": "2026-11-02T06:50:54Z",
+   "updated": "2026-11-02T06:50:54Z",
+   "items": [
+    {
+     "id": "2ec1d634ff94",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Слух: Nike, Travis Scott и Rockstar выпустят кроссовки в честь GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXBhdjAybXRCNWhOckdrWjlKYmh5RGVXSHZJdjlGWG5XbVM5UzRRcTkwOWRGejcwTEtmSUxEbFZfeHczdC1NbkdnVS03YzFHY2VzUWtzQ2s5elQ4dkNra2lyTGFsVVcyWXpFaU9Ra2NmV0YzRllqVnhiRlo0elNROEVMVFRUOWR2N0ZYRjFsUTBabzB1bXRhNUgzRU9WTy1JN0hsdU42cmRmSmM?oc=5",
+     "ts": "2026-11-02T06:33:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a31f50ab40da",
+   "title": "I sold my entire PC setup and my phone to play GTA 6, and my country's market is still pricing me out.",
+   "first_seen": "2026-11-02T06:50:54Z",
+   "updated": "2026-11-02T06:50:54Z",
+   "items": [
+    {
+     "id": "a31f50ab40da",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I sold my entire PC setup and my phone to play GTA 6, and my country's market is still pricing me out.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xlq4r4/i_sold_my_entire_pc_setup_and_my_phone_to_play/",
+     "ts": "2026-11-02T06:42:12Z",
+     "summary": "The GTA 6 hype has completely taken over my life, and I am literally liquidating everything I own just to make sure I can play it on day one. But living in a third-world country is making it a nightmare. I am 17 and still studying, so getting a full-time job to cover the massive price gap isn't an option for me right now. (even if i do get a job average salary for people my age would be $50-80 for an entire month) Over the last few months, I sold my entire PC setup cashed out a YouTube channel I ran, and I am currently selling my daily driver iPhone SE. Through pure grinding, I managed to scra"
+    }
+   ],
+   "tags": [
+    "ПК",
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6f3a09239a2a",
+   "title": "What would your GTA series playtime look like when you start playing GTA VI?",
+   "first_seen": "2026-11-02T06:50:54Z",
+   "updated": "2026-11-02T06:50:54Z",
+   "items": [
+    {
+     "id": "6f3a09239a2a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What would your GTA series playtime look like when you start playing GTA VI?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xlq6q2/what_would_your_gta_series_playtime_look_like/",
+     "ts": "2026-11-02T06:45:35Z",
+     "summary": "Finally the month of GTA VI is here!! I came across this playtime leaderboard and was wondering what your playtime would look like when you start playing GTAVI on Nov 19. For me, I've got 335 hrs right now and will probably have close to 400 by then. submitted by /u/Ok_Winter818 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "04f17152e0b9",
+   "title": "Sydney GTA6 adverts",
+   "first_seen": "2026-11-02T06:50:54Z",
+   "updated": "2026-11-02T06:50:54Z",
+   "items": [
+    {
+     "id": "04f17152e0b9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Sydney GTA6 adverts",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlq98b/sydney_gta6_adverts/",
+     "ts": "2026-11-02T06:49:51Z",
+     "summary": "GTA6 bus stop poster spotted outside Sydney’s navy base, HMAS KUTTABUL RELEASE MONTH IS HERE!! submitted by /u/Chen_Wan to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f44e4366cbea",
    "title": "Sony снова залатала PS5 перед релизом GTA 6 — эксплойт для прошлой прошивки нашли за несколько часов",
    "first_seen": "2026-11-02T06:40:53Z",
@@ -70454,11 +70561,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T06:40:53Z",
+  "last_run": "2026-11-02T06:50:54Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 69/73",
-   "gnews_ru: 26/63",
+   "rockstar_site: 0/1",
+   "gnews_en: 80/85",
+   "gnews_ru: 27/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -70467,7 +70574,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 21/25",
+   "reddit: 23/25",
    "tg_gtavistar: 7/11",
    "tg_gta6deluxe: 8/12",
    "tg_gta6_m: 9/17",
