@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "3e3d69e83a08",
+   "title": "Xbox Region Swap to New Zealand Pitched as a GTA 6 Early Start",
+   "first_seen": "2026-11-02T01:50:50Z",
+   "updated": "2026-11-02T01:50:50Z",
+   "items": [
+    {
+     "id": "3e3d69e83a08",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Happy Gamer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Xbox Region Swap to New Zealand Pitched as a GTA 6 Early Start",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKWXlmamRRLWZSTHdERkl4QzdsdGZ6akQzQjJrSlBMN2RhVEZTOV9ZaHd3LVFCWlUteXBjLU9sWUVLUlVfVmFnaXRMUENnc0Z4ZmllamFsZ2FySGhSMEVYdlotOWs0TWRzWG9zblM3VXh2UXdN?oc=5",
+     "ts": "2026-11-02T01:46:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "321a8a883ff0",
    "title": "I know they're just a bunch of programming but damn...🥀",
    "first_seen": "2026-11-02T01:40:53Z",
@@ -71225,11 +71251,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T01:40:53Z",
+  "last_run": "2026-11-02T01:50:50Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 71/77",
-   "gnews_ru: 25/61",
+   "gnews_en: 64/69",
+   "gnews_ru: 22/25",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -71238,7 +71264,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 21/25",
+   "reddit: 20/25",
    "tg_gtavistar: 7/11",
    "tg_gta6deluxe: 8/12",
    "tg_gta6_m: 9/17",
