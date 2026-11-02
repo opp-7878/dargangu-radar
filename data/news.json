@@ -2,9 +2,9 @@
  "stories": [
   {
    "id": "0f91372ff99a",
-   "title": "GTA VI PS5 firmware update ahead of launch: What it means for users",
+   "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
    "first_seen": "2026-11-02T11:01:32Z",
-   "updated": "2026-11-02T11:01:32Z",
+   "updated": "2026-11-02T11:11:14Z",
    "items": [
     {
      "id": "0f91372ff99a",
@@ -18,19 +18,56 @@
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbzhWeVM5WU5jX21kMEM1TmtEZ2YxR21DZnZaZ0dWNzRFdG9iTG12NS10RDNHZmdfcVV3MEowWU10dy12b0VBWHlpTnM2SV9uQWxUaVhsLXg2Rk9VYmxlNFQtRy1qemNaZXFacjRidXhBY1c0YU5yMUNHRVkwZVVGeG1qVXdfR3NOaVJyRmd2UzZlcmRSY1BQTFBsVkhVOGxrNU9zeTB6anZwcTFnOXNjWVdPU2YyZ1FoSkllVjNzNEJnUTdTZHdz0gHMAUFVX3lxTE1vRmNMQTZXZ3NyMHVtN1ZrdENzMVdGWDdtRG5iOEVQN2tJX004Z1dJaVhKNm1aZk9rZWFaN3ZuLWxKYmNfUTM3OVEtQlNZX1BfNV8yRlgzM3V4NkxvUHZOZWdhV0pYMjREUjRMT0Q5RHdReWszZUhpNzdjTWlPZFNZNTVKMnZQTmZhTDBjc19qdmtIRDlmRklZM1VRSzg0czkxWm1vRm52b01jVDdBN0FVaXI2X2NXUVJkckk2dHF0eW5oVVdpSGdteFBYQg?oc=5",
      "ts": "2026-11-02T10:34:20Z",
      "summary": ""
+    },
+    {
+     "id": "10b2530a802a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUx4NFVjZHN5WFEzVjQ0d2w3VGtST0dnZVVUYkNMU3lDSzE2di03SU9sYjI1MW1MTDZxVG5EQUdCU3VWdDJxcWNyWU5HaXM4eW1nc0daenlWSHFsVEROakVsT0NNcnVOTFlRS01tRWVGbGxzMEtoclA0U0g3VDY2cm92UDFOdWtTZ0VURWNNYjAyTjE5eXZjTG5yMA?oc=5",
+     "ts": "2026-11-02T10:58:42Z",
+     "summary": ""
+    },
+    {
+     "id": "42b1ef3441eb",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
+     "url": "https://insider-gaming.com/latest-ps5-firmware-update-improves-security-ahead-of-gta-6-release/",
+     "ts": "2026-11-02T10:58:42Z",
+     "summary": "The PlayStation 5 has once again seen another firmware update, this time improving the console's security ahead of GTA 6's release. The post Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release appeared first on Insider Gaming ."
     }
    ],
    "tags": [],
-   "score": 50,
+   "score": 81,
    "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Sony обновила прошивку PS5 перед выходом GTA 6",
+    "summary": "По данным Insider Gaming, Sony выпустила новую прошивку PS5, усилив защиту консоли перед релизом GTA 6. Moneycontrol отмечает, что это может быть подготовка к защите от пиратства и взлома на старте. Официально Rockstar и Sony детали не раскрывали.",
+    "idea": "Коротко объясняем, зачем Sony усилила защиту PS5 перед релизом GTA 6 и чем это грозит игрокам. Зрителю важно понять, повлияет ли это на взлом, читы и стабильность на старте.",
+    "hook": "Sony снова обновила PS5 перед GTA 6 — что это значит для игроков?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-02T11:11:18Z"
+   },
+   "msg_id": 425
   },
   {
    "id": "c6dff9212ddf",
    "title": "GTA 6 Enters Its Launch Month With a November 19 Release Date",
    "first_seen": "2026-11-01T19:50:48Z",
-   "updated": "2026-11-02T10:40:59Z",
+   "updated": "2026-11-02T11:11:14Z",
    "items": [
     {
      "id": "c6dff9212ddf",
@@ -161,6 +198,19 @@
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1RLaEhnN2JUc3RiRk1uWDk4VUdNUDhRSlJBZEtoWFlpbmx6SGtUVWNsaGh0anUwTDU1aTMweFJGTUpoVXN2dEhIWGdLZFRRVFdJZTAtM0JDbXlNR0lLWUlNbjl2aGd5M2VWaGViczFyWTRMUU0tNUgzQmdveXhYd1pfZm9kSjBtVVhsQUdIS2hSMEd6NTJwdk5YMA?oc=5",
      "ts": "2026-11-02T10:31:00Z",
      "summary": ""
+    },
+    {
+     "id": "e83162a35af8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mundo Deportivo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 release date: Official launch confirmed, but some players could get it sooner than expected",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaXdiUnJFS1dLcEJ6M182OGw0ZGlicm84NG5KY3VrY2YzaWlvaWFjMnFSa3gxMlgzcUtqanFuT3BqLUNrck9wdkJoUVNWVXVxX1VhcVpzYzVPSUtVTDBHaVBXaEU2SVF3cGFEZkFKQkZ5WkFPR3lYUDFnaktaRm85aU5jMWwteFB4NnNrMWt0WnRTcnNxNk1HMzFSS0pSRXJQcTBEdU9QTHNSREdGUUJSWEZrN1A5YUZMbmtScGx1OENza1VuSlduTUliLW92SmV2X1lzZ2FuS0ZYeDl3bUNGSEx4dzlwTnlfd1ZqcVhnRU1ZMVN5dFhR0gH3AUFVX3lxTE9pd2JSckVLV0twQnozXzY4bDRkaWJybzg0bkpjdWtjZjNpaW9pYWMycVJreDEyWDNxS2pqcW5PcGotQ2tyT3B2QmhRU1ZVdXFfVWFxWnNjNU9JS1VMMEdpUFdoRTZJUXdwYURmQUpCRnlaQU9HeVhQMWdqS1pGbzlpTmMxbC14UHg2c2sxa3RadFNyc3E2TUczMVJLSlJFclBxMER1T1BMc1JER0ZRQlJYRms3UDlhRkxua1JwbHU4Q3NrVW5KV25NSWItb3ZKZXZfWXNnYW5LRlh4OXdtQ0ZITHh3OXBOeV93VmpxWGdFTVkxU3l0WFE?oc=5",
+     "ts": "2026-11-02T09:43:51Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -171,6 +221,113 @@
    "score": 90,
    "level": "PROBABLE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "aedf97d2b3da",
+   "title": "GTA 6 Officially Confirms Disgusting New Gameplay Feature",
+   "first_seen": "2026-11-01T15:40:56Z",
+   "updated": "2026-11-02T11:11:14Z",
+   "items": [
+    {
+     "id": "aedf97d2b3da",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Officially Confirms Disgusting New Gameplay Feature",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NWHEzSTZJNlRnemVMdDRGQ1ByaEFmV2Vvbm9pdHZQMGVkdlBHeEtScGRiYkZ2em4zdHhGMl9Lbk9MNjExRHoxTGVNUFVsWl9KR25oVlJTRTBMdWFvMTBFSV9JaUtKOVU?oc=5",
+     "ts": "2026-11-01T15:31:14Z",
+     "summary": ""
+    },
+    {
+     "id": "e707a76d2113",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Officially Confirms Disgusting New Gameplay Feature",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEdaekU0MWNkV1RTUnVUXzZJM0VZbFJZZWg2RGk5Z2VhRG85czZrTWx3OVpqZ3YxcF9SYkdJVXZoZlJWMGlJQWpGczF0OFlJRnFrZktMb0lqOTJ1djBZQTE5NFJadDBzYWFETnZBTGRxNWJfSTNPcWlDeUI5YUlPUGNiTWhMb2U2WVFMTW5qZWpTSW1lRlE?oc=5",
+     "ts": "2026-11-01T15:37:43Z",
+     "summary": ""
+    },
+    {
+     "id": "b55dd0687309",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "FandomWire",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Officially Confirms GTA 6 Map Rivals Three of Its Previous Worlds, Combined",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6cWQ1UkRER09tbnBvSUhERzNxdXhGSkM1VUtjX1JXOUMwVTZNUWVubXJRcmg4ODZ3OU5jdGhkQXNzV3dkSTZiV1ZnMGR1S1R3WHc0VXJZNEVvMDZHdlQtZ2pkbjlBVGw2dU5SaVdITVJadkRId2VSdEs0ZFRXZw?oc=5",
+     "ts": "2026-11-02T10:58:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "геймплей"
+   ],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "958b8d472572",
+   "title": "Во что поиграть в ноябре 2026 — GTA 6, WoW и Zelda",
+   "first_seen": "2026-11-02T11:11:14Z",
+   "updated": "2026-11-02T11:11:14Z",
+   "items": [
+    {
+     "id": "958b8d472572",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Во что поиграть в ноябре 2026 — GTA 6, WoW и Zelda",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeGwxd1JtVVRrVjAyQm55emMwMF9ZdFY2TzJ3R2dieWxuTEVkZWRFRThWYVZCXzNUclN0a3ZpTzhIU2RucmFwb2x4U1ZTLTBBV05FTTB1VHNORm1yWmtMNEhEM3MxdEhBUFk5cHZxallJdUo4MXR1RVJiOTlTNjZFYzZJbll0VTBKQ2pmNjFUQy1rUlZqb1ZSbC00YWc3VG0yVzcxUUVZZmtRb19nUHlCYjU1V3NoZmJLVWE3bXFMVERFbVBzOTk2empfTVUwVThPQkRvYXhjZTY3d3REdnJuSmZISlF0dGxZTWlYOEtxSQ?oc=5",
+     "ts": "2026-11-02T11:00:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "86c7a05f20c6",
+   "title": "Marketing starting in Berlin, Germany",
+   "first_seen": "2026-11-02T11:11:14Z",
+   "updated": "2026-11-02T11:11:14Z",
+   "items": [
+    {
+     "id": "86c7a05f20c6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Marketing starting in Berlin, Germany",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlua77/marketing_starting_in_berlin_germany/",
+     "ts": "2026-11-02T11:04:08Z",
+     "summary": "submitted by /u/Lamar_compton_boy92 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -8206,48 +8363,6 @@
     "at": "2026-10-31T16:31:15Z"
    },
    "msg_id": 384
-  },
-  {
-   "id": "aedf97d2b3da",
-   "title": "GTA 6 Officially Confirms Disgusting New Gameplay Feature",
-   "first_seen": "2026-11-01T15:40:56Z",
-   "updated": "2026-11-01T15:40:56Z",
-   "items": [
-    {
-     "id": "aedf97d2b3da",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameRant",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Officially Confirms Disgusting New Gameplay Feature",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NWHEzSTZJNlRnemVMdDRGQ1ByaEFmV2Vvbm9pdHZQMGVkdlBHeEtScGRiYkZ2em4zdHhGMl9Lbk9MNjExRHoxTGVNUFVsWl9KR25oVlJTRTBMdWFvMTBFSV9JaUtKOVU?oc=5",
-     "ts": "2026-11-01T15:31:14Z",
-     "summary": ""
-    },
-    {
-     "id": "e707a76d2113",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "OpenCritic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Officially Confirms Disgusting New Gameplay Feature",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEdaekU0MWNkV1RTUnVUXzZJM0VZbFJZZWg2RGk5Z2VhRG85czZrTWx3OVpqZ3YxcF9SYkdJVXZoZlJWMGlJQWpGczF0OFlJRnFrZktMb0lqOTJ1djBZQTE5NFJadDBzYWFETnZBTGRxNWJfSTNPcWlDeUI5YUlPUGNiTWhMb2U2WVFMTW5qZWpTSW1lRlE?oc=5",
-     "ts": "2026-11-01T15:37:43Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс",
-    "геймплей"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   },
   {
    "id": "3781397511a9",
@@ -55764,142 +55879,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "82129a908ba9",
-   "title": "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
-   "first_seen": "2026-10-25T15:40:45Z",
-   "updated": "2026-10-26T11:10:52Z",
-   "items": [
-    {
-     "id": "82129a908ba9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWjZIVFA2TjdoWURQa1g3VkR0QXZxM3Z3VzJRWFFsNE5pWjlKOURWdWdMczdLZEM1LS14NS1DX1JrWWQtNDJZQnZNMWZYN0RSQ0hSOVY3aWtlRnZWT3pzRDI5bU5oal9XUkV6Wm5sZGh2bkRJdXBHMUtoa0xKVE02aFN4OTRJcnFRdVh1eWlmMjg3Zm9uOTNJSWxNTEgxYUpoYlZHYWVKcTRtQUVIR1dtdVVWMkhreEpYTWlEUllqaXJnT3JTaEtRSVV1NTJNUXAzRHo0Y0sxRF9aOFVwS1JRU3dB?oc=5",
-     "ts": "2026-10-25T15:31:02Z",
-     "summary": ""
-    },
-    {
-     "id": "b9be4cda41f8",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
-     "url": "https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
-     "ts": "2026-10-25T15:14:17Z",
-     "summary": "Manni L. Perez, the actress long rumored to be playing Lucia in GTA 6, has gone viral after dodging a swarm of comments from Grand Theft Auto fans during a recent livestream."
-    },
-    {
-     "id": "e72cee9a3cd0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdWxUWGIzVlAtemhWMEVjdkhMZ2V1b0t0MVhCS0NadllsbXBSQzU0YlF2aktCOE5UU1RfLTYxVmVzUWVzanZoNUVwQ2taRzNjT3RNUEYwNFRmSzB4XzA1SHJwMlBvOHlseWI1YlpMMG5PTUpCX3BPM0t3a0JkWXE2OUsyVWh1SFRCaVFXZnpOMWhiZURESXQzcjFsc0k1WFJ4MGMzM0RrYzZEQU5UZTJlQTZvYy1WMzZRb3VZNThVcms5UW5uWGdQeEI4Vy1wbS1La09JM1ZOWDZuMGxFUFNaTEItdw?oc=5",
-     "ts": "2026-10-25T16:04:43Z",
-     "summary": ""
-    },
-    {
-     "id": "180bd001d202",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZDBUUDJWcXE0VWk1WHl2Y3lETU9Qb01Xb0xEUDRLR1ZuM2RMVDdrY09qSl9FTXdFZTlCcWtoU0xIS0VaLWkyemFmY25ISFFDeVBKakxteDNJejZsZndqR185SVFwdHktTWE0cmZuemF3MzI1eTRtWmJseVRmV3BHaDZ4eEZSLXJPZkdSaFhjNV96VWFual8xOHEyajNvNk0xdVBPS1RmbW9NblZMQ0JaMGdWcmo3YTBaZnZEOHJKVDVMazdTV2w2bml0SlVKUW1KYjRpdg?oc=5",
-     "ts": "2026-10-25T15:30:02Z",
-     "summary": ""
-    },
-    {
-     "id": "ec6084abc720",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMDVwT0s2dXZKMDd3R214X2tGVDI0bm1JQ0NJRF9nN0ZwTENMVUs1NFBVUVBXb3pLb1c1Qkx1V1NXMEhPYW9WcTVLTTZ6VDNhbUtuRFBxRGdrOGUtZGVnSGtpbUNyc2Y0T0FNS1FuUEtDcXdiclNMdzFCMU9XOXM2enJnU0FSNWE4NEVZMXItbVlWNTJhbWlLak1Ob0JWOVRMYlZyYWR0YW41b0trX0VSY3FFT1F5SGRPTmM3OVg2UW82VkVxNnU0OE5Xb084MWJOQk5Z?oc=5",
-     "ts": "2026-10-26T06:13:36Z",
-     "summary": ""
-    },
-    {
-     "id": "d75f565de72b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "games.gg",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rumored GTA 6 Lucia Actress Goes Viral Dodging Fan Comments",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mOGJ3MklTdnpJM0YycUZMZUhWbG9aay1mdzBmdzdaeGRMMnhWWUlmVzIxaXhLMTJTZW12UzljSnBucHpUM2duS3V5czVGRjdhMXZLZWFac2FBYjRrR1VnM3BYQXJlUklQdHdqVVJEWkNVVm9YMGZiMDBEdw?oc=5",
-     "ts": "2026-10-26T10:57:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 95,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "👀 Актриса Лусии ушла от вопросов фанатов в прямом эфире",
-    "summary": "По данным IGN, актриса Манни Л. Перес, которую давно считают Лусией из GTA 6, стала вирусной. Во время стрима она ушла от шквала комментариев фанатов GTA 6.",
-    "idea": "Короткая нарезка: чат «Лусия?», а актриса улыбается и молчит. Зрителю интересно, потому что это живая реакция «почти подтверждённой» Лусии.",
-    "hook": "Лусия из GTA 6? Смотри, как актриса ушла от вопросов в прямом эфире.",
-    "stars": 2,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-25T16:10:54Z"
-   },
-   "msg_id": 153
-  },
-  {
-   "id": "e631c07d5d07",
-   "title": "Brian is to Jason, as Raul is to Lucia",
-   "first_seen": "2026-10-26T11:10:52Z",
-   "updated": "2026-10-26T11:10:52Z",
-   "items": [
-    {
-     "id": "e631c07d5d07",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Brian is to Jason, as Raul is to Lucia",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xfqw7s/brian_is_to_jason_as_raul_is_to_lucia/",
-     "ts": "2026-10-26T08:14:07Z",
-     "summary": "Brian is a mentor to Jason. He could have tried to be a king pin, but he made his money and got out. Raul is also older and no doubt wealthy by now, but he doesn't know when to \"get off the ride\". The way he talked to lucia in the car was almost like a mentor coaching her through the get away drive. Raul is pulling Lucia in, while Brian is trying to pull Jason out. submitted by /u/3Y3c to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T11:01:32Z",
+  "last_run": "2026-11-02T11:11:18Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 90/94",
-   "gnews_ru: 37/63",
+   "gnews_en: 91/95",
+   "gnews_ru: 37/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
