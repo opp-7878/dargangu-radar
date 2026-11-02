@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "f85bddb003e1",
+   "title": "GTA 6 PS5 price and buying guide",
+   "first_seen": "2026-11-02T04:01:16Z",
+   "updated": "2026-11-02T04:01:16Z",
+   "items": [
+    {
+     "id": "f85bddb003e1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PlayStation Universe",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 PS5 price and buying guide",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdzFLdW51RXplSlhXVjl5RjBTNWZoMFFlRkFnVEN2TThMUGxQLWYxVnBIZlE1WHY1Ul8xUG5GOHU4dG54NXFvTi1EUUllOHl3YnZUbWstdVh0NHNvcGJkd29fVklzM3JmOHc?oc=5",
+     "ts": "2026-11-02T03:52:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "c6dff9212ddf",
    "title": "GTA 6 Enters Its Launch Month With a November 19 Release Date",
    "first_seen": "2026-11-01T19:50:48Z",
@@ -71476,11 +71504,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T03:50:54Z",
+  "last_run": "2026-11-02T04:01:16Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 70/75",
-   "gnews_ru: 22/25",
+   "gnews_en: 71/76",
+   "gnews_ru: 25/59",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
