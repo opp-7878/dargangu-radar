@@ -1,6 +1,61 @@
 {
  "stories": [
   {
+   "id": "bf65e546ef8b",
+   "title": "Загрузка GTA 6 во Франции может обойтись распространителям игры в дополнительные €11,55. В стране предложили ввести необычный налог на передачу... 2026",
+   "first_seen": "2026-11-02T09:21:12Z",
+   "updated": "2026-11-02T09:21:12Z",
+   "items": [
+    {
+     "id": "bf65e546ef8b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Загрузка GTA 6 во Франции может обойтись распространителям игры в дополнительные €11,55. В стране предложили ввести необычный налог на передачу... 2026",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nVlNXamNRZnVfdl9sSnFiZU00cUJPX0RtaVFuSERPa214YlljTkVyODFVb2o2dUFxbHRMczJEcnhTQUxCNlBIMHF4dw?oc=5",
+     "ts": "2026-11-02T07:32:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7b3fcb66bbb5",
+   "title": "I can definitely see the newly discovered ost as Loading screen theme 🦩🏝️",
+   "first_seen": "2026-11-02T09:21:12Z",
+   "updated": "2026-11-02T09:21:12Z",
+   "items": [
+    {
+     "id": "7b3fcb66bbb5",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I can definitely see the newly discovered ost as Loading screen theme 🦩🏝️",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlsigd/i_can_definitely_see_the_newly_discovered_ost_as/",
+     "ts": "2026-11-02T09:15:40Z",
+     "summary": "This is a fan made video from YouTube channel (Fede), I only added the newly discovered Justice OST from the PlayStation Limited Edition controller trailer, it does really fit as a loading screen theme🔥 submitted by /u/Suspicious-Topic-495 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "трейлер",
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ff9d7e74bd52",
    "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
    "first_seen": "2026-11-02T08:31:14Z",
@@ -55415,41 +55470,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e2e56f671cfc",
-   "title": "Is Manni L. Perez really GTA 6's Lucia? What we know",
-   "first_seen": "2026-10-26T09:20:52Z",
-   "updated": "2026-10-26T09:20:52Z",
-   "items": [
-    {
-     "id": "e2e56f671cfc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The News International",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Is Manni L. Perez really GTA 6's Lucia? What we know",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbElTMDM2eVlQbGkyNVlqZk9LdktmdDRQazE2ZHRZTXkzdV9pQms3ZmhxYTlXcU5zNVczRzJUSVZBb1F1ek1palNRRFl6dVBpdTlkZ2xzemJtTzlDSEFQWjF2cVpyOEEySHFNTWFxRi1pOHBScHZMRk1PbGVXbjRQbDh2ZEhqdFM1dkR1cVZyeUk4MkZCY3fSAZIBQVVfeXFMUDJnUUM3ODFPc05kcnBNZ1lxLUVJd3NONmtFU2xkbFR2YzhSVFV2XzVoUzIzb0lKYk1JMEoxOHBHUDhIS3d0ckptSzNHa082UTNoUkg1SlBWajZHQ2g0XzRFeE1IZVIxMDA1cnZtS1pXZThJc192Zl9EYmpjUDI0eHRHZHNycm5LUnZBVUthZk1qaUE?oc=5",
-     "ts": "2026-10-26T08:01:37Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T09:11:07Z",
+  "last_run": "2026-11-02T09:21:12Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 80/84",
-   "gnews_ru: 28/62",
+   "gnews_ru: 29/59",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
@@ -55458,7 +55487,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 23/25",
+   "reddit: 22/25",
    "tg_gtavistar: 8/12",
    "tg_gta6deluxe: 9/13",
    "tg_gta6_m: 9/17",
