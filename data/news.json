@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "17c1aea0786c",
+   "title": "So the more I watch the extended view, the more I want to play this game slowly",
+   "first_seen": "2026-11-02T02:21:09Z",
+   "updated": "2026-11-02T02:21:09Z",
+   "items": [
+    {
+     "id": "17c1aea0786c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "So the more I watch the extended view, the more I want to play this game slowly",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xll6ld/so_the_more_i_watch_the_extended_view_the_more_i/",
+     "ts": "2026-11-02T02:12:46Z",
+     "summary": "Like. Walk through the streets, not sprint from point A to point B. Follow traffic laws. Just hang out in the area for a while when a new one opens up. It's that just me? Are you guys gonna try to blitz through the story or just slow ride it for the next few months? submitted by /u/Ryuomega33 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "da6bfa2af1f3",
+   "title": "GTA 6 = Modern RDR2 Experience",
+   "first_seen": "2026-11-02T02:21:09Z",
+   "updated": "2026-11-02T02:21:09Z",
+   "items": [
+    {
+     "id": "da6bfa2af1f3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 = Modern RDR2 Experience",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xllcg6/gta_6_modern_rdr2_experience/",
+     "ts": "2026-11-02T02:20:40Z",
+     "summary": "GTA 6 is a RDR2 based modern world game. It is built with an RDR2 engine to make the next series of GTA. Like GTA 3, VC and SA have the same engine. GTA 1, London and 2 are having the same gameplay environment. GTA 4, RDR1 and GTA 5 are as well. submitted by /u/According-Mud1672 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c1a22ee45313",
    "title": "Миллионер рассказал о пользе покупки GTA VI — она поможет сэкономить тысячи долларов",
    "first_seen": "2026-11-02T02:01:16Z",
@@ -71197,11 +71251,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T02:10:49Z",
+  "last_run": "2026-11-02T02:21:09Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 64/69",
-   "gnews_ru: 23/26",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -71210,7 +71264,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 20/25",
+   "reddit: 21/25",
    "tg_gtavistar: 7/11",
    "tg_gta6deluxe: 8/12",
    "tg_gta6_m: 9/17",
