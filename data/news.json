@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "a1fa470c2f72",
+   "title": "GTA VI Collectors Edition",
+   "first_seen": "2026-11-02T20:20:51Z",
+   "updated": "2026-11-02T20:20:51Z",
+   "items": [
+    {
+     "id": "a1fa470c2f72",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI Collectors Edition",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xm84t8/gta_vi_collectors_edition/",
+     "ts": "2026-11-02T20:13:39Z",
+     "summary": "Just got charged for it, we are in the endgame! submitted by /u/ThatVerdant to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "832d15c96273",
+   "title": "Thanks boss!",
+   "first_seen": "2026-11-02T20:20:51Z",
+   "updated": "2026-11-02T20:20:51Z",
+   "items": [
+    {
+     "id": "832d15c96273",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Thanks boss!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xm86rc/thanks_boss/",
+     "ts": "2026-11-02T20:15:39Z",
+     "summary": "submitted by /u/swb1003 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9a7d1ea4dce2",
    "title": "I can’t wait for Lucia",
    "first_seen": "2026-11-02T20:01:20Z",
@@ -57912,67 +57966,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4c6dd5e3dd56",
-   "title": "Graphics aren't everything....",
-   "first_seen": "2026-10-26T20:20:48Z",
-   "updated": "2026-10-26T20:20:48Z",
-   "items": [
-    {
-     "id": "4c6dd5e3dd56",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Graphics aren't everything....",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xg7sa0/graphics_arent_everything/",
-     "ts": "2026-10-26T20:11:40Z",
-     "summary": "I keeps seeing people comparing MW4s graphics to GTA 6 and while I agree that MW4 looks incredible... Graphics aren't everythg and GTA has never been foremost about realistic graphics... Just think of the 3d era games. Rockstar could deffs create graphics as good as MW4 if they wanted.... But they are going for a more stylised look with GTA 6 submitted by /u/Nut-Buster99 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "50cb8b8a2918",
-   "title": "Spotted Today on Oxford Street in London",
-   "first_seen": "2026-10-26T20:20:48Z",
-   "updated": "2026-10-26T20:20:48Z",
-   "items": [
-    {
-     "id": "50cb8b8a2918",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Spotted Today on Oxford Street in London",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xg7ult/spotted_today_on_oxford_street_in_london/",
-     "ts": "2026-10-26T20:14:05Z",
-     "summary": "It was one of many dioramas that seemed to be mostly/all community made. submitted by /u/dustinpdx to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T20:10:54Z",
+  "last_run": "2026-11-02T20:20:51Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 93/100",
-   "gnews_ru: 47/76",
+   "gnews_en: 91/100",
+   "gnews_ru: 46/74",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
