@@ -4,7 +4,7 @@
    "id": "6a2a8b279b8b",
    "title": "'That’s 50 Nights of Entertainment' — Self-Made Millionaire Says Buying GTA 6 Saves You $5,000",
    "first_seen": "2026-11-02T11:31:14Z",
-   "updated": "2026-11-02T23:20:50Z",
+   "updated": "2026-11-02T23:31:10Z",
    "items": [
     {
      "id": "6a2a8b279b8b",
@@ -109,6 +109,19 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOam9hZXRRX0JkaXJxSEduQlRkeXZmSDhMcjd4NlhCenEtdU80TG5zQ2Znd2ZSTExpU3hZRDBvUjVwQkhlX19Fc2hrOHdzUGlXOWdlLUNvSEs1a3lpenNLUUFEYkZlWmZzc2sxWThHbzBWY1NRdWtzY0I2NjNyZG00alVGSzA4bk1mUURNak1iOXkyd0RIWVpFXzFURWs1V19JUUtFRkVaenJKVGsyalE?oc=5",
      "ts": "2026-11-02T23:12:04Z",
      "summary": ""
+    },
+    {
+     "id": "3184ec0dc822",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Millionaire Explains How Playing 'GTA 6' Could Save You $5,000 on Entertainment Costs",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTVFpNTRMM3YzY0lUbExNWEkxb1NiZ2lrNXFGaFBUbXpIQkFDb2JlY3Q0bldFQ1Z2TFZYWFlGclkzYUFzV2wwdFcyU3h0R1ZsRXIzeGsyY0YwRmZhOFhLdWRSYy1IcllVQ3pkbW1ZaVZJOEZ1UnI2V04zWm1iUE42cWFMcTBSaU9teUlOWUlZcFh0dw?oc=5",
+     "ts": "2026-11-02T19:49:27Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -117,6 +130,292 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "ed26b7427bc7",
+   "title": "GTA VI could take up 210 GB on your PS5, according to a PlayStation Store datamine",
+   "first_seen": "2026-11-02T22:50:53Z",
+   "updated": "2026-11-02T23:31:10Z",
+   "items": [
+    {
+     "id": "ed26b7427bc7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI could take up 210 GB on your PS5, according to a PlayStation Store datamine",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWElKempWRGhhU1dTaldNWHNPd2cwMkNzUGI5S3ZOTDBLQm5vVExxZlFVTURWREIwUmxWekdDMkppS211Qkh0OHVpWlJyUk5TZ2dHWGZROWZmTGZFR2RDbnZvYmU2SjZkWTI2SmpwQkhZQ3YwXzNyLXJWUVlVNFl3Y0VNZFUwdDZGeFFUaWJnbks1OU1kUGtGNk9zX1RWV2l1SmxR?oc=5",
+     "ts": "2026-11-02T22:42:15Z",
+     "summary": ""
+    },
+    {
+     "id": "86515e52ecf2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "International Business Times UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Will Reportedly Melt Your Console Storage With a 210 GB Download Unless You Buy a PS5 Pro",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdnVlTU90aUktRklmUS1PNXJJeFFnTC1IenlyMmctbW1LSFRCUDc3ZExxX0sycC1kWDctSWV4bjRGQ1pEaXlxa3ZGbW5qV3BKT0EtUHdvOUY0N0VTU2RCbnBUN1NuQVdsWjlfc1JvMGphUWFjdm9WOGhQdlQxUE54N2pvZkpySUlLcXc?oc=5",
+     "ts": "2026-11-02T20:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 займет 210 ГБ на PS5? Что известно о размере и предзагрузке",
+    "summary": "По данным eGamers.io, в коде PlayStation Store нашли упоминание размера GTA 6 — около 210 ГБ для PS5. Официально Rockstar это не подтверждала, а о дате предзагрузки пока ничего не известно.",
+    "idea": "Сравним 210 ГБ с другими крупными играми и покажем, сколько места реально нужно освободить. Зрителю важно понять, хватит ли ему SSD и когда ждать предзагрузку.",
+    "hook": "210 ГБ для GTA 6? Считаем, сколько места реально нужно освободить.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-02T22:50:58Z"
+   },
+   "msg_id": 445
+  },
+  {
+   "id": "0f91372ff99a",
+   "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
+   "first_seen": "2026-11-02T11:01:32Z",
+   "updated": "2026-11-02T23:31:10Z",
+   "items": [
+    {
+     "id": "0f91372ff99a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Moneycontrol.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI PS5 firmware update ahead of launch: What it means for users",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbzhWeVM5WU5jX21kMEM1TmtEZ2YxR21DZnZaZ0dWNzRFdG9iTG12NS10RDNHZmdfcVV3MEowWU10dy12b0VBWHlpTnM2SV9uQWxUaVhsLXg2Rk9VYmxlNFQtRy1qemNaZXFacjRidXhBY1c0YU5yMUNHRVkwZVVGeG1qVXdfR3NOaVJyRmd2UzZlcmRSY1BQTFBsVkhVOGxrNU9zeTB6anZwcTFnOXNjWVdPU2YyZ1FoSkllVjNzNEJnUTdTZHdz0gHMAUFVX3lxTE1vRmNMQTZXZ3NyMHVtN1ZrdENzMVdGWDdtRG5iOEVQN2tJX004Z1dJaVhKNm1aZk9rZWFaN3ZuLWxKYmNfUTM3OVEtQlNZX1BfNV8yRlgzM3V4NkxvUHZOZWdhV0pYMjREUjRMT0Q5RHdReWszZUhpNzdjTWlPZFNZNTVKMnZQTmZhTDBjc19qdmtIRDlmRklZM1VRSzg0czkxWm1vRm52b01jVDdBN0FVaXI2X2NXUVJkckk2dHF0eW5oVVdpSGdteFBYQg?oc=5",
+     "ts": "2026-11-02T10:34:20Z",
+     "summary": ""
+    },
+    {
+     "id": "10b2530a802a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUx4NFVjZHN5WFEzVjQ0d2w3VGtST0dnZVVUYkNMU3lDSzE2di03SU9sYjI1MW1MTDZxVG5EQUdCU3VWdDJxcWNyWU5HaXM4eW1nc0daenlWSHFsVEROakVsT0NNcnVOTFlRS01tRWVGbGxzMEtoclA0U0g3VDY2cm92UDFOdWtTZ0VURWNNYjAyTjE5eXZjTG5yMA?oc=5",
+     "ts": "2026-11-02T10:58:42Z",
+     "summary": ""
+    },
+    {
+     "id": "42b1ef3441eb",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
+     "url": "https://insider-gaming.com/latest-ps5-firmware-update-improves-security-ahead-of-gta-6-release/",
+     "ts": "2026-11-02T10:58:42Z",
+     "summary": "The PlayStation 5 has once again seen another firmware update, this time improving the console's security ahead of GTA 6's release. The post Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release appeared first on Insider Gaming ."
+    },
+    {
+     "id": "45053b96ad0c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Moneycontrol.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI PS5 firmware update ahead of launch: What it means for users",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb0ZjTEE2V2dzcjB1bTdWa3RDczFXRlg3bURuYjhFUDdrSV9NOGdXSWlYSjZtWmZPa2VhWjd2bi1sSmJjX1EzNzlRLUJTWV9QXzVfMkZYMzN1eDZMb1B2TmVnYVdKWDI0RFI0TE9EOUR3UXlrM2VIaTc3Y01pT2RTWTU1SjJ2UE5mYUwwY3NfanZrSEQ5ZkZJWTNVUUs4NHM5MVptb0Zudm9NY1Q3QTdBVWlyNl9jV1FSZHJJNnRxdHluaFVXaUhnbXhQWELSAcwBQVVfeXFMTW9GY0xBNldnc3IwdW03Vmt0Q3MxV0ZYN21EbmI4RVA3a0lfTThnV0lpWEo2bVpmT2tlYVo3dm4tbEpiY19RMzc5US1CU1lfUF81XzJGWDMzdXg2TG9Qdk5lZ2FXSlgyNERSNExPRDlEd1F5azNlSGk3N2NNaU9kU1k1NUoydlBOZmFMMGNzX2p2a0hEOWZGSVkzVVFLODRzOTFabW9GbnZvTWNUN0E3QVVpcjZfY1dRUmRySTZ0cXR5bmhVV2lIZ214UFhC?oc=5",
+     "ts": "2026-11-02T10:34:20Z",
+     "summary": ""
+    },
+    {
+     "id": "8e66443e7c02",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Beebom",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PS5 Firmware Update Drops Ahead of GTA 6 as Jailbreak Race Heats Up",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90SlVlclp0Vms3WnNKdm9aU1VqQXpDajZ5ei0tczhuaGxEWjhxUWRGUkxzeGRTWGwyNWdOR29hclI2Y3pwWmNmMngtWGNsV1F4U0RKLU02RHktclBtYzZTMWs4b0lXT0IySVVuWtIBckFVX3lxTFBUZndiY0NzVjBNc3RnYTRIUnVhbkZwd3cyTFpSbjdVeEtxNUdJdWNzQ0FZaFQ1SUZJRktTTkxtRTNMdUdjd2xZR01ZcWV6VGlac0tESFZFQks4Qm1PLW81WHNvUU93b1dvSkUyYUNZcjV1dw?oc=5",
+     "ts": "2026-11-02T13:16:36Z",
+     "summary": ""
+    },
+    {
+     "id": "cf3a8d27ed37",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony Drops Another PS5 Update Amid Jailbreak Battle Ahead of GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XM0J5S0hDdDVnY05JbjNMcW14Vlp1MHA2LTlRekhOOWZZOXRuU1pIc244a1d3bW5oaEw4RmhVcTlLbHhQb2JyY21sT3hxRjhtOTdLdjRfRi11bzhVQWJmUFp0a1NCMEdOLU9KN3ZkRzlLTy0zQktJVi1xaHNZdw?oc=5",
+     "ts": "2026-11-02T15:30:13Z",
+     "summary": ""
+    },
+    {
+     "id": "b31d740697d6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Around Prague",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony Pushes New PS5 Security Update Ahead of GTA 6 Launch",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUR4ZGxaWkItV0xxcTN2N001RnN1Y3N0VFhXMEk4c3ppaTJhQk5zS3lvc25IUmc5R29FMG42WUc3ZGV4VlBNYTlsZk5ubElqVXNVVFozejZnY1Q0ZUotT3VYRFVVcGk0V25MWGUwRnp5a0pQa0dmZ0ZWbWhOMlhxNm9QOVJFbUNrUExXM3VKaHR4ejdSY1E3eWJneTg5Ymh3YWc?oc=5",
+     "ts": "2026-11-02T17:23:29Z",
+     "summary": ""
+    },
+    {
+     "id": "e0f0b15f258b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Tech Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony drops another PS5 security update — and GTA 6 is 17 days away",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ1lTdE5OZEpxRmtIb2wwLWk0R2NGbERtdkx0eVRWU3Y1Z0FDQURlc0w2S1hrWEkyNlhSaDQxOHA1d3I2SW1xa0tuenVqY0JfeFJRdll2NnBEUVNQZUJzWk5jeVZRZjljQy1ENE9pSHVwTVc1NUlKTENIT1RpaklxQ2gtMmNtTTVpVEhPR1lMMGd0Q3Bwc002RGw5MDktbXJzeFc5VEViVmVGU1V2bUpVNlJLLVlRLWJBOFlLRDFiMjQzOFJkUXA4OFBFdldXZVlVbnhKV19ZNEI?oc=5",
+     "ts": "2026-11-02T19:57:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Sony обновила прошивку PS5 перед выходом GTA 6",
+    "summary": "По данным Insider Gaming, Sony выпустила новую прошивку PS5, усилив защиту консоли перед релизом GTA 6. Moneycontrol отмечает, что это может быть подготовка к защите от пиратства и взлома на старте. Официально Rockstar и Sony детали не раскрывали.",
+    "idea": "Коротко объясняем, зачем Sony усилила защиту PS5 перед релизом GTA 6 и чем это грозит игрокам. Зрителю важно понять, повлияет ли это на взлом, читы и стабильность на старте.",
+    "hook": "Sony снова обновила PS5 перед GTA 6 — что это значит для игроков?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-02T11:11:18Z"
+   },
+   "msg_id": 425
+  },
+  {
+   "id": "c1decd8318e0",
+   "title": "GTA 6's Phone Apps Could Change How You Interact With Leonida",
+   "first_seen": "2026-11-02T23:31:10Z",
+   "updated": "2026-11-02T23:31:10Z",
+   "items": [
+    {
+     "id": "c1decd8318e0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NoobFeed",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's Phone Apps Could Change How You Interact With Leonida",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZanJtQVJmbVBIZkx2aGE5TDZBNVVmMGt6d2tvUnJZeVBvLWN0ZEE5NTM0ODUyTWYtR0x2YnhRN2FPNnI1cWlGMWdsZm8teGJhODJZUGloam4ydFNuLVdWU2FEQ0U?oc=5",
+     "ts": "2026-11-02T17:50:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c6eb65133771",
+   "title": "GTA 6 Interactive City Design Could Transform Open-World Gaming Experience",
+   "first_seen": "2026-11-02T23:31:10Z",
+   "updated": "2026-11-02T23:31:10Z",
+   "items": [
+    {
+     "id": "c6eb65133771",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NoobFeed",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Interactive City Design Could Transform Open-World Gaming Experience",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNUEh2QzNtZ1Y3WkhoUmlXbHd5VjVCNWQ3SUxlYXlIVG11MjJJczdvMm0tb0V2UzBfdjkwYzkwQm1vc1VseFBuaWowaW5pY01vaGprS2Ywdkd3Z1lHV0V5eDhpc0pNb3YwOFdHWnJmWXdfSHNPNFFyZ29pdzIwcm8?oc=5",
+     "ts": "2026-11-02T18:06:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "dd947b92dd60",
+   "title": "GTA 6 Could Run at 60FPS on PS5 Pro, but Technical Limitations Might Force Rockstar to Make Compromises",
+   "first_seen": "2026-11-02T23:31:10Z",
+   "updated": "2026-11-02T23:31:10Z",
+   "items": [
+    {
+     "id": "dd947b92dd60",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NoobFeed",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Could Run at 60FPS on PS5 Pro, but Technical Limitations Might Force Rockstar to Make Compromises",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtZ0RCT2VJdFRwcHNiMFdsb2o5T3A3UVlReDJWU003TXVwc1lDaFdrMUY1MWV0eFlxcFhaTExha3RlWXdPUXRIMFlBWTJnbHBKVGI2UWVhN3VTSWNXNjlvdVF5Ti1DUXhPeUppN3gyWjg?oc=5",
+     "ts": "2026-11-02T19:16:05Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8ba2881f0f39",
+   "title": "GTA 6 Has More Major Reveals Planned for November as Rockstar Prepares for Launch With PS5 Pro Details and New Promotions",
+   "first_seen": "2026-11-02T23:31:10Z",
+   "updated": "2026-11-02T23:31:10Z",
+   "items": [
+    {
+     "id": "8ba2881f0f39",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NoobFeed",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Has More Major Reveals Planned for November as Rockstar Prepares for Launch With PS5 Pro Details and New Promotions",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTUnVNNS1rM3dOVS00OVpUaE5oX28tdEtuOTlaQ1FHTG5ZdEp5Skh0LWViektrNnc4a2RzdHFKczZFR21DdmQ5VmxwQUZsa2xHdUJGVDlEYUNTX0NxcWRqa2JRbHVEZw?oc=5",
+     "ts": "2026-11-02T19:36:05Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "late",
    "status": "new"
   },
   {
@@ -496,45 +795,6 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "ed26b7427bc7",
-   "title": "GTA VI could take up 210 GB on your PS5, according to a PlayStation Store datamine",
-   "first_seen": "2026-11-02T22:50:53Z",
-   "updated": "2026-11-02T22:50:53Z",
-   "items": [
-    {
-     "id": "ed26b7427bc7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "eGamers.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI could take up 210 GB on your PS5, according to a PlayStation Store datamine",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWElKempWRGhhU1dTaldNWHNPd2cwMkNzUGI5S3ZOTDBLQm5vVExxZlFVTURWREIwUmxWekdDMkppS211Qkh0OHVpWlJyUk5TZ2dHWGZROWZmTGZFR2RDbnZvYmU2SjZkWTI2SmpwQkhZQ3YwXzNyLXJWUVlVNFl3Y0VNZFUwdDZGeFFUaWJnbks1OU1kUGtGNk9zX1RWV2l1SmxR?oc=5",
-     "ts": "2026-11-02T22:42:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 займет 210 ГБ на PS5? Что известно о размере и предзагрузке",
-    "summary": "По данным eGamers.io, в коде PlayStation Store нашли упоминание размера GTA 6 — около 210 ГБ для PS5. Официально Rockstar это не подтверждала, а о дате предзагрузки пока ничего не известно.",
-    "idea": "Сравним 210 ГБ с другими крупными играми и покажем, сколько места реально нужно освободить. Зрителю важно понять, хватит ли ему SSD и когда ждать предзагрузку.",
-    "hook": "210 ГБ для GTA 6? Считаем, сколько места реально нужно освободить.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-02T22:50:58Z"
-   },
-   "msg_id": 445
   },
   {
    "id": "ca8c472d4b20",
@@ -3332,121 +3592,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "0f91372ff99a",
-   "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
-   "first_seen": "2026-11-02T11:01:32Z",
-   "updated": "2026-11-02T17:51:10Z",
-   "items": [
-    {
-     "id": "0f91372ff99a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Moneycontrol.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI PS5 firmware update ahead of launch: What it means for users",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbzhWeVM5WU5jX21kMEM1TmtEZ2YxR21DZnZaZ0dWNzRFdG9iTG12NS10RDNHZmdfcVV3MEowWU10dy12b0VBWHlpTnM2SV9uQWxUaVhsLXg2Rk9VYmxlNFQtRy1qemNaZXFacjRidXhBY1c0YU5yMUNHRVkwZVVGeG1qVXdfR3NOaVJyRmd2UzZlcmRSY1BQTFBsVkhVOGxrNU9zeTB6anZwcTFnOXNjWVdPU2YyZ1FoSkllVjNzNEJnUTdTZHdz0gHMAUFVX3lxTE1vRmNMQTZXZ3NyMHVtN1ZrdENzMVdGWDdtRG5iOEVQN2tJX004Z1dJaVhKNm1aZk9rZWFaN3ZuLWxKYmNfUTM3OVEtQlNZX1BfNV8yRlgzM3V4NkxvUHZOZWdhV0pYMjREUjRMT0Q5RHdReWszZUhpNzdjTWlPZFNZNTVKMnZQTmZhTDBjc19qdmtIRDlmRklZM1VRSzg0czkxWm1vRm52b01jVDdBN0FVaXI2X2NXUVJkckk2dHF0eW5oVVdpSGdteFBYQg?oc=5",
-     "ts": "2026-11-02T10:34:20Z",
-     "summary": ""
-    },
-    {
-     "id": "10b2530a802a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUx4NFVjZHN5WFEzVjQ0d2w3VGtST0dnZVVUYkNMU3lDSzE2di03SU9sYjI1MW1MTDZxVG5EQUdCU3VWdDJxcWNyWU5HaXM4eW1nc0daenlWSHFsVEROakVsT0NNcnVOTFlRS01tRWVGbGxzMEtoclA0U0g3VDY2cm92UDFOdWtTZ0VURWNNYjAyTjE5eXZjTG5yMA?oc=5",
-     "ts": "2026-11-02T10:58:42Z",
-     "summary": ""
-    },
-    {
-     "id": "42b1ef3441eb",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
-     "url": "https://insider-gaming.com/latest-ps5-firmware-update-improves-security-ahead-of-gta-6-release/",
-     "ts": "2026-11-02T10:58:42Z",
-     "summary": "The PlayStation 5 has once again seen another firmware update, this time improving the console's security ahead of GTA 6's release. The post Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release appeared first on Insider Gaming ."
-    },
-    {
-     "id": "45053b96ad0c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Moneycontrol.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI PS5 firmware update ahead of launch: What it means for users",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb0ZjTEE2V2dzcjB1bTdWa3RDczFXRlg3bURuYjhFUDdrSV9NOGdXSWlYSjZtWmZPa2VhWjd2bi1sSmJjX1EzNzlRLUJTWV9QXzVfMkZYMzN1eDZMb1B2TmVnYVdKWDI0RFI0TE9EOUR3UXlrM2VIaTc3Y01pT2RTWTU1SjJ2UE5mYUwwY3NfanZrSEQ5ZkZJWTNVUUs4NHM5MVptb0Zudm9NY1Q3QTdBVWlyNl9jV1FSZHJJNnRxdHluaFVXaUhnbXhQWELSAcwBQVVfeXFMTW9GY0xBNldnc3IwdW03Vmt0Q3MxV0ZYN21EbmI4RVA3a0lfTThnV0lpWEo2bVpmT2tlYVo3dm4tbEpiY19RMzc5US1CU1lfUF81XzJGWDMzdXg2TG9Qdk5lZ2FXSlgyNERSNExPRDlEd1F5azNlSGk3N2NNaU9kU1k1NUoydlBOZmFMMGNzX2p2a0hEOWZGSVkzVVFLODRzOTFabW9GbnZvTWNUN0E3QVVpcjZfY1dRUmRySTZ0cXR5bmhVV2lIZ214UFhC?oc=5",
-     "ts": "2026-11-02T10:34:20Z",
-     "summary": ""
-    },
-    {
-     "id": "8e66443e7c02",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Beebom",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "PS5 Firmware Update Drops Ahead of GTA 6 as Jailbreak Race Heats Up",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90SlVlclp0Vms3WnNKdm9aU1VqQXpDajZ5ei0tczhuaGxEWjhxUWRGUkxzeGRTWGwyNWdOR29hclI2Y3pwWmNmMngtWGNsV1F4U0RKLU02RHktclBtYzZTMWs4b0lXT0IySVVuWtIBckFVX3lxTFBUZndiY0NzVjBNc3RnYTRIUnVhbkZwd3cyTFpSbjdVeEtxNUdJdWNzQ0FZaFQ1SUZJRktTTkxtRTNMdUdjd2xZR01ZcWV6VGlac0tESFZFQks4Qm1PLW81WHNvUU93b1dvSkUyYUNZcjV1dw?oc=5",
-     "ts": "2026-11-02T13:16:36Z",
-     "summary": ""
-    },
-    {
-     "id": "cf3a8d27ed37",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameRant",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony Drops Another PS5 Update Amid Jailbreak Battle Ahead of GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XM0J5S0hDdDVnY05JbjNMcW14Vlp1MHA2LTlRekhOOWZZOXRuU1pIc244a1d3bW5oaEw4RmhVcTlLbHhQb2JyY21sT3hxRjhtOTdLdjRfRi11bzhVQWJmUFp0a1NCMEdOLU9KN3ZkRzlLTy0zQktJVi1xaHNZdw?oc=5",
-     "ts": "2026-11-02T15:30:13Z",
-     "summary": ""
-    },
-    {
-     "id": "b31d740697d6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Around Prague",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony Pushes New PS5 Security Update Ahead of GTA 6 Launch",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUR4ZGxaWkItV0xxcTN2N001RnN1Y3N0VFhXMEk4c3ppaTJhQk5zS3lvc25IUmc5R29FMG42WUc3ZGV4VlBNYTlsZk5ubElqVXNVVFozejZnY1Q0ZUotT3VYRFVVcGk0V25MWGUwRnp5a0pQa0dmZ0ZWbWhOMlhxNm9QOVJFbUNrUExXM3VKaHR4ejdSY1E3eWJneTg5Ymh3YWc?oc=5",
-     "ts": "2026-11-02T17:23:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Sony обновила прошивку PS5 перед выходом GTA 6",
-    "summary": "По данным Insider Gaming, Sony выпустила новую прошивку PS5, усилив защиту консоли перед релизом GTA 6. Moneycontrol отмечает, что это может быть подготовка к защите от пиратства и взлома на старте. Официально Rockstar и Sony детали не раскрывали.",
-    "idea": "Коротко объясняем, зачем Sony усилила защиту PS5 перед релизом GTA 6 и чем это грозит игрокам. Зрителю важно понять, повлияет ли это на взлом, читы и стабильность на старте.",
-    "hook": "Sony снова обновила PS5 перед GTA 6 — что это значит для игроков?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-02T11:11:18Z"
-   },
-   "msg_id": 425
   },
   {
    "id": "5226a888d9f3",
@@ -58946,11 +59091,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T23:20:57Z",
+  "last_run": "2026-11-02T23:31:10Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
-   "gnews_ru: 50/62",
+   "gnews_ru: 53/85",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -58959,7 +59104,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 20/25",
+   "reddit: 19/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/13",
    "tg_gta6_m: 9/17",
