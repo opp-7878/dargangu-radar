@@ -4,7 +4,7 @@
    "id": "c6dff9212ddf",
    "title": "Walmart GTA 6 Pre-Orders Will Include A ‘Surprise’",
    "first_seen": "2026-11-01T19:50:48Z",
-   "updated": "2026-11-02T18:41:05Z",
+   "updated": "2026-11-02T18:51:01Z",
    "items": [
     {
      "id": "c6dff9212ddf",
@@ -330,6 +330,19 @@
      "url": "https://www.reddit.com/r/GTAVI/comments/1xm5dh5/i_canceled_my_gta_vi_preorder_from_the_psstore/",
      "ts": "2026-11-02T18:34:00Z",
      "summary": "I know it’s absolutely not necessary, but why not submitted by /u/Apprehensive_Park331 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "5526d3f9a3c4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Walmart’s ‘GTA 6’ preorder bonus leaked: How to score the free \"surprise and delight bag\"",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tVGFRbmpGem0yNVZ0bkswY0pCREVubG4xUDVyOEg2MHl1TGlBQnFvdEoxSl8zQ2xac2lIWUxLX0tHVzJXRFNVTXRaNUhfcEw1Rlg2MVNRUTFBdlUzYmhjN3NQaHhmVy1wM0dhcm9mc1l3QQ?oc=5",
+     "ts": "2026-11-02T18:32:28Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -342,6 +355,36 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
+  },
+  {
+   "id": "5d4002461796",
+   "title": "The Elder Scrolls 6 May Get Big Reveal Before GTA 6 Arrives This Month",
+   "first_seen": "2026-11-02T18:51:01Z",
+   "updated": "2026-11-02T18:51:01Z",
+   "items": [
+    {
+     "id": "5d4002461796",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "HotHardware",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Elder Scrolls 6 May Get Big Reveal Before GTA 6 Arrives This Month",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45V1luS0NiMlhTUEJVc3p3NzYtLWsxYkNyaTdUczBfRUJCMEpSWmJXZXNWUUQ2VFZ6elRlXzRia2VFRGNPS3BQcC1XaVhXV1NidXRKSkpuYzVXMjJwemV5MWNXRXVJV0lGdVdNaUJsZVJSMUdQZjFj?oc=5",
+     "ts": "2026-11-02T17:40:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
   },
   {
    "id": "a223c16a7eea",
@@ -57654,41 +57697,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c4b0127c1eec",
-   "title": "One of the best things about a new GTA release is that we get a new era of bizarre easter eggs and mysteries to solve. Can’t wait to dive in this world",
-   "first_seen": "2026-10-26T18:50:49Z",
-   "updated": "2026-10-26T18:50:49Z",
-   "items": [
-    {
-     "id": "c4b0127c1eec",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "One of the best things about a new GTA release is that we get a new era of bizarre easter eggs and mysteries to solve. Can’t wait to dive in this world",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xg5dkl/one_of_the_best_things_about_a_new_gta_release_is/",
-     "ts": "2026-10-26T18:42:25Z",
-     "summary": "submitted by /u/Ember57 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T18:41:05Z",
+  "last_run": "2026-11-02T18:51:04Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 93/100",
-   "gnews_ru: 45/72",
+   "gnews_ru: 45/73",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
