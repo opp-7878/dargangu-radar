@@ -1,6 +1,160 @@
 {
  "stories": [
   {
+   "id": "ff9d7e74bd52",
+   "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
+   "first_seen": "2026-11-02T08:31:14Z",
+   "updated": "2026-11-02T16:01:30Z",
+   "items": [
+    {
+     "id": "ff9d7e74bd52",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnBpZUJXbmpUMVItZVVVeUtBVF9CbmMzeWpBbGxod29rLTFvbGF3M1NWSklGcU41QTV6eGlfNmVYN0NsRUJCM2JlUTVlZm1uTUptVk9fQ2JVZFFuelkxUHlaMFhXQ0dlZnNFd0JnaDFLYWpGMm9JOWJBXzl1a3hhNENaLUdNTWozTmpqMWRrUmhqaXpGc2hNZGpnYXpONDZFSWNrcG9nMUZUR0JGN3J4eTFiT0RfYmpsV2NLTnNXVnNDbk41bDVOdkt3?oc=5",
+     "ts": "2026-11-02T08:18:13Z",
+     "summary": ""
+    },
+    {
+     "id": "210d72ea069b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0RzWmN1Q3EzbEdtMTV4MV9qRVpzVHF1Q1Q0ODFMVV85UFdNYnJJck1rX2pEWkNjbFFEOXh1Z214UWJ3LU9iYzVGcHZQV3dEV3dHSGlVS2pYMGJER3FHamNyWk9KU2dTMHBJZzVzS200UUVEWWNzek9ES0JfYkZOajJRalNKek1wZ2tpd3N5cWVMM1RhZDgxMTY3ZGxCaEthZE5ybnIxTVhKVGl1d2k1RFBYYW9zazFIeDVvdjNaakhUTVhTak00QTdnQzF1T01QQ2lXSlhnTG0zQ2NOZFo0VWlUMEc?oc=5",
+     "ts": "2026-11-02T08:32:52Z",
+     "summary": ""
+    },
+    {
+     "id": "00d34295cc0a",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
+     "url": "https://www.ign.com/articles/sony-issues-yet-another-ps5-firmware-update-as-jailbreak-whac-a-mole-continues-ahead-of-gta-6-release",
+     "ts": "2026-11-02T08:18:12Z",
+     "summary": "Sony has released yet another PS5 firmware update as it battles to keep a lid on the homebrew community’s ongoing effort to jailbreak the console ahead of the release of GTA 6. Here's what it does."
+    },
+    {
+     "id": "2ea39d0a0d49",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSDRPR0hoNkhkbXRnVWdGQmpwLVdGYnkzMllvY0pDNnhIZEdsTndLTXpjcGlzQzdFaDdCRGRkRHRpZHRkWjE0SmVpeHRueHVFamlWN1gxRXh4S2FDbnJOZ3VwTFI3Q3VtZVNHSVhyZE9UQ29sQjcwYlZORm9tNTdvUFM3ZVlDTHB6LTZkV09FdzJJZDJwQTdBTmRHMHcydWlITHJKTnlMVG04QmtOVm44UzUwQUl4Y3Btc0dnMXAxTVZrZTVQYTlDaXpMUUE2WVpmVnZvRHVlMWtha1hQSDBkZXVxcw?oc=5",
+     "ts": "2026-11-02T15:54:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Sony снова обновила PS5: прошивка перед выходом GTA 6",
+    "summary": "Sony выпустила очередное обновление прошивки PS5, продолжая борьбу с джейлбрейком. IGN пишет, что это происходит на фоне приближающегося релиза GTA 6.",
+    "idea": "Коротко показываем цепочку: обновление Sony → борьба с джейлбрейком → GTA 6 на носу. Зрителю важно понять, зачем Sony так часто патчит консоль именно сейчас.",
+    "hook": "Sony опять обновила PS5 — и это прямо перед выходом GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-02T08:31:17Z"
+   },
+   "msg_id": 420
+  },
+  {
+   "id": "4760509aa94b",
+   "title": "Wall Street Thinks GTA VI Will Be A Long Runner",
+   "first_seen": "2026-11-02T16:01:30Z",
+   "updated": "2026-11-02T16:01:30Z",
+   "items": [
+    {
+     "id": "4760509aa94b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Finimize",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Wall Street Thinks GTA VI Will Be A Long Runner",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXM1Y0hrSWxDNHVlaWp2STlhWlZwSmppRy1sNW4tZE9QT1dpc0JuTURzVm5zTTNsdEc2R01BZ20yWTUtcElYY216cDNGMXNWenNXNmFyb1E4MC1qNVVmVHNBZ25VdU1hcWZLSUFnOEY3OG5DdUVUUUw0cWVZcm90RElB?oc=5",
+     "ts": "2026-11-02T14:55:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9087ae0e3d92",
+   "title": "Will GTA 6 give us that 80’s feel that GTA VC had?",
+   "first_seen": "2026-11-02T16:01:30Z",
+   "updated": "2026-11-02T16:01:30Z",
+   "items": [
+    {
+     "id": "9087ae0e3d92",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Will GTA 6 give us that 80’s feel that GTA VC had?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xm0yui/will_gta_6_give_us_that_80s_feel_that_gta_vc_had/",
+     "ts": "2026-11-02T15:56:22Z",
+     "summary": "submitted by /u/MillienumDuckFighter to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ea7e9ad1209f",
+   "title": "More Fanart! Drawn in Procreate",
+   "first_seen": "2026-11-02T16:01:30Z",
+   "updated": "2026-11-02T16:01:30Z",
+   "items": [
+    {
+     "id": "ea7e9ad1209f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "More Fanart! Drawn in Procreate",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xm11yh/more_fanart_drawn_in_procreate/",
+     "ts": "2026-11-02T15:59:43Z",
+     "summary": "Every drawing I’ve done from the last couple months. Some shitty, some I love. The Jason one and one of the girls with AKs I completely abandoned, so excuse them but somebody might appreciate. NO AI involved whatsoever that stuff makes me sick. If you think otherwise feel free to point stuff out, but don’t be a jerk. Timelapses are right on my profile too. Enjoy!! submitted by /u/Focus_Conscious to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "15198da404fd",
    "title": "TTWO Stock Climbs After GTA 6 Preorders Go Live – Retail Fans Debate Discless Physical Edition",
    "first_seen": "2026-11-01T16:50:53Z",
@@ -4391,69 +4545,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ff9d7e74bd52",
-   "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
-   "first_seen": "2026-11-02T08:31:14Z",
-   "updated": "2026-11-02T09:11:07Z",
-   "items": [
-    {
-     "id": "ff9d7e74bd52",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnBpZUJXbmpUMVItZVVVeUtBVF9CbmMzeWpBbGxod29rLTFvbGF3M1NWSklGcU41QTV6eGlfNmVYN0NsRUJCM2JlUTVlZm1uTUptVk9fQ2JVZFFuelkxUHlaMFhXQ0dlZnNFd0JnaDFLYWpGMm9JOWJBXzl1a3hhNENaLUdNTWozTmpqMWRrUmhqaXpGc2hNZGpnYXpONDZFSWNrcG9nMUZUR0JGN3J4eTFiT0RfYmpsV2NLTnNXVnNDbk41bDVOdkt3?oc=5",
-     "ts": "2026-11-02T08:18:13Z",
-     "summary": ""
-    },
-    {
-     "id": "210d72ea069b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0RzWmN1Q3EzbEdtMTV4MV9qRVpzVHF1Q1Q0ODFMVV85UFdNYnJJck1rX2pEWkNjbFFEOXh1Z214UWJ3LU9iYzVGcHZQV3dEV3dHSGlVS2pYMGJER3FHamNyWk9KU2dTMHBJZzVzS200UUVEWWNzek9ES0JfYkZOajJRalNKek1wZ2tpd3N5cWVMM1RhZDgxMTY3ZGxCaEthZE5ybnIxTVhKVGl1d2k1RFBYYW9zazFIeDVvdjNaakhUTVhTak00QTdnQzF1T01QQ2lXSlhnTG0zQ2NOZFo0VWlUMEc?oc=5",
-     "ts": "2026-11-02T08:32:52Z",
-     "summary": ""
-    },
-    {
-     "id": "00d34295cc0a",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
-     "url": "https://www.ign.com/articles/sony-issues-yet-another-ps5-firmware-update-as-jailbreak-whac-a-mole-continues-ahead-of-gta-6-release",
-     "ts": "2026-11-02T08:18:12Z",
-     "summary": "Sony has released yet another PS5 firmware update as it battles to keep a lid on the homebrew community’s ongoing effort to jailbreak the console ahead of the release of GTA 6. Here's what it does."
-    }
-   ],
-   "tags": [],
-   "score": 86,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Sony снова обновила PS5: прошивка перед выходом GTA 6",
-    "summary": "Sony выпустила очередное обновление прошивки PS5, продолжая борьбу с джейлбрейком. IGN пишет, что это происходит на фоне приближающегося релиза GTA 6.",
-    "idea": "Коротко показываем цепочку: обновление Sony → борьба с джейлбрейком → GTA 6 на носу. Зрителю важно понять, зачем Sony так часто патчит консоль именно сейчас.",
-    "hook": "Sony опять обновила PS5 — и это прямо перед выходом GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-02T08:31:17Z"
-   },
-   "msg_id": 420
   },
   {
    "id": "bd5795b3a02e",
@@ -57496,41 +57587,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ff06cbad4b8f",
-   "title": "What I WONT be doing on day one.",
-   "first_seen": "2026-10-26T16:01:28Z",
-   "updated": "2026-10-26T16:01:28Z",
-   "items": [
-    {
-     "id": "ff06cbad4b8f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What I WONT be doing on day one.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xfz5i8/what_i_wont_be_doing_on_day_one/",
-     "ts": "2026-10-26T14:58:03Z",
-     "summary": "I’ll start by saying that everyone has free will and should play the game how they want to. But am I the only person who is sick of seeing these AI slop videos telling you “10 things to do on day one” and first thing being to drive around the map and explore every corner of it. Looking for secrets and side content etc. From the marketing we have seen it seems clear to me that the GTA 6 story will take place in chapters similar to RDR2 with the story moving you between different areas of the map as it progresses. I urge anyone who wants to experience this world as intended, to try and limit the"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T15:51:27Z",
+  "last_run": "2026-11-02T16:01:30Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 96/100",
-   "gnews_ru: 40/51",
+   "gnews_en: 97/100",
+   "gnews_ru: 42/65",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -57539,7 +57604,7 @@
    "dexerto_gta: 2/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 24/25",
+   "reddit: 22/25",
    "tg_gtavistar: 8/13",
    "tg_gta6deluxe: 6/13",
    "tg_gta6_m: 9/17",
