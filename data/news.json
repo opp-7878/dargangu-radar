@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "4ab2556f1b95",
+   "title": "About region lock...",
+   "first_seen": "2026-11-02T13:31:05Z",
+   "updated": "2026-11-02T13:31:05Z",
+   "items": [
+    {
+     "id": "4ab2556f1b95",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "About region lock...",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlx502/about_region_lock/",
+     "ts": "2026-11-02T13:26:52Z",
+     "summary": "I have a US PSN account and a Brazilian PSN account on the same PS5. If I redeem the Brazilian GTA VI download code on my Brazilian account, will I be able to play GTA VI from my US account using PS5 Console Sharing? Does GTA VI have any additional restrictions that prevent sharing the game between accounts from different regions? I suppose this has been discussed ad nauseum, but couldn't find any conclusive evidence (even put AI on a quest across the web for a definitive answer lol). As far as I know, I can play the game on my PS US account on both ways: - Brazilian Store through console shar"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c6dff9212ddf",
    "title": "New GTA 6 Pre-Order Bonus Leaked And It’s A “Surprise”",
    "first_seen": "2026-11-01T19:50:48Z",
@@ -56683,18 +56709,18 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T13:21:04Z",
+  "last_run": "2026-11-02T13:31:05Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 98/100",
-   "gnews_ru: 38/60",
+   "gnews_en: 97/100",
+   "gnews_ru: 37/45",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
    "ign: 1/20",
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
-   "rockstarintel: 1/10",
+   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
    "gtaboom: 0/30",
    "reddit: 23/25",
    "tg_gtavistar: 8/13",
