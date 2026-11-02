@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "53e4f70ea1b0",
+   "title": "New GTA 6 Gameplay Was Shown on South Park, and It Totally Stinks",
+   "first_seen": "2026-11-02T00:01:18Z",
+   "updated": "2026-11-02T00:01:18Z",
+   "items": [
+    {
+     "id": "53e4f70ea1b0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "New GTA 6 Gameplay Was Shown on South Park, and It Totally Stinks",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Cc2hIWTVjcE5WZzUyUDVDaVRIRjNnc3pFUUdPcU9GYlZXNkEyY09TdDg1WUlHUHBvSEhmaFJENktxNENGZjkwWV9pUnZxOGtZU0VRdjRwTE5OTThscFZyc2kyRVZHMkE?oc=5",
+     "ts": "2026-11-01T16:19:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "fd9ae3142896",
+   "title": "A balkan florida man",
+   "first_seen": "2026-11-02T00:01:18Z",
+   "updated": "2026-11-02T00:01:18Z",
+   "items": [
+    {
+     "id": "fd9ae3142896",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "A balkan florida man",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlidfk/a_balkan_florida_man/",
+     "ts": "2026-11-01T23:58:00Z",
+     "summary": "submitted by /u/Basic-Carr to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "335b15e20952",
    "title": "Sunset Blvd GTA 6 Mural",
    "first_seen": "2026-11-01T23:50:54Z",
@@ -70836,40 +70890,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "fc1859c39b9f",
-   "title": "Regarding pre ordering on xbox, using Microsoft account?",
-   "first_seen": "2026-10-26T00:01:12Z",
-   "updated": "2026-10-26T00:01:12Z",
-   "items": [
-    {
-     "id": "fc1859c39b9f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Regarding pre ordering on xbox, using Microsoft account?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xfhsoe/regarding_pre_ordering_on_xbox_using_microsoft/",
-     "ts": "2026-10-26T00:00:15Z",
-     "summary": "Soo, I just pre ordered this on my xbox series x, fully using Microsoft account money cause saved up. But when I checked my order on the Microsoft account page, it listed both my card and my Microsoft account as the methods used, basically. Am I gonna have to pay with my actual card either way? Or does it just not charge until a few days before even if you use your Microsoft account money? Sorry if this is dumb. submitted by /u/Better-Dig-7775 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-01T23:50:54Z",
+  "last_run": "2026-11-02T00:01:18Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 67/71",
+   "gnews_en: 66/70",
    "gnews_ru: 25/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
