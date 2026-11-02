@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "c1a22ee45313",
+   "title": "Миллионер рассказал о пользе покупки GTA VI — она поможет сэкономить тысячи долларов",
+   "first_seen": "2026-11-02T02:01:16Z",
+   "updated": "2026-11-02T02:01:16Z",
+   "items": [
+    {
+     "id": "c1a22ee45313",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Миллионер рассказал о пользе покупки GTA VI — она поможет сэкономить тысячи долларов",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbjhjVHJuTmFTTk9wWUJHY0FMUFBvQmZGdGhVSFhzMDRYWnd4UDBOUkdWb1hEU19Ud2pZNE5FdldhTzRuTEZnMzB1djJ4OHBKd3lmelowbVNsSW9HTkRJWGZHV04zQzBXYXFVcFVfdUN2cVBRU0Y3NmFSbEhHTXlvN2k5ODJndVRtVzlObTBrRENsWEd4TUU5SGlWRTlWMjl6UDE2b2p3ZDlmRjNocVVnVXJhdUlHT2RhMFJweVNR0gHDAUFVX3lxTE5KYlRFTkhYNElzX0x1Mkt2amQwOGc5N19qYmVOcnI4TUlUU0ZhS2hVUjB1UWF3WkdOM0JvV0pVdFp4RGdvNlhhdlBTVUozS2FmQ3FmeWpRc0kwUWJWZkQ3ZVVWTm5QbEJCN3dxZW1VZnVsUkFKcngwM1FGcDBiX0hXR0NDaHV1Q0ktSWQ3c1NLOVhnT01Nd1pWOEZUZ0JoUk9TVk40OTdtcGJja3BESWduZThMNEM2QWNZbG14M1ZQd2lPYw?oc=5",
+     "ts": "2026-11-02T00:32:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "069048a49cd2",
+   "title": "Do you think cars in game can be get really dirty, so you need to clean them up? Like horses from RDR2",
+   "first_seen": "2026-11-02T02:01:16Z",
+   "updated": "2026-11-02T02:01:16Z",
+   "items": [
+    {
+     "id": "069048a49cd2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Do you think cars in game can be get really dirty, so you need to clean them up? Like horses from RDR2",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlkr38/do_you_think_cars_in_game_can_be_get_really_dirty/",
+     "ts": "2026-11-02T01:51:40Z",
+     "summary": "submitted by /u/iOnAnotherLevel to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "3e3d69e83a08",
    "title": "Xbox Region Swap to New Zealand Pitched as a GTA 6 Early Start",
    "first_seen": "2026-11-02T01:50:50Z",
@@ -71221,41 +71273,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "bec3f7ce5aa7",
-   "title": "I hope that gta6 doesn't meet the same fate as iPhone duo!",
-   "first_seen": "2026-10-26T02:01:14Z",
-   "updated": "2026-10-26T02:01:14Z",
-   "items": [
-    {
-     "id": "bec3f7ce5aa7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I hope that gta6 doesn't meet the same fate as iPhone duo!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xfk96i/i_hope_that_gta6_doesnt_meet_the_same_fate_as/",
-     "ts": "2026-10-26T01:53:49Z",
-     "summary": "**I hope the game launches smoothly.** submitted by /u/ManufacturerDry7036 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T01:50:50Z",
+  "last_run": "2026-11-02T02:01:16Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 64/69",
-   "gnews_ru: 22/25",
+   "gnews_ru: 23/26",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
