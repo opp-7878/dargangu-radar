@@ -1,10 +1,36 @@
 {
  "stories": [
   {
+   "id": "9a7d1ea4dce2",
+   "title": "I can’t wait for Lucia",
+   "first_seen": "2026-11-02T20:01:20Z",
+   "updated": "2026-11-02T20:01:20Z",
+   "items": [
+    {
+     "id": "9a7d1ea4dce2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I can’t wait for Lucia",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xm7lhv/i_cant_wait_for_lucia/",
+     "ts": "2026-11-02T19:54:26Z",
+     "summary": "submitted by /u/Apprehensive_Park331 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a223c16a7eea",
    "title": "Piper Sandler keeps Take-Two stock rating on GTA 6 survey data By Investing.com",
    "first_seen": "2026-11-02T18:41:05Z",
-   "updated": "2026-11-02T19:50:52Z",
+   "updated": "2026-11-02T20:01:19Z",
    "items": [
     {
      "id": "a223c16a7eea",
@@ -44,14 +70,226 @@
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYRXlPZHQ2RDhDV0IxQVM1VDdtQlQyb2RRNkxtc3RRbTIzcnVETU1OX1FHUnJLYktaWWdxRzB3YlZiTmppSVdleWJlSTJCWGtxa2theDQzWTY?oc=5",
      "ts": "2026-11-02T17:47:56Z",
      "summary": ""
+    },
+    {
+     "id": "d092dd5ac4a3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Investing.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Piper Sandler сохранил рейтинг Take-Two после опроса о GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14a2RGUTd1SDVpNVZMeXRGeG1Gb2Mxa3QzUVFrSEE2Mm1PQm4tR0N5ZTRkTzhmMU5NcnpyczBFRjIxYVMtTkpzTWZOclNNdFpmaF9saFZ2c0ozdTlMT3QyZTBGUTE5NnIzSmxjeGYzMUU0NWkt?oc=5",
+     "ts": "2026-11-02T12:40:00Z",
+     "summary": ""
     }
    ],
    "tags": [
     "Take-Two"
    ],
-   "score": 81,
+   "score": 89,
    "level": "PROBABLE",
    "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "6a2a8b279b8b",
+   "title": "'That’s 50 Nights of Entertainment' — Self-Made Millionaire Says Buying GTA 6 Saves You $5,000",
+   "first_seen": "2026-11-02T11:31:14Z",
+   "updated": "2026-11-02T20:01:19Z",
+   "items": [
+    {
+     "id": "6a2a8b279b8b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Dexerto",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Self-made millionaire says GTA 6 could actually save players $5k",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTh1WHdlZWtUbUJoQk90TXVDUHRSVmVJeEd3clUzRmZqa2xnNkdyVXJOWkFQMzI2cXNDUzljU3BEeTVyU1JaLVBJeGw2MDlvVlRPNElISWVmQ2dhcHpTbXVIVnQyTWF6RzF4V3VTWGxhRERVcU1LS3pYVjEzdUZXYU1sRGx3TGowSWxNYW1sem1FZ3lLMFJ3eDN3elNuTnFVQ1E?oc=5",
+     "ts": "2026-11-02T11:27:39Z",
+     "summary": ""
+    },
+    {
+     "id": "fdd053b5da2d",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Self-made millionaire says GTA 6 could actually save players $5k",
+     "url": "https://www.dexerto.com/gta/self-made-millionaire-says-gta-6-could-actually-save-players-5k-3423893/",
+     "ts": "2026-11-02T11:24:26Z",
+     "summary": "A self-made millionaire believes Grand Theft Auto 6 will actually “save” players around $5000 each, provided they play for at least 50 days."
+    },
+    {
+     "id": "5bf147048b47",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "'That’s 50 Nights of Entertainment' — Self-Made Millionaire Says Buying GTA 6 Saves You $5,000",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3ZhWDJELUhFVlNRLTNiUDJVVUlXaGloY0RuWjR3cmNxdU5jVl9wZ0hlQXVOZkVUWkF3V2xZTV92SzY4UUNDRHVEVlk1eUUxVTlSREVVQnp5N0dEUzVrWlVvN2JkM3RFNmFyeDR1cElrZk9SakhHcDhaV0VyNzBRVFpzNmRIeHhYZEJV?oc=5",
+     "ts": "2026-11-02T16:12:24Z",
+     "summary": ""
+    },
+    {
+     "id": "58d4f3ece6dc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Self-Made Millionaire Says Buying GTA 6 Saves You $5,000",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXNZaDQtS2RtTmVXeU56Y3VzclQ2UlhNS1hoRHI2U01rSkpST3BXS2FkLVJrNmlPaU1oMHhPRi1SSUxNX2tTd2xNZFNhRXdGWUZvcUJMTGdmTjZWQlJaeGdQM0p4R193LVhmSjZUUDNPUWY4c1F4YWhsQlZ2bmJuRFhrcVVlb0lPR2NtcnV1RWZrdWVBSEVhQmh0ZzM5bHBmcEdJendRNjBOZy1WWTN2ZmlRZ3k?oc=5",
+     "ts": "2026-11-02T16:28:51Z",
+     "summary": ""
+    },
+    {
+     "id": "d73130a09048",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Self-Made Millionaire Says Buying GTA 6 Saves You $5,000",
+     "url": "https://www.ign.com/articles/self-made-millionaire-says-buying-gta-6-saves-you-5000",
+     "ts": "2026-11-02T16:12:23Z",
+     "summary": "British self-made millionaire, entrepreneur, and social media educator Mark Tilbury put out a video giving the most sound financial advice of 2026: buy GTA 6. According to him, it’ll save you a big chunk of change."
+    },
+    {
+     "id": "9700e918e6d0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Parade Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Millionaire Claims Playing 'GTA 6' Could Save Gamers $5,000—and His Reasoning Has People Cracking Up",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV0VWRE9ad3lwSXpJRXZUVmtrT1dqc3Yxa19vWE1xeWxFUnFwb3B5enRNY0RYQ3R5ZzlSZXI0VkRJY1V5THpsYk1lOUhDMkNLTlZrRUpMSmh0RVpCOEtCbDNQN0haTDBmRWpicXNfLUFkMUtCcHJNRmhzU184YklDVG1QcEtQWUZnRGp0UlJSUlhMYUtVenFCU3o5QWVzVWtka0RCc3JwS2NoYk5YQ2hWS3ppTmc2TWpTTVpkQllNVXRQVWlRalBibw?oc=5",
+     "ts": "2026-11-02T19:49:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 100,
+   "level": "HIGH CONFIDENCE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "e37ba9c3d7c6",
+   "title": "Скины бесплатно: Fortnite пытается удержать игроков перед выходом GTA 6",
+   "first_seen": "2026-11-02T20:01:19Z",
+   "updated": "2026-11-02T20:01:19Z",
+   "items": [
+    {
+     "id": "e37ba9c3d7c6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Скины бесплатно: Fortnite пытается удержать игроков перед выходом GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFdoeHJLOGdhTjdEUURvVmNyMlBTSFQtcW9VZzRRNjl4ckp1MHdGNXdnaDZRaHZ0UFlWMWlqcEljM0N6RHJwbUVvSTlHU1JTdWtZUGR5VE9JWW0wUUxDSTQ3S05SODJCbF9qelBsbWw5U3Q5QnJkQi15SktkMGpJeWtKUlA5TnFEWWhzYUhpUTd4Z3RTdVd5OW1jeE95Ymg4Y2Q2ZQ?oc=5",
+     "ts": "2026-11-02T13:43:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c5ee17b93605",
+   "title": "How extensive to you expect the commands we can give our partner (Jason/Lucia) will be, especially in free roam?",
+   "first_seen": "2026-11-02T20:01:19Z",
+   "updated": "2026-11-02T20:01:19Z",
+   "items": [
+    {
+     "id": "c5ee17b93605",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How extensive to you expect the commands we can give our partner (Jason/Lucia) will be, especially in free roam?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xm7igq/how_extensive_to_you_expect_the_commands_we_can/",
+     "ts": "2026-11-02T19:51:06Z",
+     "summary": "Like, do you think there will be something on par with Skyrim's companion command options? Commands like \"stay, pick up, interact with object, attack, come\"... and so forth? Or do you think your partner will always be \"following your lead\", waiting for you to act and then just simply doing whatever you're doing? If I'm not mistaken, I think its been confirmed that we can issue a command in combat akin to \"cover me\". But maybe that's the extent of it. In the extended look, when player as Lucia is fighting off the rando inside the jewelry story, Jason is in a standoff with the security guard in "
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "44dabaaf973b",
+   "title": "Gamers Found a Way to Play GTA 6 Before Everyone Else - And It's Surprisingly Simple on Xbox",
+   "first_seen": "2026-11-02T20:01:19Z",
+   "updated": "2026-11-02T20:01:19Z",
+   "items": [
+    {
+     "id": "44dabaaf973b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gadget Review",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers Found a Way to Play GTA 6 Before Everyone Else - And It's Surprisingly Simple on Xbox",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNkpSWmthYWc5Z296dl9Pamh4VGZLZlpCN0drcXR3OGRGa0pLeXEtZnhqX2g5YVI0UHZ1UHltOGxNN0hFMU42Rk5vMERXX21Sa2w0emRUY0tER0NMQWN4TGJBcWdtSDRBZGZ2dU02YzdjcjRCT2ZzdE0tSXVuZFhPWlZtU0V3clNjRm1jeWQ2N0IyZjNIX3J6Q0hqWksxQWw3TFVtdmRRX3BiaEVXYmFlRlBGWWl1Tm1PUUE?oc=5",
+     "ts": "2026-11-02T19:53:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3a9d9a18605e",
+   "title": "Countdown widget that I designed for home screen",
+   "first_seen": "2026-11-02T20:01:19Z",
+   "updated": "2026-11-02T20:01:19Z",
+   "items": [
+    {
+     "id": "3a9d9a18605e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Countdown widget that I designed for home screen",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xm7lcz/countdown_widget_that_i_designed_for_home_screen/",
+     "ts": "2026-11-02T19:54:17Z",
+     "summary": "Took me a while, but I really love how the final design ended up. submitted by /u/Academic-Bat-1428 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -1998,86 +2236,6 @@
    "score": 40,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6a2a8b279b8b",
-   "title": "'That’s 50 Nights of Entertainment' — Self-Made Millionaire Says Buying GTA 6 Saves You $5,000",
-   "first_seen": "2026-11-02T11:31:14Z",
-   "updated": "2026-11-02T17:11:01Z",
-   "items": [
-    {
-     "id": "6a2a8b279b8b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Dexerto",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "Self-made millionaire says GTA 6 could actually save players $5k",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTh1WHdlZWtUbUJoQk90TXVDUHRSVmVJeEd3clUzRmZqa2xnNkdyVXJOWkFQMzI2cXNDUzljU3BEeTVyU1JaLVBJeGw2MDlvVlRPNElISWVmQ2dhcHpTbXVIVnQyTWF6RzF4V3VTWGxhRERVcU1LS3pYVjEzdUZXYU1sRGx3TGowSWxNYW1sem1FZ3lLMFJ3eDN3elNuTnFVQ1E?oc=5",
-     "ts": "2026-11-02T11:27:39Z",
-     "summary": ""
-    },
-    {
-     "id": "fdd053b5da2d",
-     "src": "dexerto_gta",
-     "src_name": "Dexerto GTA",
-     "outlet": "",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "Self-made millionaire says GTA 6 could actually save players $5k",
-     "url": "https://www.dexerto.com/gta/self-made-millionaire-says-gta-6-could-actually-save-players-5k-3423893/",
-     "ts": "2026-11-02T11:24:26Z",
-     "summary": "A self-made millionaire believes Grand Theft Auto 6 will actually “save” players around $5000 each, provided they play for at least 50 days."
-    },
-    {
-     "id": "5bf147048b47",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "'That’s 50 Nights of Entertainment' — Self-Made Millionaire Says Buying GTA 6 Saves You $5,000",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3ZhWDJELUhFVlNRLTNiUDJVVUlXaGloY0RuWjR3cmNxdU5jVl9wZ0hlQXVOZkVUWkF3V2xZTV92SzY4UUNDRHVEVlk1eUUxVTlSREVVQnp5N0dEUzVrWlVvN2JkM3RFNmFyeDR1cElrZk9SakhHcDhaV0VyNzBRVFpzNmRIeHhYZEJV?oc=5",
-     "ts": "2026-11-02T16:12:24Z",
-     "summary": ""
-    },
-    {
-     "id": "58d4f3ece6dc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Self-Made Millionaire Says Buying GTA 6 Saves You $5,000",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXNZaDQtS2RtTmVXeU56Y3VzclQ2UlhNS1hoRHI2U01rSkpST3BXS2FkLVJrNmlPaU1oMHhPRi1SSUxNX2tTd2xNZFNhRXdGWUZvcUJMTGdmTjZWQlJaeGdQM0p4R193LVhmSjZUUDNPUWY4c1F4YWhsQlZ2bmJuRFhrcVVlb0lPR2NtcnV1RWZrdWVBSEVhQmh0ZzM5bHBmcEdJendRNjBOZy1WWTN2ZmlRZ3k?oc=5",
-     "ts": "2026-11-02T16:28:51Z",
-     "summary": ""
-    },
-    {
-     "id": "d73130a09048",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Self-Made Millionaire Says Buying GTA 6 Saves You $5,000",
-     "url": "https://www.ign.com/articles/self-made-millionaire-says-buying-gta-6-saves-you-5000",
-     "ts": "2026-11-02T16:12:23Z",
-     "summary": "British self-made millionaire, entrepreneur, and social media educator Mark Tilbury put out a video giving the most sound financial advice of 2026: buy GTA 6. According to him, it’ll save you a big chunk of change."
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 100,
-   "level": "HIGH CONFIDENCE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -57806,67 +57964,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "95147d27e95e",
-   "title": "«Найди вторую работу»: На ТВ-шоу обсудили GTA VI и воспроизвели стереотипы о геймерах, а фанат выступил и объяснил, почему берёт выходной ради игры",
-   "first_seen": "2026-10-26T18:31:09Z",
-   "updated": "2026-10-26T19:59:13Z",
-   "items": [
-    {
-     "id": "95147d27e95e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "«Найди вторую работу»: На ТВ-шоу обсудили GTA VI и воспроизвели стереотипы о геймерах, а фанат выступил и объяснил, почему берёт выходной ради игры",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZFdsR2RSNU5DYzlOSl9vamNDbTRObkZOVDFGX3hPQnpkVWh6SlJPd3Y2LUpCYUpLWGxnWU0xYXdSTDVJaFFYbTFtZUh0cHhzTGpyT1pybFV5R19rN05Md1dOU0k4V0JKVlJrazc0Rmw3NHFnNW9kUjBELUdTSS1Qb3F3WDJnU1Y1djJyQnpDWV9vazlyMkl6UHg3LVphSk42b29zU0RXYkxZV2RncGNKcG9fcnFwM1ZSRkdmc01McmZUbUZ2bFlLc3JOOWJ3NnVoYThLTFBPNmNGcVA0X0RnaUZWSUtJOThaUW01dGFWRVMtYlVIazJ0X1BwQ3Fta05Fc1JMb3BzWm95WGxDV2YwbFV4QUF3aVAw0gGYAkFVX3lxTE9kV2xHZFI1TkNjOU5KX29qY0NtNE5uRk5UMUZfeE9CemRVaHpKUk93djYtSkJhSktYbGdZTTFhd1JMNUloUVhtMW1lSHRweHNManJPWnJsVXlHX2s3Tkx3V05TSThXQkpWUmtrNzRGbDc0cWc1b2RSMEQtR1NJLVBvcXdYMmdTVjV2MnJCekNZX29rOXIySXpQeDctWmFKTjZvb3NTRFdiTFlXZGdwY0pwb19ycXAzVlJGR2ZzTUxyZlRtRnZsWUtzck45Ync2dWhhOEtMUE82Y0ZxUDRfRGdpRlZJS0k5OFpRbTV0YVZFUy1iVUhrMnRfUHBDcW1rTkVzUkxvcHNab3lYbENXZjBsVXhBQXdpUDA?oc=5",
-     "ts": "2026-10-26T17:11:00Z",
-     "summary": ""
-    },
-    {
-     "id": "c479673728f7",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "«Найди вторую работу»: На ТВ-шоу обсудили GTA VI и воспроизвели стереотипы о геймерах, а фанат выступил и объяснил, почему берёт выходной ради игры",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcWVXdHJuT3VVTkJEZEFQN2s3UW9nczJUM2dHdWg2RFVPWVVTdXJwXzY4RU5JVjJ0bzh4czQyRHJWMlpoUjA1RDQyQnNONXVkQTlNeVBkdG5YU1pKb3ZLTlBuLW52Rm5kT2dvNnZhNE9tWVBPU0FCbzdleUpPRDRDbGlCX0JZMm5HdjdVQWI1bWxGRlAzMHpXSlJfS3puWU8tZ2p3WUFyeE92T2FQSG1ULUpEbFRScERYMDRYVzM3TjlYd0JtZjVvQzVPbk5JbENEQ25TQUtfZ3NGcVcwbTIxMlExcEVhWWdFdHFBcHdnZkpiYmk0LUJFaWd0SlBIa0FnUGowVlBwLXktYm9RcTRqc1NiTQ?oc=5",
-     "ts": "2026-10-26T17:11:00Z",
-     "summary": ""
-    },
-    {
-     "id": "1b7c036ec84d",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "«Найди вторую работу»: На ТВ-шоу обсудили GTA VI и воспроизвели стереотипы о геймерах, а фанат выступил и объяснил, почему берёт выходной ради игры",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcWVXdHJuT3VVTkJEZEFQN2s3UW9nczJUM2dHdWg2RFVPWVVTdXJwXzY4RU5JVjJ0bzh4czQyRHJWMlpoUjA1RDQyQnNONXVkQTlNeVBkdG5YU1pKb3ZLTlBuLW52Rm5kT2dvNnZhNE9tWVBPU0FCbzdleUpPRDRDbGlCX0JZMm5HdjdVQWI1bWxGRlAzMHpXSlJfS3puWU8tZ2p3WUFyeE92T2FQSG1ULUpEbFRScERYMDRYVzM3TjlYd0JtZjVvQzVPbk5JbENEQ25TQUtfZ3NGcVcwbTIxMlExcEVhWWdFdHFBcHdnZkpiYmk0LUJFaWd0SlBIa0FnUGowVlBwLXktYm9RcTRqc1NiTdIBmAJBVV95cUxPZFdsR2RSNU5DYzlOSl9vamNDbTRObkZOVDFGX3hPQnpkVWh6SlJPd3Y2LUpCYUpLWGxnWU0xYXdSTDVJaFFYbTFtZUh0cHhzTGpyT1pybFV5R19rN05Md1dOU0k4V0JKVlJrazc0Rmw3NHFnNW9kUjBELUdTSS1Qb3F3WDJnU1Y1djJyQnpDWV9vazlyMkl6UHg3LVphSk42b29zU0RXYkxZV2RncGNKcG9fcnFwM1ZSRkdmc01McmZUbUZ2bFlLc3JOOWJ3NnVoYThLTFBPNmNGcVA0X0RnaUZWSUtJOThaUW01dGFWRVMtYlVIazJ0X1BwQ3Fta05Fc1JMb3BzWm95WGxDV2YwbFV4QUF3aVAw?oc=5",
-     "ts": "2026-10-26T17:11:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T19:50:52Z",
+  "last_run": "2026-11-02T20:01:20Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 91/100",
-   "gnews_ru: 43/53",
+   "gnews_ru: 45/55",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
