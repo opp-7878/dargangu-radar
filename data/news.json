@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "68038cb39d1d",
+   "title": "Для PS5 вышла прошивка 14.22, закрывающая уязвимости перед релизом GTA 6",
+   "first_seen": "2026-11-02T06:20:54Z",
+   "updated": "2026-11-02T06:20:54Z",
+   "items": [
+    {
+     "id": "68038cb39d1d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Для PS5 вышла прошивка 14.22, закрывающая уязвимости перед релизом GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmxNS00xcElhUUM2VFBIdkhPS0RxcGNDX0lNMHZhX3Q2ZVRJV2o4Y2hxSDhyVzVOT1hMOFg4dkw4M3FnMFJxZ05nd2FzY0Z1dXZZMnFQS1QyRkl0ZW55MUh5Mk1KOGhpVU1oWEZIM0RtRGNhc1hIQklmYkx2akxXU0s2MzdYVWQyNTYzcHJXX0Z3aWxlRWZvb3dvVE1kR3BCSDF5Y1M5U25hcXZMbWdhRmdn0gG3AUFVX3lxTE95UWljQ3hRbm5ublFvNGIxd0JQSTdPUEs2UGEyc0dQM3lsbFA3QlhUazd3VkVlSjlENmp0aEtHUVF0OFB1ZVlYejFQSklQTnFvZGRibmJ3SUdTYWl1WFAyaXNXN3lVUERWX29KVGhjZ0pGS1lZazhTUVRJWkZUX3NLUXBnSG5Jd2dIZ3czdU8yUHVKcm8zZFctbTNBMXRNNC1Zd0ZXVTFqckkycjU1WXI4Si1rS1Z2Zw?oc=5",
+     "ts": "2026-11-02T03:10:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cc28095eab26",
+   "title": "Something I noticed in the extended trailer",
+   "first_seen": "2026-11-02T06:20:54Z",
+   "updated": "2026-11-02T06:20:54Z",
+   "items": [
+    {
+     "id": "cc28095eab26",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Something I noticed in the extended trailer",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlpqiq/something_i_noticed_in_the_extended_trailer/",
+     "ts": "2026-11-02T06:17:26Z",
+     "summary": "When Jason and Lucia are on the rooftop meeting Brian and Lori, Jason’s voice sounded COMPLETELY different when he said “it’s good to see you, Brian.” Idk if anyone else noticed, just something I did rewatching it and think it could be about his character. submitted by /u/Gold_Abalone_3241 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "bb9603198199",
    "title": "OnlyFans star blasts girlfriends banning boyfriends from GTA VI : ‘At least he’s not cheating in real life’",
    "first_seen": "2026-11-01T19:36:27Z",
@@ -70316,41 +70370,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "14d6395ae614",
-   "title": "GTA 6 ads appeared during Real Madrid vs Barcelona El Clásico match",
-   "first_seen": "2026-10-26T06:20:48Z",
-   "updated": "2026-10-26T06:20:48Z",
-   "items": [
-    {
-     "id": "14d6395ae614",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Khel Now",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 ads appeared during Real Madrid vs Barcelona El Clásico match",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUo2b3h4b3FDUFh6Y3R6U1hYbzk4OHByTUt3QUtaMnFqcHU1Zll3MFdiZ0p4M0Z1eWRhMDBsRGVTVnNiZlRhNy1LMlZ4aE9Od2cwM19vTkRPeUpWa2UxbjRKOVdvdzAwRGowRkNYZ2ZwOFJYa1hfR1paTTFvOWlXUWtsUFZRTVB0SU5ROGlTN25ZUm1pUUZKcGt5QnNaLWVKRFRF?oc=5",
-     "ts": "2026-10-26T06:02:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T06:10:55Z",
+  "last_run": "2026-11-02T06:20:54Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 80/85",
-   "gnews_ru: 22/26",
+   "gnews_en: 69/73",
+   "gnews_ru: 25/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
