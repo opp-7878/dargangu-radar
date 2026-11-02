@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "0ac91d26ed47",
+   "title": "GTAVI in Brooklyn",
+   "first_seen": "2026-11-02T23:01:23Z",
+   "updated": "2026-11-02T23:01:23Z",
+   "items": [
+    {
+     "id": "0ac91d26ed47",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTAVI in Brooklyn",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmc8qy/gtavi_in_brooklyn/",
+     "ts": "2026-11-02T22:53:54Z",
+     "summary": "submitted by /u/anohioanredditer to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2f36653cfa31",
+   "title": "Will I be able to play GTA VI from my friends account?",
+   "first_seen": "2026-11-02T23:01:23Z",
+   "updated": "2026-11-02T23:01:23Z",
+   "items": [
+    {
+     "id": "2f36653cfa31",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Will I be able to play GTA VI from my friends account?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmcdzh/will_i_be_able_to_play_gta_vi_from_my_friends/",
+     "ts": "2026-11-02T23:00:17Z",
+     "summary": "I’m planning to buy xbox series s this week, but i’m not so sure if GTA VI will suit my budget now. I wanted to play it first day, and my friend already preordered. Is it possible to play the game if I add his account to my xbox? submitted by /u/LegalEmployee9 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "0e061ec905ef",
    "title": "Выборы, новые правила для бизнеса и GTA VI: что изменится в Казахстане в ноябре",
    "first_seen": "2026-11-02T04:20:52Z",
@@ -58713,11 +58767,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T22:50:58Z",
+  "last_run": "2026-11-02T23:01:23Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 97/100",
-   "gnews_ru: 50/62",
+   "gnews_en: 95/100",
+   "gnews_ru: 52/84",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -58726,7 +58780,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 20/25",
+   "reddit: 21/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/13",
    "tg_gta6_m: 9/17",
