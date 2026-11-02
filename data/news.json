@@ -1,6 +1,87 @@
 {
  "stories": [
   {
+   "id": "b96f382a8184",
+   "title": "Grand Theft Auto VI's early launch on Xbox Series X may be easier than on PS5.",
+   "first_seen": "2026-11-01T20:41:15Z",
+   "updated": "2026-11-02T08:50:53Z",
+   "items": [
+    {
+     "id": "b96f382a8184",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Should I get an Xbox series S or a PS5?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xldpkb/should_i_get_an_xbox_series_s_or_a_ps5/",
+     "ts": "2026-11-01T20:36:14Z",
+     "summary": "I have been working with a 2013 ps4 for god knows how long, and to play GTA 6, I am finally going to bite the bullet to upgrade, should I get a PS5 or an Xbox Series S? The lower price sound phenomenal with Xbox, but I am worried about the visual downgrade from the more robust PS5. What are your thoughts? submitted by /u/Nipponrules to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "aa88ffeb935d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI's early launch on Xbox Series X may be easier than on PS5.",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnV3bGR5MXgwcktjRVR5SFQ3YU1XV2VTU09FQUNsbGtiOWlBSlFpYjFPdU9NWGdzWUZ2eEJGUGhDVTY3ZEFQN0FFLUhlQ2hHeGo2X2FhZXVJajVScXRGY3pzdDh4WTVGdXFZejJtXy1CTFFybjl6U18tMDBSM0xrM0JFdjRxbFZUNWdQejZwT1JXNkQ4VzU5eTdiOUtyWWZzLXdvNjhKT1VRaDl4YWRwWE5xNlMtMExjQ2xj?oc=5",
+     "ts": "2026-11-02T08:37:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "965f074c0422",
+   "title": "Nike и Трэвис Скотт представили кроссовки в стиле GTA VI",
+   "first_seen": "2026-11-02T08:50:53Z",
+   "updated": "2026-11-02T08:50:53Z",
+   "items": [
+    {
+     "id": "965f074c0422",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Nike и Трэвис Скотт представили кроссовки в стиле GTA VI",
+     "url": "https://t.me/GTAVIStar/778",
+     "ts": "2026-11-02T08:41:18Z",
+     "summary": "Nike и Трэвис Скотт представили кроссовки в стиле GTA VI • Nike официально анонсировала коллаборацию с Трэвисом Скоттом, посвящённую GTA VI. В неё войдут чёрные Air Force 1 Low Grand Theft Auto . • Главная деталь спрятана на подошве: там изображены шесть розовых звёзд розыска из игры. • Стоимость и дата выхода пока не раскрываются. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [
+    "анонс",
+    "дата/перенос"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Nike x Трэвис Скотт x GTA 6: кроссовки с розовыми звёздами",
+    "summary": "Nike и Трэвис Скотт представили кроссовки в стиле GTA VI — чёрные Air Force 1 Low с шестью розовыми звёздами розыска на подошве. Стоимость и дату выхода пока не раскрывали. Об этом сообщил TG-канал GTAVIStar.",
+    "idea": "Крупный план подошвы со звёздами розыска и быстрый показ силуэта — почему фанаты GTA 6 захотят эту пару. Коротко говорим, что цена и дата пока неизвестны.",
+    "hook": "Розовые звёзды розыска на кроссовках Nike x Трэвис Скотт — смотри.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-02T08:50:58Z"
+   },
+   "msg_id": 422
+  },
+  {
    "id": "ff9d7e74bd52",
    "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
    "first_seen": "2026-11-02T08:31:14Z",
@@ -4802,34 +4883,6 @@
    ],
    "tags": [],
    "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b96f382a8184",
-   "title": "Should I get an Xbox series S or a PS5?",
-   "first_seen": "2026-11-01T20:41:15Z",
-   "updated": "2026-11-01T20:41:15Z",
-   "items": [
-    {
-     "id": "b96f382a8184",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Should I get an Xbox series S or a PS5?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xldpkb/should_i_get_an_xbox_series_s_or_a_ps5/",
-     "ts": "2026-11-01T20:36:14Z",
-     "summary": "I have been working with a 2013 ps4 for god knows how long, and to play GTA 6, I am finally going to bite the bullet to upgrade, should I get a PS5 or an Xbox Series S? The lower price sound phenomenal with Xbox, but I am worried about the visual downgrade from the more robust PS5. What are your thoughts? submitted by /u/Nipponrules to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
@@ -55281,54 +55334,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "8b8a5c93f9b0",
-   "title": "👀 GTA 6 за $80 — дёшево?",
-   "first_seen": "2026-10-26T08:50:51Z",
-   "updated": "2026-10-26T08:50:51Z",
-   "items": [
-    {
-     "id": "8b8a5c93f9b0",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "👀 GTA 6 за $80 — дёшево?",
-     "url": "https://t.me/GTA6_m/9249",
-     "ts": "2026-10-26T08:50:10Z",
-     "summary": "👀 GTA 6 за $80 — дёшево? С поправкой на инфляцию GTA 6 окажется самой дешёвой игрой Rockstar даже при цене $80 Главное не сравнивать цены на консоли... 🪑 🥺 Канал про GTA 6 | Наш чат"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 за $80 — это дёшево? Сравнение с инфляцией",
-    "summary": "По данным канала @GTA6_m, с поправкой на инфляцию GTA 6 за $80 окажется самой дешёвой игрой Rockstar. Автор отмечает, что не стоит сравнивать цены на консоли.",
-    "idea": "Короткий разбор: $80 сегодня против прошлых цен Rockstar с инфляцией. Зрителю важно понять, переплачивает он или нет.",
-    "hook": "GTA 6 за $80 — дорого? Считаем инфляцию и прошлые цены Rockstar.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-26T08:50:54Z"
-   },
-   "msg_id": 165
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T08:40:54Z",
+  "last_run": "2026-11-02T08:50:59Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 86/91",
-   "gnews_ru: 31/62",
+   "gnews_en: 88/93",
+   "gnews_ru: 28/33",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
@@ -55338,7 +55352,7 @@
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
    "reddit: 23/25",
-   "tg_gtavistar: 7/11",
+   "tg_gtavistar: 8/12",
    "tg_gta6deluxe: 9/13",
    "tg_gta6_m: 9/17",
    "tg_gta6newsdaily: 0/15"
