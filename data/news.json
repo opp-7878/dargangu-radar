@@ -71353,107 +71353,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a22391646fec",
-   "title": "GTA 6 ad in times square",
-   "first_seen": "2026-10-26T03:20:49Z",
-   "updated": "2026-10-26T03:20:49Z",
-   "items": [
-    {
-     "id": "a22391646fec",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 ad in times square",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xflgsu/gta_6_ad_in_times_square/",
-     "ts": "2026-10-26T02:53:58Z",
-     "summary": "The ad is at port authority bus terminal times square. It feels surreal to see something gta 6 related in real life. Not just a picture online. submitted by /u/Endernut to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "09cd5e2711aa",
-   "title": "GTA VI fans are actually insane 😳",
-   "first_seen": "2026-10-26T03:20:49Z",
-   "updated": "2026-10-26T03:20:49Z",
-   "items": [
-    {
-     "id": "09cd5e2711aa",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA VI fans are actually insane 😳",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xflh0s/gta_vi_fans_are_actually_insane/",
-     "ts": "2026-10-26T02:54:17Z",
-     "summary": "submitted by /u/Codaey to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6242e2212db6",
-   "title": "Comparison of store detail in GTA VI and Call of Duty Modern Warfare 4",
-   "first_seen": "2026-10-26T03:20:49Z",
-   "updated": "2026-10-26T03:20:49Z",
-   "items": [
-    {
-     "id": "6242e2212db6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Comparison of store detail in GTA VI and Call of Duty Modern Warfare 4",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNemZ4OU9YTUlZT1gtRWd4TnJNYnZCS0dwbDh4dGRNNHZLZzhEd2Uwb1E0dWE2UmN4NGVvaWl6N084YTJzVGg2YjFoRDFNRFBzTGFPa0huek9hanUtdkN2cmJWdjJjLWxmMkttMXlKZTByWUxQanVLZWFsWHJFM1BVb3VGRWJmeFdPb0E5N2Z4LWY2bzZoQ1BfQlRIeHlXdDU3eHUyQTdDUEMzZw?oc=5",
-     "ts": "2026-10-26T03:14:11Z",
-     "summary": ""
-    },
-    {
-     "id": "f493dd15f8d0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Сравнение детализации магазинов в GTA VI и Call of Duty Modern Warfare 4",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTBTVU5YMzVFSzctWGJ2cTRyeERtSy1mQWl5WUp0cTNnS1ViRFdHTXR5eFUxTi1uR1ptSmRqSGFBb0txaEFxS09sdTBxRzQxMk5mR1N2V2JHOFVzNnZ5cWxHeVhjdXFybHR6dlBIbW8wcG5ud1MzZmlscVgzUVNkYk9HSXlWcm5RQmZnYVlfZVV1OWNrS1M5X2VWWW5wYkJ4eG8yS0F3?oc=5",
-     "ts": "2026-10-26T03:14:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T03:10:53Z",
+  "last_run": "2026-11-02T03:20:53Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 69/73",
+   "gnews_en: 67/73",
    "gnews_ru: 23/26",
    "gamesbeat: 0/10",
    "vgc: 0/10",
