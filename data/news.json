@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "6710e8f45deb",
+   "title": "В Туле выставили на продажу прототип автомобиля из GTA VI",
+   "first_seen": "2026-11-02T21:51:05Z",
+   "updated": "2026-11-02T21:51:05Z",
+   "items": [
+    {
+     "id": "6710e8f45deb",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Первый Тульский",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В Туле выставили на продажу прототип автомобиля из GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGNsc1pSaHgzTDBxZlBoUWlLVjNzeDdNR2lSd24wcGxFOTBIS191eXNOd2Y4T0xYZXhOeFlhbXh0SWIwWWZKeFktSUI0d2pQOEJJQlpGUnZGay1zOWkwOG9fSEd4UDBXZWpxXzJTUS1LdDRZajN2cnB6MUcxSWhNaC13RmNHTDU0THk1X0pOWVN0NmdTanJKUG1ub3AzcVXSAaQBQVVfeXFMUEFlRnhaQ18zd05ySFNrWFd6cE9fTVVPLUZnTld1M25aNmh0REtkUjdPYmExZWdlQms0UWYyMlNYUC1fQnkwWVVtSkQ4RUVNaXRsWmJUVkl3WElpZ3ZFUEYyUTNsNzJ6cXA1NldFMUoyc3lmSlBsN2piblR2dGdrV3pleHdFNldrQ0F3T0NMRUNPOGFlTVVZNUxGallvTTQ1VVc2c0E?oc=5",
+     "ts": "2026-11-02T10:57:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7aafa1dd44dc",
+   "title": "Grand Theft Auto VI set to shatter entertainment records",
+   "first_seen": "2026-11-02T21:51:05Z",
+   "updated": "2026-11-02T21:51:05Z",
+   "items": [
+    {
+     "id": "7aafa1dd44dc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "7NEWS",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI set to shatter entertainment records",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNclQ5ZHE2QVd1b0V2NU8yUUloczhhUTdMTm80OEY1NlFqUEVDNmRFWFlLLUkyRzVFWVQ3Y1JLVDg4VkVJX3pPOXYtOEpNbHQwWDBYc0NEeDJ2VUlSTm9GZ1E5Ym1ybmQ5cVp2YVV6cGFMZmVUaF9vZS0yUHM4OVgteUY3NkZpR3dGODdUUzV1dS1JcTB4WEJ1WkVicnNaSDUtWHFoSmhkYnowanhDWloxSFREU1Y?oc=5",
+     "ts": "2026-11-02T21:45:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2771c5ad3aa4",
+   "title": "Beyond the Hype: What GTA 6 Means for the Gaming Industry",
+   "first_seen": "2026-11-02T21:51:05Z",
+   "updated": "2026-11-02T21:51:05Z",
+   "items": [
+    {
+     "id": "2771c5ad3aa4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Pace University",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Beyond the Hype: What GTA 6 Means for the Gaming Industry",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3a3RiN3BrWlZHcFJJdDYtYUdadl8xX0RxUFJqbk8yUWFuT01xOHJIeWJOUGZSb1hSZk5QQnV1X3JFaE53SDhzWFZCWUlHTUNDZmxVOW54RGI4cVl6RTBLMG9tNmhnQ3F0aWF6d29acEQtTF9Qc0oyQ3R3?oc=5",
+     "ts": "2026-11-02T21:47:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "12c4efdb42fc",
    "title": "GamesBeat Next 2026: Dean Takahashi’s opening speech on moments, memories and history",
    "first_seen": "2026-11-02T21:40:54Z",
@@ -58315,11 +58393,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T21:40:58Z",
+  "last_run": "2026-11-02T21:51:05Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 94/100",
-   "gnews_ru: 49/82",
+   "gnews_ru: 50/81",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -58328,7 +58406,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 21/25",
+   "reddit: 20/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/13",
    "tg_gta6_m: 9/17",
