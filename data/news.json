@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "990ee1dc4df5",
+   "title": "The End For Series S",
+   "first_seen": "2026-11-02T15:21:16Z",
+   "updated": "2026-11-02T15:21:16Z",
+   "items": [
+    {
+     "id": "990ee1dc4df5",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The End For Series S",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlzxid/the_end_for_series_s/",
+     "ts": "2026-11-02T15:17:32Z",
+     "summary": "submitted by /u/AraizKing to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d0fe7239efb8",
    "title": "Sony Patches PS5 Again as GTA 6 Lockdown Intensifies",
    "first_seen": "2026-11-02T15:11:05Z",
@@ -57314,41 +57340,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "d4cf2ee84a68",
-   "title": "GTA 5 Mods - Real Ultra Photorealistic Graphics Mod And Realistic GTA 6 Visuals With RTGI on RTX2060",
-   "first_seen": "2026-10-26T15:20:53Z",
-   "updated": "2026-10-26T15:20:53Z",
-   "items": [
-    {
-     "id": "d4cf2ee84a68",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "YouTube",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 5 Mods - Real Ultra Photorealistic Graphics Mod And Realistic GTA 6 Visuals With RTGI on RTX2060",
-     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE81R21paFJDWm5XN2duQlA3TnN5LVFneDV0NVpSV2c4bjlKeDdvbE1WdlFUZ21XYVV2aWM2WGx1czVFQQ?oc=5",
-     "ts": "2026-10-26T10:30:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T15:11:05Z",
+  "last_run": "2026-11-02T15:21:16Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 97/100",
-   "gnews_ru: 40/63",
+   "gnews_en: 96/100",
+   "gnews_ru: 41/64",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
