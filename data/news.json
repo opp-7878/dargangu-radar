@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "e8288f2accab",
+   "title": "GTA 6: случайный дом с разгромом от собаки",
+   "first_seen": "2026-11-02T20:50:53Z",
+   "updated": "2026-11-02T20:50:53Z",
+   "items": [
+    {
+     "id": "e8288f2accab",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Digital Report",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: случайный дом с разгромом от собаки",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NWDdDRTVMYWtRNHpHS3JuekF2M2lrWV9JcVBSVzJMTVlhMUIzZWJ4bGI0T2hhcDZmUVlfcUVPLTZ1YzAtMGFCSUJhZi1DdlRFcjZyU2xCcklxTjJzcWdVRE9YeEdNR1ZpblJqX1BR?oc=5",
+     "ts": "2026-11-02T20:03:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bfbb0775d1b0",
+   "title": "GTA 6 train spotted in Barcelona before GTA 6",
+   "first_seen": "2026-11-02T20:50:53Z",
+   "updated": "2026-11-02T20:50:53Z",
+   "items": [
+    {
+     "id": "bfbb0775d1b0",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 train spotted in Barcelona before GTA 6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xm8vn5/gta_6_train_spotted_in_barcelona_before_gta_6/",
+     "ts": "2026-11-02T20:41:43Z",
+     "summary": "submitted by /u/ResponsibleRatio6569 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a223c16a7eea",
    "title": "Piper Sandler keeps Take-Two stock rating on GTA 6 survey data By Investing.com",
    "first_seen": "2026-11-02T18:41:05Z",
@@ -58140,11 +58192,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T20:40:58Z",
+  "last_run": "2026-11-02T20:50:53Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 93/100",
-   "gnews_ru: 47/58",
+   "gnews_en: 92/100",
+   "gnews_ru: 49/77",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -58156,7 +58208,7 @@
    "reddit: 22/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/13",
-   "tg_gta6_m: 9/16",
+   "tg_gta6_m: 9/17",
    "tg_gta6newsdaily: 0/15"
   ],
   "digest": "2026-11-02@21",
