@@ -4,7 +4,7 @@
    "id": "c6dff9212ddf",
    "title": "GTA 6 Enters Its Launch Month With a November 19 Release Date",
    "first_seen": "2026-11-01T19:50:48Z",
-   "updated": "2026-11-02T03:40:52Z",
+   "updated": "2026-11-02T03:50:54Z",
    "items": [
     {
      "id": "c6dff9212ddf",
@@ -57,15 +57,54 @@
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUZBcXp4a0FwWVh3OHZpaFR4ZDBMNF9XVGM5VEttRXVJRzNwd2tmaXFCNkRVX1FxUWJwV0hOYktpbEh2b1JsOHpaWEhzbDdvd3ctUjZ6MjRxYmx2OWgyak5DVy1JVUNTRVFsNDhDblh2WmREWW9qSG1Ia3g5VHp1VnVKNlNMYjFhc2xJbUFMMUFzZkk2aWx2Mm5qRHpUZHQtc0N5R0FFOXpTZm9DSnQwNjc1aFhoc0RHaGVZM21XaWVMa0pzV1JNV0xDOGY?oc=5",
      "ts": "2026-11-02T02:55:00Z",
      "summary": ""
+    },
+    {
+     "id": "c53336b95b10",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Beebom",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Walmart Pre-Orders Reportedly Include a “Surprise” for PS5 and Xbox Players",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IMnZUY3ZWV2NjWGh4U3NCQTJVTnlaWnp4aGxwN2NjcGJZS1J3RDk4ZWx2SlJZSEJBaVA0NmpMblJwSkZyS2dfaFVOZmE5b0ZOQzNJWHV3Z2MwNGFZazF2RkIxQmdOSVdtVmMyN0dR0gFzQVVfeXFMTVF1R2pmSUpwakh6eGFRbGJJYkF3Y3RWV0NQX1lzU1VFX2EtOVF3NUpGT05IQ1RVdHpLeDlzSksxSTBXVEFTMk11eFRNTldrTm9TZmNfdU5HVVBWS2NzYUNRUXlNRUJSVnNLYVJwOVJseFliUQ?oc=5",
+     "ts": "2026-11-02T03:39:36Z",
+     "summary": ""
     }
    ],
    "tags": [
     "дата/перенос",
     "цена/издания"
    ],
-   "score": 81,
+   "score": 89,
    "level": "PROBABLE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "0b197795ddf6",
+   "title": "Will the GTA VI Merch get a Restock?",
+   "first_seen": "2026-11-02T03:50:54Z",
+   "updated": "2026-11-02T03:50:54Z",
+   "items": [
+    {
+     "id": "0b197795ddf6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Will the GTA VI Merch get a Restock?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xln2w4/will_the_gta_vi_merch_get_a_restock/",
+     "ts": "2026-11-02T03:49:45Z",
+     "summary": "Hey guys, the GTA VI money clip, stickers, lighter, and a few other merch items are currently out of stock on the Rockstar Store. Do you think they'll be restocked in the future, or should I start looking elsewhere? submitted by /u/Ok_Term_2229 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -71437,11 +71476,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T03:40:52Z",
+  "last_run": "2026-11-02T03:50:54Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 69/74",
-   "gnews_ru: 25/59",
+   "gnews_en: 70/75",
+   "gnews_ru: 22/25",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -71450,7 +71489,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 21/25",
+   "reddit: 20/25",
    "tg_gtavistar: 7/11",
    "tg_gta6deluxe: 8/12",
    "tg_gta6_m: 9/17",
