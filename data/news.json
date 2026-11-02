@@ -1,6 +1,97 @@
 {
  "stories": [
   {
+   "id": "e3ab3d454ce8",
+   "title": "I'm leaving work and GTA is in front of me 🤨 (Warsaw, Poland)",
+   "first_seen": "2026-11-02T22:01:22Z",
+   "updated": "2026-11-02T22:01:22Z",
+   "items": [
+    {
+     "id": "e3ab3d454ce8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I'm leaving work and GTA is in front of me 🤨 (Warsaw, Poland)",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmax9e/im_leaving_work_and_gta_is_in_front_of_me_warsaw/",
+     "ts": "2026-11-02T22:00:35Z",
+     "summary": "submitted by /u/God_Father_PL to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ef91a3875a26",
+   "title": "GTA 6 Sneakers: Rockstar Games, Nike and Travis Scott Reportedly Team Up",
+   "first_seen": "2026-11-02T22:01:21Z",
+   "updated": "2026-11-02T22:01:21Z",
+   "items": [
+    {
+     "id": "ef91a3875a26",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CNET",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Sneakers: Rockstar Games, Nike and Travis Scott Reportedly Team Up",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNVNMLXVMeWo4UHQwbVhXSXl0RTZid091VEpud3pwVjVNSWNkSVNsWnN1ZWhRbXk4T2NiMWxwaUxFd2NPV2RXdEpyVktVV3BWOW4taC1QeGpZS3QxekhpQl95Z3pQZ0ZyclJSdjRFVjZBXzd4d0dJNVhnYjV1MFpQbWZHMUNoVkFxWDNQdlJIY29ZV2NXTG83ZjdR?oc=5",
+     "ts": "2026-11-02T21:50:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8884dbe97363",
+   "title": "GTA 6 Guide: How to Claim GTA Plus Pre-Order Bonus",
+   "first_seen": "2026-11-02T22:01:21Z",
+   "updated": "2026-11-02T22:01:21Z",
+   "items": [
+    {
+     "id": "8884dbe97363",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "games.gg",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Guide: How to Claim GTA Plus Pre-Order Bonus",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOGtLWGQtVXNYTzByWERTLTRhN0huMFl6ZjB5NUVDc1FwYWxiTlhJb0k3NjZGZTlHZlAwM0R5dHdGbzJIa3lQbkw3T3MzUlBtNVhydE9VUWEyLXdzU0hranQ1SFFKdnA2ZW8xRHl0WGxtbTRRNUNMbHlhOURLRk80MHhKcUZ4SWV2dGdkVlJkUjhwRmdqWFlLcS1MUnJSMUc1MkxZ?oc=5",
+     "ts": "2026-11-02T21:54:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA Plus за предзаказ GTA 6: что дают и как получить",
+    "summary": "По данным games.gg, за предзаказ GTA 6 можно получить бонус GTA Plus. Рассказываем, что это за подписка и как забрать бонус.",
+    "idea": "Коротко показываем, что даёт GTA Plus и как забрать бонус за предзаказ GTA 6. Зрителю важно не упустить награду.",
+    "hook": "Предзаказал GTA 6? Вот как забрать бонус GTA Plus и что он даёт.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-02T22:01:24Z"
+   },
+   "msg_id": 444
+  },
+  {
    "id": "6710e8f45deb",
    "title": "В Туле выставили на продажу прототип автомобиля из GTA VI",
    "first_seen": "2026-11-02T21:51:05Z",
@@ -58363,42 +58454,16 @@
     "at": "2026-10-26T22:11:02Z"
    },
    "msg_id": 193
-  },
-  {
-   "id": "63f4b3853bbf",
-   "title": "Do people really think Rockstar has already sent out GTA 6 review copies?",
-   "first_seen": "2026-10-26T22:01:14Z",
-   "updated": "2026-10-26T22:01:14Z",
-   "items": [
-    {
-     "id": "63f4b3853bbf",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Do people really think Rockstar has already sent out GTA 6 review copies?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xgackv/do_people_really_think_rockstar_has_already_sent/",
-     "ts": "2026-10-26T21:50:49Z",
-     "summary": "Do people genuinely think Rockstar has already started sending out GTA 6 copies to reviewers and streamers? If I’m not mistaken, I remember everyone having to wait until release to get their hands on GTA V, although I could be remembering it wrong. I can understand Rockstar sending review copies to gaming journalists ahead of release so they can prepare their reviews, but what I find strange is the possibility of certain streamers already getting copies. I’m curious what everyone else thinks. Do you believe Rockstar is already distributing copies behind the scenes, or is this just speculation?"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T21:51:05Z",
+  "last_run": "2026-11-02T22:01:25Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 94/100",
-   "gnews_ru: 50/81",
-   "gamesbeat: 1/10",
+   "gnews_en: 95/100",
+   "gnews_ru: 50/83",
+   "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
    "ign: 0/20",
