@@ -1,6 +1,147 @@
 {
  "stories": [
   {
+   "id": "ff9d7e74bd52",
+   "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
+   "first_seen": "2026-11-02T08:31:14Z",
+   "updated": "2026-11-02T09:11:07Z",
+   "items": [
+    {
+     "id": "ff9d7e74bd52",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnBpZUJXbmpUMVItZVVVeUtBVF9CbmMzeWpBbGxod29rLTFvbGF3M1NWSklGcU41QTV6eGlfNmVYN0NsRUJCM2JlUTVlZm1uTUptVk9fQ2JVZFFuelkxUHlaMFhXQ0dlZnNFd0JnaDFLYWpGMm9JOWJBXzl1a3hhNENaLUdNTWozTmpqMWRrUmhqaXpGc2hNZGpnYXpONDZFSWNrcG9nMUZUR0JGN3J4eTFiT0RfYmpsV2NLTnNXVnNDbk41bDVOdkt3?oc=5",
+     "ts": "2026-11-02T08:18:13Z",
+     "summary": ""
+    },
+    {
+     "id": "210d72ea069b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0RzWmN1Q3EzbEdtMTV4MV9qRVpzVHF1Q1Q0ODFMVV85UFdNYnJJck1rX2pEWkNjbFFEOXh1Z214UWJ3LU9iYzVGcHZQV3dEV3dHSGlVS2pYMGJER3FHamNyWk9KU2dTMHBJZzVzS200UUVEWWNzek9ES0JfYkZOajJRalNKek1wZ2tpd3N5cWVMM1RhZDgxMTY3ZGxCaEthZE5ybnIxTVhKVGl1d2k1RFBYYW9zazFIeDVvdjNaakhUTVhTak00QTdnQzF1T01QQ2lXSlhnTG0zQ2NOZFo0VWlUMEc?oc=5",
+     "ts": "2026-11-02T08:32:52Z",
+     "summary": ""
+    },
+    {
+     "id": "00d34295cc0a",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
+     "url": "https://www.ign.com/articles/sony-issues-yet-another-ps5-firmware-update-as-jailbreak-whac-a-mole-continues-ahead-of-gta-6-release",
+     "ts": "2026-11-02T08:18:12Z",
+     "summary": "Sony has released yet another PS5 firmware update as it battles to keep a lid on the homebrew community’s ongoing effort to jailbreak the console ahead of the release of GTA 6. Here's what it does."
+    }
+   ],
+   "tags": [],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Sony снова обновила PS5: прошивка перед выходом GTA 6",
+    "summary": "Sony выпустила очередное обновление прошивки PS5, продолжая борьбу с джейлбрейком. IGN пишет, что это происходит на фоне приближающегося релиза GTA 6.",
+    "idea": "Коротко показываем цепочку: обновление Sony → борьба с джейлбрейком → GTA 6 на носу. Зрителю важно понять, зачем Sony так часто патчит консоль именно сейчас.",
+    "hook": "Sony опять обновила PS5 — и это прямо перед выходом GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-02T08:31:17Z"
+   },
+   "msg_id": 420
+  },
+  {
+   "id": "bd5795b3a02e",
+   "title": "В сеть утекли кроссовки Nike по GTA 6 — на них даже есть звёзды розыска",
+   "first_seen": "2026-11-02T09:11:07Z",
+   "updated": "2026-11-02T09:11:07Z",
+   "items": [
+    {
+     "id": "bd5795b3a02e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VGTimes",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В сеть утекли кроссовки Nike по GTA 6 — на них даже есть звёзды розыска",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmNzdklUTlFyUzBkRG1YdGd0YnQtbWdnWGwzNEs1UkNhU1VWYVp6djJ5WUZfVDFla3djWWQ3aWtpTjVwRXQzMGJ0RWZHVXlfNzlYbVlCRncwRU1tMkctWUIwZVBNYTVJR3NwZ2djUndPXy0zZkhXMWhtRTlUTGNvOGNSdExsZ0FFdEk3MWVnVmFxZFM1dGxSNHdxek81LVhqbzBNU2wtZ3RkaHBTdGN3dEZaYktCbE1INFc5QmNtLXJzcDQ2a2R4eQ?oc=5",
+     "ts": "2026-11-02T08:57:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "af048a0b1f45",
+   "title": "Good excuse for gaming: Millionaire explains how GTA 6 could save players thousands",
+   "first_seen": "2026-11-02T09:11:07Z",
+   "updated": "2026-11-02T09:11:07Z",
+   "items": [
+    {
+     "id": "af048a0b1f45",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Good excuse for gaming: Millionaire explains how GTA 6 could save players thousands",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzRFRG5ncTFPbDU0SjRNbWRmT0tYSzVhQldBempBcEpvTTNNdHBTbHBxY3dNaWlxSVpoN2ZpVk1QSTh0YnNkdDlZUk1sLXdkRklzUHJNUUxpOUlmbU9XMkRsdlVWTFJXY05EQkVlZnZ2ZkJObmdwUHBNdlZYNXRDNmYwenAyRWo3ZExWMWlUNGY4d3FBX25EclhVXzJXcnBXV3dVa3ZIYk9uZTRfSjBqLWsyRVBUZjhLSDVNV3BzOWduaTFrVUE?oc=5",
+     "ts": "2026-11-02T09:01:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0095aabe2d31",
+   "title": "New firmware 14.22 blocks access to possible hacks for PlayStation 5 and Grand Theft Auto VI.",
+   "first_seen": "2026-11-02T09:11:07Z",
+   "updated": "2026-11-02T09:11:07Z",
+   "items": [
+    {
+     "id": "0095aabe2d31",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "New firmware 14.22 blocks access to possible hacks for PlayStation 5 and Grand Theft Auto VI.",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa3F5ZzNaRHQ5TWQ1RFRqcEtIeFFjdWhNdVNqTk9kOWpoSHRvalRWSzB3ZU1RZ3NqZUthb0pLZDhSeTBkZjNzRGNIS1d5T0kwZG1hVzNsWWFKWEtWVTNHOG1TVEx5MDh1YVZIazVMY0RoNnA5X045QlJTTWZLX2lKNlRCMm4yTllGZHRBMFhGenNLREFidGMyanF1TTNWQ0dmRXBvdFd3cE13djZSZUpQSkxmN3UxOHpKa0NVblFPSTVsdXVPelFfTHo5OA?oc=5",
+     "ts": "2026-11-02T09:01:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "44ff4ecff991",
    "title": "There is a trick to Play GTA 6 at 60fps on Playstation",
    "first_seen": "2026-11-02T08:20:55Z",
@@ -176,56 +317,6 @@
     "at": "2026-11-02T08:50:58Z"
    },
    "msg_id": 422
-  },
-  {
-   "id": "ff9d7e74bd52",
-   "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
-   "first_seen": "2026-11-02T08:31:14Z",
-   "updated": "2026-11-02T08:40:51Z",
-   "items": [
-    {
-     "id": "ff9d7e74bd52",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnBpZUJXbmpUMVItZVVVeUtBVF9CbmMzeWpBbGxod29rLTFvbGF3M1NWSklGcU41QTV6eGlfNmVYN0NsRUJCM2JlUTVlZm1uTUptVk9fQ2JVZFFuelkxUHlaMFhXQ0dlZnNFd0JnaDFLYWpGMm9JOWJBXzl1a3hhNENaLUdNTWozTmpqMWRrUmhqaXpGc2hNZGpnYXpONDZFSWNrcG9nMUZUR0JGN3J4eTFiT0RfYmpsV2NLTnNXVnNDbk41bDVOdkt3?oc=5",
-     "ts": "2026-11-02T08:18:13Z",
-     "summary": ""
-    },
-    {
-     "id": "210d72ea069b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony Issues Yet Another PS5 Firmware Update as Jailbreak Whac-a-Mole Continues Ahead of GTA 6 Release",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0RzWmN1Q3EzbEdtMTV4MV9qRVpzVHF1Q1Q0ODFMVV85UFdNYnJJck1rX2pEWkNjbFFEOXh1Z214UWJ3LU9iYzVGcHZQV3dEV3dHSGlVS2pYMGJER3FHamNyWk9KU2dTMHBJZzVzS200UUVEWWNzek9ES0JfYkZOajJRalNKek1wZ2tpd3N5cWVMM1RhZDgxMTY3ZGxCaEthZE5ybnIxTVhKVGl1d2k1RFBYYW9zazFIeDVvdjNaakhUTVhTak00QTdnQzF1T01QQ2lXSlhnTG0zQ2NOZFo0VWlUMEc?oc=5",
-     "ts": "2026-11-02T08:32:52Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Sony снова обновила PS5: прошивка перед выходом GTA 6",
-    "summary": "Sony выпустила очередное обновление прошивки PS5, продолжая борьбу с джейлбрейком. IGN пишет, что это происходит на фоне приближающегося релиза GTA 6.",
-    "idea": "Коротко показываем цепочку: обновление Sony → борьба с джейлбрейком → GTA 6 на носу. Зрителю важно понять, зачем Sony так часто патчит консоль именно сейчас.",
-    "hook": "Sony опять обновила PS5 — и это прямо перед выходом GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-02T08:31:17Z"
-   },
-   "msg_id": 420
   },
   {
    "id": "e4ee34d9b4ae",
@@ -55354,15 +55445,15 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T09:01:33Z",
+  "last_run": "2026-11-02T09:11:07Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 84/89",
+   "gnews_en: 80/84",
    "gnews_ru: 28/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
-   "ign: 0/20",
+   "ign: 1/20",
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
