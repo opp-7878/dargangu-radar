@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "1323efb3db4e",
+   "title": "Apparently, GTA VI will let you download the game in separate parts, such as Story Mode and possibly Online, so you can choose what you want to have installed.",
+   "first_seen": "2026-11-02T05:01:19Z",
+   "updated": "2026-11-02T05:01:19Z",
+   "items": [
+    {
+     "id": "1323efb3db4e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Apparently, GTA VI will let you download the game in separate parts, such as Story Mode and possibly Online, so you can choose what you want to have installed.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlo96b/apparently_gta_vi_will_let_you_download_the_game/",
+     "ts": "2026-11-02T04:53:17Z",
+     "summary": "I was browsing through the installed content and came across the Extra and Story sections without icons. I’m not sure if anyone has shared this discovery yet, but I thought I’d post it here. submitted by /u/S3RGI0_360 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "7a5a57a3ddcf",
    "title": "GTA 6 Launch Trailer Shared By Xbox A Week After PlayStation",
    "first_seen": "2026-11-01T09:01:13Z",
@@ -71133,43 +71161,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "68b533b75432",
-   "title": "PS5 bundle with GTA 6 Game included?",
-   "first_seen": "2026-10-26T04:51:09Z",
-   "updated": "2026-10-26T04:51:09Z",
-   "items": [
-    {
-     "id": "68b533b75432",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "PS5 bundle with GTA 6 Game included?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xfnjri/ps5_bundle_with_gta_6_game_included/",
-     "ts": "2026-10-26T04:45:24Z",
-     "summary": "I been thinking about this for a while. It been like 6 years since ps5 came out? Gta 6 would be in running next month but I still think if ps5 would be having a budget with gta 6 that includes with the custom controllers like wolverine or Spiderman bundle. Does anyone think that there would be ps5 bundle with gta 6? Without an confirming? submitted by /u/MovieNo6062 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T04:50:52Z",
+  "last_run": "2026-11-02T05:01:19Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 72/77",
-   "gnews_ru: 26/61",
+   "gnews_en: 79/85",
+   "gnews_ru: 23/26",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -71178,7 +71178,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 20/25",
+   "reddit: 21/25",
    "tg_gtavistar: 7/11",
    "tg_gta6deluxe: 8/12",
    "tg_gta6_m: 9/17",
