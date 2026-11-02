@@ -1,99 +1,10 @@
 {
  "stories": [
   {
-   "id": "0e8b2701568c",
-   "title": "Any marketing in Toronto?",
-   "first_seen": "2026-11-02T11:20:52Z",
-   "updated": "2026-11-02T11:20:52Z",
-   "items": [
-    {
-     "id": "0e8b2701568c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Any marketing in Toronto?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xluioi/any_marketing_in_toronto/",
-     "ts": "2026-11-02T11:17:38Z",
-     "summary": "Hello! Did anyone come across marketing in Toronto? Would like to see one irl. Rockstar also has a Toronto branch so would seem like they would do a mural or maybe digital ad? submitted by /u/Flashy_Reason_1746 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0f91372ff99a",
-   "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
-   "first_seen": "2026-11-02T11:01:32Z",
-   "updated": "2026-11-02T11:11:14Z",
-   "items": [
-    {
-     "id": "0f91372ff99a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Moneycontrol.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI PS5 firmware update ahead of launch: What it means for users",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbzhWeVM5WU5jX21kMEM1TmtEZ2YxR21DZnZaZ0dWNzRFdG9iTG12NS10RDNHZmdfcVV3MEowWU10dy12b0VBWHlpTnM2SV9uQWxUaVhsLXg2Rk9VYmxlNFQtRy1qemNaZXFacjRidXhBY1c0YU5yMUNHRVkwZVVGeG1qVXdfR3NOaVJyRmd2UzZlcmRSY1BQTFBsVkhVOGxrNU9zeTB6anZwcTFnOXNjWVdPU2YyZ1FoSkllVjNzNEJnUTdTZHdz0gHMAUFVX3lxTE1vRmNMQTZXZ3NyMHVtN1ZrdENzMVdGWDdtRG5iOEVQN2tJX004Z1dJaVhKNm1aZk9rZWFaN3ZuLWxKYmNfUTM3OVEtQlNZX1BfNV8yRlgzM3V4NkxvUHZOZWdhV0pYMjREUjRMT0Q5RHdReWszZUhpNzdjTWlPZFNZNTVKMnZQTmZhTDBjc19qdmtIRDlmRklZM1VRSzg0czkxWm1vRm52b01jVDdBN0FVaXI2X2NXUVJkckk2dHF0eW5oVVdpSGdteFBYQg?oc=5",
-     "ts": "2026-11-02T10:34:20Z",
-     "summary": ""
-    },
-    {
-     "id": "10b2530a802a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUx4NFVjZHN5WFEzVjQ0d2w3VGtST0dnZVVUYkNMU3lDSzE2di03SU9sYjI1MW1MTDZxVG5EQUdCU3VWdDJxcWNyWU5HaXM4eW1nc0daenlWSHFsVEROakVsT0NNcnVOTFlRS01tRWVGbGxzMEtoclA0U0g3VDY2cm92UDFOdWtTZ0VURWNNYjAyTjE5eXZjTG5yMA?oc=5",
-     "ts": "2026-11-02T10:58:42Z",
-     "summary": ""
-    },
-    {
-     "id": "42b1ef3441eb",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
-     "url": "https://insider-gaming.com/latest-ps5-firmware-update-improves-security-ahead-of-gta-6-release/",
-     "ts": "2026-11-02T10:58:42Z",
-     "summary": "The PlayStation 5 has once again seen another firmware update, this time improving the console's security ahead of GTA 6's release. The post Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 81,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Sony обновила прошивку PS5 перед выходом GTA 6",
-    "summary": "По данным Insider Gaming, Sony выпустила новую прошивку PS5, усилив защиту консоли перед релизом GTA 6. Moneycontrol отмечает, что это может быть подготовка к защите от пиратства и взлома на старте. Официально Rockstar и Sony детали не раскрывали.",
-    "idea": "Коротко объясняем, зачем Sony усилила защиту PS5 перед релизом GTA 6 и чем это грозит игрокам. Зрителю важно понять, повлияет ли это на взлом, читы и стабильность на старте.",
-    "hook": "Sony снова обновила PS5 перед GTA 6 — что это значит для игроков?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-02T11:11:18Z"
-   },
-   "msg_id": 425
-  },
-  {
    "id": "c6dff9212ddf",
    "title": "GTA 6 Enters Its Launch Month With a November 19 Release Date",
    "first_seen": "2026-11-01T19:50:48Z",
-   "updated": "2026-11-02T11:11:14Z",
+   "updated": "2026-11-02T11:31:14Z",
    "items": [
     {
      "id": "c6dff9212ddf",
@@ -237,6 +148,19 @@
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaXdiUnJFS1dLcEJ6M182OGw0ZGlicm84NG5KY3VrY2YzaWlvaWFjMnFSa3gxMlgzcUtqanFuT3BqLUNrck9wdkJoUVNWVXVxX1VhcVpzYzVPSUtVTDBHaVBXaEU2SVF3cGFEZkFKQkZ5WkFPR3lYUDFnaktaRm85aU5jMWwteFB4NnNrMWt0WnRTcnNxNk1HMzFSS0pSRXJQcTBEdU9QTHNSREdGUUJSWEZrN1A5YUZMbmtScGx1OENza1VuSlduTUliLW92SmV2X1lzZ2FuS0ZYeDl3bUNGSEx4dzlwTnlfd1ZqcVhnRU1ZMVN5dFhR0gH3AUFVX3lxTE9pd2JSckVLV0twQnozXzY4bDRkaWJybzg0bkpjdWtjZjNpaW9pYWMycVJreDEyWDNxS2pqcW5PcGotQ2tyT3B2QmhRU1ZVdXFfVWFxWnNjNU9JS1VMMEdpUFdoRTZJUXdwYURmQUpCRnlaQU9HeVhQMWdqS1pGbzlpTmMxbC14UHg2c2sxa3RadFNyc3E2TUczMVJLSlJFclBxMER1T1BMc1JER0ZRQlJYRms3UDlhRkxua1JwbHU4Q3NrVW5KV25NSWItb3ZKZXZfWXNnYW5LRlh4OXdtQ0ZITHh3OXBOeV93VmpxWGdFTVkxU3l0WFE?oc=5",
      "ts": "2026-11-02T09:43:51Z",
      "summary": ""
+    },
+    {
+     "id": "d151f4115879",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NewsBreak: Local News & Alerts",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 LIVE: Game pre-orders include 'surprise' from one retailer",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTA5SHg5VXJpbkZlenV6d0RzS29mNjJ0ME51Zkg3a3pFa2lfVmxtWURVTEc2S2xFVXUzM1VYUEhXQzNQU1kzakh2aVJHZGh4MlZialNGWGd6S0ZuSVFHUFRJWHJYT0w4U2NydUhld004Y3BDQTFObnQ5aWN3b0NfRUpvQzdpenpIbTNVQ0tMQU1uR1ZOb0ZLREZaRk1BeTVsTGxEdVhJckc5WVc5dnJJeXlDbGhXc2Ez?oc=5",
+     "ts": "2026-11-02T09:24:09Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -248,6 +172,266 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
+  },
+  {
+   "id": "3df689eb843e",
+   "title": "GTA 6 Can be Played 7.5 Hours Earlier in India on Your PS5 and Xbox with Your Own Account",
+   "first_seen": "2026-11-02T10:21:12Z",
+   "updated": "2026-11-02T11:31:14Z",
+   "items": [
+    {
+     "id": "3df689eb843e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCQuest",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Can be Played 7.5 Hours Earlier in India on Your PS5 and Xbox with Your Own Account",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbHZzTjNiRlZrdy1SdFVvRnRUc1pfbnpqOUJRcTUwRXhPTEo2ZTZ6QS1iekxrTnlxUndEWHNEbnh1VmRYcGFhbzBxZkdjSjRBcER2SVFGQUtuWWFKMWNHOTY2TFpuTFRSRzBOV2M2LWhPNnVrbS1ySzhRNGx6ZzViR3dkSmpPdVVfY20zRjdxeDhMQXpzUWIzWnNDV1Fha0VxMmdXMTdkTWZvaFVmcVJRM2lqWDlOeGdDNWpFdnhOWE9Wclpvai1n0gHMAUFVX3lxTE1tZHQ3U1FaR1JRNGJURWJFN0laZnpTWThvYkt3c3dZa1gxcmp5YTc4MEU2cUlxVEZWalZXcG9EejUtWmdUYUZqMnZmWGRpZWpJYnlXOEUyaHl6QkZoOXQwbXAzdmJ5T05qN3hNNjhBX0lYQVF3QlhDZjF1QVV6SHRRV2lnZUhZM01JUkhQRndyX19jOE1WLVBCeEVlNmVkR0U3bWdQdG95NHBNaHpPdXczQ0VrSUdKWVU2aHNDb0drTEItc0NJTWdIeERZLQ?oc=5",
+     "ts": "2026-11-02T09:02:15Z",
+     "summary": ""
+    },
+    {
+     "id": "17d487f3628e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCQuest",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Can be Played 7.5 Hours Earlier in India on Your PS5 and Xbox with Your Own Account",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbWR0N1NRWkdSUTRiVEViRTdJWmZ6U1k4b2JLd3N3WWtYMXJqeWE3ODBFNnFJcVRGVmpWV3BvRHo1LVpnVGFGajJ2ZlhkaWVqSWJ5VzhFMmh5ekJGaDl0MG1wM3ZieU9Oajd4TTY4QV9JWEFRd0JYQ2YxdUFVekh0UVdpZ2VIWTNNSVJIUEZ3cl9fYzhNVi1QQnhFZTZlZEdFN21nUHRveTRwTWh6T3V3M0NFa0lHSllVNmhzQ29Ha0xCLXNDSU1nSHhEWS3SAcwBQVVfeXFMTW1kdDdTUVpHUlE0YlRFYkU3SVpmelNZOG9iS3dzd1lrWDFyanlhNzgwRTZxSXFURlZqVldwb0R6NS1aZ1RhRmoydmZYZGllaklieVc4RTJoeXpCRmg5dDBtcDN2YnlPTmo3eE02OEFfSVhBUXdCWENmMXVBVXpIdFFXaWdlSFkzTUlSSFBGd3JfX2M4TVYtUEJ4RWU2ZWRHRTdtZ1B0b3k0cE1oek91dzNDRWtJR0pZVTZoc0NvR2tMQi1zQ0lNZ0h4RFkt?oc=5",
+     "ts": "2026-11-02T09:02:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9bce0153e6fe",
+   "title": "Создатель GTA 6 рекламирует игру прямо как Тодд Говард, обещая возможность пойти куда угодно и найти там что-то интересное – например, запертого пса, который измазал дерьмом всю комнату",
+   "first_seen": "2026-11-02T11:31:14Z",
+   "updated": "2026-11-02T11:31:14Z",
+   "items": [
+    {
+     "id": "9bce0153e6fe",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Создатель GTA 6 рекламирует игру прямо как Тодд Говард, обещая возможность пойти куда угодно и найти там что-то интересное – например, запертого пса, который измазал дерьмом всю комнату",
+     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPNXZqRm5tOThFcGhxUFVib0pKenNmY1hJb21iU3kxX3FGRGkyY3pKLVdLdjhJbS02NExIZjhnbXczYzdSMTlEWmtpaXEtRjlvVm5YWFMzM2FwRkFKcUNlOVc4bjJVTUhzeUx0amVObjdRQ0JqQzFNOUs5WG1VNnRFOXJ5VjVkY1kyTngtc0pXa1E0MTZaUmc4blpoN093d1BHRU5ra2ZIYkFGYTFSWkh1Z1pjTklXR3Q4SFZaekJIUnhKZVdCeUo1OF9raFM2RURjRnpaV2locXVvbFhoSDVlT0QtLVhIMEFkLWZScUNpcFM3Tk9oWktOTTRMZFBkdUVBUW5NVzhYdDBlc2xhTk9rckc1Z0xpN29ZcHNCZ2ZrNnJYd2w0UXpCdXYyeGlzX2ZOZ0JYYzF4dFpDSUstUi1F?oc=5",
+     "ts": "2026-11-02T11:20:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0a71c621c0c6",
+   "title": "«Лучшая игровая механика»: в GTA VI можно бросаться собачьими экскрементами",
+   "first_seen": "2026-11-02T11:31:14Z",
+   "updated": "2026-11-02T11:31:14Z",
+   "items": [
+    {
+     "id": "0a71c621c0c6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Land of Games",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Лучшая игровая механика»: в GTA VI можно бросаться собачьими экскрементами",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmR6VktocEIxY1ZkZkN1NUJqeVhuMml6a1dsSXdSZElLUmpwcU1lc0ZITWdhLTVmSzZFTUpJLUV0MEMySXA4SXRGSi1qTzJtZE1zbjUxWHZuUDQyRWtaYjl2ZUxwcDFSR252ZWFOcmVpTlZXdjB3RnZIVFlJaHBPTUhqZzJYRUlsSWVNaHVXYVlLd3UtclpRMFNaOVQwQXFtVlFmUlAyZ0J4VFBVRnAzNTd1MmNzQ1VwMlBIcC10RXVGWkc3LXBr?oc=5",
+     "ts": "2026-11-02T11:23:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1e989077163b",
+   "title": "Is GTA VI going to give us something no Rockstar game has given us before...",
+   "first_seen": "2026-11-02T11:31:14Z",
+   "updated": "2026-11-02T11:31:14Z",
+   "items": [
+    {
+     "id": "1e989077163b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Is GTA VI going to give us something no Rockstar game has given us before...",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlunt3/is_gta_vi_going_to_give_us_something_no_rockstar/",
+     "ts": "2026-11-02T11:25:50Z",
+     "summary": "...a playable character that actually gets under the covers when they go to sleep on a bed. GTA IV, GTA V, RDR1 or even RDR2, all characters go to sleep by just laying on top of the bed, usually wearing their clothes and shoes. In RDR2 we would sometimes seen John and Abigail wearing nightclothes when they got into bed in a little cut scene, but yep, still just laying there awkwardly on top of the sheets. From what we have seen of GTA VI so far of the characters in bed, it's again. just laying on top of the sheets. I'm only half joking with this post, but for all the technical achievements pro"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "26deb20bc9bc",
+   "title": "Слух: стало известно, какая версия прошивки PS5 может потребоваться для GTA 6",
+   "first_seen": "2026-11-02T11:31:14Z",
+   "updated": "2026-11-02T11:31:14Z",
+   "items": [
+    {
+     "id": "26deb20bc9bc",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VGTimes",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Слух: стало известно, какая версия прошивки PS5 может потребоваться для GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR1hWb1FSNllnRGxDa2hCVjNRcFdNUWpKMXVoMjljY3VBR3JmbUg4TXIzZzJGOS1vTWpDZ21oZ011ZXZKUU94RzdlVUc4UmQ0Zm5aVDJEZ3lVTjFBUm9LcVNtRS1iUnF0c1dmaVFtLUNBLV9iMUVLNEl5NV9nTWRjV1Z6NWxYLWZFQm5JVkVIM1Nmb1VXYkVmWktydGtQZy1QNjd3M05DVDBUd0hrczRwTUNxV0hJQ1R2cmFvRlAwOE0?oc=5",
+     "ts": "2026-11-02T11:26:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6a2a8b279b8b",
+   "title": "Self-made millionaire says GTA 6 could actually save players $5k",
+   "first_seen": "2026-11-02T11:31:14Z",
+   "updated": "2026-11-02T11:31:14Z",
+   "items": [
+    {
+     "id": "6a2a8b279b8b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Dexerto",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Self-made millionaire says GTA 6 could actually save players $5k",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTh1WHdlZWtUbUJoQk90TXVDUHRSVmVJeEd3clUzRmZqa2xnNkdyVXJOWkFQMzI2cXNDUzljU3BEeTVyU1JaLVBJeGw2MDlvVlRPNElISWVmQ2dhcHpTbXVIVnQyTWF6RzF4V3VTWGxhRERVcU1LS3pYVjEzdUZXYU1sRGx3TGowSWxNYW1sem1FZ3lLMFJ3eDN3elNuTnFVQ1E?oc=5",
+     "ts": "2026-11-02T11:27:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "0e8b2701568c",
+   "title": "Any marketing in Toronto?",
+   "first_seen": "2026-11-02T11:20:52Z",
+   "updated": "2026-11-02T11:20:52Z",
+   "items": [
+    {
+     "id": "0e8b2701568c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Any marketing in Toronto?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xluioi/any_marketing_in_toronto/",
+     "ts": "2026-11-02T11:17:38Z",
+     "summary": "Hello! Did anyone come across marketing in Toronto? Would like to see one irl. Rockstar also has a Toronto branch so would seem like they would do a mural or maybe digital ad? submitted by /u/Flashy_Reason_1746 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0f91372ff99a",
+   "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
+   "first_seen": "2026-11-02T11:01:32Z",
+   "updated": "2026-11-02T11:11:14Z",
+   "items": [
+    {
+     "id": "0f91372ff99a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Moneycontrol.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI PS5 firmware update ahead of launch: What it means for users",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbzhWeVM5WU5jX21kMEM1TmtEZ2YxR21DZnZaZ0dWNzRFdG9iTG12NS10RDNHZmdfcVV3MEowWU10dy12b0VBWHlpTnM2SV9uQWxUaVhsLXg2Rk9VYmxlNFQtRy1qemNaZXFacjRidXhBY1c0YU5yMUNHRVkwZVVGeG1qVXdfR3NOaVJyRmd2UzZlcmRSY1BQTFBsVkhVOGxrNU9zeTB6anZwcTFnOXNjWVdPU2YyZ1FoSkllVjNzNEJnUTdTZHdz0gHMAUFVX3lxTE1vRmNMQTZXZ3NyMHVtN1ZrdENzMVdGWDdtRG5iOEVQN2tJX004Z1dJaVhKNm1aZk9rZWFaN3ZuLWxKYmNfUTM3OVEtQlNZX1BfNV8yRlgzM3V4NkxvUHZOZWdhV0pYMjREUjRMT0Q5RHdReWszZUhpNzdjTWlPZFNZNTVKMnZQTmZhTDBjc19qdmtIRDlmRklZM1VRSzg0czkxWm1vRm52b01jVDdBN0FVaXI2X2NXUVJkckk2dHF0eW5oVVdpSGdteFBYQg?oc=5",
+     "ts": "2026-11-02T10:34:20Z",
+     "summary": ""
+    },
+    {
+     "id": "10b2530a802a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUx4NFVjZHN5WFEzVjQ0d2w3VGtST0dnZVVUYkNMU3lDSzE2di03SU9sYjI1MW1MTDZxVG5EQUdCU3VWdDJxcWNyWU5HaXM4eW1nc0daenlWSHFsVEROakVsT0NNcnVOTFlRS01tRWVGbGxzMEtoclA0U0g3VDY2cm92UDFOdWtTZ0VURWNNYjAyTjE5eXZjTG5yMA?oc=5",
+     "ts": "2026-11-02T10:58:42Z",
+     "summary": ""
+    },
+    {
+     "id": "42b1ef3441eb",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release",
+     "url": "https://insider-gaming.com/latest-ps5-firmware-update-improves-security-ahead-of-gta-6-release/",
+     "ts": "2026-11-02T10:58:42Z",
+     "summary": "The PlayStation 5 has once again seen another firmware update, this time improving the console's security ahead of GTA 6's release. The post Latest PS5 Firmware Update Improves Security Ahead Of GTA 6 Release appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Sony обновила прошивку PS5 перед выходом GTA 6",
+    "summary": "По данным Insider Gaming, Sony выпустила новую прошивку PS5, усилив защиту консоли перед релизом GTA 6. Moneycontrol отмечает, что это может быть подготовка к защите от пиратства и взлома на старте. Официально Rockstar и Sony детали не раскрывали.",
+    "idea": "Коротко объясняем, зачем Sony усилила защиту PS5 перед релизом GTA 6 и чем это грозит игрокам. Зрителю важно понять, повлияет ли это на взлом, читы и стабильность на старте.",
+    "hook": "Sony снова обновила PS5 перед GTA 6 — что это значит для игроков?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-02T11:11:18Z"
+   },
+   "msg_id": 425
   },
   {
    "id": "aedf97d2b3da",
@@ -494,32 +678,6 @@
      "title": "What's new in GTA 6: a map twice GTA 5's, 600,000 animations and a relationship system",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSTZXbW5ZdVR1U3hfUjFHRFNpZUNrNUloV1lXUE5UdkxURkRhV3dEaDdQblFaQXFZRlZLT09iWHFBWmFYeXdyMlVnQVQzRW1mWFlwUkNKbjV0X1JsV2dLSXY0VUlGWl9raXhndDVfTGxwYnJXek1JbTQ4cWZUd1dtcUtFV19RNU9iNEFYeGtIZDVRMkczUndEb2JSXzJJYzBlMC1v?oc=5",
      "ts": "2026-11-02T10:27:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3df689eb843e",
-   "title": "GTA 6 Can be Played 7.5 Hours Earlier in India on Your PS5 and Xbox with Your Own Account",
-   "first_seen": "2026-11-02T10:21:12Z",
-   "updated": "2026-11-02T10:21:12Z",
-   "items": [
-    {
-     "id": "3df689eb843e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PCQuest",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Can be Played 7.5 Hours Earlier in India on Your PS5 and Xbox with Your Own Account",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbHZzTjNiRlZrdy1SdFVvRnRUc1pfbnpqOUJRcTUwRXhPTEo2ZTZ6QS1iekxrTnlxUndEWHNEbnh1VmRYcGFhbzBxZkdjSjRBcER2SVFGQUtuWWFKMWNHOTY2TFpuTFRSRzBOV2M2LWhPNnVrbS1ySzhRNGx6ZzViR3dkSmpPdVVfY20zRjdxeDhMQXpzUWIzWnNDV1Fha0VxMmdXMTdkTWZvaFVmcVJRM2lqWDlOeGdDNWpFdnhOWE9Wclpvai1n0gHMAUFVX3lxTE1tZHQ3U1FaR1JRNGJURWJFN0laZnpTWThvYkt3c3dZa1gxcmp5YTc4MEU2cUlxVEZWalZXcG9EejUtWmdUYUZqMnZmWGRpZWpJYnlXOEUyaHl6QkZoOXQwbXAzdmJ5T05qN3hNNjhBX0lYQVF3QlhDZjF1QVV6SHRRV2lnZUhZM01JUkhQRndyX19jOE1WLVBCeEVlNmVkR0U3bWdQdG95NHBNaHpPdXczQ0VrSUdKWVU2aHNDb0drTEItc0NJTWdIeERZLQ?oc=5",
-     "ts": "2026-11-02T09:02:15Z",
      "summary": ""
     }
    ],
@@ -55799,121 +55957,15 @@
     "at": "2026-10-26T11:31:25Z"
    },
    "msg_id": 170
-  },
-  {
-   "id": "a6da3dcf2b84",
-   "title": "Не помогает даже приближение GTA 6. У консолей Xbox — рекордное падение",
-   "first_seen": "2026-10-26T11:23:11Z",
-   "updated": "2026-10-26T11:23:11Z",
-   "items": [
-    {
-     "id": "a6da3dcf2b84",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Onlíner",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Не помогает даже приближение GTA 6. У консолей Xbox — рекордное падение",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVZpR3ktaU0wVkR1OGFIMG1VTDJBekc3NkdQUXZ2dWdBYV80OFY3SWNlLWNnSVVMT1hvRzdTNHBwQ3hPZGJaUDg4VVZQODJvd2tyQWdrejNHMENlSzhYd2kyRVlsaHlURFpORmdBRUViU2haRWJLU3ZRY1Nzd2MtaHpoajkxR3RydXdMMDJ5aVNzLXFuR19GUF95UzY3SXM5ZDhldkI2MDE?oc=5",
-     "ts": "2026-10-26T10:26:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "07a1c6968798",
-   "title": "Актриса, играющая Lucia в GTA 6, избегает вопросов фанатов",
-   "first_seen": "2026-10-26T11:23:11Z",
-   "updated": "2026-10-26T11:23:11Z",
-   "items": [
-    {
-     "id": "07a1c6968798",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "games.gg",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Актриса, играющая Lucia в GTA 6, избегает вопросов фанатов",
-     "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxNZW5MUHZyLWZVQzJTQ2lrTDloRGJaX0t0alg4NW1Ga3l0RnpDNGFjcEJacTBpZ2dkRjBHOGpIcjNtYVVSNnAzaHpUWTBYVVZvczRRWS1kWFlRZVVOMEJLSjYxSGQxUl95VzAtb1NiU1h0S0g3ZGlpMnM2OXFJM3ViZW5uQjkya3h5UlQ0TVNJUEdCaWhUZ1k4OTVHbHAwYllQQkxSNnZSSFhZM1NVa1E0Wm5IWmFPa3cxWFRLWE5ja2g0Rjk3RDZmLUw4b1pjU21FMXlDaDJRRFpUZlhRUk56T2pqam9WdzVSQUVRVERjTmhUdXVtbmpmbkZON2h5bFVKSUpsRmF2RG1zN1lWRW1FRWhVZGw3Yy1UWVVhWUdkOXRYbXd2NUFmNWZSLW1Vb0wwTk50cDBoaW9ITTE2YnA0Smh1S25RRUFQZFNycDF0cFpjQ0dRcGFVWmhYb0lzR0JMQ3hta3hyYTVfQ3dDclhoUDVOeF94Qno5RVU2S2pNWncwaTE0dF82dkRCM19tU0x6TFlZN3RLSzFPYzhWQ3JEUE44WHBfUHJ0bnJQellldkhXOWVhRWpXMDJ5UkYzQjdBNEhHdVA2X1N6LUNvX0ZCcjU0enBzaFBsMkxmVHhUd2lkT2pwVU50OTMycnlhYzV4Wm4wNmJKaFB4RDc0bXJMeA?oc=5",
-     "ts": "2026-10-26T10:57:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "81a9333aee19",
-   "title": "Sony Soneium Coin: PlayStation and GTA 6 Crypto Twist?",
-   "first_seen": "2026-10-26T11:23:11Z",
-   "updated": "2026-10-26T11:23:11Z",
-   "items": [
-    {
-     "id": "81a9333aee19",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Cryptonews",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony Soneium Coin: PlayStation and GTA 6 Crypto Twist?",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFF5OWF0RERrZU4tWlpmZWtfLS1EaXEtMGNibFNZdFhreGJjLUkzaDFpUnNNd2xhMnRsM0d2YXNlb01icURVOVU1WVhtTVpjUG9sN2tfMmxmR2JvdXV0ZUZQSWlnTGFRVGQtaW42UWZyY1RIbmZVSkhPcWdRTWl2dkxJbjNCbkVq?oc=5",
-     "ts": "2026-10-26T11:06:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "51e327048be0",
-   "title": "any word on a chat box for PC multiplayer?",
-   "first_seen": "2026-10-26T11:23:11Z",
-   "updated": "2026-10-26T11:23:11Z",
-   "items": [
-    {
-     "id": "51e327048be0",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "any word on a chat box for PC multiplayer?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xftyiq/any_word_on_a_chat_box_for_pc_multiplayer/",
-     "ts": "2026-10-26T11:15:41Z",
-     "summary": "GTAv's chatbox got removed. I enjoyed it because I sturggle when using my mic and talking to others. Any chances when multiplayer releases on PC it will come? submitted by /u/Benefit_Waste to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T11:20:52Z",
+  "last_run": "2026-11-02T11:31:14Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 90/94",
-   "gnews_ru: 36/40",
+   "gnews_en: 95/100",
+   "gnews_ru: 39/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -55922,7 +55974,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 23/25",
+   "reddit: 22/25",
    "tg_gtavistar: 9/13",
    "tg_gta6deluxe: 7/12",
    "tg_gta6_m: 9/17",
