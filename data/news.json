@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "4e1b2d68699f",
+   "title": "Похоже к выходу GTA 6 выпустят коллекцию кроссовок Nike совместно с брендом Трэвиса Скотта",
+   "first_seen": "2026-11-02T06:31:03Z",
+   "updated": "2026-11-02T06:31:03Z",
+   "items": [
+    {
+     "id": "4e1b2d68699f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Похоже к выходу GTA 6 выпустят коллекцию кроссовок Nike совместно с брендом Трэвиса Скотта",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMXU1Q0RoUkkybzJPZWdYRVpiLWhoT3ZhMk5XWnJUajVSUkgtRTRyUDNRcUF1VG9KSVRKZDNESnAwVDBseS0zUjVoR2xVblZpSk42ck80My1kN3lGZngzV1Z6eUdGRHZsblBNRWVtTEZ4ekVwTFB5ZThNX1gxOE9yRUpVMnZsN0lHN0M5bVM2UXN5NWhfUmxSLUN2NHdrc29WUEM2eDRpbm5YM0JIU2dxV2tPZnVWUXlsN3d2MGFKdXNGLUlQck83a3BnY3lKRGpDekpDV01B?oc=5",
+     "ts": "2026-11-02T06:18:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "68038cb39d1d",
    "title": "Для PS5 вышла прошивка 14.22, закрывающая уязвимости перед релизом GTA 6",
    "first_seen": "2026-11-02T06:20:54Z",
@@ -70374,11 +70400,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-02T06:20:54Z",
+  "last_run": "2026-11-02T06:31:03Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/0",
    "gnews_en: 69/73",
-   "gnews_ru: 25/62",
+   "gnews_ru: 23/27",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -70387,7 +70413,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 22/25",
+   "reddit: 21/25",
    "tg_gtavistar: 7/11",
    "tg_gta6deluxe: 8/12",
    "tg_gta6_m: 9/17",
