@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "4e7d086c8308",
+   "title": "GTA VI Through My Eyes 👀",
+   "first_seen": "2026-11-03T23:31:08Z",
+   "updated": "2026-11-03T23:31:09Z",
+   "items": [
+    {
+     "id": "4e7d086c8308",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI Through My Eyes 👀",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xn8iv6/gta_vi_through_my_eyes/",
+     "ts": "2026-11-03T23:21:40Z",
+     "summary": "I'm a digital artist, so l decided to create my own GTA VI poster and hope you guys love it! 💜 Human-made. No Al. submitted by /u/aronvisuals to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "e7bd72098d27",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI Through My Eyes 👀",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xn8l2y/gta_vi_through_my_eyes/",
+     "ts": "2026-11-03T23:24:20Z",
+     "summary": "I'm a digital artist, so l decided to create my own GTA VI poster and hope you guys love it! 💜 Human-made. No Al. submitted by /u/aronvisuals to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "b355d548c72c",
    "title": "Предзагрузку GTA VI перенесли на 10 ноября — этой инфой поделился официальный аккаунт Rockstar Games Ранее старт предзагрузки стоял на 12 ноября 😀 Подписаться |",
    "first_seen": "2026-11-03T15:01:17Z",
@@ -66765,41 +66804,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "01af69c28b82",
-   "title": "Comparison of technical features of the PlayStation 5 and Xbox Series X versions of Grand Theft Auto VI",
-   "first_seen": "2026-10-27T23:31:02Z",
-   "updated": "2026-10-27T23:31:02Z",
-   "items": [
-    {
-     "id": "01af69c28b82",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Comparison of technical features of the PlayStation 5 and Xbox Series X versions of Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYVg4LWZBWjI4T0pUcjhmR3BxUnFkdHo1V1FRWWZJaXZwT2Vrc3Y5a3B4alZ0NTMwWTl0d3dGV2NfXzlmdThnZzZfTm16cUNzR2VCdTk1V0tBNjBBVW9BRkhwbFk4d0xSYjRhV2pzdUI2RGc4UEplazJIYVZPcVVSb1d5MHJJd2tqaVZzb0FUbTZBN00zWEhzQjFfV0o0UEFqVUVqRXo5MmRkclRlMUFvWlYzcXdhcDl0X2k1OXYxNnpqaDFYSWFyVHJqLTFnNmw3X1V0bGVqOU9TUWdna3JF?oc=5",
-     "ts": "2026-10-27T23:27:08Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T23:20:58Z",
+  "last_run": "2026-11-03T23:31:09Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 97/100",
-   "gnews_ru: 91/100",
+   "gnews_ru: 85/95",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
