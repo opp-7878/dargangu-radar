@@ -4,7 +4,7 @@
    "id": "e07aa903f378",
    "title": "Rockstar details Grand Theft Auto 6 pre-load date and time, and file size",
    "first_seen": "2026-11-03T01:20:58Z",
-   "updated": "2026-11-03T20:01:32Z",
+   "updated": "2026-11-03T20:11:02Z",
    "items": [
     {
      "id": "e07aa903f378",
@@ -1253,6 +1253,19 @@
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUk9sRktPc3h5UHBzUHQyZzJBZWlJYzYyb2JVRzZVSWIyRmJzeUMtaHdSTDJPb0FrSFFGSkwydTVtXzNRUFhaXzlNSnRhUWozYzlpeEwyVmM4dFBTNVBvaVNDcXMyMTVwSTFvV3Jtdk00bW1UNU9JYU9jNUYyN3MtcUFLMUF5SjByYVpCaDdkS2pJSXlXUlVweHVjNjVqYjl0YU9sMlJVWFR4dVJRNHpKTmlRT0h4RFU1ak0yTWNQVlhyblFlTERUX01oUWVtZ2YwRnRNWHluMnhkSkdPN0RUdUFRWGlNTEsx0gHuAUFVX3lxTE5pUENiVGcwWHpfdlhRQm1kMzdjUjlpZU9YYkpIQWhocldWV3lpOHJobjk3OW00Q0dlUHM0RHFyWW5jUzYtNDBBS1cyam93NG56WDRxenl1Snl1RHZnZVVLM1Q5R0VfUm95bVMyb0REenFIdk51N0lnSXl4OFdwLXZSMkJEUVlVSks1SC1mYzFCTV9DdjdsWHN2S05YWUliTGZKUjRHMlZCY1NhTnBqLVhCZVM0N0NMeFpxQlVzendHaG5saUZOSXI4aVZubEV2R244dk5KT2JxQktNTU03VGR2TTlEZ3piNFozMUZLWGc?oc=5",
      "ts": "2026-11-03T19:37:00Z",
      "summary": ""
+    },
+    {
+     "id": "949fda53549b",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches",
+     "url": "https://www.ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches",
+     "ts": "2026-11-03T19:20:47Z",
+     "summary": "GTA 6 is mere weeks away from launch, and to celebrate, Xbox is bringing the wildlife of Leonida to players’ living rooms with a one-of-a-kind console."
     }
    ],
    "tags": [
@@ -1263,6 +1276,257 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "3a60ebf0b288",
+   "title": "'Save That Stuff for the Streets of Vice City' — Police Mock Car Chase Criminal for Being Arrested During GTA 6 Release",
+   "first_seen": "2026-11-03T20:01:32Z",
+   "updated": "2026-11-03T20:11:02Z",
+   "items": [
+    {
+     "id": "3a60ebf0b288",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "'Save That Stuff for the Streets of Vice City' — Police Mock Car Chase Criminal for Being Arrested During GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzM0VHVmMDM4d0tDWi1DVUFPVHUxYWdCQm5hbkpJVmw5N0pQQTNwSzdabkFQYUV0clUwcnpfNGMwTDE1Yjh1RnFXVFgwdWZpN1UyUHRpSkZDU1AxcjFvN1l3a25wREQ3OUVGY3lqUnA4bEExdEU2cVBYRVQ3VW9ITEhPdDdvbGtxZkJ3djZWZGVYczN3OC03Szk0ZE1DSHUy?oc=5",
+     "ts": "2026-11-03T19:56:46Z",
+     "summary": ""
+    },
+    {
+     "id": "0ec35dde7b17",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
+     "url": "https://www.ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release",
+     "ts": "2026-11-03T19:56:45Z",
+     "summary": "Police in Derbyshire, UK, are going viral after making a TikTok video mocking a criminal who led them on a high-speed car chase, saying the suspect will now miss out on GTA 6’s highly-anticipated launch as a consequence of their actions."
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Полиция Вайс-Сити троллит преступника в день выхода GTA 6",
+    "summary": "По данным IGN, в Вайс-Сити полицейские устроили шуточную погоню и арестовали нарушителя в день релиза GTA 6. Офицер подколол задержанного фразой «Save That Stuff for the Streets of Vice City».",
+    "idea": "Короткая погоня и арест с шуткой копа — идеальный комичный фрагмент для нарезки с субтитрами и реакцией чата.",
+    "hook": "Полиция Вайс-Сити поймала парня — и сразу затроллила его за GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-03T20:01:35Z"
+   },
+   "msg_id": 487
+  },
+  {
+   "id": "26879c833a8a",
+   "title": "Games Inbox: What’s the first thing you’ll do in GTA 6?",
+   "first_seen": "2026-11-03T02:10:48Z",
+   "updated": "2026-11-03T20:11:02Z",
+   "items": [
+    {
+     "id": "26879c833a8a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Metro.co.uk",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Games Inbox: What’s the first thing you’ll do in GTA 6?",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IQ25lVEpFVFdpa1llUmJkYndqM2I4RE85R3RiU3JmVm1vN25oMGZUcUNTcjFtTDZjZGJwdDdab2ZEc0JtOW03LUtuRjJwS2p5YnBEV2tLWEJwZXZRLTNLMW0tTmtJLUM2WFEwOW84TlVRcndSQ3Z3dUp30gF_QVVfeXFMTllFSmlLMXNpTDdwQUR4YU1ReC1taTNMcHZta1lpYXJYZUpUQUJGLVJQRWItMDVOX2FJNWZsTDVSTU9vNjJFdTY2QXcxMzdaNmhiRGlVLURFeklIWlRqWkxSWmZZMGxjLU9xTENtbVJtcjVzanlNcy16azhpdjBtaw?oc=5",
+     "ts": "2026-11-03T02:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "a0c1508caec4",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "First thing you’ll do?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xn17gj/first_thing_youll_do/",
+     "ts": "2026-11-03T18:39:36Z",
+     "summary": "Aside from all the intro missions, what is going to be the first thing you do in GTA 6? submitted by /u/NullByDefault to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "a12958e8763f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What is the first thing you’re going to do in GTA 6?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xn3nub/what_is_the_first_thing_youre_going_to_do_in_gta_6/",
+     "ts": "2026-11-03T20:08:17Z",
+     "summary": "I’m going to explore every single little detail and take a drive through Vice City. No rushing through the missions—I really want to immerse myself in the world, just like I did with RDR2. submitted by /u/ConstLeoTheCat to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "99952580d829",
+   "title": "This will be the first big game i want but have no way to play it",
+   "first_seen": "2026-11-03T20:11:02Z",
+   "updated": "2026-11-03T20:11:02Z",
+   "items": [
+    {
+     "id": "99952580d829",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "This will be the first big game i want but have no way to play it",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xn3j2q/this_will_be_the_first_big_game_i_want_but_have/",
+     "ts": "2026-11-03T20:03:19Z",
+     "summary": "I’ve always had a console each generation but never got the latest gen once I built my pc in 2018. Now I can’t afford it! I hope all of you have a blast, and those of us out of luck get a chance soon. I hope that early next year pc release rumor is real. Have fun 🙏 submitted by /u/L0-Ki to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f015302c67af",
+   "title": "Macklemore predicted the GTA VI map price in 2012 🤣",
+   "first_seen": "2026-11-03T20:11:02Z",
+   "updated": "2026-11-03T20:11:02Z",
+   "items": [
+    {
+     "id": "f015302c67af",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Macklemore predicted the GTA VI map price in 2012 🤣",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xn3j2k/macklemore_predicted_the_gta_vi_map_price_in_2012/",
+     "ts": "2026-11-03T20:03:19Z",
+     "summary": "submitted by /u/Apprehensive_Park331 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "163b621b6b5e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Macklemore predicted the GTA VI map price in 2012 🤣",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xn3jul/macklemore_predicted_the_gta_vi_map_price_in_2012/",
+     "ts": "2026-11-03T20:04:11Z",
+     "summary": "submitted by /u/Apprehensive_Park331 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "94bf605f7253",
+   "title": "Realistically, how long is this going to take?",
+   "first_seen": "2026-11-03T20:11:02Z",
+   "updated": "2026-11-03T20:11:02Z",
+   "items": [
+    {
+     "id": "94bf605f7253",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Realistically, how long is this going to take?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xn3k5u/realistically_how_long_is_this_going_to_take/",
+     "ts": "2026-11-03T20:04:30Z",
+     "summary": "Rockstar released the file size and its 212 gigabytes. I know my internet is slow but do you think it will download in time for the release on the 19th? submitted by /u/Sad-Raise-504 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0574cf42a498",
+   "title": "Different kind of boats",
+   "first_seen": "2026-11-03T20:11:02Z",
+   "updated": "2026-11-03T20:11:02Z",
+   "items": [
+    {
+     "id": "0574cf42a498",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Different kind of boats",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xn3kl1/different_kind_of_boats/",
+     "ts": "2026-11-03T20:04:53Z",
+     "summary": "Are you also hoping that the game will let you drive not only speedboats/boats but also slightly larger yachts? submitted by /u/Clear_Button3743 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f62729b1bcf5",
+   "title": "Happy gta vi month",
+   "first_seen": "2026-11-03T20:11:02Z",
+   "updated": "2026-11-03T20:11:02Z",
+   "items": [
+    {
+     "id": "f62729b1bcf5",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Happy gta vi month",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xn3q9a/happy_gta_vi_month/",
+     "ts": "2026-11-03T20:10:43Z",
+     "summary": "We’re 2 weeks away from the biggest game release of all time if you’ve keep up to date on gta vi updates posts videos this is for you 🤗 submitted by /u/Baby-hugo- to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -1435,43 +1699,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "3a60ebf0b288",
-   "title": "'Save That Stuff for the Streets of Vice City' — Police Mock Car Chase Criminal for Being Arrested During GTA 6 Release",
-   "first_seen": "2026-11-03T20:01:32Z",
-   "updated": "2026-11-03T20:01:32Z",
-   "items": [
-    {
-     "id": "3a60ebf0b288",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "'Save That Stuff for the Streets of Vice City' — Police Mock Car Chase Criminal for Being Arrested During GTA 6 Release",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzM0VHVmMDM4d0tDWi1DVUFPVHUxYWdCQm5hbkpJVmw5N0pQQTNwSzdabkFQYUV0clUwcnpfNGMwTDE1Yjh1RnFXVFgwdWZpN1UyUHRpSkZDU1AxcjFvN1l3a25wREQ3OUVGY3lqUnA4bEExdEU2cVBYRVQ3VW9ITEhPdDdvbGtxZkJ3djZWZGVYczN3OC03Szk0ZE1DSHUy?oc=5",
-     "ts": "2026-11-03T19:56:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Полиция Вайс-Сити троллит преступника в день выхода GTA 6",
-    "summary": "По данным IGN, в Вайс-Сити полицейские устроили шуточную погоню и арестовали нарушителя в день релиза GTA 6. Офицер подколол задержанного фразой «Save That Stuff for the Streets of Vice City».",
-    "idea": "Короткая погоня и арест с шуткой копа — идеальный комичный фрагмент для нарезки с субтитрами и реакцией чата.",
-    "hook": "Полиция Вайс-Сити поймала парня — и сразу затроллила его за GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-03T20:01:35Z"
-   },
-   "msg_id": 487
   },
   {
    "id": "f2f575993cd3",
@@ -3110,45 +3337,6 @@
    "score": 20,
    "level": "SPECULATION",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "26879c833a8a",
-   "title": "Games Inbox: What’s the first thing you’ll do in GTA 6?",
-   "first_seen": "2026-11-03T02:10:48Z",
-   "updated": "2026-11-03T18:41:00Z",
-   "items": [
-    {
-     "id": "26879c833a8a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Metro.co.uk",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Games Inbox: What’s the first thing you’ll do in GTA 6?",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IQ25lVEpFVFdpa1llUmJkYndqM2I4RE85R3RiU3JmVm1vN25oMGZUcUNTcjFtTDZjZGJwdDdab2ZEc0JtOW03LUtuRjJwS2p5YnBEV2tLWEJwZXZRLTNLMW0tTmtJLUM2WFEwOW84TlVRcndSQ3Z3dUp30gF_QVVfeXFMTllFSmlLMXNpTDdwQUR4YU1ReC1taTNMcHZta1lpYXJYZUpUQUJGLVJQRWItMDVOX2FJNWZsTDVSTU9vNjJFdTY2QXcxMzdaNmhiRGlVLURFeklIWlRqWkxSWmZZMGxjLU9xTENtbVJtcjVzanlNcy16azhpdjBtaw?oc=5",
-     "ts": "2026-11-03T02:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "a0c1508caec4",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "First thing you’ll do?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xn17gj/first_thing_youll_do/",
-     "ts": "2026-11-03T18:39:36Z",
-     "summary": "Aside from all the intro missions, what is going to be the first thing you do in GTA 6? submitted by /u/NullByDefault to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -65722,180 +65910,24 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "6ac95339b703",
-   "title": "GTA 6's Download Size Could Be A Major Problem For Some Players",
-   "first_seen": "2026-10-27T00:10:49Z",
-   "updated": "2026-10-27T20:10:48Z",
-   "items": [
-    {
-     "id": "6ac95339b703",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "SVG",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Download Size Could Be A Major Problem For Some Players",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JbUFQYTFyWmNteU96ckl4WHZqNjk3NmR6aUdmQTJaWHNHb21nN1VDU3F5ZXY1MmltRzhmQ0djc0xpTm9LRVBpRWRQWGg3WG5na0hWZ1k1UHltSklYbXhZTlFrOGlCb1k?oc=5",
-     "ts": "2026-10-27T00:03:12Z",
-     "summary": ""
-    },
-    {
-     "id": "a9565651718e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "DualShockers",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Players Are Freaking Out Over GTA 6's Download Size",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX05pM2RMb3YwamRvcTJ3Z2lWckhSZ0NDS3ktWWJqQlBtTVRJT2gzeUNZTjloUWJ2bHpoeFlXQkk3Z2RiRjZrV2dlbHNUelY3Um9GRFgxNUhOMWk1b0hVZUhVQmtNVjExUWJlQjJpQms3dWhGaE5UYWVqSUlPYmxQczBnZ1ZlM3M?oc=5",
-     "ts": "2026-10-27T19:50:20Z",
-     "summary": ""
-    },
-    {
-     "id": "d8c39729491b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Download Size Could Be A Major Problem For Some Players",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkR5Q1hfYl9xaEJwb2RaM0duaUY5WHIwczZ1MEJ5VS1wQ1NkbEctX212Wkg0bkRTRnl5VkltSGVQM1FzTUtfU3BlRW5mc0x6UUdVS2dWNzdaVGsxbnBfdzlTcGNsQ2F6SHA1aThlcTQzU0pKN0EtVFZFMktlTk1PTGdJckZrVU0?oc=5",
-     "ts": "2026-10-27T00:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "dd03ae9b0d3d",
-   "title": "What do we think of the Lucia Cosplay for a GTA 6 party???",
-   "first_seen": "2026-10-27T20:10:48Z",
-   "updated": "2026-10-27T20:10:48Z",
-   "items": [
-    {
-     "id": "dd03ae9b0d3d",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What do we think of the Lucia Cosplay for a GTA 6 party???",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xh22ja/what_do_we_think_of_the_lucia_cosplay_for_a_gta_6/",
-     "ts": "2026-10-27T19:23:48Z",
-     "summary": "Do you think people will get right away? Not having the pics next to them submitted by /u/Candys_good4u to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "904b9211c222",
-   "title": "Made this concept box art / poster because I cannot contain my excitement",
-   "first_seen": "2026-10-27T20:10:48Z",
-   "updated": "2026-10-27T20:10:48Z",
-   "items": [
-    {
-     "id": "904b9211c222",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Made this concept box art / poster because I cannot contain my excitement",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xh2d7x/made_this_concept_box_art_poster_because_i_cannot/",
-     "ts": "2026-10-27T19:34:52Z",
-     "summary": "hope yall fw it. My interpretation of their iconic tile style box arts. Pretty happy with how it turned out🤷‍♂️ submitted by /u/Slotherocious to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "393dd514552d",
-   "title": "'Grand Theft Auto VI' sales would astonish the 'godfather of video games' if it hit this number",
-   "first_seen": "2026-10-27T20:10:48Z",
-   "updated": "2026-10-27T20:10:48Z",
-   "items": [
-    {
-     "id": "393dd514552d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Finance",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' sales would astonish the 'godfather of video games' if it hit this number",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX0JTMTd1Q1laWl9BN3JRcUJDSnViM09BSlpSYmg3emJIaWx5cC02US00ZnlTbGhlb2J6MThJZUM4ZDVuWm5xRWFld1VZXzBpLXpWYVIyemtXeEtjN3gtWjFvZ3d4cHMwd1pwRG1nQmN2VURsVWlUN3QxaEdSbU9HOXluMGV4bDNvNHgyN3pnN01Xd3YyTXEzSzQ1ZHUyZUhjMVpVZWxJOUxQcGJLSzhXWm81ZkFVWWM2VUxuVldLZy1EZkc3ZC11b3hKeENjTjU5cWZUeFFyRVhwNlVxN3FTYXZ3?oc=5",
-     "ts": "2026-10-27T19:55:52Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "84af8b5db1ef",
-   "title": "Mute The GTA6 Sub When It Comes Out. Save Yourself the Headache.",
-   "first_seen": "2026-10-27T20:10:48Z",
-   "updated": "2026-10-27T20:10:48Z",
-   "items": [
-    {
-     "id": "84af8b5db1ef",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Mute The GTA6 Sub When It Comes Out. Save Yourself the Headache.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xh3bk5/mute_the_gta6_sub_when_it_comes_out_save_yourself/",
-     "ts": "2026-10-27T20:10:23Z",
-     "summary": "Do yourself a favor and mute this sub when GTA 6 comes out. Regardless of how good the game actually is, there’s going to be a loud minority complaining about every little thing and trying to convince everyone the game is a disappointment. People will nitpick every mechanic, compare it to GTA 5, complain about missing features, and act like the entire game is ruined because one thing didn’t meet their expectations. Don’t let other people’s negativity ruin your excitement. You’ve waited over a decade for this game. Enjoy it for yourself and form your own opinions instead of letting Reddit tell "
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T20:01:36Z",
+  "last_run": "2026-11-03T20:11:02Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 98/100",
-   "gnews_ru: 89/100",
+   "gnews_ru: 88/100",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
-   "ign: 0/20",
+   "ign: 2/20",
    "eurogamer: 1/100",
    "dexerto_gta: 5/50",
    "rockstarintel: 2/10",
    "gtaboom: 6/30",
-   "reddit: 23/25",
+   "reddit: 24/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 7/15",
    "tg_gta6_m: 7/17",
