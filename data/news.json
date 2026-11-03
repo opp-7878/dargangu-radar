@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "a5242a95624c",
+   "title": "PS5 доступны для всех: Sony скупает подержанные консоли в преддверии выхода GTA 6",
+   "first_seen": "2026-11-03T09:40:54Z",
+   "updated": "2026-11-03T09:40:54Z",
+   "items": [
+    {
+     "id": "a5242a95624c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ITC.ua",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "PS5 доступны для всех: Sony скупает подержанные консоли в преддверии выхода GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQODdIRGFLRUk4akRYT1o2WlVmTng1R1RQek9oZ2sxSFZXM1d6RXRhZTBYT2hBSVM3cVpqZTVET0RwdHlfNmNqNHZ1QkhwbmRyOHp3TzFTVnB5Tk9rWmNfeGR6QnJyNkNhMXl6UVFTdHNzLUh0TTN0d0FVaHR4dnFlWGxSTGdzNVpZbVR0bFZlUDRLQUt5cmRmOUZSZnpxS3E3YmxqS1FB0gGrAUFVX3lxTFBhVTl4TXdzc283TDhkNVR4alR1RFpxUTExandZVzZBb3hjeFBOTVFuS3BRYXN2R0xzeDlTQk5BcXBLRV8xNVE2TFg2Z1pyVFh4RW54NWppRmJxUHltRVIzUHRJajM2ZERMZ290WHV5dkNFOVF6THA4N1ZHaFVsZDlrZUtHZ3JzQVRVLWlwYTJUb2pkS3YtT1VkMkxxa3haWHJRclRrWVlCR01RVQ?oc=5",
+     "ts": "2026-11-03T09:28:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1f973b487cf7",
+   "title": "$101 customs charge on a GTA Vice City hoodie from Miami Heat Store?!",
+   "first_seen": "2026-11-03T09:40:54Z",
+   "updated": "2026-11-03T09:40:54Z",
+   "items": [
+    {
+     "id": "1f973b487cf7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "$101 customs charge on a GTA Vice City hoodie from Miami Heat Store?!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmom3c/101_customs_charge_on_a_gta_vice_city_hoodie_from/",
+     "ts": "2026-11-03T09:34:54Z",
+     "summary": "Hey everyone! Ordered the GTA Vice City hoodie for my boyfriend directly from the official Miami HEAT Store to Canada for around $173 CAD. DHL is now asking for another $101.91 in customs charges! Breakdown: GST: $10.64 SIMA surtax: $70.93 DHL processing: $20.34 The customs declaration lists the country of origin as USA. Has anyone in Canada ordered this hoodie? Is this 50% surtax correct? Can I dispute it if the hoodie was actually manufactured outside the US? At this point, the hoodie is costing me almost $275 CAD. 😭 Any advice appreciated! submitted by /u/Independent_Part9725 to r/GTA6 [lin"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "73731035ff37",
    "title": "Birthday shared with GTA 6 release",
    "first_seen": "2026-11-03T09:31:07Z",
@@ -60527,41 +60581,15 @@
     "at": "2026-10-27T10:10:58Z"
    },
    "msg_id": 198
-  },
-  {
-   "id": "4e43f3c2cf0f",
-   "title": "GTA 6 Ads Light Up Camp Nou During Real Madrid’s El Clasico Win",
-   "first_seen": "2026-10-27T09:40:50Z",
-   "updated": "2026-10-27T09:40:50Z",
-   "items": [
-    {
-     "id": "4e43f3c2cf0f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "eGamers.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Ads Light Up Camp Nou During Real Madrid’s El Clasico Win",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMUZkdDd6N1VGMHpweDFnTVRzU1Q5STU3bWowZnhyelhiZ3R1ZzZxVnBWdVRYbmxjSGt5Tl9GdDhGNy01SERNUjctMWIzZkhudXZkZ1Z5cF9yakNNLXlJSUtmal9rSjVMWk03REN4OTFMZWYyOWFHZ203NHJqNXh2aEE5VmUtcTFnSWc?oc=5",
-     "ts": "2026-10-27T09:34:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T09:31:07Z",
+  "last_run": "2026-11-03T09:40:54Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 96/100",
-   "gnews_ru: 54/73",
+   "gnews_ru: 51/71",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
