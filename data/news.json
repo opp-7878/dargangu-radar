@@ -1,6 +1,97 @@
 {
  "stories": [
   {
+   "id": "3a60ebf0b288",
+   "title": "'Save That Stuff for the Streets of Vice City' — Police Mock Car Chase Criminal for Being Arrested During GTA 6 Release",
+   "first_seen": "2026-11-03T20:01:32Z",
+   "updated": "2026-11-03T20:21:13Z",
+   "items": [
+    {
+     "id": "3a60ebf0b288",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "'Save That Stuff for the Streets of Vice City' — Police Mock Car Chase Criminal for Being Arrested During GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzM0VHVmMDM4d0tDWi1DVUFPVHUxYWdCQm5hbkpJVmw5N0pQQTNwSzdabkFQYUV0clUwcnpfNGMwTDE1Yjh1RnFXVFgwdWZpN1UyUHRpSkZDU1AxcjFvN1l3a25wREQ3OUVGY3lqUnA4bEExdEU2cVBYRVQ3VW9ITEhPdDdvbGtxZkJ3djZWZGVYczN3OC03Szk0ZE1DSHUy?oc=5",
+     "ts": "2026-11-03T19:56:46Z",
+     "summary": ""
+    },
+    {
+     "id": "0ec35dde7b17",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
+     "url": "https://www.ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release",
+     "ts": "2026-11-03T19:56:45Z",
+     "summary": "Police in Derbyshire, UK, are going viral after making a TikTok video mocking a criminal who led them on a high-speed car chase, saying the suspect will now miss out on GTA 6’s highly-anticipated launch as a consequence of their actions."
+    },
+    {
+     "id": "7d2bd1bfb9b0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaDh6RTdYQ1JLeS1BT2FvOFVydmIyS1JYdzJVY3VNOXZhWFVid3FrUHlvM0VHek5kMVZBM2VUempPUmRrcTZvY3NkTGdZRWs0RENoVWYtSmp6Qy1GcXFxTkcwcWJQd0FwTHhsMk8tb0ZnX1RZTFNkNjdib2xLbkVIbllocGVJSUlDOXgtRHpJdTd5MGFtMldCeDFKa0d4aWtTWXFTYkptVGNYbGJSdWRlUVlUNzhZQThKVU9NMWl0VzdwN3R4cEtFZmF6Vm9RZjBNWGg0Mg?oc=5",
+     "ts": "2026-11-03T20:12:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Полиция Вайс-Сити троллит преступника в день выхода GTA 6",
+    "summary": "По данным IGN, в Вайс-Сити полицейские устроили шуточную погоню и арестовали нарушителя в день релиза GTA 6. Офицер подколол задержанного фразой «Save That Stuff for the Streets of Vice City».",
+    "idea": "Короткая погоня и арест с шуткой копа — идеальный комичный фрагмент для нарезки с субтитрами и реакцией чата.",
+    "hook": "Полиция Вайс-Сити поймала парня — и сразу затроллила его за GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-03T20:01:35Z"
+   },
+   "msg_id": 487
+  },
+  {
+   "id": "e72a04de8554",
+   "title": "What are we expecting for GTA VI online?",
+   "first_seen": "2026-11-03T20:21:13Z",
+   "updated": "2026-11-03T20:21:13Z",
+   "items": [
+    {
+     "id": "e72a04de8554",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What are we expecting for GTA VI online?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xn3zr2/what_are_we_expecting_for_gta_vi_online/",
+     "ts": "2026-11-03T20:20:42Z",
+     "summary": "Firstly, when are people expecting GTA online to be available? And what are peoples expectations for GTA VI online? How will money be made? What kind of businesses will people be able to set up? What kind of items will be available to buy with their cold hard GTA cash? submitted by /u/Storyboys to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e07aa903f378",
    "title": "Rockstar details Grand Theft Auto 6 pre-load date and time, and file size",
    "first_seen": "2026-11-03T01:20:58Z",
@@ -1277,56 +1368,6 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "3a60ebf0b288",
-   "title": "'Save That Stuff for the Streets of Vice City' — Police Mock Car Chase Criminal for Being Arrested During GTA 6 Release",
-   "first_seen": "2026-11-03T20:01:32Z",
-   "updated": "2026-11-03T20:11:02Z",
-   "items": [
-    {
-     "id": "3a60ebf0b288",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "'Save That Stuff for the Streets of Vice City' — Police Mock Car Chase Criminal for Being Arrested During GTA 6 Release",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzM0VHVmMDM4d0tDWi1DVUFPVHUxYWdCQm5hbkpJVmw5N0pQQTNwSzdabkFQYUV0clUwcnpfNGMwTDE1Yjh1RnFXVFgwdWZpN1UyUHRpSkZDU1AxcjFvN1l3a25wREQ3OUVGY3lqUnA4bEExdEU2cVBYRVQ3VW9ITEhPdDdvbGtxZkJ3djZWZGVYczN3OC03Szk0ZE1DSHUy?oc=5",
-     "ts": "2026-11-03T19:56:46Z",
-     "summary": ""
-    },
-    {
-     "id": "0ec35dde7b17",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
-     "url": "https://www.ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release",
-     "ts": "2026-11-03T19:56:45Z",
-     "summary": "Police in Derbyshire, UK, are going viral after making a TikTok video mocking a criminal who led them on a high-speed car chase, saying the suspect will now miss out on GTA 6’s highly-anticipated launch as a consequence of their actions."
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Полиция Вайс-Сити троллит преступника в день выхода GTA 6",
-    "summary": "По данным IGN, в Вайс-Сити полицейские устроили шуточную погоню и арестовали нарушителя в день релиза GTA 6. Офицер подколол задержанного фразой «Save That Stuff for the Streets of Vice City».",
-    "idea": "Короткая погоня и арест с шуткой копа — идеальный комичный фрагмент для нарезки с субтитрами и реакцией чата.",
-    "hook": "Полиция Вайс-Сити поймала парня — и сразу затроллила его за GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-03T20:01:35Z"
-   },
-   "msg_id": 487
   },
   {
    "id": "26879c833a8a",
@@ -65884,37 +65925,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "fa9a3071b9b2",
-   "title": "Pokémon Officially Lands Game of the Year Nomination as GTA 6 Misses Out",
-   "first_seen": "2026-10-27T20:20:52Z",
-   "updated": "2026-10-27T20:20:52Z",
-   "items": [
-    {
-     "id": "fa9a3071b9b2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Comic Book Resources",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Pokémon Officially Lands Game of the Year Nomination as GTA 6 Misses Out",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XNnNlMHBVR2JkRjFVY09MREExdUQtTXpoV0N3bmRJYTZzM3FzSGVockpCMTJlWk9ud0JtOW16U2d1TV9jYkhyRGtDbmlURUZzSlZSa0hZMGhvenp3QTU5UE5VdE91TFRpQllnT1JzN1FzeVd2cDU4Yjl3?oc=5",
-     "ts": "2026-10-27T20:20:02Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T20:11:02Z",
+  "last_run": "2026-11-03T20:21:13Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 98/100",
