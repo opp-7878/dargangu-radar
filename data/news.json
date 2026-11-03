@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "f1400060d839",
+   "title": "Is GTA 6 Safe for Kids? Rated M 17+ Parent Guide [2026]",
+   "first_seen": "2026-11-03T01:31:10Z",
+   "updated": "2026-11-03T01:31:10Z",
+   "items": [
+    {
+     "id": "f1400060d839",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "tech-insider.org",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Is GTA 6 Safe for Kids? Rated M 17+ Parent Guide [2026]",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2t1OUJRZ1VEQndKZktONkdULVh3MHNYNk9tNUktb3FLMGJpT2FDMUotQmpuUDdGaUtCX1Jxd0RmamdlYWhXX1JxLVk5MlNCT1U2VndTRlhwYU9WNHlEUG90VmlBMTV3NXhhckEwMktCR21yQnVmSUhXckxBbEFVWjRJWWJBUQ?oc=5",
+     "ts": "2026-11-03T01:15:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9281c5370c74",
    "title": "Anyone seeing any GTA 6 advertising in Canada?",
    "first_seen": "2026-11-03T01:20:58Z",
@@ -59516,44 +59542,15 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
-  },
-  {
-   "id": "16e66a834ebc",
-   "title": "We have to talk about the NPC difficulty",
-   "first_seen": "2026-10-27T01:31:05Z",
-   "updated": "2026-10-27T01:31:05Z",
-   "items": [
-    {
-     "id": "16e66a834ebc",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "We have to talk about the NPC difficulty",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xgeylm/we_have_to_talk_about_the_npc_difficulty/",
-     "ts": "2026-10-27T01:07:49Z",
-     "summary": "As we near release date, like everyone else I am extremely impressed with what we've seen. The game appears to be everything we want and more. I've watched every overanalyzing the Extended Look video there is. I've watched every trailer countless times. While Rockstar deliberately went out of their way to show people cough Alex from Digital Foundry cough that \"yes this is exactly what the game will look like, and we've never lied in any of our trailers\", I can't help but nitpick at the elephant in the room. The NPC's are beautiful, they're detailed, they are the most humanlike NPCs we'll exper"
-    }
-   ],
-   "tags": [
-    "дата/перенос",
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T01:20:58Z",
+  "last_run": "2026-11-03T01:31:10Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 96/100",
-   "gnews_ru: 51/79",
+   "gnews_en: 95/100",
+   "gnews_ru: 48/59",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -59562,7 +59559,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 0/30",
-   "reddit: 22/25",
+   "reddit: 20/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/13",
    "tg_gta6_m: 9/17",
