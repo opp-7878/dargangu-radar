@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "c942e487641e",
+   "title": "Guys, I think I bought the wrong GTA 6",
+   "first_seen": "2026-11-03T04:20:53Z",
+   "updated": "2026-11-03T04:20:53Z",
+   "items": [
+    {
+     "id": "c942e487641e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Guys, I think I bought the wrong GTA 6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmj85i/guys_i_think_i_bought_the_wrong_gta_6/",
+     "ts": "2026-11-03T04:15:58Z",
+     "summary": "submitted by /u/Worried_Reading_9790 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e07aa903f378",
    "title": "GTA 6 Launch Guide: PS5 Requirements, Preorder Bonuses, Physical Copies & Key Dates",
    "first_seen": "2026-11-03T01:20:58Z",
@@ -60059,11 +60085,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T04:10:53Z",
+  "last_run": "2026-11-03T04:20:53Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 96/100",
-   "gnews_ru: 51/63",
+   "gnews_en: 95/100",
+   "gnews_ru: 51/62",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -60072,7 +60098,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 1/30",
-   "reddit: 23/25",
+   "reddit: 24/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/13",
    "tg_gta6_m: 9/17",
