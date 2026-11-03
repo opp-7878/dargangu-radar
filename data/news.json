@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "d9cdc02b6c9b",
+   "title": "PlayStation reportedly bans account for GTA 6 leak shared in PS App messaging",
+   "first_seen": "2026-11-03T03:10:51Z",
+   "updated": "2026-11-03T03:10:51Z",
+   "items": [
+    {
+     "id": "d9cdc02b6c9b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation reportedly bans account for GTA 6 leak shared in PS App messaging",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdlFVTThBTUNOelJKNnE4MEZPdGVwR0p6SGROLXB2b3ZWRUF1QzEzOC1UT0NqYnVOZ0Q2czZTMDNpQlJ5a1hQT004YzFVeHk1MGJfOGcwX1Rkc1hvU0duZmphNWE0V3RSUXBBTWRzRzJDS2FCT3ZEWjdZVEdxa2lob21YckQ2a0hiUzlYelJOZEpvek9uX1ZIZGhvUEk4b01QYjJvckZzRFJBOGxOXzkzUlBvTmQzZG9iN2NkdGUzaw?oc=5",
+     "ts": "2026-11-03T02:49:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 65,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Бан PlayStation за слитый GTA 6 в PS App — что известно",
+    "summary": "По данным Notebookcheck, PlayStation заблокировала аккаунт за то, что игрок поделился сливом GTA 6 в сообщениях PS App. Официально Sony и Rockstar это не подтверждали.",
+    "idea": "Короткая история «за что банят в PS App» с показом скриншота новости и реакции чата — зрителям важно знать, как не словить бан.",
+    "hook": "Забанили за GTA 6 в PS App? Вот что пишет Notebookcheck.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-03T03:10:55Z"
+   },
+   "msg_id": 449
+  },
+  {
+   "id": "adb613af3f12",
+   "title": "Yall playing on Tv or monitor? Here’s my setup",
+   "first_seen": "2026-11-03T03:10:51Z",
+   "updated": "2026-11-03T03:10:51Z",
+   "items": [
+    {
+     "id": "adb613af3f12",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Yall playing on Tv or monitor? Here’s my setup",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmhuk6/yall_playing_on_tv_or_monitor_heres_my_setup/",
+     "ts": "2026-11-03T03:07:14Z",
+     "summary": "submitted by /u/Stevenray94 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e07aa903f378",
    "title": "GTA 6 Launch Guide: PS5 Requirements, Preorder Bonuses, Physical Copies & Key Dates",
    "first_seen": "2026-11-03T01:20:58Z",
@@ -59807,11 +59872,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T03:01:20Z",
+  "last_run": "2026-11-03T03:10:56Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 95/100",
-   "gnews_ru: 53/77",
+   "gnews_en: 96/100",
+   "gnews_ru: 49/60",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -59820,7 +59885,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 1/30",
-   "reddit: 22/25",
+   "reddit: 23/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/13",
    "tg_gta6_m: 9/17",
