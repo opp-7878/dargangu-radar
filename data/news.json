@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "24d891d8ed0d",
+   "title": "Ad being applied on a bus (Portugal)",
+   "first_seen": "2026-11-03T09:20:57Z",
+   "updated": "2026-11-03T09:20:57Z",
+   "items": [
+    {
+     "id": "24d891d8ed0d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Ad being applied on a bus (Portugal)",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmobi2/ad_being_applied_on_a_bus_portugal/",
+     "ts": "2026-11-03T09:16:39Z",
+     "summary": "submitted by /u/Visara57 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "7e96d06160e8",
    "title": "Global release timing",
    "first_seen": "2026-11-03T07:40:55Z",
@@ -60648,11 +60674,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T09:10:54Z",
+  "last_run": "2026-11-03T09:20:57Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 96/100",
-   "gnews_ru: 49/58",
+   "gnews_ru: 48/58",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
