@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "597d8944cc11",
+   "title": "10 Things You Need to Know Before GTA 6 Comes Out",
+   "first_seen": "2026-11-03T08:01:17Z",
+   "updated": "2026-11-03T08:01:17Z",
+   "items": [
+    {
+     "id": "597d8944cc11",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "10 Things You Need to Know Before GTA 6 Comes Out",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaUtPYW56d3otdXdrbmNKbmROQl9vTDFzVWltQ21MZC0ycXFfamNBMXUzdkJvTDdfeGdWVzZJUnhDZmQ1blFDN0dtQy1fTVdRVGlSeUV3SmIzb05jYklnZDMtN0lxempkNWNob1FDQWNtZk9QRlhDTzBTLUxONVpXeU5FSQ?oc=5",
+     "ts": "2026-11-03T07:56:16Z",
+     "summary": ""
+    },
+    {
+     "id": "f935f192de7a",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "10 Things You Need to Know Before GTA 6 Comes Out",
+     "url": "https://insider-gaming.com/10-things-you-need-to-know-before-gta-6-comes-out/",
+     "ts": "2026-11-03T07:56:16Z",
+     "summary": "Grand Theft Auto 6 is almost here, but before it arrives, you can prepare a little by checking out this 'things you need to know' breakdown. The post 10 Things You Need to Know Before GTA 6 Comes Out appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "10 вещей, которые нужно знать перед выходом GTA 6",
+    "summary": "Insider Gaming опубликовал подборку из 10 фактов, которые стоит знать перед выходом GTA 6. Материал собрал ключевые детали и советы для игроков перед релизом.",
+    "idea": "Короткий топ-5 фактов из подборки Insider Gaming с таймерами и визуальными подсказками. Зрителю важно быстро понять, что проверить и подготовить к релизу.",
+    "hook": "До GTA 6 считанные дни — вот 5 вещей, которые нужно сделать прямо сейчас.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-03T08:01:20Z"
+   },
+   "msg_id": 453
+  },
+  {
+   "id": "9f7121b6a2b0",
+   "title": "What you think i can do to make money at nov 19 While millions of people lock in to play gta6???",
+   "first_seen": "2026-11-03T08:01:17Z",
+   "updated": "2026-11-03T08:01:17Z",
+   "items": [
+    {
+     "id": "9f7121b6a2b0",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What you think i can do to make money at nov 19 While millions of people lock in to play gta6???",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmn490/what_you_think_i_can_do_to_make_money_at_nov_19/",
+     "ts": "2026-11-03T08:00:16Z",
+     "summary": "Hey i think that millions of people that are employed and have a job will not work when gta6 drops, some might even left or get fired bcz of this game 😂💀(we live in a weird generation you all know!!!) I am a poor person, in verge of becoming homeless But i have a good Decent gaming laptop and internet connection and obviously my galaxy a52 in my hand 😅 I think there might be a great opportunity for me to make some quick bucks online in first month of release !!!!! If i could make 10 - 20 dollars a day that would be life-changing for me, bcz i live in a third world country! What you guys think?"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c36d5b3c7947",
    "title": "OnlyVoid died, Rest In Peace 🙏🏻🕊",
    "first_seen": "2026-11-03T07:50:53Z",
@@ -60620,14 +60698,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T07:50:53Z",
+  "last_run": "2026-11-03T08:01:21Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 95/100",
-   "gnews_ru: 56/75",
+   "gnews_ru: 51/60",
    "gamesbeat: 1/10",
    "vgc: 0/10",
-   "insider_gaming: 4/10",
+   "insider_gaming: 5/10",
    "ign: 2/20",
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
