@@ -1,6 +1,82 @@
 {
  "stories": [
   {
+   "id": "db2e525343fc",
+   "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
+   "first_seen": "2026-11-02T23:50:49Z",
+   "updated": "2026-11-03T00:31:05Z",
+   "items": [
+    {
+     "id": "db2e525343fc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOUhTS2xlM3JsdDdLWk82WFAtR2xPWFY2UmE1bVVEUHFIOWZTdTR1amo1ejJzeUVkYjhGYjlLMW5YMThpOGJlckw1Z1dkY3paSlhnOEdZZUJjUjNZRTA2QlhUZDEwV212UmVPNHhVZVpLcXBvUC03cXhYN0poU3dTd1c0anJscmZ5YXRzTmhUQjI3dk40LXlpZEtFQVJ2RXFSOGVYMXpYSjRkcVljb09raFNWNmNTNEVJRG9wX19zNXc5NjNzWkJWLWtDVkh5dmNwSF9qWWlwemg?oc=5",
+     "ts": "2026-11-02T23:32:25Z",
+     "summary": ""
+    },
+    {
+     "id": "53333da6ce73",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN India",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOGZFNjhVQXBQdTNFN0w3enp5Q2txaHhoRWxaWlg4OVU1QS1ldUJVZG42Nl83M0R1cFlWbjAycy01VnctSm5pWllOb2E5b2RFaTFOYUhGN01vN3dUcTdKN2UtdnBYYTh4X25ZZDZiT0pRcWpvbjEtM215VW1PRGRpZUFveXM3czJWRjhiM2dzTGZYWmM3M0lPU2FlQ0J1cldXRE5TakVqV0hRTEVIR014WnhFUlpDT3NiSmFmX3BuaEx3bFJzM2c?oc=5",
+     "ts": "2026-11-02T23:27:21Z",
+     "summary": ""
+    },
+    {
+     "id": "5ef88ca8ac28",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
+     "url": "https://www.ign.com/articles/terminally-ill-gta-6-fan-dies-three-weeks-before-games-launch-fans-pay-their-respects",
+     "ts": "2026-11-02T23:12:25Z",
+     "summary": "A terminally ill GTA 6 fan has died three weeks before the game's launch."
+    },
+    {
+     "id": "633d552db84e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWGxrSnFCYi1nOHRZWEFHbzBoQmc4ak51T2owQ0U0SFFhUGVfaDEwRHdoOGtQYVh2TDFQUmdmVmZ5bHZjOENJbnVHLXczbE1Ic3lLOC1vX01ZUUtzeTNWZjBHMHVBWW9wa2ZHRjU5cmllRk90alJ5M0tqVlM5ekV5OUpsMEpTSGRVN2FBQXhsVW5CLWk3X1hUNDNmeUhBNFJ4aTBKUEQyUkRUMERLOVV1Vms5TTdZdHVGdE5ERzVHaVZsTk1UQnBMUkFRWHA0amMzNF9YLV9lNUVldw?oc=5",
+     "ts": "2026-11-03T00:02:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 94,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Фанат GTA 6 не дожил до релиза 3 недели. Игроки чтят память",
+    "summary": "По данным IGN Pakistan и IGN India, тяжело больной фанат GTA 6 скончался за три недели до выхода игры. Игроки выражают соболезнования и чтят память.",
+    "idea": "Короткая дань памяти: кадры с соболезнованиями и цитаты игроков. Зрителю откликнется человеческая история ожидания GTA 6.",
+    "hook": "Он ждал GTA 6 годами и не дожил до релиза три недели.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-03T00:01:24Z"
+   },
+   "msg_id": 447
+  },
+  {
    "id": "57d2f712f33f",
    "title": "My school exams really dont want me to play gta 6",
    "first_seen": "2026-11-03T00:21:12Z",
@@ -51,69 +127,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "db2e525343fc",
-   "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
-   "first_seen": "2026-11-02T23:50:49Z",
-   "updated": "2026-11-03T00:10:54Z",
-   "items": [
-    {
-     "id": "db2e525343fc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOUhTS2xlM3JsdDdLWk82WFAtR2xPWFY2UmE1bVVEUHFIOWZTdTR1amo1ejJzeUVkYjhGYjlLMW5YMThpOGJlckw1Z1dkY3paSlhnOEdZZUJjUjNZRTA2QlhUZDEwV212UmVPNHhVZVpLcXBvUC03cXhYN0poU3dTd1c0anJscmZ5YXRzTmhUQjI3dk40LXlpZEtFQVJ2RXFSOGVYMXpYSjRkcVljb09raFNWNmNTNEVJRG9wX19zNXc5NjNzWkJWLWtDVkh5dmNwSF9qWWlwemg?oc=5",
-     "ts": "2026-11-02T23:32:25Z",
-     "summary": ""
-    },
-    {
-     "id": "53333da6ce73",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOGZFNjhVQXBQdTNFN0w3enp5Q2txaHhoRWxaWlg4OVU1QS1ldUJVZG42Nl83M0R1cFlWbjAycy01VnctSm5pWllOb2E5b2RFaTFOYUhGN01vN3dUcTdKN2UtdnBYYTh4X25ZZDZiT0pRcWpvbjEtM215VW1PRGRpZUFveXM3czJWRjhiM2dzTGZYWmM3M0lPU2FlQ0J1cldXRE5TakVqV0hRTEVIR014WnhFUlpDT3NiSmFmX3BuaEx3bFJzM2c?oc=5",
-     "ts": "2026-11-02T23:27:21Z",
-     "summary": ""
-    },
-    {
-     "id": "5ef88ca8ac28",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
-     "url": "https://www.ign.com/articles/terminally-ill-gta-6-fan-dies-three-weeks-before-games-launch-fans-pay-their-respects",
-     "ts": "2026-11-02T23:12:25Z",
-     "summary": "A terminally ill GTA 6 fan has died three weeks before the game's launch."
-    }
-   ],
-   "tags": [],
-   "score": 86,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Фанат GTA 6 не дожил до релиза 3 недели. Игроки чтят память",
-    "summary": "По данным IGN Pakistan и IGN India, тяжело больной фанат GTA 6 скончался за три недели до выхода игры. Игроки выражают соболезнования и чтят память.",
-    "idea": "Короткая дань памяти: кадры с соболезнованиями и цитаты игроков. Зрителю откликнется человеческая история ожидания GTA 6.",
-    "hook": "Он ждал GTA 6 годами и не дожил до релиза три недели.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-03T00:01:24Z"
-   },
-   "msg_id": 447
   },
   {
    "id": "669952d2e2ca",
@@ -59177,80 +59190,15 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
-  },
-  {
-   "id": "e3cf37d8fd68",
-   "title": "Выход GTA 6 увеличил число заявок на отгул 19 ноября на 17%",
-   "first_seen": "2026-10-26T22:40:51Z",
-   "updated": "2026-10-27T00:31:03Z",
-   "items": [
-    {
-     "id": "e3cf37d8fd68",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Выход GTA 6 увеличил число заявок на отгул 19 ноября на 17%",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmdtcFdlbnd2aGM4Ukx4NG8xWnZvXzlkWmg5VmZCalZsb3VFcF9zU18ydmkyeXIzdlFxR0Frbm4wTFdQVEdSOUlfWjU3LTZQLUkzeURhdk5SSVJaT2NiYUZOYnRGMG1UMlFqVjBwSnNac0M4dEZxQVpSdThMYk5wbGotR05TNk1GQXlYQy1zb3kwTFFySWdaNkNvVlJwdFBBQnN2ano1X0xjbmhj?oc=5",
-     "ts": "2026-10-26T22:16:23Z",
-     "summary": ""
-    },
-    {
-     "id": "8116c20f2af3",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Выход GTA 6 увеличил число заявок на отгул 19 ноября на 17%",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVJRcGtXWGZ1RFg2S2p6ZG1nWGdlbUZUOHRHcU55RzhNZFFRanpLeXJmZDZVLUNsV1VKLUk2NEp1TW4yUVh2bW5EM2h0SzNXaGg2S0xVVmY5cXZST3RDR1BvRUc4NnlFT0YtVzE1RTJaNXRQVzg1UFA0a2o0dkxfYWhKRm9rVDltTS14RFk3MzVwVVhUeXlyWU9JOGh4ajhCX3Bkc0pycXlJZl9zTGZ1cHFB?oc=5",
-     "ts": "2026-10-26T22:16:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3858760d5645",
-   "title": "Real World Versions of GTA 6 Beers Are Coming Soon",
-   "first_seen": "2026-10-27T00:31:03Z",
-   "updated": "2026-10-27T00:31:03Z",
-   "items": [
-    {
-     "id": "3858760d5645",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Resell Calendar",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Real World Versions of GTA 6 Beers Are Coming Soon",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0J1bzg3X1dKTC1icl9Lc2FHc0d5YUp1U01UZmhlSm9iUXpfRTJ0V0s4Sms0WnA2OE41VUNxN0RHTG9VSjhHeWw4VVRVRlRyUzFjQXhhNTNiSXNHR0x3X0t2aDZzTmJIel9WUmZsd1VDcHFmSV80MlBNakhDUHN1ZkRLc0ZwenliZEFpRHJ2Y3YxU2ZCWTU0?oc=5",
-     "ts": "2026-10-27T00:25:17Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T00:21:12Z",
+  "last_run": "2026-11-03T00:31:05Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/1",
+   "gnews_en: 96/100",
+   "gnews_ru: 50/61",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
