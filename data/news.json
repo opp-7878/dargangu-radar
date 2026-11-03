@@ -4,7 +4,7 @@
    "id": "d9cdc02b6c9b",
    "title": "PlayStation reportedly bans account for GTA 6 leak shared in PS App messaging",
    "first_seen": "2026-11-03T03:10:51Z",
-   "updated": "2026-11-03T03:10:51Z",
+   "updated": "2026-11-03T03:20:55Z",
    "items": [
     {
      "id": "d9cdc02b6c9b",
@@ -18,12 +18,26 @@
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdlFVTThBTUNOelJKNnE4MEZPdGVwR0p6SGROLXB2b3ZWRUF1QzEzOC1UT0NqYnVOZ0Q2czZTMDNpQlJ5a1hQT004YzFVeHk1MGJfOGcwX1Rkc1hvU0duZmphNWE0V3RSUXBBTWRzRzJDS2FCT3ZEWjdZVEdxa2lob21YckQ2a0hiUzlYelJOZEpvek9uX1ZIZGhvUEk4b01QYjJvckZzRFJBOGxOXzkzUlBvTmQzZG9iN2NkdGUzaw?oc=5",
      "ts": "2026-11-03T02:49:00Z",
      "summary": ""
+    },
+    {
+     "id": "59e5a68f59c3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "https://tech-insider.org/",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation GTA 6 Leak Ban: What Is Confirmed [2026]",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ2VTSjF4NW5JNFZlODE1bjIwVDgzY1M4SEJ1dzVuOGJWRlR3aE5ta0VVUTNZWWdUNk1BcTB2WVZ5eXppZk5lb0w0Y1FVMXhrNGIwRlQ1d3VFYXNmYXZoRkFzUl8zcFk4RzBHOWlET3FYa2xRamtHdEV5VlhndmFmcWRnMjA5VXMtVHg0dw?oc=5",
+     "ts": "2026-11-03T03:09:36Z",
+     "summary": ""
     }
    ],
    "tags": [
+    "анонс",
     "слив"
    ],
-   "score": 65,
+   "score": 73,
    "level": "SPECULATION",
    "alerted": "yellow",
    "status": "new",
@@ -38,6 +52,60 @@
     "at": "2026-11-03T03:10:55Z"
    },
    "msg_id": 449
+  },
+  {
+   "id": "1144f5c65293",
+   "title": "Thinking about pre ordering",
+   "first_seen": "2026-11-03T03:20:55Z",
+   "updated": "2026-11-03T03:20:55Z",
+   "items": [
+    {
+     "id": "1144f5c65293",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Thinking about pre ordering",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xmi3ed/thinking_about_pre_ordering/",
+     "ts": "2026-11-03T03:18:56Z",
+     "summary": "submitted by /u/AssassianNation to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3a0a1fb53e0d",
+   "title": "I'm a little concerned for GTA 6's writing/dialogue",
+   "first_seen": "2026-11-03T03:20:55Z",
+   "updated": "2026-11-03T03:20:55Z",
+   "items": [
+    {
+     "id": "3a0a1fb53e0d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I'm a little concerned for GTA 6's writing/dialogue",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmi46u/im_a_little_concerned_for_gta_6s_writingdialogue/",
+     "ts": "2026-11-03T03:19:59Z",
+     "summary": "Now please know that I'm not trying to just be a contrarian, saying shit like this is my least favorite thing to do and I hate going against the grain with my takes, so I don't really want to say what I'm gonna say but I do want to hear what everyone else's take is. When watching the extended look, I loved almost everything I saw, I thought the gameplay looked way better than RDR 2, the graphics were obviously the best I've ever seen, the set pieces and the physics and almost everything was perfect. I just didn't like the dialogue, I'm very happy it took a very serious tone because my favorite"
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
   },
   {
    "id": "adb613af3f12",
@@ -59872,11 +59940,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T03:10:56Z",
+  "last_run": "2026-11-03T03:20:55Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 96/100",
-   "gnews_ru: 49/60",
+   "gnews_en: 95/100",
+   "gnews_ru: 53/77",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -59885,7 +59953,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 1/30",
-   "reddit: 23/25",
+   "reddit: 24/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/13",
    "tg_gta6_m: 9/17",
