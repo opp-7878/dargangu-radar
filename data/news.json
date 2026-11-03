@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "57d2f712f33f",
+   "title": "My school exams really dont want me to play gta 6",
+   "first_seen": "2026-11-03T00:21:12Z",
+   "updated": "2026-11-03T00:21:12Z",
+   "items": [
+    {
+     "id": "57d2f712f33f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "My school exams really dont want me to play gta 6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xme4ly/my_school_exams_really_dont_want_me_to_play_gta_6/",
+     "ts": "2026-11-03T00:13:40Z",
+     "summary": "submitted by /u/420masterboi to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "eb89d36655d8",
+   "title": "I can’t sleep thinking about November 19th",
+   "first_seen": "2026-11-03T00:21:12Z",
+   "updated": "2026-11-03T00:21:12Z",
+   "items": [
+    {
+     "id": "eb89d36655d8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I can’t sleep thinking about November 19th",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xme5pb/i_cant_sleep_thinking_about_november_19th/",
+     "ts": "2026-11-03T00:15:02Z",
+     "summary": "I can't stop thinking about November 19th. Flashes of Jason and Lucia constantly pop into my head. It's almost like I can feel and talk to them. \"We're coming in a couple weeks don't worry buddy\". November 19th is the day we’ve all been waiting for. Be ready guys cause it's gonna be a fricking movie. submitted by /u/Critical-Damage-5142 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "db2e525343fc",
    "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
    "first_seen": "2026-11-02T23:50:49Z",
@@ -59190,41 +59242,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "487a35d8b25e",
-   "title": "☺️ GTA 6 is currently being marketed in Times Square in NYC.",
-   "first_seen": "2026-10-27T00:20:52Z",
-   "updated": "2026-10-27T00:20:52Z",
-   "items": [
-    {
-     "id": "487a35d8b25e",
-     "src": "tg_gta6newsdaily",
-     "src_name": "TG @gta6newsdaily",
-     "outlet": "",
-     "group": "telegram_en",
-     "weight": 45,
-     "alert": true,
-     "title": "☺️ GTA 6 is currently being marketed in Times Square in NYC.",
-     "url": "https://t.me/gta6newsdaily/5002",
-     "ts": "2026-10-27T00:13:45Z",
-     "summary": "☺️ GTA 6 is currently being marketed in Times Square in NYC. #GTA6 #GTAVI #GTA6News #ViceCity #NYC #RockstarGames"
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T00:10:54Z",
+  "last_run": "2026-11-03T00:21:12Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 96/100",
-   "gnews_ru: 53/84",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
