@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "70963f27b6c3",
+   "title": "Gta 6 spotted in Seoul",
+   "first_seen": "2026-11-03T03:50:57Z",
+   "updated": "2026-11-03T03:50:57Z",
+   "items": [
+    {
+     "id": "70963f27b6c3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Gta 6 spotted in Seoul",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmijwp/gta_6_spotted_in_seoul/",
+     "ts": "2026-11-03T03:41:37Z",
+     "summary": "submitted by /u/OperatorDan2098 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0eb89973eb57",
+   "title": "Harlem, NY / North Holland, LC",
+   "first_seen": "2026-11-03T03:50:57Z",
+   "updated": "2026-11-03T03:50:57Z",
+   "items": [
+    {
+     "id": "0eb89973eb57",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Harlem, NY / North Holland, LC",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmiopd/harlem_ny_north_holland_lc/",
+     "ts": "2026-11-03T03:48:25Z",
+     "summary": "Located at W125th & Lenox Ave. (Malcolm X Blvd.) First MTA authorized ads I’ve seen. I’m sure there’s more. submitted by /u/Neo92boi to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "5eaf757b059a",
    "title": "GTA 6 Safe Houses: Features, Locations, Garages, and Everything We Know",
    "first_seen": "2026-11-03T03:40:57Z",
@@ -60007,11 +60059,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T03:40:57Z",
+  "last_run": "2026-11-03T03:50:57Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
-   "gnews_ru: 50/61",
+   "gnews_ru: 54/79",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -60020,7 +60072,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 1/30",
-   "reddit: 23/25",
+   "reddit: 22/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/13",
    "tg_gta6_m: 9/17",
