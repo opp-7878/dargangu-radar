@@ -4,7 +4,7 @@
    "id": "e07aa903f378",
    "title": "Rockstar details Grand Theft Auto 6 pre-load date and time, and file size",
    "first_seen": "2026-11-03T01:20:58Z",
-   "updated": "2026-11-03T17:31:08Z",
+   "updated": "2026-11-03T17:41:30Z",
    "items": [
     {
      "id": "e07aa903f378",
@@ -954,6 +954,19 @@
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0ZSYjJzQkh4aF9nWE51VGxIdnF0Rl9zeVlDNEpmazFubzlweDRVTXdkY1VZR2VmQUxHX201WTc3Zm9zeXhqNjJNcVhsVE1lckdSckRtWVhwNnNCdTlpX0YwdWZwZ185Q2lJc0E3Q0NHajN3R0d4M2JmWHRHT2hVTTU1TTNlZGIwU1J6NzEzRTNUM0JPS3pIU1puZGo?oc=5",
      "ts": "2026-11-03T17:15:00Z",
      "summary": ""
+    },
+    {
+     "id": "1c4bc713d87d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Preload is up to 212GB. Plus information about preload times.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmzfox/preload_is_up_to_212gb_plus_information_about/",
+     "ts": "2026-11-03T17:36:06Z",
+     "summary": "submitted by /u/hopperlocks to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [
@@ -964,6 +977,205 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "5d4002461796",
+   "title": "Bethesda reveals Elder Scrolls 6 title, likely location, and that there will be life after GTA VI",
+   "first_seen": "2026-11-02T18:51:01Z",
+   "updated": "2026-11-03T17:41:30Z",
+   "items": [
+    {
+     "id": "5d4002461796",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "HotHardware",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Elder Scrolls 6 May Get Big Reveal Before GTA 6 Arrives This Month",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45V1luS0NiMlhTUEJVc3p3NzYtLWsxYkNyaTdUczBfRUJCMEpSWmJXZXNWUUQ2VFZ6elRlXzRia2VFRGNPS3BQcC1XaVhXV1NidXRKSkpuYzVXMjJwemV5MWNXRXVJV0lGdVdNaUJsZVJSMUdQZjFj?oc=5",
+     "ts": "2026-11-02T17:40:00Z",
+     "summary": ""
+    },
+    {
+     "id": "64b686ed6f4a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesBeat",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "Bethesda reveals Elder Scrolls 6 title, likely location, and that there will be life after GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOThqRUVmMG1XRUQ1WkNtT1VvUkxHYmYtUE5XTS1pMzNrNi15c1YwQjQzQk42NHZFSFBwM2NkWE14VmQ1Tno2LThFT3NuMjR1Z2xfUTU2WmZzRHNrTWtkLVZ2NF84NzFMWU9UR2psQ2xBLTBBNno0U2VSel9FR1lyNDRlMkpXWmZVbG9zczhrNm9pNWFBR2dlQ2FqSEVseU9pUC1XbDJDd1lhZzVORlUyWWFzcWcyNHZwWUE?oc=5",
+     "ts": "2026-11-03T17:37:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 98,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "0446bf0daa5e",
+   "title": "И её нет: PS5 Pro смели в США с полок после демонстрации GTA 6",
+   "first_seen": "2026-11-03T17:41:30Z",
+   "updated": "2026-11-03T17:41:30Z",
+   "items": [
+    {
+     "id": "0446bf0daa5e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "И её нет: PS5 Pro смели в США с полок после демонстрации GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcWpVS2lFMTJqZFZNSDlDRjhtSWFjaUNIYTdlc3g1d2d0RGJjeXktVVE5QVNSYzhyZGVxWjlOcjJZOG5LZURmWHJyNy1xOE9QblU1Z3BqRDZZU3FuWlg1V0dvMHlpdXpIUnloaTQ2Vk1UVlRObm92YTVqdXRnaUYyT3Fhd1dIXzFGR09WSVIyMUNlc05L?oc=5",
+     "ts": "2026-11-03T10:47:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c4640b1a5bb8",
+   "title": "Stronghold 4 “ran away” from GTA VI and the new Warhammer 40,000: Dawn of War IV — the game will not be released in 2026",
+   "first_seen": "2026-11-03T17:41:30Z",
+   "updated": "2026-11-03T17:41:30Z",
+   "items": [
+    {
+     "id": "c4640b1a5bb8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iXBT.games",
+     "group": "media",
+     "weight": 45,
+     "alert": true,
+     "title": "Stronghold 4 “ran away” from GTA VI and the new Warhammer 40,000: Dawn of War IV — the game will not be released in 2026",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSnc1eHpUOTNoNXhiLV9lMkotaE1KOW1Tbnowc2FrcXZBaG84dDJ4NXJESWdzdkpteWw5QkhucFNKU3RmajhsSFI3ZlJWbkNRWXRLeGl5UEdNZk9BdlFFaktQVVNGRjJ6Z0xWdEUxQlVCenJaMm10d0NYSHk0QWFHSWdXVXBERVBIOFJnOVRGNncwYkhVSU1EUURZempwcy1aaFNTQlBQbFlReXVjTE5QZk1WOWw4aFhkZXdNUWRITVVSdFRVSGx0ZFlMNkxia3Zrc2ZZOUd30gHbAUFVX3lxTE13dDcwczhSVUc0eElEVTJLSldPV0QzWFprZ181bXhET0tUdW5DVURXNkg4bVBNRFRoT2ZiWkpvWVpVQU1SVzF3UUZoQlF2S0JpamVRa2o5dmZrcy1rUzRnU2VQNmdYaXZhOW9tclU3UmdzS3ZQY25YZ0F3aWtNdFhRMzRZczZzeHpoZm9hdUNjQ012a3hySjJpaGxCS2hsQ285Qm04ZmUyakdoWXVVYUNDZm8wVnNjNHFxYVYzWENvSzBTV2dNdnQ1Y3FsaTNFMWZxcDZKeGVtZlZobw?oc=5",
+     "ts": "2026-11-03T17:08:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a479d95ee71f",
+   "title": "Would it be possible to kill a bear, with bare handed or with brass knuckles if all of Jason's stats were 100% maxed out?",
+   "first_seen": "2026-11-03T17:41:30Z",
+   "updated": "2026-11-03T17:41:30Z",
+   "items": [
+    {
+     "id": "a479d95ee71f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Would it be possible to kill a bear, with bare handed or with brass knuckles if all of Jason's stats were 100% maxed out?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmzcby/would_it_be_possible_to_kill_a_bear_with_bare/",
+     "ts": "2026-11-03T17:32:43Z",
+     "summary": "This is probably a really dumb question to ask but I want to see y'all's thoughts. if we have Jasons stats 100% maxed out do you think it would possibly to kill a bear with our bare hands or better yet just to give him a little more of an advantage, give Jason some brass knuckles. Do y'all think it would be possible? submitted by /u/Beacemakur90 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0e3ef362913e",
+   "title": "Comparison of the new screenshot with real life, taken from the same angle.",
+   "first_seen": "2026-11-03T17:41:30Z",
+   "updated": "2026-11-03T17:41:30Z",
+   "items": [
+    {
+     "id": "0e3ef362913e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Comparison of the new screenshot with real life, taken from the same angle.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmzeea/comparison_of_the_new_screenshot_with_real_life/",
+     "ts": "2026-11-03T17:34:50Z",
+     "summary": "The view is facing southwest, as seen from Joia Beach on Watson Island. submitted by /u/Alex200496 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7a1b4d2c0bf3",
+   "title": "For some reason it started pre-loading earlier for me, is it a bug?",
+   "first_seen": "2026-11-03T17:41:30Z",
+   "updated": "2026-11-03T17:41:30Z",
+   "items": [
+    {
+     "id": "7a1b4d2c0bf3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "For some reason it started pre-loading earlier for me, is it a bug?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmzei6/for_some_reason_it_started_preloading_earlier_for/",
+     "ts": "2026-11-03T17:34:55Z",
+     "summary": "submitted by /u/Aloha435 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "215e8de42b85",
+   "title": "can someone tell me the difference between these 2 CDs",
+   "first_seen": "2026-11-03T17:41:30Z",
+   "updated": "2026-11-03T17:41:30Z",
+   "items": [
+    {
+     "id": "215e8de42b85",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "can someone tell me the difference between these 2 CDs",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmzjfk/can_someone_tell_me_the_difference_between_these/",
+     "ts": "2026-11-03T17:39:57Z",
+     "summary": "i read the description and they seem to be the same thing, just a different album cover and cd print. does anybody know what the difference is? submitted by /u/piganators1 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -14018,36 +14230,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "5d4002461796",
-   "title": "The Elder Scrolls 6 May Get Big Reveal Before GTA 6 Arrives This Month",
-   "first_seen": "2026-11-02T18:51:01Z",
-   "updated": "2026-11-02T18:51:01Z",
-   "items": [
-    {
-     "id": "5d4002461796",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "HotHardware",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The Elder Scrolls 6 May Get Big Reveal Before GTA 6 Arrives This Month",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45V1luS0NiMlhTUEJVc3p3NzYtLWsxYkNyaTdUczBfRUJCMEpSWmJXZXNWUUQ2VFZ6elRlXzRia2VFRGNPS3BQcC1XaVhXV1NidXRKSkpuYzVXMjJwemV5MWNXRXVJV0lGdVdNaUJsZVJSMUdQZjFj?oc=5",
-     "ts": "2026-11-02T17:40:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
   },
   {
    "id": "86c30215b2e0",
@@ -64609,41 +64791,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "fd97332bd5f0",
-   "title": "Rockstar Opens Los Angeles Studio To Build GTA 6 NPCs",
-   "first_seen": "2026-10-27T17:41:05Z",
-   "updated": "2026-10-27T17:41:05Z",
-   "items": [
-    {
-     "id": "fd97332bd5f0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "eTeknix",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Opens Los Angeles Studio To Build GTA 6 NPCs",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HTkhMOVNldWpsVjZQUXE4aWVBdGZjM1A2YmpVVWpjaWMwTmQ1WHo5REptWU96SzlwWHY3b3JtTno2dVRDSHA5TUJuSUdjOFAwa1VvbEFpc0tDZmRnejZOQVExSTJNcGZHaXBZRlhJODg?oc=5",
-     "ts": "2026-10-27T14:47:53Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T17:31:11Z",
+  "last_run": "2026-11-03T17:41:30Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 97/100",
-   "gnews_ru: 78/89",
+   "gnews_ru: 81/97",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 5/10",
