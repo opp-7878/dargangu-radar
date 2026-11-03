@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "69766d6adde1",
+   "title": "5 Must-Play New Xbox Games Coming in November, Including GTA 6",
+   "first_seen": "2026-11-03T08:31:15Z",
+   "updated": "2026-11-03T08:31:15Z",
+   "items": [
+    {
+     "id": "69766d6adde1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "5 Must-Play New Xbox Games Coming in November, Including GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04MHlzZzFQeVNhdGNNUFBRcUtCd3JSakJHLVowbC1YWnBVNVZHYVdnME45c1R6Nl9obk1LQll5WVJTaUpIOG5aOVNLcG9rQ3RxcG5OY000ZGxtaE5nWlhiVl9lbHQ?oc=5",
+     "ts": "2026-11-03T06:30:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5b788d436f7a",
+   "title": "GTAVI in Edinburgh",
+   "first_seen": "2026-11-03T08:31:15Z",
+   "updated": "2026-11-03T08:31:15Z",
+   "items": [
+    {
+     "id": "5b788d436f7a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTAVI in Edinburgh",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xmnkpd/gtavi_in_edinburgh/",
+     "ts": "2026-11-03T08:29:35Z",
+     "summary": "This popped up on Princes Street in Edinburgh. I am too excited for this game. The wait is finally coming to an end. 💞 submitted by /u/jodie1704 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "df963ff7d672",
    "title": "Rockstar has begun large-scale promotion of GTA VI. Advertising banners have appeared around the world",
    "first_seen": "2026-11-03T08:20:53Z",
@@ -60572,41 +60624,15 @@
    "status": "new",
    "ai_fail": 2,
    "ai_error": "ValueError: нет полей: title_ru"
-  },
-  {
-   "id": "6e91a772e79e",
-   "title": "У GTA VI появился собственный кофе",
-   "first_seen": "2026-10-27T08:20:56Z",
-   "updated": "2026-10-27T08:20:56Z",
-   "items": [
-    {
-     "id": "6e91a772e79e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "se7en.ws",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "У GTA VI появился собственный кофе",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95MlFfNFZ5UzN0aUZWNU5Jd2x1VzNYa3o2T25uYzVFWm5vTHQ0dEJMRG5SMmNTeXJRdUk5dzl3aHJIeE40Wng4WG5GTXczb0ZEdmRxNXUzYWFxcE0xNTBCMnlEdVo?oc=5",
-     "ts": "2026-10-27T05:08:31Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T08:20:53Z",
+  "last_run": "2026-11-03T08:31:15Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 96/100",
-   "gnews_ru: 55/72",
+   "gnews_ru: 50/58",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -60615,7 +60641,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 1/30",
-   "reddit: 22/25",
+   "reddit: 23/25",
    "tg_gtavistar: 9/12",
    "tg_gta6deluxe: 5/13",
    "tg_gta6_m: 8/17",
