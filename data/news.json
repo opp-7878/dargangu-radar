@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "e71aa34b3aa0",
+   "title": "«Как GTA VI может сэкономить вам 5000 долларов» | Шуточный ролик | Марк Тилбери",
+   "first_seen": "2026-11-03T02:50:52Z",
+   "updated": "2026-11-03T02:50:52Z",
+   "items": [
+    {
+     "id": "e71aa34b3aa0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Как GTA VI может сэкономить вам 5000 долларов» | Шуточный ролик | Марк Тилбери",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBENDRaLVNOTGJWU0QtckxxQ3FkRUpyc2Z0WG40Q1k4a2pDV3lja01iYWlHS0wtN3lsTDhhT21MN2dBR3hkVEwzN0R5dDYxcGNOUGc?oc=5",
+     "ts": "2026-11-02T14:20:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "80220b587ccb",
    "title": "Sony offers $400 for used PS5 consoles, as GTA 6 buyers crave lower-priced systems",
    "first_seen": "2026-11-02T23:20:50Z",
@@ -59672,45 +59698,15 @@
     "at": "2026-10-27T03:31:06Z"
    },
    "msg_id": 194
-  },
-  {
-   "id": "a496b559250e",
-   "title": "Коды доступа к GTA 6 для подготовки обзоров уже у прессы — у изданий есть чуть больше трёх недель",
-   "first_seen": "2026-10-27T02:50:50Z",
-   "updated": "2026-10-27T02:50:50Z",
-   "items": [
-    {
-     "id": "a496b559250e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Notebookcheck-ru.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Коды доступа к GTA 6 для подготовки обзоров уже у прессы — у изданий есть чуть больше трёх недель",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS3JtNnk2MFZXa3BrNk5HWjdNMGpyaFk2M2IzLVJ4eTRyczlBZkFoa3R5bXVnZkJmWklMRWdDaWlod3BqSDE5bDFuMGdUUm5yR0I5UHNIWkpYamJoTTYtN0lESWdfcDhzamxFSndCdXFvUXBsMFBxdWVXNGU0Wk9wVlFISXEyeWZkbHRuZXNvUVhENkJXQ1Y0ZWdqR0xYajhFeHZST09ScVF1X0M3d0pCcmJfWVVPdzFCNzFzMVY0bFdHYlNNZXBPY0NsZ0xBN0dQLXZLUm83LTJIUm9hQWc?oc=5",
-     "ts": "2026-10-27T02:33:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 60 (char 61)"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T02:40:52Z",
+  "last_run": "2026-11-03T02:50:52Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 95/100",
-   "gnews_ru: 50/61",
+   "gnews_ru: 54/80",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
