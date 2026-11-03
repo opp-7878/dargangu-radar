@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "80220b587ccb",
+   "title": "Sony offers $400 for used PS5 consoles, as GTA 6 buyers crave lower-priced systems",
+   "first_seen": "2026-11-02T23:20:50Z",
+   "updated": "2026-11-03T02:40:52Z",
+   "items": [
+    {
+     "id": "80220b587ccb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony offers $400 for used PS5 consoles, as GTA 6 buyers crave lower-priced systems",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWdxcnVsY2tWOXNVWHJLNW5pV0Q3N2h0VmFDa2MwLXZXekI0blItSzBzOXN0c2cyVzlHN1Q3TjFUYmI1TmpEdy1vLS10MXdPU19kTzV6WHRfNkRtZVpPeG8tOUVYOV9oeVQtS2QtNzJUU2dRalVYWVB0U2k4c0FFU3VtY3pWN216T09nYVRSVGlPOGdFZlUxUTF1bHlFVk83UnU4S3RCbDRVOXJsTUVYelJGYmlOczBNZzExQl9vM0dHNnc?oc=5",
+     "ts": "2026-11-02T23:14:00Z",
+     "summary": ""
+    },
+    {
+     "id": "f1b05b6d643b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Sony предлагает $400 за подержанные консоли PS5, поскольку покупатели GTA 6 хотят приобрести системы подешевле",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaHZXajRkRE1uQmRTU2dodGh3R2FHaTBiMGNpNjA1bndRQWtDbUxSUzZJd2RfMmh0T3BkWmtOeXVJeFJYZzN1aEVUNDVSajhjc3lYV1lUOUFQMEt5OEY2M0tlZm1Ralo3dG9IZmFFcTI1ZEhIbTBOR0VoM0FHNlZqMVM2cTR0YjFjenBPWHNkSjVFaWdaTzlZdjJEU3FoU1B3d19KYXB5WEJlV0tfZEJRbVl2OExXM1ZPcUE2VHZtWlJfN1BtSzVCZDVBQ0tUMThzQXg5RnNoU09DT2R1QVJsTlA2bEY0bk0zV21GSTFqZ1Y?oc=5",
+     "ts": "2026-11-03T02:21:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Сони даёт $400 за PS5: игроки копят на GTA 6",
+    "summary": "По данным Notebookcheck, Sony предлагает $400 за б/у PS5 по трейд-ину. Игроки массово сдают консоли, чтобы накопить на GTA 6 и купить систему дешевле.",
+    "idea": "Короткий разбор: сколько реально выручить по трейд-ину и во сколько обойдётся апгрейд к релизу GTA 6. Зрителю важно понять, выгодно ли сдавать PS5 сейчас.",
+    "hook": "Сони даёт 400 долларов за твой PS5 — ради GTA 6?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-02T23:20:57Z"
+   },
+   "msg_id": 446
+  },
+  {
+   "id": "450640cc8c7e",
+   "title": "Almost two weeks to go until I fuck up this cool turn and flip my car over.",
+   "first_seen": "2026-11-03T02:40:52Z",
+   "updated": "2026-11-03T02:40:52Z",
+   "items": [
+    {
+     "id": "450640cc8c7e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Almost two weeks to go until I fuck up this cool turn and flip my car over.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmh9qo/almost_two_weeks_to_go_until_i_fuck_up_this_cool/",
+     "ts": "2026-11-03T02:40:01Z",
+     "summary": "submitted by /u/Schbloips to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6af55f8ee79a",
    "title": "GTA VI displays in Osaka Japan today",
    "first_seen": "2026-11-02T13:11:04Z",
@@ -1768,45 +1846,6 @@
     "model": "GigaChat-3-Ultra",
     "at": "2026-11-02T23:20:54Z"
    }
-  },
-  {
-   "id": "80220b587ccb",
-   "title": "Sony offers $400 for used PS5 consoles, as GTA 6 buyers crave lower-priced systems",
-   "first_seen": "2026-11-02T23:20:50Z",
-   "updated": "2026-11-02T23:20:50Z",
-   "items": [
-    {
-     "id": "80220b587ccb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Notebookcheck",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony offers $400 for used PS5 consoles, as GTA 6 buyers crave lower-priced systems",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWdxcnVsY2tWOXNVWHJLNW5pV0Q3N2h0VmFDa2MwLXZXekI0blItSzBzOXN0c2cyVzlHN1Q3TjFUYmI1TmpEdy1vLS10MXdPU19kTzV6WHRfNkRtZVpPeG8tOUVYOV9oeVQtS2QtNzJUU2dRalVYWVB0U2k4c0FFU3VtY3pWN216T09nYVRSVGlPOGdFZlUxUTF1bHlFVk83UnU4S3RCbDRVOXJsTUVYelJGYmlOczBNZzExQl9vM0dHNnc?oc=5",
-     "ts": "2026-11-02T23:14:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Сони даёт $400 за PS5: игроки копят на GTA 6",
-    "summary": "По данным Notebookcheck, Sony предлагает $400 за б/у PS5 по трейд-ину. Игроки массово сдают консоли, чтобы накопить на GTA 6 и купить систему дешевле.",
-    "idea": "Короткий разбор: сколько реально выручить по трейд-ину и во сколько обойдётся апгрейд к релизу GTA 6. Зрителю важно понять, выгодно ли сдавать PS5 сейчас.",
-    "hook": "Сони даёт 400 долларов за твой PS5 — ради GTA 6?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-02T23:20:57Z"
-   },
-   "msg_id": 446
   },
   {
    "id": "a24e61a83681",
@@ -59667,11 +59706,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T02:31:02Z",
+  "last_run": "2026-11-03T02:40:52Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 95/100",
-   "gnews_ru: 52/78",
+   "gnews_ru: 50/61",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
