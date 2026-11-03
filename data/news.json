@@ -1,6 +1,62 @@
 {
  "stories": [
   {
+   "id": "a30231e7f8c9",
+   "title": "Kai Cenat Announces 5-Game GTA Marathon Beginning November 5 At 3 PM EST Ahead Of GTA 6 Release",
+   "first_seen": "2026-11-03T07:31:19Z",
+   "updated": "2026-11-03T07:31:19Z",
+   "items": [
+    {
+     "id": "a30231e7f8c9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NDTV Sports",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Kai Cenat Announces 5-Game GTA Marathon Beginning November 5 At 3 PM EST Ahead Of GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZmFqS055cWd6VVVPZC1LaW5jT0RmOG9tU2NuVHpGWFcyazdQX0dYMERSZDk1UnVUc2RxNUFPZHpzUHN4bktxTmJ0M3prZEJ5RTluMkVKUHV5clRackJvYlJfdTQ3ZGRUeHM2dDRhWGgzZHpMSDJUcjdqX2JRTUk3bnNyVE12dlhqdkp1aFNUeXZJdmNuTTVDRWJZc203SkJnQWlZdTYtUTgyTnB2ZmFSU3NjYTJXbEJSdXBGOElRYWJFY1FHZzdIT3p0VGxRRnVXQnNHUGhqb3FiVy1X?oc=5",
+     "ts": "2026-11-03T07:13:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: выдуманные числа: 00, 15"
+  },
+  {
+   "id": "244d351430a8",
+   "title": "GTA 6 некоторым людям дороже «американского Барсика» — показал опрос",
+   "first_seen": "2026-11-03T07:31:19Z",
+   "updated": "2026-11-03T07:31:19Z",
+   "items": [
+    {
+     "id": "244d351430a8",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 некоторым людям дороже «американского Барсика» — показал опрос",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcjJZaWgzN0FuS0V3dEFxa1AzbkVfQzUxc0NUOFVoNzJndEpNYmxnSV84eS0yQlkzTUZ4b0RKVWZGazhGREQwTE5mNE5VVUlkVE8xTzAyZ2hfakFkZVQwWlc1S1k4YmxjOHk1Mzh1TzRsQ1VBLWd1VnF2OW1VYmdicVdDMjRhTkxpVVNhdXJtTnc5cHc4cnY5VVRUSmNER1dJbENVS3p3dGVTLVNJQU9TWmttR3V5NVkyWnZLbDZYcEJrNDgzbGtCNWIzUE1fU1g4QWpyaVpEQQ?oc=5",
+     "ts": "2026-11-03T07:26:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "cc2360ae4540",
    "title": "Не только GTA 6 — список игр в ноябре от PlayStation",
    "first_seen": "2026-11-03T07:10:53Z",
@@ -60443,11 +60499,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T07:20:56Z",
+  "last_run": "2026-11-03T07:31:26Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 97/100",
-   "gnews_ru: 55/73",
+   "gnews_en: 95/100",
+   "gnews_ru: 51/62",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
