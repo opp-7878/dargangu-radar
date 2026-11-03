@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "a818c8ac83a9",
+   "title": "Нед Люк показал 3500 страниц сценария GTA 5 и рассказал, как Rockstar прятала сюжет от актёров",
+   "first_seen": "2026-11-03T07:40:55Z",
+   "updated": "2026-11-03T07:40:55Z",
+   "items": [
+    {
+     "id": "a818c8ac83a9",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Нед Люк показал 3500 страниц сценария GTA 5 и рассказал, как Rockstar прятала сюжет от актёров",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM2hlenA3N24yODN3Z2xuYUthRnV5YmlYMFRfeXJSSThpaHFtYmRLSEl3YUlkTzVXeWtia3BwOEc4WFRYUDBUdUp2RnlrR2NHTVgwWDg2SXlSYUF6R0c1cl9janhnT2VMd2tkMjlSVllUcnk3RFZ6dnNyVHRvSGdEckxTRHVGenVBX1UxUjJ2NUxqRlF0RHY4YXdlQkZCdjNUQzdFV2FHNHJORFFTTXc4YU01UWVjNERmSDJRRE5tUGRBWUZ6TlU4bUpWdTlJdw?oc=5",
+     "ts": "2026-11-03T07:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "74d051efc344",
+   "title": "Holy Ship Ep2: Defender Boat RB-S",
+   "first_seen": "2026-11-03T07:40:55Z",
+   "updated": "2026-11-03T07:40:55Z",
+   "items": [
+    {
+     "id": "74d051efc344",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Holy Ship Ep2: Defender Boat RB-S",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmmpz1/holy_ship_ep2_defender_boat_rbs/",
+     "ts": "2026-11-03T07:34:13Z",
+     "summary": "Welcome aboard another episode of Holy Ship , where we take a deep dive into the lesser known vessels making waves across Leonida. Today we’re putting the “Leonida Keys 01” screenshot under the spyglass. Spotted offshore right above the sea plane is what appears to be a patrol boat inspired by SAFE Boats International’s Defender class , known to the U.S. Coast Guard as the Response Boat Small or RB-S . These compact boats pack multiple outboard motors, a tough aluminium hull, and the agility needed for high speed pursuits and boarding operations. Their duties range from search and rescue to po"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7e96d06160e8",
+   "title": "Global release timing",
+   "first_seen": "2026-11-03T07:40:55Z",
+   "updated": "2026-11-03T07:40:55Z",
+   "items": [
+    {
+     "id": "7e96d06160e8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Global release timing",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmmr5c/global_release_timing/",
+     "ts": "2026-11-03T07:36:24Z",
+     "summary": "This are the release time of GTA-6 in some major country. submitted by /u/Maximum_Resist_6257 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a30231e7f8c9",
    "title": "Kai Cenat Announces 5-Game GTA Marathon Beginning November 5 At 3 PM EST Ahead Of GTA 6 Release",
    "first_seen": "2026-11-03T07:31:19Z",
@@ -60499,11 +60579,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T07:31:26Z",
+  "last_run": "2026-11-03T07:40:55Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 95/100",
-   "gnews_ru: 51/62",
+   "gnews_en: 96/100",
+   "gnews_ru: 51/61",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
