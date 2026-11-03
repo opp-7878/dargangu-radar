@@ -1,6 +1,188 @@
 {
  "stories": [
   {
+   "id": "80a6aca9f102",
+   "title": "Более 20% игроков готовы отказаться от секса на месяц ради раннего доступа к GTA 6",
+   "first_seen": "2026-11-02T20:40:53Z",
+   "updated": "2026-11-03T12:31:07Z",
+   "items": [
+    {
+     "id": "80a6aca9f102",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Tribuna.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Более 20% игроков готовы отказаться от секса на месяц ради раннего доступа к GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd3VpNTd6QmNlcDFfS0NkYkVBVV9YaHlpT3JwWkdUZ1VFb1c5RnQ1c0pSMWFUUmJ3Zi1uNjlkNC1Gc2JLbHh6ZG0xMldwdWZLekhtMUdpdktLa1QzaXR3SjdhRWVoa0tubWhFT1hkLW1SMTRTTWl0aEVnSlg0bjdJOFhDUks4cVRGbjdWbFNlcEcxVVp0bXlfRXI3V0JNMnBqM3l5eEFmVjDSAa4BQVVfeXFMTUJTUHlMZ2ZIZ1d2WGxyZFYwVUN5bnd2TGdfYnZLMXFGTmhtNXJMajZCZ0xlRkNkSE1nck5EMlZsNVNlTy0xM0dIdWkwZU04c3FvdDFySWozT0VkR2dIZ1NDakxHYjlLeDN5ZkpGUDFRYTM2TXZZV3drbVNReDV2MVFVUWZTSmVLME94a2E1UG1VZVJzOV9OYURkRmE2OHM3amlpUzMxdXJoM0I0TlBB?oc=5",
+     "ts": "2026-11-02T20:11:24Z",
+     "summary": ""
+    },
+    {
+     "id": "46a186f54541",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Отказ от секса и питомцев: на что готовы игроки ради раннего доступа к GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSktmQXJGYVdWMzhlN0lBUzk5TnotcjktamVGOFdRaERfckpaX0hUTTAxd2UyV2tyTVpVUEVwMmtaOFI0S3NSWTh2TkZYTmoxUG5PZENlV3JVY1dvOHczQVNmbEtrRnNXTHk3RWJHVlFwemxRYjBoQkZYTDF1bjM5S0hZSC1HQ0Y5TzdoNTBEVkFEZ21QaWFMYTk0LVViNWdWa2tkbmozMWhvVXc?oc=5",
+     "ts": "2026-11-03T05:22:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a4600b866150",
+   "title": "SPILL NEW MUSIC: ROCKSTAR GAMES AND JUSTICE ANNOUNCE 'GRAND THEFT AUTO VI: ORIGINAL SCORE ALBUM' OUT DECEMBER 11",
+   "first_seen": "2026-11-03T12:31:07Z",
+   "updated": "2026-11-03T12:31:07Z",
+   "items": [
+    {
+     "id": "a4600b866150",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Spill Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "SPILL NEW MUSIC: ROCKSTAR GAMES AND JUSTICE ANNOUNCE 'GRAND THEFT AUTO VI: ORIGINAL SCORE ALBUM' OUT DECEMBER 11",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQmV4eG03YkhxX3E5Ty1WUWQzYWlyRks3NzlWS3VnVVRYZEc5OWVZOHhvZWlIN21Xazl6dUxPa09KQnRUQl9jRlplUGpxSkYtWHpBV2pJZWdQLWJtcnlHSm5ZbXA3bXd0S05MRlV5NERVZ3ZTR2I0aFFvR2NGdUdiUlRxYVhkS3NqdDFSVHFaTDg0NUdCUDNibjNLb0FnOUhmejk0Y0FKTG16b2pwLXliVXUzNGczMlphNFVqUVBycEs5eHZ3cG9aNER4V1pLVTZV?oc=5",
+     "ts": "2026-11-03T10:21:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️GTA 6 и Justice: альбом саундтрека 11 декабря",
+    "summary": "Rockstar Games и Justice анонсировали официальный альбом-саундтрек GTA VI. Релиз состоится 11 декабря, сообщает The Spill Magazine.",
+    "idea": "Короткая нарезка под Justice с логотипом GTA 6 и датой 11 декабря — зритель сразу получает дату и настроение.",
+    "hook": "GTA 6 получит официальный альбом от Justice — вот дата.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-03T12:31:13Z"
+   },
+   "msg_id": 460
+  },
+  {
+   "id": "b40a1d7780e4",
+   "title": "GameStop Staff Are Betting Real Money on GTA 6 or Zelda Winning Preorders",
+   "first_seen": "2026-11-03T12:31:07Z",
+   "updated": "2026-11-03T12:31:07Z",
+   "items": [
+    {
+     "id": "b40a1d7780e4",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GameStop Staff Are Betting on GTA 6 vs Zelda Preorders",
+     "url": "https://www.gtaboom.com/gamestop-staff-are-betting-on-gta-6-vs-zelda-preorders-a020",
+     "ts": "2026-11-03T12:24:03Z",
+     "summary": "A photo from a local GameStop has turned into a snapshot of what will happen in November when the two biggest games of the year if not the current..."
+    },
+    {
+     "id": "fb36d007b150",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GameStop Staff Are Betting Real Money on GTA 6 or Zelda Winning Preorders",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGEzWFVXTFhld1dwOFl2YVg0YTNyLUN1Y2xGWDlvSjFuQ2dFM3BmUjhkaE9XVjJaSl8xSFA0a1czRDdHM19tdlVleWtQWVNoNzJaZFpCWnhJYThiOXcxUERxZ0lBWUZvbFpwWWVEbTAzLTZiMTFiVERjZ3lRNUJyWWRwVW1kTGQzQUhz?oc=5",
+     "ts": "2026-11-03T12:24:05Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Сотрудники GameStop ставят деньги на предзаказы GTA 6",
+    "summary": "В одном из магазинов GameStop сотрудники устроили пари на реальные деньги, какой проект соберёт больше предзаказов — GTA 6 или новая Zelda. Об этом стало известно по фото из точки продаж, которое опубликовал GTA Boom.",
+    "idea": "Короткая битва ставок: GTA 6 против Zelda — кто заберёт больше предзаказов по мнению продавцов. Зрителю интересно узнать «курс» и выбрать сторону.",
+    "hook": "Продавцы GameStop поставили деньги: GTA 6 или новая Zelda — кто победит?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-03T12:31:11Z"
+   },
+   "msg_id": 459
+  },
+  {
+   "id": "652a0d037e7a",
+   "title": "Is gta 6 going to be a watered down garbage relationship simulator or will actually be good ??",
+   "first_seen": "2026-11-03T12:31:07Z",
+   "updated": "2026-11-03T12:31:07Z",
+   "items": [
+    {
+     "id": "652a0d037e7a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Is gta 6 going to be a watered down garbage relationship simulator or will actually be good ??",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmrms5/is_gta_6_going_to_be_a_watered_down_garbage/",
+     "ts": "2026-11-03T12:27:07Z",
+     "summary": "The videos look like it’s going to be boring asf submitted by /u/Psychological_Pen200 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6fbdc07ff239",
+   "title": "I tried to camp outside Rockstar North until GTA 6 comes out",
+   "first_seen": "2026-11-03T12:31:07Z",
+   "updated": "2026-11-03T12:31:07Z",
+   "items": [
+    {
+     "id": "6fbdc07ff239",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I tried to camp outside Rockstar North until GTA 6 comes out",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmrnfl/i_tried_to_camp_outside_rockstar_north_until_gta/",
+     "ts": "2026-11-03T12:27:59Z",
+     "summary": "I can't wait any longer... So I flew to Edinburgh, where Rockstar North is, and bought a £14.99 \"tent\". The shop lady asked if I knew it was a beach shelter. I put it on the hill above the studio and played Vice City on my phone in the rain, outside the place that made it. Chop came as my guard dog... he's a stuffed toy. It was really cool to see it in real life but I thought it would make me feel closer to GTA 6. It actually made me feel much further away... So now I'm back at home, waiting like everyone else in the warm! submitted by /u/Dependent_Dig_2428 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "3c256abef4d7",
    "title": "Different angle of first Stockholm one",
    "first_seen": "2026-11-03T12:21:00Z",
@@ -6476,32 +6658,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "80a6aca9f102",
-   "title": "Более 20% игроков готовы отказаться от секса на месяц ради раннего доступа к GTA 6",
-   "first_seen": "2026-11-02T20:40:53Z",
-   "updated": "2026-11-02T20:40:53Z",
-   "items": [
-    {
-     "id": "80a6aca9f102",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Tribuna.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Более 20% игроков готовы отказаться от секса на месяц ради раннего доступа к GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd3VpNTd6QmNlcDFfS0NkYkVBVV9YaHlpT3JwWkdUZ1VFb1c5RnQ1c0pSMWFUUmJ3Zi1uNjlkNC1Gc2JLbHh6ZG0xMldwdWZLekhtMUdpdktLa1QzaXR3SjdhRWVoa0tubWhFT1hkLW1SMTRTTWl0aEVnSlg0bjdJOFhDUks4cVRGbjdWbFNlcEcxVVp0bXlfRXI3V0JNMnBqM3l5eEFmVjDSAa4BQVVfeXFMTUJTUHlMZ2ZIZ1d2WGxyZFYwVUN5bnd2TGdfYnZLMXFGTmhtNXJMajZCZ0xlRkNkSE1nck5EMlZsNVNlTy0xM0dIdWkwZU04c3FvdDFySWozT0VkR2dIZ1NDakxHYjlLeDN5ZkpGUDFRYTM2TXZZV3drbVNReDV2MVFVUWZTSmVLME94a2E1UG1VZVJzOV9OYURkRmE2OHM3amlpUzMxdXJoM0I0TlBB?oc=5",
-     "ts": "2026-11-02T20:11:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -60510,67 +60666,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "dc84042d736c",
-   "title": "Hidden Packages & Collectables",
-   "first_seen": "2026-10-27T12:31:13Z",
-   "updated": "2026-10-27T12:31:13Z",
-   "items": [
-    {
-     "id": "dc84042d736c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Hidden Packages & Collectables",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xgq4bs/hidden_packages_collectables/",
-     "ts": "2026-10-27T11:36:07Z",
-     "summary": "All speculation at this point but do you reckon we’ll see the return of hidden packages with Safehouse weapon unlocks like Vice City? If not blocks of drugs what else do you think could be collectable? I’m thinking that there could be some TCG style collection of Pokémon-esque cards to find, and with the scuba diving I’m expecting some form of buried treasure hunting! What else? submitted by /u/ATastyGentleman to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ebe313fd5dbd",
-   "title": "Use Blocktube (firefox/chrome extension) to block channels and keywords!",
-   "first_seen": "2026-10-27T12:31:13Z",
-   "updated": "2026-10-27T12:31:13Z",
-   "items": [
-    {
-     "id": "ebe313fd5dbd",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Use Blocktube (firefox/chrome extension) to block channels and keywords!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xgq9xb/use_blocktube_firefoxchrome_extension_to_block/",
-     "ts": "2026-10-27T11:44:03Z",
-     "summary": "just tried it. if you type shirrako nothing shows up like he does not exist at all! submitted by /u/Sufficient-Guess6692 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T12:21:00Z",
+  "last_run": "2026-11-03T12:31:13Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 96/100",
-   "gnews_ru: 51/64",
+   "gnews_en: 95/100",
+   "gnews_ru: 51/65",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 5/10",
@@ -60578,7 +60682,7 @@
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
-   "gtaboom: 2/30",
+   "gtaboom: 3/30",
    "reddit: 24/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/13",
