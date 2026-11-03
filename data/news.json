@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "f327ca54b433",
+   "title": "GTA 6 marketing around the world",
+   "first_seen": "2026-11-03T05:20:53Z",
+   "updated": "2026-11-03T05:20:53Z",
+   "items": [
+    {
+     "id": "f327ca54b433",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 marketing around the world",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmka2i/gta_6_marketing_around_the_world/",
+     "ts": "2026-11-03T05:11:15Z",
+     "summary": "submitted by /u/bitcchlasagna to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c8280d6968ef",
+   "title": "I hope we can come back and buy this lady a new AC",
+   "first_seen": "2026-11-03T05:20:53Z",
+   "updated": "2026-11-03T05:20:53Z",
+   "items": [
+    {
+     "id": "c8280d6968ef",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I hope we can come back and buy this lady a new AC",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmka90/i_hope_we_can_come_back_and_buy_this_lady_a_new_ac/",
+     "ts": "2026-11-03T05:11:30Z",
+     "summary": "submitted by /u/PirloDiLatte to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d9cdc02b6c9b",
    "title": "PlayStation reportedly bans account for GTA 6 leak shared in PS App messaging",
    "first_seen": "2026-11-03T03:10:51Z",
@@ -60195,39 +60247,11 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
-  },
-  {
-   "id": "6ff045654bf7",
-   "title": "The game is gonna be way more explicit than the marketing suggests",
-   "first_seen": "2026-10-27T05:20:52Z",
-   "updated": "2026-10-27T05:20:52Z",
-   "items": [
-    {
-     "id": "6ff045654bf7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "The game is gonna be way more explicit than the marketing suggests",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xgivrh/the_game_is_gonna_be_way_more_explicit_than_the/",
-     "ts": "2026-10-27T04:17:27Z",
-     "summary": "The funniest thing to me with all this marketing, some ads are intentionally cutting out Guns and Sexual themes from trailers and photos. There were reports that some TV ads with the Launch trailer that cut out the 3 shower parts. And I saw a Google ad where they had that Picture of Lucia and Jason, and normally when Lucia would be holding a gun, Google got rid of it. The other thing to mention is that Alot of the Extended Look was most likely heavily censored. Take for example Photo of Lucia with the shotgun. Now, I will say, you can see blood shooting out, but considering we know from the Ga"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T05:10:53Z",
+  "last_run": "2026-11-03T05:20:53Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 95/100",
@@ -60240,7 +60264,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 1/30",
-   "reddit: 22/25",
+   "reddit: 23/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/13",
    "tg_gta6_m: 9/17",
