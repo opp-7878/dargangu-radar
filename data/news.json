@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "6af55f8ee79a",
+   "title": "GTA VI displays in Osaka Japan today",
+   "first_seen": "2026-11-02T13:11:04Z",
+   "updated": "2026-11-03T02:31:02Z",
+   "items": [
+    {
+     "id": "6af55f8ee79a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI displays in Osaka Japan today",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xlwku7/gta_vi_displays_in_osaka_japan_today/",
+     "ts": "2026-11-02T13:02:28Z",
+     "summary": "submitted by /u/Rangoboi to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "6daebdd04576",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA advertisements in Osaka, Japan",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmgy2n/gta_advertisements_in_osaka_japan/",
+     "ts": "2026-11-03T02:24:35Z",
+     "summary": "submitted by /u/jchurchh to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "516d37e5b111",
+   "title": "Rockstar was at my gym (BOXR) in Miami!",
+   "first_seen": "2026-11-03T02:31:02Z",
+   "updated": "2026-11-03T02:31:02Z",
+   "items": [
+    {
+     "id": "516d37e5b111",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Rockstar was at my gym (BOXR) in Miami!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmgy6x/rockstar_was_at_my_gym_boxr_in_miami/",
+     "ts": "2026-11-03T02:24:45Z",
+     "summary": "Not sure what it is, but the hype is real! My guess is probably a similar collab to NineOneNine or the Miami Heat where they change the name for one day! submitted by /u/arcpavong to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "685dd8d706ea",
    "title": "Has anyone gotten any communication about their Miami Heat merch?",
    "first_seen": "2026-11-02T23:20:50Z",
@@ -7253,32 +7318,6 @@
    "tags": [],
    "score": 50,
    "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6af55f8ee79a",
-   "title": "GTA VI displays in Osaka Japan today",
-   "first_seen": "2026-11-02T13:11:04Z",
-   "updated": "2026-11-02T13:11:04Z",
-   "items": [
-    {
-     "id": "6af55f8ee79a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA VI displays in Osaka Japan today",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xlwku7/gta_vi_displays_in_osaka_japan_today/",
-     "ts": "2026-11-02T13:02:28Z",
-     "summary": "submitted by /u/Rangoboi to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
    "alerted": "",
    "status": "new"
   },
@@ -59624,41 +59663,15 @@
    "status": "new",
    "ai_fail": 1,
    "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 60 (char 61)"
-  },
-  {
-   "id": "c6ee91f0c238",
-   "title": "Never forget the great information drought 🫡",
-   "first_seen": "2026-10-27T02:21:16Z",
-   "updated": "2026-10-27T02:21:16Z",
-   "items": [
-    {
-     "id": "c6ee91f0c238",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Never forget the great information drought 🫡",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xgg5y5/never_forget_the_great_information_drought/",
-     "ts": "2026-10-27T02:03:02Z",
-     "summary": "submitted by /u/Coltyn03 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T02:20:50Z",
+  "last_run": "2026-11-03T02:31:02Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 95/100",
-   "gnews_ru: 49/60",
+   "gnews_ru: 52/78",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
