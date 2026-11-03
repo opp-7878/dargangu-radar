@@ -1,6 +1,97 @@
 {
  "stories": [
   {
+   "id": "ce4768f7306e",
+   "title": "Фанат GTA VI , мечтавший дожить до выхода игры, умер за три недели до релиза",
+   "first_seen": "2026-11-03T14:01:23Z",
+   "updated": "2026-11-03T14:01:23Z",
+   "items": [
+    {
+     "id": "ce4768f7306e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Фанат GTA VI , мечтавший дожить до выхода игры, умер за три недели до релиза",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xRW91M296bXNxSndEbnN4YzAtd29DTnRxTjZ5bF9wVHMwX1JpRWcwTlcwZ2psb2Z4aHdVcjloVmctcElRVjdra1JkVWI?oc=5",
+     "ts": "2026-11-03T09:17:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "96859985965b",
+   "title": "GTA VI MAP FOR GAME BOX CONCEPT",
+   "first_seen": "2026-11-03T14:01:23Z",
+   "updated": "2026-11-03T14:01:23Z",
+   "items": [
+    {
+     "id": "96859985965b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI MAP FOR GAME BOX CONCEPT",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xmtkgp/gta_vi_map_for_game_box_concept/",
+     "ts": "2026-11-03T13:56:02Z",
+     "summary": "HEY GUYS!! So I made a map for gta vi that you could find in an actual box because Jesus Christ paying 400 euro for a fucking collectors edition full of over priced stuff is crazy. Some town names are obviously still speculation. Map is largely up to date with mapping project. Heavily inspired by the gta v map. NO USE OF AI submitted by /u/RicoDaGecko04 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bb88a8cc44f2",
+   "title": "Best Games To Play While We Wait for GTA 6",
+   "first_seen": "2026-11-03T14:01:23Z",
+   "updated": "2026-11-03T14:01:23Z",
+   "items": [
+    {
+     "id": "bb88a8cc44f2",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Best Games To Play While We Wait for GTA 6",
+     "url": "https://insider-gaming.com/best-games-to-play-while-we-wait-for-gta-6/",
+     "ts": "2026-11-03T14:00:00Z",
+     "summary": "GTA 6 is almost here, but you've got time to kill before it arrives. These are the best games you can play to tide you over. The post Best Games To Play While We Wait for GTA 6 appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Во что играть, пока ждём GTA 6: подборка Insider Gaming",
+    "summary": "Insider Gaming (Tom Henderson) выпустил подборку лучших игр, чтобы скоротать время до выхода GTA 6. Материал посвящён тому, чем заняться в ожидании релиза 19 ноября 2026.",
+    "idea": "Топ-3 игры из подборки Insider Gaming с быстрым геймплеем и почему они «держат» до GTA 6. Зрителю полезно: что запустить прямо сегодня.",
+    "hook": "До GTA 6 ещё две недели — вот во что поиграть, чтобы не сойти с ума.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-03T14:01:27Z"
+   },
+   "msg_id": 465
+  },
+  {
    "id": "3be24668c172",
    "title": "GTA 6 Fan’s Death Has Gamers Asking Why Rockstar Couldn’t Give Him Early Access",
    "first_seen": "2026-11-03T13:50:54Z",
@@ -61255,11 +61346,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T13:50:54Z",
+  "last_run": "2026-11-03T14:01:27Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 96/100",
-   "gnews_ru: 49/62",
+   "gnews_ru: 53/73",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 5/10",
