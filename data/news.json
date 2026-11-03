@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "67a8846ab922",
+   "title": "Who’s upgrading their TV for GTA VI ?",
+   "first_seen": "2026-11-03T22:50:58Z",
+   "updated": "2026-11-03T22:50:58Z",
+   "items": [
+    {
+     "id": "67a8846ab922",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Who’s upgrading their TV for GTA VI ?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xn7nza/whos_upgrading_their_tv_for_gta_vi/",
+     "ts": "2026-11-03T22:45:00Z",
+     "summary": "Upgraded from my old 42inch HD to a 65inch 4K. When I play this game I want to see EVERYTHING. submitted by /u/Ghost7579ox to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "23d3830fc864",
+   "title": "Theory: GTA VI will open in a snowy Liberty City which will involve the \"job gone wrong\" in which Lucia gets arrested",
+   "first_seen": "2026-11-03T22:50:58Z",
+   "updated": "2026-11-03T22:50:58Z",
+   "items": [
+    {
+     "id": "23d3830fc864",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Theory: GTA VI will open in a snowy Liberty City which will involve the \"job gone wrong\" in which Lucia gets arrested",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xn7slj/theory_gta_vi_will_open_in_a_snowy_liberty_city/",
+     "ts": "2026-11-03T22:50:22Z",
+     "summary": "I think it makes sense for a couple of reasons: 1. In keeping with Rockstars streak of opening their games in a snowy region the opening can't take place in Leonida as it's a tropical climate. 2. Lucia is obviously from Liberty city and from the release trailer where Jason is wearing the shirt with the name of his military base which is located near liberty city it's safe to assume they both met each other there. I think it would make sense that they mostly spent their previous relationship in liberty city rather than Leonida/Vice city. Maybe I'm clutching at straws but I thought it could be s"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e07aa903f378",
    "title": "Rockstar details Grand Theft Auto 6 pre-load date and time, and file size",
    "first_seen": "2026-11-03T01:20:58Z",
@@ -66520,11 +66574,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-03T22:41:19Z",
+  "last_run": "2026-11-03T22:50:58Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/3",
+   "gnews_en: 97/100",
+   "gnews_ru: 85/95",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
