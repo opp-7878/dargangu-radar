@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "d5deda031da5",
+   "title": "Club Space teases \"GTA VI\" transformation into the Vault",
+   "first_seen": "2026-11-04T18:50:51Z",
+   "updated": "2026-11-04T18:50:51Z",
+   "items": [
+    {
+     "id": "d5deda031da5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Miami New Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Club Space teases \"GTA VI\" transformation into the Vault",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRW56RnhMRUx6RURlbDNQcDlIQkVramM5cGd6WFctcnNINmhMWFF0bl9GeHJXdXZIODRGbFZkZHJnSnA5cGN1UGtOdnJjcmlLWEpVNEpObURWMno4Q2Ewcm50SHEzYkJ4VnRKOVRtZnpzZ2twTmlpOWs1d3Z5dXRJSFI5VkY1NlV3VGtPRGs1eVJzODZ3VVhXWTZMRThyNVRsVUE?oc=5",
+     "ts": "2026-11-04T18:42:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "366cdeb36a7d",
    "title": "Club Space Miami подтвердил связь с GTA 6. Клуб временно превратится в The Vault, вымышленный ночной клуб из игры. 2026",
    "first_seen": "2026-11-04T18:40:45Z",
@@ -68662,41 +68688,15 @@
     "at": "2026-10-28T18:50:58Z"
    },
    "msg_id": 271
-  },
-  {
-   "id": "8048cff5c67d",
-   "title": "GTA 6 Jason character explained: Background, personality, and relationship with Lucia",
-   "first_seen": "2026-10-28T18:40:56Z",
-   "updated": "2026-10-28T18:40:56Z",
-   "items": [
-    {
-     "id": "8048cff5c67d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Times of India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Jason character explained: Background, personality, and relationship with Lucia",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUUZpdXU1UFJmZjA1Q3lENVRqc0YzVXpUaEItWFJkTWZRajhrU0FMbGpoUVBGUlJEMXBSVk04VmNBR0JFWlA3VnVVanRSVVBVbklzOF90eFF0TlMzMTM5bHFuTGtIWEFHZVdWY2lEcExGckJidVhVT0o2al8xbkNFTkRrNE9FcTllTUhiQnF2czU3LVdZVW84c01Ja2FfS0Vubk9XS3EtenVCUk5za3lFdklUX3JJUHlGcHRUR1JVYm1heXJGY2tmSnRvY0h0ZzB6LWJ1THRwYm9KWjdHdHhuaFJibjduOHFYYm44SjNIRmF5QmM5VWfSAfsBQVVfeXFMTlFEa1hjUkdXTmd1eEE4UUp0TE1uVW53T2UzM0VLVTh1MHhyendMRVRBamNiQ3F1UjNhU3VvRlNDeXcwbWpfdFdUWTNOQjdvZ3Jzcll4U0wwcmxLOG9rVzY3SGoxY3ZNem5oekw2Ri1ITTFSTGJ5VnI5d2JCbjFueWpmemp1S0NPN21pTWU3ZnhUUEFCR3NjaGUtREtmbmlmRkV3aDR2X0ZFWVJTYWN4SVU1clZ4SjR4ZHR0aGdJNVhxWEhOZW91T215RWNTOEhrdlhNVW04cUZ1SGdFVVJhRXUzZk9UWTl0T1JPRFZicF8tc0pENzNja3l1X0U?oc=5",
-     "ts": "2026-10-28T18:29:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T18:40:45Z",
+  "last_run": "2026-11-04T18:50:51Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 98/100",
-   "gnews_ru: 79/84",
+   "gnews_en: 97/100",
+   "gnews_ru: 78/83",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -68706,7 +68706,7 @@
    "rockstarintel: 1/10",
    "gtaboom: 10/30",
    "reddit: 23/25",
-   "tg_gtavistar: 9/12",
+   "tg_gtavistar: 8/12",
    "tg_gta6deluxe: 6/16",
    "tg_gta6_m: 7/19",
    "tg_gta6newsdaily: 1/15"
