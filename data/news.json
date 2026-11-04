@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "37d44a5d8e40",
+   "title": "Im dressing Jason up as Henry Hill & Tommy Vercetti",
+   "first_seen": "2026-11-04T16:20:50Z",
+   "updated": "2026-11-04T16:20:50Z",
+   "items": [
+    {
+     "id": "37d44a5d8e40",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Im dressing Jason up as Henry Hill & Tommy Vercetti",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xns7tx/im_dressing_jason_up_as_henry_hill_tommy_vercetti/",
+     "ts": "2026-11-04T16:12:14Z",
+     "summary": "Two legendary Ray Liotta roles submitted by /u/gulagsurvivor2019 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f4c67093bb68",
+   "title": "November 18th",
+   "first_seen": "2026-11-04T16:20:50Z",
+   "updated": "2026-11-04T16:20:50Z",
+   "items": [
+    {
+     "id": "f4c67093bb68",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "November 18th",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnsavx/november_18th/",
+     "ts": "2026-11-04T16:15:32Z",
+     "summary": "Are we all hopping on GTAV for one more stroll through Los Santos? submitted by /u/Traditional-Milk6502 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "1e3b6f1d77b4",
    "title": "Xbox Built a Playable GTA 6 Console Inside a Five Foot Alligator",
    "first_seen": "2026-11-04T04:01:19Z",
@@ -69679,44 +69731,18 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "2bab97777c15",
-   "title": "GameSir выпустила геймпады в стиле GTA VI",
-   "first_seen": "2026-10-28T16:10:58Z",
-   "updated": "2026-10-28T16:10:58Z",
-   "items": [
-    {
-     "id": "2bab97777c15",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Код.ру",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GameSir выпустила геймпады в стиле GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HenNiYmNaajVzNGNKdC1nOHp5Nm1FUDU2REFOMnFHTHpSMlBsMGZWZElGc3h1T0dvM2FEdnE4b01qQloxMTRfMkF0c9IBUEFVX3lxTFBKaG9wUm9wZUdtUVhvb0prekQyZE5kMzNzdUVTUkJ4S0lTYmNyTHJYTnYxWW1jVV83dmdvbTVSRERkc1A4M0Q0c3VZNHplWnVm?oc=5",
-     "ts": "2026-10-28T15:22:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T16:10:49Z",
+  "last_run": "2026-11-04T16:20:50Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 88/95",
+   "gnews_ru: 88/94",
    "gamesbeat: 1/10",
    "vgc: 0/10",
-   "insider_gaming: 2/10",
+   "insider_gaming: 1/10",
    "ign: 0/20",
    "eurogamer: 1/100",
    "dexerto_gta: 5/50",
