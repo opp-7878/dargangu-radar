@@ -66979,92 +66979,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "80f204ac4051",
-   "title": "Фанаты GTA 6 перепродают пакеты из фастфуда Burger Shot дороже коллекционного издания",
-   "first_seen": "2026-10-27T09:10:54Z",
-   "updated": "2026-10-28T01:20:52Z",
-   "items": [
-    {
-     "id": "80f204ac4051",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Фанаты GTA 6 перепродают пакеты из фастфуда Burger Shot дороже коллекционного издания",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3djSmlfVk94Q0RSeGt4b0lYMHFNTnJBYTJEUnRtR1RRVFN0cUZqQ2h3S19DUGtmVUlXSExLa1RvZm50eDQ1R3lOSUQxbkEwYnAtbi1rQWNic2RacEdhb3JndEZOa0ZVRHZkV0w4ZHZ0blJOSFZQME9fa2xzRDdBRmtKOWNRdDNLdHdwWjJMNnRhcHQ2YnVzTTRCTG1zZkF1NUk5MnhDNWppUTd4WnNJSDFYenoya2NtNUlMRUpfSXU?oc=5",
-     "ts": "2026-10-27T09:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "1ec25c8e4836",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "www.techtimes.co.uk",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "A Used GTA 6 Burger Shot Bag Just Sold For $501, Beating Rockstar’s $400 Collector’s Box",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM3BpdlJSQThJeDdXcVRIXzZ1MTZGMlBVU3NBM3dCQmR4clpuOHZzT1h5blZQQk5sWk1uMHE5blFfbk11b0lvZVlURGJIbHBrN05OVnk5X3hhZm9qMzdsX0ppM3lpODY3dnEwSGhON05oX2VhS0F1cEw4dlNLb2lXTWg3Tzg?oc=5",
-     "ts": "2026-10-28T01:13:55Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Фастфуд Burger Shot дороже коллекционного издания GTA 6",
-    "summary": "По данным Shazoo, фанаты GTA 6 перепродают пакеты из фастфуда Burger Shot дороже коллекционного издания. Спрос вырос на фоне ажиотажа вокруг мерча по игре.",
-    "idea": "Короткий обзор абсурдных цен на пакеты Burger Shot с показом лотов и реакции. Зрителю интересно увидеть, как фастфуд обгоняет по цене коллекционку.",
-    "hook": "Пакет из Burger Shot стоит дороже коллекционного издания GTA 6?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-27T09:10:57Z"
-   },
-   "msg_id": 197
-  },
-  {
-   "id": "d0bd4da98056",
-   "title": "Rockstar Union Vote Nov 12-26: GTA VI Launch Impact [2026]",
-   "first_seen": "2026-10-28T01:20:52Z",
-   "updated": "2026-10-28T01:20:52Z",
-   "items": [
-    {
-     "id": "d0bd4da98056",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "tech-insider.org",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Union Vote Nov 12-26: GTA VI Launch Impact [2026]",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbVI5ejlDSURKRDFGcUl0ZFg4LXZFSDJYblJHdnNQZ3JBU1FhdUwzTkVmZ2lRdFhXSUp4VTlfWmo0Uk1SZXA5OEFsbDFXM3JzdGpuQW5VRVdLbGZ4cnc0X2hRejRIeVdlMWRTd19JSVJsMHVkS3FEZk5leUJXSHZrckttQ19uZw?oc=5",
-     "ts": "2026-10-28T01:10:35Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T01:11:00Z",
+  "last_run": "2026-11-04T01:20:56Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 96/100",
+   "gnews_en: 95/100",
    "gnews_ru: 85/95",
    "gamesbeat: 2/10",
    "vgc: 0/10",
