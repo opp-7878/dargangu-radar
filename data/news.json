@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "b45fc82d0b2c",
+   "title": "Rockstar Games запрещает публиковать информацию о финале и другие спойлеры GTA 6",
+   "first_seen": "2026-11-04T18:10:47Z",
+   "updated": "2026-11-04T18:10:47Z",
+   "items": [
+    {
+     "id": "b45fc82d0b2c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar Games запрещает публиковать информацию о финале и другие спойлеры GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcEJZd3F4OHBVeXlDbUg1dkoyU2pGcjdrdFhOYVlXdkI1T2JiZUFDaWFUV1RUWlNRdGU1TVdyRXI2bThlR3pXNVBrdkxrV3JOWWVQMVdLdDNuZVNzVnBIenFMUC1ZNEMtQmItZDlVMkdlVVNWSWJuSEhZRWNLLWl3dGpHSXo4cXU4Z09jQm5pNlloaENrODRta2FQcVVjaWpY?oc=5",
+     "ts": "2026-11-04T16:59:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "539839db9ea5",
+   "title": "DOWNLOAD GRAND THEFT AUTO VI FASTER AND GET TO LEONIDA SOONER WITH SPECTRUM INTERNET GIG",
+   "first_seen": "2026-11-04T18:10:47Z",
+   "updated": "2026-11-04T18:10:47Z",
+   "items": [
+    {
+     "id": "539839db9ea5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PR Newswire",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "DOWNLOAD GRAND THEFT AUTO VI FASTER AND GET TO LEONIDA SOONER WITH SPECTRUM INTERNET GIG",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOem84c250QmVLalhTeTMtUGxBeFktQWVKbUFwM0VoeXRMWTh2aV90b0dlME5ndWxWbVVXYUFnUTNkeWNwQXJ0VnFrUVVRSUJtc3JXM0FBN09GOHZ3elNuZVlyQm1EeThUVjNYbENVdklET2N6M1ZTLUtySDQ1RjBEcUpuTkZuOElTLWNPQ0RKUTNFNW9OSHgycm4zZ1dpS0pqdFhuMTEzRHlfUk1JZUh0ZUVnNm16bUhYMEZOemFaZzVYQjBhQ3U3eVlta1Ewd3V1OU9PdVFRLWVfcFdq?oc=5",
+     "ts": "2026-11-04T18:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3561204f35de",
+   "title": "Things i really hoping to coming in this game....",
+   "first_seen": "2026-11-04T18:10:47Z",
+   "updated": "2026-11-04T18:10:47Z",
+   "items": [
+    {
+     "id": "3561204f35de",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Things i really hoping to coming in this game....",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnvd2p/things_i_really_hoping_to_coming_in_this_game/",
+     "ts": "2026-11-04T18:10:10Z",
+     "summary": "Hi ! Do you guys are waiting beside all the exploration , the story of the game..... Weird things across Leonida ? This vibe like was in San Andreas when people was telling they saw strange sightings in the woods, Bigfoot is in the game , ghosts or other easter egg with the massive map we will get ? Imagine an creepy easter egg like the one in RDR2 with the vampire (or even the ghost in GTA V the easter egg one) , something in the same vein with Jason or Lucia who have a side quest or maybe something more spetacular with a lot of theories with mythical creatures or maybe mermaid with the compl"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "b066a75be8c6",
    "title": "Found one in the wild",
    "first_seen": "2026-11-04T18:01:40Z",
@@ -68559,11 +68637,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T18:01:40Z",
+  "last_run": "2026-11-04T18:10:47Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/4",
+   "gnews_en: 98/100",
+   "gnews_ru: 78/84",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -68572,7 +68650,7 @@
    "dexerto_gta: 5/50",
    "rockstarintel: 1/10",
    "gtaboom: 10/30",
-   "reddit: 22/25",
+   "reddit: 23/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/16",
    "tg_gta6_m: 7/18",
