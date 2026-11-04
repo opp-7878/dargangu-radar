@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "cfbfe49ace47",
+   "title": "I hope it doesn't acting up on the release day!!!",
+   "first_seen": "2026-11-04T05:40:53Z",
+   "updated": "2026-11-04T05:40:53Z",
+   "items": [
+    {
+     "id": "cfbfe49ace47",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I hope it doesn't acting up on the release day!!!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xng59q/i_hope_it_doesnt_acting_up_on_the_release_day/",
+     "ts": "2026-11-04T05:34:50Z",
+     "summary": "submitted by /u/realwithareason to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d371949fc30f",
    "title": "I got a folding phone before GTA 6",
    "first_seen": "2026-11-03T15:10:51Z",
@@ -67496,40 +67522,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "31b99c6d61da",
-   "title": "Удаляйте все лишнее: для установки GTA VI потребуется 210 Гб на SSD",
-   "first_seen": "2026-10-28T05:40:50Z",
-   "updated": "2026-10-28T05:40:50Z",
-   "items": [
-    {
-     "id": "31b99c6d61da",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Gagadget.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Удаляйте все лишнее: для установки GTA VI потребуется 210 Гб на SSD",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzVuUUJXQXhWbWpGQk13RGU1OE9Hc1F0TlpiaVBXR1ZOYWdkUVhSbVg5aVZOOUhMU0hGazVoZk9EZEg1TVpLV1Z2WU1rb2dLLVdpSGFCZnNnWWNFbHY2NTc1YXJFYjZja05wOWhScXc4U1p2U2labG1RbWxqeDRCSmw0dzNNOFNkbkpUVFlhNE16LWJCMl93WExBZ0gyZFJnaFlIeNIBqgFBVV95cUxNUkZfU2t0d0tHS3Y2anBwNEhlcjJNWVVEN1hmM1k5blRQZVQzQVVBOEQ3d3BtRWVsbll1OXdrSTAzMVMtVVg0bFphY2dtNDF1S243TnlsRzRqNE5VeTRRNFo0WlhzMEZSOXNpNnNFYlh5dWctX0lBb0ItUGVvTHdwVE84dmNGWnk1cEVxdk1YbkdraDJzRGQzWXlDQ1M5NTBkTU5pQzhwMlhkdw?oc=5",
-     "ts": "2026-10-28T05:19:02Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T05:31:05Z",
+  "last_run": "2026-11-04T05:40:53Z",
   "last_log": [
-   "rockstar_site: 0/4",
-   "gnews_en: 95/100",
+   "rockstar_site: 0/3",
+   "gnews_en: 96/100",
    "gnews_ru: 90/100",
    "gamesbeat: 2/10",
    "vgc: 0/10",
@@ -67539,7 +67539,7 @@
    "dexerto_gta: 5/50",
    "rockstarintel: 2/10",
    "gtaboom: 8/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 7/15",
    "tg_gta6_m: 7/17",
