@@ -4,7 +4,7 @@
    "id": "9cf1b72f791d",
    "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
    "first_seen": "2026-11-03T15:01:17Z",
-   "updated": "2026-11-04T04:10:53Z",
+   "updated": "2026-11-04T04:20:52Z",
    "items": [
     {
      "id": "9cf1b72f791d",
@@ -369,6 +369,19 @@
      "url": "https://www.reddit.com/r/GTAVI/comments/1xneesh/playstation_says_you_need_212_gb_of_storage_space/",
      "ts": "2026-11-04T04:02:22Z",
      "summary": "Just wait until the update sizes. submitted by /u/PresidentPig to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "715e937289e8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag Middle East",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Preloading Starts Nov. 10, Requires Up to 212GB of Space",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2d6MGN6ZXdDaG00RTdPQTg0NDAwWllPU3Vlb2Fma19iZTNFOTJtRzVzVnd2R25NM3VjSk9mNnJfcXRTaDYyVEd4U0pBUVJLRGlUbEpNZmlDbEdYYmliUVhrNm9YbEZnSFJISm52UVZSbkNRTFFtUzdKeHNvUXNiY0l1X2RNaHNvbElWSmY4TjNqODQteHpXcWtrdw?oc=5",
+     "ts": "2026-11-04T04:15:09Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -378,6 +391,58 @@
    "score": 100,
    "level": "PROBABLE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "4e189ecc5e25",
+   "title": "A physical release would require 3 disks.",
+   "first_seen": "2026-11-04T04:20:52Z",
+   "updated": "2026-11-04T04:20:52Z",
+   "items": [
+    {
+     "id": "4e189ecc5e25",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "A physical release would require 3 disks.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnemuo/a_physical_release_would_require_3_disks/",
+     "ts": "2026-11-04T04:13:55Z",
+     "summary": "I’d definitely either scratch one or one would get lost in the ether. submitted by /u/Unlucky-Case-1089 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "861d426e208f",
+   "title": "Could the GTA 6 launch break the Australian internet? We asked NBN Co to find out",
+   "first_seen": "2026-11-04T04:20:52Z",
+   "updated": "2026-11-04T04:20:52Z",
+   "items": [
+    {
+     "id": "861d426e208f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TechRadar",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Could the GTA 6 launch break the Australian internet? We asked NBN Co to find out",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRUZKUlIybU5RQVVvdFpsUzNvM0xhbDdmRWtwdW1TNHJKOHE2dGdmTkVmWHRaNmp3N3oxR3ptTF9tdmg0Y0U3QUtfTmZaTDVhZXNaWE9fUjJBQUpDQ0ZSU3dLamtiN3VyWjhDYU41OGZqcnlVN0VNeWE5ZHZral9tQndWUFlsS251OWFyRkNSdkhWQkNOTGtUQ2RsLUhULWItMkhMWW5GcVlleUpJRUVtWEh6QlFHNWNaNW5iWVJKamdzeW94NXozb3ZkWmo?oc=5",
+     "ts": "2026-11-04T04:19:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -67324,11 +67389,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T04:10:53Z",
+  "last_run": "2026-11-04T04:20:52Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 96/100",
-   "gnews_ru: 85/95",
+   "gnews_en: 95/100",
+   "gnews_ru: 90/100",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
