@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "d8801fe23def",
+   "title": "Судьбу акций Microsoft решат Azure, GTA VI и капзатраты",
+   "first_seen": "2026-11-04T21:31:00Z",
+   "updated": "2026-11-04T21:31:00Z",
+   "items": [
+    {
+     "id": "d8801fe23def",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Судьбу акций Microsoft решат Azure, GTA VI и капзатраты",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GTnptczQ4alp0YjhkLUw2QTF0MUJ5OERMVEVlNkdISWFkakQzZ3RhYlNjSTBNakg2bE5SMEd1dDRtODhXNEV1X0hwMFdxc0RQbV9WcS1JMDlfdEc0emxvbWtncEJGR3RNRFdzeTdFWnQxcWFxTUxqOXB1dFIwMFE?oc=5",
+     "ts": "2026-11-04T15:17:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "712b57096541",
+   "title": "We’re Nostalgic for GTA 6 Leaks Before GTA 6",
+   "first_seen": "2026-11-04T21:31:00Z",
+   "updated": "2026-11-04T21:31:00Z",
+   "items": [
+    {
+     "id": "712b57096541",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We’re Nostalgic for GTA 6 Leaks Before GTA 6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo0io7/were_nostalgic_for_gta_6_leaks_before_gta_6/",
+     "ts": "2026-11-04T21:29:48Z",
+     "summary": "submitted by /u/ToolTek_MD to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "568837bb862f",
    "title": "GTA 6 Survey Reveals People Really Want GTA Online, But It Hasn’t Been Confirmed Yet",
    "first_seen": "2026-11-04T09:20:53Z",
@@ -69530,67 +69584,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a35679f70f6a",
-   "title": "A $50,000 PS5 bug bounty has sparked a fight over GTA 6 and console modding",
-   "first_seen": "2026-10-28T18:40:56Z",
-   "updated": "2026-10-28T21:20:52Z",
-   "items": [
-    {
-     "id": "a35679f70f6a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "SecurityLab.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "ИИ нашёл дыру в PS5 и принёс хакеру $50 000. Казалось бы, причём тут GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HREx2ZjBzSDNEeERMd2lXM3BPaUE4bVl1bjFUVGUxYUFfcWoybV8wNUU3NE1OX3p2THpEc2FRWTVZMVBjX0hKLVN2X1hSQ1Y5M1E4Tw?oc=5",
-     "ts": "2026-10-28T18:34:11Z",
-     "summary": ""
-    },
-    {
-     "id": "0cfa4d0ae607",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "A $50,000 PS5 bug bounty has sparked a fight over GTA 6 and console modding",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZlRtVGt3TDIyU0ZvZ1JlVGNnR0VaZnlTVmtsMXlmSHhRb2pFNmRjU0NaZmh0YWYyX1l4NzJMdHZIdFNEYURyWFNZR0xsNXRGbldyOUs3ckhpWjFZQzIwT0Mya3BDejlVMkN2am1RdEJQQXNiMWZNZnpKcTdoZDdTbw?oc=5",
-     "ts": "2026-10-28T21:00:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "ИИ взломал PS5 и принёс $50 000. При чём тут GTA 6?",
-    "summary": "ИИ нашёл уязвимость в PS5 и принёс хакеру 50 000 долларов, сообщает SecurityLab. Из-за этого Rockstar может пересмотреть защиту и предзагрузку GTA 6 на PS5.",
-    "idea": "Показываем, как ИИ «взламывает» PS5 за минуты, и объясняем, почему это может изменить защиту и предзагрузку GTA 6. Зрителю важно: не пропадёт ли предзагрузка и не задержат ли релиз.",
-    "hook": "ИИ взломал PS5 и заработал 50 тысяч. Что будет с GTA 6 на плойке?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-28T18:40:59Z"
-   },
-   "msg_id": 270
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T21:20:43Z",
+  "last_run": "2026-11-04T21:31:00Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 77/81",
+   "gnews_ru: 79/83",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
