@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "95952bd77133",
+   "title": "GTA 6 ads spotted NYC",
+   "first_seen": "2026-11-04T08:01:26Z",
+   "updated": "2026-11-04T08:01:26Z",
+   "items": [
+    {
+     "id": "95952bd77133",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 ads spotted NYC",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnij1g/gta_6_ads_spotted_nyc/",
+     "ts": "2026-11-04T07:58:18Z",
+     "summary": "Just got off work and spotted across the street. On Varick & Dominick. 15 days to go! submitted by /u/UnionAfter to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f34ed2da3786",
    "title": "Jason is just male V",
    "first_seen": "2026-11-04T07:50:51Z",
@@ -67777,11 +67803,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T07:50:51Z",
+  "last_run": "2026-11-04T08:01:26Z",
   "last_log": [
-   "rockstar_site: 0/3",
-   "gnews_en: 95/100",
-   "gnews_ru: 82/90",
+   "rockstar_site: 0/4",
+   "gnews_en: 97/100",
+   "gnews_ru: 81/89",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
