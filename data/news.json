@@ -1,6 +1,166 @@
 {
  "stories": [
   {
+   "id": "eb9b189daf4b",
+   "title": "Bulkhead Takes December Off and Tells Wardogs Players to Enjoy GTA 6",
+   "first_seen": "2026-11-04T23:30:56Z",
+   "updated": "2026-11-04T23:40:45Z",
+   "items": [
+    {
+     "id": "eb9b189daf4b",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Bulkhead Is Giving Its Team December Off and Tells Players to Enjoy GTA 6",
+     "url": "https://www.gtaboom.com/bulkhead-is-giving-its-team-december-off-to-play-gta-6-3e62",
+     "ts": "2026-11-04T23:29:01Z",
+     "summary": "Bulkhead is giving its team December off, with CEO Joe Brammer urging Wardogs players to spend the break playing GTA 6."
+    },
+    {
+     "id": "22349a3b858f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Bulkhead Takes December Off and Tells Wardogs Players to Enjoy GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGFnMjFIWTlJU0ZpVG5wNGxLak8yR1kxRkNCYWhJMFVnYkFCWnVYZkY2V0FRUldSajQwcjEyZFNZZEs3cE9mQ0dzOHlWaDVUaWdaNnRKVW1rZm9KRnp6RzlyRVlKTWpPYUcyU2x5eVZ6N1pKWUM5YmRxY1EzcDNzN0dnNDVGWnRudkZJ?oc=5",
+     "ts": "2026-11-04T23:29:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "f080e0c318ff",
+   "title": "Аналитики оценили предзаказы GTA VI почти в 8 млн копий",
+   "first_seen": "2026-11-04T23:40:45Z",
+   "updated": "2026-11-04T23:40:45Z",
+   "items": [
+    {
+     "id": "f080e0c318ff",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "airpress.kz",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Аналитики оценили предзаказы GTA VI почти в 8 млн копий",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TNElZbjduWGVmTndMRTd5SHdiNGhzMDNqTEtrdC1hNDc0bFV3R0xMLXJFS1pSOG9PN1pUczZyRTI1elE4cnQwNUN4RERSSG9PUDFqTFRxY2NVZFhXSUQ4MFRkT190MFB0c2FOWlJ6YkI1dHN6?oc=5",
+     "ts": "2026-11-04T23:21:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Аналитики посчитали предзаказы GTA 6: почти 8 млн копий",
+    "summary": "По данным airpress.kz, аналитики оценили предзаказы GTA 6 почти в 8 млн копий. Официально Rockstar и Take-Two цифры не раскрывали.",
+    "idea": "Считаем деньги: превращаем 8 млн предзаказов в живые примеры — сколько это стадионов и чемоданов с наличкой. Зрителю интересно увидеть масштаб в понятных образах.",
+    "hook": "8 миллионов предзаказов GTA 6 — это сколько на самом деле? Считаем в понятных вещах.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-04T23:40:51Z"
+   },
+   "msg_id": 519
+  },
+  {
+   "id": "b69d39e36c24",
+   "title": "I built the Belmar Condominium (Lucias real life apartment building) in the Sims 4",
+   "first_seen": "2026-11-04T23:40:45Z",
+   "updated": "2026-11-04T23:40:45Z",
+   "items": [
+    {
+     "id": "b69d39e36c24",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I built the Belmar Condominium (Lucias real life apartment building) in the Sims 4",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo3emm/i_built_the_belmar_condominium_lucias_real_life/",
+     "ts": "2026-11-04T23:30:52Z",
+     "summary": "I made Lucias apartment from GTA VI: An Extended Look, but couldn't stop there and built the whole complex, which was demolished in 2022. Some areas are a bit of an amalgamation of the real building and the apartment from the extended look. It took me quite a while to map out the blueprints haha. I'm very curious how close the game copied the other real life apartments There are six rentable units and the others still need to be decorated. I only recreated what I could find on Zillow and other realty websites, except for some common areas. I have a lot more photos if you're interested, but cou"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7145a5b84d11",
+   "title": "Custom made puzzles",
+   "first_seen": "2026-11-04T23:40:45Z",
+   "updated": "2026-11-04T23:40:45Z",
+   "items": [
+    {
+     "id": "7145a5b84d11",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Custom made puzzles",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo3i0j/custom_made_puzzles/",
+     "ts": "2026-11-04T23:35:07Z",
+     "summary": "I just got 2 sets of jigsaw puzzles delivered. The vertical one depicting the Ultimate Edition cover art is perfect, I'm definitely going to frame it once completed 🤘 I won't be framing the horizontal puzzle because the image came distorted, so once solved, it'll be disassembled for future reuse. submitted by /u/Kryske to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "144a0bb45a0f",
+   "title": "Only two weeks left! (GTA 6 Wallpaper GIF)",
+   "first_seen": "2026-11-04T23:40:45Z",
+   "updated": "2026-11-04T23:40:45Z",
+   "items": [
+    {
+     "id": "144a0bb45a0f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Only two weeks left! (GTA 6 Wallpaper GIF)",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo3kcm/only_two_weeks_left_gta_6_wallpaper_gif/",
+     "ts": "2026-11-04T23:38:06Z",
+     "summary": "Each frame was made in Photoshop :) submitted by /u/Gigabitten to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6533048b32b7",
    "title": "My ps5 is ready",
    "first_seen": "2026-11-04T23:30:56Z",
@@ -49,32 +209,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "eb9b189daf4b",
-   "title": "Bulkhead Is Giving Its Team December Off and Tells Players to Enjoy GTA 6",
-   "first_seen": "2026-11-04T23:30:56Z",
-   "updated": "2026-11-04T23:30:56Z",
-   "items": [
-    {
-     "id": "eb9b189daf4b",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "Bulkhead Is Giving Its Team December Off and Tells Players to Enjoy GTA 6",
-     "url": "https://www.gtaboom.com/bulkhead-is-giving-its-team-december-off-to-play-gta-6-3e62",
-     "ts": "2026-11-04T23:29:01Z",
-     "summary": "Bulkhead is giving its team December off, with CEO Joe Brammer urging Wardogs players to spend the break playing GTA 6."
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -70102,11 +70236,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T23:30:56Z",
+  "last_run": "2026-11-04T23:40:52Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/4",
    "gnews_en: 95/100",
-   "gnews_ru: 74/78",
+   "gnews_ru: 73/77",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -70115,7 +70249,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 1/10",
    "gtaboom: 12/30",
-   "reddit: 25/25",
+   "reddit: 24/25",
    "tg_gtavistar: 7/12",
    "tg_gta6deluxe: 7/16",
    "tg_gta6_m: 7/19",
