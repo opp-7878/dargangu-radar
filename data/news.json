@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "6533048b32b7",
+   "title": "My ps5 is ready",
+   "first_seen": "2026-11-04T23:30:56Z",
+   "updated": "2026-11-04T23:30:56Z",
+   "items": [
+    {
+     "id": "6533048b32b7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "My ps5 is ready",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo37yu/my_ps5_is_ready/",
+     "ts": "2026-11-04T23:22:27Z",
+     "summary": "Made a skin for my ps5 so it's full prepared for GTA submitted by /u/Fit-Dot5495 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c6edc409fa3c",
+   "title": "GTA 6 in Real Life — Almost Identical! 🤯",
+   "first_seen": "2026-11-04T23:30:56Z",
+   "updated": "2026-11-04T23:30:56Z",
+   "items": [
+    {
+     "id": "c6edc409fa3c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 in Real Life — Almost Identical! 🤯",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo3b31/gta_6_in_real_life_almost_identical/",
+     "ts": "2026-11-04T23:26:25Z",
+     "summary": "submitted by /u/New_Individual4750 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "eb9b189daf4b",
+   "title": "Bulkhead Is Giving Its Team December Off and Tells Players to Enjoy GTA 6",
+   "first_seen": "2026-11-04T23:30:56Z",
+   "updated": "2026-11-04T23:30:56Z",
+   "items": [
+    {
+     "id": "eb9b189daf4b",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Bulkhead Is Giving Its Team December Off and Tells Players to Enjoy GTA 6",
+     "url": "https://www.gtaboom.com/bulkhead-is-giving-its-team-december-off-to-play-gta-6-3e62",
+     "ts": "2026-11-04T23:29:01Z",
+     "summary": "Bulkhead is giving its team December off, with CEO Joe Brammer urging Wardogs players to spend the break playing GTA 6."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "bf86ff2440de",
    "title": "GTA 6 Has Already Made an Estimated $750 Million in Pre-Orders",
    "first_seen": "2026-11-04T15:11:26Z",
@@ -70024,10 +70102,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T23:20:42Z",
+  "last_run": "2026-11-04T23:30:56Z",
   "last_log": [
-   "rockstar_site: 0/4",
-   "gnews_en: 96/100",
+   "rockstar_site: 0/5",
+   "gnews_en: 95/100",
    "gnews_ru: 74/78",
    "gamesbeat: 1/10",
    "vgc: 0/10",
@@ -70036,7 +70114,7 @@
    "eurogamer: 1/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 1/10",
-   "gtaboom: 11/30",
+   "gtaboom: 12/30",
    "reddit: 25/25",
    "tg_gtavistar: 7/12",
    "tg_gta6deluxe: 7/16",
