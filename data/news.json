@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "b814ffd1e8df",
+   "title": "GTA 6 marketing is getting out of hand… or paw…",
+   "first_seen": "2026-11-04T12:50:51Z",
+   "updated": "2026-11-04T12:50:51Z",
+   "items": [
+    {
+     "id": "b814ffd1e8df",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 marketing is getting out of hand… or paw…",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnn8oz/gta_6_marketing_is_getting_out_of_hand_or_paw/",
+     "ts": "2026-11-04T12:43:08Z",
+     "summary": "submitted by /u/TheCornerKook to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2b92ac19fd50",
+   "title": "Some people with these unrealistic expectations are really going to be disappointed with the game😭",
+   "first_seen": "2026-11-04T12:50:51Z",
+   "updated": "2026-11-04T12:50:51Z",
+   "items": [
+    {
+     "id": "2b92ac19fd50",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Some people with these unrealistic expectations are really going to be disappointed with the game😭",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnn9np/some_people_with_these_unrealistic_expectations/",
+     "ts": "2026-11-04T12:44:26Z",
+     "summary": "submitted by /u/aimanhakim249 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e40b8e6a3927",
+   "title": "Will GTA 6 live up to the hype and expectations or will it under deliver?",
+   "first_seen": "2026-11-04T12:50:51Z",
+   "updated": "2026-11-04T12:50:51Z",
+   "items": [
+    {
+     "id": "e40b8e6a3927",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Will GTA 6 live up to the hype and expectations or will it under deliver?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xnnbw6/will_gta_6_live_up_to_the_hype_and_expectations/",
+     "ts": "2026-11-04T12:47:34Z",
+     "summary": "What do you think? submitted by /u/Forward-Performer-58 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9cf1b72f791d",
    "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
    "first_seen": "2026-11-03T15:01:17Z",
@@ -68904,79 +68982,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7f2ef08e267c",
-   "title": "Инсайдер раскрыл, как Rockstar Games предотвратила будущие утечки GTA 6",
-   "first_seen": "2026-10-28T12:40:54Z",
-   "updated": "2026-10-28T12:40:54Z",
-   "items": [
-    {
-     "id": "7f2ef08e267c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Инсайдер раскрыл, как Rockstar Games предотвратила будущие утечки GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1RoY25HaGdNNGhhUnpXNDYyVUwxdC1rQVBPYnVnaktyTFJVZUpaV0dYUHNGVWVVN1A5ZjhRb29rZjdMNDB2QV9sY2xWWkhTYlVvRDNTTWJOTEM3Nl84UU5Ua1VfYlBSNEJ2YTlXbTJxUDVqcVNMR2Y1NjFNYmhLUVduZmUybTQ1cFhxdkI3OFlCaUtwQVhkMnJ5ZWhLOEdN?oc=5",
-     "ts": "2026-10-28T11:34:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 55,
-   "level": "SPECULATION",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Как Rockstar остановила утечки GTA 6: инсайдер раскрыл схему",
-    "summary": "Инсайдер рассказал, как Rockstar Games предотвратила будущие утечки GTA 6. По его словам, студия усилила контроль доступа и изоляцию сборок. Официально Rockstar это не подтверждала.",
-    "idea": "Короткий разбор: какие барьеры ставит Rockstar против сливов и почему это важно перед релизом. Зрителю интересно, как защищают игру, которую все ждут.",
-    "hook": "Сливы GTA 6 достали Rockstar — вот как они их остановили.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-28T12:40:58Z"
-   },
-   "msg_id": 253
-  },
-  {
-   "id": "a617fe7fbd05",
-   "title": "Cliff Richard doesn’t know what ‘GTA 6’ is – despite ‘Devil Woman’ sync resurgence",
-   "first_seen": "2026-10-28T12:40:54Z",
-   "updated": "2026-10-28T12:40:54Z",
-   "items": [
-    {
-     "id": "a617fe7fbd05",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NME",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Cliff Richard doesn’t know what ‘GTA 6’ is – despite ‘Devil Woman’ sync resurgence",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnZNS0RFQ2NramtqamphandEaXF3eTRHam5vTlp6dGdacTJIalRiZ1pNMnM4dUllNHNkME9jVTNmRktBWWVhZmY3WTQxbXh4QkdXa1NSR2I4TVQ5cks1S2lRVmlwc2xrNjZmQkZ4azRRTWhpVGRfSnp4YndtQ0k4Ym9PWVhkS3BWLWRmUDhJek1qeFMwUEwzUmNtSXlvQ3liZlJ0LUp3clpjX0Vj?oc=5",
-     "ts": "2026-10-28T12:37:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T12:40:50Z",
+  "last_run": "2026-11-04T12:50:51Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 96/100",
+   "gnews_en: 97/100",
    "gnews_ru: 95/100",
    "gamesbeat: 2/10",
    "vgc: 0/10",
@@ -68986,7 +68999,7 @@
    "dexerto_gta: 4/50",
    "rockstarintel: 1/10",
    "gtaboom: 9/30",
-   "reddit: 23/25",
+   "reddit: 25/25",
    "tg_gtavistar: 9/12",
    "tg_gta6deluxe: 7/16",
    "tg_gta6_m: 6/17",
