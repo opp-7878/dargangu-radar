@@ -1,60 +1,10 @@
 {
  "stories": [
   {
-   "id": "641821d31d16",
-   "title": "GTA 6 Is A Massive Download, But You May Qualify For A Free Speed Boost To Download It Faster",
-   "first_seen": "2026-11-04T20:10:46Z",
-   "updated": "2026-11-04T21:50:47Z",
-   "items": [
-    {
-     "id": "641821d31d16",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 Is A Massive Download, But You May Qualify For A Free Speed Boost To Download It Faster",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdnBJTGpiTVFtSllNdHVvbXM2Z3FLd0JfU1dzcEhndUpSR2V5UzlfQTg0NGV0U0NPUldIWW0zakU1QVh4QjdoQTEwbnVzM1A2enlFQUhPcWRzVHNJalhqVVc2VUVFLWpSb2UwNkpGNFBEOGdwYk9QTk5MR1ZUVk9BNEZKbUh5M0RoanBmM2Uyd2c2UC1sZWw1XzQwTkx3TjU0M1MycXBhSWhleTNfaHBJRTZWbjA3MzhMdEtKNVh5UzRxN3JaLUE?oc=5",
-     "ts": "2026-11-04T20:06:07Z",
-     "summary": ""
-    },
-    {
-     "id": "d390ceb87fae",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Is A Massive Download, But You May Qualify For A Free Speed Boost To Download It Faster",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMG1KNHE4QU04OThiQjc5cHVvelVHYnhwYXU5RXdqSm5RbDFmUHAtcGlScW5zYmZiQVBNRTZSRTFHbk5SdXA0aU9jaFZiWjFpSW5pcXRxTUplemJxS0xobVdoTUtQOXduaUtqZmJFbHZqS1R5b05rMG05N3FpMDc1R1V5cVF2alk?oc=5",
-     "ts": "2026-11-04T20:03:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 весит много, но можно ускорить загрузку бесплатно",
-    "summary": "По данным GameSpot, GTA 6 — очень большой файл для скачивания, но игроки могут получить бесплатный буст скорости. Ускорение доступно не всем, а только тем, кто подходит под условия провайдера.",
-    "idea": "Показать шкалу загрузки GTA 6, которая еле ползёт, и затем — как она ускоряется после включения бесплатного буста. Зрителю важно понять, как не ждать часы на релизе.",
-    "hook": "Гигантский размер GTA 6? Вот как скачать игру намного быстрее и бесплатно.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-04T20:10:51Z"
-   },
-   "msg_id": 517
-  },
-  {
    "id": "0742ec72eb2c",
    "title": "GTA 6 Pre-Order Bonus: What You Get and Is It Worth It?",
    "first_seen": "2026-11-04T08:10:55Z",
-   "updated": "2026-11-04T21:50:47Z",
+   "updated": "2026-11-04T22:01:11Z",
    "items": [
     {
      "id": "0742ec72eb2c",
@@ -120,11 +70,25 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xo0yss/gta_subscription_with_preorder/",
      "ts": "2026-11-04T21:47:52Z",
      "summary": "Hey, I'm moving over to PS5 from Xbox and I have pre-ordered GTA6 Ultimate from the PS Store. In the bonuses there is a 1 month free GTA+. What can I use it for, since GTA6 won't have online multiplyer? Also, i haven't got GTA5 on my PS, last I've played it was back on my Xbox One.. submitted by /u/Optimus--Crime to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "428983d3e940",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Physical Pre-Order",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo11b8/physical_preorder/",
+     "ts": "2026-11-04T21:50:40Z",
+     "summary": "Random question, but I preorder the empty code in box (Lmao) from a store near me, how do I make sure I get the preorder Bonuses with the code in box? How will my PlayStation know I preordered it from a retailer? I just can’t connect the dots on how the system/game will know it was preordered? I’m guessing maybe by preloading? I have no clue. Digital I get because you do it on the system store. Anyone know for sure? submitted by /u/Secure-Tea-6821 to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [
     "Online",
     "ПК",
+    "размер/preload",
     "цена/издания"
    ],
    "score": 81,
@@ -142,6 +106,261 @@
     "at": "2026-11-04T08:10:59Z"
    },
    "msg_id": 493
+  },
+  {
+   "id": "cc1c69c5f080",
+   "title": "Sony reportedly freezes PSN account after user sends GTA 6 leak through PS App chat",
+   "first_seen": "2026-11-04T09:20:53Z",
+   "updated": "2026-11-04T22:01:11Z",
+   "items": [
+    {
+     "id": "cc1c69c5f080",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony reportedly freezes PSN account after user sends GTA 6 leak through PS App chat",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlFzQnBXS3JxckppQ29qenhmZ2xEcGhGNUFTUjNOYlFmWkM4MWh1dWQwMWJRVHBsWjFHZFV5THNuTC1rMDRlWU1rclNZWHAyellkZTZtMTNZY2FhbFRiUGxOaG9SZFBqZlZDbFlXdmFNOFN0dWM5a0lwazA4bGRURTgtNy1kaVlNLU00SWpfMVNpSHFUdjRJV1IyMnhEOUVqQXE4WGR3?oc=5",
+     "ts": "2026-11-04T09:14:56Z",
+     "summary": ""
+    },
+    {
+     "id": "53dd978783b9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "https://tech-insider.org/",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Leak PSN Bans: Only 1 Reddit Post Backs It [2026]",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVMyUHJjMVVFR09aM2o4akdPNDcyQzBMS1hiVU93aFQ4WG9EcENOMjZYSTZDRnByOEdWTFlTWEhVQ2ZWR0JzRTh4LUY3U1ZqejVXZzNmMzZYdENPd3d4dFFxYS1PdU5QOGdUVDBtLXFRdzY5TGVIejlNOXVDMmVJRTJBS0x1UUdpUDNyZThIS3Y?oc=5",
+     "ts": "2026-11-04T09:30:18Z",
+     "summary": ""
+    },
+    {
+     "id": "1452589e4e90",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "https://tech-insider.org/",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Leak: $2B Budget Claim Unconfirmed [2026]",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPekUzSktGV2tfMTFCcEpCQ280cHVERFlzbzJCR1RtV3NYamVITmtXc0xJby15aWw5YmkyTGhiVWh1MFdQcXBuTGpPT2t6UFFkcFQ5SWlRUTJFWGlINXFINEp2WHUtcEFYUzBncFZpNWQwZXJTQms0MG51Vy1ta1RGWG5ELU9yOUhwUnpES0xhOVo?oc=5",
+     "ts": "2026-11-04T13:42:43Z",
+     "summary": ""
+    },
+    {
+     "id": "df6d795d837b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "shattered.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony PSN Freeze Over GTA 6 Leak: 0 Confirmations [2026]",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2dJYXZvTkFjSkFYcE5wNGtZVDBFSDJpVDl2UElFRi1uRVFHZU1xUlgtWXE4SFAtbWJKVnRROGdXV1lBZWdyMWVPa083OGJzZUNSUWh6a3RNN3BiUEdtVC1saVB2MGVBckxPN2FnYTAwX1gyZnZPYzhTOElNOWpMTWVkOHhieVd1enNmWHNR?oc=5",
+     "ts": "2026-11-04T21:56:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "слив",
+    "цена/издания"
+   ],
+   "score": 81,
+   "level": "SPECULATION",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "f6127f35db77",
+   "title": "Have a question about the GTA6 Pre order estimates.",
+   "first_seen": "2026-11-04T22:01:11Z",
+   "updated": "2026-11-04T22:01:11Z",
+   "items": [
+    {
+     "id": "f6127f35db77",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Have a question about the GTA6 Pre order estimates.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo13gn/have_a_question_about_the_gta6_pre_order_estimates/",
+     "ts": "2026-11-04T21:53:11Z",
+     "summary": "There are about 130 million current gen consoles. If Sensor Tower is right, GTA 6 has around 8 million digital preorders. Even if it hits 10 million by launch, that’s only about 8% of consoles and 2 million more than Cyberpunk had. I know Cyberpunk included PC and physical copies, but I still expected more from GTA. And yeah, people will buy it after launch, but that’s true for every game. With all this hype building toward release, am I crazy for expecting a bigger number? submitted by /u/YellowEasterEgg to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "ПК",
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "99ea3acde9a9",
+   "title": "Did the mappers missed these interiors?",
+   "first_seen": "2026-11-04T22:01:11Z",
+   "updated": "2026-11-04T22:01:11Z",
+   "items": [
+    {
+     "id": "99ea3acde9a9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Did the mappers missed these interiors?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo1849/did_the_mappers_missed_these_interiors/",
+     "ts": "2026-11-04T21:58:32Z",
+     "summary": "Those houses lack interiors in the mppaing project, but we can see in the Extended Look that the interiors are there. submitted by /u/PirloDiLatte to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f111f2383362",
+   "title": "Rockstar Confirms GTA 6 Preload Starts November 10 With a Download of Up to 212 GB",
+   "first_seen": "2026-11-04T19:20:45Z",
+   "updated": "2026-11-04T22:01:10Z",
+   "items": [
+    {
+     "id": "f111f2383362",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "gHacks",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Confirms GTA 6 Preload Starts November 10 With a Download of Up to 212 GB",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWp5THVESlhQTUhrZXc5RXZXQzBCb0FuOGkwWm1CX3lfNi1yM3VhV1ZzVElkUEY1S3AwUjBLaVBwSmZiVDNfZ1JLbElBSWxfd0Q5MEk2VFNJdHlCV25FT3B1dFA3MGlOM1NDNUVNQ2Q1UUs3Z3BEcFI3dEpEY201c2V1OWR2TWhMelk2N3pnVWprdDNOM3dXN3RWNi15Z1RqU3cxTG9iV1R0MUtfYzNjU2hyR1FhNlFQ?oc=5",
+     "ts": "2026-11-04T19:17:05Z",
+     "summary": ""
+    },
+    {
+     "id": "0f2cdeb9ecd8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ComicBook.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Officially Releases Its Monster GB Download Size",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYlQyRVcxb0kzQ0VIcHdFeXlWOXMzbks4dmFLSXE1Q0ktalc2T0JRVm82dUdPWFJlM2hURGJFcjNpaXdQbTJySktrSXJkeFZDZU4tM25BclduQ0VpU1g1ZHY4S0lZcVFiaHdsZVdadWh5V2F6ZHNUd21YN1pZd005OTlqczdqenJnVXM3dlZGaVlXNnc?oc=5",
+     "ts": "2026-11-03T23:24:41Z",
+     "summary": ""
+    },
+    {
+     "id": "80538ab6c299",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable India",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Pre-Loading Starts November 10: How Early Can You Download The Game?",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkthZndpblRiaGdYR0dZRFEwcW0xUkU0c3E5MjdlU1VuZjA1emw1Rl9uZnBadHFpSnAxQ1FVdDVqTld5bUJQMHZtVl9Ka2Jfek9LeUZ2TllCNGJSWmFrNHNOYlZJRjVRa00wSlZMRE1SbHNLZ2otNFBtcktacWowMlpnc0ZpdWNKNDNIT2JtNWFhaGJneEZIeVVuSEdxMkNDbVJ3Vl8zdmdwOWct?oc=5",
+     "ts": "2026-11-04T10:11:46Z",
+     "summary": ""
+    },
+    {
+     "id": "44e298ed582f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NoobFeed",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Preloads Start on November 10 With a 212 GB Download Size",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJOHk4cFdyZ09ZMGM1ZFFFd2xhaHFwVUx4TzRsLVVTZkZCclJVU2tXZ0UwWlZfNXNzOTVob1c5QUNXRzJMeng2eHMtb1BhMk8xZVBUbmZQa1Y2TGo1dlVaR3JUa0tuZw?oc=5",
+     "ts": "2026-11-04T12:58:29Z",
+     "summary": ""
+    },
+    {
+     "id": "671def2c142a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "en.ain.ua",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI will be available to download before launch: it will require up to 212 GB of storage",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNHY2M1M2XzFFR0R0d0JjWFNNUmVVRzBBcUtVTHRUQjdQcjdGaXNrdEpsM0plTmlCOERpaE16TzZrVVUwemdXSFUxMVhwX1BFRDFrdmNIcEltRTRrLUU0VmJPMTFOYWtqSnhlZzhGQmxVel82bzYzTm9XbnI4NDNOSkQwLTQ2Nm9BaTduX1BlNlhNZEZrUEM0anAtZ3ZJQVJicFlDenoxYXUtZGNkOG9LTDNmTnBrb0w3RFBDXw?oc=5",
+     "ts": "2026-11-04T15:51:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "размер/preload"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "641821d31d16",
+   "title": "GTA 6 Is A Massive Download, But You May Qualify For A Free Speed Boost To Download It Faster",
+   "first_seen": "2026-11-04T20:10:46Z",
+   "updated": "2026-11-04T21:50:47Z",
+   "items": [
+    {
+     "id": "641821d31d16",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Is A Massive Download, But You May Qualify For A Free Speed Boost To Download It Faster",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdnBJTGpiTVFtSllNdHVvbXM2Z3FLd0JfU1dzcEhndUpSR2V5UzlfQTg0NGV0U0NPUldIWW0zakU1QVh4QjdoQTEwbnVzM1A2enlFQUhPcWRzVHNJalhqVVc2VUVFLWpSb2UwNkpGNFBEOGdwYk9QTk5MR1ZUVk9BNEZKbUh5M0RoanBmM2Uyd2c2UC1sZWw1XzQwTkx3TjU0M1MycXBhSWhleTNfaHBJRTZWbjA3MzhMdEtKNVh5UzRxN3JaLUE?oc=5",
+     "ts": "2026-11-04T20:06:07Z",
+     "summary": ""
+    },
+    {
+     "id": "d390ceb87fae",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Is A Massive Download, But You May Qualify For A Free Speed Boost To Download It Faster",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMG1KNHE4QU04OThiQjc5cHVvelVHYnhwYXU5RXdqSm5RbDFmUHAtcGlScW5zYmZiQVBNRTZSRTFHbk5SdXA0aU9jaFZiWjFpSW5pcXRxTUplemJxS0xobVdoTUtQOXduaUtqZmJFbHZqS1R5b05rMG05N3FpMDc1R1V5cVF2alk?oc=5",
+     "ts": "2026-11-04T20:03:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 весит много, но можно ускорить загрузку бесплатно",
+    "summary": "По данным GameSpot, GTA 6 — очень большой файл для скачивания, но игроки могут получить бесплатный буст скорости. Ускорение доступно не всем, а только тем, кто подходит под условия провайдера.",
+    "idea": "Показать шкалу загрузки GTA 6, которая еле ползёт, и затем — как она ускоряется после включения бесплатного буста. Зрителю важно понять, как не ждать часы на релизе.",
+    "hook": "Гигантский размер GTA 6? Вот как скачать игру намного быстрее и бесплатно.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-04T20:10:51Z"
+   },
+   "msg_id": 517
   },
   {
    "id": "c81330bf7f6e",
@@ -442,74 +661,6 @@
     "at": "2026-11-04T11:10:56Z"
    },
    "msg_id": 496
-  },
-  {
-   "id": "f111f2383362",
-   "title": "Rockstar Confirms GTA 6 Preload Starts November 10 With a Download of Up to 212 GB",
-   "first_seen": "2026-11-04T19:20:45Z",
-   "updated": "2026-11-04T21:20:43Z",
-   "items": [
-    {
-     "id": "f111f2383362",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "gHacks",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Confirms GTA 6 Preload Starts November 10 With a Download of Up to 212 GB",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWp5THVESlhQTUhrZXc5RXZXQzBCb0FuOGkwWm1CX3lfNi1yM3VhV1ZzVElkUEY1S3AwUjBLaVBwSmZiVDNfZ1JLbElBSWxfd0Q5MEk2VFNJdHlCV25FT3B1dFA3MGlOM1NDNUVNQ2Q1UUs3Z3BEcFI3dEpEY201c2V1OWR2TWhMelk2N3pnVWprdDNOM3dXN3RWNi15Z1RqU3cxTG9iV1R0MUtfYzNjU2hyR1FhNlFQ?oc=5",
-     "ts": "2026-11-04T19:17:05Z",
-     "summary": ""
-    },
-    {
-     "id": "0f2cdeb9ecd8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ComicBook.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Officially Releases Its Monster GB Download Size",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYlQyRVcxb0kzQ0VIcHdFeXlWOXMzbks4dmFLSXE1Q0ktalc2T0JRVm82dUdPWFJlM2hURGJFcjNpaXdQbTJySktrSXJkeFZDZU4tM25BclduQ0VpU1g1ZHY4S0lZcVFiaHdsZVdadWh5V2F6ZHNUd21YN1pZd005OTlqczdqenJnVXM3dlZGaVlXNnc?oc=5",
-     "ts": "2026-11-03T23:24:41Z",
-     "summary": ""
-    },
-    {
-     "id": "80538ab6c299",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Pre-Loading Starts November 10: How Early Can You Download The Game?",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkthZndpblRiaGdYR0dZRFEwcW0xUkU0c3E5MjdlU1VuZjA1emw1Rl9uZnBadHFpSnAxQ1FVdDVqTld5bUJQMHZtVl9Ka2Jfek9LeUZ2TllCNGJSWmFrNHNOYlZJRjVRa00wSlZMRE1SbHNLZ2otNFBtcktacWowMlpnc0ZpdWNKNDNIT2JtNWFhaGJneEZIeVVuSEdxMkNDbVJ3Vl8zdmdwOWct?oc=5",
-     "ts": "2026-11-04T10:11:46Z",
-     "summary": ""
-    },
-    {
-     "id": "44e298ed582f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NoobFeed",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Preloads Start on November 10 With a 212 GB Download Size",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJOHk4cFdyZ09ZMGM1ZFFFd2xhaHFwVUx4TzRsLVVTZkZCclJVU2tXZ0UwWlZfNXNzOTVob1c5QUNXRzJMeng2eHMtb1BhMk8xZVBUbmZQa1Y2TGo1dlVaR3JUa0tuZw?oc=5",
-     "ts": "2026-11-04T12:58:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс",
-    "размер/preload"
-   ],
-   "score": 89,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   },
   {
    "id": "6189ba76296e",
@@ -6696,62 +6847,6 @@
    "score": 20,
    "level": "SPECULATION",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "cc1c69c5f080",
-   "title": "Sony reportedly freezes PSN account after user sends GTA 6 leak through PS App chat",
-   "first_seen": "2026-11-04T09:20:53Z",
-   "updated": "2026-11-04T14:01:19Z",
-   "items": [
-    {
-     "id": "cc1c69c5f080",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "eGamers.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony reportedly freezes PSN account after user sends GTA 6 leak through PS App chat",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlFzQnBXS3JxckppQ29qenhmZ2xEcGhGNUFTUjNOYlFmWkM4MWh1dWQwMWJRVHBsWjFHZFV5THNuTC1rMDRlWU1rclNZWHAyellkZTZtMTNZY2FhbFRiUGxOaG9SZFBqZlZDbFlXdmFNOFN0dWM5a0lwazA4bGRURTgtNy1kaVlNLU00SWpfMVNpSHFUdjRJV1IyMnhEOUVqQXE4WGR3?oc=5",
-     "ts": "2026-11-04T09:14:56Z",
-     "summary": ""
-    },
-    {
-     "id": "53dd978783b9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "https://tech-insider.org/",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Leak PSN Bans: Only 1 Reddit Post Backs It [2026]",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVMyUHJjMVVFR09aM2o4akdPNDcyQzBMS1hiVU93aFQ4WG9EcENOMjZYSTZDRnByOEdWTFlTWEhVQ2ZWR0JzRTh4LUY3U1ZqejVXZzNmMzZYdENPd3d4dFFxYS1PdU5QOGdUVDBtLXFRdzY5TGVIejlNOXVDMmVJRTJBS0x1UUdpUDNyZThIS3Y?oc=5",
-     "ts": "2026-11-04T09:30:18Z",
-     "summary": ""
-    },
-    {
-     "id": "1452589e4e90",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "https://tech-insider.org/",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI Leak: $2B Budget Claim Unconfirmed [2026]",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPekUzSktGV2tfMTFCcEpCQ280cHVERFlzbzJCR1RtV3NYamVITmtXc0xJby15aWw5YmkyTGhiVWh1MFdQcXBuTGpPT2t6UFFkcFQ5SWlRUTJFWGlINXFINEp2WHUtcEFYUzBncFZpNWQwZXJTQms0MG51Vy1ta1RGWG5ELU9yOUhwUnpES0xhOVo?oc=5",
-     "ts": "2026-11-04T13:42:43Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс",
-    "слив",
-    "цена/издания"
-   ],
-   "score": 73,
-   "level": "SPECULATION",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -69584,182 +69679,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "d61e422c693f",
-   "title": "20 Movies You Should Watch Before GTA 6",
-   "first_seen": "2026-10-28T12:20:55Z",
-   "updated": "2026-10-28T21:50:54Z",
-   "items": [
-    {
-     "id": "d61e422c693f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "20 Movies You Should Watch Before GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRlRERGRmSDdHcnpfT2JENGJTUjBBNkhVNHJKVFJJVi1ORTFEOElSenN1bjBURjN5aGRXOHZlZXRfLVVYUHZBOVlBU3FmRlN0OW1FNWZVMWhzTDVKazZ4SmUyUjNvRUJKcVNINTRXb1Jvblg5emYyRnhsLUdUTUJzWjhhdzQ1dnNLamk5X3l4MGp4QQ?oc=5",
-     "ts": "2026-10-28T12:02:31Z",
-     "summary": ""
-    },
-    {
-     "id": "595e8b82fbe7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WhatCulture.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "20 Movies You Should Watch Before GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUm45azUyTHFWVExMSkxXWHozQktGazM0Nm4zNUF2XzQwLXZHQ3ZKYnU2elc4T0VtZk8xcG9wZVZ0eVhZWWZJQzJOYl9Ub09uX0oxQXhKLUdPQS1KdFVyWHdtOXRXUUQtU3gxV3hfU25GZzIwREdNaDVobjA5ZEpUS1VQTG1FZw?oc=5",
-     "ts": "2026-10-28T12:02:31Z",
-     "summary": ""
-    },
-    {
-     "id": "54aced5c774b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WhatCulture.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "20 Movies You Should Watch Before GTA 6 – Page 2",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORFNnU254YnZtVFU1djNkTS02UXMxMGVhSDdxSTl4d1lITEhXcEVGREtSa193UUN4WFBNemhWZ2ZtcmdWYkFUeUwyNzlHYlRKejBPVzVUY3ZKRmZGLWM0d1FmcHNqM2N5V0VCdEhUTWkxZDJlT043ZFU1UW16bnNfNWZpZ2Z2M25LUlZhaXhxMA?oc=5",
-     "ts": "2026-10-28T12:02:31Z",
-     "summary": ""
-    },
-    {
-     "id": "56a1a3d16f79",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WhatCulture.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "20 Movies You Should Watch Before GTA 6 – Page 4",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcU5PbGtIcVdSeWxjTmRjUkZ5VTcyeGNlRTJEVk0tenNnNE9PbktzRFdiMFFsYXAwcGRyVmVLVnFtT0wtMnZrbjl2aHQwVGRueGJuQVFwN0ZhYjJueERzSmhtb05ta3JvMmFQNEIzdDBzRHg4YmFwWThWVFpUcU1jejlFWlJOSlh2Ukt0WTBXOA?oc=5",
-     "ts": "2026-10-28T12:02:31Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "20 фильмов перед GTA 6: что посмотреть в ожидании",
-    "summary": "Yahoo и WhatCulture опубликовали подборки из 20 фильмов, которые стоит посмотреть перед GTA 6. Журналисты советуют кино, вдохновившее Вайс-Сити и атмосферу игры.",
-    "idea": "Короткий ролик с нарезкой кадров из фильмов и GTA 6: показываем, что именно перекочевало в игру. Зрителю интересно узнать источники вдохновения Rockstar.",
-    "hook": "Собираешься в Вайс-Сити? Вот 5 фильмов, которые уже есть в GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-28T12:31:14Z"
-   },
-   "msg_id": 252
-  },
-  {
-   "id": "97f7a4c1557c",
-   "title": "Grand Theft Auto VI Spurs Console Demand Ahead of Release, Boosting SONY Stock Interest (NYSE: SONY)",
-   "first_seen": "2026-10-28T21:50:54Z",
-   "updated": "2026-10-28T21:50:54Z",
-   "items": [
-    {
-     "id": "97f7a4c1557c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GuruFocus",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Spurs Console Demand Ahead of Release, Boosting SONY Stock Interest (NYSE: SONY)",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVnU3V2NWNENIcFpGdjN4dDlLRnFxMUgyeXowNENzVlpBYTgzY2tDRXhTNGdtNTItdnNHaFlRdVZwMWNpaHNhR2Q1OFQ3NTBKWkJYc2d3V2c1SnpZbndWSnFQd3JObzZ2Tl9LMTlMSW9DTXFzVWZpRXBDWnlBZEU4eGNOdGZEemh5NnVjRGFWbUt1MlNTel9mc2hvc0todkZFcWl3R1o2aTBvUFM4VWw2clRqYlU4cTFTZEtlS1RPLU1rTGlKdEpTeVZGWm1FWDVP?oc=5",
-     "ts": "2026-10-28T18:41:34Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b5ca181dd2f6",
-   "title": "GTA VI Is Coming. Here’s How To Play Take-Two’s Stock.",
-   "first_seen": "2026-10-28T21:50:54Z",
-   "updated": "2026-10-28T21:50:54Z",
-   "items": [
-    {
-     "id": "b5ca181dd2f6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Finimize",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI Is Coming. Here’s How To Play Take-Two’s Stock.",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNkNsYjVlbTk5T05RSUFGakVCRlotRmd0NHN3b19sSlV1SHp5NkZGTDhYcDRoTThoeU0tcnplcUlfVmNJZzUydmIxUk85ZmFjT1hRT0NuRzZpanU0cXZwRWZ0c2FOeGd2eHdmR0RRZUpzMzVlVW1pN1E3NllOeERJR1RseGhQdw?oc=5",
-     "ts": "2026-10-28T19:07:04Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 и акции Take-Two: что ждать инвесторам",
-    "summary": "По данным Finimize, выход GTA 6 связывают с возможным ростом акций Take-Two. Издание отмечает интерес инвесторов к игре, но не приводит точных прогнозов.",
-    "idea": "Угол: GTA 6 как драйвер акций Take-Two — коротко и по делу. Зрителю интересно, потому что это про деньги и ожидания вокруг релиза.",
-    "hook": "GTA 6 близко — что будет с акциями Take-Two?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-28T21:50:57Z"
-   },
-   "msg_id": 276
-  },
-  {
-   "id": "100b49827740",
-   "title": "Работа мечты существует: игроку заплатят €100 за каждый час в GTA 6 — но есть подвох",
-   "first_seen": "2026-10-28T21:50:54Z",
-   "updated": "2026-10-28T21:50:54Z",
-   "items": [
-    {
-     "id": "100b49827740",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VGTimes",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Работа мечты существует: игроку заплатят €100 за каждый час в GTA 6 — но есть подвох",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVQwN2NsSzQ3aFNrdGY0dE5sR1ZuWmliSEh6T0lVSWpIQ21hZklBaWk2T1o1YlI5S2V4U1FjRTF2UmVpQmc2N0FMWml2V3BKWkUyMmNyYlBOcnNHZk8xWUpJejhhTXcyUllUWlFxNFUtVU9ydnlKWE5FQzFCdlhOSDhHRzZTeXdtTzJrMHNRNlQ4RzlNQ1FLYVdaNU9RajJaQUxScWlfY2tOYVpON0NoX2R2QXlJY01OdUQ4T1FuWQ?oc=5",
-     "ts": "2026-10-28T21:41:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T21:50:47Z",
+  "last_run": "2026-11-04T22:01:11Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 76/80",
+   "gnews_ru: 75/79",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
