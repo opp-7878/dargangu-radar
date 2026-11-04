@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "47b63a9b848d",
+   "title": "Vice City. GTA 6 about to be crazy.",
+   "first_seen": "2026-11-04T02:01:21Z",
+   "updated": "2026-11-04T02:01:21Z",
+   "items": [
+    {
+     "id": "47b63a9b848d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Vice City. GTA 6 about to be crazy.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnbtkl/vice_city_gta_6_about_to_be_crazy/",
+     "ts": "2026-11-04T01:53:13Z",
+     "summary": "submitted by /u/brwesley7 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d9f32d0a6bb9",
    "title": "GTA 6 File Size on PS5 is 212 GB",
    "first_seen": "2026-11-03T15:50:58Z",
@@ -67048,41 +67074,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "85efdc8db910",
-   "title": "[ Removed by Reddit ]",
-   "first_seen": "2026-10-28T02:01:18Z",
-   "updated": "2026-10-28T02:01:18Z",
-   "items": [
-    {
-     "id": "85efdc8db910",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "[ Removed by Reddit ]",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xhbnt8/removed_by_reddit/",
-     "ts": "2026-10-28T01:59:20Z",
-     "summary": "[ Removed by Reddit on account of violating the content policy . ] submitted by /u/PinballWizrd69 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T01:50:56Z",
+  "last_run": "2026-11-04T02:01:21Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 95/100",
-   "gnews_ru: 86/96",
+   "gnews_en: 96/100",
+   "gnews_ru: 85/95",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
