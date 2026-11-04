@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "8c040a0c6b93",
+   "title": "Rockstar Games раскрыла размер GTA 6 — 212 ГБ — и подтвердила, что предварительная загрузка начнется на следующей неделе",
+   "first_seen": "2026-11-03T16:31:07Z",
+   "updated": "2026-11-04T05:10:49Z",
+   "items": [
+    {
+     "id": "8c040a0c6b93",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar Games раскрыла размер GTA 6 — 212 ГБ — и подтвердила, что предварительная загрузка начнется на следующей неделе",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGtBNUZrQVh1LVc1U29pdzlQSk12VVQwZWR1WVJsTTBQS2RDZlFBNXJPdnl6Tm9KNUFHS19WNGg0QkE0TDNHb0hhQmFmSms5aHpSaDFkZU1naGdwQTJYZHpSRzNUV0x5OEV3WjVXNmF6akI4SG9kb3htbTJSUzVEUFBqM2dOal9aaDZ5M2R6RnZGR3NoSlAyZ2R4dXN4MUs2?oc=5",
+     "ts": "2026-11-03T15:58:00Z",
+     "summary": ""
+    },
+    {
+     "id": "3f94d4bb361a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Предварительная загрузка GTA VI начнется раньше, чем обещали, размер файла — 212 ГБ",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pYjF6N0gtRjFic0lqakMwM0pJdlpzQ1lxYThObnlMeHdhVmphWnI4UWxvYXQ4SW5FMzFmc2h0M0htQ3ItTmplbkR4Umtmd9IBsAFBVV95cUxNc2haS1NkVDduVjBUXzhja2xfd3hBdDYzNjJNZy1tNWR3UFRaQTNxMFJLT2ZHcW1PS1N3UmxNNURaVVF6a2xyWDFCR0lEOHRxZmRMWDlVQm16TXo5eFFGcWJfb29lWEhmXzZmYUM1RG80QlZ2eHY2bnlIbHFZWDJCd3VUb0N4cmswd2pjOEtKWU95NHZhTmMtY0Q5MlBxODJKRWVCa1VrLTY4RFlDYmpqSg?oc=5",
+     "ts": "2026-11-04T03:55:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 63,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️ GTA 6: размер 212 ГБ и предзагрузка на следующей неделе",
+    "summary": "Rockstar Games раскрыла, что GTA 6 займёт 212 ГБ и подтвердила старт предзагрузки на следующей неделе. Об этом сообщает EGW.News.",
+    "idea": "Сравниваем 212 ГБ с GTA 5 и RDR 2 и показываем, сколько места нужно освободить. Зрителю важно понять, хватит ли его SSD и когда качать.",
+    "hook": "212 гигабайт и предзагрузка на следующей неделе — готовы освободить место?",
+    "stars": 5,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-03T16:31:10Z"
+   },
+   "msg_id": 479
+  },
+  {
+   "id": "f52cabc80569",
+   "title": "Should I preorder GTA 6 or wait?",
+   "first_seen": "2026-11-04T05:10:49Z",
+   "updated": "2026-11-04T05:10:49Z",
+   "items": [
+    {
+     "id": "f52cabc80569",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Should I preorder GTA 6 or wait?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnfmlf/should_i_preorder_gta_6_or_wait/",
+     "ts": "2026-11-04T05:06:22Z",
+     "summary": "Bought a PS5 last year mainly because I was excited for GTA 6. But now I've heard it might only run at 30 FPS. Not gonna lie, I was hoping for 60 FPS, so that's a bit disappointing. I'm still really hyped for the game, but I'm not sure if I should preorder it or just wait until people test how it runs. What would you guys do? Preorder or wait for reviews? submitted by /u/Additional_Host_3500 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9cf1b72f791d",
    "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
    "first_seen": "2026-11-03T15:01:17Z",
@@ -9727,45 +9807,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "8c040a0c6b93",
-   "title": "Rockstar Games раскрыла размер GTA 6 — 212 ГБ — и подтвердила, что предварительная загрузка начнется на следующей неделе",
-   "first_seen": "2026-11-03T16:31:07Z",
-   "updated": "2026-11-03T16:31:07Z",
-   "items": [
-    {
-     "id": "8c040a0c6b93",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW.News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar Games раскрыла размер GTA 6 — 212 ГБ — и подтвердила, что предварительная загрузка начнется на следующей неделе",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGtBNUZrQVh1LVc1U29pdzlQSk12VVQwZWR1WVJsTTBQS2RDZlFBNXJPdnl6Tm9KNUFHS19WNGg0QkE0TDNHb0hhQmFmSms5aHpSaDFkZU1naGdwQTJYZHpSRzNUV0x5OEV3WjVXNmF6akI4SG9kb3htbTJSUzVEUFBqM2dOal9aaDZ5M2R6RnZGR3NoSlAyZ2R4dXN4MUs2?oc=5",
-     "ts": "2026-11-03T15:58:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️ GTA 6: размер 212 ГБ и предзагрузка на следующей неделе",
-    "summary": "Rockstar Games раскрыла, что GTA 6 займёт 212 ГБ и подтвердила старт предзагрузки на следующей неделе. Об этом сообщает EGW.News.",
-    "idea": "Сравниваем 212 ГБ с GTA 5 и RDR 2 и показываем, сколько места нужно освободить. Зрителю важно понять, хватит ли его SSD и когда качать.",
-    "hook": "212 гигабайт и предзагрузка на следующей неделе — готовы освободить место?",
-    "stars": 5,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-03T16:31:10Z"
-   },
-   "msg_id": 479
   },
   {
    "id": "d05cb242fed5",
@@ -67459,9 +67500,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T05:01:12Z",
+  "last_run": "2026-11-04T05:10:49Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/4",
    "gnews_en: 96/100",
    "gnews_ru: 90/100",
    "gamesbeat: 2/10",
