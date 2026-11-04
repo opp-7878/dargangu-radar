@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "3be910cd83d0",
+   "title": "Sony обещает раскрыть \"больше информации\" о Grand Theft Auto 6 ближе к релизу",
+   "first_seen": "2026-11-04T06:01:18Z",
+   "updated": "2026-11-04T06:01:18Z",
+   "items": [
+    {
+     "id": "3be910cd83d0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Sony обещает раскрыть \"больше информации\" о Grand Theft Auto 6 ближе к релизу",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOVFBdjk5eDVPQ0tXdVF5WFp5dHhsWU5CdEp4UzZtdDB3c0NaeWZ1Z0I2OHBkSlVWQy1sOXByV1RfckhBb0piWnNSX2JHbENfTGpwN0ZaX0Vselk5N0FjdFlyd2VFR1I3T29KYmhvRXBONUFXRG5TUUlHTTdmSXpPMllpZU96RDg0dWNRcHNNSEtLM1JYS2NhYi1RRjlyWFpnMEROWlhuelhaVDg4RW9yck9RRkdKeHI1MnZDOGNkeVFTR05Gb0E?oc=5",
+     "ts": "2026-11-04T05:08:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b2d90478aa17",
+   "title": "Vignette controversy…",
+   "first_seen": "2026-11-04T06:01:18Z",
+   "updated": "2026-11-04T06:01:18Z",
+   "items": [
+    {
+     "id": "b2d90478aa17",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Vignette controversy…",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnghos/vignette_controversy/",
+     "ts": "2026-11-04T05:54:17Z",
+     "summary": "I don’t understand why everyone’s thinking the vignette will be on at all times/can’t be disabled, or the fact that it’ll only be on with sunglasses. First pic is from the latest Rockstar post regarding pre loading, vignette there to make it a bit more cinematic. Second is from the extended look, no vignette at all + no sunglasses. Third is from extended look, again, no sunglasses - no vignette. Fourth is from the South Park episode, wearing sunglasses, and there’s vignette. Think it’s pretty clear that it can be disabled/enabled, or if not, it’ll only be when wearing sunglasses. submitted by "
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "95dcbef9bf8f",
+   "title": "Vice city sign out here in Miami",
+   "first_seen": "2026-11-04T06:01:18Z",
+   "updated": "2026-11-04T06:01:18Z",
+   "items": [
+    {
+     "id": "95dcbef9bf8f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Vice city sign out here in Miami",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xngl21/vice_city_sign_out_here_in_miami/",
+     "ts": "2026-11-04T05:59:47Z",
+     "summary": "submitted by /u/FunCandle1119 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "090194f8d268",
    "title": "GTA 6 Gameplay Guide: 20 New Features, Combat Changes, Wanted System & Realistic Mechanics",
    "first_seen": "2026-11-04T03:40:56Z",
@@ -67487,14 +67565,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T05:50:53Z",
+  "last_run": "2026-11-04T06:01:18Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 97/100",
-   "gnews_ru: 86/96",
+   "gnews_ru: 92/100",
    "gamesbeat: 2/10",
    "vgc: 0/10",
-   "insider_gaming: 2/10",
+   "insider_gaming: 1/10",
    "ign: 2/20",
    "eurogamer: 1/100",
    "dexerto_gta: 5/50",
@@ -67506,7 +67584,7 @@
    "tg_gta6_m: 7/17",
    "tg_gta6newsdaily: 0/15"
   ],
-  "digest": "2026-11-03@21",
+  "digest": "2026-11-04@9",
   "tg_offset": 854319078
  }
 }
