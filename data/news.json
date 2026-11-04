@@ -4,7 +4,7 @@
    "id": "77a5f1e6ef45",
    "title": "GTA 6 Preload Guide: 212GB Size, Staggered Start Times And What To Know",
    "first_seen": "2026-11-04T15:50:50Z",
-   "updated": "2026-11-04T15:50:50Z",
+   "updated": "2026-11-04T16:01:11Z",
    "items": [
     {
      "id": "77a5f1e6ef45",
@@ -18,17 +18,240 @@
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWpJTzExYUFEeU5oOHFqb1V6YnVHd01lYzA1RVZfTUs5LWEweHZtUmxOWWdRaHByeXF5Z1FzSnZZcjYzaUNqZmp2V2tOUkZZd0d3VWVaS1FrdXFGTHMxc1dJVXAxQXcwaTNwNFUyVjBNU3NFXzdqV0JCbmxJYmk4eklCcjFySnlCdE5YdQ?oc=5",
      "ts": "2026-11-04T14:39:00Z",
      "summary": ""
+    },
+    {
+     "id": "7720a7268ce7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 is almost here, 13 years after GTA 5: Preload dates, global release and everything else you need to know",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdkhoNHE4ME1CeVJzeWp1YnJIRVJwckU3VDcxYXBaWFBpLTJJRktueVdhN1NaUTNQWDduc2hVVUZ0Qm1GaG5Sa1VmR1FlcF9ONm41OTdUYXNoTS1OMDJLVmZjLVFDTks0OHN2V3pqUkF2VGNlZk1hbjgwdllZUGllMVBPMzViSDNTeEl2ZnBzTnVESmxiZWRMT3pueFFKQTBMR3Y1eG1BUUtISGxyUnFYN2xFWi1XYy1JSDBvRnhsZGdzWGR2M25QVXQ0NTFUdWhVV0lkSVhQWE5jMjJPT0dhZlVJZmlWaTBQcUpkOFMzN3RDZw?oc=5",
+     "ts": "2026-11-04T15:50:39Z",
+     "summary": ""
     }
    ],
    "tags": [
     "размер/preload"
    ],
-   "score": 65,
+   "score": 73,
    "level": "PROBABLE",
-   "alerted": "",
+   "alerted": "yellow",
    "status": "new",
    "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
+   "ai_error": "ValueError: нет полей: title_ru",
+   "ai": {
+    "title_ru": "GTA 6: предзагрузка 212 ГБ и старт по часам — что нужно знать",
+    "summary": "По данным HotHardware и Yahoo Tech, предзагрузка GTA 6 займёт 212 ГБ и стартует 12 ноября 2026 с разницей по часам в регионах. Издания собрали даты, глобальный релиз и детали подготовки к запуску.",
+    "idea": "Короткий гид: сколько качать, когда начнётся предзагрузка в твоём регионе и как успеть к 19 ноября. Зрителю важно освободить место и не проспать старт.",
+    "hook": "212 ГБ и старт по часам: успеешь скачать GTA 6 к 19 ноября?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-04T16:01:14Z"
+   },
+   "msg_id": 511
+  },
+  {
+   "id": "55a96b9469c6",
+   "title": "Grand Theft Auto VI's PC release could take place as early as Q1 2027.",
+   "first_seen": "2026-11-03T18:01:28Z",
+   "updated": "2026-11-04T16:01:11Z",
+   "items": [
+    {
+     "id": "55a96b9469c6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI's PC release could take place as early as Q1 2027.",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFA3Zk8wSmpyYm9laUtLTEdPSXZzRlI5OGFDM1NlSHZSbHZDMU9Walc2U01Mb01mVmhzaGxnTGV4SWtFNEZVTHVlNFljSUd1bzUxSFNGNWwwdW05UHdrTEVkZmRoRWNfNTFaUGFvUzJiTkJnZnhnZmVmSlVhRjJGRVNOUWQwbGNPd2g3RW43WFV3Q21aV2hwemcxZndmXzlLR3Uzb1BMNDJmR3JKNmxCakN4VUtVeTg?oc=5",
+     "ts": "2026-11-03T17:51:37Z",
+     "summary": ""
+    },
+    {
+     "id": "0ce72f2ff701",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iXBT.games",
+     "group": "media",
+     "weight": 45,
+     "alert": true,
+     "title": "Preparing for the GTA VI PC release? Rockstar intrigues players with launcher update",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXlDQjNOdzFySWo2c3psdDNEQXh5UGljTUp2UzhhZVdCMjBWUjV4SkhlV1Y1U3lMaEFNN3JkVUNtNWlfb3pfZGVoQjZZMEthc1ZBU29XMFZaWmpmalhLbWs1LVl0VGtoMEZnZWlqZXMyY3BHV2x3b09ERC1naFcwNEg3aWN2UmI5ZURCU0JqOXYxRF9KYy13SGoteEpNazVRWkdaLTRtTEY3dW1sbDBDTEtlMHhfenROQnhuU1pVZTQxcnhGY3fSAcsBQVVfeXFMTS1hSmY1SF9TQ2pNVGJMQ0hwWWtmSTVnRFNMSWVYemFIbnpLUFVLU2dUYnVyeWFqamx6bFUwdU1kY1BPU2twcHpQSi1FTGNvWEh0TW50NUdYdG5iQmVQZU9iSEZGVDRqWDNhOVUtTTd2VmVJUzJ5WVVGWTVLVV85N0FXV0l4M2NQYk0yQXB3MGNHV2pFclUyZlBuM013LV9RUVk2OXk4OXZQZkRjWWFnRXlmd1FfclhSQXd1S1ZEU3kxWDdEVUd6V1hlbEU?oc=5",
+     "ts": "2026-11-03T17:36:00Z",
+     "summary": ""
+    },
+    {
+     "id": "b7e1c0c72767",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "To all pc players that decided to buy a console to play gta6 on launch",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xnl8vq/to_all_pc_players_that_decided_to_buy_a_console/",
+     "ts": "2026-11-04T10:53:32Z",
+     "summary": "I dont know why im posting this, i guess i just want to share my plan and spread love. Personally, im buying regular ps5 to play gta6 on launch and once im done with it, whether its released on pc or i get bored i will be donating my console to one of the local hospitals so children can enjoy it. If you are in a good position financially, i invite you to consider doing the same. Its a nice feeling and experience seeing kids happy, especially when theyre in such dire position at their age. That is all, meaningless post like many other ones here. Enjoy your time playing the game and share love! "
+    },
+    {
+     "id": "185c03e76db5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Wccftech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Still Has No PC Release Date, but an NVIDIA DLSS 5 and 90 FPS Multi-Frame Generation Experiment Shows How Realistic It Could Look",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qd0hZZk1wQ0FWR3J2WTU2RXhET1ZKN0FvQU1CZS1kNFNZRnB1TWtpcUNIend5cWZna2RTQjBjV25SdXRTQnNPNGVCVVQ5OUpDZVB0U08wTlNNSGNaUWY5SE43WkRuT19HRlE1Z2JodmU1RE5IaWfSAXtBVV95cUxNa3pVTjFndGRwWGpkVExqMTV2Y203OUh5bU5pWUo5SlpsSDFTYjNHblo3Q1VHU2ZHWDdEWUdvOUV3cGVxQjY2WnkzSzAtYjVod1dkTE5GbjNlQUQ3dDZ5QUFVWmMxaWFrM1k5c2RSYzZ6WmRjMjRpV1NxOTg?oc=5",
+     "ts": "2026-11-04T11:01:10Z",
+     "summary": ""
+    },
+    {
+     "id": "9c3911768b36",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "R* , Take 2 Being strict on spoilers and pc user questions",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnoect/r_take_2_being_strict_on_spoilers_and_pc_user/",
+     "ts": "2026-11-04T13:37:41Z",
+     "summary": "It looks like there are being strict about the spoilers before the game was launch, I wonder how pc users can handle avoiding spoilers? Hope rockstar can still be strict about spoilers while helping our fellow pc users not to get spoiled from the ending or hidden parts of the game that is not revealed yet. submitted by /u/Hotmixneon4life to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "ce41df0c5de6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI PC RELEASE",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xnoq4p/gta_vi_pc_release/",
+     "ts": "2026-11-04T13:52:24Z",
+     "summary": "With GTA VI dropping this month on consoles, I was wondering if anyone was going to wait for the PC release? I know plenty of people will just buy the game twice, which is why the PC drop is later, but is anyone else waiting for the PC drop to buy it? I know I am waiting for the PC release of the game. Spoilers don't bother me and if I can wait all these years, I can wait a little longer. I never bought the PS5 or any Xbox and I not going to do it now for one game. On top of that I have a gaming PC that I would rather use. Who here is waiting for the PC release and who plans to just buy it twi"
+    },
+    {
+     "id": "23fb1e8ec4a9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA6 PS5 > PC Progress",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xnroyv/gta6_ps5_pc_progress/",
+     "ts": "2026-11-04T15:51:57Z",
+     "summary": "Rumors state that the PC Release will happen in Q1 2027. But I don't want to wait until Q1 2027 to play this game. If I buy it for my PS5 and play, curious to know if my character/game progress will transfer to PC if I buy it next year. submitted by /u/akytroz to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "ПК",
+    "анонс",
+    "дата/перенос"
+   ],
+   "score": 89,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "35f1162a41b7",
+   "title": "Rockstar Games тизерит GTA 6 для ПК через свой лаунчер",
+   "first_seen": "2026-11-04T16:01:11Z",
+   "updated": "2026-11-04T16:01:11Z",
+   "items": [
+    {
+     "id": "35f1162a41b7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar Games тизерит GTA 6 для ПК через свой лаунчер",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXpVMzc1eXhNcjd2QmVGb01sQXhQYmNCZWdiRW9ac1dyTW9xRVZCc3VnMGhNUG5KUWlldlNPdXU5QThnZl8tRy1Db2Yxb2RkWkVyMlBmcXZDYllMOUliMUFPd2EtUmNYTWYxYlcwdGxNQ2JzRUVVZGNiTEp2MWRZYmk0VFE4V0VsRjVwY1ZWSWFQeXlXOTBRMXFIcDdNRkQz?oc=5",
+     "ts": "2026-11-04T14:58:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Rockstar намекнула на ПК-версию GTA 6 в своём лаунчере",
+    "summary": "Rockstar Games добавила в свой лаунчер намёк на GTA 6 для ПК, сообщает EGW.News. Официально дату и детали ПК-версии компания не объявляла.",
+    "idea": "Крупный план на намёк в лаунчере и реакция Даргана — зритель сразу видит «доказательство» и ждёт дату ПК. Короткий монтаж интриги и призыв писать, берут ли на ПК.",
+    "hook": "Rockstar сама подсветила ПК-версию GTA 6 в своём лаунчере — смотри.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-04T16:01:16Z"
+   },
+   "msg_id": 512
+  },
+  {
+   "id": "471b5d0586b3",
+   "title": "Those of you not doing the NZ shtick, will you be staying off Reddit/youtube for 24hrs?",
+   "first_seen": "2026-11-04T16:01:11Z",
+   "updated": "2026-11-04T16:01:11Z",
+   "items": [
+    {
+     "id": "471b5d0586b3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Those of you not doing the NZ shtick, will you be staying off Reddit/youtube for 24hrs?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnrofp/those_of_you_not_doing_the_nz_shtick_will_you_be/",
+     "ts": "2026-11-04T15:51:24Z",
+     "summary": "I live on the west coast of US so I won’t be able to play until the 18th 9pm and am worried I might see a spoiler due to New Zealand getting early access submitted by /u/suspectdorian2 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e3ebe1d4f45e",
+   "title": "How hard has it been for Devs these last few months?",
+   "first_seen": "2026-11-04T16:01:11Z",
+   "updated": "2026-11-04T16:01:11Z",
+   "items": [
+    {
+     "id": "e3ebe1d4f45e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How hard has it been for Devs these last few months?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnrr8h/how_hard_has_it_been_for_devs_these_last_few/",
+     "ts": "2026-11-04T15:54:28Z",
+     "summary": "Are there any Devs here that can tell us what the experience has been in the studio these last 2-3 months? I can imagine they have been working overtime to get all the final details ready. It must be crazy over there rn. submitted by /u/PsychologicalYam7325 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
   },
   {
    "id": "d6a743d4fd71",
@@ -2742,101 +2965,6 @@
    "score": 20,
    "level": "SPECULATION",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "55a96b9469c6",
-   "title": "Grand Theft Auto VI's PC release could take place as early as Q1 2027.",
-   "first_seen": "2026-11-03T18:01:28Z",
-   "updated": "2026-11-04T14:01:19Z",
-   "items": [
-    {
-     "id": "55a96b9469c6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI's PC release could take place as early as Q1 2027.",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFA3Zk8wSmpyYm9laUtLTEdPSXZzRlI5OGFDM1NlSHZSbHZDMU9Walc2U01Mb01mVmhzaGxnTGV4SWtFNEZVTHVlNFljSUd1bzUxSFNGNWwwdW05UHdrTEVkZmRoRWNfNTFaUGFvUzJiTkJnZnhnZmVmSlVhRjJGRVNOUWQwbGNPd2g3RW43WFV3Q21aV2hwemcxZndmXzlLR3Uzb1BMNDJmR3JKNmxCakN4VUtVeTg?oc=5",
-     "ts": "2026-11-03T17:51:37Z",
-     "summary": ""
-    },
-    {
-     "id": "0ce72f2ff701",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "iXBT.games",
-     "group": "media",
-     "weight": 45,
-     "alert": true,
-     "title": "Preparing for the GTA VI PC release? Rockstar intrigues players with launcher update",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXlDQjNOdzFySWo2c3psdDNEQXh5UGljTUp2UzhhZVdCMjBWUjV4SkhlV1Y1U3lMaEFNN3JkVUNtNWlfb3pfZGVoQjZZMEthc1ZBU29XMFZaWmpmalhLbWs1LVl0VGtoMEZnZWlqZXMyY3BHV2x3b09ERC1naFcwNEg3aWN2UmI5ZURCU0JqOXYxRF9KYy13SGoteEpNazVRWkdaLTRtTEY3dW1sbDBDTEtlMHhfenROQnhuU1pVZTQxcnhGY3fSAcsBQVVfeXFMTS1hSmY1SF9TQ2pNVGJMQ0hwWWtmSTVnRFNMSWVYemFIbnpLUFVLU2dUYnVyeWFqamx6bFUwdU1kY1BPU2twcHpQSi1FTGNvWEh0TW50NUdYdG5iQmVQZU9iSEZGVDRqWDNhOVUtTTd2VmVJUzJ5WVVGWTVLVV85N0FXV0l4M2NQYk0yQXB3MGNHV2pFclUyZlBuM013LV9RUVk2OXk4OXZQZkRjWWFnRXlmd1FfclhSQXd1S1ZEU3kxWDdEVUd6V1hlbEU?oc=5",
-     "ts": "2026-11-03T17:36:00Z",
-     "summary": ""
-    },
-    {
-     "id": "b7e1c0c72767",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "To all pc players that decided to buy a console to play gta6 on launch",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xnl8vq/to_all_pc_players_that_decided_to_buy_a_console/",
-     "ts": "2026-11-04T10:53:32Z",
-     "summary": "I dont know why im posting this, i guess i just want to share my plan and spread love. Personally, im buying regular ps5 to play gta6 on launch and once im done with it, whether its released on pc or i get bored i will be donating my console to one of the local hospitals so children can enjoy it. If you are in a good position financially, i invite you to consider doing the same. Its a nice feeling and experience seeing kids happy, especially when theyre in such dire position at their age. That is all, meaningless post like many other ones here. Enjoy your time playing the game and share love! "
-    },
-    {
-     "id": "185c03e76db5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Wccftech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Still Has No PC Release Date, but an NVIDIA DLSS 5 and 90 FPS Multi-Frame Generation Experiment Shows How Realistic It Could Look",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qd0hZZk1wQ0FWR3J2WTU2RXhET1ZKN0FvQU1CZS1kNFNZRnB1TWtpcUNIend5cWZna2RTQjBjV25SdXRTQnNPNGVCVVQ5OUpDZVB0U08wTlNNSGNaUWY5SE43WkRuT19HRlE1Z2JodmU1RE5IaWfSAXtBVV95cUxNa3pVTjFndGRwWGpkVExqMTV2Y203OUh5bU5pWUo5SlpsSDFTYjNHblo3Q1VHU2ZHWDdEWUdvOUV3cGVxQjY2WnkzSzAtYjVod1dkTE5GbjNlQUQ3dDZ5QUFVWmMxaWFrM1k5c2RSYzZ6WmRjMjRpV1NxOTg?oc=5",
-     "ts": "2026-11-04T11:01:10Z",
-     "summary": ""
-    },
-    {
-     "id": "9c3911768b36",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "R* , Take 2 Being strict on spoilers and pc user questions",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xnoect/r_take_2_being_strict_on_spoilers_and_pc_user/",
-     "ts": "2026-11-04T13:37:41Z",
-     "summary": "It looks like there are being strict about the spoilers before the game was launch, I wonder how pc users can handle avoiding spoilers? Hope rockstar can still be strict about spoilers while helping our fellow pc users not to get spoiled from the ending or hidden parts of the game that is not revealed yet. submitted by /u/Hotmixneon4life to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "ce41df0c5de6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA VI PC RELEASE",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xnoq4p/gta_vi_pc_release/",
-     "ts": "2026-11-04T13:52:24Z",
-     "summary": "With GTA VI dropping this month on consoles, I was wondering if anyone was going to wait for the PC release? I know plenty of people will just buy the game twice, which is why the PC drop is later, but is anyone else waiting for the PC drop to buy it? I know I am waiting for the PC release of the game. Spoilers don't bother me and if I can wait all these years, I can wait a little longer. I never bought the PS5 or any Xbox and I not going to do it now for one game. On top of that I have a gaming PC that I would rather use. Who here is waiting for the PC release and who plans to just buy it twi"
-    }
-   ],
-   "tags": [
-    "ПК",
-    "анонс",
-    "дата/перенос"
-   ],
-   "score": 89,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -69607,11 +69735,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T15:50:53Z",
+  "last_run": "2026-11-04T16:01:17Z",
   "last_log": [
-   "rockstar_site: 0/2",
+   "rockstar_site: 0/4",
    "gnews_en: 97/100",
-   "gnews_ru: 87/94",
+   "gnews_ru: 88/95",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -69620,7 +69748,7 @@
    "dexerto_gta: 5/50",
    "rockstarintel: 1/10",
    "gtaboom: 10/30",
-   "reddit: 22/25",
+   "reddit: 24/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 7/16",
    "tg_gta6_m: 7/18",
