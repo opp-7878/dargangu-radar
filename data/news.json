@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "cc1c69c5f080",
+   "title": "Sony reportedly freezes PSN account after user sends GTA 6 leak through PS App chat",
+   "first_seen": "2026-11-04T09:20:53Z",
+   "updated": "2026-11-04T13:31:08Z",
+   "items": [
+    {
+     "id": "cc1c69c5f080",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony reportedly freezes PSN account after user sends GTA 6 leak through PS App chat",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlFzQnBXS3JxckppQ29qenhmZ2xEcGhGNUFTUjNOYlFmWkM4MWh1dWQwMWJRVHBsWjFHZFV5THNuTC1rMDRlWU1rclNZWHAyellkZTZtMTNZY2FhbFRiUGxOaG9SZFBqZlZDbFlXdmFNOFN0dWM5a0lwazA4bGRURTgtNy1kaVlNLU00SWpfMVNpSHFUdjRJV1IyMnhEOUVqQXE4WGR3?oc=5",
+     "ts": "2026-11-04T09:14:56Z",
+     "summary": ""
+    },
+    {
+     "id": "53dd978783b9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "https://tech-insider.org/",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Leak PSN Bans: Only 1 Reddit Post Backs It [2026]",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVMyUHJjMVVFR09aM2o4akdPNDcyQzBMS1hiVU93aFQ4WG9EcENOMjZYSTZDRnByOEdWTFlTWEhVQ2ZWR0JzRTh4LUY3U1ZqejVXZzNmMzZYdENPd3d4dFFxYS1PdU5QOGdUVDBtLXFRdzY5TGVIejlNOXVDMmVJRTJBS0x1UUdpUDNyZThIS3Y?oc=5",
+     "ts": "2026-11-04T09:30:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 73,
+   "level": "SPECULATION",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "4da377a84b95",
+   "title": "The Ocarina Of Time Remake Has Claimed 2026's Review Crown, But GTA 6 Could Have Something To Say About It",
+   "first_seen": "2026-11-04T13:31:08Z",
+   "updated": "2026-11-04T13:31:08Z",
+   "items": [
+    {
+     "id": "4da377a84b95",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "The Ocarina Of Time Remake Has Claimed 2026's Review Crown, But GTA 6 Could Have Something To Say About It",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaEV4T1A1d0UzTXhFUThpSDFjTUh1T3BkbjdFN0xTU2JybHNLajlycUxCMC10d1pyWW5BVXZjcVZQanEtNzNqSHJXbnBma05EcWVvZXZwU1BJTWEwZEZ4Y3NpM0MwMFRHY0xKSUdiV1Q0ZDV0b3lfN1l3cGxVTnVadGptc084ekxEbDJEZElFZFdsZXhMcFBkZjBIUWVKTzg3a0ZacmNranItTkU5dTl0R0VOeXlZMXVVcDFyU0tKTGVNUzBwZTNfbmdJVUpIaE40YnU4Qw?oc=5",
+     "ts": "2026-11-04T13:28:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 может забрать корону GameSpot у Ocarina Of Time",
+    "summary": "По данным GameSpot, ремейк Ocarina Of Time стал лидером по оценкам 2026 года, но GTA 6 может это изменить. Издание отмечает, что релиз GTA 6 способен сместить лидера по итогам года.",
+    "idea": "Сравним текущий топ GameSpot 2026 с ожиданиями от GTA 6 и спросим зрителей, кто заберёт корону. Короткий спор и голосование поднимут удержание и комментарии.",
+    "hook": "Ocarina Of Time взяла корону GameSpot 2026. Надолго ли?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-04T13:31:10Z"
+   },
+   "msg_id": 500
+  },
+  {
    "id": "37adfe82bf62",
    "title": "20 Horror Movies To Get You Ready For GTA 6",
    "first_seen": "2026-11-04T13:20:53Z",
@@ -3937,34 +4015,6 @@
    "score": 35,
    "level": "SPECULATION",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "cc1c69c5f080",
-   "title": "Sony reportedly freezes PSN account after user sends GTA 6 leak through PS App chat",
-   "first_seen": "2026-11-04T09:20:53Z",
-   "updated": "2026-11-04T09:20:53Z",
-   "items": [
-    {
-     "id": "cc1c69c5f080",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "eGamers.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony reportedly freezes PSN account after user sends GTA 6 leak through PS App chat",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlFzQnBXS3JxckppQ29qenhmZ2xEcGhGNUFTUjNOYlFmWkM4MWh1dWQwMWJRVHBsWjFHZFV5THNuTC1rMDRlWU1rclNZWHAyellkZTZtMTNZY2FhbFRiUGxOaG9SZFBqZlZDbFlXdmFNOFN0dWM5a0lwazA4bGRURTgtNy1kaVlNLU00SWpfMVNpSHFUdjRJV1IyMnhEOUVqQXE4WGR3?oc=5",
-     "ts": "2026-11-04T09:14:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 65,
-   "level": "SPECULATION",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -68995,50 +69045,24 @@
    "level": "SPECULATION",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "20abe45b0ed1",
-   "title": "GTA 6 actors get advice from Grand Theft Auto veterans: \"Listen to Rockstar\" and \"get ready\"",
-   "first_seen": "2026-10-28T13:21:00Z",
-   "updated": "2026-10-28T13:21:00Z",
-   "items": [
-    {
-     "id": "20abe45b0ed1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesRadar+",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 actors get advice from Grand Theft Auto veterans: \"Listen to Rockstar\" and \"get ready\"",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbEljbFR6cEhlZ01FSTlaeWs0Yndlc2VJRGlwNjhjME9maFkxXzd5X3RYeWdFV1FaX1U0OUVCc0h6QnJCcnZCOWZqMjZuWnUyaUs4TnNqblRMWG1CdHUwMm9IbDZseHRaR3FneXoyalFmUGZUZTM0V2h0cnVUdkhGazFhZkpOVXB1NnA4V3lxYUpVMzg3cUxPQm5MdGlWUktlbXp2d05seUYyM0NIc2FCSXZ3WXZaRng3ZFNpSENyaUtoMXFTYnM2R1RlcEpPcTFNcGQxSg?oc=5",
-     "ts": "2026-10-28T13:10:22Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T13:20:53Z",
+  "last_run": "2026-11-04T13:31:11Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/4",
    "gnews_en: 97/100",
-   "gnews_ru: 95/100",
+   "gnews_ru: 94/100",
    "gamesbeat: 2/10",
    "vgc: 0/10",
-   "insider_gaming: 5/10",
+   "insider_gaming: 7/10",
    "ign: 0/20",
    "eurogamer: 1/100",
    "dexerto_gta: 4/50",
    "rockstarintel: 1/10",
    "gtaboom: 9/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 7/16",
    "tg_gta6_m: 6/17",
