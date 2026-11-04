@@ -1,168 +1,10 @@
 {
  "stories": [
   {
-   "id": "df27ecc14bdc",
-   "title": "Rockstar Might DMCA GTA 6 Spoilers, Even After Launch",
-   "first_seen": "2026-11-04T08:20:50Z",
-   "updated": "2026-11-04T08:20:50Z",
-   "items": [
-    {
-     "id": "df27ecc14bdc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Rockstar Might DMCA GTA 6 Spoilers, Even After Launch",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SMHJDUlh6eFl3YU9IeFBpREcxN29QMWtoSGZDV2JqTVJmNHc1dFZDbWItcjNCZ3FMcks1ejBWTGE0MU9zbHhNV3liX2hOU09kYWsxc3FzbWdMVUx3TldTdzFzQUxvLWRScWdySE44cw?oc=5",
-     "ts": "2026-11-04T08:10:28Z",
-     "summary": ""
-    },
-    {
-     "id": "d16c75a2cc8c",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Rockstar Might DMCA GTA 6 Spoilers, Even After Launch",
-     "url": "https://insider-gaming.com/rockstar-might-dmca-gta-6-spoilers/",
-     "ts": "2026-11-04T08:10:28Z",
-     "summary": "It has been discovered in a support policy that Rockstar Games might DMCA strike GTA 6 spoilers even after the game has come out. The post Rockstar Might DMCA GTA 6 Spoilers, Even After Launch appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
-  },
-  {
-   "id": "5cbf8b317687",
-   "title": "Since GTA 6 is releasing soon, we need “Before Battlefront 3”",
-   "first_seen": "2026-11-04T08:20:50Z",
-   "updated": "2026-11-04T08:20:50Z",
-   "items": [
-    {
-     "id": "5cbf8b317687",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Since GTA 6 is releasing soon, we need “Before Battlefront 3”",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xnivdd/since_gta_6_is_releasing_soon_we_need_before/",
-     "ts": "2026-11-04T08:19:31Z",
-     "summary": "I know you might be thinking of “Before GTA 7” might be a meme? no. we need “BEFORE BATTLEFRONT 3” How do you guys think of that one? submitted by /u/pr1nce_xy5 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0742ec72eb2c",
-   "title": "GTA 6 Pre-Order Bonus: What You Get and Is It Worth It?",
-   "first_seen": "2026-11-04T08:10:55Z",
-   "updated": "2026-11-04T08:10:55Z",
-   "items": [
-    {
-     "id": "0742ec72eb2c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Fenix Bazaar",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Pre-Order Bonus: What You Get and Is It Worth It?",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84THBVTXRIOXo5T2FEZXlmT0Q3RUl2T1pRMVpGUzlHMTlRMFlxNDB1eExMb0pFaUtlamdMX2liZk05cmVKVy1iSmxiUzdjUzdmZ0VqTkVZV29lVkdqZ1J6WTVLWmZLSXRW?oc=5",
-     "ts": "2026-11-04T08:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Бонусы предзаказа GTA 6: что дают и стоит ли брать",
-    "summary": "По данным Fenix Bazaar, издание GTA 6 включает внутриигровые бонусы предзаказа. Издание разбирает, что именно дают и стоит ли это того.",
-    "idea": "Короткий разбор: что дают за предзаказ GTA 6 и окупается ли это в игре. Зрителю важно понять, тратить ли деньги.",
-    "hook": "Предзаказ GTA 6 — что дают за ваши деньги и стоит ли оно того?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-04T08:10:59Z"
-   },
-   "msg_id": 493
-  },
-  {
-   "id": "95952bd77133",
-   "title": "GTA 6 ads spotted NYC",
-   "first_seen": "2026-11-04T08:01:26Z",
-   "updated": "2026-11-04T08:01:26Z",
-   "items": [
-    {
-     "id": "95952bd77133",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 ads spotted NYC",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xnij1g/gta_6_ads_spotted_nyc/",
-     "ts": "2026-11-04T07:58:18Z",
-     "summary": "Just got off work and spotted across the street. On Varick & Dominick. 15 days to go! submitted by /u/UnionAfter to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f34ed2da3786",
-   "title": "Jason is just male V",
-   "first_seen": "2026-11-04T07:50:51Z",
-   "updated": "2026-11-04T07:50:51Z",
-   "items": [
-    {
-     "id": "f34ed2da3786",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Jason is just male V",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xnieqr/jason_is_just_male_v/",
-     "ts": "2026-11-04T07:50:33Z",
-     "summary": "submitted by /u/BloodborneIsGOAT to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "9cf1b72f791d",
    "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
    "first_seen": "2026-11-03T15:01:17Z",
-   "updated": "2026-11-04T07:50:50Z",
+   "updated": "2026-11-04T08:31:10Z",
    "items": [
     {
      "id": "9cf1b72f791d",
@@ -670,6 +512,19 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlJQYnFHZ1pPckJ2a1gxNG42YnVRdjVYWWs4ZzNhbHpnY00zUWw2YjdEUm8wa2tLaFJ1LVF5VUNrcmtEd1NfVWhmLUVyeFNPalpBRmZrdFF0V1pnd2JmS2NYekZ0eF81RkRxY25SQUdYUE1YVVN6VXhrdG5vTndGUHRVblFnUmtWa3NiX3VaTTlWQW1RclAzQm80YXFheDI1YUZJWWNhUkh2bmx0SVE?oc=5",
      "ts": "2026-11-04T07:42:51Z",
      "summary": ""
+    },
+    {
+     "id": "2e4310c9ce68",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "https://tech-insider.org/",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Download Size: 212 GB, Pre-Load Nov. 10 [2026]",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORHFjZG1GYzFhZ0VrOGYyelhaQVc3RjVfUHJ6T1p2RzBWVERNYnEza1ZVSllTSlVSSzZ2Zi1YbW1Cc25aejg2UHExb0tkYU9BcW9NODRTdExHb0xZcUc0NjVsZlpHZHoxSEdGa293bmxtMDFZQmd5YmJlVDF0REs4VlJWYm0yT1hjUkE?oc=5",
+     "ts": "2026-11-04T07:53:32Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -679,6 +534,164 @@
    "score": 100,
    "level": "PROBABLE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "df27ecc14bdc",
+   "title": "Rockstar Might DMCA GTA 6 Spoilers, Even After Launch",
+   "first_seen": "2026-11-04T08:20:50Z",
+   "updated": "2026-11-04T08:20:50Z",
+   "items": [
+    {
+     "id": "df27ecc14bdc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Rockstar Might DMCA GTA 6 Spoilers, Even After Launch",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SMHJDUlh6eFl3YU9IeFBpREcxN29QMWtoSGZDV2JqTVJmNHc1dFZDbWItcjNCZ3FMcks1ejBWTGE0MU9zbHhNV3liX2hOU09kYWsxc3FzbWdMVUx3TldTdzFzQUxvLWRScWdySE44cw?oc=5",
+     "ts": "2026-11-04T08:10:28Z",
+     "summary": ""
+    },
+    {
+     "id": "d16c75a2cc8c",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Rockstar Might DMCA GTA 6 Spoilers, Even After Launch",
+     "url": "https://insider-gaming.com/rockstar-might-dmca-gta-6-spoilers/",
+     "ts": "2026-11-04T08:10:28Z",
+     "summary": "It has been discovered in a support policy that Rockstar Games might DMCA strike GTA 6 spoilers even after the game has come out. The post Rockstar Might DMCA GTA 6 Spoilers, Even After Launch appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "5cbf8b317687",
+   "title": "Since GTA 6 is releasing soon, we need “Before Battlefront 3”",
+   "first_seen": "2026-11-04T08:20:50Z",
+   "updated": "2026-11-04T08:20:50Z",
+   "items": [
+    {
+     "id": "5cbf8b317687",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Since GTA 6 is releasing soon, we need “Before Battlefront 3”",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnivdd/since_gta_6_is_releasing_soon_we_need_before/",
+     "ts": "2026-11-04T08:19:31Z",
+     "summary": "I know you might be thinking of “Before GTA 7” might be a meme? no. we need “BEFORE BATTLEFRONT 3” How do you guys think of that one? submitted by /u/pr1nce_xy5 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0742ec72eb2c",
+   "title": "GTA 6 Pre-Order Bonus: What You Get and Is It Worth It?",
+   "first_seen": "2026-11-04T08:10:55Z",
+   "updated": "2026-11-04T08:10:55Z",
+   "items": [
+    {
+     "id": "0742ec72eb2c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Fenix Bazaar",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Pre-Order Bonus: What You Get and Is It Worth It?",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84THBVTXRIOXo5T2FEZXlmT0Q3RUl2T1pRMVpGUzlHMTlRMFlxNDB1eExMb0pFaUtlamdMX2liZk05cmVKVy1iSmxiUzdjUzdmZ0VqTkVZV29lVkdqZ1J6WTVLWmZLSXRW?oc=5",
+     "ts": "2026-11-04T08:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Бонусы предзаказа GTA 6: что дают и стоит ли брать",
+    "summary": "По данным Fenix Bazaar, издание GTA 6 включает внутриигровые бонусы предзаказа. Издание разбирает, что именно дают и стоит ли это того.",
+    "idea": "Короткий разбор: что дают за предзаказ GTA 6 и окупается ли это в игре. Зрителю важно понять, тратить ли деньги.",
+    "hook": "Предзаказ GTA 6 — что дают за ваши деньги и стоит ли оно того?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-04T08:10:59Z"
+   },
+   "msg_id": 493
+  },
+  {
+   "id": "95952bd77133",
+   "title": "GTA 6 ads spotted NYC",
+   "first_seen": "2026-11-04T08:01:26Z",
+   "updated": "2026-11-04T08:01:26Z",
+   "items": [
+    {
+     "id": "95952bd77133",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 ads spotted NYC",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnij1g/gta_6_ads_spotted_nyc/",
+     "ts": "2026-11-04T07:58:18Z",
+     "summary": "Just got off work and spotted across the street. On Varick & Dominick. 15 days to go! submitted by /u/UnionAfter to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f34ed2da3786",
+   "title": "Jason is just male V",
+   "first_seen": "2026-11-04T07:50:51Z",
+   "updated": "2026-11-04T07:50:51Z",
+   "items": [
+    {
+     "id": "f34ed2da3786",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Jason is just male V",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnieqr/jason_is_just_male_v/",
+     "ts": "2026-11-04T07:50:33Z",
+     "summary": "submitted by /u/BloodborneIsGOAT to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -67701,11 +67714,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T08:20:54Z",
+  "last_run": "2026-11-04T08:31:10Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/4",
    "gnews_en: 97/100",
-   "gnews_ru: 88/100",
+   "gnews_ru: 77/85",
    "gamesbeat: 2/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -67714,7 +67727,7 @@
    "dexerto_gta: 5/50",
    "rockstarintel: 2/10",
    "gtaboom: 8/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 10/12",
    "tg_gta6deluxe: 6/15",
    "tg_gta6_m: 7/17",
