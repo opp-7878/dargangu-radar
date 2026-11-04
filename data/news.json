@@ -1,6 +1,103 @@
 {
  "stories": [
   {
+   "id": "20f1adba904b",
+   "title": "No GTA 6 November: Here's what you can play on PC instead",
+   "first_seen": "2026-11-04T20:40:44Z",
+   "updated": "2026-11-04T23:50:42Z",
+   "items": [
+    {
+     "id": "20f1adba904b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Налог на GTA 6, первая God of War на ПК: новости недели Медиа VK Play",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXBPZEdfckxzSEF4eEVvVElnMjhpS2lnLXJOWl9JLWR2VUJHWVZnTzI4YlM1THpsdkpxbC0yeVhOUlFNbWl4aXhMZWhUQlpRSUw1RVBCZmRxQlNRdjJnT1NiYy13SkpSd2lOb2JEZFdIRFo0TXZkY1QyRFhuM2JDVkpCU3JPN2lTdVB6YjJUM1VIYWJtaU02S2lfOHBoX2s?oc=5",
+     "ts": "2026-11-04T11:40:19Z",
+     "summary": ""
+    },
+    {
+     "id": "cfb6ea115065",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "No GTA 6 November: Here's what you can play on PC instead",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSSU9TdTlFUUhkNXF5ejI3NkJpLURyV0VOUUxBajEzdmtuVGlKbkJ1anBPOGVmVWtqVExXUlVIbEk0M25obXZ3dEVkMkN2MGFuR3FSdDVURGN6dHc5dnhB?oc=5",
+     "ts": "2026-11-04T23:37:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 88,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "34b92e9e8dc3",
+   "title": "What are experiences that have happened to you since Trailer 1 GTA 6?",
+   "first_seen": "2026-11-04T23:50:42Z",
+   "updated": "2026-11-04T23:50:42Z",
+   "items": [
+    {
+     "id": "34b92e9e8dc3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What are experiences that have happened to you since Trailer 1 GTA 6?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo3r3x/what_are_experiences_that_have_happened_to_you/",
+     "ts": "2026-11-04T23:46:38Z",
+     "summary": "honestly insane how time passes. submitted by /u/Cpyto_Man to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5892db26ed9b",
+   "title": "What if PSN collapses at launch?",
+   "first_seen": "2026-11-04T23:50:42Z",
+   "updated": "2026-11-04T23:50:42Z",
+   "items": [
+    {
+     "id": "5892db26ed9b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What if PSN collapses at launch?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xo3u6f/what_if_psn_collapses_at_launch/",
+     "ts": "2026-11-04T23:50:26Z",
+     "summary": "Lets address the elephant in the room. Rockstar officially labels GTA VI a single player experience with offline play enabled. So you surely won't need a permanent online connection for playing the solo campaign. However neither Sony nor Rockstar have guaranteed that the very first launch can happen without an internet connection. There is also no info on the when and how the online licence verification will occur at release. If the PS5 verification runs through PSN (which it most likely will) and Rockstars load balancers crap out or PSN shits the bed with validation bottlenecks, then it's goi"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "eb9b189daf4b",
    "title": "Bulkhead Takes December Off and Tells Wardogs Players to Enjoy GTA 6",
    "first_seen": "2026-11-04T23:30:56Z",
@@ -1942,34 +2039,6 @@
    "score": 20,
    "level": "SPECULATION",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "20f1adba904b",
-   "title": "Налог на GTA 6, первая God of War на ПК: новости недели Медиа VK Play",
-   "first_seen": "2026-11-04T20:40:44Z",
-   "updated": "2026-11-04T20:40:44Z",
-   "items": [
-    {
-     "id": "20f1adba904b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Налог на GTA 6, первая God of War на ПК: новости недели Медиа VK Play",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXBPZEdfckxzSEF4eEVvVElnMjhpS2lnLXJOWl9JLWR2VUJHWVZnTzI4YlM1THpsdkpxbC0yeVhOUlFNbWl4aXhMZWhUQlpRSUw1RVBCZmRxQlNRdjJnT1NiYy13SkpSd2lOb2JEZFdIRFo0TXZkY1QyRFhuM2JDVkpCU3JPN2lTdVB6YjJUM1VIYWJtaU02S2lfOHBoX2s?oc=5",
-     "ts": "2026-11-04T11:40:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -70236,10 +70305,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T23:40:52Z",
+  "last_run": "2026-11-04T23:50:42Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 95/100",
+   "gnews_en: 96/100",
    "gnews_ru: 73/77",
    "gamesbeat: 1/10",
    "vgc: 0/10",
