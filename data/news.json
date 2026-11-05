@@ -1,127 +1,10 @@
 {
  "stories": [
   {
-   "id": "2ac27775aa60",
-   "title": "Is Grand Theft Auto VI the most anticipated video game of all time? Here are some reasons why",
-   "first_seen": "2026-11-05T09:10:45Z",
-   "updated": "2026-11-05T09:20:46Z",
-   "items": [
-    {
-     "id": "2ac27775aa60",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "CBC",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Is Grand Theft Auto VI the most anticipated video game of all time? Here are some reasons why",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90d2ZiSzUzbDN1bUFVdWRMRFpCS01zcUc2cUJZUHEtb1lkcnFMMldwYXl1aHdGMHd3VDRmemlES2NhLUdXQlNWWWwyNE53UmE5VWZkaUUxcHUyWnR4TS13UUVaVkJGVWhhcXJOWkdKLWxGWkIwZ1BOS0dBaw?oc=5",
-     "ts": "2026-11-05T09:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "9ccac1c67de7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo News Canada",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Is Grand Theft Auto VI the most anticipated video game of all time? Here are some reasons why",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5POFB2NWkxOFJvU3FaaXJyT1BWU3B5V1hZY3ZlUkZnRWJVemZGUmRPdFZSclN5Uk55U3c1TmJrUXpZMHNxek02MzZ0cU9BS1ptWnpsVHRqWEFLOGROdVp1MU9EenhVeWd4cGtialRBTGdQbVk?oc=5",
-     "ts": "2026-11-05T09:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 — самая ожидаемая игра? Что пишут канадские СМИ",
-    "summary": "CBC и Yahoo News Canada обсуждают, может ли GTA 6 стать самой ожидаемой игрой в истории. Журналисты приводят причины: масштаб Вайс-Сити, два героя и долгий срок ожидания.",
-    "idea": "Короткий разбор тезисов канадских СМИ: почему GTA 6 бьёт рекорды ожиданий. Зрителю интересно проверить, согласны ли они с аргументами.",
-    "hook": "Канадские СМИ уверены: GTA 6 — самая ожидаемая игра. Вот почему.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-05T09:20:49Z"
-   },
-   "msg_id": 524
-  },
-  {
-   "id": "20f1adba904b",
-   "title": "No GTA 6 November: Here's what you can play on PC instead",
-   "first_seen": "2026-11-04T20:40:44Z",
-   "updated": "2026-11-05T09:20:46Z",
-   "items": [
-    {
-     "id": "20f1adba904b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Налог на GTA 6, первая God of War на ПК: новости недели Медиа VK Play",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXBPZEdfckxzSEF4eEVvVElnMjhpS2lnLXJOWl9JLWR2VUJHWVZnTzI4YlM1THpsdkpxbC0yeVhOUlFNbWl4aXhMZWhUQlpRSUw1RVBCZmRxQlNRdjJnT1NiYy13SkpSd2lOb2JEZFdIRFo0TXZkY1QyRFhuM2JDVkpCU3JPN2lTdVB6YjJUM1VIYWJtaU02S2lfOHBoX2s?oc=5",
-     "ts": "2026-11-04T11:40:19Z",
-     "summary": ""
-    },
-    {
-     "id": "cfb6ea115065",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PC Gamer",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "No GTA 6 November: Here's what you can play on PC instead",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSSU9TdTlFUUhkNXF5ejI3NkJpLURyV0VOUUxBajEzdmtuVGlKbkJ1anBPOGVmVWtqVExXUlVIbEk0M25obXZ3dEVkMkN2MGFuR3FSdDVURGN6dHc5dnhB?oc=5",
-     "ts": "2026-11-04T23:37:01Z",
-     "summary": ""
-    },
-    {
-     "id": "825c152c6041",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Shane the Gamer",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Skips PC on November 19, but WoW: Forever and Warhammer Survivors Arrive This Month",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXQ2ckt2UkgxcnloTU80cm9CYVh4ZWtiMXJaVEtvaFRMQk1tSF9IZEJhRGcySG54QjZuT3d3T3R6aldlSDNJT0RIQ3RSVXdZRnp1Q1BFbE5ON1cxOW1GR2c0dW5xWGMtVzd0aVZhdzh6WFZsdHJWYnM3YlA3cTdXdGRQMHlXZzVqZ1IyV244Z2hRdW1DU0xxMW94elFjcC1CdjNSZ2tEZ0ZNZVFBRHFqejdlUkt5LUFZckRXM3ZiMmk?oc=5",
-     "ts": "2026-11-05T00:06:48Z",
-     "summary": ""
-    },
-    {
-     "id": "34bebd9033cc",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Новые подробности сюжета GTA 6, возможное возвращение Владивосток FM и новости о ПК-версии",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdkhzVVpBNjBpMTJITVRHM3d5MUlRNzBfQjRqOU9lakNmQUxfbV9VdTBsMFI5YU5ZZ1VoWFVsZFBKaEw2Rmg3X2Zja3BTeHJ2Q0ZYT05QM05QZ3BhSlJWWUxkVW1tUkpBZlRya2NDRFlDSkl6Yy1NeXNEUmQ5TnhCRk9nNm1TOUk1OWl6MHpBeE41czRhZ1o1NWZEdjFqSkV1bnZRb1UtaGpBSHVGMzlDVUhHQk1IWGQ1VzVobEtEZEViN2pDVnc2QWtxbTQwb3ZJd014Q3J1ODVVdw?oc=5",
-     "ts": "2026-11-05T09:14:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
    "id": "77a5f1e6ef45",
    "title": "GTA 6 Preload Guide: 212GB Size, Staggered Start Times And What To Know",
    "first_seen": "2026-11-04T15:50:50Z",
-   "updated": "2026-11-05T09:20:46Z",
+   "updated": "2026-11-05T09:31:00Z",
    "items": [
     {
      "id": "77a5f1e6ef45",
@@ -226,6 +109,19 @@
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iNHBwSGtJNkU2NGtrMXd0bzBZNmJlb002cFV2SklBSTlUNUJTN0N4Q1NtTGxlejFCQjFHT2l6SVdJM19KWE9WT194LVB3ZHlwSUNxaUEzQWN3a0lzNnpIU2RXZnBrUEVPQ2IyYUpMbVFNYjNWRG1ldUNIVjdWdw?oc=5",
      "ts": "2026-11-05T09:08:49Z",
      "summary": ""
+    },
+    {
+     "id": "ac392197e017",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 ultimate edition sharing",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoec8k/gta_6_ultimate_edition_sharing/",
+     "ts": "2026-11-05T09:26:02Z",
+     "summary": "Me and my friend are planning to pre order GTA 6 ultimate edition on his PSN account and share it on PS5. If he activates console sharing and I play on my own account, will I get the ultimate edition bonuses too, or only the base game? submitted by /u/TheGuiltyMyers to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [
@@ -252,62 +148,10 @@
    "msg_id": 511
   },
   {
-   "id": "24b8ba1c8e4a",
-   "title": "GTA 6 Fails to Boost Xbox Sales as Series X|S Numbers Remain Disappointing",
-   "first_seen": "2026-11-05T09:20:46Z",
-   "updated": "2026-11-05T09:20:46Z",
-   "items": [
-    {
-     "id": "24b8ba1c8e4a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "eTeknix",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Fails to Boost Xbox Sales as Series X|S Numbers Remain Disappointing",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkhINUY0VERUTTdRQ0NnYTljRERpal9rLXVLdkdTMWhXLUVVV2NYa3JpeGxpd3J2akVtaXJfUU9OWkh4dnk4RWh1dm54TkRkcTdSQk5JZjRlLXdleFNmNG43RG1sb2JrQXhQRlZyNWdEclFBalAwVl9NSE54eU1CV2hRSkFxOHRRUW8zaWpTa1pUXzNtVElhLUxxZ25EYU0?oc=5",
-     "ts": "2026-11-05T08:58:55Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5ec7f4597c88",
-   "title": "Рекламный мюрал GTA 6 в Бруклине не прожил и месяца - его испортили граффити",
-   "first_seen": "2026-11-05T09:10:45Z",
-   "updated": "2026-11-05T09:10:45Z",
-   "items": [
-    {
-     "id": "5ec7f4597c88",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Рекламный мюрал GTA 6 в Бруклине не прожил и месяца - его испортили граффити",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSnRHeDhjWks0bmt0LU83NjltSjVrNExiUnViemFacU11cnpsQUNwNEc4YmRHQlFYM3UzVUJVQ2p1Q3FNd01KUzRuMGlsZUhWVUZpM2c5TzZWSm9TWEYtVmtSckNSQmIwc05TbXdWRWpRLXJyeGdybUQ0S2pZREN3Mm9kSkF1WTFQZGQ1MEJoNm96ekxEangzTlBkMmFTMnFGSmV1OXpCOGlNYzZvSTZtbkhNV3h0bGpfbHhKOHZOWTk?oc=5",
-     "ts": "2026-11-05T08:54:41Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "bf86ff2440de",
    "title": "GTA 6 Has Already Made an Estimated $750 Million in Pre-Orders",
    "first_seen": "2026-11-04T15:11:26Z",
-   "updated": "2026-11-05T09:01:12Z",
+   "updated": "2026-11-05T09:31:00Z",
    "items": [
     {
      "id": "bf86ff2440de",
@@ -503,6 +347,19 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObDRraEJCdy10cTZZVEpZbDdwdXdGdVpuN2ZUSE0xNWMySmtYdnR1VmZrTG1FTlo0NkdNa2hyMEh3YUNuOFZLa0ItbElleGo0YXpxOXZ6VTBWLWZGcnpzLVFwN24zcm1UbUxSalpnbThBYlp0ak9OcHYwellOV1BHSTdHaEJYY0dSTkh2LTl1RHBGUlE3dnBpdzN6bTg3Z1B1UlE?oc=5",
      "ts": "2026-11-05T07:20:32Z",
      "summary": ""
+    },
+    {
+     "id": "486fcac948f4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Hypebeast",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA VI’ Has Reportedly Pulled In $751 Million USD From Pre-Orders Alone",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjhsV1V1U2F3Vk1FWU1Kb0NDWkxhMnpLbk1VMU1qOVRDMV93V0lxV1hYUWZIZ2oxSDRJUlBNVlFYM0JESlE1ZzQxdVF3T21udnRZQ1I2Sk95Nl9rdzJHdnFtSHctbFNNNV9rQjdaamVTNGVHN1lZMlFxU041RV8xNnRhVnlZUHJsQ3VkU2pZUnhrUFNkdVViVHlsZ0dWVi1LWTZRZHpoU2Fob2xKV1Vpa21xVQ?oc=5",
+     "ts": "2026-11-05T09:19:54Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -514,6 +371,253 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "26d5d6bc5f8d",
+   "title": "Really looking forward to seeing Luis Lopez and Anthony Prince (Gay Tony) in GTA 6",
+   "first_seen": "2026-11-05T09:31:00Z",
+   "updated": "2026-11-05T09:31:00Z",
+   "items": [
+    {
+     "id": "26d5d6bc5f8d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Really looking forward to seeing Luis Lopez and Anthony Prince (Gay Tony) in GTA 6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoeajj/really_looking_forward_to_seeing_luis_lopez_and/",
+     "ts": "2026-11-05T09:22:52Z",
+     "summary": "One thing I'm genuinely excited about in GTA 6 is the possibility of seeing Luis Lopez and Anthony Prince (Gay Tony) again. The Ballad of Gay Tony was one of my favourite GTA stories, and I'd love to see what these two have been up to since GTA IV. It's been a long time, and there's so much potential for Rockstar to do something interesting with them. My theory is that Luis could still be involved in the nightclub and nightlife business, possibly working behind the scenes as a businessman or security figure. He's older now, probably more experienced, and I'd imagine he's moved beyond simply be"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9745c0a8af09",
+   "title": "I want to cry...",
+   "first_seen": "2026-11-05T09:31:00Z",
+   "updated": "2026-11-05T09:31:00Z",
+   "items": [
+    {
+     "id": "9745c0a8af09",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I want to cry...",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoedom/i_want_to_cry/",
+     "ts": "2026-11-05T09:28:47Z",
+     "summary": "Hey everyone, I made a pretty frustrating rookie mistake and could use some technical advice. ​I play on a Series S and bought a Japanese region Xbox gift card to pick up GTA 6 on the JP store. I successfully redeemed the code, so the Yen is currently sitting in my Microsoft account balance. ​The problem: When I go to checkout, the balance option is gone. I just learned the hard way about Japan's strict CERO Z (18+) store policy. Xbox requires an actual Japanese credit card to verify your age for CERO Z games, and strictly blocks you from using gift card balances to pay for them. ​I’m a univer"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6ca95d1855ef",
+   "title": "finally we got something BIG in Sydney",
+   "first_seen": "2026-11-05T09:31:00Z",
+   "updated": "2026-11-05T09:31:00Z",
+   "items": [
+    {
+     "id": "6ca95d1855ef",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "finally we got something BIG in Sydney",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoee8c/finally_we_got_something_big_in_sydney/",
+     "ts": "2026-11-05T09:29:51Z",
+     "summary": "submitted by /u/Libertalia_ to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2ac27775aa60",
+   "title": "Is Grand Theft Auto VI the most anticipated video game of all time? Here are some reasons why",
+   "first_seen": "2026-11-05T09:10:45Z",
+   "updated": "2026-11-05T09:20:46Z",
+   "items": [
+    {
+     "id": "2ac27775aa60",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CBC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Is Grand Theft Auto VI the most anticipated video game of all time? Here are some reasons why",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90d2ZiSzUzbDN1bUFVdWRMRFpCS01zcUc2cUJZUHEtb1lkcnFMMldwYXl1aHdGMHd3VDRmemlES2NhLUdXQlNWWWwyNE53UmE5VWZkaUUxcHUyWnR4TS13UUVaVkJGVWhhcXJOWkdKLWxGWkIwZ1BOS0dBaw?oc=5",
+     "ts": "2026-11-05T09:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "9ccac1c67de7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo News Canada",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Is Grand Theft Auto VI the most anticipated video game of all time? Here are some reasons why",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5POFB2NWkxOFJvU3FaaXJyT1BWU3B5V1hZY3ZlUkZnRWJVemZGUmRPdFZSclN5Uk55U3c1TmJrUXpZMHNxek02MzZ0cU9BS1ptWnpsVHRqWEFLOGROdVp1MU9EenhVeWd4cGtialRBTGdQbVk?oc=5",
+     "ts": "2026-11-05T09:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 — самая ожидаемая игра? Что пишут канадские СМИ",
+    "summary": "CBC и Yahoo News Canada обсуждают, может ли GTA 6 стать самой ожидаемой игрой в истории. Журналисты приводят причины: масштаб Вайс-Сити, два героя и долгий срок ожидания.",
+    "idea": "Короткий разбор тезисов канадских СМИ: почему GTA 6 бьёт рекорды ожиданий. Зрителю интересно проверить, согласны ли они с аргументами.",
+    "hook": "Канадские СМИ уверены: GTA 6 — самая ожидаемая игра. Вот почему.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-05T09:20:49Z"
+   },
+   "msg_id": 524
+  },
+  {
+   "id": "20f1adba904b",
+   "title": "No GTA 6 November: Here's what you can play on PC instead",
+   "first_seen": "2026-11-04T20:40:44Z",
+   "updated": "2026-11-05T09:20:46Z",
+   "items": [
+    {
+     "id": "20f1adba904b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Налог на GTA 6, первая God of War на ПК: новости недели Медиа VK Play",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXBPZEdfckxzSEF4eEVvVElnMjhpS2lnLXJOWl9JLWR2VUJHWVZnTzI4YlM1THpsdkpxbC0yeVhOUlFNbWl4aXhMZWhUQlpRSUw1RVBCZmRxQlNRdjJnT1NiYy13SkpSd2lOb2JEZFdIRFo0TXZkY1QyRFhuM2JDVkpCU3JPN2lTdVB6YjJUM1VIYWJtaU02S2lfOHBoX2s?oc=5",
+     "ts": "2026-11-04T11:40:19Z",
+     "summary": ""
+    },
+    {
+     "id": "cfb6ea115065",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "No GTA 6 November: Here's what you can play on PC instead",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSSU9TdTlFUUhkNXF5ejI3NkJpLURyV0VOUUxBajEzdmtuVGlKbkJ1anBPOGVmVWtqVExXUlVIbEk0M25obXZ3dEVkMkN2MGFuR3FSdDVURGN6dHc5dnhB?oc=5",
+     "ts": "2026-11-04T23:37:01Z",
+     "summary": ""
+    },
+    {
+     "id": "825c152c6041",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Shane the Gamer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Skips PC on November 19, but WoW: Forever and Warhammer Survivors Arrive This Month",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXQ2ckt2UkgxcnloTU80cm9CYVh4ZWtiMXJaVEtvaFRMQk1tSF9IZEJhRGcySG54QjZuT3d3T3R6aldlSDNJT0RIQ3RSVXdZRnp1Q1BFbE5ON1cxOW1GR2c0dW5xWGMtVzd0aVZhdzh6WFZsdHJWYnM3YlA3cTdXdGRQMHlXZzVqZ1IyV244Z2hRdW1DU0xxMW94elFjcC1CdjNSZ2tEZ0ZNZVFBRHFqejdlUkt5LUFZckRXM3ZiMmk?oc=5",
+     "ts": "2026-11-05T00:06:48Z",
+     "summary": ""
+    },
+    {
+     "id": "34bebd9033cc",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Новые подробности сюжета GTA 6, возможное возвращение Владивосток FM и новости о ПК-версии",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdkhzVVpBNjBpMTJITVRHM3d5MUlRNzBfQjRqOU9lakNmQUxfbV9VdTBsMFI5YU5ZZ1VoWFVsZFBKaEw2Rmg3X2Zja3BTeHJ2Q0ZYT05QM05QZ3BhSlJWWUxkVW1tUkpBZlRya2NDRFlDSkl6Yy1NeXNEUmQ5TnhCRk9nNm1TOUk1OWl6MHpBeE41czRhZ1o1NWZEdjFqSkV1bnZRb1UtaGpBSHVGMzlDVUhHQk1IWGQ1VzVobEtEZEViN2pDVnc2QWtxbTQwb3ZJd014Q3J1ODVVdw?oc=5",
+     "ts": "2026-11-05T09:14:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "24b8ba1c8e4a",
+   "title": "GTA 6 Fails to Boost Xbox Sales as Series X|S Numbers Remain Disappointing",
+   "first_seen": "2026-11-05T09:20:46Z",
+   "updated": "2026-11-05T09:20:46Z",
+   "items": [
+    {
+     "id": "24b8ba1c8e4a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eTeknix",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Fails to Boost Xbox Sales as Series X|S Numbers Remain Disappointing",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkhINUY0VERUTTdRQ0NnYTljRERpal9rLXVLdkdTMWhXLUVVV2NYa3JpeGxpd3J2akVtaXJfUU9OWkh4dnk4RWh1dm54TkRkcTdSQk5JZjRlLXdleFNmNG43RG1sb2JrQXhQRlZyNWdEclFBalAwVl9NSE54eU1CV2hRSkFxOHRRUW8zaWpTa1pUXzNtVElhLUxxZ25EYU0?oc=5",
+     "ts": "2026-11-05T08:58:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5ec7f4597c88",
+   "title": "Рекламный мюрал GTA 6 в Бруклине не прожил и месяца - его испортили граффити",
+   "first_seen": "2026-11-05T09:10:45Z",
+   "updated": "2026-11-05T09:10:45Z",
+   "items": [
+    {
+     "id": "5ec7f4597c88",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Рекламный мюрал GTA 6 в Бруклине не прожил и месяца - его испортили граффити",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSnRHeDhjWks0bmt0LU83NjltSjVrNExiUnViemFacU11cnpsQUNwNEc4YmRHQlFYM3UzVUJVQ2p1Q3FNd01KUzRuMGlsZUhWVUZpM2c5TzZWSm9TWEYtVmtSckNSQmIwc05TbXdWRWpRLXJyeGdybUQ0S2pZREN3Mm9kSkF1WTFQZGQ1MEJoNm96ekxEangzTlBkMmFTMnFGSmV1OXpCOGlNYzZvSTZtbkhNV3h0bGpfbHhKOHZOWTk?oc=5",
+     "ts": "2026-11-05T08:54:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -69531,119 +69635,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "9af5320d50d5",
-   "title": "\"Она готова\": Rockstar заявила о завершении основной разработки GTA VI за три недели до релиза",
-   "first_seen": "2026-10-29T07:40:56Z",
-   "updated": "2026-10-29T09:20:54Z",
-   "items": [
-    {
-     "id": "9af5320d50d5",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "\"Она готова\": Rockstar заявила о завершении основной разработки GTA VI за три недели до релиза",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUEdfa0QtT0VMcDJBQU1pYXJySUc1Nk9mUDN4Szh4MGd1dnlYRVM1bEVBT0p0RXVaWnlUVnk2UDRrRTNrMmJjbWNVeUF3bm5Gby1ETlpjeGJXWWJ3c1hCQ21rb3AtYXN5UC1SWnV4YVZrR2Ywc3E2ZU9ETWs0QktxeE5CU0Y2U0FPSUFQVGZVRkxkbjgzZktGb3MzWXNGc19PRnBabllrZnIzaUVab0pmSEk5SHVTVVprUVlOMGNYMzQwZ2xrUlVyYVFuU2lobzFlQ0RkaQ?oc=5",
-     "ts": "2026-10-29T07:26:41Z",
-     "summary": ""
-    },
-    {
-     "id": "cefa92a436c4",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "\"Она готова\": Rockstar заявила о завершении основной разработки GTA VI за три недели до релиза",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZTFjdzlxcGZON0pOdU1nRUREajhaQ1Z4R3NSMUpYNHg1RjBtN29QaU9yRjdZMmE0LVl6VXVxT2Vua1JHa1dzUS0tendxTmhacVlJMm9VTUEzNUVSMkl5ckIxWENRZ0c5dFNvSmh5SjhZRGdRdUVWaEE2aTlacUIxdlpNTjFBUGN6V19kMlFGZF84RlZManRDdmFFbWVGM3pwWlZFb1hPYlNMaE9DRVhSU3FyX29sdUl5aHpua0Mtay16T1hMMWhsRXRMMzVlWDJyQ0FLM1V4UEtWUQ?oc=5",
-     "ts": "2026-10-29T07:26:41Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "61bd223e06d8",
-   "title": "Мечта стала работой: в Ирландии одному игроку заплатят 800 евро за восемь часов в GTA VI",
-   "first_seen": "2026-10-29T07:01:23Z",
-   "updated": "2026-10-29T09:20:54Z",
-   "items": [
-    {
-     "id": "61bd223e06d8",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Мечта стала работой: в Ирландии одному игроку заплатят 800 евро за восемь часов в GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejdrdUZNTkRPX1lSUk5uWGNDM0liY2w3dUFfY3I0NzlhRm5BLWxGU1Y3TFlxWTBIaW5hYnVmTU1NNlYtMzBMa29qOTUxQXJZcTVDYzlBNFUwcXhJUG5sQmhXSmtXY2Yzekt1NndWNk1GdVJJRW9Ha1hzdkpjQzlEeDYzTmpvWEs0Z1JSWFV5c2g1cWxzSlVnQTMwcFNydXo1YTU2MWpUOGNNenZ5bGlhUy1KRnVTVmRkWVRVeWR0UVV1RnlZQzd5WVY1QU9NSVU?oc=5",
-     "ts": "2026-10-29T06:47:37Z",
-     "summary": ""
-    },
-    {
-     "id": "7eab53ff93a0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Мечта стала работой: в Ирландии одному игроку заплатят 800 евро за восемь часов в GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONmJScUhqV1daX2hxM0tMSDhScW5ZVzZtZUVPU1ZCcDVWV1MtRHo3cW83XzZ4MzJtTlNLYmxtZmxwWmF1eENlM2djRWVmWXdRNW1RLXN5OGR2Q2tnUFdNcEZoR0tCN3d6eG5jNTFmcDJzYy0yOHVzckd5OVpQdXM3UDlJTUxYS2Q2Y1AzU1hhRDVXeWUwbXpVaEZXbEQ1b0dQQmV2bmNXU2t1b3BlVFZpSEhIenhUX3NFYXppZ1JUUXJzUWs3RWswNG9GRXhWaGZLcmtUYg?oc=5",
-     "ts": "2026-10-29T06:47:37Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "dcaf49ede970",
-   "title": "GTA 6 удивила журналистов EDGE: новые детали из большого превью",
-   "first_seen": "2026-10-29T09:20:54Z",
-   "updated": "2026-10-29T09:20:54Z",
-   "items": [
-    {
-     "id": "dcaf49ede970",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "WTFTime.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 удивила журналистов EDGE: новые детали из большого превью",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVZUdy00RVd4aHFnOFprRnFrVUFHUEZSWkxJVlpDbllpVUd1Z0NBS3RyRjU2U0pjb3Jjb29LYXc3QUZ6bEJPWWRZWjJyWnlTeTdqQ2VBcHFsUFRBYU1QZmx6ejB4N1VyNThkLVkzeDVlUzJVam9ySzNhT0RwblpZTU54c3drZnh2Z3M0dTF2cTg1NmFaMmJCWTZPTVpVdTY0?oc=5",
-     "ts": "2026-10-29T09:17:57Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T09:20:49Z",
+  "last_run": "2026-11-05T09:31:00Z",
   "last_log": [
    "rockstar_site: 0/5",
-   "gnews_en: 97/100",
-   "gnews_ru: 66/69",
+   "gnews_en: 96/100",
+   "gnews_ru: 65/68",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 8/10",
@@ -69653,8 +69653,8 @@
    "rockstarintel: 1/10",
    "gtaboom: 13/30",
    "reddit: 24/25",
-   "tg_gtavistar: 8/12",
-   "tg_gta6deluxe: 8/16",
+   "tg_gtavistar: 7/12",
+   "tg_gta6deluxe: 7/16",
    "tg_gta6_m: 7/19",
    "tg_gta6newsdaily: 1/16"
   ],
