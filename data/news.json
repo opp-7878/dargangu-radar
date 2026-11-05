@@ -2,9 +2,9 @@
  "stories": [
   {
    "id": "ecf3eca86acb",
-   "title": "What Strauss Zelnick Really Said When WSJ Pressed Take-Two on GTA 6",
+   "title": "What Strauss Zelnick Said When Asked About Relying Too Much on GTA 6",
    "first_seen": "2026-11-05T03:50:48Z",
-   "updated": "2026-11-05T05:20:44Z",
+   "updated": "2026-11-05T05:30:58Z",
    "items": [
     {
      "id": "ecf3eca86acb",
@@ -31,12 +31,25 @@
      "url": "https://www.gtaboom.com/what-strauss-zelnick-really-said-when-wsj-pressed-take-two-on-gta-6-f031",
      "ts": "2026-11-05T05:18:21Z",
      "summary": "Strauss Zelnick answered concerns about dependence on GTA 6 by citing 15 franchises that each sold at least 5 million copies."
+    },
+    {
+     "id": "c320ccc1953f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "What Strauss Zelnick Said When Asked About Relying Too Much on GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVU3SU0xWXIwc0hNYzJ2WFRSQ2NhWGl4d1Vud3N5M21uUm9FUTYzTFNJMWJCb2ZHZlpieTFBTmNPNXBKblhaUXdxZEdzZGpMWjB3eUVLQlR6Z3ZZWVBCd2VnWVlrSHhHRkJPUG9wRXpsaDVJVHlWVVp1am52UEIxaXotY3hiUlFKOFMzR3JxUHplUm1QMTAwSFQ2Nzc?oc=5",
+     "ts": "2026-11-05T05:18:22Z",
+     "summary": ""
     }
    ],
    "tags": [
     "Take-Two"
    ],
-   "score": 68,
+   "score": 81,
    "level": "PROBABLE",
    "alerted": "yellow",
    "status": "new",
@@ -51,6 +64,62 @@
     "at": "2026-11-05T03:50:52Z"
    },
    "msg_id": 520
+  },
+  {
+   "id": "55221bf9efa6",
+   "title": "Get GTA 6 for free: Game developer announces unique giveaway on November 19; check who can participate",
+   "first_seen": "2026-11-05T05:30:58Z",
+   "updated": "2026-11-05T05:30:58Z",
+   "items": [
+    {
+     "id": "55221bf9efa6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Economic Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Get GTA 6 for free: Game developer announces unique giveaway on November 19; check who can participate",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQ0JYNmZkbW5tTkE4TmttTTRsVnVOaHhsODRkRmU2anU4cFhQZVhzRVpFc0cxdW5oZmNCeGdCX3ljUUpZUjZtdWRMaWxiaExyaE0ybFRRVEJXTXF4MldiM2VXZG4wRmVONjRJNm9iQ1loRGFldlJyT19VVjFkS1VCd1Zyb1hsZWcxX1FCRXRjLVF0bk1IMVN0N05RWGRnRkp2VVNsRXkyZ01nQVZraVVPT1laLW5oMi1GWlJ3VVllNGJiYzN1QTUwRXU2UW1qOE9RS1FGSlQ1UGJPOENwOWxMQzg2UVFmelJjTzliVHJyX0FNODVRQ1JBclhCcXp1aVhF0gGGAkFVX3lxTE1BRFBKSEFGbHByWGZhbi15Q3BCdVpwZ1VNU0ZEa3JaNjBNZjNmSTlxOVFTRE9nN2xLZTZVSW9fekZnWm1HQThBcUFlQmRTT0hKVXRoQ3ozWUVTaWZEX0Z5SlhMejFXUE9UZWUwUkZ5SDUzcGVDZVhXdUpfZVkyX1RUeVAwRVVRYkl0eS1Zem5pOUxCQ3hUNlFVY2FJemhVQmloYnpJQVJpTUxfYlJHUnpmTmtHU3RpWjlpX3FzU2E3OWt6SHBKaWFHRGR3YlJ3OF9SbmNZRlFyQU80TzFfb0dwSUtsWWxlTkJJNEpIODhfVUJxZkF4eDBsbFhCQXBYMVVLZWpUVkE?oc=5",
+     "ts": "2026-11-05T05:24:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "b3e5c016dd64",
+   "title": "GTA VI marketing has even reached tough-on-crime Singapore",
+   "first_seen": "2026-11-05T05:30:58Z",
+   "updated": "2026-11-05T05:30:58Z",
+   "items": [
+    {
+     "id": "b3e5c016dd64",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI marketing has even reached tough-on-crime Singapore",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoam26/gta_vi_marketing_has_even_reached_toughoncrime/",
+     "ts": "2026-11-05T05:28:00Z",
+     "summary": "submitted by /u/Unfair-Bike to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
   },
   {
    "id": "738f1351e90b",
@@ -69518,37 +69587,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "3731cab428f0",
-   "title": "Grand Theft Auto VI will feature a massive map with changing seasons and intelligent NPCs.",
-   "first_seen": "2026-10-29T05:20:50Z",
-   "updated": "2026-10-29T05:20:50Z",
-   "items": [
-    {
-     "id": "3731cab428f0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI will feature a massive map with changing seasons and intelligent NPCs.",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2dGRTZIR0g1LWd5em5iNlE1d2lzcVJseURfR0RnVWJYSHRZbmtwNjY5OTQ0dkE0bkxZLTB3M212UWMtNXlNbURockZyX2pEanRmM3dxbDM5RkIzNTFFOGlRZl9xTGlOMTNpSTQ3bW9CdUhXcUlCZm5NdjhrenBzMEpUNThzMmRiMnU4U3RKNkVCUW1VeWZwcDh5WWRmVWVfa1I2MmJYd2NZTnZTT1lMVg?oc=5",
-     "ts": "2026-10-29T05:09:58Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T05:20:44Z",
+  "last_run": "2026-11-05T05:31:01Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 96/100",
