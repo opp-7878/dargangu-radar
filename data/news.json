@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "95941f6da5f8",
+   "title": "Highway Construction going on in new screenshort",
+   "first_seen": "2026-11-05T06:31:28Z",
+   "updated": "2026-11-05T06:31:28Z",
+   "items": [
+    {
+     "id": "95941f6da5f8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Highway Construction going on in new screenshort",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xobl75/highway_construction_going_on_in_new_screenshort/",
+     "ts": "2026-11-05T06:25:52Z",
+     "summary": "If you look closely at highway in new screenshort, part of road going towards beach is closed, and too make up for that there is barricade in other section of rood to allow traffic to cross from this side. it's not much but it adds more realism to it. :) submitted by /u/GasOk148 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "bf86ff2440de",
    "title": "GTA 6 Has Already Made an Estimated $750 Million in Pre-Orders",
    "first_seen": "2026-11-04T15:11:26Z",
@@ -69539,11 +69565,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T06:20:53Z",
+  "last_run": "2026-11-05T06:31:28Z",
   "last_log": [
-   "rockstar_site: 0/5",
-   "gnews_en: 96/100",
-   "gnews_ru: 71/76",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
