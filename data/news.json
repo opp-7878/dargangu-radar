@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "ebb4c33a07bf",
+   "title": "We got GTA 6 in GTA 5 before GTA 6",
+   "first_seen": "2026-11-05T05:40:46Z",
+   "updated": "2026-11-05T05:40:46Z",
+   "items": [
+    {
+     "id": "ebb4c33a07bf",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We got GTA 6 in GTA 5 before GTA 6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoaqr0/we_got_gta_6_in_gta_5_before_gta_6/",
+     "ts": "2026-11-05T05:35:45Z",
+     "summary": "I recently picked up a PS5 solely for GTA 6. Been playing GTA V on Fidelity mode at 30 FPS to prepare myself and get used to it, and man seeing this is making me even more excited. submitted by /u/Spare-Mechanic-2906 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ecf3eca86acb",
    "title": "What Strauss Zelnick Said When Asked About Relying Too Much on GTA 6",
    "first_seen": "2026-11-05T03:50:48Z",
@@ -69591,11 +69617,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T05:31:01Z",
+  "last_run": "2026-11-05T05:40:46Z",
   "last_log": [
-   "rockstar_site: 0/4",
+   "rockstar_site: 0/3",
    "gnews_en: 96/100",
-   "gnews_ru: 72/77",
+   "gnews_ru: 71/76",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
