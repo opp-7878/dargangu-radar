@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "3a54809a3965",
+   "title": "Welcome Home GTA VI",
+   "first_seen": "2026-11-05T03:40:45Z",
+   "updated": "2026-11-05T03:40:45Z",
+   "items": [
+    {
+     "id": "3a54809a3965",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Welcome Home GTA VI",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo8g8e/welcome_home_gta_vi/",
+     "ts": "2026-11-05T03:31:05Z",
+     "summary": "GTA VI plastered over central Edinburgh. submitted by /u/frost719 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "52c26c3dc374",
    "title": "She’s ready to go!",
    "first_seen": "2026-11-05T03:30:58Z",
@@ -69695,118 +69721,16 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "150343b828d2",
-   "title": "GTA 6 Developers Say They Are Still Discovering New Locations in the Game",
-   "first_seen": "2026-10-29T03:31:06Z",
-   "updated": "2026-10-29T03:31:06Z",
-   "items": [
-    {
-     "id": "150343b828d2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Developers Say They Are Still Discovering New Locations in the Game",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQU05UHpzcHB3eTFwTmxmRXBSZkF1SDhNMDhXcGMzVnRUSGtRUm1xNVJfeXhvUWlReC1sMnVDTzdaT1U1NzhQODdOOWFrN1BoSFNIWHE3T0V1c3EweW1UWkpsSjg0cWdEVzFkaHg5clBqbWxuX3NvTXZDQnBhallaWmQ0SGtBYmdpdEdyd3BNTW9NVGhZY3F2ZU9xNWVBWkM5SVNMTWtmaGlZRjg2amNCVUZMNUJSaUNkYWtsb0tZTWlPdHhXMzJTOU5OcGx3Q0V3VHF2MmNuNVh3NlFXT1djMXVackJpZFU?oc=5",
-     "ts": "2026-10-29T03:22:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Разработчики GTA 6 до сих пор находят новые локации",
-    "summary": "Разработчики GTA 6 говорят, что до сих пор открывают для себя новые места в игре, пишет IGN. Это говорит о масштабе карты и глубине проработки мира.",
-    "idea": "Покажем карту и всплывающие «точки открытий» — почему даже авторы ещё исследуют Вайс-Сити. Зрителю интересно: мир больше, чем мы думали.",
-    "hook": "Разработчики GTA 6 до сих пор находят новые локации — вот что это значит.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-29T03:31:09Z"
-   },
-   "msg_id": 284
-  },
-  {
-   "id": "17f051dc5dcc",
-   "title": "GTA 6 Reveals Smarter Police, K9 Units, and a More Dynamic Open World",
-   "first_seen": "2026-10-29T03:31:06Z",
-   "updated": "2026-10-29T03:31:06Z",
-   "items": [
-    {
-     "id": "17f051dc5dcc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MMOEXP",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Reveals Smarter Police, K9 Units, and a More Dynamic Open World",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWF9MYXRyZk9wd1RSM1ZEanNpSG5GTVI5cHBoWmRQOEVoNGNOTWc2dDlQN2VuUk9oMkZNQWlqTC1NXzh0T0MwYS1DV0YxWTlIMUtfTVlhNE5hNEJTTHBXdFFaOVh0WVhfY1VwS01LZjVPMEJicmluM1lvb3Y2UGM3OW9HLVZEN0xEV3k3bzVaRTlobFREUU9PZllFaVRWU29fUHc?oc=5",
-     "ts": "2026-10-29T03:22:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "a53ce70ce596",
-   "title": "Rockstar Games Has Honored a Beloved GTA 4 Meme With One of GTA 6's Mechanics",
-   "first_seen": "2026-10-29T03:31:06Z",
-   "updated": "2026-10-29T03:31:06Z",
-   "items": [
-    {
-     "id": "a53ce70ce596",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Rockstar Games Has Honored a Beloved GTA 4 Meme With One of GTA 6's Mechanics",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0pOY3J5cmZFVzBjVmdHdHNvR3pNbU5rUHVfZ3FJVDdCNVpaLWlCVGtyMzFxYl9OQTRUVGkzVWpUVWE3clNIak9nNGpNeDhFNWlfYWJ0M0RyOUU5a1V5QnBTQnFrVjF0aGkyaUk1MU5ocVNwRUUtS284Rzg4RkFoUg?oc=5",
-     "ts": "2026-10-29T03:25:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Rockstar добавила в GTA 6 культовый мем из GTA 4",
-    "summary": "По данным IGN, в GTA 6 появится механика, отсылающая к популярному мему про «кузена» из GTA 4. Rockstar таким образом по-доброму подколола культовую фразу и связала две игры.",
-    "idea": "Короткая нарезка: мем из GTA 4 → как это выглядит в GTA 6. Узнаваемая шутка, мгновенный отклик и желание поделиться.",
-    "hook": "Rockstar официально спрятала в GTA 6 главный мем GTA 4 — смотри.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-29T03:31:11Z"
-   },
-   "msg_id": 285
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T03:30:58Z",
+  "last_run": "2026-11-05T03:40:45Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/4",
    "gnews_en: 96/100",
    "gnews_ru: 72/77",
-   "gamesbeat: 0/10",
+   "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
    "ign: 1/20",
