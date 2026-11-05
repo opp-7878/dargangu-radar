@@ -1,229 +1,10 @@
 {
  "stories": [
   {
-   "id": "fa608c7bfb21",
-   "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
-   "first_seen": "2026-11-05T16:31:04Z",
-   "updated": "2026-11-05T19:40:46Z",
-   "items": [
-    {
-     "id": "fa608c7bfb21",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "USA Today",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjQ3a2pXNXpvQ0c3Tm1ramdpZ19UakQ0Q3BZU211bFpWMUhoYnNOTmFwS2R5bkV3UzlaTVlBLTJMdGZuZ2ZGVklnaDhLS1VCYkQ3ZGRmN2lpeV9RX0laTS00cFRUSTRoN2dNNmVyVlY2YnhoTkNnb1dXR0J6UVlXQS0zZGRPX0w5NkZpMF9fU2JPUWV2cEFVdEhsVy1qOE4zX2ZueEgwS3pJVzItbmdz?oc=5",
-     "ts": "2026-11-05T16:27:26Z",
-     "summary": ""
-    },
-    {
-     "id": "5217ec05a529",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "azcentral.com and The Arizona Republic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkkxeHFaUWtvOEVxSHlCZDlhM19BTHBtR3E0bXN5MmVRakp6MUFHS290T2pEQkJtTGhVZlU5MWdnaDJqWUg2R2puZS1UczJMYWJoVUNabVo1bllobG5uUURlNzdsLUhqU1VKQVlUUUhKMDFFcGRuVWtoeVBFUkw1Yl9UY3lHeDRJZVRMaGtlcVM1RHhYRENERXJZcFNDNFVYTkNPb2RlNmFvMTUyMVdfaw?oc=5",
-     "ts": "2026-11-05T16:33:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "99c739469383",
-   "title": "GTA VI releases soon. New marketing you may see in Miami-Dade",
-   "first_seen": "2026-11-05T19:10:58Z",
-   "updated": "2026-11-05T19:30:58Z",
-   "items": [
-    {
-     "id": "99c739469383",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "USA Today",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI releases soon. New marketing you may see in Miami-Dade",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdjdtYlQ3TXRsOWNoWFNQQ3RaMzNmRDMyWjFFMEFTeFY3ZGhUVHI5WlpLbkE2NzhkS3ZEWllyRmpqZDhDOS10eWc5NFBOLWlLNXR2OXc3UmZIV0Z4X0JLNEdiNFJZb29xelA3VnVETzA4YkExRi1wTmI5VlBhLVU5b081LXJ1YUhMNEdvU2lTRnRsenJDNV9vcV83U25SYmpHMVk5a1lEWEVhd1JsMmRuVm9qQlREZ1pEQzlpenNoX2k4aXl6eWo3VWQ3OEV4QQ?oc=5",
-     "ts": "2026-11-05T18:57:00Z",
-     "summary": ""
-    },
-    {
-     "id": "8cae416e14f6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI releases soon. New marketing you may see in Miami-Dade",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2cwdE1mRkdNX2FvY3FrSVhpR3VDWmZoOWJvR18xT3kwQWdod3BIVDJCMU9ya2FoVEpGalJlWWl0RzZMTTNkVl9aZS0xMklVOXlkZGhiYUhuWDJzTGlXQmNNZXZVVjVweVRDQkhKQ2VzY1pKZXZTR2JxRDlPOUxGUDlUOVBvOGNT?oc=5",
-     "ts": "2026-11-05T18:57:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6: новая реклама в Майами — что готовят к релизу",
-    "summary": "По данным USA Today и Yahoo, в округе Майами-Дейд появилась новая реклама GTA 6. Это совпадает с приближающимся релизом игры 19 ноября 2026.",
-    "idea": "Угол: уличная реклама GTA 6 в Майами — показываем кадры/фото и отмечаем, что до релиза 19 ноября осталось всего две недели. Зрителю интересно увидеть, как Rockstar «зажигает» город перед запуском.",
-    "hook": "GTA 6 уже на улицах Майами — вот что появилось за две недели до релиза.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-05T19:31:02Z"
-   },
-   "msg_id": 567
-  },
-  {
-   "id": "020b4b9097fe",
-   "title": "GTA 6 съедает половину консоли: сколько места освободить до релиза",
-   "first_seen": "2026-11-05T19:01:11Z",
-   "updated": "2026-11-05T19:30:58Z",
-   "items": [
-    {
-     "id": "020b4b9097fe",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Знай.ua",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 съедает половину консоли: сколько места освободить до релиза",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzJ2eEx0eGRmenFOX055RXVIU2lQamFxTE1DNUIyTlJMY0lWcndFMVJQUzZGdU1jb1Z4NnlSa3lnajA0YzFjOHdUZXVIZTZGaHFqdndLWWZDT0VpR19kNHQ3ZWVWSVZiWmdKMFpHUkJUNzN3c0NaM0Ixalc2VEtVaXBVYXpuN1BDYjBCQVROSmxDV01MdV9BcngwOG1yZ9IBowFBVV95cUxNQmp2Nm13VW1iNDgtNHhaV09lN1RpaFU4SEhXdGVpOHpmWWxIcjBUaGlaUW5OR0piVmpFV0tEOUduMWloaC1EMS12Y2gwY3lyS0pkMi1jTlM0U2MxUmlpeUVDdjdybDYySnhuTzJNUzhGS2dtVUNkM1B1S1Fud2pWWDl2aGxYQVlkSkFNWjlZRENmZ2ZDSmRsdnZid1AtcGVWelY4?oc=5",
-     "ts": "2026-11-05T17:40:00Z",
-     "summary": ""
-    },
-    {
-     "id": "929b78f05df9",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "MY.UA",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 съедает половину консоли: сколько места освободить до релиза",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGNaZDBTdG5JcmVDVmdObWxPOTl1SW1PaEtXa0dYd0J6RUFaNTVxT3dvOW96M1JLcng2UU8ycHNfZTFPNnM3WEU3OFpEb1BWOUtITlh0YzhGUWJIMWw5eWJVb2djRDJldW1iME5adk5WcGJGUlQyRTBVeVVyR3hPTXM2dG8zamduLTREMjM1Ni05WWNjN09la01MYTNicHpNenfSAacBQVVfeXFMTmlBUnZ6QTVKQU1Mcmk5QUZHT3ZjeG5TazItb2VocmFaQlJ2UzU0UlZsbUw0OTFhMjExeEN5bnhSTzVKRHBPU2xIOUpFU1Nrbm1BTjIySmVNMm9xSWo5d29adU1OV0tpRkhpRnJ5NUdybFhra2VpZS1LTHBHa3A1WGdxMnRDWVlwR3hJNkVKclNwbnZCTnlsQ2tXa0JvSVBvOXFYSUd0SWs?oc=5",
-     "ts": "2026-11-05T17:42:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 48,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "bd747cf400fc",
-   "title": "Police Maritime Unit now have actual uniforms.",
-   "first_seen": "2026-11-05T19:30:58Z",
-   "updated": "2026-11-05T19:30:58Z",
-   "items": [
-    {
-     "id": "bd747cf400fc",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Police Maritime Unit now have actual uniforms.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xorrzk/police_maritime_unit_now_have_actual_uniforms/",
-     "ts": "2026-11-05T19:26:01Z",
-     "summary": "This is just something that is very minor but for me Im so happy were getting all these specialized units/outfits to add to the immersion. I wonder if we will get Coast Guard Police, Millitary Police, Border patrol on the beaches? submitted by /u/Weird-Judge-4578 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e80790b47568",
-   "title": "Rockstar показала почти 40 новых скриншотов GTA 6 за две недели до релиза",
-   "first_seen": "2026-11-05T15:40:51Z",
-   "updated": "2026-11-05T19:20:47Z",
-   "items": [
-    {
-     "id": "e80790b47568",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar показала почти 40 новых скриншотов GTA 6 за две недели до релиза",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdkI5TXEyWTBFOUE1MXgxb0NLMnRwRHN0VGlDOWlGZUR2bHdTMk5IZFZTSWhpOTJ3eDNSakl4R2FZVE0tWGItRVNUSkl4eE5FU3gwdXN3UGNQN2NERkoxdzc5WXB3dlRLQk1CZmVNTmQzdEZxb1JoQndOeGZnXzRWOHBlVHFSM2xtYmJZSTMwbDZYcU94cnpOMnFCWHlGZ3F1ajZndlVKSW4zUG1HTnVEUDh4TVJ0QUxHSThPUg?oc=5",
-     "ts": "2026-11-05T15:26:06Z",
-     "summary": ""
-    },
-    {
-     "id": "a184daf51c37",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Rozetked.me",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar показала 40 новых скриншотов GTA VI в честь скорого выхода игры",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQODNZUmhhVU5uWUdfZG1CZ1ZFUzZwZmpoZWxGem5ZNDdyVGRIc05SRUFTZC1NWmpRZV92cGwtZWFaekswZjRobFU1OThlWDZUejlGRDVKbFdUc1JaWm9IQlB6OEQ0Qng5dmFYSkJCemRkVU8yM2tTSFFaU1hjX1BiRDRuX0I2Q0RpQTRoS09CQkN2UGNwVmZBUElnZkxDak9zdXpadXppQQ?oc=5",
-     "ts": "2026-11-05T15:48:00Z",
-     "summary": ""
-    },
-    {
-     "id": "e5b60b112676",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Pasquale Pillitteri",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar представила 39 новых скриншотов GTA 6 за две недели до релиза",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY2x6UEF6SUhlRlJlTldxQ0hva3dMUlJHQ2RGVUVXT3FnblE2R2I0aDlSckF2UEtKV0FNeWdMeXpQZTh2MWJRTVpnYmVmaFRXZkc1WEhMUWF1MWtTS1BfSkUzOVBBdVZraHNfRGI4M2FQejM1NDlWcDZRNXNJWmpkYTk0RFNYUQ?oc=5",
-     "ts": "2026-11-05T18:50:29Z",
-     "summary": ""
-    },
-    {
-     "id": "9531c79aa594",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Почти 40 новых скриншотов GTA 6 — до релиза две недели",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHUybmY5V3dNVWhLZHVIOG9ZWnBJX0EyZFZuZjBVZThUNmx1WUMwQU5OUnZFS1lDU2ZQRUx6QzM0M0hkM0FRYktpd2ExOXFyemlvT3RLb2QwekRHN3hnd2pMU3BnS0YwMzRUdGpCUzFWZ1BHSFVLYUpmTklfcTlYWlpHYVBaU3VFRFphUXpR?oc=5",
-     "ts": "2026-11-05T15:15:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 64,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
    "id": "76cbc386b6af",
    "title": "Rockstar releases nearly 40 new GTA 6 screenshots ahead of launch",
    "first_seen": "2026-11-05T15:20:46Z",
-   "updated": "2026-11-05T19:20:47Z",
+   "updated": "2026-11-05T19:50:52Z",
    "items": [
     {
      "id": "76cbc386b6af",
@@ -549,6 +330,19 @@
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9INlVjMTYtZ0U4R0pOR1VOS1E2a2h0dVhTeFdxY1dMRS1DZWI3LUJ0ZlJzT3VjbV83VFp2cUZ4WUdyZnVqSlp3eDRIV2g3bGJMaUNnWWpYc2UyUFQ1RkxnaFd3Y0Q0RTk5T0ZMVEdseS00QWJsek4weHRWSFNodw?oc=5",
      "ts": "2026-11-05T19:16:44Z",
      "summary": ""
+    },
+    {
+     "id": "5bad1e65aab6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RockstarINTEL",
+     "group": "media",
+     "weight": 55,
+     "alert": true,
+     "title": "39 New GTA 6 Screenshots Released For Launch",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkU2tYSGpWREd6OG14RFJJZXM2XzFEbEw5VXU5QTM5Q0M2OGxnaE15ZDA3STRuYWNPNENfWWViSC1SeHV0ODFjUEpZQTlOQlZGSURCUlFGa0dJNXpieHpyU3M2bGw2VGljSTNCZHVYcjhKSXBjTDN3R1VIMA?oc=5",
+     "ts": "2026-11-05T15:32:12Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -571,6 +365,370 @@
    },
    "msg_id": 543,
    "upgraded": true
+  },
+  {
+   "id": "5c613e20370e",
+   "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
+   "first_seen": "2026-11-05T13:50:45Z",
+   "updated": "2026-11-05T19:50:52Z",
+   "items": [
+    {
+     "id": "5c613e20370e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHNIWHRXOVMwWUk5UnNFMlZleXNsSDlHank2bzJ3eGtoN1dIUVVWbnRzd0ljUEw4T1BmRTFNMzlBUFZ2ZG1wSGQ2cVdpMEl6MnIwWVA0bTQxQ0FKZ3RXTjFTSzI4enNLMDNrbmhPQnJxUnZFdGJ5T0NyZlVSRG1UYW1aMEVRdDZta2Z6SUMxbGkxU3BVa2pZUDJxZDZVSWxZZFRVRDZIOFk3T2RDWUhrNllnd1prT1hoOTVvVHZ2T0o?oc=5",
+     "ts": "2026-11-05T12:12:38Z",
+     "summary": ""
+    },
+    {
+     "id": "ddf62ecc1fd7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "AMD FSR 4.1 arrives on Xbox just in time for GTA 6!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xojn8z/amd_fsr_41_arrives_on_xbox_just_in_time_for_gta_6/",
+     "ts": "2026-11-05T14:12:22Z",
+     "summary": "Pretty awesome timing. AMD’s FSR 4.1.2 has just been made available to Xbox developers, right before GTA 6 releases. From what I’ve read, it’s a pretty big improvement over previous versions, especially when it comes to image quality, reducing ghosting and shimmering, and potentially improving performance by rendering at a lower resolution and upscaling. However Rockstar hasn’t confirmed they’ll be using it, but you’d hope they’d take advantage of it given the timing. I’m really hoping this could help make a 40fps mode possible on Series X, especially for those of us with 120Hz TVs. Although I"
+    },
+    {
+     "id": "0e5b1c7fbf9f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "HotHardware",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Xbox Consoles Get AMD FSR 4.1.2 AI Upscaling Ahead Of GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmV3bkV5UUw5QVg2MldWSGZvb2k1YXp5LU1TOTJ3NWlINEh1MVVmbG8xcGxRSDlXTWRlU3U1b1p2ZzZzQXlrNlZwRXBqT3pKRW1YakFYblVKMkNTLXY0TFpuUEhwRXNRcGMyM3drWkZnZVFRVmwzVnItYWNEb3ZFNnU1cXBwa1F6enROdFBuYw?oc=5",
+     "ts": "2026-11-05T18:40:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 96,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "FSR 4.1.2 на Xbox: что это значит для GTA 6",
+    "summary": "По данным PC Gamer, AMD выпустила FSR 4.1.2 для Xbox и портативных Xbox. Технология может улучшить производительность и картинку в больших играх, включая GTA 6.",
+    "idea": "Коротко показываем, что даёт FSR 4.1.2 на Xbox, и связываем с GTA 6: стабильные FPS и чёткая картинка на консолях.",
+    "hook": "FSR 4.1.2 уже на Xbox — и это прямо перед GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-05T13:50:49Z"
+   },
+   "msg_id": 531
+  },
+  {
+   "id": "0c59879601fa",
+   "title": "Made a \"less than 2 weeks left\" Key Lime Pie in celebration",
+   "first_seen": "2026-11-05T19:50:52Z",
+   "updated": "2026-11-05T19:50:52Z",
+   "items": [
+    {
+     "id": "0c59879601fa",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Made a \"less than 2 weeks left\" Key Lime Pie in celebration",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xosbfw/made_a_less_than_2_weeks_left_key_lime_pie_in/",
+     "ts": "2026-11-05T19:47:31Z",
+     "summary": "Tuning all my senses for Leonida. The pie itself was sour and sweet. I'm a bit sour for 30fps but overall everything's sweet, beautiful and edible. submitted by /u/arhippa98 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7328a39c325f",
+   "title": "Looking forward to situations like this!",
+   "first_seen": "2026-11-05T19:50:52Z",
+   "updated": "2026-11-05T19:50:52Z",
+   "items": [
+    {
+     "id": "7328a39c325f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Looking forward to situations like this!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xosbz2/looking_forward_to_situations_like_this/",
+     "ts": "2026-11-05T19:48:06Z",
+     "summary": "submitted by /u/BoredHustler to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d214b2eac591",
+   "title": "The song from the GTAVI Cover Art Reveal sampled the Vice City Mission Passed Theme!",
+   "first_seen": "2026-11-05T19:50:52Z",
+   "updated": "2026-11-05T19:50:52Z",
+   "items": [
+    {
+     "id": "d214b2eac591",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The song from the GTAVI Cover Art Reveal sampled the Vice City Mission Passed Theme!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xosci5/the_song_from_the_gtavi_cover_art_reveal_sampled/",
+     "ts": "2026-11-05T19:48:40Z",
+     "summary": "submitted by /u/PoshVolt to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fa608c7bfb21",
+   "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
+   "first_seen": "2026-11-05T16:31:04Z",
+   "updated": "2026-11-05T19:40:46Z",
+   "items": [
+    {
+     "id": "fa608c7bfb21",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "USA Today",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjQ3a2pXNXpvQ0c3Tm1ramdpZ19UakQ0Q3BZU211bFpWMUhoYnNOTmFwS2R5bkV3UzlaTVlBLTJMdGZuZ2ZGVklnaDhLS1VCYkQ3ZGRmN2lpeV9RX0laTS00cFRUSTRoN2dNNmVyVlY2YnhoTkNnb1dXR0J6UVlXQS0zZGRPX0w5NkZpMF9fU2JPUWV2cEFVdEhsVy1qOE4zX2ZueEgwS3pJVzItbmdz?oc=5",
+     "ts": "2026-11-05T16:27:26Z",
+     "summary": ""
+    },
+    {
+     "id": "5217ec05a529",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "azcentral.com and The Arizona Republic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkkxeHFaUWtvOEVxSHlCZDlhM19BTHBtR3E0bXN5MmVRakp6MUFHS290T2pEQkJtTGhVZlU5MWdnaDJqWUg2R2puZS1UczJMYWJoVUNabVo1bllobG5uUURlNzdsLUhqU1VKQVlUUUhKMDFFcGRuVWtoeVBFUkw1Yl9UY3lHeDRJZVRMaGtlcVM1RHhYRENERXJZcFNDNFVYTkNPb2RlNmFvMTUyMVdfaw?oc=5",
+     "ts": "2026-11-05T16:33:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "99c739469383",
+   "title": "GTA VI releases soon. New marketing you may see in Miami-Dade",
+   "first_seen": "2026-11-05T19:10:58Z",
+   "updated": "2026-11-05T19:30:58Z",
+   "items": [
+    {
+     "id": "99c739469383",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "USA Today",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI releases soon. New marketing you may see in Miami-Dade",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdjdtYlQ3TXRsOWNoWFNQQ3RaMzNmRDMyWjFFMEFTeFY3ZGhUVHI5WlpLbkE2NzhkS3ZEWllyRmpqZDhDOS10eWc5NFBOLWlLNXR2OXc3UmZIV0Z4X0JLNEdiNFJZb29xelA3VnVETzA4YkExRi1wTmI5VlBhLVU5b081LXJ1YUhMNEdvU2lTRnRsenJDNV9vcV83U25SYmpHMVk5a1lEWEVhd1JsMmRuVm9qQlREZ1pEQzlpenNoX2k4aXl6eWo3VWQ3OEV4QQ?oc=5",
+     "ts": "2026-11-05T18:57:00Z",
+     "summary": ""
+    },
+    {
+     "id": "8cae416e14f6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI releases soon. New marketing you may see in Miami-Dade",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2cwdE1mRkdNX2FvY3FrSVhpR3VDWmZoOWJvR18xT3kwQWdod3BIVDJCMU9ya2FoVEpGalJlWWl0RzZMTTNkVl9aZS0xMklVOXlkZGhiYUhuWDJzTGlXQmNNZXZVVjVweVRDQkhKQ2VzY1pKZXZTR2JxRDlPOUxGUDlUOVBvOGNT?oc=5",
+     "ts": "2026-11-05T18:57:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: новая реклама в Майами — что готовят к релизу",
+    "summary": "По данным USA Today и Yahoo, в округе Майами-Дейд появилась новая реклама GTA 6. Это совпадает с приближающимся релизом игры 19 ноября 2026.",
+    "idea": "Угол: уличная реклама GTA 6 в Майами — показываем кадры/фото и отмечаем, что до релиза 19 ноября осталось всего две недели. Зрителю интересно увидеть, как Rockstar «зажигает» город перед запуском.",
+    "hook": "GTA 6 уже на улицах Майами — вот что появилось за две недели до релиза.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-05T19:31:02Z"
+   },
+   "msg_id": 567
+  },
+  {
+   "id": "020b4b9097fe",
+   "title": "GTA 6 съедает половину консоли: сколько места освободить до релиза",
+   "first_seen": "2026-11-05T19:01:11Z",
+   "updated": "2026-11-05T19:30:58Z",
+   "items": [
+    {
+     "id": "020b4b9097fe",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Знай.ua",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 съедает половину консоли: сколько места освободить до релиза",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzJ2eEx0eGRmenFOX055RXVIU2lQamFxTE1DNUIyTlJMY0lWcndFMVJQUzZGdU1jb1Z4NnlSa3lnajA0YzFjOHdUZXVIZTZGaHFqdndLWWZDT0VpR19kNHQ3ZWVWSVZiWmdKMFpHUkJUNzN3c0NaM0Ixalc2VEtVaXBVYXpuN1BDYjBCQVROSmxDV01MdV9BcngwOG1yZ9IBowFBVV95cUxNQmp2Nm13VW1iNDgtNHhaV09lN1RpaFU4SEhXdGVpOHpmWWxIcjBUaGlaUW5OR0piVmpFV0tEOUduMWloaC1EMS12Y2gwY3lyS0pkMi1jTlM0U2MxUmlpeUVDdjdybDYySnhuTzJNUzhGS2dtVUNkM1B1S1Fud2pWWDl2aGxYQVlkSkFNWjlZRENmZ2ZDSmRsdnZid1AtcGVWelY4?oc=5",
+     "ts": "2026-11-05T17:40:00Z",
+     "summary": ""
+    },
+    {
+     "id": "929b78f05df9",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "MY.UA",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 съедает половину консоли: сколько места освободить до релиза",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGNaZDBTdG5JcmVDVmdObWxPOTl1SW1PaEtXa0dYd0J6RUFaNTVxT3dvOW96M1JLcng2UU8ycHNfZTFPNnM3WEU3OFpEb1BWOUtITlh0YzhGUWJIMWw5eWJVb2djRDJldW1iME5adk5WcGJGUlQyRTBVeVVyR3hPTXM2dG8zamduLTREMjM1Ni05WWNjN09la01MYTNicHpNenfSAacBQVVfeXFMTmlBUnZ6QTVKQU1Mcmk5QUZHT3ZjeG5TazItb2VocmFaQlJ2UzU0UlZsbUw0OTFhMjExeEN5bnhSTzVKRHBPU2xIOUpFU1Nrbm1BTjIySmVNMm9xSWo5d29adU1OV0tpRkhpRnJ5NUdybFhra2VpZS1LTHBHa3A1WGdxMnRDWVlwR3hJNkVKclNwbnZCTnlsQ2tXa0JvSVBvOXFYSUd0SWs?oc=5",
+     "ts": "2026-11-05T17:42:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bd747cf400fc",
+   "title": "Police Maritime Unit now have actual uniforms.",
+   "first_seen": "2026-11-05T19:30:58Z",
+   "updated": "2026-11-05T19:30:58Z",
+   "items": [
+    {
+     "id": "bd747cf400fc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Police Maritime Unit now have actual uniforms.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xorrzk/police_maritime_unit_now_have_actual_uniforms/",
+     "ts": "2026-11-05T19:26:01Z",
+     "summary": "This is just something that is very minor but for me Im so happy were getting all these specialized units/outfits to add to the immersion. I wonder if we will get Coast Guard Police, Millitary Police, Border patrol on the beaches? submitted by /u/Weird-Judge-4578 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e80790b47568",
+   "title": "Rockstar показала почти 40 новых скриншотов GTA 6 за две недели до релиза",
+   "first_seen": "2026-11-05T15:40:51Z",
+   "updated": "2026-11-05T19:20:47Z",
+   "items": [
+    {
+     "id": "e80790b47568",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar показала почти 40 новых скриншотов GTA 6 за две недели до релиза",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdkI5TXEyWTBFOUE1MXgxb0NLMnRwRHN0VGlDOWlGZUR2bHdTMk5IZFZTSWhpOTJ3eDNSakl4R2FZVE0tWGItRVNUSkl4eE5FU3gwdXN3UGNQN2NERkoxdzc5WXB3dlRLQk1CZmVNTmQzdEZxb1JoQndOeGZnXzRWOHBlVHFSM2xtYmJZSTMwbDZYcU94cnpOMnFCWHlGZ3F1ajZndlVKSW4zUG1HTnVEUDh4TVJ0QUxHSThPUg?oc=5",
+     "ts": "2026-11-05T15:26:06Z",
+     "summary": ""
+    },
+    {
+     "id": "a184daf51c37",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Rozetked.me",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar показала 40 новых скриншотов GTA VI в честь скорого выхода игры",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQODNZUmhhVU5uWUdfZG1CZ1ZFUzZwZmpoZWxGem5ZNDdyVGRIc05SRUFTZC1NWmpRZV92cGwtZWFaekswZjRobFU1OThlWDZUejlGRDVKbFdUc1JaWm9IQlB6OEQ0Qng5dmFYSkJCemRkVU8yM2tTSFFaU1hjX1BiRDRuX0I2Q0RpQTRoS09CQkN2UGNwVmZBUElnZkxDak9zdXpadXppQQ?oc=5",
+     "ts": "2026-11-05T15:48:00Z",
+     "summary": ""
+    },
+    {
+     "id": "e5b60b112676",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Pasquale Pillitteri",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar представила 39 новых скриншотов GTA 6 за две недели до релиза",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY2x6UEF6SUhlRlJlTldxQ0hva3dMUlJHQ2RGVUVXT3FnblE2R2I0aDlSckF2UEtKV0FNeWdMeXpQZTh2MWJRTVpnYmVmaFRXZkc1WEhMUWF1MWtTS1BfSkUzOVBBdVZraHNfRGI4M2FQejM1NDlWcDZRNXNJWmpkYTk0RFNYUQ?oc=5",
+     "ts": "2026-11-05T18:50:29Z",
+     "summary": ""
+    },
+    {
+     "id": "9531c79aa594",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Почти 40 новых скриншотов GTA 6 — до релиза две недели",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHUybmY5V3dNVWhLZHVIOG9ZWnBJX0EyZFZuZjBVZThUNmx1WUMwQU5OUnZFS1lDU2ZQRUx6QzM0M0hkM0FRYktpd2ExOXFyemlvT3RLb2QwekRHN3hnd2pMU3BnS0YwMzRUdGpCUzFWZ1BHSFVLYUpmTklfcTlYWlpHYVBaU3VFRFphUXpR?oc=5",
+     "ts": "2026-11-05T15:15:56Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 64,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
   },
   {
    "id": "60c7ec36599d",
@@ -8678,58 +8836,6 @@
     "at": "2026-11-05T14:11:08Z"
    },
    "msg_id": 532
-  },
-  {
-   "id": "5c613e20370e",
-   "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
-   "first_seen": "2026-11-05T13:50:45Z",
-   "updated": "2026-11-05T14:20:50Z",
-   "items": [
-    {
-     "id": "5c613e20370e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PC Gamer",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHNIWHRXOVMwWUk5UnNFMlZleXNsSDlHank2bzJ3eGtoN1dIUVVWbnRzd0ljUEw4T1BmRTFNMzlBUFZ2ZG1wSGQ2cVdpMEl6MnIwWVA0bTQxQ0FKZ3RXTjFTSzI4enNLMDNrbmhPQnJxUnZFdGJ5T0NyZlVSRG1UYW1aMEVRdDZta2Z6SUMxbGkxU3BVa2pZUDJxZDZVSWxZZFRVRDZIOFk3T2RDWUhrNllnd1prT1hoOTVvVHZ2T0o?oc=5",
-     "ts": "2026-11-05T12:12:38Z",
-     "summary": ""
-    },
-    {
-     "id": "ddf62ecc1fd7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "AMD FSR 4.1 arrives on Xbox just in time for GTA 6!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xojn8z/amd_fsr_41_arrives_on_xbox_just_in_time_for_gta_6/",
-     "ts": "2026-11-05T14:12:22Z",
-     "summary": "Pretty awesome timing. AMD’s FSR 4.1.2 has just been made available to Xbox developers, right before GTA 6 releases. From what I’ve read, it’s a pretty big improvement over previous versions, especially when it comes to image quality, reducing ghosting and shimmering, and potentially improving performance by rendering at a lower resolution and upscaling. However Rockstar hasn’t confirmed they’ll be using it, but you’d hope they’d take advantage of it given the timing. I’m really hoping this could help make a 40fps mode possible on Series X, especially for those of us with 120Hz TVs. Although I"
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 88,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "FSR 4.1.2 на Xbox: что это значит для GTA 6",
-    "summary": "По данным PC Gamer, AMD выпустила FSR 4.1.2 для Xbox и портативных Xbox. Технология может улучшить производительность и картинку в больших играх, включая GTA 6.",
-    "idea": "Коротко показываем, что даёт FSR 4.1.2 на Xbox, и связываем с GTA 6: стабильные FPS и чёткая картинка на консолях.",
-    "hook": "FSR 4.1.2 уже на Xbox — и это прямо перед GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-05T13:50:49Z"
-   },
-   "msg_id": 531
   },
   {
    "id": "b8344c57e8ba",
@@ -73788,41 +73894,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "cd7e1eeec29e",
-   "title": "\"GTA 6\" early access scams on the rise",
-   "first_seen": "2026-10-29T19:40:54Z",
-   "updated": "2026-10-29T19:40:54Z",
-   "items": [
-    {
-     "id": "cd7e1eeec29e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "FOX 13 Seattle",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "\"GTA 6\" early access scams on the rise",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CdWhQVzVGTktVVFlPci1XVUpiVWk2TTNjRW85eWIwUkZUbXVpV1RJb0pGNDNmcndUcFk4OW9jNkN6akZIS0VFS2o3OUwyckFyb0pVa0tHeHpFcTc4T0F3OWRFOHRHQdIBa0FVX3lxTE51alpYYlBjSDJhc0FaUC1vNm5TdmdIakVCUDg4NF9wWDlDTkcyeFN4SERycGRDd0dzMDRlLW91UUhJbWN1S1NnMlRnaHh5YWlBcE9IU2c3RDV3bjB3dE1WQW9VTm5xNkh1ZG9j?oc=5",
-     "ts": "2026-10-29T19:16:58Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T19:40:47Z",
+  "last_run": "2026-11-05T19:50:52Z",
   "last_log": [
    "rockstar_site: 0/5",
    "gnews_en: 98/100",
-   "gnews_ru: 71/85",
+   "gnews_ru: 69/82",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
