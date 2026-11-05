@@ -1,6 +1,87 @@
 {
  "stories": [
   {
+   "id": "3a3e2ddf2b90",
+   "title": "My milk expires on release day",
+   "first_seen": "2026-11-05T02:01:07Z",
+   "updated": "2026-11-05T02:01:07Z",
+   "items": [
+    {
+     "id": "3a3e2ddf2b90",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "My milk expires on release day",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo6gb6/my_milk_expires_on_release_day/",
+     "ts": "2026-11-05T01:52:38Z",
+     "summary": "You know release is getting close when you realise you’re flavoured milk is expiring on November 19th. Do with that info whatever you want You’re welcome submitted by /u/Organic_Smoke_6192 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2e783c0aba76",
+   "title": "To the people complaining about global release",
+   "first_seen": "2026-11-05T02:01:07Z",
+   "updated": "2026-11-05T02:01:07Z",
+   "items": [
+    {
+     "id": "2e783c0aba76",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "To the people complaining about global release",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo6i3p/to_the_people_complaining_about_global_release/",
+     "ts": "2026-11-05T01:55:05Z",
+     "summary": "The world doesn't revolve around your tinezone. By your logic, Rockstar should postpone GTA6 to when it comes out on PC so they don't get spoilers. I'll be getting it early, but I'm not gonna rush the story. Therefore, like all of you, I will still need to actively avoid spoilers as much as you guys. submitted by /u/BeneficialLength5890 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "ПК",
+    "дата/перенос"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4cfd4a0eb94a",
+   "title": "Miami Marketing is on point!",
+   "first_seen": "2026-11-05T02:01:07Z",
+   "updated": "2026-11-05T02:01:07Z",
+   "items": [
+    {
+     "id": "4cfd4a0eb94a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Miami Marketing is on point!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo6kx3/miami_marketing_is_on_point/",
+     "ts": "2026-11-05T01:59:01Z",
+     "summary": "submitted by /u/Booklas to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "094cf4d07de8",
    "title": "Fuckin ps5",
    "first_seen": "2026-11-05T01:31:00Z",
@@ -69836,43 +69917,15 @@
     "at": "2026-10-29T01:20:57Z"
    },
    "msg_id": 282
-  },
-  {
-   "id": "03c11f2caaf7",
-   "title": "Rockstar Games says GTA 6 leaks were emotionally invasive and difficult to handle",
-   "first_seen": "2026-10-29T01:50:51Z",
-   "updated": "2026-10-29T01:50:51Z",
-   "items": [
-    {
-     "id": "03c11f2caaf7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Tech Edition",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Games says GTA 6 leaks were emotionally invasive and difficult to handle",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdjRTQjJlTDhlMXNySXhXc19odm9Ka25aYjBwaW9HdkRnQ2pQZ0pVd0Y5WXg1ei1FdXZxbUVWWWNHLWRBd1J5eFN1R1JlXzRFa0s4YnBya21QNmk5cDZ2cDJkREV5bzQyakxwWlNORUtFcU5XTi1zeHl4OGFyUnI0WE50Y1BkMng0bEZlTFVhMExoalVuTExOOXk5M3pndUtHZ0JzQW1YRlg?oc=5",
-     "ts": "2026-10-28T23:46:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 65,
-   "level": "SPECULATION",
-   "alerted": "dup",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T01:50:44Z",
+  "last_run": "2026-11-05T02:01:07Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/4",
    "gnews_en: 95/100",
-   "gnews_ru: 74/79",
+   "gnews_ru: 73/78",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
