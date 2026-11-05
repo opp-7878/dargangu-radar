@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "c4b1eccb3d91",
+   "title": "A little predatory?",
+   "first_seen": "2026-11-05T11:10:52Z",
+   "updated": "2026-11-05T11:10:52Z",
+   "items": [
+    {
+     "id": "c4b1eccb3d91",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "A little predatory?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xofup0/a_little_predatory/",
+     "ts": "2026-11-05T11:01:56Z",
+     "summary": "submitted by /u/Ok-Border-9165 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cc71926d1b55",
+   "title": "Shibuya Crossing Tokyo",
+   "first_seen": "2026-11-05T11:10:52Z",
+   "updated": "2026-11-05T11:10:52Z",
+   "items": [
+    {
+     "id": "cc71926d1b55",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Shibuya Crossing Tokyo",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xofz15/shibuya_crossing_tokyo/",
+     "ts": "2026-11-05T11:08:56Z",
+     "summary": "Long day at work, heading to the station listening to Pusher by Justice and Gesaffelstien, saw this in the flesh! Only thing that’s keeping me going… We’re soooooo close!!! submitted by /u/Demonssoulsnewb to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f111f2383362",
    "title": "Rockstar Confirms GTA 6 Preload Starts November 10 With a Download of Up to 212 GB",
    "first_seen": "2026-11-04T19:20:45Z",
@@ -69445,44 +69497,18 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ec35cc7cdc70",
-   "title": "Размер GTA 6: 210 ГБ на PS5, ради чего я беру PS5",
-   "first_seen": "2026-10-29T11:01:25Z",
-   "updated": "2026-10-29T11:01:25Z",
-   "items": [
-    {
-     "id": "ec35cc7cdc70",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "games.gg",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Размер GTA 6: 210 ГБ на PS5, ради чего я беру PS5",
-     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPUVBLcDQyanZzYVphaHBsVzZ0OVA4MTZrX1QyTXpKbWI5R0J6ckdUQUVTcnlDZTJ6WWV5UW5ra3NGUXI4dlJTSWZORC1LNkIyaTItYVpLMUQ5Z2V0ZjliLXFRNHN4T0lhOXdOQ0pwb2V4VjVjc1hINFZ0UFk3bUhOVDNvdUtnOFlDUUp0MUJnd0xkQjgwYmJ6bDc4eGVHNDA0M1ZLSVBjZ29HemJZSnpIaFFPUVNacjA2cmpaWDVvcVhmekxyRWd5aHl4dGZ5ekFkN3psOGJwUE9EWDVFX1k3bjZvR2NINDRGdEtPY2ZQUkYzLWEtYVlOTGJIbmZST0hGc2NVSU50aGZHdHBaUy1OQWhhcEZISnJrYml0dlFmNmZfdzVkZWpDVzJRS2VCMHM?oc=5",
-     "ts": "2026-10-29T09:49:04Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T11:01:13Z",
+  "last_run": "2026-11-05T11:10:52Z",
   "last_log": [
    "rockstar_site: 0/6",
    "gnews_en: 96/100",
-   "gnews_ru: 57/61",
+   "gnews_ru: 54/58",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 6/10",
+   "insider_gaming: 4/10",
    "ign: 1/20",
    "eurogamer: 1/100",
    "dexerto_gta: 3/50",
