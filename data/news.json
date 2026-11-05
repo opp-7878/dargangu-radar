@@ -69682,81 +69682,16 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "aac397caf717",
-   "title": "GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World",
-   "first_seen": "2026-10-29T03:40:56Z",
-   "updated": "2026-10-29T04:10:51Z",
-   "items": [
-    {
-     "id": "aac397caf717",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaXEzUnB3NGQ1eWp3c0lKM04yd3Ffd3dlT3hyMTV3ZFZNemlweXM4VWhQTWZTQ1VZUF9RVi1JZ0ZPYWdtMWZsRGxyT3k0WUQ2RElqaFktYnU1TFl5b0hHbWFjc05nYWtwR0JDeUZLTmVwWjRYRGprenpxcmVrOVRLRERmNk9jSGRpdVJDUUluS0toRGhOREJHV0ZrcXdyS25RU1hYTkFSOWhSazlEREZjRGhfV3NtVzk3cnBxRjdqaG1sQ1lrSEI3b0RJVGlmdzlYTkQtQWx3QjQ2MkVCWHhHWDcwcUU0dXZfWW84YjlSQWdqQQ?oc=5",
-     "ts": "2026-10-29T03:34:43Z",
-     "summary": ""
-    },
-    {
-     "id": "d56165f67213",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World",
-     "url": "https://www.ign.com/articles/gta-6s-map-will-open-up-relatively-early-and-let-you-explore-freely-developers-are-still-discovering-new-parts-of-the-world",
-     "ts": "2026-10-29T03:22:32Z",
-     "summary": "GTA 6's world won't be blocked off by story progression, Rockstar confirms."
-    },
-    {
-     "id": "5d238450f45f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMlYtb0tmY0NMZ2pZNnFERjdQZ3NFZkljMkw0aWlYdWtHeXY3SS1PbXB3Vm9yN3V3YTZkWnByZFdUUDlyMkVrbmdKMmtXLXBzZ3JLM3JuYzR2dWZsM2dEa2NnOTA5aFhQczY2aFVVSnpCTVRkOVROaGFiR3RjSm1Uc1dWUmNZZlBXTDQ0TUQwblRzQ2pLdWFZWGVLMjVUQ3ZzbHE1bWU4T0l0V2wyZ3hZRURoLW1uNzVZcGZXYTA5ckZ6bzlCeDVLYlNRN1B4YWtrYmluRXVwSDVYdlhiNVJTX18tdUdNdnYycTlyd2lsZGhVcFU?oc=5",
-     "ts": "2026-10-29T04:05:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Карта GTA 6 откроется почти сразу — Rockstar подтвердила",
-    "summary": "Rockstar подтвердила, что карта GTA 6 откроется относительно рано и позволит свободно исследовать мир. Разработчики сами продолжают находить новые части мира. Об этом сообщает IGN со ссылкой на заявление студии.",
-    "idea": "Коротко показываем тезис Rockstar и кадры открытого мира: карта доступна почти сразу, без долгого «коридора». Зрителю важно знать, когда дадут свободу.",
-    "hook": "Свобода с первых часов: Rockstar подтвердила ранний доступ к карте GTA 6.",
-    "stars": 5,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-29T04:10:54Z"
-   },
-   "msg_id": 286
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T04:10:48Z",
+  "last_run": "2026-11-05T04:20:47Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/4",
    "gnews_en: 96/100",
    "gnews_ru: 73/78",
-   "gamesbeat: 1/10",
+   "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
    "ign: 1/20",
@@ -69764,7 +69699,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 1/10",
    "gtaboom: 11/30",
-   "reddit: 24/25",
+   "reddit: 25/25",
    "tg_gtavistar: 7/12",
    "tg_gta6deluxe: 7/16",
    "tg_gta6_m: 7/19",
