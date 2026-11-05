@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "4f0743a82999",
+   "title": "We are officially a FORTNIGHT away from GTA6",
+   "first_seen": "2026-11-05T23:01:12Z",
+   "updated": "2026-11-05T23:01:12Z",
+   "items": [
+    {
+     "id": "4f0743a82999",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We are officially a FORTNIGHT away from GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xowuqi/we_are_officially_a_fortnight_away_from_gta6/",
+     "ts": "2026-11-05T22:52:28Z",
+     "summary": "I cant believe we are this close submitted by /u/cooleminemedit to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8949ba8950d9",
+   "title": "Took this pic and my GF says this has GTA VI's color palette.",
+   "first_seen": "2026-11-05T23:01:12Z",
+   "updated": "2026-11-05T23:01:12Z",
+   "items": [
+    {
+     "id": "8949ba8950d9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Took this pic and my GF says this has GTA VI's color palette.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xowvnf/took_this_pic_and_my_gf_says_this_has_gta_vis/",
+     "ts": "2026-11-05T22:53:34Z",
+     "summary": "submitted by /u/FransD98 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "76cbc386b6af",
    "title": "Rockstar releases nearly 40 new GTA 6 screenshots ahead of launch",
    "first_seen": "2026-11-05T15:20:46Z",
@@ -74793,41 +74845,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f308ebc9634a",
-   "title": "GTA 6 Review Embargo Date: When Do Reviews Go Live?",
-   "first_seen": "2026-10-29T22:50:55Z",
-   "updated": "2026-10-29T22:50:55Z",
-   "items": [
-    {
-     "id": "f308ebc9634a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "games.gg",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Review Embargo Date: When Do Reviews Go Live?",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hREsyMVl6c2lIZlNwSGpqUk95cHQtUHZuRmF2cEVib2FQU3lTMGlFd3NKYXVLOW1NSVA5SXowc1EyN09wcXZxOWp3amlFTVlad3d3aGZqS1BoQWE3R2t2UVpsX2xic3hwZjA3UXlxSGNUdw?oc=5",
-     "ts": "2026-10-29T22:09:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T22:50:48Z",
+  "last_run": "2026-11-05T23:01:12Z",
   "last_log": [
    "rockstar_site: 0/5",
    "gnews_en: 98/100",
-   "gnews_ru: 77/92",
+   "gnews_ru: 76/91",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -74836,7 +74862,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 2/10",
    "gtaboom: 13/30",
-   "reddit: 23/25",
+   "reddit: 22/25",
    "tg_gtavistar: 3/3",
    "tg_gta6deluxe: 6/6",
    "tg_gta6_m: 8/19",
