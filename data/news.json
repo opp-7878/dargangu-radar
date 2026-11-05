@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "c4ef4b689b09",
+   "title": "Free trip to F1, but it’s on November 18-22",
+   "first_seen": "2026-11-05T04:10:48Z",
+   "updated": "2026-11-05T04:10:48Z",
+   "items": [
+    {
+     "id": "c4ef4b689b09",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Free trip to F1, but it’s on November 18-22",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo97nb/free_trip_to_f1_but_its_on_november_1822/",
+     "ts": "2026-11-05T04:10:15Z",
+     "summary": "Company is paying for all inclusive trip to Las Vegas to see F1 on the Strip. Hardest “yes” I’ve had to say. I’m excited but so conflicted. Yes I am taking my PS5 Pro with me. submitted by /u/pryvisee to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "35a8df40e3f1",
    "title": "GTA 6 Mural Art",
    "first_seen": "2026-11-05T04:01:07Z",
@@ -69721,54 +69747,15 @@
     "at": "2026-10-29T04:10:54Z"
    },
    "msg_id": 286
-  },
-  {
-   "id": "813581f38144",
-   "title": "Журнал Edge представил новые скриншоты Grand Theft Auto 6",
-   "first_seen": "2026-10-29T03:21:00Z",
-   "updated": "2026-10-29T04:01:22Z",
-   "items": [
-    {
-     "id": "813581f38144",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Журнал Edge представил новые скриншоты Grand Theft Auto 6",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTJLaGJ0b1BtakF1ZGxDN1hNbF9qemI5VWRLczM2b3dyOG8wLXo1V2cyUnFLYkFnc1FGeXBBRXBIQjlraURPcURmYnRXYUY2ZGRQWjVkRTVhMk1TZ1gtRHJFRGI2Y3VpbXNFS0VxX2RLOE1CekRsUkwyMFRMc2hSUVZ3Z2VCaXJqN2pRS0dMYmduUVBFbl81cHQwZ0dyWkppZ09iQ3lkaw?oc=5",
-     "ts": "2026-10-29T01:30:00Z",
-     "summary": ""
-    },
-    {
-     "id": "4109d85e8cf0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Журнал Edge представил новые скриншоты Grand Theft Auto 6",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2U2UWxabGQtRjFUME8tbjZZQ3NJZUxrNUJfMXRNb09OMzIzNkkxMk5sZXhZc2MxSzN6aERQZEVTMUhTTjJ5S2xmLUdmMHFCeXN0ZmdfNEVHRmVCc01JOVYxVXMwQ1VSS3pNTHJjdkNJMEYxcENDOEJHRC1xbU9lN2Jlb1RURS1KZzY2SU9qWTRUSi1DYWExQi1Bc0FKbU5oT2MyLUhqbUtPS3Jn?oc=5",
-     "ts": "2026-10-29T01:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T04:01:07Z",
+  "last_run": "2026-11-05T04:10:48Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/5",
    "gnews_en: 96/100",
-   "gnews_ru: 72/77",
+   "gnews_ru: 73/78",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -69777,7 +69764,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 1/10",
    "gtaboom: 11/30",
-   "reddit: 25/25",
+   "reddit: 24/25",
    "tg_gtavistar: 7/12",
    "tg_gta6deluxe: 7/16",
    "tg_gta6_m: 7/19",
