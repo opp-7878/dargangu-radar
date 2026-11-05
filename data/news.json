@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "20d2231cf6fe",
+   "title": "GTA 6’s dynamic weather and water system to feature individually moving clouds, storms, and waves that can damage aircraft, boats and the environment",
+   "first_seen": "2026-11-05T23:50:44Z",
+   "updated": "2026-11-05T23:50:44Z",
+   "items": [
+    {
+     "id": "20d2231cf6fe",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6’s dynamic weather and water system to feature individually moving clouds, storms, and waves that can damage aircraft, boats and the environment",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONTN0a3ZvRE1kY1J4ZExkaDJDNk52elE0TU9zRlRXblpvMVhKT2FVTnFOSXBUUnRtUnU5Q3Z4d0ZZUXZDTUd1M3NvQ25DM08xZHI0YndhREx2ZmRpTUNJRW0wUENZZGFIdzhSMW91RnFtUnRaS2JGaGpBejdPRVM0VHFCNGkybzlSTDdqM2RkcUlIMHNKT2xxRnVvaVZ0NEs4WmxYb19GTzZoMXlUN1hkcXQ3Y1pndThxWGVjd2YxV3gtWV95Q0J3VGljN25iZ1hjbTNsOGxqWllWU2NNcHAzSGpVbFV5OVdxY1VRUlNjSVJsNnpPZGlmVzQ0ZXliRjJucENocnJPMmZkMHlSMnRiRGN2V1owRXAzWnhJ?oc=5",
+     "ts": "2026-11-05T23:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6124210de3f8",
    "title": "Nearly 100 Gamers Say They’d Give Up Their Pets to Play ‘GTA 6’ a Week Early",
    "first_seen": "2026-11-05T23:40:47Z",
@@ -75059,9 +75085,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T23:49:53Z",
+  "last_run": "2026-11-05T23:50:44Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/4",
    "gnews_en: 98/100",
    "gnews_ru: 79/94",
    "gamesbeat: 0/10",
