@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "fa608c7bfb21",
+   "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
+   "first_seen": "2026-11-05T16:31:04Z",
+   "updated": "2026-11-05T19:40:46Z",
+   "items": [
+    {
+     "id": "fa608c7bfb21",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "USA Today",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjQ3a2pXNXpvQ0c3Tm1ramdpZ19UakQ0Q3BZU211bFpWMUhoYnNOTmFwS2R5bkV3UzlaTVlBLTJMdGZuZ2ZGVklnaDhLS1VCYkQ3ZGRmN2lpeV9RX0laTS00cFRUSTRoN2dNNmVyVlY2YnhoTkNnb1dXR0J6UVlXQS0zZGRPX0w5NkZpMF9fU2JPUWV2cEFVdEhsVy1qOE4zX2ZueEgwS3pJVzItbmdz?oc=5",
+     "ts": "2026-11-05T16:27:26Z",
+     "summary": ""
+    },
+    {
+     "id": "5217ec05a529",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "azcentral.com and The Arizona Republic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkkxeHFaUWtvOEVxSHlCZDlhM19BTHBtR3E0bXN5MmVRakp6MUFHS290T2pEQkJtTGhVZlU5MWdnaDJqWUg2R2puZS1UczJMYWJoVUNabVo1bllobG5uUURlNzdsLUhqU1VKQVlUUUhKMDFFcGRuVWtoeVBFUkw1Yl9UY3lHeDRJZVRMaGtlcVM1RHhYRENERXJZcFNDNFVYTkNPb2RlNmFvMTUyMVdfaw?oc=5",
+     "ts": "2026-11-05T16:33:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
    "id": "99c739469383",
    "title": "GTA VI releases soon. New marketing you may see in Miami-Dade",
    "first_seen": "2026-11-05T19:10:58Z",
@@ -5101,32 +5140,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "fa608c7bfb21",
-   "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
-   "first_seen": "2026-11-05T16:31:04Z",
-   "updated": "2026-11-05T16:31:04Z",
-   "items": [
-    {
-     "id": "fa608c7bfb21",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "USA Today",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjQ3a2pXNXpvQ0c3Tm1ramdpZ19UakQ0Q3BZU211bFpWMUhoYnNOTmFwS2R5bkV3UzlaTVlBLTJMdGZuZ2ZGVklnaDhLS1VCYkQ3ZGRmN2lpeV9RX0laTS00cFRUSTRoN2dNNmVyVlY2YnhoTkNnb1dXR0J6UVlXQS0zZGRPX0w5NkZpMF9fU2JPUWV2cEFVdEhsVy1qOE4zX2ZueEgwS3pJVzItbmdz?oc=5",
-     "ts": "2026-11-05T16:27:26Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -73805,11 +73818,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T19:31:03Z",
+  "last_run": "2026-11-05T19:40:47Z",
   "last_log": [
-   "rockstar_site: 0/6",
+   "rockstar_site: 0/5",
    "gnews_en: 98/100",
-   "gnews_ru: 72/86",
+   "gnews_ru: 71/85",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
