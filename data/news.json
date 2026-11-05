@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "15575f780278",
+   "title": "Serious question",
+   "first_seen": "2026-11-05T00:40:46Z",
+   "updated": "2026-11-05T00:40:46Z",
+   "items": [
+    {
+     "id": "15575f780278",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Serious question",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo4w09/serious_question/",
+     "ts": "2026-11-05T00:37:32Z",
+     "summary": "Do you think Tommy Vercetti will make an appearance in GTA 6? submitted by /u/LongAggressive9374 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "299a9fe197bd",
    "title": "Reminder: Check your actual timezone/region for GTA 6",
    "first_seen": "2026-11-05T00:30:57Z",
@@ -70052,76 +70078,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "207466ae3033",
-   "title": "GTA 6’s Jason & Lucia Cast Get Advice From Beloved Trevor, Michael, & Franklin Voice Actors",
-   "first_seen": "2026-10-28T20:20:55Z",
-   "updated": "2026-10-29T00:31:05Z",
-   "items": [
-    {
-     "id": "207466ae3033",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6’s Jason & Lucia Cast Get Advice From Beloved Trevor, Michael, & Franklin Voice Actors",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDkzSFc3RS1mTFdhcnJCSzF5Qzd0c2RjM2lWbEZxeWYyMm1kTWNWdDlnY1lMNGJFTnJQRS1qT1BUTVFYWkk2MzU3VFc1d3RwYUFxWnhFZHY2VHBjeEJQTkdXc3JQbk9WNE5lTFRiWWVnaUVJenp5T1FtRy1tX2lFNnB3?oc=5",
-     "ts": "2026-10-28T20:02:44Z",
-     "summary": ""
-    },
-    {
-     "id": "10c1a1e4dc87",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6’s Jason & Lucia Cast Get Advice From Beloved Trevor, Michael, & Franklin Voice Actors",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUZTNE56c09EZFFJcFQ1MXNfQUx3ZnhtZ1Rxb1hfR1VMRmtOZ2NiOExnOXpoaVdWdkM1eVZISDNienJJSE1yTTdJQ08tc0p3VDdReExleXRqQklEWFVhSm5ZbmphdzUtQjA5QWtzNEZHclNpUzViWk5PVllPXzlhcDA2dUNRb0oySWhrMWo5TkdfMHM?oc=5",
-     "ts": "2026-10-28T20:01:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "49b303ea875c",
-   "title": "New GTA6 Screenshots via GamesRadar",
-   "first_seen": "2026-10-29T00:31:05Z",
-   "updated": "2026-10-29T00:31:05Z",
-   "items": [
-    {
-     "id": "49b303ea875c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "New GTA6 Screenshots via GamesRadar",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xi5090/new_gta6_screenshots_via_gamesradar/",
-     "ts": "2026-10-29T00:07:37Z",
-     "summary": "submitted by /u/ADeadlyAlien to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T00:30:57Z",
+  "last_run": "2026-11-05T00:40:46Z",
   "last_log": [
    "rockstar_site: 0/5",
    "gnews_en: 95/100",
