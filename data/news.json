@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "abe0e01de106",
+   "title": "PUT JERRY FORT IN THE GAME!!!",
+   "first_seen": "2026-11-05T00:01:12Z",
+   "updated": "2026-11-05T00:01:12Z",
+   "items": [
+    {
+     "id": "abe0e01de106",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "PUT JERRY FORT IN THE GAME!!!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo3vxy/put_jerry_fort_in_the_game/",
+     "ts": "2026-11-04T23:52:44Z",
+     "summary": "He didn’t make it to release but may he live forever in GTA6 👼🏼🪽🪽🪽 submitted by /u/Flat-Veterinarian335 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1fda798bad7b",
+   "title": "I made a free see-through GTA VI countdown widget for the Windows desktop (and you can change it however you like)",
+   "first_seen": "2026-11-05T00:01:12Z",
+   "updated": "2026-11-05T00:01:12Z",
+   "items": [
+    {
+     "id": "1fda798bad7b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I made a free see-through GTA VI countdown widget for the Windows desktop (and you can change it however you like)",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xo3xwy/i_made_a_free_seethrough_gta_vi_countdown_widget/",
+     "ts": "2026-11-04T23:55:16Z",
+     "summary": "https://preview.redd.it/z01ns735oozh1.png?width=698&format=png&auto=webp&s=7a15f9537116b1c348f2cdd59523213bd05e3812 Wanted something to stare at on my desktop while we wait, so I made a countdown widget and I'm sharing it. **What it does** - Sits on your desktop with a see-through background, so you only see the text and number tiles - Counts down to Nov 19, 2026 at 12:00 AM NZDT in days, hours, minutes and seconds - Drag to move it, Ctrl + mouse wheel to resize, right-click to lock it in place or keep it on top - Remembers where you put it and how big it is **How to get it** Open the download"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "20f1adba904b",
    "title": "No GTA 6 November: Here's what you can play on PC instead",
    "first_seen": "2026-11-04T20:40:44Z",
@@ -70275,41 +70327,15 @@
    "ai_fail": 2,
    "ai_error": "ValueError: нет полей: title_ru",
    "msg_id": 277
-  },
-  {
-   "id": "3ebf2d294c8e",
-   "title": "GTA 6 already in your team’s diary?",
-   "first_seen": "2026-10-28T23:50:51Z",
-   "updated": "2026-10-28T23:50:51Z",
-   "items": [
-    {
-     "id": "3ebf2d294c8e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Hospitality & Catering News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 already in your team’s diary?",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMnFrZ3k3SUdJYjZqZWg0ak1pZnRGbVU2cTFFNnNXeVhyX3ZBVGtRcmJ4MWRZSHVEME9HRGZPWW41bkpxdUFnbmd1VnJEOVZGcW5SVFdXWFdBVzdhb0Y1M1gwWkFYZ2FPd29IUzl4akQwd1k0UlBiZ0hTNldVRFJCSUREY1VvMWgtcVVFSVBR?oc=5",
-     "ts": "2026-10-28T23:04:31Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-04T23:50:42Z",
+  "last_run": "2026-11-05T00:01:12Z",
   "last_log": [
-   "rockstar_site: 0/4",
-   "gnews_en: 96/100",
-   "gnews_ru: 73/77",
+   "rockstar_site: 0/5",
+   "gnews_en: 95/100",
+   "gnews_ru: 76/81",
    "gamesbeat: 1/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
