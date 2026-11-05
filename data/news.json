@@ -1,6 +1,190 @@
 {
  "stories": [
   {
+   "id": "ecf3eca86acb",
+   "title": "What Strauss Zelnick Really Said When WSJ Pressed Take-Two on GTA 6",
+   "first_seen": "2026-11-05T03:50:48Z",
+   "updated": "2026-11-05T05:20:44Z",
+   "items": [
+    {
+     "id": "ecf3eca86acb",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«У вас недостаточно хитов» — свежее интервью издателя GTA 6 удивило всех, включая главу Take-Two",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGJmQ19yQVBwSndmeTBFTnRlLTEyVXpqWkZvSEd5LW53NHF3Q2FTd0tMejlscHVUVUdVMUFLRE5WTnVGdEtXSV9ETEFhTVVjV0V6OTFGVzFvYWM5WUdKOGowUW5vRnY2YW5oSEdBeTZKcU96Zy1xQ3UxRVhTTUozMWl1MHItaXl3RlZqX0xsdVVpc1dUTjNtbkhKNFAzUHBwbjJVNVA0dzFNbFNaRUZTNWt2RG9WUjVQbWd2cmt1d29LbkZ1NmZKVkpMNS1Ua2Nn?oc=5",
+     "ts": "2026-11-05T03:40:00Z",
+     "summary": ""
+    },
+    {
+     "id": "feeea5cff198",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "What Strauss Zelnick Really Said When WSJ Pressed Take-Two on GTA 6",
+     "url": "https://www.gtaboom.com/what-strauss-zelnick-really-said-when-wsj-pressed-take-two-on-gta-6-f031",
+     "ts": "2026-11-05T05:18:21Z",
+     "summary": "Strauss Zelnick answered concerns about dependence on GTA 6 by citing 15 franchises that each sold at least 5 million copies."
+    }
+   ],
+   "tags": [
+    "Take-Two"
+   ],
+   "score": 68,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Глава Take-Two ответил на «мало хитов» — что он сказал",
+    "summary": "В свежем интервью глава Take-Two ответил на критику «у вас недостаточно хитов». По данным Igromania.ru, его ответ удивил многих, включая самого руководителя.",
+    "idea": "Короткая нарезка цитаты и реакции: почему ответ удивил и что это значит для GTA 6. Зрителю — ясный смысл без воды и повод поспорить.",
+    "hook": "Глава Take-Two ответил на «у вас мало хитов». Ответ удивил даже его.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-05T03:50:52Z"
+   },
+   "msg_id": 520
+  },
+  {
+   "id": "738f1351e90b",
+   "title": "GTA 6: Рекордные предзаказы и анализ миллиардной выручки до релиза",
+   "first_seen": "2026-11-05T05:20:44Z",
+   "updated": "2026-11-05T05:20:44Z",
+   "items": [
+    {
+     "id": "738f1351e90b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Carexpo.ru_ все авто на одном сайте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: Рекордные предзаказы и анализ миллиардной выручки до релиза",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTm1weTQzNGNtb0dIQ09iOF92VWpqU1F6YnoydDF6R1p2SFgtUThNTXNDWXdiM0JzZ1R5anBKOW1scUNSdUVkYmZyREU2SXZ3Z3JPS3lKaGdVdnRqMGxDVndJV1NYQXNpbmg4WlRSU2huWGdYUy1DY1M5azY3LXR0MDZsNUJnc0RYY1hrRTJlZzZCQVQzSFN4NlZGclBUUEU?oc=5",
+     "ts": "2026-11-05T05:09:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "88c590e5b3db",
+   "title": "GTA VI уже заработала три четверти миллиарда долларов, хотя ещё даже не вышла",
+   "first_seen": "2026-11-05T05:20:44Z",
+   "updated": "2026-11-05T05:20:44Z",
+   "items": [
+    {
+     "id": "88c590e5b3db",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "3DNews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI уже заработала три четверти миллиарда долларов, хотя ещё даже не вышла",
+     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB3UHkxM1VDUGJVR3phdmd3T0U0NkxxM3lLNGZIekUxUl9CbjBzOWNLOVgxbThZWmJzUWs5Mlh30gGzAUFVX3lxTE9JdDVOWFVzekNPVEFyVk81ODZmMWZpdmY2UTdHX0hsRlY4WmQtVFFQZy0wRnFCd0ZCYUtUM2VaMjNBQVlscU14eG5RX0JvTDU3LXhVcU4tZ2lXejM1S3RQSGs2aDVrS25FVTBhMDJtNFltT0tMeXVHcVZRVDAzNGlackFGZVUzN3I0ZVRjSG5JRVpDZmxhS1kwTE4zTmpkS1VJSlczZTA3UzVnN19DbU4xWTBZ?oc=5",
+     "ts": "2026-11-05T05:10:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5260ce60fade",
+   "title": "Do you think aircraft and other types of vehicles will have fuel meters?",
+   "first_seen": "2026-11-05T05:20:44Z",
+   "updated": "2026-11-05T05:20:44Z",
+   "items": [
+    {
+     "id": "5260ce60fade",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Do you think aircraft and other types of vehicles will have fuel meters?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoaeqv/do_you_think_aircraft_and_other_types_of_vehicles/",
+     "ts": "2026-11-05T05:16:09Z",
+     "summary": "If so, do you think vehicles in the same class will have higher fuel consumption rates. Such as the difference between a propeller plane and a jet plane? Will vehicles with hybrid systems be included? Just food for thought. submitted by /u/doctorminigun to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "32834d30e315",
+   "title": "What’s you guess on what will happen at the end of the game(gta6)",
+   "first_seen": "2026-11-05T05:20:44Z",
+   "updated": "2026-11-05T05:20:44Z",
+   "items": [
+    {
+     "id": "32834d30e315",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What’s you guess on what will happen at the end of the game(gta6)",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoaere/whats_you_guess_on_what_will_happen_at_the_end_of/",
+     "ts": "2026-11-05T05:16:11Z",
+     "summary": "Just want to know what others think will happen at the end. submitted by /u/Cold_Inevitable_164 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e05b27cca1dc",
+   "title": "How do u feel about gta 6 not having 2/3 of the main writers who wrote rdr2?",
+   "first_seen": "2026-11-05T05:20:44Z",
+   "updated": "2026-11-05T05:20:44Z",
+   "items": [
+    {
+     "id": "e05b27cca1dc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How do u feel about gta 6 not having 2/3 of the main writers who wrote rdr2?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoag5y/how_do_u_feel_about_gta_6_not_having_23_of_the/",
+     "ts": "2026-11-05T05:18:24Z",
+     "summary": "I wrote this the other day but in a diff tone and got attacked LOL, its just a question for the community who also like me have been waiting for this game for 13 years now, thats all. submitted by /u/Difficult-Let1123 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "2d48f275d4bf",
    "title": "If you're worried about 30FPS, just play RDR2",
    "first_seen": "2026-11-05T05:10:49Z",
@@ -131,45 +315,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ecf3eca86acb",
-   "title": "«У вас недостаточно хитов» — свежее интервью издателя GTA 6 удивило всех, включая главу Take-Two",
-   "first_seen": "2026-11-05T03:50:48Z",
-   "updated": "2026-11-05T03:50:48Z",
-   "items": [
-    {
-     "id": "ecf3eca86acb",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Igromania.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«У вас недостаточно хитов» — свежее интервью издателя GTA 6 удивило всех, включая главу Take-Two",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGJmQ19yQVBwSndmeTBFTnRlLTEyVXpqWkZvSEd5LW53NHF3Q2FTd0tMejlscHVUVUdVMUFLRE5WTnVGdEtXSV9ETEFhTVVjV0V6OTFGVzFvYWM5WUdKOGowUW5vRnY2YW5oSEdBeTZKcU96Zy1xQ3UxRVhTTUozMWl1MHItaXl3RlZqX0xsdVVpc1dUTjNtbkhKNFAzUHBwbjJVNVA0dzFNbFNaRUZTNWt2RG9WUjVQbWd2cmt1d29LbkZ1NmZKVkpMNS1Ua2Nn?oc=5",
-     "ts": "2026-11-05T03:40:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Глава Take-Two ответил на «мало хитов» — что он сказал",
-    "summary": "В свежем интервью глава Take-Two ответил на критику «у вас недостаточно хитов». По данным Igromania.ru, его ответ удивил многих, включая самого руководителя.",
-    "idea": "Короткая нарезка цитаты и реакции: почему ответ удивил и что это значит для GTA 6. Зрителю — ясный смысл без воды и повод поспорить.",
-    "hook": "Глава Take-Two ответил на «у вас мало хитов». Ответ удивил даже его.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-05T03:50:52Z"
-   },
-   "msg_id": 520
   },
   {
    "id": "3a54809a3965",
@@ -69399,82 +69544,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "22ea91ad8d0a",
-   "title": "Has GTA 6 Been Delayed Again? What to Know",
-   "first_seen": "2026-10-29T02:01:20Z",
-   "updated": "2026-10-29T05:10:51Z",
-   "items": [
-    {
-     "id": "22ea91ad8d0a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Men's Journal",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Has GTA 6 Been Delayed Again? What to Know",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZNkZES0dXTlZkcHlLdGRvazZycDhhMWNwR2R0SzA3RUZNb0xVbFVXV0owZ2FaRmpmWWhNZlotLVhRbUhETkFFNVluOEliWU53M2FjRzBPeFc5MGJZcjBzY2VTdUl4TS04X2g3ODA5VjhkS1Yyd0txM0JZa0ROYnM?oc=5",
-     "ts": "2026-10-29T01:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "81037aa00619",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Has GTA 6 Been Delayed Again? What to Know",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON2ZhcThMSC1TdDJBU245X0hMWGZyaGtxRHdzdWxpdkM1bmlYUmVFeDVpUWdhQVBTcXlPV2RpTHlGa2wyZ0lhME1OVXJMTXV6OXpVbnhXRnFfOTZoUDUtLWdZM2V4N1dHQVZrWFNiOVZQRzRXcEY0Q3NDdzVHTTduTWhYOHQ?oc=5",
-     "ts": "2026-10-29T01:50:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "дата/перенос"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "1b4e43f29fa6",
-   "title": "Новы скриншоты GTA VI",
-   "first_seen": "2026-10-29T05:10:51Z",
-   "updated": "2026-10-29T05:10:51Z",
-   "items": [
-    {
-     "id": "1b4e43f29fa6",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Новы скриншоты GTA VI",
-     "url": "https://t.me/GTAVIStar/757",
-     "ts": "2026-10-29T05:07:41Z",
-     "summary": "⚡️ Новы скриншоты GTA VI • Также стало известно, что карта игры по площади почти такая же, как карты GTA IV, GTA V и Red Dead Redemption 2 вместе взятые. • И она доступна для полного исследования уже почти с самого начала игры. 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T05:10:49Z",
+  "last_run": "2026-11-05T05:20:44Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 96/100",
-   "gnews_ru: 70/75",
+   "gnews_ru: 72/77",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -69482,7 +69560,7 @@
    "eurogamer: 1/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 1/10",
-   "gtaboom: 11/30",
+   "gtaboom: 12/30",
    "reddit: 25/25",
    "tg_gtavistar: 7/12",
    "tg_gta6deluxe: 7/16",
