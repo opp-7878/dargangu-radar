@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "3cfca52797d1",
+   "title": "TotalWeGames собрал свежие подробности о GTA 6: журналисты раскрыли возможную цель Джейсона и Люсии, а также опубликовали новые скриншоты с... 2026",
+   "first_seen": "2026-11-05T13:01:14Z",
+   "updated": "2026-11-05T13:01:14Z",
+   "items": [
+    {
+     "id": "3cfca52797d1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "TotalWeGames собрал свежие подробности о GTA 6: журналисты раскрыли возможную цель Джейсона и Люсии, а также опубликовали новые скриншоты с... 2026",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13UThlQUNLSmhRUWpkZlNUcjg3eUZXNWlqaTVjLUJYQ0JZUFctT2hfXzNuZ0NhbjZDd3ZualFIUFJIcXUtQWhrRw?oc=5",
+     "ts": "2026-11-05T09:15:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7bd8012875aa",
+   "title": "GTA VI is dropping in exactly 2 weeks(14 days) and oh boy..",
+   "first_seen": "2026-11-05T13:01:14Z",
+   "updated": "2026-11-05T13:01:14Z",
+   "items": [
+    {
+     "id": "7bd8012875aa",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI is dropping in exactly 2 weeks(14 days) and oh boy..",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xohy3p/gta_vi_is_dropping_in_exactly_2_weeks14_days_and/",
+     "ts": "2026-11-05T12:56:03Z",
+     "summary": "The game is dropping in 2 weeks, I decided that 2 weeks prior to game release I will stop using social media( such as reddit and YouTube) until I complete the story to avoid spoilers. Rockstar decided to release the game only digital to prevent leaks ahead of release( and for corporate greed) so spoilers are not likely, but it’s better To be safe than sorry. its been a wild ride just anticipating this game for the past 3 years and it will be even better playing the game, I hope everyone enjoys the game and stay safe out there! Avoid spoilers and please do not spoil the game( don’t be a dick) s"
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ecf3eca86acb",
    "title": "Take-Two Addresses AI In GTA 6’s Development Again",
    "first_seen": "2026-11-05T03:50:48Z",
@@ -69137,11 +69191,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T12:50:52Z",
+  "last_run": "2026-11-05T13:01:14Z",
   "last_log": [
    "rockstar_site: 0/6",
    "gnews_en: 96/100",
-   "gnews_ru: 53/56",
+   "gnews_ru: 50/55",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
@@ -69150,7 +69204,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 2/10",
    "gtaboom: 12/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 7/12",
    "tg_gta6deluxe: 9/12",
    "tg_gta6_m: 6/19",
