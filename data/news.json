@@ -1,6 +1,147 @@
 {
  "stories": [
   {
+   "id": "14d467806724",
+   "title": "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
+   "first_seen": "2026-11-05T18:11:00Z",
+   "updated": "2026-11-05T23:20:49Z",
+   "items": [
+    {
+     "id": "14d467806724",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Spectrum Is Giving Free Gigabit Speed So You Can Pre-Load GTA 6 Faster",
+     "url": "https://www.gtaboom.com/spectrum-is-giving-free-gigabit-speed-so-you-can-pre-load-gta-6-faster-efe6",
+     "ts": "2026-11-05T18:09:28Z",
+     "summary": "Eligible Spectrum users with compatible equipment can activate a free 1 Gig boost for GTA 6 in My Spectrum App through November 30."
+    },
+    {
+     "id": "5367c08112bd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gadget Review",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Spectrum Is Offering Free Gigabit Speeds to Download GTA VI Faster",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlVpM2hJanNleEtmZ3ZpMGtlRU4xQ0l3QUxKWllFTWtVd1VlRGw0T0U0WXplb1hqNHdMUFBsaG5uNWpZVDBWQmRsU0N3MGJuZE0wYjNrcW5nMWdHVkJtVXpDUnU0WUQyaURPNnljU0pIM1dzNGdvWjRLckp4OXpPdWdfRkdyR3BMTEFYSVFxTFRJWi1peUsyanBEdw?oc=5",
+     "ts": "2026-11-05T18:47:48Z",
+     "summary": ""
+    },
+    {
+     "id": "ba53519057f5",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
+     "url": "https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
+     "ts": "2026-11-05T23:00:08Z",
+     "summary": "Spectrum customers can get a free internet upgrade this month to download GTA 6 faster."
+    }
+   ],
+   "tags": [],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "393ff35d2373",
+   "title": "We Analyzed Every Official GTA 6 Screenshot Continued",
+   "first_seen": "2026-11-05T23:20:49Z",
+   "updated": "2026-11-05T23:20:49Z",
+   "items": [
+    {
+     "id": "393ff35d2373",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "We Analyzed Every Official GTA 6 Screenshot Continued",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVG03c2Q3RUEyTXVydFdweElRdWNyOEJKX2JFM3FReWJmM05aVjE3RWYzb1ROWTlUdnMzNmR2bF9tMUJEVWxPak11a1U4ZHB2TFZPRU5ZVVZ4S05UQ0tEVi1LY1VrN3I5WE9wb3hJNDh3MDN0T1M4aFBaTWZnZVQ2Y25WN1lCbFNfZ2lQYXpySQ?oc=5",
+     "ts": "2026-11-05T23:07:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Разбор всех официальных скриншотов GTA 6: что нашли",
+    "summary": "GameSpot проанализировал все официальные скриншоты GTA 6 и выделил детали окружения, интерфейса и персонажей. Издание описывает находки по кадрам, не делая новых заявлений от Rockstar.",
+    "idea": "Быстрый визуальный разбор: крупные планы скриншотов с выделением деталей и подписью, что это значит для игрока. Зрителю интересно увидеть то, что легко пропустить, и сравнить ожидания.",
+    "hook": "Смотри на скриншоты GTA 6 вместе с нами — вот что все пропустили.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-05T23:20:54Z"
+   },
+   "msg_id": 570
+  },
+  {
+   "id": "1a3dc55aac00",
+   "title": "This is what happen if Arthur Morgan and Joel Miller had a child.",
+   "first_seen": "2026-11-05T23:20:49Z",
+   "updated": "2026-11-05T23:20:49Z",
+   "items": [
+    {
+     "id": "1a3dc55aac00",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "This is what happen if Arthur Morgan and Joel Miller had a child.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoxcy0/this_is_what_happen_if_arthur_morgan_and_joel/",
+     "ts": "2026-11-05T23:14:59Z",
+     "summary": "submitted by /u/TheRasal- to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "846bc161f048",
+   "title": "A Cessna is currently creating artwork in the air",
+   "first_seen": "2026-11-05T23:20:49Z",
+   "updated": "2026-11-05T23:20:49Z",
+   "items": [
+    {
+     "id": "846bc161f048",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "A Cessna is currently creating artwork in the air",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoxes2/a_cessna_is_currently_creating_artwork_in_the_air/",
+     "ts": "2026-11-05T23:17:09Z",
+     "summary": "You can see it on any flight radar, N1810R submitted by /u/Snak3D0ct0r to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "cdb2d6033789",
    "title": "РОЗЫГРЫШ НА 10 ПОБЕДИТЕЛЕЙ ➖ 5 GTA VI ULTIMATE EDITION ➖ 5 НОЖЕЙ CS2 УСЛОВИЯ: 🛑 Подпишись на WEAZEL NEWS 🛑 Подпишись на SKINSET 🛑 Нажми кнопку «Участвовать» под",
    "first_seen": "2026-11-05T16:01:15Z",
@@ -2076,45 +2217,6 @@
    "score": 20,
    "level": "SPECULATION",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "14d467806724",
-   "title": "Spectrum Is Offering Free Gigabit Speeds to Download GTA VI Faster",
-   "first_seen": "2026-11-05T18:11:00Z",
-   "updated": "2026-11-05T21:31:00Z",
-   "items": [
-    {
-     "id": "14d467806724",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "Spectrum Is Giving Free Gigabit Speed So You Can Pre-Load GTA 6 Faster",
-     "url": "https://www.gtaboom.com/spectrum-is-giving-free-gigabit-speed-so-you-can-pre-load-gta-6-faster-efe6",
-     "ts": "2026-11-05T18:09:28Z",
-     "summary": "Eligible Spectrum users with compatible equipment can activate a free 1 Gig boost for GTA 6 in My Spectrum App through November 30."
-    },
-    {
-     "id": "5367c08112bd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Gadget Review",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Spectrum Is Offering Free Gigabit Speeds to Download GTA VI Faster",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlVpM2hJanNleEtmZ3ZpMGtlRU4xQ0l3QUxKWllFTWtVd1VlRGw0T0U0WXplb1hqNHdMUFBsaG5uNWpZVDBWQmRsU0N3MGJuZE0wYjNrcW5nMWdHVkJtVXpDUnU0WUQyaURPNnljU0pIM1dzNGdvWjRLckp4OXpPdWdfRkdyR3BMTEFYSVFxTFRJWi1peUsyanBEdw?oc=5",
-     "ts": "2026-11-05T18:47:48Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -74765,71 +74867,19 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "3f002d99e3ca",
-   "title": "House Robberies",
-   "first_seen": "2026-10-29T23:20:50Z",
-   "updated": "2026-10-29T23:20:50Z",
-   "items": [
-    {
-     "id": "3f002d99e3ca",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "House Robberies",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xiy5oj/house_robberies/",
-     "ts": "2026-10-29T22:22:47Z",
-     "summary": "So after the amazing Edge Magazine story that we received the other day, I have ccome into a great realisation about GTA 6 and when it comes to robbing Residences. Before I go into great Detail about what to expect in GTA 6 regarding B&E's, I wanted to go over 2 rockstar games that implemented this mechanic wayy before GTA 6. GRAND THEFT AUTO SANANDREAS CJ attempting to enter a house at night during Burglry mission In GTA SA, you obtain the initial ability to perform B&E (Breaking and Entering) missions through Ryder. After the first mission you do, your given an oppritunity to find Black Vans"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ec0709e3867b",
-   "title": "Дата эмбарго на обзоры GTA 6: когда спадет запрет?",
-   "first_seen": "2026-10-29T23:13:50Z",
-   "updated": "2026-10-29T23:13:50Z",
-   "items": [
-    {
-     "id": "ec0709e3867b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "games.gg",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Дата эмбарго на обзоры GTA 6: когда спадет запрет?",
-     "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPcEJyc3Jla2tVNnRhaGxuT3VaVlR2a3BfSEVQaFFwMTVxQmJQX040UWVKdTBHTUhfd1d0LVRZXzhqSG1WajVBVTA0cmJuSmkxeFY3LUFMNi0yRGMtd1lmLVhGTUhKdTNUX3BjZEVNdnRJSVZkakVDd3dFMWNQNnNLQWRPRVZEclBKeE5MV1JtYnJFRVZ5b1NtdDZXS0oxSGRBbXduNTgxeWo2SFpYdEt5UzlxT1lVaFZCY19kVGhvb1lwMG9PeXNPUXVaVUVWU3NDZVVTTmQ4TzFvQm82bng0ZzNsV1NTbjROVGl0cFB2UDNRNkp5eDJ1Z0w3ZHNwNWxCaUNoZkYxTUJQckdIQ2w5RU5EWGw0SmRXSkZYZFZFWXFEZGkwcUplM3J1d1dyVWRBVnhRQVVKMUtuczhibmJ3N1RacXpXc0pVWFNKdkUtUDVtWWZ3TENtTU1WQnI2aWRNd3AxLU5SSUwwSWx2SXF2Qi1NckJ3TnNObkVydWhSZTNXM28yU0haZmpCbEI?oc=5",
-     "ts": "2026-10-29T22:09:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T23:10:57Z",
+  "last_run": "2026-11-05T23:20:54Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 79/94",
+   "gnews_ru: 78/93",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
-   "ign: 0/20",
+   "ign: 1/20",
    "eurogamer: 1/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 2/10",
