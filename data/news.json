@@ -1,6 +1,61 @@
 {
  "stories": [
   {
+   "id": "2212f75f442c",
+   "title": "Rockstar Lands Two Games on the PC Gamer Top 100 List",
+   "first_seen": "2026-11-04T09:20:53Z",
+   "updated": "2026-11-05T05:50:50Z",
+   "items": [
+    {
+     "id": "2212f75f442c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I'm a PC gamer. Here's my Odyssey to try and find a PS5 for free, before GTA 6 releases.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xnjo6g/im_a_pc_gamer_heres_my_odyssey_to_try_and_find_a/",
+     "ts": "2026-11-04T09:12:52Z",
+     "summary": "Hello there! I've been a pc player for more than 20 years and I haven't touched a console since then. I love GTA though and I wanted to play GTA 6 on release. Here's my story of how I tried to find a PS5 for free in order to play the game on release. submitted by /u/Dimikaye to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "82d45e61fcb9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What are the chances GTA VI releases on PC in February and they delayed because of it?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xnu8lv/what_are_the_chances_gta_vi_releases_on_pc_in/",
+     "ts": "2026-11-04T17:28:32Z",
+     "summary": "submitted by /u/FitMonitor9277 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "56a69dcc41d4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Lands Two Games on the PC Gamer Top 100 List",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaDVqWTRjUDF5Qzhxc0VkWlpEcEx6Q1o2dHZ0TjdjWDhkNFdKeFFGcjZOMDdiUWMwVVpuUDdHVnVzazlGdjg2eTlxMEFMT0hWaXY2d2lDQ0stZURoam9QYWdnQ0doS0M1WmttVUNBRGUxbm5iZWRZeVJmaks5bjMwQXZ3VjB1S1o2WDZIaGQ1akV4Ri1pMHc?oc=5",
+     "ts": "2026-11-05T05:37:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК",
+    "дата/перенос"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
    "id": "ebb4c33a07bf",
    "title": "We got GTA 6 in GTA 5 before GTA 6",
    "first_seen": "2026-11-05T05:40:46Z",
@@ -5456,48 +5511,6 @@
    ],
    "tags": [],
    "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2212f75f442c",
-   "title": "I'm a PC gamer. Here's my Odyssey to try and find a PS5 for free, before GTA 6 releases.",
-   "first_seen": "2026-11-04T09:20:53Z",
-   "updated": "2026-11-04T17:31:02Z",
-   "items": [
-    {
-     "id": "2212f75f442c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I'm a PC gamer. Here's my Odyssey to try and find a PS5 for free, before GTA 6 releases.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xnjo6g/im_a_pc_gamer_heres_my_odyssey_to_try_and_find_a/",
-     "ts": "2026-11-04T09:12:52Z",
-     "summary": "Hello there! I've been a pc player for more than 20 years and I haven't touched a console since then. I love GTA though and I wanted to play GTA 6 on release. Here's my story of how I tried to find a PS5 for free in order to play the game on release. submitted by /u/Dimikaye to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "82d45e61fcb9",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What are the chances GTA VI releases on PC in February and they delayed because of it?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xnu8lv/what_are_the_chances_gta_vi_releases_on_pc_in/",
-     "ts": "2026-11-04T17:28:32Z",
-     "summary": "submitted by /u/FitMonitor9277 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "ПК",
-    "дата/перенос"
-   ],
-   "score": 35,
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
@@ -69617,11 +69630,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T05:40:46Z",
+  "last_run": "2026-11-05T05:50:50Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 96/100",
-   "gnews_ru: 71/76",
+   "gnews_ru: 70/75",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
