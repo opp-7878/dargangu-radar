@@ -1,6 +1,530 @@
 {
  "stories": [
   {
+   "id": "12905e286362",
+   "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
+   "first_seen": "2026-11-05T16:20:48Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "12905e286362",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
+     "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
+     "ts": "2026-11-05T16:18:40Z",
+     "summary": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6 , ahead of its release later this month. Read more"
+    },
+    {
+     "id": "ff995d7770d3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Eurogamer.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxanZXNnlHLTZWQmtqREw3Wl9ZWkpCN1ozc1p1bk5XN0JHQWgtcU1Yd1c5NTJvTFBuNl9tRldiTVFtTE5DWjY4ZU8yTmIxSVpLcndsSHFBT3RTR1BuT0VYdURTQVIzZ0wzNldsWnJoTXM?oc=5",
+     "ts": "2026-11-05T16:18:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: выдуманные числа: 35",
+   "ai": {
+    "title_ru": "38 новых скриншотов GTA 6: Вайс-Сити, Джейсон и Лусия",
+    "summary": "Rockstar Games выпустила 38 новых скриншотов GTA 6, показав Вайс-Сити, Джейсона и Лусию. Об этом сообщил Eurogamer. Релиз игры — позже в этом месяце.",
+    "idea": "Быстрый тур по 38 скриншотам: лучшие кадры города, героев и деталей. Зрителю интересно увидеть максимум контента за 30 секунд.",
+    "hook": "38 новых скриншотов GTA 6 — смотрим самое сочное за 30 секунд.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-05T16:31:08Z"
+   },
+   "msg_id": 552
+  },
+  {
+   "id": "4f247b53384f",
+   "title": "I hastedly counted 155 NPCs on that new hotel pool screenshot. I feel like I might've missed a few.",
+   "first_seen": "2026-11-05T16:20:48Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "4f247b53384f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I hastedly counted 155 NPCs on that new hotel pool screenshot. I feel like I might've missed a few.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xomvg2/i_hastedly_counted_155_npcs_on_that_new_hotel/",
+     "ts": "2026-11-05T16:20:31Z",
+     "summary": "submitted by /u/gmazzia to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "86b522ef8d3c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I hastily counted 155 NPCs on that new hotel pool screenshot. Feels like I might've missed a few.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xomzma/i_hastily_counted_155_npcs_on_that_new_hotel_pool/",
+     "ts": "2026-11-05T16:24:53Z",
+     "summary": "submitted by /u/gmazzia to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e2b86ae8defb",
+   "title": "Kodak Black in GTA 6 confirmed",
+   "first_seen": "2026-11-05T15:10:50Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "e2b86ae8defb",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Kodak Black in GTA 6 confirmed",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xokxod/kodak_black_in_gta_6_confirmed/",
+     "ts": "2026-11-05T15:04:42Z",
+     "summary": "submitted by /u/ComfortableComb6546 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "a18900120404",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Kodak Black officially IN GTA 6",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xol5ss/kodak_black_officially_in_gta_6/",
+     "ts": "2026-11-05T15:13:28Z",
+     "summary": "submitted by /u/Hamkad to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "c32eb0eb332b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Kodak Black in new Screenshot",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xolc1z/kodak_black_in_new_screenshot/",
+     "ts": "2026-11-05T15:20:08Z",
+     "summary": "100% Kodak in this ss submitted by /u/profgeeb to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "a3e8e22e4d1c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Kodak Black is in GTA6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xolqsm/kodak_black_is_in_gta6/",
+     "ts": "2026-11-05T15:36:17Z",
+     "summary": "submitted by /u/DrDoomsDaye to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "883878751d40",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Kodak black confirmed in gta 6",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xolwa3/kodak_black_confirmed_in_gta_6/",
+     "ts": "2026-11-05T15:42:21Z",
+     "summary": "submitted by /u/Lazy-Salt9698 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "7c93495de67a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Kodak Black - Florida Native in GTA 6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xon40e/kodak_black_florida_native_in_gta_6/",
+     "ts": "2026-11-05T16:29:39Z",
+     "summary": "Is this the first time Rockstar has taken an actual celebrity in the real world and plopped them in the GTA universe? They typically do parodies of celebs, but this looks like a 1:1 copy of Kodak especially the tattoos! submitted by /u/rickygee3 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0af807bb712d",
+   "title": "The Real Life Miami Cars Are In The New Screenshots From Today.",
+   "first_seen": "2026-11-05T15:40:51Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "0af807bb712d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The Real Life Miami Cars Are In The New Screenshots From Today.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xolnix/the_real_life_miami_cars_are_in_the_new/",
+     "ts": "2026-11-05T15:32:38Z",
+     "summary": "submitted by /u/TwixWrap to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "6cb782758577",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Real life cars in the new screenshots?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xon4xp/real_life_cars_in_the_new_screenshots/",
+     "ts": "2026-11-05T16:30:36Z",
+     "summary": "submitted by /u/the_weird_minecraft to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c6edc409fa3c",
+   "title": "GTA 6 in Real Life — Almost Identical! 🤯",
+   "first_seen": "2026-11-04T23:30:56Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "c6edc409fa3c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 in Real Life — Almost Identical! 🤯",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xo3b31/gta_6_in_real_life_almost_identical/",
+     "ts": "2026-11-04T23:26:25Z",
+     "summary": "submitted by /u/New_Individual4750 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "14e316120b8f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 vs Real Life",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xon10j/gta_6_vs_real_life/",
+     "ts": "2026-11-05T16:26:26Z",
+     "summary": "submitted by /u/FinalxPain to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3900b4f709d6",
+   "title": "Rockstar Games Will Take Measures to Prevent Grand Theft Auto VI Spoilers, and Players Will Have to Follow the Rules",
+   "first_seen": "2026-11-05T16:31:04Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "3900b4f709d6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "levelup.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games Will Take Measures to Prevent Grand Theft Auto VI Spoilers, and Players Will Have to Follow the Rules",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcllMbHhzb0VqUDZWdTNpTFY4UGlOT0N4ZXhXdXBsRmJEelpJUnhxY01hSEdqbVJCbDQ2eFBoUVh3dkVrdzBpSFZpMHNta3B0ZXJhYXZpSVEyWDBxUGtrOXpQODdmbkZ3YUx4NjR6c1M5clV0YmxRb0ZUMEczc3VzUzdaNWtrVkVPcHJqcUJULXpzWFc4Nnk3eVNsTVNhWlo3NGhibFVGMThvajFUWndrSFVudlFjVHZZOFFGMl9Rd3hxSEJ2OUgtUWlqTmJfV0puMHA5ZEVCQmZJTE5GWC1pMENn?oc=5",
+     "ts": "2026-11-05T16:02:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5a92eff9cae0",
+   "title": "NINE1NINE Vice City в реальности: ночной клуб E11EVEN станет местом из GTA 6",
+   "first_seen": "2026-11-05T16:31:04Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "5a92eff9cae0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://dungen.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "NINE1NINE Vice City в реальности: ночной клуб E11EVEN станет местом из GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92cG1IQWpPWEtlR01FN3hRaTVZMTlSZG4xQTdGUDNkMXlvdUg2cnhwTER5aVoyaVktZ2JHSkRHcGRVX1BsVENUbU93YWxTRVVWSVB4ZXJma0pLRy04Tk5fUWc2dmRvX1d6?oc=5",
+     "ts": "2026-11-05T16:03:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b1e8a4fca422",
+   "title": "New screenshots dropped in the official website 14 days before launch",
+   "first_seen": "2026-11-05T16:31:04Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "b1e8a4fca422",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "New screenshots dropped in the official website 14 days before launch",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xomn9g/new_screenshots_dropped_in_the_official_website/",
+     "ts": "2026-11-05T16:11:48Z",
+     "summary": "submitted by /u/Adventurous_Mix_2443 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "29430090ff38",
+   "title": "Rockstar Games Flexes Its Technical Prowess With GTA 6’s 40 Launch Screenshots, As Stunning Attention to Detail Completely Steals the Show",
+   "first_seen": "2026-11-05T16:31:04Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "29430090ff38",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Wccftech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games Flexes Its Technical Prowess With GTA 6’s 40 Launch Screenshots, As Stunning Attention to Detail Completely Steals the Show",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaWJSUUY0WWtfS3NXZWIwNmxKUmlYQnJXa3cwSFF6aEJPWDB4WHVwUFBCMW0zaENqZWgyZ29ZZzJWbkhDOE83ZGgyMmRFZWxDd2xzdUdWSmlMeGVMbDJlRnJyeE9OaWYySmM3M3hNdFM4cE5SVXNFNk9qNW1TWm9FVNIBhgFBVV95cUxOQjBGUlg3YUY0Y0JLZUl5cjNiQ2duRFlKeXhWMkNheklOTXV4MHk2UGZLcWhQNm9yQmZTcnFpUE9TRndFMVBXeWFfYmt3M2RBRThrNnhOQ1I1SmhYeTRieUtBOG42NlV3bU82dkl6MzR3cGU1QWVuVUZ3ZVFHdGR2dnpjakc1QQ?oc=5",
+     "ts": "2026-11-05T16:16:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9782a09717ba",
+   "title": "Can't Wait To Explore The Waters",
+   "first_seen": "2026-11-05T16:31:04Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "9782a09717ba",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Can't Wait To Explore The Waters",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xomxg1/cant_wait_to_explore_the_waters/",
+     "ts": "2026-11-05T16:22:40Z",
+     "summary": "submitted by /u/Scott1710 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "adf780d2e51d",
+   "title": "Spotted West Coast Costums Cars again in the new Screenshots",
+   "first_seen": "2026-11-05T16:31:04Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "adf780d2e51d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Spotted West Coast Costums Cars again in the new Screenshots",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xomy0z/spotted_west_coast_costums_cars_again_in_the_new/",
+     "ts": "2026-11-05T16:23:16Z",
+     "summary": "Maybe the will be a real-life/ingame mix type trailer? submitted by /u/LavishnessDue6 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "788aa83d3efd",
+   "title": "First official look at Gator Plaza, based on Miami's Dolphin Mall",
+   "first_seen": "2026-11-05T16:31:04Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "788aa83d3efd",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "First official look at Gator Plaza, based on Miami's Dolphin Mall",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xon03z/first_official_look_at_gator_plaza_based_on/",
+     "ts": "2026-11-05T16:25:26Z",
+     "summary": "Gator Plaza is one of several known enterable shopping malls in GTA 6. gta.wiki/Gator_Plaza submitted by /u/gtawiki to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e127dcf1e566",
+   "title": "Marabunta grande return in GTA VI?",
+   "first_seen": "2026-11-05T16:31:04Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "e127dcf1e566",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Marabunta grande return in GTA VI?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xon0dv/marabunta_grande_return_in_gta_vi/",
+     "ts": "2026-11-05T16:25:44Z",
+     "summary": "First look at a supposedly enterable mansion ( looks like a mission of some sort). Blacked out Police escalade could be Federal agents. Mission definitely involves some type of drug raid. Boat & yacht sizes look incredible. submitted by /u/Jaded-Match-3467 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fa608c7bfb21",
+   "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
+   "first_seen": "2026-11-05T16:31:04Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "fa608c7bfb21",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "USA Today",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjQ3a2pXNXpvQ0c3Tm1ramdpZ19UakQ0Q3BZU211bFpWMUhoYnNOTmFwS2R5bkV3UzlaTVlBLTJMdGZuZ2ZGVklnaDhLS1VCYkQ3ZGRmN2lpeV9RX0laTS00cFRUSTRoN2dNNmVyVlY2YnhoTkNnb1dXR0J6UVlXQS0zZGRPX0w5NkZpMF9fU2JPUWV2cEFVdEhsVy1qOE4zX2ZueEgwS3pJVzItbmdz?oc=5",
+     "ts": "2026-11-05T16:27:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7ef33e3c7fa2",
+   "title": "FNAC Montparnasse, Paris France",
+   "first_seen": "2026-11-05T16:31:04Z",
+   "updated": "2026-11-05T16:31:04Z",
+   "items": [
+    {
+     "id": "7ef33e3c7fa2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "FNAC Montparnasse, Paris France",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xon2lf/fnac_montparnasse_paris_france/",
+     "ts": "2026-11-05T16:28:10Z",
+     "summary": "submitted by /u/Minatoku92 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "76cbc386b6af",
    "title": "Rockstar releases nearly 40 new GTA 6 screenshots ahead of launch",
    "first_seen": "2026-11-05T15:20:46Z",
@@ -250,34 +774,6 @@
    "status": "new"
   },
   {
-   "id": "12905e286362",
-   "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
-   "first_seen": "2026-11-05T16:20:48Z",
-   "updated": "2026-11-05T16:20:48Z",
-   "items": [
-    {
-     "id": "12905e286362",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
-     "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
-     "ts": "2026-11-05T16:18:40Z",
-     "summary": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6 , ahead of its release later this month. Read more"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: выдуманные числа: 35"
-  },
-  {
    "id": "1660f1b54fc3",
    "title": "I want a mission complicated by a natural disaster, too much?",
    "first_seen": "2026-11-05T16:20:48Z",
@@ -399,32 +895,6 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xomvgc/buckme_headquarters/",
      "ts": "2026-11-05T16:20:31Z",
      "summary": "in the background of one of the new screenshots you can see BuckMe HQ. Do you think this'll be a location for a heist? would that even work with a digital currency company like that? submitted by /u/GameDrain to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4f247b53384f",
-   "title": "I hastedly counted 155 NPCs on that new hotel pool screenshot. I feel like I might've missed a few.",
-   "first_seen": "2026-11-05T16:20:48Z",
-   "updated": "2026-11-05T16:20:48Z",
-   "items": [
-    {
-     "id": "4f247b53384f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I hastedly counted 155 NPCs on that new hotel pool screenshot. I feel like I might've missed a few.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xomvg2/i_hastedly_counted_155_npcs_on_that_new_hotel/",
-     "ts": "2026-11-05T16:20:31Z",
-     "summary": "submitted by /u/gmazzia to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [],
@@ -1292,86 +1762,6 @@
    "status": "new"
   },
   {
-   "id": "e2b86ae8defb",
-   "title": "Kodak Black in GTA 6 confirmed",
-   "first_seen": "2026-11-05T15:10:50Z",
-   "updated": "2026-11-05T15:50:50Z",
-   "items": [
-    {
-     "id": "e2b86ae8defb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Kodak Black in GTA 6 confirmed",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xokxod/kodak_black_in_gta_6_confirmed/",
-     "ts": "2026-11-05T15:04:42Z",
-     "summary": "submitted by /u/ComfortableComb6546 to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "a18900120404",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Kodak Black officially IN GTA 6",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xol5ss/kodak_black_officially_in_gta_6/",
-     "ts": "2026-11-05T15:13:28Z",
-     "summary": "submitted by /u/Hamkad to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "c32eb0eb332b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Kodak Black in new Screenshot",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xolc1z/kodak_black_in_new_screenshot/",
-     "ts": "2026-11-05T15:20:08Z",
-     "summary": "100% Kodak in this ss submitted by /u/profgeeb to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "a3e8e22e4d1c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Kodak Black is in GTA6",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xolqsm/kodak_black_is_in_gta6/",
-     "ts": "2026-11-05T15:36:17Z",
-     "summary": "submitted by /u/DrDoomsDaye to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "883878751d40",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Kodak black confirmed in gta 6",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xolwa3/kodak_black_confirmed_in_gta_6/",
-     "ts": "2026-11-05T15:42:21Z",
-     "summary": "submitted by /u/Lazy-Salt9698 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "c5fd67a4411a",
    "title": "Redditor fudges DLSS 5 to work on GTA 6 trailer — and full console game could be run this way in a hook-up with a gaming PC, with the input lag being 'completely acceptable'",
    "first_seen": "2026-11-05T15:40:51Z",
@@ -2194,32 +2584,6 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xolmv5/this_part_of_the_city_has_me_geeking_out/",
      "ts": "2026-11-05T15:31:51Z",
      "summary": "Cropped in version of the latest SS drop. The vertical urbanism or verticality shown just in this single SS is insane. submitted by /u/old_crappenshits to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0af807bb712d",
-   "title": "The Real Life Miami Cars Are In The New Screenshots From Today.",
-   "first_seen": "2026-11-05T15:40:51Z",
-   "updated": "2026-11-05T15:40:51Z",
-   "items": [
-    {
-     "id": "0af807bb712d",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "The Real Life Miami Cars Are In The New Screenshots From Today.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xolnix/the_real_life_miami_cars_are_in_the_new/",
-     "ts": "2026-11-05T15:32:38Z",
-     "summary": "submitted by /u/TwixWrap to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [],
@@ -9814,32 +10178,6 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xo37yu/my_ps5_is_ready/",
      "ts": "2026-11-04T23:22:27Z",
      "summary": "Made a skin for my ps5 so it's full prepared for GTA submitted by /u/Fit-Dot5495 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c6edc409fa3c",
-   "title": "GTA 6 in Real Life — Almost Identical! 🤯",
-   "first_seen": "2026-11-04T23:30:56Z",
-   "updated": "2026-11-04T23:30:56Z",
-   "items": [
-    {
-     "id": "c6edc409fa3c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 in Real Life — Almost Identical! 🤯",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xo3b31/gta_6_in_real_life_almost_identical/",
-     "ts": "2026-11-04T23:26:25Z",
-     "summary": "submitted by /u/New_Individual4750 to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [],
@@ -71817,11 +72155,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T16:20:57Z",
+  "last_run": "2026-11-05T16:31:08Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/6",
    "gnews_en: 99/100",
-   "gnews_ru: 58/65",
+   "gnews_ru: 57/64",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 2/10",
@@ -71829,7 +72167,7 @@
    "eurogamer: 1/100",
    "dexerto_gta: 2/50",
    "rockstarintel: 3/10",
-   "gtaboom: 13/30",
+   "gtaboom: 12/30",
    "reddit: 23/25",
    "tg_gtavistar: 3/3",
    "tg_gta6deluxe: 4/4",
