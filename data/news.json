@@ -69600,45 +69600,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "cdefff04b26f",
-   "title": "Circana Data Proves Strauss Zelnick Was Right About GTA 6 Demand",
-   "first_seen": "2026-10-29T04:40:50Z",
-   "updated": "2026-10-29T04:40:50Z",
-   "items": [
-    {
-     "id": "cdefff04b26f",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "Circana Data Proves Strauss Zelnick Was Right About GTA 6 Demand",
-     "url": "https://www.gtaboom.com/circana-data-proves-strauss-zelnick-was-right-about-gta-6-demand-d2f4",
-     "ts": "2026-10-29T04:38:01Z",
-     "summary": "Circana data shows Grand Theft Auto VI has 29 percent purchase intent among US gamers, the highest it has ever tracked for any game."
-    }
-   ],
-   "tags": [
-    "Take-Two"
-   ],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T04:40:46Z",
+  "last_run": "2026-11-05T04:50:46Z",
   "last_log": [
-   "rockstar_site: 0/4",
+   "rockstar_site: 0/3",
    "gnews_en: 96/100",
-   "gnews_ru: 71/76",
+   "gnews_ru: 70/75",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 0/10",
