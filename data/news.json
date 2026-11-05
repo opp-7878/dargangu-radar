@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "ce45288fd5cc",
+   "title": "Grove Street 4life",
+   "first_seen": "2026-11-05T08:50:43Z",
+   "updated": "2026-11-05T08:50:43Z",
+   "items": [
+    {
+     "id": "ce45288fd5cc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Grove Street 4life",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xodpkk/grove_street_4life/",
+     "ts": "2026-11-05T08:44:06Z",
+     "summary": "Never forget the all-time legends of San Andreas. 💚CJ & Sweet: Grove Street for life! submitted by /u/Downtown_Cap1578 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "1d470170c7a3",
    "title": "Question for people who think the content in GTA 6 is locked behind a $100 paywall",
    "first_seen": "2026-11-05T08:40:47Z",
@@ -69533,95 +69559,15 @@
     "at": "2026-10-29T08:50:57Z"
    },
    "msg_id": 297
-  },
-  {
-   "id": "987687d192e8",
-   "title": "MASSIVE GTA 6 Info Drop - Seasons, Jason/Lucia Relationship, New Details & More",
-   "first_seen": "2026-10-29T08:40:54Z",
-   "updated": "2026-10-29T08:40:54Z",
-   "items": [
-    {
-     "id": "987687d192e8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "YouTube",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "MASSIVE GTA 6 Info Drop - Seasons, Jason/Lucia Relationship, New Details & More",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15R1dHVXhvdDVZRDRlVExDLXBOV3k3cldiYmNYNzBqX3R6RXl6Ml84VG9QQWs1SXltWllSOVF1U2Zrdm51OThEaHAtYkdmRTVVU1IzaGpHRVpyQ3V4?oc=5",
-     "ts": "2026-10-29T05:17:59Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c9f45eecb837",
-   "title": "Мем из GTA 4 дал название сервису из Grand Theft Auto 6",
-   "first_seen": "2026-10-29T08:40:54Z",
-   "updated": "2026-10-29T08:40:54Z",
-   "items": [
-    {
-     "id": "c9f45eecb837",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "WTFTime.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Мем из GTA 4 дал название сервису из Grand Theft Auto 6",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczFvTlRqazlxWkk5WE4zTjhNbzRXUHNTYlVfOXNsWmQzTElqbEM0SUhnNW9adFQwb01tSmNsOEVUenA0cUM4VDZNOXp3T18td0ZpcUZpSHJCN1prNnltX1ZzSEcxNGRTS2lCV0ktR1h5M2pLVzNvSkViVmtUaEpTU3Q5LUhoN1ZfbUVNUDZzWm1LQml6YlE?oc=5",
-     "ts": "2026-10-29T08:36:12Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0a05c7173bcb",
-   "title": "(Mod Idea) What if Jason or Lucia could occasionally break the fourth wall?",
-   "first_seen": "2026-10-29T08:40:54Z",
-   "updated": "2026-10-29T08:40:54Z",
-   "items": [
-    {
-     "id": "0a05c7173bcb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "(Mod Idea) What if Jason or Lucia could occasionally break the fourth wall?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xiehio/mod_idea_what_if_jason_or_lucia_could/",
-     "ts": "2026-10-29T08:40:36Z",
-     "summary": "I was thinking about how insane GTA 6 could be once it eventually comes to PC and the modding scene gets going. what if someone made a mod where Jason or Lucia occasionally acts like they’re aware of the person playing them? imagine you’re going on a pointless killing rampage, and Jason suddenly lowers his gun, looks directly at the camera and says “come on dude, seriously?” or you’re constantly rotating the camera around Lucia, and she eventually turns her head towards it, makes eye contact and asks “you done?” but i’d love some genuinely unsettling moments too. imagine you’re walking around "
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T08:40:47Z",
+  "last_run": "2026-11-05T08:50:43Z",
   "last_log": [
    "rockstar_site: 0/5",
    "gnews_en: 96/100",
-   "gnews_ru: 68/73",
+   "gnews_ru: 68/72",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 8/10",
