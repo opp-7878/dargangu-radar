@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "d9f8aa19f563",
+   "title": "We're doing a GTA VI Giveaway on Epilog",
+   "first_seen": "2026-11-05T02:10:40Z",
+   "updated": "2026-11-05T02:10:40Z",
+   "items": [
+    {
+     "id": "d9f8aa19f563",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We're doing a GTA VI Giveaway on Epilog",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xo6pp9/were_doing_a_gta_vi_giveaway_on_epilog/",
+     "ts": "2026-11-05T02:05:25Z",
+     "summary": "Open the Epilog & go in the entry page to complete the steps. Set up your big 3, log 6 games & rate 3 Reveiw your favorite GTA game Bonus entry for setting up a top 5 gta list submitted by /u/mcaym to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "3a3e2ddf2b90",
    "title": "My milk expires on release day",
    "first_seen": "2026-11-05T02:01:07Z",
@@ -69854,76 +69880,13 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "040b94899f57",
-   "title": "Grand Theft Auto VI exclusive – The state that never sleeps",
-   "first_seen": "2026-10-29T00:23:07Z",
-   "updated": "2026-10-29T02:01:20Z",
-   "items": [
-    {
-     "id": "040b94899f57",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesRadar+",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI exclusive – The state that never sleeps",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZkxrQXY3Vmh6cF9SbEgzWHQyUk55bzlwelFjOGhINmlmdHhqblBnQ3VOT1BxdkQ5Qnc2VEM4X1l2NndOOVFUZkhDZkY0c3V3bjNCZXJn?oc=5",
-     "ts": "2026-10-29T00:16:26Z",
-     "summary": ""
-    },
-    {
-     "id": "363234e69ebe",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Grand Theft Auto VI exclusive – The state that never sleeps",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xi6fb6/grand_theft_auto_vi_exclusive_the_state_that/",
-     "ts": "2026-10-29T01:12:07Z",
-     "summary": "submitted by /u/PatOverTheBack to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "22193888bec7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesRadar+",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI exclusive – The state that never sleeps",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NTjVpeHZ6ZjVOZ1Y3WjBIOWhrc0FTY0toVGdMYjBhY2ZpOEN1enZwb3NtZENsMC1JMFowY1NBZk9sVkJPX1RrMXc3VDliLThsd1gwZDlHVQ?oc=5",
-     "ts": "2026-10-29T00:16:26Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "👀 GTA 6: «Штат, который никогда не спит» — что это?",
-    "summary": "GamesRadar+ опубликовал материал с фразой «The state that never sleeps», а на Reddit обсуждают, что это намёк на Вайс-Сити или новый город в GTA 6. Официально Rockstar это не подтверждала — пока только слухи и догадки.",
-    "idea": "Коротко разбираем фразу «The state that never sleeps» и показываем карту с отметками — где это может быть в GTA 6. Зрителю интересно, потому что это свежий намёк на локацию, и можно быстро проголосовать за свой вариант.",
-    "hook": "Фраза «Штат, который никогда не спит» — Вайс-Сити или новый город в GTA 6?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-29T01:20:57Z"
-   },
-   "msg_id": 282
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T02:01:07Z",
+  "last_run": "2026-11-05T02:10:40Z",
   "last_log": [
-   "rockstar_site: 0/4",
+   "rockstar_site: 0/5",
    "gnews_en: 95/100",
    "gnews_ru: 73/78",
    "gamesbeat: 1/10",
