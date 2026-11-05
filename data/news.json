@@ -1,6 +1,256 @@
 {
  "stories": [
   {
+   "id": "02de8317c11b",
+   "title": "GTA VI Isn't on PC Yet, So One Tinkerer Is Pushing the PS5 Feed Through Nvidia's DLSS 5",
+   "first_seen": "2026-11-05T18:20:49Z",
+   "updated": "2026-11-05T18:40:46Z",
+   "items": [
+    {
+     "id": "02de8317c11b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Надежды на запуск GTA 6 на ПК в день релиза тают из-за проблем с прошивками PS5",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb01vaVdaTGNZdGttUVRVN3E0cE1Bc0xBM25HX3RTdGlXSFhQX3VTTTBqR3RuLXNlSEVxbk1hTzN4Z19ib3d0YUM3M3dxcXVvNGEtb1p1T19HUjhsNlRGOHROai1OQl9TNGdGeWYwb3FvUzh6a0ZMenlwckFSZGFBbGhZbmdNTXUyOW1SSlZvTHlqaHM?oc=5",
+     "ts": "2026-11-05T17:44:13Z",
+     "summary": ""
+    },
+    {
+     "id": "356fc5fdaebf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "finance.biggo.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Isn't on PC Yet, So One Tinkerer Is Pushing the PS5 Feed Through Nvidia's DLSS 5",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwVXNxX3MwXzVQRS1tVEVIZEFtakRuWm5JRW1aR3RWTzBMLWk4WndPZ1hmR3dNT1pCZGJ4WGpDMUFUeXNZSDBCblBCSFBIZGtLQzFST3dZWUFFYzAxSzhpSmRKdTNDZUp3QlFiWXh6Tjg3cE9tZ2c?oc=5",
+     "ts": "2026-11-05T18:35:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "5b81aa30c43d",
+   "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+   "first_seen": "2026-11-05T17:50:51Z",
+   "updated": "2026-11-05T18:40:46Z",
+   "items": [
+    {
+     "id": "5b81aa30c43d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Ars Technica",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVNhQ1FIR2dIWWtpeUoyb04wWXBKRkZueS1rQ2J0YVFRM3lSODItam1ZU3VfTURzZGhYbGlxbFNQNHlmLVZNRzIydENndmttSU9EMEpfR0VxQTE0N1ZXZlFrdnhMMzdkRXIxeG1rV0dDa1ZKTlJMNzNCVXppMV9idUwtWkxtanoxdUgxR2tNQ3l5NUFZQnFocjZkSGIxWnhlYk10ZjN6T0k1UnJwR3c?oc=5",
+     "ts": "2026-11-05T17:40:27Z",
+     "summary": ""
+    },
+    {
+     "id": "c1cecad1342e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameDev.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa01yWmpJQ21qaEhNYzhZSzRlNVcyWmtqRU5qSDBiNkZYd08waThOZmpUXzE5a1hyV0ljNU9fMjV3QWNjZXlfYXNobGwxSFFiR3hVbXpOcGRWd0QyQVVRemlSYWhMQW53Q1czT2hsRmZKbHRkQ25KSlBzRzlnb2ktVVFpc0RrdnR0azFPN0wzNjBiMzVlSUR1T0kwRWNqSGI1X3dr?oc=5",
+     "ts": "2026-11-05T18:00:05Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Фанаты уже улучшают GTA 6 с DLSS 5: что они делают",
+    "summary": "По данным Ars Technica и GameDev.net, геймеры пытаются улучшить GTA 6 с помощью Nvidia DLSS 5. Они идут на крайние меры, чтобы повысить качество картинки и производительность.",
+    "idea": "Короткий эксперимент: показываем до/после DLSS 5 на GTA 6 и объясняем, зачем фанаты это делают. Зрителю интересно увидеть реальный эффект и понять, стоит ли повторять.",
+    "hook": "DLSS 5 на GTA 6 ещё не вышел, но фанаты уже улучшают картинку.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-05T18:40:49Z"
+   },
+   "msg_id": 564
+  },
+  {
+   "id": "c4fd96c2481c",
+   "title": "What Time Does GTA 6 Come Out? Release Times Explained",
+   "first_seen": "2026-11-05T17:10:54Z",
+   "updated": "2026-11-05T18:40:46Z",
+   "items": [
+    {
+     "id": "c4fd96c2481c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Game Haus",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "What Time Does GTA 6 Come Out? Release Times Explained",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQkx2NnJ6QjRfbjk0VWg2Qmt5ZzZfbXRLU0t1SXk2U3p0aXFQd0ZVeW05UWJfS01ONjlPX1VrMFIyYUE5LUk5LTRaUzRmWm1pc01ULXI2YkhLVDZWN04wcEI5S1RpbnB5ZmRwUTVuZVdxVmVYS1dtTUpTWWk3eXpLYjRNc1c4RmJ2Y2RTM0MtT0tjMlUtTjc0Tlc2dUY?oc=5",
+     "ts": "2026-11-05T11:43:13Z",
+     "summary": ""
+    },
+    {
+     "id": "89fd91c82e4e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rock Paper Shotgun",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "When does GTA 6 come out? Confirmed release date and time",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XNjI3bDdHaUJrYnU2Vkh1djYyeFp5bHNmLXZweUJLR1NvOHFSMW54LUxLaXk2R2gtZjJIaWtKcEpwa0FJOUVYM1NKaXhnY0JVbVUtaVlDVkR0WWE1SlJuM0I4Q1o1MUxJ?oc=5",
+     "ts": "2026-11-05T16:58:30Z",
+     "summary": ""
+    },
+    {
+     "id": "c4020b2b60ba",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 release date: Is there early access? The soonest anyone can play.",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVnJpQWpzVDc0ZWo5eU9Yb0x3d2RxSThNRVViVzdnY0p5V1h1ZVp4WThNWEZtV3lVbXBtOUYzdFl5Q2pzSzQyYlVKVXZTS1lMWUd1RzhCWkpmc0RNRzZkcHVuRF9VUEJuWWJYVEptVmJTdy1lYk85c1BNTXBjS3YtMkdRTQ?oc=5",
+     "ts": "2026-11-05T18:30:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "дата/перенос"
+   ],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "3db8205fc38f",
+   "title": "Charli XCX?",
+   "first_seen": "2026-11-05T18:40:46Z",
+   "updated": "2026-11-05T18:40:46Z",
+   "items": [
+    {
+     "id": "3db8205fc38f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Charli XCX?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoqem5/charli_xcx/",
+     "ts": "2026-11-05T18:33:39Z",
+     "summary": "Is this Charli XCX in the new nightclub screenshot? submitted by /u/Lvr___ to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ffaa0052e7ef",
+   "title": "What you guys think ?",
+   "first_seen": "2026-11-05T18:40:46Z",
+   "updated": "2026-11-05T18:40:46Z",
+   "items": [
+    {
+     "id": "ffaa0052e7ef",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What you guys think ?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoqjao/what_you_guys_think/",
+     "ts": "2026-11-05T18:38:32Z",
+     "summary": "Personally, I hate how this part of the shorts doesn't sit flush against the knees and instead hangs loosely above them. Is that okay? Shouldn't the shorts rest against the knees? submitted by /u/FinalRazzmatazz3 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e12bd0a73814",
+   "title": "This new screenshot reminds me of the Transformers movie where the car breaks down.",
+   "first_seen": "2026-11-05T18:40:46Z",
+   "updated": "2026-11-05T18:40:46Z",
+   "items": [
+    {
+     "id": "e12bd0a73814",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "This new screenshot reminds me of the Transformers movie where the car breaks down.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoqk2b/this_new_screenshot_reminds_me_of_the/",
+     "ts": "2026-11-05T18:39:20Z",
+     "summary": "submitted by /u/Arvosss to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "33cbd26b45c9",
+   "title": "A restaurant near government center in miami got the vice city makeover",
+   "first_seen": "2026-11-05T18:40:46Z",
+   "updated": "2026-11-05T18:40:46Z",
+   "items": [
+    {
+     "id": "33cbd26b45c9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "A restaurant near government center in miami got the vice city makeover",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoql5t/a_restaurant_near_government_center_in_miami_got/",
+     "ts": "2026-11-05T18:40:32Z",
+     "summary": "submitted by /u/7-Cs to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "76cbc386b6af",
    "title": "Rockstar releases nearly 40 new GTA 6 screenshots ahead of launch",
    "first_seen": "2026-11-05T15:20:46Z",
@@ -666,34 +916,6 @@
    "score": 50,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "02de8317c11b",
-   "title": "Надежды на запуск GTA 6 на ПК в день релиза тают из-за проблем с прошивками PS5",
-   "first_seen": "2026-11-05T18:20:49Z",
-   "updated": "2026-11-05T18:20:49Z",
-   "items": [
-    {
-     "id": "02de8317c11b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "CyberMeta",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Надежды на запуск GTA 6 на ПК в день релиза тают из-за проблем с прошивками PS5",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb01vaVdaTGNZdGttUVRVN3E0cE1Bc0xBM25HX3RTdGlXSFhQX3VTTTBqR3RuLXNlSEVxbk1hTzN4Z19ib3d0YUM3M3dxcXVvNGEtb1p1T19HUjhsNlRGOHROai1OQl9TNGdGeWYwb3FvUzh6a0ZMenlwckFSZGFBbGhZbmdNTXUyOW1SSlZvTHlqaHM?oc=5",
-     "ts": "2026-11-05T17:44:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -1396,32 +1618,6 @@
      "title": "GTA 6 players warned of major mistake that could ruin their launch day experience",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSkFQVXZzQ29zdHJiR0E5UlRSTlNUNjI5clB0RGxRWXFBdjlIQXJncVRqT0g4RmR2bmJzMDRjUkw5THFUX1dZdVVCdXU5aTVnM2YtVVltZ0E0WTE3bHk5LVFGaFZrVEVkajlwQ0pSUjJyek9adXdzMHNWTmpVNk81VEtTbXB0NjBt?oc=5",
      "ts": "2026-11-05T17:36:09Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5b81aa30c43d",
-   "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
-   "first_seen": "2026-11-05T17:50:51Z",
-   "updated": "2026-11-05T17:50:51Z",
-   "items": [
-    {
-     "id": "5b81aa30c43d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Ars Technica",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVNhQ1FIR2dIWWtpeUoyb04wWXBKRkZueS1rQ2J0YVFRM3lSODItam1ZU3VfTURzZGhYbGlxbFNQNHlmLVZNRzIydENndmttSU9EMEpfR0VxQTE0N1ZXZlFrdnhMMzdkRXIxeG1rV0dDa1ZKTlJMNzNCVXppMV9idUwtWkxtanoxdUgxR2tNQ3l5NUFZQnFocjZkSGIxWnhlYk10ZjN6T0k1UnJwR3c?oc=5",
-     "ts": "2026-11-05T17:40:27Z",
      "summary": ""
     }
    ],
@@ -3147,48 +3343,6 @@
    ],
    "score": 81,
    "level": "SPECULATION",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "c4fd96c2481c",
-   "title": "What Time Does GTA 6 Come Out? Release Times Explained",
-   "first_seen": "2026-11-05T17:10:54Z",
-   "updated": "2026-11-05T17:10:54Z",
-   "items": [
-    {
-     "id": "c4fd96c2481c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Game Haus",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "What Time Does GTA 6 Come Out? Release Times Explained",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQkx2NnJ6QjRfbjk0VWg2Qmt5ZzZfbXRLU0t1SXk2U3p0aXFQd0ZVeW05UWJfS01ONjlPX1VrMFIyYUE5LUk5LTRaUzRmWm1pc01ULXI2YkhLVDZWN04wcEI5S1RpbnB5ZmRwUTVuZVdxVmVYS1dtTUpTWWk3eXpLYjRNc1c4RmJ2Y2RTM0MtT0tjMlUtTjc0Tlc2dUY?oc=5",
-     "ts": "2026-11-05T11:43:13Z",
-     "summary": ""
-    },
-    {
-     "id": "89fd91c82e4e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Rock Paper Shotgun",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "When does GTA 6 come out? Confirmed release date and time",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XNjI3bDdHaUJrYnU2Vkh1djYyeFp5bHNmLXZweUJLR1NvOHFSMW54LUxLaXk2R2gtZjJIaWtKcEpwa0FJOUVYM1NKaXhnY0JVbVUtaVlDVkR0WWE1SlJuM0I4Q1o1MUxJ?oc=5",
-     "ts": "2026-11-05T16:58:30Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс",
-    "дата/перенос"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
   },
@@ -73578,7 +73732,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T18:32:04Z",
+  "last_run": "2026-11-05T18:40:49Z",
   "last_log": [
    "rockstar_site: 0/6",
    "gnews_en: 98/100",
