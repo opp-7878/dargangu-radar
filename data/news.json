@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "0710bab0b9dc",
+   "title": "Recent screenshot inspired by 2012 real life robbery?",
+   "first_seen": "2026-11-06T06:40:44Z",
+   "updated": "2026-11-06T06:40:44Z",
+   "items": [
+    {
+     "id": "0710bab0b9dc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Recent screenshot inspired by 2012 real life robbery?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xp6144/recent_screenshot_inspired_by_2012_real_life/",
+     "ts": "2026-11-06T06:38:46Z",
+     "summary": "The shopping mall in this new gta 6 screenshot believed to be Gator Plaza, looks heavily inspired by Dolphin Mall in Miami. The similarities are pretty much like for like, the neon lighting running across the ceiling, the layout of the corridors and the overall interior design. In 2012 a gang of six robbers rode three motorcycles into Brent Cross shopping centre in London in broad daylight with plenty of bystanders around them. Three motorcycles carrying six masked robbers entered the shopping centre. Three of the robbers jumped off and smashed their way into a jewellery shop using axes and ba"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "b30ac9ed92e3",
    "title": "Will Jason or Lucia Die in GTA 6?",
    "first_seen": "2026-11-05T13:31:00Z",
@@ -74693,70 +74719,18 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f5c326549083",
-   "title": "Capcom выпустит коллекционное издание по GTA 6 в Японии за 100 тысяч иен - без самой игры",
-   "first_seen": "2026-10-30T05:50:52Z",
-   "updated": "2026-10-30T06:31:06Z",
-   "items": [
-    {
-     "id": "f5c326549083",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Capcom выпустит коллекционное издание по GTA 6 в Японии за 100 тысяч иен - без самой игры",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQV9nVGhKYlRZT0FvdGozdVFJZ1RaLUZRaERfN1RwWFdneTZjQmJkc1ZKVjNkM0FScFRzNnFXb0VUSUtGTzA0SEJPNjQtQ2FoN21BRGdoRHhZRXhVdTVZR1VGOW5CcW82RmktNURUWTBpQlpCTUFCbUxVYUY3N1E2d3JCV2pOSXQ3YXFHQXpONldiRmNvajBjaGx5VldLMHZ3VTV4RlRzX2VDYUVMRVFycXN3SkE2UC1iZ3dzZVYzVTFxVWc3c2RUdE82cGNOZUdUUXc?oc=5",
-     "ts": "2026-10-30T05:37:06Z",
-     "summary": ""
-    },
-    {
-     "id": "693a0bf80196",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Capcom выпустит коллекционное издание по GTA 6 в Японии за 100 тысяч иен - без самой игры",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNXA0YVVDVXBwTS1MXzhvN2FscUJwbXZoMVl6Rm16amxlWlBsdGxEMlB4Z1VUdERtZDhtZTNlUjF3WDJYQ2tjdUp1bXlEdHZTejF4VTZVV3E2N0RQc3ZhWjZxS1hRdjJna3BsdE5tY05ORUtGaHl4akU1TXNRNDcxNGZrRlBMcmtUNlVjQnl3SXhiTmRZeDUtVGhqdmczZUVJSWtGaGFMbmtUcFJJR1Bqek1pMncxUDNYRnVfYlJEZWl6V1d6VThJeHJ2dkZGNEpRNm1tWUstRQ?oc=5",
-     "ts": "2026-10-30T05:37:06Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Коллекционка GTA 6 в Японии за 100 тысяч иен — без игры",
-    "summary": "PlayGround.ru сообщает, что в Японии выпустят коллекционное издание по GTA 6 за 100 тысяч иен без самой игры. Речь о мерче/боксе от Capcom, а не об издании от Rockstar.",
-    "idea": "Короткая реакция на цену коллекционки без игры: показываем ценник и реакцию, объясняем, что это мерч Capcom в Японии.",
-    "hook": "100 тысяч иен за коробку GTA 6. Без самой игры. Серьёзно?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-30T05:50:55Z"
-   },
-   "msg_id": 342
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-06T06:30:56Z",
+  "last_run": "2026-11-06T06:40:44Z",
   "last_log": [
-   "rockstar_site: 0/4",
+   "rockstar_site: 0/3",
    "gnews_en: 97/100",
-   "gnews_ru: 77/95",
+   "gnews_ru: 76/93",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 0/10",
+   "insider_gaming: 2/10",
    "ign: 1/20",
    "eurogamer: 1/100",
    "dexerto_gta: 3/50",
