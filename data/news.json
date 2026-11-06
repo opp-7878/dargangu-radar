@@ -1,6 +1,403 @@
 {
  "stories": [
   {
+   "id": "a98ca5d1cc73",
+   "title": "Выход GTA 6 на ПК может быть перенесён на более ранний срок, чтобы опередить подделки с ИИ, — заявляет бывший директор Rockstar",
+   "first_seen": "2026-11-06T16:10:49Z",
+   "updated": "2026-11-06T17:40:49Z",
+   "items": [
+    {
+     "id": "a98ca5d1cc73",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Выход GTA 6 на ПК может быть перенесён на более ранний срок, чтобы опередить подделки с ИИ, — заявляет бывший директор Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenVnQ3J5dl9sTHRJVi11TU5GZmFwVnNiRDZqRTVrMFowd014U3FBVDdxZndtaE1CV2Y0TkhhZldXM0ZrZDVqdVo2bm55RGpNUDZLOGx5TWR6MlVjZF9FT3o2VGxCdzkzTXJMc05ZbG85VWhkRnJCQ0xvdW9wemZ1MUo2eWRkRlprdTFsclBpVlpOZml6cE5mYWdtajRidW1S?oc=5",
+     "ts": "2026-11-06T14:53:44Z",
+     "summary": ""
+    },
+    {
+     "id": "2360be4fde22",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "dungen.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 на ПК раньше обычного: Rockstar может ускорить релиз из-за ИИ",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IUjdjY0lSTUZfOVZYU3Q5MjJJMWRZWGlTb0tWbzhQLUdoMVJLRUZYVWFFQ3ItSUV0VGMxa3llUjJMMDNYNi16VDhXUGNpV2U1QnVaUWN4dlpqQ0hSZU5mQWR3?oc=5",
+     "ts": "2026-11-06T17:36:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 63,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Бывший директор Rockstar: ПК-версию GTA 6 могут ускорить",
+    "summary": "Бывший директор Rockstar заявил, что выход GTA 6 на ПК могут перенести на более ранний срок. По его словам, это нужно, чтобы опередить подделки с ИИ. Официально Rockstar это пока не подтверждала.",
+    "idea": "Коротко объясняем, зачем Rockstar может ускорить ПК-версию: чтобы не потерять игроков из-за ИИ-подделок. Добавляем таймлайн ожидания и вопрос зрителям — ждать или брать консоль.",
+    "hook": "Бывший директор Rockstar намекнул: ПК-версию GTA 6 могут выпустить раньше.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-06T16:10:54Z"
+   },
+   "msg_id": 590
+  },
+  {
+   "id": "7baf4dff55b1",
+   "title": "GTA 6 Could Disappoint Fans Expecting Online And PC Gameplay, Says Ludwig",
+   "first_seen": "2026-11-06T10:01:07Z",
+   "updated": "2026-11-06T17:40:49Z",
+   "items": [
+    {
+     "id": "7baf4dff55b1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NDTV Sports",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Could Disappoint Fans Expecting Online And PC Gameplay, Says Ludwig",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQclJoT2NQQjlreTFlM1Q1MmFpUi1YdG9VMUdnM3BjaFhmVS1FaVMtM1FlanZaR2VBSmoyem01QXBnV1E1TWdpaTE5aG00eUstTE9oR2ZqWUkydEktSmxsWFEwNVZ2dEVYeGdoT29YeWRVM2MwWkttUy01VkZVblVKU3I1d2lRbE5LU2Z3alZ2NFlwVHprM0d0Qjg3Y1pCSE5oZGRFSTR0VmdLNlBjWVRpa1BkZl8zd2hoQkh3UDJ3?oc=5",
+     "ts": "2026-11-06T08:22:32Z",
+     "summary": ""
+    },
+    {
+     "id": "aec71c24f846",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "games.gg",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI fans propose PS5-to-PC video setup for Nvidia DLSS 5",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2U1Ql81QXZSSnJJX20zOFV1MFQ3OE1JNkxpTE4wLUJxT0pUd0FPcm1IbDBlM3hJT0d3eWhleUZIRzMzTERSMzBhdUt3aFZqOXJaMlFBQjJnTXZDVGZSYWRFUjBUX3l0NkxfUFV4UlRidWdkS25iRHczVlNzODAxaTlzYkhqd3JEdnc?oc=5",
+     "ts": "2026-11-06T17:31:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online",
+    "ПК",
+    "геймплей"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "c161629ac55f",
+   "title": "GTA VI Exchanges GTA6 Markets | Buy & Sell & Trade",
+   "first_seen": "2026-11-06T17:40:49Z",
+   "updated": "2026-11-06T17:40:49Z",
+   "items": [
+    {
+     "id": "c161629ac55f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CryptoRank",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Exchanges GTA6 Markets | Buy & Sell & Trade",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zVjVfaFRqdUdlQ0VMdXlnY1oybGhyYnFQUWlLc2UwV0xTOHVqNzR5Q21QdFNkejc1YnJ1TXV5a3VCZGRLeFFqcS1QZjNXTVBLdVlCOXNpNGg3S2NodWxKZW5BUQ?oc=5",
+     "ts": "2026-11-06T17:37:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9de815c30d65",
+   "title": "Kodak Black Will Appear as an NPC in GTA 6, Fueling Speculation Over Other Artists Appearing at In-Game Club",
+   "first_seen": "2026-11-05T17:40:50Z",
+   "updated": "2026-11-06T17:40:48Z",
+   "items": [
+    {
+     "id": "9de815c30d65",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Kodak Black Will Appear as an NPC in GTA 6, Fueling Speculation Over Other Artists Appearing at In-Game Club",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZE9SbHRNNzVkc1dMSVdoaThxNFZpU1ZzWGh1d0pmX0NCSEJZeFcxeEs2N3YwLVFJbUtDTTd0RUNfX3VkUkNyaEV0b2tyajlOY1Y3TzRFa1kxaTNjVVpNTWtHejlZcXZOVHNjR0R1dkR6YUVGbWNpWWYxYl9mQWQ0X3JjWDdBbXZ1dEI0RU9HbTJIZWhMSzU4SEw0U0hrSHZRaVAxUHIzVkEwdWdobE83d2FLSnJuaWtKbUctZTdEQUhVZ2w4cXowLQ?oc=5",
+     "ts": "2026-11-05T17:32:35Z",
+     "summary": ""
+    },
+    {
+     "id": "6876ca274719",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rapper Kodak Black Will Be in NPC in GTA 6, Creating Speculation Over Other Artists Appearing In-Game",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTTJEMWZNSUdkZjJYaWVUNDJRR0o4RXltZEQxbENkeFllc2VzbE1TRGVMRzBvTG0tN0dKUEFDX2k2TC1neUR4bU5kUWtzMlFfZ1BOdGlQa1pNVTdKS29ZSlRnZzB4OVFJd1NudWhVeGdTNmZhbHpjdmhUeUhoWm1mcmxOdFlxLU8waTZQQnExeU9NU0I2aGd5QjQ1SU1SRTNTNk5EOURraUdQNlBCM0VMdi1ISy1kUVBPOGl2Z0hMMFB1UUY2ZTlsWHpObjhnNzE1UzJidkgtOEdKY1NyeUZTQ05NREE?oc=5",
+     "ts": "2026-11-05T17:47:12Z",
+     "summary": ""
+    },
+    {
+     "id": "391d990376d8",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rapper Kodak Black Will Be in NPC in GTA 6, Creating Speculation Over Other Artists Appearing In-Game",
+     "url": "https://www.ign.com/articles/rapper-kodak-black-will-be-in-npc-in-gta-6-creating-speculation-over-other-artists-appearing-in-game",
+     "ts": "2026-11-05T17:32:34Z",
+     "summary": "Rapper Kodak Black has been confirmed to be featured as an NPC in GTA 6 via a new batch of screenshots."
+    },
+    {
+     "id": "94b4ad8e0078",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rapper Kodak Black Will Be an NPC in GTA 6, Creating Speculation Over Other Artists Appearing In-Game",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQlhaeGdnbW0zLWFSczFOUjZoQ09PUkpfdG94SXU1ckJXcDg5MjNUOEdvb0JXb1dSTFctRWRCaFJrQll0VDV6UkVHT09OU2JuekVFUzZKcDlKUzBfbWwxRG90T1dWSGpRbllGU1I4Z1FObEhXSE9fMjIycnNnVUxaT3RtNjFKSkoyU0RfMW1yS1lLZ0RvblA2TThrMUtYc0NmaHBSUUFhT1VVNEVKMExtQVN5T1V5Z1Z5bi1fbFNYRUNVejhzdmpRVmlnSDNkVG0zOEptTFhjclRGSlppQzZGMHJTRQ?oc=5",
+     "ts": "2026-11-05T19:16:46Z",
+     "summary": ""
+    },
+    {
+     "id": "55878ff0ccaa",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rapper Kodak Black Will Be an NPC in GTA 6, Creating Speculation Over Other Artists Appearing In-Game",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb05Dc3owbUZtZ1J5RGMwY211WFhMOG9jMGJIakMzZU9vZWZ2ckVmZFRqbmktY3M0ZDE4SlNtdjlHeS1UWDh0WEdXZXBUcVM1LV9NV0dfY1VKdWVHbmNFaEs4X3lCMC1FOEdBeEF6cjE1T0M0eEpheC0zYXQ4bHFsUFpQOXQ0U1JqcUZzR3lVei1VY0o5M0tLcFQ4Z2hMTzlBb2dwWEdQcE1KM3VISjdHZk1FTElpN21tLVMzdzdNZjA0ckpLd3hRLU0yelZob3J0bHROcE05WVdfYkFWSlBZ?oc=5",
+     "ts": "2026-11-06T07:36:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Kodak Black станет NPC в GTA 6: кто ещё появится в Вайс-Сити?",
+    "summary": "По данным IGN, рэпер Kodak Black появится в GTA 6 в роли NPC, что подогрело слухи о других артистах в клубах игры. Официально Rockstar это пока не подтверждала.",
+    "idea": "Короткий разбор: кого из музыкантов могут добавить в клубы Вайс-Сити и как это изменит атмосферу. Зрителю интересно угадать камео и поспорить в комментариях.",
+    "hook": "Kodak Black засветился как NPC в GTA 6 — кого ждать в клубах?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-05T17:40:53Z"
+   },
+   "msg_id": 561
+  },
+  {
+   "id": "02de8317c11b",
+   "title": "GTA VI Isn't on PC Yet, So One Tinkerer Is Pushing the PS5 Feed Through Nvidia's DLSS 5",
+   "first_seen": "2026-11-05T18:20:49Z",
+   "updated": "2026-11-06T17:40:48Z",
+   "items": [
+    {
+     "id": "02de8317c11b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Надежды на запуск GTA 6 на ПК в день релиза тают из-за проблем с прошивками PS5",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb01vaVdaTGNZdGttUVRVN3E0cE1Bc0xBM25HX3RTdGlXSFhQX3VTTTBqR3RuLXNlSEVxbk1hTzN4Z19ib3d0YUM3M3dxcXVvNGEtb1p1T19HUjhsNlRGOHROai1OQl9TNGdGeWYwb3FvUzh6a0ZMenlwckFSZGFBbGhZbmdNTXUyOW1SSlZvTHlqaHM?oc=5",
+     "ts": "2026-11-05T17:44:13Z",
+     "summary": ""
+    },
+    {
+     "id": "356fc5fdaebf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "finance.biggo.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Isn't on PC Yet, So One Tinkerer Is Pushing the PS5 Feed Through Nvidia's DLSS 5",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwVXNxX3MwXzVQRS1tVEVIZEFtakRuWm5JRW1aR3RWTzBMLWk4WndPZ1hmR3dNT1pCZGJ4WGpDMUFUeXNZSDBCblBCSFBIZGtLQzFST3dZWUFFYzAxSzhpSmRKdTNDZUp3QlFiWXh6Tjg3cE9tZ2c?oc=5",
+     "ts": "2026-11-05T18:35:00Z",
+     "summary": ""
+    },
+    {
+     "id": "606e99b774a8",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Блогер показал «геймплей» GTA VI на ПК с 90 FPS и DLSS 5 — видео блокируют за нарушение авторских прав",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOFNIY2lfQzltY0hWS2J1bnVsajZkc19pVV9hWTNXNTNyeC1fYlg2NWVjMjhTaWx0NVY1bnVpYVc4ejFGNzVTaVE5Ymg3RHl2TVVBcWNtSXJwMVdmaWpLcXlkaWw5VW1IWjdrX25adnc0NEFXTHpMbm9jMnZSMW84b2YxbEx4Q0g3VmtqZDhINFRvTVJxbUFmNWhUWTFmSDd1cGFRZjY0ckhLLURMamhzS0hXUnVLUG0tbmlaNzFCZzBoZDhYV2tPeVlISWR5N1dtaWFjbHV30gHbAUFVX3lxTE9GS0U2czJpVUhaSDlRLUxsUmptR1Z0RkxyZHF3dC1EX3N0ZXB2M1RFRHQ5SWNhSjdSbWVjSzZwQ0lqemozT2l5TDFIQ0NRSzUyZThyaHN1Njh3YjA1cF9TT05fOHVjekZpd0ZOTE1lTmhLak5tVUdkVThfdUdjUk1JazU5eXljRURuV0s0amZzczMwd1RuYmg4Um9qeXFSWDBWZ1FXRDdZUmhBWDlCc1Vmb2ZsUjFsSDV1NWVCczVtTDVVMDVoOVFidXlPMGpVaXlJR2RBOGp5emM1SQ?oc=5",
+     "ts": "2026-11-06T13:27:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК",
+    "геймплей"
+   ],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "eed4302e96a2",
+   "title": "Без технологий Rockstar файлы GTA VI на SSD консолей могли бы занять почти полтерабайта — датамайнер",
+   "first_seen": "2026-11-06T17:40:48Z",
+   "updated": "2026-11-06T17:40:48Z",
+   "items": [
+    {
+     "id": "eed4302e96a2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Без технологий Rockstar файлы GTA VI на SSD консолей могли бы занять почти полтерабайта — датамайнер",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObnJUUUNjS1hOaEU1SkFiNVAtY2NEQmFwaWtWTU9walJtSEZhYlptaXd5d3QtVm1DZWx6bW5OYXZuVEJBWnZZeU42QnY3a0M4M2tHTGF5Wm83U2dFa3dLQnRaTXlnaE5pOWZDcjBCeFFqNnZyN0p6R04tbzVjOUhNeEp6YzZXX2hVMUpGNC1KbWtaUy1zbXE4WHdmaGNqYko0Y2poNTMzbGpwUmtOQmE4MDJ6cVpabTNzOTdGbDgzeFNYQmhVQnZyM0NTRGNzcE9JUXFtVNIB2gFBVV95cUxPOVE2TDFEOVExeFJBeW94Z18tSE9zSXN3ajF3RThiS1lMVEUwVlllSWVLcXNhQzk2Sl9BREp5Z19ZQXBtR1JRTXh1blBvQXVzeGUzNEFqcS1Kc2w3cGhtQjRDbExKQU5NNnhVSGdLbzk0cEt1OWQ5YnVhbmJ0ekVxQXdpbzg4OHJJQjJvWV9aYklidjBDYkJJYzZjcWlHVGJCWDFRY3dYTFRMMERDSmQ2d002by1SNkJUWE50TEZJeVNDSkZPSnFuWUwzZXlLWWFxbXNpbEZMNm5QQQ?oc=5",
+     "ts": "2026-11-06T17:23:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d379b2581623",
+   "title": "Without Rockstar’s technologies, GTA VI files on console SSDs could have taken up almost half a terabyte — dataminer",
+   "first_seen": "2026-11-06T17:40:48Z",
+   "updated": "2026-11-06T17:40:48Z",
+   "items": [
+    {
+     "id": "d379b2581623",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Without Rockstar’s technologies, GTA VI files on console SSDs could have taken up almost half a terabyte — dataminer",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTE9tRHFjckhxVURCTjh3MWdpN3hBUUxjNm5oODFpMVpXd2pXSTIwSllWM0I5VjVQZnZzeFlKVlBmaG94Y1FrLW5CejlQSmRPV0EtUmVfT3F4TVc4d1hxdmZqRmpKMTRjck5SZ3lXa3pfV255cENiWlNMRkNwaDFvVE9QbHh0UzJhNmJBanNVV2d3cE01djQ3V0ktbHBVUmdhU3FoR3BYUGlIQ3dRXzlVcjduNGhzaTJ1VFR2TnVzSzFGV09xbjRBY1YzSFp5RXJMbVR3RFBNVW7SAd4BQVVfeXFMTzhPSjRSQk5VWVZ4SlBNX0RiWmU3SkYwaWlKSlBJZnNsZHAwREtFV3NHQWNSMmJSdV9JTDNTVHU5elJxVldIejVPNWFpZktzSWJScE5UNnVkYXJFNTkyUl9EbkloaTF2X0oyMzg2VkNPOWtoTWRteVQ4QTkyVE9sOTNaajBkd0ZFMG9QdHZvU1UtQkFqNC1YZ29tOHhUX0IxcW5mcEx1bkFWc014YVVKbDZqQ21uUy1zNEdfS2swV1c2SmticmROTXBqbjlsTmJ4V21wUVNyakgwanhSQmd3?oc=5",
+     "ts": "2026-11-06T17:23:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d8b12de65424",
+   "title": "Less than two weeks until I crack these guys open",
+   "first_seen": "2026-11-06T17:40:48Z",
+   "updated": "2026-11-06T17:40:48Z",
+   "items": [
+    {
+     "id": "d8b12de65424",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Less than two weeks until I crack these guys open",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xpikdk/less_than_two_weeks_until_i_crack_these_guys_open/",
+     "ts": "2026-11-06T17:23:20Z",
+     "summary": "submitted by /u/Old_Success_4890 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fcc24e4cf1f9",
+   "title": "SGA: GTA 6 Has 3 Different Versions, before you rush to play the New Zeland version earlier keep this in mind it \"might\" be censored to some extent. (Worldwide, Japan & Australia/New Zealand)",
+   "first_seen": "2026-11-06T17:40:48Z",
+   "updated": "2026-11-06T17:40:48Z",
+   "items": [
+    {
+     "id": "fcc24e4cf1f9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "SGA: GTA 6 Has 3 Different Versions, before you rush to play the New Zeland version earlier keep this in mind it \"might\" be censored to some extent. (Worldwide, Japan & Australia/New Zealand)",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xpimgp/sga_gta_6_has_3_different_versions_before_you/",
+     "ts": "2026-11-06T17:25:33Z",
+     "summary": "submitted by /u/kristijan1001 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "66aff3d00eb7",
+   "title": "Just received this beautiful merch. I’m ready for Nov 19",
+   "first_seen": "2026-11-06T17:40:48Z",
+   "updated": "2026-11-06T17:40:48Z",
+   "items": [
+    {
+     "id": "66aff3d00eb7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Just received this beautiful merch. I’m ready for Nov 19",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xpip9f/just_received_this_beautiful_merch_im_ready_for/",
+     "ts": "2026-11-06T17:28:30Z",
+     "summary": "It’s laser engraved on slate stone tiles submitted by /u/jedsender to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "36733355870c",
    "title": "BETBOOM разыграет ретроавтомобиль в честь выхода GTA VI",
    "first_seen": "2026-11-06T17:31:01Z",
@@ -1911,45 +2308,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a98ca5d1cc73",
-   "title": "Выход GTA 6 на ПК может быть перенесён на более ранний срок, чтобы опередить подделки с ИИ, — заявляет бывший директор Rockstar",
-   "first_seen": "2026-11-06T16:10:49Z",
-   "updated": "2026-11-06T16:10:49Z",
-   "items": [
-    {
-     "id": "a98ca5d1cc73",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW.News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Выход GTA 6 на ПК может быть перенесён на более ранний срок, чтобы опередить подделки с ИИ, — заявляет бывший директор Rockstar",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenVnQ3J5dl9sTHRJVi11TU5GZmFwVnNiRDZqRTVrMFowd014U3FBVDdxZndtaE1CV2Y0TkhhZldXM0ZrZDVqdVo2bm55RGpNUDZLOGx5TWR6MlVjZF9FT3o2VGxCdzkzTXJMc05ZbG85VWhkRnJCQ0xvdW9wemZ1MUo2eWRkRlprdTFsclBpVlpOZml6cE5mYWdtajRidW1S?oc=5",
-     "ts": "2026-11-06T14:53:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Бывший директор Rockstar: ПК-версию GTA 6 могут ускорить",
-    "summary": "Бывший директор Rockstar заявил, что выход GTA 6 на ПК могут перенести на более ранний срок. По его словам, это нужно, чтобы опередить подделки с ИИ. Официально Rockstar это пока не подтверждала.",
-    "idea": "Коротко объясняем, зачем Rockstar может ускорить ПК-версию: чтобы не потерять игроков из-за ИИ-подделок. Добавляем таймлайн ожидания и вопрос зрителям — ждать или брать консоль.",
-    "hook": "Бывший директор Rockstar намекнул: ПК-версию GTA 6 могут выпустить раньше.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-06T16:10:54Z"
-   },
-   "msg_id": 590
   },
   {
    "id": "41730865ae1a",
@@ -5969,36 +6327,6 @@
    "score": 40,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7baf4dff55b1",
-   "title": "GTA 6 Could Disappoint Fans Expecting Online And PC Gameplay, Says Ludwig",
-   "first_seen": "2026-11-06T10:01:07Z",
-   "updated": "2026-11-06T10:01:07Z",
-   "items": [
-    {
-     "id": "7baf4dff55b1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NDTV Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Could Disappoint Fans Expecting Online And PC Gameplay, Says Ludwig",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQclJoT2NQQjlreTFlM1Q1MmFpUi1YdG9VMUdnM3BjaFhmVS1FaVMtM1FlanZaR2VBSmoyem01QXBnV1E1TWdpaTE5aG00eUstTE9oR2ZqWUkydEktSmxsWFEwNVZ2dEVYeGdoT29YeWRVM2MwWkttUy01VkZVblVKU3I1d2lRbE5LU2Z3alZ2NFlwVHprM0d0Qjg3Y1pCSE5oZGRFSTR0VmdLNlBjWVRpa1BkZl8zd2hoQkh3UDJ3?oc=5",
-     "ts": "2026-11-06T08:22:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Online",
-    "ПК",
-    "геймплей"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -11323,84 +11651,6 @@
    "status": "new"
   },
   {
-   "id": "9de815c30d65",
-   "title": "Kodak Black Will Appear as an NPC in GTA 6, Fueling Speculation Over Other Artists Appearing at In-Game Club",
-   "first_seen": "2026-11-05T17:40:50Z",
-   "updated": "2026-11-05T19:20:47Z",
-   "items": [
-    {
-     "id": "9de815c30d65",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Kodak Black Will Appear as an NPC in GTA 6, Fueling Speculation Over Other Artists Appearing at In-Game Club",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZE9SbHRNNzVkc1dMSVdoaThxNFZpU1ZzWGh1d0pmX0NCSEJZeFcxeEs2N3YwLVFJbUtDTTd0RUNfX3VkUkNyaEV0b2tyajlOY1Y3TzRFa1kxaTNjVVpNTWtHejlZcXZOVHNjR0R1dkR6YUVGbWNpWWYxYl9mQWQ0X3JjWDdBbXZ1dEI0RU9HbTJIZWhMSzU4SEw0U0hrSHZRaVAxUHIzVkEwdWdobE83d2FLSnJuaWtKbUctZTdEQUhVZ2w4cXowLQ?oc=5",
-     "ts": "2026-11-05T17:32:35Z",
-     "summary": ""
-    },
-    {
-     "id": "6876ca274719",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rapper Kodak Black Will Be in NPC in GTA 6, Creating Speculation Over Other Artists Appearing In-Game",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTTJEMWZNSUdkZjJYaWVUNDJRR0o4RXltZEQxbENkeFllc2VzbE1TRGVMRzBvTG0tN0dKUEFDX2k2TC1neUR4bU5kUWtzMlFfZ1BOdGlQa1pNVTdKS29ZSlRnZzB4OVFJd1NudWhVeGdTNmZhbHpjdmhUeUhoWm1mcmxOdFlxLU8waTZQQnExeU9NU0I2aGd5QjQ1SU1SRTNTNk5EOURraUdQNlBCM0VMdi1ISy1kUVBPOGl2Z0hMMFB1UUY2ZTlsWHpObjhnNzE1UzJidkgtOEdKY1NyeUZTQ05NREE?oc=5",
-     "ts": "2026-11-05T17:47:12Z",
-     "summary": ""
-    },
-    {
-     "id": "391d990376d8",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Rapper Kodak Black Will Be in NPC in GTA 6, Creating Speculation Over Other Artists Appearing In-Game",
-     "url": "https://www.ign.com/articles/rapper-kodak-black-will-be-in-npc-in-gta-6-creating-speculation-over-other-artists-appearing-in-game",
-     "ts": "2026-11-05T17:32:34Z",
-     "summary": "Rapper Kodak Black has been confirmed to be featured as an NPC in GTA 6 via a new batch of screenshots."
-    },
-    {
-     "id": "94b4ad8e0078",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Rapper Kodak Black Will Be an NPC in GTA 6, Creating Speculation Over Other Artists Appearing In-Game",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQlhaeGdnbW0zLWFSczFOUjZoQ09PUkpfdG94SXU1ckJXcDg5MjNUOEdvb0JXb1dSTFctRWRCaFJrQll0VDV6UkVHT09OU2JuekVFUzZKcDlKUzBfbWwxRG90T1dWSGpRbllGU1I4Z1FObEhXSE9fMjIycnNnVUxaT3RtNjFKSkoyU0RfMW1yS1lLZ0RvblA2TThrMUtYc0NmaHBSUUFhT1VVNEVKMExtQVN5T1V5Z1Z5bi1fbFNYRUNVejhzdmpRVmlnSDNkVG0zOEptTFhjclRGSlppQzZGMHJTRQ?oc=5",
-     "ts": "2026-11-05T19:16:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Kodak Black станет NPC в GTA 6: кто ещё появится в Вайс-Сити?",
-    "summary": "По данным IGN, рэпер Kodak Black появится в GTA 6 в роли NPC, что подогрело слухи о других артистах в клубах игры. Официально Rockstar это пока не подтверждала.",
-    "idea": "Короткий разбор: кого из музыкантов могут добавить в клубы Вайс-Сити и как это изменит атмосферу. Зрителю интересно угадать камео и поспорить в комментариях.",
-    "hook": "Kodak Black засветился как NPC в GTA 6 — кого ждать в клубах?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-05T17:40:53Z"
-   },
-   "msg_id": 561
-  },
-  {
    "id": "5b81aa30c43d",
    "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
    "first_seen": "2026-11-05T17:50:51Z",
@@ -11745,47 +11995,6 @@
    "score": 20,
    "level": "SPECULATION",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "02de8317c11b",
-   "title": "GTA VI Isn't on PC Yet, So One Tinkerer Is Pushing the PS5 Feed Through Nvidia's DLSS 5",
-   "first_seen": "2026-11-05T18:20:49Z",
-   "updated": "2026-11-05T18:40:46Z",
-   "items": [
-    {
-     "id": "02de8317c11b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "CyberMeta",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Надежды на запуск GTA 6 на ПК в день релиза тают из-за проблем с прошивками PS5",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb01vaVdaTGNZdGttUVRVN3E0cE1Bc0xBM25HX3RTdGlXSFhQX3VTTTBqR3RuLXNlSEVxbk1hTzN4Z19ib3d0YUM3M3dxcXVvNGEtb1p1T19HUjhsNlRGOHROai1OQl9TNGdGeWYwb3FvUzh6a0ZMenlwckFSZGFBbGhZbmdNTXUyOW1SSlZvTHlqaHM?oc=5",
-     "ts": "2026-11-05T17:44:13Z",
-     "summary": ""
-    },
-    {
-     "id": "356fc5fdaebf",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "finance.biggo.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI Isn't on PC Yet, So One Tinkerer Is Pushing the PS5 Feed Through Nvidia's DLSS 5",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwVXNxX3MwXzVQRS1tVEVIZEFtakRuWm5JRW1aR3RWTzBMLWk4WndPZ1hmR3dNT1pCZGJ4WGpDMUFUeXNZSDBCblBCSFBIZGtLQzFST3dZWUFFYzAxSzhpSmRKdTNDZUp3QlFiWXh6Tjg3cE9tZ2c?oc=5",
-     "ts": "2026-11-05T18:35:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -76815,78 +77024,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "11e66202f12c",
-   "title": "ustice and Gesaffelstein Release New Collaboration 'Pusher' for GTA VI",
-   "first_seen": "2026-10-30T17:31:09Z",
-   "updated": "2026-10-30T17:31:09Z",
-   "items": [
-    {
-     "id": "11e66202f12c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Hit Channel",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "ustice and Gesaffelstein Release New Collaboration 'Pusher' for GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SMl9TcmNSUl96amNEaXJXTTRSWmlSSkpkbldubW51NExWZWhHdUlfN3JYTkstQU1Sclp6ZVk5Mk44MjRKV3NUUG9VckUxN0g3NWg3aFNQRUV1QXFCSzRub3ZMUmYtUWJwWlRkanhsa2NKbmNZ?oc=5",
-     "ts": "2026-10-30T17:19:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1e089f426a48",
-   "title": "Пиво из GTA VI уже продают В МАЙАМИ — его нашли на полках магазинов Также, по слухам, в ближайшее время его развезут по всему США , а потом и по другим странам ",
-   "first_seen": "2026-10-30T17:31:09Z",
-   "updated": "2026-10-30T17:31:09Z",
-   "items": [
-    {
-     "id": "1e089f426a48",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "Пиво из GTA VI уже продают В МАЙАМИ — его нашли на полках магазинов Также, по слухам, в ближайшее время его развезут по всему США , а потом и по другим странам ",
-     "url": "https://t.me/gta6deluxe/1880",
-     "ts": "2026-10-30T17:29:07Z",
-     "summary": "🔥 Пиво из GTA VI уже продают В МАЙАМИ — его нашли на полках магазинов Также, по слухам, в ближайшее время его развезут по всему США , а потом и по другим странам 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Пиво из GTA 6 уже продают в Майами — нашли на полках",
-    "summary": "По сообщению TG @gta6deluxe, пиво из GTA VI уже появилось на полках магазинов в Майами. По слухам, напиток скоро развезут по всему США, а затем и в другие страны.",
-    "idea": "Короткий уличный репортаж из Майами: показываем банку, читаем надпись и спрашиваем барменов, откуда партия. Зрителю интересно — реальный мерч по GTA 6, который можно найти прямо сейчас.",
-    "hook": "Пиво из GTA 6 уже продают в Майами — вот что я нашёл на полке.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-30T17:31:15Z"
-   },
-   "msg_id": 364
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-06T17:31:01Z",
+  "last_run": "2026-11-06T17:40:49Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 96/100",
-   "gnews_ru: 74/79",
+   "gnews_en: 94/100",
+   "gnews_ru: 78/83",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 5/10",
