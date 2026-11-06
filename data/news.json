@@ -1,6 +1,102 @@
 {
  "stories": [
   {
+   "id": "b4b37fc242a5",
+   "title": "Quick dumb theory about Dolls of Destruction before the game drops",
+   "first_seen": "2026-11-06T18:20:43Z",
+   "updated": "2026-11-06T18:20:43Z",
+   "items": [
+    {
+     "id": "b4b37fc242a5",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Quick dumb theory about Dolls of Destruction before the game drops",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xpju86/quick_dumb_theory_about_dolls_of_destruction/",
+     "ts": "2026-11-06T18:12:28Z",
+     "summary": "Dolls of Destruction is an adult entertainment group. Perhaps a parody of Suicide Girls Pic 1: The guy in trailer 1 is at a strip club and is wearing their tour shirt, and the name of the tour appears to be SKELETAL something Pic 2: A stripper from the new batch of screenshots. Possibly a member of the group. She has a giant skull tattoo on her back and also one on her hand Perhaps they did a burlesque tour and the theme had something to do with skulls? Anyway that’s my shitty theory submitted by /u/-MindHorror- to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "53d6966bc9ed",
+   "title": "Where to Buy a Cheap GTA 6 Xbox Key",
+   "first_seen": "2026-11-06T18:20:43Z",
+   "updated": "2026-11-06T18:20:43Z",
+   "items": [
+    {
+     "id": "53d6966bc9ed",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "Where to Buy a Cheap GTA 6 Xbox Key",
+     "url": "https://rockstarintel.com/where-to-buy-a-cheap-gta-6-xbox-key/",
+     "ts": "2026-11-06T18:14:24Z",
+     "summary": "GTA 6 launches on Xbox Series X|S on November 19, 2026, and it’s shaping up to be one of the biggest game launches in years. Nearly 30% of U.S. console and PC players surveyed by Circana said they planned to buy it. A leading games market research firm estimates that GTA 6 could generate US$3.3 [...] The post Where to Buy a Cheap GTA 6 Xbox Key appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [
+    "ПК",
+    "цена/издания"
+   ],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 на Xbox 19 ноября: 30% игроков готовы брать, прогноз $3,3 млрд",
+    "summary": "GTA 6 выходит на Xbox Series X|S 19 ноября 2026, сообщает Rockstar INTEL. По данным Circana, почти 30% консольных и ПК-игроков в США планируют покупку, а прогноз выручки — около 3,3 млрд долларов.",
+    "idea": "Короткий разбор цифр перед релизом: сколько игроков готовы купить и сколько это принесёт. Зрителю важно понять масштаб запуска и свои шансы урвать копию.",
+    "hook": "GTA 6 19 ноября: почти каждый третий игрок в США уже готов платить.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-06T18:20:47Z"
+   },
+   "msg_id": 600
+  },
+  {
+   "id": "2b7e36dcc8e8",
+   "title": "🐊 Xbox Series Crocodil — Microsoft показала Xbox в виде полутораметрового аллигатора с отсылкой к Флориде и GTA VI Внутри рептилии спрятана рабочая консоль, а в",
+   "first_seen": "2026-11-06T18:20:43Z",
+   "updated": "2026-11-06T18:20:43Z",
+   "items": [
+    {
+     "id": "2b7e36dcc8e8",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🐊 Xbox Series Crocodil — Microsoft показала Xbox в виде полутораметрового аллигатора с отсылкой к Флориде и GTA VI Внутри рептилии спрятана рабочая консоль, а в",
+     "url": "https://t.me/GTA6_m/9310",
+     "ts": "2026-11-06T18:15:13Z",
+     "summary": "🐊 Xbox Series Crocodil — Microsoft показала Xbox в виде полутораметрового аллигатора с отсылкой к Флориде и GTA VI Внутри рептилии спрятана рабочая консоль, а в пасти лежит геймпад со следами зубов Цена вопроса примерно 65 тысяч рублей. Берём? 🔥 — дайте два 😁 — на#уя мне крокодил дома?"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "458a3570266e",
    "title": "GTA 6 screenshots show Jason, Lucia in Vice City",
    "first_seen": "2026-11-06T16:50:47Z",
@@ -77197,18 +77293,18 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-06T18:10:57Z",
+  "last_run": "2026-11-06T18:20:47Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 94/100",
-   "gnews_ru: 74/79",
+   "gnews_en: 93/100",
+   "gnews_ru: 72/77",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 5/10",
    "ign: 0/20",
    "eurogamer: 2/100",
    "dexerto_gta: 2/50",
-   "rockstarintel: 3/10",
+   "rockstarintel: 4/10",
    "gtaboom: 11/30",
    "reddit: 24/25",
    "tg_gtavistar: 5/5",
