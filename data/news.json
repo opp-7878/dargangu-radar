@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "07f7376e8d5d",
+   "title": "One last time guys",
+   "first_seen": "2026-11-06T08:20:49Z",
+   "updated": "2026-11-06T08:20:49Z",
+   "items": [
+    {
+     "id": "07f7376e8d5d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "One last time guys",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xp7kgp/one_last_time_guys/",
+     "ts": "2026-11-06T08:18:21Z",
+     "summary": "submitted by /u/DJToaster to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "170d02203441",
    "title": "Launch day update ?",
    "first_seen": "2026-11-06T08:10:44Z",
@@ -74783,41 +74809,15 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "2dc85352b84c",
-   "title": "Инсайдеры назвали ложным недавний слух о защите ревью-копий GTA 6",
-   "first_seen": "2026-10-30T08:11:07Z",
-   "updated": "2026-10-30T08:11:07Z",
-   "items": [
-    {
-     "id": "2dc85352b84c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Igromania.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Инсайдеры назвали ложным недавний слух о защите ревью-копий GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd0d0OTA0TkNnRnUyd0VMTEhsMy1lZWRVMUUyQ3hLZUlzUmk4aW9sSEY2ZGpOWjNXcEk5WkhmME9zSER5YVc5WDdGN0Z3YnVVekcyTlFHdEhYcURPMU9BeXFPNV9EUktJTW4xNWljeVB5cHk3cVJNUlBIbGFmUENsUkNYVUFjU0FtZmdKUHp6RG4wUE00YjNISDA2eEtmbDM2SXZ2R1hrSjVHQmZuOE5FWU13Vnl3Z08yRFJuQUc5Nmx1QU9PclN3V3MzUE8xUm02MXJ0S1NBU1c?oc=5",
-     "ts": "2026-10-30T07:57:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-06T08:10:44Z",
+  "last_run": "2026-11-06T08:20:49Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 98/100",
-   "gnews_ru: 70/85",
+   "gnews_en: 97/100",
+   "gnews_ru: 71/85",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
