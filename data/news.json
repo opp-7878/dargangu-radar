@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "9e52397192d0",
+   "title": "GTA 6 prompts US internet provider to offer free upgrade to improve launch day download speed",
+   "first_seen": "2026-11-06T10:20:51Z",
+   "updated": "2026-11-06T10:20:51Z",
+   "items": [
+    {
+     "id": "9e52397192d0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GAMINGbible",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 prompts US internet provider to offer free upgrade to improve launch day download speed",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNczItejlvSjd0SVBWam1neWFHSlJGaTNFLWZLYWMxa2FVampuaGVJM203dm9hYjExOW5BcVQ5RWRjRi10R1J6MUtwa1pBeWVkNXpsbDNENWRVdEtNeTZVOS1YblR3S1UybHAxNzlIc2kwT1lSb1VMQzBuSEtyMHh3MklvdF93T3IySVM2U1RmNmVVT0prOFBpRzBTRGhNTzAtUzVzWndR?oc=5",
+     "ts": "2026-11-06T10:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "22e93a37371c",
    "title": "12 days remaining",
    "first_seen": "2026-11-06T10:10:49Z",
@@ -74931,41 +74957,15 @@
     "at": "2026-10-30T10:41:10Z"
    },
    "msg_id": 348
-  },
-  {
-   "id": "4ed78de62ad8",
-   "title": "Действие GTA 6 разворачивается и в Джорджии? Фанаты обнаружили здания в 900 км от Майами",
-   "first_seen": "2026-10-30T10:10:57Z",
-   "updated": "2026-10-30T10:10:57Z",
-   "items": [
-    {
-     "id": "4ed78de62ad8",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Notebookcheck-ru.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Действие GTA 6 разворачивается и в Джорджии? Фанаты обнаружили здания в 900 км от Майами",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcEpEeHdLVWpITUtRM1p2YWtlS0FQaWZGeUF3Y1BCeUpsNXJQbEkyMnNlb1JSczFrRWhZWk4yb2h5OFJhZ21LUjhxS3hqbXRUQXA0YTBKVER0QjJNRjY4TEVTbFpXeWZremNMYnVWeHhVT2RNQUdYem4xR25xS2Z4UXpQVUhIM1VmZUc2bjQtMjRKTWlNbDFiUlIwOFM2ZHhoMjRZMFVIbEhGNjh3YUluSzFzV0dHcGJ4MVAtekF6VS1PcnY2M0RlX1FicEoycGhNUnEwLTdtbzE?oc=5",
-     "ts": "2026-10-30T08:58:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-06T10:10:49Z",
+  "last_run": "2026-11-06T10:20:51Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 73/81",
+   "gnews_ru: 72/80",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
