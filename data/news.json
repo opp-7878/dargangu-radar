@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "247db27e5b4d",
+   "title": "«Ждал этого 11 лет»: пилот нарисовал логотип GTA VI маршрутом самолёта",
+   "first_seen": "2026-11-06T23:20:47Z",
+   "updated": "2026-11-06T23:20:47Z",
+   "items": [
+    {
+     "id": "247db27e5b4d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Life.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Ждал этого 11 лет»: пилот нарисовал логотип GTA VI маршрутом самолёта",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWU9INEstY3R5c0xTekJ1US1CN1NBckRFN2thQklUTHBQMVdoN1liRE8tRmxIc1FBSWFYMjFfRVp6VEk3LWkyMVdKSVBZYm9Ua3pyVGNHNElRLXhGOGZLbnNmdW9ZWVZsV3MwbUtxbTFxaUVINXhKd0dYaFRWenVzZ0lQVlFZcXkzakZhVE9lcWo?oc=5",
+     "ts": "2026-11-06T23:06:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "814f7e0ead8e",
+   "title": "I conducted an online interview with the former Technical Director of Rockstar Games!",
+   "first_seen": "2026-11-06T23:20:47Z",
+   "updated": "2026-11-06T23:20:47Z",
+   "items": [
+    {
+     "id": "814f7e0ead8e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I conducted an online interview with the former Technical Director of Rockstar Games!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xpr85s/i_conducted_an_online_interview_with_the_former/",
+     "ts": "2026-11-06T23:17:18Z",
+     "summary": "My interview with Obbe Vermeij, former Rockstar Games Technical Director who played a key role in the development of iconic games like GTA III, Vice City, San Andreas, and GTA IV 👇🏻 1-) 🗣️ What do you think about GTA 6? \"I'm really looking forward to it. I think it's exciting that the whole world will be playing the same game at the same time. That doesn't happen very often anymore. I think the game looks amazing. The variety of NPCs is mind-blowing. The graphics also look beautiful for a PS5 game.\" 2-) 🗣️ If you were the Technical Director responsible for GTA 6, what would you do, and what ar"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6e3d6fe5e91e",
    "title": "Will GTA 6 Actually Run At 60 FPS On Consoles? What We Know So Far",
    "first_seen": "2026-11-06T23:10:51Z",
@@ -78314,11 +78368,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-06T23:10:51Z",
+  "last_run": "2026-11-06T23:20:47Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 96/100",
-   "gnews_ru: 75/78",
+   "gnews_ru: 76/79",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
