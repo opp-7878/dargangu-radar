@@ -1,6 +1,73 @@
 {
  "stories": [
   {
+   "id": "cc2154bd9d73",
+   "title": "Travis Scott, the Miami Heat, Nike, and Rockstar Games are Dropping GTA 6 Miami Heat Uniforms",
+   "first_seen": "2026-11-06T16:31:13Z",
+   "updated": "2026-11-06T18:40:45Z",
+   "items": [
+    {
+     "id": "cc2154bd9d73",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Sole Retriever",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Travis Scott, the Miami Heat, Nike, and Rockstar Games are Dropping GTA 6 Miami Heat Uniforms",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkpLbk5ObGZBdGVhQ3BQTU9xdmUzQkRKdW10QXBaSmFwR1ZLQWQwakZGcjdYd0NZcFpoTUNCTlpTUGtEeGVyR3VVektGcDJ1cGREdVAzYkxtcVAtZ2hCaEM2MmpyTnRJWWNidGFXUUg0YnlScm1lRnFEVjl4Z1pZY1k4NEpNOTJkLTNadm9FM1FMMy1Dcm81cGlzMXRyVms4MHhmNll1Umt0aXFYU05PMWVB?oc=5",
+     "ts": "2026-11-06T16:15:39Z",
+     "summary": ""
+    },
+    {
+     "id": "72e45f81b8fd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Miami Heat Reveal GTA 6 Vice City Jerseys With Travis Scott and Nike",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjJWWGNhN0NVS1RxLW53WGZMcFE0c2I1b0o0UExfblBxSXpIOGZmdnNXRDN2S19ueko1WkRtTExiWUFzc0hfMFQ2Y3gtdUd3ZXB5clprLXZ1YlEyLUdLVEhyNmswd0hwbVM0Qk4yZFB3SzBwU0xvckwtZ1FNd2FRUmt2dFZGbzk1LWRiNEJiNFAxdmZDSi1Ea3Q1SXY?oc=5",
+     "ts": "2026-11-06T17:52:05Z",
+     "summary": ""
+    },
+    {
+     "id": "8e894f38d04d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Complex",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Travis Scott's Cactus Jack Debuts Vice City Uniforms With Nike Ahead of 'Grand Theft Auto VI'",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWZYWVFBMlcxYmlDZkFSVElFR1pXMWlPSGZBOEE2QnlPNnFxVW94SUp3dXZDb21wZExwZVprRXBwWGdGS0pRLXZzY1dfelVNc0x4dGdRSlRNNjR3SXl3cG84MWdUUVk0UDlSQ2tMRVFsMWllellkX0M4Mk9oVW05bkpJWjlHZjRSUFVVQ2FuVXUzQQ?oc=5",
+     "ts": "2026-11-06T18:16:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru",
+   "ai": {
+    "title_ru": "Трэвис Скотт и Miami Heat: GTA 6-джерси уже в продаже",
+    "summary": "По данным Sole Retriever и GTA BOOM, Travis Scott, Miami Heat и Nike выпустили форму с символикой GTA 6 и Вайс-Сити. Коллекция уже представлена официально, без подробностей о старте продаж.",
+    "idea": "Короткий показ джерси с логотипами GTA 6 и Miami Heat, быстрый текст о коллабе Travis Scott, Nike и Rockstar. Зрителю интересно увидеть, как выглядит реальная мерч-одежда по игре.",
+    "hook": "Трэвис Скотт и Miami Heat выпустили джерси с символикой GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-06T18:01:20Z"
+   },
+   "msg_id": 596
+  },
+  {
    "id": "42a25fde25dc",
    "title": "Rockstar hired artists to paint a massive GTA 6 mural in Brooklyn featuring Jason and Lucia; here’s what",
    "first_seen": "2026-11-06T18:26:00Z",
@@ -446,60 +513,6 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "cc2154bd9d73",
-   "title": "Travis Scott, the Miami Heat, Nike, and Rockstar Games are Dropping GTA 6 Miami Heat Uniforms",
-   "first_seen": "2026-11-06T16:31:13Z",
-   "updated": "2026-11-06T18:01:13Z",
-   "items": [
-    {
-     "id": "cc2154bd9d73",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Sole Retriever",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Travis Scott, the Miami Heat, Nike, and Rockstar Games are Dropping GTA 6 Miami Heat Uniforms",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkpLbk5ObGZBdGVhQ3BQTU9xdmUzQkRKdW10QXBaSmFwR1ZLQWQwakZGcjdYd0NZcFpoTUNCTlpTUGtEeGVyR3VVektGcDJ1cGREdVAzYkxtcVAtZ2hCaEM2MmpyTnRJWWNidGFXUUg0YnlScm1lRnFEVjl4Z1pZY1k4NEpNOTJkLTNadm9FM1FMMy1Dcm81cGlzMXRyVms4MHhmNll1Umt0aXFYU05PMWVB?oc=5",
-     "ts": "2026-11-06T16:15:39Z",
-     "summary": ""
-    },
-    {
-     "id": "72e45f81b8fd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GTA BOOM",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Miami Heat Reveal GTA 6 Vice City Jerseys With Travis Scott and Nike",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjJWWGNhN0NVS1RxLW53WGZMcFE0c2I1b0o0UExfblBxSXpIOGZmdnNXRDN2S19ueko1WkRtTExiWUFzc0hfMFQ2Y3gtdUd3ZXB5clprLXZ1YlEyLUdLVEhyNmswd0hwbVM0Qk4yZFB3SzBwU0xvckwtZ1FNd2FRUmt2dFZGbzk1LWRiNEJiNFAxdmZDSi1Ea3Q1SXY?oc=5",
-     "ts": "2026-11-06T17:52:05Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru",
-   "ai": {
-    "title_ru": "Трэвис Скотт и Miami Heat: GTA 6-джерси уже в продаже",
-    "summary": "По данным Sole Retriever и GTA BOOM, Travis Scott, Miami Heat и Nike выпустили форму с символикой GTA 6 и Вайс-Сити. Коллекция уже представлена официально, без подробностей о старте продаж.",
-    "idea": "Короткий показ джерси с логотипами GTA 6 и Miami Heat, быстрый текст о коллабе Travis Scott, Nike и Rockstar. Зрителю интересно увидеть, как выглядит реальная мерч-одежда по игре.",
-    "hook": "Трэвис Скотт и Miami Heat выпустили джерси с символикой GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-06T18:01:20Z"
-   },
-   "msg_id": 596
   },
   {
    "id": "beb4b81ab806",
@@ -77196,40 +77209,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ab6b1e641513",
-   "title": "Someone commented on one of my posts saying they plan to download GTA 6 onto a flash drive at work so they don't burn through their home data cap and the crazy thing is, the guy is from some middle of nowhere town in the US. That really got me thinking: why is managing internet access practically",
-   "first_seen": "2026-10-30T18:31:06Z",
-   "updated": "2026-10-30T18:31:06Z",
-   "items": [
-    {
-     "id": "ab6b1e641513",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Someone commented on one of my posts saying they plan to download GTA 6 onto a flash drive at work so they don't burn through their home data cap and the crazy thing is, the guy is from some middle of nowhere town in the US. That really got me thinking: why is managing internet access practically",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xjn7tp/someone_commented_on_one_of_my_posts_saying_they/",
-     "ts": "2026-10-30T18:24:30Z",
-     "summary": "submitted by /u/el_solo_lobo_spectre to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-06T18:31:00Z",
+  "last_run": "2026-11-06T18:40:45Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 94/100",
+   "gnews_en: 95/100",
    "gnews_ru: 72/77",
    "gamesbeat: 0/10",
    "vgc: 0/10",
