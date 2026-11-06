@@ -1,86 +1,10 @@
 {
  "stories": [
   {
-   "id": "6452df3e0219",
-   "title": "German GTA 6 Players Can Legally Take Time Off to Play the Game on Launch, But Spots Are Limited",
-   "first_seen": "2026-11-06T20:20:46Z",
-   "updated": "2026-11-06T21:20:46Z",
-   "items": [
-    {
-     "id": "6452df3e0219",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "German GTA 6 Players Can Legally Take Time Off to Play the Game on Launch, But Spots Are Limited",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbW5JaUdhSDBPWDM4TGl4VjNvWDVpaWdFT0ExMjZldE9ZcWp5RkpJMkYtR3U2b3c5dGdXZDJVSVJBa1Z0UXMyb2E2aW5sajV3NXhWUzZzTTZVQm9WTVpZR0ZkZGpXY1BLRzFvS0NRT05wZjZOSGlKbi1jc1M3SFVzckg0bE1kOERqN1lJZHg4RWZaZzBIUE9BWUx0ZmhGNHloQlYwV1VNWTdoUWVRNi16S3FTYkRmYldyejVuNzRKNTdhNmhLYlAtZVVB?oc=5",
-     "ts": "2026-11-06T20:18:08Z",
-     "summary": ""
-    },
-    {
-     "id": "a494762647f6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQVNWQmVIOHdfalk1V1dMQ2hKV1ZlSnhvY2RLcnBRWXB1REE0dmdualEwZ3ZXREhCN3RIbnBiTzVPXzByODBEM2podm9tdXo1bnQ5YTdmZTQ5R0JNdFlmYlo1Q090c19nNFFJWmhiRWp0NzM1NGY0eHF6UjQtbTVSMjl4UE5xYUlKVWszaGJxNl9WT0VNVjNtZktPZW1EV0ZYaVJYOW5NSmJ4WEp3NnExRlhXMU1GblgwcS1ZOEZ4YWJhdTN2OW90R2JNaWwyVWlkQ2RfaW9VbjA3dmFDQWRmblVHS1lHSDNvaWNwakZvdG5ZUQ?oc=5",
-     "ts": "2026-11-06T20:31:39Z",
-     "summary": ""
-    },
-    {
-     "id": "c59ae2497b1b",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
-     "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
-     "ts": "2026-11-06T20:18:07Z",
-     "summary": "Germany has a unique legal loophole that lets 60 employees take time off work to play GTA 6 without putting their jobs in jeopardy."
-    },
-    {
-     "id": "40566f652a81",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLXliSzVvaGRLR3U3REtpdVV6Qk90QklLaTRjWVh3TE1GbXlvYTZJZG9qLWIwdzNGNnNnQmRiRjRUVms1ZDhLZUhqWVlDN2lwQWRQUHBfNHBVaUpSN3NXVHpjLVJ2dlRXckRUdUFIQmFOakx0Z0N1Y2JYS3JNZ0FUcUpIUjM2NmpOT3FHbm9GRm5ROVMzcklFYTRiWEh6Tm1xeVkySW9GazFqbnUzZEVSYXRBSEhsYTBoMk8yLVBXUzNFTGVZdldTT1FwWWNGRkdTN0lwdEQtVHRNWXUwSXNMLWtMd19fR3EwT0JHeFlxTElxZW8?oc=5",
-     "ts": "2026-11-06T21:01:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 94,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "В Германии можно взять отгул на запуск GTA 6. Мест мало",
-    "summary": "По данным IGN, в Германии игроки GTA 6 могут легально взять отгул на запуск игры, но количество мест ограничено. Это касается тех, кто заранее согласует отсутствие с работодателем.",
-    "idea": "Короткая шутка про «больничный по GTA 6» с экраном заявки на отгул и таймером до 19 ноября. Зрителю смешно и полезно: как легально не идти на работу ради игры.",
-    "hook": "В Германии можно официально взять отгул на запуск GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-06T20:20:50Z"
-   },
-   "msg_id": 603
-  },
-  {
    "id": "beb4b81ab806",
    "title": "Pilot Draws Incredible GTA 6 Mural With His Flight Path",
    "first_seen": "2026-11-06T10:40:56Z",
-   "updated": "2026-11-06T21:20:46Z",
+   "updated": "2026-11-06T21:30:59Z",
    "items": [
     {
      "id": "beb4b81ab806",
@@ -211,6 +135,32 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2VQbjJxaF9iRUhXb2xEQVlkN3VNQnlXRjA3YW9EOFMzSm1tbS1oa3o4b1hwMlp2bjg5R1NWNHhBVmp1ZEpUdGxqUjFfeUQxWTVrSGE4aDBYQzljbHZTckNWTEN6amJaUGE4VUYzdW1VR21MX1EwVnVfV1hpemlWeHR1MGdWUDQxVDhmM3V5U0Z0T3JuTFZETGtVZ0VTQm12OVh5eHk3c3ZLVFoyUjNGX3lpaHMteHc?oc=5",
      "ts": "2026-11-06T21:15:55Z",
      "summary": ""
+    },
+    {
+     "id": "85caa14479f1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WPDE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmw1OFRjeUNSbnVvRk5SaDgzRmtQU3ZZcHBRVkVpTlYzMlZXVzlPQWYydURIWWZZVnNUajJlR2t4VDJmWWdwV2Q1WGluTGJQTnc2MTVwN3djLWRqRHctSHY2b0p1OWNOeWNkMUgzeGx0TEg2SkE4QTUtbGpOTFlCMzBLdTNpYnVwbTFPZjRjWm9ZQTctNlNWWV9xV3dHeWpIMThnUk9uV3BaczQ5ZXUtZA?oc=5",
+     "ts": "2026-11-06T21:15:57Z",
+     "summary": ""
+    },
+    {
+     "id": "1e812f3bc673",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KRXI2",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN01oNGVtcXBhS1pocVgzQld5S3pmQ05FZzJZU05xUEpIal9YVkx4Z3Y2YnBMZXBLVmxpLWkzVVVSWXk4b2R5TFZUVGFGaW1KcUFZUTRSb2hrOEZDMXlhRXQ2Qld0aVlQNlhYS1RVV1RDaTNYNHl1cjY1d3ZhZ2J5N1ZvcmRZR0EwVHZpNURfa2ZrWmtDTl9wR19MWDBKYXZSeTFlT25FT3Nnb0x1cTJXSHMxSkE?oc=5",
+     "ts": "2026-11-06T21:17:08Z",
+     "summary": ""
     }
    ],
    "tags": [],
@@ -229,6 +179,212 @@
     "at": "2026-11-06T10:50:47Z"
    },
    "msg_id": 574
+  },
+  {
+   "id": "66aff3d00eb7",
+   "title": "Just received this beautiful merch. I’m ready for Nov 19",
+   "first_seen": "2026-11-06T17:40:48Z",
+   "updated": "2026-11-06T21:30:59Z",
+   "items": [
+    {
+     "id": "66aff3d00eb7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Just received this beautiful merch. I’m ready for Nov 19",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xpip9f/just_received_this_beautiful_merch_im_ready_for/",
+     "ts": "2026-11-06T17:28:30Z",
+     "summary": "It’s laser engraved on slate stone tiles submitted by /u/jedsender to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "3f325893833d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "READY FOR NOV 19 🔥",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xpoogi/ready_for_nov_19/",
+     "ts": "2026-11-06T21:27:09Z",
+     "summary": "The day is almost here fellas!!!!! What are you guys going to be mainly playing on? I will be mainly playing on my 4K tv but will also play on my portal when not home or if I’m lazy on the couch or in my room. Everyone stay safe and see you in Vice City 🌴 submitted by /u/akmmane4eva to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5d405f473fac",
+   "title": "Пилот нарисовал логотип GTA 6 в небе за 8 часов — как это было",
+   "first_seen": "2026-11-06T14:10:45Z",
+   "updated": "2026-11-06T21:30:59Z",
+   "items": [
+    {
+     "id": "5d405f473fac",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Carexpo.ru_ все авто на одном сайте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Пилот нарисовал логотип GTA 6 в небе за 8 часов — как это было",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjZQN1FzSUwwLUJlZXVkWlVuNTlod0xwRWJ3Y2pVbVJEa2RQZG9rMlVuRFJTOWVOLVZicldNUGNxM3dQWXpUc0preEhhRldpLWg2ZmdtbkdheGVURVo0YV9Sd29hdDZWOXV4cFMzTnV1YkhmdVB3dm9OX1RvdnNBQUdpR01fWUVGN01DTjVLLU9WUHliNVN4cVFfb3A?oc=5",
+     "ts": "2026-11-06T13:53:19Z",
+     "summary": ""
+    },
+    {
+     "id": "3e418bfced9c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Пилот нарисовал в небе логотип GTA 6 — он провел в воздухе 8 часов",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGlYQUktekRRWGg5cnZQNV9oMHVrZTdXeERxQkxiSXVCWUI5MEhkdE5SSzIzQ0NmYWV5R2Y3T1FrMXoxOWI4dHhTc3lJMEVWNDVUOUt0c3l2Z1pQZ1gyVUdNelBHejZJWUkzTi1zcHdIUHFXVHRFTWE5b3JpTkx0bE0tQk1IU2syUkhINUY2VVBqODYtUnZjdk00LVc?oc=5",
+     "ts": "2026-11-06T17:21:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a0f783c9bdfd",
+   "title": "Will the physical version of GTA 6 contain a disc?",
+   "first_seen": "2026-11-06T21:30:59Z",
+   "updated": "2026-11-06T21:30:59Z",
+   "items": [
+    {
+     "id": "a0f783c9bdfd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Shacknews",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Will the physical version of GTA 6 contain a disc?",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVmlOUUVIcE1hNGswMkcwT3JkdjBxaldOWXBBV0YwbHFpcFlrRk95T1cxNks5ak9sdmZoY1JkZFh2Njkzck9fejFjMFhSVzlRa2N1LVllbkJIX2lWQjgyOFpjbkI2cmFKMHAzUjJZQ0NUcmFha2xScnZjV1dIczkteFJYRVRUZklZWXV3UEJub0lsa2dx?oc=5",
+     "ts": "2026-11-06T20:05:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a8701d140c8c",
+   "title": "West Coast Customs car comparison sliders are now on the GTA Wiki",
+   "first_seen": "2026-11-06T21:30:59Z",
+   "updated": "2026-11-06T21:30:59Z",
+   "items": [
+    {
+     "id": "a8701d140c8c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "West Coast Customs car comparison sliders are now on the GTA Wiki",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xpoma1/west_coast_customs_car_comparison_sliders_are_now/",
+     "ts": "2026-11-06T21:24:33Z",
+     "summary": "Link: gta.wiki/West_Coast_Customs submitted by /u/gtawiki to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6452df3e0219",
+   "title": "German GTA 6 Players Can Legally Take Time Off to Play the Game on Launch, But Spots Are Limited",
+   "first_seen": "2026-11-06T20:20:46Z",
+   "updated": "2026-11-06T21:20:46Z",
+   "items": [
+    {
+     "id": "6452df3e0219",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "German GTA 6 Players Can Legally Take Time Off to Play the Game on Launch, But Spots Are Limited",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbW5JaUdhSDBPWDM4TGl4VjNvWDVpaWdFT0ExMjZldE9ZcWp5RkpJMkYtR3U2b3c5dGdXZDJVSVJBa1Z0UXMyb2E2aW5sajV3NXhWUzZzTTZVQm9WTVpZR0ZkZGpXY1BLRzFvS0NRT05wZjZOSGlKbi1jc1M3SFVzckg0bE1kOERqN1lJZHg4RWZaZzBIUE9BWUx0ZmhGNHloQlYwV1VNWTdoUWVRNi16S3FTYkRmYldyejVuNzRKNTdhNmhLYlAtZVVB?oc=5",
+     "ts": "2026-11-06T20:18:08Z",
+     "summary": ""
+    },
+    {
+     "id": "a494762647f6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQVNWQmVIOHdfalk1V1dMQ2hKV1ZlSnhvY2RLcnBRWXB1REE0dmdualEwZ3ZXREhCN3RIbnBiTzVPXzByODBEM2podm9tdXo1bnQ5YTdmZTQ5R0JNdFlmYlo1Q090c19nNFFJWmhiRWp0NzM1NGY0eHF6UjQtbTVSMjl4UE5xYUlKVWszaGJxNl9WT0VNVjNtZktPZW1EV0ZYaVJYOW5NSmJ4WEp3NnExRlhXMU1GblgwcS1ZOEZ4YWJhdTN2OW90R2JNaWwyVWlkQ2RfaW9VbjA3dmFDQWRmblVHS1lHSDNvaWNwakZvdG5ZUQ?oc=5",
+     "ts": "2026-11-06T20:31:39Z",
+     "summary": ""
+    },
+    {
+     "id": "c59ae2497b1b",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
+     "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
+     "ts": "2026-11-06T20:18:07Z",
+     "summary": "Germany has a unique legal loophole that lets 60 employees take time off work to play GTA 6 without putting their jobs in jeopardy."
+    },
+    {
+     "id": "40566f652a81",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLXliSzVvaGRLR3U3REtpdVV6Qk90QklLaTRjWVh3TE1GbXlvYTZJZG9qLWIwdzNGNnNnQmRiRjRUVms1ZDhLZUhqWVlDN2lwQWRQUHBfNHBVaUpSN3NXVHpjLVJ2dlRXckRUdUFIQmFOakx0Z0N1Y2JYS3JNZ0FUcUpIUjM2NmpOT3FHbm9GRm5ROVMzcklFYTRiWEh6Tm1xeVkySW9GazFqbnUzZEVSYXRBSEhsYTBoMk8yLVBXUzNFTGVZdldTT1FwWWNGRkdTN0lwdEQtVHRNWXUwSXNMLWtMd19fR3EwT0JHeFlxTElxZW8?oc=5",
+     "ts": "2026-11-06T21:01:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 94,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В Германии можно взять отгул на запуск GTA 6. Мест мало",
+    "summary": "По данным IGN, в Германии игроки GTA 6 могут легально взять отгул на запуск игры, но количество мест ограничено. Это касается тех, кто заранее согласует отсутствие с работодателем.",
+    "idea": "Короткая шутка про «больничный по GTA 6» с экраном заявки на отгул и таймером до 19 ноября. Зрителю смешно и полезно: как легально не идти на работу ради игры.",
+    "hook": "В Германии можно официально взять отгул на запуск GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-06T20:20:50Z"
+   },
+   "msg_id": 603
   },
   {
    "id": "77c1f8e4bb97",
@@ -3035,32 +3191,6 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xpimgp/sga_gta_6_has_3_different_versions_before_you/",
      "ts": "2026-11-06T17:25:33Z",
      "summary": "submitted by /u/kristijan1001 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "66aff3d00eb7",
-   "title": "Just received this beautiful merch. I’m ready for Nov 19",
-   "first_seen": "2026-11-06T17:40:48Z",
-   "updated": "2026-11-06T17:40:48Z",
-   "items": [
-    {
-     "id": "66aff3d00eb7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Just received this beautiful merch. I’m ready for Nov 19",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpip9f/just_received_this_beautiful_merch_im_ready_for/",
-     "ts": "2026-11-06T17:28:30Z",
-     "summary": "It’s laser engraved on slate stone tiles submitted by /u/jedsender to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [],
@@ -6539,32 +6669,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5d405f473fac",
-   "title": "Пилот нарисовал логотип GTA 6 в небе за 8 часов — как это было",
-   "first_seen": "2026-11-06T14:10:45Z",
-   "updated": "2026-11-06T14:10:45Z",
-   "items": [
-    {
-     "id": "5d405f473fac",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Carexpo.ru_ все авто на одном сайте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Пилот нарисовал логотип GTA 6 в небе за 8 часов — как это было",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjZQN1FzSUwwLUJlZXVkWlVuNTlod0xwRWJ3Y2pVbVJEa2RQZG9rMlVuRFJTOWVOLVZicldNUGNxM3dQWXpUc0preEhhRldpLWg2ZmdtbkdheGVURVo0YV9Sd29hdDZWOXV4cFMzTnV1YkhmdVB3dm9OX1RvdnNBQUdpR01fWUVGN01DTjVLLU9WUHliNVN4cVFfb3A?oc=5",
-     "ts": "2026-11-06T13:53:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -78152,65 +78256,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e2450fb2048f",
-   "title": "GTA 6, Xbox’s New Direction, and OG’s Dota 2 Rebuild: What’s Shaping Gaming in 2026?",
-   "first_seen": "2026-10-30T21:20:55Z",
-   "updated": "2026-10-30T21:20:55Z",
-   "items": [
-    {
-     "id": "e2450fb2048f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "EGamersWorld",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6, Xbox’s New Direction, and OG’s Dota 2 Rebuild: What’s Shaping Gaming in 2026?",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdW54LUstb2pqeklaOERRbm1EM2hoVzQzMnRfcTRSYkJoNV9sY29fNFQtNkNac2xuMldYVVhzaGNXY0k2a3VZSmpFSVpXZ251ekNKV28ySHg5V29fUFN4R0VXTTM2UmN6bkZNRm00MElHa1hHYWRudU1kNG8yRVRxcmJZSXAwVTgtNGRBT3ljN3hTUDYwSkE?oc=5",
-     "ts": "2026-10-30T10:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "276002beb191",
-   "title": "Gun stays safety-off, just in case Rockstar delays the release again. 😂",
-   "first_seen": "2026-10-30T21:20:55Z",
-   "updated": "2026-10-30T21:20:55Z",
-   "items": [
-    {
-     "id": "276002beb191",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Gun stays safety-off, just in case Rockstar delays the release again. 😂",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xjrljx/gun_stays_safetyoff_just_in_case_rockstar_delays/",
-     "ts": "2026-10-30T21:14:01Z",
-     "summary": "submitted by /u/SirMajestic1812 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "дата/перенос"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-06T21:20:46Z",
+  "last_run": "2026-11-06T21:30:59Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 95/100",
