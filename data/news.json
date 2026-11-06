@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "f8aca1763405",
+   "title": "Limited GTA 6 Nike Shoes designed by Travis Scott",
+   "first_seen": "2026-11-06T00:01:11Z",
+   "updated": "2026-11-06T00:01:11Z",
+   "items": [
+    {
+     "id": "f8aca1763405",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Limited GTA 6 Nike Shoes designed by Travis Scott",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xoycv8/limited_gta_6_nike_shoes_designed_by_travis_scott/",
+     "ts": "2026-11-06T00:00:13Z",
+     "summary": "submitted by /u/ConfidentImage4266 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "20d2231cf6fe",
    "title": "GTA 6’s dynamic weather and water system to feature individually moving clouds, storms, and waves that can damage aircraft, boats and the environment",
    "first_seen": "2026-11-05T23:50:44Z",
@@ -75029,63 +75055,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "484461a6fb96",
-   "title": "Rockstar сохранит эмбарго на обзоры GTA 6 до 18 ноября",
-   "first_seen": "2026-10-29T23:50:48Z",
-   "updated": "2026-10-29T23:50:48Z",
-   "items": [
-    {
-     "id": "484461a6fb96",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Foro3D",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar сохранит эмбарго на обзоры GTA 6 до 18 ноября",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWG1XSXRTZkp6TDVYbFhQd1Fyd2pPMDlFdlBlbHRKWHlMVEV5di02Z3lKc0RCN3hWdHpRRkV5NDE5bURqTlNkeU95cFdzQk5SaXI0LWtPX3laNHVPbjgya2xOM0ptRmk1aGdCRzEtRFNXNzFKOEhuamw1ZDNCdncxeVJHb0hCSWNTb3lSSV9VYmxPU2VDX29CeG1kekw4YWtvY2VwVWhaa3d0eGUyZmM4?oc=5",
-     "ts": "2026-10-29T22:58:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e14903452b93",
-   "title": "Аналитик объяснил, почему большинству игр не стоит бояться релиза GTA 6",
-   "first_seen": "2026-10-29T23:50:48Z",
-   "updated": "2026-10-29T23:50:48Z",
-   "items": [
-    {
-     "id": "e14903452b93",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "se7en.ws",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Аналитик объяснил, почему большинству игр не стоит бояться релиза GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3dEdGNObnpOV25oNkk5T0F1RXRrWHBFYXl2WW1zZnQ5ZFMySFpSbzg2Ty1hTnRIWFhGYUxkQnpZcGJyOXB4VTluTUQ5aWdtNGl6OWNmVGdyNEUzbmtHUFdUcDFhb1BKMGRJbklDZktQc1VGMWktM0Y2bU1kTFN0TEtfZnJqaTFpZ0xHMTFoTXpmdHlE?oc=5",
-     "ts": "2026-10-29T23:40:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-05T23:50:44Z",
+  "last_run": "2026-11-06T00:01:11Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
