@@ -1,10 +1,68 @@
 {
  "stories": [
   {
+   "id": "adbde89b7fca",
+   "title": "GTA 6 physical edition listed including posters",
+   "first_seen": "2026-11-06T22:01:08Z",
+   "updated": "2026-11-06T22:01:08Z",
+   "items": [
+    {
+     "id": "adbde89b7fca",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 physical edition listed including posters",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xppeip/gta_6_physical_edition_listed_including_posters/",
+     "ts": "2026-11-06T21:57:39Z",
+     "summary": "Media Markt, one of Europes largest electronics retailer has officially listed the physical edition of GTA VI including posters. I think it was kind of obvious, but many people here thought we would have to buy them seperately. My guess is they moved the digital preload date forward by two days to avoid cancellations on PS5 Stores from people switching from digital to physical. submitted by /u/QWERTZlayout to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "размер/preload",
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d583fd28735b",
+   "title": "Updated GTA6 Download Size Reveal Potential Censorship Differences",
+   "first_seen": "2026-11-06T22:01:08Z",
+   "updated": "2026-11-06T22:01:08Z",
+   "items": [
+    {
+     "id": "d583fd28735b",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "Updated GTA6 Download Size Reveal Potential Censorship Differences",
+     "url": "https://rockstarintel.com/updated-gta6-download-size-reveal-potential-censorship-differences/",
+     "ts": "2026-11-06T22:00:15Z",
+     "summary": "An updated file size for GTA 6 on XBOX shows that the game will be bigger on Microsoft’s console than the PS5. Also, a difference in file size across different regions suggest censorship is coming into play. We’re less than 2 weeks away from release and the last several details we’d expect to get pre-launch [...] The post Updated GTA6 Download Size Reveal Potential Censorship Differences appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [
+    "анонс",
+    "размер/preload"
+   ],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "beb4b81ab806",
    "title": "Pilot Draws Incredible GTA 6 Mural With His Flight Path",
    "first_seen": "2026-11-06T10:40:56Z",
-   "updated": "2026-11-06T21:50:48Z",
+   "updated": "2026-11-06T22:01:07Z",
    "items": [
     {
      "id": "beb4b81ab806",
@@ -187,6 +245,32 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmVBT2loN01PRHQ3THlYejhqTkpRUzVNb1RNOGVvRm80ckcyQ2VVYjdOcnl5OEZoREZScGlmWUNUTHpwdm9pVDlpOTZWX0YzTENKTzJNcENKYzJfUTNzaXd4Z195alJSSHAyLV93N2VxemVOTk1zZ3BCTk52R3h6WHZJTDl4ZHowNnlBWENaVk5VODMxQURycXRoVy1tcUdPMElubnAteERlVVQ4clhvZQ?oc=5",
      "ts": "2026-11-06T21:16:40Z",
      "summary": ""
+    },
+    {
+     "id": "2aba762ddd05",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WKEF",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEZ1cWZROGg4OHNjY1BHMEtCRXNoaWhTd2s2QW9OVGQxZUxtU1pIVVZDSFFWVzF6QVZGUGltdTZkUjEwOEl2alNhSlJUZWllVjdycG9VMDZFVk9INWJ5bWNXVEc0ZWpveDhMY0Rob0ltNzRZVVEyb3Q2RURTOFEtcWc4djA1bXZxdFRpbXJWanR5WTQ2V3pNRnpMX1BrNVZkaE1GUklVc01xemNGQ2VOelp3RkhzcmRhSGww?oc=5",
+     "ts": "2026-11-06T21:34:35Z",
+     "summary": ""
+    },
+    {
+     "id": "cab12afe1d45",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KATU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHMzZlI4eVlfeUNPYkxzd3RjVnhrYWpVUXUtUEtjRDBqTmVEWWgwcEhBU2xZVWR2ZnBzTmJtR0wtTG1nM0huUEN2SEpoT3VhNURveWRuenVuaHRERFJ4VVp5dF9MaDVMMkFjNXZKai1VV0N6c2xtX0kxUmVtU0NHNGpod3Y2eVdwUEpXd3lVZ25sbkx1Q3o4ZUI3dEdWMmdPVXdmZU9zMkgtRkI0cWRZRg?oc=5",
+     "ts": "2026-11-06T21:45:00Z",
+     "summary": ""
     }
    ],
    "tags": [],
@@ -207,36 +291,10 @@
    "msg_id": 574
   },
   {
-   "id": "50894616c826",
-   "title": "Rockstar's marketing is crazy!",
-   "first_seen": "2026-11-06T21:50:48Z",
-   "updated": "2026-11-06T21:50:48Z",
-   "items": [
-    {
-     "id": "50894616c826",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Rockstar's marketing is crazy!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpp3wn/rockstars_marketing_is_crazy/",
-     "ts": "2026-11-06T21:45:04Z",
-     "summary": "The weekend before predownloads. They bought the sky submitted by /u/Sea_Philosopher1080 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "672baf5e013b",
    "title": "Three smart ways to prepare for ‘Grand Theft Auto VI’",
    "first_seen": "2026-11-06T20:30:59Z",
-   "updated": "2026-11-06T21:40:49Z",
+   "updated": "2026-11-06T22:01:07Z",
    "items": [
     {
      "id": "672baf5e013b",
@@ -263,10 +321,23 @@
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzl6YkE3eVBQVXBET212T1o0UjFJQ0VvQk9HamRLU09oWmkzYU5EZnV5YVVySzk5eTRjczJoV2V1VHlMT2RHOUZfYjFZajJOQ2lzR1VuR0lwSnpxUjlfNnpZdXRSeExiU0RrWVZkMDRqckxmNkIxSUtFcVFTUklnaVpLNVdjTmJISl9Db3dpS2dzMUE2Ujk0?oc=5",
      "ts": "2026-11-06T20:15:29Z",
      "summary": ""
+    },
+    {
+     "id": "b6550c586db7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Marin Independent Journal",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Three smart ways to prepare for ‘Grand Theft Auto VI’",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzRnOGh6OXBvNl9NUDEtRWs1YjNLVEZZS2UtT2czbnpSc2tHSWFwNWk1bFhYODcxenlwRnQ0cEhjbE5tUUdfaVVvejRmdmtZb216N0RUU0daaV91VE9Ya19YQnRxSG5HTzNqUy04ZFpwZkRBeGpSaE1DMk1NVnRRTlNXTmJfRVhDYk1OckJLTTHSAZYBQVVfeXFMTnZzVl9TX0xSd011QnZQbHNSSXVmbGxZSklVd05BOXp1OTR4M2FyemtJYzRLR3oxZlRFVFhmdVJUbkI1VThWTl85OEdBdGJyMVlZSEhOZ29mVjh5R0FTVzVvMU5xaUtGY252bUs1X21Odzk1cUZ1aHp2U1J0UDdFektqYkJuZTV2andzWjZYNkFnQk1EZDZn?oc=5",
+     "ts": "2026-11-06T20:18:16Z",
+     "summary": ""
     }
    ],
    "tags": [],
-   "score": 58,
+   "score": 66,
    "level": "PROBABLE",
    "alerted": "yellow",
    "status": "new",
@@ -281,6 +352,32 @@
     "at": "2026-11-06T21:40:53Z"
    },
    "msg_id": 606
+  },
+  {
+   "id": "50894616c826",
+   "title": "Rockstar's marketing is crazy!",
+   "first_seen": "2026-11-06T21:50:48Z",
+   "updated": "2026-11-06T21:50:48Z",
+   "items": [
+    {
+     "id": "50894616c826",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Rockstar's marketing is crazy!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xpp3wn/rockstars_marketing_is_crazy/",
+     "ts": "2026-11-06T21:45:04Z",
+     "summary": "The weekend before predownloads. They bought the sky submitted by /u/Sea_Philosopher1080 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
   },
   {
    "id": "3df29ef18655",
@@ -78284,10 +78381,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-06T21:50:48Z",
+  "last_run": "2026-11-06T22:01:08Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 95/100",
+   "gnews_en: 97/100",
    "gnews_ru: 72/75",
    "gamesbeat: 0/10",
    "vgc: 0/10",
@@ -78295,7 +78392,7 @@
    "ign: 1/20",
    "eurogamer: 2/100",
    "dexerto_gta: 2/50",
-   "rockstarintel: 5/10",
+   "rockstarintel: 6/10",
    "gtaboom: 11/30",
    "reddit: 20/25",
    "tg_gtavistar: 5/5",
