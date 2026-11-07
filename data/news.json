@@ -1,6 +1,113 @@
 {
  "stories": [
   {
+   "id": "2366d91820cf",
+   "title": "A collection of new real-life comparisons between Vice City and Miami",
+   "first_seen": "2026-11-07T17:50:48Z",
+   "updated": "2026-11-07T17:50:48Z",
+   "items": [
+    {
+     "id": "2366d91820cf",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "A collection of new real-life comparisons between Vice City and Miami",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xqc83r/a_collection_of_new_reallife_comparisons_between/",
+     "ts": "2026-11-07T17:44:07Z",
+     "summary": "submitted by /u/Alex200496 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d066e5de7889",
+   "title": "Article of the Day #67: Excavator",
+   "first_seen": "2026-11-07T17:50:48Z",
+   "updated": "2026-11-07T17:50:48Z",
+   "items": [
+    {
+     "id": "d066e5de7889",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Article of the Day #67: Excavator",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xqc9gc/article_of_the_day_67_excavator/",
+     "ts": "2026-11-07T17:45:41Z",
+     "summary": "submitted by /u/gtawiki to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f81748c9dc0d",
+   "title": "GTA V habits that will probably cost you in GTA 6 (going by the interviews and previews, no leaks)",
+   "first_seen": "2026-11-07T17:50:48Z",
+   "updated": "2026-11-07T17:50:48Z",
+   "items": [
+    {
+     "id": "f81748c9dc0d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA V habits that will probably cost you in GTA 6 (going by the interviews and previews, no leaks)",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xqc9pc/gta_v_habits_that_will_probably_cost_you_in_gta_6/",
+     "ts": "2026-11-07T17:45:57Z",
+     "summary": "Spoiler-free for the story, this is only gameplay systems from the pre-release interviews and previews. Went back through the Famitsu interview with Rob Nelson and the hands-on previews, and a bunch of stuff we did on autopilot in V looks like it's going to cost money in 6. 1. Carrying all your cash around There's a bank account on top of the cash you carry, and the cash on you can be lost if you get Wasted or Busted. The Kinda Funny preview says the game pushes you to deposit at ATMs. 2. Assuming the car you just stole is yours A stolen car shows up grey on the radar and it's gone once you re"
+    }
+   ],
+   "tags": [
+    "геймплей",
+    "слив"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f97765c1ec92",
+   "title": "Greensboro Police Are Begging Rockstar to Release ‘GTA 6’ for One Unexpected Reason",
+   "first_seen": "2026-11-07T17:50:48Z",
+   "updated": "2026-11-07T17:50:48Z",
+   "items": [
+    {
+     "id": "f97765c1ec92",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Men's Journal",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Greensboro Police Are Begging Rockstar to Release ‘GTA 6’ for One Unexpected Reason",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYll1MDNNT2JsMHdqUlJBU2hqbGxjTHdoOUJxRWxlQUhsWGZERHBjc1lqdkwwVHY3RkFFZ1k0cTlieFlsUEpkc3M2eEtwX2VRWjBxSS0zQXZPTWVCU19ZTkZrRU5Hd2NKbGRYeU1aVUtkM2hpeE1RVGlJZHp2emdqYlBDM2RMc3pxMzZSX3lrdGR4YjBObzNHejJncEd4cU1IR0RJSzZfMko4aFNDT0EtYWdvWldiTWx1YnA1bTM5Y24?oc=5",
+     "ts": "2026-11-07T17:48:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "7536482684e0",
    "title": "Travis Scott Unveils GTA 6 Nike Air Force 1 With Six-Star Wanted Level Details Ahead of November 19 Launch",
    "first_seen": "2026-11-07T13:40:49Z",
@@ -80027,11 +80134,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T17:40:46Z",
+  "last_run": "2026-11-07T17:50:48Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/2",
    "gnews_en: 98/100",
-   "gnews_ru: 58/63",
+   "gnews_ru: 57/62",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 5/10",
@@ -80040,7 +80147,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 6/10",
    "gtaboom: 5/30",
-   "reddit: 21/25",
+   "reddit: 22/25",
    "tg_gtavistar: 6/7",
    "tg_gta6deluxe: 5/5",
    "tg_gta6_m: 8/16",
