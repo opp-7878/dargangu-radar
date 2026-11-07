@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "d979733a839e",
+   "title": "Former Rockstar dev says threat of unofficial AI ports could force GTA 6 onto PC sooner",
+   "first_seen": "2026-11-07T16:41:09Z",
+   "updated": "2026-11-07T17:01:13Z",
+   "items": [
+    {
+     "id": "d979733a839e",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Former Rockstar dev says threat of unofficial AI ports could force GTA 6 onto PC sooner",
+     "url": "https://www.dexerto.com/gta/former-rockstar-dev-says-threat-of-unofficial-ai-ports-could-force-gta-6-onto-pc-sooner-3425613/",
+     "ts": "2026-11-07T12:05:12Z",
+     "summary": "A former Rockstar technical director believes GTA 6 could come to PC sooner than expected, as Rockstar may want to head off unofficial ports made with AI."
+    },
+    {
+     "id": "00507617ac09",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Former Rockstar North tech director Obbe Vermeij expects someone to pay tens of thousands in AI tokens for an unofficial GTA 6 PC port",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdlphczRuQmt4SUduUl9hZ0JScWNDRGl1OUEtYTRqMFV5NTJRR3kxNm9XakJzOVA5a0FfQ1d6SDhwbXhhQzU2SDlxdWtsb19kRjFQREYyMElGTEpGanBKLXdocUJFZ3ozMHBqMkNuNUFlRzFHTEVCdHNhS2NFYXV4V01rOGRMU01wODJUT3d5d2RBWTZ1RXUxdFpocm04Z05zRmExYWttS1p2aERpMThhM1J0UEg1YkduX1hnNThnRG8yVHA5S0NKQ0owRXl4MFpfNW8xQW5VRUxNR3Y1TmNIODNHT2lsaXRtU2c?oc=5",
+     "ts": "2026-11-07T10:57:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 83,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "ad3045b3a6de",
+   "title": "A GTA 6 fan has set up a gaming room with a PS5 Pro and a 77-inch 4K OLED Samsung S90F.",
+   "first_seen": "2026-11-07T17:01:13Z",
+   "updated": "2026-11-07T17:01:13Z",
+   "items": [
+    {
+     "id": "ad3045b3a6de",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "A GTA 6 fan has set up a gaming room with a PS5 Pro and a 77-inch 4K OLED Samsung S90F.",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZiTFI5d1NHcXNjZFp5UTlxTC1vcDBxZzNndEI5eEpLbGNYY1Rmb3h1bGhqNDBWaVZTeWY4T0txS3lTRDhkS085WFZhdzNlQXl4S0Y5dWt0SXI2bkkwdkZwUUxhR0ItWW8tOXAwQzBLanJJQ1VIaW5VSHhEUFlQd1MxeG5MLTQ0eU1aREtIc3pVUncyVXJNeW8tNTZuRmxINnUyX3B4VFJEeWFOYXJ3b01pcTI5ZUdMUVE?oc=5",
+     "ts": "2026-11-07T16:46:53Z",
+     "summary": ""
+    },
+    {
+     "id": "7fff8e24d49c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Фанат GTA 6 подготовил игровую комнату с PS5 Pro и 77 дюймовым 4K OLED Samsung S90F",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSE9FZFdXOW91eEFGZUtpQ1VrSFdvNHhwV09RZjJKekxvNTF3NTRZd3dqRlZMQ3J5QUxFWkFnMl84WUhFT3hqQVh5OHdsM3plWkFqanV6TXdpcTQ0M2JVbjZmWGZEQ0lTOFdPTGlMTHZoWHM5UGtPeVBjaG1QVHJvQUlDRGhEMnp2SVdVbnpDalk2dF9BRU1RQVAybE5BaTM1dWVjLTZROV90cWpRLU1NS0hBb3lQdw?oc=5",
+     "ts": "2026-11-07T16:46:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "0ccc78536c9b",
    "title": "We are so close now.",
    "first_seen": "2026-11-07T16:50:50Z",
@@ -278,34 +358,6 @@
    "score": 78,
    "level": "PROBABLE",
    "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "d979733a839e",
-   "title": "Former Rockstar dev says threat of unofficial AI ports could force GTA 6 onto PC sooner",
-   "first_seen": "2026-11-07T16:41:09Z",
-   "updated": "2026-11-07T16:41:09Z",
-   "items": [
-    {
-     "id": "d979733a839e",
-     "src": "dexerto_gta",
-     "src_name": "Dexerto GTA",
-     "outlet": "",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "Former Rockstar dev says threat of unofficial AI ports could force GTA 6 onto PC sooner",
-     "url": "https://www.dexerto.com/gta/former-rockstar-dev-says-threat-of-unofficial-ai-ports-could-force-gta-6-onto-pc-sooner-3425613/",
-     "ts": "2026-11-07T12:05:12Z",
-     "summary": "A former Rockstar technical director believes GTA 6 could come to PC sooner than expected, as Rockstar may want to head off unofficial ports made with AI."
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -79603,78 +79655,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "1023d7476a9d",
-   "title": "‘The Odyssey’ Decimates ‘Doomsday’, ‘Spider-Man’ And Even ‘GTA 6’ In Popularity Review",
-   "first_seen": "2026-10-31T16:50:51Z",
-   "updated": "2026-10-31T16:50:51Z",
-   "items": [
-    {
-     "id": "1023d7476a9d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Forbes",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "‘The Odyssey’ Decimates ‘Doomsday’, ‘Spider-Man’ And Even ‘GTA 6’ In Popularity Review",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGRGMjE4OGVuNE1SczJJYnNLbkZrOUdUeUw5ckxncDFXQlpyV2ZOUUlEbjZTVExDUnM4d0txWmhSbGlWM3NibDlMWXNFWFVKNEtiQm5faEVMRWZmWmpUYUFrbThxXzBMWDU0c3RUOElubEU4M09VXy1NV2l0LWlFQVZ3RVVOVFMyYUJnV1lPSFZsaVpOUk9rbDhoeDBCZWVCZXllT1ZNd3hXM0hYVnBXOVM1Wk9RV0lXNlhZaGZJN29IZTlxbEUteW5HZw?oc=5",
-     "ts": "2026-10-31T16:40:59Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 проиграла в опросе популярности. Кто обогнал игру?",
-    "summary": "По данным Forbes, в обзоре популярности проект The Odyssey обогнал Doomsday, Spider-Man и даже GTA 6. Rockstar и Take-Two это не комментировали.",
-    "idea": "Сравним, почему The Odyssey внезапно обошла GTA 6 в опросе, и спросим зрителей, согласны ли они с этим.",
-    "hook": "GTA 6 проиграла в опросе популярности. Что за The Odyssey всех обошла?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-31T16:50:54Z"
-   },
-   "msg_id": 386
-  },
-  {
-   "id": "70911547c422",
-   "title": "До релиза GTA VI осталось всего 18 дней Путешествие по Вайс-Сити начнётся уже скоро.",
-   "first_seen": "2026-10-31T16:50:51Z",
-   "updated": "2026-10-31T16:50:51Z",
-   "items": [
-    {
-     "id": "70911547c422",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "До релиза GTA VI осталось всего 18 дней Путешествие по Вайс-Сити начнётся уже скоро.",
-     "url": "https://t.me/GTAVIStar/771",
-     "ts": "2026-10-31T16:49:13Z",
-     "summary": "До релиза GTA VI осталось всего 18 дней Путешествие по Вайс-Сити начнётся уже скоро. Готовы? ❤️ — готов, ещё как готов 🔥 — подожду на РС и поиграю в 4К, 120 FPS 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T16:50:50Z",
+  "last_run": "2026-11-07T17:01:13Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
-   "gnews_ru: 59/65",
+   "gnews_ru: 61/67",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
