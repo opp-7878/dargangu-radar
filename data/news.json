@@ -1,6 +1,92 @@
 {
  "stories": [
   {
+   "id": "b520cd8f8be1",
+   "title": "Трэвис Скотт показал кроссовки из коллаборации GTA 6 + Nike Будет доступно еще две расцветки, но как они будут выглядеть... 2026",
+   "first_seen": "2026-11-07T14:01:11Z",
+   "updated": "2026-11-07T14:01:11Z",
+   "items": [
+    {
+     "id": "b520cd8f8be1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Трэвис Скотт показал кроссовки из коллаборации GTA 6 + Nike Будет доступно еще две расцветки, но как они будут выглядеть... 2026",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82M3J5QThETkRIM1pKQ1VlTVpqVi1sNS1scXFteFBuV1VTeWRyWFlOWHRZcjREelJJc1d6VDhWcXY0d3lhUzhTVzIyaw?oc=5",
+     "ts": "2026-11-06T19:51:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0cc72e3e204b",
+   "title": "GTA 6 Physical Copy Reportedly Leaks Early, Revealing 230GB Storage Requirement and Online Support",
+   "first_seen": "2026-11-07T14:01:11Z",
+   "updated": "2026-11-07T14:01:11Z",
+   "items": [
+    {
+     "id": "0cc72e3e204b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TwistedVoxel",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Physical Copy Reportedly Leaks Early, Revealing 230GB Storage Requirement and Online Support",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeUc2ODRoWVpvQU5NSi1RVTk0WVpvb28zQTRYcUpfRTlmeGZNdS1XaGF6cm81MmZzc3hkbndNTG94bEVBY2ZXRkxsUWM2dlFfLXA0dzhnd0tmZzZCZ0VSTUFHOWlxRGNKREsybmV5V1h4OXpmZ1ZpaXQ4Y3dTdU9ZLUZSbw?oc=5",
+     "ts": "2026-11-07T13:47:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online",
+    "анонс",
+    "слив"
+   ],
+   "score": 65,
+   "level": "SPECULATION",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "c2ae6ec3ebe7",
+   "title": "GTA 6 Box Copies Begin Arriving, Reveals Online Feature, New Screenshots And More",
+   "first_seen": "2026-11-07T14:01:11Z",
+   "updated": "2026-11-07T14:01:11Z",
+   "items": [
+    {
+     "id": "c2ae6ec3ebe7",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA 6 Box Copies Begin Arriving, Reveals Online Feature, New Screenshots And More",
+     "url": "https://rockstarintel.com/gta-6-box-copies-begin-arriving-reveals-online-feature-new-screenshots-and-more/",
+     "ts": "2026-11-07T14:00:32Z",
+     "summary": "GTA 6 physical copies have begun arriving at retailers ahead of its release next week. Whilst the game does not come out until November 19th, code in box copies will be sent out and put on sale by retailers from November 12th. Game case copies have been distributed by Take-Two and Rockstar to retailers and [...] The post GTA 6 Box Copies Begin Arriving, Reveals Online Feature, New Screenshots And More appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [
+    "Online",
+    "Take-Two",
+    "анонс"
+   ],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "de30a61513e7",
    "title": "The first official GTA 6 physical copy has been spotted in Germany, featuring new screenshots on the back",
    "first_seen": "2026-11-07T13:31:01Z",
@@ -79219,7 +79305,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T13:50:51Z",
+  "last_run": "2026-11-07T14:01:11Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
@@ -79230,12 +79316,12 @@
    "ign: 1/20",
    "eurogamer: 3/100",
    "dexerto_gta: 1/50",
-   "rockstarintel: 6/10",
+   "rockstarintel: 7/10",
    "gtaboom: 7/30",
    "reddit: 22/25",
    "tg_gtavistar: 7/7",
    "tg_gta6deluxe: 5/5",
-   "tg_gta6_m: 9/17",
+   "tg_gta6_m: 8/17",
    "tg_gta6newsdaily: 1/16"
   ],
   "digest": "2026-11-07@9",
