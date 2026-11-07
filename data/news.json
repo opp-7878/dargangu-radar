@@ -1,6 +1,63 @@
 {
  "stories": [
   {
+   "id": "5f7ac6b91fba",
+   "title": "Судя по утечке от ретейлера, предзаказы физических изданий GTA 6 могут включать постер вместо карты",
+   "first_seen": "2026-11-07T06:40:46Z",
+   "updated": "2026-11-07T06:40:46Z",
+   "items": [
+    {
+     "id": "5f7ac6b91fba",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Судя по утечке от ретейлера, предзаказы физических изданий GTA 6 могут включать постер вместо карты",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOemRkeGJ2MGNOZmVrWHoxaFlQNlY3cExlY1ZhSTN4QU9la0FnSzhtYlZmR0ItSVB4QWNsR2ZFN3BoaXplNUJkdUpSTnNyVE9JRkw5UjlXRS15VFhoZHBNS0c4cE12WmZVbHhySHZZdmdIM0M1YVQ2X0k0T2NsTEpCeVcxOUxHMVNONEhwdVVFakZIYW84dV9xU2F4WFctb3pMRG5LYnJCV0w3M2FfSXIwSHQ2NlMzMkw5MjFYTjZkb0w4bDgxUTB2U1A0dzBvZkk5X2J3OTQ3SzRxYjZpblVDWXoxUHJ1UQ?oc=5",
+     "ts": "2026-11-07T05:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив",
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "SPECULATION",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "84e6077c0bac",
+   "title": "‘Best Pizza in Vice City,’ says 11th Street Pizza | Next to Nine1Nine",
+   "first_seen": "2026-11-07T06:40:46Z",
+   "updated": "2026-11-07T06:40:46Z",
+   "items": [
+    {
+     "id": "84e6077c0bac",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "‘Best Pizza in Vice City,’ says 11th Street Pizza | Next to Nine1Nine",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xpzokl/best_pizza_in_vice_city_says_11th_street_pizza/",
+     "ts": "2026-11-07T06:36:48Z",
+     "summary": "Located right around the corner from Nine1Nine (Eleven Miami) and The Vault (Club Space) was a spot I found on accident. The neon VI got my attention, but the guy leaning out the to-go window saying “Best Pizza in Vice City” was such an NPC moment in the best way. $5 slice, big, grab and go when I walked by at 12:30 am. He also gave me a sticker and themed matches and was happy to talk about the game and the Miami hype around it. submitted by /u/TharinWhite to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "beb4b81ab806",
    "title": "Pilot Draws Incredible GTA 6 Mural With His Flight Path",
    "first_seen": "2026-11-06T10:40:56Z",
@@ -79199,11 +79256,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T06:30:59Z",
+  "last_run": "2026-11-07T06:40:46Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 97/100",
-   "gnews_ru: 74/77",
+   "gnews_en: 98/100",
+   "gnews_ru: 75/78",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -79211,7 +79268,7 @@
    "eurogamer: 2/100",
    "dexerto_gta: 2/50",
    "rockstarintel: 7/10",
-   "gtaboom: 9/30",
+   "gtaboom: 8/30",
    "reddit: 21/25",
    "tg_gtavistar: 5/5",
    "tg_gta6deluxe: 8/8",
