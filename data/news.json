@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "8af2a0516032",
+   "title": "Лучшей рекламы вы в этом году не увидите! Вот как выглядела бы покупка в LIDL в GTA 6.",
+   "first_seen": "2026-11-07T02:20:43Z",
+   "updated": "2026-11-07T02:20:43Z",
+   "items": [
+    {
+     "id": "8af2a0516032",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Letem světem Applem",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Лучшей рекламы вы в этом году не увидите! Вот как выглядела бы покупка в LIDL в GTA 6.",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOUFlbTNIZjZSbVZUaDk1T3Y3NF8tMDZTcmV3MjhRRWFQS3l6RC1iMFJhNkMzbWpTclFGQnBxMVlQSnYyZ0ZFYjFXSFZIckJ3bFNrZzZOeTdLbXRjV0tjUVdKOWUwVzdPNDNSb3h1RHBoUF83cTFlcnNKQXFwWGFPU2I4eF8zTFBkMnFLc2F0Q3UtaXRncHBVX2ZlZklldi1BYkNWVU9zRHpzSUJsWEc0X2Y0TQ?oc=5",
+     "ts": "2026-11-06T09:20:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5b55115505a3",
+   "title": "GTA 6 Map: New Town Discovery & Final Chapter MC Clues",
+   "first_seen": "2026-11-07T02:20:43Z",
+   "updated": "2026-11-07T02:20:43Z",
+   "items": [
+    {
+     "id": "5b55115505a3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MMOEXP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Map: New Town Discovery & Final Chapter MC Clues",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV2RfV1JzWno3YU5lbDQ4VDVrLXdPUXVJT0lIZkh1anZoZWpFamlOZ2pWbzZwV0NvbDd3OHpwZVEzai1IZUQ0YUdOejVoOHdzQXpVQzhETFdULTRkeWt6eU83cThId3VDX012blhiTnZRemJXOEdBTEJzbFJrSnlGdUZjcDZQSHFETnY2eg?oc=5",
+     "ts": "2026-11-07T01:37:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "beb4b81ab806",
    "title": "Pilot Draws Incredible GTA 6 Mural With His Flight Path",
    "first_seen": "2026-11-06T10:40:56Z",
@@ -78776,11 +78828,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T02:10:47Z",
+  "last_run": "2026-11-07T02:20:43Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 97/100",
-   "gnews_ru: 76/79",
+   "gnews_ru: 78/81",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -78789,7 +78841,7 @@
    "dexerto_gta: 2/50",
    "rockstarintel: 7/10",
    "gtaboom: 9/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 5/5",
    "tg_gta6deluxe: 8/8",
    "tg_gta6_m: 8/18",
