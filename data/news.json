@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "5b55115505a3",
+   "title": "GTA 6 Map: New Town Discovery & Final Chapter MC Clues",
+   "first_seen": "2026-11-07T02:20:43Z",
+   "updated": "2026-11-07T03:30:59Z",
+   "items": [
+    {
+     "id": "5b55115505a3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MMOEXP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Map: New Town Discovery & Final Chapter MC Clues",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV2RfV1JzWno3YU5lbDQ4VDVrLXdPUXVJT0lIZkh1anZoZWpFamlOZ2pWbzZwV0NvbDd3OHpwZVEzai1IZUQ0YUdOejVoOHdzQXpVQzhETFdULTRkeWt6eU83cThId3VDX012blhiTnZRemJXOEdBTEJzbFJrSnlGdUZjcDZQSHFETnY2eg?oc=5",
+     "ts": "2026-11-07T01:37:41Z",
+     "summary": ""
+    },
+    {
+     "id": "f90a8e3c63e4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MMOEXP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Map Discovery Reveals New Georgia-Inspired Town and Expanding Final Chapter MC Influence",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT1g1cFZyeDhMMzlra0xJSFBySDY5Z1IzcmtCVWg3b1BaZHEtVmd5V1pnSU1TMUlwVERBaWxQSkF5VVBPWTZ0RW1Bb2VFN3VtZFdfOG1xMkJ3Qi1sOENuM2Uzb2tqRzI0TXdFMG1rdDJCNnRwYUxQdi1DUkdoci1NdWdkNDN0UUJIbldEODZQLVlLU3AybzY1cURpR05yR3hldEZyYnRlWFlsMFhCanFseFVJTVo5SWZUd0U3WTRSdkliRW1iMWc?oc=5",
+     "ts": "2026-11-07T03:18:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Новая Джорджия в GTA 6? На карте нашли город и финал MC",
+    "summary": "По данным MMOEXP, на карте GTA 6 нашли новый город в стиле Джорджии и следы расширенного влияния MC в финальной главе. Источник ссылается на анализ карты и подсказки, официального подтверждения от Rockstar нет.",
+    "idea": "Короткая карта-тур по «Джорджии» и маркерам MC: что это меняет для миссий и эндгейма. Зрителю интересно увидеть возможные новые активности и финал.",
+    "hook": "Новый город в стиле Джорджии и финал MC — что нашли на карте GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-07T03:31:02Z"
+   },
+   "msg_id": 609
+  },
+  {
    "id": "beb4b81ab806",
    "title": "Pilot Draws Incredible GTA 6 Mural With His Flight Path",
    "first_seen": "2026-11-06T10:40:56Z",
@@ -842,32 +894,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5b55115505a3",
-   "title": "GTA 6 Map: New Town Discovery & Final Chapter MC Clues",
-   "first_seen": "2026-11-07T02:20:43Z",
-   "updated": "2026-11-07T02:20:43Z",
-   "items": [
-    {
-     "id": "5b55115505a3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MMOEXP",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Map: New Town Discovery & Final Chapter MC Clues",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV2RfV1JzWno3YU5lbDQ4VDVrLXdPUXVJT0lIZkh1anZoZWpFamlOZ2pWbzZwV0NvbDd3OHpwZVEzai1IZUQ0YUdOejVoOHdzQXpVQzhETFdULTRkeWt6eU83cThId3VDX012blhiTnZRemJXOEdBTEJzbFJrSnlGdUZjcDZQSHFETnY2eg?oc=5",
-     "ts": "2026-11-07T01:37:41Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -78837,63 +78863,11 @@
     "at": "2026-10-30T15:31:14Z"
    },
    "msg_id": 360
-  },
-  {
-   "id": "637162ca1ee9",
-   "title": "На презентации GamesVoice показали GTA 6 и не только",
-   "first_seen": "2026-10-31T03:20:56Z",
-   "updated": "2026-10-31T03:20:56Z",
-   "items": [
-    {
-     "id": "637162ca1ee9",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Igromania.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "На презентации GamesVoice показали GTA 6 и не только",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWjRfNS1xMmxuSnc1dFlQTjl6WTNSRWhpMjVSaEtjRGx2S2NIbkNZN0lXQ2hYeUEybFdqUHRONzVSRzNjVldzU1pUVHk5cERuV0REbjZrR0d3azBKb05NVVJaNkY4dFdId1ZwbUdYenZUQjlCTVRwUW5wVmdDczZZSkNxUG5kQks4MGhBZ0w0cFlzdXktN0VDUV8xS2wzUHR5eFJTZmdSNGNCUVlrWkJNenFsYzVUbTJfVWVwOVN1dXBfQ1lpbnF1TVRUZ0tBWDQ?oc=5",
-     "ts": "2026-10-31T03:15:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5f3658f610c9",
-   "title": "Real buildings from the town of Gay, Georgia, have been discovered in Grand Theft Auto VI.",
-   "first_seen": "2026-10-31T03:20:56Z",
-   "updated": "2026-10-31T03:20:56Z",
-   "items": [
-    {
-     "id": "5f3658f610c9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Real buildings from the town of Gay, Georgia, have been discovered in Grand Theft Auto VI.",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1A2Mi1SRlljdk5fa014SXN4c0tSVVV0LVlsZVlGV3REdjZXSkVJMTdJSWdnWktYbGFkU05nMWtCMm9rTXRTc1RCZlF3a3VNNGtYNXVpb1lGdGQyZU50NjhWd3phVEZVTjY3UjRMRTdDS3FGaGZ3b1Z1anRXT3RmQVpRY3hEZFdHMUJDd2ZOdS1tWV9OSjM2Tk01NnlaaWZMN2REaGFFOA?oc=5",
-     "ts": "2026-10-31T03:16:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T03:20:47Z",
+  "last_run": "2026-11-07T03:31:03Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
