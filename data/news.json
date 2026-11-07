@@ -79102,41 +79102,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "9c122d48ce0f",
-   "title": "🤣 Мерч с GTA уже доходит до абсурда...",
-   "first_seen": "2026-10-31T06:10:55Z",
-   "updated": "2026-10-31T06:10:55Z",
-   "items": [
-    {
-     "id": "9c122d48ce0f",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "🤣 Мерч с GTA уже доходит до абсурда...",
-     "url": "https://t.me/GTA6_m/9276",
-     "ts": "2026-10-31T06:01:55Z",
-     "summary": "🤣 Мерч с GTA уже доходит до абсурда... 🥺 Канал про GTA 6 | Наш чат"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T06:01:05Z",
+  "last_run": "2026-11-07T06:11:09Z",
   "last_log": [
-   "rockstar_site: 0/4",
-   "gnews_en: 98/100",
-   "gnews_ru: 73/76",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -79148,7 +79122,7 @@
    "reddit: 21/25",
    "tg_gtavistar: 5/5",
    "tg_gta6deluxe: 8/8",
-   "tg_gta6_m: 8/18",
+   "tg_gta6_m: 7/17",
    "tg_gta6newsdaily: 1/16"
   ],
   "digest": "2026-11-07@9",
