@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "9941f9753a03",
+   "title": "🔞 Спойлеры подвезли 🥺 Канал про GTA 6 | Наш чат",
+   "first_seen": "2026-11-07T18:10:46Z",
+   "updated": "2026-11-07T18:10:46Z",
+   "items": [
+    {
+     "id": "9941f9753a03",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🔞 Спойлеры подвезли 🥺 Канал про GTA 6 | Наш чат",
+     "url": "https://t.me/GTA6_m/9316",
+     "ts": "2026-11-07T18:05:11Z",
+     "summary": "🔞 Спойлеры подвезли 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "904a1081e034",
+   "title": "I grew up in and live in Miami, I would love to explore my real neighborhoods, but I would want to create an alternate win condition using love and kindness. Possible?",
+   "first_seen": "2026-11-07T18:10:46Z",
+   "updated": "2026-11-07T18:10:46Z",
+   "items": [
+    {
+     "id": "904a1081e034",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I grew up in and live in Miami, I would love to explore my real neighborhoods, but I would want to create an alternate win condition using love and kindness. Possible?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xqcu5f/i_grew_up_in_and_live_in_miami_i_would_love_to/",
+     "ts": "2026-11-07T18:09:47Z",
+     "summary": "submitted by /u/magicbeaned to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "95ab262bc4e8",
    "title": "Actual size on Xbox Series X",
    "first_seen": "2026-11-07T08:10:47Z",
@@ -80091,69 +80143,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "0cc9955ae378",
-   "title": "Which GTA 6 Edition Fits the Way You Play",
-   "first_seen": "2026-10-31T18:01:16Z",
-   "updated": "2026-10-31T18:01:16Z",
-   "items": [
-    {
-     "id": "0cc9955ae378",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameWatcher",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Which GTA 6 Edition Fits the Way You Play",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRUIxWHRTOHkzZWdhdlVpeGxHM2RpaHhBRmQtMXRrWE5Kd1JnZFowUUpqbVlHTE9Xc0dHTnVvT05lckZ3emFTc2V3eUc3OVdCY2t0a1dtbUtyWXl1YlhWVVlucF85MXBJWGlEaWRUNVJlS2ZoOWVGN19IVFRLNjF1NUQxZ3VEZWNtWF9hdmUtWQ?oc=5",
-     "ts": "2026-10-31T10:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "a2746ca1608e",
-   "title": "Tip for anyone that has slow internet or pays for data usage on downloading GTA6.",
-   "first_seen": "2026-10-31T18:01:16Z",
-   "updated": "2026-10-31T18:01:16Z",
-   "items": [
-    {
-     "id": "a2746ca1608e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Tip for anyone that has slow internet or pays for data usage on downloading GTA6.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xkgoin/tip_for_anyone_that_has_slow_internet_or_pays_for/",
-     "ts": "2026-10-31T17:51:39Z",
-     "summary": "Check your local libraries. More often than not, you should be able to bring in your console and download the game using their internet. My local library in Nashville has areas for setting up computers and other electronics to use for people who don't have internet. submitted by /u/Fluffy_Brilliant_718 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T18:01:11Z",
+  "last_run": "2026-11-07T18:10:46Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 98/100",
-   "gnews_ru: 57/62",
+   "gnews_en: 99/100",
+   "gnews_ru: 56/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 5/10",
@@ -80161,11 +80159,11 @@
    "eurogamer: 2/100",
    "dexerto_gta: 1/50",
    "rockstarintel: 6/10",
-   "gtaboom: 5/30",
+   "gtaboom: 4/30",
    "reddit: 22/25",
    "tg_gtavistar: 6/7",
    "tg_gta6deluxe: 5/5",
-   "tg_gta6_m: 8/16",
+   "tg_gta6_m: 9/16",
    "tg_gta6newsdaily: 1/16"
   ],
   "digest": "2026-11-07@21",
