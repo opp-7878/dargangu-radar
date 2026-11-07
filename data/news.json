@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "0c327b02ee69",
+   "title": "Finally Finished Upgrading My Setup",
+   "first_seen": "2026-11-06T11:31:02Z",
+   "updated": "2026-11-07T01:30:56Z",
+   "items": [
+    {
+     "id": "0c327b02ee69",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Finally Finished Upgrading My Setup",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xpaeh3/finally_finished_upgrading_my_setup/",
+     "ts": "2026-11-06T11:21:35Z",
+     "summary": "My setup: PS5 Pro 77\" LG C6H Sonos Ultimate Immersive Set with ARC Ultra (plus an extra Sub 4) Philips Hue Entertainment Area How are you guys planning on playing the game? Less than 2 weeks to go! 🎉 submitted by /u/MShogunH to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "5b0c31dcac4a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "My setup for GTA 6 is finally complete!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xptvkk/my_setup_for_gta_6_is_finally_complete/",
+     "ts": "2026-11-07T01:22:39Z",
+     "summary": "PS5 Pro + 4K Oled 77 Inch Samsung S90F! submitted by /u/G6atlker21 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6d63922c0a6a",
+   "title": "Rockstar drops nearly 40 new GTA 6 screenshots before 19 November launch",
+   "first_seen": "2026-11-07T01:30:56Z",
+   "updated": "2026-11-07T01:30:56Z",
+   "items": [
+    {
+     "id": "6d63922c0a6a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WellPlayed",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar drops nearly 40 new GTA 6 screenshots before 19 November launch",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WZTQ2MEUyVnhDMDNORHh3Zzk2eWRXek9fank5Ym9wV3JVV0JnMUItRkp5eXgxeTFnWTB3YzdET0t3TFRpRG5KU0VaTkw4eFBFMVQ5Zm5HRC1pWGRtZ3lOYjR5Ulp1UzhIaEgxR0hNb0pFUU9tUUxWbEhRaGdXQQ?oc=5",
+     "ts": "2026-11-07T00:45:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9bb753cc10cb",
    "title": "A character featured in new launch photos for GTA 6 has similar face tattoos as rapper Kodak Black, along with his signature hairstyle and personalized jewelry.",
    "first_seen": "2026-11-07T01:10:45Z",
@@ -9337,32 +9402,6 @@
    "tags": [],
    "score": 45,
    "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0c327b02ee69",
-   "title": "Finally Finished Upgrading My Setup",
-   "first_seen": "2026-11-06T11:31:02Z",
-   "updated": "2026-11-06T11:31:02Z",
-   "items": [
-    {
-     "id": "0c327b02ee69",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Finally Finished Upgrading My Setup",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpaeh3/finally_finished_upgrading_my_setup/",
-     "ts": "2026-11-06T11:21:35Z",
-     "summary": "My setup: PS5 Pro 77\" LG C6H Sonos Ultimate Immersive Set with ARC Ultra (plus an extra Sub 4) Philips Hue Entertainment Area How are you guys planning on playing the game? Less than 2 weeks to go! 🎉 submitted by /u/MShogunH to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
    "alerted": "",
    "status": "new"
   },
@@ -78670,7 +78709,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T01:20:45Z",
+  "last_run": "2026-11-07T01:30:56Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 97/100",
