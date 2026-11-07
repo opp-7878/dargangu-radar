@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "6c06a664f57d",
+   "title": "Rockstar показала 40 новых кадров GTA 6",
+   "first_seen": "2026-11-07T07:01:09Z",
+   "updated": "2026-11-07T07:01:09Z",
+   "items": [
+    {
+     "id": "6c06a664f57d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "bigmir)net",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar показала 40 новых кадров GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkh1S0VFRmhYTlJwLS1mcjBkTVJOVm5ZOHp4ZHY4OFd5dVVLSnN2TnRjVWRYUU5uWjV2RjM1bG05UmNmVEc4bmR0MEdtcTdqUUlFUWM2WjlHQ3I3UnRSTzBIdnVQckNvR0NDOHVRYXgxanpBd0h0RXpKclA5Vm0zVVJjSE54OVhYYUF2ZkJ2VQ?oc=5",
+     "ts": "2026-11-06T08:05:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c8b8e7649edb",
+   "title": "GTA 6 Xbox file size listing differs from PS5; day-one patch may explain gap",
+   "first_seen": "2026-11-07T07:01:09Z",
+   "updated": "2026-11-07T07:01:09Z",
+   "items": [
+    {
+     "id": "c8b8e7649edb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mezha.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Xbox file size listing differs from PS5; day-one patch may explain gap",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GaW8tbUpKZGlPM1Q2Slp6N3lMWGlvLWhpa1VHNy1xOFhBOXg4b2dQQk5obUNNTTBzaDliaF9DTWdFQmRfUmJPMDdFTF95cnV1SDlfNV83ZjlLenNGbDdCa0dVVnE0aFZGZG5oa1JSbHNQQ191Y2k2Tw?oc=5",
+     "ts": "2026-11-07T00:10:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
    "id": "529efb01be74",
    "title": "GTA 6 Might Be the Most Anticipated Game Ever… If Not, What Was?",
    "first_seen": "2026-11-07T06:50:46Z",
@@ -79226,41 +79280,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4cd3e258ff14",
-   "title": "Is there a chance it isn't good?",
-   "first_seen": "2026-10-31T06:50:47Z",
-   "updated": "2026-10-31T06:50:47Z",
-   "items": [
-    {
-     "id": "4cd3e258ff14",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Is there a chance it isn't good?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xk37p6/is_there_a_chance_it_isnt_good/",
-     "ts": "2026-10-31T06:45:49Z",
-     "summary": "I know it seems like blasphemy, but with all the systems, huge map, updated wanted rating and all that, etc., is there actually a legitimate chance the game will be just too bloated and/or just genuinely not fun? And if it is, will anyone actually admit it? submitted by /u/LostandFoundPilgrim to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T06:50:46Z",
+  "last_run": "2026-11-07T07:01:09Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 74/77",
+   "gnews_ru: 75/77",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
