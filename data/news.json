@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "de30a61513e7",
+   "title": "The first physical Grand Theft Auto VI PlayStation 5 box has been spotted in Germany.",
+   "first_seen": "2026-11-07T13:31:01Z",
+   "updated": "2026-11-07T14:20:48Z",
+   "items": [
+    {
+     "id": "de30a61513e7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The first official GTA 6 physical copy has been spotted in Germany, featuring new screenshots on the back",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xq697c/the_first_official_gta_6_physical_copy_has_been/",
+     "ts": "2026-11-07T13:22:32Z",
+     "summary": "submitted by /u/peqc to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "de6b61e95f15",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Reportedly first Physical copy of GTAVI has been spotted in Germany.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xq6tfk/reportedly_first_physical_copy_of_gtavi_has_been/",
+     "ts": "2026-11-07T13:49:50Z",
+     "summary": "The source is not confirmed so take it with a grain of salt. submitted by /u/Ok_Prize_9979 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "eba4778ff403",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Reportedly first Physical copy of GTAVI has been spotted in Germany.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xq6twx/reportedly_first_physical_copy_of_gtavi_has_been/",
+     "ts": "2026-11-07T13:50:28Z",
+     "summary": "The source is not confirmed so take it with a grain of salt. submitted by /u/Ok_Prize_9979 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "ce0c3fa58471",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The first physical Grand Theft Auto VI PlayStation 5 box has been spotted in Germany.",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMURNMUplN1M0Ny15M1VJaGpZSE5FaG9nV2ZaVGZsVHEzeEluUzVMaUdHQU5kLVNNT1Azc1FUU0NyVUVYaS1LTmRacWFiM3duZDBiTzRFMUgwRlpCcnNVUTdyb0Z0dlp6WjBqSWtGbXl6YWlaejhMb3pnX2V2aWtYcmpYc0VwM1d6Y29OR09XY1lBSnAtRnRKT2plWTVFLXI4MnhYQXN6SVRnX2lxd05jRmsyUHduZUxsMzFrVg?oc=5",
+     "ts": "2026-11-07T14:13:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Первая физическая коробка GTA 6 засветилась в Германии",
+    "summary": "В Германии заметили первую физическую копию GTA 6 для PlayStation 5, на обороте появились новые скриншоты. Об этом сообщил GameGPU и обсуждают на Reddit, но источник не подтверждён.",
+    "idea": "Крупный план коробки GTA 6 с новыми скриншотами на обороте — смотрим, что изменилось. Зрителю интересно увидеть первые реальные кадры с диска.",
+    "hook": "Первая физическая коробка GTA 6 — и новые скриншоты на обороте.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-07T14:20:52Z"
+   },
+   "msg_id": 625
+  },
+  {
    "id": "3c5738a47fa1",
    "title": "GTA 6 ultimate edition offers extra cars and weapons: Is it better than standard?",
    "first_seen": "2026-11-07T04:01:06Z",
@@ -269,60 +347,6 @@
    "score": 70,
    "level": "PROBABLE",
    "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "de30a61513e7",
-   "title": "The first official GTA 6 physical copy has been spotted in Germany, featuring new screenshots on the back",
-   "first_seen": "2026-11-07T13:31:01Z",
-   "updated": "2026-11-07T13:50:51Z",
-   "items": [
-    {
-     "id": "de30a61513e7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "The first official GTA 6 physical copy has been spotted in Germany, featuring new screenshots on the back",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xq697c/the_first_official_gta_6_physical_copy_has_been/",
-     "ts": "2026-11-07T13:22:32Z",
-     "summary": "submitted by /u/peqc to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "de6b61e95f15",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Reportedly first Physical copy of GTAVI has been spotted in Germany.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xq6tfk/reportedly_first_physical_copy_of_gtavi_has_been/",
-     "ts": "2026-11-07T13:49:50Z",
-     "summary": "The source is not confirmed so take it with a grain of salt. submitted by /u/Ok_Prize_9979 to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "eba4778ff403",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Reportedly first Physical copy of GTAVI has been spotted in Germany.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xq6twx/reportedly_first_physical_copy_of_gtavi_has_been/",
-     "ts": "2026-11-07T13:50:28Z",
-     "summary": "The source is not confirmed so take it with a grain of salt. submitted by /u/Ok_Prize_9979 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -79194,65 +79218,13 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "5656ef5ea3e3",
-   "title": "В GTA 6 будет русская озвучка: кто сделает дубляж?",
-   "first_seen": "2026-10-31T14:20:53Z",
-   "updated": "2026-10-31T14:20:53Z",
-   "items": [
-    {
-     "id": "5656ef5ea3e3",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "CyberMeta",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "В GTA 6 будет русская озвучка: кто сделает дубляж?",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0owakNLeFVaaFNuV2RCbHowU05OeGo5TEtiTUZwUGlZT21WMjFnQklTaU1BV3ZSd2tJZzRnWkl4VDVZNmZLVnZBOXhTNjNHbFRsdklrYVZsMnd5V1QtU0t2OE1BT2FNZVJsWDBrbGZEOEtYR21HN1BycC1DVEZCWGZfc3l1Ty1MSkNyYnF2TndJQQ?oc=5",
-     "ts": "2026-10-31T13:50:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "06bc534c0bac",
-   "title": "GTA 6 Police Won’t Search a Bus They Didn’t See a Player Board, Rockstar Says",
-   "first_seen": "2026-10-31T14:20:53Z",
-   "updated": "2026-10-31T14:20:53Z",
-   "items": [
-    {
-     "id": "06bc534c0bac",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Happy Gamer",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Police Won’t Search a Bus They Didn’t See a Player Board, Rockstar Says",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94OTdGMVJSLTQ4SkFOMFBXajhUUHlGQnZZRzJ6QllnRmk2UFVMTUdqUE1HajVMdWp3VlRINlRDWjRZNlhmamlqQmVHZGhqVlM2Ty1VbzdRZGRQalZYazUtSG1ucW9NRXlrS28w?oc=5",
-     "ts": "2026-10-31T14:06:53Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T14:10:54Z",
+  "last_run": "2026-11-07T14:20:53Z",
   "last_log": [
-   "rockstar_site: 0/4",
+   "rockstar_site: 0/3",
    "gnews_en: 98/100",
    "gnews_ru: 63/68",
    "gamesbeat: 0/10",
@@ -79263,7 +79235,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 7/10",
    "gtaboom: 7/30",
-   "reddit: 22/25",
+   "reddit: 21/25",
    "tg_gtavistar: 7/7",
    "tg_gta6deluxe: 5/5",
    "tg_gta6_m: 8/17",
