@@ -4,7 +4,7 @@
    "id": "ca7df1095e36",
    "title": "PS5 Pro is Sold Out Everywhere as GTA VI Pre-Load Starts Next Week",
    "first_seen": "2026-11-07T11:40:48Z",
-   "updated": "2026-11-07T11:40:48Z",
+   "updated": "2026-11-07T11:50:47Z",
    "items": [
     {
      "id": "ca7df1095e36",
@@ -18,11 +18,77 @@
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91cXNDaFpyZXhyMDFnZlpzSkM5X1JlcE5rQ3JTMFdfZ3BNOFgzLXJ1Z0hmMEpZdFUtYUR0QUlvV0gzbG5mbFppaEllQ1lNWF9vemVER3drZU1Gck5qZGd5NFo1OUJOcl9MQ0VxVA?oc=5",
      "ts": "2026-11-07T11:31:00Z",
      "summary": ""
+    },
+    {
+     "id": "c87259d612e0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PS5 Pro is Sold Out Everywhere as GTA VI Pre-Load Starts Next Week",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVE3NGN3emg1M0dWc0FzbDZpZzc3dmwzMldxUTNPRXFfNHhLS0MzdzVjakFwQzQ5ZTNBVG1KRHZhQmUtUUI1azV1WTdCajA4QkE1LXNtQkhJSXBPTExlendQUzFFcWxtMXpmOG9PVTlpWm1wLU1UamxTbFJMN09lSk5yM3k3QVRzSWlVVHRXRnYxTHZxcWQ4?oc=5",
+     "ts": "2026-11-07T11:31:59Z",
+     "summary": ""
     }
    ],
    "tags": [],
-   "score": 50,
+   "score": 58,
    "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "PS5 Pro исчезла из магазинов: предзагрузка GTA 6 стартует на следующей неделе",
+    "summary": "По данным BeInCrypto и Yahoo Finance, консоль PS5 Pro сейчас распродана во всех магазинах. Предзагрузка GTA 6 стартует на следующей неделе.",
+    "idea": "Короткий монтаж: пустые полки PS5 Pro и таймер предзагрузки GTA 6. Зрителю важно знать, успеет ли он скачать игру и найти консоль.",
+    "hook": "PS5 Pro исчезла из магазинов, а предзагрузка GTA 6 стартует на следующей неделе.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-07T11:50:50Z"
+   },
+   "msg_id": 616
+  },
+  {
+   "id": "d3a01014c07e",
+   "title": "Devs on GTA6 Leaks",
+   "first_seen": "2026-11-07T09:30:58Z",
+   "updated": "2026-11-07T11:50:47Z",
+   "items": [
+    {
+     "id": "d3a01014c07e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Devs on GTA6 Leaks",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xq2a8p/devs_on_gta6_leaks/",
+     "ts": "2026-11-07T09:22:34Z",
+     "summary": "Out of morbid curiosity, do you think we will get a dev/artist insight into the leaks we got from cyberleek. Like did they have a decent idea of what area of the dev team it came from, by the build? And just in general what the morning at work was like during the leak. Just curious about an insider perspective, especially if they had a general idea of where it came from. Have Rockstar devs ever done anything like the past? submitted by /u/BFGR02 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "f4de6c8b45a8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Despite all the leaks & info, we are less than 2 weeks out and GTA6 still feels like a mystery",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xq4hze/despite_all_the_leaks_info_we_are_less_than_2/",
+     "ts": "2026-11-07T11:46:51Z",
+     "summary": "Does everyone feel like we only know small bits about the story, the map, the gameplay, the side activies, the new tech, etc? I have been disappointed many times about the lack of info, but now it's so close it actually feels exciting. If this game is as revolutionary as we are hoping, this release will be something incredibly special. submitted by /u/PyloPower to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "геймплей",
+    "слив"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
    "alerted": "",
    "status": "new"
   },
@@ -883,34 +949,6 @@
    "tags": [
     "ПК",
     "размер/preload"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d3a01014c07e",
-   "title": "Devs on GTA6 Leaks",
-   "first_seen": "2026-11-07T09:30:58Z",
-   "updated": "2026-11-07T09:30:58Z",
-   "items": [
-    {
-     "id": "d3a01014c07e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Devs on GTA6 Leaks",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xq2a8p/devs_on_gta6_leaks/",
-     "ts": "2026-11-07T09:22:34Z",
-     "summary": "Out of morbid curiosity, do you think we will get a dev/artist insight into the leaks we got from cyberleek. Like did they have a decent idea of what area of the dev team it came from, by the build? And just in general what the morning at work was like during the leak. Just curious about an insider perspective, especially if they had a general idea of where it came from. Have Rockstar devs ever done anything like the past? submitted by /u/BFGR02 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "слив"
    ],
    "score": 35,
    "level": "SPECULATION",
@@ -79265,11 +79303,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T11:40:48Z",
+  "last_run": "2026-11-07T11:50:50Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 68/71",
+   "gnews_ru: 67/70",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
