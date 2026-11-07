@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "e046e83aa7a3",
+   "title": "Тачки на прокачку: энтузиаст сравнил машины из Grand Theft Auto VI с их реальными прототипами",
+   "first_seen": "2026-11-07T10:40:48Z",
+   "updated": "2026-11-07T10:40:48Z",
+   "items": [
+    {
+     "id": "e046e83aa7a3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Тачки на прокачку: энтузиаст сравнил машины из Grand Theft Auto VI с их реальными прототипами",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFBmTXMtZWpGOUV3Mi1VQ2NRSFBpamJ2elZGZ3FJRDZ4QWtoS2RrVFVsTGZJMG5IcERYQXZLaGhNZGI3Smg2a0hTekM2VUZyNlJvWjBhd1ZvMlQ4OGh4RHdfV1N3SXBHX0N3TEJQMkkyN245Y1p6UWpic3hyTWZUNmdpUWZUR2ZyY3ZUeWFKaDJndmhuOTh6VGxWWWtQYmlGdHBWUXU5ZXVaREp2M09ad3pmcTNNTTFGUFUyV2xn?oc=5",
+     "ts": "2026-11-07T10:38:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "87dd7f964413",
    "title": "Had to see it with my own eyes! We’re in the home stretch now 🎉",
    "first_seen": "2026-11-07T10:30:57Z",
@@ -79153,74 +79179,22 @@
    "status": "new",
    "ai_fail": 1,
    "ai_error": "URLError: <urlopen error timed out>"
-  },
-  {
-   "id": "72607e0fbc81",
-   "title": "GTA 6 map is twice the size of GTA 5 before November 19 launch",
-   "first_seen": "2026-10-31T10:31:04Z",
-   "updated": "2026-10-31T10:31:04Z",
-   "items": [
-    {
-     "id": "72607e0fbc81",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mix Vale",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 map is twice the size of GTA 5 before November 19 launch",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVVROW5sN1N3WW1BcmNkbzNFa1VLX0JTSl9xclRMaHVuQkNvaVV6OUhtRUp4QW5reEdoeVhxRG1MTUhkUkZJVVNwTVNhUGw5cFBiWWpZZWF4NDdsQkJ0eWoxMlI4VE1EZ3dYbEVwT2NhODNPdEpOeHI0aExBZEQzRHpHWmRmSllTYVhTR295amxtMDlaLTk3c05VUU5nXzZwaXRj?oc=5",
-     "ts": "2026-10-30T20:55:36Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "13b0d25981b1",
-   "title": "The best PS5 and Xbox setup for GTA 6: here are the must-have TVs, controllers, headsets and more",
-   "first_seen": "2026-10-31T10:31:04Z",
-   "updated": "2026-10-31T10:31:04Z",
-   "items": [
-    {
-     "id": "13b0d25981b1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Tom's Guide",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The best PS5 and Xbox setup for GTA 6: here are the must-have TVs, controllers, headsets and more",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZmY3ZXI4a0JlQ1lMMlFJdGI3WUdja3ZPa2ZyUGtSdk1hamFIVzNDLXE0ak9LU1pOSUpYX2NIMDE5b0Jfc0FYaVRucWt1THVjamwza0FBaTVRYXdXcnhGQnNWMW1CRGd6Skk2b2xiTEtiWmliSUwwaXJwWDVGMERlcFd3?oc=5",
-     "ts": "2026-10-31T10:15:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T10:31:01Z",
+  "last_run": "2026-11-07T10:40:48Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 69/72",
+   "gnews_ru: 70/73",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
    "ign: 1/20",
    "eurogamer: 3/100",
    "dexerto_gta: 2/50",
-   "rockstarintel: 7/10",
+   "rockstarintel: 6/10",
    "gtaboom: 7/30",
    "reddit: 22/25",
    "tg_gtavistar: 7/7",
