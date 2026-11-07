@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "c2907ed4425c",
+   "title": "Jumping the Bascule Bridge",
+   "first_seen": "2026-11-07T20:30:59Z",
+   "updated": "2026-11-07T20:30:59Z",
+   "items": [
+    {
+     "id": "c2907ed4425c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Jumping the Bascule Bridge",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xqg1s1/jumping_the_bascule_bridge/",
+     "ts": "2026-11-07T20:26:45Z",
+     "summary": "Hope there's an achievement for it but it'll be fun, none the less. submitted by /u/Rex_Digsdale to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "33eb49ae2060",
    "title": "Take-Two Braces for Earnings as GTA VI Marketing Machine Kicks Into Gear",
    "first_seen": "2026-11-07T18:20:50Z",
@@ -80398,67 +80424,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "cb943aa867bf",
-   "title": "GTA 6 marketing in Serie A league in Italy",
-   "first_seen": "2026-10-31T20:20:53Z",
-   "updated": "2026-10-31T20:20:53Z",
-   "items": [
-    {
-     "id": "cb943aa867bf",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 marketing in Serie A league in Italy",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xkk6fv/gta_6_marketing_in_serie_a_league_in_italy/",
-     "ts": "2026-10-31T20:13:15Z",
-     "summary": "submitted by /u/_m1rko_vp to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3230ffd814a0",
-   "title": "GTA 6 Has More Sports Activities Than You Might Expect — Here’s What’s Included",
-   "first_seen": "2026-10-31T20:20:53Z",
-   "updated": "2026-10-31T20:20:53Z",
-   "items": [
-    {
-     "id": "3230ffd814a0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Athlon Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Has More Sports Activities Than You Might Expect — Here’s What’s Included",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hRWJCVHlXTEVOc0sxdUxuWlBYMlFJLWUtX0lEaUs3Z3hkbV8wM0tTZjhPdzY1X25Hamhjb3JuUk5xR0dldkNaaXhBdmg5ZkdZRTVjUklaMG15RE9OcXY5eUt6ckgxUkFrV1k1Q2cya3Jmd2tROFlQYVlsbE0?oc=5",
-     "ts": "2026-10-31T20:14:42Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T20:20:46Z",
+  "last_run": "2026-11-07T20:30:59Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 99/100",
-   "gnews_ru: 55/63",
+   "rockstar_site: 0/1",
+   "gnews_en: 98/100",
+   "gnews_ru: 56/64",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
