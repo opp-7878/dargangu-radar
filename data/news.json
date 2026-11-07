@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "511775b6740b",
+   "title": "Физическая копия GTA 6 раскрыла коллекционную карту",
+   "first_seen": "2026-11-07T15:40:47Z",
+   "updated": "2026-11-07T15:40:47Z",
+   "items": [
+    {
+     "id": "511775b6740b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Plugged In Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Физическая копия GTA 6 раскрыла коллекционную карту",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUjBVSlNKZnJ2OGtxeGJ0Q2hhOU5EX0hBdm1za2FZNlVBLXBuUnJua2RaR2FRSTQ2a1hrd0RWNEJkNG5MNVVJX3NXX0c1dC1WSEt0TE9MU0xxeHZVS0lCVlIxbkFBRzRmbl8wdG1oVjBFcU10Mk5uSUVjX01TcWJZNGdPU3JQN2dNLTkycmJHaDA?oc=5",
+     "ts": "2026-11-07T15:32:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "92d8e006cb99",
+   "title": "Is GTA6 Making Waves?",
+   "first_seen": "2026-11-07T15:40:47Z",
+   "updated": "2026-11-07T15:40:47Z",
+   "items": [
+    {
+     "id": "92d8e006cb99",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Is GTA6 Making Waves?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xq93kz/is_gta6_making_waves/",
+     "ts": "2026-11-07T15:32:13Z",
+     "summary": "Undoubtedly the water physics in this game already look great from what we’ve seen. The reflection/refraction, wind-effect on surface texture, shoreline physics, etc. In GTA5, we had “wave-like” physics with mounds of water forming around the shallows, but no breaking waves. It would be nice if ocean conditions could vary depending on storms and swells, but in all footage I’ve seen of GTA6, it’s relatively flat. With such an emphasis on improved water in GTA6, do you expect (or have you seen) any actual curling/breaking waves? submitted by /u/Baconknobs to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c8b8e7649edb",
    "title": "GTA 6 Xbox file size listing differs from PS5; day-one patch may explain gap",
    "first_seen": "2026-11-07T07:01:09Z",
@@ -79449,37 +79501,11 @@
     "at": "2026-10-31T15:40:59Z"
    },
    "msg_id": 383
-  },
-  {
-   "id": "5177a4500f14",
-   "title": "86-летний британский певец попал в саундтрек GTA 6, но даже не понял, что это видеоигра. Он решил, что его песню... 2026",
-   "first_seen": "2026-10-31T15:31:05Z",
-   "updated": "2026-10-31T15:31:05Z",
-   "items": [
-    {
-     "id": "5177a4500f14",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ВКонтакте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "86-летний британский певец попал в саундтрек GTA 6, но даже не понял, что это видеоигра. Он решил, что его песню... 2026",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Kdk1SLTRJdkdUT05aYkI3d3lNaGpwek1IUXpmS2ZDb0NYRXc1YUtHUjEwblJ0U3pnSFF4NTA1ZmFzMlcwYmdGWG4tUlU?oc=5",
-     "ts": "2026-10-31T13:07:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T15:31:01Z",
+  "last_run": "2026-11-07T15:40:47Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 98/100",
@@ -79490,7 +79516,7 @@
    "ign: 1/20",
    "eurogamer: 3/100",
    "dexerto_gta: 1/50",
-   "rockstarintel: 7/10",
+   "rockstarintel: 6/10",
    "gtaboom: 6/30",
    "reddit: 20/25",
    "tg_gtavistar: 5/7",
