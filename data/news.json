@@ -1,6 +1,56 @@
 {
  "stories": [
   {
+   "id": "bf7cb40bbbac",
+   "title": "‼️ PLAYSTATION ВЕРНЕТСЯ В РОССИЮ?",
+   "first_seen": "2026-11-07T09:30:58Z",
+   "updated": "2026-11-07T10:10:48Z",
+   "items": [
+    {
+     "id": "bf7cb40bbbac",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "‼️ PLAYSTATION ВЕРНЕТСЯ В РОССИЮ?",
+     "url": "https://t.me/gta6deluxe/1970",
+     "ts": "2026-11-07T09:30:31Z",
+     "summary": "‼️ PLAYSTATION ВЕРНЕТСЯ В РОССИЮ? Sony подала заявку на регистрацию названия и логотипа PlayStation в РФ Не исключено, что таким образом компания готовит почву для возвращения на российский рынок 😀 Подписаться | Наш чат 😀"
+    },
+    {
+     "id": "ef32c8c03acb",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "PlayStation может вернуться в Россию?",
+     "url": "https://t.me/GTAVIStar/844",
+     "ts": "2026-11-07T10:02:01Z",
+     "summary": "PlayStation может вернуться в Россию? Sony зарегистрировала заявку на бренд • Sony подала заявку на регистрацию названия и логотипа PlayStation в России. Это сразу вызвало разговоры о возможном возвращении бренда на российский рынок. • Однако регистрация товарного знака сама по себе не означает возобновление продаж или официальной работы компании в стране. 6️⃣ GTA VI News 💝 Наш чатик"
+    }
+   ],
+   "tags": [],
+   "score": 63,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "PlayStation может вернуться в Россию? Sony подала заявку на регистрацию",
+    "summary": "Sony подала заявку на регистрацию названия и логотипа PlayStation в РФ. По информации канала @gta6deluxe, не исключено, что компания готовит почву для возвращения на российский рынок.",
+    "idea": "Короткий разбор: что значит заявка Sony в Роспатент и как это связано с GTA 6 на PS5 в РФ. Зрителю важно понять шансы и сроки.",
+    "hook": "PlayStation возвращается в Россию? Sony подала заявку — что это значит для нас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-07T09:31:01Z"
+   },
+   "msg_id": 613
+  },
+  {
    "id": "cc47d275ba7f",
    "title": "Аналитик Circana: даже The Elder Scrolls VI: Sentinel не сможет занять место GTA 6 после её выхода",
    "first_seen": "2026-11-07T10:01:07Z",
@@ -396,43 +446,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "bf7cb40bbbac",
-   "title": "‼️ PLAYSTATION ВЕРНЕТСЯ В РОССИЮ?",
-   "first_seen": "2026-11-07T09:30:58Z",
-   "updated": "2026-11-07T09:30:58Z",
-   "items": [
-    {
-     "id": "bf7cb40bbbac",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "‼️ PLAYSTATION ВЕРНЕТСЯ В РОССИЮ?",
-     "url": "https://t.me/gta6deluxe/1970",
-     "ts": "2026-11-07T09:30:31Z",
-     "summary": "‼️ PLAYSTATION ВЕРНЕТСЯ В РОССИЮ? Sony подала заявку на регистрацию названия и логотипа PlayStation в РФ Не исключено, что таким образом компания готовит почву для возвращения на российский рынок 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "PlayStation может вернуться в Россию? Sony подала заявку на регистрацию",
-    "summary": "Sony подала заявку на регистрацию названия и логотипа PlayStation в РФ. По информации канала @gta6deluxe, не исключено, что компания готовит почву для возвращения на российский рынок.",
-    "idea": "Короткий разбор: что значит заявка Sony в Роспатент и как это связано с GTA 6 на PS5 в РФ. Зрителю важно понять шансы и сроки.",
-    "hook": "PlayStation возвращается в Россию? Sony подала заявку — что это значит для нас.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-07T09:31:01Z"
-   },
-   "msg_id": 613
   },
   {
    "id": "beb4b81ab806",
@@ -79316,91 +79329,15 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
-  },
-  {
-   "id": "58628aa8a6db",
-   "title": "GTA 6 Parents Guide: Is It Safe to Play for Kids?",
-   "first_seen": "2026-10-30T22:40:51Z",
-   "updated": "2026-10-31T10:01:20Z",
-   "items": [
-    {
-     "id": "58628aa8a6db",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Beebom",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Parents Guide: Is It Safe to Play for Kids?",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00SV9mdHg0dTlKZ3NyYTZvU0FTSzJBQmE3OGVna1FOeXZrZ2o3Tk9SeE42Q21qTUk3VXpLWHZ3eXNwa3lzMDhkTG90QWpuY3VlYnBtbXVDVE9vd081b1lZZFVTbmpaVWPSAWxBVV95cUxNWG4xWEtvQmZnbkdpYjRLNEpzWFFEYnRXNXB2dUJRdlBhVE53dGpTM0NUbGdoYzNLclhGclI0YUVjbjdpY1RaeXY4emF2N1dPMEhHUmYtcGpGZEw0aEFnZ2hiWTJFNE5ra0w5YkM?oc=5",
-     "ts": "2026-10-30T12:18:47Z",
-     "summary": ""
-    },
-    {
-     "id": "5589cf2ff492",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Beebom",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Parents Guide: Is It Safe to Play for Kids?",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YbjFYS29CZmduR2liNEs0SnNYUURidFc1cHZ1QlF2UGFUTnd0alMzQ1RsZ2hjM0tyWEZyUjRhRWNuN2ljVFp5djh6YXY3V08wSEdSZi1wakZkTDRoQWdnaGJZMkU0TmtrTDliQ9IBbEFVX3lxTE1YbjFYS29CZmduR2liNEs0SnNYUURidFc1cHZ1QlF2UGFUTnd0alMzQ1RsZ2hjM0tyWEZyUjRhRWNuN2ljVFp5djh6YXY3V08wSEdSZi1wakZkTDRoQWdnaGJZMkU0TmtrTDliQw?oc=5",
-     "ts": "2026-10-30T12:18:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3adcad6b31a7",
-   "title": "🤩 SLAY 2026: НОВАЯ ЭРА ЦИФРОВОЙ РЕАЛЬНОСТИ НАЧИНАЕТСЯ Главная стримерская премия возвращается в новом визуальном воплощении — Digital Nature , объединив естеств",
-   "first_seen": "2026-10-31T10:01:20Z",
-   "updated": "2026-10-31T10:01:20Z",
-   "items": [
-    {
-     "id": "3adcad6b31a7",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "🤩 SLAY 2026: НОВАЯ ЭРА ЦИФРОВОЙ РЕАЛЬНОСТИ НАЧИНАЕТСЯ Главная стримерская премия возвращается в новом визуальном воплощении — Digital Nature , объединив естеств",
-     "url": "https://t.me/gta6deluxe/1884",
-     "ts": "2026-10-31T10:00:10Z",
-     "summary": "🤩 SLAY 2026: НОВАЯ ЭРА ЦИФРОВОЙ РЕАЛЬНОСТИ НАЧИНАЕТСЯ Главная стримерская премия возвращается в новом визуальном воплощении — Digital Nature , объединив естественную красоту природы и эстетику цифрового будущего 🤩 Стать частью премии сможет каждый: церемония награждения вновь пройдет со зрителями во Дворце Ирины Винер, а билеты на SLAY 2026 совсем скоро поступят в продажу 🤩"
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🤩 SLAY 2026: новая эра стриминга и билеты уже скоро",
-    "summary": "Главная стримерская премия SLAY возвращается в 2026 году с темой Digital Nature, объединяющей природу и цифровой стиль. Церемония пройдет со зрителями во Дворце Ирины Винер, билеты поступят в продажу совсем скоро. Об этом сообщил канал TG @gta6deluxe.",
-    "idea": "Короткий динамичный ролик о SLAY 2026: визуал Digital Nature, офлайн-церемония и старт продаж билетов. Зрителю важно знать, когда брать билеты и чего ждать от шоу.",
-    "hook": "SLAY 2026 возвращается: Digital Nature, офлайн и билеты уже на подходе.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-31T10:01:23Z"
-   },
-   "msg_id": 369
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T10:01:07Z",
+  "last_run": "2026-11-07T10:10:48Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 98/100",
-   "gnews_ru: 75/78",
+   "gnews_en: 97/100",
+   "gnews_ru: 73/76",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -79410,7 +79347,7 @@
    "rockstarintel: 7/10",
    "gtaboom: 8/30",
    "reddit: 21/25",
-   "tg_gtavistar: 6/6",
+   "tg_gtavistar: 7/7",
    "tg_gta6deluxe: 9/9",
    "tg_gta6_m: 8/17",
    "tg_gta6newsdaily: 1/16"
