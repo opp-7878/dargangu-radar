@@ -1,6 +1,69 @@
 {
  "stories": [
   {
+   "id": "87dd7f964413",
+   "title": "Had to see it with my own eyes! We’re in the home stretch now 🎉",
+   "first_seen": "2026-11-07T10:30:57Z",
+   "updated": "2026-11-07T10:30:57Z",
+   "items": [
+    {
+     "id": "87dd7f964413",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Had to see it with my own eyes! We’re in the home stretch now 🎉",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xq398z/had_to_see_it_with_my_own_eyes_were_in_the_home/",
+     "ts": "2026-11-07T10:27:01Z",
+     "summary": "Location: Melbourne, Australia submitted by /u/Forsaken-Camel5899 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3ce673422525",
+   "title": "На стриме Кореш и Горилла повторили тот самый заказ Биг Смоука из GTA San Andreas — они заказали в доставке Пятёрочки набор из 25 позиций разного фастфуда в огр",
+   "first_seen": "2026-11-07T10:30:57Z",
+   "updated": "2026-11-07T10:30:57Z",
+   "items": [
+    {
+     "id": "3ce673422525",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "На стриме Кореш и Горилла повторили тот самый заказ Биг Смоука из GTA San Andreas — они заказали в доставке Пятёрочки набор из 25 позиций разного фастфуда в огр",
+     "url": "https://t.me/gta6deluxe/1973",
+     "ts": "2026-11-07T10:30:01Z",
+     "summary": "На стриме Кореш и Горилла повторили тот самый заказ Биг Смоука из GTA San Andreas — они заказали в доставке Пятёрочки набор из 25 позиций разного фастфуда в огромном пакете 🍔 Запасаемся для непрерывного прохождения GTA VI 💪 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Заказ Биг Смоука в Пятёрочке: Кореш и Горилла повторили фастфуд",
+    "summary": "На стриме Кореш и Горилла повторили заказ Биг Смоука из GTA San Andreas — в доставке Пятёрочки 25 позиций фастфуда в одном огромном пакете. Об этом сообщил Telegram-канал @gta6deluxe.",
+    "idea": "Сравнение стрима с культовой сценой GTA: San Andreas — быстрый монтаж «стрим ↔ игра» и реакция на 25 позиций. Зрителю зайдёт ностальгия и абсурд масштаба заказа.",
+    "hook": "Кореш и Горилла сделали заказ Биг Смоука — 25 позиций из Пятёрочки.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-07T10:31:00Z"
+   },
+   "msg_id": 615
+  },
+  {
    "id": "bf7cb40bbbac",
    "title": "‼️ PLAYSTATION ВЕРНЕТСЯ В РОССИЮ?",
    "first_seen": "2026-11-07T09:30:58Z",
@@ -79146,11 +79209,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T10:20:47Z",
+  "last_run": "2026-11-07T10:31:01Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 72/75",
+   "gnews_ru: 69/72",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -79158,10 +79221,10 @@
    "eurogamer: 3/100",
    "dexerto_gta: 2/50",
    "rockstarintel: 7/10",
-   "gtaboom: 8/30",
-   "reddit: 21/25",
+   "gtaboom: 7/30",
+   "reddit: 22/25",
    "tg_gtavistar: 7/7",
-   "tg_gta6deluxe: 9/9",
+   "tg_gta6deluxe: 10/10",
    "tg_gta6_m: 8/17",
    "tg_gta6newsdaily: 1/16"
   ],
