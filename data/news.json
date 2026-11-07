@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "afb5f6ff074a",
+   "title": "Japan Version Censorship",
+   "first_seen": "2026-11-07T05:20:45Z",
+   "updated": "2026-11-07T05:20:45Z",
+   "items": [
+    {
+     "id": "afb5f6ff074a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Japan Version Censorship",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xpy9ld/japan_version_censorship/",
+     "ts": "2026-11-07T05:14:02Z",
+     "summary": "Japanese version has 1.2 GB less than the usual one. Did they cut out the nudity and gore? submitted by /u/M_Shadz to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "13820f6f7964",
+   "title": "Who else is ready to spend hours ignoring the main story to hunt lionfish instead?",
+   "first_seen": "2026-11-07T05:20:45Z",
+   "updated": "2026-11-07T05:20:45Z",
+   "items": [
+    {
+     "id": "13820f6f7964",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Who else is ready to spend hours ignoring the main story to hunt lionfish instead?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xpybo8/who_else_is_ready_to_spend_hours_ignoring_the/",
+     "ts": "2026-11-07T05:17:13Z",
+     "summary": "For those unaware, lionfish are a major invasive species in the Caribbean, Gulf of Mexico, and the warmer waters of the Atlantic along the southeastern US coast. They basically have no natural predators here, reproduce like crazy, and wreak havoc on the native fish populations. submitted by /u/Aware-Flan7443 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6cc151c95372",
    "title": "I have a question regarding the animals",
    "first_seen": "2026-11-07T05:10:46Z",
@@ -79095,11 +79149,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T05:10:46Z",
+  "last_run": "2026-11-07T05:20:45Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 75/78",
+   "gnews_ru: 74/77",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
@@ -79107,8 +79161,8 @@
    "eurogamer: 2/100",
    "dexerto_gta: 2/50",
    "rockstarintel: 7/10",
-   "gtaboom: 10/30",
-   "reddit: 22/25",
+   "gtaboom: 9/30",
+   "reddit: 21/25",
    "tg_gtavistar: 5/5",
    "tg_gta6deluxe: 8/8",
    "tg_gta6_m: 8/18",
