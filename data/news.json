@@ -1,6 +1,110 @@
 {
  "stories": [
   {
+   "id": "364769696850",
+   "title": "MediaMarkt и Saturn показали двусторонний постер GTA VI, который будут выдавать с предзаказами игры",
+   "first_seen": "2026-11-07T06:20:49Z",
+   "updated": "2026-11-07T06:20:49Z",
+   "items": [
+    {
+     "id": "364769696850",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "MediaMarkt и Saturn показали двусторонний постер GTA VI, который будут выдавать с предзаказами игры",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQXdIU2Z2MHdMbklRbE9CNzRWNHJ0ek9YSjhXN0otanpHSTdyVno0UEhfQ3pvZUtLZVRQb3lzSjR1dnpqOUF1ZG90UWh5SGhObWJuU0x0VUpfcVZmVlFZZnpNc2E1WFIwNnhhOE12TUtXMlk1b2w3YWdpaVNxNDhXRmM1ME5URlRvX1lubFA4NU1VbHl4QWg0RjdONllPMnJ5N0phTUs0TGtWRkhPVkluVE8tNTlLZXNseWRRQmp6dm1RUkdLRDNfaWFrMmhueTBoZ2F3VlYta0I5dw?oc=5",
+     "ts": "2026-11-07T06:07:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Постер GTA 6 с предзаказом: что показали MediaMarkt и Saturn",
+    "summary": "MediaMarkt и Saturn показали двусторонний постер GTA 6, который будут выдавать с предзаказами игры. Об этом сообщил PlayGround.ru. Официально Rockstar состав изданий и бонусы пока не подтверждала.",
+    "idea": "Крупный план двустороннего постера GTA 6 с прилавка MediaMarkt/Saturn: что видно на обороте и почему это важно. Зрителю интересно первыми рассмотреть детали и сравнить с ожиданиями.",
+    "hook": "Первые реальные постеры GTA 6 всплыли в MediaMarkt и Saturn — смотри, что на обороте.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-07T06:20:52Z"
+   },
+   "msg_id": 611
+  },
+  {
+   "id": "a98ca5d1cc73",
+   "title": "Выход GTA 6 на ПК может быть перенесён на более ранний срок, чтобы опередить подделки с ИИ, — заявляет бывший директор Rockstar",
+   "first_seen": "2026-11-06T16:10:49Z",
+   "updated": "2026-11-07T06:20:48Z",
+   "items": [
+    {
+     "id": "a98ca5d1cc73",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Выход GTA 6 на ПК может быть перенесён на более ранний срок, чтобы опередить подделки с ИИ, — заявляет бывший директор Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenVnQ3J5dl9sTHRJVi11TU5GZmFwVnNiRDZqRTVrMFowd014U3FBVDdxZndtaE1CV2Y0TkhhZldXM0ZrZDVqdVo2bm55RGpNUDZLOGx5TWR6MlVjZF9FT3o2VGxCdzkzTXJMc05ZbG85VWhkRnJCQ0xvdW9wemZ1MUo2eWRkRlprdTFsclBpVlpOZml6cE5mYWdtajRidW1S?oc=5",
+     "ts": "2026-11-06T14:53:44Z",
+     "summary": ""
+    },
+    {
+     "id": "2360be4fde22",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "dungen.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 на ПК раньше обычного: Rockstar может ускорить релиз из-за ИИ",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IUjdjY0lSTUZfOVZYU3Q5MjJJMWRZWGlTb0tWbzhQLUdoMVJLRUZYVWFFQ3ItSUV0VGMxa3llUjJMMDNYNi16VDhXUGNpV2U1QnVaUWN4dlpqQ0hSZU5mQWR3?oc=5",
+     "ts": "2026-11-06T17:36:39Z",
+     "summary": ""
+    },
+    {
+     "id": "fdfcb9bacf6e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar может ускорить ПК-релиз GTA VI из-за страха перед ИИ-портами — экс-директор студии",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmxQTzEwWnd5YjBhRjBsMEhWZ2tKOTNsYVZsT1c2aXVicGxlNUxKa3lvYzdBbl9Tbm05Y3VGRTlmWE9zNzI5UUcxTkZ2UHNBSm9GNVUxOFM4cWR6MXJJSEVQQWZNQnByX05UU2R2eG9SUHd4TVFHYVVZcEpjY3JtTC1ERDhSODdFYmU1UnBwZ2dMNjNBVW92eTlfUmFUZU5LNjlRdVFn0gGrAUFVX3lxTE9GY2p2MmtiRXpyd29FZ09EbUZVRlFydDc5bEJTNWxSQ29JWGhVU0hnR2NacWNnT0J6LWRReEdrdHhBLUhvVEMtQVhzcXBFUnRVMFBiWDlNa3l0cmFyb0NsRDdtU05pNm45RzBTMzFPdWx5R2FQVTFncUpfN1lSMlYwYjlhN2R4ZXJOTlZHbl91TU9oNllyOFhfc0RUdkFCQS14dVdCRVozSHJFYw?oc=5",
+     "ts": "2026-11-07T05:03:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 71,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Бывший директор Rockstar: ПК-версию GTA 6 могут ускорить",
+    "summary": "Бывший директор Rockstar заявил, что выход GTA 6 на ПК могут перенести на более ранний срок. По его словам, это нужно, чтобы опередить подделки с ИИ. Официально Rockstar это пока не подтверждала.",
+    "idea": "Коротко объясняем, зачем Rockstar может ускорить ПК-версию: чтобы не потерять игроков из-за ИИ-подделок. Добавляем таймлайн ожидания и вопрос зрителям — ждать или брать консоль.",
+    "hook": "Бывший директор Rockstar намекнул: ПК-версию GTA 6 могут выпустить раньше.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-06T16:10:54Z"
+   },
+   "msg_id": 590
+  },
+  {
    "id": "beb4b81ab806",
    "title": "Pilot Draws Incredible GTA 6 Mural With His Flight Path",
    "first_seen": "2026-11-06T10:40:56Z",
@@ -5544,58 +5648,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a98ca5d1cc73",
-   "title": "Выход GTA 6 на ПК может быть перенесён на более ранний срок, чтобы опередить подделки с ИИ, — заявляет бывший директор Rockstar",
-   "first_seen": "2026-11-06T16:10:49Z",
-   "updated": "2026-11-06T17:40:49Z",
-   "items": [
-    {
-     "id": "a98ca5d1cc73",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW.News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Выход GTA 6 на ПК может быть перенесён на более ранний срок, чтобы опередить подделки с ИИ, — заявляет бывший директор Rockstar",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenVnQ3J5dl9sTHRJVi11TU5GZmFwVnNiRDZqRTVrMFowd014U3FBVDdxZndtaE1CV2Y0TkhhZldXM0ZrZDVqdVo2bm55RGpNUDZLOGx5TWR6MlVjZF9FT3o2VGxCdzkzTXJMc05ZbG85VWhkRnJCQ0xvdW9wemZ1MUo2eWRkRlprdTFsclBpVlpOZml6cE5mYWdtajRidW1S?oc=5",
-     "ts": "2026-11-06T14:53:44Z",
-     "summary": ""
-    },
-    {
-     "id": "2360be4fde22",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "dungen.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 на ПК раньше обычного: Rockstar может ускорить релиз из-за ИИ",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IUjdjY0lSTUZfOVZYU3Q5MjJJMWRZWGlTb0tWbzhQLUdoMVJLRUZYVWFFQ3ItSUV0VGMxa3llUjJMMDNYNi16VDhXUGNpV2U1QnVaUWN4dlpqQ0hSZU5mQWR3?oc=5",
-     "ts": "2026-11-06T17:36:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 63,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Бывший директор Rockstar: ПК-версию GTA 6 могут ускорить",
-    "summary": "Бывший директор Rockstar заявил, что выход GTA 6 на ПК могут перенести на более ранний срок. По его словам, это нужно, чтобы опередить подделки с ИИ. Официально Rockstar это пока не подтверждала.",
-    "idea": "Коротко объясняем, зачем Rockstar может ускорить ПК-версию: чтобы не потерять игроков из-за ИИ-подделок. Добавляем таймлайн ожидания и вопрос зрителям — ждать или брать консоль.",
-    "hook": "Бывший директор Rockstar намекнул: ПК-версию GTA 6 могут выпустить раньше.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-06T16:10:54Z"
-   },
-   "msg_id": 590
   },
   {
    "id": "7baf4dff55b1",
@@ -79106,11 +79158,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T06:11:09Z",
+  "last_run": "2026-11-07T06:20:52Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/4",
+   "gnews_en: 98/100",
+   "gnews_ru: 73/76",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
