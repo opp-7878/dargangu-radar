@@ -1,6 +1,47 @@
 {
  "stories": [
   {
+   "id": "95ab262bc4e8",
+   "title": "Actual size on Xbox Series X",
+   "first_seen": "2026-11-07T08:10:47Z",
+   "updated": "2026-11-07T18:01:10Z",
+   "items": [
+    {
+     "id": "95ab262bc4e8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Actual size on Xbox Series X",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xq14zs/actual_size_on_xbox_series_x/",
+     "ts": "2026-11-07T08:07:09Z",
+     "summary": "If you scroll down the Xbox dashboard and select GTA VI (not from recently played, on the promo content rail) for a brief second after you open the game tile, you can see the exact install size up at the top before it disappears. submitted by /u/frenchy-nz to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "c6c2e9f70e9d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 Size for Xbox Series S is 209.9 GB",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xqcl04/gta_6_size_for_xbox_series_s_is_2099_gb/",
+     "ts": "2026-11-07T17:59:25Z",
+     "summary": "Was just looking around at the gta 6 page and noticed it shows 209.9 GB for a quick second and then goes back to 328.8 MB. submitted by /u/Milf_Hunter_sixty9 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "2366d91820cf",
    "title": "A collection of new real-life comparisons between Vice City and Miami",
    "first_seen": "2026-11-07T17:50:48Z",
@@ -4854,32 +4895,6 @@
     "at": "2026-11-07T08:10:51Z"
    },
    "msg_id": 612
-  },
-  {
-   "id": "95ab262bc4e8",
-   "title": "Actual size on Xbox Series X",
-   "first_seen": "2026-11-07T08:10:47Z",
-   "updated": "2026-11-07T08:10:47Z",
-   "items": [
-    {
-     "id": "95ab262bc4e8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Actual size on Xbox Series X",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xq14zs/actual_size_on_xbox_series_x/",
-     "ts": "2026-11-07T08:07:09Z",
-     "summary": "If you scroll down the Xbox dashboard and select GTA VI (not from recently played, on the promo content rail) for a brief second after you open the game tile, you can see the exact install size up at the top before it disappears. submitted by /u/frenchy-nz to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "7baf4dff55b1",
@@ -80134,7 +80149,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-07T17:50:48Z",
+  "last_run": "2026-11-07T18:01:11Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 98/100",
@@ -80153,7 +80168,7 @@
    "tg_gta6_m: 8/16",
    "tg_gta6newsdaily: 1/16"
   ],
-  "digest": "2026-11-07@9",
+  "digest": "2026-11-07@21",
   "tg_offset": 854319078
  }
 }
