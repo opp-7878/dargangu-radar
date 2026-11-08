@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "04c858ce533b",
+   "title": "WTF: Pilot draws GTA 6-inspired art with Flightradar",
+   "first_seen": "2026-11-08T04:10:51Z",
+   "updated": "2026-11-08T04:10:51Z",
+   "items": [
+    {
+     "id": "04c858ce533b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "heise online",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "WTF: Pilot draws GTA 6-inspired art with Flightradar",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVV0WWliNUdMcTZWMFZDc0g1SWNHeDNKN0VEbkR1Z0VaUUxTYzFuTUNsY0FpXzdOTWZIM240cXkwY2ttQmJYTnJ4Ymo4dlpjZzM4b3B3VnFWWW9NYXhJcWlvb2RiM1pUVWp2U0F5YjZGbHdZNzFTLW1Hd3ZydW8way1xbkxEbUZtSm9MalRDbjRHVTlYa3h0WjN3?oc=5",
+     "ts": "2026-11-07T18:43:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e0a39aa67ff4",
    "title": "With GTA 6 less than two weeks away, what do you think are the last minute adjustments Rockstar is making to the game?",
    "first_seen": "2026-11-08T04:01:09Z",
@@ -80401,39 +80427,13 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f4d7cf4d3df9",
-   "title": "A true tragedy",
-   "first_seen": "2026-11-01T04:01:10Z",
-   "updated": "2026-11-01T04:01:10Z",
-   "items": [
-    {
-     "id": "f4d7cf4d3df9",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "A true tragedy",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xktjpu/a_true_tragedy/",
-     "ts": "2026-11-01T04:00:30Z",
-     "summary": "submitted by /u/Global-Ear9206 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-08T04:01:09Z",
+  "last_run": "2026-11-08T04:10:51Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/2",
    "gnews_en: 99/100",
    "gnews_ru: 49/55",
    "gamesbeat: 0/10",
