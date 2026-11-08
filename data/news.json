@@ -1,6 +1,99 @@
 {
  "stories": [
   {
+   "id": "c70716ad25d9",
+   "title": "GTA 6 on PS5, PS5 Pro, and Xbox Series X|S: confirmed technical differences and best platform",
+   "first_seen": "2026-11-08T17:20:48Z",
+   "updated": "2026-11-08T17:20:48Z",
+   "items": [
+    {
+     "id": "c70716ad25d9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Diario AS",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 on PS5, PS5 Pro, and Xbox Series X|S: confirmed technical differences and best platform",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONnU4RjJnbDV4Z2VpZ1NVMWxhR080YVFBMmNrSkNLVlhEdkREakdUTkxUWGctazhPNTQ3Zm1LMWxFeTBXMjA5WHpBUDRvWGg5bThxZ2sxcnZqRVFuckZFb3RNWDNQLVNuR3ZqSTdhVEJXS3ltMHhpbXNpTTNDc252WWF5bWxFcnpvZ043aUN6OGh1WjZqN1U0ZGN5c3BVZG12OXpfLW43X256Rm9JNy1tcVEtUkRYVDE5dDJvTGYyY1E4Rm1oUU03RnV1UEZzS0Nz0gHkAUFVX3lxTE5RbkIzdlBramxMMUUySEZsY1lQSHZFVUtyNlVrdWplekZrMVBrRUVVU2hYNm9CZG9WNTlqUmdyc1VNRUlCQ0w5TVNIUG9USHRLYjU3TFFNcmNORDFUZVRrODRUbkcxQ3A2TWNTY2thSWs3bWRmNFVickhUVjVEV3VNa1F5Yi16ejhBQ05aSnhmcnMtQTdmZDFubnBVVElmUnpJSE5aQVlpRTA3X0RTaWVYVUJHQkxXaC04Mk12b2NBWlFtNnhGcERVdGp3Y3BZUjJfS2VlcDY4ak1ON2xsNmpTclJqNg?oc=5",
+     "ts": "2026-11-08T15:56:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 на PS5, PS5 Pro и Xbox: подтверждены технические отличия",
+    "summary": "По данным Diario AS, подтверждены технические различия версий GTA 6 для PS5, PS5 Pro и Xbox Series X|S. Издание указывает, какая платформа будет лучшей для игры.",
+    "idea": "Коротко сравниваем версии GTA 6 на PS5, PS5 Pro и Xbox Series X|S: где лучше графика и производительность. Зрителю важно понять, на чём играть.",
+    "hook": "Где GTA 6 выглядит лучше — на PS5, PS5 Pro или Xbox? Сравниваем версии.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-08T17:20:51Z"
+   },
+   "msg_id": 655
+  },
+  {
+   "id": "3dd98f0c2ca8",
+   "title": "We are almost done",
+   "first_seen": "2026-11-08T17:20:48Z",
+   "updated": "2026-11-08T17:20:48Z",
+   "items": [
+    {
+     "id": "3dd98f0c2ca8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We are almost done",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xr3hia/we_are_almost_done/",
+     "ts": "2026-11-08T17:13:17Z",
+     "summary": "submitted by /u/Basic-Carr to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "096863dd1b3f",
+   "title": "GTA 6 Physical Box Has a New Officially Confirmed Detail",
+   "first_seen": "2026-11-08T17:20:48Z",
+   "updated": "2026-11-08T17:20:48Z",
+   "items": [
+    {
+     "id": "096863dd1b3f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Physical Box Has a New Officially Confirmed Detail",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10WEdPc0FCNkRCajB6QWZtcG1SQlJ2Zkh1dDJPN3BUS3ZyZHlTYnlzWE1wZHlqbXJUa1RuS0tqVzNnS0pPaFJ3Z2VyVDJ3MUpMM2hWT0VhYzN5bGhyMnlsYUhPQmpiUExfa2taT2tvMzRraTJS?oc=5",
+     "ts": "2026-11-08T17:15:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "3d795d8c1fc1",
    "title": "Amazon Just Cancelled My Preorder",
    "first_seen": "2026-11-08T17:10:49Z",
@@ -80291,151 +80384,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "5c02ab3eac48",
-   "title": "ЕБ@ТЬ: Nike выпустит кроссовки в коллабе с GTA VI — это будут Air Force 1 Low в тематических расцветках Всего планируется 3 варианта: 😀 Черные со вставками горя",
-   "first_seen": "2026-10-31T18:10:53Z",
-   "updated": "2026-11-01T17:20:49Z",
-   "items": [
-    {
-     "id": "5c02ab3eac48",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "ЕБ@ТЬ: Nike выпустит кроссовки в коллабе с GTA VI — это будут Air Force 1 Low в тематических расцветках Всего планируется 3 варианта: 😀 Черные со вставками горя",
-     "url": "https://t.me/gta6deluxe/1889",
-     "ts": "2026-10-31T18:06:45Z",
-     "summary": "ЕБ@ТЬ: Nike выпустит кроссовки в коллабе с GTA VI — это будут Air Force 1 Low в тематических расцветках Всего планируется 3 варианта: 😀 Черные со вставками горяче-огненного цвета 😀 Белые со вставками горячего-розового цвета 😀 Многоцветные кроссовки 😀 Подписаться | Наш чат 😀"
-    },
-    {
-     "id": "a1a2e3384cd5",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "ЕБ@ТЬ: Nike выпустит кроссовки в коллабе с GTA VI — это будут Air Force 1 Low в тематических расцветках Всего планируется 3 варианта: 😀 Черные со вставками горя",
-     "url": "https://t.me/gta6deluxe/1894",
-     "ts": "2026-11-01T17:10:41Z",
-     "summary": "ЕБ@ТЬ: Nike выпустит кроссовки в коллабе с GTA VI — это будут Air Force 1 Low в тематических расцветках Всего планируется 3 варианта: 😀 Черные со вставками горяче-огненного цвета 😀 Белые со вставками горячего-розового цвета 😀 Многоцветные кроссовки 😀 Подписаться…"
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Nike x GTA 6: три расцветки Air Force 1 Low",
-    "summary": "По сообщению Telegram-канала @gta6deluxe, Nike выпустит коллаборацию с GTA 6 — Air Force 1 Low в трёх расцветках: чёрные с огненными вставками, белые с розовыми и многоцветные. Официально Rockstar и Nike это пока не подтверждали.",
-    "idea": "Быстрый показ трёх расцветок кроссовок и реакции: мерч к GTA 6 уже в офлайне — фанатам интересно, что купить к релизу.",
-    "hook": "Кроссовки по GTA 6? Nike делает Air Force 1 в трёх расцветках.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-10-31T18:11:00Z"
-   },
-   "msg_id": 389
-  },
-  {
-   "id": "987393beae04",
-   "title": "Should I buy a playstation only to play GTA6?",
-   "first_seen": "2026-11-01T17:20:49Z",
-   "updated": "2026-11-01T17:20:49Z",
-   "items": [
-    {
-     "id": "987393beae04",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Should I buy a playstation only to play GTA6?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xl8ovk/should_i_buy_a_playstation_only_to_play_gta6/",
-     "ts": "2026-11-01T17:18:59Z",
-     "summary": "I have never owned or used XBox devices or playstation. I mainly use PC abd Switch 2 for gaming. I'm thinking about buying GTA6.. which device do you think I should buy, as a first time owner? submitted by /u/Faster-Rabbit328 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6ffe20b7dcbf",
-   "title": "It's november and I want to say something to you guys.",
-   "first_seen": "2026-11-01T17:10:54Z",
-   "updated": "2026-11-01T17:10:54Z",
-   "items": [
-    {
-     "id": "6ffe20b7dcbf",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "It's november and I want to say something to you guys.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xl88pf/its_november_and_i_want_to_say_something_to_you/",
-     "ts": "2026-11-01T17:01:45Z",
-     "summary": "I remember how hyped i was when GTA V came out, but this feels different. The leaks, the mapping project, the community, and now seeing the marketing everywhere these past few weeks… I still can’t quite believe GTA VI is actually about to come out. This whole wait has become something I’ll remember for the rest of my life. No special limited disc edition could make it any more special to me than it already is. I also want to say a huge thank you to this community. Having people to share all the excitement, theories, and endless waiting with has meant so much to me. You’ve been a huge part of w"
-    }
-   ],
-   "tags": [
-    "слив",
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c82462875f31",
-   "title": "What are the benefits of pre-booking GTA 6?",
-   "first_seen": "2026-11-01T17:10:54Z",
-   "updated": "2026-11-01T17:10:54Z",
-   "items": [
-    {
-     "id": "c82462875f31",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What are the benefits of pre-booking GTA 6?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xl8gnb/what_are_the_benefits_of_prebooking_gta_6/",
-     "ts": "2026-11-01T17:10:07Z",
-     "summary": "What are the actual benefits of pre-ordering GTA 6? Will there be any bonuses, exclusive content, early access, or discounts? Or is it better to wait until the game is released, watch some reviews and gameplay, and then buy it? Since GTA 6 is going to be a huge release, do you think pre-ordering is worth it, or is there no real advantage to booking it early? What are you guys planning to do — pre-order or wait for the reviews? 🎮 submitted by /u/ZeroToleranceHai to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "геймплей",
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-08T17:10:53Z",
+  "last_run": "2026-11-08T17:20:52Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 46/51",
+   "gnews_ru: 47/52",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
