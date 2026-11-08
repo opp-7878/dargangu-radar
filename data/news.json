@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "b11cff63e1d6",
-   "title": "Слух: в GTA 6 будет 55 трофеев и достижений",
-   "first_seen": "2026-11-08T09:30:57Z",
-   "updated": "2026-11-08T09:30:57Z",
-   "items": [
-    {
-     "id": "b11cff63e1d6",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "CyberMeta",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Слух: в GTA 6 будет 55 трофеев и достижений",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVNIY1FNdGdtVWwxNExGcFFvNnozNWlVMTF5OWZWTEdVdnhxNlpweFRJY1dobnlZenBPeGZxb0ZWbWI5RHB0dUk2aDV3T05KVlpsUjU5djdSd3hoV081cjloaFcydVVrbmdqVzl5WUNsWE53QlJPOUR2UHR1SGxESlo0S0QwalhhS0paXzBacVlibDJEVEE?oc=5",
-     "ts": "2026-11-08T09:12:41Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "8154eec85bac",
    "title": "Grand Theft Auto 6 Will Have 55 Trophies/Achievements",
    "first_seen": "2026-11-08T00:10:46Z",
-   "updated": "2026-11-08T09:20:48Z",
+   "updated": "2026-11-08T09:40:48Z",
    "items": [
     {
      "id": "8154eec85bac",
@@ -109,6 +83,19 @@
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVnVhcWt0VjJJRXpPbGNMNTNrb3I2TTNZVEcxU0xubmNyVld5MjlPUi1pQ3hsTFFfS2o2elJLc1dRVnkyMy1wVFgyU2pTZFpuVDZKd0x0WWMzLWFjcHRRbVFYVVNtd1c2NmZxa1pzMXJmTVZ3bjNjY18zdjZ4ZFZ0bw?oc=5",
      "ts": "2026-11-08T09:00:00Z",
      "summary": ""
+    },
+    {
+     "id": "fc8727a5154e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "EGW.News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Will Have 55 Achievements at Launch, Dataminer Reveals",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTJoZVFGM3ZrZHFTNGJ1RE5VTV9jWUt3eDRsVkFiUElxVTNZd0lmeTg5YWJyM0h6LWNKbmZ6YWc0RUNBQ0lmUXdRa1NwQjFZYU10cUZva0xaRmxxaVYzQ0hfQnQwN1JRUng0Z0NSV0FyOS1OcnBLZjcyZEw4NnA3YmxzZk9FcFRCa2JSa2ljc2tBZGFERXcwYnhDZw?oc=5",
+     "ts": "2026-11-08T09:11:18Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -118,6 +105,234 @@
    "score": 100,
    "level": "PROBABLE",
    "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "934a8f4fa2d0",
+   "title": "GTA 6 leak points to more launch trophies and achievements than GTA 5",
+   "first_seen": "2026-11-08T08:50:49Z",
+   "updated": "2026-11-08T09:40:48Z",
+   "items": [
+    {
+     "id": "934a8f4fa2d0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mezha.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 leak points to more launch trophies and achievements than GTA 5",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rX1dtNGRQeGlUTVpOS3JfVGNOM1laeW1SaFdkdlJXRGlUNFR2VTVlU0JWbXVpeVZlUFUxeTNCSVQ2V0FidnZyTS1JUHlnMFlEblF0MWNFYnpFejVQVlJTZlVySlM0QnExYkw0dEVEYlNFTmlXcXZBMg?oc=5",
+     "ts": "2026-11-08T02:44:54Z",
+     "summary": ""
+    },
+    {
+     "id": "ea95bb4889e8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Neowin",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 achievements leak hints at how massive the game could truly be",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeFhIWVJxQVItZWJRd29ZenJSbXU1d0FOcDE0dU54NmRNSHV0WEZiX0xoQ2FvcHgxZVU2amUxb2stRkZuZ3VVVmxVSW1PVmNrVWpKZlBHTElsUFJGOGhXMURTUFA4enZJdFBFQkZHSUxocURNSVd2cm1vYXFoOTRXNF9KeUgyaVJkdEw2ZndoUEdaZUk2eXh0aGIxWTg0dw?oc=5",
+     "ts": "2026-11-08T09:34:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 73,
+   "level": "SPECULATION",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "0cc72e3e204b",
+   "title": "GTA 6 Physical Copy Reportedly Leaks Early, Revealing 230GB Storage Requirement and Online Support",
+   "first_seen": "2026-11-07T14:01:11Z",
+   "updated": "2026-11-08T09:40:48Z",
+   "items": [
+    {
+     "id": "0cc72e3e204b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TwistedVoxel",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Physical Copy Reportedly Leaks Early, Revealing 230GB Storage Requirement and Online Support",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeUc2ODRoWVpvQU5NSi1RVTk0WVpvb28zQTRYcUpfRTlmeGZNdS1XaGF6cm81MmZzc3hkbndNTG94bEVBY2ZXRkxsUWM2dlFfLXA0dzhnd0tmZzZCZ0VSTUFHOWlxRGNKREsybmV5V1h4OXpmZ1ZpaXQ4Y3dTdU9ZLUZSbw?oc=5",
+     "ts": "2026-11-07T13:47:52Z",
+     "summary": ""
+    },
+    {
+     "id": "603ed8adeaf4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TheGamer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Physical Copy References In-Game Purchases And Online Functionality",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5veURLWmVXcXJMTlBFbS1PbXVySDBDY0hBblRBUHcxb25Za0E2SDd1VElJVDVIQk1rejBPYW5MZHMyNzJhY1B0Mmh4bW9VZ0VmZWFvbWt2TEZMdnZ1d0VZ?oc=5",
+     "ts": "2026-11-07T14:38:10Z",
+     "summary": ""
+    },
+    {
+     "id": "58e993941f1d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 synopsis translated from leaked German physical copy",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xqh2g2/gta_6_synopsis_translated_from_leaked_german/",
+     "ts": "2026-11-07T21:12:18Z",
+     "summary": "submitted by /u/Wrong-Masterpiece-14 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "dd544223a92c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "A physical copy of GTA VI has surfaced online — featuring mentions of in-game purchases and online features",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeW1pQnJfX0s3VEhpcm02ejJ2cVNpbkN5emZDYnNaeWdfQXZjREprcFZ3YVlKdmtwRDM1ZVVVUXZXR3c5b1JKRFdzQk1wbWxnOVdwQ0F1UVViLWhBZWppYkZTNmYtc1hGaUtoOVVFM0R6OF9hVkRac1haaW5RaGk4MzFnRmwyTTlza0xCT3pZdUNIamNnVzNZalgzUXFpRkFEOU42SjhoaEhScFdaYmxPbURBUTgyNzV1cEYyYTRrSEZFRFZvMmF4OTIwOXpWbi1EeW8xM9IB2gFBVV95cUxQSndwOVN1RWFEcHpJUEstZW1namlmNzNkMFFWQnIyTzRTZ3RtYm1BbmI1NmtiUGJYMWh4bWN4S19POXhWUW5yTGZhZzNybUZ5bmdsdDBzVUJnWVlUM0ZEQlZXdHo2RFZxWTd5dnM1REZMRFVKXzNmOXZCZWhKRGg3eGhRTUdFZWItOVlKeFVzQndDREd2U3Z3dUNWRFJ2MnBoeXdsRVExVjFBRjZsc3lZdXBtU01PZUp1RkZWUWhleEhzZzdLTDctdnFaYWpReHRPX0cwZk5oOVFNQQ?oc=5",
+     "ts": "2026-11-08T01:55:00Z",
+     "summary": ""
+    },
+    {
+     "id": "bab26754e482",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TelecomTalk",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Physical Edition Leaked Ahead of November 19 Launch",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVkdBR2VRLWRLZFlraEg4TkxscFI0Y0RHcHF1SERUWTlVMGRzNU5oYTZTLTBDQzlNOEZ4Z2JmVVB1d0VicEl1TkpRejBxRlNHNWEyaEdhMW9aajc0Mmc2clAyTF9iTWhtUWlHUUE3LVJUX2lGMklDeHJIN0JwYVNfN0d0NkZtMXE3MWdyOHotV0NGUQ?oc=5",
+     "ts": "2026-11-08T03:38:45Z",
+     "summary": ""
+    },
+    {
+     "id": "570a28ace9b3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Nerd Stash",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Physical Copy Leaks Early, Revealing Massive 230GB Storage Requirement and 'Online Support'",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDNZbnFPMXpQRFNtUzJldGV2a2hxQncyZ3BuMUF4eUVKVVV1YVVDa2J1S3JYVUtmVVBRMTRoWlowTTVEVERTTTc0cGRzMS1hb1VidlZld1VBeEJ4SDB5eGtEcWFUdXJ4UUFROFNINU1lY3hTdXdMSElQNmJpZkJTT2U4Ui1ia19keXF4OV9uMHd5MHdHcHFJRk5kUzRvb0VfT1A1aFdKOTFSUUVtSUM1ZHVPWmV5aTM0Wk82Rg?oc=5",
+     "ts": "2026-11-07T19:12:16Z",
+     "summary": ""
+    },
+    {
+     "id": "7c975d745f3c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iXBT.games",
+     "group": "media",
+     "weight": 45,
+     "alert": true,
+     "title": "A physical copy of GTA VI has surfaced online — featuring mentions of in-game purchases and online features",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSndwOVN1RWFEcHpJUEstZW1namlmNzNkMFFWQnIyTzRTZ3RtYm1BbmI1NmtiUGJYMWh4bWN4S19POXhWUW5yTGZhZzNybUZ5bmdsdDBzVUJnWVlUM0ZEQlZXdHo2RFZxWTd5dnM1REZMRFVKXzNmOXZCZWhKRGg3eGhRTUdFZWItOVlKeFVzQndDREd2U3Z3dUNWRFJ2MnBoeXdsRVExVjFBRjZsc3lZdXBtU01PZUp1RkZWUWhleEhzZzdLTDctdnFaYWpReHRPX0cwZk5oOVFNQdIB2gFBVV95cUxQSndwOVN1RWFEcHpJUEstZW1namlmNzNkMFFWQnIyTzRTZ3RtYm1BbmI1NmtiUGJYMWh4bWN4S19POXhWUW5yTGZhZzNybUZ5bmdsdDBzVUJnWVlUM0ZEQlZXdHo2RFZxWTd5dnM1REZMRFVKXzNmOXZCZWhKRGg3eGhRTUdFZWItOVlKeFVzQndDREd2U3Z3dUNWRFJ2MnBoeXdsRVExVjFBRjZsc3lZdXBtU01PZUp1RkZWUWhleEhzZzdLTDctdnFaYWpReHRPX0cwZk5oOVFNQQ?oc=5",
+     "ts": "2026-11-08T01:55:00Z",
+     "summary": ""
+    },
+    {
+     "id": "bebed34ff953",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable India",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Release: Grand Theft Auto 6 Physical Edition Reportedly Leaked Ahead of November 19 Launch",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0U5MDRuNVJsRG1kTk9YQ1dITWh2Si01ZWRrX091d0JONXZmRlNMWnVXZzBSbFNfY1VxU1p3cXVhV1d3ZHVQRWdsWlV2YVZITEszN2xJZ2dPLTlDOHZMMDRfUnFITUxBSUxOR2tJM0FxMlpPWVBkUHAzTExCd1ljWE0xS1FhOUVpU1laZ0xKeEQtUkFCU0FzN2s1aFhVQmFFa283QVdKR1BrLXFSc0hCOGhsbnhPaS1hem1HMnU0QkJyelVIbzdnZHMwYw?oc=5",
+     "ts": "2026-11-08T06:39:07Z",
+     "summary": ""
+    },
+    {
+     "id": "42345160c20f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Daily Beirut",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 hits $751M in pre-orders before November launch",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlhMVmFBMEFfM0ctZ2hNc1RLZUZVMnVoWGllYkU2ZnFQV0FSajJNdDlPSFYyWlBFNTRGX19tanJ1V3FITDEtVm15QVFTd1MydTlMaFdrREJTUmN0VmJzLUFZdDZsVW1rWXBScGlVZ1RucFh4SGxrMVQtS2xXTzZUd2tBQnB5aWpIV2JQaHBlNnVDX0RZNzUzai1nY1Vudzhjc05CYTd3?oc=5",
+     "ts": "2026-11-08T09:34:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online",
+    "анонс",
+    "слив",
+    "цена/издания"
+   ],
+   "score": 90,
+   "level": "SPECULATION",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "8f24c6fe45ca",
+   "title": "What are you MOST excited for in GTA 6?",
+   "first_seen": "2026-11-08T09:40:48Z",
+   "updated": "2026-11-08T09:40:48Z",
+   "items": [
+    {
+     "id": "8f24c6fe45ca",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What are you MOST excited for in GTA 6?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xqulkz/what_are_you_most_excited_for_in_gta_6/",
+     "ts": "2026-11-08T09:34:27Z",
+     "summary": "Question is simple, cop chases? The map? Personally I can't wait to see red dead styles of shooting, gun handling, and detail, on modern automatic high powered weapons. Stuff like the MP7, spas, Mac 10, and AA12, are all gonna feel a lot more special with their details compared to GTA V especially due to the fact you can only carry 4 weapons. submitted by /u/Expert-Performer-709 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b11cff63e1d6",
+   "title": "Слух: в GTA 6 будет 55 трофеев и достижений",
+   "first_seen": "2026-11-08T09:30:57Z",
+   "updated": "2026-11-08T09:30:57Z",
+   "items": [
+    {
+     "id": "b11cff63e1d6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Слух: в GTA 6 будет 55 трофеев и достижений",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVNIY1FNdGdtVWwxNExGcFFvNnozNWlVMTF5OWZWTEdVdnhxNlpweFRJY1dobnlZenBPeGZxb0ZWbWI5RHB0dUk2aDV3T05KVlpsUjU5djdSd3hoV081cjloaFcydVVrbmdqVzl5WUNsWE53QlJPOUR2UHR1SGxESlo0S0QwalhhS0paXzBacVlibDJEVEE?oc=5",
+     "ts": "2026-11-08T09:12:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -539,34 +754,6 @@
     "at": "2026-11-07T18:20:54Z"
    },
    "msg_id": 629
-  },
-  {
-   "id": "934a8f4fa2d0",
-   "title": "GTA 6 leak points to more launch trophies and achievements than GTA 5",
-   "first_seen": "2026-11-08T08:50:49Z",
-   "updated": "2026-11-08T08:50:49Z",
-   "items": [
-    {
-     "id": "934a8f4fa2d0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mezha.net",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 leak points to more launch trophies and achievements than GTA 5",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rX1dtNGRQeGlUTVpOS3JfVGNOM1laeW1SaFdkdlJXRGlUNFR2VTVlU0JWbXVpeVZlUFUxeTNCSVQ2V0FidnZyTS1JUHlnMFlEblF0MWNFYnpFejVQVlJTZlVySlM0QnExYkw0dEVEYlNFTmlXcXZBMg?oc=5",
-     "ts": "2026-11-08T02:44:54Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 65,
-   "level": "SPECULATION",
-   "alerted": "late",
-   "status": "new"
   },
   {
    "id": "dd6fb3a98bfe",
@@ -1278,128 +1465,6 @@
     "at": "2026-11-08T06:50:47Z"
    },
    "msg_id": 640
-  },
-  {
-   "id": "0cc72e3e204b",
-   "title": "GTA 6 Physical Copy Reportedly Leaks Early, Revealing 230GB Storage Requirement and Online Support",
-   "first_seen": "2026-11-07T14:01:11Z",
-   "updated": "2026-11-08T06:50:44Z",
-   "items": [
-    {
-     "id": "0cc72e3e204b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TwistedVoxel",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Physical Copy Reportedly Leaks Early, Revealing 230GB Storage Requirement and Online Support",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeUc2ODRoWVpvQU5NSi1RVTk0WVpvb28zQTRYcUpfRTlmeGZNdS1XaGF6cm81MmZzc3hkbndNTG94bEVBY2ZXRkxsUWM2dlFfLXA0dzhnd0tmZzZCZ0VSTUFHOWlxRGNKREsybmV5V1h4OXpmZ1ZpaXQ4Y3dTdU9ZLUZSbw?oc=5",
-     "ts": "2026-11-07T13:47:52Z",
-     "summary": ""
-    },
-    {
-     "id": "603ed8adeaf4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TheGamer",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Physical Copy References In-Game Purchases And Online Functionality",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5veURLWmVXcXJMTlBFbS1PbXVySDBDY0hBblRBUHcxb25Za0E2SDd1VElJVDVIQk1rejBPYW5MZHMyNzJhY1B0Mmh4bW9VZ0VmZWFvbWt2TEZMdnZ1d0VZ?oc=5",
-     "ts": "2026-11-07T14:38:10Z",
-     "summary": ""
-    },
-    {
-     "id": "58e993941f1d",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 synopsis translated from leaked German physical copy",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xqh2g2/gta_6_synopsis_translated_from_leaked_german/",
-     "ts": "2026-11-07T21:12:18Z",
-     "summary": "submitted by /u/Wrong-Masterpiece-14 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "dd544223a92c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "A physical copy of GTA VI has surfaced online — featuring mentions of in-game purchases and online features",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeW1pQnJfX0s3VEhpcm02ejJ2cVNpbkN5emZDYnNaeWdfQXZjREprcFZ3YVlKdmtwRDM1ZVVVUXZXR3c5b1JKRFdzQk1wbWxnOVdwQ0F1UVViLWhBZWppYkZTNmYtc1hGaUtoOVVFM0R6OF9hVkRac1haaW5RaGk4MzFnRmwyTTlza0xCT3pZdUNIamNnVzNZalgzUXFpRkFEOU42SjhoaEhScFdaYmxPbURBUTgyNzV1cEYyYTRrSEZFRFZvMmF4OTIwOXpWbi1EeW8xM9IB2gFBVV95cUxQSndwOVN1RWFEcHpJUEstZW1namlmNzNkMFFWQnIyTzRTZ3RtYm1BbmI1NmtiUGJYMWh4bWN4S19POXhWUW5yTGZhZzNybUZ5bmdsdDBzVUJnWVlUM0ZEQlZXdHo2RFZxWTd5dnM1REZMRFVKXzNmOXZCZWhKRGg3eGhRTUdFZWItOVlKeFVzQndDREd2U3Z3dUNWRFJ2MnBoeXdsRVExVjFBRjZsc3lZdXBtU01PZUp1RkZWUWhleEhzZzdLTDctdnFaYWpReHRPX0cwZk5oOVFNQQ?oc=5",
-     "ts": "2026-11-08T01:55:00Z",
-     "summary": ""
-    },
-    {
-     "id": "bab26754e482",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TelecomTalk",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Physical Edition Leaked Ahead of November 19 Launch",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVkdBR2VRLWRLZFlraEg4TkxscFI0Y0RHcHF1SERUWTlVMGRzNU5oYTZTLTBDQzlNOEZ4Z2JmVVB1d0VicEl1TkpRejBxRlNHNWEyaEdhMW9aajc0Mmc2clAyTF9iTWhtUWlHUUE3LVJUX2lGMklDeHJIN0JwYVNfN0d0NkZtMXE3MWdyOHotV0NGUQ?oc=5",
-     "ts": "2026-11-08T03:38:45Z",
-     "summary": ""
-    },
-    {
-     "id": "570a28ace9b3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Nerd Stash",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Physical Copy Leaks Early, Revealing Massive 230GB Storage Requirement and 'Online Support'",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDNZbnFPMXpQRFNtUzJldGV2a2hxQncyZ3BuMUF4eUVKVVV1YVVDa2J1S3JYVUtmVVBRMTRoWlowTTVEVERTTTc0cGRzMS1hb1VidlZld1VBeEJ4SDB5eGtEcWFUdXJ4UUFROFNINU1lY3hTdXdMSElQNmJpZkJTT2U4Ui1ia19keXF4OV9uMHd5MHdHcHFJRk5kUzRvb0VfT1A1aFdKOTFSUUVtSUM1ZHVPWmV5aTM0Wk82Rg?oc=5",
-     "ts": "2026-11-07T19:12:16Z",
-     "summary": ""
-    },
-    {
-     "id": "7c975d745f3c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "iXBT.games",
-     "group": "media",
-     "weight": 45,
-     "alert": true,
-     "title": "A physical copy of GTA VI has surfaced online — featuring mentions of in-game purchases and online features",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSndwOVN1RWFEcHpJUEstZW1namlmNzNkMFFWQnIyTzRTZ3RtYm1BbmI1NmtiUGJYMWh4bWN4S19POXhWUW5yTGZhZzNybUZ5bmdsdDBzVUJnWVlUM0ZEQlZXdHo2RFZxWTd5dnM1REZMRFVKXzNmOXZCZWhKRGg3eGhRTUdFZWItOVlKeFVzQndDREd2U3Z3dUNWRFJ2MnBoeXdsRVExVjFBRjZsc3lZdXBtU01PZUp1RkZWUWhleEhzZzdLTDctdnFaYWpReHRPX0cwZk5oOVFNQdIB2gFBVV95cUxQSndwOVN1RWFEcHpJUEstZW1namlmNzNkMFFWQnIyTzRTZ3RtYm1BbmI1NmtiUGJYMWh4bWN4S19POXhWUW5yTGZhZzNybUZ5bmdsdDBzVUJnWVlUM0ZEQlZXdHo2RFZxWTd5dnM1REZMRFVKXzNmOXZCZWhKRGg3eGhRTUdFZWItOVlKeFVzQndDREd2U3Z3dUNWRFJ2MnBoeXdsRVExVjFBRjZsc3lZdXBtU01PZUp1RkZWUWhleEhzZzdLTDctdnFaYWpReHRPX0cwZk5oOVFNQQ?oc=5",
-     "ts": "2026-11-08T01:55:00Z",
-     "summary": ""
-    },
-    {
-     "id": "bebed34ff953",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Release: Grand Theft Auto 6 Physical Edition Reportedly Leaked Ahead of November 19 Launch",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0U5MDRuNVJsRG1kTk9YQ1dITWh2Si01ZWRrX091d0JONXZmRlNMWnVXZzBSbFNfY1VxU1p3cXVhV1d3ZHVQRWdsWlV2YVZITEszN2xJZ2dPLTlDOHZMMDRfUnFITUxBSUxOR2tJM0FxMlpPWVBkUHAzTExCd1ljWE0xS1FhOUVpU1laZ0xKeEQtUkFCU0FzN2s1aFhVQmFFa283QVdKR1BrLXFSc0hCOGhsbnhPaS1hem1HMnU0QkJyelVIbzdnZHMwYw?oc=5",
-     "ts": "2026-11-08T06:39:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Online",
-    "анонс",
-    "слив",
-    "цена/издания"
-   ],
-   "score": 90,
-   "level": "SPECULATION",
-   "alerted": "dup",
-   "status": "new"
   },
   {
    "id": "c8b8e7649edb",
@@ -80182,11 +80247,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-08T09:34:12Z",
+  "last_run": "2026-11-08T09:40:48Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 46/52",
+   "gnews_ru: 43/49",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
