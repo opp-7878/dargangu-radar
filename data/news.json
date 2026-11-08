@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "779dcc5742c1",
+   "title": "We reached the single digits 🥹",
+   "first_seen": "2026-11-08T23:40:48Z",
+   "updated": "2026-11-08T23:40:48Z",
+   "items": [
+    {
+     "id": "779dcc5742c1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We reached the single digits 🥹",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xrbtky/we_reached_the_single_digits/",
+     "ts": "2026-11-08T23:04:39Z",
+     "summary": "It’s soooo close… submitted by /u/crshtst to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "851c9f4d0585",
+   "title": "Are you nervous GTA6 won’t actually match Ocarina for game of the year?",
+   "first_seen": "2026-11-08T23:40:48Z",
+   "updated": "2026-11-08T23:40:48Z",
+   "items": [
+    {
+     "id": "851c9f4d0585",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Are you nervous GTA6 won’t actually match Ocarina for game of the year?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xrcfr0/are_you_nervous_gta6_wont_actually_match_ocarina/",
+     "ts": "2026-11-08T23:33:22Z",
+     "summary": "submitted by /u/JonnyBTokyo to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "7028d49f2855",
    "title": "Is Kodak Black in Grand Theft Auto 6? NPC Cameo Explained",
    "first_seen": "2026-11-08T23:31:04Z",
@@ -80350,11 +80402,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-08T23:31:04Z",
+  "last_run": "2026-11-08T23:40:48Z",
   "last_log": [
-   "rockstar_site: 0/2",
+   "rockstar_site: 0/1",
    "gnews_en: 100/100",
-   "gnews_ru: 45/51",
+   "gnews_ru: 44/50",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
