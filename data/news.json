@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "a76ece557da4",
+   "title": "GTA 6 Polymarket Odds: Metacritic, Kai Cenat, Delay",
+   "first_seen": "2026-11-08T20:10:44Z",
+   "updated": "2026-11-08T20:10:44Z",
+   "items": [
+    {
+     "id": "a76ece557da4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RG.org",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Polymarket Odds: Metacritic, Kai Cenat, Delay",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1FjaEU5eFpjT0cyN0pmbFZocHlfZUEza1VpcmZmNzlrTlFPaF9DRnM3ZEVYeDluQlFCRGEzdUJOeDNxYzR5c0Z1WUJSQ2RLQW1Eam1hYUJsZkVSZTQ4aHliVElZR3NrMEluT0JkaHYxWHRPZ2QyUlI3R0UwLTFqQld4NlBOdWt5cFVfT1o3NlptZ0t6cU1FcG9TbE4xVlEzT1doUE9sVQ?oc=5",
+     "ts": "2026-11-08T20:04:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Ставки на Metacritic и перенос GTA 6: что думают игроки",
+    "summary": "По данным RG.org, на Polymarket игроки ставят на высокий рейтинг GTA 6 на Metacritic и обсуждают возможный перенос. Источник приводит данные о ставках и мнениях сообщества.",
+    "idea": "Короткий разбор: какие шансы на перенос GTA 6 дают ставки на Polymarket и почему это волнует игроков. Динамичный монтаж фактов и мнений.",
+    "hook": "Ставят деньги на Metacritic и перенос GTA 6 — что это значит для нас?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-08T20:10:47Z"
+   },
+   "msg_id": 659
+  },
+  {
+   "id": "b7d316849d7f",
+   "title": "Every GTA 6 Keyword You Should Mute on Social Media To Avoid Spoilers",
+   "first_seen": "2026-11-08T20:10:44Z",
+   "updated": "2026-11-08T20:10:44Z",
+   "items": [
+    {
+     "id": "b7d316849d7f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ComicBook.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Every GTA 6 Keyword You Should Mute on Social Media To Avoid Spoilers",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDVaRGp4LThVaUNuMHFRWVlEdVBvQkYxcmZoMUNTS3lsU1VQMWtXSkE4bGxQekMxS3UzVVFKZnJmU3ZfWi11TUl4Z0g1a2ttckR2RjdKbjZlQTJNaVNsQmw4V2llWUhyUmc0VDI0NWFuUDVmb1BjZXJSVnhKc19uRGItVXZUTnpBazVMX003azhJRWV2MTBvSXRMdzFGZXlyLTh2eUg2cw?oc=5",
+     "ts": "2026-11-08T20:05:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "1a51bb8c70d8",
    "title": "GTA 6 Physical Boxes Are Appearing in Stores, but They Contain No Game Disc",
    "first_seen": "2026-11-08T20:01:13Z",
@@ -80742,11 +80807,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-08T20:01:13Z",
+  "last_run": "2026-11-08T20:10:47Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 49/55",
+   "gnews_ru: 47/53",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
