@@ -1,6 +1,73 @@
 {
  "stories": [
   {
+   "id": "e843a5cc68c2",
+   "title": "GTA 6 Credits Rumored to Run More Than 80 Minutes",
+   "first_seen": "2026-11-08T23:59:53Z",
+   "updated": "2026-11-08T23:59:53Z",
+   "items": [
+    {
+     "id": "e843a5cc68c2",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Unverified Claim Puts GTA 6 Credits at Over 80 Minutes",
+     "url": "https://www.gtaboom.com/unverified-claim-puts-gta-6-credits-at-over-80-minutes-564d",
+     "ts": "2026-11-08T23:50:18Z",
+     "summary": "Moon Media's unverified claim puts GTA 6's credits at over 80 minutes, more than twice GTA 5's estimated length."
+    },
+    {
+     "id": "ceac8225ee29",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Credits Rumored to Run More Than 80 Minutes",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa085QV9kc2RlVjg5cnh2NWdpbkczUXAtQThPbEFDb21RdTQxSXlyNUFWLVo3alBWWklPSGwxYXFVNThTdlFlSDhjMjh6OEUtdGRHQUhsRFg3RlJDaE5nSWRzcXljbEJsaDhUT2N6V08yNWtXYmkyYWNld0JnSndGaDBQbWFXLVNNTGI4?oc=5",
+     "ts": "2026-11-08T23:50:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "ecd85ac04150",
+   "title": "Which Lucia hairstyle Is Your favourite?",
+   "first_seen": "2026-11-08T23:59:53Z",
+   "updated": "2026-11-08T23:59:53Z",
+   "items": [
+    {
+     "id": "ecd85ac04150",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Which Lucia hairstyle Is Your favourite?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xrcsht/which_lucia_hairstyle_is_your_favourite/",
+     "ts": "2026-11-08T23:50:36Z",
+     "summary": "submitted by /u/dubdizzle99 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a9ce20c4c15e",
    "title": "GTA 6 PC Port: AI Clone Fears Ahead of Nov. 19 [2026]",
    "first_seen": "2026-11-08T10:20:49Z",
@@ -80359,41 +80426,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "335b15e20952",
-   "title": "Sunset Blvd GTA 6 Mural",
-   "first_seen": "2026-11-01T23:50:54Z",
-   "updated": "2026-11-01T23:50:54Z",
-   "items": [
-    {
-     "id": "335b15e20952",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Sunset Blvd GTA 6 Mural",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xli7lu/sunset_blvd_gta_6_mural/",
-     "ts": "2026-11-01T23:50:19Z",
-     "summary": "Not sure if this has been posted yet, but here’s the mural on Sunset Blvd. in Hollywood, CA. 🌴☀️ submitted by /u/Kar1zza to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-08T23:50:49Z",
+  "last_run": "2026-11-08T23:59:56Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 100/100",
-   "gnews_ru: 46/52",
+   "gnews_ru: 43/49",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -80401,7 +80442,7 @@
    "eurogamer: 1/100",
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
-   "gtaboom: 2/30",
+   "gtaboom: 3/30",
    "reddit: 22/25",
    "tg_gtavistar: 5/9",
    "tg_gta6deluxe: 10/10",
