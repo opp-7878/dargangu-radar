@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "1f682a920f6f",
+   "title": "People Are Really Worried About Falling In Love With GTA 6's Lucia",
+   "first_seen": "2026-11-08T10:10:48Z",
+   "updated": "2026-11-08T10:10:48Z",
+   "items": [
+    {
+     "id": "1f682a920f6f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "People Are Really Worried About Falling In Love With GTA 6's Lucia",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2JmS1NYYU5iWVM3N2FoaDBReG1LX0xSVEFucDI0VVV1bWVYcy1uWjB6ZHczZmp6cEI1SG84aXphR0NUQzhUT2lYZjNlUnBrUHZEWXMtVjc5eGhhd244eWk1UHlLRlNzUUpCaTQ3VzZPeUhlM3NWbGpfcGJWeUVmNFZxQXcwVEZ2SmYwSGxXZ1M1LWtzRUd3ckJ4VVFPVU9L?oc=5",
+     "ts": "2026-11-07T10:26:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "be54d2800bdd",
+   "title": "The cleverest GTA VI adverts don't even show the game",
+   "first_seen": "2026-11-08T10:10:48Z",
+   "updated": "2026-11-08T10:10:48Z",
+   "items": [
+    {
+     "id": "be54d2800bdd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Creative Bloq",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The cleverest GTA VI adverts don't even show the game",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTFNYzRnMFdIQWc0aUlzWFh6N2c5S1ZTbkNpb19HVUNnTGJKY2JFYWpJZU9Nc3FGZTgyRFRocXpYUXBtV1FpS19UX1JBb3VQQ25MNFJ0WFdNNExxUUh1VEJ1cmM2N3dPVTh0eU5PanRVaE8xX0ZGdVU1WW9YRWNNYk9CeEJEbjVaYVF6Vm9BWQ?oc=5",
+     "ts": "2026-11-08T10:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c4bb34a00953",
+   "title": "What will you be eating as you play GTA VI the first time?",
+   "first_seen": "2026-11-08T10:10:48Z",
+   "updated": "2026-11-08T10:10:48Z",
+   "items": [
+    {
+     "id": "c4bb34a00953",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What will you be eating as you play GTA VI the first time?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xqv1mf/what_will_you_be_eating_as_you_play_gta_vi_the/",
+     "ts": "2026-11-08T10:04:35Z",
+     "summary": "My vote is on some Chinese food submitted by /u/FEEDTHEGRINDER to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c60ea2df3696",
    "title": "GTA VI может выйти на ПК гораздо раньше, чем ожидалось Бывший технический директор считает, что Rockstar придётся ускорить выпуск ПК-версии игры, иначе компания",
    "first_seen": "2026-11-07T17:31:00Z",
@@ -80233,11 +80311,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-08T10:01:11Z",
+  "last_run": "2026-11-08T10:10:48Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 45/51",
+   "gnews_ru: 44/50",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
