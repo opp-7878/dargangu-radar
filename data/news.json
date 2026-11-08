@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "223e356e4bf2",
+   "title": "GTA Gets Huge 67% Sale On The One Platform Where GTA 6 Isn’t Launching This Month",
+   "first_seen": "2026-11-08T06:10:47Z",
+   "updated": "2026-11-08T06:10:47Z",
+   "items": [
+    {
+     "id": "223e356e4bf2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TheGamer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA Gets Huge 67% Sale On The One Platform Where GTA 6 Isn’t Launching This Month",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RRmNOcTV0aDlLT1ZMdDBKYXA1X3U4d0RSM29TdnJPcDdWQlp2U2Y1U3NtTzZWelZlSEQySVQ2WUFSWmVBb1JjRkFnUGFpQnNPVGwyRkpaaWJaY0IwVmNiM0k0c2VpMVpDbkIxNA?oc=5",
+     "ts": "2026-11-07T14:01:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "78b3ee2ea5c7",
    "title": "В GTA 6 будет 55 трофеев на релизе - все они предназначены для одиночного режима",
    "first_seen": "2026-11-08T06:01:06Z",
@@ -79990,41 +80016,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f7b0fd63dff2",
-   "title": "I got Early access to GMT6",
-   "first_seen": "2026-11-01T06:01:16Z",
-   "updated": "2026-11-01T06:01:16Z",
-   "items": [
-    {
-     "id": "f7b0fd63dff2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I got Early access to GMT6",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xkvj1l/i_got_early_access_to_gmt6/",
-     "ts": "2026-11-01T05:59:15Z",
-     "summary": "https://preview.redd.it/4p2wzyu0yxyh1.png?width=450&format=png&auto=webp&s=100e7c5fe2b3dc91e619130babca8bf52e822d33 Many people only dream of such opportunities, keep dreaming guys one day you might make it as well submitted by /u/George_7171 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-08T06:01:07Z",
+  "last_run": "2026-11-08T06:10:47Z",
   "last_log": [
-   "rockstar_site: 0/2",
+   "rockstar_site: 0/3",
    "gnews_en: 99/100",
-   "gnews_ru: 47/52",
+   "gnews_ru: 45/50",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
