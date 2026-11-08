@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "1a51bb8c70d8",
+   "title": "GTA 6 Physical Boxes Are Appearing in Stores, but They Contain No Game Disc",
+   "first_seen": "2026-11-08T20:01:13Z",
+   "updated": "2026-11-08T20:01:13Z",
+   "items": [
+    {
+     "id": "1a51bb8c70d8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "AOL.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Physical Boxes Are Appearing in Stores, but They Contain No Game Disc",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xank3VUdNRzBHMzY2eE9SVUlZVzBwcWkyN01UTkFxbVNjZFh0aGpYNWNMMWRheUhIZDlNM2R6LUVQNnZEeU1RS18tRkdQcWdmeThWVmlsU3JfRnVaVUpXdWRISWFVTW94R0h1WWZzaUdSTUgwVmo2XzNJdVNjUnM?oc=5",
+     "ts": "2026-11-08T13:44:57Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6051e6774d95",
+   "title": "PC gamers really are the Squidwards of gaming: obsessed with proving they’re superior, yet somehow always the most miserable people in the room. 😂",
+   "first_seen": "2026-11-08T20:01:13Z",
+   "updated": "2026-11-08T20:01:13Z",
+   "items": [
+    {
+     "id": "6051e6774d95",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "PC gamers really are the Squidwards of gaming: obsessed with proving they’re superior, yet somehow always the most miserable people in the room. 😂",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xr7kvv/pc_gamers_really_are_the_squidwards_of_gaming/",
+     "ts": "2026-11-08T20:00:20Z",
+     "summary": "submitted by /u/Apprehensive_Park331 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d73fa0febc82",
    "title": "PlayStation 5 Pro will significantly outperform Xbox Series S in GTA 6 graphics quality.",
    "first_seen": "2026-11-08T19:31:03Z",
@@ -80688,7 +80742,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-08T19:50:48Z",
+  "last_run": "2026-11-08T20:01:13Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
