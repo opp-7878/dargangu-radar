@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "630029f96f96",
+   "title": "PlayStation 5 users will be the first to download GTA VI before Xbox owners.",
+   "first_seen": "2026-11-08T14:31:02Z",
+   "updated": "2026-11-08T14:31:02Z",
+   "items": [
+    {
+     "id": "630029f96f96",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation 5 users will be the first to download GTA VI before Xbox owners.",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanU0bHNVWE1nZHVQQm5UeGZSU0xKeUNwbzRvaEtjSWRXMWRZT09haEZFMDBYS2t0MGFwN29hRXJ5dC1GUExtcU9iUlhKOXdlX18wUERkeUdJNm8yV0RQZ0oyanRhN2NDaC1MQmpTZUV3aHJkVmE1YW12YUZWVUtkeWFTOE9jdGEzVGZWU0p3dXJ3MjY3bjRCSk5LbXZ2T1h0aXVDUU9kRk5Sdw?oc=5",
+     "ts": "2026-11-08T14:15:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cdfdd6db9511",
+   "title": "Пользователи PlayStation 5 первее владельцев Xbox начнут скачивать GTA VI",
+   "first_seen": "2026-11-08T14:31:02Z",
+   "updated": "2026-11-08T14:31:02Z",
+   "items": [
+    {
+     "id": "cdfdd6db9511",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Пользователи PlayStation 5 первее владельцев Xbox начнут скачивать GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0o1dm0yTnhJWk10TkVBeUhfN01JZWZOSXJZeEFRY19SaE14WTNTdTlYRDRwZXdxZVJySm5YYmI4d0wzTlE4Z1JoUmhpM1BJWmljNVVPQkZHQUpSMWo5TlIyeld6YmgyeVJuTkh2YjJ2eGlNRy1DZE1velByaUhmX281bGExemJHeE5GQkhJZ2F0YmV1N3htUkxnYzNNSXhORFN3cmhB?oc=5",
+     "ts": "2026-11-08T14:15:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "db69a487813e",
    "title": "Reviews on the 18th",
    "first_seen": "2026-11-08T14:20:52Z",
@@ -80478,11 +80530,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-08T14:20:52Z",
+  "last_run": "2026-11-08T14:31:02Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 49/53",
+   "gnews_ru: 48/51",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
