@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "b8a4897abd42",
+   "title": "GTA VI Ads Sell Vice City’s Satire Without Showing a Single Mission",
+   "first_seen": "2026-11-08T21:50:49Z",
+   "updated": "2026-11-08T21:50:49Z",
+   "items": [
+    {
+     "id": "b8a4897abd42",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "freeyork",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Ads Sell Vice City’s Satire Without Showing a Single Mission",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xNlBYMHJhc01BTnBBTzFmVzk2a3NMZW1WMmloNlNHN2pZNnNMZXVTbTlhaG1RaHF0Y3FVb1VpOV9ORTFNTnNVNEEwb2VKQklKVkV2YmhnRU5XZFVJZl9MdG9R?oc=5",
+     "ts": "2026-11-08T21:46:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "08f96f637f17",
    "title": "GTA 6 Piracy Risk: Take-Two Cites 10-20% Film Rate [2026]",
    "first_seen": "2026-11-08T21:31:00Z",
@@ -80239,11 +80265,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-08T21:40:57Z",
+  "last_run": "2026-11-08T21:50:49Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 99/100",
-   "gnews_ru: 46/52",
+   "gnews_en: 100/100",
+   "gnews_ru: 45/51",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
