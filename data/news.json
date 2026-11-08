@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "3c15f71b6049",
+   "title": "GTA 6: 55 трофеев в одиночной игре – больше контента, чем в GTA 5 и RDR2? Анализ достижений",
+   "first_seen": "2026-11-08T17:50:49Z",
+   "updated": "2026-11-08T17:50:49Z",
+   "items": [
+    {
+     "id": "3c15f71b6049",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Carexpo.ru_ все авто на одном сайте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: 55 трофеев в одиночной игре – больше контента, чем в GTA 5 и RDR2? Анализ достижений",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYl96aXgwRm4zXy13eDgyRjBxNGw4amJvVWduZWdUY3gtV0NCelJlMW9HTW45TkZhNnBWSmE0Wkd5V1VId1hUTFU4RjlQWG1PR1JIX0ZFRU9UVE5TNE56YnBxcGIwbUdLd09rRVFiOHZPNF9ETFJDb0I2eWJwLXRQakJKMU5CbHRGUEVfTVluX0Vlb045OFhTbHJkSQ?oc=5",
+     "ts": "2026-11-08T11:46:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "dd395ad64572",
+   "title": "They actually made npcs based on real people",
+   "first_seen": "2026-11-08T17:50:49Z",
+   "updated": "2026-11-08T17:50:49Z",
+   "items": [
+    {
+     "id": "dd395ad64572",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "They actually made npcs based on real people",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xr46pa/they_actually_made_npcs_based_on_real_people/",
+     "ts": "2026-11-08T17:42:13Z",
+     "summary": "They didn't waste an inch of their research... Credit: mrdanivega (tiktok) submitted by /u/Doberliusz to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "74958a9ed497",
+   "title": "A Police Department Is Begging for GTA 6 to Release So People Stay Home",
+   "first_seen": "2026-11-08T17:50:49Z",
+   "updated": "2026-11-08T17:50:49Z",
+   "items": [
+    {
+     "id": "74958a9ed497",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "A Police Department Is Begging for GTA 6 to Release So People Stay Home",
+     "url": "https://www.gtaboom.com/a-police-department-is-begging-for-gta-6-to-release-so-people-stay-home-487b",
+     "ts": "2026-11-08T17:45:16Z",
+     "summary": "Greensboro Police Department's official account joked that GTA 6 should hurry up so players stay home and give officers a break."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "2884029691d4",
    "title": "Kai Cenat Is Playing Five GTA Games Back-to-Back Before GTA 6 Drops",
    "first_seen": "2026-11-08T17:40:52Z",
@@ -80544,11 +80622,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-08T17:40:52Z",
+  "last_run": "2026-11-08T17:50:49Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 47/51",
+   "gnews_ru: 48/53",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -80556,8 +80634,8 @@
    "eurogamer: 1/100",
    "dexerto_gta: 1/50",
    "rockstarintel: 5/10",
-   "gtaboom: 2/30",
-   "reddit: 22/25",
+   "gtaboom: 3/30",
+   "reddit: 20/25",
    "tg_gtavistar: 5/9",
    "tg_gta6deluxe: 10/10",
    "tg_gta6_m: 8/17",
