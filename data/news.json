@@ -1,6 +1,108 @@
 {
  "stories": [
   {
+   "id": "25d479a745cb",
+   "title": "Save Your GTA 6 Day Off for November 20 Instead of Launch Day",
+   "first_seen": "2026-11-09T08:50:51Z",
+   "updated": "2026-11-09T09:01:21Z",
+   "items": [
+    {
+     "id": "25d479a745cb",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Do Not Take GTA 6 Launch Day Off, Take the Day After Instead",
+     "url": "https://www.gtaboom.com/do-not-take-gta-6-launch-day-off-take-the-day-after-instead-d37e",
+     "ts": "2026-11-09T08:49:07Z",
+     "summary": "Taking November 20 off for GTA 6 could mean more playtime and less setup than launch day if you only have one day of leave."
+    },
+    {
+     "id": "85afd485a2ad",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Save Your GTA 6 Day Off for November 20 Instead of Launch Day",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1NRcWNlYndZTDNfTklkTVpsejhUUU5WQlpOSTRIQUlTMi05YWN5eFhFbndwbW8taHNJdkJpZ240MnpOeDVyb3ZIMUozTTJfMVFQTnhVNndsT2xodlo2WHVnLVBkVERZZmRSV0hRWU1ldGk0OTNPNkRBdE1rZWhYVFExVl81SF9Nbm1rbmN6OEV1dw?oc=5",
+     "ts": "2026-11-09T08:49:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Бери отгул 20 ноября, а не 19 — так поиграешь больше",
+    "summary": "По данным GTA BOOM, лучше взять выходной 20 ноября, а не 19 — в день релиза GTA 6. Так будет больше времени на игру и меньше на установку.",
+    "idea": "Короткий лайфхак для игроков с одним выходным: почему 20 ноября выгоднее 19-го. Зрителю важно не потерять часы геймплея.",
+    "hook": "Не бери отгул 19 ноября на GTA 6 — сделай так, будет больше времени.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-09T09:01:25Z"
+   },
+   "msg_id": 670
+  },
+  {
+   "id": "a766f7ad6b94",
+   "title": "GTA 6 Officially Unveils New Batch Of Screenshots",
+   "first_seen": "2026-11-09T09:01:21Z",
+   "updated": "2026-11-09T09:01:21Z",
+   "items": [
+    {
+     "id": "a766f7ad6b94",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Officially Unveils New Batch Of Screenshots",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03aXdsWlV6dXpySEsyQVZnbzVLV1JnQkhFc0gxM1dwdXR5TXZHY2pXUVI0d3QxNmgzN1F3QmlaWlhfZHF2XzlWOWc0RUcwSEw0VWVtRVc4QW5mYkVUV0ZWWQ?oc=5",
+     "ts": "2026-11-08T18:53:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0a67686cfa81",
+   "title": "I made a quick little remix of the PS5 home screen ambience",
+   "first_seen": "2026-11-09T09:01:21Z",
+   "updated": "2026-11-09T09:01:21Z",
+   "items": [
+    {
+     "id": "0a67686cfa81",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I made a quick little remix of the PS5 home screen ambience",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xrmqun/i_made_a_quick_little_remix_of_the_ps5_home/",
+     "ts": "2026-11-09T08:52:41Z",
+     "summary": "When I heard it immediately thought of liquid dnb, so I made it. No AI used. submitted by /u/Tight-Tackle4386 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "65b304cd8fb8",
    "title": "Leaked GTA 6 release date build hints online multiplayer could launch soon",
    "first_seen": "2026-11-09T01:31:01Z",
@@ -319,32 +421,6 @@
     "at": "2026-11-09T08:50:54Z"
    },
    "msg_id": 669
-  },
-  {
-   "id": "25d479a745cb",
-   "title": "Do Not Take GTA 6 Launch Day Off, Take the Day After Instead",
-   "first_seen": "2026-11-09T08:50:51Z",
-   "updated": "2026-11-09T08:50:51Z",
-   "items": [
-    {
-     "id": "25d479a745cb",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "Do Not Take GTA 6 Launch Day Off, Take the Day After Instead",
-     "url": "https://www.gtaboom.com/do-not-take-gta-6-launch-day-off-take-the-day-after-instead-d37e",
-     "ts": "2026-11-09T08:49:07Z",
-     "summary": "Taking November 20 off for GTA 6 could mean more playtime and less setup than launch day if you only have one day of leave."
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "2a786e2818d5",
@@ -80454,11 +80530,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-09T08:50:55Z",
+  "last_run": "2026-11-09T09:01:26Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 62/66",
+   "gnews_ru: 61/65",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
