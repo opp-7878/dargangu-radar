@@ -1,252 +1,10 @@
 {
  "stories": [
   {
-   "id": "a1d7817b83d7",
-   "title": "Light Start: 5G on the moon, GTA VI cars go zoom, Switch 2 avoids another price boom, and Epic wears the SteamOS costume",
-   "first_seen": "2026-11-09T09:31:00Z",
-   "updated": "2026-11-09T10:11:03Z",
-   "items": [
-    {
-     "id": "a1d7817b83d7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Stuff South Africa",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Light Start: 5G on the moon, GTA VI cars go zoom, Switch 2 avoids another price boom, and Epic wears the SteamOS costume",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHlWQTFJUW9zRG8wSW80MHIxejBSa1l3SF80V29jTERvdDczdHhraEdJel9ta2NyWFNjMkFmRjNZTm5vS2JYOUVnOXRBX1hvZnkxUl8zRHJ5Mkx5UUQ4RnZoVk1ETGgxQ3R0T0hKX082SElNNWR5Y1NnZzN5dTVvUVJXU2s?oc=5",
-     "ts": "2026-11-09T09:27:15Z",
-     "summary": ""
-    },
-    {
-     "id": "0f7f2b4d31bd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "shattered.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Switch 2 Price $499.99, Six GTA VI Cars, Moon 5G [2026]",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkpuMDcxTXlOeEp0ZTNkV1E5bHdWeXQ1Sm1nOWxvVGR3MmpOUGdIck1tbUNYT3Z0MlE4cW5VbC1GSDZIeWl4SFAtamRyak9TdjUxOXQwM2k1Y1BhcGFnVF94dm9IZFJ1QTA0OFBZekNHZGhrTlIxTjd5YWh4TTFrMlJibVQ5WlBV?oc=5",
-     "ts": "2026-11-09T10:02:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК",
-    "цена/издания"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 на ПК: слухи о цене и версиях",
-    "summary": "По данным Stuff South Africa, обсуждают возможные цены и издания GTA 6 на ПК. Официально Rockstar это пока не подтверждала.",
-    "idea": "Разбираем слухи о ПК-версии GTA 6: какие издания и цены ждут игроков. Коротко и по делу — чтобы решить, на что копить.",
-    "hook": "Сколько попросят за GTA 6 на ПК? Разбираем свежие слухи.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-09T09:31:03Z"
-   },
-   "msg_id": 672
-  },
-  {
-   "id": "7ec933b4f6b4",
-   "title": "🔫 Предзагрузка GTA VI стартует уже завтра — в некоторых странах доступ к скачиванию откроют уже 9 ноября Расписание в самых популярных регионах PS Store: 😀 Нова",
-   "first_seen": "2026-11-08T18:20:49Z",
-   "updated": "2026-11-09T10:11:03Z",
-   "items": [
-    {
-     "id": "7ec933b4f6b4",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "🔫 Предзагрузка GTA VI стартует уже завтра — в некоторых странах доступ к скачиванию откроют уже 9 ноября Расписание в самых популярных регионах PS Store: 😀 Нова",
-     "url": "https://t.me/gta6deluxe/1990",
-     "ts": "2026-11-08T18:14:52Z",
-     "summary": "🔫 Предзагрузка GTA VI стартует уже завтра — в некоторых странах доступ к скачиванию откроют уже 9 ноября Расписание в самых популярных регионах PS Store: 😀 Новая Зеландия — 9 ноября в 14:00 по МСК 😀 Индия — 9 ноября в 21:30 по МСК 😀 Турция — 10 ноября в 00:00 по МСК 😀 Украина — 10 ноября в 01:00 по МСК 😀 Подписаться | Наш чат 😀"
-    },
-    {
-     "id": "65d83b3ef583",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "CyberMeta",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "На серверах PlayStation появился манифест загрузки GTA VI — предзагрузка стартует с Новой Зеландии",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWg1Tm5KcVpRYXBpLVBvZGhLNGRuS1R5dHVSdllIal9DZ0VFTnVWMkRfd2NqTWdZSWFEdURQOWRlZjUzemp4aXhxODZsSlNRc2FJWGRFSlJOd0k1ZVBseTZNck5pVlplV09laGhEdWtZZVAtU3JacERPTWhGekZPZFMtREUzYzVHQUVNdDUxbWxKQVFjVU5rOUw3NXFvdF9zcTY5TVhVTTBxZw?oc=5",
-     "ts": "2026-11-09T09:02:00Z",
-     "summary": ""
-    },
-    {
-     "id": "e9607080ec61",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Музыкальная тема GTA VI из меню PS5 Уже завтра стартует предзагрузка.",
-     "url": "https://t.me/GTAVIStar/856",
-     "ts": "2026-11-09T10:03:01Z",
-     "summary": "Музыкальная тема GTA VI из меню PS5 Уже завтра стартует предзагрузка. 6️⃣ GTA VI News 💝 Наш чатик"
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 86,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Предзагрузка GTA 6 стартует завтра: расписание по странам",
-    "summary": "По информации Telegram-канала @gta6deluxe, предзагрузка GTA 6 стартует завтра, 9 ноября. В некоторых странах PS Store доступ откроется по расписанию: Новая Зеландия — 9 ноября в 14:00 МСК, Индия — 9 ноября в 21:30 МСК, Турция — 10 ноября в 00:00 МСК, Украина — 10 ноября в 01:00 МСК.",
-    "idea": "Короткая карта мира с отметками стран и временем: где уже завтра можно качать GTA 6. Зрителю важно знать своё время, чтобы не пропустить предзагрузку.",
-    "hook": "Предзагрузка GTA 6 стартует завтра — вот когда откроется PS Store в твоей стране.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-08T18:20:52Z"
-   },
-   "msg_id": 657
-  },
-  {
-   "id": "36c5261cbcda",
-   "title": "GTA VI еще не вышла, а Rockstar уже заработала на игре более 750 миллионов долларов",
-   "first_seen": "2026-11-09T10:11:03Z",
-   "updated": "2026-11-09T10:11:03Z",
-   "items": [
-    {
-     "id": "36c5261cbcda",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Mixnews",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI еще не вышла, а Rockstar уже заработала на игре более 750 миллионов долларов",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTlBFUTY2VU9RWWVPM0dFRThWTlM3ZG9VbUwyNndOS3BWY0lCQUpCcWdjWmtVNHlxS1czc2pnNUd0enNoNFNZQXdPbUhsNFA4MHBPNktiLUc0cUc0RWFhODMyY2J0WWFFMnp5UWRxWDZQZHRvbXJWRG1QcjBTU1dKM1VOYWgwOWtRZTNkMTJmVG0xSWE4LVNWV05uRDVXYk9xbmRRWVVlTjVOYjc1MlVMd3E3Rk1VbGdoMG5LX3V0LVhnZw?oc=5",
-     "ts": "2026-11-09T09:33:52Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5cc223b3fab7",
-   "title": "Онлайн-режим GTA VI может стать отдельной игрой — коробки с игрой рассекретили план Rockstar",
-   "first_seen": "2026-11-09T10:11:03Z",
-   "updated": "2026-11-09T10:11:03Z",
-   "items": [
-    {
-     "id": "5cc223b3fab7",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Gagadget.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Онлайн-режим GTA VI может стать отдельной игрой — коробки с игрой рассекретили план Rockstar",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd19HanViYjgxbnE5OWxoSTl2RG80Ry1wZmFtbVNTR0dQdnBsbXlUdExRN2VsNDlDTk1uTFVtb1ZBeUJaWXRwcFYwYnc5SEhvakFnbVhsUXdSRFlaQkJPS05tbjBPWGtfWFB2V0I1MnNFS1BhVURQNW1QTkwzbnFzdlg1V0R4ZmtJX2JqWVQyYkhZa3dWSDRLc0M1c09RYUVqTFVkR0FQWHVHa1YxUU42WDAyUmlfekMtMDdWOG9BQdIBxAFBVV95cUxPZHNiYlpUcE5WZGdEUWQ5aUFhUmRncHlhRFUtdTNzUFBOMno1V0MwLUhUQ04xODBDRGY1bE5ZYTFGc0ViWU1MUmJtNkFJc0g1RjY0SDRzVGRNeDhMbnV1S1RFZEFRY0M2cG9PYkdWbFNpUkdQczkyOXltWGp6NGQzVVVJc0taNjE4OVFUYXktLXlGc2drTTNCXzhYSlZxUmRQejJoTlJFQzE2OGJ4VXpPcFkxRG1Xd0xhSVZ3Q2t3MFVYX0pl?oc=5",
-     "ts": "2026-11-09T09:47:57Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "102bf85ccbb3",
-   "title": "Former Rockstar developer says AI concerns could bring GTA 6 to PC sooner",
-   "first_seen": "2026-11-09T10:11:03Z",
-   "updated": "2026-11-09T10:11:03Z",
-   "items": [
-    {
-     "id": "102bf85ccbb3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Express Tribune",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Former Rockstar developer says AI concerns could bring GTA 6 to PC sooner",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWFBZ21OMjVCWHhkNzNCWWotT2RWSmxMQUI0dkVmNVRzRDN6alNPZFhBQzNHRnF3dHlEZUpYU0lZaVo5VHNKRFctSHR6MGs0TVVKZmUyT1ZJUy1EZXVyVW5oM1VNYThkVGNWMUdIYVhFZ3FKT3lEMzhoUXJEVWVtLWg5enJEUi1wOGRqUUVEbDhrOFVoc3V6RWlZMV83QnZNMloxak14TGZoYXE0M3hr0gG3AUFVX3lxTFAyYzJyQnNVYWJzQTRqWTFmSHNhRHVOdEJXOUdpX3A3UkFPWHppOHFtUU5hRUhxaGRHSGlDUlRaWklTeXkwcWZuZlZKdmNfQUNsd2xkZDRMZTU4dUNzeVZtUE9qYnp3WGRMUF94dUdvc0QzTXR2UC1CdWRsZDBKWlFOZ0hmMkt1SEpQR3YzcnpLeUxWZ3kzZU96X3VsUGJhUVc0d1N2NVBuY0wxN29XSm14aDUtcW5CNA?oc=5",
-     "ts": "2026-11-09T10:00:22Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "593b3adfa7d4",
-   "title": "Selfridges London has launched a huge Grand Theft Auto 6 store with 60+ items for sale",
-   "first_seen": "2026-11-09T10:11:03Z",
-   "updated": "2026-11-09T10:11:03Z",
-   "items": [
-    {
-     "id": "593b3adfa7d4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Video Games Chronicle",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Selfridges London has launched a huge Grand Theft Auto 6 store with 60+ items for sale",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CWHZyZTN5TVNEd1lnYksyVUkwZVVxVm5NZ0JIVThzNHFQV0JXS19PU0dZeEZIRFNERVJxdkdvSF84TmQ0Y2hPY0d3OHhjV1FpLS1NWWcyZXJfTXg2Yy1mQUxraTZjWktnYjJ2QkJ0UVIzUQ?oc=5",
-     "ts": "2026-11-09T10:07:17Z",
-     "summary": ""
-    },
-    {
-     "id": "b7cdde2ef160",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Selfridges London has launched a huge Grand Theft Auto 6 store with 60+ items for sale",
-     "url": "https://www.videogameschronicle.com/news/selfridges-london-gta6/",
-     "ts": "2026-11-09T10:07:17Z",
-     "summary": "Selfridges GTA 6 merchandise includes a £2,500 jacket; some items reportedly already sold out online"
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 93,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 2,
-   "ai_error": "ValueError: выдуманные числа: 2500",
-   "msg_id": 675
-  },
-  {
    "id": "2a786e2818d5",
    "title": "GTA 6 reportedly has 55 achievements/trophies, more than both GTA 5 and Red Dead Redemption 2 had at launch",
    "first_seen": "2026-11-08T22:10:47Z",
-   "updated": "2026-11-09T10:01:26Z",
+   "updated": "2026-11-09T10:20:55Z",
    "items": [
     {
      "id": "2a786e2818d5",
@@ -507,6 +265,19 @@
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPempGZkdwQUV1QTJyT0pyNkEyVFpqM1VaaE44cEc3dFdDR1hLa0hrLW9lQzZiTGQwd2RIOFlub1BsaHNrQ3JBS0FISjV1NnJvS2tqM0tjMDZGZkFxcGE5VWNvQnlhcDlpLTNjVXNhbk1SUi1kWTd0b1dfRDVaZksyVUxKdW8?oc=5",
      "ts": "2026-11-09T09:52:53Z",
      "summary": ""
+    },
+    {
+     "id": "65ab40984579",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I wonder what the extras are i assume 1 is pre order items another is ultimate edition bonuses but I wonder what the others are",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xro3o1/i_wonder_what_the_extras_are_i_assume_1_is_pre/",
+     "ts": "2026-11-09T10:17:42Z",
+     "summary": "submitted by /u/NeckOld9037 to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [
@@ -520,6 +291,365 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
+  },
+  {
+   "id": "0f81eb1bd167",
+   "title": "GTA 6 Online might be closer than we thought",
+   "first_seen": "2026-11-09T10:20:55Z",
+   "updated": "2026-11-09T10:20:55Z",
+   "items": [
+    {
+     "id": "0f81eb1bd167",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Digital Trends",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Online might be closer than we thought",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYjAtWDJPeEV3SWY4SFBLNjRYcVFRdGRWdlJrYU4xYkNTYTluTWduWV9nSnM2Tlh2YnJQVHMwb09EaEF2a25zV3VWcUgydmF1VDFYcnF6TFVZdEU5X2UzcjBQSnRtaFV5UkwyNkVjR013Um5KMWJ4MTZWNGV2SzNaM3ZCdnktdlRPV2c?oc=5",
+     "ts": "2026-11-09T10:01:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 Online может выйти раньше, чем ждали",
+    "summary": "По данным Digital Trends, GTA 6 Online может оказаться ближе, чем думают игроки. Издание ссылается на намёки и анализ, но Rockstar официально не подтверждала сроки.",
+    "idea": "Короткая нарезка слухов и фактов с таймером до релиза — почему фанатам стоит готовиться к онлайну уже сейчас.",
+    "hook": "GTA 6 Online ближе, чем кажется — вот что раскопали журналисты.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-09T10:20:58Z"
+   },
+   "msg_id": 676
+  },
+  {
+   "id": "d1c13e204eb0",
+   "title": "Пока Valve платит миллиарды: налоги с продаж GTA 6 в Казахстане уйдут в другие страны",
+   "first_seen": "2026-11-09T10:20:55Z",
+   "updated": "2026-11-09T10:20:55Z",
+   "items": [
+    {
+     "id": "d1c13e204eb0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Kursiv Media",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Пока Valve платит миллиарды: налоги с продаж GTA 6 в Казахстане уйдут в другие страны",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRFRIWi16d1BnUG9qRGVWRTFaRFUzV3dKNnhyYVhPRlFpYkd6SnlabElNMTBzUDJtNDVjV1M5YXVTS1RTNjI1bmxFRGYzclk3a0lVc3pQRWw4VDRmTERTcXZjbm04NFFHU1E2N2JybEV6b1VsNUJ2WDNjdzhtRnN0QmFHR0RmNTRDOV85Rk96QWo5SHpZcEFLa1JreG1ab2Zia2RqRHJjYTBzYkxqNGhNM3dBb2M5c3VhamdVOS1YRUtSMUQ0NDZUb3BfMA?oc=5",
+     "ts": "2026-11-09T10:10:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1773fc91ceb8",
+   "title": "Analysis: GTA VI download could take 2 days in UK’s slowest spots",
+   "first_seen": "2026-11-09T10:20:55Z",
+   "updated": "2026-11-09T10:20:55Z",
+   "items": [
+    {
+     "id": "1773fc91ceb8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Advanced Television",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Analysis: GTA VI download could take 2 days in UK’s slowest spots",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEVyaENRQW54YlZjcVU2MW10MkdvSFdxcXBfMk9qNFdfaHZfUVhBUzRhNEtqdHhTaGF2SHE2VUtGdVIyOWhLTEhFOG9GbFVkejZIZkktLWQxdnNHZWVzWmtwTGhQUWJDVXNHeXlENld6UnZZQ0RIUVRKcXZtd0FKNDUzUHc3Y0QwNXYteV9RWDE4Sm1FQzZxTEpoYXljaXI2ampvYV84QWNTR05oajY1UA?oc=5",
+     "ts": "2026-11-09T10:17:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fd2a4e558823",
+   "title": "🎵 Музыкальная тема из главного меню GTA VI 🥺 Канал про GTA 6 | Наш чат",
+   "first_seen": "2026-11-09T10:20:55Z",
+   "updated": "2026-11-09T10:20:55Z",
+   "items": [
+    {
+     "id": "fd2a4e558823",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🎵 Музыкальная тема из главного меню GTA VI 🥺 Канал про GTA 6 | Наш чат",
+     "url": "https://t.me/GTA6_m/9323",
+     "ts": "2026-11-09T10:19:13Z",
+     "summary": "🎵 Музыкальная тема из главного меню GTA VI 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a1d7817b83d7",
+   "title": "Light Start: 5G on the moon, GTA VI cars go zoom, Switch 2 avoids another price boom, and Epic wears the SteamOS costume",
+   "first_seen": "2026-11-09T09:31:00Z",
+   "updated": "2026-11-09T10:11:03Z",
+   "items": [
+    {
+     "id": "a1d7817b83d7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Stuff South Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Light Start: 5G on the moon, GTA VI cars go zoom, Switch 2 avoids another price boom, and Epic wears the SteamOS costume",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHlWQTFJUW9zRG8wSW80MHIxejBSa1l3SF80V29jTERvdDczdHhraEdJel9ta2NyWFNjMkFmRjNZTm5vS2JYOUVnOXRBX1hvZnkxUl8zRHJ5Mkx5UUQ4RnZoVk1ETGgxQ3R0T0hKX082SElNNWR5Y1NnZzN5dTVvUVJXU2s?oc=5",
+     "ts": "2026-11-09T09:27:15Z",
+     "summary": ""
+    },
+    {
+     "id": "0f7f2b4d31bd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "shattered.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Switch 2 Price $499.99, Six GTA VI Cars, Moon 5G [2026]",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkpuMDcxTXlOeEp0ZTNkV1E5bHdWeXQ1Sm1nOWxvVGR3MmpOUGdIck1tbUNYT3Z0MlE4cW5VbC1GSDZIeWl4SFAtamRyak9TdjUxOXQwM2k1Y1BhcGFnVF94dm9IZFJ1QTA0OFBZekNHZGhrTlIxTjd5YWh4TTFrMlJibVQ5WlBV?oc=5",
+     "ts": "2026-11-09T10:02:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК",
+    "цена/издания"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 на ПК: слухи о цене и версиях",
+    "summary": "По данным Stuff South Africa, обсуждают возможные цены и издания GTA 6 на ПК. Официально Rockstar это пока не подтверждала.",
+    "idea": "Разбираем слухи о ПК-версии GTA 6: какие издания и цены ждут игроков. Коротко и по делу — чтобы решить, на что копить.",
+    "hook": "Сколько попросят за GTA 6 на ПК? Разбираем свежие слухи.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-09T09:31:03Z"
+   },
+   "msg_id": 672
+  },
+  {
+   "id": "7ec933b4f6b4",
+   "title": "🔫 Предзагрузка GTA VI стартует уже завтра — в некоторых странах доступ к скачиванию откроют уже 9 ноября Расписание в самых популярных регионах PS Store: 😀 Нова",
+   "first_seen": "2026-11-08T18:20:49Z",
+   "updated": "2026-11-09T10:11:03Z",
+   "items": [
+    {
+     "id": "7ec933b4f6b4",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "🔫 Предзагрузка GTA VI стартует уже завтра — в некоторых странах доступ к скачиванию откроют уже 9 ноября Расписание в самых популярных регионах PS Store: 😀 Нова",
+     "url": "https://t.me/gta6deluxe/1990",
+     "ts": "2026-11-08T18:14:52Z",
+     "summary": "🔫 Предзагрузка GTA VI стартует уже завтра — в некоторых странах доступ к скачиванию откроют уже 9 ноября Расписание в самых популярных регионах PS Store: 😀 Новая Зеландия — 9 ноября в 14:00 по МСК 😀 Индия — 9 ноября в 21:30 по МСК 😀 Турция — 10 ноября в 00:00 по МСК 😀 Украина — 10 ноября в 01:00 по МСК 😀 Подписаться | Наш чат 😀"
+    },
+    {
+     "id": "65d83b3ef583",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "На серверах PlayStation появился манифест загрузки GTA VI — предзагрузка стартует с Новой Зеландии",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWg1Tm5KcVpRYXBpLVBvZGhLNGRuS1R5dHVSdllIal9DZ0VFTnVWMkRfd2NqTWdZSWFEdURQOWRlZjUzemp4aXhxODZsSlNRc2FJWGRFSlJOd0k1ZVBseTZNck5pVlplV09laGhEdWtZZVAtU3JacERPTWhGekZPZFMtREUzYzVHQUVNdDUxbWxKQVFjVU5rOUw3NXFvdF9zcTY5TVhVTTBxZw?oc=5",
+     "ts": "2026-11-09T09:02:00Z",
+     "summary": ""
+    },
+    {
+     "id": "e9607080ec61",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Музыкальная тема GTA VI из меню PS5 Уже завтра стартует предзагрузка.",
+     "url": "https://t.me/GTAVIStar/856",
+     "ts": "2026-11-09T10:03:01Z",
+     "summary": "Музыкальная тема GTA VI из меню PS5 Уже завтра стартует предзагрузка. 6️⃣ GTA VI News 💝 Наш чатик"
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Предзагрузка GTA 6 стартует завтра: расписание по странам",
+    "summary": "По информации Telegram-канала @gta6deluxe, предзагрузка GTA 6 стартует завтра, 9 ноября. В некоторых странах PS Store доступ откроется по расписанию: Новая Зеландия — 9 ноября в 14:00 МСК, Индия — 9 ноября в 21:30 МСК, Турция — 10 ноября в 00:00 МСК, Украина — 10 ноября в 01:00 МСК.",
+    "idea": "Короткая карта мира с отметками стран и временем: где уже завтра можно качать GTA 6. Зрителю важно знать своё время, чтобы не пропустить предзагрузку.",
+    "hook": "Предзагрузка GTA 6 стартует завтра — вот когда откроется PS Store в твоей стране.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-08T18:20:52Z"
+   },
+   "msg_id": 657
+  },
+  {
+   "id": "36c5261cbcda",
+   "title": "GTA VI еще не вышла, а Rockstar уже заработала на игре более 750 миллионов долларов",
+   "first_seen": "2026-11-09T10:11:03Z",
+   "updated": "2026-11-09T10:11:03Z",
+   "items": [
+    {
+     "id": "36c5261cbcda",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Mixnews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI еще не вышла, а Rockstar уже заработала на игре более 750 миллионов долларов",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTlBFUTY2VU9RWWVPM0dFRThWTlM3ZG9VbUwyNndOS3BWY0lCQUpCcWdjWmtVNHlxS1czc2pnNUd0enNoNFNZQXdPbUhsNFA4MHBPNktiLUc0cUc0RWFhODMyY2J0WWFFMnp5UWRxWDZQZHRvbXJWRG1QcjBTU1dKM1VOYWgwOWtRZTNkMTJmVG0xSWE4LVNWV05uRDVXYk9xbmRRWVVlTjVOYjc1MlVMd3E3Rk1VbGdoMG5LX3V0LVhnZw?oc=5",
+     "ts": "2026-11-09T09:33:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5cc223b3fab7",
+   "title": "Онлайн-режим GTA VI может стать отдельной игрой — коробки с игрой рассекретили план Rockstar",
+   "first_seen": "2026-11-09T10:11:03Z",
+   "updated": "2026-11-09T10:11:03Z",
+   "items": [
+    {
+     "id": "5cc223b3fab7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Gagadget.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Онлайн-режим GTA VI может стать отдельной игрой — коробки с игрой рассекретили план Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd19HanViYjgxbnE5OWxoSTl2RG80Ry1wZmFtbVNTR0dQdnBsbXlUdExRN2VsNDlDTk1uTFVtb1ZBeUJaWXRwcFYwYnc5SEhvakFnbVhsUXdSRFlaQkJPS05tbjBPWGtfWFB2V0I1MnNFS1BhVURQNW1QTkwzbnFzdlg1V0R4ZmtJX2JqWVQyYkhZa3dWSDRLc0M1c09RYUVqTFVkR0FQWHVHa1YxUU42WDAyUmlfekMtMDdWOG9BQdIBxAFBVV95cUxPZHNiYlpUcE5WZGdEUWQ5aUFhUmRncHlhRFUtdTNzUFBOMno1V0MwLUhUQ04xODBDRGY1bE5ZYTFGc0ViWU1MUmJtNkFJc0g1RjY0SDRzVGRNeDhMbnV1S1RFZEFRY0M2cG9PYkdWbFNpUkdQczkyOXltWGp6NGQzVVVJc0taNjE4OVFUYXktLXlGc2drTTNCXzhYSlZxUmRQejJoTlJFQzE2OGJ4VXpPcFkxRG1Xd0xhSVZ3Q2t3MFVYX0pl?oc=5",
+     "ts": "2026-11-09T09:47:57Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "102bf85ccbb3",
+   "title": "Former Rockstar developer says AI concerns could bring GTA 6 to PC sooner",
+   "first_seen": "2026-11-09T10:11:03Z",
+   "updated": "2026-11-09T10:11:03Z",
+   "items": [
+    {
+     "id": "102bf85ccbb3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Express Tribune",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Former Rockstar developer says AI concerns could bring GTA 6 to PC sooner",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWFBZ21OMjVCWHhkNzNCWWotT2RWSmxMQUI0dkVmNVRzRDN6alNPZFhBQzNHRnF3dHlEZUpYU0lZaVo5VHNKRFctSHR6MGs0TVVKZmUyT1ZJUy1EZXVyVW5oM1VNYThkVGNWMUdIYVhFZ3FKT3lEMzhoUXJEVWVtLWg5enJEUi1wOGRqUUVEbDhrOFVoc3V6RWlZMV83QnZNMloxak14TGZoYXE0M3hr0gG3AUFVX3lxTFAyYzJyQnNVYWJzQTRqWTFmSHNhRHVOdEJXOUdpX3A3UkFPWHppOHFtUU5hRUhxaGRHSGlDUlRaWklTeXkwcWZuZlZKdmNfQUNsd2xkZDRMZTU4dUNzeVZtUE9qYnp3WGRMUF94dUdvc0QzTXR2UC1CdWRsZDBKWlFOZ0hmMkt1SEpQR3YzcnpLeUxWZ3kzZU96X3VsUGJhUVc0d1N2NVBuY0wxN29XSm14aDUtcW5CNA?oc=5",
+     "ts": "2026-11-09T10:00:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "593b3adfa7d4",
+   "title": "Selfridges London has launched a huge Grand Theft Auto 6 store with 60+ items for sale",
+   "first_seen": "2026-11-09T10:11:03Z",
+   "updated": "2026-11-09T10:11:03Z",
+   "items": [
+    {
+     "id": "593b3adfa7d4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Video Games Chronicle",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Selfridges London has launched a huge Grand Theft Auto 6 store with 60+ items for sale",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CWHZyZTN5TVNEd1lnYksyVUkwZVVxVm5NZ0JIVThzNHFQV0JXS19PU0dZeEZIRFNERVJxdkdvSF84TmQ0Y2hPY0d3OHhjV1FpLS1NWWcyZXJfTXg2Yy1mQUxraTZjWktnYjJ2QkJ0UVIzUQ?oc=5",
+     "ts": "2026-11-09T10:07:17Z",
+     "summary": ""
+    },
+    {
+     "id": "b7cdde2ef160",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Selfridges London has launched a huge Grand Theft Auto 6 store with 60+ items for sale",
+     "url": "https://www.videogameschronicle.com/news/selfridges-london-gta6/",
+     "ts": "2026-11-09T10:07:17Z",
+     "summary": "Selfridges GTA 6 merchandise includes a £2,500 jacket; some items reportedly already sold out online"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 93,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 2,
+   "ai_error": "ValueError: выдуманные числа: 2500",
+   "msg_id": 675
   },
   {
    "id": "65b304cd8fb8",
@@ -80671,11 +80801,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-09T10:11:16Z",
+  "last_run": "2026-11-09T10:20:58Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 72/76",
+   "gnews_ru: 71/75",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 3/10",
@@ -80687,7 +80817,7 @@
    "reddit: 23/25",
    "tg_gtavistar: 5/11",
    "tg_gta6deluxe: 10/10",
-   "tg_gta6_m: 7/16",
+   "tg_gta6_m: 8/16",
    "tg_gta6newsdaily: 0/16"
   ],
   "digest": "2026-11-09@9",
