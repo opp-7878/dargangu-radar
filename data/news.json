@@ -1,141 +1,10 @@
 {
  "stories": [
   {
-   "id": "a1d7817b83d7",
-   "title": "Light Start: 5G on the moon, GTA VI cars go zoom, Switch 2 avoids another price boom, and Epic wears the SteamOS costume",
-   "first_seen": "2026-11-09T09:31:00Z",
-   "updated": "2026-11-09T09:31:00Z",
-   "items": [
-    {
-     "id": "a1d7817b83d7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Stuff South Africa",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Light Start: 5G on the moon, GTA VI cars go zoom, Switch 2 avoids another price boom, and Epic wears the SteamOS costume",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHlWQTFJUW9zRG8wSW80MHIxejBSa1l3SF80V29jTERvdDczdHhraEdJel9ta2NyWFNjMkFmRjNZTm5vS2JYOUVnOXRBX1hvZnkxUl8zRHJ5Mkx5UUQ4RnZoVk1ETGgxQ3R0T0hKX082SElNNWR5Y1NnZzN5dTVvUVJXU2s?oc=5",
-     "ts": "2026-11-09T09:27:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК",
-    "цена/издания"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 на ПК: слухи о цене и версиях",
-    "summary": "По данным Stuff South Africa, обсуждают возможные цены и издания GTA 6 на ПК. Официально Rockstar это пока не подтверждала.",
-    "idea": "Разбираем слухи о ПК-версии GTA 6: какие издания и цены ждут игроков. Коротко и по делу — чтобы решить, на что копить.",
-    "hook": "Сколько попросят за GTA 6 на ПК? Разбираем свежие слухи.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-09T09:31:03Z"
-   },
-   "msg_id": 672
-  },
-  {
-   "id": "970f58156679",
-   "title": "Rockstar Leeds: 20+ Years, 5 Studios Deep [2026]",
-   "first_seen": "2026-11-09T02:40:47Z",
-   "updated": "2026-11-09T09:30:59Z",
-   "items": [
-    {
-     "id": "970f58156679",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "https://tech-insider.org/",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Leeds: 20+ Years, 5 Studios Deep [2026]",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTQ4RnI0NGxkRFVqQ3AzRDhSYWVqU3g3QlNHWGNtVlVlMVk3X3JoWHV4TnQzQUNrTE44SU9hY1VKZGdCdUNuS2NjTHNCNzNPX083VVZnQjRja0pjMlhaY2pDN1c5aE5jQWV3NFdjaWgydFhXNGJhV2R4Qnk0NDFaU0VnNzlNVjRTM1FxUQ?oc=5",
-     "ts": "2026-11-09T02:33:41Z",
-     "summary": ""
-    },
-    {
-     "id": "ae61501484ea",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "shattered.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Leeds: 20+ Years, 200+ Staff Strong [2026]",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDRYRWgxa1J3R2twQzk2eE1MS0NJb3dxYXY1SWNpQmVGSWRMXzA0cDhHdl90aVRhellWSTV3TTBQM0tMdXFKb3VNb2Fyc1VhQ3lqdnJaQngxTGFlX1dmdE9wSXhjMTdfOU11OHVHcnZhNWl2c0J3N2F0bXAzc0VqZEJWRmttZw?oc=5",
-     "ts": "2026-11-09T05:47:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "a5c424075d6b",
-   "title": "Cyberpunk 2077 Gets New Mods Before GTA 6",
-   "first_seen": "2026-11-09T09:30:59Z",
-   "updated": "2026-11-09T09:30:59Z",
-   "items": [
-    {
-     "id": "a5c424075d6b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NoobFeed",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Cyberpunk 2077 Gets New Mods Before GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAteG5IQjBUYjZIV3JwaEl1Skc5dnpWMTZjWVlCcVZhNjZka0VhU1ZUZTY1VE4zSC0zYXVkamtyZnhnN1pqY3pXZDFmUEFWdVFwU0NSSWdNWHI1aGFZampWTmJPR1E0QQ?oc=5",
-     "ts": "2026-11-09T09:24:25Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "48a89b8256b2",
-   "title": "Стала известна главная музыкальная тема GTA 6",
-   "first_seen": "2026-11-09T09:30:59Z",
-   "updated": "2026-11-09T09:30:59Z",
-   "items": [
-    {
-     "id": "48a89b8256b2",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW.News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Стала известна главная музыкальная тема GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEU2NnVBOW9la1prcThjdzdmM21pWTAtN0VaWk82WTFNMFAtOXBuLUdrNnllQVd4TC15allnX2k5NzUxMUxtN3pUUDhfVElSUC00YWFjaUpQaXlTYnZnLXpndG5mRnlNbWtwY1liZ2JBN0ZJZ01rNFVvdE1ObkRqRDFRaC1XN0VGOW5lVFEzVQ?oc=5",
-     "ts": "2026-11-09T09:25:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "65b304cd8fb8",
    "title": "Leaked GTA 6 release date build hints online multiplayer could launch soon",
    "first_seen": "2026-11-09T01:31:01Z",
-   "updated": "2026-11-09T09:21:06Z",
+   "updated": "2026-11-09T09:41:07Z",
    "items": [
     {
      "id": "65b304cd8fb8",
@@ -344,6 +213,19 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdEJwTVZ1Z001WkpIalBqOGt0TTFUMkQtODJVYzN4VjVlc2JYQUk1LU1kSEpuNW55Nk5VY3FNcC11MkN2VXVSM0xYSjFEUFBPUGpPSXM2SUFGYVJPU0N5YWYxMzRveTl5MEV0QnV3ejYyazJtWGQtNlM5VmVCVy00bThBSldZb2J4elMwUlY4NkZwMU52ZTZSZFFMcDJyYjBGN2piLXpNY1pWTEl2eWhiQTVBTGw1eW1wS0ZRVGRDVmFfUQ?oc=5",
      "ts": "2026-11-09T05:46:46Z",
      "summary": ""
+    },
+    {
+     "id": "46c8fb052cc6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "shattered.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Multiplayer Leak: 3 Online Strings Found [2026]",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcS1jTWFMNnNjY2NiUXZtaU9QWUVjOEp1NXN6QzZybWQ3bHhvcnh6ZVUyc0N3NU9OMk5HUTE5YU82Y3dablRoc09ybXhSNW9XaXREUzY3S09LRk1SVmhBT3lSMnFXQjl2WU5Ka3R5UVZUTEluWUJWZVJBVUlwb25yaGNrZEl5Rk9ocGNZ?oc=5",
+     "ts": "2026-11-09T09:34:03Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -357,6 +239,337 @@
    "score": 90,
    "level": "PROBABLE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "0a5e1af32ef4",
+   "title": "Не просто трейлер, а целых 20 минут живого геймплея GTA 6 нас будут ждать 27 августа",
+   "first_seen": "2026-11-09T09:41:07Z",
+   "updated": "2026-11-09T09:41:07Z",
+   "items": [
+    {
+     "id": "0a5e1af32ef4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Не просто трейлер, а целых 20 минут живого геймплея GTA 6 нас будут ждать 27 августа",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYm53OHB4NlFOU1BBd2NwX3J2Y0ZHUWk3VnNTdDBJYm8zZ2lKaC1RVWl0b0F3VFpoeHZ4bENNdGw4Uno2RHVHWGhfb1hBS3J2UldWR2Y0RWtyeUtYOHhHUUtnbnFoeS1tN3ZXYXBNblBYb19uemNzY3hjamtGUDFLQndMZTg5ajJmbU5xN20td19KTEZjZXJfQjd2VU8waFNlM1BBZ25BVHZSSlRHQjJrRHVn?oc=5",
+     "ts": "2026-11-09T08:41:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "геймплей",
+    "трейлер"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "20 минут геймплея GTA 6 27 августа? Что покажут",
+    "summary": "По информации GoHa.Ru, 27 августа могут показать не просто трейлер, а около 20 минут геймплея GTA 6. Официально Rockstar это пока не подтверждала.",
+    "idea": "Сравним обещанные 20 минут с трейлерами GTA 5 и RDR 2 и разберём, что успеют показать: город, механики, Лусию и Джейсона. Зрителю важно понять, увидим ли мы реальный геймплей или нарезку.",
+    "hook": "Говорят, 27 августа дадут 20 минут геймплея GTA 6. Что успеют показать?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-09T09:41:14Z"
+   },
+   "msg_id": 673
+  },
+  {
+   "id": "ef5f81a3d3fd",
+   "title": "Новые подробности GTA 6 от Rockstar, заявления Зельника и возможные сроки выхода на ПК",
+   "first_seen": "2026-11-09T09:41:07Z",
+   "updated": "2026-11-09T09:41:07Z",
+   "items": [
+    {
+     "id": "ef5f81a3d3fd",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Новые подробности GTA 6 от Rockstar, заявления Зельника и возможные сроки выхода на ПК",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVFBzNU55OTl4XzVzRU1OV0dGY0lLOEpEYmZDZmplTzBsMEVfVXN3ZFRpN1pEanNUVFhOZFRYc0ZIZjZUcFdOTkItV0w3Wm9Na0RVa09PUU9mXzBCY1poQUFDVlZnVEs0UXpKLWdQYVlNVVFEMlE4VDl3RW1tbzM0TlFIcEthLThrU3BzY0Y3UHVrZUxRWTY4ZnlWamFNMlM5Z2ZhSzEyeUhVOVJheUMwX21NRGpHSVBUMkhWV2t1ZWhaRE4wdE15dEJNaWVVVXdK?oc=5",
+     "ts": "2026-11-09T09:14:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "b00ae07b607e",
+   "title": "10 причин не ждать GTA 6 - почему новая часть Rockstar может разочаровать",
+   "first_seen": "2026-11-09T09:41:07Z",
+   "updated": "2026-11-09T09:41:07Z",
+   "items": [
+    {
+     "id": "b00ae07b607e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "10 причин не ждать GTA 6 - почему новая часть Rockstar может разочаровать",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFRwMnpXYnVIZC1yZjh6VVFmblNZMU11SHNhRFFEZXc5SXBlQ3lsbzBmcGJfM05fSXZVbmdrMVl2Z0RiZldYMmczeW9iY1p2cG5RNmlfdDJTU2dVa3IweEpMdHM2Vkk1bVY0SE1WNUVHcXhRMG1WSEdzc1hkbnhzWVMtOWR4MnBWeHREaDJwUFdsR1BvTnF0UUdHTV9WZS1qd0huNzllVHVNaXVIaGhWR2tpMkhZZmtKSFlpdnZsMzE?oc=5",
+     "ts": "2026-11-09T09:22:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "97caa6f0db30",
+   "title": "GTA 6 x Selfridges collaboration: All items and their costs",
+   "first_seen": "2026-11-09T09:41:07Z",
+   "updated": "2026-11-09T09:41:07Z",
+   "items": [
+    {
+     "id": "97caa6f0db30",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Sportskeeda",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 x Selfridges collaboration: All items and their costs",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUjc3VXBWdHJYc2lVME56LU54RDhvQ1RfQTlSeWtudTNJNVAyTVVjQWNRclBtYkt1MkZyMmNRWG1ieV9oX09PTGpaVzVUbkZJOU16b2J0ZDZmSEdaRUktRHU1Q0V3WmdaalU3bjdFaklJdnA2ekhzWGJWcGpSU0ZCbXBJTnV3cEU?oc=5",
+     "ts": "2026-11-09T09:36:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "669e1b4cedb1",
+   "title": "Reminder to: Enjoy it!",
+   "first_seen": "2026-11-09T09:41:07Z",
+   "updated": "2026-11-09T09:41:07Z",
+   "items": [
+    {
+     "id": "669e1b4cedb1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Reminder to: Enjoy it!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xrng7s/reminder_to_enjoy_it/",
+     "ts": "2026-11-09T09:37:51Z",
+     "summary": "Just a reminder for anyone else who needs to hear this: Come midnight, on day of release. Play. The. Game. Don’t check the internet - just log off. Do it for yourself! For me, I’m doing it for my inner young self, the gamer in 2003 who played GTA Vice City for about 6 hours straight every day for about 3 weeks. While I can’t do that now, I’m not going to slice that special time up by checking YouTube and Reddit and Google for other players encounter things. I’m not gonna stream myself. I’m not gonna watch streams. Rockstar have been building and planning this game for 14 years so we can EXPERI"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "830a0754a684",
+   "title": "Insane GTA 6 Takeover Arrives in London’s Selfridges Store",
+   "first_seen": "2026-11-09T09:41:07Z",
+   "updated": "2026-11-09T09:41:07Z",
+   "items": [
+    {
+     "id": "830a0754a684",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Insane GTA 6 Takeover Arrives in London’s Selfridges Store",
+     "url": "https://insider-gaming.com/gta-6-selfridges-insane-merch-lineup/",
+     "ts": "2026-11-09T09:38:18Z",
+     "summary": "In London, an incredible GTA 6-themed takeover has happened in Selfridges, one of the most iconic department stores in the world. The post Insane GTA 6 Takeover Arrives in London’s Selfridges Store appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 57 (char 58)"
+  },
+  {
+   "id": "08029bf3bf47",
+   "title": "GTA VI - MAIN MENU MUSIC",
+   "first_seen": "2026-11-09T09:41:07Z",
+   "updated": "2026-11-09T09:41:07Z",
+   "items": [
+    {
+     "id": "08029bf3bf47",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI - MAIN MENU MUSIC",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xrnh47/gta_vi_main_menu_music/",
+     "ts": "2026-11-09T09:39:26Z",
+     "summary": "submitted by /u/ZEROA9 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a1d7817b83d7",
+   "title": "Light Start: 5G on the moon, GTA VI cars go zoom, Switch 2 avoids another price boom, and Epic wears the SteamOS costume",
+   "first_seen": "2026-11-09T09:31:00Z",
+   "updated": "2026-11-09T09:31:00Z",
+   "items": [
+    {
+     "id": "a1d7817b83d7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Stuff South Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Light Start: 5G on the moon, GTA VI cars go zoom, Switch 2 avoids another price boom, and Epic wears the SteamOS costume",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHlWQTFJUW9zRG8wSW80MHIxejBSa1l3SF80V29jTERvdDczdHhraEdJel9ta2NyWFNjMkFmRjNZTm5vS2JYOUVnOXRBX1hvZnkxUl8zRHJ5Mkx5UUQ4RnZoVk1ETGgxQ3R0T0hKX082SElNNWR5Y1NnZzN5dTVvUVJXU2s?oc=5",
+     "ts": "2026-11-09T09:27:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК",
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 на ПК: слухи о цене и версиях",
+    "summary": "По данным Stuff South Africa, обсуждают возможные цены и издания GTA 6 на ПК. Официально Rockstar это пока не подтверждала.",
+    "idea": "Разбираем слухи о ПК-версии GTA 6: какие издания и цены ждут игроков. Коротко и по делу — чтобы решить, на что копить.",
+    "hook": "Сколько попросят за GTA 6 на ПК? Разбираем свежие слухи.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-09T09:31:03Z"
+   },
+   "msg_id": 672
+  },
+  {
+   "id": "970f58156679",
+   "title": "Rockstar Leeds: 20+ Years, 5 Studios Deep [2026]",
+   "first_seen": "2026-11-09T02:40:47Z",
+   "updated": "2026-11-09T09:30:59Z",
+   "items": [
+    {
+     "id": "970f58156679",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "https://tech-insider.org/",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Leeds: 20+ Years, 5 Studios Deep [2026]",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTQ4RnI0NGxkRFVqQ3AzRDhSYWVqU3g3QlNHWGNtVlVlMVk3X3JoWHV4TnQzQUNrTE44SU9hY1VKZGdCdUNuS2NjTHNCNzNPX083VVZnQjRja0pjMlhaY2pDN1c5aE5jQWV3NFdjaWgydFhXNGJhV2R4Qnk0NDFaU0VnNzlNVjRTM1FxUQ?oc=5",
+     "ts": "2026-11-09T02:33:41Z",
+     "summary": ""
+    },
+    {
+     "id": "ae61501484ea",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "shattered.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Leeds: 20+ Years, 200+ Staff Strong [2026]",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDRYRWgxa1J3R2twQzk2eE1MS0NJb3dxYXY1SWNpQmVGSWRMXzA0cDhHdl90aVRhellWSTV3TTBQM0tMdXFKb3VNb2Fyc1VhQ3lqdnJaQngxTGFlX1dmdE9wSXhjMTdfOU11OHVHcnZhNWl2c0J3N2F0bXAzc0VqZEJWRmttZw?oc=5",
+     "ts": "2026-11-09T05:47:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "a5c424075d6b",
+   "title": "Cyberpunk 2077 Gets New Mods Before GTA 6",
+   "first_seen": "2026-11-09T09:30:59Z",
+   "updated": "2026-11-09T09:30:59Z",
+   "items": [
+    {
+     "id": "a5c424075d6b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NoobFeed",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Cyberpunk 2077 Gets New Mods Before GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAteG5IQjBUYjZIV3JwaEl1Skc5dnpWMTZjWVlCcVZhNjZka0VhU1ZUZTY1VE4zSC0zYXVkamtyZnhnN1pqY3pXZDFmUEFWdVFwU0NSSWdNWHI1aGFZampWTmJPR1E0QQ?oc=5",
+     "ts": "2026-11-09T09:24:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "48a89b8256b2",
+   "title": "Стала известна главная музыкальная тема GTA 6",
+   "first_seen": "2026-11-09T09:30:59Z",
+   "updated": "2026-11-09T09:30:59Z",
+   "items": [
+    {
+     "id": "48a89b8256b2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Стала известна главная музыкальная тема GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEU2NnVBOW9la1prcThjdzdmM21pWTAtN0VaWk82WTFNMFAtOXBuLUdrNnllQVd4TC15allnX2k5NzUxMUxtN3pUUDhfVElSUC00YWFjaUpQaXlTYnZnLXpndG5mRnlNbWtwY1liZ2JBN0ZJZ01rNFVvdE1ObkRqRDFRaC1XN0VGOW5lVFEzVQ?oc=5",
+     "ts": "2026-11-09T09:25:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -80443,182 +80656,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "944180335c30",
-   "title": "Justice X Eddie Murphy & Rick James - Party In a Hurricane (GTA VI ROCCO MASHUP)",
-   "first_seen": "2026-11-02T09:40:55Z",
-   "updated": "2026-11-02T09:40:55Z",
-   "items": [
-    {
-     "id": "944180335c30",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "YouTube",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Justice X Eddie Murphy & Rick James - Party In a Hurricane (GTA VI ROCCO MASHUP)",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6VlVscGtSeU03VFVnS0lfTExteWRhRUNvTWc3QU5Zb1BoUENadEo4bFFoMUlwN0h1SE1ucm5RREt1bHBkc2pYWFF0OHVJekE0aEpsRVNSUC1qem84?oc=5",
-     "ts": "2026-11-02T07:55:49Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a1ec97b0be39",
-   "title": "GTA 6 will have 10 times more interiors than previous Rockstar games.",
-   "first_seen": "2026-11-02T09:40:55Z",
-   "updated": "2026-11-02T09:40:55Z",
-   "items": [
-    {
-     "id": "a1ec97b0be39",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 will have 10 times more interiors than previous Rockstar games.",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlF5YTVLZFpLX3Zmc2liaS1sS2pJa2pQUzRWdEJoZWpKcFI3QkphOURXUjFrZ0dMNHhCT25YMjRJRGJuZy1kYmdZOFFMRE9sN3dGYkZYRHZJTEdCTEl0U3c4aGM1U09wS0VlZWxTaU9DOURMZ1ZoQVR0ZE54eDBjZEZWb1lyMWk4MnAzQWFVOEJZdFRaa1g4a3dKSmE1WWNEN2NDZFA3V3NOVGdXR2k3TTFtWWVGTW1RUjN6NQ?oc=5",
-     "ts": "2026-11-02T09:32:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ba2be248821c",
-   "title": "GTA 6 получит в 10 раз больше интерьеров по сравнению с предыдущими играми Rockstar",
-   "first_seen": "2026-11-02T09:40:55Z",
-   "updated": "2026-11-02T09:40:55Z",
-   "items": [
-    {
-     "id": "ba2be248821c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 получит в 10 раз больше интерьеров по сравнению с предыдущими играми Rockstar",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRUJhSl9yQ2RZY0dNai1CY29iYWFVVVY4YWxUcDh3TV8tUjVPOGRoTzVaZ19iTERwLUVPd1E0ckFURWdsOVdvVVNFQmVpbGdvUTY2aGZQYmxEWGpCa2FKYWZLdjFMaWVpSDhrSjZ0Ykt4b09DYkhXUmVDc1FNU1dVT2VreExsLUw4dWRMUExLVlJES1dSYnUzeUpub1Vnak1VRnl4UXc2dnlrYVhqd0NmMkxRdHVYVFVT?oc=5",
-     "ts": "2026-11-02T09:32:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c0928fab789a",
-   "title": "GTA 6 now requires at least PS5 update 14.22.00.00.Players staying on older firmware for jailbreak access will need to update to play.",
-   "first_seen": "2026-11-02T09:40:55Z",
-   "updated": "2026-11-02T09:40:55Z",
-   "items": [
-    {
-     "id": "c0928fab789a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 now requires at least PS5 update 14.22.00.00.Players staying on older firmware for jailbreak access will need to update to play.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xlst48/gta_6_now_requires_at_least_ps5_update/",
-     "ts": "2026-11-02T09:35:00Z",
-     "summary": "submitted by /u/Dr_Doom_here to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d9c60cf79301",
-   "title": "Rockstar якобы готовит бонус для предзаказов GTA 6 в одном из магазинов США (Forward)",
-   "first_seen": "2026-11-02T09:40:55Z",
-   "updated": "2026-11-02T09:40:55Z",
-   "items": [
-    {
-     "id": "d9c60cf79301",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Tribuna.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar якобы готовит бонус для предзаказов GTA 6 в одном из магазинов США (Forward)",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXVnclZkYWpXYUd5TmR3MkU0TGYtOElCMW1iMHUwZ0s1WmtIU0VBZFJCU19sR3RSZ2RPak5LWUZRdVNZOGkxaG9zMkt4VUFBRkVWVFpJcHBJNzVnZ002VjlEUm5NNVE3eW0zX3B3c1g2bklycjJuSTFSeGJ4RU0yRUtmcHF1S3J5NkJ3eS1WRlBCVXc3VlBNMmN0WmNjYS0yZ29jak9nQdIBrAFBVV95cUxPcGt6VjZEZVdVd3ZqbnNMbjhCckVxdjBxWExXczNKYWt5TDdIbHF1RTZiaW9DOGtGMEt0NGp1LWM3WEdrRWJ2Q0xEN1dFT3NFMEluQjItY3dOUC14X0tMdjRpN05zbi1KaHR2UlFaLTVWdm42Ny1xOThaaEhqRHE5M3pVVTl3S25VVHhfR085anI0Zzc3ZVBVU3NRU3pnYTlIX0VBcEh2Q1pZci1M?oc=5",
-     "ts": "2026-11-02T09:37:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Бонус за предзаказ GTA 6 в одном магазине США?",
-    "summary": "По информации Tribuna.com со ссылкой на Forward, Rockstar якобы готовит бонус для предзаказов GTA 6 в одном из магазинов США. Официально Rockstar это пока не подтверждала — ждём деталей.",
-    "idea": "Короткий разбор: что за бонус, где именно и почему это может быть локальная акция. Зрителю важно — не упустить редкий предзаказ-бонус.",
-    "hook": "Бонус за предзаказ GTA 6 только в одном магазине США? Разбираемся.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-02T09:40:58Z"
-   },
-   "msg_id": 423
-  },
-  {
-   "id": "71705e903c24",
-   "title": "Can I preorder GTA 6 without owning a PS5 yet? Will I still get the preorder bonuses?",
-   "first_seen": "2026-11-02T09:31:10Z",
-   "updated": "2026-11-02T09:31:10Z",
-   "items": [
-    {
-     "id": "71705e903c24",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Can I preorder GTA 6 without owning a PS5 yet? Will I still get the preorder bonuses?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xlsncn/can_i_preorder_gta_6_without_owning_a_ps5_yet/",
-     "ts": "2026-11-02T09:24:36Z",
-     "summary": "Hey everyone, I have a quick question regarding the GTA 6 preorder. I currently have a PS4, which I haven't really used for the last 2–3 years. However, I still have access to my old PlayStation account and all my login details. I've recently moved to another country, but I want to experience GTA 6 together with my brother when I go back home during the holidays. My plan is to buy him a PS5 when I'm back so we can finally play it together. I recently came across information about preorder bonuses and the additional in-game items you apparently receive for preordering GTA 6. My question is: Can"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-09T09:31:03Z",
+  "last_run": "2026-11-09T09:41:14Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
@@ -80629,12 +80671,12 @@
    "ign: 0/20",
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
-   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
+   "rockstarintel: 1/10",
    "gtaboom: 5/30",
-   "reddit: 22/25",
+   "reddit: 23/25",
    "tg_gtavistar: 5/10",
    "tg_gta6deluxe: 10/10",
-   "tg_gta6_m: 8/16",
+   "tg_gta6_m: 7/16",
    "tg_gta6newsdaily: 0/16"
   ],
   "digest": "2026-11-09@9",
