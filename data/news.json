@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "fb61efa7d64d",
+   "title": "“First news about GTA Online”: GTA VI dataminer shares findings",
+   "first_seen": "2026-11-09T03:20:53Z",
+   "updated": "2026-11-09T03:20:53Z",
+   "items": [
+    {
+     "id": "fb61efa7d64d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "“First news about GTA Online”: GTA VI dataminer shares findings",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS3J2bUU0T2VTRnN6MlRQRWp3bTM2Y0lqbUdOT0VFV2FBcUZ6MURwc2gtX0ZwaXN3RkNnbDh6UWgxTS1yQ1Nield1Vm52WE9nMjNSQUlqWXBJU3dwb01hQmpHcEllVmI3Z2F1d3FZUWw3RGF3LUZUQ2QxU2dyR29vVEY2SXNSbm52WFprTExoeGU0eFhKVVYtQ2NmMWtWanltMUJfSjJPcWlLdndZTFHSAbMBQVVfeXFMTkNhZk8tekcxTW9xaWw5d1hCOVdYR3NCeHhtN19vTnVSVUs2OHdrYTE3RjRJVzV6bTN0Mk96a3M5SUgxc3ktRFZKNFVSX2NMSW5UbU1qek8wZEdPRVcyQUdkbG5iZDktb1YyTGRUWnVaZHdEajNGdlBpajNqbEg2Q1JtQ2dSVHlSbTJleGRsYldySGVUbldNUFBjSjlzNklKUmVyTmtOV0o2bDRjSDhTbl91OHM?oc=5",
+     "ts": "2026-11-09T02:49:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "46bbc2418e6b",
    "title": "«Первые новости о GTA Online»: датамайнер GTA VI поделился находками",
    "first_seen": "2026-11-09T03:10:49Z",
@@ -80123,69 +80151,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "544eee8077da",
-   "title": "It's almost time",
-   "first_seen": "2026-11-02T03:10:53Z",
-   "updated": "2026-11-02T03:10:53Z",
-   "items": [
-    {
-     "id": "544eee8077da",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "It's almost time",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xlm7k2/its_almost_time/",
-     "ts": "2026-11-02T03:03:57Z",
-     "summary": "submitted by /u/Macsusc_DAMysticBoon to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "28dfc9e9cc6a",
-   "title": "Curry barker is Jason confirmed?",
-   "first_seen": "2026-11-02T03:10:53Z",
-   "updated": "2026-11-02T03:10:53Z",
-   "items": [
-    {
-     "id": "28dfc9e9cc6a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Curry barker is Jason confirmed?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xlmbd3/curry_barker_is_jason_confirmed/",
-     "ts": "2026-11-02T03:09:22Z",
-     "summary": "submitted by /u/HumbleMarzipan9978 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-09T03:10:49Z",
+  "last_run": "2026-11-09T03:20:53Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 49/54",
+   "gnews_ru: 46/51",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
