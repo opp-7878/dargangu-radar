@@ -1,6 +1,137 @@
 {
  "stories": [
   {
+   "id": "a1d7817b83d7",
+   "title": "Light Start: 5G on the moon, GTA VI cars go zoom, Switch 2 avoids another price boom, and Epic wears the SteamOS costume",
+   "first_seen": "2026-11-09T09:31:00Z",
+   "updated": "2026-11-09T09:31:00Z",
+   "items": [
+    {
+     "id": "a1d7817b83d7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Stuff South Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Light Start: 5G on the moon, GTA VI cars go zoom, Switch 2 avoids another price boom, and Epic wears the SteamOS costume",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHlWQTFJUW9zRG8wSW80MHIxejBSa1l3SF80V29jTERvdDczdHhraEdJel9ta2NyWFNjMkFmRjNZTm5vS2JYOUVnOXRBX1hvZnkxUl8zRHJ5Mkx5UUQ4RnZoVk1ETGgxQ3R0T0hKX082SElNNWR5Y1NnZzN5dTVvUVJXU2s?oc=5",
+     "ts": "2026-11-09T09:27:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК",
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 на ПК: слухи о цене и версиях",
+    "summary": "По данным Stuff South Africa, обсуждают возможные цены и издания GTA 6 на ПК. Официально Rockstar это пока не подтверждала.",
+    "idea": "Разбираем слухи о ПК-версии GTA 6: какие издания и цены ждут игроков. Коротко и по делу — чтобы решить, на что копить.",
+    "hook": "Сколько попросят за GTA 6 на ПК? Разбираем свежие слухи.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-09T09:31:03Z"
+   },
+   "msg_id": 672
+  },
+  {
+   "id": "970f58156679",
+   "title": "Rockstar Leeds: 20+ Years, 5 Studios Deep [2026]",
+   "first_seen": "2026-11-09T02:40:47Z",
+   "updated": "2026-11-09T09:30:59Z",
+   "items": [
+    {
+     "id": "970f58156679",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "https://tech-insider.org/",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Leeds: 20+ Years, 5 Studios Deep [2026]",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTQ4RnI0NGxkRFVqQ3AzRDhSYWVqU3g3QlNHWGNtVlVlMVk3X3JoWHV4TnQzQUNrTE44SU9hY1VKZGdCdUNuS2NjTHNCNzNPX083VVZnQjRja0pjMlhaY2pDN1c5aE5jQWV3NFdjaWgydFhXNGJhV2R4Qnk0NDFaU0VnNzlNVjRTM1FxUQ?oc=5",
+     "ts": "2026-11-09T02:33:41Z",
+     "summary": ""
+    },
+    {
+     "id": "ae61501484ea",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "shattered.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Leeds: 20+ Years, 200+ Staff Strong [2026]",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDRYRWgxa1J3R2twQzk2eE1MS0NJb3dxYXY1SWNpQmVGSWRMXzA0cDhHdl90aVRhellWSTV3TTBQM0tMdXFKb3VNb2Fyc1VhQ3lqdnJaQngxTGFlX1dmdE9wSXhjMTdfOU11OHVHcnZhNWl2c0J3N2F0bXAzc0VqZEJWRmttZw?oc=5",
+     "ts": "2026-11-09T05:47:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "a5c424075d6b",
+   "title": "Cyberpunk 2077 Gets New Mods Before GTA 6",
+   "first_seen": "2026-11-09T09:30:59Z",
+   "updated": "2026-11-09T09:30:59Z",
+   "items": [
+    {
+     "id": "a5c424075d6b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NoobFeed",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Cyberpunk 2077 Gets New Mods Before GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAteG5IQjBUYjZIV3JwaEl1Skc5dnpWMTZjWVlCcVZhNjZka0VhU1ZUZTY1VE4zSC0zYXVkamtyZnhnN1pqY3pXZDFmUEFWdVFwU0NSSWdNWHI1aGFZampWTmJPR1E0QQ?oc=5",
+     "ts": "2026-11-09T09:24:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "48a89b8256b2",
+   "title": "Стала известна главная музыкальная тема GTA 6",
+   "first_seen": "2026-11-09T09:30:59Z",
+   "updated": "2026-11-09T09:30:59Z",
+   "items": [
+    {
+     "id": "48a89b8256b2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Стала известна главная музыкальная тема GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEU2NnVBOW9la1prcThjdzdmM21pWTAtN0VaWk82WTFNMFAtOXBuLUdrNnllQVd4TC15allnX2k5NzUxMUxtN3pUUDhfVElSUC00YWFjaUpQaXlTYnZnLXpndG5mRnlNbWtwY1liZ2JBN0ZJZ01rNFVvdE1ObkRqRDFRaC1XN0VGOW5lVFEzVQ?oc=5",
+     "ts": "2026-11-09T09:25:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "65b304cd8fb8",
    "title": "Leaked GTA 6 release date build hints online multiplayer could launch soon",
    "first_seen": "2026-11-09T01:31:01Z",
@@ -3301,32 +3432,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "970f58156679",
-   "title": "Rockstar Leeds: 20+ Years, 5 Studios Deep [2026]",
-   "first_seen": "2026-11-09T02:40:47Z",
-   "updated": "2026-11-09T02:40:47Z",
-   "items": [
-    {
-     "id": "970f58156679",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "https://tech-insider.org/",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Leeds: 20+ Years, 5 Studios Deep [2026]",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTQ4RnI0NGxkRFVqQ3AzRDhSYWVqU3g3QlNHWGNtVlVlMVk3X3JoWHV4TnQzQUNrTE44SU9hY1VKZGdCdUNuS2NjTHNCNzNPX083VVZnQjRja0pjMlhaY2pDN1c5aE5jQWV3NFdjaWgydFhXNGJhV2R4Qnk0NDFaU0VnNzlNVjRTM1FxUQ?oc=5",
-     "ts": "2026-11-09T02:33:41Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -80509,66 +80614,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "bf65e546ef8b",
-   "title": "Загрузка GTA 6 во Франции может обойтись распространителям игры в дополнительные €11,55. В стране предложили ввести необычный налог на передачу... 2026",
-   "first_seen": "2026-11-02T09:21:12Z",
-   "updated": "2026-11-02T09:21:12Z",
-   "items": [
-    {
-     "id": "bf65e546ef8b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ВКонтакте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Загрузка GTA 6 во Франции может обойтись распространителям игры в дополнительные €11,55. В стране предложили ввести необычный налог на передачу... 2026",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nVlNXamNRZnVfdl9sSnFiZU00cUJPX0RtaVFuSERPa214YlljTkVyODFVb2o2dUFxbHRMczJEcnhTQUxCNlBIMHF4dw?oc=5",
-     "ts": "2026-11-02T07:32:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7b3fcb66bbb5",
-   "title": "I can definitely see the newly discovered ost as Loading screen theme 🦩🏝️",
-   "first_seen": "2026-11-02T09:21:12Z",
-   "updated": "2026-11-02T09:21:12Z",
-   "items": [
-    {
-     "id": "7b3fcb66bbb5",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I can definitely see the newly discovered ost as Loading screen theme 🦩🏝️",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xlsigd/i_can_definitely_see_the_newly_discovered_ost_as/",
-     "ts": "2026-11-02T09:15:40Z",
-     "summary": "This is a fan made video from YouTube channel (Fede), I only added the newly discovered Justice OST from the PlayStation Limited Edition controller trailer, it does really fit as a loading screen theme🔥 submitted by /u/Suspicious-Topic-495 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "трейлер",
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-09T09:21:06Z",
+  "last_run": "2026-11-09T09:31:03Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
@@ -80579,9 +80629,9 @@
    "ign: 0/20",
    "eurogamer: 0/100",
    "dexerto_gta: 1/50",
-   "rockstarintel: 1/10",
+   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
    "gtaboom: 5/30",
-   "reddit: 23/25",
+   "reddit: 22/25",
    "tg_gtavistar: 5/10",
    "tg_gta6deluxe: 10/10",
    "tg_gta6_m: 8/16",
