@@ -1,6 +1,99 @@
 {
  "stories": [
   {
+   "id": "304152d54a48",
+   "title": "New Mexico could spend nearly $1.4 million in lost wages as employees skip work for GTA 6",
+   "first_seen": "2026-11-09T06:10:48Z",
+   "updated": "2026-11-09T06:10:48Z",
+   "items": [
+    {
+     "id": "304152d54a48",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KOB 4",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "New Mexico could spend nearly $1.4 million in lost wages as employees skip work for GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWU44Vm5XZXZ5OEpySzFoWkpQcFZIbVM5aFFfS2gxOGdSUVNONDdIeW1wWE81SFpacjYxNUVGeFlUQjdfeG5JcjMwbjlLOVA4d2RpNDRSM2tYeGtUOTZJbmc1c0h2X1BROHl4NktKbGpBVE5TdnM4ZW1qLTYyU1JWS3gyNWYxU2J1MjVnTS02UjFPRzBwOUJVR0ttY1R0YXFtS2FWQkF1UEVzZjVRVEI2bHBVZk9TNktIM212NQ?oc=5",
+     "ts": "2026-11-09T05:04:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "a13bcf757d5b",
+   "title": "💻 GTA VI на ПК выйдет ОЧЕНЬ быстро?",
+   "first_seen": "2026-11-09T06:10:48Z",
+   "updated": "2026-11-09T06:10:48Z",
+   "items": [
+    {
+     "id": "a13bcf757d5b",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "💻 GTA VI на ПК выйдет ОЧЕНЬ быстро?",
+     "url": "https://t.me/GTA6_m/9322",
+     "ts": "2026-11-09T06:05:04Z",
+     "summary": "💻 GTA VI на ПК выйдет ОЧЕНЬ быстро? — слухи о скором ПК-релизе получили поддержку со стороны бывшего технического директора Rockstar Оббе Вермей считает, что даже пара опытных программистов с ИИ сможет сделать порт за несколько недель По его мнению, Rockstar понимает риск и должна выпустить свою версию раньше, чтобы не потерять продажи 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Бывший топ Rockstar: ПК-порт GTA 6 — пара недель с ИИ",
+    "summary": "По словам бывшего технического директора Rockstar Оббе Вермея, пара опытных программистов с ИИ может сделать ПК-порт GTA 6 за несколько недель. Он считает, что Rockstar стоит выпустить свою версию раньше, чтобы не потерять продажи.",
+    "idea": "Сравним «пара недель с ИИ» и реальные сроки ПК-слухов: зритель поймёт, ждать ли порт сразу. Короткая нарезка цитаты, таймлайна и реакции чата.",
+    "hook": "Бывший топ Rockstar сказал, что ПК-порт GTA 6 — дело пары недель с ИИ.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-09T06:10:52Z"
+   },
+   "msg_id": 666
+  },
+  {
+   "id": "b7b8c05c95f5",
+   "title": "Grand Theft Auto VI sparks getaway as UK workers book time off",
+   "first_seen": "2026-11-09T06:10:48Z",
+   "updated": "2026-11-09T06:10:48Z",
+   "items": [
+    {
+     "id": "b7b8c05c95f5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The HR Director",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI sparks getaway as UK workers book time off",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUlGTzVVQUszR2p3UnN1NEM4ckozRjlGd2xMTmJQbWc5eDhlSXJLTzhWd1JwTjZ5VnJaVkVKU1I4UV9MeFRaR2ZYLXNkRmdvNjBGTzNWZWFkdTZ4UjBaTEVEVk9ORV9sOFBNSkotNnBEQ3p3R0VSRHIxSFdTUnhVY09KSGR3c0t6RFhUWWpSZjVMVHE5MU9DS0MydlN0Nm80MklUX3Y5SE1JLXhFN2lKS3hfdUhKTnFONXQybGV6cmU?oc=5",
+     "ts": "2026-11-09T06:05:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "2a786e2818d5",
    "title": "GTA 6 Is All 3 Of The Best-Selling Pre-Orders On PS5 Right Now",
    "first_seen": "2026-11-08T22:10:47Z",
@@ -80481,69 +80574,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b9efe6defdc7",
-   "title": "You’re all overzealous and need to calm entirely down.",
-   "first_seen": "2026-11-02T06:01:18Z",
-   "updated": "2026-11-02T06:01:18Z",
-   "items": [
-    {
-     "id": "b9efe6defdc7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "You’re all overzealous and need to calm entirely down.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xlpbmc/youre_all_overzealous_and_need_to_calm_entirely/",
-     "ts": "2026-11-02T05:53:41Z",
-     "summary": "I been playing GTA since III, I was 8. Since the news dropped of some parts of the game being inaccessible until a certain amount of money is earned in-game, I’ve seen a lot of the same incessant and, frankly, stupid complaints. Lots of complaints about Rockstar “locking content behind a grindwall” just because some missions will be inaccessible without a certain amount of in-game currency. You wanna be mad? Be as upset as you want about the standard edition having shops and content locked behind the extra twenty real dollars they’re asking you to pay. That is valid. But you’re upset because —"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5cffd043d8b1",
-   "title": "Only employee taking time off for gta 6",
-   "first_seen": "2026-11-02T06:01:18Z",
-   "updated": "2026-11-02T06:01:18Z",
-   "items": [
-    {
-     "id": "5cffd043d8b1",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Only employee taking time off for gta 6",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xlpczy/only_employee_taking_time_off_for_gta_6/",
-     "ts": "2026-11-02T05:55:54Z",
-     "summary": "One above me is taking time off to go overseas if anyone was wondering Only took 3 days because I'm taking time off 2 weeks end of December too These next couple months are going to be insane submitted by /u/TheCODAddict to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-09T06:01:14Z",
+  "last_run": "2026-11-09T06:10:52Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 46/51",
+   "gnews_ru: 47/52",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -80555,7 +80594,7 @@
    "reddit: 24/25",
    "tg_gtavistar: 5/9",
    "tg_gta6deluxe: 10/10",
-   "tg_gta6_m: 7/16",
+   "tg_gta6_m: 8/16",
    "tg_gta6newsdaily: 0/16"
   ],
   "digest": "2026-11-09@9",
