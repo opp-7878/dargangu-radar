@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "3bb4fe33f878",
+   "title": "GTA 6 reportedly has 55 trophies and achievements, but unlock details remain hidden",
+   "first_seen": "2026-11-09T05:01:11Z",
+   "updated": "2026-11-09T05:01:11Z",
+   "items": [
+    {
+     "id": "3bb4fe33f878",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "tbreak.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 reportedly has 55 trophies and achievements, but unlock details remain hidden",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8ybGVyQThKYTkzVy1neDAzMWxOUldTMmR0VXE4VDNtRmRqa0Q0R1RRQk5ia3RRUXNVa0pweTZOenRZMTNFb240Nk9aSHJfQXVocDVWYlc4OTJJaHRxWDRmbDdROA?oc=5",
+     "ts": "2026-11-09T04:55:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "10b7de86afa6",
    "title": "What is the first thing you will do in GTAIV?",
    "first_seen": "2026-11-09T04:40:44Z",
@@ -80117,11 +80143,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-09T04:50:47Z",
+  "last_run": "2026-11-09T05:01:11Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 47/52",
+   "gnews_ru: 48/53",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
