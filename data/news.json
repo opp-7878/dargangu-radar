@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "46bbc2418e6b",
+   "title": "«Первые новости о GTA Online»: датамайнер GTA VI поделился находками",
+   "first_seen": "2026-11-09T03:10:49Z",
+   "updated": "2026-11-09T03:10:49Z",
+   "items": [
+    {
+     "id": "46bbc2418e6b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "«Первые новости о GTA Online»: датамайнер GTA VI поделился находками",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmo2WmM4SWpuRWN3cXZUS3ZTY1JzNjN2TlBsMjZBaHZWa2VnREtXc3R0czNaX2pwd0FfeS00TEVMLUF5NUpsNVZiUmpLVmlzakE1QVJ6OWVoRG52Q0hLTTV2aW1nNi1BSWItQVcxNFJ3SmZZSXp6cWt3RGl2eDNISDBkdE1LajcwWmJGQnpqeWFKQTRuUHlNaWwyZm9Hb0ZRdno2c3l2MVc2UdIBrwFBVV95cUxNbkZ6V0YtSGN1dk9PZ3dPUGhKQlUxVFFsM0cyZU94VGd1VENNSVN1U0lneXVISk83TmhwY2R0RndFYUpEbjJUWEE0MVU2X0lvZFpSdlJLdkFjLVBFeWdJU3dURkhVYVJ6eE1VZlM4YmN1N3o2NWdHejBwQnZrNkpzM0lmbTRDS2FtZ0tCTzlha1VQSTBuT3dJN0xIcWVYMEhhZjhhSmRlNko0YmhWVDlj?oc=5",
+     "ts": "2026-11-09T02:49:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "b11cff63e1d6",
    "title": "В GTA VI будет 55 трофеев и достижений",
    "first_seen": "2026-11-08T09:30:57Z",
@@ -80149,41 +80177,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "8573ecf87c74",
-   "title": "I strongly advice using this youtube command to prevent gta6 spoilers",
-   "first_seen": "2026-11-02T03:01:19Z",
-   "updated": "2026-11-02T03:01:19Z",
-   "items": [
-    {
-     "id": "8573ecf87c74",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I strongly advice using this youtube command to prevent gta6 spoilers",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xllyou/i_strongly_advice_using_this_youtube_command_to/",
-     "ts": "2026-11-02T02:51:40Z",
-     "summary": "Only on web browser on YouTube in your search bar you can put the topic your looking up and then before:2025-12-31 to receive videos from before December 31st 2025. It works with other dates you would just need to change what it says Ex: Gaming before:2025-12-31 Hope this helps someone submitted by /u/Brave-124 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-09T03:01:13Z",
+  "last_run": "2026-11-09T03:10:49Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 48/53",
+   "gnews_ru: 49/54",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
