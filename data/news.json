@@ -1,6 +1,95 @@
 {
  "stories": [
   {
+   "id": "779dcc5742c1",
+   "title": "We reached the single digits 🥹",
+   "first_seen": "2026-11-08T23:40:48Z",
+   "updated": "2026-11-09T00:31:01Z",
+   "items": [
+    {
+     "id": "779dcc5742c1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We reached the single digits 🥹",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xrbtky/we_reached_the_single_digits/",
+     "ts": "2026-11-08T23:04:39Z",
+     "summary": "It’s soooo close… submitted by /u/crshtst to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "2336d4fdee24",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Tomorrow we are in the single digits",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xrdgqy/tomorrow_we_are_in_the_single_digits/",
+     "ts": "2026-11-09T00:21:32Z",
+     "summary": "10 days left until we’re in the final home stretch. I’m an unc and haven’t felt this level of excitement for anything in a long time. I’m enjoying the hype and buildup because I don’t know if I will feel this excitement for a game again. submitted by /u/Honest_Explorer_4449 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7e21941de59f",
+   "title": "Cara Delevingne Says She's Taking Two Weeks Off When GTA 6 Arrives",
+   "first_seen": "2026-11-09T00:31:01Z",
+   "updated": "2026-11-09T00:31:01Z",
+   "items": [
+    {
+     "id": "7e21941de59f",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "The Voice of DJ Cara Is Taking Two Weeks Off When GTA 6 Drops",
+     "url": "https://www.gtaboom.com/the-voice-of-dj-cara-is-taking-two-weeks-off-when-gta-6-drops-c2f6",
+     "ts": "2026-11-09T00:21:43Z",
+     "summary": "Cara Delevingne, the voice of DJ Cara in GTA 5, says she has booked two weeks off to play GTA 6 when it launches."
+    },
+    {
+     "id": "0cbd65027299",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Cara Delevingne Says She's Taking Two Weeks Off When GTA 6 Arrives",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFczWU05YVBoU29iY1pjZGtlRjBlNUxXeGxFci1qWU9PWmpxZnQ3czJ1X0NBVWJzME10NW1veW15SmN2dkZKVWNBdW02SWUyOThxVnhYR2VMN1FMZGgzdDFjeFFLTFRteFFDbnlRV2RyVHJua3RqUWZhRm1XaDVDOEVyTkNXV1hYODVHV3E4WWxNZjBq?oc=5",
+     "ts": "2026-11-09T00:25:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Модель из GTA 5 берет 2 недели отпуска ради GTA 6",
+    "summary": "Кара Делевинь, озвучившая диджея Кару в GTA 5, заявила, что взяла две недели отпуска на запуск GTA 6. Об этом она рассказала в интервью, отметив, что хочет спокойно поиграть в новую игру.",
+    "idea": "Короткий ролик с реакцией на признание Кары: звезда GTA 5 сама ждет GTA 6. Зрителю зайдет из-за узнаваемого лица и иронии ситуации.",
+    "hook": "Кара Делевинь из GTA 5 берет отпуск, чтобы поиграть в GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-09T00:31:06Z"
+   },
+   "msg_id": 662
+  },
+  {
    "id": "e843a5cc68c2",
    "title": "GTA 6 Credits Rumored to Run More Than 80 Minutes",
    "first_seen": "2026-11-08T23:59:53Z",
@@ -126,32 +215,6 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xrawle/ive_probably_played_nearly_100_games_at_this/",
      "ts": "2026-11-08T22:23:03Z",
      "summary": "I'm looking forward to GTA 6, so I'm not here to hate on it. I've played hell of a lot of games over the years, like Subnautica 1, 2 and below zero,No Man's Sky, and Skyrim, Windrose, cultivation simulator, Fqllout NV and Fallout 4, every Pokemon game post Oras excluding the Go series and Pokopia. The new Ocorina of time remake. Cyberpunk 2077 Launch was rough.), total annihilation, no, it was not fun, Free Stars: The Ur-Quan Masters, The sims 4, Ac Odessy. So I’ve had plenty of games I got really excited about. But when I see people talk about GTA 6 like it's the biggest thing to happen to en"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "779dcc5742c1",
-   "title": "We reached the single digits 🥹",
-   "first_seen": "2026-11-08T23:40:48Z",
-   "updated": "2026-11-08T23:40:48Z",
-   "items": [
-    {
-     "id": "779dcc5742c1",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "We reached the single digits 🥹",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xrbtky/we_reached_the_single_digits/",
-     "ts": "2026-11-08T23:04:39Z",
-     "summary": "It’s soooo close… submitted by /u/crshtst to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [],
@@ -80268,67 +80331,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "da69fe8925a9",
-   "title": "Will soundbar enhance the experience alot?",
-   "first_seen": "2026-11-02T00:31:07Z",
-   "updated": "2026-11-02T00:31:07Z",
-   "items": [
-    {
-     "id": "da69fe8925a9",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Will soundbar enhance the experience alot?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xlj0y0/will_soundbar_enhance_the_experience_alot/",
-     "ts": "2026-11-02T00:27:32Z",
-     "summary": "Hey. I am so excited for gta 6. I have a nice tv already (TQ65Q70D). I bought a ps 5 pro this year (my first console). And i have been thinking alot about if i should get a soundbar. I know so little about sound.. i think my built in speakers in the tv sounds good😅 Would a soundbar actually make a such big difference so it is worth spending money on? I found a soundbar HW-Q610f (same soundbar as the hw-Q600C) for about 3000nok (326 usd). Is this a good combo with the tv, and will this enhance the experience so much that this is worth it? submitted by /u/Drag-Weird to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "377cf3f0b350",
-   "title": "don't know about you but a miami vice 1984 filter would go hard on gta 6",
-   "first_seen": "2026-11-02T00:31:07Z",
-   "updated": "2026-11-02T00:31:07Z",
-   "items": [
-    {
-     "id": "377cf3f0b350",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "don't know about you but a miami vice 1984 filter would go hard on gta 6",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xlj30f/dont_know_about_you_but_a_miami_vice_1984_filter/",
-     "ts": "2026-11-02T00:30:25Z",
-     "summary": "maybe not during the mission where there's heavy action sequences but when free roaming the map by road/sea /flying it definitely look cool, it should be included already in the vintage vice city pack submitted by /u/MiMi881425 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-09T00:20:50Z",
+  "last_run": "2026-11-09T00:31:07Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 100/100",
-   "gnews_ru: 42/48",
+   "gnews_ru: 45/51",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -80336,7 +80347,7 @@
    "eurogamer: 1/100",
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
-   "gtaboom: 3/30",
+   "gtaboom: 4/30",
    "reddit: 22/25",
    "tg_gtavistar: 5/9",
    "tg_gta6deluxe: 10/10",
