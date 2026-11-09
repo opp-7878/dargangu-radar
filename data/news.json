@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "a31f9431eba3",
+   "title": "Current GTA 6 version",
+   "first_seen": "2026-11-09T01:31:01Z",
+   "updated": "2026-11-09T01:31:01Z",
+   "items": [
+    {
+     "id": "a31f9431eba3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Current GTA 6 version",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xreor3/current_gta_6_version/",
+     "ts": "2026-11-09T01:20:55Z",
+     "summary": "submitted by /u/esketitethan to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5413b7b90897",
+   "title": "New info by PlayStation Game Size",
+   "first_seen": "2026-11-09T01:31:01Z",
+   "updated": "2026-11-09T01:31:01Z",
+   "items": [
+    {
+     "id": "5413b7b90897",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "New info by PlayStation Game Size",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xrepx2/new_info_by_playstation_game_size/",
+     "ts": "2026-11-09T01:22:32Z",
+     "summary": "submitted by /u/nothing533439878 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "65b304cd8fb8",
+   "title": "GTA6 Supports Online/Multiplayer Features",
+   "first_seen": "2026-11-09T01:31:01Z",
+   "updated": "2026-11-09T01:31:01Z",
+   "items": [
+    {
+     "id": "65b304cd8fb8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA6 Supports Online/Multiplayer Features",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xretdk/gta6_supports_onlinemultiplayer_features/",
+     "ts": "2026-11-09T01:27:27Z",
+     "summary": "submitted by /u/ADeadlyAlien to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f7fc84b1ed5b",
    "title": "Датамайнеры выяснили, сколько достижений будет в GTA VI на PS5 и Xbox — похоже, все они связаны с одиночной игрой",
    "first_seen": "2026-11-09T01:20:49Z",
@@ -80266,41 +80346,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "1ae84acc0771",
-   "title": "Will there be full-fledged console games inside GTA 6 like arcade games in SA?",
-   "first_seen": "2026-11-02T01:20:54Z",
-   "updated": "2026-11-02T01:20:54Z",
-   "items": [
-    {
-     "id": "1ae84acc0771",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Will there be full-fledged console games inside GTA 6 like arcade games in SA?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xlk2jv/will_there_be_fullfledged_console_games_inside/",
-     "ts": "2026-11-02T01:17:49Z",
-     "summary": "San Andreas had some fun arcade games. But I am wondering given its 2026, and there are consoles . Would we really have full fledged ps5 like games of souls, simulation, racing and so on? submitted by /u/unknown5493 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-09T01:20:49Z",
+  "last_run": "2026-11-09T01:31:01Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 100/100",
-   "gnews_ru: 47/52",
+   "gnews_ru: 45/50",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
