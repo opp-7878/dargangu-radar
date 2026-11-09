@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "85a4d543affc",
+   "title": "All Selfridges Merch Visible on Website",
+   "first_seen": "2026-11-09T07:31:00Z",
+   "updated": "2026-11-09T07:31:00Z",
+   "items": [
+    {
+     "id": "85a4d543affc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "All Selfridges Merch Visible on Website",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xrl8ha/all_selfridges_merch_visible_on_website/",
+     "ts": "2026-11-09T07:16:03Z",
+     "summary": "All merch available at selfridges is now listed on the website (not yet for sale). Some exclusives on there too, looks like they’ll be available to order online. Just search “Granf theft auto vi collection” in the search bar submitted by /u/Suspicious_Snake99 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "65b304cd8fb8",
    "title": "Leaked GTA 6 release date build hints online multiplayer could launch soon",
    "first_seen": "2026-11-09T01:31:01Z",
@@ -80656,11 +80684,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-09T07:20:52Z",
+  "last_run": "2026-11-09T07:31:00Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 100/100",
-   "gnews_ru: 56/60",
+   "gnews_ru: 57/61",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
@@ -80669,7 +80697,7 @@
    "dexerto_gta: 1/50",
    "rockstarintel: 1/10",
    "gtaboom: 4/30",
-   "⚠️ reddit: HTTP Error 429: Too Many Requests",
+   "reddit: 23/25",
    "tg_gtavistar: 5/9",
    "tg_gta6deluxe: 10/10",
    "tg_gta6_m: 8/16",
