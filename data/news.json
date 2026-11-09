@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "10b7de86afa6",
+   "title": "What is the first thing you will do in GTAIV?",
+   "first_seen": "2026-11-09T04:40:44Z",
+   "updated": "2026-11-09T04:50:47Z",
+   "items": [
+    {
+     "id": "10b7de86afa6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What is the first thing you will do in GTAIV?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xriiuw/what_is_the_first_thing_you_will_do_in_gtaiv/",
+     "ts": "2026-11-09T04:39:50Z",
+     "summary": "Once I have the chance, I will try to break into a military base and get max stars submitted by /u/SpacialPulsarNova to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "34bd1343a178",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What is the first thing you will do in GTAVI?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xrimg5/what_is_the_first_thing_you_will_do_in_gtavi/",
+     "ts": "2026-11-09T04:45:15Z",
+     "summary": "Once you have the chance to roam around, what do you think you will do first? Do missions? Go on a rampage? First thing I will do is get a car and drive to the military base to get max stars submitted by /u/SpacialPulsarNova to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "2a786e2818d5",
    "title": "GTA 6 Is All 3 Of The Best-Selling Pre-Orders On PS5 Right Now",
    "first_seen": "2026-11-08T22:10:47Z",
@@ -159,32 +198,6 @@
    "score": 90,
    "level": "PROBABLE",
    "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "10b7de86afa6",
-   "title": "What is the first thing you will do in GTAIV?",
-   "first_seen": "2026-11-09T04:40:44Z",
-   "updated": "2026-11-09T04:40:44Z",
-   "items": [
-    {
-     "id": "10b7de86afa6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What is the first thing you will do in GTAIV?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xriiuw/what_is_the_first_thing_you_will_do_in_gtaiv/",
-     "ts": "2026-11-09T04:39:50Z",
-     "summary": "Once I have the chance, I will try to break into a military base and get max stars submitted by /u/SpacialPulsarNova to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -80104,11 +80117,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-09T04:40:44Z",
+  "last_run": "2026-11-09T04:50:47Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
-   "gnews_ru: 48/53",
+   "gnews_ru: 47/52",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
