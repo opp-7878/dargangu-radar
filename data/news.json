@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "73205e8467a0",
+   "title": "Gamers are ready for the release of ‘Grand Theft Auto VI’",
+   "first_seen": "2026-11-10T22:31:10Z",
+   "updated": "2026-11-10T22:31:10Z",
+   "items": [
+    {
+     "id": "73205e8467a0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WKYC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers are ready for the release of ‘Grand Theft Auto VI’",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzRxRU5RTTFsb1hBU1VZYUFxOGd5eDVKUjZlU2xpZFJTQzFlSzY3MVZqNURPem1ITWZxaVVfVU1peF9EYUhOM0xXQ1NXSHc2eE1ySnV4N3UxRWpXN0xReTlCWmNlMWcycEpCZnhhNmNPbkxuUTlaaTJ5T1ZDZnFzM21ZWEtDUnN3U2dqcWVwNWZLRW12NTFVOThVLUZ3T2FpOXRudzNicF9RMEpuc1IwVS1zSGdhdUNVNlBNbHg3WWE0VlduNlE?oc=5",
+     "ts": "2026-11-10T22:15:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "92cb41723ced",
+   "title": "GTA 6 downloads has decreased YouFiber network performances in UK",
+   "first_seen": "2026-11-10T22:31:10Z",
+   "updated": "2026-11-10T22:31:10Z",
+   "items": [
+    {
+     "id": "92cb41723ced",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 downloads has decreased YouFiber network performances in UK",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt0jlq/gta_6_downloads_has_decreased_youfiber_network/",
+     "ts": "2026-11-10T22:21:02Z",
+     "summary": "submitted by /u/dropssupreme to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3834e84cf58b",
+   "title": "Recently played GTA 5 in 30 fps....",
+   "first_seen": "2026-11-10T22:31:10Z",
+   "updated": "2026-11-10T22:31:10Z",
+   "items": [
+    {
+     "id": "3834e84cf58b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Recently played GTA 5 in 30 fps....",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xt0om4/recently_played_gta_5_in_30_fps/",
+     "ts": "2026-11-10T22:26:57Z",
+     "summary": "NO PROBLEM. game looks great, runs fine for 30fps. GTA 6 will look fantastic and play fantastic at 30fps. submitted by /u/Ill-Ant8901 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "55c4b4f23066",
    "title": "Rockstar confirms GTA 6 targets 30 FPS, with PS5 Pro-exclusive ray-tracing",
    "first_seen": "2026-11-10T14:10:48Z",
@@ -94092,9 +94170,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-10T22:21:02Z",
+  "last_run": "2026-11-10T22:31:10Z",
   "last_log": [
-   "rockstar_site: 0/2",
+   "rockstar_site: 0/3",
    "gnews_en: 98/100",
    "gnews_ru: 98/100",
    "gamesbeat: 2/10",
