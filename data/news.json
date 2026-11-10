@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "4b8936d766dd",
+   "title": "Издатель GTA 6 даст отпор неофициальным PC-портам﻿ и ИИ-клонам",
+   "first_seen": "2026-11-10T03:20:47Z",
+   "updated": "2026-11-10T03:20:47Z",
+   "items": [
+    {
+     "id": "4b8936d766dd",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Издатель GTA 6 даст отпор неофициальным PC-портам﻿ и ИИ-клонам",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUFCMjFaSHR6TGZQVTN6OGhpRkdTX0dpeFRIUnhyYjRtSGN3MGt6X2RaQWx3Vm9zLUxZQ3NkdDlrM3JpY2IzSmlDY05qQ045ZjU5ZGtKTGU0NnBlM2Z2Sk1wLXVqdUthUUFoZVRmYkxpb1dKVlJPM1loT2kxazVhazJDWWdvbFFrdXhBenZlWlliamVXRENQaG00ZXZkN3haUVJuQ1BKVDZ0dDZTMVlEWkctT192d3l5V0I5Q1Bn?oc=5",
+     "ts": "2026-11-10T03:15:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "4739071f7268",
+   "title": "Almost there",
+   "first_seen": "2026-11-10T03:20:47Z",
+   "updated": "2026-11-10T03:20:47Z",
+   "items": [
+    {
+     "id": "4739071f7268",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Almost there",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xscaaw/almost_there/",
+     "ts": "2026-11-10T03:18:37Z",
+     "summary": "submitted by /u/MarkOfTheVoid to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "48965ab423e7",
    "title": "All the takeaways about GTA VI from the Take-Two earnings call | Strauss Zelnick",
    "first_seen": "2026-11-09T21:50:49Z",
@@ -87784,37 +87838,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "adb613af3f12",
-   "title": "Yall playing on Tv or monitor? Here’s my setup",
-   "first_seen": "2026-11-03T03:10:51Z",
-   "updated": "2026-11-03T03:10:51Z",
-   "items": [
-    {
-     "id": "adb613af3f12",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Yall playing on Tv or monitor? Here’s my setup",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xmhuk6/yall_playing_on_tv_or_monitor_heres_my_setup/",
-     "ts": "2026-11-03T03:07:14Z",
-     "summary": "submitted by /u/Stevenray94 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-10T03:10:42Z",
+  "last_run": "2026-11-10T03:20:47Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 100/100",
