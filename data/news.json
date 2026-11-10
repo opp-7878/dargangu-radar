@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "70c3cc3f50c4",
+   "title": "Kai Cenat beats four GTA games in under 100 hours ahead of GTA 6 and isn't done yet",
+   "first_seen": "2026-11-10T22:50:50Z",
+   "updated": "2026-11-10T22:50:50Z",
+   "items": [
+    {
+     "id": "70c3cc3f50c4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Kai Cenat beats four GTA games in under 100 hours ahead of GTA 6 and isn't done yet",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRRlM5aVMzelpWRnFhaGpwTGEtS0NRRHVCTTlTdkNEQ0xnOVF2QXRlbmxDMTdDeTNxQWlkb1pKdkhzd0JNR2VacWRJVTVpQkxqUVJKUG9jZ3ctb0hRWVpOS3Z5VkQxeVJmRFVCOHliQ18yUm8?oc=5",
+     "ts": "2026-11-10T21:49:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c65c9e96bff0",
+   "title": "Guys I m buying ps5 for gta6 !",
+   "first_seen": "2026-11-10T22:50:50Z",
+   "updated": "2026-11-10T22:50:50Z",
+   "items": [
+    {
+     "id": "c65c9e96bff0",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Guys I m buying ps5 for gta6 !",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xt17tw/guys_i_m_buying_ps5_for_gta6/",
+     "ts": "2026-11-10T22:49:26Z",
+     "summary": "Yo submitted by /u/Exact-Peak194 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "55c4b4f23066",
    "title": "Rockstar confirms GTA 6 targets 30 FPS, with PS5 Pro-exclusive ray-tracing",
    "first_seen": "2026-11-10T14:10:48Z",
@@ -94222,9 +94274,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-10T22:40:57Z",
+  "last_run": "2026-11-10T22:50:50Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/5",
    "gnews_en: 99/100",
    "gnews_ru: 98/100",
    "gamesbeat: 2/10",
