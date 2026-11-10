@@ -1,36 +1,10 @@
 {
  "stories": [
   {
-   "id": "303f365cd452",
-   "title": "Can't download yet",
-   "first_seen": "2026-11-10T01:40:50Z",
-   "updated": "2026-11-10T01:40:50Z",
-   "items": [
-    {
-     "id": "303f365cd452",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Can't download yet",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xsa5xh/cant_download_yet/",
-     "ts": "2026-11-10T01:36:11Z",
-     "summary": "Is not everyone who pre ordered allowed to download early? It's telling me there's 9 days left. submitted by /u/DifferentMud1010 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "1b72f15f4971",
    "title": "GTA 6 Preload: 212 GB, 9 Days on PS5 [2026]",
    "first_seen": "2026-11-09T11:10:44Z",
-   "updated": "2026-11-10T01:40:49Z",
+   "updated": "2026-11-10T01:50:49Z",
    "items": [
     {
      "id": "1b72f15f4971",
@@ -96,15 +70,93 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xs9758/problem_with_ps5_preload/",
      "ts": "2026-11-10T00:50:06Z",
      "summary": "Is anyone else experiencing issues with the preload on PS5? I have 307gb of free storage and it always tells me that I need 226gb and then stops the download… Do I need to free up even more or is it a bug someone else has experienced as well? submitted by /u/Striking_Addendum to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "28960cffd2c6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MMOEXP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Preload Guide: Download Times, 212GB Size & PS5/Xbox Requirements",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHo3THhDRnlEU1RjZFBQQTRUUU1nanZuRGRub2FUejJHWDM3Zm1VdTh4R09obnJoSnVaRDdXTmg1UTFuWDZTNk1ZeExzX25EdWpCS3hsRWJLVUlWWTAzQ1VlcDRpM2hIVDF1Qm5JRnZxWVlBM2cwQUtiZGxFODYxYVRRV1VLN2RsWnNhdUJFN28wdUhpOWRJQW9IMGVmREpRNUE?oc=5",
+     "ts": "2026-11-10T01:39:38Z",
+     "summary": ""
+    },
+    {
+     "id": "2ae623fc3ebf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MMOEXP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Preload Is Live: File Size, PS5 Pro Support, 120Hz and Multiplayer Clues",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzNtRGVyc1dqTGlTMWdxenNRSFlTNUNiMGJfcXlaZ1NJMFozNjBucTRwT0dzbjNGVWNjb3VOZ2lzR3RROHNuM1RzRHJsZkJQRjRndkhDYXVrcFlmTzAwYS1JQnNLaGYxaFZZMzVlQzJPRlpCYTZEMmhhNllkaUoxdW52ZXpMZHVBVjd0TklDcDVMWmFxWmh4bVpuRnkzckZQT29kdWNSUHlHSWh4?oc=5",
+     "ts": "2026-11-10T01:43:44Z",
+     "summary": ""
     }
    ],
    "tags": [
     "размер/preload",
     "цена/издания"
    ],
-   "score": 73,
+   "score": 81,
    "level": "PROBABLE",
    "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "e8fbd4af0c49",
+   "title": "Pre-install share #1,759,376",
+   "first_seen": "2026-11-10T01:50:49Z",
+   "updated": "2026-11-10T01:50:49Z",
+   "items": [
+    {
+     "id": "e8fbd4af0c49",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Pre-install share #1,759,376",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xsabav/preinstall_share_1759376/",
+     "ts": "2026-11-10T01:43:27Z",
+     "summary": "Home from work running late tot the party submitted by /u/Zeune42 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "303f365cd452",
+   "title": "Can't download yet",
+   "first_seen": "2026-11-10T01:40:50Z",
+   "updated": "2026-11-10T01:40:50Z",
+   "items": [
+    {
+     "id": "303f365cd452",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Can't download yet",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xsa5xh/cant_download_yet/",
+     "ts": "2026-11-10T01:36:11Z",
+     "summary": "Is not everyone who pre ordered allowed to download early? It's telling me there's 9 days left. submitted by /u/DifferentMud1010 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -87915,63 +87967,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c5fa52d53948",
-   "title": "I will BOYCOTT GTA VI by not buying it until Rockstar releases a disc version",
-   "first_seen": "2026-11-03T01:50:49Z",
-   "updated": "2026-11-03T01:50:49Z",
-   "items": [
-    {
-     "id": "c5fa52d53948",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I will BOYCOTT GTA VI by not buying it until Rockstar releases a disc version",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xmg435/i_will_boycott_gta_vi_by_not_buying_it_until/",
-     "ts": "2026-11-03T01:45:53Z",
-     "summary": "Like most folks here I've been dreaming with getting my hands on gta VI since gta v launch back in 2013... But now with the boggling news of a digital-release only, I've decided to boycott Rockstar and I actually won't buy the game until they release a disc version. It is unacceptable for a game to not have the option of physical media whatsoever! Sure, if you wanna release the digital version and make the disc more expensive that would even be tolerable, but not giving us any options is just downright disrespectful... It's much the same if a book would be released only as an e-book, nobody ac"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3bfde36395b5",
-   "title": "Does anybody else think GTA VI needs zero marketing?",
-   "first_seen": "2026-11-03T01:40:54Z",
-   "updated": "2026-11-03T01:40:54Z",
-   "items": [
-    {
-     "id": "3bfde36395b5",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Does anybody else think GTA VI needs zero marketing?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xmfvhi/does_anybody_else_think_gta_vi_needs_zero/",
-     "ts": "2026-11-03T01:34:19Z",
-     "summary": "The game has been anticipated for 13 years now and probably is the most anticipated source of entertainment to come out of 2026. People are going to buy the game regardless. I also think sales are going to increase even more after people see everyone on social media platforms like TikTok and Instagram Reels playing the game. Even non-gamers like the Grand Theft Auto franchise. submitted by /u/Fuzzy-Vermicelli-725 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-10T01:40:50Z",
+  "last_run": "2026-11-10T01:50:49Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 100/100",
