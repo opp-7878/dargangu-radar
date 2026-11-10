@@ -89276,80 +89276,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7e96d06160e8",
-   "title": "Global release timing",
-   "first_seen": "2026-11-03T07:40:55Z",
-   "updated": "2026-11-03T09:10:54Z",
-   "items": [
-    {
-     "id": "7e96d06160e8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Global release timing",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xmmr5c/global_release_timing/",
-     "ts": "2026-11-03T07:36:24Z",
-     "summary": "This are the release time of GTA-6 in some major country. submitted by /u/Maximum_Resist_6257 to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "a70dcd81330e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Global release timing",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xmmsb7/global_release_timing/",
-     "ts": "2026-11-03T07:38:26Z",
-     "summary": "This are the some of the global release timing of GTA-6 in major countries submitted by /u/Maximum_Resist_6257 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "714d2e0ea932",
-   "title": "«Прямо из даркнета»: в сети разлетелось пророчество о конце интернета за два дня до GTA 6",
-   "first_seen": "2026-11-03T09:10:54Z",
-   "updated": "2026-11-03T09:10:54Z",
-   "items": [
-    {
-     "id": "714d2e0ea932",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VGTimes",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Прямо из даркнета»: в сети разлетелось пророчество о конце интернета за два дня до GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRjFZbnhpMy1zSHgxd0VMVG1PSGhTLThqZDM3UlVneGJ1dGNzYzlBcU5CQk9Za0ZoWWZ6ZE9UcTk2OXRiU21vakc5UV9aQzhEUXA0d3N5R0k1ZVpHRHFZTW1iSVIyV0ZTaV9kbExSeHdrNWlYU0JWUWR2UGhuZ2RMLXAzRm1STmZLRXd4TEFyVXVGRWVuX3Ezb1BBLVBqTkNjakxMZXhHei1HTXF3YlkteFJWZEF3RlVaWHpVelhJUURBMGkweF9OenV5SmhXdw?oc=5",
-     "ts": "2026-11-02T20:59:22Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-10T09:10:44Z",
+  "last_run": "2026-11-10T09:20:46Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 100/100",
-   "gnews_ru: 97/100",
+   "gnews_ru: 96/100",
    "gamesbeat: 3/10",
    "vgc: 2/10",
    "insider_gaming: 4/10",
@@ -89358,7 +89293,7 @@
    "dexerto_gta: 3/50",
    "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
    "gtaboom: 12/30",
-   "reddit: 22/25",
+   "reddit: 21/25",
    "tg_gtavistar: 8/12",
    "tg_gta6deluxe: 16/19",
    "tg_gta6_m: 12/17",
