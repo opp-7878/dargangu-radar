@@ -1,77 +1,10 @@
 {
  "stories": [
   {
-   "id": "d52b8c414fc3",
-   "title": "Wow,it’s finally here",
-   "first_seen": "2026-11-10T04:50:45Z",
-   "updated": "2026-11-10T09:01:19Z",
-   "items": [
-    {
-     "id": "d52b8c414fc3",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Wow,it’s finally here",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xsdxsl/wowits_finally_here/",
-     "ts": "2026-11-10T04:45:42Z",
-     "summary": "submitted by /u/CaseConsistent2023 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "4a53766548c4",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "The myth is finally here",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xsenj2/the_myth_is_finally_here/",
-     "ts": "2026-11-10T05:24:12Z",
-     "summary": "submitted by /u/No-Science-7126 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "aad88843c50a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "We're finally here [GTA VI]",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xshz2y/were_finally_here_gta_vi/",
-     "ts": "2026-11-10T08:50:14Z",
-     "summary": "It's happening everyone, beginning today you can preload GTA VI submitted by /u/Ciberfreak to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "516318b5babd",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "We're finally here!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xshzzn/were_finally_here/",
-     "ts": "2026-11-10T08:52:02Z",
-     "summary": "Starting today you can preload the game submitted by /u/Ciberfreak to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "48965ab423e7",
    "title": "All the takeaways about GTA VI from the Take-Two earnings call | Strauss Zelnick",
    "first_seen": "2026-11-09T21:50:49Z",
-   "updated": "2026-11-10T09:01:19Z",
+   "updated": "2026-11-10T09:10:44Z",
    "items": [
     {
      "id": "48965ab423e7",
@@ -956,6 +889,32 @@
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRkNRQXZRSUoxWFZIU1NKZ3VIa191OWo2Qk1FdURKV2prOTJvSENrZzk0dFFCbkxzSlQ0Yjh4SGlraWpkRWhLRTZoa2FUa0FrYjBKOXpmWmNFbFFtbVF4bGJFOGprbFRhUmpaUUlHczlBTldfaTZ5ZWlBQklGLUhRbkxaVEsxTkFzdWgweTB3WQ?oc=5",
      "ts": "2026-11-10T08:28:29Z",
      "summary": ""
+    },
+    {
+     "id": "0a4802bb3cc0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TradingView",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Preorders ‘Far In Excess Of Expectations…Numbers Will Speak Soon’ — CEO Boosts Expectations As TTWO Lifts Annual Forecasts",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNY1BQeHhhMndxLWJGV1VvQjIzdDBFQUowNHNhbXk1UFBEalJ2RDczOHBXWW1qV0M3YjVFNjlxcEFCaDQzekhLZ3Z1OFc5emxSdFBIWndkQmRRenAxOUY3TlZJbC1Md3d2Q1p5bUI2UjZONnRyalZzOXNXdk04UDE5cllxWGdBd28tWXBEQlRDanZ0UDFJX3l1UDAyYUlOdlh4NzlIdnZVRjFQbmVTdUNzYVptR3A1MmlGSkF4SWd6djlEelNtSDlYMC1keG9hTE5yb0lTcDRTLWZFb0wwb29UbFV6eHRNZVp0ZWFUcHJCWmItZkpoOGdGRTdwdExWaTBHVTBYb1NnRUNzazVWWWRRRjk5U1g?oc=5",
+     "ts": "2026-11-10T08:13:12Z",
+     "summary": ""
+    },
+    {
+     "id": "225add550f02",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iXBT.games",
+     "group": "media",
+     "weight": 45,
+     "alert": true,
+     "title": "Take-Two reports revenue decline. GTA VI is expected to dramatically turn things around",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnNCbUN0UC1ucjA3dGRqaUpTc29JRGEtcmMwMXVqWFBBVmxFMDZXT3lEZ0tsVkxJVXdHbXdsRGV2TXJyYWNzU3pBc0U2ZWtGWjBvcUh5MW93OXV6RVUyNEpuM0c2RWpGSm56aEQtcHgzVHpfX0RONW5OWFVlV1VDUjZtZ0dQRDBKT1pwNUxUTGs1ckg3dmxDUi1qLWh6emVPbU0tOC1OT2k0NHhDTnFJdXBCdGJFb3Zu0gG-AUFVX3lxTE4wVFNMeENsTDQtYTlwdlA5QmtEeFUyRVdFb0tMWS1sbkFVSUdxU2c3cWJidHBlRGlqV19TUDdYeHpiaDlEc3hkYlB0cjJSYWpPQjV3R3lTZzlzSTlvNXU2Ui02ZUFqT29IN1BDNGV2SVhISmc4eHhPNlY4OVM1SUk0UG9PbkFTUFJxbklZZkF3V0c3ZnBiWlVCdHhfRm9LdGdwazh6ZFA4TEJlaHdHNnpJRzlHOVlnSjgwYWxTRkE?oc=5",
+     "ts": "2026-11-10T08:55:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -984,6 +943,253 @@
    },
    "msg_id": 717,
    "upgraded": true
+  },
+  {
+   "id": "f1d6978b14fd",
+   "title": "GTA 6 Preload Begins: Miami Takeover, Selfridges Collab, Heat Jerseys & Music Festival",
+   "first_seen": "2026-11-10T02:10:46Z",
+   "updated": "2026-11-10T09:10:44Z",
+   "items": [
+    {
+     "id": "f1d6978b14fd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MMOEXP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Preload Begins: Miami Takeover, Selfridges Collab, Heat Jerseys & Music Festival",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmFLM2F1aGVjQUhKVm1lLTJkZGJaWFV1Yi1FTjJVTE1fb0I3cXBSOFJMcklyUVVFeFYxV2p6OU1zUXNQTTk5aGwzVi0yUjBsSkxmMi10NlZCWXhLOWR4X0YtZFM0NEUtQTR1TS1PcWVTR2tic2JqUmpWU1NzMzFDU1Q5U1VVZ2p6cmNCaEZ1S0RlVU8waVhWYnJ6ekdTUlBtYldIanpvamVIS21xRlRXWERpN3E?oc=5",
+     "ts": "2026-11-10T02:06:38Z",
+     "summary": ""
+    },
+    {
+     "id": "dca396a58961",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ThePCEnthusiast",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Preload Begins November 10 - Here's When You Can Play",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DT3VwdUZfZUNwSzJxMno0LXZBMV85WjF4cEtTMHhnZVo3cG9EOWQxRkxmMVFWalpuVXh6LTlhanU3dmdFTGlMUjlCWU9sYmpjdEVCZHZGanZHSkNQZWs5XzZTY0ZRem9zYnIzR0xEdERwR2ZrMzRIZg?oc=5",
+     "ts": "2026-11-10T04:28:05Z",
+     "summary": ""
+    },
+    {
+     "id": "ee5c66308c86",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Download GTA VI now – GTA 6 preload begins today, November 10",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZV9qbENieU5Rc25jOXphWHJDdU5kSUVSZ3V5THdBc0lwa2NMMmtkbjRlcEc3VU5GOWxsaHJyWmVWNmpNMk9ya1BKM1NpTlJaYnVWYU1SNzJFQ2RVS0hoQ3BWUWpmMUp3MV8wRjh6Q1Nib3VfSm5OMkRySWlIOU9DUkwwMFRRWXRFcFdmWVhXSkRDTmlTU25CN016c2JyNm4telU3bktn?oc=5",
+     "ts": "2026-11-10T08:47:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️ GTA 6: предзагрузка, коллаб с Selfridges и фестиваль",
+    "summary": "По данным MMOEXP, началась предзагрузка GTA 6, а также анонсированы коллаборация с Selfridges, майки Heat Jerseys и музыкальный фестиваль. Источник также пишет о «Miami Takeover». Официально Rockstar это пока не подтверждала.",
+    "idea": "Короткий разбор слухов о предзагрузке и коллабах: что реально, а что — промо. Зрителю важно понять, где факты, а где маркетинг перед релизом.",
+    "hook": "Предзагрузка GTA 6 стартовала? Разбираем слухи MMOEXP за минуту.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-10T02:10:49Z"
+   },
+   "msg_id": 724
+  },
+  {
+   "id": "ee03489ed1f7",
+   "title": "Real Life GTA 6 Grotti Cheetah On Sale For £1m",
+   "first_seen": "2026-11-09T19:10:50Z",
+   "updated": "2026-11-10T09:10:44Z",
+   "items": [
+    {
+     "id": "ee03489ed1f7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RockstarINTEL",
+     "group": "media",
+     "weight": 55,
+     "alert": true,
+     "title": "Real Life GTA 6 Grotti Cheetah On Sale For £1m",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BbHFXbTkwSHE3RzRqazRrcm5IdmtrazduZGtWZTlDZ3hZd2dTaElwQjVBenNNTG5iV3dSUWN2LW02TGRVWTZkV1pQaUhCSlAxZWg2SkNFakZrUWMwS1oxRnNqWEczX0hhRlY1R0cyNkhNVzdGR0F4UGZoTms?oc=5",
+     "ts": "2026-11-09T19:02:35Z",
+     "summary": ""
+    },
+    {
+     "id": "9cba1624ee70",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "Real Life GTA 6 Grotti Cheetah On Sale For £1m",
+     "url": "https://rockstarintel.com/real-life-gta-6-grotti-cheetah-on-sale-for-1m/",
+     "ts": "2026-11-09T19:02:35Z",
+     "summary": "The real life GTA 6 Grotti Cheetah car is now on sale. That’s if you have enough cash to drive away with a piece of history. Based on the Ferrari Testarossa, Rockstar have added a classic looking Grotti Cheetah to the new game. The company has also commissioned a real life, drivable replica from West [...] The post Real Life GTA 6 Grotti Cheetah On Sale For £1m appeared first on RockstarINTEL ."
+    },
+    {
+     "id": "5c55128c05d8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Real-life Grotti Cheetah goes on sale for £1 million in London",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOemh2SDEwRGQ5aFFldTNqRDRva051Nzd2dTd5U1duS3V6V2lQcjVoRjdpMTcxTGJmVUY5LThlNHBNaDlGNG9zWGtDbDBKRnh0NVN3S0Uyb1VTLVdscVBGV1RoVzlZVDVuTG9YZEtaTDZxX0JvWEVvYVYyajUzVTRQU1VmSnBOZTVPdnhGcmhVa29sSE90RF9vSjBjMXFublVNRnFPVUVnMEZMUXBCRmRLMFNPYjNwaEtk?oc=5",
+     "ts": "2026-11-10T09:04:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 71,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Реальный Grotti Cheetah из GTA 6 продают за £1 млн",
+    "summary": "По данным RockstarINTEL, на продажу выставлен реальный Grotti Cheetah — реплика на базе Ferrari Testarossa, созданная для GTA 6. Компания заказала у West ездящую копию, и её цена — £1 млн.",
+    "idea": "Показываем реальную машину Grotti Cheetah вживую и рядом с игрой: почему фанатам GTA 6 это важно и как выглядит реплика.",
+    "hook": "Реальный Grotti Cheetah из GTA 6 продают за миллион фунтов — вот он.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-09T19:10:55Z"
+   },
+   "msg_id": 712
+  },
+  {
+   "id": "13d5c326ed84",
+   "title": "Extra detail mentioned in Nick DiGiovanni's video this week.",
+   "first_seen": "2026-11-10T09:10:44Z",
+   "updated": "2026-11-10T09:10:44Z",
+   "items": [
+    {
+     "id": "13d5c326ed84",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Extra detail mentioned in Nick DiGiovanni's video this week.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xsi6e1/extra_detail_mentioned_in_nick_digiovannis_video/",
+     "ts": "2026-11-10T09:03:29Z",
+     "summary": "Was watching Nick's video and it was sponsored by GTA6 and he mentions a burger and burger chain from the game, now I will preface by saying a few things. its been 13 years since I played Gta5 so it may be out of that, I'll also say that maybe this information was already public knowledge, but this is the first I've seen of it. It's not groundbreaking information, but I know how some people like even the tiniest little scraps of info so here we are. submitted by /u/AdZy14588 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "571400f253f5",
+   "title": "Мужчины берут отпуск от работы и жён ради выхода GTA 6",
+   "first_seen": "2026-11-10T09:10:44Z",
+   "updated": "2026-11-10T09:10:44Z",
+   "items": [
+    {
+     "id": "571400f253f5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "LipetskMedia",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Мужчины берут отпуск от работы и жён ради выхода GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeW5vYXpvZHR0NlRhVWZrOUhyVlZlUEFkcmVmSDhyUXFseDQ0NW1NeVBlMy1EXzVQZk9vUVFFVHlDdDlseTNfNXpYNVFYenVPUVZ1bUthTUdyeHJNUloyS1diMDg1WjZSQzZPVTAtUENKcGRVamVDdDh5bHhWRnZ5enJhTG1Ic2FXd3lKYS1ObkJQMU1jdTRXZnJUOA?oc=5",
+     "ts": "2026-11-10T09:06:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d52b8c414fc3",
+   "title": "Wow,it’s finally here",
+   "first_seen": "2026-11-10T04:50:45Z",
+   "updated": "2026-11-10T09:01:19Z",
+   "items": [
+    {
+     "id": "d52b8c414fc3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Wow,it’s finally here",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xsdxsl/wowits_finally_here/",
+     "ts": "2026-11-10T04:45:42Z",
+     "summary": "submitted by /u/CaseConsistent2023 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "4a53766548c4",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The myth is finally here",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xsenj2/the_myth_is_finally_here/",
+     "ts": "2026-11-10T05:24:12Z",
+     "summary": "submitted by /u/No-Science-7126 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "aad88843c50a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We're finally here [GTA VI]",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xshz2y/were_finally_here_gta_vi/",
+     "ts": "2026-11-10T08:50:14Z",
+     "summary": "It's happening everyone, beginning today you can preload GTA VI submitted by /u/Ciberfreak to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "516318b5babd",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We're finally here!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xshzzn/were_finally_here/",
+     "ts": "2026-11-10T08:52:02Z",
+     "summary": "Starting today you can preload the game submitted by /u/Ciberfreak to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
   },
   {
    "id": "7e5821e5ad10",
@@ -4902,58 +5108,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f1d6978b14fd",
-   "title": "GTA 6 Preload Begins: Miami Takeover, Selfridges Collab, Heat Jerseys & Music Festival",
-   "first_seen": "2026-11-10T02:10:46Z",
-   "updated": "2026-11-10T04:40:47Z",
-   "items": [
-    {
-     "id": "f1d6978b14fd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MMOEXP",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Preload Begins: Miami Takeover, Selfridges Collab, Heat Jerseys & Music Festival",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmFLM2F1aGVjQUhKVm1lLTJkZGJaWFV1Yi1FTjJVTE1fb0I3cXBSOFJMcklyUVVFeFYxV2p6OU1zUXNQTTk5aGwzVi0yUjBsSkxmMi10NlZCWXhLOWR4X0YtZFM0NEUtQTR1TS1PcWVTR2tic2JqUmpWU1NzMzFDU1Q5U1VVZ2p6cmNCaEZ1S0RlVU8waVhWYnJ6ekdTUlBtYldIanpvamVIS21xRlRXWERpN3E?oc=5",
-     "ts": "2026-11-10T02:06:38Z",
-     "summary": ""
-    },
-    {
-     "id": "dca396a58961",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ThePCEnthusiast",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Preload Begins November 10 - Here's When You Can Play",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DT3VwdUZfZUNwSzJxMno0LXZBMV85WjF4cEtTMHhnZVo3cG9EOWQxRkxmMVFWalpuVXh6LTlhanU3dmdFTGlMUjlCWU9sYmpjdEVCZHZGanZHSkNQZWs5XzZTY0ZRem9zYnIzR0xEdERwR2ZrMzRIZg?oc=5",
-     "ts": "2026-11-10T04:28:05Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️ GTA 6: предзагрузка, коллаб с Selfridges и фестиваль",
-    "summary": "По данным MMOEXP, началась предзагрузка GTA 6, а также анонсированы коллаборация с Selfridges, майки Heat Jerseys и музыкальный фестиваль. Источник также пишет о «Miami Takeover». Официально Rockstar это пока не подтверждала.",
-    "idea": "Короткий разбор слухов о предзагрузке и коллабах: что реально, а что — промо. Зрителю важно понять, где факты, а где маркетинг перед релизом.",
-    "hook": "Предзагрузка GTA 6 стартовала? Разбираем слухи MMOEXP за минуту.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-10T02:10:49Z"
-   },
-   "msg_id": 724
   },
   {
    "id": "0ff2297f084b",
@@ -12043,56 +12197,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ee03489ed1f7",
-   "title": "Real Life GTA 6 Grotti Cheetah On Sale For £1m",
-   "first_seen": "2026-11-09T19:10:50Z",
-   "updated": "2026-11-09T19:10:50Z",
-   "items": [
-    {
-     "id": "ee03489ed1f7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "RockstarINTEL",
-     "group": "media",
-     "weight": 55,
-     "alert": true,
-     "title": "Real Life GTA 6 Grotti Cheetah On Sale For £1m",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BbHFXbTkwSHE3RzRqazRrcm5IdmtrazduZGtWZTlDZ3hZd2dTaElwQjVBenNNTG5iV3dSUWN2LW02TGRVWTZkV1pQaUhCSlAxZWg2SkNFakZrUWMwS1oxRnNqWEczX0hhRlY1R0cyNkhNVzdGR0F4UGZoTms?oc=5",
-     "ts": "2026-11-09T19:02:35Z",
-     "summary": ""
-    },
-    {
-     "id": "9cba1624ee70",
-     "src": "rockstarintel",
-     "src_name": "Rockstar INTEL",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 55,
-     "alert": true,
-     "title": "Real Life GTA 6 Grotti Cheetah On Sale For £1m",
-     "url": "https://rockstarintel.com/real-life-gta-6-grotti-cheetah-on-sale-for-1m/",
-     "ts": "2026-11-09T19:02:35Z",
-     "summary": "The real life GTA 6 Grotti Cheetah car is now on sale. That’s if you have enough cash to drive away with a piece of history. Based on the Ferrari Testarossa, Rockstar have added a classic looking Grotti Cheetah to the new game. The company has also commissioned a real life, drivable replica from West [...] The post Real Life GTA 6 Grotti Cheetah On Sale For £1m appeared first on RockstarINTEL ."
-    }
-   ],
-   "tags": [],
-   "score": 63,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Реальный Grotti Cheetah из GTA 6 продают за £1 млн",
-    "summary": "По данным RockstarINTEL, на продажу выставлен реальный Grotti Cheetah — реплика на базе Ferrari Testarossa, созданная для GTA 6. Компания заказала у West ездящую копию, и её цена — £1 млн.",
-    "idea": "Показываем реальную машину Grotti Cheetah вживую и рядом с игрой: почему фанатам GTA 6 это важно и как выглядит реплика.",
-    "hook": "Реальный Grotti Cheetah из GTA 6 продают за миллион фунтов — вот он.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-09T19:10:55Z"
-   },
-   "msg_id": 712
   },
   {
    "id": "47af895d2d3a",
@@ -89237,37 +89341,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e5e969b49f7a",
-   "title": "I had a suspected brain stroke and was hospitalized in the ICU for a few days",
-   "first_seen": "2026-11-03T09:01:27Z",
-   "updated": "2026-11-03T09:01:27Z",
-   "items": [
-    {
-     "id": "e5e969b49f7a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I had a suspected brain stroke and was hospitalized in the ICU for a few days",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xmnzkv/i_had_a_suspected_brain_stroke_and_was/",
-     "ts": "2026-11-03T08:56:27Z",
-     "summary": "Literally the first thing that popped in my head when the emergency doctor told me they are moving me in an ambulance and might have 4 hours to live.. “Please not now, I can’t die 2 weeks before the release of GTA6” I didn’t even know how excited I am for GTA6 The thought process of realizing that I’m worried about missing GTA 6 more than anything in life .. made me laugh Mind you, I didn’t say anything to him, he tells me “you might have 4 hours to live” And 5 seconds later, I’m giggling at my own thoughts and why I don’t wanna die yet. I’m glad I didn’t die though, it was a complication from"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-10T09:01:19Z",
+  "last_run": "2026-11-10T09:10:44Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 100/100",
@@ -89278,10 +89356,10 @@
    "ign: 4/20",
    "eurogamer: 5/100",
    "dexerto_gta: 3/50",
-   "rockstarintel: 8/10",
+   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
    "gtaboom: 12/30",
    "reddit: 22/25",
-   "tg_gtavistar: 9/12",
+   "tg_gtavistar: 8/12",
    "tg_gta6deluxe: 16/19",
    "tg_gta6_m: 12/17",
    "tg_gta6newsdaily: 0/16"
