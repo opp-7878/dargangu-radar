@@ -1,6 +1,87 @@
 {
  "stories": [
   {
+   "id": "354b2ce7197b",
+   "title": "Утечка изображения коробки дискового издания GTA 6 для Xbox указывает на возможные преимущества перед версией для PS5",
+   "first_seen": "2026-11-10T06:40:48Z",
+   "updated": "2026-11-10T06:40:48Z",
+   "items": [
+    {
+     "id": "354b2ce7197b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Утечка изображения коробки дискового издания GTA 6 для Xbox указывает на возможные преимущества перед версией для PS5",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeUhDaFUxeDItckxJN2xUaG8yMFBfeWJwNHlGVFVhMTJQdzkzVXpKZHJULTB2Q0Z5QVp3LXRQMHJoWmdhdmRUbXp1TzFvbnI1dnlWNDZMRWdEYjB1S1ExZnlTem83VDVUVHYzbkhJa1JUS0VZOHZNVFZ2TzZjQWxPbktnYTN4bnBpX1ZscGI0c1RaUlEySU8wUnB0eWw5U2lhQll1eUV1YXZDTUZoNlMxRk0zQnowRkxaUFVoYUhDMF9kOFBueWYyaDNyeVBrQTdNVV84eDZrVlltaE9qSFl0LTg4ZGJMWVRiQ1BEVXZLdkpKanF6OG1oektUVVpkWkRFUGlTOC1R?oc=5",
+     "ts": "2026-11-10T06:25:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив",
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "SPECULATION",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "2d88f5fd6196",
+   "title": "GTA 6 потребует 212 ГБ памяти. Что нужно знать перед выходом игры",
+   "first_seen": "2026-11-10T06:40:48Z",
+   "updated": "2026-11-10T06:40:48Z",
+   "items": [
+    {
+     "id": "2d88f5fd6196",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Offside.kz",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 потребует 212 ГБ памяти. Что нужно знать перед выходом игры",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQlBWNVdPdDQ0X1RKT0c2b2xHQXl5Qnc5UW5qVGM5TTZYTlNkY2thNmdPdTl4MktRdlZPdHFVaTZWckwwRkVEMm5YdU5EaVRmaGlKazgtdDVKYk11SEVyZEc0Y1A5SHhYWUdaRWFodXl1ZU81OGZGZ0hqOVFCOEZha0ZrTjdLV0xJMzN1QzZ5ZXZuWVNPck54WGRnRGhtQkJwUTJUel9n?oc=5",
+     "ts": "2026-11-10T06:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bfe760ca953e",
+   "title": "It’s here boys! (Were half way down the finish line!) 🏁😌😮‍💨",
+   "first_seen": "2026-11-10T06:40:48Z",
+   "updated": "2026-11-10T06:40:48Z",
+   "items": [
+    {
+     "id": "bfe760ca953e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "It’s here boys! (Were half way down the finish line!) 🏁😌😮‍💨",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xsfv26/its_here_boys_were_half_way_down_the_finish_line/",
+     "ts": "2026-11-10T06:34:50Z",
+     "summary": "submitted by /u/gohan_2000 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "48965ab423e7",
    "title": "All the takeaways about GTA VI from the Take-Two earnings call | Strauss Zelnick",
    "first_seen": "2026-11-09T21:50:49Z",
@@ -88117,7 +88198,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-10T06:31:09Z",
+  "last_run": "2026-11-10T06:40:48Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 100/100",
@@ -88130,7 +88211,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 8/10",
    "gtaboom: 11/30",
-   "reddit: 23/25",
+   "reddit: 22/25",
    "tg_gtavistar: 9/12",
    "tg_gta6deluxe: 15/18",
    "tg_gta6_m: 12/17",
