@@ -1,6 +1,89 @@
 {
  "stories": [
   {
+   "id": "117adcfed0d7",
+   "title": "I really hope GTA 6 has more random encounters than GTA 5",
+   "first_seen": "2026-11-10T07:10:45Z",
+   "updated": "2026-11-10T07:10:45Z",
+   "items": [
+    {
+     "id": "117adcfed0d7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I really hope GTA 6 has more random encounters than GTA 5",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xse15l/i_really_hope_gta_6_has_more_random_encounters/",
+     "ts": "2026-11-10T04:50:44Z",
+     "summary": "One thing I loved about older GTA games was randomly finding weird stuff while exploring. I hope GTA 6 has those moments where you discover something completely unexpected without even looking for it. submitted by /u/SweetAd2264 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "aab8aa9edcab",
+   "title": "How to avoid spoilers while playing the main story?",
+   "first_seen": "2026-11-10T07:10:45Z",
+   "updated": "2026-11-10T07:10:45Z",
+   "items": [
+    {
+     "id": "aab8aa9edcab",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How to avoid spoilers while playing the main story?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xsf5by/how_to_avoid_spoilers_while_playing_the_main_story/",
+     "ts": "2026-11-10T05:52:56Z",
+     "summary": "GTA 6 story is going to be 80 hours long, that too if you don’t do any side missions or waste time in free mode. Which means an average person could take upto 150 hours just to finish the main story. Now let’s assume a normal person plays around 3 hours everyday. That would mean it will take them 50 days to complete the story. Now how in the world will they avoid spoilers during those 50 days considering how massively popular the game is? People will say to avoid social media which is true, but it’s impossible to stay off social media for 50 days. What do you guys think? submitted by /u/Agitat"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5675bf1e4d56",
+   "title": "GTA 6 ушла «на золото», переноса не будет — предзаказы на беспрецедентном уровне",
+   "first_seen": "2026-11-10T07:10:45Z",
+   "updated": "2026-11-10T07:10:45Z",
+   "items": [
+    {
+     "id": "5675bf1e4d56",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 ушла «на золото», переноса не будет — предзаказы на беспрецедентном уровне",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeUtIOW9fQmdVd0s5SWV4MnVoR3I4T041dDIxa3BrVXRxVjhxWUdyMUc1Z2k2aHJENWxBU09DQWRDU3RVNW1zSXdZRGwyYXRvRlZUS08tVTFZWURSQ2FoY2xGNk9naXlvbHo0QTVkWWtfR1ppN3RGS1ZzZ0RXSWpNVHVTMFE3WUFnM1hhbjF0TFVtRV9YTlBaQzhKS1ZsLXRmaGFZ0gGoAUFVX3lxTFBLazdaZWExN05zQkdZcE1sdVdwX2Y5UlR6UFhMaWZ6eEhCUk12cnJaSFY2ejB2RGZMOVg2LU9qSWZYRkJJNkpuRko4aDNONHVQUXB0bWZBMkh3eU1ZbV8wOE1wTk5VaW0tT0ViZjlOQkRKSDd3c3FKdUpXVVJPQTlKanFsQjFkTjZPbXhVM2RVZ2tMdVRTUDZWUUZNMzBISUU2VzBERUVHdw?oc=5",
+     "ts": "2026-11-10T06:08:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "дата/перенос",
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
    "id": "d8e83b730022",
    "title": "Michigan among the top states taking time off for Grand Theft Auto VI",
    "first_seen": "2026-11-10T07:09:14Z",
@@ -88277,7 +88360,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-10T07:09:14Z",
+  "last_run": "2026-11-10T07:10:48Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 100/100",
