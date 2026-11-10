@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "d8e83b730022",
+   "title": "Michigan among the top states taking time off for Grand Theft Auto VI",
+   "first_seen": "2026-11-10T07:09:14Z",
+   "updated": "2026-11-10T07:09:14Z",
+   "items": [
+    {
+     "id": "d8e83b730022",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "FOX 2 Detroit",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Michigan among the top states taking time off for Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmhid1pQckdrTVVWRVk2V0ZPc0J2ZTFCS2ViczUxR1RpMFY2cnFXRkcyTndGb0JrRzhqVTgwcVZRRTNLOGxrV2J6RjEwdEotX295NHp5QjY2RHpqRXZZRjNMOWoyd1hVVWhySnpyUDl2TmpmNS1DbVdueUpta0VfSlFpZWZTQ080dlVFZEtYQ01peDNhRXNRSTVn?oc=5",
+     "ts": "2026-11-09T22:07:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "616027f793bb",
+   "title": "New Zealand Auckland. LETS GO",
+   "first_seen": "2026-11-10T07:09:14Z",
+   "updated": "2026-11-10T07:09:14Z",
+   "items": [
+    {
+     "id": "616027f793bb",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "New Zealand Auckland. LETS GO",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xsfn94/new_zealand_auckland_lets_go/",
+     "ts": "2026-11-10T06:21:24Z",
+     "summary": "submitted by /u/Alternative-Sell7313 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "efa3d9738764",
+   "title": "Gta 5 had a couple sections where you play as all 3 characters. Most of Gta 6 has you playing as both characters.",
+   "first_seen": "2026-11-10T07:09:14Z",
+   "updated": "2026-11-10T07:09:14Z",
+   "items": [
+    {
+     "id": "efa3d9738764",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Gta 5 had a couple sections where you play as all 3 characters. Most of Gta 6 has you playing as both characters.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xsg8hl/gta_5_had_a_couple_sections_where_you_play_as_all/",
+     "ts": "2026-11-10T06:57:56Z",
+     "summary": "Idk if many people understand this. If you look closely at the extended look, R1 opens the character switcher in gta 6. You will be expected to use this frequently in missions that involve both Jason and Lucia at the same time. Holding R1 and then clicking left or right to change between characters is more streamlined than it was in gta 5, meaning it's baked in as more of a core mechanic. Did anyone here play \"A Way Out\"? There was one or two incredible, fast paced, \"switch between characters\" sequences that were cinematic and fluid. I'm expecting gta 6 to do this through its whole story, exce"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "48965ab423e7",
    "title": "All the takeaways about GTA VI from the Take-Two earnings call | Strauss Zelnick",
    "first_seen": "2026-11-09T21:50:49Z",
@@ -88199,7 +88277,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-10T07:01:21Z",
+  "last_run": "2026-11-10T07:09:14Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 100/100",
@@ -88212,7 +88290,7 @@
    "dexerto_gta: 3/50",
    "rockstarintel: 8/10",
    "gtaboom: 11/30",
-   "reddit: 22/25",
+   "reddit: 23/25",
    "tg_gtavistar: 9/12",
    "tg_gta6deluxe: 15/18",
    "tg_gta6_m: 12/17",
