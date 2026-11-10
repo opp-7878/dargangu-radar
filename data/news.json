@@ -1,64 +1,10 @@
 {
  "stories": [
   {
-   "id": "99f7b310b2cb",
-   "title": "PRELOAD IS LIVE IN NZ. After years of waiting, I'm finally watching GTA 6 install.",
-   "first_seen": "2026-11-09T11:10:44Z",
-   "updated": "2026-11-10T00:10:48Z",
-   "items": [
-    {
-     "id": "99f7b310b2cb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "PRELOAD IS LIVE IN NZ. After years of waiting, I'm finally watching GTA 6 install.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xroudo/preload_is_live_in_nz_after_years_of_waiting_im/",
-     "ts": "2026-11-09T11:02:27Z",
-     "summary": "submitted by /u/Suspicious_Movie8987 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "4210d4efb49c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Preload is live on Xbox!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xs85f1/preload_is_live_on_xbox/",
-     "ts": "2026-11-10T00:03:20Z",
-     "summary": "submitted by /u/SeoN8 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "19b8a81a6de0",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Xbox preload has started",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xs87ey/xbox_preload_has_started/",
-     "ts": "2026-11-10T00:05:36Z",
-     "summary": "submitted by /u/Propagandhi1988 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "48965ab423e7",
    "title": "All the takeaways about GTA VI from the Take-Two earnings call | Strauss Zelnick",
    "first_seen": "2026-11-09T21:50:49Z",
-   "updated": "2026-11-10T00:10:48Z",
+   "updated": "2026-11-10T00:20:45Z",
    "items": [
     {
      "id": "48965ab423e7",
@@ -514,6 +460,45 @@
      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMWxST3h5bkJVNGQ2dzNYQk53TFNpQzZBZXZBX3lTVDUxR0ZFSDBvXzQyYWt2ZmgyaWF1bld2Tlc5Q0R2QjVIVV8wYnBVajhxMVRjSzI5MXlDTnF1TEVhZEdBMlBTbDJ4ZV9vSll1Mms3LXhkaXVyRlh2YkEzU0s4N2tGVU12T00yZC1OX3RmLWRoZDlHNVJVa1ItRDE4ZTBLS0xnSTlvWlZ6QkdRUDktd2pzTkEyT2lmOGlOM2NSUGFBREgyRjEwSG9wbGJLdXVfdGh3N2lCblY1TzFXVnNXUWFwUVp6WndXRG83bnVKMEhQQW8?oc=5",
      "ts": "2026-11-10T00:05:07Z",
      "summary": ""
+    },
+    {
+     "id": "5725cee0f0e1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Inven Global",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take-Two says GTA VI pre-orders are at \"unprecedented levels\" as NBA 2K27 falls short",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWFE1RkdUalN2VmZOMjEyOXliM2Y4MFRUa1BNbnVkektXTUxsWWtxeHEwSDlnNlF4X043RlI5OUowRGRBS3JVS296NlVZLWUySUZHMzZERHBSY0NHSWVnVGVzelFnT0N3RkdKdElvODlWS1R1NUh5amJ4SkNmak10bGpwS3EwYVZSZzdSLTBmVGFTVGhzRkhoa0xWaFBMTDNBTjI5TEJyVTB3WWtqaHdiUllNc29WRkUtUF9fQlVtY1o4N0VC?oc=5",
+     "ts": "2026-11-09T22:30:21Z",
+     "summary": ""
+    },
+    {
+     "id": "4e30aa6df353",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Take-Two 'Enhancing' Technical Defenses and Legal Activities to Combat GTA 6 AI Reverse-Engineering Threat",
+     "url": "https://www.ign.com/articles/take-two-enhancing-technical-defenses-and-legal-activities-to-combat-gta-6-ai-reverse-engineering-threat",
+     "ts": "2026-11-09T23:18:51Z",
+     "summary": "The boss of Rockstar parent company Take-Two has responded to the threat of AI-assisted reverse-engineering and decompilation of games ahead of the crucial launch of GTA 6."
+    },
+    {
+     "id": "37d058dab629",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Глава Take-Two отказался раскрывать детали GTA VI для PC и дисков",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbFlYMWZLcERSbzZkQkZYMzFMZHllLXFSTllIaEVDN05sOVVzbWJRQmpaRDYxOUdXSThOMXlEMXVjZ0F4YUEyUGRYWWZBaUNnbGgySUVOQjhyMVBvZzg0cm5uTk92U3lDS1R4MmpSYmYxTXBoR1dfTFUtcnNnREZGNlpVbw?oc=5",
+     "ts": "2026-11-10T00:16:48Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -540,6 +525,112 @@
    },
    "msg_id": 717,
    "upgraded": true
+  },
+  {
+   "id": "f5af66c282d5",
+   "title": "Already started downloading",
+   "first_seen": "2026-11-10T00:20:45Z",
+   "updated": "2026-11-10T00:20:45Z",
+   "items": [
+    {
+     "id": "f5af66c282d5",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Already started downloading",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xs8fj6/already_started_downloading/",
+     "ts": "2026-11-10T00:15:25Z",
+     "summary": "submitted by /u/Gloomy_Albatross3043 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3354918b9159",
+   "title": "13 Long Years .. 9 Years Old, Now 22 🥹 It’s Finally Downloading.",
+   "first_seen": "2026-11-10T00:20:45Z",
+   "updated": "2026-11-10T00:20:45Z",
+   "items": [
+    {
+     "id": "3354918b9159",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "13 Long Years .. 9 Years Old, Now 22 🥹 It’s Finally Downloading.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xs8gkw/13_long_years_9_years_old_now_22_its_finally/",
+     "ts": "2026-11-10T00:16:41Z",
+     "summary": "submitted by /u/fkdyaee to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "99f7b310b2cb",
+   "title": "PRELOAD IS LIVE IN NZ. After years of waiting, I'm finally watching GTA 6 install.",
+   "first_seen": "2026-11-09T11:10:44Z",
+   "updated": "2026-11-10T00:10:48Z",
+   "items": [
+    {
+     "id": "99f7b310b2cb",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "PRELOAD IS LIVE IN NZ. After years of waiting, I'm finally watching GTA 6 install.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xroudo/preload_is_live_in_nz_after_years_of_waiting_im/",
+     "ts": "2026-11-09T11:02:27Z",
+     "summary": "submitted by /u/Suspicious_Movie8987 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "4210d4efb49c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Preload is live on Xbox!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xs85f1/preload_is_live_on_xbox/",
+     "ts": "2026-11-10T00:03:20Z",
+     "summary": "submitted by /u/SeoN8 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "19b8a81a6de0",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Xbox preload has started",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xs87ey/xbox_preload_has_started/",
+     "ts": "2026-11-10T00:05:36Z",
+     "summary": "submitted by /u/Propagandhi1988 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
   },
   {
    "id": "43ab5a6200dc",
@@ -87256,7 +87347,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-10T00:10:48Z",
+  "last_run": "2026-11-10T00:20:45Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 100/100",
@@ -87264,12 +87355,12 @@
    "gamesbeat: 2/10",
    "vgc: 2/10",
    "insider_gaming: 5/10",
-   "ign: 4/20",
+   "ign: 5/20",
    "eurogamer: 5/100",
    "dexerto_gta: 3/50",
    "rockstarintel: 8/10",
    "gtaboom: 11/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 9/12",
    "tg_gta6deluxe: 15/18",
    "tg_gta6_m: 10/16",
