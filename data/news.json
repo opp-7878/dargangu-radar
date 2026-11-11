@@ -1,108 +1,10 @@
 {
  "stories": [
   {
-   "id": "6658ac09edf5",
-   "title": "GTA VI preloads are here, and Xfinity has a free perk",
-   "first_seen": "2026-11-11T01:20:48Z",
-   "updated": "2026-11-11T05:31:01Z",
-   "items": [
-    {
-     "id": "6658ac09edf5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TheStreet",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI preloads are here, and Xfinity has a free perk",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmJDUlRpUVdjM2pDUmUya3FqWi1RdUN5YjVxYVpqNDBva3NPQUkwbHF1RFJBa29EZGtFaExCREl2VnR5WFNDUG56eE5pSVk1VWdlNlQ3MHN3bEhYay1zcHgtN2ZoVTFqTjdsLUZjU3BFRGp1cTRCMm03VGxCdW54TkhR?oc=5",
-     "ts": "2026-11-11T01:17:00Z",
-     "summary": ""
-    },
-    {
-     "id": "5a44654fc86b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Finance",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Xfinity bets on a free perk as ‘GTA VI’ tests its network",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0V3RDdpdmZwempPMzhiXzE1SnBqX1M2ZU1qU20wTnhOZ1dINXpvUEw4VWlNemxhM2pPbDk0VFRzWUJLczBVdUVHRzMxeXlfN2xKaDE3Y0lKYXVJemx2VjdaRG80b1Ixc1JUcUFHcG95UVRRc3ZhcVFZSm9BUnExbTV2SGU5dGR2cm1MdWEtRG8?oc=5",
-     "ts": "2026-11-11T04:17:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "fc4c6a21e809",
-   "title": "Ahead of the ‘Grand Theft Auto VI’ Release, Here’s Where to Buy the Sony PlayStation 5 Pro Online",
-   "first_seen": "2026-11-11T05:31:01Z",
-   "updated": "2026-11-11T05:31:01Z",
-   "items": [
-    {
-     "id": "fc4c6a21e809",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Ahead of the ‘Grand Theft Auto VI’ Release, Here’s Where to Buy the Sony PlayStation 5 Pro Online",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmRNMmN3WG93OVJJVG9yZjhPM1E4dEk5WkQ1bUF6LVpWUVJwRTB1aU5WZXl1bi1tWmQzVzJMcERYbUtOTGhJTGhfdVZXa3RaQW1Xc1dXbWcwYk83Z2tkbjM4MlJvTUpHMEp2LVNTQWoxTUgxbF85bzJvNUgwMmNnRm8yRGd4SDg?oc=5",
-     "ts": "2026-11-10T23:26:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "6f44685ec7fb",
-   "title": "Do you think Rockstar is still hiding something big about GTA 6?",
-   "first_seen": "2026-11-11T05:31:01Z",
-   "updated": "2026-11-11T05:31:01Z",
-   "items": [
-    {
-     "id": "6f44685ec7fb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Do you think Rockstar is still hiding something big about GTA 6?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xt9j71/do_you_think_rockstar_is_still_hiding_something/",
-     "ts": "2026-11-11T05:28:39Z",
-     "summary": "I've been wondering if Rockstar is purposely keeping something major about GTA 6 under wraps. We've seen quite a bit already, but I can't help thinking there's something about the game they haven't even hinted at yet. Especially when you think about the old Project Americas rumors, Liberty City speculation, the northern part of the map we still don't know much about, and even the references to Gloriana. I'm not saying any of those things confirm anything, but they do make me wonder if there's more to the game than Rockstar is letting on. Maybe additional locations, some unexpected gameplay fea"
-    }
-   ],
-   "tags": [
-    "анонс",
-    "геймплей"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "55c4b4f23066",
    "title": "Rockstar confirms GTA 6 targets 30 FPS, with PS5 Pro-exclusive ray-tracing",
    "first_seen": "2026-11-10T14:10:48Z",
-   "updated": "2026-11-11T05:20:51Z",
+   "updated": "2026-11-11T05:50:47Z",
    "items": [
     {
      "id": "55c4b4f23066",
@@ -1156,6 +1058,19 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREhHam0tOFUxWXhLX25kV2hXaGZzRkU4TDd6RkpjUEhlSk9KSHZEbFNiS2pkRFBtbVVYc3p4TUN1X2d3dld3SXdXbnhEaG84elBfV0tJZjA5bVVFeDBnZjlqUWs4TG9tVm1vaEt0bko4Yl9HMEppU2QtcGROS1FNbUh4MTk2bUVsalQ4UVpHY1pvd0g4bWJpRDFTT0N3ODZJY2lESklVTDMzVlBTdEV30gG0AUFVX3lxTE5MOHJoTTV6MlJGY2tRRVhyVWg3Qk9qNUpMWGo3NkJma1lqWUJ0bGcwajhKbGdBNEhkd01mRVdQMmY4eUFLWmx0YmljVTI3NE5VaUhEejJRQ1JOYlU1Y242UmJVVW1nUDNKMlJtSHJ2NDA0NHo2QVhUSnFRejZybzZ5Ty1nMXRsSHlpV0JEU2Z2UzV3eVpoYTkxMWwybnF5U2puZTVCMHZ2bEZDOGpNQjVEdWRNTg?oc=5",
      "ts": "2026-11-11T04:32:00Z",
      "summary": ""
+    },
+    {
+     "id": "6e40a3e1bd6b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 on Xbox Series X will be released without FSR 4.1 support on day one.",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZU5aSG5TeWNEQTVRc3JyMWZlMXhmN0F4anlnMWNOSG9PMTRLamZ5NEJNbzl3Z2ZPY2wzYV9iWXRqZ2VzR3BMeTVSMnJOcmNnTGhIRWtwZmdhUkZwSjczMEhyTTdJX0lpeWNRN2o3NzR4eC1CanpqTU5VMzhVdEg0MVJ3blk2cjk1cVotNXg3cl9VYm5zVHhscjVxRUtSYnhONkdYM19n?oc=5",
+     "ts": "2026-11-11T05:48:33Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -1169,6 +1084,223 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "5496ef324352",
+   "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation Store",
+   "first_seen": "2026-11-11T04:40:43Z",
+   "updated": "2026-11-11T05:50:47Z",
+   "items": [
+    {
+     "id": "5496ef324352",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Компьютерра",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation Store",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1Fva2dEZW9GVUxXbVRHUWM1TTZkdlh0a19OWWxIXzRXT0w5dTZ6RFhoSWdFX0c1OWFTWmVzVXVqMUhuYS1WeG9ZdHpFUTVveVVaaDg5MkV1dmdlR2IxcWVjVXphZVRvRXRCZ1duZDJaV2xHVEI1NXdHU1pZbDdxZ2RHN2VkcENoNjJVa1dBcVR0TkZZUS1fbWRQb1ByaUEtTDBCTzZB?oc=5",
+     "ts": "2026-11-11T04:39:37Z",
+     "summary": ""
+    },
+    {
+     "id": "562378c745ac",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "airpress.kz",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation и Xbox",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlJmQnVLcFVOeHhnYVNfOEdNZVlQTXgxUHdldktuMVNvSkFUM3FYMkZPM1czLW1Uci1ndFdoRVhQdDdGREdBOFFrNkNqazhOUWlNRHptRVZKcVdoRjNCc2hOampWZUloaGJackRibjR3UEZyR3I5bDF1aVlhRUhFRXliMW9Rd3Ztb2Q4OQ?oc=5",
+     "ts": "2026-11-11T05:39:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 63,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "2081f9e65502",
+   "title": "Looking for a slow-paced and detail-oriented streamer / youtuber to watch",
+   "first_seen": "2026-11-11T05:50:47Z",
+   "updated": "2026-11-11T05:50:47Z",
+   "items": [
+    {
+     "id": "2081f9e65502",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Looking for a slow-paced and detail-oriented streamer / youtuber to watch",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xt9raj/looking_for_a_slowpaced_and_detailoriented/",
+     "ts": "2026-11-11T05:41:16Z",
+     "summary": "I am looking for someone to watch playing the game when released, but I am hoping to find someone who is more of a mature and calm guy, and tend to role play the game and take it slowly. I don't mind small channels at all. Appreciate all suggestions. submitted by /u/GdSmth to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ffeab2ddee0c",
+   "title": "This GTA 6 Competition Will Pay to Get Your Partner Out Of the House on Launch Weekend",
+   "first_seen": "2026-11-11T05:50:47Z",
+   "updated": "2026-11-11T05:50:47Z",
+   "items": [
+    {
+     "id": "ffeab2ddee0c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "This GTA 6 Competition Will Pay to Get Your Partner Out Of the House on Launch Weekend",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZk9venY0elloaDRZNGR3d2dJWXd6bGx1aW5FcDd1ZWFUMXJ2bmstV0hUaFNlVDVEU2xGYVhvLWdOYU1Pc2NraG93eWdXR05ZbUZzTjRCcEs0MWhqdUNpY1pYeW52aml1OEhNcF9TbXdzWDZZQ2IyeXhMQ3JiRWJjZ1p3cW1aaVRxWlRCamQ0alZsdmVjWXE0S2NDbWNSTG5yWXpEUUcwSk9qWE9oUWYzeFNTdUU5amN6Q0c0Nw?oc=5",
+     "ts": "2026-11-11T05:47:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a5272f6e5e3f",
+   "title": "GTA 6 für Xbox Series X wird am ersten Tag ohne FSR 4.1-Unterstützung veröffentlicht.",
+   "first_seen": "2026-11-11T05:50:47Z",
+   "updated": "2026-11-11T05:50:47Z",
+   "items": [
+    {
+     "id": "a5272f6e5e3f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 für Xbox Series X wird am ersten Tag ohne FSR 4.1-Unterstützung veröffentlicht.",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUhveXczS3BPY1JiYUlpTG5UbUF4OThJX21GaC03M3ZCbDQtVnBXbW15aHQxeEQ2bzZoaHR1LWFCTjVESWNnZzZxRVZHNDItZURyV0RnN05hcGxrUGxhb0hTOGxpT29WTUxDaTFHVDNaM3lHRnJ4dUplNmdpT0xveVN6clJic0l2VU4zTEtEWEFHVnVKM2l1ZTJKYS1weEdjQkNPZGxB?oc=5",
+     "ts": "2026-11-11T05:48:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6658ac09edf5",
+   "title": "GTA VI preloads are here, and Xfinity has a free perk",
+   "first_seen": "2026-11-11T01:20:48Z",
+   "updated": "2026-11-11T05:31:01Z",
+   "items": [
+    {
+     "id": "6658ac09edf5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TheStreet",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI preloads are here, and Xfinity has a free perk",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmJDUlRpUVdjM2pDUmUya3FqWi1RdUN5YjVxYVpqNDBva3NPQUkwbHF1RFJBa29EZGtFaExCREl2VnR5WFNDUG56eE5pSVk1VWdlNlQ3MHN3bEhYay1zcHgtN2ZoVTFqTjdsLUZjU3BFRGp1cTRCMm03VGxCdW54TkhR?oc=5",
+     "ts": "2026-11-11T01:17:00Z",
+     "summary": ""
+    },
+    {
+     "id": "5a44654fc86b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Xfinity bets on a free perk as ‘GTA VI’ tests its network",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0V3RDdpdmZwempPMzhiXzE1SnBqX1M2ZU1qU20wTnhOZ1dINXpvUEw4VWlNemxhM2pPbDk0VFRzWUJLczBVdUVHRzMxeXlfN2xKaDE3Y0lKYXVJemx2VjdaRG80b1Ixc1JUcUFHcG95UVRRc3ZhcVFZSm9BUnExbTV2SGU5dGR2cm1MdWEtRG8?oc=5",
+     "ts": "2026-11-11T04:17:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "fc4c6a21e809",
+   "title": "Ahead of the ‘Grand Theft Auto VI’ Release, Here’s Where to Buy the Sony PlayStation 5 Pro Online",
+   "first_seen": "2026-11-11T05:31:01Z",
+   "updated": "2026-11-11T05:31:01Z",
+   "items": [
+    {
+     "id": "fc4c6a21e809",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Ahead of the ‘Grand Theft Auto VI’ Release, Here’s Where to Buy the Sony PlayStation 5 Pro Online",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmRNMmN3WG93OVJJVG9yZjhPM1E4dEk5WkQ1bUF6LVpWUVJwRTB1aU5WZXl1bi1tWmQzVzJMcERYbUtOTGhJTGhfdVZXa3RaQW1Xc1dXbWcwYk83Z2tkbjM4MlJvTUpHMEp2LVNTQWoxTUgxbF85bzJvNUgwMmNnRm8yRGd4SDg?oc=5",
+     "ts": "2026-11-10T23:26:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "6f44685ec7fb",
+   "title": "Do you think Rockstar is still hiding something big about GTA 6?",
+   "first_seen": "2026-11-11T05:31:01Z",
+   "updated": "2026-11-11T05:31:01Z",
+   "items": [
+    {
+     "id": "6f44685ec7fb",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Do you think Rockstar is still hiding something big about GTA 6?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt9j71/do_you_think_rockstar_is_still_hiding_something/",
+     "ts": "2026-11-11T05:28:39Z",
+     "summary": "I've been wondering if Rockstar is purposely keeping something major about GTA 6 under wraps. We've seen quite a bit already, but I can't help thinking there's something about the game they haven't even hinted at yet. Especially when you think about the old Project Americas rumors, Liberty City speculation, the northern part of the map we still don't know much about, and even the references to Gloriana. I'm not saying any of those things confirm anything, but they do make me wonder if there's more to the game than Rockstar is letting on. Maybe additional locations, some unexpected gameplay fea"
+    }
+   ],
+   "tags": [
+    "анонс",
+    "геймплей"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -1843,34 +1975,6 @@
    "status": "new",
    "ai_fail": 1,
    "ai_error": "ValueError: выдуманные числа: 9"
-  },
-  {
-   "id": "5496ef324352",
-   "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation Store",
-   "first_seen": "2026-11-11T04:40:43Z",
-   "updated": "2026-11-11T04:40:43Z",
-   "items": [
-    {
-     "id": "5496ef324352",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Компьютерра",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation Store",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1Fva2dEZW9GVUxXbVRHUWM1TTZkdlh0a19OWWxIXzRXT0w5dTZ6RFhoSWdFX0c1OWFTWmVzVXVqMUhuYS1WeG9ZdHpFUTVveVVaaDg5MkV1dmdlR2IxcWVjVXphZVRvRXRCZ1duZDJaV2xHVEI1NXdHU1pZbDdxZ2RHN2VkcENoNjJVa1dBcVR0TkZZUS1fbWRQb1ByaUEtTDBCTzZB?oc=5",
-     "ts": "2026-11-11T04:39:37Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   },
   {
    "id": "7ef418e835ac",
@@ -93052,39 +93156,13 @@
     "at": "2026-11-04T05:50:52Z"
    },
    "msg_id": 491
-  },
-  {
-   "id": "cfbfe49ace47",
-   "title": "I hope it doesn't acting up on the release day!!!",
-   "first_seen": "2026-11-04T05:40:53Z",
-   "updated": "2026-11-04T05:40:53Z",
-   "items": [
-    {
-     "id": "cfbfe49ace47",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I hope it doesn't acting up on the release day!!!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xng59q/i_hope_it_doesnt_acting_up_on_the_release_day/",
-     "ts": "2026-11-04T05:34:50Z",
-     "summary": "submitted by /u/realwithareason to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-11T05:40:49Z",
+  "last_run": "2026-11-11T05:50:47Z",
   "last_log": [
-   "rockstar_site: 0/10",
+   "rockstar_site: 0/11",
    "gnews_en: 99/100",
    "gnews_ru: 95/100",
    "gamesbeat: 2/10",
