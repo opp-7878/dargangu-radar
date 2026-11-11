@@ -1,62 +1,10 @@
 {
  "stories": [
   {
-   "id": "6ccea088758b",
-   "title": "Backflip and UI Complaint",
-   "first_seen": "2026-11-11T06:31:01Z",
-   "updated": "2026-11-11T06:31:01Z",
-   "items": [
-    {
-     "id": "6ccea088758b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Backflip and UI Complaint",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xtae4d/backflip_and_ui_complaint/",
-     "ts": "2026-11-11T06:17:13Z",
-     "summary": "Well, now that they’ve perfected the Backflip to destroy the critics, there’s a pretty good chance they’ve also changed the UI, since it was criticized much more heavily. Let’s wait and see, and hope that the theory turns out to be true. submitted by /u/Powerful-Possible107 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d2f68c2426a7",
-   "title": "Microsoft разрешила играть в GTA 6 на устаревших приставках -",
-   "first_seen": "2026-11-11T06:31:01Z",
-   "updated": "2026-11-11T06:31:01Z",
-   "items": [
-    {
-     "id": "d2f68c2426a7",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "techtoday.in.ua",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Microsoft разрешила играть в GTA 6 на устаревших приставках -",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWNtNTZBYklRZ2sydzVWcUdyTHNibUJpTU1CYTYtcjVJUjVldmlZMV84WmdzZG5nMEdwZEJiNUJhb3N5SDBLVWJSOGVKc0JSajNxTTJiWDFRbkF0VVlqcWdvQ0Y3R2dFQ3pZWjAxbjd0U1ZjLWctYUhrNTgzVUdEQ3pCeFNFcngwbDBUUEtmMGhYRUVhdmVKRkVnSWdwZzQzdW1EU3NMdGN3c00?oc=5",
-     "ts": "2026-11-11T06:20:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "55c4b4f23066",
    "title": "Rockstar confirms GTA 6 targets 30 FPS, with PS5 Pro-exclusive ray-tracing",
    "first_seen": "2026-11-10T14:10:48Z",
-   "updated": "2026-11-11T06:20:47Z",
+   "updated": "2026-11-11T06:40:45Z",
    "items": [
     {
      "id": "55c4b4f23066",
@@ -1136,6 +1084,32 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDRPSXByUnBfd2lFeE1oYU1FQlBBNFJFakxYTWJBWVJUVldaMTVYSnlFN3k5cUJwVVpkenRDYmZ0SV9LYWhfa01tRkVWVW1HS200UDlEUDdwQWNhYzZkaXZoZHZvQkdQTENnbURxdWhpenlYLWZKdzRRN0JNdEE3WjNNbFVucFlGYkVGaUlsb3ZnTmZtaXd6aE90a3JLZG5KTEFfTzJZZw?oc=5",
      "ts": "2026-11-11T06:14:10Z",
      "summary": ""
+    },
+    {
+     "id": "963acff056ea",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 может получить поддержку FSR 4.1 на Xbox Series X|S, чтобы конкурировать с PSSR на PS5 Pro",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNGNpZnN1d241bi1QR3RXOW9yZnVSRHhsdnlzcXlhcDY5VGR0Rko5bU1rYkx3X1ltaG4xaTRMSDc0b01iQkVlWmluaVNyV2tuTDUwcTZMTU8zM0pLZUFaN2pXa25LOXBMMFJHMEZOdHhQLTU2TTRMdEtnOE0yRnZXV19Rbk5VNWItNjEtbFZ1cl9BTmtpZFZiYzR3QVJwamVScWRVNWdsQ3c1QW5wU2k0NWQySzBTdWd1ekpRWW1sNUhCSzVVejdzWU1NS1lvZHJZNC13YjIzbzFNMTRQOUE?oc=5",
+     "ts": "2026-11-11T05:29:00Z",
+     "summary": ""
+    },
+    {
+     "id": "fbc707b298c0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 появится на Xbox One благодаря облачному геймингу, но игроки на ПК останутся за бортом",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR1NEMjFCeHlEaVdaQ1lYaWRiZGp0QjFmLXZkT21NbnR0M0NmZGdPZ1BQbENWV0VXWVpicG9SUjUtSlRsYXpJck9jTl9iOVAzVDhNM2lxbkdfLXNYdEdDNkZMVzY0Q2Qxazg1MjBOMVFoOG9Pa1RaMFlOYXlpbjZfVjlLelNBUFIyLVZ0Unh2ZUhfVndLa21Fa3lmUnJfMERpMUtRZ2I1TDJFd1JrWF9vQ0J1bXpHakxwRWs4VENkRTJtWVhoaTZkeWtEbGp3X21KbXEzZU5kN0x1dlJE?oc=5",
+     "ts": "2026-11-11T06:20:55Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -1149,6 +1123,698 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "257f7550abb1",
+   "title": "40fps on pro still possible and here is why",
+   "first_seen": "2026-11-11T06:01:17Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "257f7550abb1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "40fps on pro still possible and here is why",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xt9y00/40fps_on_pro_still_possible_and_here_is_why/",
+     "ts": "2026-11-11T05:51:59Z",
+     "summary": "I’m probably going to get downvoted into oblivion for this, but I genuinely think people are writing off a 40fps mode on PS5 Pro way too quickly. Yes, Rockstar has confirmed a 30fps target. We all saw it. But there’s something about that recently discovered 120Hz flag in the PlayStation metadata that just doesn’t add up to me. Why bother enabling 120Hz output for a game that’s supposedly locked to 30fps. A 60Hz output already handles 30fps perfectly. Two refreshes per frame. Done. Going to 120Hz means displaying that same frame four times instead. Sure, there can be latency benefits, and yes, "
+    },
+    {
+     "id": "5ea788df20a7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "40fps on Pro still possible and here is why.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt9wfk/40fps_on_pro_still_possible_and_here_is_why/",
+     "ts": "2026-11-11T05:49:28Z",
+     "summary": "I’m probably going to get downvoted into oblivion for this, but I genuinely think people are writing off a 40fps mode on PS5 Pro way too quickly. Yes, Rockstar has confirmed a 30fps target. We all saw it. But there’s something about that recently discovered 120Hz flag in the PlayStation metadata that just doesn’t add up to me. Why bother enabling 120Hz output for a game that’s supposedly locked to 30fps? A 60Hz output already handles 30fps perfectly. Two refreshes per frame. Done. Going to 120Hz means displaying that same frame four times instead. Sure, there can be latency benefits, and yes, "
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6f44685ec7fb",
+   "title": "Do you think Rockstar is still hiding something big about GTA 6?",
+   "first_seen": "2026-11-11T05:31:01Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "6f44685ec7fb",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Do you think Rockstar is still hiding something big about GTA 6?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt9j71/do_you_think_rockstar_is_still_hiding_something/",
+     "ts": "2026-11-11T05:28:39Z",
+     "summary": "I've been wondering if Rockstar is purposely keeping something major about GTA 6 under wraps. We've seen quite a bit already, but I can't help thinking there's something about the game they haven't even hinted at yet. Especially when you think about the old Project Americas rumors, Liberty City speculation, the northern part of the map we still don't know much about, and even the references to Gloriana. I'm not saying any of those things confirm anything, but they do make me wonder if there's more to the game than Rockstar is letting on. Maybe additional locations, some unexpected gameplay fea"
+    },
+    {
+     "id": "b3ec4b9d9d05",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I Have a Feeling Rockstar Is Hiding Something BIG on the GTA 6 Map",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xta9yi/i_have_a_feeling_rockstar_is_hiding_something_big/",
+     "ts": "2026-11-11T06:10:31Z",
+     "summary": "Look closely at the new artwork That structure in the distance almost looks like a parody of Disneyland or Universal Studios Could it be another location we’ve never seen before What about Key West more islands hidden towns or even Liberty City I know Liberty City sounds crazy but why rule out the possibility of another surprise Something that support this theory is that even though a map has already been leaked Rockstar still seems to be protecting the official map reveal with the printable version reportedly coming only after launch Why go to such lengths if there’s nothing left to surprise "
+    }
+   ],
+   "tags": [
+    "анонс",
+    "геймплей",
+    "слив"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "97503a715d57",
+   "title": "'Grand Theft Auto VI' Pre-Load Is Available Now, Xfinity Launches Free 2 Gig Wifi Speed Boost To Get It Faster",
+   "first_seen": "2026-11-10T20:10:47Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "97503a715d57",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Worthplaying",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' Pre-Load Is Available Now, Xfinity Launches Free 2 Gig Wifi Speed Boost To Get It Faster",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ0RyUE1za0lJczZSNmNwX25vOUdicXNfSVAwTkptMjFPRjNveUN5MTl1MmxNQ0VocUVkTkdsSTMyd3huc3ZPU1hWUVRESjVUcU9lZ3Q2d2o0U0Zzc0o5ZGFzRHlxMERES282ZG5Cdi1aTFlFLUdMMmRhWnIxb2V6SHd4NmtnZG02OVBqcGl2ZFlfVmVIcWVSZEMxNWNYX2ozWnFZM0l5VDlYalMwN01QeWQtZVlXVk1NQmFBb3djdzZsMkE2TTlfMkZHanFrTjdKMVRMdUp0R3dVSV9vQjIzbEI4cDhrZTF4MTNDcTYxaWpMbzdLcFNr?oc=5",
+     "ts": "2026-11-10T19:58:00Z",
+     "summary": ""
+    },
+    {
+     "id": "2cad27677da3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Worthplaying",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' Pre-Load Is Available Now, Xfinity Launches Free 2 Gig Wifi Speed Boost To Get It Faster - Trailer",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQLTJKM1J1Z1hHUzVDdWFZRlpjN3dFV0xHZl9SSXA0d05yUXctSzF3ZU1rZnJiNWxvNEdJSjNGcDRZN3ExbXRhemhmQU4yNWhFWFdld04xV0d6b3dKWE1MU0FfTldmVzA3VFh3eWZyYXBHMVRCVmJDZkpTaHhGaFJHZDg1S2MycnZqcGN1RW1wcHZOaUtPYzdSU3E4d1lFSFRhU25wTVFmbzdXWmNKVVoyRGc3bFN5aTM5TE53ZWFGQm1reks1cHhaZzIxd3ZXRi1RQUdXSWdaUlJ5SnRNRnpzSEdGVGxtOE44N3kzRjJ1OFVvc0t6ZTFPY21jWWd1LThQdnc?oc=5",
+     "ts": "2026-11-10T19:58:00Z",
+     "summary": ""
+    },
+    {
+     "id": "c643fba42780",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Don't bother scanning the QR code in the Pre-Load trailer",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt31qd/dont_bother_scanning_the_qr_code_in_the_preload/",
+     "ts": "2026-11-11T00:08:09Z",
+     "summary": "https://preview.redd.it/83xpsse2kv0i1.png?width=853&format=png&auto=webp&s=4ca95fec6964e20ca092e4d18e6431850340d97d Didn't saw anyone talking about it, so I went and scanned the QR code shown in those boxes. They direct you to the Rockstar page. Thought I was being a smartass only to get clowned lmao I bet they're going to be different in-game submitted by /u/Old-FashionedMan to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "44e70c36bf68",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: New pre-load trailer appears to take a swipe at critical fans",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazRLUTYta1hkRXgyS2dxek1HVktCSkRaSnlGU1dpSzh1cGllbWF5RmlnZ1ozY3E1YXhmSDNodWc1VXVTd2pWbGlQcmZabDZhU0xCQ1c2OFdRRU9Oa2lMRUJCbl8xLXJvblo0a1pBWERJS0ZBTC1JTVU2UWlqRnpGOERCdUw5T2EtdHpiWG1fdWVsQ0Q2OXJxM2pmOUM3YjJwQS13cEZKeWxsbDVTWU9tMnBn?oc=5",
+     "ts": "2026-11-11T06:32:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Предзагрузка GTA 6 уже доступна — лови трейлер",
+    "summary": "По данным Worthplaying, предзагрузка GTA 6 уже доступна. Xfinity запустила бесплатный буст Wi‑Fi до 2 Гбит/с, чтобы ускорить загрузку. В том же материале опубликован трейлер.",
+    "idea": "Короткий разбор: что уже можно скачать и как Xfinity помогает ускорить загрузку. Плюс быстрый показ свежего трейлера — зрителю важно понять, где смотреть и как успеть.",
+    "hook": "Предзагрузка GTA 6 уже доступна — и есть трейлер. Смотри, как ускорить загрузку.",
+    "stars": 5,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-10T20:40:52Z"
+   },
+   "msg_id": 765
+  },
+  {
+   "id": "61c3c11351d7",
+   "title": "Logitech’s Game Day gives employees a day off just in time for GTA VI",
+   "first_seen": "2026-11-10T15:10:52Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "61c3c11351d7",
+     "src": "gamesbeat",
+     "src_name": "GamesBeat",
+     "outlet": "",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "Logitech’s Game Day gives employees a day off just in time for GTA VI",
+     "url": "https://gamesbeat.com/logitechs-game-day-gives-employees-a-day-off-just-in-time-for-gta-vi/",
+     "ts": "2026-11-10T15:00:00Z",
+     "summary": "Logitech announced Logi Game Day, a day that employees will be able to use to take a day off, just in time for GTA... The post Logitech’s Game Day gives employees a day off just in time for GTA VI appeared first on GamesBeat ."
+    },
+    {
+     "id": "de2b874282e2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesBeat",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "Logitech’s Game Day gives employees a day off just in time for GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWRKNExjZEdYSGwwU3ozR05mZWpjTlNmMzZZMkoxV2tfQmpkVU5HRUpZRmtuMzdNQmo0azExUjZadWNJZnN2UC1jTWI4MjdpYjhvejFXZ2o0NDVyTXpGVElSTDVoVVVLVmpzNmx6NW9PMzJmN09EaTExbnNjdmZGZk0wQjZoV2o1Vy1ieXlsQk1ZaDY2dkE?oc=5",
+     "ts": "2026-11-10T15:01:26Z",
+     "summary": ""
+    },
+    {
+     "id": "a35ed3aaa54d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "G Style Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech Game Day: Employees Get Time Off for GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZM2I1clJkcEd0bnVfNkFSTE53WUIzZ3dDM2VhWi1oeGJqQWZibUEtQkNFYm9VTWZNOTZ6RnRFbUc0ZnBVaVM4bG9GOHdmRjBac2JheGlRSURxUXNLTWJsbTlOZmFVVjd3OWc?oc=5",
+     "ts": "2026-11-10T14:50:18Z",
+     "summary": ""
+    },
+    {
+     "id": "0579e7cbd8ea",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mezha.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech gives employees a day off to play games ahead of GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTTgwNFBDVWR3Z2t6ZV93cUtaeENFdGs1UlZ0MFVlLTlMLWFWZk82QWMybVZOZ25EYzdWR1prZnRteUZsT3FtSXFhSUsxeUd2ZVVrajIxbmU2WHBWbTFrajFvTzV6RTRZS3J0T3pPREFDeEp2OFdQaTdtUHFFRTJFcFVJeTdlT1hoS0VB?oc=5",
+     "ts": "2026-11-11T06:33:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Logitech дала выходной под GTA 6 — что это значит?",
+    "summary": "Logitech объявила Logi Game Day — день отдыха для сотрудников, который совпадает с запуском GTA 6. Об этом сообщает GamesBeat. Компания не уточнила дату, но жест выглядит как намёк на релиз.",
+    "idea": "Угол: «Корпоративный выходной как неофициальный таймер релиза GTA 6». Показываем новость, реакцию и вопрос зрителям — отгул 19 ноября или просто PR?",
+    "hook": "Logitech дала сотрудникам выходной аккурат к релизу GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-10T15:10:57Z"
+   },
+   "msg_id": 741
+  },
+  {
+   "id": "a33d45f8b189",
+   "title": "LIVE SIX — новости GTA 6",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "a33d45f8b189",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ВКонтакте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "LIVE SIX — новости GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1BOWxtaF9RRkpHLU1udzBLRDE5d1hKZjJUX05BLUhiakItbnZvYk83bjcwVTRqUQ?oc=5",
+     "ts": "2026-11-10T19:34:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f24e2657f715",
+   "title": "Xbox series s gta 6 question",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "f24e2657f715",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Xbox series s gta 6 question",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xt5r45/xbox_series_s_gta_6_question/",
+     "ts": "2026-11-11T02:14:31Z",
+     "summary": "I was going to run gta 6 on my series s but have been looking to get an X for the game as I’ve heated the S isn’t going to be able to render as many npcs etc and have worse resolution. But with the amd fsr update coming is it worth the switch? submitted by /u/OrganizationNo5800 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3b3f47e93cc6",
+   "title": "Just a heads up, Walmart just sent me a text saying they are about to ship out my code in box and to verify my information",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "3b3f47e93cc6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Just a heads up, Walmart just sent me a text saying they are about to ship out my code in box and to verify my information",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt8a4k/just_a_heads_up_walmart_just_sent_me_a_text/",
+     "ts": "2026-11-11T04:20:45Z",
+     "summary": "Looks like Walmart is about to send out the preorders now. They just sent me a text to make sure my address was up to date. Good luck on getting one of their care packages! submitted by /u/boopitydoopitypoop to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e97d381138c4",
+   "title": "Call me crazy but…",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "e97d381138c4",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Call me crazy but…",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt8iu3/call_me_crazy_but/",
+     "ts": "2026-11-11T04:33:41Z",
+     "summary": "Isn’t the building in the background from this screenshot from the pre-load trailer the Vercetti Estate? It could be a very far reach but I’d love to see it return to modern day Vice City. Who knows maybe if it is the Vercetti Estate we could own it by the end of the game since we won’t be able to purchase residential safehouses. submitted by /u/altunsi to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "29c2dfb9827f",
+   "title": "Saw this in Chicago",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "29c2dfb9827f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Saw this in Chicago",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt8l19/saw_this_in_chicago/",
+     "ts": "2026-11-11T04:37:07Z",
+     "summary": "Looks pretty cool seeing this! submitted by /u/ariiehernandez to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "158276fe2c57",
+   "title": "Theory: connection between GTAVI, GTAO and GTAVI Online",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "158276fe2c57",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Theory: connection between GTAVI, GTAO and GTAVI Online",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt9ei4/theory_connection_between_gtavi_gtao_and_gtavi/",
+     "ts": "2026-11-11T05:21:20Z",
+     "summary": "Disclaimer this theory does NOT include any spoilers as it´s not out yet or real foundations, just some thoughts I had in the shower. So... we all know something is happening to Mr Faber if R* wants to give GTAO a closure. But, what if Mr Faber story is just a little of world building for GTAVI and GTAVI online to show how powerful this man is? I was thinking that maybe Jason and Lucia start growing as criminals really fast and that calls the attention of Mr. Faber during the story. Perhaps he has Vice City under certain control over insecurity but Jason and Lucia starts getting into his busin"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7b9fce070f72",
+   "title": "It’s so surreal now, I want to cry and laugh at once",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "7b9fce070f72",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "It’s so surreal now, I want to cry and laugh at once",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt9ng2/its_so_surreal_now_i_want_to_cry_and_laugh_at_once/",
+     "ts": "2026-11-11T05:35:20Z",
+     "summary": "The last ride ❤️ it served us well. I will be participating in this and listening to see you again by wiz Khalifa and Charlie Puth. Then I’ll wake up on the 19th and be happy again lol submitted by /u/gilligan888 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a8e2ac9f489b",
+   "title": "GTA6 is a downgrade and huge let down after RDR2",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "a8e2ac9f489b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA6 is a downgrade and huge let down after RDR2",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt9rc5/gta6_is_a_downgrade_and_huge_let_down_after_rdr2/",
+     "ts": "2026-11-11T05:41:19Z",
+     "summary": "I remember the big part of huge anticipation was the attention to details in previous Rockstar games especially RDR2, how ahead of time it was compared to other games. People would compare like a 2025 game to RDR2 and the attention to detail still was unmatchable. Details like perfect skinning animations to individual object rendering, like npcs eating food realistically even working. Details like cities having low star visibility compared to wilderness at night blew my mind along with various other details. The big part of anticipation of GTA6 was people used to look at that and wondered how "
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "54ad81d1df14",
+   "title": "What if online takes place in the 80s?",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "54ad81d1df14",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What if online takes place in the 80s?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xtac6q/what_if_online_takes_place_in_the_80s/",
+     "ts": "2026-11-11T06:14:09Z",
+     "summary": "I think it would be a good way to keep single player and online separated. GTA V online started in the same time as story mode but that gap soon widened. Wouldn’t it be interesting to have them separated from the start and keep online balanced by having vehicles and weapons from the time period. In my head before anything was known about this game, GTA VI would be told by two characters in two time periods. Maybe by stashing a car in a garage with one player in the past, you could retrieve it in the present and sell it for more. The character in the present would help the past character by sol"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4bdccd5e6136",
+   "title": "GTA 6 Prologue in Snowy Liberty City",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "4bdccd5e6136",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 Prologue in Snowy Liberty City",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xtacs2/gta_6_prologue_in_snowy_liberty_city/",
+     "ts": "2026-11-11T06:15:09Z",
+     "summary": "GTA V and RDR2 both had their prologues set in snowy locations. What are the chances that GTA 6 starts in a similar snowy setting, possibly in Liberty City, exploring Lucia’s past, her relationship with her mother, and the events that eventually led her to Leonida? -Image for reference only- submitted by /u/boogieman5472 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cf87a4c3a3f6",
+   "title": "Отзывы о GTA 6 для PS5 уже появились в PlayStation Store — ещё до снятия эмбарго и релиза",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "cf87a4c3a3f6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Отзывы о GTA 6 для PS5 уже появились в PlayStation Store — ещё до снятия эмбарго и релиза",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaFYxV3NMZFFxcDJmbmhnc2NmVG85WHRfbDFsSlVyZ3daSkZRQ1lBaXlXVzdVU1B6Sk14QlpZWUl4Z1FHV0hPR05USGJPY0paR3N5dmRqTUE1dlJ4YnZvengwRWgzOTIzTHZ2WHE5VGdRSW9fNkZWT1ZsaFVhVlNLWXc3TjVCWTJzYlF5ek9NODFiZEV2UG1pRjhTMnRPZ1BUX0lRSjdTbTRDcGpYODZjV1lEZ1RRTkxpYkxNcXJ5N0E1UGNhRGtrRDMyZWRfN3BaLU8xdGlOSjc4d2d3?oc=5",
+     "ts": "2026-11-11T06:20:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "329afc73823d",
+   "title": "Rockstar раскрыла целевые показатели производительности GTA 6 на консолях и улучшения для PS5 Pro",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "329afc73823d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar раскрыла целевые показатели производительности GTA 6 на консолях и улучшения для PS5 Pro",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE84X3g4ZktiTnRkTDRnOGVlNzNzTV85aEhsaGpNZFViOTBqaGdrbE5sTmNzZXlOek8xYk5PWHpDZW9jSi1kdURyUE9HdS1KelJHbzVZNF9MazlXRUpOSDE3TEZsdG5YaUk5OFo4NFFZZ2VJcmotcHNKRzdhUEJ1TVBlay1leExTd1k4SXJCMVVmRzk2Z1k0Um9KcXVCakxMR1hRLWZvbHcyNGNnUlBqaU5OdzJiTXB4eW9PYU5oTE1BQnNUODlkNHVJaGlONllGZU0wemh1Z0YycE9TSHlhR1V3MjE?oc=5",
+     "ts": "2026-11-11T06:20:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "948178c94a2e",
+   "title": "Is there a reason why we never had anything GTA 4 related? And we know the Liberty City leaks about GTA5, are they going to shock us?",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "948178c94a2e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Is there a reason why we never had anything GTA 4 related? And we know the Liberty City leaks about GTA5, are they going to shock us?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xtaoag/is_there_a_reason_why_we_never_had_anything_gta_4/",
+     "ts": "2026-11-11T06:33:59Z",
+     "summary": "submitted by /u/Rsodyyy to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2990174a589a",
+   "title": "Джейлбрейк для PS5 на прошивке 14.22 не выйдет — бесплатная GTA 6 отменяется",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "2990174a589a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Джейлбрейк для PS5 на прошивке 14.22 не выйдет — бесплатная GTA 6 отменяется",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZUFfMTZtVFlJdHo5a2pyMTYtYzR2bVRENGpRR3FoU294ZEEwVE9QR0hObnU4RjJLV0VZbHB5T1U5TzQ4czBlWEtYZ2Z3Wm85LUNfcndUdlZDS2UtNVJMSWkwTl9CNXdiWm1IQTVudUdReWRBRGREa0NSaXhjbFkwZDVQTG9ONFBXTGF5NmRJZWN6VlhYbTF3T2lmeDlOZFo2Zmt0amViaWjSAa4BQVVfeXFMTm5DaXFMVnVHeHhZNTVnS2tFWjN6T0RqT0JSWUc0dTF6eHg1a0xqMXJpNVVIMS1uMEQ5LS1lUXFMNml2bUxvS0NyaXBaREU2bnk3Y2J1azVraXU5cUZtUFY2Yzk5V1BzUzI2X3lsWmVxdGhzY3NBREtaT2dXazBucTF4NDNObU42TkZQZDBxOFhXc3BxbXlnVTlrSkg4NlNKdHFnV0dKZXl2cFIwbF9R?oc=5",
+     "ts": "2026-11-11T06:35:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2948d10ec98d",
+   "title": "All the hype around GTA VI",
+   "first_seen": "2026-11-11T06:40:45Z",
+   "updated": "2026-11-11T06:40:45Z",
+   "items": [
+    {
+     "id": "2948d10ec98d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "All the hype around GTA VI",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xtarul/all_the_hype_around_gta_vi/",
+     "ts": "2026-11-11T06:40:15Z",
+     "summary": "Dont get me wrong I'm hyped for GTA VI as much as the next guy but some of the reels I've seen on FB IG and YT Shorts makes it look like your saying goodbye to GTA V forever. Its not like you cant play V ever again after VI comes out theirs people to this day that still play the older GTA games for the simple fact that its their favorite entry in the series such as San Andreas Vice City and even IV I can only imagine what it will be like when VII comes out submitted by /u/JosephPlantic to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6ccea088758b",
+   "title": "Backflip and UI Complaint",
+   "first_seen": "2026-11-11T06:31:01Z",
+   "updated": "2026-11-11T06:31:01Z",
+   "items": [
+    {
+     "id": "6ccea088758b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Backflip and UI Complaint",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xtae4d/backflip_and_ui_complaint/",
+     "ts": "2026-11-11T06:17:13Z",
+     "summary": "Well, now that they’ve perfected the Backflip to destroy the critics, there’s a pretty good chance they’ve also changed the UI, since it was criticized much more heavily. Let’s wait and see, and hope that the theory turns out to be true. submitted by /u/Powerful-Possible107 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d2f68c2426a7",
+   "title": "Microsoft разрешила играть в GTA 6 на устаревших приставках -",
+   "first_seen": "2026-11-11T06:31:01Z",
+   "updated": "2026-11-11T06:31:01Z",
+   "items": [
+    {
+     "id": "d2f68c2426a7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "techtoday.in.ua",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Microsoft разрешила играть в GTA 6 на устаревших приставках -",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWNtNTZBYklRZ2sydzVWcUdyTHNibUJpTU1CYTYtcjVJUjVldmlZMV84WmdzZG5nMEdwZEJiNUJhb3N5SDBLVWJSOGVKc0JSajNxTTJiWDFRbkF0VVlqcWdvQ0Y3R2dFQ3pZWjAxbjd0U1ZjLWctYUhrNTgzVUdEQ3pCeFNFcngwbDBUUEtmMGhYRUVhdmVKRkVnSWdwZzQzdW1EU3NMdGN3c00?oc=5",
+     "ts": "2026-11-11T06:20:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -1301,34 +1967,6 @@
     "at": "2026-11-11T06:01:25Z"
    },
    "msg_id": 770
-  },
-  {
-   "id": "257f7550abb1",
-   "title": "40fps on pro still possible and here is why",
-   "first_seen": "2026-11-11T06:01:17Z",
-   "updated": "2026-11-11T06:01:17Z",
-   "items": [
-    {
-     "id": "257f7550abb1",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "40fps on pro still possible and here is why",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xt9y00/40fps_on_pro_still_possible_and_here_is_why/",
-     "ts": "2026-11-11T05:51:59Z",
-     "summary": "I’m probably going to get downvoted into oblivion for this, but I genuinely think people are writing off a 40fps mode on PS5 Pro way too quickly. Yes, Rockstar has confirmed a 30fps target. We all saw it. But there’s something about that recently discovered 120Hz flag in the PlayStation metadata that just doesn’t add up to me. Why bother enabling 120Hz output for a game that’s supposedly locked to 30fps. A 60Hz output already handles 30fps perfectly. Two refreshes per frame. Done. Going to 120Hz means displaying that same frame four times instead. Sure, there can be latency benefits, and yes, "
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "015fc311443c",
@@ -1607,35 +2245,6 @@
    "score": 65,
    "level": "PROBABLE",
    "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "6f44685ec7fb",
-   "title": "Do you think Rockstar is still hiding something big about GTA 6?",
-   "first_seen": "2026-11-11T05:31:01Z",
-   "updated": "2026-11-11T05:31:01Z",
-   "items": [
-    {
-     "id": "6f44685ec7fb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Do you think Rockstar is still hiding something big about GTA 6?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xt9j71/do_you_think_rockstar_is_still_hiding_something/",
-     "ts": "2026-11-11T05:28:39Z",
-     "summary": "I've been wondering if Rockstar is purposely keeping something major about GTA 6 under wraps. We've seen quite a bit already, but I can't help thinking there's something about the game they haven't even hinted at yet. Especially when you think about the old Project Americas rumors, Liberty City speculation, the northern part of the map we still don't know much about, and even the references to Gloriana. I'm not saying any of those things confirm anything, but they do make me wonder if there's more to the game than Rockstar is letting on. Maybe additional locations, some unexpected gameplay fea"
-    }
-   ],
-   "tags": [
-    "анонс",
-    "геймплей"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -4507,71 +5116,6 @@
     "at": "2026-11-10T23:10:51Z"
    },
    "msg_id": 767
-  },
-  {
-   "id": "97503a715d57",
-   "title": "'Grand Theft Auto VI' Pre-Load Is Available Now, Xfinity Launches Free 2 Gig Wifi Speed Boost To Get It Faster",
-   "first_seen": "2026-11-10T20:10:47Z",
-   "updated": "2026-11-11T00:31:01Z",
-   "items": [
-    {
-     "id": "97503a715d57",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Worthplaying",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' Pre-Load Is Available Now, Xfinity Launches Free 2 Gig Wifi Speed Boost To Get It Faster",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ0RyUE1za0lJczZSNmNwX25vOUdicXNfSVAwTkptMjFPRjNveUN5MTl1MmxNQ0VocUVkTkdsSTMyd3huc3ZPU1hWUVRESjVUcU9lZ3Q2d2o0U0Zzc0o5ZGFzRHlxMERES282ZG5Cdi1aTFlFLUdMMmRhWnIxb2V6SHd4NmtnZG02OVBqcGl2ZFlfVmVIcWVSZEMxNWNYX2ozWnFZM0l5VDlYalMwN01QeWQtZVlXVk1NQmFBb3djdzZsMkE2TTlfMkZHanFrTjdKMVRMdUp0R3dVSV9vQjIzbEI4cDhrZTF4MTNDcTYxaWpMbzdLcFNr?oc=5",
-     "ts": "2026-11-10T19:58:00Z",
-     "summary": ""
-    },
-    {
-     "id": "2cad27677da3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Worthplaying",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' Pre-Load Is Available Now, Xfinity Launches Free 2 Gig Wifi Speed Boost To Get It Faster - Trailer",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQLTJKM1J1Z1hHUzVDdWFZRlpjN3dFV0xHZl9SSXA0d05yUXctSzF3ZU1rZnJiNWxvNEdJSjNGcDRZN3ExbXRhemhmQU4yNWhFWFdld04xV0d6b3dKWE1MU0FfTldmVzA3VFh3eWZyYXBHMVRCVmJDZkpTaHhGaFJHZDg1S2MycnZqcGN1RW1wcHZOaUtPYzdSU3E4d1lFSFRhU25wTVFmbzdXWmNKVVoyRGc3bFN5aTM5TE53ZWFGQm1reks1cHhaZzIxd3ZXRi1RQUdXSWdaUlJ5SnRNRnpzSEdGVGxtOE44N3kzRjJ1OFVvc0t6ZTFPY21jWWd1LThQdnc?oc=5",
-     "ts": "2026-11-10T19:58:00Z",
-     "summary": ""
-    },
-    {
-     "id": "c643fba42780",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Don't bother scanning the QR code in the Pre-Load trailer",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xt31qd/dont_bother_scanning_the_qr_code_in_the_preload/",
-     "ts": "2026-11-11T00:08:09Z",
-     "summary": "https://preview.redd.it/83xpsse2kv0i1.png?width=853&format=png&auto=webp&s=4ca95fec6964e20ca092e4d18e6431850340d97d Didn't saw anyone talking about it, so I went and scanned the QR code shown in those boxes. They direct you to the Rockstar page. Thought I was being a smartass only to get clowned lmao I bet they're going to be different in-game submitted by /u/Old-FashionedMan to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Предзагрузка GTA 6 уже доступна — лови трейлер",
-    "summary": "По данным Worthplaying, предзагрузка GTA 6 уже доступна. Xfinity запустила бесплатный буст Wi‑Fi до 2 Гбит/с, чтобы ускорить загрузку. В том же материале опубликован трейлер.",
-    "idea": "Короткий разбор: что уже можно скачать и как Xfinity помогает ускорить загрузку. Плюс быстрый показ свежего трейлера — зрителю важно понять, где смотреть и как успеть.",
-    "hook": "Предзагрузка GTA 6 уже доступна — и есть трейлер. Смотри, как ускорить загрузку.",
-    "stars": 5,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-10T20:40:52Z"
-   },
-   "msg_id": 765
   },
   {
    "id": "f2f648ed22de",
@@ -14202,71 +14746,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "61c3c11351d7",
-   "title": "Logitech’s Game Day gives employees a day off just in time for GTA VI",
-   "first_seen": "2026-11-10T15:10:52Z",
-   "updated": "2026-11-10T16:01:27Z",
-   "items": [
-    {
-     "id": "61c3c11351d7",
-     "src": "gamesbeat",
-     "src_name": "GamesBeat",
-     "outlet": "",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "Logitech’s Game Day gives employees a day off just in time for GTA VI",
-     "url": "https://gamesbeat.com/logitechs-game-day-gives-employees-a-day-off-just-in-time-for-gta-vi/",
-     "ts": "2026-11-10T15:00:00Z",
-     "summary": "Logitech announced Logi Game Day, a day that employees will be able to use to take a day off, just in time for GTA... The post Logitech’s Game Day gives employees a day off just in time for GTA VI appeared first on GamesBeat ."
-    },
-    {
-     "id": "de2b874282e2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesBeat",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "Logitech’s Game Day gives employees a day off just in time for GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWRKNExjZEdYSGwwU3ozR05mZWpjTlNmMzZZMkoxV2tfQmpkVU5HRUpZRmtuMzdNQmo0azExUjZadWNJZnN2UC1jTWI4MjdpYjhvejFXZ2o0NDVyTXpGVElSTDVoVVVLVmpzNmx6NW9PMzJmN09EaTExbnNjdmZGZk0wQjZoV2o1Vy1ieXlsQk1ZaDY2dkE?oc=5",
-     "ts": "2026-11-10T15:01:26Z",
-     "summary": ""
-    },
-    {
-     "id": "a35ed3aaa54d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "G Style Magazine",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Logitech Game Day: Employees Get Time Off for GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZM2I1clJkcEd0bnVfNkFSTE53WUIzZ3dDM2VhWi1oeGJqQWZibUEtQkNFYm9VTWZNOTZ6RnRFbUc0ZnBVaVM4bG9GOHdmRjBac2JheGlRSURxUXNLTWJsbTlOZmFVVjd3OWc?oc=5",
-     "ts": "2026-11-10T14:50:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Logitech дала выходной под GTA 6 — что это значит?",
-    "summary": "Logitech объявила Logi Game Day — день отдыха для сотрудников, который совпадает с запуском GTA 6. Об этом сообщает GamesBeat. Компания не уточнила дату, но жест выглядит как намёк на релиз.",
-    "idea": "Угол: «Корпоративный выходной как неофициальный таймер релиза GTA 6». Показываем новость, реакцию и вопрос зрителям — отгул 19 ноября или просто PR?",
-    "hook": "Logitech дала сотрудникам выходной аккурат к релизу GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-10T15:10:57Z"
-   },
-   "msg_id": 741
   },
   {
    "id": "6e934cda17d1",
@@ -93154,40 +93633,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "db32eff68456",
-   "title": "What kind of underwear are you going to be wearing for GTA VI? Boxers? Boxer Briefs?",
-   "first_seen": "2026-11-04T06:31:05Z",
-   "updated": "2026-11-04T06:31:05Z",
-   "items": [
-    {
-     "id": "db32eff68456",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What kind of underwear are you going to be wearing for GTA VI? Boxers? Boxer Briefs?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xnh3l4/what_kind_of_underwear_are_you_going_to_be/",
-     "ts": "2026-11-04T06:29:34Z",
-     "summary": "submitted by /u/aidenkula to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-11T06:31:01Z",
+  "last_run": "2026-11-11T06:40:45Z",
   "last_log": [
    "rockstar_site: 0/9",
-   "gnews_en: 99/100",
+   "gnews_en: 98/100",
    "gnews_ru: 96/100",
    "gamesbeat: 2/10",
    "vgc: 2/10",
