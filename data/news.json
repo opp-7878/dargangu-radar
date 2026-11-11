@@ -1,494 +1,10 @@
 {
  "stories": [
   {
-   "id": "2914b534c3fa",
-   "title": "Taking Off Work or Skipping School to Play GTA 6? So Are 12.5 Million Other People",
-   "first_seen": "2026-11-11T13:10:50Z",
-   "updated": "2026-11-11T13:31:04Z",
-   "items": [
-    {
-     "id": "2914b534c3fa",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PCMag UK",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Taking Off Work or Skipping School to Play GTA 6? So Are 12.5 Million Other People",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2dadkxVVWtROFBDNXVFOXJ4U3FjRDNaU2RBQksxdzJma0I3alVULWM2WnhTM3RMR19WeVc0ek9JZ0ZHOWVOQ1QzdnNGcjRIUXE4anZBUWZZajI1VzZRVllFTlJrRTVqV1ZhNFZsa1JUWllDLU5yWktNWnRkVEpXWm5manhzcGl3ZHdBQXppUnFGa0NkZmdfZUJrN01CeDlkX3piQlJsSDFLN2YtaV9Oa3JkTUs?oc=5",
-     "ts": "2026-11-11T13:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "91c70cbd9eff",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PCMag Australia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Taking Off Work or Skipping School to Play GTA 6? So Are 12.5 Million Other People",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeXEtNWx5OENjVTMtSHFlQkl4ejl5TXA5OHRBMEt5TkRReFEydExwdW4tOWs0QWhiMGMtSzI3QWtZb0dXenYyZ2FPa3BUQlRSM1RENWpVSlRDZmV5eWRIVkp2S1RyQnZJRXlWQ2s0OWRlZGQtX0NtbzVmbGE0RFF4R2N6R0VFT21JeVprZERvUVQ4ODhRaVRsYVJwcFo2T2dqaEE4cVdFZjNOQjFIbXh6Zi1zazE?oc=5",
-     "ts": "2026-11-11T13:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "12,5 млн пропустят работу и учёбу ради GTA 6",
-    "summary": "По данным PCMag UK и PCMag Australia, 12,5 млн человек планируют взять отгул или пропустить учёбу ради GTA 6. Опрос приурочен к релизу 19 ноября 2026.",
-    "idea": "Короткий опрос: «Ты тоже берёшь отгул 19 ноября?» Быстрые нарезки реакции и счётчик 12,5 млн — зрителю хочется сравнить себя с остальными.",
-    "hook": "12,5 миллионов пропустят работу и учёбу ради GTA 6.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-11T13:31:11Z"
-   },
-   "msg_id": 780
-  },
-  {
-   "id": "e6b53cdf7a87",
-   "title": "GTA 6, хронология 13 лет ожидания от GTA V до 19 ноября",
-   "first_seen": "2026-11-10T17:20:56Z",
-   "updated": "2026-11-11T13:31:04Z",
-   "items": [
-    {
-     "id": "e6b53cdf7a87",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Pasquale Pillitteri",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6, хронология 13 лет ожидания от GTA V до 19 ноября",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS083WldyR1NyLXdrRTBVQVJ5bVM0eF9BdTF5UUh2ZlJOeU04eU9nbmhPVWdaN2ppT1pIdEQzeF90RlV3TlpVa1NMYUtSZjBWbk5DRWxKRWIwY1lycDVtSWRZQzVtTVFGWWxPaEJ0UlZEMGVYWWRLeWE0VG1sZUFkZFZWcGNRVDVESmd2SDVR?oc=5",
-     "ts": "2026-11-10T17:11:59Z",
-     "summary": ""
-    },
-    {
-     "id": "107c5cb1db32",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "kursdela.biz",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "13 лет ожидания и 9,7 млн предзаказов: что нужно знать о GTA 6 до 19 ноября",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY0dxR0hjdVA2eVhfOWRxZ3YwRzZxQkdDTDJaTlRBY1NJbHNQM2NGcXMxSm1zcDNwQzFXQk44WGZNeUczc1dMUWU3V3RodC1vck1rT2NvSjBTOHNSeUV1YS1tWmNGbkQ0Z3FrTlRHbVRfMF9QbzA1MUtuTnR6Z3FWakJfN2gwcXozai1kX1Bmdk0xMTBLaVE0ZHNJejIyNEZ3XzY0NzRQSWI1QlFMeVBXQVM0cHVXUjZTQmJCejBtcGtqQQ?oc=5",
-     "ts": "2026-11-11T13:22:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 63,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "5526d3f9a3c4",
-   "title": "Walmart’s ‘GTA 6’ preorder bonus leaked: How to score the free \"surprise and delight bag\"",
-   "first_seen": "2026-11-11T13:31:04Z",
-   "updated": "2026-11-11T13:31:04Z",
-   "items": [
-    {
-     "id": "5526d3f9a3c4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Walmart’s ‘GTA 6’ preorder bonus leaked: How to score the free \"surprise and delight bag\"",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tVGFRbmpGem0yNVZ0bkswY0pCREVubG4xUDVyOEg2MHl1TGlBQnFvdEoxSl8zQ2xac2lIWUxLX0tHVzJXRFNVTXRaNUhfcEw1Rlg2MVNRUTFBdlUzYmhjN3NQaHhmVy1wM0dhcm9mc1l3QQ?oc=5",
-     "ts": "2026-11-11T12:22:22Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив",
-    "цена/издания"
-   ],
-   "score": 65,
-   "level": "SPECULATION",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Слив от Walmart: бесплатный бонус к предзаказу GTA 6",
-    "summary": "По данным Mashable, в системе Walmart засветился бонус к предзаказу GTA 6 — бесплатный «surprise and delight bag». Официально Rockstar это не подтверждала, так что это слух.",
-    "idea": "Короткий разбор: что за «surprise and delight bag» и стоит ли верить сливу от ритейлера. Зрителю важно понять, ждать ли реальный бонус.",
-    "hook": "Walmart слил бесплатный бонус к предзаказу GTA 6 — показываю, что внутри.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-11T13:31:08Z"
-   },
-   "msg_id": 779
-  },
-  {
-   "id": "642a34a087db",
-   "title": "GTA 6 рискует разочаровать владельцев PS5 и Xbox: почему игроки возмущены",
-   "first_seen": "2026-11-11T13:31:04Z",
-   "updated": "2026-11-11T13:31:04Z",
-   "items": [
-    {
-     "id": "642a34a087db",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "РБК-Україна",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 рискует разочаровать владельцев PS5 и Xbox: почему игроки возмущены",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenZQYVFDTW9vekZUUmJZUzRxMW5JSWs5elJmdDdPUWVxUW4wLVB0bDduUXV2N3VxZXY0NWpKZWRadHVUUTJhZ3NGbDRXRTJfd3VaOFR4aUpYZmVsMXVrX1JMVmQtenlIWnJvOFo4ZUU5QmgzNlo4TzJZNGE4S3IxVGZEcndzSm1nQ2Y3ONIBkgFBVV95cUxQWWNRZ2l3MW5JaEJhZUFXdzBxSmVpcWRTSU9oTGNXUXNLLW1Mdi1uWVFQNlljMU1wbmYwRWVDV0lBTm92LTZ4VTBqUnNQWkpDbFhMWGZzdGZrb2Y4LVFqekYzQUhQWTM5N2xkM3lFNy1HaE9oWi1xQnk0Mlc0N19JZUw2QVVPOTBYVDcycVNXcGV2Zw?oc=5",
-     "ts": "2026-11-11T13:17:33Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "cff4d2a76adf",
-   "title": "Игроки защищают 30 FPS в GTA 6 и называют погоню за 60 кадрами глупостью – RDR2 ограничение не сделало плохой игрой",
-   "first_seen": "2026-11-11T13:31:04Z",
-   "updated": "2026-11-11T13:31:04Z",
-   "items": [
-    {
-     "id": "cff4d2a76adf",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Игроки защищают 30 FPS в GTA 6 и называют погоню за 60 кадрами глупостью – RDR2 ограничение не сделало плохой игрой",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdTZkNDlROFFFVzdvWEwzTVVJZWprN1FRemtOOTlyYWNoNFhsc1d6TjI4a3BQWlhMMWRab3FuYXIyZEpwYkU4S3c2cHlySGpJVGhlazVkM05RRHJKOXJPMXRGQlkyTWlLblpqX08yUGJfZTA0U05BYklkMjE2VkQ4LWxrU211elg5QUFlVXZJZEhodU1BTkNsNVItV3R1eXAtSWpoMjN2QmRQTlQ5eFdwQlBSTTR1WW9lRmhVcDJzR2R4eWl0NnNRNnh2c013M1VkTjJ2V1VNbDlLb3BRRFI4akRKMlRtcU05WFdYSQ?oc=5",
-     "ts": "2026-11-11T13:20:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "76688d23907b",
-   "title": "I'm in this sub for around 8 years now. Can't believe I'm finally holding this in my hands",
-   "first_seen": "2026-11-11T13:31:04Z",
-   "updated": "2026-11-11T13:31:04Z",
-   "items": [
-    {
-     "id": "76688d23907b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I'm in this sub for around 8 years now. Can't believe I'm finally holding this in my hands",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xtho2r/im_in_this_sub_for_around_8_years_now_cant/",
-     "ts": "2026-11-11T13:25:01Z",
-     "summary": "submitted by /u/julien31walker to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "101735715790",
-   "title": "I bet GTA 6 will have these horrendeus \"tutorials\" in top left corners as always. And it's horrible",
-   "first_seen": "2026-11-11T13:31:04Z",
-   "updated": "2026-11-11T13:31:04Z",
-   "items": [
-    {
-     "id": "101735715790",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I bet GTA 6 will have these horrendeus \"tutorials\" in top left corners as always. And it's horrible",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xthpxw/i_bet_gta_6_will_have_these_horrendeus_tutorials/",
-     "ts": "2026-11-11T13:27:30Z",
-     "summary": "I don't know why they keep doing it. I'm playing on the couch, there is some dialogue, I'm listening to it and reading subtitles and then TOP LEFT CORNER HINT THAT YOU EITHER READ OR WELL BAD LUCK DUDE FUCK YOU! I mean people blame Ubisoft / EA / <insert company name> for \"stop and read\" tutorials, but I prefer them then this shit. In KCD2 I've read about mechanics, switched pages, read again - and then use them. submitted by /u/UATyroni to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "32eb35f77d21",
-   "title": "GTA VI Becomes PlayStation Store’s Biggest Pre-Order Ever as PS5 Exclusive Features Take Centre Stage",
-   "first_seen": "2026-11-11T07:10:49Z",
-   "updated": "2026-11-11T13:20:49Z",
-   "items": [
-    {
-     "id": "32eb35f77d21",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Upgrading to ultimate edition if i buy code in box version?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xsx60z/upgrading_to_ultimate_edition_if_i_buy_code_in/",
-     "ts": "2026-11-10T20:06:12Z",
-     "summary": "I want to buy the code in box physical version for the poster and case to display but i also dont see any option on the xbox or ps5 store to upgrade to the ultimate edition if you already have the standard version. Will it show up in the xbox/ps store after redeeming the code? submitted by /u/hemi717 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "77361f00f2ef",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Ultimate edition pre download didn’t have extras on PlayStation?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xtbhdp/ultimate_edition_pre_download_didnt_have_extras/",
-     "ts": "2026-11-11T07:23:13Z",
-     "summary": "So I pre downloaded the game last night, however I noticed everyone else who was downloading the game had extra 1, extra 2, extra 3 etc files which I didn’t have just a base game download of 209gb. I got the ultimate edition so I was wondering why my one was different ? submitted by /u/way2catty to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "3f9b314d8112",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamerBraves",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI Becomes PlayStation Store’s Biggest Pre-Order Ever as PS5 Exclusive Features Take Centre Stage",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaHNqTkZ0VmtfNzNwNmM3SEtBRDliV1lXT1g0MGlOMjJEOWhBRWI0a2lmVXVzbWt4emRJMzFZYWIwUlFobjRjX3pzVnJ0NzRqSmJCZ1lkQXFRUjNoMkxWd2d5VncwcVptam9TVWhUcHJKd2NzUUtqMFl0S0EwSF9nU1Z4d3E0T0NoTHptc0M3MzZsRV8xSGk4WVhzV1JyZlJpbFB1SXhVdHFxeFZOZmd0TUFORVhKaS1PMExLTDI1Y2RsXzJicEFEcg?oc=5",
-     "ts": "2026-11-11T04:11:22Z",
-     "summary": ""
-    },
-    {
-     "id": "9e3376c897e8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KitGuru",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI breaks pre-order records on both PlayStation and Xbox",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGw2Nnp3RzBxZDZOUWh3QmpOTW9ZVE1qd1pCY3ZHNnZkeHVVN3JWeWVVYm5uTXdPSy1vMHo4N19JY3Jad1BTaTdFdUNGNXJna0N5clJZMjRTNjhOalhSMDZFZWQ1TXlaTER2ZkJFTlpiRk5qU0M1OE9nSGt0MHpnVTNnSUEtVzZQQTdpdWlUempBZVhMeFBkYU1LZkVKVlNtalYzRlV3OTlDa2xZ?oc=5",
-     "ts": "2026-11-11T09:00:18Z",
-     "summary": ""
-    },
-    {
-     "id": "ecf160ce1928",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ETV Bharat",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "As GTA 6 Breaks Every Pre-Order Record, Cloud Gaming Brings It To Old-Gen Xbox One Console",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORDdNaUo4WTU2VTBHQWlfeVU3d0dGMm5wMkd4UW0zN05fUmFhTkRFWlBYeEZrejB2UmszY3ozOE1TV3BTWXo4aFNGQWRhOHFSMGxsUm1UNS04dV9MMWktOHZ1NHBKTUV6bThuLUowVllRWlppXzBCNzhDdzltS2k3WEEyWWYyYkhJRFU4MWdUUlk1U2JkRFNMT2hyamZaOTI0ZXlhTC02Z3VZdFZhd1hpWWd6MEFsRE9IZ3hnRFFPOTlnLW5oazhoRkFYakFRUTlkaDQzRG5SM1NFR2_SAeABQVVfeXFMTlBLV3VLZFVmblBka1owckgwY0xsZ1k2ZG1rSmRxT3BOSXJ6Rktkb3E0XzgzNk0wLWtTLWxobk5PUWFsNWR1Y3lvbkRFUnZkMzROSW52bDZfdmR4cHFTc19BSmZjalVjYXoxbmZLSzBCU1hsaW5FczZLSVBZNWtuazYxQlZ0d2I4U1RxRzZ1c3kyUXNCR2NRcThMUk1qZ0NkRGRZUFZfNmVCSzh5VVJEcTJPRWRwNVFWT2ZvN0JncWpfU3o5WlItZWE3YmR1anA5eC1QOVlEOVdfVWUyblBkWWI?oc=5",
-     "ts": "2026-11-11T09:01:31Z",
-     "summary": ""
-    },
-    {
-     "id": "f81260b69fdc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KitGuru",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI breaks pre-order records on both PlayStation and Xbox",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONllybC1MT3o2SFJfYmUxMmk5Rmt4a1JkYkNacFlqcnJtcUlBMjBJNTRsaXo2ZlM2cDhkSGhZWWh3bHMxMFE5X1l1eDd0OE9jbjJSTTl3czJhbU9FX0dDamdfTGdmU1BrNmdKamdSbUF2N2FKTXF6UDdLb1FpLWVaRXBMM1RMTDgwTzhYWThELUg3bnRZUlhRcjNrU0lRREpnQ09UeTJRYjlyM3VTcEpJMEFuelIyQnJNa3hlcWlGUXRnNEtBQ053SURxUWJPdw?oc=5",
-     "ts": "2026-11-11T09:00:18Z",
-     "summary": ""
-    },
-    {
-     "id": "771cd27fcb09",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PlayStation Universe",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony Says Grand Theft Auto VI Is The Most Preordered Game In The PlayStation Store's History",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTG9rby01TWMxOTFxN1FFYXZycFNGWl9fZ0NEc1QxeWdFZGZrWjhLc2JRTkZMRkhaek8tVURNS0N2XzRBdTB0TDJCX0tjMWtCb1JKTEdVem1faWYwUEVFbWkwRUh5dlJtUHk0LU9SUzVVSjU3amt6WG45YUVoczM3NXF3elNnRm1oWk8zUEdRZ1lqNmZtZGR1c2Q1bGFrdVptRTU3cEFJSnRDZERfNWR3dFAwX01TLVh3?oc=5",
-     "ts": "2026-11-11T10:28:45Z",
-     "summary": ""
-    },
-    {
-     "id": "9285a5e47ea1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Loadout",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Pre-Orders Near 10 Million, and PS5 Is Crushing Xbox",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKZVZqc3daZzFqRjlPeG5xQXZXeUZJQVo1cV9DOHBFbklvQVhWZzdsN3FjOHp5dVJhUkZkQ1NTcXVQSXlYSWVzdC1KYXBMVEVSUW5rWGVNdlk2TGpRZHZLbVBqWmpuaDF6MmcxYXBMQS12TGlyNmRUa2pzZV9sdw?oc=5",
-     "ts": "2026-11-11T11:24:35Z",
-     "summary": ""
-    },
-    {
-     "id": "5e3b9a6c681b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Female First",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI is most pre-ordered game in history of both PlayStation Store and Microsoft Store",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPal8xTy10V08wVmdiQWE0LUdHUFM0Y2xHOVZldnA4VjlfRFZnNUY5OUJNX2FlQW8ySUQwVTRtbndjSHJsYVU5b1ZlRmdreVFsYmZwNWV3Q2ZFT1NXNjkzMWtYR3V4Mmx2VnVIRmlSUTlHWlYwdVVXblN4azFMWmpCbi1OMVNLYUtBQW1pUVVYRy1VZm5SeC1PZ0llbW5XcFhaalZ0UGdaQlZJM2RFRlZNMVdDMkR1Skk5cHJhWlFOSDZxdw?oc=5",
-     "ts": "2026-11-11T12:01:16Z",
-     "summary": ""
-    },
-    {
-     "id": "09bf41732143",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "mobidevices.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 побила рекорд предзаказов на PlayStation и Xbox",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IS2ZmajlTT2RnOUpSd1Fzd25SbGw5RDBSb2tOZy05MGpDeDJRUlBpZzl2ekRsY0FxY3MxSTBoSnJPVTlIUkFFZm5fSWs0Ql9VV3BlME9JUWN1LV9lRGsxTDFKbFVsRzJpZHo5N1hVMS1xNTZjRFZqZ2pLTzJ6QQ?oc=5",
-     "ts": "2026-11-11T12:07:27Z",
-     "summary": ""
-    },
-    {
-     "id": "67ef1c67bd09",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "mobidevices.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 breaks pre-order record on PlayStation and Xbox",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcHd1Y0wyRDZiUzhfa0RaRUdxMWNVcjY4UlFQOVBTMzRqTk16akdabGhFOS12S0JMLUxUZDIwcktUdGZhN2RHbXYwMmMwUzhFY1lVVzRPN1BYSEZCNWMzXzVjdERqdkVMcENtMWZzMk96VnRDZktObkVWM3U1YWtiWTln?oc=5",
-     "ts": "2026-11-11T12:07:44Z",
-     "summary": ""
-    },
-    {
-     "id": "590cdf5ac6b0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesIndustry.biz",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVNnYXVNOVJkX3ZTbzlhdzZQem0tMW9Jcmd2dEM1enhyWmlsemV6WDNlaHQwam9IOC1acnFocktKOWdfeUFncjY5eG41WXBNb1NYU1RqS29lUmtUVk8xRllXTldrY280NW9yS01URzE4c0VxVEp0ZDl0RnN0cW1MQVVRVFRYWExCZzlLeDEtcDkwYkFkNUtXSHJRQl9kQ3BfeHkw?oc=5",
-     "ts": "2026-11-11T12:10:40Z",
-     "summary": ""
-    },
-    {
-     "id": "a16a374a902c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mezha.net",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 is the most pre-ordered game on the PlayStation Store and Microsoft Store",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zWmRJTWJ6SmcteVBvc004dkFwbGFVYVg0MmowclVKMGVOV0I3cmxwdW94dkxfb0NJSDhJUGtEZW9PU05kWkNURHJMemY2QVVJSE16SThpMUFGdUlRQ0NKVWhrX2pVeVoybWVtU3N1VUVBVFVoM2c?oc=5",
-     "ts": "2026-11-11T12:20:30Z",
-     "summary": ""
-    },
-    {
-     "id": "ca761764413f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "A vulnerability with an activation code on a poster has been discovered in the physical edition of Grand Theft Auto VI.",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN3d2UFR2a2Jwb09QQ0JHR3JEblVHNHBPc2NHM2pOUUhteVNGMTdEeEpHTlNSeHNFWDROWkw5ajNEd3otTklYOTdqcGZhZTlYcDd1SlBTN2FIYkJyTDRNRE1RWTItWjBFVTJMR0g0eWE3Ri02OENzaUI2VldFeVlyY3NiZlB6bGpvb01DVExhZzdTNndMajF6UFk1VWdiclBKLXpBMXp0ckhhQ3RyaEZTX0RpSU80MFZKcnlpa1EzQkVSOFRReUE?oc=5",
-     "ts": "2026-11-11T06:39:29Z",
-     "summary": ""
-    },
-    {
-     "id": "d888a333d397",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 DualSense restock retailers: Where to buy the limited-edition PS5 controllers",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazU3am1ScTdrdWNKYmhOSzhnUWlCLWtURDdIb0N3ODk4RnBlS3M4emhDUklIQkR0LWhHekpINDRYRGdtcTUxX0tHOG1aZkVBX19lOGxxelR3RFhYeXhBNjBDTFFoSUEtZHY5OEc3cmoydDlFMzRhN0ZrVnBVVHR6SQ?oc=5",
-     "ts": "2026-11-11T13:06:19Z",
-     "summary": ""
-    },
-    {
-     "id": "8157f2ea0b70",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Will we be able to turn off ultimate edition content?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xth9vg/will_we_be_able_to_turn_off_ultimate_edition/",
-     "ts": "2026-11-11T13:06:58Z",
-     "summary": "I doubt anyone has any information on this but it would be nice not to get freebies and have to earn everything legit. submitted by /u/fukcall to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "be7201e6f27c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameDev.net",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaG5RbkpFelRFY1dkWHd6d0RVSXJ1WXpxYTJ6RnNVXy1PT1pBMV9XMG1xVi00MEhmbWNMbHpVaHVVcjJjMHhkQUlDNmVlVDNKYjVOWVM5b1p3ZjJ6eGlQWmt3SEdtcGVWS21taFdOUmh5Yml3eWZ5LW9iMEtUQUdVYk82T05QQTQtZ2lOQWFoOWkwLTRoRC16ZHkwWDkwNndIb0s4VU1B?oc=5",
-     "ts": "2026-11-11T12:39:14Z",
-     "summary": ""
-    },
-    {
-     "id": "ca1ae657f84f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA VI hits $1 BILLION in pre order revenue (10.3M+ copies sold) with 1 week still left before release. via Sensory Tower",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xthker/gta_vi_hits_1_billion_in_pre_order_revenue_103m/",
-     "ts": "2026-11-11T13:20:22Z",
-     "summary": "submitted by /u/poorna_sus14 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
    "id": "55c4b4f23066",
    "title": "Rockstar confirms GTA 6 targets 30 FPS, with PS5 Pro-exclusive ray-tracing",
    "first_seen": "2026-11-10T14:10:48Z",
-   "updated": "2026-11-11T13:20:49Z",
+   "updated": "2026-11-11T13:40:59Z",
    "items": [
     {
      "id": "55c4b4f23066",
@@ -1763,6 +1279,19 @@
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONy1xdHpzel8xdl9zaERXZkhSMWlTTG1ZUGNadU56TlNIN2J1cVQxb0JTUkpyX1N0cjdkTzduRU5FblFOLTNSVWF3bExpVGp2R2lKN3NVRUI1UUxTLU1RR1VTX0Yzc2R6VGRYNW8tU25FR2k2aXQ1blNSNXdIeTJyZ2tKcU5LTDRueThqRUFrWjg1dkJ3YnZLbkxXOUY?oc=5",
      "ts": "2026-11-11T13:17:51Z",
      "summary": ""
+    },
+    {
+     "id": "a7da1e56855a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "inkl",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' at $80 Is a Bargain, Says Take-Two CEO as Gaming Prices Face Scrutiny",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakVlejlwUTVUdkZSaUJCanBvYnpmZVA4ZXUzYzVBQ0ZIQTBvSml3QmVLOUdKUUxUZFVZTXhraDNrLVlBZ3d1V1N3dXFBbm5CaEFqZzJQYkxaenUzNVBScElRbWhlWFF3Y29XZHF2ek1tMHF3MXRkZFQyVVRScE81ZXdrVGlZMEJFdmhuZDVDcUtBSkhyRDJ2WlJkX3lfUmwx?oc=5",
+     "ts": "2026-11-11T12:40:01Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -1776,6 +1305,677 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "07e46c5096eb",
+   "title": "GTA 6 Festival: Travis Scott, Cardi B and Metro Boomin Headline Rockstar’s Miami Launch Party",
+   "first_seen": "2026-11-11T08:31:01Z",
+   "updated": "2026-11-11T13:40:59Z",
+   "items": [
+    {
+     "id": "07e46c5096eb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Fenix Bazaar",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Festival: Travis Scott, Cardi B and Metro Boomin Headline Rockstar’s Miami Launch Party",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vYWJRakFoR2pqVjFENVpGTGdVSi1KeTB6bFJPNjlBZ1VPX0Zsa29ydFpHQi1EZTViNWE2ak9HcEp2NGo5Z3doY0c1Zm55NVdqZkFZSEpkWUpsVkVvNUozOGZuYk81NE1XSFhmVHBGTlRWWEJfai1qYjdpMA?oc=5",
+     "ts": "2026-11-11T08:21:00Z",
+     "summary": ""
+    },
+    {
+     "id": "30ae545aceb4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Maxim",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Travis Scott, Cardi B, Kodak Black & More To Headline 'Grand Theft Auto VI: The Festival' In Miami",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWE0SkpnamNFQ1Z0V2NUWHM5ZWQxdXRxdmpUV0hSelpkOVBPQ2pZMEdUVDQyV2UtbUN3NHFUcUNaellTT2lBQllESnZZMFEtYzk1TXU3eFd5STNpNXNGWXprTlo5eGpPVjdLaHFXNmxNTFBTMXlkVkdWbkhOWWUxVWVJb0RCMnphVl9BaTI3WUJDdlZST294Uk1FdVdGYU05Y25sb2NrM0VpSEh2aFhnVlBvaWVVTzdDVkpycUNEQU5sbFJiZ0ZN?oc=5",
+     "ts": "2026-11-11T10:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "4cfb0514652f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "24Hip-Hop",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Travis Scott and Cardi B Join GTA VI Festival Lineup in Miami",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mWEpwOTNGREU4N1BoREl3YzN1OGxaUDZLSFhRNmhjNzg1Wmoyc0ZRd1F5V05qRFdHckN2R01YdEIxSndXZUE4VW9NbHloc0ZNTVVwQVI0bkxsTkJlUzI2aW5aNzhBdmFxa2p4ZW90SHhxYnM?oc=5",
+     "ts": "2026-11-11T13:34:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "5496ef324352",
+   "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation Store",
+   "first_seen": "2026-11-11T04:40:43Z",
+   "updated": "2026-11-11T13:40:59Z",
+   "items": [
+    {
+     "id": "5496ef324352",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Компьютерра",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation Store",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1Fva2dEZW9GVUxXbVRHUWM1TTZkdlh0a19OWWxIXzRXT0w5dTZ6RFhoSWdFX0c1OWFTWmVzVXVqMUhuYS1WeG9ZdHpFUTVveVVaaDg5MkV1dmdlR2IxcWVjVXphZVRvRXRCZ1duZDJaV2xHVEI1NXdHU1pZbDdxZ2RHN2VkcENoNjJVa1dBcVR0TkZZUS1fbWRQb1ByaUEtTDBCTzZB?oc=5",
+     "ts": "2026-11-11T04:39:37Z",
+     "summary": ""
+    },
+    {
+     "id": "562378c745ac",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "airpress.kz",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation и Xbox",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlJmQnVLcFVOeHhnYVNfOEdNZVlQTXgxUHdldktuMVNvSkFUM3FYMkZPM1czLW1Uci1ndFdoRVhQdDdGREdBOFFrNkNqazhOUWlNRHptRVZKcVdoRjNCc2hOampWZUloaGJackRibjR3UEZyR3I5bDF1aVlhRUhFRXliMW9Rd3Ztb2Q4OQ?oc=5",
+     "ts": "2026-11-11T05:39:18Z",
+     "summary": ""
+    },
+    {
+     "id": "be0c23db395b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "PlayStation и Xbox подтвердили, что GTA 6 стала самой предзаказываемой игрой в истории",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGlGQUpJMVNOSDRfTEpyeV9UbUx1ZU02aldpUXJqbllhSjhKRTBEMHRuamd5cVdKUEFxaXVyeXZPN2J5Y2stM3U5MGloekx2MFJyZWRDZ0JhV29nY2taekhnaFdKR2VQU2ZMY1NXc1U3THJSWlVmaDc4eWdBMnV3NlVkT1phMnFTNzFuZXdPdHZ3Q3NtR2tTcDVVUTZrRnVS?oc=5",
+     "ts": "2026-11-11T12:29:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "цена/издания"
+   ],
+   "score": 71,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "74fab1e8abae",
+   "title": "Don’t Count Out the XBOX Series X When It Comes to GTA VI",
+   "first_seen": "2026-11-11T13:40:59Z",
+   "updated": "2026-11-11T13:40:59Z",
+   "items": [
+    {
+     "id": "74fab1e8abae",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Outerhaven",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Don’t Count Out the XBOX Series X When It Comes to GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTRscnpYWE1ISVVMY2swYllVX2xQa0VINzhHUmxnbXR0R0pITS1VeVpreUlmUWhHTGJmNmQ3MFhJc0JzV1JpM3duVGE4bkRxRlUxWlpiOVBOT0hZZ1dvVmVnbWdHX3pLX3VXZDFPZUduakV0S0ZkTTY0ZDdwNmRzUWo3enR1eWN6WFI2cWpIMW4?oc=5",
+     "ts": "2026-11-11T13:26:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d7348df55fcf",
+   "title": "Still no PS5 PRO to be found, I guess series x it is…",
+   "first_seen": "2026-11-11T13:40:59Z",
+   "updated": "2026-11-11T13:40:59Z",
+   "items": [
+    {
+     "id": "d7348df55fcf",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Still no PS5 PRO to be found, I guess series x it is…",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xththb/still_no_ps5_pro_to_be_found_i_guess_series_x_it/",
+     "ts": "2026-11-11T13:31:58Z",
+     "summary": "submitted by /u/Untrus4598 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "090b66477ec6",
+   "title": "The last weekend before GTA 6",
+   "first_seen": "2026-11-11T13:40:59Z",
+   "updated": "2026-11-11T13:40:59Z",
+   "items": [
+    {
+     "id": "090b66477ec6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The last weekend before GTA 6",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xthydd/the_last_weekend_before_gta_6/",
+     "ts": "2026-11-11T13:38:00Z",
+     "summary": "submitted by /u/DrewN89 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2914b534c3fa",
+   "title": "Taking Off Work or Skipping School to Play GTA 6? So Are 12.5 Million Other People",
+   "first_seen": "2026-11-11T13:10:50Z",
+   "updated": "2026-11-11T13:31:04Z",
+   "items": [
+    {
+     "id": "2914b534c3fa",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Taking Off Work or Skipping School to Play GTA 6? So Are 12.5 Million Other People",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2dadkxVVWtROFBDNXVFOXJ4U3FjRDNaU2RBQksxdzJma0I3alVULWM2WnhTM3RMR19WeVc0ek9JZ0ZHOWVOQ1QzdnNGcjRIUXE4anZBUWZZajI1VzZRVllFTlJrRTVqV1ZhNFZsa1JUWllDLU5yWktNWnRkVEpXWm5manhzcGl3ZHdBQXppUnFGa0NkZmdfZUJrN01CeDlkX3piQlJsSDFLN2YtaV9Oa3JkTUs?oc=5",
+     "ts": "2026-11-11T13:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "91c70cbd9eff",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag Australia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Taking Off Work or Skipping School to Play GTA 6? So Are 12.5 Million Other People",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeXEtNWx5OENjVTMtSHFlQkl4ejl5TXA5OHRBMEt5TkRReFEydExwdW4tOWs0QWhiMGMtSzI3QWtZb0dXenYyZ2FPa3BUQlRSM1RENWpVSlRDZmV5eWRIVkp2S1RyQnZJRXlWQ2s0OWRlZGQtX0NtbzVmbGE0RFF4R2N6R0VFT21JeVprZERvUVQ4ODhRaVRsYVJwcFo2T2dqaEE4cVdFZjNOQjFIbXh6Zi1zazE?oc=5",
+     "ts": "2026-11-11T13:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "12,5 млн пропустят работу и учёбу ради GTA 6",
+    "summary": "По данным PCMag UK и PCMag Australia, 12,5 млн человек планируют взять отгул или пропустить учёбу ради GTA 6. Опрос приурочен к релизу 19 ноября 2026.",
+    "idea": "Короткий опрос: «Ты тоже берёшь отгул 19 ноября?» Быстрые нарезки реакции и счётчик 12,5 млн — зрителю хочется сравнить себя с остальными.",
+    "hook": "12,5 миллионов пропустят работу и учёбу ради GTA 6.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-11T13:31:11Z"
+   },
+   "msg_id": 780
+  },
+  {
+   "id": "e6b53cdf7a87",
+   "title": "GTA 6, хронология 13 лет ожидания от GTA V до 19 ноября",
+   "first_seen": "2026-11-10T17:20:56Z",
+   "updated": "2026-11-11T13:31:04Z",
+   "items": [
+    {
+     "id": "e6b53cdf7a87",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Pasquale Pillitteri",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6, хронология 13 лет ожидания от GTA V до 19 ноября",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS083WldyR1NyLXdrRTBVQVJ5bVM0eF9BdTF5UUh2ZlJOeU04eU9nbmhPVWdaN2ppT1pIdEQzeF90RlV3TlpVa1NMYUtSZjBWbk5DRWxKRWIwY1lycDVtSWRZQzVtTVFGWWxPaEJ0UlZEMGVYWWRLeWE0VG1sZUFkZFZWcGNRVDVESmd2SDVR?oc=5",
+     "ts": "2026-11-10T17:11:59Z",
+     "summary": ""
+    },
+    {
+     "id": "107c5cb1db32",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "kursdela.biz",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "13 лет ожидания и 9,7 млн предзаказов: что нужно знать о GTA 6 до 19 ноября",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY0dxR0hjdVA2eVhfOWRxZ3YwRzZxQkdDTDJaTlRBY1NJbHNQM2NGcXMxSm1zcDNwQzFXQk44WGZNeUczc1dMUWU3V3RodC1vck1rT2NvSjBTOHNSeUV1YS1tWmNGbkQ0Z3FrTlRHbVRfMF9QbzA1MUtuTnR6Z3FWakJfN2gwcXozai1kX1Bmdk0xMTBLaVE0ZHNJejIyNEZ3XzY0NzRQSWI1QlFMeVBXQVM0cHVXUjZTQmJCejBtcGtqQQ?oc=5",
+     "ts": "2026-11-11T13:22:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 63,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "5526d3f9a3c4",
+   "title": "Walmart’s ‘GTA 6’ preorder bonus leaked: How to score the free \"surprise and delight bag\"",
+   "first_seen": "2026-11-11T13:31:04Z",
+   "updated": "2026-11-11T13:31:04Z",
+   "items": [
+    {
+     "id": "5526d3f9a3c4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Walmart’s ‘GTA 6’ preorder bonus leaked: How to score the free \"surprise and delight bag\"",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tVGFRbmpGem0yNVZ0bkswY0pCREVubG4xUDVyOEg2MHl1TGlBQnFvdEoxSl8zQ2xac2lIWUxLX0tHVzJXRFNVTXRaNUhfcEw1Rlg2MVNRUTFBdlUzYmhjN3NQaHhmVy1wM0dhcm9mc1l3QQ?oc=5",
+     "ts": "2026-11-11T12:22:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив",
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Слив от Walmart: бесплатный бонус к предзаказу GTA 6",
+    "summary": "По данным Mashable, в системе Walmart засветился бонус к предзаказу GTA 6 — бесплатный «surprise and delight bag». Официально Rockstar это не подтверждала, так что это слух.",
+    "idea": "Короткий разбор: что за «surprise and delight bag» и стоит ли верить сливу от ритейлера. Зрителю важно понять, ждать ли реальный бонус.",
+    "hook": "Walmart слил бесплатный бонус к предзаказу GTA 6 — показываю, что внутри.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-11T13:31:08Z"
+   },
+   "msg_id": 779
+  },
+  {
+   "id": "642a34a087db",
+   "title": "GTA 6 рискует разочаровать владельцев PS5 и Xbox: почему игроки возмущены",
+   "first_seen": "2026-11-11T13:31:04Z",
+   "updated": "2026-11-11T13:31:04Z",
+   "items": [
+    {
+     "id": "642a34a087db",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "РБК-Україна",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 рискует разочаровать владельцев PS5 и Xbox: почему игроки возмущены",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenZQYVFDTW9vekZUUmJZUzRxMW5JSWs5elJmdDdPUWVxUW4wLVB0bDduUXV2N3VxZXY0NWpKZWRadHVUUTJhZ3NGbDRXRTJfd3VaOFR4aUpYZmVsMXVrX1JMVmQtenlIWnJvOFo4ZUU5QmgzNlo4TzJZNGE4S3IxVGZEcndzSm1nQ2Y3ONIBkgFBVV95cUxQWWNRZ2l3MW5JaEJhZUFXdzBxSmVpcWRTSU9oTGNXUXNLLW1Mdi1uWVFQNlljMU1wbmYwRWVDV0lBTm92LTZ4VTBqUnNQWkpDbFhMWGZzdGZrb2Y4LVFqekYzQUhQWTM5N2xkM3lFNy1HaE9oWi1xQnk0Mlc0N19JZUw2QVVPOTBYVDcycVNXcGV2Zw?oc=5",
+     "ts": "2026-11-11T13:17:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cff4d2a76adf",
+   "title": "Игроки защищают 30 FPS в GTA 6 и называют погоню за 60 кадрами глупостью – RDR2 ограничение не сделало плохой игрой",
+   "first_seen": "2026-11-11T13:31:04Z",
+   "updated": "2026-11-11T13:31:04Z",
+   "items": [
+    {
+     "id": "cff4d2a76adf",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Игроки защищают 30 FPS в GTA 6 и называют погоню за 60 кадрами глупостью – RDR2 ограничение не сделало плохой игрой",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdTZkNDlROFFFVzdvWEwzTVVJZWprN1FRemtOOTlyYWNoNFhsc1d6TjI4a3BQWlhMMWRab3FuYXIyZEpwYkU4S3c2cHlySGpJVGhlazVkM05RRHJKOXJPMXRGQlkyTWlLblpqX08yUGJfZTA0U05BYklkMjE2VkQ4LWxrU211elg5QUFlVXZJZEhodU1BTkNsNVItV3R1eXAtSWpoMjN2QmRQTlQ5eFdwQlBSTTR1WW9lRmhVcDJzR2R4eWl0NnNRNnh2c013M1VkTjJ2V1VNbDlLb3BRRFI4akRKMlRtcU05WFdYSQ?oc=5",
+     "ts": "2026-11-11T13:20:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "76688d23907b",
+   "title": "I'm in this sub for around 8 years now. Can't believe I'm finally holding this in my hands",
+   "first_seen": "2026-11-11T13:31:04Z",
+   "updated": "2026-11-11T13:31:04Z",
+   "items": [
+    {
+     "id": "76688d23907b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I'm in this sub for around 8 years now. Can't believe I'm finally holding this in my hands",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xtho2r/im_in_this_sub_for_around_8_years_now_cant/",
+     "ts": "2026-11-11T13:25:01Z",
+     "summary": "submitted by /u/julien31walker to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "101735715790",
+   "title": "I bet GTA 6 will have these horrendeus \"tutorials\" in top left corners as always. And it's horrible",
+   "first_seen": "2026-11-11T13:31:04Z",
+   "updated": "2026-11-11T13:31:04Z",
+   "items": [
+    {
+     "id": "101735715790",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I bet GTA 6 will have these horrendeus \"tutorials\" in top left corners as always. And it's horrible",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xthpxw/i_bet_gta_6_will_have_these_horrendeus_tutorials/",
+     "ts": "2026-11-11T13:27:30Z",
+     "summary": "I don't know why they keep doing it. I'm playing on the couch, there is some dialogue, I'm listening to it and reading subtitles and then TOP LEFT CORNER HINT THAT YOU EITHER READ OR WELL BAD LUCK DUDE FUCK YOU! I mean people blame Ubisoft / EA / <insert company name> for \"stop and read\" tutorials, but I prefer them then this shit. In KCD2 I've read about mechanics, switched pages, read again - and then use them. submitted by /u/UATyroni to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "32eb35f77d21",
+   "title": "GTA VI Becomes PlayStation Store’s Biggest Pre-Order Ever as PS5 Exclusive Features Take Centre Stage",
+   "first_seen": "2026-11-11T07:10:49Z",
+   "updated": "2026-11-11T13:20:49Z",
+   "items": [
+    {
+     "id": "32eb35f77d21",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Upgrading to ultimate edition if i buy code in box version?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xsx60z/upgrading_to_ultimate_edition_if_i_buy_code_in/",
+     "ts": "2026-11-10T20:06:12Z",
+     "summary": "I want to buy the code in box physical version for the poster and case to display but i also dont see any option on the xbox or ps5 store to upgrade to the ultimate edition if you already have the standard version. Will it show up in the xbox/ps store after redeeming the code? submitted by /u/hemi717 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "77361f00f2ef",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Ultimate edition pre download didn’t have extras on PlayStation?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xtbhdp/ultimate_edition_pre_download_didnt_have_extras/",
+     "ts": "2026-11-11T07:23:13Z",
+     "summary": "So I pre downloaded the game last night, however I noticed everyone else who was downloading the game had extra 1, extra 2, extra 3 etc files which I didn’t have just a base game download of 209gb. I got the ultimate edition so I was wondering why my one was different ? submitted by /u/way2catty to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "3f9b314d8112",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamerBraves",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Becomes PlayStation Store’s Biggest Pre-Order Ever as PS5 Exclusive Features Take Centre Stage",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaHNqTkZ0VmtfNzNwNmM3SEtBRDliV1lXT1g0MGlOMjJEOWhBRWI0a2lmVXVzbWt4emRJMzFZYWIwUlFobjRjX3pzVnJ0NzRqSmJCZ1lkQXFRUjNoMkxWd2d5VncwcVptam9TVWhUcHJKd2NzUUtqMFl0S0EwSF9nU1Z4d3E0T0NoTHptc0M3MzZsRV8xSGk4WVhzV1JyZlJpbFB1SXhVdHFxeFZOZmd0TUFORVhKaS1PMExLTDI1Y2RsXzJicEFEcg?oc=5",
+     "ts": "2026-11-11T04:11:22Z",
+     "summary": ""
+    },
+    {
+     "id": "9e3376c897e8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KitGuru",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI breaks pre-order records on both PlayStation and Xbox",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGw2Nnp3RzBxZDZOUWh3QmpOTW9ZVE1qd1pCY3ZHNnZkeHVVN3JWeWVVYm5uTXdPSy1vMHo4N19JY3Jad1BTaTdFdUNGNXJna0N5clJZMjRTNjhOalhSMDZFZWQ1TXlaTER2ZkJFTlpiRk5qU0M1OE9nSGt0MHpnVTNnSUEtVzZQQTdpdWlUempBZVhMeFBkYU1LZkVKVlNtalYzRlV3OTlDa2xZ?oc=5",
+     "ts": "2026-11-11T09:00:18Z",
+     "summary": ""
+    },
+    {
+     "id": "ecf160ce1928",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ETV Bharat",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "As GTA 6 Breaks Every Pre-Order Record, Cloud Gaming Brings It To Old-Gen Xbox One Console",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORDdNaUo4WTU2VTBHQWlfeVU3d0dGMm5wMkd4UW0zN05fUmFhTkRFWlBYeEZrejB2UmszY3ozOE1TV3BTWXo4aFNGQWRhOHFSMGxsUm1UNS04dV9MMWktOHZ1NHBKTUV6bThuLUowVllRWlppXzBCNzhDdzltS2k3WEEyWWYyYkhJRFU4MWdUUlk1U2JkRFNMT2hyamZaOTI0ZXlhTC02Z3VZdFZhd1hpWWd6MEFsRE9IZ3hnRFFPOTlnLW5oazhoRkFYakFRUTlkaDQzRG5SM1NFR2_SAeABQVVfeXFMTlBLV3VLZFVmblBka1owckgwY0xsZ1k2ZG1rSmRxT3BOSXJ6Rktkb3E0XzgzNk0wLWtTLWxobk5PUWFsNWR1Y3lvbkRFUnZkMzROSW52bDZfdmR4cHFTc19BSmZjalVjYXoxbmZLSzBCU1hsaW5FczZLSVBZNWtuazYxQlZ0d2I4U1RxRzZ1c3kyUXNCR2NRcThMUk1qZ0NkRGRZUFZfNmVCSzh5VVJEcTJPRWRwNVFWT2ZvN0JncWpfU3o5WlItZWE3YmR1anA5eC1QOVlEOVdfVWUyblBkWWI?oc=5",
+     "ts": "2026-11-11T09:01:31Z",
+     "summary": ""
+    },
+    {
+     "id": "f81260b69fdc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KitGuru",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI breaks pre-order records on both PlayStation and Xbox",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONllybC1MT3o2SFJfYmUxMmk5Rmt4a1JkYkNacFlqcnJtcUlBMjBJNTRsaXo2ZlM2cDhkSGhZWWh3bHMxMFE5X1l1eDd0OE9jbjJSTTl3czJhbU9FX0dDamdfTGdmU1BrNmdKamdSbUF2N2FKTXF6UDdLb1FpLWVaRXBMM1RMTDgwTzhYWThELUg3bnRZUlhRcjNrU0lRREpnQ09UeTJRYjlyM3VTcEpJMEFuelIyQnJNa3hlcWlGUXRnNEtBQ053SURxUWJPdw?oc=5",
+     "ts": "2026-11-11T09:00:18Z",
+     "summary": ""
+    },
+    {
+     "id": "771cd27fcb09",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PlayStation Universe",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony Says Grand Theft Auto VI Is The Most Preordered Game In The PlayStation Store's History",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTG9rby01TWMxOTFxN1FFYXZycFNGWl9fZ0NEc1QxeWdFZGZrWjhLc2JRTkZMRkhaek8tVURNS0N2XzRBdTB0TDJCX0tjMWtCb1JKTEdVem1faWYwUEVFbWkwRUh5dlJtUHk0LU9SUzVVSjU3amt6WG45YUVoczM3NXF3elNnRm1oWk8zUEdRZ1lqNmZtZGR1c2Q1bGFrdVptRTU3cEFJSnRDZERfNWR3dFAwX01TLVh3?oc=5",
+     "ts": "2026-11-11T10:28:45Z",
+     "summary": ""
+    },
+    {
+     "id": "9285a5e47ea1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Loadout",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Pre-Orders Near 10 Million, and PS5 Is Crushing Xbox",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKZVZqc3daZzFqRjlPeG5xQXZXeUZJQVo1cV9DOHBFbklvQVhWZzdsN3FjOHp5dVJhUkZkQ1NTcXVQSXlYSWVzdC1KYXBMVEVSUW5rWGVNdlk2TGpRZHZLbVBqWmpuaDF6MmcxYXBMQS12TGlyNmRUa2pzZV9sdw?oc=5",
+     "ts": "2026-11-11T11:24:35Z",
+     "summary": ""
+    },
+    {
+     "id": "5e3b9a6c681b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Female First",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI is most pre-ordered game in history of both PlayStation Store and Microsoft Store",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPal8xTy10V08wVmdiQWE0LUdHUFM0Y2xHOVZldnA4VjlfRFZnNUY5OUJNX2FlQW8ySUQwVTRtbndjSHJsYVU5b1ZlRmdreVFsYmZwNWV3Q2ZFT1NXNjkzMWtYR3V4Mmx2VnVIRmlSUTlHWlYwdVVXblN4azFMWmpCbi1OMVNLYUtBQW1pUVVYRy1VZm5SeC1PZ0llbW5XcFhaalZ0UGdaQlZJM2RFRlZNMVdDMkR1Skk5cHJhWlFOSDZxdw?oc=5",
+     "ts": "2026-11-11T12:01:16Z",
+     "summary": ""
+    },
+    {
+     "id": "09bf41732143",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "mobidevices.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 побила рекорд предзаказов на PlayStation и Xbox",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IS2ZmajlTT2RnOUpSd1Fzd25SbGw5RDBSb2tOZy05MGpDeDJRUlBpZzl2ekRsY0FxY3MxSTBoSnJPVTlIUkFFZm5fSWs0Ql9VV3BlME9JUWN1LV9lRGsxTDFKbFVsRzJpZHo5N1hVMS1xNTZjRFZqZ2pLTzJ6QQ?oc=5",
+     "ts": "2026-11-11T12:07:27Z",
+     "summary": ""
+    },
+    {
+     "id": "67ef1c67bd09",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "mobidevices.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 breaks pre-order record on PlayStation and Xbox",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcHd1Y0wyRDZiUzhfa0RaRUdxMWNVcjY4UlFQOVBTMzRqTk16akdabGhFOS12S0JMLUxUZDIwcktUdGZhN2RHbXYwMmMwUzhFY1lVVzRPN1BYSEZCNWMzXzVjdERqdkVMcENtMWZzMk96VnRDZktObkVWM3U1YWtiWTln?oc=5",
+     "ts": "2026-11-11T12:07:44Z",
+     "summary": ""
+    },
+    {
+     "id": "590cdf5ac6b0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesIndustry.biz",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVNnYXVNOVJkX3ZTbzlhdzZQem0tMW9Jcmd2dEM1enhyWmlsemV6WDNlaHQwam9IOC1acnFocktKOWdfeUFncjY5eG41WXBNb1NYU1RqS29lUmtUVk8xRllXTldrY280NW9yS01URzE4c0VxVEp0ZDl0RnN0cW1MQVVRVFRYWExCZzlLeDEtcDkwYkFkNUtXSHJRQl9kQ3BfeHkw?oc=5",
+     "ts": "2026-11-11T12:10:40Z",
+     "summary": ""
+    },
+    {
+     "id": "a16a374a902c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mezha.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 is the most pre-ordered game on the PlayStation Store and Microsoft Store",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zWmRJTWJ6SmcteVBvc004dkFwbGFVYVg0MmowclVKMGVOV0I3cmxwdW94dkxfb0NJSDhJUGtEZW9PU05kWkNURHJMemY2QVVJSE16SThpMUFGdUlRQ0NKVWhrX2pVeVoybWVtU3N1VUVBVFVoM2c?oc=5",
+     "ts": "2026-11-11T12:20:30Z",
+     "summary": ""
+    },
+    {
+     "id": "ca761764413f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "A vulnerability with an activation code on a poster has been discovered in the physical edition of Grand Theft Auto VI.",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN3d2UFR2a2Jwb09QQ0JHR3JEblVHNHBPc2NHM2pOUUhteVNGMTdEeEpHTlNSeHNFWDROWkw5ajNEd3otTklYOTdqcGZhZTlYcDd1SlBTN2FIYkJyTDRNRE1RWTItWjBFVTJMR0g0eWE3Ri02OENzaUI2VldFeVlyY3NiZlB6bGpvb01DVExhZzdTNndMajF6UFk1VWdiclBKLXpBMXp0ckhhQ3RyaEZTX0RpSU80MFZKcnlpa1EzQkVSOFRReUE?oc=5",
+     "ts": "2026-11-11T06:39:29Z",
+     "summary": ""
+    },
+    {
+     "id": "d888a333d397",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 DualSense restock retailers: Where to buy the limited-edition PS5 controllers",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazU3am1ScTdrdWNKYmhOSzhnUWlCLWtURDdIb0N3ODk4RnBlS3M4emhDUklIQkR0LWhHekpINDRYRGdtcTUxX0tHOG1aZkVBX19lOGxxelR3RFhYeXhBNjBDTFFoSUEtZHY5OEc3cmoydDlFMzRhN0ZrVnBVVHR6SQ?oc=5",
+     "ts": "2026-11-11T13:06:19Z",
+     "summary": ""
+    },
+    {
+     "id": "8157f2ea0b70",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Will we be able to turn off ultimate edition content?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xth9vg/will_we_be_able_to_turn_off_ultimate_edition/",
+     "ts": "2026-11-11T13:06:58Z",
+     "summary": "I doubt anyone has any information on this but it would be nice not to get freebies and have to earn everything legit. submitted by /u/fukcall to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "be7201e6f27c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameDev.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaG5RbkpFelRFY1dkWHd6d0RVSXJ1WXpxYTJ6RnNVXy1PT1pBMV9XMG1xVi00MEhmbWNMbHpVaHVVcjJjMHhkQUlDNmVlVDNKYjVOWVM5b1p3ZjJ6eGlQWmt3SEdtcGVWS21taFdOUmh5Yml3eWZ5LW9iMEtUQUdVYk82T05QQTQtZ2lOQWFoOWkwLTRoRC16ZHkwWDkwNndIb0s4VU1B?oc=5",
+     "ts": "2026-11-11T12:39:14Z",
+     "summary": ""
+    },
+    {
+     "id": "ca1ae657f84f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI hits $1 BILLION in pre order revenue (10.3M+ copies sold) with 1 week still left before release. via Sensory Tower",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xthker/gta_vi_hits_1_billion_in_pre_order_revenue_103m/",
+     "ts": "2026-11-11T13:20:22Z",
+     "summary": "submitted by /u/poorna_sus14 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "late",
    "status": "new"
   },
   {
@@ -5387,47 +5587,6 @@
    "status": "new"
   },
   {
-   "id": "07e46c5096eb",
-   "title": "GTA 6 Festival: Travis Scott, Cardi B and Metro Boomin Headline Rockstar’s Miami Launch Party",
-   "first_seen": "2026-11-11T08:31:01Z",
-   "updated": "2026-11-11T10:10:51Z",
-   "items": [
-    {
-     "id": "07e46c5096eb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Fenix Bazaar",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Festival: Travis Scott, Cardi B and Metro Boomin Headline Rockstar’s Miami Launch Party",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vYWJRakFoR2pqVjFENVpGTGdVSi1KeTB6bFJPNjlBZ1VPX0Zsa29ydFpHQi1EZTViNWE2ak9HcEp2NGo5Z3doY0c1Zm55NVdqZkFZSEpkWUpsVkVvNUozOGZuYk81NE1XSFhmVHBGTlRWWEJfai1qYjdpMA?oc=5",
-     "ts": "2026-11-11T08:21:00Z",
-     "summary": ""
-    },
-    {
-     "id": "30ae545aceb4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Maxim",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Travis Scott, Cardi B, Kodak Black & More To Headline 'Grand Theft Auto VI: The Festival' In Miami",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWE0SkpnamNFQ1Z0V2NUWHM5ZWQxdXRxdmpUV0hSelpkOVBPQ2pZMEdUVDQyV2UtbUN3NHFUcUNaellTT2lBQllESnZZMFEtYzk1TXU3eFd5STNpNXNGWXprTlo5eGpPVjdLaHFXNmxNTFBTMXlkVkdWbkhOWWUxVWVJb0RCMnphVl9BaTI3WUJDdlZST294Uk1FdVdGYU05Y25sb2NrM0VpSEh2aFhnVlBvaWVVTzdDVkpycUNEQU5sbFJiZ0ZN?oc=5",
-     "ts": "2026-11-11T10:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
-  },
-  {
    "id": "44064facb0d7",
    "title": "Grand Theft Auto VI opens preloads nine days before launch",
    "first_seen": "2026-11-11T04:50:49Z",
@@ -8040,47 +8199,6 @@
    "score": 20,
    "level": "SPECULATION",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5496ef324352",
-   "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation Store",
-   "first_seen": "2026-11-11T04:40:43Z",
-   "updated": "2026-11-11T05:50:47Z",
-   "items": [
-    {
-     "id": "5496ef324352",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Компьютерра",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation Store",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1Fva2dEZW9GVUxXbVRHUWM1TTZkdlh0a19OWWxIXzRXT0w5dTZ6RFhoSWdFX0c1OWFTWmVzVXVqMUhuYS1WeG9ZdHpFUTVveVVaaDg5MkV1dmdlR2IxcWVjVXphZVRvRXRCZ1duZDJaV2xHVEI1NXdHU1pZbDdxZ2RHN2VkcENoNjJVa1dBcVR0TkZZUS1fbWRQb1ByaUEtTDBCTzZB?oc=5",
-     "ts": "2026-11-11T04:39:37Z",
-     "summary": ""
-    },
-    {
-     "id": "562378c745ac",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "airpress.kz",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation и Xbox",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlJmQnVLcFVOeHhnYVNfOEdNZVlQTXgxUHdldktuMVNvSkFUM3FYMkZPM1czLW1Uci1ndFdoRVhQdDdGREdBOFFrNkNqazhOUWlNRHptRVZKcVdoRjNCc2hOampWZUloaGJackRibjR3UEZyR3I5bDF1aVlhRUhFRXliMW9Rd3Ztb2Q4OQ?oc=5",
-     "ts": "2026-11-11T05:39:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 63,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -94726,199 +94844,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "37adfe82bf62",
-   "title": "20 Horror Movies To Get You Ready For GTA 6",
-   "first_seen": "2026-11-04T13:20:53Z",
-   "updated": "2026-11-04T13:40:55Z",
-   "items": [
-    {
-     "id": "37adfe82bf62",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "20 Horror Movies To Get You Ready For GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR1RNMTlvSmszR1hWX2VCOHVMT04yV3lieXZkQVplYS1yX0VWdmRjTkJWUHYxXy1mcG11ZHVxNUpUeUJIdm0yM2VlZEtsWVF5OElUajkxUTk4a1JFRUlNYmltRURjR3k0NUZJZmFWVTN1cXdGZElQZ0xad0RUMThhdUhWUkpnV25BZ2poSDZGY2djdWVHTkJGLQ?oc=5",
-     "ts": "2026-11-04T12:12:28Z",
-     "summary": ""
-    },
-    {
-     "id": "0096aec4999b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WhatCulture.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "20 Horror Movies To Get You Ready For GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMk1nSURiTUg0d2pSUllUVXEzRzJSN0F4OFdWS2Y1Z0tUWjhnUVlNVDhXVVJUSVAzUm5MdWoxYkJDRDl2R3Nhc2o0TDlsYVVKTXoxTXV0SEk2czlOWUg3U3hXTFBZS1pPN25NdnYxdVBGU2hacjdndENZdjNjaGc?oc=5",
-     "ts": "2026-11-04T12:12:28Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "20 хорроров, чтобы настроиться на GTA 6",
-    "summary": "Yahoo и WhatCulture составили подборку из 20 хоррор-фильмов, которые помогут настроиться на GTA 6. Журналисты предлагают посмотреть их перед релизом игры.",
-    "idea": "Короткий топ-5 хорроров из подборки с кадрами из фильмов и GTA 6 — чтобы зритель сразу получил готовый список для вечера.",
-    "hook": "До GTA 6 — две недели? Вот 5 хорроров, чтобы настроиться на Вайс-Сити.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-04T13:40:59Z"
-   },
-   "msg_id": 501
-  },
-  {
-   "id": "ce4768f7306e",
-   "title": "Фанат GTA VI , мечтавший дожить до выхода игры, умер за три недели до релиза",
-   "first_seen": "2026-11-03T14:01:23Z",
-   "updated": "2026-11-04T13:40:55Z",
-   "items": [
-    {
-     "id": "ce4768f7306e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ВКонтакте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Фанат GTA VI , мечтавший дожить до выхода игры, умер за три недели до релиза",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xRW91M296bXNxSndEbnN4YzAtd29DTnRxTjZ5bF9wVHMwX1JpRWcwTlcwZ2psb2Z4aHdVcjloVmctcElRVjdra1JkVWI?oc=5",
-     "ts": "2026-11-03T09:17:54Z",
-     "summary": ""
-    },
-    {
-     "id": "26e5838a0073",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Liter.kz",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Фанат GTA VI, мечтавший дожить до релиза игры, умер за три недели до выхода",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUxBZkZsMnIxaVJDSzJaU2xwY0FleXBkajZwQWR2WGNnTFNxenNGV1oyS3podU1ocHpMVnN3NHlDa21vUmpzVGJUbmNLNXlGZXRwWFNQdVFxT0lEenVPdVV2TmMyQTNYWU9qRjBCTDNISDR0TUlGMDNtN245VklSb0hUYmxHQzRfM1RCR2N1enZ6Uk5ZRWlfVEJ2ejRqcnEwNW1INW43TE_SAa4BQVVfeXFMTkd1b2p1QzBFak9jSy1jRG9lVXR6VWU0eUVUZzFDUEdvck5mY1NocjFyeFBTeE5icElpZnVJQ1NLa3NlVldNNzI2UTlpXzlmSEY5R1Jjc2k1ZTJxLWNGam1paU1WZE0yWFdpcG15TjAyVS0ycGx1Ty1nb19UTHpUeW5jU1ZFTmpoRlpwdEVDUDZvVmwtdW12cERheUNGSlBnSF90Ul9kMmk3X1hqZ2pR?oc=5",
-     "ts": "2026-11-03T22:13:00Z",
-     "summary": ""
-    },
-    {
-     "id": "0deadabeca6b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ВКонтакте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Фанат GTA 6 мечтал дожить до выхода игры, но умер за три недели до релиза. Джерри Стивенс, известный под ником... 2026",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ONi1vd3l6U2VhaFpMN1FQdjVRdjM3SktFVGZNLUhZNjVwNnFLS2ttTndHTXhPQzFVSmJ3WFVEN2JsUFdzLXhQNmVrQQ?oc=5",
-     "ts": "2026-11-04T10:24:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 48,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b4c055f68243",
-   "title": "Rockstar объявила точную дату начала предварительной загрузки GTA 6",
-   "first_seen": "2026-11-04T13:40:55Z",
-   "updated": "2026-11-04T13:40:55Z",
-   "items": [
-    {
-     "id": "b4c055f68243",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "24 Канал",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar объявила точную дату начала предварительной загрузки GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTNTSjEyTTc4R2FVcHlWb3dueGJOREhQZ1dRNFBGUGNETTRiTTJNTlVpaXhWdDdPeVhYQUlFRHBEV0x5Y0JoQzZWZHpETGN2NVBMREZiRmdTUkRzUGVEYTEzYkJpSUVMOXd5UHZ2U0VfWkhfZmVRT3k3clZQMlpQbzlNS2hCMWZBSXJQMGstcE9fMElBSXhWaUdBV1RJS2FORGpDUEp3Y2LSAa4BQVVfeXFMTWlURnZoWFgzM250R0Y2bzJiR2FCMFd3QkUzV0FacXhxVVItSzVYOEE0X0dZc3ZpdWxTcjJFblUwcnNmcUpFQWFyNm9maFZfbi1KTFkyRlIzSkhabkVsTEg0VEw3ejNSdDhkVFJzTmxIbFhzX1pIT212dFpDeHBwYWwzWXVGbzR3Q0NqOFNUWjZXUDZSdWhDaDF5TXRIVEVucWdoeDBLeWY0U1BBMlhn?oc=5",
-     "ts": "2026-11-04T13:31:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "1345e81405e0",
-   "title": "На сайте PlayStation якобы раскрыли особенности GTA 6 на PS5 Pro — но пользователи заподозрили фейк",
-   "first_seen": "2026-11-04T13:40:55Z",
-   "updated": "2026-11-04T13:40:55Z",
-   "items": [
-    {
-     "id": "1345e81405e0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VGTimes",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "На сайте PlayStation якобы раскрыли особенности GTA 6 на PS5 Pro — но пользователи заподозрили фейк",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdWRuOUpLX0tFeE5vaUFManB5Z3BCYkxvdHdZSDN0dnZmNk0xRXJ3dVBHRnFxOHFzbWxXU3V4M3ExeU5rY3ZDS0RmYUNMb1FlN283LVdaYkpZbGU0TV83TkZMNEFPSVZ0SGJJeDY2ZVlpMXNvNGtRa2QxUzUxdWpBQnZaR3VKQkd1anlGSkFWTHpPTFJUNURvWFo3WU1tbGkwQnF3NS16YmVYc0c2S2dhbkJLWFA2VmZDaWstZDNJcFEzNXNvZmdlWTBuZG5veVBpTFZ0RExqNA?oc=5",
-     "ts": "2026-11-04T13:31:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7a97bd1a174d",
-   "title": "Rockstar Announces GTA 6 Physical Map Will Be Sold After Launch – How to Buy",
-   "first_seen": "2026-11-04T13:40:55Z",
-   "updated": "2026-11-04T13:40:55Z",
-   "items": [
-    {
-     "id": "7a97bd1a174d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "VICE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Announces GTA 6 Physical Map Will Be Sold After Launch – How to Buy",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTVuNkhGLWdxX0tRWjYwdUx4bWphNXdZN0tlSjlCYmhDcGZGNURuajV1a2txeVVONXBIYmp6Q0JRWEpSNDcwb0Q1ZXp6RThxaXdMd21Rd1NDMUlidDA3QWZzQ0JqNEVaeUxCNnZ2M2M3X2NqdjlWbXVHdTJoczY5cGpJbXpEd3JQ?oc=5",
-     "ts": "2026-11-04T13:32:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-11T13:31:11Z",
+  "last_run": "2026-11-11T13:40:59Z",
   "last_log": [
-   "rockstar_site: 0/15",
+   "rockstar_site: 0/18",
    "gnews_en: 98/100",
-   "gnews_ru: 98/100",
+   "gnews_ru: 97/100",
    "gamesbeat: 2/10",
    "vgc: 1/10",
    "insider_gaming: 3/10",
