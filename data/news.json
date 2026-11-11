@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "c844b2bb6d6a",
+   "title": "GTA 6 in Japan Has a Smaller PS5 Build With a Different Content Rating",
+   "first_seen": "2026-11-11T08:40:45Z",
+   "updated": "2026-11-11T08:50:49Z",
+   "items": [
+    {
+     "id": "c844b2bb6d6a",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 In Japan Has a No Sexual-Content Rating",
+     "url": "https://www.gtaboom.com/gta-6-in-japan-has-a-no-sexual-content-rating-6269",
+     "ts": "2026-11-11T08:36:06Z",
+     "summary": "Japan's GTA 6 PS5 build is 1.188 GB smaller than the global version and its CERO rating lacks the sexual content icon."
+    },
+    {
+     "id": "55c30a47dcbf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GTA BOOM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 in Japan Has a Smaller PS5 Build With a Different Content Rating",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SYkNYQ1RaMjUtWUF5WE9DMkt1LUNzTVN4dDhWbzhCcWkwZktlcW8zNnhrUVRjNlhWbElTTmRZSWZSRlJpLWxVV3JaZjFraEV1VTRtdmlQZlQwU1pjMS1hUm1KMlVCMUFYSnF3ZnZpT244a0RMb2lWZGthUS1Mc3M?oc=5",
+     "ts": "2026-11-11T08:36:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "👀 Японская версия GTA 6 на PS5 «легче» глобальной на 1,188 ГБ",
+    "summary": "По данным GTA Boom, японская версия GTA 6 на PS5 весит на 1,188 ГБ меньше глобальной. У японской сборки CERO-рейтинг без иконки сексуального контента.",
+    "idea": "Сравнение размеров: показываем разницу в 1,188 ГБ и предполагаем, что вырезали. Зрителю интересно, что именно убрали и влияет ли это на игру.",
+    "hook": "Японская GTA 6 на PS5 «легче» глобальной на 1,188 ГБ. Что вырезали?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-11T08:40:50Z"
+   },
+   "msg_id": 773
+  },
+  {
+   "id": "3fa4970a70a8",
+   "title": "Максимальное погружение в GTA 6 – разработчики раскрыли новые особенности игры для владельцев PS5",
+   "first_seen": "2026-11-11T08:50:49Z",
+   "updated": "2026-11-11T08:50:49Z",
+   "items": [
+    {
+     "id": "3fa4970a70a8",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "24 Канал",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Максимальное погружение в GTA 6 – разработчики раскрыли новые особенности игры для владельцев PS5",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdGZjZXk4dXlZZ25DQnNYZlFiN3BWTWRBdE1mMmVKZ0V4MjdoRzZVWGUwNkQtR2EyMmo3UnAwOUpjb0gtRElaV21xcTdSNE96djIwQzM1Y05vbmtmeVgzVzRCN1FreXdqM3VUeEN3OFFWeXBXNnBFN2dZa1lTT2MzOXJkaXpzTGc1bHZIUW9LY05VU1pCTGlhOGtfNlprS1hRd3g0cUd0WmgxQnNjUDNMMi1zZklCUWhpODAwVzUwYWNORm9saWQySUJKVUJGWkF4Y3lReHVxSTFFNndLa05CYmRTTlTSAeoBQVVfeXFMTmQ0cWx4N3lEVTgwUVFtZWh2TzFpNEdtTDFvN1ZrRXBRSnFBMWJvZFV6alVCRTlUNC12T3J1VUxUS25tRmo0MlRfQ0cySkN6aUpIV3hINnJfTmZEZkVzT2J3SW5sQ2JSZ0hiVFFSTExtcWUyLXpNakJLTW9YbGFUcEUzRjZvZUFpbXFvNkZOaEJjSVUtRjZvV293amhNdEJVM2dDYnZoc0M4WkRUM2pjMVZYRzJFbi1KTjJLOHA0cU5MQ25OYS13b0ZrOGtTUEk3emFBaXNYWElCaVpHTWNMd3V2Yk9LeGFLc0FR?oc=5",
+     "ts": "2026-11-11T08:43:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9d8f744e28fc",
    "title": "Waiting for release got me into making this!",
    "first_seen": "2026-11-10T12:40:50Z",
@@ -155,45 +233,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c844b2bb6d6a",
-   "title": "GTA 6 In Japan Has a No Sexual-Content Rating",
-   "first_seen": "2026-11-11T08:40:45Z",
-   "updated": "2026-11-11T08:40:45Z",
-   "items": [
-    {
-     "id": "c844b2bb6d6a",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA 6 In Japan Has a No Sexual-Content Rating",
-     "url": "https://www.gtaboom.com/gta-6-in-japan-has-a-no-sexual-content-rating-6269",
-     "ts": "2026-11-11T08:36:06Z",
-     "summary": "Japan's GTA 6 PS5 build is 1.188 GB smaller than the global version and its CERO rating lacks the sexual content icon."
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "👀 Японская версия GTA 6 на PS5 «легче» глобальной на 1,188 ГБ",
-    "summary": "По данным GTA Boom, японская версия GTA 6 на PS5 весит на 1,188 ГБ меньше глобальной. У японской сборки CERO-рейтинг без иконки сексуального контента.",
-    "idea": "Сравнение размеров: показываем разницу в 1,188 ГБ и предполагаем, что вырезали. Зрителю интересно, что именно убрали и влияет ли это на игру.",
-    "hook": "Японская GTA 6 на PS5 «легче» глобальной на 1,188 ГБ. Что вырезали?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-11T08:40:50Z"
-   },
-   "msg_id": 773
   },
   {
    "id": "86801b91e13a",
@@ -94186,89 +94225,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "97e91b96d5d3",
-   "title": "GTA 6 or the real Miami? This image comparison makes fans look twice",
-   "first_seen": "2026-11-04T08:40:54Z",
-   "updated": "2026-11-04T08:40:54Z",
-   "items": [
-    {
-     "id": "97e91b96d5d3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Notebookcheck",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 or the real Miami? This image comparison makes fans look twice",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2c5ZzBIOU9CNHRDQjAtZzJ2NEFXcFFPQ2cyVnIyYXFtNmhJN19lYW5CcjNLQ1BDMmJlVVpwNERZWTJUUWNEc2Z4VXJQUHRTNEFDWldXNXFzVUFFQmtQYWtlNl9ueGNtb3psc3dLU2ZGMDJtVnZ3UHdrS1JDTlZvWEJESlliOTRVOWktb25oTHZrMGdrUUJGVENMcEtfa3lXdDlrcHBLWFUwci03WVJfeWVR?oc=5",
-     "ts": "2026-11-04T08:28:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "96fd3416c28b",
-   "title": "When do GTA 6 reviews come out? Reportedly November 18, the day before launch",
-   "first_seen": "2026-11-04T08:40:54Z",
-   "updated": "2026-11-04T08:40:54Z",
-   "items": [
-    {
-     "id": "96fd3416c28b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Nacionale",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "When do GTA 6 reviews come out? Reportedly November 18, the day before launch",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelVEWW9YTHlrNUxqMEpYVFdQR1JqdVFuTzRLOExVQnhMaktGUXMyaUoxOUtEbS0ydGNiWXpmTFk3UzZiazcydHRCdDZBMF9vSlNWNnNiblY1cGdiRGlmUjlWLUxnSXZKNGRKSVh4UXhaaFRZclVUTVBHYWVZQTRxU01tNmtvY1BlSmhlV0tQbUFaS3BXbWZKQmFQbw?oc=5",
-     "ts": "2026-11-04T08:30:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6022a1695637",
-   "title": "Trying to pre order the black controller on the PlayStation site",
-   "first_seen": "2026-11-04T08:40:54Z",
-   "updated": "2026-11-04T08:40:54Z",
-   "items": [
-    {
-     "id": "6022a1695637",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Trying to pre order the black controller on the PlayStation site",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xnj38r/trying_to_pre_order_the_black_controller_on_the/",
-     "ts": "2026-11-04T08:33:56Z",
-     "summary": "It says its in stock but when i try to order it it says something went wrong?! submitted by /u/Conscious_Bird_8510 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-11T08:40:51Z",
+  "last_run": "2026-11-11T08:50:49Z",
   "last_log": [
    "rockstar_site: 0/12",
    "gnews_en: 97/100",
@@ -94280,7 +94241,7 @@
    "eurogamer: 8/100",
    "dexerto_gta: 6/50",
    "rockstarintel: 10/10",
-   "gtaboom: 15/30",
+   "gtaboom: 14/30",
    "reddit: 23/25",
    "tg_gtavistar: 14/17",
    "tg_gta6deluxe: 15/15",
