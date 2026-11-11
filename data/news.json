@@ -1,6 +1,35 @@
 {
  "stories": [
   {
+   "id": "ad2037dad524",
+   "title": "Kinda of convenient",
+   "first_seen": "2026-11-11T06:11:02Z",
+   "updated": "2026-11-11T06:11:02Z",
+   "items": [
+    {
+     "id": "ad2037dad524",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Kinda of convenient",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xta59b/kinda_of_convenient/",
+     "ts": "2026-11-11T06:03:18Z",
+     "summary": "Isn’t it kinda of convenient that Rockstar decided to officially announce it’ll be 30 fps 8 days before launch… also after preloading because if yall didn’t know refunds are unavailable after downloading on the PSN store. Before everyone comes at me saying they never announced it was going to be 60 FPS. They never announced it wouldn’t either? They knew from the start it was bad news. submitted by /u/According-Annual-679 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс",
+    "размер/preload"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "1403a9c297b7",
    "title": "GTA VI, которую уже можно скачать во всём мире, принесла разработчикам $1 млрд ещё до начала продаж. Новый трейлер",
    "first_seen": "2026-11-11T05:20:51Z",
@@ -93177,42 +93206,13 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7be465158dff",
-   "title": "💔 ДОЖИТЬ ДО GTA VI Комьюнити собрало фанату GTA более $50 000 на жизненно необходимую операцию по пересадке легких.",
-   "first_seen": "2026-11-04T06:10:53Z",
-   "updated": "2026-11-04T06:10:53Z",
-   "items": [
-    {
-     "id": "7be465158dff",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "💔 ДОЖИТЬ ДО GTA VI Комьюнити собрало фанату GTA более $50 000 на жизненно необходимую операцию по пересадке легких.",
-     "url": "https://t.me/GTA6_m/9298",
-     "ts": "2026-11-04T06:05:05Z",
-     "summary": "💔 ДОЖИТЬ ДО GTA VI Комьюнити собрало фанату GTA более $50 000 на жизненно необходимую операцию по пересадке легких. 🎁 В ролике из больницы он раскритиковал Rockstar за переносы и сказал, что его мечта — успеть поиграть в GTA VI Видео разлетелось на 8 МИЛЛИОНОВ…"
-    }
-   ],
-   "tags": [
-    "дата/перенос",
-    "цена/издания"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-11T06:01:29Z",
+  "last_run": "2026-11-11T06:11:02Z",
   "last_log": [
-   "rockstar_site: 0/10",
+   "rockstar_site: 0/6",
    "gnews_en: 99/100",
    "gnews_ru: 95/100",
    "gamesbeat: 2/10",
@@ -93226,7 +93226,7 @@
    "reddit: 22/25",
    "tg_gtavistar: 14/17",
    "tg_gta6deluxe: 15/15",
-   "tg_gta6_m: 18/18",
+   "tg_gta6_m: 17/18",
    "tg_gta6newsdaily: 0/16"
   ],
   "digest": "2026-11-11@9",
