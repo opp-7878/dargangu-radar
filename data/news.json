@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "5496ef324352",
+   "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation Store",
+   "first_seen": "2026-11-11T04:40:43Z",
+   "updated": "2026-11-11T04:40:43Z",
+   "items": [
+    {
+     "id": "5496ef324352",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Компьютерра",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI стала самой предзаказываемой игрой в истории PlayStation Store",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1Fva2dEZW9GVUxXbVRHUWM1TTZkdlh0a19OWWxIXzRXT0w5dTZ6RFhoSWdFX0c1OWFTWmVzVXVqMUhuYS1WeG9ZdHpFUTVveVVaaDg5MkV1dmdlR2IxcWVjVXphZVRvRXRCZ1duZDJaV2xHVEI1NXdHU1pZbDdxZ2RHN2VkcENoNjJVa1dBcVR0TkZZUS1fbWRQb1ByaUEtTDBCTzZB?oc=5",
+     "ts": "2026-11-11T04:39:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "7ef418e835ac",
    "title": "Взлом PS5 для GTA VI сорван: хакеры испугались суда",
    "first_seen": "2026-11-10T16:01:27Z",
@@ -92905,92 +92933,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "8a1647bd7540",
-   "title": "how its gon be scrolling through socials on nov19",
-   "first_seen": "2026-11-04T04:31:09Z",
-   "updated": "2026-11-04T04:31:09Z",
-   "items": [
-    {
-     "id": "8a1647bd7540",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "how its gon be scrolling through socials on nov19",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xnevub/how_its_gon_be_scrolling_through_socials_on_nov19/",
-     "ts": "2026-11-04T04:26:59Z",
-     "summary": "submitted by /u/yohospi to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "63a9260d79b0",
-   "title": "What are your biggest theories about the story of GTA 6?",
-   "first_seen": "2026-11-04T04:31:09Z",
-   "updated": "2026-11-04T04:31:09Z",
-   "items": [
-    {
-     "id": "63a9260d79b0",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What are your biggest theories about the story of GTA 6?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xnewa2/what_are_your_biggest_theories_about_the_story_of/",
-     "ts": "2026-11-04T04:27:38Z",
-     "summary": "We haven't been told much about the game's story so far, so I want to know what you think will happen. I want to come back here after finishing the game to see if anyone guessed correctly. submitted by /u/Impossible-Flow-4512 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d8348beeab9a",
-   "title": "CANT BELIEVE THIS IS MY LIFE",
-   "first_seen": "2026-11-04T04:31:09Z",
-   "updated": "2026-11-04T04:31:09Z",
-   "items": [
-    {
-     "id": "d8348beeab9a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "CANT BELIEVE THIS IS MY LIFE",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xneyao/cant_believe_this_is_my_life/",
-     "ts": "2026-11-04T04:30:33Z",
-     "summary": "submitted by /u/irock607 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-11T04:30:58Z",
+  "last_run": "2026-11-11T04:40:43Z",
   "last_log": [
-   "rockstar_site: 0/8",
-   "gnews_en: 98/100",
+   "rockstar_site: 0/7",
+   "gnews_en: 99/100",
    "gnews_ru: 96/100",
    "gamesbeat: 2/10",
    "vgc: 2/10",
