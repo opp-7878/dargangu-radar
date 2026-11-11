@@ -1,6 +1,97 @@
 {
  "stories": [
   {
+   "id": "250d935b0609",
+   "title": "🤣 Что увидит тот самый бро,который не интересуется играми, когда выйдет на работу 19 ноября: 🥺 Канал про GTA 6 | Наш чат",
+   "first_seen": "2026-11-11T05:10:49Z",
+   "updated": "2026-11-11T05:10:49Z",
+   "items": [
+    {
+     "id": "250d935b0609",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🤣 Что увидит тот самый бро,который не интересуется играми, когда выйдет на работу 19 ноября: 🥺 Канал про GTA 6 | Наш чат",
+     "url": "https://t.me/GTA6_m/9340",
+     "ts": "2026-11-11T05:05:05Z",
+     "summary": "🤣 Что увидит тот самый бро,который не интересуется играми, когда выйдет на работу 19 ноября: 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "63bd989f0d15",
+   "title": "Record Pre-Orders on PS and MS... 'GTA 6' Pre-Downloads Begin",
+   "first_seen": "2026-11-11T05:10:49Z",
+   "updated": "2026-11-11T05:10:49Z",
+   "items": [
+    {
+     "id": "63bd989f0d15",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Inven Global",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Record Pre-Orders on PS and MS... 'GTA 6' Pre-Downloads Begin",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDJVYVAxYnBvLWsyb2MzQVhIVjRRcnFKMEhicE1DNWdxeXVpbzNrNUpZQzVhSFFlcnZIZHgtVVpSb21oS2d6ZUxtMGk4MmF4SHNoVXVZRE1WUnprM01oSkVWQldnUVJLNm5IZFhDR2pnMjdTSml5WHZiSnBaTm1QY0kwR3RsYlZlQnJoUUxIYXF3VDd3RGlXd0dnTmw0OXI5?oc=5",
+     "ts": "2026-11-11T05:05:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️ GTA 6: рекордные предзаказы и старт предзагрузки",
+    "summary": "По данным Inven Global, предзаказы GTA 6 на PS5 и Xbox Series X|S установили рекорд, а предзагрузка уже началась. Источник отмечает ажиотаж игроков перед релизом.",
+    "idea": "Короткий ролик о рекордных предзаказах и старте предзагрузки GTA 6 — почему это важно игрокам. Покажем цифры, шкалу загрузки и дату 19.11.",
+    "hook": "Предзагрузка GTA 6 стартовала, а предзаказы бьют рекорды на PlayStation и Xbox.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-11T05:10:53Z"
+   },
+   "msg_id": 769
+  },
+  {
+   "id": "2dc56da6a680",
+   "title": "Massive painting done, marking exactly 1 week until GTA 6 releases here in Australia",
+   "first_seen": "2026-11-11T05:10:49Z",
+   "updated": "2026-11-11T05:10:49Z",
+   "items": [
+    {
+     "id": "2dc56da6a680",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Massive painting done, marking exactly 1 week until GTA 6 releases here in Australia",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt95zj/massive_painting_done_marking_exactly_1_week/",
+     "ts": "2026-11-11T05:08:32Z",
+     "summary": "In Brisbane, Australia submitted by /u/Rsodyyy to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "55c4b4f23066",
    "title": "Rockstar confirms GTA 6 targets 30 FPS, with PS5 Pro-exclusive ray-tracing",
    "first_seen": "2026-11-10T14:10:48Z",
@@ -92971,41 +93062,13 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f52cabc80569",
-   "title": "Should I preorder GTA 6 or wait?",
-   "first_seen": "2026-11-04T05:10:49Z",
-   "updated": "2026-11-04T05:10:49Z",
-   "items": [
-    {
-     "id": "f52cabc80569",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Should I preorder GTA 6 or wait?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xnfmlf/should_i_preorder_gta_6_or_wait/",
-     "ts": "2026-11-04T05:06:22Z",
-     "summary": "Bought a PS5 last year mainly because I was excited for GTA 6. But now I've heard it might only run at 30 FPS. Not gonna lie, I was hoping for 60 FPS, so that's a bit disappointing. I'm still really hyped for the game, but I'm not sure if I should preorder it or just wait until people test how it runs. What would you guys do? Preorder or wait for reviews? submitted by /u/Additional_Host_3500 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-11T05:01:17Z",
+  "last_run": "2026-11-11T05:10:54Z",
   "last_log": [
-   "rockstar_site: 0/11",
+   "rockstar_site: 0/7",
    "gnews_en: 99/100",
    "gnews_ru: 95/100",
    "gamesbeat: 2/10",
@@ -93019,7 +93082,7 @@
    "reddit: 23/25",
    "tg_gtavistar: 14/17",
    "tg_gta6deluxe: 15/15",
-   "tg_gta6_m: 17/18",
+   "tg_gta6_m: 18/18",
    "tg_gta6newsdaily: 0/16"
   ],
   "digest": "2026-11-10@21",
