@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "7eac6b5cb401",
+   "title": "Is anybody else gonna play the game just... alone?",
+   "first_seen": "2026-11-11T16:06:05Z",
+   "updated": "2026-11-11T16:06:05Z",
+   "items": [
+    {
+     "id": "7eac6b5cb401",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Is anybody else gonna play the game just... alone?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xtlinn/is_anybody_else_gonna_play_the_game_just_alone/",
+     "ts": "2026-11-11T16:01:43Z",
+     "summary": "As someone who doesn't really have anyone to play the game with, I'm just gonna sit on my ass infront of the TV in my apartment and boot up the most anticipated game of all time - alone. Feels a little weird I gotta be honest, but not the end of the world. Just feels like something to do with a group of friends but I don't have any 😂 Is anybody else in the same boat? 😆 submitted by /u/Ashamed_Ad1622 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f4bd840c854f",
+   "title": "GTA 5 players, are you emotionally ready to leave Los Santos?",
+   "first_seen": "2026-11-11T16:06:05Z",
+   "updated": "2026-11-11T16:06:05Z",
+   "items": [
+    {
+     "id": "f4bd840c854f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 5 players, are you emotionally ready to leave Los Santos?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xtljr0/gta_5_players_are_you_emotionally_ready_to_leave/",
+     "ts": "2026-11-11T16:02:46Z",
+     "summary": "We've spent over a decade here. Los Santos will always have a special place in gaming history. submitted by /u/godofassault to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "64e22717ba8c",
+   "title": "TGG answering a question about the bloomy look in the last two trailers. Hopefully this puts people's minds at rest!",
+   "first_seen": "2026-11-11T16:06:05Z",
+   "updated": "2026-11-11T16:06:05Z",
+   "items": [
+    {
+     "id": "64e22717ba8c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "TGG answering a question about the bloomy look in the last two trailers. Hopefully this puts people's minds at rest!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xtllp5/tgg_answering_a_question_about_the_bloomy_look_in/",
+     "ts": "2026-11-11T16:04:47Z",
+     "summary": "submitted by /u/SFDM99 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "768bfd6ec0a7",
    "title": "‘GTA 6’ officially launches next week and is available for pre-load now: Everything you need to know about the highly anticipated Rockstar game",
    "first_seen": "2026-11-10T16:31:17Z",
@@ -94271,12 +94351,12 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-11T16:01:23Z",
+  "last_run": "2026-11-11T16:06:05Z",
   "last_log": [
-   "rockstar_site: 0/17",
-   "gnews_en: 98/100",
-   "gnews_ru: 95/100",
-   "gamesbeat: 2/10",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "gamesbeat: 1/10",
    "vgc: 2/10",
    "insider_gaming: 3/10",
    "ign: 0/20",
