@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "6be8b62cf3f7",
+   "title": "Missing Data Has GTA 6 Fans Worried It Might Be Censored In Australia And New Zealand",
+   "first_seen": "2026-11-11T02:50:46Z",
+   "updated": "2026-11-11T02:50:46Z",
+   "items": [
+    {
+     "id": "6be8b62cf3f7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Missing Data Has GTA 6 Fans Worried It Might Be Censored In Australia And New Zealand",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc09Ma1NLbThjNFRoaE1IY005dndDZGlNSzhGWUk3b3VHaGhQTnZKQTY0RVQ0YlByYkVFS2Q0NjEyX0I4dTk4T1BWd3dTZWtaQ0xkYUlwRnA0anFVcWZnNzBseXVQck9paW1HcFVRMXY2RThjbnBRV0EyNUx3a1dIZ1RIaGwtSk9JdFlhU0NtOVNiaG10R2pEbzZxQkNETlZqSjFfZVdqS1U0Z3VPZW9ueHRiTXA3RlZ3dHM0?oc=5",
+     "ts": "2026-11-11T02:46:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "55c4b4f23066",
    "title": "Rockstar confirms GTA 6 targets 30 FPS, with PS5 Pro-exclusive ray-tracing",
    "first_seen": "2026-11-10T14:10:48Z",
@@ -92760,43 +92786,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b91a9647dc84",
-   "title": "Трейлер GTA 6 с русской озвучкой от GamesVoice появился в Сети",
-   "first_seen": "2026-11-04T02:40:51Z",
-   "updated": "2026-11-04T02:40:51Z",
-   "items": [
-    {
-     "id": "b91a9647dc84",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "TOPNews.RU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Трейлер GTA 6 с русской озвучкой от GamesVoice появился в Сети",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UR3h3R1oyS0NMRG9JbnNIRVFZVjkzQnpXU3N1YU1lWmdmcUtLcVhmRlNfSi04Zm56dkNqQk5wb1JMdFMzdWl5ckJ3eEJKVG1GTWpzaktwWQ?oc=5",
-     "ts": "2026-11-03T13:00:05Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-11T02:40:50Z",
+  "last_run": "2026-11-11T02:50:46Z",
   "last_log": [
-   "rockstar_site: 0/4",
-   "gnews_en: 99/100",
-   "gnews_ru: 98/100",
+   "rockstar_site: 0/8",
+   "gnews_en: 98/100",
+   "gnews_ru: 97/100",
    "gamesbeat: 2/10",
    "vgc: 2/10",
    "insider_gaming: 0/10",
