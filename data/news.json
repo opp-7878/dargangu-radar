@@ -1,101 +1,10 @@
 {
  "stories": [
   {
-   "id": "250d935b0609",
-   "title": "🤣 Что увидит тот самый бро,который не интересуется играми, когда выйдет на работу 19 ноября: 🥺 Канал про GTA 6 | Наш чат",
-   "first_seen": "2026-11-11T05:10:49Z",
-   "updated": "2026-11-11T05:10:49Z",
-   "items": [
-    {
-     "id": "250d935b0609",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "🤣 Что увидит тот самый бро,который не интересуется играми, когда выйдет на работу 19 ноября: 🥺 Канал про GTA 6 | Наш чат",
-     "url": "https://t.me/GTA6_m/9340",
-     "ts": "2026-11-11T05:05:05Z",
-     "summary": "🤣 Что увидит тот самый бро,который не интересуется играми, когда выйдет на работу 19 ноября: 🥺 Канал про GTA 6 | Наш чат"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "63bd989f0d15",
-   "title": "Record Pre-Orders on PS and MS... 'GTA 6' Pre-Downloads Begin",
-   "first_seen": "2026-11-11T05:10:49Z",
-   "updated": "2026-11-11T05:10:49Z",
-   "items": [
-    {
-     "id": "63bd989f0d15",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Inven Global",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Record Pre-Orders on PS and MS... 'GTA 6' Pre-Downloads Begin",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDJVYVAxYnBvLWsyb2MzQVhIVjRRcnFKMEhicE1DNWdxeXVpbzNrNUpZQzVhSFFlcnZIZHgtVVpSb21oS2d6ZUxtMGk4MmF4SHNoVXVZRE1WUnprM01oSkVWQldnUVJLNm5IZFhDR2pnMjdTSml5WHZiSnBaTm1QY0kwR3RsYlZlQnJoUUxIYXF3VDd3RGlXd0dnTmw0OXI5?oc=5",
-     "ts": "2026-11-11T05:05:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️ GTA 6: рекордные предзаказы и старт предзагрузки",
-    "summary": "По данным Inven Global, предзаказы GTA 6 на PS5 и Xbox Series X|S установили рекорд, а предзагрузка уже началась. Источник отмечает ажиотаж игроков перед релизом.",
-    "idea": "Короткий ролик о рекордных предзаказах и старте предзагрузки GTA 6 — почему это важно игрокам. Покажем цифры, шкалу загрузки и дату 19.11.",
-    "hook": "Предзагрузка GTA 6 стартовала, а предзаказы бьют рекорды на PlayStation и Xbox.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-11T05:10:53Z"
-   },
-   "msg_id": 769
-  },
-  {
-   "id": "2dc56da6a680",
-   "title": "Massive painting done, marking exactly 1 week until GTA 6 releases here in Australia",
-   "first_seen": "2026-11-11T05:10:49Z",
-   "updated": "2026-11-11T05:10:49Z",
-   "items": [
-    {
-     "id": "2dc56da6a680",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Massive painting done, marking exactly 1 week until GTA 6 releases here in Australia",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xt95zj/massive_painting_done_marking_exactly_1_week/",
-     "ts": "2026-11-11T05:08:32Z",
-     "summary": "In Brisbane, Australia submitted by /u/Rsodyyy to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "55c4b4f23066",
    "title": "Rockstar confirms GTA 6 targets 30 FPS, with PS5 Pro-exclusive ray-tracing",
    "first_seen": "2026-11-10T14:10:48Z",
-   "updated": "2026-11-11T05:01:17Z",
+   "updated": "2026-11-11T05:20:51Z",
    "items": [
     {
      "id": "55c4b4f23066",
@@ -1136,6 +1045,19 @@
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNk03eXdmUzdSeWFuaGVGNDF5eHBEV0ZUeGZEOWQ4N1QxWGNsSTczUFV0c2Q1TlQ0TFQxNHk4RHpVNGpvcmJJSW5oUDBsc1VMdGVXYVNJR2MzSmt2bGk0TTZwZnl6NXJreG5xeXY0UENmbjE4TnRkU3RfQUZySnR3ZHpqU0FsRzFsM25lTW10OXdUakh0bDg2UTMyaDI1VjZqVWlLOFNZUmRpQ0puWlUzWGxPYTdXeV9Ed1dTRUI2b0cyVURRVjJPU20wT1Atd1ZtYURMeEcyOEtIU3dkY2c?oc=5",
      "ts": "2026-11-10T18:24:26Z",
      "summary": ""
+    },
+    {
+     "id": "86c84221023a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "“The gaming experience is virtually the same”: GTA VI publisher speaks on PC",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREhHam0tOFUxWXhLX25kV2hXaGZzRkU4TDd6RkpjUEhlSk9KSHZEbFNiS2pkRFBtbVVYc3p4TUN1X2d3dld3SXdXbnhEaG84elBfV0tJZjA5bVVFeDBnZjlqUWs4TG9tVm1vaEt0bko4Yl9HMEppU2QtcGROS1FNbUh4MTk2bUVsalQ4UVpHY1pvd0g4bWJpRDFTT0N3ODZJY2lESklVTDMzVlBTdEV30gG0AUFVX3lxTE5MOHJoTTV6MlJGY2tRRVhyVWg3Qk9qNUpMWGo3NkJma1lqWUJ0bGcwajhKbGdBNEhkd01mRVdQMmY4eUFLWmx0YmljVTI3NE5VaUhEejJRQ1JOYlU1Y242UmJVVW1nUDNKMlJtSHJ2NDA0NHo2QVhUSnFRejZybzZ5Ty1nMXRsSHlpV0JEU2Z2UzV3eVpoYTkxMWwybnF5U2puZTVCMHZ2bEZDOGpNQjVEdWRNTg?oc=5",
+     "ts": "2026-11-11T04:32:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -1149,6 +1071,267 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "72c05ac07f67",
+   "title": "Tove Lo Releases New Single BLOOD IN YOUR EYES for GRAND THEFT AUTO VI: THE ALBUM",
+   "first_seen": "2026-11-10T15:01:33Z",
+   "updated": "2026-11-11T05:20:51Z",
+   "items": [
+    {
+     "id": "72c05ac07f67",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BroadwayWorld",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Tove Lo Releases New Single BLOOD IN YOUR EYES for GRAND THEFT AUTO VI: THE ALBUM",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZlhnUjRuekVYTVZuTFlENm9YWWJucUJsZ2FzR0NUY191V3FZSkx6Mk01VllfTXdJRzBZZ1ZIeDZhSkE2c2xyZFJfMnhJWXJxaEFfZUk2SG5NSjkyQ2ZnbWE1RjQ1WmZQTHRwMGFqQV9vYWszNTQ3eGtOaFhsbjJHMEZHcVBZdnJubE55Z0VoLXNnX3Rnd0g1V1JScEdzVy1sYkVadmEtUm5YWnBIdHFZbExBRE9mNi1RZnIyeWVkbG1ES2UyWGZ3b1NuMl9qajJiYkE?oc=5",
+     "ts": "2026-11-10T14:52:47Z",
+     "summary": ""
+    },
+    {
+     "id": "6fe0eac1c5e9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BroadwayWorld",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Tove Lo Releases New Single BLOOD IN YOUR EYES for GRAND THEFT AUTO VI: THE ALBUM",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbS1kSEhBMHFCSmtzWDJCM2lTMllBZFNwS2NVT2ZwZVA2T3UzWEZxQzZmRHFuUGJTcW5UYnAwdVNPUmJULUlOV19la3V2RWFUN25kQUZZd25LY3NYdHRrZnhidVR1MFNURXFEb2xuMkxkTi1UQWRqWDBYQThWYXktR0ZrX3I3MC1fWmxjeDBWUnIzNVdmeEJTMGdRc0lmcDV5MXR6NGxCdWhuUlJFa0k4T1llRkJVNk82bVE5b1RNTWc5ZUFoanc?oc=5",
+     "ts": "2026-11-10T14:52:47Z",
+     "summary": ""
+    },
+    {
+     "id": "d368f4edfb1d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NME",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Tove Lo drops new single from ‘GTA 6’ soundtrack, ‘Blood In Your Eyes’",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnpQVGtaTjZuR21jZmdjRFBWYW5oWEhCQ3ptYy03cDAzd0pTdnRwS1czQ0ZBck1yVFNSMmhoODhHSVZzVG9VT3FFbW44aElZcXRtb1N2NTR3ajk0Q2FjTTFsMjVWVi0tYWtPc1NRY19IMmJLbm9xMXMyOGlGT3kxV01hSVBoQms2empSc0VsWVZIX3c4TmVhMlJrclZQZzItWVY0ajM0bw?oc=5",
+     "ts": "2026-11-10T16:04:12Z",
+     "summary": ""
+    },
+    {
+     "id": "af226af085e0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "mxdwn Music",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Tove Lo Shares New Single “Blood In Your Eyes” From GTA VI The Album",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmNzT3FnRDZ1UFA4WUR0elhkYl9sdW5ZZVJJdHR4MjczLUJqVE1SczdyNmpHMjFvN3FZdWN3UjNZeUNXVUN5OFVPQ0FtNy03RG9SWmMzN0JuR3ZRM1BIWVUxdWtJRlFKdXloUV84UEJnTWxpZ2Ytckc1WTJZdzFNUTgwek5HV2lfSHVEV0FBdHhQLUZaenVQLThRRjV1eWMyT0VWZ3lmWXdQczTSAbABQVVfeXFMTXFqLUh5OTd6eGYxNlpLUHM3R3RWUEdnRF9ZZXBYR2QxVEVTQVZpMmc5WmhJUlZ2azBDNkE1cjYyMDNzOUUtbGcwU1hTbUlkWVFYRUpXc09BSXRwSVZmX0dZaDVtbV8wZERRU19hcmpzcnZHT2NLQlRTVVRVQTZCVjFGdU9TQVUzcFdjY0Mta01WWmVPR3hXM3B4MENUVlUtLW92NjJmSTlXNGNFQWF5bHQ?oc=5",
+     "ts": "2026-11-10T21:31:32Z",
+     "summary": ""
+    },
+    {
+     "id": "7c1e3dec63f1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Prelude Press",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Tove Lo Releases \"Blood In Your Eyes\" From \"Grand Theft Auto VI: The Album\"",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GV1Mzam9RRW9fcHZpTzJxaVpUVHlyQVBvQ05USkwwcjlRYXdHcmVtSElvZkV6MjV6UGFEenpkQ3lLYnczZlJ5VHR2ZDV5VXR6eGljcFNhbE1NYUlFZU1iN05ZOHJiLUFoRjM1SlptQjBXbEh1TmVz?oc=5",
+     "ts": "2026-11-11T05:06:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 74,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Tove Lo выпустила Blood In Your Eyes для саундтрека GTA 6",
+    "summary": "Tove Lo выпустила новый сингл Blood In Your Eyes для альбома GTA 6: The Album. Об этом сообщили BroadwayWorld и NME — трек официально в саундтреке игры.",
+    "idea": "Короткий разбор трека под нарезку кадров Вайс-Сити: где трек «работает» в кадре и почему он цепляет. Зрителю — быстрый вердикт «качать/нет» и где ждать в игре.",
+    "hook": "Новый сингл Tove Lo для GTA 6 — звучит в трейлере или по радио Вайс-Сити?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-10T16:10:52Z"
+   },
+   "msg_id": 752
+  },
+  {
+   "id": "1403a9c297b7",
+   "title": "GTA VI, которую уже можно скачать во всём мире, принесла разработчикам $1 млрд ещё до начала продаж. Новый трейлер",
+   "first_seen": "2026-11-11T05:20:51Z",
+   "updated": "2026-11-11T05:20:51Z",
+   "items": [
+    {
+     "id": "1403a9c297b7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI, которую уже можно скачать во всём мире, принесла разработчикам $1 млрд ещё до начала продаж. Новый трейлер",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR2swRFFfTzEzWWhVWW5yaTluMlBOa2tCVmt3VFhTYW11b0xVT2FaQVBZdWw0V0pXTWlaeWtzSlkyeXgwZDdoSFNUN1pyZkVubXpXenBhYTFwVzlRNmZib0psNFVlUWktQ2h6c1g5XzkxTTdjdlZTcUtXMkNqS1d5WTlqUGh6WUFNNUZNS0hJUmhQWWJLT2pMLW9lYm4tNm9IRGdubmZJM3V0M2pLaDExYTJjOVVRN2V5X0J2V0h3Qzd3V1FvOFpWZnBqb0J0cVF0Rk5hc194aHR0SWw0dVM3dDlnenVRWTFrakHSAe8BQVVfeXFMTTJabi1DeWNZSnFYY1ZXbjRrajIyQTlRZThfajI2LTF4Q3B3VUxYN0taRjNCcUl3dXFOUllyVnJNSTZMQVhhRDROMlhBVzF2aTI5UmpSbG52MVM0NXhxMnBSdTVBU2FCRGVPQmVyUkZEZERTUGJENVdPSGpoWmJTeHhmSWZkRmhWN0hWdUVTb0pkLTFxUC05SHdQSUZmM1NWbUdBSG45V0xsck5Hc1NRTWxkNHY1c0l0TGNCMG9hR2VocEpwXzZ3OGhpNjVNejhHZ0VBVmdZa3pIM3lKck9tdVllWWpZaGE2ck9zV3hUbWs?oc=5",
+     "ts": "2026-11-11T05:02:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "трейлер",
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "acfbc0d82b81",
+   "title": "43 y/o here. Been excited for years. Let’s go! Roast me if need be lol",
+   "first_seen": "2026-11-11T05:20:51Z",
+   "updated": "2026-11-11T05:20:51Z",
+   "items": [
+    {
+     "id": "acfbc0d82b81",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "43 y/o here. Been excited for years. Let’s go! Roast me if need be lol",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xt9a0u/43_yo_here_been_excited_for_years_lets_go_roast/",
+     "ts": "2026-11-11T05:14:36Z",
+     "summary": "I can’t believe this is finally happening. 🤘 submitted by /u/LordIronVader to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7062bdeb891a",
+   "title": "Crazy stuff done by Google",
+   "first_seen": "2026-11-11T05:20:51Z",
+   "updated": "2026-11-11T05:20:51Z",
+   "items": [
+    {
+     "id": "7062bdeb891a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Crazy stuff done by Google",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xt9cs7/crazy_stuff_done_by_google/",
+     "ts": "2026-11-11T05:18:39Z",
+     "summary": "submitted by /u/Krazy8ght to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "250d935b0609",
+   "title": "🤣 Что увидит тот самый бро,который не интересуется играми, когда выйдет на работу 19 ноября: 🥺 Канал про GTA 6 | Наш чат",
+   "first_seen": "2026-11-11T05:10:49Z",
+   "updated": "2026-11-11T05:10:49Z",
+   "items": [
+    {
+     "id": "250d935b0609",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🤣 Что увидит тот самый бро,который не интересуется играми, когда выйдет на работу 19 ноября: 🥺 Канал про GTA 6 | Наш чат",
+     "url": "https://t.me/GTA6_m/9340",
+     "ts": "2026-11-11T05:05:05Z",
+     "summary": "🤣 Что увидит тот самый бро,который не интересуется играми, когда выйдет на работу 19 ноября: 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "63bd989f0d15",
+   "title": "Record Pre-Orders on PS and MS... 'GTA 6' Pre-Downloads Begin",
+   "first_seen": "2026-11-11T05:10:49Z",
+   "updated": "2026-11-11T05:10:49Z",
+   "items": [
+    {
+     "id": "63bd989f0d15",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Inven Global",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Record Pre-Orders on PS and MS... 'GTA 6' Pre-Downloads Begin",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDJVYVAxYnBvLWsyb2MzQVhIVjRRcnFKMEhicE1DNWdxeXVpbzNrNUpZQzVhSFFlcnZIZHgtVVpSb21oS2d6ZUxtMGk4MmF4SHNoVXVZRE1WUnprM01oSkVWQldnUVJLNm5IZFhDR2pnMjdTSml5WHZiSnBaTm1QY0kwR3RsYlZlQnJoUUxIYXF3VDd3RGlXd0dnTmw0OXI5?oc=5",
+     "ts": "2026-11-11T05:05:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️ GTA 6: рекордные предзаказы и старт предзагрузки",
+    "summary": "По данным Inven Global, предзаказы GTA 6 на PS5 и Xbox Series X|S установили рекорд, а предзагрузка уже началась. Источник отмечает ажиотаж игроков перед релизом.",
+    "idea": "Короткий ролик о рекордных предзаказах и старте предзагрузки GTA 6 — почему это важно игрокам. Покажем цифры, шкалу загрузки и дату 19.11.",
+    "hook": "Предзагрузка GTA 6 стартовала, а предзаказы бьют рекорды на PlayStation и Xbox.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-11T05:10:53Z"
+   },
+   "msg_id": 769
+  },
+  {
+   "id": "2dc56da6a680",
+   "title": "Massive painting done, marking exactly 1 week until GTA 6 releases here in Australia",
+   "first_seen": "2026-11-11T05:10:49Z",
+   "updated": "2026-11-11T05:10:49Z",
+   "items": [
+    {
+     "id": "2dc56da6a680",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Massive painting done, marking exactly 1 week until GTA 6 releases here in Australia",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xt95zj/massive_painting_done_marking_exactly_1_week/",
+     "ts": "2026-11-11T05:08:32Z",
+     "summary": "In Brisbane, Australia submitted by /u/Rsodyyy to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -5203,82 +5386,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "72c05ac07f67",
-   "title": "Tove Lo Releases New Single BLOOD IN YOUR EYES for GRAND THEFT AUTO VI: THE ALBUM",
-   "first_seen": "2026-11-10T15:01:33Z",
-   "updated": "2026-11-10T21:40:47Z",
-   "items": [
-    {
-     "id": "72c05ac07f67",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BroadwayWorld",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Tove Lo Releases New Single BLOOD IN YOUR EYES for GRAND THEFT AUTO VI: THE ALBUM",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZlhnUjRuekVYTVZuTFlENm9YWWJucUJsZ2FzR0NUY191V3FZSkx6Mk01VllfTXdJRzBZZ1ZIeDZhSkE2c2xyZFJfMnhJWXJxaEFfZUk2SG5NSjkyQ2ZnbWE1RjQ1WmZQTHRwMGFqQV9vYWszNTQ3eGtOaFhsbjJHMEZHcVBZdnJubE55Z0VoLXNnX3Rnd0g1V1JScEdzVy1sYkVadmEtUm5YWnBIdHFZbExBRE9mNi1RZnIyeWVkbG1ES2UyWGZ3b1NuMl9qajJiYkE?oc=5",
-     "ts": "2026-11-10T14:52:47Z",
-     "summary": ""
-    },
-    {
-     "id": "6fe0eac1c5e9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BroadwayWorld",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Tove Lo Releases New Single BLOOD IN YOUR EYES for GRAND THEFT AUTO VI: THE ALBUM",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbS1kSEhBMHFCSmtzWDJCM2lTMllBZFNwS2NVT2ZwZVA2T3UzWEZxQzZmRHFuUGJTcW5UYnAwdVNPUmJULUlOV19la3V2RWFUN25kQUZZd25LY3NYdHRrZnhidVR1MFNURXFEb2xuMkxkTi1UQWRqWDBYQThWYXktR0ZrX3I3MC1fWmxjeDBWUnIzNVdmeEJTMGdRc0lmcDV5MXR6NGxCdWhuUlJFa0k4T1llRkJVNk82bVE5b1RNTWc5ZUFoanc?oc=5",
-     "ts": "2026-11-10T14:52:47Z",
-     "summary": ""
-    },
-    {
-     "id": "d368f4edfb1d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NME",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Tove Lo drops new single from ‘GTA 6’ soundtrack, ‘Blood In Your Eyes’",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnpQVGtaTjZuR21jZmdjRFBWYW5oWEhCQ3ptYy03cDAzd0pTdnRwS1czQ0ZBck1yVFNSMmhoODhHSVZzVG9VT3FFbW44aElZcXRtb1N2NTR3ajk0Q2FjTTFsMjVWVi0tYWtPc1NRY19IMmJLbm9xMXMyOGlGT3kxV01hSVBoQms2empSc0VsWVZIX3c4TmVhMlJrclZQZzItWVY0ajM0bw?oc=5",
-     "ts": "2026-11-10T16:04:12Z",
-     "summary": ""
-    },
-    {
-     "id": "af226af085e0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "mxdwn Music",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Tove Lo Shares New Single “Blood In Your Eyes” From GTA VI The Album",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmNzT3FnRDZ1UFA4WUR0elhkYl9sdW5ZZVJJdHR4MjczLUJqVE1SczdyNmpHMjFvN3FZdWN3UjNZeUNXVUN5OFVPQ0FtNy03RG9SWmMzN0JuR3ZRM1BIWVUxdWtJRlFKdXloUV84UEJnTWxpZ2Ytckc1WTJZdzFNUTgwek5HV2lfSHVEV0FBdHhQLUZaenVQLThRRjV1eWMyT0VWZ3lmWXdQczTSAbABQVVfeXFMTXFqLUh5OTd6eGYxNlpLUHM3R3RWUEdnRF9ZZXBYR2QxVEVTQVZpMmc5WmhJUlZ2azBDNkE1cjYyMDNzOUUtbGcwU1hTbUlkWVFYRUpXc09BSXRwSVZmX0dZaDVtbV8wZERRU19hcmpzcnZHT2NLQlRTVVRVQTZCVjFGdU9TQVUzcFdjY0Mta01WWmVPR3hXM3B4MENUVlUtLW92NjJmSTlXNGNFQWF5bHQ?oc=5",
-     "ts": "2026-11-10T21:31:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 Tove Lo выпустила Blood In Your Eyes для саундтрека GTA 6",
-    "summary": "Tove Lo выпустила новый сингл Blood In Your Eyes для альбома GTA 6: The Album. Об этом сообщили BroadwayWorld и NME — трек официально в саундтреке игры.",
-    "idea": "Короткий разбор трека под нарезку кадров Вайс-Сити: где трек «работает» в кадре и почему он цепляет. Зрителю — быстрый вердикт «качать/нет» и где ждать в игре.",
-    "hook": "Новый сингл Tove Lo для GTA 6 — звучит в трейлере или по радио Вайс-Сити?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-10T16:10:52Z"
-   },
-   "msg_id": 752
   },
   {
    "id": "0983d87c67b5",
@@ -92953,120 +93060,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a30231e7f8c9",
-   "title": "Kai Cenat Announces 5-Game GTA Marathon Beginning November 5 At 3 PM EST Ahead Of GTA 6 Release",
-   "first_seen": "2026-11-03T07:31:19Z",
-   "updated": "2026-11-04T05:20:50Z",
-   "items": [
-    {
-     "id": "a30231e7f8c9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NDTV Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Kai Cenat Announces 5-Game GTA Marathon Beginning November 5 At 3 PM EST Ahead Of GTA 6 Release",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZmFqS055cWd6VVVPZC1LaW5jT0RmOG9tU2NuVHpGWFcyazdQX0dYMERSZDk1UnVUc2RxNUFPZHpzUHN4bktxTmJ0M3prZEJ5RTluMkVKUHV5clRackJvYlJfdTQ3ZGRUeHM2dDRhWGgzZHpMSDJUcjdqX2JRTUk3bnNyVE12dlhqdkp1aFNUeXZJdmNuTTVDRWJZc203SkJnQWlZdTYtUTgyTnB2ZmFSU3NjYTJXbEJSdXBGOElRYWJFY1FHZzdIT3p0VGxRRnVXQnNHUGhqb3FiVy1X?oc=5",
-     "ts": "2026-11-03T07:13:33Z",
-     "summary": ""
-    },
-    {
-     "id": "49933d53e71f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Express Tribune",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Kai Cenat announces 5-Game 'Grand Theft Auto' marathon ahead of 'GTA 6' release",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdFJjZVJ0ZFJ5REZiN280R3Y0X2p3ems0bWpycUpJaXZ4a0NLR1EzcUpkUHpxSDhSTnZWb0FGTml0UEhRQmQweWZuUGRNVlJ6SGhrcEt4SllDT1F0MXFQSWl2RElTMmhwUFlDRVo3T1NVdllIVzVyR3lJalRzYUNhOHpGX3pYY0cteGlSVTdFdERnSXlXVHdBcG12N0I0SWhLNGY5NF9ReGRuYzVTeENxZllB?oc=5",
-     "ts": "2026-11-03T08:37:30Z",
-     "summary": ""
-    },
-    {
-     "id": "143dc406525d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable SEA",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "As 'GTA 6' release looms, Kai Cenat will stream 5 'GTA' games in one sitting",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVc3RVRHbE0ydVFEUEFtRm9sWTFaeXloV0ZnU0Z3bW9qV0ZhT29yWEpQaE8xRGJlaHdLalJBa2gzcFROMFdISF9mcjVBNFpWYjVLQkVzdUUyNHVXS0c1RjNsYXdzS2tiRDN2WjMxSmI3NEplOE9zRnFPNXJMRkg1b01qZmpueEdtNVRHR3d4b1ZGSVB6dGxweE0xWG9tQ183clh4cHlxRmVNZGk3?oc=5",
-     "ts": "2026-11-03T16:46:07Z",
-     "summary": ""
-    },
-    {
-     "id": "0a9ed46e1b7c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "As 'GTA 6' release looms, Kai Cenat will stream 5 'GTA' games in one sitting",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjdmlDV2k2UXhfVHRaeFNmYndIUDlqRVZRU0dvVmZkcGwxLW05YlFVaDBDUjRUVEl5c2IyLTZpX0JQLVlTNDRLTEZ6UG5DUENFbDJHeWhJYy1UTlh2Y1dTYXE5UTNoY1oxUjU0VkhNejdiUl9ybEQ4ejNNUlB6VEk?oc=5",
-     "ts": "2026-11-04T03:22:30Z",
-     "summary": ""
-    },
-    {
-     "id": "442f6a8fe65f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "As 'GTA 6' release looms, Kai Cenat will stream 5 'GTA' games in one sitting",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTE5yelFpX1hSTkNZZXpWbWtQYXY5WUxCRzFWOTlKYWZfc0ZEVmhGakxTUWxUOEhxMHpmOGN0MG5Dd1pWMkRsLU5vaDNEQTA2NjJpS21ZYUYwallmV1N2TDZmeU1GaVZtTzhEWmFxSWQxMXppWEFCRFNSSzEyLWk4Y3hWd3djRjBkdHJTVzRuYw?oc=5",
-     "ts": "2026-11-03T16:46:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 2,
-   "ai_error": "ValueError: выдуманные числа: 00, 15",
-   "msg_id": 457
-  },
-  {
-   "id": "552bad5e36f7",
-   "title": "Wardogs dev tells fans to play GTA 6 instead",
-   "first_seen": "2026-11-04T05:20:50Z",
-   "updated": "2026-11-04T05:20:50Z",
-   "items": [
-    {
-     "id": "552bad5e36f7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Wardogs dev tells fans to play GTA 6 instead",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mTzlyRXNkMmgyRXB4WGkzMGYxMkRRVFdhYmNiQzVTbnE1cVJtcG5iQXV2V2FCRDVVNDlUdGQ0NVpRWmowS2F6aEU5bkhzbnZVdV9tNEVEQWp4M2VVeTZUbzJqQWFveVNfSU5CME9lT2VFUWZwNXRhQVdxZms?oc=5",
-     "ts": "2026-11-03T23:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-11T05:10:54Z",
+  "last_run": "2026-11-11T05:20:51Z",
   "last_log": [
    "rockstar_site: 0/7",
    "gnews_en: 99/100",
