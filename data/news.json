@@ -1,62 +1,10 @@
 {
  "stories": [
   {
-   "id": "02e62a35da5c",
-   "title": "GTA VI will reportedly require up to 212 GB, ship without a disc, and unlock worldwide on November 19, 2026",
-   "first_seen": "2026-11-11T17:50:51Z",
-   "updated": "2026-11-11T18:20:47Z",
-   "items": [
-    {
-     "id": "02e62a35da5c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Latin Times",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI will reportedly require up to 212 GB, ship without a disc, and unlock worldwide on November 19, 2026",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmptWkhWdzhEcFhJd3M4eC1wX3AxOVV2NmtvVEZld1lHdnIyZ200ZDBmQ1Z1RC1nMWM3V0pXWHFqY1BOTzBDYUwyQXVTQVpHN3FOd3FjVG9pR0VRWXpDQlBpNHVaQUw4QlV3bFhaRWgxSjV0MERpWEVDU1dIYXFvdVRzOTY2TVM0UTVKTg?oc=5",
-     "ts": "2026-11-11T17:34:48Z",
-     "summary": ""
-    },
-    {
-     "id": "4d243545a438",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6’s 212 GB Preload Caused Yorkshire Congestion and Set Virgin Media O2 Records",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqSWN2N09ycWE1TXJZQms1Q1o0VXJBV1M3eWFFQTBnSlAxNGRONVpJd2pHQUFZNHktNTI3V1c1cjl6VFE1UVJKRGtCOUhBSFZwRWhscjRsbFRFaHpYQlJEaVV6dEo1eUhKQjNBT3R6UUtqelRNUzFmTDVJRFh1bjQ?oc=5",
-     "ts": "2026-11-11T17:48:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 без диска и до 212 ГБ: предзагрузка с 12 ноября",
-    "summary": "По данным Latin Times, GTA 6 выйдет 19 ноября 2026 года без физического диска и потребует до 212 ГБ. Предзагрузка стартует 12 ноября, а глобальный запуск — 19 ноября.",
-    "idea": "Коротко показываем размер, отсутствие диска и даты предзагрузки/релиза на экране. Зрителю важно понять, хватит ли места и когда качать.",
-    "hook": "212 гигабайта, без диска и предзагрузка с 12 ноября — готовь SSD.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-11T17:50:58Z"
-   },
-   "msg_id": 799
-  },
-  {
    "id": "32eb35f77d21",
    "title": "GTA VI Becomes PlayStation Store’s Biggest Pre-Order Ever as PS5 Exclusive Features Take Centre Stage",
    "first_seen": "2026-11-11T07:10:49Z",
-   "updated": "2026-11-11T18:20:47Z",
+   "updated": "2026-11-11T18:31:06Z",
    "items": [
     {
      "id": "32eb35f77d21",
@@ -460,6 +408,19 @@
      "url": "https://www.reddit.com/r/GTAVI/comments/1xtp5cr/if_i_buy_the_physical_edition_at_walmart_without/",
      "ts": "2026-11-11T18:14:10Z",
      "summary": "I’m trying to decide wether to buy the code in a box just to use my discount submitted by /u/Blucanyon to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "bd250fc6acad",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Hardwareluxx Russia",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 перед релизом: рекорды предзаказов в PlayStation Store и Microsoft Store",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRFJhV2szY3Q2cWJ6SU1nbzR2TXpkREVhN0lrRmYyWktwSHFReHYwTUZhNTBsMmJWY1FxSVdlU1hfU2k1c2xSZF9jR1dQNjlQVXgtcW02X3pQdEo4czRmVW9BSTJhVnkzTzNJQmxDOENjOEtVWjZpUFhZemQ0WUp1VEVTTnVZYU4yZlRBbUJZdVQ0Y0ZRY3lrelhWc1RzLS0tbTBneGZpV0dXLV9IM01qM2ludmtaYklnS3ZzQ3ZlVUVOTm9xU01kaEU5WGxmUEZfSnhB?oc=5",
+     "ts": "2026-11-11T18:25:42Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -474,6 +435,358 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
+  },
+  {
+   "id": "f8f7cfccc6c6",
+   "title": "GTA 6 Surpasses $1 Billion in Presales a Week Before Launch",
+   "first_seen": "2026-11-11T18:10:52Z",
+   "updated": "2026-11-11T18:31:06Z",
+   "items": [
+    {
+     "id": "f8f7cfccc6c6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Final Predictions for GTA 6, 1 week before launch",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xtotjq/final_predictions_for_gta_6_1_week_before_launch/",
+     "ts": "2026-11-11T18:02:05Z",
+     "summary": "Since we’re a week away from launch, I figured it’d be cool to compile a list of things I think will happen within the story. - Three different endings; Jason dies, Lucia dies, both live (happy ending) - Jason/Lucia go through a period of time where they aren’t speaking to each other at some point in the story - Rockstar emphasized the importance of family to Lucia’s character. Maybe someone from her family betrays her/dies. - There will be a Michael easter egg. It’ll be a movie directed by him that you can watch called “Paradise” (paying homage to the code name GTA 5 was under, while being de"
+    },
+    {
+     "id": "b009c50aa712",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Surpasses $1 Billion in Presales a Week Before Launch",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aUnc2MHg5dEIzdUVYRC1aR2JtTnBidVVSWDJ4VUNCWHlrajNFeE16ODJzLU9KWnd1UnJaUjFGYy1ZYjVQMFFUbmlIRk1ZbWYyd2tDS2M0cDQzYUpMQWNHMW1Yb25BQ1l0VHcyUW5zUQ?oc=5",
+     "ts": "2026-11-11T18:21:49Z",
+     "summary": ""
+    },
+    {
+     "id": "4c4b6d9623e7",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Surpasses $1 Billion in Presales a Week Before Launch",
+     "url": "https://insider-gaming.com/gta-6-surpasses-1-billion-presales/",
+     "ts": "2026-11-11T18:21:49Z",
+     "summary": "Grand Theft Auto 6 (GTA 6) has reportedly surpassed $1 billion in pre-launch revenue, with more than 10 million copies sold ahead of its highly anticipated release. According to new data from analytics firm Sensor Tower, Rockstar Games’ upcoming open-world game has generated more than $1 billion in pre-sales, with an estimated 10.31 million copies […] The post GTA 6 Surpasses $1 Billion in Presales a Week Before Launch appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 96,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: предзаказы на миллиард и 10 млн копий за неделю до релиза",
+    "summary": "По данным Insider Gaming и Sensor Tower, предзаказы GTA 6 превысили 1 млрд долларов и составили около 10,3 млн копий за неделю до выхода. Это неофициальная аналитика, Rockstar цифры не подтверждала.",
+    "idea": "Короткий ролик с инфографикой: миллиард долларов и 10,3 млн предзаказов за неделю до релиза — почему это рекорд и что это значит для игроков.",
+    "hook": "Миллиард долларов за неделю до релиза — GTA 6 бьёт рекорды предзаказов.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-11T18:31:09Z"
+   },
+   "msg_id": 803,
+   "posts": {
+    "flash": "⚡️ <b>GTA 6: предзаказы превысили $1 млрд за неделю до релиза</b>\n\nПо данным Insider Gaming и Sensor Tower, предзаказы GTA 6 превысили $1 млрд и 10 млн копий. Это оценки, не официальные цифры Rockstar.\n\n#GTA6 #DargaNGU"
+   }
+  },
+  {
+   "id": "d80d9a0250f0",
+   "title": "Take-Two CEO Strauss Zelnick is betting on Grand Theft Auto VI",
+   "first_seen": "2026-11-11T14:20:52Z",
+   "updated": "2026-11-11T18:31:06Z",
+   "items": [
+    {
+     "id": "d80d9a0250f0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "qz.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take-Two CEO Strauss Zelnick is betting on Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NbGpmbHZENThIUF9YLUhnLXc5LWI3MXpmbk0yd0pWVWJwT0ZjbHdqamFMOHlpbXNNb1pISlF1WV9uTFU5N1hsbGtTVnVrTW5RSU43b1RwLWsya0szMkh6VTV6Skd0ckdwZ2pleldQRFhMTFlI?oc=5",
+     "ts": "2026-11-11T14:13:59Z",
+     "summary": ""
+    },
+    {
+     "id": "e10f075434d3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Investing.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "DA Davidson reiterates Buy on Take-Two stock ahead of GTA VI launch",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjlQLWpMNlg0RXkzLWJSY3NMaVB3N2RMblZsVDlxdVVrSFMwOUk3ZHgxZUVkZlZ2ZjlGN1JOcnFEWmFILTZZWG9keGRSWndUb1RuQkpMeHlSLXEyUXFHRUJPNXc5VWQ3RkNVYzhMbU05RTJNS05WUFZxZmt2T2ZJbjd2VHFIaEZySWZoXzctLUF0MUZJeHFWemZSMTlVSmJVeDhKZ0t2Y1NSMXJqdVlzNHdBYTM5cEJpa2s0amVvZ0liR0hK?oc=5",
+     "ts": "2026-11-11T14:56:25Z",
+     "summary": ""
+    },
+    {
+     "id": "987df446b6c3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TheStreet",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take-Two CEO sends strong message to investors ahead of GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY2NSVkRhWnIwUkdDdXkwTkZaWXlLdlh3bWRDYi1jcFBLdktHY3EzaDBsLVByNjk3bEhsR0ZrMEZ3b2JoUk5RMEUwdnlkN29wSDY1Z3lPVHBRdnl6RTVjSE9JTTFqSm92andscjF4OUJSbU9RQVRxYk5PTGN0cFFXQzRUSnotdw?oc=5",
+     "ts": "2026-11-11T15:33:00Z",
+     "summary": ""
+    },
+    {
+     "id": "e5bb4677cbfb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "FanBolt",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' Preorders Soar Days Before Release, but Take-Two Isn’t Celebrating Yet",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0xHNTFvczRzaGJuZVBwY1Z4MHcyUG9sV3VRMTVicDhid2IwQ0xic054YW8td3c1SUlqaTdhRERTNWt0Z2I1SkV4c1ZKb0I4NXZBZVFyUXdfRjBMd3p6WHVlaUxxWHJvMnMtcF9wRHEtdkZtdE53Q1RUQ2podGpLYW9oRHZ5TFlpMW9vVVhRbjEwNXNaQmMyako5R3ZtTEExNzBXZlQ3dWhpbFoyYkh6WFJXZnc1c3BXMXdQaw?oc=5",
+     "ts": "2026-11-11T15:42:30Z",
+     "summary": ""
+    },
+    {
+     "id": "24ca943b5f46",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Глава Take-Two назвал GTA VI выгодным вложением за 10 дней до релиза",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ydURGWU15QVdxdmJBeENxalVKQTlnalhXbktxQzBPdzVVMHpVOU9Ic3lPVVU0cm4zVnkyRGw0NV8wUnN6VVhQbUdTYmFXRXdVYnpXQ3Rjam9uMzhJbEltLTBmSTlpeXN4V2VLbFItOHc?oc=5",
+     "ts": "2026-11-11T10:26:05Z",
+     "summary": ""
+    },
+    {
+     "id": "fb96fd198225",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Onliner",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Глава Take-Two считает GTA VI «выгодным вложением» для геймеров в кризисные времена",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVmZybzVBN0V1RkRPdVA1TTl5QWJsTmhMdzRUQzItbG1Ib2tHSDVubEExaVVmSXBPb2d6cW9iUV9KczVjWWhmb2dhcHoydFZrU21LdkFoMVVhZnVHVEItNlVqMjI3eHBQQlVqWFJMTmptMFdyNVVTb1BpSjcyNG9ycm5QNS10RVBxMW16enBkTWpMOEZHc0FZalY2NHA3VlBMQlpOQlpIaENEOXhlaTJGUXlELU55R1NwYmNn?oc=5",
+     "ts": "2026-11-11T13:11:17Z",
+     "summary": ""
+    },
+    {
+     "id": "e45b6f166110",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Demand Is 'Extraordinary,' but Take-Two CEO Isn't Ready to Declare Victory",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3JKTVc5UXpVY0gzMHk0bW9POVRXV1lyOFdPcHhhWF8zUkJkc2FNMDU2Q2RUd3RWdUd1QXBueHc5Vm5yWU9IeW85WDZieFRpdVcwOFZseV9MaTZYTXl6YXRYZkhBaUxicF8ycDdzV0ZUZXlWbnlYQ29ucU5JRzZNc0lKUHdIdTMtZDRXVW5HZlBPV1dfNFNFQkhhbw?oc=5",
+     "ts": "2026-11-11T16:00:06Z",
+     "summary": ""
+    },
+    {
+     "id": "25e5b30603eb",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Босс Take-Two объяснил, почему покупка GTA VI является выгодной сделкой на фоне роста цен на бензин и продукты.",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeE1ldGlRcFZwQ3kxSE5ueTc5UFdWV0JtTDVSWnFmaWxGSlVnbnJKUVRhR1Nva3hKZkxwUnRFSTZ6N21oTTlzbExGUGNtazROVjBZT3dobnNyXzZ2cHZENjd5RHUzZWE5ZTFKUWVTZEdmLWlHYTNPeDF0X3pPY3pRZjdJelhrVGZFT1ItemcydE1leVFzTW9EamozWjdDcThQbEVBZi1JeHdNcVV3d0t4OVVHY0l0ak0tVEdTU2xMTkhBNXBCTnRqM2ROQWdrU1dGUGE0YkJ1R1EwaFBFTGN30gHkAUFVX3lxTE8xN0lpWXhwR2VoMUUwWDNQOFBZNVFxNTRyMFdPekl6a3ZoQzl1dU82Y1RVcGRxcXE0c0h2eG5hWlU0MktjTlpUVWpOQm1lTEhwSExTaTdYN3AtWE9nMnR5ZHZKWjF5T1dBTWJHcVFmY3ZjNWkzTmZzNWJHS3BhZE1YOGN3eHlKejZUclkxb09rQi1MdWc1QTIzbExtRlZnT0R3ZDlaNmp4UU5KNjM1b0l5V24yREg5Ymt5LTdKcktDNU5qU2N1V045cEFQdDJxTnp5bk1uRFZZeUFNd25ZM1BpWU15bw?oc=5",
+     "ts": "2026-11-11T18:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two",
+    "цена/издания"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "42c47c746670",
+   "title": "Некоторые игроки начали отменять предзаказы GTA VI после анонса ограничения 30 FPS",
+   "first_seen": "2026-11-11T18:31:06Z",
+   "updated": "2026-11-11T18:31:06Z",
+   "items": [
+    {
+     "id": "42c47c746670",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Некоторые игроки начали отменять предзаказы GTA VI после анонса ограничения 30 FPS",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLVJObk5NUVU0bjZrNFBZTmoxNmc1UjUxYzFkaTVJMlg2Z3NNOVhiUjRBMjJUU2NkMlN1empDRUFsVDdHYzdpdkFRQkpFQ0dXOHBnVkhNc0JKdzlyT1JHWmoyeGxXalpSVEtQN3praV9rRmtNaEUxb0ZOdmNBMUNYakp6d0duRWRRREdMYVM5TnBxdHc1bm93Zy1sYzhSMTJ1U1BZMXN4TUZEYXV5bWFHckdnQlNtQTNhNjJ0LWxJMVXSAcYBQVVfeXFMTVJaeUwtUUtCYnlxSWxLeU80MURhMVZxMTBRMWlQU2NiQnZmdGdIZnRQUmRWWWRuZ2pjbXdxbVZzRTVBSWlXSk1KOUJNSEM4cC04TWRqclRNOVNNelVpcUNOWmw1ZUFwQ2p6UlRYb2hlUEJwVEVCT01qRGlYOTRvd1BlMVRoTEc4bzltdXc5d2tCT1EzRE1lYThNV0ZCUDUtcUp6SmN4TE42VDljQ1lCb3dqYUIwbUJsTXJwME1xTkZDNDVmbGRn?oc=5",
+     "ts": "2026-11-11T17:54:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "цена/издания"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "886a6624da81",
+   "title": "GTA 6 Lucia’s Voice Actress",
+   "first_seen": "2026-11-11T18:31:06Z",
+   "updated": "2026-11-11T18:31:06Z",
+   "items": [
+    {
+     "id": "886a6624da81",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 Lucia’s Voice Actress",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xtpbq9/gta_6_lucias_voice_actress/",
+     "ts": "2026-11-11T18:20:38Z",
+     "summary": "submitted by /u/No_Tomatillo1695 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c75cecd24cc7",
+   "title": "how are you all avoiding spoilers launch week, here's my list so far",
+   "first_seen": "2026-11-11T18:31:06Z",
+   "updated": "2026-11-11T18:31:06Z",
+   "items": [
+    {
+     "id": "c75cecd24cc7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "how are you all avoiding spoilers launch week, here's my list so far",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xtpf34/how_are_you_all_avoiding_spoilers_launch_week/",
+     "ts": "2026-11-11T18:24:03Z",
+     "summary": "some regions get it earlier so i'm locking everything down before the 17th : x: mute gta 6, gta vi, jason, lucia, ending, plus \"spoiler\" itself. or use nospoil io , it connects to your x and auto mutes accounts posting story leaks, trailers and memes still show up youtube: thumbnails are the real danger reddit: leave the gta subs til i finish the story, this one included lol what am i missing? drop your setup submitted by /u/Minimum-Guard7303 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "слив",
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cc01502dd805",
+   "title": "GTA 6’s smaller Japanese file size and rating fuel speculation about content cuts",
+   "first_seen": "2026-11-11T18:31:06Z",
+   "updated": "2026-11-11T18:31:06Z",
+   "items": [
+    {
+     "id": "cc01502dd805",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mezha.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6’s smaller Japanese file size and rating fuel speculation about content cuts",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSLUU4WDUwNGpGNUVFOE1lOVRNbkYtb29QSjUtU2d2b0NRdHNVNU02RlZYQ2tXV042ZS1QdHZtWldNS3lMcE1qRHRZeGxfUm8zU2dUMXhaSjhBbUZyZkxQMEZSRC1RSEJNOGFNMWtJMUROS1dDamw2a3FQWUE0dE0?oc=5",
+     "ts": "2026-11-11T18:26:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "02e62a35da5c",
+   "title": "GTA VI will reportedly require up to 212 GB, ship without a disc, and unlock worldwide on November 19, 2026",
+   "first_seen": "2026-11-11T17:50:51Z",
+   "updated": "2026-11-11T18:20:47Z",
+   "items": [
+    {
+     "id": "02e62a35da5c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Latin Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI will reportedly require up to 212 GB, ship without a disc, and unlock worldwide on November 19, 2026",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmptWkhWdzhEcFhJd3M4eC1wX3AxOVV2NmtvVEZld1lHdnIyZ200ZDBmQ1Z1RC1nMWM3V0pXWHFqY1BOTzBDYUwyQXVTQVpHN3FOd3FjVG9pR0VRWXpDQlBpNHVaQUw4QlV3bFhaRWgxSjV0MERpWEVDU1dIYXFvdVRzOTY2TVM0UTVKTg?oc=5",
+     "ts": "2026-11-11T17:34:48Z",
+     "summary": ""
+    },
+    {
+     "id": "4d243545a438",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6’s 212 GB Preload Caused Yorkshire Congestion and Set Virgin Media O2 Records",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqSWN2N09ycWE1TXJZQms1Q1o0VXJBV1M3eWFFQTBnSlAxNGRONVpJd2pHQUFZNHktNTI3V1c1cjl6VFE1UVJKRGtCOUhBSFZwRWhscjRsbFRFaHpYQlJEaVV6dEo1eUhKQjNBT3R6UUtqelRNUzFmTDVJRFh1bjQ?oc=5",
+     "ts": "2026-11-11T17:48:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 без диска и до 212 ГБ: предзагрузка с 12 ноября",
+    "summary": "По данным Latin Times, GTA 6 выйдет 19 ноября 2026 года без физического диска и потребует до 212 ГБ. Предзагрузка стартует 12 ноября, а глобальный запуск — 19 ноября.",
+    "idea": "Коротко показываем размер, отсутствие диска и даты предзагрузки/релиза на экране. Зрителю важно понять, хватит ли места и когда качать.",
+    "hook": "212 гигабайта, без диска и предзагрузка с 12 ноября — готовь SSD.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-11T17:50:58Z"
+   },
+   "msg_id": 799
   },
   {
    "id": "e842e2614e65",
@@ -780,32 +1093,6 @@
    "score": 86,
    "level": "PROBABLE",
    "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "f8f7cfccc6c6",
-   "title": "Final Predictions for GTA 6, 1 week before launch",
-   "first_seen": "2026-11-11T18:10:52Z",
-   "updated": "2026-11-11T18:10:52Z",
-   "items": [
-    {
-     "id": "f8f7cfccc6c6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Final Predictions for GTA 6, 1 week before launch",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xtotjq/final_predictions_for_gta_6_1_week_before_launch/",
-     "ts": "2026-11-11T18:02:05Z",
-     "summary": "Since we’re a week away from launch, I figured it’d be cool to compile a list of things I think will happen within the story. - Three different endings; Jason dies, Lucia dies, both live (happy ending) - Jason/Lucia go through a period of time where they aren’t speaking to each other at some point in the story - Rockstar emphasized the importance of family to Lucia’s character. Maybe someone from her family betrays her/dies. - There will be a Michael easter egg. It’ll be a movie directed by him that you can watch called “Paradise” (paying homage to the code name GTA 5 was under, while being de"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -1535,113 +1822,6 @@
     "at": "2026-11-11T14:01:21Z"
    },
    "msg_id": 781
-  },
-  {
-   "id": "d80d9a0250f0",
-   "title": "Take-Two CEO Strauss Zelnick is betting on Grand Theft Auto VI",
-   "first_seen": "2026-11-11T14:20:52Z",
-   "updated": "2026-11-11T17:31:17Z",
-   "items": [
-    {
-     "id": "d80d9a0250f0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "qz.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Take-Two CEO Strauss Zelnick is betting on Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NbGpmbHZENThIUF9YLUhnLXc5LWI3MXpmbk0yd0pWVWJwT0ZjbHdqamFMOHlpbXNNb1pISlF1WV9uTFU5N1hsbGtTVnVrTW5RSU43b1RwLWsya0szMkh6VTV6Skd0ckdwZ2pleldQRFhMTFlI?oc=5",
-     "ts": "2026-11-11T14:13:59Z",
-     "summary": ""
-    },
-    {
-     "id": "e10f075434d3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Investing.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "DA Davidson reiterates Buy on Take-Two stock ahead of GTA VI launch",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjlQLWpMNlg0RXkzLWJSY3NMaVB3N2RMblZsVDlxdVVrSFMwOUk3ZHgxZUVkZlZ2ZjlGN1JOcnFEWmFILTZZWG9keGRSWndUb1RuQkpMeHlSLXEyUXFHRUJPNXc5VWQ3RkNVYzhMbU05RTJNS05WUFZxZmt2T2ZJbjd2VHFIaEZySWZoXzctLUF0MUZJeHFWemZSMTlVSmJVeDhKZ0t2Y1NSMXJqdVlzNHdBYTM5cEJpa2s0amVvZ0liR0hK?oc=5",
-     "ts": "2026-11-11T14:56:25Z",
-     "summary": ""
-    },
-    {
-     "id": "987df446b6c3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TheStreet",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Take-Two CEO sends strong message to investors ahead of GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY2NSVkRhWnIwUkdDdXkwTkZaWXlLdlh3bWRDYi1jcFBLdktHY3EzaDBsLVByNjk3bEhsR0ZrMEZ3b2JoUk5RMEUwdnlkN29wSDY1Z3lPVHBRdnl6RTVjSE9JTTFqSm92andscjF4OUJSbU9RQVRxYk5PTGN0cFFXQzRUSnotdw?oc=5",
-     "ts": "2026-11-11T15:33:00Z",
-     "summary": ""
-    },
-    {
-     "id": "e5bb4677cbfb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "FanBolt",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' Preorders Soar Days Before Release, but Take-Two Isn’t Celebrating Yet",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0xHNTFvczRzaGJuZVBwY1Z4MHcyUG9sV3VRMTVicDhid2IwQ0xic054YW8td3c1SUlqaTdhRERTNWt0Z2I1SkV4c1ZKb0I4NXZBZVFyUXdfRjBMd3p6WHVlaUxxWHJvMnMtcF9wRHEtdkZtdE53Q1RUQ2podGpLYW9oRHZ5TFlpMW9vVVhRbjEwNXNaQmMyako5R3ZtTEExNzBXZlQ3dWhpbFoyYkh6WFJXZnc1c3BXMXdQaw?oc=5",
-     "ts": "2026-11-11T15:42:30Z",
-     "summary": ""
-    },
-    {
-     "id": "24ca943b5f46",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Глава Take-Two назвал GTA VI выгодным вложением за 10 дней до релиза",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ydURGWU15QVdxdmJBeENxalVKQTlnalhXbktxQzBPdzVVMHpVOU9Ic3lPVVU0cm4zVnkyRGw0NV8wUnN6VVhQbUdTYmFXRXdVYnpXQ3Rjam9uMzhJbEltLTBmSTlpeXN4V2VLbFItOHc?oc=5",
-     "ts": "2026-11-11T10:26:05Z",
-     "summary": ""
-    },
-    {
-     "id": "fb96fd198225",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Onliner",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Глава Take-Two считает GTA VI «выгодным вложением» для геймеров в кризисные времена",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVmZybzVBN0V1RkRPdVA1TTl5QWJsTmhMdzRUQzItbG1Ib2tHSDVubEExaVVmSXBPb2d6cW9iUV9KczVjWWhmb2dhcHoydFZrU21LdkFoMVVhZnVHVEItNlVqMjI3eHBQQlVqWFJMTmptMFdyNVVTb1BpSjcyNG9ycm5QNS10RVBxMW16enBkTWpMOEZHc0FZalY2NHA3VlBMQlpOQlpIaENEOXhlaTJGUXlELU55R1NwYmNn?oc=5",
-     "ts": "2026-11-11T13:11:17Z",
-     "summary": ""
-    },
-    {
-     "id": "e45b6f166110",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Finance",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Demand Is 'Extraordinary,' but Take-Two CEO Isn't Ready to Declare Victory",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3JKTVc5UXpVY0gzMHk0bW9POVRXV1lyOFdPcHhhWF8zUkJkc2FNMDU2Q2RUd3RWdUd1QXBueHc5Vm5yWU9IeW85WDZieFRpdVcwOFZseV9MaTZYTXl6YXRYZkhBaUxicF8ycDdzV0ZUZXlWbnlYQ29ucU5JRzZNc0lKUHdIdTMtZDRXVW5HZlBPV1dfNFNFQkhhbw?oc=5",
-     "ts": "2026-11-11T16:00:06Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two",
-    "цена/издания"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   },
   {
    "id": "0841154ae998",
@@ -95389,94 +95569,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a65e827a097c",
-   "title": "Предзагрузка GTA VI стартует 10 ноября",
-   "first_seen": "2026-11-04T18:30:59Z",
-   "updated": "2026-11-04T18:30:59Z",
-   "items": [
-    {
-     "id": "a65e827a097c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Cubiq.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Предзагрузка GTA VI стартует 10 ноября",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92VVpNSk9pNzJoZ3pYbUk0ZTVPNzRDTGd5M2VFSFVGRkVyYTd0dGpock1tWGFIeDduNEhBUlJPTXR2OWpSenJLU1BsNlkzSzc2c2U3VEdhRkYzb2VyMXJSYVVmVUZyS0VqTEE?oc=5",
-     "ts": "2026-11-04T06:25:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "243a3f97f49f",
-   "title": "Stuffing an Xbox inside an alligator is the most Florida way ever to promote GTA VI",
-   "first_seen": "2026-11-04T18:30:59Z",
-   "updated": "2026-11-04T18:30:59Z",
-   "items": [
-    {
-     "id": "243a3f97f49f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TechSpot",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Stuffing an Xbox inside an alligator is the most Florida way ever to promote GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWZjb0g5Q0FIVWFVUEU3WWpnRzZxbFo4N2xtbzVudm4yRnIzd2Z6TGpXbmVDaF9IcE9oWGQ4RGRzbmNIeUJKUTZ1NzJmWFUyQzJqOVY4ZDlmUHQzb093VUh2am5ZMUNhMjhTRU5TQVRNRVdyb0l5MkdBUWJqWlVsZDdzNU9RQnd3OGtLcWZDVUw0OW8tWEZEVllR?oc=5",
-     "ts": "2026-11-04T16:35:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9344a1708abb",
-   "title": "How the majority of y'all look who are gooning to Lucia lol",
-   "first_seen": "2026-11-04T18:30:59Z",
-   "updated": "2026-11-04T18:30:59Z",
-   "items": [
-    {
-     "id": "9344a1708abb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "How the majority of y'all look who are gooning to Lucia lol",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xnvp06/how_the_majority_of_yall_look_who_are_gooning_to/",
-     "ts": "2026-11-04T18:22:37Z",
-     "summary": "submitted by /u/Mrhidenyobushes to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-11T18:20:54Z",
+  "last_run": "2026-11-11T18:31:12Z",
   "last_log": [
-   "rockstar_site: 0/20",
-   "gnews_en: 96/100",
+   "rockstar_site: 0/21",
+   "gnews_en: 95/100",
    "gnews_ru: 95/100",
    "gamesbeat: 0/10",
    "vgc: 3/10",
