@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "8a02b6debced",
+   "title": "Nina’s What’s Trending: GTA 6 Hype, KATSEYE Concerns & a Bizarre Viral “Hack”",
+   "first_seen": "2026-11-11T21:01:14Z",
+   "updated": "2026-11-11T21:01:14Z",
+   "items": [
+    {
+     "id": "8a02b6debced",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Power 105.3",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Nina’s What’s Trending: GTA 6 Hype, KATSEYE Concerns & a Bizarre Viral “Hack”",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZDV6LWNIZ0ZfQnlXQ2d0ZG9uWTNZeUJYLW1NMmh6WE92aWRyQm41Vk5peHktME5Nd0dxMndjTHJiY29HUzN5UXdWWW5mM1VyeG5ObFJHWkpsVzRuSDJ1VDF4ZGJpMnotWDJDOXVHcl9XUnpHMGNybjAwV1U1OFBHUzB4bkxuTUFwTmhDRXJHSHhRTTlrYl9JTGpCczZwY1BvQjNIWDR0UEdkbWxzalNtYmtoaXZ4TnRJQkx2dzhUbzNlRWhKZDNTSHlIMGNEY1c5YUVIbUhHNjJBVjVCRW4xTlFB?oc=5",
+     "ts": "2026-11-11T20:20:06Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "32eb35f77d21",
    "title": "GTA 6 Fans Think a Beloved Legacy Character from a Previous Game Is Hiding in the Latest Trailer",
    "first_seen": "2026-11-11T07:10:49Z",
@@ -96321,40 +96347,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "13e72310a87c",
-   "title": "something may happen",
-   "first_seen": "2026-11-04T21:01:10Z",
-   "updated": "2026-11-04T21:01:10Z",
-   "items": [
-    {
-     "id": "13e72310a87c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "something may happen",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xnzol7/something_may_happen/",
-     "ts": "2026-11-04T20:57:29Z",
-     "summary": "there are people who are saying that something may occur submitted by /u/IntrovertArtDominant to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-11T20:58:29Z",
+  "last_run": "2026-11-11T21:01:14Z",
   "last_log": [
    "rockstar_site: 0/25",
-   "gnews_en: 97/100",
+   "gnews_en: 98/100",
    "gnews_ru: 97/100",
    "gamesbeat: 0/10",
    "vgc: 3/10",
