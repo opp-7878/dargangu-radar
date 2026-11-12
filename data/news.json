@@ -1,263 +1,10 @@
 {
  "stories": [
   {
-   "id": "d5d4b92a5fc3",
-   "title": "CFX Download: Cable Preps for ‘GTA VI’ Fever",
-   "first_seen": "2026-11-12T00:31:05Z",
-   "updated": "2026-11-12T00:31:05Z",
-   "items": [
-    {
-     "id": "d5d4b92a5fc3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Cablefax",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "CFX Download: Cable Preps for ‘GTA VI’ Fever",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTGktRmF6OWw3YlB2QmFXRHp2cFlKS2o5dVl1S19lMDluaWtNVVJEblJfSkdhbEpzc1dmdVFaTGkyaDBkZU8xY3RBSHNzQTZQT01zWjZ2b3ZONlM1UVpEYkprZHVQdjZJRnhYYURoVVlKV1BTRS1GRk8xQ2FmUEthaGx5WFRBUQ?oc=5",
-     "ts": "2026-11-11T22:37:10Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e18fa2d8707d",
-   "title": "Grand Theft Auto VI preorders cross $1B | analyst roundup",
-   "first_seen": "2026-11-11T22:01:18Z",
-   "updated": "2026-11-12T00:20:50Z",
-   "items": [
-    {
-     "id": "e18fa2d8707d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesBeat",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "Grand Theft Auto VI preorders cross $1B | analyst roundup",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFgtemxNWkRfVGJzU3FCN0JKeFROSDBWVzhEaE9vMEE1dkxiNWdiekVjWFdJY0dLS0ttTXBOT3REVGFwWnN2ZHkydWxlUjQwTllMbmtyMEtFVjJXWmZSLUVxSFNrb1FUSzJEWmd3cFJiM2FXbXF5LU9KbUFIWGJSS3hsUQ?oc=5",
-     "ts": "2026-11-11T21:53:39Z",
-     "summary": ""
-    },
-    {
-     "id": "5eb53773737e",
-     "src": "gamesbeat",
-     "src_name": "GamesBeat",
-     "outlet": "",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "Grand Theft Auto VI preorders cross $1B | analyst roundup",
-     "url": "https://gamesbeat.com/grand-theft-auto-vi-preorders-cross-1b-analyst-roundup/",
-     "ts": "2026-11-11T21:54:00Z",
-     "summary": "Grand Theft Auto VI preorders have crossed $1 billion, according to a report from Sensor Tower. On Monday, Take-Two didn’t say how many preorders... The post Grand Theft Auto VI preorders cross $1B | analyst roundup appeared first on GamesBeat ."
-    }
-   ],
-   "tags": [
-    "Take-Two",
-    "цена/издания"
-   ],
-   "score": 98,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Предзаказы GTA 6 превысили $1 млрд — что это значит",
-    "summary": "По данным GamesBeat, предзаказы GTA 6 превысили 1 миллиард долларов. Издание ссылается на аналитиков, обсуждающих спрос и возможные издания игры.",
-    "idea": "Считаем, сколько копий GTA 6 уже купили по предзаказу, и прикидываем, какие издания это тянет. Зрителю интересно увидеть масштаб и понять, ждать ли делюкс-версии.",
-    "hook": "Миллиард долларов предзаказов GTA 6 — сколько это копий и изданий?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-11T22:01:21Z"
-   },
-   "msg_id": 816,
-   "posts": {
-    "flash": "⚡️ <b>GTA 6: предзаказы уже $1 млрд</b> — GamesBeat\n\nПо данным GamesBeat, предзаказы GTA 6 перевалили за миллиард долларов. Официально Rockstar цифры не подтверждала.\n\n#GTA6 #DargaNGU"
-   }
-  },
-  {
-   "id": "e02916107f43",
-   "title": "Бесплатной GTA 6 не будет: хакер испугался публиковать джейлбрейк PS5",
-   "first_seen": "2026-11-12T00:20:50Z",
-   "updated": "2026-11-12T00:20:50Z",
-   "items": [
-    {
-     "id": "e02916107f43",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Бесплатной GTA 6 не будет: хакер испугался публиковать джейлбрейк PS5",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOU51QnV6ZldXMHZXa3drUnVmN09pdzZGSjFkRk1MRFNZXzFoektfSlpqYWpqWktUczc5X2hKcWtNNWRiWU9RWHUweUR5ekw1WVFYVTRjLS1YTmExSFpLdmZIUW5nNHNoOFJhbDZJUW1XQk5Ba1N1Rnd2LWFMbzZSQVhKRHN2dHhpOXdLbVRyLWxnS2MtWkZ5OUZlcFl4RE5lamc?oc=5",
-     "ts": "2026-11-11T19:22:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b82e4e843f7e",
-   "title": "Угроза уровня Мстителей: GTA 6 может оставить кино без зрителей",
-   "first_seen": "2026-11-12T00:20:50Z",
-   "updated": "2026-11-12T00:20:50Z",
-   "items": [
-    {
-     "id": "b82e4e843f7e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Угроза уровня Мстителей: GTA 6 может оставить кино без зрителей",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWi0zS0kzaE1WckpZN2N6ekVEa29mSDNYR0M3bDBkTmw0cFRLZEEyR2g3Mnc4X0Q0d2xEOGlNdDFZc095Y3c5VE5pWVk1RWZaMmR1UUs4SUxsVlFVV3pSa0JpWWV5R01kSUxFb0pZdUlzU0FqekJMeVk0anFSRmgzSC1hcjA4RTA3Tm9waG8ySDRPSXVVWDZhMQ?oc=5",
-     "ts": "2026-11-11T22:45:31Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6d2344b04624",
-   "title": "В сети показали новый ролик GTA 6 — с видом от первого лица",
-   "first_seen": "2026-11-12T00:20:50Z",
-   "updated": "2026-11-12T00:20:50Z",
-   "items": [
-    {
-     "id": "6d2344b04624",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "В сети показали новый ролик GTA 6 — с видом от первого лица",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1ZwaDN3VmUwUzEzakczX09JWjhJc0hDWmNFTHI0TFhmVHZqWklPeDZTWGNpbnRnMzh2QmU4aHZiVTFwa2ZpVlQtWWpqRklSVXU4eDlpR1JnY2syMTRyLTBWVEI2dzBHYmthVmNiM0M4cnFJZEQtd085NkIyeVlNcmhoZGJVbEk4bmVNMm04eGdCQQ?oc=5",
-     "ts": "2026-11-11T23:25:51Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "54fda59842c8",
-   "title": "POV: You're at Vice Beach in GTA 6",
-   "first_seen": "2026-11-12T00:20:50Z",
-   "updated": "2026-11-12T00:20:50Z",
-   "items": [
-    {
-     "id": "54fda59842c8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "POV: You're at Vice Beach in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56aC1IV0l4RTlsRUNlN044Ul9vX3U5eXo1TDdCU0NoYkxFODdUUHlTUzRxbjhkMm0yZ08wNVNuak9zaTdZbUlSZ2p6eTZQM3Z3RnlhMHhaajJQVU1XOFhLZW5nZ2FvWjROc3U0?oc=5",
-     "ts": "2026-11-12T00:09:12Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 Вайс-Бич в GTA 6: вид от первого лица",
-    "summary": "IGN показал ролик POV с видом от первого лица на Вайс-Бич в GTA 6. На кадрах — пляж, пальмы и городская застройка, снятые как глазами игрока.",
-    "idea": "Снимем POV-прогулку по Вайс-Бич: камера на уровне глаз, без интерфейса, с городскими звуками. Зрителю интересно «примерить» GTA 6 на себя до релиза.",
-    "hook": "Ты идёшь по Вайс-Бич в GTA 6 — смотришь от первого лица.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-12T00:20:54Z"
-   },
-   "msg_id": 819
-  },
-  {
-   "id": "c90583278f3f",
-   "title": "So I guess everyone is done talking about 30fps now. Haha",
-   "first_seen": "2026-11-12T00:20:50Z",
-   "updated": "2026-11-12T00:20:50Z",
-   "items": [
-    {
-     "id": "c90583278f3f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "So I guess everyone is done talking about 30fps now. Haha",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xty2wh/so_i_guess_everyone_is_done_talking_about_30fps/",
-     "ts": "2026-11-12T00:10:54Z",
-     "summary": "For those of you late to the party, an Instagram account named OnlyInDade, posted a video that most people dismissed as real, then argued was AI, and then realized that Rockstar had liked and shared the post and its actual GTA6 footage. It looks so real that it literally makes no sense. I have a very high end PC and I’ve studied graphics since 1995 and I have never been fooled like I was today. We have crossed some sort of threshold with this game that most of us couldn’t have comprehended a year ago. I don’t know how it’s possible, but my word it is amazing. Go on Instagram to see it in full "
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8b144c9759f6",
-   "title": "Anyone Concerned GTA 6 is Going to be Soft?",
-   "first_seen": "2026-11-12T00:20:50Z",
-   "updated": "2026-11-12T00:20:50Z",
-   "items": [
-    {
-     "id": "8b144c9759f6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Anyone Concerned GTA 6 is Going to be Soft?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xty51c/anyone_concerned_gta_6_is_going_to_be_soft/",
-     "ts": "2026-11-12T00:13:34Z",
-     "summary": "https://preview.redd.it/gy3ga28rp21i1.png?width=1448&format=png&auto=webp&s=bfbf755e43f847839ec92c254a61a46de0076073 Just recently played through the older GTA games and there were countless times I thought, \"There is no way they would put this in a new GTA.\" The satire and humor always pushed the limits and I'm just not seeing how that will still be the case, especially since a lot of older Rockstar staff responsible the series are no longer with the company. I'm confident the game will be well made but concerned we are gearing up for a \"modern audience\" GTA: HR Edition. What do you guys thin"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "32eb35f77d21",
    "title": "GTA 6 Fans Think a Beloved Legacy Character from a Previous Game Is Hiding in the Latest Trailer",
    "first_seen": "2026-11-11T07:10:49Z",
-   "updated": "2026-11-12T00:10:49Z",
+   "updated": "2026-11-12T00:40:46Z",
    "items": [
     {
      "id": "32eb35f77d21",
@@ -960,6 +707,19 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzhpeEdBdTRJOGh4eENheW1JZFpsUUY5UVkyZFI1QUZDOFMtdVVjVWk4R3E1UWd2SVczV0VZdUdURW9DV0EyNEFZMHVUTXRwZWpnNm5TM2sxYlB3RV9Uam03NTZodEdKMUpaN1RfLXRxR20tQlJRZFB2clM3MGxwWlMyTUxDX2ZCcmdFeHQ3NkRpbnJOYThrMWZ5Z2NjNzVqdXlDOVFDUQ?oc=5",
      "ts": "2026-11-12T00:00:00Z",
      "summary": ""
+    },
+    {
+     "id": "1d1773e3e463",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 Physical Edition delivered a day early by Amazon ???",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xtyk6u/gta_6_physical_edition_delivered_a_day_early_by/",
+     "ts": "2026-11-12T00:32:42Z",
+     "summary": "Preordered it on Amazon and it was supposed to arrive tomorrow (Nov 12), but somehow it showed up at my door today like howww Wasn't expecting to actually have the game in my hands this early lmao. Came with the posters and everything ( which I was praying for and the only reason why I order the physical edition instead of digital one), and obv I already redeemed the code and started the 209GB download. Still gotta wait until the 19th to actually play it, but man, after all these years of waiting, seeing GTA 6 on my PS5 feels surreal ( I am emo rn my first ever game I played was Vice City now "
     }
    ],
    "tags": [
@@ -973,6 +733,259 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "d5d4b92a5fc3",
+   "title": "CFX Download: Cable Preps for ‘GTA VI’ Fever",
+   "first_seen": "2026-11-12T00:31:05Z",
+   "updated": "2026-11-12T00:31:05Z",
+   "items": [
+    {
+     "id": "d5d4b92a5fc3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Cablefax",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "CFX Download: Cable Preps for ‘GTA VI’ Fever",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTGktRmF6OWw3YlB2QmFXRHp2cFlKS2o5dVl1S19lMDluaWtNVVJEblJfSkdhbEpzc1dmdVFaTGkyaDBkZU8xY3RBSHNzQTZQT01zWjZ2b3ZONlM1UVpEYkprZHVQdjZJRnhYYURoVVlKV1BTRS1GRk8xQ2FmUEthaGx5WFRBUQ?oc=5",
+     "ts": "2026-11-11T22:37:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e18fa2d8707d",
+   "title": "Grand Theft Auto VI preorders cross $1B | analyst roundup",
+   "first_seen": "2026-11-11T22:01:18Z",
+   "updated": "2026-11-12T00:20:50Z",
+   "items": [
+    {
+     "id": "e18fa2d8707d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesBeat",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "Grand Theft Auto VI preorders cross $1B | analyst roundup",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFgtemxNWkRfVGJzU3FCN0JKeFROSDBWVzhEaE9vMEE1dkxiNWdiekVjWFdJY0dLS0ttTXBOT3REVGFwWnN2ZHkydWxlUjQwTllMbmtyMEtFVjJXWmZSLUVxSFNrb1FUSzJEWmd3cFJiM2FXbXF5LU9KbUFIWGJSS3hsUQ?oc=5",
+     "ts": "2026-11-11T21:53:39Z",
+     "summary": ""
+    },
+    {
+     "id": "5eb53773737e",
+     "src": "gamesbeat",
+     "src_name": "GamesBeat",
+     "outlet": "",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "Grand Theft Auto VI preorders cross $1B | analyst roundup",
+     "url": "https://gamesbeat.com/grand-theft-auto-vi-preorders-cross-1b-analyst-roundup/",
+     "ts": "2026-11-11T21:54:00Z",
+     "summary": "Grand Theft Auto VI preorders have crossed $1 billion, according to a report from Sensor Tower. On Monday, Take-Two didn’t say how many preorders... The post Grand Theft Auto VI preorders cross $1B | analyst roundup appeared first on GamesBeat ."
+    }
+   ],
+   "tags": [
+    "Take-Two",
+    "цена/издания"
+   ],
+   "score": 98,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Предзаказы GTA 6 превысили $1 млрд — что это значит",
+    "summary": "По данным GamesBeat, предзаказы GTA 6 превысили 1 миллиард долларов. Издание ссылается на аналитиков, обсуждающих спрос и возможные издания игры.",
+    "idea": "Считаем, сколько копий GTA 6 уже купили по предзаказу, и прикидываем, какие издания это тянет. Зрителю интересно увидеть масштаб и понять, ждать ли делюкс-версии.",
+    "hook": "Миллиард долларов предзаказов GTA 6 — сколько это копий и изданий?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-11T22:01:21Z"
+   },
+   "msg_id": 816,
+   "posts": {
+    "flash": "⚡️ <b>GTA 6: предзаказы уже $1 млрд</b> — GamesBeat\n\nПо данным GamesBeat, предзаказы GTA 6 перевалили за миллиард долларов. Официально Rockstar цифры не подтверждала.\n\n#GTA6 #DargaNGU"
+   }
+  },
+  {
+   "id": "e02916107f43",
+   "title": "Бесплатной GTA 6 не будет: хакер испугался публиковать джейлбрейк PS5",
+   "first_seen": "2026-11-12T00:20:50Z",
+   "updated": "2026-11-12T00:20:50Z",
+   "items": [
+    {
+     "id": "e02916107f43",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Бесплатной GTA 6 не будет: хакер испугался публиковать джейлбрейк PS5",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOU51QnV6ZldXMHZXa3drUnVmN09pdzZGSjFkRk1MRFNZXzFoektfSlpqYWpqWktUczc5X2hKcWtNNWRiWU9RWHUweUR5ekw1WVFYVTRjLS1YTmExSFpLdmZIUW5nNHNoOFJhbDZJUW1XQk5Ba1N1Rnd2LWFMbzZSQVhKRHN2dHhpOXdLbVRyLWxnS2MtWkZ5OUZlcFl4RE5lamc?oc=5",
+     "ts": "2026-11-11T19:22:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b82e4e843f7e",
+   "title": "Угроза уровня Мстителей: GTA 6 может оставить кино без зрителей",
+   "first_seen": "2026-11-12T00:20:50Z",
+   "updated": "2026-11-12T00:20:50Z",
+   "items": [
+    {
+     "id": "b82e4e843f7e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Угроза уровня Мстителей: GTA 6 может оставить кино без зрителей",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWi0zS0kzaE1WckpZN2N6ekVEa29mSDNYR0M3bDBkTmw0cFRLZEEyR2g3Mnc4X0Q0d2xEOGlNdDFZc095Y3c5VE5pWVk1RWZaMmR1UUs4SUxsVlFVV3pSa0JpWWV5R01kSUxFb0pZdUlzU0FqekJMeVk0anFSRmgzSC1hcjA4RTA3Tm9waG8ySDRPSXVVWDZhMQ?oc=5",
+     "ts": "2026-11-11T22:45:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6d2344b04624",
+   "title": "В сети показали новый ролик GTA 6 — с видом от первого лица",
+   "first_seen": "2026-11-12T00:20:50Z",
+   "updated": "2026-11-12T00:20:50Z",
+   "items": [
+    {
+     "id": "6d2344b04624",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В сети показали новый ролик GTA 6 — с видом от первого лица",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1ZwaDN3VmUwUzEzakczX09JWjhJc0hDWmNFTHI0TFhmVHZqWklPeDZTWGNpbnRnMzh2QmU4aHZiVTFwa2ZpVlQtWWpqRklSVXU4eDlpR1JnY2syMTRyLTBWVEI2dzBHYmthVmNiM0M4cnFJZEQtd085NkIyeVlNcmhoZGJVbEk4bmVNMm04eGdCQQ?oc=5",
+     "ts": "2026-11-11T23:25:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "54fda59842c8",
+   "title": "POV: You're at Vice Beach in GTA 6",
+   "first_seen": "2026-11-12T00:20:50Z",
+   "updated": "2026-11-12T00:20:50Z",
+   "items": [
+    {
+     "id": "54fda59842c8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "POV: You're at Vice Beach in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56aC1IV0l4RTlsRUNlN044Ul9vX3U5eXo1TDdCU0NoYkxFODdUUHlTUzRxbjhkMm0yZ08wNVNuak9zaTdZbUlSZ2p6eTZQM3Z3RnlhMHhaajJQVU1XOFhLZW5nZ2FvWjROc3U0?oc=5",
+     "ts": "2026-11-12T00:09:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Вайс-Бич в GTA 6: вид от первого лица",
+    "summary": "IGN показал ролик POV с видом от первого лица на Вайс-Бич в GTA 6. На кадрах — пляж, пальмы и городская застройка, снятые как глазами игрока.",
+    "idea": "Снимем POV-прогулку по Вайс-Бич: камера на уровне глаз, без интерфейса, с городскими звуками. Зрителю интересно «примерить» GTA 6 на себя до релиза.",
+    "hook": "Ты идёшь по Вайс-Бич в GTA 6 — смотришь от первого лица.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T00:20:54Z"
+   },
+   "msg_id": 819
+  },
+  {
+   "id": "c90583278f3f",
+   "title": "So I guess everyone is done talking about 30fps now. Haha",
+   "first_seen": "2026-11-12T00:20:50Z",
+   "updated": "2026-11-12T00:20:50Z",
+   "items": [
+    {
+     "id": "c90583278f3f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "So I guess everyone is done talking about 30fps now. Haha",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xty2wh/so_i_guess_everyone_is_done_talking_about_30fps/",
+     "ts": "2026-11-12T00:10:54Z",
+     "summary": "For those of you late to the party, an Instagram account named OnlyInDade, posted a video that most people dismissed as real, then argued was AI, and then realized that Rockstar had liked and shared the post and its actual GTA6 footage. It looks so real that it literally makes no sense. I have a very high end PC and I’ve studied graphics since 1995 and I have never been fooled like I was today. We have crossed some sort of threshold with this game that most of us couldn’t have comprehended a year ago. I don’t know how it’s possible, but my word it is amazing. Go on Instagram to see it in full "
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8b144c9759f6",
+   "title": "Anyone Concerned GTA 6 is Going to be Soft?",
+   "first_seen": "2026-11-12T00:20:50Z",
+   "updated": "2026-11-12T00:20:50Z",
+   "items": [
+    {
+     "id": "8b144c9759f6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Anyone Concerned GTA 6 is Going to be Soft?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xty51c/anyone_concerned_gta_6_is_going_to_be_soft/",
+     "ts": "2026-11-12T00:13:34Z",
+     "summary": "https://preview.redd.it/gy3ga28rp21i1.png?width=1448&format=png&auto=webp&s=bfbf755e43f847839ec92c254a61a46de0076073 Just recently played through the older GTA games and there were countless times I thought, \"There is no way they would put this in a new GTA.\" The satire and humor always pushed the limits and I'm just not seeing how that will still be the case, especially since a lot of older Rockstar staff responsible the series are no longer with the company. I'm confident the game will be well made but concerned we are gearing up for a \"modern audience\" GTA: HR Edition. What do you guys thin"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -96805,37 +96818,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "15575f780278",
-   "title": "Serious question",
-   "first_seen": "2026-11-05T00:40:46Z",
-   "updated": "2026-11-05T00:40:46Z",
-   "items": [
-    {
-     "id": "15575f780278",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Serious question",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xo4w09/serious_question/",
-     "ts": "2026-11-05T00:37:32Z",
-     "summary": "Do you think Tommy Vercetti will make an appearance in GTA 6? submitted by /u/LongAggressive9374 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T00:31:05Z",
+  "last_run": "2026-11-12T00:40:47Z",
   "last_log": [
    "rockstar_site: 0/26",
    "gnews_en: 98/100",
