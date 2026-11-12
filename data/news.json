@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "4fad4a52e48f",
+   "title": "One week out: what does your store actually show for the unlock time? Trying to get a real list going",
+   "first_seen": "2026-11-12T04:20:50Z",
+   "updated": "2026-11-12T04:20:50Z",
+   "items": [
+    {
+     "id": "4fad4a52e48f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "One week out: what does your store actually show for the unlock time? Trying to get a real list going",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xu3632/one_week_out_what_does_your_store_actually_show/",
+     "ts": "2026-11-12T04:17:44Z",
+     "summary": "Rockstar's line is midnight local time on Nov 19 for both PS5 and Xbox, so it's a rolling launch. New Zealand goes first (that's 11am GMT on the 18th) and the Americas go last. The part I don't think is settled is countries with more than one time zone. Reports say the US PS Store shows a single nationwide slot at midnight Eastern, which would mean 9pm Wednesday on the West Coast. I haven't seen anything solid for Australia, Brazil, Canada or Mexico yet. If you've pre-ordered, can you drop your country, platform and what your store listing or countdown actually says? Store page only please, no"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "5d2e10e1f7a4",
    "title": "Xbox одновременно хвалят и критикуют за возможность играть в GTA 6 через Cloud Gaming",
    "first_seen": "2026-11-12T04:10:49Z",
@@ -97350,9 +97378,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T04:10:49Z",
+  "last_run": "2026-11-12T04:20:50Z",
   "last_log": [
-   "rockstar_site: 0/27",
+   "rockstar_site: 0/28",
    "gnews_en: 97/100",
    "gnews_ru: 98/100",
    "gamesbeat: 1/10",
@@ -97366,7 +97394,7 @@
    "reddit: 21/25",
    "tg_gtavistar: 7/17",
    "tg_gta6deluxe: 17/17",
-   "tg_gta6_m: 17/19",
+   "tg_gta6_m: 16/19",
    "tg_gta6newsdaily: 0/16"
   ],
   "digest": "2026-11-11@21",
