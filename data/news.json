@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "cfa4fdf99f5d",
+   "title": "Advice for avoiding spoilers",
+   "first_seen": "2026-11-12T02:20:50Z",
+   "updated": "2026-11-12T02:20:50Z",
+   "items": [
+    {
+     "id": "cfa4fdf99f5d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Advice for avoiding spoilers",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xu0soa/advice_for_avoiding_spoilers/",
+     "ts": "2026-11-12T02:19:19Z",
+     "summary": "I would like to avoid all spoilers for GTA 6 until the PC release so i can avoid paying double for the same game and enjoy the game at not a locked 30fps. Could this community please help point me to sources and things i can use to make sure i can have a spoiler free experience or as close to spoiler free experience on the internet? I havent even seen the extended gameplay look or anything past trailer 2, thats how blind i want to go into the game. PC is my main area for this game and i would like to not have to buy this game on my PS5. Thank you for all who read this and provide their thought"
+    }
+   ],
+   "tags": [
+    "ПК",
+    "геймплей",
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "2db1f4e5e0e0",
    "title": "“Physical” copy delivered!!!",
    "first_seen": "2026-11-11T20:01:13Z",
@@ -96879,39 +96909,13 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "badd121d7bf2",
-   "title": "We Now Know How Massive GTA 6 Is Going to Be",
-   "first_seen": "2026-11-05T02:20:44Z",
-   "updated": "2026-11-05T02:20:44Z",
-   "items": [
-    {
-     "id": "badd121d7bf2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Turtle Beach",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "We Now Know How Massive GTA 6 Is Going to Be",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV3dTamxOcWJkeVlyOE4tc3Z2UFdWUjZmb1JIU1U3UWdudkJvSFdBYTllUFVHYnV2bEp0RkZLdXZiei1RclBrRko4TjVTaVI1MXh4TG9CWjc2ZnEtRzlpMEtUZ2lPT1ZWWlVGZTVSN2MyNXJuLXpac3QzSEluMUU2ZW1nbw?oc=5",
-     "ts": "2026-11-05T02:16:51Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T02:10:48Z",
+  "last_run": "2026-11-12T02:20:50Z",
   "last_log": [
-   "rockstar_site: 0/28",
+   "rockstar_site: 0/29",
    "gnews_en: 98/100",
    "gnews_ru: 98/100",
    "gamesbeat: 1/10",
@@ -96922,7 +96926,7 @@
    "dexerto_gta: 7/50",
    "rockstarintel: 9/10",
    "gtaboom: 14/30",
-   "reddit: 20/25",
+   "reddit: 19/25",
    "tg_gtavistar: 7/17",
    "tg_gta6deluxe: 17/17",
    "tg_gta6_m: 17/19",
