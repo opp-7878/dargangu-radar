@@ -4,7 +4,7 @@
    "id": "7986e16fd447",
    "title": "Popeyes Is Riding the GTA 6 Hype With a New 'Spice City' Chicken Sandwich",
    "first_seen": "2026-11-12T14:21:20Z",
-   "updated": "2026-11-12T14:30:59Z",
+   "updated": "2026-11-12T14:41:22Z",
    "items": [
     {
      "id": "7986e16fd447",
@@ -44,10 +44,23 @@
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVzJ1ZDVaMWVxWnZCbWE4MU1ETjROSm0tRUJ2R1FVczI4aWhGTW1Id19DQWFOcFNKVGJYOWpFVVVCSGh3OWRTV25wZzVkcEZMR3VUMzZ6T3RpNlBSbFEwUG1sMWFnSFdiLUtNT01QU2IyMG5nVTEtdGFKdjk5MFktTm9VYjVOWE9ybk1xSE9mcGVlZVVMVWREWDl2dDdqSndIRHA5eW9idkRubk5iRElCMXg5VVgzN1JTTk8zLVk1aTdYTVNZT2FJSm5SWQ?oc=5",
      "ts": "2026-11-12T14:16:43Z",
      "summary": ""
+    },
+    {
+     "id": "18eeca4742d0",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Popeyes celebrates GTA 6 launch with ‘Spice City’ sandwich packed with double chicken",
+     "url": "https://www.dexerto.com/food/popeyes-celebrates-gta-6-launch-with-spice-city-sandwich-packed-with-double-chicken-3427539/",
+     "ts": "2026-11-12T14:03:33Z",
+     "summary": "Popeyes is getting in on the GTA 6 hype with a new ‘Spice City’ sandwich featuring two crispy chicken fillets."
     }
    ],
    "tags": [],
-   "score": 86,
+   "score": 94,
    "level": "PROBABLE",
    "alerted": "yellow",
    "status": "new",
@@ -62,6 +75,187 @@
     "at": "2026-11-12T14:21:23Z"
    },
    "msg_id": 844
+  },
+  {
+   "id": "292ad63ae706",
+   "title": "СЛИЛИ ПОЛНУЮ КАРТУ GTA 6 — она засветилась в коллекционном наборе Таких размеров она будет в игре.",
+   "first_seen": "2026-11-12T14:10:43Z",
+   "updated": "2026-11-12T14:41:22Z",
+   "items": [
+    {
+     "id": "292ad63ae706",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "СЛИЛИ ПОЛНУЮ КАРТУ GTA 6 — она засветилась в коллекционном наборе Таких размеров она будет в игре.",
+     "url": "https://t.me/gta6deluxe/2037",
+     "ts": "2026-11-12T14:06:26Z",
+     "summary": "❗️ СЛИЛИ ПОЛНУЮ КАРТУ GTA 6 — она засветилась в коллекционном наборе Таких размеров она будет в игре. Достаточно огромная? 😀 Подписаться | Наш чат 😀"
+    },
+    {
+     "id": "7e52ec9f68a1",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "СЛИЛИ ПОЛНУЮ КАРТУ GTA 6 — она якобы засветилась в коллекционном наборе Таких размеров она будет в игре.",
+     "url": "https://t.me/gta6deluxe/2038",
+     "ts": "2026-11-12T14:33:37Z",
+     "summary": "❗️ СЛИЛИ ПОЛНУЮ КАРТУ GTA 6 — она якобы засветилась в коллекционном наборе Таких размеров она будет в игре. Достаточно огромная? 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Слили полную карту GTA 6: засветилась в коллекционном наборе",
+    "summary": "В сети появилась полная карта GTA 6 — она засветилась в коллекционном наборе, сообщил TG @gta6deluxe. По словам канала, именно таких размеров она будет в игре.",
+    "idea": "Крупный план карты из коллекционного набора с быстрой анимацией масштаба — зрителю важно увидеть реальный размер мира GTA 6 без домыслов.",
+    "hook": "Полная карта GTA 6 засветилась в коллекционном наборе — вот её реальный размер.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T14:10:50Z"
+   },
+   "msg_id": 843
+  },
+  {
+   "id": "42c47c746670",
+   "title": "GTA 6 PS5 Pro Features Confirmed – Better Graphics But Still 30 FPS",
+   "first_seen": "2026-11-11T18:31:06Z",
+   "updated": "2026-11-12T14:41:22Z",
+   "items": [
+    {
+     "id": "42c47c746670",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Некоторые игроки начали отменять предзаказы GTA VI после анонса ограничения 30 FPS",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLVJObk5NUVU0bjZrNFBZTmoxNmc1UjUxYzFkaTVJMlg2Z3NNOVhiUjRBMjJUU2NkMlN1empDRUFsVDdHYzdpdkFRQkpFQ0dXOHBnVkhNc0JKdzlyT1JHWmoyeGxXalpSVEtQN3praV9rRmtNaEUxb0ZOdmNBMUNYakp6d0duRWRRREdMYVM5TnBxdHc1bm93Zy1sYzhSMTJ1U1BZMXN4TUZEYXV5bWFHckdnQlNtQTNhNjJ0LWxJMVXSAcYBQVVfeXFMTVJaeUwtUUtCYnlxSWxLeU80MURhMVZxMTBRMWlQU2NiQnZmdGdIZnRQUmRWWWRuZ2pjbXdxbVZzRTVBSWlXSk1KOUJNSEM4cC04TWRqclRNOVNNelVpcUNOWmw1ZUFwQ2p6UlRYb2hlUEJwVEVCT01qRGlYOTRvd1BlMVRoTEc4bzltdXc5d2tCT1EzRE1lYThNV0ZCUDUtcUp6SmN4TE42VDljQ1lCb3dqYUIwbUJsTXJwME1xTkZDNDVmbGRn?oc=5",
+     "ts": "2026-11-11T17:54:00Z",
+     "summary": ""
+    },
+    {
+     "id": "df32b648ef8f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Игроки отменяют предзаказы на GTA 6 из-за ограничения в 30 FPS",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeW1TMU5VeFkzbWZOY09sR2R1SVVpb0s0RDV6aVZxN19Jcm1XNVVScXlhR0hHbmVsXzUteGJ6WDV5MUQ5TkdLUHYySXdteTBBdFg5ZzZxVHFKbUM3ZjAyN2VEVGtrenpUZFoyWldOMW5YX05fNXRfejFsXzNPVE1RRWhFanJhOHNYYWNscC1WNEMzekVwMVBDM1FxNEh6RF92?oc=5",
+     "ts": "2026-11-12T10:04:34Z",
+     "summary": ""
+    },
+    {
+     "id": "a38bb31e4d35",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ThePCEnthusiast",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 PS5 Pro Features Confirmed – Better Graphics But Still 30 FPS",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ObUhjNXNpcEg3RkdWLVQwU09BQVVqS2owb1RWcGpwZEVQR1E5ZEpWcmVPU09yZWpMR1g1Y1MyWThWeThEZVZZRm5FYWMtdm8ySWZHeFZYdVlkc2hIblIyU1QzMXllRUFlZlE?oc=5",
+     "ts": "2026-11-12T14:33:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "цена/издания"
+   ],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "a7e719c734a0",
+   "title": "Andover's Rockstar New England Helped Build GTA VI",
+   "first_seen": "2026-11-12T06:40:50Z",
+   "updated": "2026-11-12T14:41:22Z",
+   "items": [
+    {
+     "id": "a7e719c734a0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Hoodline",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Andover's Rockstar New England Helped Build GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkpuTWhROVQyVGIwNWhfUHBySU1wa1c5U05XbzZNNDlTN2hHQnhucVduM0VwNmZCOFBBWGhiOTJZVEdEMkhaZkJnQjMtY2FwcGNKMU03ZEFqN3BYa3lVc1JWY3NLRzhFTXhfNmxoakNjYlVRZGV3LWRRYW5lYklRTGZIQ3lfdzlkZ0ZDZ2hwZWIwbnFQdU9pYWdOVjdYWWxCXzVFOFdn?oc=5",
+     "ts": "2026-11-11T23:01:50Z",
+     "summary": ""
+    },
+    {
+     "id": "3cc98089044d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Boston's ROCK 92.9",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar New England in Andover Develops AI for ‘Grand Theft Auto VI’",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZG5wR1hnblFmUEI3dzlvNXBkTGlKNHRCcHBMemRQQU41enhXY2RneFhHQWZ1OWxuZ1lPcHhERWtlYWFKMGJUdnBJaW5JUzRjSGxQVzIyazJXQy05TnpqRHZSTFIxeHBjdTJ0NFdJYVVLZjllTGc1RGprcldhX3FxaktRYVVITjJLSGQ3RXU0T09qM1RmSGRtTzRkck9uNnN4WDlvclRvMA?oc=5",
+     "ts": "2026-11-12T10:53:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "9fa21860ce3f",
+   "title": "GTA 6 almost banned in Korea after government officials got to play it early",
+   "first_seen": "2026-11-12T14:41:22Z",
+   "updated": "2026-11-12T14:41:22Z",
+   "items": [
+    {
+     "id": "9fa21860ce3f",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "GTA 6 almost banned in Korea after government officials got to play it early",
+     "url": "https://www.dexerto.com/gta/gta-6-almost-banned-in-korea-after-government-officials-got-to-play-it-early-3427658/",
+     "ts": "2026-11-12T12:53:32Z",
+     "summary": "Grand Theft Auto 6 was almost denied a rating in South Korea, as officials asked to play the game early and see some parts of the map."
+    }
+   ],
+   "tags": [],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 чуть не запретили в Корее: чиновники поиграли раньше всех",
+    "summary": "В Южной Корее GTA 6 едва не отказали в возрастной рейтинг из-за раннего доступа чиновников. По данным Dexerto, им показали части карты, чтобы убедить в допустимости контента.",
+    "idea": "Мини-расследование: почему чиновники играли в GTA 6 раньше всех и как это чуть не стоило игре рейтинга. Зрителю интересно, что именно они увидели на карте.",
+    "hook": "Чиновники поиграли в GTA 6 раньше всех — и чуть не забанили игру в Корее.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T14:41:25Z"
+   },
+   "msg_id": 847
   },
   {
    "id": "b8093cedfbc1",
@@ -630,43 +824,6 @@
     "at": "2026-11-12T14:10:47Z"
    },
    "msg_id": 842
-  },
-  {
-   "id": "292ad63ae706",
-   "title": "СЛИЛИ ПОЛНУЮ КАРТУ GTA 6 — она засветилась в коллекционном наборе Таких размеров она будет в игре.",
-   "first_seen": "2026-11-12T14:10:43Z",
-   "updated": "2026-11-12T14:10:43Z",
-   "items": [
-    {
-     "id": "292ad63ae706",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "СЛИЛИ ПОЛНУЮ КАРТУ GTA 6 — она засветилась в коллекционном наборе Таких размеров она будет в игре.",
-     "url": "https://t.me/gta6deluxe/2037",
-     "ts": "2026-11-12T14:06:26Z",
-     "summary": "❗️ СЛИЛИ ПОЛНУЮ КАРТУ GTA 6 — она засветилась в коллекционном наборе Таких размеров она будет в игре. Достаточно огромная? 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Слили полную карту GTA 6: засветилась в коллекционном наборе",
-    "summary": "В сети появилась полная карта GTA 6 — она засветилась в коллекционном наборе, сообщил TG @gta6deluxe. По словам канала, именно таких размеров она будет в игре.",
-    "idea": "Крупный план карты из коллекционного набора с быстрой анимацией масштаба — зрителю важно увидеть реальный размер мира GTA 6 без домыслов.",
-    "hook": "Полная карта GTA 6 засветилась в коллекционном наборе — вот её реальный размер.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-12T14:10:50Z"
-   },
-   "msg_id": 843
   },
   {
    "id": "8f7aeddc7931",
@@ -5397,48 +5554,6 @@
    "msg_id": 815
   },
   {
-   "id": "42c47c746670",
-   "title": "Некоторые игроки начали отменять предзаказы GTA VI после анонса ограничения 30 FPS",
-   "first_seen": "2026-11-11T18:31:06Z",
-   "updated": "2026-11-12T10:50:48Z",
-   "items": [
-    {
-     "id": "42c47c746670",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Некоторые игроки начали отменять предзаказы GTA VI после анонса ограничения 30 FPS",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLVJObk5NUVU0bjZrNFBZTmoxNmc1UjUxYzFkaTVJMlg2Z3NNOVhiUjRBMjJUU2NkMlN1empDRUFsVDdHYzdpdkFRQkpFQ0dXOHBnVkhNc0JKdzlyT1JHWmoyeGxXalpSVEtQN3praV9rRmtNaEUxb0ZOdmNBMUNYakp6d0duRWRRREdMYVM5TnBxdHc1bm93Zy1sYzhSMTJ1U1BZMXN4TUZEYXV5bWFHckdnQlNtQTNhNjJ0LWxJMVXSAcYBQVVfeXFMTVJaeUwtUUtCYnlxSWxLeU80MURhMVZxMTBRMWlQU2NiQnZmdGdIZnRQUmRWWWRuZ2pjbXdxbVZzRTVBSWlXSk1KOUJNSEM4cC04TWRqclRNOVNNelVpcUNOWmw1ZUFwQ2p6UlRYb2hlUEJwVEVCT01qRGlYOTRvd1BlMVRoTEc4bzltdXc5d2tCT1EzRE1lYThNV0ZCUDUtcUp6SmN4TE42VDljQ1lCb3dqYUIwbUJsTXJwME1xTkZDNDVmbGRn?oc=5",
-     "ts": "2026-11-11T17:54:00Z",
-     "summary": ""
-    },
-    {
-     "id": "df32b648ef8f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW.News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Игроки отменяют предзаказы на GTA 6 из-за ограничения в 30 FPS",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeW1TMU5VeFkzbWZOY09sR2R1SVVpb0s0RDV6aVZxN19Jcm1XNVVScXlhR0hHbmVsXzUteGJ6WDV5MUQ5TkdLUHYySXdteTBBdFg5ZzZxVHFKbUM3ZjAyN2VEVGtrenpUZFoyWldOMW5YX05fNXRfejFsXzNPVE1RRWhFanJhOHNYYWNscC1WNEMzekVwMVBDM1FxNEh6RF92?oc=5",
-     "ts": "2026-11-12T10:04:34Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс",
-    "цена/издания"
-   ],
-   "score": 68,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
    "id": "313a2762599e",
    "title": "This is pretty much a confirmation that Rockstar intends to take the series to new cities in future. I'm excited to see a fresh location rather than cycling through Liberty City, San Andreas, and Vice City.",
    "first_seen": "2026-11-12T10:50:48Z",
@@ -8766,32 +8881,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a7e719c734a0",
-   "title": "Andover's Rockstar New England Helped Build GTA VI",
-   "first_seen": "2026-11-12T06:40:50Z",
-   "updated": "2026-11-12T06:40:50Z",
-   "items": [
-    {
-     "id": "a7e719c734a0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Hoodline",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Andover's Rockstar New England Helped Build GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkpuTWhROVQyVGIwNWhfUHBySU1wa1c5U05XbzZNNDlTN2hHQnhucVduM0VwNmZCOFBBWGhiOTJZVEdEMkhaZkJnQjMtY2FwcGNKMU03ZEFqN3BYa3lVc1JWY3NLRzhFTXhfNmxoakNjYlVRZGV3LWRRYW5lYklRTGZIQ3lfdzlkZ0ZDZ2hwZWIwbnFQdU9pYWdOVjdYWWxCXzVFOFdn?oc=5",
-     "ts": "2026-11-11T23:01:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -100608,115 +100697,22 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "102093296d9e",
-   "title": "Лучшие телевизоры для GTA 6 в 2026 году: топ-10 моделей",
-   "first_seen": "2026-11-05T14:40:49Z",
-   "updated": "2026-11-05T14:40:49Z",
-   "items": [
-    {
-     "id": "102093296d9e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Журнал Ситилинк",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Лучшие телевизоры для GTA 6 в 2026 году: топ-10 моделей",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTVhYVVXdXpic0VzVkIzdFRBc0tCRzJtWC1tR3Z0ZTZEUE9xUmVDUzRyNDlSNjV4UXJWUEZuV3JDR2hGV3dxNXlENVg4Mlh2LURLS2ctanBkY2R4VUNMcXZQOGtUMExDekY5el9OVktacHNwa0Vwc1RJdFJweWdNSjYwbTNIMnhJQjZxV1AxUGcya0IxTHpyQURTUGFLcWlVX3hmMzJiQ2g0NS1maEdWNE53?oc=5",
-     "ts": "2026-11-05T13:28:12Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "25bf3500cc71",
-   "title": "Has GTA 6 Been Delayed Again Before Release? (November 2026)",
-   "first_seen": "2026-11-05T14:40:49Z",
-   "updated": "2026-11-05T14:40:49Z",
-   "items": [
-    {
-     "id": "25bf3500cc71",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Has GTA 6 Been Delayed Again Before Release? (November 2026)",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBleXN0Um9WZ3FoYlNHLUxiNVRTd0hIbWd6NlJOS0EwMk82N01EY3dyM09pNnpLVmJWaTRPMmZVTGFQakQ0MlYzWlc3dUZmZ0Z3NzN2eHNpaVQ3VkJuTDVIVHM2bHZjUQ?oc=5",
-     "ts": "2026-11-05T14:29:24Z",
-     "summary": ""
-    },
-    {
-     "id": "b2baf320613c",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Has GTA 6 Been Delayed Again Before Release? (November 2026)",
-     "url": "https://insider-gaming.com/gta-6-delayed-again-release/",
-     "ts": "2026-11-05T14:29:24Z",
-     "summary": "With two prior delays, it's only natural to ask if GTA 6 has been delayed again, with the game's long-awaited release so close now. The post Has GTA 6 Been Delayed Again Before Release? (November 2026) appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [
-    "дата/перенос"
-   ],
-   "score": 88,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "44cebea21603",
-   "title": "Вы либо слепые, либо тупые: Майкл из GTA 5 выдал базу хейтерам GTA 6",
-   "first_seen": "2026-11-05T14:31:09Z",
-   "updated": "2026-11-05T14:31:09Z",
-   "items": [
-    {
-     "id": "44cebea21603",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Вы либо слепые, либо тупые: Майкл из GTA 5 выдал базу хейтерам GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbU0yUHVGeHI0cTZCcjFGYjhXYUt5aGEyOXFtbE1FVmhWT01RY0U5bGcxelRwaU9ZclpMYlltQkFUQUpoMkNXcnlyQm8wdFFiLXhQc0tJN0JEN0VINHFBeVl1X2JlOGdvY0VNUzdEUW1fMmdMdDlNOFRPeDk1TGs5MFFQQ3g3aHFObVVqMDZHRVBNVnJfZFZ0Sw?oc=5",
-     "ts": "2026-11-05T10:35:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T14:31:03Z",
+  "last_run": "2026-11-12T14:41:26Z",
   "last_log": [
-   "rockstar_site: 0/29",
-   "gnews_en: 96/100",
+   "rockstar_site: 0/30",
+   "gnews_en: 97/100",
    "gnews_ru: 95/100",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 5/10",
    "ign: 2/20",
-   "eurogamer: 5/100",
-   "dexerto_gta: 8/50",
-   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
+   "eurogamer: 4/100",
+   "dexerto_gta: 10/50",
+   "⚠️ rockstarintel: The read operation timed out",
    "gtaboom: 14/30",
    "reddit: 22/25",
    "tg_gtavistar: 9/16",
