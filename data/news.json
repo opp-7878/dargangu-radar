@@ -1,6 +1,206 @@
 {
  "stories": [
   {
+   "id": "315c47f6bb20",
+   "title": "‘Unlike Anything Else’: As ‘GTA 6’ Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover",
+   "first_seen": "2026-11-12T20:41:12Z",
+   "updated": "2026-11-12T22:01:44Z",
+   "items": [
+    {
+     "id": "315c47f6bb20",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Variety",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Unlike Anything Else’: As ‘GTA 6’ Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWx6NElrYi1Ka0pJM194cUpNLW1BYnNjX3R1TzE4OVdKdlcxVnQ2cGMtZm41SjNqS1ZjYVUtLW5vVGtrZXVKZWpiNEQ3am9lWFlCdzc5ckNua01ObUppZVJIVUdsVlR2YllFUWVHaUxqakVSaThWcFJodUZSZlFNVEdqenhtbTVBbVk0c0F4SDk?oc=5",
+     "ts": "2026-11-12T20:36:00Z",
+     "summary": ""
+    },
+    {
+     "id": "e6a607842111",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Unlike Anything Else’: As ‘GTA 6’ Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZcHU0RENGQU5fb2I2a3BkcnNSOXQtSWdzV3JlZXAtSFQzaDdDOS1jdndDeFk0QUJqR2ZGc1ZTenFzRTVxUU44em5UbWZrN0VfaTZxWnh4OXBEa2VKZnZJYzhkZU5xZw?oc=5",
+     "ts": "2026-11-12T21:15:47Z",
+     "summary": ""
+    },
+    {
+     "id": "4925dbea260a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Unlike Anything Else’: As ‘GTA 6’ Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PcFQ2S05TeElCYWp4YlhwcmtLYlF3QmtwakhCRjQ3RVQ4ZGlSSWtuS2wwOXAzcmhieGRfTGJpN3Z5a0VJbmhtSUNMVW1wN0E5RjJTS1BPWGh1LThfa1J0bkRaeUV3ek9uNHc?oc=5",
+     "ts": "2026-11-12T21:29:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: индустрия готовится к культурному взрыву",
+    "summary": "Variety пишет, что индустрия ждёт культурного доминирования GTA 6. IMDb дублирует тезис о событии «вроде ничего другого» перед релизом.",
+    "idea": "Короткая нарезка ожиданий индустрии под бит: почему GTA 6 станет культурным событием. Зрителю — масштаб и ощущение «эпохи».",
+    "hook": "Индустрия говорит прямо: GTA 6 — это будет НЕЧТО.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T21:21:12Z"
+   },
+   "msg_id": 875
+  },
+  {
+   "id": "630ec6078d01",
+   "title": "$3,000 GTA 6 Collectible Officially Unveiled",
+   "first_seen": "2026-11-12T22:01:44Z",
+   "updated": "2026-11-12T22:01:44Z",
+   "items": [
+    {
+     "id": "630ec6078d01",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "$3,000 GTA 6 Collectible Officially Unveiled",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IY2pab3h5RmVFSW9JQXZWajJCZ0l6d3ZZVlBSZ2ltWTJFbDNGUWJQT3VfOWI0NmV0UTJRR0xFTUZGTThqRk1WeUFTdnB6X2Q4NkMyS1g1STR5ZmJDZUFhU3lCcTh0WFk?oc=5",
+     "ts": "2026-11-12T19:24:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "d198c198232f",
+   "title": "Grand Theft Auto 6: сбои, зависания и ошибки загрузки в PS5",
+   "first_seen": "2026-11-12T22:01:44Z",
+   "updated": "2026-11-12T22:01:44Z",
+   "items": [
+    {
+     "id": "d198c198232f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "games.gg",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Grand Theft Auto 6: сбои, зависания и ошибки загрузки в PS5",
+     "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNQjlYNWltbkJoUDVOZFRuWU0tMmNPVm16ZW9RUzRVNndIdXVsS3A3QVJGVWR1Vk8yM2lTcnJDVXl3OWYzb1k3RTVOd0Y5R0VLMUhGNjBmb1QtUEw5TVB2cVpudElkUDFUSDBnbFVJWGY4bVBiS21tTkdtZGQ0MTFuMXNpaFZyMVZoRVFfMUI5VERyY0NZZHVERzFETUlfR0NjWVFEaXBOY3VFUEt1NmpJaFRIUUdacXpKNFlaX25qUlRNelNMV1ZnVlVkc21qZ1A1VDY1ajVJOEtDQklwQTc4bWdNdW1abThzRVlsd3d6MEpLSmtJWjYxeE80cmNsUENSN2pGOFRfTzhOLXB5UTNZQ3p1RXFlYi1KZkJrUlZOVXhvb2tybDBkRk1aZXdSWlIxczJIWUtkQzR4OTN6SjgzdVp2ZWcxTWQyYUk2XzZBZ3NCV2tkN1dVckZyUnAydjhTQzdITFpRVGw2Sm1icUdvbV82eU14R2lGRW1pRFFfQjd1Undvb3ZpdGZ0NnRWZmNlc1o0?oc=5",
+     "ts": "2026-11-12T21:23:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f00e2b8886d4",
+   "title": "Preordered standard in store, but ultimate upgrade says unavailable in the PS store?",
+   "first_seen": "2026-11-12T22:01:44Z",
+   "updated": "2026-11-12T22:01:44Z",
+   "items": [
+    {
+     "id": "f00e2b8886d4",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Preordered standard in store, but ultimate upgrade says unavailable in the PS store?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xupxbh/preordered_standard_in_store_but_ultimate_upgrade/",
+     "ts": "2026-11-12T21:54:04Z",
+     "summary": "Do i have to wait til I put the code in my ps5 before I can purchase the ultimate upgrade or is it something else? submitted by /u/Mikethespike23 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "580766b36565",
+   "title": "Need a list of journalists/content creators who were invited by Rockstar to see gta6 gameplay.",
+   "first_seen": "2026-11-12T22:01:44Z",
+   "updated": "2026-11-12T22:01:44Z",
+   "items": [
+    {
+     "id": "580766b36565",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Need a list of journalists/content creators who were invited by Rockstar to see gta6 gameplay.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xupzdz/need_a_list_of_journalistscontent_creators_who/",
+     "ts": "2026-11-12T21:56:14Z",
+     "summary": "Hey guys! I know TGG and Jason Schreier made videos about them being invited to Rockstar HQ and being able to see gameplay about the game and I really enjoyed watching their videos about the game and what they revealed so do you know any other people like them who were invited and made videos/articles about their experience? submitted by /u/KreMs21 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс",
+    "геймплей"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a101b99997fc",
+   "title": "To anyone who has the physical copy, can you let me know the dimensions of the poster thats included?",
+   "first_seen": "2026-11-12T22:01:44Z",
+   "updated": "2026-11-12T22:01:44Z",
+   "items": [
+    {
+     "id": "a101b99997fc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "To anyone who has the physical copy, can you let me know the dimensions of the poster thats included?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xuq0cg/to_anyone_who_has_the_physical_copy_can_you_let/",
+     "ts": "2026-11-12T21:57:23Z",
+     "summary": "I want to frame it and hang it up in my office submitted by /u/ItsSunnyyD to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "65542aaeeff9",
    "title": "'Grand Theft Auto VI' is almost here. What to know about the characters, music and billions at stake",
    "first_seen": "2026-11-12T20:21:04Z",
@@ -820,56 +1020,6 @@
     "at": "2026-11-12T17:50:56Z"
    },
    "msg_id": 865
-  },
-  {
-   "id": "315c47f6bb20",
-   "title": "‘Unlike Anything Else’: As ‘GTA 6’ Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover",
-   "first_seen": "2026-11-12T20:41:12Z",
-   "updated": "2026-11-12T21:21:04Z",
-   "items": [
-    {
-     "id": "315c47f6bb20",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Variety",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Unlike Anything Else’: As ‘GTA 6’ Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWx6NElrYi1Ka0pJM194cUpNLW1BYnNjX3R1TzE4OVdKdlcxVnQ2cGMtZm41SjNqS1ZjYVUtLW5vVGtrZXVKZWpiNEQ3am9lWFlCdzc5ckNua01ObUppZVJIVUdsVlR2YllFUWVHaUxqakVSaThWcFJodUZSZlFNVEdqenhtbTVBbVk0c0F4SDk?oc=5",
-     "ts": "2026-11-12T20:36:00Z",
-     "summary": ""
-    },
-    {
-     "id": "e6a607842111",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IMDb",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Unlike Anything Else’: As ‘GTA 6’ Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZcHU0RENGQU5fb2I2a3BkcnNSOXQtSWdzV3JlZXAtSFQzaDdDOS1jdndDeFk0QUJqR2ZGc1ZTenFzRTVxUU44em5UbWZrN0VfaTZxWnh4OXBEa2VKZnZJYzhkZU5xZw?oc=5",
-     "ts": "2026-11-12T21:15:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6: индустрия готовится к культурному взрыву",
-    "summary": "Variety пишет, что индустрия ждёт культурного доминирования GTA 6. IMDb дублирует тезис о событии «вроде ничего другого» перед релизом.",
-    "idea": "Короткая нарезка ожиданий индустрии под бит: почему GTA 6 станет культурным событием. Зрителю — масштаб и ощущение «эпохи».",
-    "hook": "Индустрия говорит прямо: GTA 6 — это будет НЕЧТО.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-12T21:21:12Z"
-   },
-   "msg_id": 875
   },
   {
    "id": "d799baca1764",
@@ -100131,65 +100281,13 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ea58f57dbdeb",
-   "title": "Extreme times call for extreme measures.",
-   "first_seen": "2026-11-05T22:01:06Z",
-   "updated": "2026-11-05T22:01:06Z",
-   "items": [
-    {
-     "id": "ea58f57dbdeb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Extreme times call for extreme measures.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xotx1z/extreme_times_call_for_extreme_measures/",
-     "ts": "2026-11-05T20:51:08Z",
-     "summary": "submitted by /u/Valuable_Article8591 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e98868b54d3d",
-   "title": "what if i want to play too",
-   "first_seen": "2026-11-05T22:01:06Z",
-   "updated": "2026-11-05T22:01:06Z",
-   "items": [
-    {
-     "id": "e98868b54d3d",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "what if i want to play too",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xouegl/what_if_i_want_to_play_too/",
-     "ts": "2026-11-05T21:10:32Z",
-     "summary": "this might be a dumb question but if i want to play to do girlypop things like take lucia to get her nails done or go shopping etc will i be able to do that without affecting my bf's progress? will there be like, different profiles kind of like netflix or is it just one run at a time? i played gta when i was younger but honestly just enjoyed cruising and doing random side quests. the endless possibilities in gta6 make me want to do my own exploring but i also dont want to mess with my bf's game or status : ) sidenote: as a fellow creative, i've been admiring the FUCK out of gta visuals (initia"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T21:51:06Z",
+  "last_run": "2026-11-12T22:01:44Z",
   "last_log": [
-   "rockstar_site: 0/22",
+   "rockstar_site: 0/20",
    "gnews_en: 99/100",
    "gnews_ru: 94/100",
    "gamesbeat: 0/10",
