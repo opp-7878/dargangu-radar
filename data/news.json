@@ -1,6 +1,405 @@
 {
  "stories": [
   {
+   "id": "9476f30da3bb",
+   "title": "Watch Twitch CEO: GTA VI Could Be Our Biggest Moment",
+   "first_seen": "2026-11-12T19:20:56Z",
+   "updated": "2026-11-12T20:01:26Z",
+   "items": [
+    {
+     "id": "9476f30da3bb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Bloomberg.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Watch Twitch CEO: GTA VI Could Be Our Biggest Moment",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnVQVk1IODY3SU5udXN5cnkxQkw1TUZMVXdCS0pEdmhJaE5xdE9lc21nMElEQ3pXT1N6cF9TSV90dDliWWtCWWxId0RTcVd1SkFJaGhwTjQxaWYwRTNwaUYyb0tuR1JwcmFoRjFCTG50a1dYdmxuTjhfazFCZm1zMDNNUVFlNjJkczBlczRXekk0ZGJFREYzMlp4RDVFdm5MZVE?oc=5",
+     "ts": "2026-11-12T19:10:14Z",
+     "summary": ""
+    },
+    {
+     "id": "166ebf9b0b8b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "marketscreener.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Twitch CEO: GTA VI Could Be Our Biggest Moment",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFVyWXc4SXZNUWt0aG11U1Z4T0JERTJodk44Yk90dF9PX3F2MHRWUnJjTk41ams2aVUzUmRKMURwOEg1a29ibGhlSWFYR2MtcDJsdlBiRml2OF9ydnVnVU5ua2IwVDU0QmxIS1pIUjRmVzJRYjI2QTZLRTJHVFlRTXNHUmwtX3UtVllOa2xFalVsYlpfVWdnTU5UUF9YeUU?oc=5",
+     "ts": "2026-11-12T19:52:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Глава Twitch: GTA 6 может стать нашим главным моментом",
+    "summary": "Глава Twitch Дэн Клэнси заявил, что GTA 6 может стать крупнейшим событием для платформы. Об этом он рассказал в интервью Bloomberg.",
+    "idea": "Угол: сколько зрителей может собрать стрим GTA 6 на Twitch и почему это важно. Зрителю интересно — это про рекордные онлайны, мемы и шанс попасть в историю.",
+    "hook": "Глава Twitch сказал, что GTA 6 может стать их главным моментом. Вот что это значит.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T20:01:32Z"
+   },
+   "msg_id": 872
+  },
+  {
+   "id": "a32d0fdbf148",
+   "title": "Ah thank you for reminding me Rockstar",
+   "first_seen": "2026-11-12T20:01:26Z",
+   "updated": "2026-11-12T20:01:26Z",
+   "items": [
+    {
+     "id": "a32d0fdbf148",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Ah thank you for reminding me Rockstar",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xukh77/ah_thank_you_for_reminding_me_rockstar/",
+     "ts": "2026-11-12T18:25:39Z",
+     "summary": "Gta 6 ad in gta 6 subreddit submitted by /u/Old-Presentation3876 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9cc101abbc2d",
+   "title": "What is your ideal online maximum player count in a future GTA 6 server?",
+   "first_seen": "2026-11-12T20:01:26Z",
+   "updated": "2026-11-12T20:01:26Z",
+   "items": [
+    {
+     "id": "9cc101abbc2d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What is your ideal online maximum player count in a future GTA 6 server?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xukwm6/what_is_your_ideal_online_maximum_player_count_in/",
+     "ts": "2026-11-12T18:41:49Z",
+     "summary": "I know that GTA 5 had a max player count of 30 people, however the map is about half as big. The problem with a huge map and a similar cap is something we saw on RDR2 as well, where it’s vast but relatively empty compared to GTA 5. It was much less condensed player wise. I think GTA 6 should have a max player count of around 40-50 if they’re able so it doesn’t feel as empty of other players. What’s your opinion? submitted by /u/Father-Jemal to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d33563a77767",
+   "title": "What’s the one element of the game that impresses you the most from what we’ve seen?",
+   "first_seen": "2026-11-12T20:01:26Z",
+   "updated": "2026-11-12T20:01:26Z",
+   "items": [
+    {
+     "id": "d33563a77767",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What’s the one element of the game that impresses you the most from what we’ve seen?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xulekx/whats_the_one_element_of_the_game_that_impresses/",
+     "ts": "2026-11-12T19:00:05Z",
+     "summary": "For me, it’s just the NPC realism and density. I mean, I could go on and on about various things that look amazing but I think the NPC element is the most exciting to me. submitted by /u/Complete_Quantity_30 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a868e036e2eb",
+   "title": "I'm gonna miss the anticipation",
+   "first_seen": "2026-11-12T20:01:26Z",
+   "updated": "2026-11-12T20:01:26Z",
+   "items": [
+    {
+     "id": "a868e036e2eb",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I'm gonna miss the anticipation",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xumbho/im_gonna_miss_the_anticipation/",
+     "ts": "2026-11-12T19:33:37Z",
+     "summary": "It is really crazy to think that this is the last Thursday without GTA 6. I'm seriously going to miss the hype. It has been so fun to be a part of this community and get super amped up about any amount of info we can scrounge up. Getting news every Thursday the past few months, the excitement for what may come next. I heard we're getting something big next Thursday, actually. I only became a Rockstar fan in like 2022 when I played RDR2 which quickly became my all-time favorite game. It means a whole lot to me, and I haven't experienced anything quite like playing RDR2 since then. I imagine VI "
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a1ae91bb51af",
+   "title": "GTA 6 Physical / Poster",
+   "first_seen": "2026-11-12T20:01:26Z",
+   "updated": "2026-11-12T20:01:26Z",
+   "items": [
+    {
+     "id": "a1ae91bb51af",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 Physical / Poster",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xumfwf/gta_6_physical_poster/",
+     "ts": "2026-11-12T19:38:03Z",
+     "summary": "I hadn’t realized that the physical version came with a double-sided poster. I kinda wish they had done the map, but this is still a nice bonus. Only posting to inform others who may want to collect, sorry if it’s a common post I’m not active on this sub. submitted by /u/OhSocietyxx to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e49851da76b3",
+   "title": "How many times have you watched the extended look?",
+   "first_seen": "2026-11-12T20:01:26Z",
+   "updated": "2026-11-12T20:01:26Z",
+   "items": [
+    {
+     "id": "e49851da76b3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How many times have you watched the extended look?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xuml7r/how_many_times_have_you_watched_the_extended_look/",
+     "ts": "2026-11-12T19:43:29Z",
+     "summary": "Must have watched the extended look at least 10 times by now. Probably more. Always rewatched all trailers the same amount. How is everyone passing time while waiting? submitted by /u/aimlesseffort to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bc886a2a3b5e",
+   "title": "GTA VI FINALLY CAME!",
+   "first_seen": "2026-11-12T20:01:26Z",
+   "updated": "2026-11-12T20:01:26Z",
+   "items": [
+    {
+     "id": "bc886a2a3b5e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI FINALLY CAME!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xumsse/gta_vi_finally_came/",
+     "ts": "2026-11-12T19:51:18Z",
+     "summary": "I AM SO EXCITED RIGHT NOW!!! submitted by /u/OfficialGalaxyIsHere to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e8d5e0739973",
+   "title": "Imma Greet Greet Antagonize every NPC out there😭",
+   "first_seen": "2026-11-12T20:01:26Z",
+   "updated": "2026-11-12T20:01:26Z",
+   "items": [
+    {
+     "id": "e8d5e0739973",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Imma Greet Greet Antagonize every NPC out there😭",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xumvtb/imma_greet_greet_antagonize_every_npc_out_there/",
+     "ts": "2026-11-12T19:54:24Z",
+     "summary": "Fr tho the convos with the NPCs is gonna be crazy good!! submitted by /u/Pistoluislero to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "779a68668cf4",
+   "title": "Is the game size too big ?",
+   "first_seen": "2026-11-12T20:01:26Z",
+   "updated": "2026-11-12T20:01:26Z",
+   "items": [
+    {
+     "id": "779a68668cf4",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Is the game size too big ?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xumwyu/is_the_game_size_too_big/",
+     "ts": "2026-11-12T19:55:36Z",
+     "summary": "210Gb base game is kinda ridiculous. This is just the base game let’s track some time back. GTA 5 on PS3 was 8 gigs , the ps4 version was 45-50gb at launch and now doubled in size to over 100gbs with all dlcs ect. If this games at double what gta5 ps5 edition is now at its launch it could well go over 350+ gigs over the years with all the dlc. Unless the ps6 launches at 1TB base models we got an issue. submitted by /u/Creative-Safety6252 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7e72a060f8e8",
+   "title": "Are GTA VI Preloads Associated with Outlook Going Down?",
+   "first_seen": "2026-11-12T20:01:26Z",
+   "updated": "2026-11-12T20:01:26Z",
+   "items": [
+    {
+     "id": "7e72a060f8e8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Are GTA VI Preloads Associated with Outlook Going Down?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xun1lu/are_gta_vi_preloads_associated_with_outlook_going/",
+     "ts": "2026-11-12T20:00:24Z",
+     "summary": "So apparently Outlook/Microsoft 365 is experiencing a pretty major outage today. Users are having trouble accessing email, sending messages, and connecting to services. Microsoft says it’s related to elevated load on some of its infrastructure. Here’s my conspiracy theory: GTA VI physical editions and preloading are supposedly becoming available today, and with a 212GB game being downloaded by potentially millions of people, could that massive spike in internet traffic be contributing to the problem? 😂 There’s already been reported network congestion tied to GTA VI downloads in some areas. Mic"
+    }
+   ],
+   "tags": [
+    "размер/preload",
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4aa7740d157e",
+   "title": "Couldn’t even give us a map",
+   "first_seen": "2026-11-12T20:01:26Z",
+   "updated": "2026-11-12T20:01:26Z",
+   "items": [
+    {
+     "id": "4aa7740d157e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Couldn’t even give us a map",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xun1p8/couldnt_even_give_us_a_map/",
+     "ts": "2026-11-12T20:00:28Z",
+     "summary": "submitted by /u/Derkaholic to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f56393dc7df2",
+   "title": "«Такое историческое событие заслуживает особого внимания»: разработчики Palworld получили официальный отпуск, чтобы наиграться в GTA VI",
+   "first_seen": "2026-11-12T20:01:25Z",
+   "updated": "2026-11-12T20:01:25Z",
+   "items": [
+    {
+     "id": "f56393dc7df2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "3DNews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Такое историческое событие заслуживает особого внимания»: разработчики Palworld получили официальный отпуск, чтобы наиграться в GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYVZ6YUROdzRkR0NfQTBJSmNGYlNPbS0tUHZVWmx0QnZBNEgyWmF4T1dEOXRkVGEyMGlSZ3ZxMllpNEJiLU1rRmRKbVJvUmg1cVlUYkhxUjhmbTlDNmE4S0xCNk44MHpPNnNtZ3p1b3lkQVhXdkJ6T0JTTDhweGNtVFBIaEhFUU9QcmJya0xnOUhPWUxwYXUxTXRucERjeXdSV0hTbllQbTBiMHJFSkJ1eFZEVDhrd2x1ZERHVzN6Mmt5X2xfUHlZZFFYRnpJcFZSMll4NVBNcjJweV9LM1RNZWZld01ZZ1MxQVVzV0JFVVJFMXJi?oc=5",
+     "ts": "2026-11-12T17:09:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "032e304f414a",
+   "title": "I don’t know about yall, but I’m actually looking forward to meeting Mendez",
+   "first_seen": "2026-11-12T20:01:25Z",
+   "updated": "2026-11-12T20:01:25Z",
+   "items": [
+    {
+     "id": "032e304f414a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I don’t know about yall, but I’m actually looking forward to meeting Mendez",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xukahd/i_dont_know_about_yall_but_im_actually_looking/",
+     "ts": "2026-11-12T18:18:50Z",
+     "summary": "I know most everyone is excited to get to know Jason and Lucia as well as their friends and associates. It will be interesting to get to know their story and seeing how it unfolds. For me, however, I’m also just as excited to our first encounter with Mendez. He seems to be one of the central antagonists of the game and we haven’t seen too much of him in the trailers. The moment that really peaked my interest in Mendez was the scene in the extended look where Jason and Lucia are in the elevator rushing to close the doors as Mendez and his task force appear. It wasn’t necessarily his appearance,"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "0f731ee1e506",
    "title": "The GTA 6 flu is coming for office attendance on Nov. 19",
    "first_seen": "2026-11-12T19:40:41Z",
@@ -1021,32 +1420,6 @@
    ],
    "tags": [],
    "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9476f30da3bb",
-   "title": "Watch Twitch CEO: GTA VI Could Be Our Biggest Moment",
-   "first_seen": "2026-11-12T19:20:56Z",
-   "updated": "2026-11-12T19:20:56Z",
-   "items": [
-    {
-     "id": "9476f30da3bb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Bloomberg.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Watch Twitch CEO: GTA VI Could Be Our Biggest Moment",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnVQVk1IODY3SU5udXN5cnkxQkw1TUZMVXdCS0pEdmhJaE5xdE9lc21nMElEQ3pXT1N6cF9TSV90dDliWWtCWWxId0RTcVd1SkFJaGhwTjQxaWYwRTNwaUYyb0tuR1JwcmFoRjFCTG50a1dYdmxuTjhfazFCZm1zMDNNUVFlNjJkczBlczRXekk0ZGJFREYzMlp4RDVFdm5MZVE?oc=5",
-     "ts": "2026-11-12T19:10:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -99425,91 +99798,24 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "0fcda150105c",
-   "title": "Acclaim Gets In On The GTA 6 Hype With A \"Get That Acclaim SIX\" Bundle",
-   "first_seen": "2026-11-05T20:01:09Z",
-   "updated": "2026-11-05T20:01:09Z",
-   "items": [
-    {
-     "id": "0fcda150105c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Acclaim Gets In On The GTA 6 Hype With A \"Get That Acclaim SIX\" Bundle",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtcV9GTWIwd1RURjllVjhMTDlsWFNVZThmaDFJWVJHRTVmY3U3dk9GZnNCRXRFMEZWNWFSWml1RDdaU3pDR2hYMzFRbFlZVmlYZ0VxbF9Ub3I3NDdUcFNPbTNOS3dab0lCXzRSR1NobmlEY2VldEQyT3c5cTBCRmc?oc=5",
-     "ts": "2026-11-05T19:55:49Z",
-     "summary": ""
-    },
-    {
-     "id": "fc04893b3c4d",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Acclaim Gets In On The GTA 6 Hype With A “Get That Acclaim SIX” Bundle",
-     "url": "https://insider-gaming.com/acclaim-gta-6-hype-get-that-acclaim-six-bundle/",
-     "ts": "2026-11-05T19:55:49Z",
-     "summary": "While everyone is waiting for Rockstar's GTA 6, video game publisher Acclaim releases their own GTA SIX bundle on Steam. The post Acclaim Gets In On The GTA 6 Hype With A “Get That Acclaim SIX” Bundle appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 88,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "ba6a1e493e35",
-   "title": "Do you think we are going to have full-fledged series and events running on the TVs? This looks like some love island type shit",
-   "first_seen": "2026-11-05T20:01:09Z",
-   "updated": "2026-11-05T20:01:09Z",
-   "items": [
-    {
-     "id": "ba6a1e493e35",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Do you think we are going to have full-fledged series and events running on the TVs? This looks like some love island type shit",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xosm2i/do_you_think_we_are_going_to_have_fullfledged/",
-     "ts": "2026-11-05T19:59:15Z",
-     "summary": "submitted by /u/L0-Ki to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T19:51:25Z",
+  "last_run": "2026-11-12T20:01:33Z",
   "last_log": [
-   "rockstar_site: 0/27",
+   "rockstar_site: 0/29",
    "gnews_en: 97/100",
-   "gnews_ru: 95/100",
+   "gnews_ru: 94/100",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 2/10",
    "ign: 3/20",
    "eurogamer: 2/100",
    "dexerto_gta: 8/50",
-   "rockstarintel: 8/10",
-   "gtaboom: 15/30",
-   "reddit: 21/25",
+   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
+   "gtaboom: 14/30",
+   "reddit: 23/25",
    "tg_gtavistar: 11/17",
    "tg_gta6deluxe: 14/14",
    "tg_gta6_m: 16/19",
