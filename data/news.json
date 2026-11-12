@@ -1,10 +1,64 @@
 {
  "stories": [
   {
+   "id": "2e5223d08b92",
+   "title": "I want to stalk and abduct NPC's. Am I normal ?",
+   "first_seen": "2026-11-12T05:40:54Z",
+   "updated": "2026-11-12T05:40:54Z",
+   "items": [
+    {
+     "id": "2e5223d08b92",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I want to stalk and abduct NPC's. Am I normal ?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xu4lax/i_want_to_stalk_and_abduct_npcs_am_i_normal/",
+     "ts": "2026-11-12T05:34:48Z",
+     "summary": "I think it could be fun, just like in RDR2, to be able to kidnap some fellas, and eliminate them alone in the woods for example. Especially with the new witness and cops system, it seems like a pro strategy to me. What do you think ? Is it legit or I'm a psycho ? submitted by /u/GamerWithAttitude_fr to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bb78b7ba8c2c",
+   "title": "GTA 6 Realism Revealed: How Rockstar Is Bringing Miami to Life with Smarter NPCs, Realistic Cars, and Lifelike Animations",
+   "first_seen": "2026-11-12T05:40:54Z",
+   "updated": "2026-11-12T05:40:54Z",
+   "items": [
+    {
+     "id": "bb78b7ba8c2c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MMOEXP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Realism Revealed: How Rockstar Is Bringing Miami to Life with Smarter NPCs, Realistic Cars, and Lifelike Animations",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSGdiN0VmUFB5UVpxOExveGVSS3hORnpINXVPUWJRcW12cnowcElzTTdVT2tjS0hXRUh0blIxXzU0aXNzVF92cXpaZ2c0dktpOHRkdm1uTUhoX09tWjRNY1Foa0gzTWQ1SlBOS2NSd1FtYjRTSHRSRWRuT01OT1pNY0xhOF9kcDBFVUJFbVFIclRscUpIWFFIVE1zRTE1bDQtZjFzMXp4N21oX1l4b01vcUtjN2RhLVZMMjQ4clpOUVNFVnZoUXd6Vk91ZnhqUUNwU0tKajY3NnA1emlZeGJtajY0NG40Zw?oc=5",
+     "ts": "2026-11-12T05:36:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "32eb35f77d21",
    "title": "GTA 6 Fans Think a Beloved Legacy Character from a Previous Game Is Hiding in the Latest Trailer",
    "first_seen": "2026-11-11T07:10:49Z",
-   "updated": "2026-11-12T05:31:08Z",
+   "updated": "2026-11-12T05:40:53Z",
    "items": [
     {
      "id": "32eb35f77d21",
@@ -811,6 +865,19 @@
      "url": "https://www.reddit.com/r/GTAVI/comments/1xu4ds0/anybodys_expecting_future_free_dlcs_with_gta6/",
      "ts": "2026-11-12T05:22:46Z",
      "summary": "submitted by /u/Joey-Moonwalker to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "ed56c941c1ce",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take-Two reportedly targets GTA 6 Mapping Project, closing Discord that shared leaks",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRldBdjlmUjU3STRXMm1WNy0zeHZMYTNyZ3lraG50aUxOeUdRdThzQVJJQkgyY1pESDJpOE8xU0g1UlZFYTgyM2pjVWJ5N1E0TjFaNGdXY3FYWV83V0NHdmhSendXRFdvSzRsYkRxSVBqZThSaXphWk5iQ3dremtEWEg5RC1uYUpzZElqbWlLVnFxbkFSbHBGYW5kODFVcUVIYmlZVFY4QlpqZU9EdkZrcWI2NEFySTFFUlpOY2Y5ZjVDREgzQmdJ?oc=5",
+     "ts": "2026-11-11T23:29:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -819,6 +886,7 @@
     "геймплей",
     "дата/перенос",
     "размер/preload",
+    "слив",
     "трейлер",
     "цена/издания"
    ],
@@ -97495,7 +97563,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T05:31:08Z",
+  "last_run": "2026-11-12T05:40:54Z",
   "last_log": [
    "rockstar_site: 0/27",
    "gnews_en: 97/100",
