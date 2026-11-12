@@ -4,7 +4,7 @@
    "id": "ac7648d08e0a",
    "title": "EB Games Has More GTA 6 DualSense Controller And Collector’s Edition Pre-Orders",
    "first_seen": "2026-11-12T10:20:52Z",
-   "updated": "2026-11-12T18:10:47Z",
+   "updated": "2026-11-12T18:20:56Z",
    "items": [
     {
      "id": "ac7648d08e0a",
@@ -109,6 +109,19 @@
      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWkJfcWt0Mm5XNmsyS0JHRzkyLXdNbk5GcFZDWUdvLU5iTEh2OGphVjdDak9XYkZPYWM2NVNOckt1REFBSUFncnlPTDdJcmZVYzk3RHlWWHRVM255VzRYaWlQV0FFQy04cHdaT2FFRTBYTDFCZmF6RDF5TFRVczVNb0xBZHE4WnFvNUFFSWo4aDBRUko5d08zWEFHazBBdFNhNjBvNDk2VjFMUW9PMjk4NnVwcnh4bV9UWWV2QkxveWctNmJmaFplVEgxaVpPeko3bjBpdXZGS3V1M0l5WlEwT1djQlNuTy1wTnhIQ0xKZndIcXJuLWdvOXcyNGJZb1Y5TUthay1xQlBsOE1CU0E?oc=5",
      "ts": "2026-11-12T18:00:30Z",
      "summary": ""
+    },
+    {
+     "id": "18f3ad578523",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gadget Review",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Hits an Estimated $1 Billion in Presales Before Launch Day",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWl9IWVVYUVVtS24zZk1yczhCWlEtSGZldzM0eGFiaGV1cng2R3lYb1hwS1psaWY3QVp1TFFPUmpzNHRDUjl6Wnp3ZklJdkV6SzdzSGk2czlQVHZ2VUR4UU92Wk95ZlE0ZGZDMlVqZVMzNGY2aGM2N1Znb3l0ZXhZSkppcjdmRTZVOUZaczR1WU04c3NLeUcyNA?oc=5",
+     "ts": "2026-11-12T18:15:24Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -118,6 +131,199 @@
    "score": 90,
    "level": "PROBABLE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "2121c7d3600e",
+   "title": "New GTA 6 In-Game Footage Continues to Highlight the Game's Unbelievable Graphics",
+   "first_seen": "2026-11-12T17:50:49Z",
+   "updated": "2026-11-12T18:20:56Z",
+   "items": [
+    {
+     "id": "2121c7d3600e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "New GTA 6 In-Game Footage Continues to Highlight the Game's Unbelievable Graphics",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkd5ZGhMTktSS1FRNW9abTJfUTVlY1M4NTY0TnZzNEgtcENrQmNNbkh2dmhfZnlidFdOeVBVOTFudk9NbWNVeXhnaWw0RHlHSVV5MjRvVzhnbFV1Y0FjSlBEcDdLVmhPVmdIck52dlJhVFhnZlRMZEhubW1CUEFMRHR2STBuY1RLUzlMRkl5NnZ4VHZHaUZTRFBkanBvN2V2bVFlbDZDdDI4R0Y2OW9sOW1iVFJkRlZGcjZ2M0MtdVZPWkpfRWNHb2lR?oc=5",
+     "ts": "2026-11-12T17:42:56Z",
+     "summary": ""
+    },
+    {
+     "id": "3418f9b7f787",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "New GTA 6 In-Game Footage Continues to Highlight the Game's Unbelievable Graphics",
+     "url": "https://www.ign.com/articles/new-gta-6-in-game-footage-continues-to-highlight-the-games-unbelievable-graphics",
+     "ts": "2026-11-12T17:31:56Z",
+     "summary": "Rockstar has released yet another in-game clip from GTA 6, and like yesterday's footage, fans can't quite believe it's real."
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Новый ролик GTA 6: графика, в которую не верят",
+    "summary": "Rockstar выпустила ещё один внутриигровой ролик GTA 6, и фанаты не верят, что это реально. IGN и IGN Nordic отмечают, что кадры продолжают подчёркивать невероятную графику игры.",
+    "idea": "Покажем самые «кинематографичные» кадры нового ролика с подписью «это геймплей, а не CGI» и сравним с вчерашним клипом. Зрителю интересно увидеть, за что фанаты не верят своим глазам.",
+    "hook": "Смотри, это геймплей GTA 6 — или всё-таки CGI? Смотри внимательно.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T18:21:00Z"
+   },
+   "msg_id": 868
+  },
+  {
+   "id": "517781921f83",
+   "title": "Hands on GTA 6 controller videos are out now",
+   "first_seen": "2026-11-12T15:01:20Z",
+   "updated": "2026-11-12T18:20:56Z",
+   "items": [
+    {
+     "id": "517781921f83",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Hands on GTA 6 controller videos are out now",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xuevzy/hands_on_gta_6_controller_videos_are_out_now/",
+     "ts": "2026-11-12T14:57:02Z",
+     "summary": "Check out spawn-point’s youtube video on these controllers, excited to get em soon!! submitted by /u/bitcchlasagna to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "367314be20d8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 controller hands on videos from different creators",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xuk32i/gta_6_controller_hands_on_videos_from_different/",
+     "ts": "2026-11-12T18:11:34Z",
+     "summary": "submitted by /u/bitcchlasagna to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6839177d1837",
+   "title": "На Kick можно БЕСПЛАТНО получить GTA VI Ultimate edition — они разыгрывают 10 тысяч копий Для этого на платформе нужно просто смотреть 3+ часа любой стрим и отк",
+   "first_seen": "2026-11-12T07:10:52Z",
+   "updated": "2026-11-12T18:20:56Z",
+   "items": [
+    {
+     "id": "6839177d1837",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Carexpo.ru_ все авто на одном сайте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: Самая предзаказываемая игра в истории. 10 млн копий, рекорд Cyberpunk 2077, доходы до миллиарда",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDZtWEllSm9HY0x6UXFUQllnVmZyNEVIUEZYWWt5X1ZuYjZkcW5ZaEkyQnYtY21WTWNILU0wOWE3bGxqYlRjWTlLa2dlUE4xUWRKWjRhOGFiX2QxQnhGWU1jMHdHdE9Sd1pvZnhTWEtjQUFWZXFwQ0V3RGs3cnIzN21JNWFpdU42bTlUa05ZYXNPbWs2Vm1YMmJ3Nl80bnA5OE9sRV9mcTRYZ0h0RUR0RjB1Yw?oc=5",
+     "ts": "2026-11-12T06:56:24Z",
+     "summary": ""
+    },
+    {
+     "id": "7ea90ebe16d5",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "На Kick можно БЕСПЛАТНО получить GTA VI Ultimate edition — они разыгрывают 10 тысяч копий Для этого на платформе нужно просто смотреть 3+ часа любой стрим и отк",
+     "url": "https://t.me/gta6deluxe/2033",
+     "ts": "2026-11-12T12:30:58Z",
+     "summary": "❗️ На Kick можно БЕСПЛАТНО получить GTA VI Ultimate edition — они разыгрывают 10 тысяч копий Для этого на платформе нужно просто смотреть 3+ часа любой стрим и открывать кейсы, которые дают за просмотр. Розыгрыш продлится до 7 декабря Ключи будут рассылать победителям на релизе 😀 Подписаться | Наш чат 😀"
+    },
+    {
+     "id": "d81b4a6c4ca6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 Physical Edition, Fooled by Ultimate Edition QR",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xud1k5/gta_6_physical_edition_fooled_by_ultimate_edition/",
+     "ts": "2026-11-12T13:41:21Z",
+     "summary": "I received my copy in this mail this morning and saw the ultimate edition upgrade pamphlet, which fooled me into thinking I scored the Ultimate Upgrade while only paying for standard, I then saw it was just a QR code to buy it. Did this fool anyone else? submitted by /u/Fantastic_Fan_6842 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "8dda40eaf787",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "3DNews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI побила рекорд Cyberpunk 2077 по предзаказам и уже заработала больше миллиарда долларов",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGlyM2wweW5odzNyQ2hDYVZvdjk0d1Q1d3JTX190SWtDYk9RNDdEVng3Q0lINmRoUlRhUXI0OUQ1aHA2c1Y5Vk5GMlhWU3FmY1luQzJTekZrdV9CRFE3UGFKY1ZHSGFFTDBXUEZrYkNfQm01d0pMWmcwSGVhTFFWQzJ3Sm1WOXNWZnVhQkxMaGVNOFZwZGFKd2lna3pONnpTTG1KcUM2QXdvVFd5NDgtcmMtZ0w0MklNSVpR0gHAAUFVX3lxTE5fSzBaRk9pT2JEYnhVSmJPTFphSi1kUzkyNHNPYjl2S0xUeENzRUZiRHpkRlBCZjM1VEhQbXBhUUx6RERWNzlDVjhnOXV0VHZKdmlYbzQyRlAxQ1h4cVJ1WGYxMXZycVlrZWkzS3Z4OG43Nm16T3hTc2ltRlFYRzc4OTRvZDdBSjB6TE9MRU53bG9JdUctaVlaRU52akVhYnpfT09iclF1ME1GX0JqVUF4UzlvT0lFZTltWjlGRW45Vg?oc=5",
+     "ts": "2026-11-12T14:06:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 94,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 бьёт рекорды предзаказов: 10 млн копий и миллиард",
+    "summary": "По данным Carexpo.ru, GTA 6 стала самой предзаказываемой игрой в истории с 10 млн копий, побив рекорд Cyberpunk 2077. Ожидаемые доходы достигают миллиарда. Официально Rockstar цифры не подтверждала.",
+    "idea": "Короткий ролик с таймером и счётчиком: 10 млн предзаказов и миллиард до релиза. Зрителю — масштаб хайпа и повод написать, за сколько брал.",
+    "hook": "10 миллионов предзаказов GTA 6 до релиза — как это вообще возможно?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T07:10:56Z"
+   },
+   "msg_id": 823
+  },
+  {
+   "id": "5633e30be43a",
+   "title": "Hype & Story",
+   "first_seen": "2026-11-12T18:20:56Z",
+   "updated": "2026-11-12T18:20:56Z",
+   "items": [
+    {
+     "id": "5633e30be43a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Hype & Story",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xuk351/hype_story/",
+     "ts": "2026-11-12T18:11:39Z",
+     "summary": "Oi Guys. I am little bit hyped for the Game but worried & afraid of the Story - there will be No Happy ending i think. What your thoughts? submitted by /u/Atajel to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -1032,32 +1238,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2121c7d3600e",
-   "title": "New GTA 6 In-Game Footage Continues to Highlight the Game's Unbelievable Graphics",
-   "first_seen": "2026-11-12T17:50:49Z",
-   "updated": "2026-11-12T17:50:49Z",
-   "items": [
-    {
-     "id": "2121c7d3600e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "New GTA 6 In-Game Footage Continues to Highlight the Game's Unbelievable Graphics",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkd5ZGhMTktSS1FRNW9abTJfUTVlY1M4NTY0TnZzNEgtcENrQmNNbkh2dmhfZnlidFdOeVBVOTFudk9NbWNVeXhnaWw0RHlHSVV5MjRvVzhnbFV1Y0FjSlBEcDdLVmhPVmdIck52dlJhVFhnZlRMZEhubW1CUEFMRHR2STBuY1RLUzlMRkl5NnZ4VHZHaUZTRFBkanBvN2V2bVFlbDZDdDI4R0Y2OW9sOW1iVFJkRlZGcjZ2M0MtdVZPWkpfRWNHb2lR?oc=5",
-     "ts": "2026-11-12T17:42:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -5563,32 +5743,6 @@
    "status": "new"
   },
   {
-   "id": "517781921f83",
-   "title": "Hands on GTA 6 controller videos are out now",
-   "first_seen": "2026-11-12T15:01:20Z",
-   "updated": "2026-11-12T15:01:20Z",
-   "items": [
-    {
-     "id": "517781921f83",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Hands on GTA 6 controller videos are out now",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xuevzy/hands_on_gta_6_controller_videos_are_out_now/",
-     "ts": "2026-11-12T14:57:02Z",
-     "summary": "Check out spawn-point’s youtube video on these controllers, excited to get em soon!! submitted by /u/bitcchlasagna to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "d7d3033c8936",
    "title": "GTA 6 Streams To 2013 Xbox One At Launch, Leaving PC Gamers Behind",
    "first_seen": "2026-11-11T15:50:54Z",
@@ -6946,71 +7100,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "6839177d1837",
-   "title": "На Kick можно БЕСПЛАТНО получить GTA VI Ultimate edition — они разыгрывают 10 тысяч копий Для этого на платформе нужно просто смотреть 3+ часа любой стрим и отк",
-   "first_seen": "2026-11-12T07:10:52Z",
-   "updated": "2026-11-12T13:51:09Z",
-   "items": [
-    {
-     "id": "6839177d1837",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Carexpo.ru_ все авто на одном сайте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6: Самая предзаказываемая игра в истории. 10 млн копий, рекорд Cyberpunk 2077, доходы до миллиарда",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDZtWEllSm9HY0x6UXFUQllnVmZyNEVIUEZYWWt5X1ZuYjZkcW5ZaEkyQnYtY21WTWNILU0wOWE3bGxqYlRjWTlLa2dlUE4xUWRKWjRhOGFiX2QxQnhGWU1jMHdHdE9Sd1pvZnhTWEtjQUFWZXFwQ0V3RGs3cnIzN21JNWFpdU42bTlUa05ZYXNPbWs2Vm1YMmJ3Nl80bnA5OE9sRV9mcTRYZ0h0RUR0RjB1Yw?oc=5",
-     "ts": "2026-11-12T06:56:24Z",
-     "summary": ""
-    },
-    {
-     "id": "7ea90ebe16d5",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "На Kick можно БЕСПЛАТНО получить GTA VI Ultimate edition — они разыгрывают 10 тысяч копий Для этого на платформе нужно просто смотреть 3+ часа любой стрим и отк",
-     "url": "https://t.me/gta6deluxe/2033",
-     "ts": "2026-11-12T12:30:58Z",
-     "summary": "❗️ На Kick можно БЕСПЛАТНО получить GTA VI Ultimate edition — они разыгрывают 10 тысяч копий Для этого на платформе нужно просто смотреть 3+ часа любой стрим и открывать кейсы, которые дают за просмотр. Розыгрыш продлится до 7 декабря Ключи будут рассылать победителям на релизе 😀 Подписаться | Наш чат 😀"
-    },
-    {
-     "id": "d81b4a6c4ca6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 Physical Edition, Fooled by Ultimate Edition QR",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xud1k5/gta_6_physical_edition_fooled_by_ultimate_edition/",
-     "ts": "2026-11-12T13:41:21Z",
-     "summary": "I received my copy in this mail this morning and saw the ultimate edition upgrade pamphlet, which fooled me into thinking I scored the Ultimate Upgrade while only paying for standard, I then saw it was just a QR code to buy it. Did this fool anyone else? submitted by /u/Fantastic_Fan_6842 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 86,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 бьёт рекорды предзаказов: 10 млн копий и миллиард",
-    "summary": "По данным Carexpo.ru, GTA 6 стала самой предзаказываемой игрой в истории с 10 млн копий, побив рекорд Cyberpunk 2077. Ожидаемые доходы достигают миллиарда. Официально Rockstar цифры не подтверждала.",
-    "idea": "Короткий ролик с таймером и счётчиком: 10 млн предзаказов и миллиард до релиза. Зрителю — масштаб хайпа и повод написать, за сколько брал.",
-    "hook": "10 миллионов предзаказов GTA 6 до релиза — как это вообще возможно?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-12T07:10:56Z"
-   },
-   "msg_id": 823
   },
   {
    "id": "97d068caa88e",
@@ -98855,635 +98944,19 @@
     "at": "2026-11-05T18:31:12Z"
    },
    "msg_id": 563
-  },
-  {
-   "id": "f111f2383362",
-   "title": "Rockstar Confirms GTA 6 Preload Starts November 10 With a Download of Up to 212 GB",
-   "first_seen": "2026-11-04T19:20:45Z",
-   "updated": "2026-11-05T18:20:49Z",
-   "items": [
-    {
-     "id": "f111f2383362",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "gHacks",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Confirms GTA 6 Preload Starts November 10 With a Download of Up to 212 GB",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWp5THVESlhQTUhrZXc5RXZXQzBCb0FuOGkwWm1CX3lfNi1yM3VhV1ZzVElkUEY1S3AwUjBLaVBwSmZiVDNfZ1JLbElBSWxfd0Q5MEk2VFNJdHlCV25FT3B1dFA3MGlOM1NDNUVNQ2Q1UUs3Z3BEcFI3dEpEY201c2V1OWR2TWhMelk2N3pnVWprdDNOM3dXN3RWNi15Z1RqU3cxTG9iV1R0MUtfYzNjU2hyR1FhNlFQ?oc=5",
-     "ts": "2026-11-04T19:17:05Z",
-     "summary": ""
-    },
-    {
-     "id": "0f2cdeb9ecd8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ComicBook.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Officially Releases Its Monster GB Download Size",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYlQyRVcxb0kzQ0VIcHdFeXlWOXMzbks4dmFLSXE1Q0ktalc2T0JRVm82dUdPWFJlM2hURGJFcjNpaXdQbTJySktrSXJkeFZDZU4tM25BclduQ0VpU1g1ZHY4S0lZcVFiaHdsZVdadWh5V2F6ZHNUd21YN1pZd005OTlqczdqenJnVXM3dlZGaVlXNnc?oc=5",
-     "ts": "2026-11-03T23:24:41Z",
-     "summary": ""
-    },
-    {
-     "id": "80538ab6c299",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Pre-Loading Starts November 10: How Early Can You Download The Game?",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkthZndpblRiaGdYR0dZRFEwcW0xUkU0c3E5MjdlU1VuZjA1emw1Rl9uZnBadHFpSnAxQ1FVdDVqTld5bUJQMHZtVl9Ka2Jfek9LeUZ2TllCNGJSWmFrNHNOYlZJRjVRa00wSlZMRE1SbHNLZ2otNFBtcktacWowMlpnc0ZpdWNKNDNIT2JtNWFhaGJneEZIeVVuSEdxMkNDbVJ3Vl8zdmdwOWct?oc=5",
-     "ts": "2026-11-04T10:11:46Z",
-     "summary": ""
-    },
-    {
-     "id": "44e298ed582f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NoobFeed",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Preloads Start on November 10 With a 212 GB Download Size",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJOHk4cFdyZ09ZMGM1ZFFFd2xhaHFwVUx4TzRsLVVTZkZCclJVU2tXZ0UwWlZfNXNzOTVob1c5QUNXRzJMeng2eHMtb1BhMk8xZVBUbmZQa1Y2TGo1dlVaR3JUa0tuZw?oc=5",
-     "ts": "2026-11-04T12:58:29Z",
-     "summary": ""
-    },
-    {
-     "id": "671def2c142a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "en.ain.ua",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI will be available to download before launch: it will require up to 212 GB of storage",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNHY2M1M2XzFFR0R0d0JjWFNNUmVVRzBBcUtVTHRUQjdQcjdGaXNrdEpsM0plTmlCOERpaE16TzZrVVUwemdXSFUxMVhwX1BFRDFrdmNIcEltRTRrLUU0VmJPMTFOYWtqSnhlZzhGQmxVel82bzYzTm9XbnI4NDNOSkQwLTQ2Nm9BaTduX1BlNlhNZEZrUEM0anAtZ3ZJQVJicFlDenoxYXUtZGNkOG9LTDNmTnBrb0w3RFBDXw?oc=5",
-     "ts": "2026-11-04T15:51:00Z",
-     "summary": ""
-    },
-    {
-     "id": "f4b52f9cfa45",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Otaku's Study",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Pre-Load Starts 10 November, With 212GB Of Storage Required",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMk5lMlRZQkxIbGhRRlVsWm9tRWswSzQ2NUVCSnd1S0VtUC1GQmtCMjZKZmREQkRRR0ZKOWRyb2hwWVU1d213akp1ZzREWnFqeG1vVHFYS1ItOFZKX2lKRTNTSEh6eFNjMGJ2R2ZnQjBkQWMxallIdXp3VXptZHNtZGdSRTNodXpNMlJOWjFGT0IzZ2JFV1lGV0NnRHNRSC1helZsMEtFNi02MmctT1E5TTlhSVVlb24ycWFBX0JKcEQtejA?oc=5",
-     "ts": "2026-11-05T10:50:14Z",
-     "summary": ""
-    },
-    {
-     "id": "fb380cf16502",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA VI' pre-download of 212-GB game file begins on November 10",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVEZNZl9vNWhZWjJDSXV4Nm1JaW45aTlkRmExZkhBUmJBeXRzVW0yMnFmVVNXU3FtN0dQeXFHNXA4NWRjZ0NoclRBS2lqUDZSUXFBT1JsalZyS0daSjl2S3VlZGFBX2xPMlpDdkwwTlNaWElBMjVGWHRTaDZhc3A1ZVFXUQ?oc=5",
-     "ts": "2026-11-05T11:03:43Z",
-     "summary": ""
-    },
-    {
-     "id": "934fcd407c4f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "tech-insider.org",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Preload Nov 10: Free Up 212 GB Now [2026]",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEhyNVFyVFBneS1yU0NEQTdMcldvcV82NDZVX3NVbkV3WEdjbEYzS0RTRTZCcU9ETDNJc01jUy15eExoeDI5Ymlldy1ET1hwamVrQTBJNDFUU1dBV1c5cktGT2lqRjhtTkJwb0tuVnZVbHdQMmVLVS1GNnZjOHdDMXNmWUNDOUZQV2pUVQ?oc=5",
-     "ts": "2026-11-05T17:54:03Z",
-     "summary": ""
-    },
-    {
-     "id": "67b94c61d3db",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "THE MAGIC RAIN",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ Preloading Begins November 10, Requires Up to 212GB of Storage",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObV9XVnpTM3F0c2JQM1VnVVMzVm5GeVBObnRkdUVvZEtldmtHWHpqTkxQOGhDR0xmSUJ4UTBrLUxEdUNrb1RIUUN1M1ZhNVZrN29GOS16QkVLNVZVcEdJTXoxZDBhNEx4QXI1a0J2bmQ5aUh4TDVoSlQ5bjk3OGo2TDJEeF9rOHVLUThfUjVvV2ZraXZoUlpBZlNuOFVOU2w4ZkZYY1N5VG9LYTl4empHQjdxWE5PQQ?oc=5",
-     "ts": "2026-11-05T18:13:37Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс",
-    "размер/preload"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "708b6e444146",
-   "title": "GTA 6: E11EVEN Miami Sets November 6 NINE1NINE takeover",
-   "first_seen": "2026-11-05T18:20:49Z",
-   "updated": "2026-11-05T18:20:49Z",
-   "items": [
-    {
-     "id": "708b6e444146",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "games.gg",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: E11EVEN Miami Sets November 6 NINE1NINE takeover",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NUUZEdTY0a1hOQkFNSUlrT3d6SU5Xa0w5TWVNTDJ2Zi1sTXRoc0o2V1RNZ0VSZjN1bEpLTVJQOU5waGc1MjBwSTZfYm5sZE12My10MkVFcWo3blpieHdLejRoRW5aMXdiZ3BtSFZB?oc=5",
-     "ts": "2026-11-05T17:01:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6ba515026761",
-   "title": "Eligible Spectrum Users Get a Free GTA 6 Speed Boost From November 9 to 30",
-   "first_seen": "2026-11-05T18:20:49Z",
-   "updated": "2026-11-05T18:20:49Z",
-   "items": [
-    {
-     "id": "6ba515026761",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GTA BOOM",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Eligible Spectrum Users Get a Free GTA 6 Speed Boost From November 9 to 30",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd3pZcEdraFRVZUxWUUpVUUVwNW9IaFN3T0Jnd0hvcVRZbE1jY1IxR1lWalJVQkw3aU9EdmtXR19nc2dEYkdxZ2NBYVJCNVlZbWdOVEJSNWhlcGZzVFRDUUpoUVJ4dnJZQmRjR2cyZ3Z6V3d6Yi1UUTVVeFJRTHlFVXBhbDBMd0dPR0FwUmdXaE0yLUl4bFBxOVlROTJTRGdj?oc=5",
-     "ts": "2026-11-05T18:09:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9561a85c4386",
-   "title": "Confirmed gangs in GTA VI so far",
-   "first_seen": "2026-11-05T18:20:49Z",
-   "updated": "2026-11-05T18:20:49Z",
-   "items": [
-    {
-     "id": "9561a85c4386",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Confirmed gangs in GTA VI so far",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xoptr1/confirmed_gangs_in_gta_vi_so_far/",
-     "ts": "2026-11-05T18:11:34Z",
-     "summary": "Marabunta Grande Final Chapter MC San4San Mexican Cartel (?) submitted by /u/AnimalDesatado to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1880d4ede985",
-   "title": "My country is so ready for GTA 6",
-   "first_seen": "2026-11-05T18:20:49Z",
-   "updated": "2026-11-05T18:20:49Z",
-   "items": [
-    {
-     "id": "1880d4ede985",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "My country is so ready for GTA 6",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xopv8o/my_country_is_so_ready_for_gta_6/",
-     "ts": "2026-11-05T18:13:08Z",
-     "summary": "submitted by /u/lukasehrlich to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "cf9f86c412d2",
-   "title": "View from my office window (Toronto, Canada)",
-   "first_seen": "2026-11-05T18:20:49Z",
-   "updated": "2026-11-05T18:20:49Z",
-   "items": [
-    {
-     "id": "cf9f86c412d2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "View from my office window (Toronto, Canada)",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xopvam/view_from_my_office_window_toronto_canada/",
-     "ts": "2026-11-05T18:13:12Z",
-     "summary": "submitted by /u/Quark-gluon_Plasma to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6ebbf6d2a397",
-   "title": "The same place.",
-   "first_seen": "2026-11-05T18:20:49Z",
-   "updated": "2026-11-05T18:20:49Z",
-   "items": [
-    {
-     "id": "6ebbf6d2a397",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "The same place.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xopvzl/the_same_place/",
-     "ts": "2026-11-05T18:13:56Z",
-     "summary": "Seems to be the same scene from a new perspective. submitted by /u/ghospression to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5cf2ce77ec90",
-   "title": "🍿 GTA VI с живыми актёрами?",
-   "first_seen": "2026-11-05T18:20:49Z",
-   "updated": "2026-11-05T18:20:49Z",
-   "items": [
-    {
-     "id": "5cf2ce77ec90",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "🍿 GTA VI с живыми актёрами?",
-     "url": "https://t.me/GTA6_m/9305",
-     "ts": "2026-11-05T18:15:15Z",
-     "summary": "🍿 GTA VI с живыми актёрами? Сотрудников Rockstar заметили в Майами — они катались по улицам вместе со съёмочной группой на тачках которые уже появлялись в маркетинговой кампании Пока компания официально не раскрывает будет ли это рекламный ролик или полноценный…"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "aa7664288be8",
-   "title": "I never realized how many moles she had!",
-   "first_seen": "2026-11-05T18:20:49Z",
-   "updated": "2026-11-05T18:20:49Z",
-   "items": [
-    {
-     "id": "aa7664288be8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I never realized how many moles she had!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xopz0r/i_never_realized_how_many_moles_she_had/",
-     "ts": "2026-11-05T18:17:13Z",
-     "summary": "The moles seem a bit excessive honestly. submitted by /u/climaxx- to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0bb7835b5741",
-   "title": "Imagine this as a random event that we can encounter while free roaming.",
-   "first_seen": "2026-11-05T18:20:49Z",
-   "updated": "2026-11-05T18:20:49Z",
-   "items": [
-    {
-     "id": "0bb7835b5741",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Imagine this as a random event that we can encounter while free roaming.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xoq0uo/imagine_this_as_a_random_event_that_we_can/",
-     "ts": "2026-11-05T18:19:07Z",
-     "summary": "submitted by /u/rottenapple213 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3c866288709c",
-   "title": "GTA 6 isn’t even out yet and it’s already sold eight million copies",
-   "first_seen": "2026-11-05T16:20:47Z",
-   "updated": "2026-11-05T18:11:00Z",
-   "items": [
-    {
-     "id": "3c866288709c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Metro.co.uk",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 isn’t even out yet and it’s already sold eight million copies",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjY0RVcyQVBWal92TGR6MlNSeUpJcXlFOTJxLTh1MzlkMDkzZFVhYW14UmFjTUktY0o3UFZCNWt3Ukg3Q3Z0MUxTcUtpelB1N2xiQ2o2YU9tb1ZNSmlBeVQyQ284eDBRdEVkYjVMWlNweWlYLWN0Q3dudVpJcjFJb0NmeDNieUMzeFEyZURHbXdBQUl6NHhaNUFB0gGfAUFVX3lxTE1rcXJuLUFrRldJTWZmSGV3N0RQeGJmQWlZcy1tTWpibmxULUZpcWgtSGlIZ055VWt4SFFzbFJkZW8xMTlPa2Y5TmpySzRwX3FNdEstMW9zMndEM3Jhc3QyNU5JdEpQOHVTc0I5S0JlZ0RHVk9hZ3JDRUJmaGxTT2hDcnhrWHRWQ3dlaGJCX2ZjaURGdENhMkRBYkpPREN0NA?oc=5",
-     "ts": "2026-11-05T16:08:00Z",
-     "summary": ""
-    },
-    {
-     "id": "7d266c173be7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Metro.co.uk",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 isn’t even out yet and it’s already sold eight million copies",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjY0RVcyQVBWal92TGR6MlNSeUpJcXlFOTJxLTh1MzlkMDkzZFVhYW14UmFjTUktY0o3UFZCNWt3Ukg3Q3Z0MUxTcUtpelB1N2xiQ2o2YU9tb1ZNSmlBeVQyQ284eDBRdEVkYjVMWlNweWlYLWN0Q3dudVpJcjFJb0NmeDNieUMzeFEyZURHbXdBQUl6NHhaNUFB?oc=5",
-     "ts": "2026-11-05T16:08:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "978559956ae7",
-   "title": "GTA 6 39 скриншотов: танцы, боевые собаки и полиция",
-   "first_seen": "2026-11-05T18:11:00Z",
-   "updated": "2026-11-05T18:11:00Z",
-   "items": [
-    {
-     "id": "978559956ae7",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "https://dungen.ru/",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 39 скриншотов: танцы, боевые собаки и полиция",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVRIOXpsek0ySjFSWHhBdGllTGZqOWxjN3UtTnMwUU5fdWpwY1pVLTZ2QzZGRnBnWkRYbkZ4dXpNdVRQZlFzemZHVi11UFpaSXdWUExsT2JyMTZ3UUdOTGRWeWpPNzd4VHgzYWhTN0NucGY2UFpmaWE5ZVY2bC1xVXFPa0ZwTGY1WTZ4VjMzS0c?oc=5",
-     "ts": "2026-11-05T17:43:33Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6a6728b4aedc",
-   "title": "Rockstar выпустила 40 новых скриншотов из GTA 6: ночная жизнь Вайс-Сити, погони и подводный мир",
-   "first_seen": "2026-11-05T18:11:00Z",
-   "updated": "2026-11-05T18:11:00Z",
-   "items": [
-    {
-     "id": "6a6728b4aedc",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ITC.ua",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar выпустила 40 новых скриншотов из GTA 6: ночная жизнь Вайс-Сити, погони и подводный мир",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWdXLWx1dFg1RXVXc21XUVZOdzNkR2JEeld1UFZpMGRHTTdnaU42TjZuQnZCdU9RdndoQXpXdkRlWG8zVFozUy05dkx3MFpGSzd1UXo1ZlhMbjFMVmhLNmJWdDN6S2EzOUNLdzVDOGdTWWhuRmZfS0w1UWc4TGpnQXlCVnV0WDE4REluSVFSclhlVzRXcmdfUTh5LXdpOERxQjNVejhjc0w1OVlDb3BReTNiQlUyVHZW0gG-AUFVX3lxTE5OVDhrS0NfRGtOSHNMRHhlZVlVM2F4UnFMTVhBbkR6dW9nN01UaGtxVUVXdnNabzAwQzkwa3NCeTVSX2puTTBpNXZ1dGR3RE1xbDBzc05YeTNxRF82Tkttamx3WnJxUVUzNEZCcmUyWVpVZUtvUnJpUVNKdThFWThRY2JrR29Ydkt5aGdzMTEzWllKemVueG9xckRCTlJxSUZ5alFRVUNacUVrb3V0eDdacUtoQWUydm9vRTNqUUE?oc=5",
-     "ts": "2026-11-05T17:46:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d93b2c0d65e7",
-   "title": "GTA 4 RTX Remaster is the perfect reason to revisit 2 weeks before GTA 6",
-   "first_seen": "2026-11-05T18:11:00Z",
-   "updated": "2026-11-05T18:11:00Z",
-   "items": [
-    {
-     "id": "d93b2c0d65e7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GAMINGbible",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 4 RTX Remaster is the perfect reason to revisit 2 weeks before GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQmI2VFpqRzFHYTgxUDlRek1aWjBWM3JyNUJXT3daV1huenR2RmdrSTFmNVk0UkNZdXAwQXRmS3ZrNHU1eWFEa2sxSUJLVlVqaU9iUjFUVUk2VktORGNzX3BCRjJDd2hIa29sNWtnaC1lemtHNHBVUFhZdVJxX3I2akdiTUJfRlNlamQ2U3JiZjJVRWdaTnN0ejk2Yi1HUQ?oc=5",
-     "ts": "2026-11-05T18:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6274ba9dd3aa",
-   "title": "Leonida is a Fish",
-   "first_seen": "2026-11-05T18:11:00Z",
-   "updated": "2026-11-05T18:11:00Z",
-   "items": [
-    {
-     "id": "6274ba9dd3aa",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Leonida is a Fish",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xopjor/leonida_is_a_fish/",
-     "ts": "2026-11-05T18:01:04Z",
-     "summary": "submitted by /u/Hkrlje to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4550fd20ad68",
-   "title": "Large ad in Madrid, Spain",
-   "first_seen": "2026-11-05T18:11:00Z",
-   "updated": "2026-11-05T18:11:00Z",
-   "items": [
-    {
-     "id": "4550fd20ad68",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Large ad in Madrid, Spain",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xopkkn/large_ad_in_madrid_spain/",
-     "ts": "2026-11-05T18:01:59Z",
-     "summary": "Many fnac stores here are also getting covered in ads submitted by /u/scary_user to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f20c13422023",
-   "title": "Does this guy straight up look like an antagonist from a Far Cry game to anyone else?",
-   "first_seen": "2026-11-05T18:11:00Z",
-   "updated": "2026-11-05T18:11:00Z",
-   "items": [
-    {
-     "id": "f20c13422023",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Does this guy straight up look like an antagonist from a Far Cry game to anyone else?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xoplms/does_this_guy_straight_up_look_like_an_antagonist/",
-     "ts": "2026-11-05T18:03:00Z",
-     "summary": "submitted by /u/junttiana to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "94973bb4f37b",
-   "title": "In the new screenshots you can spot the “marketing cars”",
-   "first_seen": "2026-11-05T18:11:00Z",
-   "updated": "2026-11-05T18:11:00Z",
-   "items": [
-    {
-     "id": "94973bb4f37b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "In the new screenshots you can spot the “marketing cars”",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xopoaf/in_the_new_screenshots_you_can_spot_the_marketing/",
-     "ts": "2026-11-05T18:05:43Z",
-     "summary": "Bottom left side you can see the cars that are in miami rn submitted by /u/saint_seiya_sw to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ac9e931cb59e",
-   "title": "Do you think we can wear rings?",
-   "first_seen": "2026-11-05T18:11:00Z",
-   "updated": "2026-11-05T18:11:00Z",
-   "items": [
-    {
-     "id": "ac9e931cb59e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Do you think we can wear rings?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xopoyi/do_you_think_we_can_wear_rings/",
-     "ts": "2026-11-05T18:06:26Z",
-     "summary": "We know that you can wear accesories like chains and watches, but we haven't seen neither Jason or Lucia wear rings on their hands even though there are npcs wearing them. submitted by /u/Guireni03 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T18:10:52Z",
+  "last_run": "2026-11-12T18:21:00Z",
   "last_log": [
-   "rockstar_site: 0/29",
-   "gnews_en: 98/100",
+   "rockstar_site: 0/27",
+   "gnews_en: 96/100",
    "gnews_ru: 95/100",
    "gamesbeat: 1/10",
    "vgc: 1/10",
-   "insider_gaming: 3/10",
-   "ign: 4/20",
+   "insider_gaming: 2/10",
+   "ign: 3/20",
    "eurogamer: 2/100",
    "dexerto_gta: 8/50",
    "rockstarintel: 8/10",
