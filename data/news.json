@@ -1,75 +1,10 @@
 {
  "stories": [
   {
-   "id": "3d8ed6d23ce1",
-   "title": "Popeyes Announces New Chicken Sandwich Timed to Release Alongside GTA 6",
-   "first_seen": "2026-11-12T14:01:28Z",
-   "updated": "2026-11-12T15:41:29Z",
-   "items": [
-    {
-     "id": "3d8ed6d23ce1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Popeyes Announces New Chicken Sandwich Timed to Release Alongside GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2RoaDBVaU13WFpBY2ZDWjlIbTdqb29BVXhXbjZINmFMdDRZMUxFalN3a29hLWJ5RUhMYllDTjd4cVFRRHhXbHp3OExwRUhSeTRYVVA4eFF6UVNWWVJtNFliUTE3TmtQdXNCaUp0UDZzNzFXQ3NyVW0yZzVSQmg5M3FaVF9VYnFwV1VKZXpieDFQcVpySTY4R2ROdDM0SWgyUnc?oc=5",
-     "ts": "2026-11-12T14:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "7e821c8e0375",
-     "src": "rockstarintel",
-     "src_name": "Rockstar INTEL",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 55,
-     "alert": true,
-     "title": "New GTA VI Inspired Popeyes Sandwich Announced",
-     "url": "https://rockstarintel.com/new-gta-vi-inspired-popeyes-sandwich-announced/",
-     "ts": "2026-11-12T15:24:30Z",
-     "summary": "Famous fried chicken venue Popeyes are the latest company to join the hype train for GTA VI, the world’s most anticipated release. Popeyes will launch a new menu item, the ‘Spice City Sandwich’ on the 19th November, just in time for the big day! During a time where it’s reported a lot of gamers will [...] The post New GTA VI Inspired Popeyes Sandwich Announced appeared first on RockstarINTEL ."
-    },
-    {
-     "id": "f09ab00becf5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameTyrant",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Popeyes is Celebrating GTA 6 With, Uh, A Chicken Sandwich",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanpSeFhjSTdOZnlMWXhBaHBWYnV4ekYwNVZPTzZVS2VmMmRVZTA4bi14bmV4dExlbzYybmZFcVBpSTRnR19uUVZuVm5GT1ZzWElIVkhTRDNuQTJmekZyaHpWYXcyWjVxMUM1bThYREg1ZllDalh0MDNQM0JkY1NuYlNleERxSUNrZ2lr?oc=5",
-     "ts": "2026-11-12T15:38:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Popeyes и GTA 6: сеть фастфуда готовит коллаб",
-    "summary": "Сеть Popeyes объявила о новом сэндвиче с курицей, который выйдет вместе с GTA 6. Об этом сообщает IGN. Официальных подробностей от Rockstar пока нет.",
-    "idea": "Угол: «фастфуд по-вайсски» — показываем сэндвич, карту Вайс-Сити и дату релиза. Зрителю интересно, потому что это первый громкий бренд-коллаб к запуску GTA 6.",
-    "hook": "Popeyes готовит сэндвич к выходу GTA 6 — вот что известно.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-12T14:01:32Z"
-   },
-   "msg_id": 840
-  },
-  {
    "id": "e03e92dfc87d",
-   "title": "Full GTA 6 Map Leaked Online From Collector’s Box",
+   "title": "GTA 6 map seemingly leaks at Selfridges merch drop",
    "first_seen": "2026-11-12T15:31:05Z",
-   "updated": "2026-11-12T15:41:29Z",
+   "updated": "2026-11-12T15:50:52Z",
    "items": [
     {
      "id": "e03e92dfc87d",
@@ -96,13 +31,66 @@
      "url": "https://insider-gaming.com/gta-6-full-map-leak-online-from-collectors-box/",
      "ts": "2026-11-12T15:38:22Z",
      "summary": "GTA 6's full physical map has leaked from within the Collector's Box, with images being posted online and doing the rounds. The post Full GTA 6 Map Leaked Online From Collector’s Box appeared first on Insider Gaming ."
+    },
+    {
+     "id": "ef5f3ffa1b37",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Full GTA 6 map from Collector's Edition leaks, showing new parts of Leonida",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUzZYTWtZX1VOd2E3OWF0NlhrTnlRa0RzR1RfelRVM05nbThjeUNFRkZTQW50TkNCcDFINE83bng2a00xS3MtNXFkR2lEbGQwbVBld2t6bUdoODdfemtKQ1hKSDJBZTdHM1hLblFkR1RqVndMWmZLZWhpQm9YVFNHbERjWlVYTU9uLWdNSXdMY1BZbm1OcFRMZjVDcWZtUHk3QVl6WTN4V3cwOE9PV3doQzJSZUFLcTY2VkFz?oc=5",
+     "ts": "2026-11-12T15:29:00Z",
+     "summary": ""
+    },
+    {
+     "id": "d2d5e199183e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Full GTA 6 Map Leaked Online From Collector’s Box",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmc1d6MDhXWXNDb2NWVjhtWUdscDBYazE3dUw4dlQ0VlFSc2hJM2hOdFI3U2FhTnNDX1Q1UVRwcGNqb25KZmVkNE9ZZFZZY2NFQ3FRQ3BORTd0UjJOMlE1MXBIVTNBUlByUjUxeml4cV9Ib0R5cGFoaDhpRXZzVUE?oc=5",
+     "ts": "2026-11-12T15:38:22Z",
+     "summary": ""
+    },
+    {
+     "id": "e085e82d539e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Video Games Chronicle",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 map seemingly leaks at Selfridges merch drop",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1NyY2VCVDZnUDQzN2NiY3hQV0xBUXR1SDVKNzB4eWtzU1pkNXVwUFMwYTd3RUpkMER0cGdYSFp4eERNNkxPNHJmZDRBOWg4RDJDWTNBYm0taGd0SWJ0TjNhMFVOaW05Ujl2blNiVmg1WGE3UjFwYm9PMmZSWFNSVlpEXzcweWtDSzIzTTNHc1QzNXR1TkdJ?oc=5",
+     "ts": "2026-11-12T15:40:43Z",
+     "summary": ""
+    },
+    {
+     "id": "52f71755080e",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 map seemingly leaks at Selfridges merch drop",
+     "url": "https://www.videogameschronicle.com/news/gta-6-map-seemingly-leaks-at-selfridges-merch-drop/",
+     "ts": "2026-11-12T15:40:43Z",
+     "summary": "An apparent GTA 6 map is being shared around online, having been spotted at Selfridges in the UK"
     }
    ],
    "tags": [
     "Online",
-    "слив"
+    "слив",
+    "цена/издания"
    ],
-   "score": 88,
+   "score": 100,
    "level": "SPECULATION",
    "alerted": "yellow",
    "status": "new",
@@ -122,7 +110,7 @@
    "id": "04c4c1f30de5",
    "title": "GTA 6 Was Almost Refused a Rating in South Korea Due to 'Genital Nudity'",
    "first_seen": "2026-11-12T12:31:08Z",
-   "updated": "2026-11-12T15:41:29Z",
+   "updated": "2026-11-12T15:50:52Z",
    "items": [
     {
      "id": "04c4c1f30de5",
@@ -240,6 +228,435 @@
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdU4xSmJGS0dKcDZ2SnRiUXJhZndLT0Q5YXY4azg5QWxiYjZjOTlQMi1VVXFvNEhEZ2R1SklabVhhVmtJdWt3czZOX3paaEU2TUc0ZEJ6anFLdE5IMURIU3BNOWUxdkRqczhsRkMxeHZMNzNVcVU5bDJibjB5UU9ZS3VlcUJ2LVNYTV9nNE95MlBhc2psUUNRTm05aFVYWXhWSFZVQw?oc=5",
      "ts": "2026-11-12T15:30:38Z",
      "summary": ""
+    },
+    {
+     "id": "2c2af509dbbe",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Was Almost Refused a Rating in South Korea Due to 'Genital Nudity'",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0ZlXzEyaGVHaFFPX0FFQklQSm5XZHBZSVVIa05LZHFTNFRscElXaUl3N0V4R2p6Y0RZV0VDSllkeDFfTE4yOE9IMnBSSHVmWVFnT3BzbG93WTVod1hzMHBZNTVqZHNDaTFFeUJIdGNkYnlPT3JvcTV1bE4zM0VGQmN3NmFSQml6NHRaT2hRX1BFUzhPdk12MlZBNDJkSUxncHRabko1emZMTVhXbWw3Z2pvOXVpYXZad1Zj?oc=5",
+     "ts": "2026-11-12T15:39:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 100,
+   "level": "HIGH CONFIDENCE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "0207b48947ad",
+   "title": "One Company Is Giving All Of Its 7,000 Employees The Day Off To Play GTA 6",
+   "first_seen": "2026-11-11T16:41:03Z",
+   "updated": "2026-11-12T15:50:52Z",
+   "items": [
+    {
+     "id": "0207b48947ad",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech offers employees a day off to play 'GTA 6' at launch",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQy1TTDJhRkFGWnlPQUs5OS1rdmJqSUVDV3NRV3NXUVBlMTI3eDdWZTg0NTRhQm5YM0U2aUNOM3Y3SDlUNHpHTkVwTnFidnZjMHZOSVEzaEFzMWs5d3c1TzFtWHhJWnVNMy1ETGlyWkJ1RlVSSEN2RVpPMVEtbmxSbFQxUERMbWt6NHBLSg?oc=5",
+     "ts": "2026-11-11T16:32:32Z",
+     "summary": ""
+    },
+    {
+     "id": "ad9a4cacc82c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable SEA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech offers employees a day off to play 'GTA 6' at launch",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNDFSWDVOclBjQ2pWX1ZlVmhfNmRsQjFXV0xmYTVjcG13Q0hDV3FZTHZYLUFXNHJxaVE1WjVXWlNsSmo3eWpIZ3pJZlF4aWtwd2VyWC1xVk9pdWd3NnlGTHJWUU9XUV9sd1RGenkyak1ENVp2R0ZsZFA2aE9MMXl6azZIbzd5OVYzSnh1Ymlvb3VRUENmdzU3NFdNR3U?oc=5",
+     "ts": "2026-11-11T16:25:03Z",
+     "summary": ""
+    },
+    {
+     "id": "0b5868af0993",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Logitech Is Giving All 7,000 Employees a Paid Day Off to Play Games",
+     "url": "https://www.gtaboom.com/logitech-is-giving-all-7000-employees-a-paid-day-off-to-play-games-on-november-19-9dae",
+     "ts": "2026-11-11T17:38:03Z",
+     "summary": "Logitech gives roughly 7,000 staff a flexible paid gaming day and plans a separate November 19 stream for GTA 6's launch."
+    },
+    {
+     "id": "703783774047",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech Is Giving 7,000 Employees a Day Off to Play GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkNRTFJ6eTh2WTJGSkZhQXRFTDlDOEVzT09pX0QtS2Z3V2JvS3lmMklMUW9KaFlVT0xDY1BKbElMejRfQ2EzY2tOYzRxRjVGbUswZWhHQTI4YV9MLWVaUWhaSHpNZWlxS0tIR2xRTEoyT1pBZDJSSTZ1QUFfNTVDUzhzbDk3SkRlV3hKNXBR?oc=5",
+     "ts": "2026-11-11T17:20:14Z",
+     "summary": ""
+    },
+    {
+     "id": "cbd74bf0a5b4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Ahead of GTA 6 Launch, Logitech Gives Employees a Day Off to Play Video Games",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVhSZzVUdmZJb0RTbHc2ZWRsM29ZSmZFWmlPUTNjdGRPTGFIY3JUb19ySUNiaUJVYXZodUVPNkpzeWV1QnNSUHAxX2FmMkEzOV94elpJaGxJNW50YmFnZHZYcnJ5aWFlQVpMSVAwZ1EyTE1xRldrTHRScURaTEJ6OW5laS0xUk9rbHRwTy10T2tWTTVpWGpUbUVrYUpVeUlUQUpJRGJNRnEySVNOczZ3?oc=5",
+     "ts": "2026-11-11T17:44:51Z",
+     "summary": ""
+    },
+    {
+     "id": "8b04d2fab152",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Ahead of GTA 6 Launch, Logitech Gives Employees a Day Off to Play Video Games",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ29DNVdKSk56SC1IMVdVU3ZlRWFWLWpOZEUwMmM3QTQ5blVBYUF6NTVQLXJHYnhpOWFCZG5GdmIwVFo0cTRQcnZRdEtyWThNVFV6MC1QaGlYSjVTX0M2MEdJdzQwQWVUSHJFUW5qUHd6S0F0N3FDWFRnRHpaVWg1Z0xDWlZlQlg2WUk0OVZGb1lVTmxJSWtLNEluRXB1Zw?oc=5",
+     "ts": "2026-11-11T17:44:53Z",
+     "summary": ""
+    },
+    {
+     "id": "e2f36edb7b57",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TechEBlog -",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech Launches ‘Logi Game Day’ Giving Employees Paid Leave Ahead of GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkVJbHhOYmdCUS13WGhWdnV5Y0RxVHZzOTlFTUtaalZld2dZT2l6cjJuQThhV1hPUVlZR2VuR2lmeEh4SUV2dVpmZ09KSzdBR2tJQzVRNTJvMjZZVEd2TV9ieWszeENrRmlibWZiZHMtUHN6UHRQeTJEMlFKS0ZERA?oc=5",
+     "ts": "2026-11-11T18:25:53Z",
+     "summary": ""
+    },
+    {
+     "id": "051db42a0548",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag Australia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Ahead of GTA 6 Launch, Logitech Gives Employees a Day Off to Play Video Games",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGdEOVhOd3F4QjBuV1RaYWN4ODdJLXFfbFYzSElFU1JYaUFUaVdhTThKbnZmcmxwVHgxMUs2TUtGTHBYVExzbDhiazhNYUJ5cE9TSEZleHE2UjVrTGd2UThfNS1kNWthcXlyek1vVEwzMC1hajAzNzhyMVJkR1MxRnk0Z3EzNlRUQzYwMm5LaE9oRHMxcEJhUEpfdG13RmluUTFRTVppSm41djhwb3Y0?oc=5",
+     "ts": "2026-11-11T17:44:51Z",
+     "summary": ""
+    },
+    {
+     "id": "6a9911670193",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TechPowerUp",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech Gives Employees a Paid Day Off to Play Games, Just in Time for GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdzc1U29xeW1hNDVxYzRrcmlUaDNfOVRINzU1YU5Bc1BkeUxsZWNGZ0wwY1VGUmJUdjFwNWhNNEpqb1o4ZlgyN3FiQU9kTFJVa25qd01Fd3JTSVlGYVkyWnRKS3AtX0p0dXBRYkEzZ1JXZk52Umx3QVRfSmxjelpJV3h6bkxlNXpaWWRnRWU5bEt0cmQzNGI5NlJ0dUpkbzBVMGt0ZmhKZ0dHcno0bldfRE9xN1I3N0ZNamxVTjZKSEUyNE5DeVE?oc=5",
+     "ts": "2026-11-11T19:16:48Z",
+     "summary": ""
+    },
+    {
+     "id": "7e015d36a804",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TechPowerUp",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech Gives Employees a Paid Day Off to Play Games, Just in Time for GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYURxVjZyUnV4dG9hUXp0R0NBR3JxNlBadGtpd2x2NE1PdEwyOHhlVUhMWGc3MDdyQWp6ODVPNDdVcUZWOVVEZkRJUDZBNGN2ZFdkSUYtMmtwMTVHWmNnMDgwdHJyZXpxVklTZzJZdmZYT04wS3B0Y3I4NmpUT0J6SURfcVEyd1hFUWNYM3NyOUM3Q2FXS2hTMDRDT1ZXY25oeC1kVjQ5SkFraGtYVERBM9IBtgFBVV95cUxPeEtYMlNTUE83RTB3emMxcDFOZWphQ1hMN0h5UVh5WnN3MnJsNnpQd01XSmVCTHZWLXNNUTNkTmVrcDEydUJFQ3hjaTRNRkV2TXN5ZXk1UGxONkRETjNkb2xsRS1WLXdnRTU3Z1d4NlRFYjhoM3hNWTZpUDVWd081elB0SVdsamVhSEZMZmc2S1RlRlpFX25ldmFCWXhuQXVFeXJPaE1PQjc1bUU3SGJ3MmlJRHBQQQ?oc=5",
+     "ts": "2026-11-11T19:16:48Z",
+     "summary": ""
+    },
+    {
+     "id": "6fd4b21d6b4a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Kotaku",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "One Company Is Giving All Of Its 7,000 Employees The Day Off To Play GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNOGZId3ZwSk5ZbXptOFQ2QUoyemo3azBMTHVhVjZFRTczQUxiS0dmSDgwTENHVkFBQ01VNk51dloxYVlyZXhMXzhtdjZuODdDVnhiLTU5OFlPR2VEREtnXzU0VWh2MzM4My13b3lPNWlnd25KSnE0OHJqZEJoS3M?oc=5",
+     "ts": "2026-11-11T21:30:08Z",
+     "summary": ""
+    },
+    {
+     "id": "b6f2f4fb3b1c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CNET",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech Gives Its Employees a Day Off for Grand Theft Auto VI Launch",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ESEhrX0ViY28zZFh2bWpfOFZFYzcyWkhibVZEeWxNSjNfYlVkNjZUTnhpVEFGa2J6dGE5ZzUwd21ELVlvMDRMQ1dBSTVhY1o3bTRSdDZodHZZMHM3QkRpX0VEdUdXZXY2Um5pLWdmdzE4VUJ3NUdv?oc=5",
+     "ts": "2026-11-11T22:44:47Z",
+     "summary": ""
+    },
+    {
+     "id": "bf677801a1a4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag Middle East",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Ahead of GTA 6 Launch, Logitech Gives Employees a Day Off to Play Video Games",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGp2OXMyWkQ1Y1gwZEpIM3VySE1BLWgyUEd0Rmk5a0tmczBtQUt5LTI2YlVyNWJUaU56UXlYYXc0UVBqSk9uRUZoNGpFOGhIcmJ2Ulg2QTFlVFp3UzlhaGNXV05zRTB3TGhLdnRGTDJSTjVSYTNZQjctcVhjal80M0pEYnpQNXlEcGR1ZFBva1pVQXZSS2VOZ20wdHBBMVc3VmxFaVoydXF5WFFobTBlSQ?oc=5",
+     "ts": "2026-11-12T04:48:16Z",
+     "summary": ""
+    },
+    {
+     "id": "6e111f22ce2f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "UkrMedia News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech is giving 7,000 employees a paid day off for GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZW5zQWZyV3ZhMzRvZ2VPRW9mWWpxVlhoaUJycXdZNlhhdjFNUnpJR3J0dUE0S2ktYWJmVnU0VTRaTUNHZzJsUjBTdDg4MW51THJjQUtSMUZ2LXVuM2RoUzNVdHdCakdnU3ZaSHlSalBtOUE5YkVpNkJKSGxrbzVQRk5oU2Q?oc=5",
+     "ts": "2026-11-12T07:38:21Z",
+     "summary": ""
+    },
+    {
+     "id": "1abcbe60cda6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag Middle East",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Ahead of GTA 6 Launch, Logitech Gives Employees a Day Off to Play Video Games",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0pOTjJPY3JsUTN1QndEN2ZqZ1B0d3JTZ0JEZk9ZczNPZXJCWWVoLXZ3NDk5Qk5vWUVuWGVCTFhmdm16cl91VVlmNFUyMDZnRW5xdm1Oa1NqYkF1dVpjVmVsZU9IVEw3WlZHR0ZLeGpXZW1CQ2lKUWgyb0hIQVRfclpNS3ZrZzZwY0hoeXVSeXoybmwwQ0FMd0hMZzJmZms3eXplaWNRUzNoblQ4b3pfcHBR?oc=5",
+     "ts": "2026-11-12T04:48:16Z",
+     "summary": ""
+    },
+    {
+     "id": "8729ee44911b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "SavePoint Gaming",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech’s New Game Day Lets Employees Take Paid Leave to Play GTA VI or Anything Else",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52NnFNRl9Nb1dvTXNHa1ZGWUZ3QVIxWU5YNHc5VkhnbWZ5bGZ1Tk1QYzdnc01wbDVWbWdjM2ZleFExVmVyVmdlRjhibjRFV045azhtS29UUlI1U2ZELS1WNklVRmx2dUlIWXc?oc=5",
+     "ts": "2026-11-12T12:59:22Z",
+     "summary": ""
+    },
+    {
+     "id": "5b4ae515d7c9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eTeknix",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech Gives 7,000 Employees a Paid Day Off to Play GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ2Y0NnlHUmwwZmFKQ1F4ZDR2Y3JyOFFoZVRBM0U5QTJwRHJ0elVDd1N2NnVpRU1naWhVNXBFOXlBTGxqYmxFOTctYUQzVmlPd3U0My1LZHFLRDhxOS1ySlQyOWdFYWt3WUZyZVBrQzlxVy1qelRRd3p2Uml4REZLdU5DUm1kS1RMdVpr?oc=5",
+     "ts": "2026-11-12T15:41:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Logitech дала сотрудникам выходной ради GTA 6",
+    "summary": "По данным Mashable, Logitech разрешила сотрудникам взять выходной 19 ноября, чтобы поиграть в GTA 6 на релизе. Компания также дарит геймерам аксессуары для запуска.",
+    "idea": "Короткий ролик: «офис пустеет — все в Вайс-Сити». Показываем логотип Logitech, дату 19.11, реакцию «офигеть, дали выходной» — зрителю близко и смешно.",
+    "hook": "Компания Logitech официально дала выходной ради GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-11T17:01:19Z"
+   },
+   "msg_id": 794
+  },
+  {
+   "id": "8cedbd36a9ee",
+   "title": "Why HP’s CloudX Flight 2 is the perfect headset for GTA 6",
+   "first_seen": "2026-11-12T15:50:52Z",
+   "updated": "2026-11-12T15:50:52Z",
+   "items": [
+    {
+     "id": "8cedbd36a9ee",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "geekspin",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Why HP’s CloudX Flight 2 is the perfect headset for GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORnlXR1VxLTF5ZEgtMDZjN19UQ09PbTJwaF9iSmZwSE9vZHNyLTVOampJUEFDOTJlSW5YMjZqdGpVbWE5UUZya2V5czJaZUVTZWdBTHE5N2VRUjVSeF9sWEVNZDFBRzgtMDZsZHlCRmREOGNzdEZ6QkdYTUFWNnZSNkZfSQ?oc=5",
+     "ts": "2026-11-12T15:32:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c1fae40ef48f",
+   "title": "GTA 6 Boxes Are Reaching Retailers. Don’t Expect a Disc Inside.",
+   "first_seen": "2026-11-12T15:50:52Z",
+   "updated": "2026-11-12T15:50:52Z",
+   "items": [
+    {
+     "id": "c1fae40ef48f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gadget Review",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Boxes Are Reaching Retailers. Don’t Expect a Disc Inside.",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdTRqMEVkU09JMzUySzRJN1MzOVQ3VDMtSi1ZOE5PNjU1a1FSbDVrNWUyN3lFQTN0TjA1LVZSLXBHWTcxeF9vRDNoRFNQUlEzMnAxbmtWUm1SdGVEYzZQRWUtWkE5MEEwOFF0N1B5cnM2dTdxVm1TNlktMV93TGZQaThwc2FRTV8zWjZGanNVYnNrYUE?oc=5",
+     "ts": "2026-11-12T15:38:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1e29bfaf9ced",
+   "title": "Just bought GTA 6 for £57 via Temu UK",
+   "first_seen": "2026-11-12T15:50:52Z",
+   "updated": "2026-11-12T15:50:52Z",
+   "items": [
+    {
+     "id": "1e29bfaf9ced",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Just bought GTA 6 for £57 via Temu UK",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xug2pr/just_bought_gta_6_for_57_via_temu_uk/",
+     "ts": "2026-11-12T15:43:11Z",
+     "summary": "I was offered an Temu coupon which has now made GTA 6 £57.27 and decided to buy it for my friend since my PS5 broke after my 1st brain haemorrhage in 2024 and I sold it prior to the price increase so I will not be needing one, I’ll just watch GTA 6 on YouTube but he can enjoy it. Also to add I bought it for my friend because he has continued visiting me and being my only friend since my 2nd haemorrhage last year. Prices are normal £65 so I have saved £8. Estimated to be here by the 16th-19th so just in time. Just thought I’d let anyone looking in case they are trying to save some money. submit"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bcd7a8fe45af",
+   "title": "'Such a Historic Occasion Deserves Our Full Attention' — Palworld Developer Pocketpair Gives Staff a Five-Day Holiday to Play GTA 6",
+   "first_seen": "2026-11-12T15:50:52Z",
+   "updated": "2026-11-12T15:50:52Z",
+   "items": [
+    {
+     "id": "bcd7a8fe45af",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "'Such a Historic Occasion Deserves Our Full Attention' — Palworld Developer Pocketpair Gives Staff a Five-Day Holiday to Play GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaEJzLWtOOXp5YUtuci1TWTRqZWhIa2FHX3hzakR2SlczWXNnSnpZWXZ1Qml0Q0hpZUFGMXBCY1NGblpQeWZ6dTV4U1NJS19NRmRVeUlMbGtsSUMzODgyTldERFdmTWlMN19rNzhWU1NGR3B3Z25Jd2gtV1NfLU5RUnBadGw2c2xCZlJaZjZ3?oc=5",
+     "ts": "2026-11-12T15:44:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🎮 Студия Palworld дала 5 выходных ради GTA 6",
+    "summary": "Разработчик Palworld Pocketpair объявил пятидневный отпуск для сотрудников, чтобы они могли поиграть в GTA 6. Об этом сообщил IGN.",
+    "idea": "Показать контраст: инди-студия останавливает работу ради GTA 6. Короткие кадры Palworld и GTA 6, текст «5 выходных — ради одной игры» — зритель узнает, что релиз уже завтра.",
+    "hook": "Студия Palworld остановила работу на 5 дней — всё ради GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T15:50:55Z"
+   },
+   "msg_id": 857
+  },
+  {
+   "id": "3d8ed6d23ce1",
+   "title": "Popeyes Announces New Chicken Sandwich Timed to Release Alongside GTA 6",
+   "first_seen": "2026-11-12T14:01:28Z",
+   "updated": "2026-11-12T15:41:29Z",
+   "items": [
+    {
+     "id": "3d8ed6d23ce1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Popeyes Announces New Chicken Sandwich Timed to Release Alongside GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2RoaDBVaU13WFpBY2ZDWjlIbTdqb29BVXhXbjZINmFMdDRZMUxFalN3a29hLWJ5RUhMYllDTjd4cVFRRHhXbHp3OExwRUhSeTRYVVA4eFF6UVNWWVJtNFliUTE3TmtQdXNCaUp0UDZzNzFXQ3NyVW0yZzVSQmg5M3FaVF9VYnFwV1VKZXpieDFQcVpySTY4R2ROdDM0SWgyUnc?oc=5",
+     "ts": "2026-11-12T14:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "7e821c8e0375",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "New GTA VI Inspired Popeyes Sandwich Announced",
+     "url": "https://rockstarintel.com/new-gta-vi-inspired-popeyes-sandwich-announced/",
+     "ts": "2026-11-12T15:24:30Z",
+     "summary": "Famous fried chicken venue Popeyes are the latest company to join the hype train for GTA VI, the world’s most anticipated release. Popeyes will launch a new menu item, the ‘Spice City Sandwich’ on the 19th November, just in time for the big day! During a time where it’s reported a lot of gamers will [...] The post New GTA VI Inspired Popeyes Sandwich Announced appeared first on RockstarINTEL ."
+    },
+    {
+     "id": "f09ab00becf5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameTyrant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Popeyes is Celebrating GTA 6 With, Uh, A Chicken Sandwich",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanpSeFhjSTdOZnlMWXhBaHBWYnV4ekYwNVZPTzZVS2VmMmRVZTA4bi14bmV4dExlbzYybmZFcVBpSTRnR19uUVZuVm5GT1ZzWElIVkhTRDNuQTJmekZyaHpWYXcyWjVxMUM1bThYREg1ZllDalh0MDNQM0JkY1NuYlNleERxSUNrZ2lr?oc=5",
+     "ts": "2026-11-12T15:38:03Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -247,8 +664,19 @@
    ],
    "score": 100,
    "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Popeyes и GTA 6: сеть фастфуда готовит коллаб",
+    "summary": "Сеть Popeyes объявила о новом сэндвиче с курицей, который выйдет вместе с GTA 6. Об этом сообщает IGN. Официальных подробностей от Rockstar пока нет.",
+    "idea": "Угол: «фастфуд по-вайсски» — показываем сэндвич, карту Вайс-Сити и дату релиза. Зрителю интересно, потому что это первый громкий бренд-коллаб к запуску GTA 6.",
+    "hook": "Popeyes готовит сэндвич к выходу GTA 6 — вот что известно.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T14:01:32Z"
+   },
+   "msg_id": 840
   },
   {
    "id": "700e36e5fdd3",
@@ -4006,238 +4434,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "0207b48947ad",
-   "title": "One Company Is Giving All Of Its 7,000 Employees The Day Off To Play GTA 6",
-   "first_seen": "2026-11-11T16:41:03Z",
-   "updated": "2026-11-12T13:10:52Z",
-   "items": [
-    {
-     "id": "0207b48947ad",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Logitech offers employees a day off to play 'GTA 6' at launch",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQy1TTDJhRkFGWnlPQUs5OS1rdmJqSUVDV3NRV3NXUVBlMTI3eDdWZTg0NTRhQm5YM0U2aUNOM3Y3SDlUNHpHTkVwTnFidnZjMHZOSVEzaEFzMWs5d3c1TzFtWHhJWnVNMy1ETGlyWkJ1RlVSSEN2RVpPMVEtbmxSbFQxUERMbWt6NHBLSg?oc=5",
-     "ts": "2026-11-11T16:32:32Z",
-     "summary": ""
-    },
-    {
-     "id": "ad9a4cacc82c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable SEA",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Logitech offers employees a day off to play 'GTA 6' at launch",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNDFSWDVOclBjQ2pWX1ZlVmhfNmRsQjFXV0xmYTVjcG13Q0hDV3FZTHZYLUFXNHJxaVE1WjVXWlNsSmo3eWpIZ3pJZlF4aWtwd2VyWC1xVk9pdWd3NnlGTHJWUU9XUV9sd1RGenkyak1ENVp2R0ZsZFA2aE9MMXl6azZIbzd5OVYzSnh1Ymlvb3VRUENmdzU3NFdNR3U?oc=5",
-     "ts": "2026-11-11T16:25:03Z",
-     "summary": ""
-    },
-    {
-     "id": "0b5868af0993",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "Logitech Is Giving All 7,000 Employees a Paid Day Off to Play Games",
-     "url": "https://www.gtaboom.com/logitech-is-giving-all-7000-employees-a-paid-day-off-to-play-games-on-november-19-9dae",
-     "ts": "2026-11-11T17:38:03Z",
-     "summary": "Logitech gives roughly 7,000 staff a flexible paid gaming day and plans a separate November 19 stream for GTA 6's launch."
-    },
-    {
-     "id": "703783774047",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Logitech Is Giving 7,000 Employees a Day Off to Play GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkNRTFJ6eTh2WTJGSkZhQXRFTDlDOEVzT09pX0QtS2Z3V2JvS3lmMklMUW9KaFlVT0xDY1BKbElMejRfQ2EzY2tOYzRxRjVGbUswZWhHQTI4YV9MLWVaUWhaSHpNZWlxS0tIR2xRTEoyT1pBZDJSSTZ1QUFfNTVDUzhzbDk3SkRlV3hKNXBR?oc=5",
-     "ts": "2026-11-11T17:20:14Z",
-     "summary": ""
-    },
-    {
-     "id": "cbd74bf0a5b4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PCMag UK",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Ahead of GTA 6 Launch, Logitech Gives Employees a Day Off to Play Video Games",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVhSZzVUdmZJb0RTbHc2ZWRsM29ZSmZFWmlPUTNjdGRPTGFIY3JUb19ySUNiaUJVYXZodUVPNkpzeWV1QnNSUHAxX2FmMkEzOV94elpJaGxJNW50YmFnZHZYcnJ5aWFlQVpMSVAwZ1EyTE1xRldrTHRScURaTEJ6OW5laS0xUk9rbHRwTy10T2tWTTVpWGpUbUVrYUpVeUlUQUpJRGJNRnEySVNOczZ3?oc=5",
-     "ts": "2026-11-11T17:44:51Z",
-     "summary": ""
-    },
-    {
-     "id": "8b04d2fab152",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PCMag",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Ahead of GTA 6 Launch, Logitech Gives Employees a Day Off to Play Video Games",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ29DNVdKSk56SC1IMVdVU3ZlRWFWLWpOZEUwMmM3QTQ5blVBYUF6NTVQLXJHYnhpOWFCZG5GdmIwVFo0cTRQcnZRdEtyWThNVFV6MC1QaGlYSjVTX0M2MEdJdzQwQWVUSHJFUW5qUHd6S0F0N3FDWFRnRHpaVWg1Z0xDWlZlQlg2WUk0OVZGb1lVTmxJSWtLNEluRXB1Zw?oc=5",
-     "ts": "2026-11-11T17:44:53Z",
-     "summary": ""
-    },
-    {
-     "id": "e2f36edb7b57",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TechEBlog -",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Logitech Launches ‘Logi Game Day’ Giving Employees Paid Leave Ahead of GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkVJbHhOYmdCUS13WGhWdnV5Y0RxVHZzOTlFTUtaalZld2dZT2l6cjJuQThhV1hPUVlZR2VuR2lmeEh4SUV2dVpmZ09KSzdBR2tJQzVRNTJvMjZZVEd2TV9ieWszeENrRmlibWZiZHMtUHN6UHRQeTJEMlFKS0ZERA?oc=5",
-     "ts": "2026-11-11T18:25:53Z",
-     "summary": ""
-    },
-    {
-     "id": "051db42a0548",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PCMag Australia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Ahead of GTA 6 Launch, Logitech Gives Employees a Day Off to Play Video Games",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGdEOVhOd3F4QjBuV1RaYWN4ODdJLXFfbFYzSElFU1JYaUFUaVdhTThKbnZmcmxwVHgxMUs2TUtGTHBYVExzbDhiazhNYUJ5cE9TSEZleHE2UjVrTGd2UThfNS1kNWthcXlyek1vVEwzMC1hajAzNzhyMVJkR1MxRnk0Z3EzNlRUQzYwMm5LaE9oRHMxcEJhUEpfdG13RmluUTFRTVppSm41djhwb3Y0?oc=5",
-     "ts": "2026-11-11T17:44:51Z",
-     "summary": ""
-    },
-    {
-     "id": "6a9911670193",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TechPowerUp",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Logitech Gives Employees a Paid Day Off to Play Games, Just in Time for GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdzc1U29xeW1hNDVxYzRrcmlUaDNfOVRINzU1YU5Bc1BkeUxsZWNGZ0wwY1VGUmJUdjFwNWhNNEpqb1o4ZlgyN3FiQU9kTFJVa25qd01Fd3JTSVlGYVkyWnRKS3AtX0p0dXBRYkEzZ1JXZk52Umx3QVRfSmxjelpJV3h6bkxlNXpaWWRnRWU5bEt0cmQzNGI5NlJ0dUpkbzBVMGt0ZmhKZ0dHcno0bldfRE9xN1I3N0ZNamxVTjZKSEUyNE5DeVE?oc=5",
-     "ts": "2026-11-11T19:16:48Z",
-     "summary": ""
-    },
-    {
-     "id": "7e015d36a804",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TechPowerUp",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Logitech Gives Employees a Paid Day Off to Play Games, Just in Time for GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYURxVjZyUnV4dG9hUXp0R0NBR3JxNlBadGtpd2x2NE1PdEwyOHhlVUhMWGc3MDdyQWp6ODVPNDdVcUZWOVVEZkRJUDZBNGN2ZFdkSUYtMmtwMTVHWmNnMDgwdHJyZXpxVklTZzJZdmZYT04wS3B0Y3I4NmpUT0J6SURfcVEyd1hFUWNYM3NyOUM3Q2FXS2hTMDRDT1ZXY25oeC1kVjQ5SkFraGtYVERBM9IBtgFBVV95cUxPeEtYMlNTUE83RTB3emMxcDFOZWphQ1hMN0h5UVh5WnN3MnJsNnpQd01XSmVCTHZWLXNNUTNkTmVrcDEydUJFQ3hjaTRNRkV2TXN5ZXk1UGxONkRETjNkb2xsRS1WLXdnRTU3Z1d4NlRFYjhoM3hNWTZpUDVWd081elB0SVdsamVhSEZMZmc2S1RlRlpFX25ldmFCWXhuQXVFeXJPaE1PQjc1bUU3SGJ3MmlJRHBQQQ?oc=5",
-     "ts": "2026-11-11T19:16:48Z",
-     "summary": ""
-    },
-    {
-     "id": "6fd4b21d6b4a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Kotaku",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "One Company Is Giving All Of Its 7,000 Employees The Day Off To Play GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNOGZId3ZwSk5ZbXptOFQ2QUoyemo3azBMTHVhVjZFRTczQUxiS0dmSDgwTENHVkFBQ01VNk51dloxYVlyZXhMXzhtdjZuODdDVnhiLTU5OFlPR2VEREtnXzU0VWh2MzM4My13b3lPNWlnd25KSnE0OHJqZEJoS3M?oc=5",
-     "ts": "2026-11-11T21:30:08Z",
-     "summary": ""
-    },
-    {
-     "id": "b6f2f4fb3b1c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "CNET",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Logitech Gives Its Employees a Day Off for Grand Theft Auto VI Launch",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ESEhrX0ViY28zZFh2bWpfOFZFYzcyWkhibVZEeWxNSjNfYlVkNjZUTnhpVEFGa2J6dGE5ZzUwd21ELVlvMDRMQ1dBSTVhY1o3bTRSdDZodHZZMHM3QkRpX0VEdUdXZXY2Um5pLWdmdzE4VUJ3NUdv?oc=5",
-     "ts": "2026-11-11T22:44:47Z",
-     "summary": ""
-    },
-    {
-     "id": "bf677801a1a4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PCMag Middle East",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Ahead of GTA 6 Launch, Logitech Gives Employees a Day Off to Play Video Games",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGp2OXMyWkQ1Y1gwZEpIM3VySE1BLWgyUEd0Rmk5a0tmczBtQUt5LTI2YlVyNWJUaU56UXlYYXc0UVBqSk9uRUZoNGpFOGhIcmJ2Ulg2QTFlVFp3UzlhaGNXV05zRTB3TGhLdnRGTDJSTjVSYTNZQjctcVhjal80M0pEYnpQNXlEcGR1ZFBva1pVQXZSS2VOZ20wdHBBMVc3VmxFaVoydXF5WFFobTBlSQ?oc=5",
-     "ts": "2026-11-12T04:48:16Z",
-     "summary": ""
-    },
-    {
-     "id": "6e111f22ce2f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "UkrMedia News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Logitech is giving 7,000 employees a paid day off for GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZW5zQWZyV3ZhMzRvZ2VPRW9mWWpxVlhoaUJycXdZNlhhdjFNUnpJR3J0dUE0S2ktYWJmVnU0VTRaTUNHZzJsUjBTdDg4MW51THJjQUtSMUZ2LXVuM2RoUzNVdHdCakdnU3ZaSHlSalBtOUE5YkVpNkJKSGxrbzVQRk5oU2Q?oc=5",
-     "ts": "2026-11-12T07:38:21Z",
-     "summary": ""
-    },
-    {
-     "id": "1abcbe60cda6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PCMag Middle East",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Ahead of GTA 6 Launch, Logitech Gives Employees a Day Off to Play Video Games",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0pOTjJPY3JsUTN1QndEN2ZqZ1B0d3JTZ0JEZk9ZczNPZXJCWWVoLXZ3NDk5Qk5vWUVuWGVCTFhmdm16cl91VVlmNFUyMDZnRW5xdm1Oa1NqYkF1dVpjVmVsZU9IVEw3WlZHR0ZLeGpXZW1CQ2lKUWgyb0hIQVRfclpNS3ZrZzZwY0hoeXVSeXoybmwwQ0FMd0hMZzJmZms3eXplaWNRUzNoblQ4b3pfcHBR?oc=5",
-     "ts": "2026-11-12T04:48:16Z",
-     "summary": ""
-    },
-    {
-     "id": "8729ee44911b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "SavePoint Gaming",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Logitech’s New Game Day Lets Employees Take Paid Leave to Play GTA VI or Anything Else",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52NnFNRl9Nb1dvTXNHa1ZGWUZ3QVIxWU5YNHc5VkhnbWZ5bGZ1Tk1QYzdnc01wbDVWbWdjM2ZleFExVmVyVmdlRjhibjRFV045azhtS29UUlI1U2ZELS1WNklVRmx2dUlIWXc?oc=5",
-     "ts": "2026-11-12T12:59:22Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Logitech дала сотрудникам выходной ради GTA 6",
-    "summary": "По данным Mashable, Logitech разрешила сотрудникам взять выходной 19 ноября, чтобы поиграть в GTA 6 на релизе. Компания также дарит геймерам аксессуары для запуска.",
-    "idea": "Короткий ролик: «офис пустеет — все в Вайс-Сити». Показываем логотип Logitech, дату 19.11, реакцию «офигеть, дали выходной» — зрителю близко и смешно.",
-    "hook": "Компания Logitech официально дала выходной ради GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-11T17:01:19Z"
-   },
-   "msg_id": 794
   },
   {
    "id": "3ce9fd67a594",
@@ -99313,316 +99509,24 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "721701c943ff",
-   "title": "The Curly Hair in this game, is truly incredible.",
-   "first_seen": "2026-11-05T15:50:51Z",
-   "updated": "2026-11-05T15:50:51Z",
-   "items": [
-    {
-     "id": "721701c943ff",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "The Curly Hair in this game, is truly incredible.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xolyci/the_curly_hair_in_this_game_is_truly_incredible/",
-     "ts": "2026-11-05T15:44:38Z",
-     "summary": "submitted by /u/Leozzarios to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d997db01fe07",
-   "title": "When is someone getting the hands on the \"physical\" edition and tell if there is any kind of pamphlet, poster and/or map inside?",
-   "first_seen": "2026-11-05T15:50:51Z",
-   "updated": "2026-11-05T15:50:51Z",
-   "items": [
-    {
-     "id": "d997db01fe07",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "When is someone getting the hands on the \"physical\" edition and tell if there is any kind of pamphlet, poster and/or map inside?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xolz07/when_is_someone_getting_the_hands_on_the_physical/",
-     "ts": "2026-11-05T15:45:20Z",
-     "summary": ".... They may be delivered to games stores any minute now.... submitted by /u/Came99DK to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8cd7ba84cad8",
-   "title": "She's back!",
-   "first_seen": "2026-11-05T15:50:51Z",
-   "updated": "2026-11-05T15:50:51Z",
-   "items": [
-    {
-     "id": "8cd7ba84cad8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "She's back!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xolza9/shes_back/",
-     "ts": "2026-11-05T15:45:39Z",
-     "summary": "The lizard lady really seems to like Rusty Anchor submitted by /u/Any-Intention-2852 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "662bdeebfed6",
-   "title": "What if it's jason back there?",
-   "first_seen": "2026-11-05T15:50:51Z",
-   "updated": "2026-11-05T15:50:51Z",
-   "items": [
-    {
-     "id": "662bdeebfed6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What if it's jason back there?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xom0ud/what_if_its_jason_back_there/",
-     "ts": "2026-11-05T15:47:22Z",
-     "summary": "Lucia That screenshot reminds me of that theory that jason might be a cop just playin with lucia... submitted by /u/Anxiousp0et to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "cd133d31107c",
-   "title": "I cannot wait until these “what will you do first in gta6” ends and we can talk about the actual gameplay",
-   "first_seen": "2026-11-05T15:50:51Z",
-   "updated": "2026-11-05T15:50:51Z",
-   "items": [
-    {
-     "id": "cd133d31107c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I cannot wait until these “what will you do first in gta6” ends and we can talk about the actual gameplay",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xom1h3/i_cannot_wait_until_these_what_will_you_do_first/",
-     "ts": "2026-11-05T15:48:04Z",
-     "summary": "Yeah, these speculative posts are fucking annoying the piss out me submitted by /u/Grand-Impact-4069 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "геймплей"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "72cd0af2750d",
-   "title": "The Police Force Within GTA 6 Already Looks Way Better",
-   "first_seen": "2026-11-05T15:50:51Z",
-   "updated": "2026-11-05T15:50:51Z",
-   "items": [
-    {
-     "id": "72cd0af2750d",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "The Police Force Within GTA 6 Already Looks Way Better",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xom1k1/the_police_force_within_gta_6_already_looks_way/",
-     "ts": "2026-11-05T15:48:10Z",
-     "summary": "submitted by /u/PersonalityOwn7761 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "895d1ba2c8ab",
-   "title": "Just bought a PS5 and pre ordered",
-   "first_seen": "2026-11-05T15:50:51Z",
-   "updated": "2026-11-05T15:50:51Z",
-   "items": [
-    {
-     "id": "895d1ba2c8ab",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Just bought a PS5 and pre ordered",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xom2oh/just_bought_a_ps5_and_pre_ordered/",
-     "ts": "2026-11-05T15:49:31Z",
-     "summary": "I just want to share my excitement. A lot has happened in my life since I finished GTA5. But I haven't touched a controller in about 6 years and the last game I played was Red dead Redemption 2 when it came out. But I just went out and bought a PS5 base yesterday and pre-ordered the game. I can't even begin to explain how ecstatic I am to be playing on Nov 19! We are almost there ladies and gentlemen. Feel like a kid waiting for Christmas presents. submitted by /u/jokerguy45 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a086788eecff",
-   "title": "20 невероятных скриншотов GTA 6 — релиз 19 ноября",
-   "first_seen": "2026-11-05T15:50:50Z",
-   "updated": "2026-11-05T15:50:50Z",
-   "items": [
-    {
-     "id": "a086788eecff",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "https://www.championat.ru/",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "20 невероятных скриншотов GTA 6 — релиз 19 ноября",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnlLY1hzVFoyWnBjbk41RFNfbnRGTVlQeC14VXN1cGkweTZaZTA2eWc4cHgzS3JWN2ZyM3lyQVdnOHdFb24zaEtTVFJIN2FSTFdrNHZzYWkycU1BbFlpU1I3OC1kb3NNTXFtRTZJRjFjU3hfaFMtbXJRbC1BRmI5ZnNsY01ueFpFT21fMEYxYlQ4OGFFNXRYTURiazkzY0VyOHNJazZaNG1sQQ?oc=5",
-     "ts": "2026-11-05T15:16:54Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0d3b9bcdc6eb",
-   "title": "GTA 6 получила релизную галерею с десятками новых скриншотов",
-   "first_seen": "2026-11-05T15:50:50Z",
-   "updated": "2026-11-05T15:50:50Z",
-   "items": [
-    {
-     "id": "0d3b9bcdc6eb",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Игромания",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 получила релизную галерею с десятками новых скриншотов",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSGstX1ZYbXhWU2VmZjg1Q3pPZUw2VktEUHU3U01lYm9YcG1IcHNhWGZkek5Rai1WYWg3cnZfV1hJVm1jeDFmWU1UQ3VaZmZPV3l4RUQ1VEtKTUR0ZTVNX05xMTNLVk5ScTNtdXF1NmRHb0NETElFRXlrWHdBekJ6MVJaa285TXdIUklvZnJ3UnV1RXU1Z256cmh6enVNY3JFRkVuTl9XUktNNFlGY05NVTkybWhQOG9TdV9YVVMycXVNUW8yNTctRA?oc=5",
-     "ts": "2026-11-05T15:38:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3dfd9ff84ad5",
-   "title": "Leonardo Dicaprio or am i tripping?",
-   "first_seen": "2026-11-05T15:50:50Z",
-   "updated": "2026-11-05T15:50:50Z",
-   "items": [
-    {
-     "id": "3dfd9ff84ad5",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Leonardo Dicaprio or am i tripping?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xolvet/leonardo_dicaprio_or_am_i_tripping/",
-     "ts": "2026-11-05T15:41:23Z",
-     "summary": "submitted by /u/imlazytown to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e18db17dd7b2",
-   "title": "Could this be the Tahiti boat?",
-   "first_seen": "2026-11-05T15:50:50Z",
-   "updated": "2026-11-05T15:50:50Z",
-   "items": [
-    {
-     "id": "e18db17dd7b2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Could this be the Tahiti boat?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xolvhx/could_this_be_the_tahiti_boat/",
-     "ts": "2026-11-05T15:41:29Z",
-     "summary": "Since most of us are expecting some sort of hidden map like Guarma in RDR2, I wonder if this mission could take us to a stranded island or Cuba, I have a hard time imagining them escaping the heat with that huge yatch. submitted by /u/Fazersion to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T15:41:29Z",
+  "last_run": "2026-11-12T15:50:55Z",
   "last_log": [
-   "rockstar_site: 0/31",
+   "rockstar_site: 0/29",
    "gnews_en: 99/100",
-   "gnews_ru: 96/100",
+   "gnews_ru: 95/100",
    "gamesbeat: 1/10",
-   "vgc: 0/10",
+   "vgc: 1/10",
    "insider_gaming: 4/10",
    "ign: 3/20",
    "eurogamer: 3/100",
    "dexerto_gta: 9/50",
    "rockstarintel: 9/10",
    "gtaboom: 14/30",
-   "reddit: 23/25",
+   "reddit: 24/25",
    "tg_gtavistar: 10/16",
    "tg_gta6deluxe: 16/16",
    "tg_gta6_m: 16/19",
