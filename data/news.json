@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "e490b97b71e2",
+   "title": "Logitech предоставила всем 7 тысячам сотрудников выходной для игры в GTA VI",
+   "first_seen": "2026-11-12T09:10:54Z",
+   "updated": "2026-11-12T09:10:54Z",
+   "items": [
+    {
+     "id": "e490b97b71e2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Хабр",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Logitech предоставила всем 7 тысячам сотрудников выходной для игры в GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wZE1vdnVUNFRyMlVJSjBNSmhfSHhrMmx4VnRwWDlid2g4cjJ0b0dfQ1BOaEg5NDFDYjN2SDF5cFRLVWw2bXNuaDhucjFZd9IBWEFVX3lxTFBicUktV1pEcl9ud2tZXzJBRmRuYVl3WU5MLTEtalBZaXVZTHRROHlYVDUyUDk0NjdpRkhsVzRHWHlYSFFQLTFzZ01DZjQwWjVNOUlqOV9uX2I?oc=5",
+     "ts": "2026-11-12T08:53:06Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "801f995ad0ac",
+   "title": "Remember GTA 5 Launch?",
+   "first_seen": "2026-11-12T09:10:54Z",
+   "updated": "2026-11-12T09:10:54Z",
+   "items": [
+    {
+     "id": "801f995ad0ac",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Remember GTA 5 Launch?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xu80yj/remember_gta_5_launch/",
+     "ts": "2026-11-12T09:04:29Z",
+     "summary": "Why is the game launching 30 fps on ps5 pro? Not to mention the base model but I want us to remember that when gta 5 launched it was also 30 FPS on 360 and ps3. Now when it launched on the next generation you had to not only: buy a new console. But you also had to buy the ENTIRE game again in order to play at 60 fps. Now I want you to understand why the game is only running 30 fps on the best consoles out to date. They want you to buy the next console generation. This shit is a ruthless and outrageous activity with rockstar cooperating with the makers of the consoles to incentivize buying cons"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c7e630fdb6af",
    "title": "PS5 officially breaks 100 million shipments ahead of GTA 6 launch",
    "first_seen": "2026-11-11T16:20:54Z",
@@ -98594,11 +98646,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T09:01:16Z",
+  "last_run": "2026-11-12T09:10:54Z",
   "last_log": [
-   "rockstar_site: 0/31",
+   "rockstar_site: 0/32",
    "gnews_en: 97/100",
-   "gnews_ru: 98/100",
+   "gnews_ru: 97/100",
    "gamesbeat: 1/10",
    "vgc: 2/10",
    "insider_gaming: 3/10",
