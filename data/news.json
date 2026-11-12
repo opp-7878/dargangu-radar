@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "42c2c63507dd",
+   "title": "Watch Strauss Zelnick on GTA VI, Take-Two's Turnaround and AI | The David Rubenstein Show",
+   "first_seen": "2026-11-12T14:50:59Z",
+   "updated": "2026-11-12T16:31:10Z",
+   "items": [
+    {
+     "id": "42c2c63507dd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Bloomberg.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Watch Strauss Zelnick on GTA VI, Take-Two's Turnaround and AI | The David Rubenstein Show",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFJCTDhvdkpROXZYR2JVRnpIeVUtRHQ0dWROVzJYcF9oYjNVbXd5MnFjcHVDaGM0WlIxYW1udExTWU5YbGh1bi1GUUpfRVhYVEtBOFdVWDIwZk05Smw2WS1WM2d4SExxNWhGVzdkT0RrbU1LY3lhUk9DOURFSFUxSGR5Z3E4WkxHck8wOWpwOTFRaVpfczdmaGpfNlE2d1V0SGpESTZqNXNtTHVTVkE?oc=5",
+     "ts": "2026-11-12T14:43:52Z",
+     "summary": ""
+    },
+    {
+     "id": "7642c58f8ad5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "www.levelup.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take-Two CEO Weighs In on Zelda: Ocarina of Time as GTA VI Rivalry Debates Heat Up",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2RnaUJldUhVeXZWTW9WbXFaVjBCOTBWQVVkckJpRDVhSmFOOTRwY2RSSlZXUEVDaTlleUR3ejJJS2V4QXdrMVBqWDI4WHMzcVQzU3pLR3FWdEpjS3ZzUHVyTGtOY0JlOURaNktMM2Jpc3ljZnFmNjBadERham85RXFuVUtMQm9RS3I5M0hGWWZYQnplcmdoY2VZNXllVXhaUTNXNUkxTGNpN3dOcFpfRlhFZTY?oc=5",
+     "ts": "2026-11-12T16:08:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Глава Take-Two о GTA 6 и ИИ: что сказал Зелник",
+    "summary": "Глава Take-Two Штраус Зелник дал интервью Дэвиду Рубинштейну, где обсудили GTA 6, разворот компании и роль ИИ. Официально игру не подтверждали, но разговор попал в сеть сегодня.",
+    "idea": "Короткая нарезка цитат Зелника с субтитрами и реакцией Даргана. Зрителю интересно, что говорит босс Take-Two прямо сейчас.",
+    "hook": "Штраус Зелник заговорил о GTA 6 и ИИ — вот главное за минуту.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T14:51:03Z"
+   },
+   "msg_id": 848
+  },
+  {
+   "id": "5bc4bea9796c",
+   "title": "GTA 6 Release Times: When Can You Start Playing?",
+   "first_seen": "2026-11-12T16:31:10Z",
+   "updated": "2026-11-12T16:31:10Z",
+   "items": [
+    {
+     "id": "5bc4bea9796c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Push Square",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Release Times: When Can You Start Playing?",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0l6RFdOVm5HYnVoV2N0Wm01MWdxLXVXdnp2RTltMnRESER5N3FNWG1Nc281dWdiMEJEc1l3U0paRll4UUs5ZWIwUVZrTk9PaHEyUk8yNkMzS2NULWlmMXRiNWtLY04zQThOSXRVUTVabXFad1doRXB1czlvME5xeXVzUnJPeWs?oc=5",
+     "ts": "2026-11-12T14:01:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6a307f7ad4cb",
    "title": "This company wants to pay you over $100,000 to play GTA 6",
    "first_seen": "2026-11-12T13:01:14Z",
@@ -3008,45 +3086,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "42c2c63507dd",
-   "title": "Watch Strauss Zelnick on GTA VI, Take-Two's Turnaround and AI | The David Rubenstein Show",
-   "first_seen": "2026-11-12T14:50:59Z",
-   "updated": "2026-11-12T14:50:59Z",
-   "items": [
-    {
-     "id": "42c2c63507dd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Bloomberg.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Watch Strauss Zelnick on GTA VI, Take-Two's Turnaround and AI | The David Rubenstein Show",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFJCTDhvdkpROXZYR2JVRnpIeVUtRHQ0dWROVzJYcF9oYjNVbXd5MnFjcHVDaGM0WlIxYW1udExTWU5YbGh1bi1GUUpfRVhYVEtBOFdVWDIwZk05Smw2WS1WM2d4SExxNWhGVzdkT0RrbU1LY3lhUk9DOURFSFUxSGR5Z3E4WkxHck8wOWpwOTFRaVpfczdmaGpfNlE2d1V0SGpESTZqNXNtTHVTVkE?oc=5",
-     "ts": "2026-11-12T14:43:52Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Глава Take-Two о GTA 6 и ИИ: что сказал Зелник",
-    "summary": "Глава Take-Two Штраус Зелник дал интервью Дэвиду Рубинштейну, где обсудили GTA 6, разворот компании и роль ИИ. Официально игру не подтверждали, но разговор попал в сеть сегодня.",
-    "idea": "Короткая нарезка цитат Зелника с субтитрами и реакцией Даргана. Зрителю интересно, что говорит босс Take-Two прямо сейчас.",
-    "hook": "Штраус Зелник заговорил о GTA 6 и ИИ — вот главное за минуту.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-12T14:51:03Z"
-   },
-   "msg_id": 848
   },
   {
    "id": "292ad63ae706",
@@ -99291,354 +99330,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "12905e286362",
-   "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
-   "first_seen": "2026-11-05T16:20:48Z",
-   "updated": "2026-11-05T16:31:04Z",
-   "items": [
-    {
-     "id": "12905e286362",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
-     "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
-     "ts": "2026-11-05T16:18:40Z",
-     "summary": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6 , ahead of its release later this month. Read more"
-    },
-    {
-     "id": "ff995d7770d3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Eurogamer.net",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxanZXNnlHLTZWQmtqREw3Wl9ZWkpCN1ozc1p1bk5XN0JHQWgtcU1Yd1c5NTJvTFBuNl9tRldiTVFtTE5DWjY4ZU8yTmIxSVpLcndsSHFBT3RTR1BuT0VYdURTQVIzZ0wzNldsWnJoTXM?oc=5",
-     "ts": "2026-11-05T16:18:40Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: выдуманные числа: 35",
-   "ai": {
-    "title_ru": "38 новых скриншотов GTA 6: Вайс-Сити, Джейсон и Лусия",
-    "summary": "Rockstar Games выпустила 38 новых скриншотов GTA 6, показав Вайс-Сити, Джейсона и Лусию. Об этом сообщил Eurogamer. Релиз игры — позже в этом месяце.",
-    "idea": "Быстрый тур по 38 скриншотам: лучшие кадры города, героев и деталей. Зрителю интересно увидеть максимум контента за 30 секунд.",
-    "hook": "38 новых скриншотов GTA 6 — смотрим самое сочное за 30 секунд.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-05T16:31:08Z"
-   },
-   "msg_id": 552
-  },
-  {
-   "id": "4f247b53384f",
-   "title": "I hastedly counted 155 NPCs on that new hotel pool screenshot. I feel like I might've missed a few.",
-   "first_seen": "2026-11-05T16:20:48Z",
-   "updated": "2026-11-05T16:31:04Z",
-   "items": [
-    {
-     "id": "4f247b53384f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I hastedly counted 155 NPCs on that new hotel pool screenshot. I feel like I might've missed a few.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xomvg2/i_hastedly_counted_155_npcs_on_that_new_hotel/",
-     "ts": "2026-11-05T16:20:31Z",
-     "summary": "submitted by /u/gmazzia to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "86b522ef8d3c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I hastily counted 155 NPCs on that new hotel pool screenshot. Feels like I might've missed a few.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xomzma/i_hastily_counted_155_npcs_on_that_new_hotel_pool/",
-     "ts": "2026-11-05T16:24:53Z",
-     "summary": "submitted by /u/gmazzia to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c6edc409fa3c",
-   "title": "GTA 6 in Real Life — Almost Identical! 🤯",
-   "first_seen": "2026-11-04T23:30:56Z",
-   "updated": "2026-11-05T16:31:04Z",
-   "items": [
-    {
-     "id": "c6edc409fa3c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 in Real Life — Almost Identical! 🤯",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xo3b31/gta_6_in_real_life_almost_identical/",
-     "ts": "2026-11-04T23:26:25Z",
-     "summary": "submitted by /u/New_Individual4750 to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "14e316120b8f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 vs Real Life",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xon10j/gta_6_vs_real_life/",
-     "ts": "2026-11-05T16:26:26Z",
-     "summary": "submitted by /u/FinalxPain to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3900b4f709d6",
-   "title": "Rockstar Games Will Take Measures to Prevent Grand Theft Auto VI Spoilers, and Players Will Have to Follow the Rules",
-   "first_seen": "2026-11-05T16:31:04Z",
-   "updated": "2026-11-05T16:31:04Z",
-   "items": [
-    {
-     "id": "3900b4f709d6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "levelup.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Games Will Take Measures to Prevent Grand Theft Auto VI Spoilers, and Players Will Have to Follow the Rules",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcllMbHhzb0VqUDZWdTNpTFY4UGlOT0N4ZXhXdXBsRmJEelpJUnhxY01hSEdqbVJCbDQ2eFBoUVh3dkVrdzBpSFZpMHNta3B0ZXJhYXZpSVEyWDBxUGtrOXpQODdmbkZ3YUx4NjR6c1M5clV0YmxRb0ZUMEczc3VzUzdaNWtrVkVPcHJqcUJULXpzWFc4Nnk3eVNsTVNhWlo3NGhibFVGMThvajFUWndrSFVudlFjVHZZOFFGMl9Rd3hxSEJ2OUgtUWlqTmJfV0puMHA5ZEVCQmZJTE5GWC1pMENn?oc=5",
-     "ts": "2026-11-05T16:02:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5a92eff9cae0",
-   "title": "NINE1NINE Vice City в реальности: ночной клуб E11EVEN станет местом из GTA 6",
-   "first_seen": "2026-11-05T16:31:04Z",
-   "updated": "2026-11-05T16:31:04Z",
-   "items": [
-    {
-     "id": "5a92eff9cae0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "https://dungen.ru/",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "NINE1NINE Vice City в реальности: ночной клуб E11EVEN станет местом из GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92cG1IQWpPWEtlR01FN3hRaTVZMTlSZG4xQTdGUDNkMXlvdUg2cnhwTER5aVoyaVktZ2JHSkRHcGRVX1BsVENUbU93YWxTRVVWSVB4ZXJma0pLRy04Tk5fUWc2dmRvX1d6?oc=5",
-     "ts": "2026-11-05T16:03:30Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b1e8a4fca422",
-   "title": "New screenshots dropped in the official website 14 days before launch",
-   "first_seen": "2026-11-05T16:31:04Z",
-   "updated": "2026-11-05T16:31:04Z",
-   "items": [
-    {
-     "id": "b1e8a4fca422",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "New screenshots dropped in the official website 14 days before launch",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xomn9g/new_screenshots_dropped_in_the_official_website/",
-     "ts": "2026-11-05T16:11:48Z",
-     "summary": "submitted by /u/Adventurous_Mix_2443 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "29430090ff38",
-   "title": "Rockstar Games Flexes Its Technical Prowess With GTA 6’s 40 Launch Screenshots, As Stunning Attention to Detail Completely Steals the Show",
-   "first_seen": "2026-11-05T16:31:04Z",
-   "updated": "2026-11-05T16:31:04Z",
-   "items": [
-    {
-     "id": "29430090ff38",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Wccftech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Games Flexes Its Technical Prowess With GTA 6’s 40 Launch Screenshots, As Stunning Attention to Detail Completely Steals the Show",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaWJSUUY0WWtfS3NXZWIwNmxKUmlYQnJXa3cwSFF6aEJPWDB4WHVwUFBCMW0zaENqZWgyZ29ZZzJWbkhDOE83ZGgyMmRFZWxDd2xzdUdWSmlMeGVMbDJlRnJyeE9OaWYySmM3M3hNdFM4cE5SVXNFNk9qNW1TWm9FVNIBhgFBVV95cUxOQjBGUlg3YUY0Y0JLZUl5cjNiQ2duRFlKeXhWMkNheklOTXV4MHk2UGZLcWhQNm9yQmZTcnFpUE9TRndFMVBXeWFfYmt3M2RBRThrNnhOQ1I1SmhYeTRieUtBOG42NlV3bU82dkl6MzR3cGU1QWVuVUZ3ZVFHdGR2dnpjakc1QQ?oc=5",
-     "ts": "2026-11-05T16:16:35Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9782a09717ba",
-   "title": "Can't Wait To Explore The Waters",
-   "first_seen": "2026-11-05T16:31:04Z",
-   "updated": "2026-11-05T16:31:04Z",
-   "items": [
-    {
-     "id": "9782a09717ba",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Can't Wait To Explore The Waters",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xomxg1/cant_wait_to_explore_the_waters/",
-     "ts": "2026-11-05T16:22:40Z",
-     "summary": "submitted by /u/Scott1710 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "adf780d2e51d",
-   "title": "Spotted West Coast Costums Cars again in the new Screenshots",
-   "first_seen": "2026-11-05T16:31:04Z",
-   "updated": "2026-11-05T16:31:04Z",
-   "items": [
-    {
-     "id": "adf780d2e51d",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Spotted West Coast Costums Cars again in the new Screenshots",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xomy0z/spotted_west_coast_costums_cars_again_in_the_new/",
-     "ts": "2026-11-05T16:23:16Z",
-     "summary": "Maybe the will be a real-life/ingame mix type trailer? submitted by /u/LavishnessDue6 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "788aa83d3efd",
-   "title": "First official look at Gator Plaza, based on Miami's Dolphin Mall",
-   "first_seen": "2026-11-05T16:31:04Z",
-   "updated": "2026-11-05T16:31:04Z",
-   "items": [
-    {
-     "id": "788aa83d3efd",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "First official look at Gator Plaza, based on Miami's Dolphin Mall",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xon03z/first_official_look_at_gator_plaza_based_on/",
-     "ts": "2026-11-05T16:25:26Z",
-     "summary": "Gator Plaza is one of several known enterable shopping malls in GTA 6. gta.wiki/Gator_Plaza submitted by /u/gtawiki to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7ef33e3c7fa2",
-   "title": "FNAC Montparnasse, Paris France",
-   "first_seen": "2026-11-05T16:31:04Z",
-   "updated": "2026-11-05T16:31:04Z",
-   "items": [
-    {
-     "id": "7ef33e3c7fa2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "FNAC Montparnasse, Paris France",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xon2lf/fnac_montparnasse_paris_france/",
-     "ts": "2026-11-05T16:28:10Z",
-     "summary": "submitted by /u/Minatoku92 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T16:20:57Z",
+  "last_run": "2026-11-12T16:31:10Z",
   "last_log": [
-   "rockstar_site: 0/30",
-   "gnews_en: 98/100",
+   "rockstar_site: 0/29",
+   "gnews_en: 96/100",
    "gnews_ru: 94/100",
    "gamesbeat: 1/10",
    "vgc: 1/10",
