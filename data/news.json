@@ -1,6 +1,73 @@
 {
  "stories": [
   {
+   "id": "5d452cac2cb2",
+   "title": "GTA 6 Was Almost Banned In Korea – Was It Censored In Japan?",
+   "first_seen": "2026-11-12T11:31:05Z",
+   "updated": "2026-11-12T21:41:26Z",
+   "items": [
+    {
+     "id": "5d452cac2cb2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gameranx",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Was Almost Banned In Korea – Was It Censored In Japan?",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNVNnUUJUV2o3TlNxTG83MVlzVzRZNnlNbjFVc056cHRvU25iUGwzY1hEMThQUU5kR3F0ZEg1dHI0MGJDclE0SjJwOUVQeXdkU0xPS2FNakhwQUw0WmktTFVsTjlzUktjcGpmRU5EQjhva1IwS2JDbjA4eTJqRUJaZ0twRWdPWDU4dEVNaEFjNWZRREZKRFFJQ1V2a3ZQQlhWX1ByZEFWWWo?oc=5",
+     "ts": "2026-11-12T11:14:24Z",
+     "summary": ""
+    },
+    {
+     "id": "ffcf0a598c09",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "DualShockers",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Was Almost Banned in Korea Ahead of Launch",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObFhrZVNtRFoyUTNLSEQxb1FLcHcwRTE0ZVpCeURBWm1kRmFMd09QN2RaVG5TZWZGUHltc1dIdzc4OFdCQzZRMEl0c0d5andoU1pURF8zdlJuWWY5VzBWWGZKeXVVaFByZ0xmSUVpekNOZ1ROWi1jMFdFangxMFE4VGl5ckk?oc=5",
+     "ts": "2026-11-12T21:31:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "baea717a9d95",
+   "title": "Anyone else really hyped to see how playing as Lucia changes the vibe and comedy of GTA?",
+   "first_seen": "2026-11-12T21:41:26Z",
+   "updated": "2026-11-12T21:41:26Z",
+   "items": [
+    {
+     "id": "baea717a9d95",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Anyone else really hyped to see how playing as Lucia changes the vibe and comedy of GTA?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xuphue/anyone_else_really_hyped_to_see_how_playing_as/",
+     "ts": "2026-11-12T21:37:01Z",
+     "summary": "I know you could technically pick a female character back in the original GTA, and obviously in GTA Online. Still, having an actual main character with a full story in a modern GTA is a completely different thing. I feel like people do not talk enough about how much potential this opens up for both the story and the comedy. Rockstar has always leaned hard into satire and over the top characters, so seeing how the world, NPCs, and side missions react to a woman co-leading the story is going to be super interesting. Even just the dynamic between Lucia and Jason during missions or random free roa"
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ac7648d08e0a",
    "title": "Take-Two CEO Says Physical Games Still Have a Future",
    "first_seen": "2026-11-12T10:20:52Z",
@@ -12647,32 +12714,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5d452cac2cb2",
-   "title": "GTA 6 Was Almost Banned In Korea – Was It Censored In Japan?",
-   "first_seen": "2026-11-12T11:31:05Z",
-   "updated": "2026-11-12T11:31:05Z",
-   "items": [
-    {
-     "id": "5d452cac2cb2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Gameranx",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Was Almost Banned In Korea – Was It Censored In Japan?",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNVNnUUJUV2o3TlNxTG83MVlzVzRZNnlNbjFVc056cHRvU25iUGwzY1hEMThQUU5kR3F0ZEg1dHI0MGJDclE0SjJwOUVQeXdkU0xPS2FNakhwQUw0WmktTFVsTjlzUktjcGpmRU5EQjhva1IwS2JDbjA4eTJqRUJaZ0twRWdPWDU4dEVNaEFjNWZRREZKRFFJQ1V2a3ZQQlhWX1ByZEFWWWo?oc=5",
-     "ts": "2026-11-12T11:14:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -100064,63 +100105,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e39ae30bf5f6",
-   "title": "Фанаты считают, что им удалось выяснить имя ещё одного актёра, причастного к GTA 6",
-   "first_seen": "2026-11-05T21:40:50Z",
-   "updated": "2026-11-05T21:40:50Z",
-   "items": [
-    {
-     "id": "e39ae30bf5f6",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW.News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Фанаты считают, что им удалось выяснить имя ещё одного актёра, причастного к GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlpxZGZOZFBkVkpKUXpOai1CZTYxa1hYa2Jta2d0T05nelp2WjVOQVQyeHhnUXhoTmVLdDltSFp3bnVQVHFSS3BoRTVtUEpDMnBydk1OOXpGLTctU2JHSFBlMkNLZGZUeEtVR3lsbk56ZEY5VTNIZ0ZqUTBzRnVuckxRZG5oaWE1MVRtUVZ3MHJONjE3bFZkVlI0elNqOTY1?oc=5",
-     "ts": "2026-11-05T21:00:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "467365104439",
-   "title": "Anyone else game for speargunning npcs ?",
-   "first_seen": "2026-11-05T21:40:50Z",
-   "updated": "2026-11-05T21:40:50Z",
-   "items": [
-    {
-     "id": "467365104439",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Anyone else game for speargunning npcs ?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xov4l6/anyone_else_game_for_speargunning_npcs/",
-     "ts": "2026-11-05T21:39:18Z",
-     "summary": "Imagine if GTA 6 lets us use a speargun like how the lasso worked in RDR2. Shoot an NPC, keep them attached to the line and drag them behind your speedboat through the Florida waterways.....😆 Rockstar, I don't ask for much, but please let me be an absolute maniac in Leonida..... Anyone else game for this ? 😂😂 submitted by /u/Lopsided-Document-11 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T21:31:40Z",
+  "last_run": "2026-11-12T21:41:26Z",
   "last_log": [
    "rockstar_site: 0/23",
    "gnews_en: 99/100",
