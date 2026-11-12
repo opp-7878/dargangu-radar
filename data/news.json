@@ -1,6 +1,229 @@
 {
  "stories": [
   {
+   "id": "6a307f7ad4cb",
+   "title": "This company wants to pay you over $100,000 to play GTA 6",
+   "first_seen": "2026-11-12T13:01:14Z",
+   "updated": "2026-11-12T13:51:09Z",
+   "items": [
+    {
+     "id": "6a307f7ad4cb",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "This company wants to pay you over $100,000 to play GTA 6",
+     "url": "https://www.dexerto.com/gta/this-company-wants-to-pay-you-over-100000-to-play-gta-6-3427629/",
+     "ts": "2026-11-12T12:10:23Z",
+     "summary": "A company is offering the chance to earn up to $120,000 by playing GTA 6, with an additional $15,000 up for grabs if they complete the job."
+    },
+    {
+     "id": "67ffe235e684",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I refuse to pay $100 for a 30 fps PS5 Game… especially a digital pre order. I think Sony should uphold 60 fps for all games. Do you agree?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xucmjs/i_refuse_to_pay_100_for_a_30_fps_ps5_game/",
+     "ts": "2026-11-12T13:22:03Z",
+     "summary": "submitted by /u/Middle-Reason-4944 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "5c8bce34ae1a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Whoever said Walmart is doing a pre-order bonus on GTA IV was correct! Got a little goodie bag with my physical copy this morning",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xud4ar/whoever_said_walmart_is_doing_a_preorder_bonus_on/",
+     "ts": "2026-11-12T13:44:47Z",
+     "summary": "submitted by /u/TheGr8LeBowski to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 83,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Платят 120 000 $ за игру в GTA 6: подробности",
+    "summary": "Компания предлагает до 120 000 $ за игру в GTA 6 и ещё 15 000 $ за выполнение задания, сообщает Dexerto. Речь о платной «работе» для игроков, а не о призе. Официальных деталей от Rockstar нет.",
+    "idea": "Угол: «работа мечты» за 120 000 $ в GTA 6 — что нужно сделать и реально ли это. Зрителю интересно из-за суммы, условий и вопроса «почему так много».",
+    "hook": "120 000 долларов за игру в GTA 6. Что за работа и как попасть?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T13:01:18Z"
+   },
+   "msg_id": 835
+  },
+  {
+   "id": "ded9dd1317c7",
+   "title": "We made it boys!",
+   "first_seen": "2026-11-12T13:31:19Z",
+   "updated": "2026-11-12T13:51:09Z",
+   "items": [
+    {
+     "id": "ded9dd1317c7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We made it boys!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xucq03/we_made_it_boys/",
+     "ts": "2026-11-12T13:26:38Z",
+     "summary": "​ Walmart pre-order ftw submitted by /u/TheBMix504 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "2875f1ea769c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We made it boys!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xud6ax/we_made_it_boys/",
+     "ts": "2026-11-12T13:47:09Z",
+     "summary": "This is everything that came in the Walmart pre-order! submitted by /u/TheBMix504 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6839177d1837",
+   "title": "На Kick можно БЕСПЛАТНО получить GTA VI Ultimate edition — они разыгрывают 10 тысяч копий Для этого на платформе нужно просто смотреть 3+ часа любой стрим и отк",
+   "first_seen": "2026-11-12T07:10:52Z",
+   "updated": "2026-11-12T13:51:09Z",
+   "items": [
+    {
+     "id": "6839177d1837",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Carexpo.ru_ все авто на одном сайте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: Самая предзаказываемая игра в истории. 10 млн копий, рекорд Cyberpunk 2077, доходы до миллиарда",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDZtWEllSm9HY0x6UXFUQllnVmZyNEVIUEZYWWt5X1ZuYjZkcW5ZaEkyQnYtY21WTWNILU0wOWE3bGxqYlRjWTlLa2dlUE4xUWRKWjRhOGFiX2QxQnhGWU1jMHdHdE9Sd1pvZnhTWEtjQUFWZXFwQ0V3RGs3cnIzN21JNWFpdU42bTlUa05ZYXNPbWs2Vm1YMmJ3Nl80bnA5OE9sRV9mcTRYZ0h0RUR0RjB1Yw?oc=5",
+     "ts": "2026-11-12T06:56:24Z",
+     "summary": ""
+    },
+    {
+     "id": "7ea90ebe16d5",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "На Kick можно БЕСПЛАТНО получить GTA VI Ultimate edition — они разыгрывают 10 тысяч копий Для этого на платформе нужно просто смотреть 3+ часа любой стрим и отк",
+     "url": "https://t.me/gta6deluxe/2033",
+     "ts": "2026-11-12T12:30:58Z",
+     "summary": "❗️ На Kick можно БЕСПЛАТНО получить GTA VI Ultimate edition — они разыгрывают 10 тысяч копий Для этого на платформе нужно просто смотреть 3+ часа любой стрим и открывать кейсы, которые дают за просмотр. Розыгрыш продлится до 7 декабря Ключи будут рассылать победителям на релизе 😀 Подписаться | Наш чат 😀"
+    },
+    {
+     "id": "d81b4a6c4ca6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 Physical Edition, Fooled by Ultimate Edition QR",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xud1k5/gta_6_physical_edition_fooled_by_ultimate_edition/",
+     "ts": "2026-11-12T13:41:21Z",
+     "summary": "I received my copy in this mail this morning and saw the ultimate edition upgrade pamphlet, which fooled me into thinking I scored the Ultimate Upgrade while only paying for standard, I then saw it was just a QR code to buy it. Did this fool anyone else? submitted by /u/Fantastic_Fan_6842 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 бьёт рекорды предзаказов: 10 млн копий и миллиард",
+    "summary": "По данным Carexpo.ru, GTA 6 стала самой предзаказываемой игрой в истории с 10 млн копий, побив рекорд Cyberpunk 2077. Ожидаемые доходы достигают миллиарда. Официально Rockstar цифры не подтверждала.",
+    "idea": "Короткий ролик с таймером и счётчиком: 10 млн предзаказов и миллиард до релиза. Зрителю — масштаб хайпа и повод написать, за сколько брал.",
+    "hook": "10 миллионов предзаказов GTA 6 до релиза — как это вообще возможно?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T07:10:56Z"
+   },
+   "msg_id": 823
+  },
+  {
+   "id": "97d068caa88e",
+   "title": "Its finally here (GTA6)",
+   "first_seen": "2026-11-12T13:51:09Z",
+   "updated": "2026-11-12T13:51:09Z",
+   "items": [
+    {
+     "id": "97d068caa88e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Its finally here (GTA6)",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xud1hj/its_finally_here_gta6/",
+     "ts": "2026-11-12T13:41:17Z",
+     "summary": "Finally got ittt😭😭😭 submitted by /u/PanDaOp28 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3152a4e0425f",
+   "title": "Что грозит россиянам за скачивание пиратской ГТА 6",
+   "first_seen": "2026-11-12T13:51:09Z",
+   "updated": "2026-11-12T13:51:09Z",
+   "items": [
+    {
+     "id": "3152a4e0425f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "RTVI",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Что грозит россиянам за скачивание пиратской ГТА 6",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORjBNbUxnX0RlOU5yTmJ3bll0eFF2RzZBOWIyWUY0dFFsbnZlX3l4Ml9mUUQ5a1FKcEk4R0tDdWhUeXRuZXdGR2FpenRoLVpEZnoza3d5aGJFMndfbl9sMWxrczRmdUk1U04yemJ2anlSMEtlbG1IV1YyeU5CYVVtRUhB?oc=5",
+     "ts": "2026-11-12T13:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "04c4c1f30de5",
    "title": "GTA 6 Was Almost Refused a Rating in South Korea Due to 'Genital Nudity'",
    "first_seen": "2026-11-12T12:31:08Z",
@@ -1011,58 +1234,6 @@
    "status": "new"
   },
   {
-   "id": "6a307f7ad4cb",
-   "title": "This company wants to pay you over $100,000 to play GTA 6",
-   "first_seen": "2026-11-12T13:01:14Z",
-   "updated": "2026-11-12T13:31:19Z",
-   "items": [
-    {
-     "id": "6a307f7ad4cb",
-     "src": "dexerto_gta",
-     "src_name": "Dexerto GTA",
-     "outlet": "",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "This company wants to pay you over $100,000 to play GTA 6",
-     "url": "https://www.dexerto.com/gta/this-company-wants-to-pay-you-over-100000-to-play-gta-6-3427629/",
-     "ts": "2026-11-12T12:10:23Z",
-     "summary": "A company is offering the chance to earn up to $120,000 by playing GTA 6, with an additional $15,000 up for grabs if they complete the job."
-    },
-    {
-     "id": "67ffe235e684",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I refuse to pay $100 for a 30 fps PS5 Game… especially a digital pre order. I think Sony should uphold 60 fps for all games. Do you agree?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xucmjs/i_refuse_to_pay_100_for_a_30_fps_ps5_game/",
-     "ts": "2026-11-12T13:22:03Z",
-     "summary": "submitted by /u/Middle-Reason-4944 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 83,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Платят 120 000 $ за игру в GTA 6: подробности",
-    "summary": "Компания предлагает до 120 000 $ за игру в GTA 6 и ещё 15 000 $ за выполнение задания, сообщает Dexerto. Речь о платной «работе» для игроков, а не о призе. Официальных деталей от Rockstar нет.",
-    "idea": "Угол: «работа мечты» за 120 000 $ в GTA 6 — что нужно сделать и реально ли это. Зрителю интересно из-за суммы, условий и вопроса «почему так много».",
-    "hook": "120 000 долларов за игру в GTA 6. Что за работа и как попасть?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-12T13:01:18Z"
-   },
-   "msg_id": 835
-  },
-  {
    "id": "3f0d3b366e74",
    "title": "The ultimate GTA 6 TV deal just dropped before Black Friday — snag this massive 98-inch TCL QLED TV for just $898",
    "first_seen": "2026-11-12T13:31:19Z",
@@ -1195,34 +1366,6 @@
    ],
    "tags": [],
    "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ded9dd1317c7",
-   "title": "We made it boys!",
-   "first_seen": "2026-11-12T13:31:19Z",
-   "updated": "2026-11-12T13:31:19Z",
-   "items": [
-    {
-     "id": "ded9dd1317c7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "We made it boys!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xucq03/we_made_it_boys/",
-     "ts": "2026-11-12T13:26:38Z",
-     "summary": "​ Walmart pre-order ftw submitted by /u/TheBMix504 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
@@ -2185,58 +2328,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "6839177d1837",
-   "title": "На Kick можно БЕСПЛАТНО получить GTA VI Ultimate edition — они разыгрывают 10 тысяч копий Для этого на платформе нужно просто смотреть 3+ часа любой стрим и отк",
-   "first_seen": "2026-11-12T07:10:52Z",
-   "updated": "2026-11-12T12:40:55Z",
-   "items": [
-    {
-     "id": "6839177d1837",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Carexpo.ru_ все авто на одном сайте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6: Самая предзаказываемая игра в истории. 10 млн копий, рекорд Cyberpunk 2077, доходы до миллиарда",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDZtWEllSm9HY0x6UXFUQllnVmZyNEVIUEZYWWt5X1ZuYjZkcW5ZaEkyQnYtY21WTWNILU0wOWE3bGxqYlRjWTlLa2dlUE4xUWRKWjRhOGFiX2QxQnhGWU1jMHdHdE9Sd1pvZnhTWEtjQUFWZXFwQ0V3RGs3cnIzN21JNWFpdU42bTlUa05ZYXNPbWs2Vm1YMmJ3Nl80bnA5OE9sRV9mcTRYZ0h0RUR0RjB1Yw?oc=5",
-     "ts": "2026-11-12T06:56:24Z",
-     "summary": ""
-    },
-    {
-     "id": "7ea90ebe16d5",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "На Kick можно БЕСПЛАТНО получить GTA VI Ultimate edition — они разыгрывают 10 тысяч копий Для этого на платформе нужно просто смотреть 3+ часа любой стрим и отк",
-     "url": "https://t.me/gta6deluxe/2033",
-     "ts": "2026-11-12T12:30:58Z",
-     "summary": "❗️ На Kick можно БЕСПЛАТНО получить GTA VI Ultimate edition — они разыгрывают 10 тысяч копий Для этого на платформе нужно просто смотреть 3+ часа любой стрим и открывать кейсы, которые дают за просмотр. Розыгрыш продлится до 7 декабря Ключи будут рассылать победителям на релизе 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 бьёт рекорды предзаказов: 10 млн копий и миллиард",
-    "summary": "По данным Carexpo.ru, GTA 6 стала самой предзаказываемой игрой в истории с 10 млн копий, побив рекорд Cyberpunk 2077. Ожидаемые доходы достигают миллиарда. Официально Rockstar цифры не подтверждала.",
-    "idea": "Короткий ролик с таймером и счётчиком: 10 млн предзаказов и миллиард до релиза. Зрителю — масштаб хайпа и повод написать, за сколько брал.",
-    "hook": "10 миллионов предзаказов GTA 6 до релиза — как это вообще возможно?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-12T07:10:56Z"
-   },
-   "msg_id": 823
   },
   {
    "id": "a754800edd6a",
@@ -99947,41 +100038,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "d7c3ddce65ca",
-   "title": "Как запустить GTA 6 на 10 часов раньше на PS5 и Xbox — смена региона",
-   "first_seen": "2026-11-05T13:50:45Z",
-   "updated": "2026-11-05T13:50:45Z",
-   "items": [
-    {
-     "id": "d7c3ddce65ca",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Как запустить GTA 6 на 10 часов раньше на PS5 и Xbox — смена региона",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFpmOUhyZ1o4YzFPS3ZSMWRpNlkzZjFGeDZIYkE1YUUxMnRBQkdLenJxUHhxT053NHZHTkhpVFkzUWlDVjJJaWxwWG5QcmtobFRRQzhJVzNFLTMzb3czNW5Xc2xZdnBicGUzQjZIQlcxZUY5MDFuVDI2Wkh5dERjQV9tUkhiUzRwYjc0NC1R?oc=5",
-     "ts": "2026-11-05T08:16:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T13:41:04Z",
+  "last_run": "2026-11-12T13:51:09Z",
   "last_log": [
-   "rockstar_site: 0/30",
+   "rockstar_site: 0/31",
    "gnews_en: 96/100",
-   "gnews_ru: 94/100",
+   "gnews_ru: 95/100",
    "gamesbeat: 1/10",
    "vgc: 1/10",
    "insider_gaming: 6/10",
@@ -99993,7 +100058,7 @@
    "reddit: 23/25",
    "tg_gtavistar: 10/17",
    "tg_gta6deluxe: 16/16",
-   "tg_gta6_m: 18/19",
+   "tg_gta6_m: 17/19",
    "tg_gta6newsdaily: 0/16"
   ],
   "digest": "2026-11-12@9",
