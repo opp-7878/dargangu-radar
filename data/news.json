@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "0432bc16cf6d",
+   "title": "Ziggo reports jump in internet traffic following GTA VI release",
+   "first_seen": "2026-11-12T10:01:11Z",
+   "updated": "2026-11-12T10:01:11Z",
+   "items": [
+    {
+     "id": "0432bc16cf6d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Telecompaper",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Ziggo reports jump in internet traffic following GTA VI release",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDRCRGNLSmlsWWNrdTR0ck56MlZlQWo0MnEzN2k1S205VE1pOGZabjlMV1lBczNOdnJFMl8wUFkyRTJiSUxqc3BadkpYOVpJSWdPWFhrZ3hhYVVmVlhIRXZhbkhlVWRpSzd4VHVYS3NaRjZ3eTVhUEtTYUpDX1dUS3FjcjVGVDBUTnRIQXlHVUtmT3U0ZVN0WEdndk1jNExHQlpON3NBUkVjUQ?oc=5",
+     "ts": "2026-11-12T09:56:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "837cb2d09928",
    "title": "Why wasn't GTA 6 at the Golden Joystick Awards?",
    "first_seen": "2026-11-12T07:10:52Z",
@@ -98653,47 +98679,21 @@
     "at": "2026-11-05T10:10:57Z"
    },
    "msg_id": 525
-  },
-  {
-   "id": "f1551e3cea9f",
-   "title": "My plan for GTA 6: I'm not picking Lucia up from jail just yet 😂",
-   "first_seen": "2026-11-05T09:51:13Z",
-   "updated": "2026-11-05T09:51:13Z",
-   "items": [
-    {
-     "id": "f1551e3cea9f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "My plan for GTA 6: I'm not picking Lucia up from jail just yet 😂",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xoelap/my_plan_for_gta_6_im_not_picking_lucia_up_from/",
-     "ts": "2026-11-05T09:43:07Z",
-     "summary": "I already know exactly how I'm going to play GTA 6. Once I've finished the opening missions and the game gives me a bit of freedom, Jason is going to have the most peaceful few weeks of his life. Forget the main story. Forget the criminal empire. Forget picking Lucia up from jail. I'm going FISHING. 🎣 Then I'm off to the gym, followed by a bit of pool, maybe some mini golf. Might take the kayak out, do some hunting, go scuba diving and finish the afternoon watching TV. The next day? Probably a bit of basketball, some off-road driving, maybe a shooting range session. I'll eventually buy some cl"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T09:50:53Z",
+  "last_run": "2026-11-12T10:01:12Z",
   "last_log": [
-   "rockstar_site: 0/30",
+   "rockstar_site: 0/32",
    "gnews_en: 97/100",
-   "gnews_ru: 97/100",
+   "gnews_ru: 96/100",
    "gamesbeat: 1/10",
    "vgc: 2/10",
    "insider_gaming: 2/10",
    "ign: 1/20",
    "eurogamer: 4/100",
-   "dexerto_gta: 7/50",
+   "dexerto_gta: 6/50",
    "rockstarintel: 9/10",
    "gtaboom: 15/30",
    "reddit: 21/25",
