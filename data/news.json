@@ -1,6 +1,175 @@
 {
  "stories": [
   {
+   "id": "f6384a2df4ef",
+   "title": "Мошенники предлагают россиянам фейковую GTA 6 для кражи данных",
+   "first_seen": "2026-11-12T22:41:00Z",
+   "updated": "2026-11-12T23:40:47Z",
+   "items": [
+    {
+     "id": "f6384a2df4ef",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Мошенники предлагают россиянам фейковую GTA 6 для кражи данных",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmdHOWY4aUNBMXBGZzhEM1ppb1QzRU5weWVZSUd4RjdDZEZNNkRNMUNWWXlJTzlMU29pTlpSM3NoQ3VYUGtYekZNYUhualJuWG5zd1VXcFp2WEkyX29YUHpsTU41aEViQkwtNWV0WkRWTnNVbXBLOHhHVEw5X0NtZUR0ZzFLdjFSNzdXVw?oc=5",
+     "ts": "2026-11-12T22:32:45Z",
+     "summary": ""
+    },
+    {
+     "id": "b281df127c60",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "телепорт.рф",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 предлагают досрочно установить россиянам мошенники",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN004ZmkyRFNxMU55NzBqcWpkV2NFUHEyWkZ6SW0xRThwWmlQS3NtSFRqWWVXczFoQmNndGxRVzNuWlY5Qm0zUWNvOXk0aHoyS2hlTnU0N3AyVzF4OVo0cE9jeFVtS0F6RHhLbGVnR29aZHptODJpci1PcE40WFZySEdsc0dVVE1Id29xR2tWV19DT2JvSTAwVXE3cEdSbldRSi1SQ0lBTHQ4V091VWlPUmhwVm93Zw?oc=5",
+     "ts": "2026-11-12T23:34:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "eab9beb9a1a5",
+   "title": "This Tech Company is Giving 7,000 Employees Day Off to Play GTA 6",
+   "first_seen": "2026-11-12T22:31:16Z",
+   "updated": "2026-11-12T23:40:47Z",
+   "items": [
+    {
+     "id": "eab9beb9a1a5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Benzinga",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "This Tech Company is Giving 7,000 Employees Day Off to Play GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3dpSkJtdThVWnJHQjhxazdQX29YT25EZ2tuRVhydW91WlN6NzF1MlBtcDRFUG4zb3hnTUVQWDlLUzM2c21uUTBVczhXM2xLTkR6cUNNRGkwaUF5LThfU1FtNWdNZXVWUmJvLTJHMjhPektfNjJFbmJuYm9ZTHl1SFFjQWdXVkVEdWJCa3JtQ3pURTdrbExPcnUwODVMRGxoejR5N1ZydWNlcEc2ekItU2F5ekpuTkE?oc=5",
+     "ts": "2026-11-12T22:20:46Z",
+     "summary": ""
+    },
+    {
+     "id": "35758e06b64f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TradingView",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "This Tech Company is Giving 7,000 Employees Day Off to Play GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOW5SeXp1dmw3OHdnSWduR3BVZ1lRRGFRUnE4aVRCczJjUWhrMmhESVE3TUgwcmdiVzBlclFXa0xTRndzZWM4dHJ6dEhCc1N1cEprQnV6djhpN2wyaWp3aDFCN1pmYVJaSlB2NFAyb2NVckZkdHVwZ2hFbFA5M0dpZ2g4Y3pPQUNsTUc5VW5iaF9hdS1YcWR6dlh0d3A5M0lBODNEd0U2T3BWQ2FHWElpTy1ZNXNMblA2cWIzSkVNMEVEUQ?oc=5",
+     "ts": "2026-11-12T22:20:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Техкомпания дала сотрудникам выходной на запуск GTA 6",
+    "summary": "По данным Benzinga и TradingView, одна технологическая компания объявила выходной для сотрудников в день выхода GTA 6. Это позволит команде поиграть в день релиза.",
+    "idea": "Короткий ролик о том, что техкомпания официально дала выходной под GTA 6, с реакцией и вопросом зрителям — отпустят ли их. Зрителю интересно, потому что это редкий корпоративный прецедент под игру.",
+    "hook": "Выходной ради GTA 6? Техкомпания официально дала день под релиз.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T23:40:52Z"
+   },
+   "msg_id": 878
+  },
+  {
+   "id": "47b9f37ac47b",
+   "title": "GTA 6 Could Leave Millions of Desks Empty on Launch Day, Survey Suggests",
+   "first_seen": "2026-11-12T23:40:47Z",
+   "updated": "2026-11-12T23:40:47Z",
+   "items": [
+    {
+     "id": "47b9f37ac47b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "DualShockers",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Could Leave Millions of Desks Empty on Launch Day, Survey Suggests",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkZJRzlzQlZJMzBSS0RGUnBULXIyN0tlaVkzcWVGckdFbC12azBDS05ONmozSVlEaFdOajExMEpaRUFMUlYxak55MTBneDBSN1hRQ1hCRkJnSTg3dTItOFhDb3JaTG5Dbm5PV2hZSW5jcG9xbGZFUW1ZdkRwMnJuZkVmMm8yaDc0ZVhoYWwyNFdGamV1YzBQNlVjR0dnMmZBbUhz?oc=5",
+     "ts": "2026-11-12T23:34:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3990277ee802",
+   "title": "For those wanting to buy the physical copy of GTAVI",
+   "first_seen": "2026-11-12T23:40:47Z",
+   "updated": "2026-11-12T23:40:47Z",
+   "items": [
+    {
+     "id": "3990277ee802",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "For those wanting to buy the physical copy of GTAVI",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xusd5f/for_those_wanting_to_buy_the_physical_copy_of/",
+     "ts": "2026-11-12T23:37:58Z",
+     "summary": "Rockstar has set a presedence already, the next gen updates to consoles down the line came for free if you bought the games digitally with GTA V and RDR. Just sucks because being able to display it with the collection would look cool submitted by /u/SirBiggusDickus99 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "32c954f991dd",
+   "title": "WEST COAST RELEASE TIME???",
+   "first_seen": "2026-11-12T23:40:47Z",
+   "updated": "2026-11-12T23:40:47Z",
+   "items": [
+    {
+     "id": "32c954f991dd",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "WEST COAST RELEASE TIME???",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xusf0p/west_coast_release_time/",
+     "ts": "2026-11-12T23:40:20Z",
+     "summary": "Can someone for the love of god please confirm when GTA will come out west coast time. Is it 9pm on wednesday or midnight??? There is nothing to confirm what the time actually is. submitted by /u/Any-Revenue-8863 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ddae76f7be73",
    "title": "On Your Side: Rising costs for Christmas shopping season; \"Grand Theft Auto VI\" scam alerts",
    "first_seen": "2026-11-12T17:40:47Z",
@@ -1282,32 +1451,6 @@
    "status": "new"
   },
   {
-   "id": "f6384a2df4ef",
-   "title": "Мошенники предлагают россиянам фейковую GTA 6 для кражи данных",
-   "first_seen": "2026-11-12T22:41:00Z",
-   "updated": "2026-11-12T22:41:00Z",
-   "items": [
-    {
-     "id": "f6384a2df4ef",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Мошенники предлагают россиянам фейковую GTA 6 для кражи данных",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmdHOWY4aUNBMXBGZzhEM1ppb1QzRU5weWVZSUd4RjdDZEZNNkRNMUNWWXlJTzlMU29pTlpSM3NoQ3VYUGtYekZNYUhualJuWG5zd1VXcFp2WEkyX29YUHpsTU41aEViQkwtNWV0WkRWTnNVbXBLOHhHVEw5X0NtZUR0ZzFLdjFSNzdXVw?oc=5",
-     "ts": "2026-11-12T22:32:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "a2943fb3bd16",
    "title": "Give ’em The Business: Concert Ticket Legislature, GTA 6, Austin Transit Partnership and more",
    "first_seen": "2026-11-12T22:41:00Z",
@@ -1356,32 +1499,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "eab9beb9a1a5",
-   "title": "This Tech Company is Giving 7,000 Employees Day Off to Play GTA 6",
-   "first_seen": "2026-11-12T22:31:16Z",
-   "updated": "2026-11-12T22:31:16Z",
-   "items": [
-    {
-     "id": "eab9beb9a1a5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Benzinga",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "This Tech Company is Giving 7,000 Employees Day Off to Play GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3dpSkJtdThVWnJHQjhxazdQX29YT25EZ2tuRVhydW91WlN6NzF1MlBtcDRFUG4zb3hnTUVQWDlLUzM2c21uUTBVczhXM2xLTkR6cUNNRGkwaUF5LThfU1FtNWdNZXVWUmJvLTJHMjhPektfNjJFbmJuYm9ZTHl1SFFjQWdXVkVEdWJCa3JtQ3pURTdrbExPcnUwODVMRGxoejR5N1ZydWNlcEc2ekItU2F5ekpuTkE?oc=5",
-     "ts": "2026-11-12T22:20:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -100716,93 +100833,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "bf5fe2cf786f",
-   "title": "Anyone else get a text to verify payment for box preorder? (Walmart)",
-   "first_seen": "2026-11-05T23:40:47Z",
-   "updated": "2026-11-05T23:40:47Z",
-   "items": [
-    {
-     "id": "bf5fe2cf786f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Anyone else get a text to verify payment for box preorder? (Walmart)",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xoxqrz/anyone_else_get_a_text_to_verify_payment_for_box/",
-     "ts": "2026-11-05T23:32:04Z",
-     "summary": "Known number for Walmart automated texts. Never got one before but also never preordered from Walmart. Not like a payment failed, just a reminder to make sure it's correct. Maybe a sign they are preparing to start coordinating the shipments? Preordered a month or so ago, just got it an hour or so ago. submitted by /u/M1996A1 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ce7ff71c3ea0",
-   "title": "I don't know if someone else painted it out but, in the button left are those the cars that are in Miami rn?.",
-   "first_seen": "2026-11-05T23:40:47Z",
-   "updated": "2026-11-05T23:40:47Z",
-   "items": [
-    {
-     "id": "ce7ff71c3ea0",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I don't know if someone else painted it out but, in the button left are those the cars that are in Miami rn?.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xoxsto/i_dont_know_if_someone_else_painted_it_out_but_in/",
-     "ts": "2026-11-05T23:34:33Z",
-     "summary": "submitted by /u/Public_Individual823 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ade2322fd56a",
-   "title": "In regards to GTA6 I know it will be one if not the biggest game of the year for most but I am not buying it....",
-   "first_seen": "2026-11-05T23:40:47Z",
-   "updated": "2026-11-05T23:40:47Z",
-   "items": [
-    {
-     "id": "ade2322fd56a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "In regards to GTA6 I know it will be one if not the biggest game of the year for most but I am not buying it....",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xoxv4e/in_regards_to_gta6_i_know_it_will_be_one_if_not/",
-     "ts": "2026-11-05T23:37:27Z",
-     "summary": "Until it gets a PC release then at least we PC players are then guaranteed 60fps or higher, I play red dead redemption 2 on PC as the Xbox One and PS4 versions are too slow and 60fps is the way to go, 30fps is too low and choppy for modern releases and also I want to see the positives and negatives on the game and if it's worth my time and money plus there is so much more I want to play than GTA6, phantom blade 0, ocarina of time remake, silent hill townfall, resident evil requiem, onimusha, chronos the new dawn etc, etc. What about you guys? Are you buying on release day, pre purchasing befor"
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T23:31:05Z",
+  "last_run": "2026-11-12T23:40:53Z",
   "last_log": [
    "rockstar_site: 0/20",
    "gnews_en: 97/100",
