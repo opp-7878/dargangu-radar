@@ -1,6 +1,110 @@
 {
  "stories": [
   {
+   "id": "84036dd9afeb",
+   "title": "«Юрент» и «БериБеру» запустили совместную акцию к выходу GTA VI",
+   "first_seen": "2026-11-12T04:31:00Z",
+   "updated": "2026-11-12T04:31:00Z",
+   "items": [
+    {
+     "id": "84036dd9afeb",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Компьютерра",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Юрент» и «БериБеру» запустили совместную акцию к выходу GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONFA2SExZZUhtSUw5VHo2YVlqaFV5THp1ek4yN0NneldQZms5WWVCd1YtVEdtN0JocUVVUjl6Y0ozVE9JMDl1dk44RHM0c28tMG9tNHBXMllQeDh5cGh6RUpjUk15RmZGTFlhS3Z4OV85N21lUkExSThXb3BUVzJaNnRGUC1pRlFZZENJUnRBUWZZeU85LXJtcE42UEVHUQ?oc=5",
+     "ts": "2026-11-11T13:04:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "958810908eb3",
+   "title": "What's one car from previous games (or a car never seen in GTA before) that you're hoping appears in GTA VI?",
+   "first_seen": "2026-11-12T04:31:00Z",
+   "updated": "2026-11-12T04:31:00Z",
+   "items": [
+    {
+     "id": "958810908eb3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What's one car from previous games (or a car never seen in GTA before) that you're hoping appears in GTA VI?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xu38zl/whats_one_car_from_previous_games_or_a_car_never/",
+     "ts": "2026-11-12T04:22:01Z",
+     "summary": "For me, it's the Dewbauchee JB 700 / Aston Martin DB5. Since Rockstar seems to have updated a lot of vehicles to look more like their real-world counterparts, I would absolutely love to see that beauty updated as well. submitted by /u/macmoosie to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "18c3deb3a4e7",
+   "title": "How long it took for y’all to download ?",
+   "first_seen": "2026-11-12T04:31:00Z",
+   "updated": "2026-11-12T04:31:00Z",
+   "items": [
+    {
+     "id": "18c3deb3a4e7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How long it took for y’all to download ?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xu3as8/how_long_it_took_for_yall_to_download/",
+     "ts": "2026-11-12T04:24:41Z",
+     "summary": "Took me 6 hours 😭🫩 Started at 10am finished at 2pm Worth it submitted by /u/rahoo129 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6a4cc0bcb4c2",
+   "title": "What collectibles will we have to chase ?",
+   "first_seen": "2026-11-12T04:31:00Z",
+   "updated": "2026-11-12T04:31:00Z",
+   "items": [
+    {
+     "id": "6a4cc0bcb4c2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What collectibles will we have to chase ?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xu3bcl/what_collectibles_will_we_have_to_chase/",
+     "ts": "2026-11-12T04:25:31Z",
+     "summary": "I'm pretty sure that we'll have to shoot specificly annoying seagulls (like the pigeons in GTA4). I bet that the stunts will be back too. Maybe some specific collectibles deep down the ocean. I like R*'s collectibles, because they're not on the mini-map, but reward your exploration in free roam. What do you guys want as collectibles ? submitted by /u/GamerWithAttitude_fr to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4fad4a52e48f",
    "title": "One week out: what does your store actually show for the unlock time? Trying to get a real list going",
    "first_seen": "2026-11-12T04:20:50Z",
@@ -97378,9 +97482,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T04:20:50Z",
+  "last_run": "2026-11-12T04:31:00Z",
   "last_log": [
-   "rockstar_site: 0/28",
+   "rockstar_site: 0/27",
    "gnews_en: 97/100",
    "gnews_ru: 98/100",
    "gamesbeat: 1/10",
