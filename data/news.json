@@ -1,6 +1,223 @@
 {
  "stories": [
   {
+   "id": "8f3dd2f1151b",
+   "title": "Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope",
+   "first_seen": "2026-11-12T12:40:55Z",
+   "updated": "2026-11-12T14:10:43Z",
+   "items": [
+    {
+     "id": "8f3dd2f1151b",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope",
+     "url": "https://www.eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar",
+     "ts": "2026-11-12T12:39:20Z",
+     "summary": "The Grand Theft Auto games have always been synonymous with America; Americana is baked into the crime series' very being. Across its history, there's only ever been one GTA game set outside America: the London-based expansion of the original game. Read more"
+    },
+    {
+     "id": "5affd82e66e0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Eurogamer.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVFpTzF0RkEwbzNDQXpjWWpMc1NIdldyN2l0WG5mLV95OUxRSHU1ZDZmdzBnd29FTTlPMExUc19VWUxNNlhkaEd3WEJBYXozaVlISHpTWU9NaTd1OWc2c2lmbGJGN1d0M20xWDVxWWREQTVNUW1IazFKOUI1bmFiR3dn?oc=5",
+     "ts": "2026-11-12T12:39:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Rockstar намекнула на GTA за пределами Америки",
+    "summary": "По данным Eurogamer, Rockstar дала небольшой намёк на то, что серия Grand Theft Auto может выйти за пределы Америки. В истории франшизы только одно дополнение к первой игре было в Лондоне.",
+    "idea": "Короткий разбор намёка Rockstar и истории серии: где уже были, куда могут поехать дальше. Зрителю интересно, потому что это редкий сдвиг для GTA.",
+    "hook": "Rockstar впервые за годы намекнула на GTA вне Америки. Серьёзно?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T12:41:00Z"
+   },
+   "msg_id": 832
+  },
+  {
+   "id": "07e0130e3d90",
+   "title": "How Might A Game Cost The UK Millions? Everything We Know About GTA 6",
+   "first_seen": "2026-11-12T14:10:43Z",
+   "updated": "2026-11-12T14:10:43Z",
+   "items": [
+    {
+     "id": "07e0130e3d90",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "HuffPost UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How Might A Game Cost The UK Millions? Everything We Know About GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONFNpRktGTnQ0RkxJTHFXdlB4ZkhoN3d3N0hqNTA3c1R3T2NvdzlTdlZLbW9hc0hVb0dpWGpCSHI1eXEyTi1nRkRZc05QbVNTb1FhRG5neS02SVpVSlltazNMRm9uOHhWTDBnODV6UnRpMU9ueWNPT0hBcUpIV2VjZjEyT2VEamU1cmstcU5oVU9vRnliQXdBUlllb1BaVDY3TXNIUy01Z1hESEsxcHhma3BrRy1RYlZ5UlptM0hEdw?oc=5",
+     "ts": "2026-11-12T14:00:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "98ec805e9cb2",
+   "title": "Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days",
+   "first_seen": "2026-11-12T14:10:43Z",
+   "updated": "2026-11-12T14:10:43Z",
+   "items": [
+    {
+     "id": "98ec805e9cb2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnN3al9qTWVlRVlMMDNuN2M0LXBCZ0stMzJ2TkpSMkRwUUhtdE5CMHRPZkkwXzRUN21uYmxBaFV4S0dfNDViaHhnbUtHQmlZZEpReGZQQ1FXTVhsRm1mUzhDeFN6SUMxRGVYNnpKWTh2aHNRVXhaMXI4b0hNcHhkaFc0VGpId1VP?oc=5",
+     "ts": "2026-11-12T14:00:43Z",
+     "summary": ""
+    },
+    {
+     "id": "bf900db907c8",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days",
+     "url": "https://insider-gaming.com/palworld-dev-gives-pocketpair-employees-day-off-gta-6/",
+     "ts": "2026-11-12T14:00:43Z",
+     "summary": "Pocketpair, the developer behind Palworld, has given all employees five days off to play Grand Theft Auto 6 next week. The post Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Разработчики Palworld дали 5 выходных ради GTA 6",
+    "summary": "Студия Pocketpair, создавшая Palworld, дала всем сотрудникам пять выходных, чтобы поиграть в GTA 6 на следующей неделе. Об этом сообщил Insider Gaming со ссылкой на пост компании.",
+    "idea": "Короткая нарезка: офис, табличка «5 дней на GTA 6», реакция чата. Зрителю интересно, потому что это редкий случай, когда студия официально ставит игру выше работы.",
+    "hook": "Студия Palworld официально дала пять выходных ради GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T14:10:47Z"
+   },
+   "msg_id": 842
+  },
+  {
+   "id": "292ad63ae706",
+   "title": "СЛИЛИ ПОЛНУЮ КАРТУ GTA 6 — она засветилась в коллекционном наборе Таких размеров она будет в игре.",
+   "first_seen": "2026-11-12T14:10:43Z",
+   "updated": "2026-11-12T14:10:43Z",
+   "items": [
+    {
+     "id": "292ad63ae706",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "СЛИЛИ ПОЛНУЮ КАРТУ GTA 6 — она засветилась в коллекционном наборе Таких размеров она будет в игре.",
+     "url": "https://t.me/gta6deluxe/2037",
+     "ts": "2026-11-12T14:06:26Z",
+     "summary": "❗️ СЛИЛИ ПОЛНУЮ КАРТУ GTA 6 — она засветилась в коллекционном наборе Таких размеров она будет в игре. Достаточно огромная? 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Слили полную карту GTA 6: засветилась в коллекционном наборе",
+    "summary": "В сети появилась полная карта GTA 6 — она засветилась в коллекционном наборе, сообщил TG @gta6deluxe. По словам канала, именно таких размеров она будет в игре.",
+    "idea": "Крупный план карты из коллекционного набора с быстрой анимацией масштаба — зрителю важно увидеть реальный размер мира GTA 6 без домыслов.",
+    "hook": "Полная карта GTA 6 засветилась в коллекционном наборе — вот её реальный размер.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T14:10:50Z"
+   },
+   "msg_id": 843
+  },
+  {
+   "id": "8f7aeddc7931",
+   "title": "Двусторонняя карта GTA VI из коллекционного издания Один из игроков уже получил свою коллекционку и показал как выглядит карта.",
+   "first_seen": "2026-11-12T14:10:43Z",
+   "updated": "2026-11-12T14:10:43Z",
+   "items": [
+    {
+     "id": "8f7aeddc7931",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Двусторонняя карта GTA VI из коллекционного издания Один из игроков уже получил свою коллекционку и показал как выглядит карта.",
+     "url": "https://t.me/GTAVIStar/877",
+     "ts": "2026-11-12T14:07:48Z",
+     "summary": "Двусторонняя карта GTA VI из коллекционного издания Один из игроков уже получил свою коллекционку и показал как выглядит карта. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "aa03e41c79ca",
+   "title": "The paper map",
+   "first_seen": "2026-11-12T14:10:43Z",
+   "updated": "2026-11-12T14:10:43Z",
+   "items": [
+    {
+     "id": "aa03e41c79ca",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The paper map",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xudoor/the_paper_map/",
+     "ts": "2026-11-12T14:08:14Z",
+     "summary": "submitted by /u/Snak3D0ct0r to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6a307f7ad4cb",
    "title": "This company wants to pay you over $100,000 to play GTA 6",
    "first_seen": "2026-11-12T13:01:14Z",
@@ -2756,43 +2973,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "8f3dd2f1151b",
-   "title": "Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope",
-   "first_seen": "2026-11-12T12:40:55Z",
-   "updated": "2026-11-12T12:40:55Z",
-   "items": [
-    {
-     "id": "8f3dd2f1151b",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope",
-     "url": "https://www.eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar",
-     "ts": "2026-11-12T12:39:20Z",
-     "summary": "The Grand Theft Auto games have always been synonymous with America; Americana is baked into the crime series' very being. Across its history, there's only ever been one GTA game set outside America: the London-based expansion of the original game. Read more"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Rockstar намекнула на GTA за пределами Америки",
-    "summary": "По данным Eurogamer, Rockstar дала небольшой намёк на то, что серия Grand Theft Auto может выйти за пределы Америки. В истории франшизы только одно дополнение к первой игре было в Лондоне.",
-    "idea": "Короткий разбор намёка Rockstar и истории серии: где уже были, куда могут поехать дальше. Зрителю интересно, потому что это редкий сдвиг для GTA.",
-    "hook": "Rockstar впервые за годы намекнула на GTA вне Америки. Серьёзно?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-12T12:41:00Z"
-   },
-   "msg_id": 832
   },
   {
    "id": "7314c84f8db7",
@@ -100213,23 +100393,23 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T14:01:36Z",
+  "last_run": "2026-11-12T14:10:51Z",
   "last_log": [
-   "rockstar_site: 0/30",
+   "rockstar_site: 0/29",
    "gnews_en: 96/100",
-   "gnews_ru: 96/100",
+   "gnews_ru: 95/100",
    "gamesbeat: 1/10",
    "vgc: 1/10",
-   "insider_gaming: 6/10",
+   "insider_gaming: 5/10",
    "ign: 1/20",
    "eurogamer: 5/100",
    "dexerto_gta: 8/50",
    "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
    "gtaboom: 14/30",
-   "reddit: 23/25",
-   "tg_gtavistar: 9/17",
+   "reddit: 22/25",
+   "tg_gtavistar: 9/16",
    "tg_gta6deluxe: 16/16",
-   "tg_gta6_m: 17/19",
+   "tg_gta6_m: 16/19",
    "tg_gta6newsdaily: 0/16"
   ],
   "digest": "2026-11-12@9",
