@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "48ef2f2a581e",
+   "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
+   "first_seen": "2026-11-12T19:10:46Z",
+   "updated": "2026-11-12T19:10:46Z",
+   "items": [
+    {
+     "id": "48ef2f2a581e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLWJhSE0ycHFDU2d0V01hUGhOWUwtOFdCRzB2YlB0THdMYktPejZVYUFxbjh0SFVoLXNLc0E4S2dORE51UG5uZ2pKbzBXZ2FjU2ZBcDQzcktoM2UxZjZVbmQxWFhNYnVrYkdMUWo0cy0tREVYQVhGU1ExZllmcWtuekdvMmx6RHZmSDhRQ0JFU3dJVUdEeTlFZ0NXd0tXR21RMU9PbGI0NHpoZm02d1JwcjNfWTVsbE1MLTVxWEVESHlkSnRwYW00dzA0SURLVlVuWkhWZDFLaGs2Nk1aLWhSQXlobkJMUWJuTWU3Vml0ekhnSEdBYWZTTUtUTy01NzZMS0hrblJQZ3M?oc=5",
+     "ts": "2026-11-12T19:06:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru,summary,idea,hook,stars"
+  },
+  {
    "id": "ac7648d08e0a",
    "title": "EB Games Has More GTA 6 DualSense Controller And Collector’s Edition Pre-Orders",
    "first_seen": "2026-11-12T10:20:52Z",
@@ -99082,9 +99110,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T19:08:33Z",
+  "last_run": "2026-11-12T19:10:50Z",
   "last_log": [
-   "rockstar_site: 0/29",
+   "rockstar_site: 0/28",
    "gnews_en: 98/100",
    "gnews_ru: 95/100",
    "gamesbeat: 0/10",
