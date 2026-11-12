@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "7e6c76c3497f",
+   "title": "30fps to 60 with Frame Interpolation TVs",
+   "first_seen": "2026-11-12T03:22:15Z",
+   "updated": "2026-11-12T03:22:15Z",
+   "items": [
+    {
+     "id": "7e6c76c3497f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "30fps to 60 with Frame Interpolation TVs",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xu2295/30fps_to_60_with_frame_interpolation_tvs/",
+     "ts": "2026-11-12T03:20:51Z",
+     "summary": "This is for those with extra money to blow who are looking for ways to get around the 30fps cap. The LG C series, among others, has frame interpolation during gaming. With low latency set to boost and jutter set to 10, you can turn a 30fps game into 60, with slightly higher input latency. With a single player game like GTA6 the latency wouldn't be too bad. I've been experimenting with it on RDR2 to get a feel on how it would be on GTA 6 and there is some artifacting when looking around, but it is far better than the stuttery motion of 30fps. It's how I'll probably be playing GTA 6, and maybe i"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f4b79d795dce",
    "title": "Travis Scott Shows Off What Appears to Be a Copy of ‘GTA 6’ Before Its Release: ‘Bring Ya Own Controller’",
    "first_seen": "2026-11-11T20:58:18Z",
@@ -97270,7 +97296,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T03:20:56Z",
+  "last_run": "2026-11-12T03:22:15Z",
   "last_log": [
    "rockstar_site: 0/28",
    "gnews_en: 97/100",
@@ -97283,7 +97309,7 @@
    "dexerto_gta: 7/50",
    "rockstarintel: 9/10",
    "gtaboom: 14/30",
-   "reddit: 20/25",
+   "reddit: 21/25",
    "tg_gtavistar: 7/17",
    "tg_gta6deluxe: 17/17",
    "tg_gta6_m: 17/19",
