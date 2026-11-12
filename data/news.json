@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "6e4aa7144216",
+   "title": "Rockstar workers vote on union recognition as GTA VI launch looms",
+   "first_seen": "2026-11-12T11:10:49Z",
+   "updated": "2026-11-12T11:10:49Z",
+   "items": [
+    {
+     "id": "6e4aa7144216",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Register",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar workers vote on union recognition as GTA VI launch looms",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEFUbWVENy1VMzctX0dSSDZzN2FlMlU5VWxfb1BzdVpRTGN0R1lZc2NBOTJ4WFBoMFIyZWI2SkZwemZJd3FiNjhsTjFwUkZkMExUbG9Pd3ZMSEtaU2xlTHlBQzhwemxtYWgwaXVzbWJLSmxkajZycHZfU3RaTmxVOFdqdVU4VXBsZXBXejYyZVNOQ0RleEJJbHhSS2NwRXhORF9yQ2ZTaFVPY2xPMXBBa2R0ZDh1RGNjN1RVQ1pn?oc=5",
+     "ts": "2026-11-12T11:01:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "10920c832cbc",
+   "title": "Whyyyy does it have to come out on a Thursday?",
+   "first_seen": "2026-11-12T11:10:49Z",
+   "updated": "2026-11-12T11:10:49Z",
+   "items": [
+    {
+     "id": "10920c832cbc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Whyyyy does it have to come out on a Thursday?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xua1vw/whyyyy_does_it_have_to_come_out_on_a_thursday/",
+     "ts": "2026-11-12T11:08:44Z",
+     "summary": "Uni is ramping up and I cannot be missing any more classes this semester, meaning I will be forced to go through a whole day of classes just thinking about nothing but GTA6. That alone might not be so bad if I didn’t also have to go to bed early the day it comes out to do ANOTHER day of school before having any true free time to play. To make matters even worse, this week is read in week meaning that if they had just dropped it a week earlier, I would have had an entire week off to play GTA6 but NOOOooooOoo fuck me I guess, just drop it on a weekday while everyone is getting close to finals. F"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d80d9a0250f0",
    "title": "Take-Two CEO Strauss Zelnick is betting on Grand Theft Auto VI",
    "first_seen": "2026-11-11T14:20:52Z",
@@ -99101,9 +99153,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T11:01:37Z",
+  "last_run": "2026-11-12T11:10:49Z",
   "last_log": [
-   "rockstar_site: 0/29",
+   "rockstar_site: 0/30",
    "gnews_en: 97/100",
    "gnews_ru: 96/100",
    "gamesbeat: 1/10",
@@ -99113,7 +99165,7 @@
    "eurogamer: 4/100",
    "dexerto_gta: 6/50",
    "rockstarintel: 9/10",
-   "gtaboom: 15/30",
+   "gtaboom: 14/30",
    "reddit: 21/25",
    "tg_gtavistar: 9/17",
    "tg_gta6deluxe: 17/17",
