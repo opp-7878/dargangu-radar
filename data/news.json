@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "5d2e10e1f7a4",
+   "title": "Xbox одновременно хвалят и критикуют за возможность играть в GTA 6 через Cloud Gaming",
+   "first_seen": "2026-11-12T04:10:49Z",
+   "updated": "2026-11-12T04:10:49Z",
+   "items": [
+    {
+     "id": "5d2e10e1f7a4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Newxboxone",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Xbox одновременно хвалят и критикуют за возможность играть в GTA 6 через Cloud Gaming",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaklrTlhQa2J4YUxEbnAzRUdoalk0cGZHWERDR0M2MEVhbk1vYm1hckMyRDFiTW15UWFNeFpmRFlEZ2JGVWpTZ21NZHlOZE1YS0p4VDRiRXdERU9xdHhrZXRQYW1pa05uOVFfcHBPSmFlWHN5WHVjdVZoMVJuQ1c5aFE3amxjQ2RnYjZjUWo5dElvMUJFczZKUGpJWGRpNTdYTEZwUGtsbkdSTDJaNWdPSnI3VHFiOTZfY0hnNU80Zw?oc=5",
+     "ts": "2026-11-12T04:03:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d51d6838555e",
+   "title": "Cancelled my preorder",
+   "first_seen": "2026-11-12T04:10:49Z",
+   "updated": "2026-11-12T04:10:49Z",
+   "items": [
+    {
+     "id": "d51d6838555e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Cancelled my preorder",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xu2xv3/cancelled_my_preorder/",
+     "ts": "2026-11-12T04:05:45Z",
+     "summary": "Okay.. Maybe click bait but i decided i really don’t want to miss out on the poster and the case, I see a lot of people making fun of others, wanting the case as well, but for me, I love having something to look at that reminds me of the game. And I would rather not pay a dollar plus shipping for a damn poster. I hope others agree with me. submitted by /u/Impossible-Air-6695 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "32eb35f77d21",
    "title": "GTA 6 Fans Think a Beloved Legacy Character from a Previous Game Is Hiding in the Latest Trailer",
    "first_seen": "2026-11-11T07:10:49Z",
@@ -97292,39 +97346,13 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c4ef4b689b09",
-   "title": "Free trip to F1, but it’s on November 18-22",
-   "first_seen": "2026-11-05T04:10:48Z",
-   "updated": "2026-11-05T04:10:48Z",
-   "items": [
-    {
-     "id": "c4ef4b689b09",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Free trip to F1, but it’s on November 18-22",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xo97nb/free_trip_to_f1_but_its_on_november_1822/",
-     "ts": "2026-11-05T04:10:15Z",
-     "summary": "Company is paying for all inclusive trip to Las Vegas to see F1 on the Strip. Hardest “yes” I’ve had to say. I’m excited but so conflicted. Yes I am taking my PS5 Pro with me. submitted by /u/pryvisee to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T04:01:12Z",
+  "last_run": "2026-11-12T04:10:49Z",
   "last_log": [
-   "rockstar_site: 0/28",
+   "rockstar_site: 0/27",
    "gnews_en: 97/100",
    "gnews_ru: 98/100",
    "gamesbeat: 1/10",
@@ -97335,7 +97363,7 @@
    "dexerto_gta: 7/50",
    "rockstarintel: 9/10",
    "gtaboom: 14/30",
-   "reddit: 23/25",
+   "reddit: 21/25",
    "tg_gtavistar: 7/17",
    "tg_gta6deluxe: 17/17",
    "tg_gta6_m: 17/19",
