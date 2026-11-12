@@ -1,6 +1,507 @@
 {
  "stories": [
   {
+   "id": "0f731ee1e506",
+   "title": "The GTA 6 flu is coming for office attendance on Nov. 19",
+   "first_seen": "2026-11-12T19:40:41Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "0f731ee1e506",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Human Resources Director",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The GTA 6 flu is coming for office attendance on Nov. 19",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQVNWWGdGNTVaQVZkMWlHSmtvbS1YcG1LelhzSXhUNV9MdDg3WjBqdDFmYVZBVmdKbkoxWXlOd0pITzVkTHl6YXJuREl4Y1ZrNS1hcUZ0T1Uyb3RESk1mbW45TGl2OVNqbE5zSE5PMkk3MHZjdC10TUxDYUVtUUdiSlZ4N1lVbmJ1andZTWtmQ3pPTzFGUkZzZEtqcFdidkd0N3NtdjRIckhFQjFJaEE5Z29nYndNVXpVbmVRdmlNTQ?oc=5",
+     "ts": "2026-11-12T19:29:14Z",
+     "summary": ""
+    },
+    {
+     "id": "8bd3e4969e5e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Human Resources Director",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The GTA 6 flu is coming for office attendance on Nov. 19",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRXNaV0hQbTU2dmlYdDZtYXBFOHBzejdKUldfX3lQWVdfWDVWZ3YtZmVuM25ta1pySE9TWGZRdWVXMnFZRTBjeWJiazNzc256VklycnRJcWo3R01wb1p5RC1pWDZEWXZhY1lSYkZjVGQyRV8yQzlOVmVLNGV1V2RVZG1lNmJOS2dIaG5uN25HODFnYUhEbTRpM1R1Sl8wYXZhNWw0?oc=5",
+     "ts": "2026-11-12T19:29:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4660d6cd6e94",
+   "title": "Kalshi says it's hiring a 'GTA 6' researcher to study the game's economy",
+   "first_seen": "2026-11-12T18:40:55Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "4660d6cd6e94",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable SEA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Kalshi says it's hiring a 'GTA 6' researcher to study the game's economy",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjAza1FDZHQ2VllydkNrMEQ0Q2hlZmQ3ZWY3Szk1TE5sd1VLSHVWN3NFRFZXMUVvU19ZLTkxUWgtWVEzRlE2MXRUYVFNaDdJMWJNbjhNelp5X2V1UjBrcVhJTjNSOFBrUDZyR3ZDN2FndDNNWHprYnJ1OXhYbjJBaGxuSjM2Nk1OajNkbVlQS19yTnQ0RDZvdHhuNEE3Q3VxdUlxMEs0RQ?oc=5",
+     "ts": "2026-11-12T18:06:36Z",
+     "summary": ""
+    },
+    {
+     "id": "1482d51e643c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Kalshi says it's hiring a 'GTA 6' researcher to study the game's economy",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1RmFTR0VxS3RUWFFHOENGTWQxeUVLZW9nWnJNRF9KMFVkT3YzTnUxa2FEVkdtQ1NtMDhucktOR2VhaXVSZkc5TDFocTNnRnRLZlRVd0ItQ3I1OEVzMnhQYU1yMmgtbndtNWNfR0lpcERUaEZLSHh4LUZn?oc=5",
+     "ts": "2026-11-12T19:34:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Биржа Kalshi нанимает исследователя экономики GTA 6",
+    "summary": "Биржа предсказаний Kalshi ищет исследователя для изучения экономики GTA 6, следует из вакансии. Компания хочет проанализировать внутриигровые рынки и их связь с реальными ожиданиями, пишет Mashable.",
+    "idea": "Сравним экономику GTA 6 с реальными прогнозами биржи Kalshi — где игроки заработают больше. Зрителю интересно, как внутриигровые деньги соотносятся с реальными ставками.",
+    "hook": "Биржа Kalshi нанимает аналитика по экономике GTA 6 — зачем это им?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T19:51:25Z"
+   },
+   "msg_id": 871
+  },
+  {
+   "id": "a0c9e346dbbb",
+   "title": "Anyone complaining about 30 fps didn’t come from this era",
+   "first_seen": "2026-11-12T18:31:08Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "a0c9e346dbbb",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Anyone complaining about 30 fps didn’t come from this era",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xukeci/anyone_complaining_about_30_fps_didnt_come_from/",
+     "ts": "2026-11-12T18:22:41Z",
+     "summary": "submitted by /u/bborg03 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "3092d1dfd676",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Anyone complaining about 30 FPS didn’t come from this era.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xumqwx/anyone_complaining_about_30_fps_didnt_come_from/",
+     "ts": "2026-11-12T19:49:24Z",
+     "summary": "submitted by /u/CafeRoaster to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1237aa3b75af",
+   "title": "Во всем мире берут отпуск ради GTA VI. Но не в Екатеринбурге",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "1237aa3b75af",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "66.RU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Во всем мире берут отпуск ради GTA VI. Но не в Екатеринбурге",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1Z1bGtkVUNkbm15Wi1oNVBuRTY4eVFXaEZ5QXM4WUpJM1pqMU5nN0dUYkNuRDhOUG1IeW8wbjR4NEt4Ynl1MTdxY29nSGJuTW9hV1dMUC1hR3FzdDhXYTRidmI0TEdNdjdEUzJ0U05PSGFJMWdIbGFqMEtUcW1ZX3BnLU9MM2lzT3NzQkRZQzRCTkdT?oc=5",
+     "ts": "2026-11-12T06:35:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "785ce7be169b",
+   "title": "Thoughts on 60 FPS on the Extended Look?",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "785ce7be169b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Thoughts on 60 FPS on the Extended Look?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xucra1/thoughts_on_60_fps_on_the_extended_look/",
+     "ts": "2026-11-12T13:28:24Z",
+     "summary": "Personally, I don’t mind the 30FPS now. I’d love it to be 60 sure, but I’m not going to cry over it. I’m not sure how many people on this Reddit has seen a close resemblance on the 60fps comparison. submitted by /u/Major-Quote6172 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c25afc580084",
+   "title": "PlayStation Korea posts 60-second GTA VI film The Wait Is Over, plus limited DualSense editions at 129,000 won",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "c25afc580084",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "PlayStation Korea posts 60-second GTA VI film The Wait Is Over, plus limited DualSense editions at 129,000 won",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xud5vt/playstation_korea_posts_60second_gta_vi_film_the/",
+     "ts": "2026-11-12T13:46:39Z",
+     "summary": "PlayStation Korea has posted a 60-second Grand Theft Auto VI launch film for the Korean campaign 기다림은 끝났다, which its blog gives in English as The Wait Is Over. The campaign is timed one week before the 19 November PS5 release. The film is on the PlayStation Korea YouTube channel, titled \"PS5 I Grand Theft Auto VI - 기다림은 끝났다 (4K)\". It went up at 1:00am GMT on 12 November. The blog says the film follows chef Choi Kangrok (최강록), Jay Park (박재범), Ohyul and Ryul of LNGSHOT (오율과 률), Chodan and Magenta of QWER (쵸단과 마젠타), and esports caster Seong Seungheon (성승헌). As the blog describes it, they are goin"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5e0a3ffedec4",
+   "title": "Can somebody help me",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "5e0a3ffedec4",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Can somebody help me",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xufb07/can_somebody_help_me/",
+     "ts": "2026-11-12T15:13:03Z",
+     "summary": "I bought gta 6 Ultimate Edition but it only shows extra 2 extra 3 extra 4 and extra 5 but if i see the download of other people it also says extra Grand Theft Auto VI: Ultimate Edition-upgrade Grand Theft Auto VI: Vintage Vice City-pack Story How can i fix this submitted by /u/Beneficialwomanizer to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3a984dd5ee55",
+   "title": "GTA 6 launches without the “You’re too early” message on Xbox today",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "3a984dd5ee55",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 launches without the “You’re too early” message on Xbox today",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xufu3m/gta_6_launches_without_the_youre_too_early/",
+     "ts": "2026-11-12T15:33:48Z",
+     "summary": "Switched my Xbox Series X to New Zealand today and tried launching it. Surprisingly, no “You’re too early” message. It just sits on the GTA 6 splash screen. Pressing A takes me back to the dashboard. Obviously not playable yet, but kinda interesting. Anyone else tried this? submitted by /u/Impressive_Donkey_57 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "603a71d0e41c",
+   "title": "Is gamestop giving away anything for gta 6 ?",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "603a71d0e41c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Is gamestop giving away anything for gta 6 ?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xugkg1/is_gamestop_giving_away_anything_for_gta_6/",
+     "ts": "2026-11-12T16:01:24Z",
+     "summary": "I just wanna know so I can show up before they open. If not I'll go later on and get some Chipotle across the street 🤷‍♂️ submitted by /u/bigboir32 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c698fcbe5602",
+   "title": "How to get Microsoft to charge my card for gta6",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "c698fcbe5602",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How to get Microsoft to charge my card for gta6",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xuhbt1/how_to_get_microsoft_to_charge_my_card_for_gta6/",
+     "ts": "2026-11-12T16:30:05Z",
+     "summary": "So I bought GTA sixth Deluxe edition on the 29th of October I was one cent short on the day they tried to take out the money 10 days before release and I'm just wondering are they gonna try to charge again cause I can't really cancel my free order on the store since it says I own the Deluxe edition so my question Is Microsoft gonna charge my card before the f****** game comes out submitted by /u/Desperate-Meat-8823 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "090c1a6b5703",
+   "title": "Me after redeeming GTA VI's code and selling its empty box and poster to a willing buyer",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "090c1a6b5703",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Me after redeeming GTA VI's code and selling its empty box and poster to a willing buyer",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xuhsmm/me_after_redeeming_gta_vis_code_and_selling_its/",
+     "ts": "2026-11-12T16:47:32Z",
+     "summary": "submitted by /u/FroggyTonic to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "82e3d5878e22",
+   "title": "trying too gameshare gta6 but not working.",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "82e3d5878e22",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "trying too gameshare gta6 but not working.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xui90n/trying_too_gameshare_gta6_but_not_working/",
+     "ts": "2026-11-12T17:04:05Z",
+     "summary": "i’m having this problem, my friend pre ordered gta6, and he’s gamesharing with me, but when i go too his account gta6 doesn’t even show in his library, and even if i go too the store, it doesn’t even show that he purchased it. but another thing is, when i go on the ps app and look at what friends pre ordered it, it says he did. yes i have perms and logged in, is anyone else having this problem? submitted by /u/Disastrous_Ease937 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3c88b08b805e",
+   "title": "I'm joining y'all! What's your first mission?",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "3c88b08b805e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I'm joining y'all! What's your first mission?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xumio5/im_joining_yall_whats_your_first_mission/",
+     "ts": "2026-11-12T19:40:50Z",
+     "summary": "submitted by /u/One_Appointment_7246 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "977900833a59",
+   "title": "Nvidia CEO Scandal: What It Could Mean For GTA VI & The Future Of Gaming | The Craig Carton Show",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "977900833a59",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Fox News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Nvidia CEO Scandal: What It Could Mean For GTA VI & The Future Of Gaming | The Craig Carton Show",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRQ1VVRWtlWUdXTVRUTmZPWXdzYmN1MV9nalp3cGhQdk5jM2MxeDhBUlRJX2MtdGNPWEVQRUl4eFBRVlBKYy1tQTJsU2NMcEZtbEpSNXZR?oc=5",
+     "ts": "2026-11-12T19:41:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fd78752dcb40",
+   "title": "W Walmart Pre Order",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "fd78752dcb40",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "W Walmart Pre Order",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xumkn8/w_walmart_pre_order/",
+     "ts": "2026-11-12T19:42:52Z",
+     "summary": "Just got delivered with some free goodies courtesy of Walmart 🔥🔥🔥 submitted by /u/Arback101 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "63d3e1301a69",
+   "title": "Seriously Amazon 1 week later for a code in a box!😂",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "63d3e1301a69",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Seriously Amazon 1 week later for a code in a box!😂",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xumo3v/seriously_amazon_1_week_later_for_a_code_in_a_box/",
+     "ts": "2026-11-12T19:46:33Z",
+     "summary": "My order was showing this morning coming out today then at noon I received that message,i busted laughing and cancelled my order,i’m one of the minority that wanted the code in a Box just to frame the poster for my game room,i took the bus and got to EB Games instead to get it submitted by /u/jpeeno33 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "42f3a2b65ee2",
+   "title": "Bag secured (GameStop)",
+   "first_seen": "2026-11-12T19:51:20Z",
+   "updated": "2026-11-12T19:51:20Z",
+   "items": [
+    {
+     "id": "42f3a2b65ee2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Bag secured (GameStop)",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xumqs1/bag_secured_gamestop/",
+     "ts": "2026-11-12T19:49:16Z",
+     "summary": "Can't wait to get home and preload it! Does anyone know if we can preload the Ultimate Edition upgrade, or do we have to wait until next week for that? submitted by /u/kyle429 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "размер/preload",
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d799baca1764",
    "title": "Walmart Delivery and Extras",
    "first_seen": "2026-11-12T12:40:55Z",
@@ -127,32 +628,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0f731ee1e506",
-   "title": "The GTA 6 flu is coming for office attendance on Nov. 19",
-   "first_seen": "2026-11-12T19:40:41Z",
-   "updated": "2026-11-12T19:40:41Z",
-   "items": [
-    {
-     "id": "0f731ee1e506",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Human Resources Director",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The GTA 6 flu is coming for office attendance on Nov. 19",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQVNWWGdGNTVaQVZkMWlHSmtvbS1YcG1LelhzSXhUNV9MdDg3WjBqdDFmYVZBVmdKbkoxWXlOd0pITzVkTHl6YXJuREl4Y1ZrNS1hcUZ0T1Uyb3RESk1mbW45TGl2OVNqbE5zSE5PMkk3MHZjdC10TUxDYUVtUUdiSlZ4N1lVbmJ1andZTWtmQ3pPTzFGUkZzZEtqcFdidkd0N3NtdjRIckhFQjFJaEE5Z29nYndNVXpVbmVRdmlNTQ?oc=5",
-     "ts": "2026-11-12T19:29:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -1289,32 +1764,6 @@
    "msg_id": 842
   },
   {
-   "id": "4660d6cd6e94",
-   "title": "Kalshi says it's hiring a 'GTA 6' researcher to study the game's economy",
-   "first_seen": "2026-11-12T18:40:55Z",
-   "updated": "2026-11-12T18:40:55Z",
-   "items": [
-    {
-     "id": "4660d6cd6e94",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable SEA",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Kalshi says it's hiring a 'GTA 6' researcher to study the game's economy",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjAza1FDZHQ2VllydkNrMEQ0Q2hlZmQ3ZWY3Szk1TE5sd1VLSHVWN3NFRFZXMUVvU19ZLTkxUWgtWVEzRlE2MXRUYVFNaDdJMWJNbjhNelp5X2V1UjBrcVhJTjNSOFBrUDZyR3ZDN2FndDNNWHprYnJ1OXhYbjJBaGxuSjM2Nk1OajNkbVlQS19yTnQ0RDZvdHhuNEE3Q3VxdUlxMEs0RQ?oc=5",
-     "ts": "2026-11-12T18:06:36Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "b3addc4aedbc",
    "title": "Gold dress mission",
    "first_seen": "2026-11-12T18:40:55Z",
@@ -1360,32 +1809,6 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xukry0/this_week_taking_way_too_long_to_pass/",
      "ts": "2026-11-12T18:36:50Z",
      "summary": "Longest week of the decade submitted by /u/North-Assistant-420 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a0c9e346dbbb",
-   "title": "Anyone complaining about 30 fps didn’t come from this era",
-   "first_seen": "2026-11-12T18:31:08Z",
-   "updated": "2026-11-12T18:31:08Z",
-   "items": [
-    {
-     "id": "a0c9e346dbbb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Anyone complaining about 30 fps didn’t come from this era",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xukeci/anyone_complaining_about_30_fps_didnt_come_from/",
-     "ts": "2026-11-12T18:22:41Z",
-     "summary": "submitted by /u/bborg03 to r/GTAVI [link] [comments]"
     }
    ],
    "tags": [],
@@ -99069,208 +99492,24 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "5c613e20370e",
-   "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
-   "first_seen": "2026-11-05T13:50:45Z",
-   "updated": "2026-11-05T19:50:52Z",
-   "items": [
-    {
-     "id": "5c613e20370e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PC Gamer",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHNIWHRXOVMwWUk5UnNFMlZleXNsSDlHank2bzJ3eGtoN1dIUVVWbnRzd0ljUEw4T1BmRTFNMzlBUFZ2ZG1wSGQ2cVdpMEl6MnIwWVA0bTQxQ0FKZ3RXTjFTSzI4enNLMDNrbmhPQnJxUnZFdGJ5T0NyZlVSRG1UYW1aMEVRdDZta2Z6SUMxbGkxU3BVa2pZUDJxZDZVSWxZZFRVRDZIOFk3T2RDWUhrNllnd1prT1hoOTVvVHZ2T0o?oc=5",
-     "ts": "2026-11-05T12:12:38Z",
-     "summary": ""
-    },
-    {
-     "id": "ddf62ecc1fd7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "AMD FSR 4.1 arrives on Xbox just in time for GTA 6!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xojn8z/amd_fsr_41_arrives_on_xbox_just_in_time_for_gta_6/",
-     "ts": "2026-11-05T14:12:22Z",
-     "summary": "Pretty awesome timing. AMD’s FSR 4.1.2 has just been made available to Xbox developers, right before GTA 6 releases. From what I’ve read, it’s a pretty big improvement over previous versions, especially when it comes to image quality, reducing ghosting and shimmering, and potentially improving performance by rendering at a lower resolution and upscaling. However Rockstar hasn’t confirmed they’ll be using it, but you’d hope they’d take advantage of it given the timing. I’m really hoping this could help make a 40fps mode possible on Series X, especially for those of us with 120Hz TVs. Although I"
-    },
-    {
-     "id": "0e5b1c7fbf9f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "HotHardware",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Xbox Consoles Get AMD FSR 4.1.2 AI Upscaling Ahead Of GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmV3bkV5UUw5QVg2MldWSGZvb2k1YXp5LU1TOTJ3NWlINEh1MVVmbG8xcGxRSDlXTWRlU3U1b1p2ZzZzQXlrNlZwRXBqT3pKRW1YakFYblVKMkNTLXY0TFpuUEhwRXNRcGMyM3drWkZnZVFRVmwzVnItYWNEb3ZFNnU1cXBwa1F6enROdFBuYw?oc=5",
-     "ts": "2026-11-05T18:40:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 96,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "FSR 4.1.2 на Xbox: что это значит для GTA 6",
-    "summary": "По данным PC Gamer, AMD выпустила FSR 4.1.2 для Xbox и портативных Xbox. Технология может улучшить производительность и картинку в больших играх, включая GTA 6.",
-    "idea": "Коротко показываем, что даёт FSR 4.1.2 на Xbox, и связываем с GTA 6: стабильные FPS и чёткая картинка на консолях.",
-    "hook": "FSR 4.1.2 уже на Xbox — и это прямо перед GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-05T13:50:49Z"
-   },
-   "msg_id": 531
-  },
-  {
-   "id": "0c59879601fa",
-   "title": "Made a \"less than 2 weeks left\" Key Lime Pie in celebration",
-   "first_seen": "2026-11-05T19:50:52Z",
-   "updated": "2026-11-05T19:50:52Z",
-   "items": [
-    {
-     "id": "0c59879601fa",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Made a \"less than 2 weeks left\" Key Lime Pie in celebration",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xosbfw/made_a_less_than_2_weeks_left_key_lime_pie_in/",
-     "ts": "2026-11-05T19:47:31Z",
-     "summary": "Tuning all my senses for Leonida. The pie itself was sour and sweet. I'm a bit sour for 30fps but overall everything's sweet, beautiful and edible. submitted by /u/arhippa98 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7328a39c325f",
-   "title": "Looking forward to situations like this!",
-   "first_seen": "2026-11-05T19:50:52Z",
-   "updated": "2026-11-05T19:50:52Z",
-   "items": [
-    {
-     "id": "7328a39c325f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Looking forward to situations like this!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xosbz2/looking_forward_to_situations_like_this/",
-     "ts": "2026-11-05T19:48:06Z",
-     "summary": "submitted by /u/BoredHustler to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d214b2eac591",
-   "title": "The song from the GTAVI Cover Art Reveal sampled the Vice City Mission Passed Theme!",
-   "first_seen": "2026-11-05T19:50:52Z",
-   "updated": "2026-11-05T19:50:52Z",
-   "items": [
-    {
-     "id": "d214b2eac591",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "The song from the GTAVI Cover Art Reveal sampled the Vice City Mission Passed Theme!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xosci5/the_song_from_the_gtavi_cover_art_reveal_sampled/",
-     "ts": "2026-11-05T19:48:40Z",
-     "summary": "submitted by /u/PoshVolt to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "fa608c7bfb21",
-   "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
-   "first_seen": "2026-11-05T16:31:04Z",
-   "updated": "2026-11-05T19:40:46Z",
-   "items": [
-    {
-     "id": "fa608c7bfb21",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "USA Today",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjQ3a2pXNXpvQ0c3Tm1ramdpZ19UakQ0Q3BZU211bFpWMUhoYnNOTmFwS2R5bkV3UzlaTVlBLTJMdGZuZ2ZGVklnaDhLS1VCYkQ3ZGRmN2lpeV9RX0laTS00cFRUSTRoN2dNNmVyVlY2YnhoTkNnb1dXR0J6UVlXQS0zZGRPX0w5NkZpMF9fU2JPUWV2cEFVdEhsVy1qOE4zX2ZueEgwS3pJVzItbmdz?oc=5",
-     "ts": "2026-11-05T16:27:26Z",
-     "summary": ""
-    },
-    {
-     "id": "5217ec05a529",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "azcentral.com and The Arizona Republic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkkxeHFaUWtvOEVxSHlCZDlhM19BTHBtR3E0bXN5MmVRakp6MUFHS290T2pEQkJtTGhVZlU5MWdnaDJqWUg2R2puZS1UczJMYWJoVUNabVo1bllobG5uUURlNzdsLUhqU1VKQVlUUUhKMDFFcGRuVWtoeVBFUkw1Yl9UY3lHeDRJZVRMaGtlcVM1RHhYRENERXJZcFNDNFVYTkNPb2RlNmFvMTUyMVdfaw?oc=5",
-     "ts": "2026-11-05T16:33:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T19:40:45Z",
+  "last_run": "2026-11-12T19:51:25Z",
   "last_log": [
-   "rockstar_site: 0/29",
+   "rockstar_site: 0/27",
    "gnews_en: 97/100",
-   "gnews_ru: 93/100",
+   "gnews_ru: 95/100",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 2/10",
    "ign: 3/20",
    "eurogamer: 2/100",
    "dexerto_gta: 8/50",
-   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
+   "rockstarintel: 8/10",
    "gtaboom: 15/30",
-   "reddit: 20/25",
+   "reddit: 21/25",
    "tg_gtavistar: 11/17",
    "tg_gta6deluxe: 14/14",
    "tg_gta6_m: 16/19",
