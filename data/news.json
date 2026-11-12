@@ -1,6 +1,95 @@
 {
  "stories": [
   {
+   "id": "0f20a6e9ff21",
+   "title": "Пальмы Вайс-Сити и пермский мишка: клуб «Парма» показал новую форму, которую приурочил к выходу GTA 6",
+   "first_seen": "2026-11-12T10:31:18Z",
+   "updated": "2026-11-12T10:31:18Z",
+   "items": [
+    {
+     "id": "0f20a6e9ff21",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Собака.ru — Журнал о людях в Петербурге",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Пальмы Вайс-Сити и пермский мишка: клуб «Парма» показал новую форму, которую приурочил к выходу GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5dmMwRzRqaU5TWWVmYXZJNjRVdUhlSldFckplbnRTUTROV2Z3SVJWdGI4RGVPYi12eEdOUkUyS2JJNmhtamx2MkxBeW5vTTliWWszWE1BQVF1UHFtNUtR?oc=5",
+     "ts": "2026-11-12T10:25:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e80106e6b958",
+   "title": "слово «жену» лишнее",
+   "first_seen": "2026-11-12T10:31:18Z",
+   "updated": "2026-11-12T10:31:18Z",
+   "items": [
+    {
+     "id": "e80106e6b958",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "слово «жену» лишнее",
+     "url": "https://t.me/gta6deluxe/2030",
+     "ts": "2026-11-12T10:29:01Z",
+     "summary": "слово «жену» лишнее"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В слитом диалоге GTA 6 слово «жену» оказалось лишним",
+    "summary": "По сообщению канала @gta6deluxe, в слитом диалоге GTA 6 слово «жену» выглядит лишним по контексту. Речь идёт о фрагменте текста, который обсуждают в сообществе.",
+    "idea": "Короткий разбор странной фразы из диалога с выделением слова «жену» и смысловой запинки. Зрителю интересно, потому что это живая деталь сценария и повод поспорить о правдоподобности.",
+    "hook": "Слово «жену» в диалоге GTA 6 явно не на своём месте — смотри.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-12T10:31:21Z"
+   },
+   "msg_id": 828
+  },
+  {
+   "id": "fce728f6197a",
+   "title": "The weather system could make GTA 6 even more immersive",
+   "first_seen": "2026-11-12T10:31:18Z",
+   "updated": "2026-11-12T10:31:18Z",
+   "items": [
+    {
+     "id": "fce728f6197a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The weather system could make GTA 6 even more immersive",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xu9e5y/the_weather_system_could_make_gta_6_even_more/",
+     "ts": "2026-11-12T10:30:13Z",
+     "summary": "Imagine a sudden thunderstorm changing how people drive, behave and react around the city. submitted by /u/SweetAd2264 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ac7648d08e0a",
    "title": "EB Games Has More GTA 6 DualSense Controller And Collector’s Edition Pre-Orders",
    "first_seen": "2026-11-12T10:20:52Z",
@@ -98698,9 +98787,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T10:20:52Z",
+  "last_run": "2026-11-12T10:31:22Z",
   "last_log": [
-   "rockstar_site: 0/28",
+   "rockstar_site: 0/31",
    "gnews_en: 97/100",
    "gnews_ru: 96/100",
    "gamesbeat: 1/10",
@@ -98712,7 +98801,7 @@
    "rockstarintel: 9/10",
    "gtaboom: 15/30",
    "reddit: 20/25",
-   "tg_gtavistar: 9/17",
+   "tg_gtavistar: 8/17",
    "tg_gta6deluxe: 17/17",
    "tg_gta6_m: 18/19",
    "tg_gta6newsdaily: 0/16"
