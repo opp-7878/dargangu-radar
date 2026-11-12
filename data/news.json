@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "d5d4b92a5fc3",
+   "title": "CFX Download: Cable Preps for ‘GTA VI’ Fever",
+   "first_seen": "2026-11-12T00:31:05Z",
+   "updated": "2026-11-12T00:31:05Z",
+   "items": [
+    {
+     "id": "d5d4b92a5fc3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Cablefax",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "CFX Download: Cable Preps for ‘GTA VI’ Fever",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTGktRmF6OWw3YlB2QmFXRHp2cFlKS2o5dVl1S19lMDluaWtNVVJEblJfSkdhbEpzc1dmdVFaTGkyaDBkZU8xY3RBSHNzQTZQT01zWjZ2b3ZONlM1UVpEYkprZHVQdjZJRnhYYURoVVlKV1BTRS1GRk8xQ2FmUEthaGx5WFRBUQ?oc=5",
+     "ts": "2026-11-11T22:37:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e18fa2d8707d",
    "title": "Grand Theft Auto VI preorders cross $1B | analyst roundup",
    "first_seen": "2026-11-11T22:01:18Z",
@@ -96805,39 +96831,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "299a9fe197bd",
-   "title": "Reminder: Check your actual timezone/region for GTA 6",
-   "first_seen": "2026-11-05T00:30:57Z",
-   "updated": "2026-11-05T00:30:57Z",
-   "items": [
-    {
-     "id": "299a9fe197bd",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Reminder: Check your actual timezone/region for GTA 6",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xo4na5/reminder_check_your_actual_timezoneregion_for_gta/",
-     "ts": "2026-11-05T00:26:26Z",
-     "summary": "I’ve been seeing a lot of confusion on this lately, and just wanted to throw this reminder out: yes, there is a global midnight release, however, some places are doing a “region” release, so for example, people on the east coast in America (EST) will be getting the release on 11/19/2026 at midnight, while those on the west coast in America (PST) get the release on 11/18/2026 at 9:00 PM. Below is a direct copy-paste from IGN’s article they released yesterday for both PS5/XBOX consoles, and preload/release times. **GTA 6 preload global release times:** **PS5** Los Angeles: 9pm PST (November 9) D"
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-12T00:20:54Z",
+  "last_run": "2026-11-12T00:31:05Z",
   "last_log": [
    "rockstar_site: 0/26",
    "gnews_en: 98/100",
