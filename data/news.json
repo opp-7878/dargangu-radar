@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "f1ca42561b2e",
+   "title": "Фейковая GTA 6 от мошенников: кража данных карт, паролей и криптокошельков",
+   "first_seen": "2026-11-13T07:20:49Z",
+   "updated": "2026-11-13T07:20:49Z",
+   "items": [
+    {
+     "id": "f1ca42561b2e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Финансы Mail",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Фейковая GTA 6 от мошенников: кража данных карт, паролей и криптокошельков",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2xEd3ZYX0l6UEE5U3BuMmFVNGs5MGFOMmVVU09Rc2JaMjZkYUJoY2ZGTllvczh1QU1pekZJSHpaS2dwa29hXzJ6N0xaa1Y3Y2owWjRPVzlPamx6a3AycW1wNmVWVmI4TjEtWTVoWVlmV0x5Qm1vT3g3RmpXNTNzUlhubjZDdUFubk1BWlplVFFqR2ZnVU9TcVpaaExfeEVDa2duVTV5M3ZwT2t4V1E1NDAwcjl6QWZtbTdESg?oc=5",
+     "ts": "2026-11-13T07:16:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ac7648d08e0a",
    "title": "Take-Two CEO Says Physical Games Still Have a Future",
    "first_seen": "2026-11-12T10:20:52Z",
@@ -101835,7 +101861,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T07:10:46Z",
+  "last_run": "2026-11-13T07:20:49Z",
   "last_log": [
    "rockstar_site: 0/8",
    "gnews_en: 95/100",
@@ -101848,7 +101874,7 @@
    "dexerto_gta: 8/50",
    "rockstarintel: 8/10",
    "gtaboom: 14/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 11/18",
    "tg_gta6deluxe: 14/14",
    "tg_gta6_m: 15/18",
