@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "2b607f071844",
+   "title": "GTA 6 едва не осталась без рейтинга в Южной Корее, и дело не в насилии",
+   "first_seen": "2026-11-13T07:31:05Z",
+   "updated": "2026-11-13T07:31:05Z",
+   "items": [
+    {
+     "id": "2b607f071844",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 едва не осталась без рейтинга в Южной Корее, и дело не в насилии",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFExaDRxX0tkOHU0OUdZVkxudkpDQS01cEhNZ0ZobkpORGFCT0xzUUNCUHo1Y29adm04T2lRX2gxZ21CMHgwNUthc3RtOXo2MFRTMXRVaTdqZWZUVkVsNEJxTU1zU2YtaUxiLUx4ZG1rVUEzRlEwTlUyUUFlS2p6aVZkTUhUaFp5ZXFySVRNWVJRTUdNVlpia2puMC1Sazl4eXhQTDBFbHg?oc=5",
+     "ts": "2026-11-13T07:20:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "dcfc60980e07",
+   "title": "Яннис Адетокунбо и Бэм Адебайо представили специальную форму «Майами» в стиле GTA 6",
+   "first_seen": "2026-11-13T07:31:05Z",
+   "updated": "2026-11-13T07:31:05Z",
+   "items": [
+    {
+     "id": "dcfc60980e07",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://www.championat.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Яннис Адетокунбо и Бэм Адебайо представили специальную форму «Майами» в стиле GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVDRjYlZIU29XQnFfYVBWeWt2NVkwV2ZhSDZBYWZmQzFqZFNMbV9BLXhpWVNTcTZZdXFSSnkzU0lnZ1BVc09qdV9sR09GQnkxbU9WVkVPUEQxcWJMd3Y3amdZSXhlT2tEUFVtMWl3bjl5aFNFbVRtR2diT2xLbUdVVkNBYXNlamJUalg3bGpTbjBQY0FsWlE2T3ZQT2pPV1k0WGhkUHNYSFFRQzFZbkl4cjNlTWtXRjhzTjNqV19oSkQ5d1lTTjZaaGhMNFF4ZmFRSEVN?oc=5",
+     "ts": "2026-11-13T07:22:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f1ca42561b2e",
    "title": "Фейковая GTA 6 от мошенников: кража данных карт, паролей и криптокошельков",
    "first_seen": "2026-11-13T07:20:49Z",
@@ -101861,14 +101913,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T07:20:49Z",
+  "last_run": "2026-11-13T07:31:05Z",
   "last_log": [
-   "rockstar_site: 0/8",
+   "rockstar_site: 0/9",
    "gnews_en: 95/100",
    "gnews_ru: 93/100",
    "gamesbeat: 0/10",
    "vgc: 1/10",
-   "insider_gaming: 6/10",
+   "insider_gaming: 5/10",
    "ign: 1/20",
    "eurogamer: 2/100",
    "dexerto_gta: 8/50",
