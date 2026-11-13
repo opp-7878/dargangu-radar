@@ -1,6 +1,390 @@
 {
  "stories": [
   {
+   "id": "409dcc49573b",
+   "title": "Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6",
+   "first_seen": "2026-11-13T16:01:12Z",
+   "updated": "2026-11-13T16:10:52Z",
+   "items": [
+    {
+     "id": "409dcc49573b",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6",
+     "url": "https://www.eurogamer.net/grand-theft-auto-gaming-memory-competition-gta-6-win",
+     "ts": "2026-11-13T15:54:30Z",
+     "summary": "Hello! This piece is part of our GTA Week coverage here on Eurogamer, as we explore all things Grand Theft Auto across the launch period of the wildly anticipated Grand Theft Auto 6 . For more like this, see our GTA Week hub - or for the exact opposite, look out for our Not-GTA week of counterprogramming, running from 23rd November. Read more"
+    },
+    {
+     "id": "f40173f527b8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Eurogamer.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlVtVktvN2pocTctMTZybHpwMDFScHFSbkJJcFI4aXdldzg3c3dPX3oxNDlkZlRyQVkyU2tZS0FSV2hJQ2xtX2hXUjV5R1liLW1sRmpKYVVsdk5sRnY0dTByTnRaZGViLVZ4M3d6aHJJY0JQT0tKQjM4VVlJam1rblk1N0I?oc=5",
+     "ts": "2026-11-13T15:54:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru",
+   "ai": {
+    "title_ru": "❗️Выиграй GTA 6 от Eurogamer: расскажи о любимой игре",
+    "summary": "Eurogamer проводит конкурс к запуску GTA 6 в рамках GTA Week: расскажи о любимом воспоминании из серии и выиграй копию GTA 6. Материалы собраны в хабе GTA Week, параллельно идёт Not-GTA week с 23 ноября.",
+    "idea": "Короткий челлендж: за 30 секунд зови зрителей поделиться любимым моментом GTA в комментариях ради конкурса Eurogamer. Плюс — понятная мотивация: шанс получить GTA 6 и повод пообщаться.",
+    "hook": "Хочешь GTA 6 бесплатно? У тебя 30 секунд, чтобы выиграть копию.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-13T16:10:59Z"
+   },
+   "msg_id": 916
+  },
+  {
+   "id": "7b784e5487e8",
+   "title": "Grand Theft Auto VI pre-order holders on PS5 have begun downloading the 1GB patch 1.002.000.",
+   "first_seen": "2026-11-13T15:50:56Z",
+   "updated": "2026-11-13T16:10:52Z",
+   "items": [
+    {
+     "id": "7b784e5487e8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Official GTA VI Support Articles (Pre-order, Pre-load, and Launch Day)",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xvbbze/official_gta_vi_support_articles_preorder_preload/",
+     "ts": "2026-11-13T15:49:01Z",
+     "summary": "Pre-order Support Pre-load Support submitted by /u/PapaXan to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "0926e903a38b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI pre-order holders on PS5 have begun downloading the 1GB patch 1.002.000.",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWhYaUIyNmhFaXotaG9ud2IxdElTbkJvMEdCMVBfUHJvY25UNFY1OEtVNV9vRVFYSS12UFgwcHNuMU4yazZGekxJQVFxbzVmN3oxMWhPaHd2OHRNSzhsWjRHcFRpSTUwWF93RUpydTdJSzRGUGhkRXY2ZHpsdFo2VElLQTlQdlZnT19NLWJSc2ZoVk5hZ0xESGMzWnp2Q0NucnViY0tEUEwxWFhvWEdUbWwyVlRoSW5NaFpZ?oc=5",
+     "ts": "2026-11-13T16:02:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "4abcaa700a36",
+   "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
+   "first_seen": "2026-11-13T15:20:55Z",
+   "updated": "2026-11-13T16:10:52Z",
+   "items": [
+    {
+     "id": "4abcaa700a36",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
+     "url": "https://www.ign.com/articles/gta-6-has-a-whole-animated-tv-series-you-can-watch-in-game",
+     "ts": "2026-11-13T15:11:15Z",
+     "summary": "In yet further evidence of the lengths Rockstar has gone to in order to pack GTA 6 to the brim with content, we have our first look at an animated TV series you can watch in-game."
+    },
+    {
+     "id": "d383ef777c7a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFNjWVhJQmJqTm1VNkxGa0JGYms5UHhXWTBZNllIcTAwQjhIUFdjT0RlQ3ZOODI0aGkwV0xfT2JhM0EtanotQWZlS3ppYTJrQTlGazFBNFBVTGFBR2V3Z1lGZ3ZYcTF5eG54endzeTRmVXVNQ0w2a2hycjFCV0U1QWRXWnp5T1otWUZtQ3ZvdGs?oc=5",
+     "ts": "2026-11-13T15:12:28Z",
+     "summary": ""
+    },
+    {
+     "id": "00fef6073bc2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR3ZsSndKWW9GX09oMDR2ZnR5ekoxa2NKZlVmekppOVZVdEhKel9UeFF2cjROZXl2MmJKd2VQczlCUWNpYnVhMUo5bENaX3pNcnJzMmctbWg5UTNuMW9sUlRETDZrcUVDM3RRNDh5N3dxSUtFYkc4bklrSzNkb1lhSUc0RXNDcHk3a1FhbW95ampsbHZUNFN3cGRCZExuLVBvV1N0Tm01bUFjUU1yaE04S3lValpUTVg3Wmc?oc=5",
+     "ts": "2026-11-13T15:22:20Z",
+     "summary": ""
+    },
+    {
+     "id": "9887c86ed882",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWd3T25UVDZjQmQyZGVvaXo2SVpvR1VPdG1DMm1CR3pCNXR0Y2dCR1JaTVh4Rl95VmxKNGRLd19oU1BzOVo4T1p6bVhGNnBJM01sdUc5dWVwaWpRdWhpUlRMS2pWUDFHaVpDVW5LSE41Z1dYS0hseFdOeVNPRlN2bTAtY0lOcTNuZGItc0FPTEJ4S0I5ZjFXcmJZSkwyLW5JYVRNeTJzNFI5Q2lkeGJfWUkyNzNyMi1DamZv?oc=5",
+     "ts": "2026-11-13T16:02:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 94,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "📺 В GTA 6 есть целый мультсериал, который можно смотреть в игре",
+    "summary": "По данным IGN, в GTA 6 появится полноценный анимационный сериал, который можно смотреть прямо в игре. Это ещё один пример того, насколько Rockstar наполнила мир контентом.",
+    "idea": "Показываем короткий фрагмент «мультсериала в телевизоре» и реакцию героя — зрителю хочется увидеть, как это выглядит и что там за шоу.",
+    "hook": "В GTA 6 можно залипнуть в телевизор — там целый мультсериал.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-13T15:21:02Z"
+   },
+   "msg_id": 910
+  },
+  {
+   "id": "9eecfe4b971b",
+   "title": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
+   "first_seen": "2026-11-13T12:10:50Z",
+   "updated": "2026-11-13T16:10:52Z",
+   "items": [
+    {
+     "id": "9eecfe4b971b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "VICE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Online Could Launch in Late 2027 According to New Report",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50NW9YdnU5WF9wbkJXTUpnc1lnRS1aQjh3NGc0azZSMHVXQ29Rb3ZocmZueU5Vc2NqWE5mWWVEdWVRSk1qX1V2Tzk1dGZlZHM2bU9GbXRscmNweTZMSVA3Tk5uaGprNDVKekx5WlptcFlMQ2pyWXNpWjBn?oc=5",
+     "ts": "2026-11-13T12:00:48Z",
+     "summary": ""
+    },
+    {
+     "id": "13dedd95f917",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Слухи: GTA 6 Online может выйти в 2027 году, через год после выхода основной игры",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUDlaUHh5dlo0Q3Y0QUZneUZxR0J1V0hEU3Z4WU9VajMxXzhad21WNXZFbk5WdnJ4LU9jWkpSaWRIQWpHUGhvbm0xcjlWcExhYnUzU0JNMk95X1ZBVXRTZkRmWHhCLUNsNjd1a1I5aVBUdVZRU3Z2M1hwX0V6eUdDZ3ZJaTdfbFpMWk1BaTM5aGpUMWRDSGxFTXpMR2plMDB6?oc=5",
+     "ts": "2026-11-13T12:17:47Z",
+     "summary": ""
+    },
+    {
+     "id": "c1e9f9a3ef8e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Eurogamer.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fX1luZG9CVUJHSUxpSUFSc3gySEdGUkY4Y1BoaXRabFNUdXluVmtueEdDZVQ4X2habXBTQlRpOTBhVVBrZnFsS2dnUWZ5azN3U3ZZWEk4T0cySndHb1ZGNU1xUkY5Qm9LdVpjX05ZQ0FZSkQw?oc=5",
+     "ts": "2026-11-13T15:13:40Z",
+     "summary": ""
+    },
+    {
+     "id": "918b421bf263",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
+     "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
+     "ts": "2026-11-13T15:13:40Z",
+     "summary": "With less than a week to go before GTA 6's hugely anticipated release , the game's final map - or at least a stylised poster version of it, depicting the state of Leonida's key landmarks - has surfaced online. It was reportedly snapped during Selfridge's sizable GTA 6 's takeover, and is seemingly the physical map included in Rockstar's £350 collector's edition. Read more"
+    },
+    {
+     "id": "fc3d1e4f1995",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Push Square",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORDFPejhLRDI1am50SzNkdS03WFlFRTRFcmprZFM3dWd6anctN2hvQzhXeVhPMDBjc1hqQjhyeWc5R2tNOXExMHdqeFVXUHdHRTRzR2pzNjVxbk5nWEEySDlkWlkyeFpTZzJabjVHVDNNYkR0T2JqejdOUkFTLTY1RHplejV0LXJtcmVJNy1PRVBNMVRhN21R?oc=5",
+     "ts": "2026-11-13T16:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online",
+    "слив",
+    "цена/издания"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "0aa9a10cc383",
+   "title": "Should I Use My Floating Holiday to Stay Home & Play GTA VI?",
+   "first_seen": "2026-11-13T16:10:52Z",
+   "updated": "2026-11-13T16:10:52Z",
+   "items": [
+    {
+     "id": "0aa9a10cc383",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "92 Moose",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Should I Use My Floating Holiday to Stay Home & Play GTA VI?",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNGN2NG5GQl9BbHFWb0wzUlA3NXJLYmFTYmpqWlYzX09mUlhhaURSZHpyLVBHUzJLRG94dUJFS21FdExPQjRKNlNnMzdOWlFXdHY3cGFRUEo1Qnhu?oc=5",
+     "ts": "2026-11-13T16:01:14Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "523d32c315fb",
+   "title": "GTA 6 Preorders Top $1B, Record-Sales Odds Hit 97% - Take-Two Interactive (NASDAQ:TTWO)",
+   "first_seen": "2026-11-13T16:10:52Z",
+   "updated": "2026-11-13T16:10:52Z",
+   "items": [
+    {
+     "id": "523d32c315fb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Benzinga",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Preorders Top $1B, Record-Sales Odds Hit 97% - Take-Two Interactive (NASDAQ:TTWO)",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaG5pVmI5bUVRRHAtYkdkUWxwc2hubU1ybF80azBlOFF1Tmxmc2ZWVDJlREdHbTZocTJYd21OVk9QX0hZZzJockdnM1pKVk5mRVFPRkZtckhMczg1Y1NzM0N2U00zT1dMbGlXdERBNHJ4VTRON1BNSXZULVVGUkN0b0lld1NrN0x2S3c?oc=5",
+     "ts": "2026-11-13T16:05:56Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two",
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "9d3f10972a74",
+   "title": "Spoiler Alert: I’m painting Jason & Lucia on the other side 🌴",
+   "first_seen": "2026-11-13T16:10:52Z",
+   "updated": "2026-11-13T16:10:52Z",
+   "items": [
+    {
+     "id": "9d3f10972a74",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Spoiler Alert: I’m painting Jason & Lucia on the other side 🌴",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvbu3j/spoiler_alert_im_painting_jason_lucia_on_the/",
+     "ts": "2026-11-13T16:07:22Z",
+     "summary": "submitted by /u/DonSama762 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c296187d49af",
+   "title": "The GTA 5 Bucket List – 15 Things to Do Before GTA 6",
+   "first_seen": "2026-11-13T16:10:52Z",
+   "updated": "2026-11-13T16:10:52Z",
+   "items": [
+    {
+     "id": "c296187d49af",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamingBolt",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The GTA 5 Bucket List – 15 Things to Do Before GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIeXhSeUFWbWtZUDlpRUE1eG5IclJIanJlbUtYMWFXY1I0M2VRd20tRlF5c0FXQ0NrM0RzTGFuZ3VwaXJiQkE4X3NEOFlVdkJ0ZDVJbVZIZjZDSjVDMWtFQ2JHY1hiWmNlZHdGXzdHejNVQ0NoVFY4WFVuOTN5UQ?oc=5",
+     "ts": "2026-11-13T16:08:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2ba4de1cdcec",
+   "title": "Can we have a JaSON meme made out of this?",
+   "first_seen": "2026-11-13T16:10:52Z",
+   "updated": "2026-11-13T16:10:52Z",
+   "items": [
+    {
+     "id": "2ba4de1cdcec",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Can we have a JaSON meme made out of this?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xvbwnf/can_we_have_a_jason_meme_made_out_of_this/",
+     "ts": "2026-11-13T16:10:11Z",
+     "summary": "https://preview.redd.it/j389fclyle1i1.png?width=1280&format=png&auto=webp&s=0a7c20c424dc30709a1a560c1faa079c31302580 i feel like it's kinda mandatory that we should have gta 6's own Son meme format lol. plus it's right there in the name. i'm running out of text to fill the 150 word limit. submitted by /u/Cursed_69420 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "76905fd66b7e",
    "title": "‘GTA VI’ made Canadian electronic duo’s song a viral hit",
    "first_seen": "2026-11-13T15:50:56Z",
@@ -194,34 +578,6 @@
    "status": "new"
   },
   {
-   "id": "409dcc49573b",
-   "title": "Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6",
-   "first_seen": "2026-11-13T16:01:12Z",
-   "updated": "2026-11-13T16:01:12Z",
-   "items": [
-    {
-     "id": "409dcc49573b",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6",
-     "url": "https://www.eurogamer.net/grand-theft-auto-gaming-memory-competition-gta-6-win",
-     "ts": "2026-11-13T15:54:30Z",
-     "summary": "Hello! This piece is part of our GTA Week coverage here on Eurogamer, as we explore all things Grand Theft Auto across the launch period of the wildly anticipated Grand Theft Auto 6 . For more like this, see our GTA Week hub - or for the exact opposite, look out for our Not-GTA week of counterprogramming, running from 23rd November. Read more"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
-  },
-  {
    "id": "43dd5bbbd414",
    "title": "GTA VI показала новый уровень детализации чаек по сравнению с GTA IV и GTA V",
    "first_seen": "2026-11-13T15:50:56Z",
@@ -291,34 +647,6 @@
      "url": "https://www.reddit.com/r/GTAVI/comments/1xvbbni/upgraded_to_ultimate_but_no_gta/",
      "ts": "2026-11-13T15:48:41Z",
      "summary": "Bought physical edition because I enjoy having cases on my shelf and upgraded digitally to the ultimate edition. When I went to the store to check on the free gta+ it says i still need to pay. Does the ultimate upgrade not come with gta+? submitted by /u/Middle-earth_oetel to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7b784e5487e8",
-   "title": "Official GTA VI Support Articles (Pre-order, Pre-load, and Launch Day)",
-   "first_seen": "2026-11-13T15:50:56Z",
-   "updated": "2026-11-13T15:50:56Z",
-   "items": [
-    {
-     "id": "7b784e5487e8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Official GTA VI Support Articles (Pre-order, Pre-load, and Launch Day)",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xvbbze/official_gta_vi_support_articles_preorder_preload/",
-     "ts": "2026-11-13T15:49:01Z",
-     "summary": "Pre-order Support Pre-load Support submitted by /u/PapaXan to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [
@@ -581,69 +909,6 @@
    "status": "new"
   },
   {
-   "id": "4abcaa700a36",
-   "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
-   "first_seen": "2026-11-13T15:20:55Z",
-   "updated": "2026-11-13T15:31:46Z",
-   "items": [
-    {
-     "id": "4abcaa700a36",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
-     "url": "https://www.ign.com/articles/gta-6-has-a-whole-animated-tv-series-you-can-watch-in-game",
-     "ts": "2026-11-13T15:11:15Z",
-     "summary": "In yet further evidence of the lengths Rockstar has gone to in order to pack GTA 6 to the brim with content, we have our first look at an animated TV series you can watch in-game."
-    },
-    {
-     "id": "d383ef777c7a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFNjWVhJQmJqTm1VNkxGa0JGYms5UHhXWTBZNllIcTAwQjhIUFdjT0RlQ3ZOODI0aGkwV0xfT2JhM0EtanotQWZlS3ppYTJrQTlGazFBNFBVTGFBR2V3Z1lGZ3ZYcTF5eG54endzeTRmVXVNQ0w2a2hycjFCV0U1QWRXWnp5T1otWUZtQ3ZvdGs?oc=5",
-     "ts": "2026-11-13T15:12:28Z",
-     "summary": ""
-    },
-    {
-     "id": "00fef6073bc2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR3ZsSndKWW9GX09oMDR2ZnR5ekoxa2NKZlVmekppOVZVdEhKel9UeFF2cjROZXl2MmJKd2VQczlCUWNpYnVhMUo5bENaX3pNcnJzMmctbWg5UTNuMW9sUlRETDZrcUVDM3RRNDh5N3dxSUtFYkc4bklrSzNkb1lhSUc0RXNDcHk3a1FhbW95ampsbHZUNFN3cGRCZExuLVBvV1N0Tm01bUFjUU1yaE04S3lValpUTVg3Wmc?oc=5",
-     "ts": "2026-11-13T15:22:20Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 86,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "📺 В GTA 6 есть целый мультсериал, который можно смотреть в игре",
-    "summary": "По данным IGN, в GTA 6 появится полноценный анимационный сериал, который можно смотреть прямо в игре. Это ещё один пример того, насколько Rockstar наполнила мир контентом.",
-    "idea": "Показываем короткий фрагмент «мультсериала в телевизоре» и реакцию героя — зрителю хочется увидеть, как это выглядит и что там за шоу.",
-    "hook": "В GTA 6 можно залипнуть в телевизор — там целый мультсериал.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-13T15:21:02Z"
-   },
-   "msg_id": 910
-  },
-  {
    "id": "e2c953b0c9f2",
    "title": "Shrek 2 Remastered dev on releasing at the same time as GTA 6",
    "first_seen": "2026-11-13T15:31:46Z",
@@ -747,75 +1012,6 @@
    ],
    "score": 93,
    "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "9eecfe4b971b",
-   "title": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
-   "first_seen": "2026-11-13T12:10:50Z",
-   "updated": "2026-11-13T15:20:55Z",
-   "items": [
-    {
-     "id": "9eecfe4b971b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "VICE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Online Could Launch in Late 2027 According to New Report",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50NW9YdnU5WF9wbkJXTUpnc1lnRS1aQjh3NGc0azZSMHVXQ29Rb3ZocmZueU5Vc2NqWE5mWWVEdWVRSk1qX1V2Tzk1dGZlZHM2bU9GbXRscmNweTZMSVA3Tk5uaGprNDVKekx5WlptcFlMQ2pyWXNpWjBn?oc=5",
-     "ts": "2026-11-13T12:00:48Z",
-     "summary": ""
-    },
-    {
-     "id": "13dedd95f917",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW.News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Слухи: GTA 6 Online может выйти в 2027 году, через год после выхода основной игры",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUDlaUHh5dlo0Q3Y0QUZneUZxR0J1V0hEU3Z4WU9VajMxXzhad21WNXZFbk5WdnJ4LU9jWkpSaWRIQWpHUGhvbm0xcjlWcExhYnUzU0JNMk95X1ZBVXRTZkRmWHhCLUNsNjd1a1I5aVBUdVZRU3Z2M1hwX0V6eUdDZ3ZJaTdfbFpMWk1BaTM5aGpUMWRDSGxFTXpMR2plMDB6?oc=5",
-     "ts": "2026-11-13T12:17:47Z",
-     "summary": ""
-    },
-    {
-     "id": "c1e9f9a3ef8e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Eurogamer.net",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fX1luZG9CVUJHSUxpSUFSc3gySEdGUkY4Y1BoaXRabFNUdXluVmtueEdDZVQ4X2habXBTQlRpOTBhVVBrZnFsS2dnUWZ5azN3U3ZZWEk4T0cySndHb1ZGNU1xUkY5Qm9LdVpjX05ZQ0FZSkQw?oc=5",
-     "ts": "2026-11-13T15:13:40Z",
-     "summary": ""
-    },
-    {
-     "id": "918b421bf263",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
-     "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
-     "ts": "2026-11-13T15:13:40Z",
-     "summary": "With less than a week to go before GTA 6's hugely anticipated release , the game's final map - or at least a stylised poster version of it, depicting the state of Leonida's key landmarks - has surfaced online. It was reportedly snapped during Selfridge's sizable GTA 6 's takeover, and is seemingly the physical map included in Rockstar's £350 collector's edition. Read more"
-    }
-   ],
-   "tags": [
-    "Online",
-    "слив",
-    "цена/издания"
-   ],
-   "score": 100,
-   "level": "SPECULATION",
    "alerted": "dup",
    "status": "new"
   },
@@ -104346,119 +104542,15 @@
     "at": "2026-11-06T16:31:18Z"
    },
    "msg_id": 591
-  },
-  {
-   "id": "d7976f682e5f",
-   "title": "Rizz Smells Like Garlic Bread, GTA 6 Eats Your Xbox & Peaches Come From a Can",
-   "first_seen": "2026-11-06T16:10:49Z",
-   "updated": "2026-11-06T16:10:49Z",
-   "items": [
-    {
-     "id": "d7976f682e5f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "105.7 The Point",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rizz Smells Like Garlic Bread, GTA 6 Eats Your Xbox & Peaches Come From a Can",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT19NRXRqZHRyQTRvekFVNkczRUQ5SUVNQ3BPa191T096eU1KWkdQZlViZXFadnZ4bVVHYk0zT3VUam9NallGSHdCUU9faFdPTGVmM2QxTGZRWW5PelR3QkEwakpITW93M3FESG1IZ1hPbUFuVFo0Z3VweHlHcFRKbVozcHhRaHhyYUEwbjVvemlOdGZhODVpd2xEOEdyNXRPY21fRkhpa2RGTTcxZEkyUDlB?oc=5",
-     "ts": "2026-11-06T14:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "41730865ae1a",
-   "title": "Ray Merrimen from Den of Thieves looks a lot like Jason, I’d definelty be going for his look in the game, wonder if he inspired Jason to some degree",
-   "first_seen": "2026-11-06T16:10:49Z",
-   "updated": "2026-11-06T16:10:49Z",
-   "items": [
-    {
-     "id": "41730865ae1a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Ray Merrimen from Den of Thieves looks a lot like Jason, I’d definelty be going for his look in the game, wonder if he inspired Jason to some degree",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpghbb/ray_merrimen_from_den_of_thieves_looks_a_lot_like/",
-     "ts": "2026-11-06T16:03:11Z",
-     "summary": "submitted by /u/Puzzleheaded-Bar5127 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f321ab71fb15",
-   "title": "Comparing the gunplay mechanics of Grand Theft Auto VI and Watch Dogs 2",
-   "first_seen": "2026-11-06T16:10:49Z",
-   "updated": "2026-11-06T16:10:49Z",
-   "items": [
-    {
-     "id": "f321ab71fb15",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Comparing the gunplay mechanics of Grand Theft Auto VI and Watch Dogs 2",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbzl4ZWJaQ1F5Y1pBQzRqYXc4ZjhCYi1wWlBQbElOYWZtNTNDTzdaUndLd1JvQTl0Tk1pZFBkV2Z1THVPZlMwcV9tNlRPRnNFLVBtdHoxb3RnX1Jjc0ZuUjNHVTB3VDduci16b1dxWmVIazN6Y2ZrNTFRMWV1NUJWanJtWnlIYVVYQ0t1azVFajRaQThkaWNBSGVDMTBXZjk5dEE?oc=5",
-     "ts": "2026-11-06T16:04:04Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9ffa25d2b085",
-   "title": "What song does it for you?",
-   "first_seen": "2026-11-06T16:10:49Z",
-   "updated": "2026-11-06T16:10:49Z",
-   "items": [
-    {
-     "id": "9ffa25d2b085",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What song does it for you?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xpglco/what_song_does_it_for_you/",
-     "ts": "2026-11-06T16:07:34Z",
-     "summary": "I cannot tell you why, but this is the song that does it for me. Makes me want to push pillows by the boatloads. submitted by /u/buzzcaray to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T16:01:19Z",
+  "last_run": "2026-11-13T16:10:59Z",
   "last_log": [
-   "rockstar_site: 0/7",
-   "gnews_en: 94/100",
-   "gnews_ru: 97/100",
+   "rockstar_site: 0/8",
+   "gnews_en: 95/100",
+   "gnews_ru: 96/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 1/10",
