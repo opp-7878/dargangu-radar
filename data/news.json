@@ -1,6 +1,231 @@
 {
  "stories": [
   {
+   "id": "57f02c68faca",
+   "title": "GTA VI оставила игроков без интернета: предзагрузка игры вызвала масштабные сбои в Европе",
+   "first_seen": "2026-11-13T05:10:48Z",
+   "updated": "2026-11-13T12:01:20Z",
+   "items": [
+    {
+     "id": "57f02c68faca",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA VI оставила игроков без интернета: предзагрузка игры вызвала масштабные сбои в Европе",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHNlVmVmX1RnaTJsRGVsRHR1VmQ1dlBISUVuZzFtaWlKbjN4bzc4T1ZNQWI3ODNmSTJ1NDBNNXZsRVp5TnlVbVlJanAyQTZXR2sxa3EzWUNwZGxrZnFUTVBuQzdlMi1Ia0FlX3VNX1E5c2VUTHRFeFFHWExSYnJka0piX1FTTmpROEE4SndWcmt3NGpVZk5sYk1nWm9VdG9tX08xbWhDZFFCdFJFaXJudm1wRFgtLWQtYlh3QjJNUWF5SGMxNHA40gHMAUFVX3lxTFBGUm9lcFlvQTd3djF1MzNJZXllbExhVDR1ZnljcVNrNldPNXRuRkVKM3FGUGtCY2EyRDJFN1BWR3VXQTVScERmZnlYMHZVU2owQVIycVJtZGdPZXdqODdGM08tbklndGRQV1haNG4xY2l5OEc1dFl4ZnBudXdjWlVpcWswS1NuLURGU3dIcmN0eGxGVFY1STdaS1pQeUdrSHMzNEtDbDhKcDVWZ1lsNURQOWtnWVRqNTByQk9fNkhNajVtdnB4SnBrMDlTaA?oc=5",
+     "ts": "2026-11-13T04:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "901ce44cd9bd",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "SWI swissinfo.ch",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Предзагрузка игры GTA 6 вызвала восьмикратный скачок интернет-трафика",
+     "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxONDJBOVMtOE9feGMzX2pTSHJ2OE0xcDVNZ21zUmVZMHJBdjJpbTdISWFJZG81aEF1NnJpZExDSVZEOGo4V3BPNGhLUmJKMlQ3enR2WUdaYmt2Rmg4WDZMU21jLWlXbzRvalh1bnVxTFpPLTMtTmhURThoNjJvR25ScHV5U0paQ25ta3dDbjNCanFTRnd2ZXROUUZaVXFpUEhjbGNoUTBFeThkMXFNemxCUGxjQVFSMXdzSllBVUZMWmtralI1OGVMY3p5cHdpNGpsUkZSSkhuZWp3dzNpYmlwYWZldXpCMDNoUGxuUjhiU3VLODEwYV84bUY2SDJmanZRYnNPU212eDRtaUlmNHpnQWFGZ3kwSXlkdk9jVmF4S0NLUVZsRW81c3Rlb2tqNlNKMG9ZRHNieWNMTThRUkcweTZ3eW1ib213MVUtZmJGbVVHbmlURlN5dVdReHZiUGhKRWhBb3JHNmR1NkRSbXQyUk5WVXF3cXhJSHk4T1UwaVdPWUVKaERMNElNaUhtUTZfRmxHRWtQR1lBa0dBMm1pTWc5dERXcU5ENUhEaDk0TnlEeFRPNkl4a0NWYlZHWV9WNldMRm0zLTgwT3dVVEdLNEZucW1NeURxUFZYaVVaNUZKbTkzV1NpQ2pzb0l5WnhlZUZhQncyTDVQYnE3OS1YSGo2b2lPUmlMVmtnN05tRTM2ZkFHSTlOaEpzSnlnVW51RnNIanpwY1FBcmM1dWJ4T1Jn?oc=5",
+     "ts": "2026-11-13T11:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 68,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Предзагрузка GTA 6 обрушила интернет в Европе: сбои по всему региону",
+    "summary": "По данным iXBT.games, предзагрузка GTA 6 вызвала масштабные сбои интернета в Европе. Из-за наплыва игроков загрузка обновления привела к перегрузке сетей в нескольких странах.",
+    "idea": "Показать карту Европы с «красными» зонами и кадры лагов, объяснив, что предзагрузка GTA 6 перегрузила сети. Зрителю важно понять масштаб и не повторить ошибку в день релиза.",
+    "hook": "Предзагрузка GTA 6 обрушила интернет в Европе — вот как это было.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-13T05:10:53Z"
+   },
+   "msg_id": 883
+  },
+  {
+   "id": "0f5b16ddca75",
+   "title": "Мошенники предлагают скачать GTA 6 до релиза и крадут данные россиян",
+   "first_seen": "2026-11-13T12:01:20Z",
+   "updated": "2026-11-13T12:01:20Z",
+   "items": [
+    {
+     "id": "0f5b16ddca75",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Anti-Malware.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Мошенники предлагают скачать GTA 6 до релиза и крадут данные россиян",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CSENwcGp0R2VRRVJCMHpvVnhnTTNFVTV5Mks3U3loVXIxSDlUZVVqYWRGZ2NicHRZZFIzc2Zpd0NyU1hhem0wMjFVUlRYTEZKcktocjRTTDg5dEpOMjBDaDNNNnVaYmvSAWxBVV95cUxOeWN3QkhSMEtTS3kwQ0wyVFdjN1cwOXFhcTBRLVlLYVQtVlgwTnBjOVFqdUdkb3cxNW5mdnZYM1N4TGxNcEtidzVRcXZvRXpISGgyUS14YmxVSXlhZDRzSDVNZXZVTDBCS3d5V0o?oc=5",
+     "ts": "2026-11-13T07:22:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "30ac9157ad62",
+   "title": "GTA 6 на Xbox: цена предзаказа в России и три способа купить игру на Series X|S",
+   "first_seen": "2026-11-13T12:01:20Z",
+   "updated": "2026-11-13T12:01:20Z",
+   "items": [
+    {
+     "id": "30ac9157ad62",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клерк.ру",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 на Xbox: цена предзаказа в России и три способа купить игру на Series X|S",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WQWdERHdCRE52bFNCTWVTaUk1WUFWWVRjRXhRa3BRNnhraG5GS3BWWjM2ZGZhS2RkT0hpS3ZneFdkMVpId1NSaFNtTHJtLXExX25wVU1rZ214QQ?oc=5",
+     "ts": "2026-11-13T08:09:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "ba8f2b7f5bf8",
+   "title": "Hacker Confirms GTA 6 Won’t Be Dumped On PS5’s Latest Firmware",
+   "first_seen": "2026-11-13T12:01:20Z",
+   "updated": "2026-11-13T12:01:20Z",
+   "items": [
+    {
+     "id": "ba8f2b7f5bf8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gameranx",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Hacker Confirms GTA 6 Won’t Be Dumped On PS5’s Latest Firmware",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU0lDT0NpZ2RmNE5tWTBKcWpwZWRtM0h2SEwtRlBza0xBQzhSdldQbE1PWnJQeGd3VXZ6azEtbWMtUVI4ai1SSDcyRWxoVGRJMDRrLXpTb1VlU3FwbEdvNnRmUHF0aTQtZk5ERVdiY2FxUFZveG9fWjkxNmhmVGw4NHFnMmktRlJyc245MWYxSHVKa2t6Yk05Skw4NEhXX3lxZWpOZHQ2V3cyUE54?oc=5",
+     "ts": "2026-11-13T11:34:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "12ded0f7e5bc",
+   "title": "Reminder: you're playing GTA VI on stolen land 🤡 Writer: Michael",
+   "first_seen": "2026-11-13T12:01:20Z",
+   "updated": "2026-11-13T12:01:20Z",
+   "items": [
+    {
+     "id": "12ded0f7e5bc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "X",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Reminder: you're playing GTA VI on stolen land 🤡 Writer: Michael",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuSVo5WHJvQVp5WlFoUVozU1U3U1ZJSFdqeFhJWVB4RzQ4c1dLRTVZaHhkMklBa29RR2Mwa0hzOHMzUzktRTd0VTh0R1JIX0otVm5FV2F3X3VNUXlNNFlhLW5tM3FIUWFQZFdtNg?oc=5",
+     "ts": "2026-11-13T11:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "64e026ed6527",
+   "title": "GTA6 story seems to be much worse than GTA5",
+   "first_seen": "2026-11-13T12:01:20Z",
+   "updated": "2026-11-13T12:01:20Z",
+   "items": [
+    {
+     "id": "64e026ed6527",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA6 story seems to be much worse than GTA5",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xv5ue4/gta6_story_seems_to_be_much_worse_than_gta5/",
+     "ts": "2026-11-13T11:50:48Z",
+     "summary": "First of all the characters that we will be playing don't seem the most interesting ones. Michael, Franklin and Trevor were such interesting characters, now we have some guy with a weirdly low voice for how he looks and a chick to attract the gooner audience. Can't deny the world will be better than in GTA5, but the characters and the story seems to me will be disappointing hard. A better looking world doesn't mean a better game. Nobody remembers GTA5 because the world was big and looked good, they remember the characters, missions and the ridiculous situations.. I fear the main duo in GTA6 do"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9d2f2724b6e5",
+   "title": "Борода, очки и тот самый голос – в трейлере GTA 6 узнали культового персонажа из GTA 4",
+   "first_seen": "2026-11-13T12:01:20Z",
+   "updated": "2026-11-13T12:01:20Z",
+   "items": [
+    {
+     "id": "9d2f2724b6e5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "24 Канал",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Борода, очки и тот самый голос – в трейлере GTA 6 узнали культового персонажа из GTA 4",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEl2dFAyQ29hNGM2N2FIMjd3OVZWZXJCNUNaMXN1YVRoYk1heHJMRl9uMXk3dlJKbzU2ckJfX3E2TFcxRjdWZzRyTzJ3a2pUMlhjeWV1Qi1XUzktRWZERWR6VTVCbkJJSmptbFhLMVk4TDlpTzFFNmhNZXA0aE81WnJKNXFMTnljeXZtUWk1cGdDU0xIbXNfWmxWRnkzOGdwTWwzNFZwV1A5XzJJSDFRR9IBtgFBVV95cUxObUxqRkhCdk5FQktsTkI0R0lqTVZ5LWZrVU14SHdNcTNYSFEwdk5fZzIzUmI1WmZTaWZtdWpTQlVKNk4tUjlyMVp5U2lUbDk1WDlsWm5KbU1wNnEyR0hIOFUybW0teHU3XzZFaG1MSjgzS08tSjd1Wk05OTJ6S3dZeEhDdVJCcl9rS1Flb1dQLWxENFhoek9UMWhTcDMxdXl1Tm4zNEtydEN6bkZNSzJmUlFWZnZXUQ?oc=5",
+     "ts": "2026-11-13T11:52:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "👀 В трейлере GTA 6 узнали культового героя из GTA 4",
+    "summary": "В новом трейлере GTA 6 зрители заметили персонажа с бородой, очками и узнаваемым голосом, похожего на культового героя из GTA 4. Об этом пишет 24 Канал. Официально Rockstar это не подтверждала.",
+    "idea": "Сравнение кадров: GTA 4 и GTA 6 — голос, борода, очки. Зрителю интересно узнать, тот ли это персонаж и что это значит для сюжета.",
+    "hook": "Узнали культового героя из GTA 4 в трейлере GTA 6? Смотри сравнение.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-13T12:01:25Z"
+   },
+   "msg_id": 895
+  },
+  {
    "id": "e03e92dfc87d",
    "title": "GTA 6 map seemingly leaks at Selfridges merch drop",
    "first_seen": "2026-11-12T15:31:05Z",
@@ -5396,45 +5621,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "57f02c68faca",
-   "title": "GTA VI оставила игроков без интернета: предзагрузка игры вызвала масштабные сбои в Европе",
-   "first_seen": "2026-11-13T05:10:48Z",
-   "updated": "2026-11-13T05:10:48Z",
-   "items": [
-    {
-     "id": "57f02c68faca",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA VI оставила игроков без интернета: предзагрузка игры вызвала масштабные сбои в Европе",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHNlVmVmX1RnaTJsRGVsRHR1VmQ1dlBISUVuZzFtaWlKbjN4bzc4T1ZNQWI3ODNmSTJ1NDBNNXZsRVp5TnlVbVlJanAyQTZXR2sxa3EzWUNwZGxrZnFUTVBuQzdlMi1Ia0FlX3VNX1E5c2VUTHRFeFFHWExSYnJka0piX1FTTmpROEE4SndWcmt3NGpVZk5sYk1nWm9VdG9tX08xbWhDZFFCdFJFaXJudm1wRFgtLWQtYlh3QjJNUWF5SGMxNHA40gHMAUFVX3lxTFBGUm9lcFlvQTd3djF1MzNJZXllbExhVDR1ZnljcVNrNldPNXRuRkVKM3FGUGtCY2EyRDJFN1BWR3VXQTVScERmZnlYMHZVU2owQVIycVJtZGdPZXdqODdGM08tbklndGRQV1haNG4xY2l5OEc1dFl4ZnBudXdjWlVpcWswS1NuLURGU3dIcmN0eGxGVFY1STdaS1pQeUdrSHMzNEtDbDhKcDVWZ1lsNURQOWtnWVRqNTByQk9fNkhNajVtdnB4SnBrMDlTaA?oc=5",
-     "ts": "2026-11-13T04:50:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Предзагрузка GTA 6 обрушила интернет в Европе: сбои по всему региону",
-    "summary": "По данным iXBT.games, предзагрузка GTA 6 вызвала масштабные сбои интернета в Европе. Из-за наплыва игроков загрузка обновления привела к перегрузке сетей в нескольких странах.",
-    "idea": "Показать карту Европы с «красными» зонами и кадры лагов, объяснив, что предзагрузка GTA 6 перегрузила сети. Зрителю важно понять масштаб и не повторить ошибку в день релиза.",
-    "hook": "Предзагрузка GTA 6 обрушила интернет в Европе — вот как это было.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-13T05:10:53Z"
-   },
-   "msg_id": 883
   },
   {
    "id": "74385cdfc114",
@@ -102765,41 +102951,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ed49cbb72787",
-   "title": "I finally got it",
-   "first_seen": "2026-11-06T12:01:12Z",
-   "updated": "2026-11-06T12:01:12Z",
-   "items": [
-    {
-     "id": "ed49cbb72787",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I finally got it",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xpazz8/i_finally_got_it/",
-     "ts": "2026-11-06T11:57:24Z",
-     "summary": "submitted by /u/Even-War-9721 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T11:50:49Z",
+  "last_run": "2026-11-13T12:01:25Z",
   "last_log": [
    "rockstar_site: 0/9",
-   "gnews_en: 92/100",
-   "gnews_ru: 94/100",
+   "gnews_en: 91/100",
+   "gnews_ru: 95/100",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 1/10",
