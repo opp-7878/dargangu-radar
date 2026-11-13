@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "f935f192de7a",
+   "title": "10 Things You Need to Know Before GTA 6 Comes Out",
+   "first_seen": "2026-11-13T07:01:28Z",
+   "updated": "2026-11-13T07:01:28Z",
+   "items": [
+    {
+     "id": "f935f192de7a",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "10 Things You Need to Know Before GTA 6 Comes Out",
+     "url": "https://insider-gaming.com/10-things-you-need-to-know-before-gta-6-comes-out/",
+     "ts": "2026-11-13T06:56:29Z",
+     "summary": "Grand Theft Auto 6 is almost here, but before it arrives, you can prepare a little by checking out this 'things you need to know' breakdown. The post 10 Things You Need to Know Before GTA 6 Comes Out appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "10 вещей перед GTA 6: что проверить и знать",
+    "summary": "Insider Gaming (Tom Henderson) выпустил материал «10 Things You Need to Know Before GTA 6 Comes Out». Это памятка для игроков перед релизом: на что обратить внимание и как подготовиться.",
+    "idea": "Короткий чек‑лист на 10 пунктов за 40 секунд: что проверить перед GTA 6. Зрителю — быстрый план действий без воды.",
+    "hook": "До GTA 6 — считанные дни. Вот 10 вещей, которые нужно проверить прямо сейчас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-13T07:01:32Z"
+   },
+   "msg_id": 885
+  },
+  {
    "id": "ccc5c6f72083",
    "title": "We got GTA VI before GTA VI!",
    "first_seen": "2026-11-12T14:50:59Z",
@@ -101649,14 +101686,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T06:57:40Z",
+  "last_run": "2026-11-13T07:01:33Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/9",
+   "gnews_en: 95/100",
+   "gnews_ru: 93/100",
    "gamesbeat: 0/10",
    "vgc: 1/10",
-   "insider_gaming: 1/10",
+   "insider_gaming: 6/10",
    "ign: 1/20",
    "eurogamer: 2/100",
    "dexerto_gta: 8/50",
