@@ -1,6 +1,285 @@
 {
  "stories": [
   {
+   "id": "4aad46158ff5",
+   "title": "Some of These GTA 6 Clips Look So Good That I Don't Care If It's Running at 30 fps",
+   "first_seen": "2026-11-13T22:20:56Z",
+   "updated": "2026-11-13T22:31:05Z",
+   "items": [
+    {
+     "id": "4aad46158ff5",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Some of These GTA 6 Clips Look So Good That I Don't Care If It's Running at 30 fps",
+     "url": "https://www.ign.com/articles/some-of-these-gta-6-clips-look-so-good-that-i-dont-care-if-its-running-at-30-fps",
+     "ts": "2026-11-13T22:10:22Z",
+     "summary": "Earlier this week, Rockstar confirmed that GTA 6 would be running at 30 fps on all of the consoles, including the PS5 Pro. And while I wasn't surprised, I've been watching some of the clips that have been trickling out this week, and I can't say I'm not excited to play it, even at 30 fps."
+    },
+    {
+     "id": "5599f26a8db7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Some of These GTA 6 Clips Look So Good That I Don't Care If It's Running at 30 fps",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNlU2Mkw1MHdKMTZnY0lRMmxqNHN2VldZcENSX29kQ3dVajBUcTktMGcxZlR6ZVJEdEg0RFN6UDNzb3hEVEJKazFYVkFGMTRiWlp3THZjVnFwenk0MTRuRGwtWXlYOU5ac0NKbVJ6RmlvVXI4WEF6SjVxZDFid3N6bzZyTkg1MWtjYTdZZWY1dFlfeUFhd01tMjFmTk9RYkh4RHFCcEt0WmVobXdCVDdtdEZGM3c0WUZOaE1LanBIaTU3WGE5RERDUVEwUUNLZ2I3RlpmQjk4OA?oc=5",
+     "ts": "2026-11-13T22:24:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 93,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: выдуманные числа: 60",
+   "ai": {
+    "title_ru": "GTA 6 в 30 fps: Дарган посмотрел клипы и не расстроен",
+    "summary": "Rockstar подтвердила, что GTA 6 будет работать в 30 fps на всех консолях, включая PS5 Pro. Журналист IGN посмотрел новые клипы и говорит, что всё равно очень хочет играть, даже в 30 fps.",
+    "idea": "Сравнение ожиданий и реальности: показываем эффектные кадры GTA 6 и честно говорим про 30 fps. Зрителю важно понять, портит ли 30 fps впечатление от такой графики.",
+    "hook": "30 fps в GTA 6 — приговор или нормально? Смотри, почему я не расстроен.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-13T22:21:06Z"
+   },
+   "msg_id": 935
+  },
+  {
+   "id": "c2d757fb9b91",
+   "title": "GTA 6 Is Already Receiving PS5 Patches Ahead of Its Big Launch",
+   "first_seen": "2026-11-13T17:41:01Z",
+   "updated": "2026-11-13T22:31:05Z",
+   "items": [
+    {
+     "id": "c2d757fb9b91",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PlayStation LifeStyle",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Is Already Receiving PS5 Patches Ahead of Its Big Launch",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNU1tTXFvaTRhWTZaRG1ZZkpxTFhUZnplaU9aUFVSbklnNURGbGFheXNxb04xX1VCNTFfVnk2U1FKSVEySUxwM3NJQWE3RF9reWJhczZfOE5YQy00OXdsLXJHSS1lM3ZRU2NfTEpVbzc2M21wREdDamlVQU5Ia0hyR3dkbGxMd9IBiwFBVV95cUxQeTZIRGxjVmVJQmhKU0xMWllMRlByS1g3bEluYjZfTG90SUozMkRydFlhLTd2SlpscFQxZEp4MlpJMF81bFd6TWVEbkdoMWhlZ1RrM2l0c3VSNi03N0x4M0FSWDdkQjh3M2MwemZQdmF0VWhUVXNMQ3VwSUVwYzV3ek5aMVBfTUVjLXRn?oc=5",
+     "ts": "2026-11-13T17:31:42Z",
+     "summary": ""
+    },
+    {
+     "id": "e2657021d5c0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Is Already Receiving PS5 Patches Ahead of Its Big Launch",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3doYmV3N2FMcWIwSVU4Q1c4QTdIR2ptVFN1OE9VQzRhaUxnc21fdXZRbURzQmRJWHBaX25yTGVtUjk3d0FmTWJlWFZHQ1FyMTk2MHQ2Nm5ObU9LWkRNZUFGSkhVdFBYVkpxS2l6WUpGQVRyek9Zd1JUQ1FnSVNlUG16QlRLS0Qx?oc=5",
+     "ts": "2026-11-13T17:32:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "dd7d833704c7",
+   "title": "Random Question about GTA 6 Products",
+   "first_seen": "2026-11-13T22:31:05Z",
+   "updated": "2026-11-13T22:31:05Z",
+   "items": [
+    {
+     "id": "dd7d833704c7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Random Question about GTA 6 Products",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xvhr45/random_question_about_gta_6_products/",
+     "ts": "2026-11-13T19:48:23Z",
+     "summary": "Has anyone tried looking for Easter eggs hidden in the GTA 6 products or promotional materials? I remember how GTA 5 had hidden details on its map that could only be revealed using a blacklight. It makes me wonder if Rockstar has included similar secrets or hidden clues in GTA 6 merchandise, packaging, maps, or other physical products. Has anyone found anything interesting so far, or tried investigating them with a blacklight? submitted by /u/Confident_Truck5128 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d8d2ef9f43b0",
+   "title": "My fan art of Jason and Lucia.",
+   "first_seen": "2026-11-13T22:31:05Z",
+   "updated": "2026-11-13T22:31:05Z",
+   "items": [
+    {
+     "id": "d8d2ef9f43b0",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "My fan art of Jason and Lucia.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xvi3oe/my_fan_art_of_jason_and_lucia/",
+     "ts": "2026-11-13T20:01:40Z",
+     "summary": "submitted by /u/VariousQuestion to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2435cc735169",
+   "title": "My girlfriend made me a GTA6 box",
+   "first_seen": "2026-11-13T22:31:05Z",
+   "updated": "2026-11-13T22:31:05Z",
+   "items": [
+    {
+     "id": "2435cc735169",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "My girlfriend made me a GTA6 box",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xvicch/my_girlfriend_made_me_a_gta6_box/",
+     "ts": "2026-11-13T20:11:10Z",
+     "summary": "The game is preloaded and ready to go. I’ve got annual leave booked during that time too. submitted by /u/astromech4 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "480bff02b274",
+   "title": "Студия Rockstar Games выпустила первый официальный патч 1.002.000 для GTA VI на PS5 размером 1 ГБ",
+   "first_seen": "2026-11-13T22:31:05Z",
+   "updated": "2026-11-13T22:31:05Z",
+   "items": [
+    {
+     "id": "480bff02b274",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Студия Rockstar Games выпустила первый официальный патч 1.002.000 для GTA VI на PS5 размером 1 ГБ",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUExSUkJTMWViU3N0ckpBWHZaaExQUTJjcW1hSS0xSV9WYWIxcDRXNTJyeU1UVnktTWJGejFGNkw2WXNoZHdGUFljSTh3SC16MUVHTnExLTBaQWFocEVTajB4QUgxNm5YNjQ5bnA1eUxrTy11UGxyLTlDNkV2ck1hS3hLblQ3Z2VWcnpkdEtYUGtLMXRxVVFrdEdPUjVXdmkzQlc0SGNWSVlBcE94b2xsaVFxVmMyV3M?oc=5",
+     "ts": "2026-11-13T22:08:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "dace2daa76bf",
+   "title": "LightShed's Brandon Ross: GTA 6 could be biggest video game launch ever",
+   "first_seen": "2026-11-13T22:31:05Z",
+   "updated": "2026-11-13T22:31:05Z",
+   "items": [
+    {
+     "id": "dace2daa76bf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CNBC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "LightShed's Brandon Ross: GTA 6 could be biggest video game launch ever",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFVZUndCcWdUcHVzaUFydWtMYllic3RXLWFOZjk5eERCWjg4S3FMNXI4b21GQ2dRWHZSZlAxTXJZaXU0Q0Zsd05IYXF4R2tpaHpMc1BzVkhhUktMSnFZaVpocVJRUU5sM1lIS2dOSnhHU0JLVFotMUtNYUtpNGxieF9WN0hNTGhZV3JQT0wxMW9lNHc4Y2FwSHRSd3BoTmJZbkhqVUh0a2p1bUszbDBxUFRn?oc=5",
+     "ts": "2026-11-13T22:16:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3b689494f932",
+   "title": "GTA 6 запустят даже на старой Xbox One: Microsoft раскрыла неожиданный способ обойти ограничения консоли",
+   "first_seen": "2026-11-13T22:31:05Z",
+   "updated": "2026-11-13T22:31:05Z",
+   "items": [
+    {
+     "id": "3b689494f932",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Neva.Today",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 запустят даже на старой Xbox One: Microsoft раскрыла неожиданный способ обойти ограничения консоли",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55UGdmSm9KbTFja19YdElkZElEZzc2dGthVW1rcy1kMmZDYUw0dUlpQmhSNGxfclM5THdVNVprbGpIQVBsSFhYeWdLS2trNVdaWlRF?oc=5",
+     "ts": "2026-11-13T22:26:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b830c2d5d470",
+   "title": "Do we think that GTA VI will have an option for multiple saves on the same ps5 profile?",
+   "first_seen": "2026-11-13T22:31:05Z",
+   "updated": "2026-11-13T22:31:05Z",
+   "items": [
+    {
+     "id": "b830c2d5d470",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Do we think that GTA VI will have an option for multiple saves on the same ps5 profile?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvlsql/do_we_think_that_gta_vi_will_have_an_option_for/",
+     "ts": "2026-11-13T22:29:23Z",
+     "summary": "They've done it in past games, but more recently, a lot of titles have moved towards single save formats, especially on console. submitted by /u/UncraftedPotato to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "740db2046472",
    "title": "Ready for GTA 6 – Samsung Odyssey Ark 2nd Gen Gaming Monitor 🎮🔥",
    "first_seen": "2026-11-13T21:20:55Z",
@@ -133,47 +412,6 @@
     "at": "2026-11-13T22:21:08Z"
    },
    "msg_id": 936
-  },
-  {
-   "id": "4aad46158ff5",
-   "title": "Some of These GTA 6 Clips Look So Good That I Don't Care If It's Running at 30 fps",
-   "first_seen": "2026-11-13T22:20:56Z",
-   "updated": "2026-11-13T22:20:56Z",
-   "items": [
-    {
-     "id": "4aad46158ff5",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Some of These GTA 6 Clips Look So Good That I Don't Care If It's Running at 30 fps",
-     "url": "https://www.ign.com/articles/some-of-these-gta-6-clips-look-so-good-that-i-dont-care-if-its-running-at-30-fps",
-     "ts": "2026-11-13T22:10:22Z",
-     "summary": "Earlier this week, Rockstar confirmed that GTA 6 would be running at 30 fps on all of the consoles, including the PS5 Pro. And while I wasn't surprised, I've been watching some of the clips that have been trickling out this week, and I can't say I'm not excited to play it, even at 30 fps."
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 85,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: выдуманные числа: 60",
-   "ai": {
-    "title_ru": "GTA 6 в 30 fps: Дарган посмотрел клипы и не расстроен",
-    "summary": "Rockstar подтвердила, что GTA 6 будет работать в 30 fps на всех консолях, включая PS5 Pro. Журналист IGN посмотрел новые клипы и говорит, что всё равно очень хочет играть, даже в 30 fps.",
-    "idea": "Сравнение ожиданий и реальности: показываем эффектные кадры GTA 6 и честно говорим про 30 fps. Зрителю важно понять, портит ли 30 fps впечатление от такой графики.",
-    "hook": "30 fps в GTA 6 — приговор или нормально? Смотри, почему я не расстроен.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-13T22:21:06Z"
-   },
-   "msg_id": 935
   },
   {
    "id": "003984c7a2f7",
@@ -5357,32 +5595,6 @@
    "score": 55,
    "level": "PROBABLE",
    "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "c2d757fb9b91",
-   "title": "GTA 6 Is Already Receiving PS5 Patches Ahead of Its Big Launch",
-   "first_seen": "2026-11-13T17:41:01Z",
-   "updated": "2026-11-13T17:41:01Z",
-   "items": [
-    {
-     "id": "c2d757fb9b91",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PlayStation LifeStyle",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Is Already Receiving PS5 Patches Ahead of Its Big Launch",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNU1tTXFvaTRhWTZaRG1ZZkpxTFhUZnplaU9aUFVSbklnNURGbGFheXNxb04xX1VCNTFfVnk2U1FKSVEySUxwM3NJQWE3RF9reWJhczZfOE5YQy00OXdsLXJHSS1lM3ZRU2NfTEpVbzc2M21wREdDamlVQU5Ia0hyR3dkbGxMd9IBiwFBVV95cUxQeTZIRGxjVmVJQmhKU0xMWllMRlByS1g3bEluYjZfTG90SUozMkRydFlhLTd2SlpscFQxZEp4MlpJMF81bFd6TWVEbkdoMWhlZ1RrM2l0c3VSNi03N0x4M0FSWDdkQjh3M2MwemZQdmF0VWhUVXNMQ3VwSUVwYzV3ek5aMVBfTUVjLXRn?oc=5",
-     "ts": "2026-11-13T17:31:42Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -106288,115 +106500,13 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a8115256c271",
-   "title": "Pilot \"Paints\" Impressive GTA 6 Mural In the Sky - IGN Daily Fix",
-   "first_seen": "2026-11-06T22:10:49Z",
-   "updated": "2026-11-06T22:31:01Z",
-   "items": [
-    {
-     "id": "a8115256c271",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Pilot \"Paints\" Impressive GTA 6 Mural In the Sky - IGN Daily Fix",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzFISVdFdHd3Wk5XYlc3YjVrMndvbU5vU2N4cFhHd0tteTFySmwycFJrMnE5QVN0bkNzV0tQRGRaNmVSLTFlZXVKSTl0encyOWFsZ0h3WDIzeTQwd1FTalVESDU5MTJCUDRfUGZoa0tFUlppNzBIRnF3XzVmT2JkTVVZQkpDRlZCNUpTOXU4bnU?oc=5",
-     "ts": "2026-11-06T21:57:49Z",
-     "summary": ""
-    },
-    {
-     "id": "23b6c9e34725",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Pilot \"Paints\" Impressive GTA 6 Mural In the Sky - IGN Daily Fix",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUhHc19rdTYzWXF1enI4VVpkaWJVRUlpOUFUcTEzZnpOMmtVekh2TVh4VExfcGM3OEZYNzhEMW1HOTBEclBoWThyR0RScmJWQWtXTDRRbWUzVkdBWndEbjhpcEhndlhwRlFvRTNlcVhQTFd1eU8zZHhEZVl1TDNMTE1aek9qMzFrUmRZY0RsNnF4MmNlVTBVc083OG5IbmtPUWppa3YzRnNwUQ?oc=5",
-     "ts": "2026-11-06T21:57:49Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Пилот нарисовал в небе гигантский арт по GTA 6",
-    "summary": "Пилот нарисовал в небе масштабный рисунок по GTA 6, который сняли на видео. Об этом сообщает IGN в выпуске Daily Fix.",
-    "idea": "Съёмка с дрона: как в небе «рисуют» контур и заливают цветом — динамика и масштаб цепляют. Зрителю интересно, потому что это редкий и зрелищный фан-арт.",
-    "hook": "Пилот нарисовал в небе гигантский арт по GTA 6 — смотри с дрона.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-06T22:10:53Z"
-   },
-   "msg_id": 607
-  },
-  {
-   "id": "bdea269d6fa1",
-   "title": "The Elder Scrolls VI: Sentinel не конкурент GTA 6 или NBA 2K — Мэт Пискателла",
-   "first_seen": "2026-11-06T22:31:01Z",
-   "updated": "2026-11-06T22:31:01Z",
-   "items": [
-    {
-     "id": "bdea269d6fa1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Newxboxone",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "The Elder Scrolls VI: Sentinel не конкурент GTA 6 или NBA 2K — Мэт Пискателла",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDBwNm92RGJmbnh5aF9ySGFQcTF2UXQ3V3MwVVpxa3ZPZjVHYnNMaHhDV0NOU2g4RjNOckRYTHhsNDB5am1wSkFodGhES0VEd2YtV2EyVkNHdWE5Tm9vY1Y0UVBZdDAySHZ3RUhYemFhM1Y0Q2UtMFQwTGZHY2dSMWFsMS1zWGl0OF9TcHFEZ05mbUJWelFTZmpZZDdITzZycmtsMTVZZzI4cUNQYmc?oc=5",
-     "ts": "2026-11-06T21:54:20Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2fe44018fb83",
-   "title": "Not sure if you guys noticed, but her fingers complete the tattoo on his chest. The amount of detail in this game is insane",
-   "first_seen": "2026-11-06T22:31:01Z",
-   "updated": "2026-11-06T22:31:01Z",
-   "items": [
-    {
-     "id": "2fe44018fb83",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Not sure if you guys noticed, but her fingers complete the tattoo on his chest. The amount of detail in this game is insane",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpq5jd/not_sure_if_you_guys_noticed_but_her_fingers/",
-     "ts": "2026-11-06T22:29:22Z",
-     "summary": "submitted by /u/dhenis1 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T22:21:09Z",
+  "last_run": "2026-11-13T22:31:05Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/6",
    "gnews_en: 98/100",
    "gnews_ru: 97/100",
    "gamesbeat: 0/10",
@@ -106407,7 +106517,7 @@
    "dexerto_gta: 7/50",
    "rockstarintel: 6/10",
    "gtaboom: 9/30",
-   "reddit: 25/25",
+   "reddit: 24/25",
    "tg_gtavistar: 16/18",
    "tg_gta6deluxe: 15/15",
    "tg_gta6_m: 16/18",
