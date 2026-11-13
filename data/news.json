@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "2d9953ff78f4",
+   "title": "Logitech gives employees a gaming day off as GTA 6 launch approaches",
+   "first_seen": "2026-11-13T00:31:03Z",
+   "updated": "2026-11-13T00:31:03Z",
+   "items": [
+    {
+     "id": "2d9953ff78f4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MIXED News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Logitech gives employees a gaming day off as GTA 6 launch approaches",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1ZGhjWlUwZTI4RFhnMHd2NXF2LUZnWm1GdlJQQTgwY1RkNDdGLThsQkVmUzZCVkxyRnVldE93YUVOOVhpZkNHaVN4OUhCY0Y1ZWtpR0JLNzUwVFY3eE4xcDl6N1RqNHpDQ3YtYm1wME8?oc=5",
+     "ts": "2026-11-13T00:25:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "b8a7298b9b87",
    "title": "Comparison of coastal areas in GTA V and GTA VI shows thirteen years of graphical progress",
    "first_seen": "2026-11-13T00:20:49Z",
@@ -100574,66 +100600,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "d90d48132de1",
-   "title": "Localização da garota da arte oficial do GTA 6 encontrada no mapa!",
-   "first_seen": "2026-11-06T00:30:56Z",
-   "updated": "2026-11-06T00:30:56Z",
-   "items": [
-    {
-     "id": "d90d48132de1",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Localização da garota da arte oficial do GTA 6 encontrada no mapa!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xoyu1v/localização_da_garota_da_arte_oficial_do_gta_6/",
-     "ts": "2026-11-06T00:21:14Z",
-     "summary": "​Encontraram a localização exata de onde foi tirada a foto/arte oficial da garota do GTA 6! submitted by /u/Abalo_cercado to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5eef07bd351c",
-   "title": "Pilot Picasso found recreating GTA VI artwork in the sky above Bentonville, Arkansas. The amount of promotion for just a video game is otherworldly",
-   "first_seen": "2026-11-06T00:30:56Z",
-   "updated": "2026-11-06T00:30:56Z",
-   "items": [
-    {
-     "id": "5eef07bd351c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Pilot Picasso found recreating GTA VI artwork in the sky above Bentonville, Arkansas. The amount of promotion for just a video game is otherworldly",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xoyujr/pilot_picasso_found_recreating_gta_vi_artwork_in/",
-     "ts": "2026-11-06T00:21:54Z",
-     "summary": "submitted by /u/Oliver5432 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T00:20:49Z",
+  "last_run": "2026-11-13T00:31:03Z",
   "last_log": [
-   "rockstar_site: 0/17",
-   "gnews_en: 97/100",
+   "rockstar_site: 0/18",
+   "gnews_en: 98/100",
    "gnews_ru: 94/100",
    "gamesbeat: 0/10",
    "vgc: 1/10",
