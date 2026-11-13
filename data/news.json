@@ -1,6 +1,186 @@
 {
  "stories": [
   {
+   "id": "bdb645a54075",
+   "title": "Why Atari Launched Barbie: Rewind Just Before GTA 6",
+   "first_seen": "2026-11-13T23:31:04Z",
+   "updated": "2026-11-13T23:40:50Z",
+   "items": [
+    {
+     "id": "bdb645a54075",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Why Atari Launched Barbie: Rewind Just Before GTA 6",
+     "url": "https://insider-gaming.com/barbie-rewind-gta-6-release-window/",
+     "ts": "2026-11-13T23:21:23Z",
+     "summary": "Barbie: Rewind launched close to GTA 6 by design. Atari CEO Wade Rosen explains why the timing gave different audiences an opportunity. The post Why Atari Launched Barbie: Rewind Just Before GTA 6 appeared first on Insider Gaming ."
+    },
+    {
+     "id": "1d0da0b016d7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Why Atari Launched Barbie: Rewind Just Before GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DMGFWVWdjVWZGNFJ3ak1wMVFsZmZRUU15X3MyaEJBTzZqNzdCNUFqd1B2UkFMRFFwTjZQNWgtdmdja1ZDVHk5cnNVNzQ4VjUxWkhNakFsOFFVMFhGSUs4TEpVYVJXMkUtbnlBZU1WQQ?oc=5",
+     "ts": "2026-11-13T23:21:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Atari специально выпустила Barbie: Rewind перед GTA 6",
+    "summary": "Atari выпустила Barbie: Rewind незадолго до GTA 6 по задумке, чтобы охватить разные аудитории. Об этом рассказал CEO Atari Уэйд Розен в интервью Insider Gaming.",
+    "idea": "Сравним два релиза: почему Atari выпустила Barbie: Rewind прямо перед GTA 6 и как это сработало на две разные аудитории.",
+    "hook": "Atari выпустила Barbie: Rewind прямо перед GTA 6 — это не случайность.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-13T23:31:07Z"
+   },
+   "msg_id": 938
+  },
+  {
+   "id": "1a85cb5c0e8e",
+   "title": "GTA 6: точная дата и время релиза игры",
+   "first_seen": "2026-11-13T23:40:50Z",
+   "updated": "2026-11-13T23:40:50Z",
+   "items": [
+    {
+     "id": "1a85cb5c0e8e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "games.gg",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: точная дата и время релиза игры",
+     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPSFFaLXB2dHJPUmVhWHRKSWZ0dlZNTVdJZmtMZVpuc2lmRDBnSnB0bTdOV29NYkdvd2lXdXctV3RPSDUtbjdacTdQa3dPbENKOW5TWE5Ka28tNWVIU3JYLXZCT3FjMl9YSGNPUVJ5NzgxTHg2TF9LUU5iVEN6UkdzZTdUWTIxRERLaUZfN2FjVFp2bG40czAxMldJOFhiUWNrY3hlT1Y2NjJIWGl0OTc3X0JIby00dzBVTUpCdk1QQ3dSUW13ajUyUmc4TllMUVlSbk9Ua3NNcTVwS1lRZDJZZDR3NXYxZHVrcVRGbnM5REUxQ0VmRm5EWUFtLUtaN1VNRm5ZZFN5ZXR3a2RTeFVKN2VOLUJmcE9sV2NDdHgyVk1McHZZaXVMQmNYNUk0SEhVWk94NWRUOXpucFE?oc=5",
+     "ts": "2026-11-13T22:55:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3a9671e556d0",
+   "title": "GTA 5 Sees Sales Spike Ahead of GTA VI Launch",
+   "first_seen": "2026-11-13T23:40:50Z",
+   "updated": "2026-11-13T23:40:50Z",
+   "items": [
+    {
+     "id": "3a9671e556d0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TechPowerUp",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 5 Sees Sales Spike Ahead of GTA VI Launch",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUURxTHRUZWdfNE9tcGJ3NUgyLWZocFZkS05DN2VYTGtTc1V5M2xnTTdGUThJdmlUZTZPb0lyeEdraDdpR25wc0NYM3dpYk0zRWFIZEVJNURWbmY4eGQwMWQ5LU9TNGszb3BqdkVXQU8wYWRoZmJqRVlZbjRWRnpfSzVvdksyVWvSAYwBQVVfeXFMTXE3YjYxdmoyTXI2MHRHTHBIbG95ZlpVdmJQemJraVZpVUwtVi1aSDNFRUhlV2dCZ2FqWGNSYmFVSVRvUGlkenV3Z3VfWnVUal9nbXNiWUFDQzE5V1RoM0gzUTZneGN5RmV0RFJGUVVzeHFHRWwxZVg4bDUzcG00Ykg3SE0tZ196NFQwOS0?oc=5",
+     "ts": "2026-11-13T23:26:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "54d3ee77f88e",
+   "title": "How did you get into GTA?",
+   "first_seen": "2026-11-13T23:40:50Z",
+   "updated": "2026-11-13T23:40:50Z",
+   "items": [
+    {
+     "id": "54d3ee77f88e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How did you get into GTA?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvn7gk/how_did_you_get_into_gta/",
+     "ts": "2026-11-13T23:30:57Z",
+     "summary": "Fellow gamers, I can’t believe we have made it this far! From 13 years to less than 1 week until GTA 6 goes live! Waiting for this game made me do some reminiscing about how I got into GTA games in the first place. I’m interested to hear all your stories about how you discovered the franchise for the first time and your best memories of playing it. Which game did you play first? Which did you enjoy the most? Have you played all of them or did you skip any of them? Played them in order or at random? Here’s my story: When I finished my high school exams in 2008, I found myself with some free tim"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7a1013194683",
+   "title": "Everyone is talking about the graphics and visuals, I’m wondering what audio setup people will be using?",
+   "first_seen": "2026-11-13T23:40:50Z",
+   "updated": "2026-11-13T23:40:50Z",
+   "items": [
+    {
+     "id": "7a1013194683",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Everyone is talking about the graphics and visuals, I’m wondering what audio setup people will be using?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvndmr/everyone_is_talking_about_the_graphics_and/",
+     "ts": "2026-11-13T23:38:43Z",
+     "summary": "Surround sound? 3D headphones? Regular TV? I’m definitely gonna start with my 3D studio headphones, I’ll probably have some sessions where I just use my TV but I wanna get the most out of my first play-through, both visually and in terms of sound. submitted by /u/JayQuips to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0a3026b3e4a8",
+   "title": "Warren's in, are urine?",
+   "first_seen": "2026-11-13T23:40:50Z",
+   "updated": "2026-11-13T23:40:50Z",
+   "items": [
+    {
+     "id": "0a3026b3e4a8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Warren's in, are urine?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xvne06/warrens_in_are_urine/",
+     "ts": "2026-11-13T23:39:12Z",
+     "summary": "submitted by /u/iWillRe1gn to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "546da343d2ab",
    "title": "Hotline Miami x GTA6",
    "first_seen": "2026-11-13T23:20:51Z",
@@ -64,43 +244,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "bdb645a54075",
-   "title": "Why Atari Launched Barbie: Rewind Just Before GTA 6",
-   "first_seen": "2026-11-13T23:31:04Z",
-   "updated": "2026-11-13T23:31:04Z",
-   "items": [
-    {
-     "id": "bdb645a54075",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Why Atari Launched Barbie: Rewind Just Before GTA 6",
-     "url": "https://insider-gaming.com/barbie-rewind-gta-6-release-window/",
-     "ts": "2026-11-13T23:21:23Z",
-     "summary": "Barbie: Rewind launched close to GTA 6 by design. Atari CEO Wade Rosen explains why the timing gave different audiences an opportunity. The post Why Atari Launched Barbie: Rewind Just Before GTA 6 appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Atari специально выпустила Barbie: Rewind перед GTA 6",
-    "summary": "Atari выпустила Barbie: Rewind незадолго до GTA 6 по задумке, чтобы охватить разные аудитории. Об этом рассказал CEO Atari Уэйд Розен в интервью Insider Gaming.",
-    "idea": "Сравним два релиза: почему Atari выпустила Barbie: Rewind прямо перед GTA 6 и как это сработало на две разные аудитории.",
-    "hook": "Atari выпустила Barbie: Rewind прямо перед GTA 6 — это не случайность.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-13T23:31:07Z"
-   },
-   "msg_id": 938
   },
   {
    "id": "ba57495135d4",
@@ -107020,37 +107163,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b242a1c752be",
-   "title": "Now that the nighttime seems to be REALLY dark…",
-   "first_seen": "2026-11-06T23:40:44Z",
-   "updated": "2026-11-06T23:40:44Z",
-   "items": [
-    {
-     "id": "b242a1c752be",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Now that the nighttime seems to be REALLY dark…",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xprl3t/now_that_the_nighttime_seems_to_be_really_dark/",
-     "ts": "2026-11-06T23:34:04Z",
-     "summary": "Can you imagine how dark and scary it will be when you are on a boat in the grassrivers and it’s completely dark/black there 😭🙂 Pretty exited to discover how they made the atmosphere especially at grassrivers and mt. kalaga at night submitted by /u/Bandito503 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T23:31:07Z",
+  "last_run": "2026-11-13T23:40:50Z",
   "last_log": [
    "rockstar_site: 0/6",
    "gnews_en: 98/100",
