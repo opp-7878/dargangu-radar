@@ -1,6 +1,73 @@
 {
  "stories": [
   {
+   "id": "b3d69ab1803d",
+   "title": "Yo can someone game share me GTA 6? I cant get it and maybe i can play it via game share(im on xbox)",
+   "first_seen": "2026-11-13T11:21:00Z",
+   "updated": "2026-11-13T11:31:11Z",
+   "items": [
+    {
+     "id": "b3d69ab1803d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Yo can someone game share me GTA 6? I cant get it and maybe i can play it via game share(im on xbox)",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xv55s1/yo_can_someone_game_share_me_gta_6_i_cant_get_it/",
+     "ts": "2026-11-13T11:12:20Z",
+     "summary": "In order to game share you need to give your accounts credentials, so proceed with caution submitted by /u/Illustrious-Art2762 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "3e8e24d31529",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Yo can someone please game share me GTA 6? I cant get it and maybe i can play it via game share(im on xbox), and please no joking",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xv5gcn/yo_can_someone_please_game_share_me_gta_6_i_cant/",
+     "ts": "2026-11-13T11:29:11Z",
+     "summary": "submitted by /u/Illustrious-Art2762 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ca34d71b4d81",
+   "title": "GTA 6 has now reached an estimated 12.13 million pre-orders, up another 860,000 since yesterday!",
+   "first_seen": "2026-11-13T11:31:11Z",
+   "updated": "2026-11-13T11:31:11Z",
+   "items": [
+    {
+     "id": "ca34d71b4d81",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA 6 has now reached an estimated 12.13 million pre-orders, up another 860,000 since yesterday!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xv5fcm/gta_6_has_now_reached_an_estimated_1213_million/",
+     "ts": "2026-11-13T11:27:42Z",
+     "summary": "The game has generated an estimated $1.18 billion in revenue with around 5 days still to go until launch! submitted by /u/dubdizzle99 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "5469f286cb09",
    "title": "Стример активировал GTA VI в прямом эфире, но, похоже, зритель оказался быстрее и украл его код",
    "first_seen": "2026-11-13T11:21:00Z",
@@ -49,32 +116,6 @@
    "tags": [],
    "score": 45,
    "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b3d69ab1803d",
-   "title": "Yo can someone game share me GTA 6? I cant get it and maybe i can play it via game share(im on xbox)",
-   "first_seen": "2026-11-13T11:21:00Z",
-   "updated": "2026-11-13T11:21:00Z",
-   "items": [
-    {
-     "id": "b3d69ab1803d",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Yo can someone game share me GTA 6? I cant get it and maybe i can play it via game share(im on xbox)",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xv55s1/yo_can_someone_game_share_me_gta_6_i_cant_get_it/",
-     "ts": "2026-11-13T11:12:20Z",
-     "summary": "In order to game share you need to give your accounts credentials, so proceed with caution submitted by /u/Illustrious-Art2762 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
    "alerted": "",
    "status": "new"
   },
@@ -102676,7 +102717,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T11:21:00Z",
+  "last_run": "2026-11-13T11:31:11Z",
   "last_log": [
    "rockstar_site: 0/9",
    "gnews_en: 92/100",
