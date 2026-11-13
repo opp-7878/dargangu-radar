@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "14db39cb5e5a",
+   "title": "Staying up late or waking up early?",
+   "first_seen": "2026-11-13T00:18:05Z",
+   "updated": "2026-11-13T00:18:05Z",
+   "items": [
+    {
+     "id": "14db39cb5e5a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Staying up late or waking up early?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xut3kw/staying_up_late_or_waking_up_early/",
+     "ts": "2026-11-13T00:09:55Z",
+     "summary": "Assuming you have the day off, do you plan to stay up and start playing at midnight, or get some good rest in and start up in the morning? I'm used to waking up at 5am for work, so staying up would be too hard for me. submitted by /u/RJthewizard to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a0c9e346dbbb",
    "title": "Anyone complaining about 30 fps didn’t come from this era",
    "first_seen": "2026-11-12T18:31:08Z",
@@ -100669,15 +100695,15 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T00:10:46Z",
+  "last_run": "2026-11-13T00:18:05Z",
   "last_log": [
-   "rockstar_site: 0/18",
-   "gnews_en: 98/100",
+   "rockstar_site: 0/19",
+   "gnews_en: 97/100",
    "gnews_ru: 94/100",
    "gamesbeat: 0/10",
    "vgc: 1/10",
    "insider_gaming: 0/10",
-   "ign: 1/20",
+   "ign: 0/20",
    "eurogamer: 2/100",
    "dexerto_gta: 8/50",
    "rockstarintel: 8/10",
