@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "ba90fdc57e3d",
+   "title": "‘GTA VII’ Outside America? Rockstar Won’t Rule It Out",
+   "first_seen": "2026-11-13T08:40:47Z",
+   "updated": "2026-11-13T08:40:47Z",
+   "items": [
+    {
+     "id": "ba90fdc57e3d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Hypebeast",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA VII’ Outside America? Rockstar Won’t Rule It Out",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWlnc3JnbV9SaHJhb3NQcllkSGo1RVVMRk1RRkJwdlV2SXF3WktBS2c0d1FmOFRiUTFuRkJfMFl2VXFtaU01VDhnX3dlcjdmMnJoUkR1ZjBiMUJpM0lQaWtBVnNya01tN2lUaHlPSGk0ek03M0NQdEFZZ28wNVhKMVVCZThLV2RlMUhGR29MUXBNNk5uOE81dzJPUENta1FXYWk4VzA2M3BLYmVN?oc=5",
+     "ts": "2026-11-13T08:35:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "1969512e300d",
    "title": "Утечка карты GTA 6: что известно о полной карте Леониды до релиза игры?",
    "first_seen": "2026-11-12T16:01:27Z",
@@ -101869,50 +101895,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "df83cddfaa53",
-   "title": "Grand Theft Auto VI set to break all entertainment launch records",
-   "first_seen": "2026-11-05T23:49:53Z",
-   "updated": "2026-11-06T08:40:47Z",
-   "items": [
-    {
-     "id": "df83cddfaa53",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "My set up for launch",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xoy184/my_set_up_for_launch/",
-     "ts": "2026-11-05T23:45:16Z",
-     "summary": "submitted by /u/Tmama187 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "77b3ffc86e10",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Türkiye Today",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI set to break all entertainment launch records",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWUZCVUc1Z09BOXEzNGp3OVlMOEtpYmgySDhSZFppazVUdzh0amtGZEZEQlg3NE93Rkp3azF4by1idGxPRnBRUEQ2VElWRW1GQ296OXRCdXExWG9nSHJjREQ2X0VKUWdZbHhKeGJkVGxBMXBDaEJDbm1PYU12bXl6WTFDQXdXSUQtVnlnSmF1MUY2LXZxMlg1cU1wMno2OFU1WHFOcXZLZ1VpZUNSMVpnNU5B?oc=5",
-     "ts": "2026-11-06T06:09:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T08:31:01Z",
+  "last_run": "2026-11-13T08:40:47Z",
   "last_log": [
    "rockstar_site: 0/10",
    "gnews_en: 93/100",
@@ -101924,7 +101911,7 @@
    "eurogamer: 2/100",
    "dexerto_gta: 8/50",
    "rockstarintel: 8/10",
-   "gtaboom: 14/30",
+   "gtaboom: 13/30",
    "reddit: 23/25",
    "tg_gtavistar: 11/18",
    "tg_gta6deluxe: 14/14",
