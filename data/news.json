@@ -1,6 +1,139 @@
 {
  "stories": [
   {
+   "id": "a2cb6863f7f2",
+   "title": "Хакер-группа Сyberleek, слившая геймплей GTA 6, опубликовала манифест",
+   "first_seen": "2026-11-13T13:01:23Z",
+   "updated": "2026-11-13T13:01:23Z",
+   "items": [
+    {
+     "id": "a2cb6863f7f2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Хакер-группа Сyberleek, слившая геймплей GTA 6, опубликовала манифест",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3h4WTNtRFNFeDViRG82QVRWY2o0cXUzM3hEaG94NDh0N3VuRzdTZjZXUzNuNUl1Z3F1UzZ3eHMxTFlTYUNtZGJRRW8zZUVVelNWRHc5UnQ2VDMyUG1Cay1GTkJEMDZQdFd1d1c0RGx5eXYwUVp3NUdQMDM4a1k4Ry1vT1J3OF9fY1A3cWhTNmFLYmxFdDQyX0xjUXk?oc=5",
+     "ts": "2026-11-13T11:55:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "геймплей",
+    "слив"
+   ],
+   "score": 55,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Cyberleek выпустил манифест после слива геймплея GTA 6",
+    "summary": "Хакер-группа Cyberleek, ранее слившая геймплей GTA 6, опубликовала манифест. Об этом сообщает GoHa.Ru. Официально Rockstar это не комментировала.",
+    "idea": "За 30–40 секунд разберём, что написано в манифесте Cyberleek и почему это важно после слива геймплея. Зрителю интересно, ждать ли новых утечек и реакции Rockstar.",
+    "hook": "Cyberleek снова в деле: хакеры опубликовали манифест после слива геймплея GTA 6.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-13T13:01:26Z"
+   },
+   "msg_id": 896
+  },
+  {
+   "id": "d9cca7ede990",
+   "title": "Got an UPDATE to preload guys!",
+   "first_seen": "2026-11-13T13:01:23Z",
+   "updated": "2026-11-13T13:01:23Z",
+   "items": [
+    {
+     "id": "d9cca7ede990",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Got an UPDATE to preload guys!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xv76jr/got_an_update_to_preload_guys/",
+     "ts": "2026-11-13T12:57:03Z",
+     "summary": "submitted by /u/TH3_FALL1N1 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3a6de884be47",
+   "title": "GTA 6 Day One Patch Is Already Rolling Out on PS5",
+   "first_seen": "2026-11-13T13:01:23Z",
+   "updated": "2026-11-13T13:01:23Z",
+   "items": [
+    {
+     "id": "3a6de884be47",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "VICE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Day One Patch Is Already Rolling Out on PS5",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FcTA1cnQyaVphNno0Tm5PSDl5ZUgtSVZJMkhycWtDdElrcnFmZkVscllER3BzcTcwa1pnaEg3Zml5a1NjYkFOeGc4LXh5RDdqUHd3RGVydDZseW5qV3Rkd2pTc0o1QlItTG1vdFVjNkJLaVlvemNQVw?oc=5",
+     "ts": "2026-11-13T12:58:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1e8b331cf713",
+   "title": "Pilot recreates GTA VI logo from the sky",
+   "first_seen": "2026-11-13T12:10:50Z",
+   "updated": "2026-11-13T13:01:22Z",
+   "items": [
+    {
+     "id": "1e8b331cf713",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "LiveNOW from FOX",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Pilot recreates GTA VI logo from the sky",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kU3h4emg3VVZsUm84QkxHc0pnRzk0M1ZWQmt0WUlBME1BcVBsS2UzYzczVFFlQW9PT2RFdUEycklKOVNLWS1adGZtWGhyMnZ5V240bjZQSUN5SG1oaGxFNzRMSdIBaEFVX3lxTE5zaUItSldUVS1BSFozTU1ETHRjVFg1cmFRTVBZb3NvV3JjYk5jbFUxWTV3Yi1DdGFLYS03QlA5bGNWVjlybUNqTDJtaWJiSHJmTXB5Nmh1dTVtUTNJRy1EbFBpMjI4dnUx?oc=5",
+     "ts": "2026-11-13T11:48:21Z",
+     "summary": ""
+    },
+    {
+     "id": "df3f3e631757",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "LiveNOW from FOX",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Pilot recreates GTA VI logo from the sky",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kU3h4emg3VVZsUm84QkxHc0pnRzk0M1ZWQmt0WUlBME1BcVBsS2UzYzczVFFlQW9PT2RFdUEycklKOVNLWS1adGZtWGhyMnZ5V240bjZQSUN5SG1oaGxFNzRMSQ?oc=5",
+     "ts": "2026-11-13T11:48:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "501b48a5d973",
    "title": "GTA VI Betting Odds At Stake: Kick Streamer Race, Ending And Metacritic Markets",
    "first_seen": "2026-11-13T12:50:56Z",
@@ -524,32 +657,6 @@
    ],
    "tags": [],
    "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1e8b331cf713",
-   "title": "Pilot recreates GTA VI logo from the sky",
-   "first_seen": "2026-11-13T12:10:50Z",
-   "updated": "2026-11-13T12:10:50Z",
-   "items": [
-    {
-     "id": "1e8b331cf713",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "LiveNOW from FOX",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Pilot recreates GTA VI logo from the sky",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kU3h4emg3VVZsUm84QkxHc0pnRzk0M1ZWQmt0WUlBME1BcVBsS2UzYzczVFFlQW9PT2RFdUEycklKOVNLWS1adGZtWGhyMnZ5V240bjZQSUN5SG1oaGxFNzRMSdIBaEFVX3lxTE5zaUItSldUVS1BSFozTU1ETHRjVFg1cmFRTVBZb3NvV3JjYk5jbFUxWTV3Yi1DdGFLYS03QlA5bGNWVjlybUNqTDJtaWJiSHJmTXB5Nmh1dTVtUTNJRy1EbFBpMjI4dnUx?oc=5",
-     "ts": "2026-11-13T11:48:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -102851,152 +102958,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "1064a9bac851",
-   "title": "E11EVEN Miami Brings Vice City's NINE1NINE Nightclub to Life with a Month-Long Takeover Celebrating Grand Theft Auto VI",
-   "first_seen": "2026-11-05T14:31:09Z",
-   "updated": "2026-11-06T13:01:08Z",
-   "items": [
-    {
-     "id": "1064a9bac851",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PR Newswire",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "E11EVEN Miami Brings Vice City's NINE1NINE Nightclub to Life with a Month-Long Takeover Celebrating Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNkhNT0ZFbjJBTW9JazZKeXBxY0RYd3lJVnZvU0FmdGFaZ09kaDZnSFFJOURHOXVFYnpGXzRWQ3phM1VPcGRjTnR1SVdLN2g4Z3lYcHhFSnJRaVNya3VhbTZJbFB0bWFHNHU5VG9uMHdrdUtmbGc0WEloeTNmY191QUlnbzIwS0lnenRLTTc0MVpaei03ZGtENzcyUjdDczFNVGVPYkVMTF9Udm9qSXhQSmpWb2lBSzVFX0dzTlZ4bkI0Z25PRGNmTjA3N2UyTEV4WUNKX1VvVXpYQVFXd2hVLUxNQ3lsTDRmSkp3R055ckVSMFRLOUdZeUlpblhBcVFhQm9OeA?oc=5",
-     "ts": "2026-11-05T14:16:00Z",
-     "summary": ""
-    },
-    {
-     "id": "8f09657935bc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Morningstar",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "E11EVEN Miami Brings Vice City's NINE1NINE Nightclub to Life with a Month-Long Takeover Celebrating Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSjZqY3pDMUhKSU5RWEtNcDd6R3FBZVROS2FLX1A5dmJWNnNDanRPdE5zVGZBdnV5WUxGNURrblE3ZEJ6aUY4VWNaODdxRWxHX3BwWWZrY2RDSjktSVdQNElGQVdGYjhXZ1BpbGNVcS1UeXpTUGJNOXA2ZFVMVHB1dF9yMEtpdzM3QjJ3TTBWNHRZa3FPaW8xN2dLRUNUY0ZIa0RfYXJWYXVyWUFqVF9kTzdySmJ0OW5QQzBJd293T3hSZS1mRjdMR21vZ3phNGZUZlpkUjBmUVowVHJlLWxhOXBGWXpxRlBrUGtvc3RKdGx2VFJ6cjRFUURWTk9jYWN4X0JXeWlFS2tQZVU?oc=5",
-     "ts": "2026-11-05T14:16:00Z",
-     "summary": ""
-    },
-    {
-     "id": "596d39420994",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "We Rave You",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "NINE1NINE takeover: E11EVEN goes Vice City for a full month",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjN2VVNFMllRY09TMTJnN094M195MTRrM0JUaGVpdGFDLUF0WEpfQ2luSUxvUHM0Y19tbm5IQVJ3bkZpUEZRY2UzZnRiRlNpRXc0WDVnSEs2Q1ZUNmtNdV9IZ1NjS1dTZXlRMnhWbmo4cGI2eVFNT2VWYUZKczN4Q3dCVU9SUFJpczNERnZBRXQ4dw?oc=5",
-     "ts": "2026-11-06T12:50:30Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Вайс-Сити ожил в Майами: месяц вечеринок NINE1NINE к GTA 6",
-    "summary": "По данным PR Newswire и Morningstar, ночной клуб E11EVEN Miami проводит месячную акцию, воссоздавая NINE1NINE из Вайс-Сити в честь GTA 6. Посетителей ждут тематические ночи и атмосфера игры.",
-    "idea": "Короткая экскурсия по реальной вечеринке NINE1NINE с узнаваемыми деталями Вайс-Сити. Зрителю интересно увидеть, как выглядит мир GTA 6 вживую.",
-    "hook": "Вайс-Сити стал реальным: месяц вечеринок NINE1NINE в Майами.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-05T15:10:57Z"
-   },
-   "msg_id": 541
-  },
-  {
-   "id": "13dd347659d1",
-   "title": "Новое сравнение показало огромную разницу между GTA 5 и GTA 6",
-   "first_seen": "2026-11-06T13:01:08Z",
-   "updated": "2026-11-06T13:01:08Z",
-   "items": [
-    {
-     "id": "13dd347659d1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW.News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Новое сравнение показало огромную разницу между GTA 5 и GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFg2RmdEbDk1M25hUFJjLWNOWndiUFp1R0JSYWxvc2laUFFVUWVfMFphR1ZqQlN1OHZEdGlYckRsbW9PNTBuQXBaZnVfLWNSSlQ5ZGxKSmVsOTRNTk1UTEQ2akxaOEhWcFBjaFctYklJak9xd2NJdkdYaUc5ZFFNcXNtdzEwWFMybHpEMk81bnEtQ1VNY2JfXzFwSmdUNF9O?oc=5",
-     "ts": "2026-11-06T12:27:06Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "23b743431e6b",
-   "title": "So I know that holding a pistol or shotgun for example in public will cause the NPC to become weary of you n such",
-   "first_seen": "2026-11-06T13:01:08Z",
-   "updated": "2026-11-06T13:01:08Z",
-   "items": [
-    {
-     "id": "23b743431e6b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "So I know that holding a pistol or shotgun for example in public will cause the NPC to become weary of you n such",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpc2ib/so_i_know_that_holding_a_pistol_or_shotgun_for/",
-     "ts": "2026-11-06T12:53:27Z",
-     "summary": "I know the player can hide their pistol under their shirt but what about your secondary pistol? I don't think realistically or visually you have 2 pistols hosting the back of your ass under your ass. With a shotgun will you be allowed to carry it on your back with a holster in public? submitted by /u/JonFonArt to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "adbda11303aa",
-   "title": "Более восьми часов в небе ради игры: пилот нарисовал гигантский плакат GTA 6 траекторией полета самолета",
-   "first_seen": "2026-11-06T13:01:08Z",
-   "updated": "2026-11-06T13:01:08Z",
-   "items": [
-    {
-     "id": "adbda11303aa",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "24 Канал",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Более восьми часов в небе ради игры: пилот нарисовал гигантский плакат GTA 6 траекторией полета самолета",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcThyVWU3MnJGVUFSbkhtdFo2TGJPdThrTG16dTQ3Q3l4bC16XzRtTDVSZzNmX05uTm81cl93czBpN2VZbTFQWmNGSktLRDJwQXhFRHN3eHRYZGtRai1OS3c4b1p4Tkg4OVQ1SElha090V2tDV3RrVjNVZzZEbkFVVU5NcGNUNHJ4aG9BUFNXV0JYRFJ6dWNhY01VTDNIdUQ5VU1tRndrMjM4Uk9qRmtBVzZYaFBxZFEwRFhManhQTdIBxAFBVV95cUxOUG5uRDU3MFlzZlJFZTlhQ0YxSlp0eFZyNkVJT3VPSlBOX0RFZVlaaUhwUzA5NWFvbnZ2N0FzSGtUUjZIalU5Vl9hRWhobEVlVFRfdjdhODc4OEJZeXFMY1g2Y0s1SDczSHo4Y1VZY2ZjcWpLeU5rYXRoNkp0Qm9VQVBCMjdoYUI3eUVDNmh4U3dnR1NvOGVaNG16Q0hRX19pY2FxOERQbVRLQ2NRbXJsaFFQUHR4Y1VmYTI5X2JxZkdXWmlk?oc=5",
-     "ts": "2026-11-06T12:54:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T12:50:56Z",
+  "last_run": "2026-11-13T13:01:27Z",
   "last_log": [
    "rockstar_site: 0/8",
    "gnews_en: 92/100",
