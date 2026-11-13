@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "7c9d51d8a410",
+   "title": "Абсолютный рекорд по предзаказам: GTA 6 заработала 1 млрд долларов ещё до выхода",
+   "first_seen": "2026-11-13T13:40:55Z",
+   "updated": "2026-11-13T13:40:55Z",
+   "items": [
+    {
+     "id": "7c9d51d8a410",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ITC.ua",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Абсолютный рекорд по предзаказам: GTA 6 заработала 1 млрд долларов ещё до выхода",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjN0bnVkNjNsdUwtZkY2RERjRzFUTUdmMFU4ZlVWejhnUlBfQ3lTdmlGZ0hJbEJZT0xVMGVuRzFZdlFuRnZ2blZMU3ZJLW9CeXBwWENuQkZxOE9lR0l5SkRHaFd6UWNSaXNmLXJHRlA1YVRwaXBXblhTSVhfeC1fZTNWM3dxYVhkc3Q0WnlqUmd1WG5EX1hDSnVDQjJxUXZid3FWLS05Z9IBrAFBVV95cUxNbXp3Z3VHWVBTS2d5Z3BCUVBEZlZaNXdmVHZYaUN6dUhsdE5xUWFSR25Vc2RrMldDZ3pfeDNqRndTQzJoenVGZEJOaG1KY0p3akw5dWQ1Y3cwM3RxcXA3UGNDVmVERHk0TGVLME80U2loV0J5Y0ZtdEdWS2hOdFVjenZfUEVJbUlGRXF6LURKeUU3bl9YVDNNUkxiT2pmdmUxY3lSZ1ZrcVdXZlpT?oc=5",
+     "ts": "2026-11-13T13:24:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "a623cfcf454f",
    "title": "GTA 6 Was Almost Refused a Rating in South Korea Due to 'Genital Nudity'",
    "first_seen": "2026-11-13T13:31:00Z",
@@ -103341,9 +103369,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T13:31:05Z",
+  "last_run": "2026-11-13T13:40:55Z",
   "last_log": [
-   "rockstar_site: 0/9",
+   "rockstar_site: 0/10",
    "gnews_en: 92/100",
    "gnews_ru: 95/100",
    "gamesbeat: 0/10",
@@ -103352,9 +103380,9 @@
    "ign: 1/20",
    "eurogamer: 3/100",
    "dexerto_gta: 8/50",
-   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
+   "rockstarintel: 8/10",
    "gtaboom: 10/30",
-   "reddit: 22/25",
+   "reddit: 21/25",
    "tg_gtavistar: 15/18",
    "tg_gta6deluxe: 14/14",
    "tg_gta6_m: 15/19",
