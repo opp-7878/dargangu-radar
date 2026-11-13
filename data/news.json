@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "57f02c68faca",
+   "title": "GTA VI оставила игроков без интернета: предзагрузка игры вызвала масштабные сбои в Европе",
+   "first_seen": "2026-11-13T05:10:48Z",
+   "updated": "2026-11-13T05:10:48Z",
+   "items": [
+    {
+     "id": "57f02c68faca",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA VI оставила игроков без интернета: предзагрузка игры вызвала масштабные сбои в Европе",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHNlVmVmX1RnaTJsRGVsRHR1VmQ1dlBISUVuZzFtaWlKbjN4bzc4T1ZNQWI3ODNmSTJ1NDBNNXZsRVp5TnlVbVlJanAyQTZXR2sxa3EzWUNwZGxrZnFUTVBuQzdlMi1Ia0FlX3VNX1E5c2VUTHRFeFFHWExSYnJka0piX1FTTmpROEE4SndWcmt3NGpVZk5sYk1nWm9VdG9tX08xbWhDZFFCdFJFaXJudm1wRFgtLWQtYlh3QjJNUWF5SGMxNHA40gHMAUFVX3lxTFBGUm9lcFlvQTd3djF1MzNJZXllbExhVDR1ZnljcVNrNldPNXRuRkVKM3FGUGtCY2EyRDJFN1BWR3VXQTVScERmZnlYMHZVU2owQVIycVJtZGdPZXdqODdGM08tbklndGRQV1haNG4xY2l5OEc1dFl4ZnBudXdjWlVpcWswS1NuLURGU3dIcmN0eGxGVFY1STdaS1pQeUdrSHMzNEtDbDhKcDVWZ1lsNURQOWtnWVRqNTByQk9fNkhNajVtdnB4SnBrMDlTaA?oc=5",
+     "ts": "2026-11-13T04:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Предзагрузка GTA 6 обрушила интернет в Европе: сбои по всему региону",
+    "summary": "По данным iXBT.games, предзагрузка GTA 6 вызвала масштабные сбои интернета в Европе. Из-за наплыва игроков загрузка обновления привела к перегрузке сетей в нескольких странах.",
+    "idea": "Показать карту Европы с «красными» зонами и кадры лагов, объяснив, что предзагрузка GTA 6 перегрузила сети. Зрителю важно понять масштаб и не повторить ошибку в день релиза.",
+    "hook": "Предзагрузка GTA 6 обрушила интернет в Европе — вот как это было.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-13T05:10:53Z"
+   },
+   "msg_id": 883
+  },
+  {
    "id": "a0c9e346dbbb",
    "title": "Anyone complaining about 30 fps didn’t come from this era",
    "first_seen": "2026-11-12T18:31:08Z",
@@ -101100,7 +101139,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T05:01:11Z",
+  "last_run": "2026-11-13T05:10:54Z",
   "last_log": [
    "rockstar_site: 0/13",
    "gnews_en: 97/100",
@@ -101116,7 +101155,7 @@
    "reddit: 23/25",
    "tg_gtavistar: 10/17",
    "tg_gta6deluxe: 14/14",
-   "tg_gta6_m: 16/18",
+   "tg_gta6_m: 15/18",
    "tg_gta6newsdaily: 0/16"
   ],
   "digest": "2026-11-12@21",
