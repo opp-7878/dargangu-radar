@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "aa4bee81cec6",
+   "title": "GTA 6 Third Playable Character Theory",
+   "first_seen": "2026-11-13T15:11:48Z",
+   "updated": "2026-11-13T15:11:48Z",
+   "items": [
+    {
+     "id": "aa4bee81cec6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameByte",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Third Playable Character Theory",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ONzRuZGJ2VzBFbjd6T3g1dmFnVUFHYjYtV3RVVUFKUlFqaXZFN1l6c094SmxrbGdYT2FDbzdnWmFYaEViX0l3Tmg2MjlxeFhDWG8xR2JYSktUNFZORXFCcmhpaVZnY0E?oc=5",
+     "ts": "2026-11-13T15:06:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7851311447b9",
+   "title": "SOLO 4 GIORNI",
+   "first_seen": "2026-11-13T15:11:48Z",
+   "updated": "2026-11-13T15:11:48Z",
+   "items": [
+    {
+     "id": "7851311447b9",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "SOLO 4 GIORNI",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvadjk/solo_4_giorni/",
+     "ts": "2026-11-13T15:11:19Z",
+     "summary": "Not long to go now! It has always been my dream to cover the launch of such a major game live as a journalist—I hope to be in Los Angeles for the next GOTY awards! I hope some information regarding pre-loading might prove useful. submitted by /u/ilukyle to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6f19423fe386",
    "title": "Fake GTA 6 download goes after Steam logins and crypto wallet data",
    "first_seen": "2026-11-13T15:10:49Z",
@@ -103989,9 +104041,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T15:10:53Z",
+  "last_run": "2026-11-13T15:11:48Z",
   "last_log": [
-   "rockstar_site: 0/10",
+   "rockstar_site: 0/9",
    "gnews_en: 94/100",
    "gnews_ru: 95/100",
    "gamesbeat: 0/10",
