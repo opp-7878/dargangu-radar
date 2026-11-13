@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "2545b77acc0d",
+   "title": "Has anyone upgraded their setup?",
+   "first_seen": "2026-11-13T06:20:46Z",
+   "updated": "2026-11-13T06:20:46Z",
+   "items": [
+    {
+     "id": "2545b77acc0d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Has anyone upgraded their setup?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xv0b09/has_anyone_upgraded_their_setup/",
+     "ts": "2026-11-13T06:13:05Z",
+     "summary": "I bought some klipsch surround sound speakers and a 12 inch sub along with finally mounting my TV to the wall. Just moved a new couch in today as well. All things I have been wanting and would have eventually gotten regardless, but have not pulled the trigger on. For example, my puppy evicerated my last couch and I have been eyeing speakers for over 2 years and with gta coming out in a week, it seemed like the perfect time to do it. Is anyone else upgrading their setup before thursday? submitted by /u/Agreeable_Carry5641 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a1387910ee5a",
+   "title": "GTA VI могла работать в 60 FPS, но Rockstar не захотела опустошать мир игры",
+   "first_seen": "2026-11-13T06:20:46Z",
+   "updated": "2026-11-13T06:20:46Z",
+   "items": [
+    {
+     "id": "a1387910ee5a",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA VI могла работать в 60 FPS, но Rockstar не захотела опустошать мир игры",
+     "url": "https://t.me/GTAVIStar/884",
+     "ts": "2026-11-13T06:15:32Z",
+     "summary": "GTA VI могла работать в 60 FPS, но Rockstar не захотела опустошать мир игры • Во время разработки Rockstar удалось добиться 60 FPS в GTA VI на PS5 Pro. Правда, для этого пришлось практически избавиться от машин и большей части пешеходов. Такой компромисс не устроил разработчиков, поскольку они хотели сохранить плотность и реалистичность игрового мира. • Поэтому в финальной версии решили ограничиться 30 FPS на PS5, PS5 Pro и Xbox Series X|S. В Rockstar считают, что важнее использовать ресурсы консолей для создания насыщенного мира Леониды с большим количеством объектов и качественной графикой, чем гнаться за высокой частотой кадров. 6️⃣ GTA VI News 💝 💬 Наш чатикм"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "71cf1d74ad56",
    "title": "GTA 6 Launches In India: Here's How People Are Reacting",
    "first_seen": "2026-11-13T06:10:52Z",
@@ -101454,9 +101506,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T06:10:52Z",
+  "last_run": "2026-11-13T06:20:46Z",
   "last_log": [
-   "rockstar_site: 0/8",
+   "rockstar_site: 0/9",
    "gnews_en: 95/100",
    "gnews_ru: 93/100",
    "gamesbeat: 0/10",
@@ -101468,7 +101520,7 @@
    "rockstarintel: 8/10",
    "gtaboom: 14/30",
    "reddit: 23/25",
-   "tg_gtavistar: 10/17",
+   "tg_gtavistar: 11/18",
    "tg_gta6deluxe: 14/14",
    "tg_gta6_m: 15/18",
    "tg_gta6newsdaily: 0/16"
