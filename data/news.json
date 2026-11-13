@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "f5333228ce64",
+   "title": "Major GTA 6 Update Confirmed Before Launch",
+   "first_seen": "2026-11-13T21:31:09Z",
+   "updated": "2026-11-13T21:31:09Z",
+   "items": [
+    {
+     "id": "f5333228ce64",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ScreenRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Major GTA 6 Update Confirmed Before Launch",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KeXh3VDZSU1BuWXpvRTFJWi1pcGlKenpzcTVUU1lqcjIxR2x6ZVpJQ1NUZFQteDFBTzhGUk53TGF5cEdZT2ZVS0R5RHJFSmhpdVc2S3c0bXB3ejlOUXFjZkVsSXE3OGFCM0plU045S0dkSmpP?oc=5",
+     "ts": "2026-11-13T21:20:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️ Rockstar подтвердила крупное обновление GTA 6 перед релизом",
+    "summary": "По данным ScreenRant, Rockstar подтвердила, что выпустит крупное обновление GTA 6 до запуска 19 ноября 2026. Детали патча и его размер пока не раскрывают.",
+    "idea": "Коротко объясняем, что Rockstar подтвердила патч до релиза, и просим зрителей угадать, что там: фикс багов или контент. Это цепляет ожиданием и вовлекает в комментарии.",
+    "hook": "Rockstar подтвердила: до релиза GTA 6 выйдет крупное обновление.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-13T21:31:14Z"
+   },
+   "msg_id": 932
+  },
+  {
    "id": "af81ee697b7a",
    "title": "Try Unlimited Checklist Tracking on IGN’s GTA 5 Guides This November",
    "first_seen": "2026-11-13T21:20:55Z",
@@ -105915,79 +105954,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "66aff3d00eb7",
-   "title": "Just received this beautiful merch. I’m ready for Nov 19",
-   "first_seen": "2026-11-06T17:40:48Z",
-   "updated": "2026-11-06T21:30:59Z",
-   "items": [
-    {
-     "id": "66aff3d00eb7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Just received this beautiful merch. I’m ready for Nov 19",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpip9f/just_received_this_beautiful_merch_im_ready_for/",
-     "ts": "2026-11-06T17:28:30Z",
-     "summary": "It’s laser engraved on slate stone tiles submitted by /u/jedsender to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "3f325893833d",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "READY FOR NOV 19 🔥",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpoogi/ready_for_nov_19/",
-     "ts": "2026-11-06T21:27:09Z",
-     "summary": "The day is almost here fellas!!!!! What are you guys going to be mainly playing on? I will be mainly playing on my 4K tv but will also play on my portal when not home or if I’m lazy on the couch or in my room. Everyone stay safe and see you in Vice City 🌴 submitted by /u/akmmane4eva to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a8701d140c8c",
-   "title": "West Coast Customs car comparison sliders are now on the GTA Wiki",
-   "first_seen": "2026-11-06T21:30:59Z",
-   "updated": "2026-11-06T21:30:59Z",
-   "items": [
-    {
-     "id": "a8701d140c8c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "West Coast Customs car comparison sliders are now on the GTA Wiki",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpoma1/west_coast_customs_car_comparison_sliders_are_now/",
-     "ts": "2026-11-06T21:24:33Z",
-     "summary": "Link: gta.wiki/West_Coast_Customs submitted by /u/gtawiki to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T21:27:02Z",
+  "last_run": "2026-11-13T21:31:15Z",
   "last_log": [
-   "rockstar_site: 0/6",
-   "gnews_en: 0/0",
+   "rockstar_site: 0/5",
+   "gnews_en: 98/100",
    "gnews_ru: 97/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
