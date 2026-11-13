@@ -1,6 +1,184 @@
 {
  "stories": [
   {
+   "id": "49e108bc79c1",
+   "title": "Стример лишился GTA VI, показав код активации в прямом эфире",
+   "first_seen": "2026-11-13T20:01:22Z",
+   "updated": "2026-11-13T20:01:22Z",
+   "items": [
+    {
+     "id": "49e108bc79c1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "BFM.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Стример лишился GTA VI, показав код активации в прямом эфире",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1meXpETDI4c3E3eVdqMUFLVmJjeHVqenVpZFZyUkVQTnR2ZUY3YkNLSTZZVHRZVDhwM3BpY0N1N1BrOWVS0gFKQVVfeXFMTXk2ZktZeGVwUG5rMjFzVldZbXlSenpCQVdtTVYwTl9pUVJEVTNRMG5Uek10Ym1maC00TFFycjVYeDFjcDJmM0JTbUE?oc=5",
+     "ts": "2026-11-13T19:35:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f4daf16b2e0c",
+   "title": "Can GTA 6 download codes be seen through sealed boxes? Warning goes viral days before launch",
+   "first_seen": "2026-11-13T20:01:22Z",
+   "updated": "2026-11-13T20:01:22Z",
+   "items": [
+    {
+     "id": "f4daf16b2e0c",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Can GTA 6 download codes be seen through sealed boxes? Warning goes viral days before launch",
+     "url": "https://www.dexerto.com/gta/can-gta-6-download-codes-be-seen-through-sealed-boxes-warning-goes-viral-days-before-launch-3428147/",
+     "ts": "2026-11-13T19:51:10Z",
+     "summary": "GTA 6 players are raising concerns over a potential security flaw that could allow people to see download codes through sealed physical copies."
+    }
+   ],
+   "tags": [],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Уязвимость GTA 6: коды видны через запечатанные коробки",
+    "summary": "Игроки GTA 6 обеспокоены возможной уязвимостью: коды загрузки могут быть видны через запечатанные физические копии. Предупреждение об этом стало вирусным за несколько дней до запуска игры.",
+    "idea": "Показываем, как через блистер коробки можно считать код, и объясняем, как защитить предзаказ. Зрителю важно не потерять деньги и доступ к игре.",
+    "hook": "Твой код GTA 6 могут считать через запечатанную коробку — проверяй так.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-13T20:01:26Z"
+   },
+   "msg_id": 927
+  },
+  {
+   "id": "acc741654334",
+   "title": "Which version did/will you buy?",
+   "first_seen": "2026-11-13T20:01:22Z",
+   "updated": "2026-11-13T20:01:22Z",
+   "items": [
+    {
+     "id": "acc741654334",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Which version did/will you buy?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvhwby/which_version_didwill_you_buy/",
+     "ts": "2026-11-13T19:54:07Z",
+     "summary": "View Poll submitted by /u/BabylonianWeeb to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c9106362c817",
+   "title": "VI DAYS LEFTOVER FOR ROCKSTAR GAME",
+   "first_seen": "2026-11-13T20:01:22Z",
+   "updated": "2026-11-13T20:01:22Z",
+   "items": [
+    {
+     "id": "c9106362c817",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "VI DAYS LEFTOVER FOR ROCKSTAR GAME",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvhxzl/vi_days_leftover_for_rockstar_game/",
+     "ts": "2026-11-13T19:55:55Z",
+     "summary": "GTA VI submitted by /u/the_driven_rider to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7dd39a254e9d",
+   "title": "Kick and Twitch are giving away thousands of GTA 6 codes to viewers before launch",
+   "first_seen": "2026-11-13T20:01:22Z",
+   "updated": "2026-11-13T20:01:22Z",
+   "items": [
+    {
+     "id": "7dd39a254e9d",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Kick and Twitch are giving away thousands of GTA 6 codes to viewers before launch",
+     "url": "https://www.dexerto.com/gta/kick-and-twitch-are-giving-away-thousands-of-gta-6-codes-to-viewers-before-launch-3428151/",
+     "ts": "2026-11-13T19:57:28Z",
+     "summary": "Kick viewers can unlock a chance at GTA 6 by watching any stream for three hours, while Twitch says it will drop game codes daily through November."
+    }
+   ],
+   "tags": [],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🎁 Kick и Twitch раздают ключи GTA 6 перед релизом",
+    "summary": "По данным Dexerto, Kick и Twitch раздают ключи GTA 6 перед запуском. На Kick шанс получить игру дают за 3 часа просмотра любого стрима, а Twitch обещает ежедневные дропы кодов в ноябре.",
+    "idea": "Короткая инструкция: как ловить дропы на Twitch и шанс на Kick до релиза. Зрителю важно не упустить бесплатные ключи прямо сейчас.",
+    "hook": "Бесплатные ключи GTA 6? Вот где их ловить на Kick и Twitch прямо сейчас.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-13T20:01:31Z"
+   },
+   "msg_id": 928
+  },
+  {
+   "id": "f5b2b19994de",
+   "title": "GTA 6 Receives Update 1.002 and It Looks Like Rockstar Might Be Rolling Out Patches in Waves",
+   "first_seen": "2026-11-13T20:01:22Z",
+   "updated": "2026-11-13T20:01:22Z",
+   "items": [
+    {
+     "id": "f5b2b19994de",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MP1st",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Receives Update 1.002 and It Looks Like Rockstar Might Be Rolling Out Patches in Waves",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2JWT1N0TWx5TzRxVDdWQVRabTN1aEVkcXFwX3pqUXB0NjFXYWc2TEkzREViaUVTTUgxRXJIa1ExeEk4aGJrOVNpVWU5blFYQTVlY2ZZSlIyMG9UcVVzRmU0MmJIanF3d2d1bWQ2czVkRV80S1JVSU9HSmVQT1hlcDFwMC00aTRYNkNGTzZfUjJhTE5jWlNESENzWUZZamFFeHhsQ0VZQjE?oc=5",
+     "ts": "2026-11-13T19:58:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "0806e6d7dcc9",
    "title": "Theme Music Is Amazing",
    "first_seen": "2026-11-13T19:50:49Z",
@@ -105627,115 +105805,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "94a71e353174",
-   "title": "Is there any credibility to the rumour on X that the game has 201 main story missions across 9 chapters?",
-   "first_seen": "2026-11-06T20:01:11Z",
-   "updated": "2026-11-06T20:01:11Z",
-   "items": [
-    {
-     "id": "94a71e353174",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Is there any credibility to the rumour on X that the game has 201 main story missions across 9 chapters?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpmh1l/is_there_any_credibility_to_the_rumour_on_x_that/",
-     "ts": "2026-11-06T19:56:18Z",
-     "summary": "In case you don’t know what I’m talking about this rumour been circulating on X saying that the game has 201 main missions. What do you guys think? submitted by /u/Holiday-Fix2882 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6c9f1e29cd19",
-   "title": "New car screenshots",
-   "first_seen": "2026-11-06T19:50:55Z",
-   "updated": "2026-11-06T19:50:55Z",
-   "items": [
-    {
-     "id": "6c9f1e29cd19",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "New car screenshots",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpm66x/new_car_screenshots/",
-     "ts": "2026-11-06T19:43:47Z",
-     "summary": "You can find more via the Hypebeast instagram page submitted by /u/Awesomeguy215 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "935a0dd06b21",
-   "title": "Girlfriend texted me. ❤️",
-   "first_seen": "2026-11-06T19:50:55Z",
-   "updated": "2026-11-06T19:50:55Z",
-   "items": [
-    {
-     "id": "935a0dd06b21",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Girlfriend texted me. ❤️",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpm7qa/girlfriend_texted_me/",
-     "ts": "2026-11-06T19:45:37Z",
-     "summary": "submitted by /u/Brandon9one to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "618ca27d59a9",
-   "title": "Hypebeast has just posted new in-game looks at GTA 6 cars! They’ve posted real life vs in-game comparison shots. The cars were customized by West Coast Customs",
-   "first_seen": "2026-11-06T19:50:55Z",
-   "updated": "2026-11-06T19:50:55Z",
-   "items": [
-    {
-     "id": "618ca27d59a9",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Hypebeast has just posted new in-game looks at GTA 6 cars! They’ve posted real life vs in-game comparison shots. The cars were customized by West Coast Customs",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xpmbvz/hypebeast_has_just_posted_new_ingame_looks_at_gta/",
-     "ts": "2026-11-06T19:50:23Z",
-     "summary": "submitted by /u/yourfavchoom to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T19:50:49Z",
+  "last_run": "2026-11-13T20:01:31Z",
   "last_log": [
    "rockstar_site: 0/6",
    "gnews_en: 98/100",
@@ -105745,7 +105819,7 @@
    "insider_gaming: 1/10",
    "ign: 1/20",
    "eurogamer: 5/100",
-   "dexerto_gta: 5/50",
+   "dexerto_gta: 7/50",
    "rockstarintel: 7/10",
    "gtaboom: 11/30",
    "reddit: 23/25",
