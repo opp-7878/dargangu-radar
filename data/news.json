@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "1110c62b9987",
+   "title": "Grand Theft Auto VI slows down Swiss data networks",
+   "first_seen": "2026-11-13T09:10:50Z",
+   "updated": "2026-11-13T09:10:50Z",
+   "items": [
+    {
+     "id": "1110c62b9987",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "SWI swissinfo.ch",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI slows down Swiss data networks",
+     "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOWUVTM2E0a2dGcGRGbU50WUZqdWRhMElPRkEtUmpFSG1IOFByajlYXzdhLVp0YmlEMGpQU3hLaDJDWWRaenNzemYxaVZDYU9SU0UyMGNkcE85eFNSMmZhNUlVM1RwcEl6TE5VXy01VDNoVU1OMWM0Y3hyU2ViWVNnTVFRUV9XbDNLMHNOWThtRWx6aGFuZjlqSnh2dzUwZTdtc0hJMjhGamlUOFo3ZWhKSnNKbTc0SENvVUhoV1hrYUEzOFBBTGJQdGJwdEJXQlFQU1k0QnFTTkRxd2Y5Q3ZNSjh4N1hGVFltMmZaS1Y5YWpleDBPaTlQeU9mRFBKSHBRMVlKVTJhZDRHSVdOUkRCaEVkb0xRSmdSbnJ3Q1NNdS02dElvS0JYNGtaSEtWNkl3NEJzcFktbTdZdXp6Y1lHSlJ6ZGE1aUJzaGR6UFhyNWY?oc=5",
+     "ts": "2026-11-13T09:03:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ddae76f7be73",
    "title": "On Your Side: Rising costs for Christmas shopping season; \"Grand Theft Auto VI\" scam alerts",
    "first_seen": "2026-11-12T17:40:47Z",
@@ -101840,70 +101866,18 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b6c5637c9917",
-   "title": "😎 Наконец-то достойный противник — Zelda: Ocarina of Time получила 96 баллов на Metacritic Пока это самая высокооценённая игра 2026 года Интересно, удержится ли",
-   "first_seen": "2026-11-06T09:10:47Z",
-   "updated": "2026-11-06T09:10:47Z",
-   "items": [
-    {
-     "id": "b6c5637c9917",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "😎 Наконец-то достойный противник — Zelda: Ocarina of Time получила 96 баллов на Metacritic Пока это самая высокооценённая игра 2026 года Интересно, удержится ли",
-     "url": "https://t.me/GTA6_m/9307",
-     "ts": "2026-11-06T09:01:26Z",
-     "summary": "😎 Наконец-то достойный противник — Zelda: Ocarina of Time получила 96 баллов на Metacritic Пока это самая высокооценённая игра 2026 года Интересно, удержится ли она на вершине через две недели 🎩 🥺 Канал про GTA 6 | Наш чат"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "81f43db6b7e7",
-   "title": "ДАРИМ 10 КОПИЙ GTA 6 ❤️ и не только!",
-   "first_seen": "2026-11-06T09:10:47Z",
-   "updated": "2026-11-06T09:10:47Z",
-   "items": [
-    {
-     "id": "81f43db6b7e7",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "ДАРИМ 10 КОПИЙ GTA 6 ❤️ и не только!",
-     "url": "https://t.me/GTAVIStar/837",
-     "ts": "2026-11-06T09:03:02Z",
-     "summary": "ДАРИМ 10 КОПИЙ GTA 6 ❤️ и не только! Победитель сможет выбрать тайл на выбор: — GTA 6 — Call of Duty: Modern Warfare 4 — Phantom Blade Zero — Gears of War: E-Day Как участвовать: ✅ Подписаться на Plati.Market ✅ Нажать «Участвовать» под постом Итоги - 15 ноября 17:00 в этом же посте 6️⃣"
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-13T09:01:31Z",
+  "last_run": "2026-11-13T09:10:50Z",
   "last_log": [
    "rockstar_site: 0/9",
    "gnews_en: 93/100",
    "gnews_ru: 93/100",
    "gamesbeat: 0/10",
    "vgc: 1/10",
-   "insider_gaming: 3/10",
+   "insider_gaming: 2/10",
    "ign: 1/20",
    "eurogamer: 2/100",
    "dexerto_gta: 8/50",
