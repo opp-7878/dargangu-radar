@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "8bfa8bdaf7c5",
+   "title": "GTA 6 physical copy codes reportedly visible by flashlight",
+   "first_seen": "2026-11-14T06:01:35Z",
+   "updated": "2026-11-14T06:01:35Z",
+   "items": [
+    {
+     "id": "8bfa8bdaf7c5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Tbreak UAE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 physical copy codes reportedly visible by flashlight",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80aGVFalU4X2JpcVNZUEh3R19ZZ3Q0TzkzYmZkSGNXcDJROUQ2OC01WHZQUTYxN0RhTFgyY0Nxc1U4dmpMNVcwVFRsZnpxSzF6WUNDZDk2dk5YM2I2VXVJdjlfTkRIQWM?oc=5",
+     "ts": "2026-11-14T05:53:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5700f35783f3",
+   "title": "Good try but no cigar.",
+   "first_seen": "2026-11-14T06:01:35Z",
+   "updated": "2026-11-14T06:01:35Z",
+   "items": [
+    {
+     "id": "5700f35783f3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Good try but no cigar.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xvurdv/good_try_but_no_cigar/",
+     "ts": "2026-11-14T05:55:05Z",
+     "summary": "submitted by /u/GoodGuyScott to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ce5421fe51b1",
+   "title": "I couldn't get the day off work(UK)",
+   "first_seen": "2026-11-14T06:01:35Z",
+   "updated": "2026-11-14T06:01:35Z",
+   "items": [
+    {
+     "id": "ce5421fe51b1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I couldn't get the day off work(UK)",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvurng/i_couldnt_get_the_day_off_workuk/",
+     "ts": "2026-11-14T05:55:30Z",
+     "summary": "Guys I'm annoyed I couldn't get the day off. So on the 19th I'm working 8 at night until 8 in the morning. I'm planning on staying up on the 18th until midnight and playing the second it hits midnight. It'll give me a few hours but it's not enough. I wish I could play earlier. Can I change my location to New Zealand or some shit? Lmao. submitted by /u/Capable_Type6320 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "eec04b47fec5",
    "title": "Will GTAVI be like Red Dead Redemption 2?",
    "first_seen": "2026-11-13T11:01:25Z",
@@ -107942,9 +108020,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T05:50:48Z",
+  "last_run": "2026-11-14T06:01:35Z",
   "last_log": [
-   "rockstar_site: 0/4",
+   "rockstar_site: 0/3",
    "gnews_en: 96/100",
    "gnews_ru: 96/100",
    "gamesbeat: 0/10",
@@ -107961,7 +108039,7 @@
    "tg_gta6_m: 16/18",
    "tg_gta6newsdaily: 2/18"
   ],
-  "digest": "2026-11-13@21",
+  "digest": "2026-11-14@9",
   "tg_offset": 854319078
  }
 }
