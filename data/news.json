@@ -1,6 +1,346 @@
 {
  "stories": [
   {
+   "id": "a498db5feea0",
+   "title": "GTA VI Physical Copies Face Used Code Issues",
+   "first_seen": "2026-11-14T16:51:03Z",
+   "updated": "2026-11-14T17:01:33Z",
+   "items": [
+    {
+     "id": "a498db5feea0",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA VI Physical Copies Face Used Code Issues",
+     "url": "https://rockstarintel.com/gta-vi-physical-copies-face-used-code-issues/",
+     "ts": "2026-11-14T16:49:34Z",
+     "summary": "GTA VI physical copies have raised concerns among buyers after fans discovered a potential security issue with the game’s packaging. The discovery has been shared online, with some players showing how the download code inside the box could potentially be accessed without purchasing or opening the game. The issue was first brought to attention by [...] The post GTA VI Physical Copies Face Used Code Issues appeared first on RockstarINTEL ."
+    },
+    {
+     "id": "9d8bc510cbe7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RockstarINTEL",
+     "group": "media",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA VI Physical Copies Face Used Code Issues",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ajktU1NlQ0gyZVVYWlhkUG4wc3d5Xy13MlllZ2RaWHl6TUJxbkJmd2lRUWhfcnl5QWJiOFByYmdnSUE2ekozb1Q5N0JILXJUd0dPa1NQTE8xanpMUVJXRHgwMFpOOHBONGJWbm4tdGJQdWxWeGpQNzdxaw?oc=5",
+     "ts": "2026-11-14T16:49:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Коробки GTA 6: код активации можно использовать без вскрытия",
+    "summary": "Фанаты обнаружили, что код загрузки в физических копиях GTA 6 можно получить, не вскрывая коробку. Об этом сообщили игроки в сети, показав уязвимость упаковки.",
+    "idea": "Короткая демонстрация, как код виден через упаковку, и совет проверить коробку при покупке. Зрителю важно не потерять доступ к игре.",
+    "hook": "Не вскрывай — а код уже использован. Смотри, как это происходит с GTA 6.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-14T16:51:08Z"
+   },
+   "msg_id": 957
+  },
+  {
+   "id": "a3340cbeac91",
+   "title": "Twitch Plans to Give Away Free Copies of GTA 6 Ultimate Edition",
+   "first_seen": "2026-11-14T14:01:12Z",
+   "updated": "2026-11-14T17:01:33Z",
+   "items": [
+    {
+     "id": "a3340cbeac91",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Me downloading the ultimate edition so I have all the cosmetic options for Lucia...",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xvzj40/me_downloading_the_ultimate_edition_so_i_have_all/",
+     "ts": "2026-11-14T10:48:18Z",
+     "summary": "Can't beat the FOMO. submitted by /u/ST-deBurca to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "10df59568f13",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Код.ру",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI бесплатно! Twitch будет ежедневно раздавать Ultimate Edition",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaU29KV0xhQUNRRlNZRm5samxVVHpBb1BCbEN2QjlUYVVJWEs3Vk5UaFQ4TWd5NDJtblktV194MTBWR0JvaW5xUENFTmY5QdIBU0FVX3lxTE1MeUViMVZYM3F3RW45OG5tNzA5TDlLeEYxVHNrYnJpQUVweEdqelJHd2J0by03aVcwWFNwUFBVOWlmMEdIWENIRUtrTkNtQk4xdHFB?oc=5",
+     "ts": "2026-11-14T14:22:36Z",
+     "summary": ""
+    },
+    {
+     "id": "7c940f1febdc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Can’t upgrade GTA 6 Standard Edition to Ultimate Edition",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xw4ino/cant_upgrade_gta_6_standard_edition_to_ultimate/",
+     "ts": "2026-11-14T15:03:14Z",
+     "summary": "submitted by /u/A-D2001 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "6aa0bfd33acc",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "WTFTime.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 будут бесплатно раздавать на Twitch",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNVJtZXJnUFdTc3lsRm1tUlNJdEk2S0lCRF9fSUlNOXVXVlJ0WlBqUXF1WWJjdmZ5RVFySFJlUVRuMy14ZlZ6Z1g1SzVUTW9ObWRhdUxoVmlrRWRxREZicm5CVkNKQkRPVWQzY19tbDh5NU9sOFhnbF9mMDNBT1VGZzl3?oc=5",
+     "ts": "2026-11-14T15:17:05Z",
+     "summary": ""
+    },
+    {
+     "id": "245152111f08",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Twitch раздаст больше десяти тысяч копий GTA VI Ultimate Edition",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeG9KUGZVWU9aZmQ3d3piSWZKQzlVVldSOFlRQlRGMm5PVG5pRG1RV2xBQ3ZmSEZTb2pMOVJYcERldU9GbHNpdXJTb3BrYXdBblh6Q1FwY3U3RnhGR2hNSkdPbTVpRmY3RThzN25lX05UOElYVE1RWXNSOUh5ZGFvSEFXczVzZnZCYmpENi1rck5Dc3F4eVlXc28wSzFoM252Um5kMHhmd2vSAa4BQVVfeXFMTUVRNURmQW9ycEowUTBFdk9WanpTbFlUQ3REdUw4Z0p5XzFwbWNCUGFLM2dybklTdXY4Y1Z2Ty1kNEpqeDlSNUtYR0c1M1l3MlRCdDRKNWwzWXBLM3pfOGVITDVXM25WUkFBY1VuaThYanQwRXFIR3hfNzBObW1KQ2tCVmVnbzlJSjVVakRpRmswOEtOcC1UYlR3UVdRWDc4ak9BaWJidXp1OERPUGNB?oc=5",
+     "ts": "2026-11-14T12:02:00Z",
+     "summary": ""
+    },
+    {
+     "id": "186902e095ea",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Twitch Plans to Give Away Free Copies of GTA 6 Ultimate Edition",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEtDSnVJY3YtSXBpLUNUcVJERGc2R0w1bldKRVM1SXR5MVZjR2x1V1pHNkpiSlpzUmJJUTZiZllUNldLbVR4OGk0enp3NkZyTVZSd1ZMX1RaVU55ZGtpNkYtbmYwaTlveTQwcUFmTUpCckZCdk5yVkpybUZHUnp2SjlKcDhYcnVwWmlqVGVTeVYydkVuVUdYVFVaVVZmUQ?oc=5",
+     "ts": "2026-11-14T16:56:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "21c1dd6c02af",
+   "title": "В сети появился полный трек-лист музыкального альбома GTA 6 — В подборку вошли 34 трека от таких артистов, как Travis Scott, Playboi Carti, Lana Del Rey, Dua Li",
+   "first_seen": "2026-11-14T09:01:12Z",
+   "updated": "2026-11-14T17:01:33Z",
+   "items": [
+    {
+     "id": "21c1dd6c02af",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "В сети появился полный трек-лист музыкального альбома GTA 6 — В подборку вошли 34 трека от таких артистов, как Travis Scott, Playboi Carti, Lana Del Rey, Dua Li",
+     "url": "https://t.me/gta6deluxe/2052",
+     "ts": "2026-11-14T08:56:46Z",
+     "summary": "❗️ В сети появился полный трек-лист музыкального альбома GTA 6 — В подборку вошли 34 трека от таких артистов, как Travis Scott, Playboi Carti, Lana Del Rey, Dua Lipa, JENNIE, SZA, Cardi B и других 🔫 — нас ждет конкретное МЯСО 😀 Подписаться | Наш чат 😀"
+    },
+    {
+     "id": "098424a0b4b9",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "↖️ СЛИЛИ ТРЕК-ЛИСТ АЛЬБОМА GTA VI — сотрудник магазина винила показал все 34 трека с GTA VI: The Album На нём Travis Scott, Playboi Carti, Lana Del Rey, Dua Lip",
+     "url": "https://t.me/GTA6_m/9370",
+     "ts": "2026-11-14T09:21:51Z",
+     "summary": "↖️ СЛИЛИ ТРЕК-ЛИСТ АЛЬБОМА GTA VI — сотрудник магазина винила показал все 34 трека с GTA VI: The Album На нём Travis Scott, Playboi Carti, Lana Del Rey, Dua Lipa, SZA, JENNIE, Cardi B, Future и другие Ой, а где Big Baby Tape? Неужели то был фейк , да ну... 🙂 🥺 Канал про GTA 6 | Наш чат"
+    },
+    {
+     "id": "c65b747bc77b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Утёк трек-лист альбома GTA 6: Playboi Carti, Dua Lipa, Lana Del Rey и ещё 31 трек",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOXNZeTBPRHJvU0Z3cTR4UUk3U0s4Ym9HQ1hSR3lveVJvQjNPZjdzLXdDWS1BeWtUanl6SnpXbXo2d1JNVEpLakN1Nl83aHdaM2kzVF9Ja1VtbWUzZ19ZYTRXWm92ZTk1MHJ1dkJ3ZnpuLWQ1cmUzS2VMX0s2bFNYMVNnN3RfYld6T00yN3U5c09BbkV3SXZpX2F5RFJ0MjE5NzMtSEhxVm44dDZLOVhRaFdXZU5RQUd0YVJxMzBUaGN5THRqeXR2cA?oc=5",
+     "ts": "2026-11-14T10:50:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 71,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 34 трека GTA 6: Travis Scott, Lana Del Rey, Dua Lipa",
+    "summary": "В сети появился полный трек-лист музыкального альбома GTA 6 из 34 треков. По данным TG @gta6deluxe, в подборку вошли Travis Scott, Playboi Carti, Lana Del Rey, Dua Lipa, JENNIE, SZA, Cardi B и другие.",
+    "idea": "Быстрый показ списка с подсветкой громких имён и таймером 34 трека — зрителю интересно, кто из любимых артистов попал в игру и что ждать от радио.",
+    "hook": "Полный трек-лист GTA 6 утёк: 34 трека и куча громких имён.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-14T09:01:15Z"
+   },
+   "msg_id": 943
+  },
+  {
+   "id": "108ebdd74b84",
+   "title": "Только в GTA VI: Rockstar Games показала тизер мультсериала «Макка и друзья»",
+   "first_seen": "2026-11-14T17:01:33Z",
+   "updated": "2026-11-14T17:01:33Z",
+   "items": [
+    {
+     "id": "108ebdd74b84",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameMAG",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Только в GTA VI: Rockstar Games показала тизер мультсериала «Макка и друзья»",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRm9wTXE2YWM5T2M4OERRcmZZVEQxYU5qV051eVdubDZrN2c5RHRDMmJodm5VVU5xeWtCU0lUeFo3cFp4N25tdnNLY3Vwb01HLV9sQ1g2ZFFPeHZhbldTTjFRdUFHOUZXNHA3ejNSS1QzWUNpa1UtQ09namdlV01mT0JLRUJsd2dVTU1kYmZRMGZfWG4xZVQzdWdzcHNSTUhDSDlTTg?oc=5",
+     "ts": "2026-11-14T14:06:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cf1d192b81af",
+   "title": "Переоделся – и копы не узнали: как устроен новый розыск в GTA 6",
+   "first_seen": "2026-11-14T17:01:33Z",
+   "updated": "2026-11-14T17:01:33Z",
+   "items": [
+    {
+     "id": "cf1d192b81af",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Переоделся – и копы не узнали: как устроен новый розыск в GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjBxcDBkdE40eWlwcVN6a1VwUUFXT2lFN0tqWEptSUhBX2IzaHpmWnYxeTVTWk1IMUZCOFZGUFpJeDBhcHNuM2VyMktCR0ZXUE9SUUVHb1NNNWhmZ3psMlV1WFd6LXByS09yY0lEUnBtT09DaHVQVmRfSjJOamhTQV9Da09ZWm8?oc=5",
+     "ts": "2026-11-14T16:25:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c5b0622d4ddb",
+   "title": "Muting This Sub Until December. Leave Me Your Wildest Predictions.",
+   "first_seen": "2026-11-14T17:01:33Z",
+   "updated": "2026-11-14T17:01:33Z",
+   "items": [
+    {
+     "id": "c5b0622d4ddb",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Muting This Sub Until December. Leave Me Your Wildest Predictions.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xw75bo/muting_this_sub_until_december_leave_me_your/",
+     "ts": "2026-11-14T16:52:44Z",
+     "summary": "Well, we're officially 4 days away. I think it's finally time for me to mute this sub. I am so excited for this game, I think I'll unmute in a month or so, once I've had a chance to play the game myself. I'm also turning off notifications for this post, so I won't be seeing any replies until I return. Before I disappear, leave me your most unhinged theories, wildest predictions, or completely ridiculous ideas that you are absolutely convinced will be in the game. Go nuts. I want to come back in a month and see which of you were secretly prophets. submitted by /u/defenceman101 to r/GTA6 [link] "
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f62c195eb706",
+   "title": "What do yall think gta 6 main plot point is gonna be",
+   "first_seen": "2026-11-14T17:01:33Z",
+   "updated": "2026-11-14T17:01:33Z",
+   "items": [
+    {
+     "id": "f62c195eb706",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What do yall think gta 6 main plot point is gonna be",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xw779i/what_do_yall_think_gta_6_main_plot_point_is_gonna/",
+     "ts": "2026-11-14T16:54:56Z",
+     "summary": "Tbh I been thinking of what the main plot point gonna be it’s quite interesting Lucia starts out in jail so that’ll be interesting and why is she there (cause of her family supposedly) and will see how she knows Jason. During the big game reveal Jason and Lucia are talking while shes heading to meet Raul and Lucia says to Jason she doesn’t wanna say what there problem is. Also on the back of the game box it says there in trouble or have a problem what do yall think it’s gonna be ?? submitted by /u/KingChris8909 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "050d76f429c4",
+   "title": "Mike Tomlin irrationally excited for GTA 6 release",
+   "first_seen": "2026-11-14T17:01:33Z",
+   "updated": "2026-11-14T17:01:33Z",
+   "items": [
+    {
+     "id": "050d76f429c4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Big Lead",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Mike Tomlin irrationally excited for GTA 6 release",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yMFczcE9nVGNZN2REaEx1RTk3aUE2LVdyMlNaYldaY3pBc3lVNVh0em1PSUg5UkxaeV9rZ2JUeXYzOWdFZTRSdTNhOHdEVlZ3Zjhwckgzby1DVzlLN2dFeU14akJaa2thUnktTmt2akpQeUlQSm1ZWUpyTTBsMEk?oc=5",
+     "ts": "2026-11-14T16:56:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "14ccdd655250",
    "title": "GTA 6 Players Report Issues with Physical Version Pre-Order Codes",
    "first_seen": "2026-11-14T16:51:03Z",
@@ -64,45 +404,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a498db5feea0",
-   "title": "GTA VI Physical Copies Face Used Code Issues",
-   "first_seen": "2026-11-14T16:51:03Z",
-   "updated": "2026-11-14T16:51:03Z",
-   "items": [
-    {
-     "id": "a498db5feea0",
-     "src": "rockstarintel",
-     "src_name": "Rockstar INTEL",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 55,
-     "alert": true,
-     "title": "GTA VI Physical Copies Face Used Code Issues",
-     "url": "https://rockstarintel.com/gta-vi-physical-copies-face-used-code-issues/",
-     "ts": "2026-11-14T16:49:34Z",
-     "summary": "GTA VI physical copies have raised concerns among buyers after fans discovered a potential security issue with the game’s packaging. The discovery has been shared online, with some players showing how the download code inside the box could potentially be accessed without purchasing or opening the game. The issue was first brought to attention by [...] The post GTA VI Physical Copies Face Used Code Issues appeared first on RockstarINTEL ."
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Коробки GTA 6: код активации можно использовать без вскрытия",
-    "summary": "Фанаты обнаружили, что код загрузки в физических копиях GTA 6 можно получить, не вскрывая коробку. Об этом сообщили игроки в сети, показав уязвимость упаковки.",
-    "idea": "Короткая демонстрация, как код виден через упаковку, и совет проверить коробку при покупке. Зрителю важно не потерять доступ к игре.",
-    "hook": "Не вскрывай — а код уже использован. Смотри, как это происходит с GTA 6.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-14T16:51:08Z"
-   },
-   "msg_id": 957
   },
   {
    "id": "acadb3afc41f",
@@ -639,86 +940,6 @@
    "score": 20,
    "level": "SPECULATION",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a3340cbeac91",
-   "title": "Twitch раздаст больше десяти тысяч копий GTA VI Ultimate Edition",
-   "first_seen": "2026-11-14T14:01:12Z",
-   "updated": "2026-11-14T15:50:53Z",
-   "items": [
-    {
-     "id": "a3340cbeac91",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Me downloading the ultimate edition so I have all the cosmetic options for Lucia...",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xvzj40/me_downloading_the_ultimate_edition_so_i_have_all/",
-     "ts": "2026-11-14T10:48:18Z",
-     "summary": "Can't beat the FOMO. submitted by /u/ST-deBurca to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "10df59568f13",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Код.ру",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI бесплатно! Twitch будет ежедневно раздавать Ultimate Edition",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaU29KV0xhQUNRRlNZRm5samxVVHpBb1BCbEN2QjlUYVVJWEs3Vk5UaFQ4TWd5NDJtblktV194MTBWR0JvaW5xUENFTmY5QdIBU0FVX3lxTE1MeUViMVZYM3F3RW45OG5tNzA5TDlLeEYxVHNrYnJpQUVweEdqelJHd2J0by03aVcwWFNwUFBVOWlmMEdIWENIRUtrTkNtQk4xdHFB?oc=5",
-     "ts": "2026-11-14T14:22:36Z",
-     "summary": ""
-    },
-    {
-     "id": "7c940f1febdc",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Can’t upgrade GTA 6 Standard Edition to Ultimate Edition",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xw4ino/cant_upgrade_gta_6_standard_edition_to_ultimate/",
-     "ts": "2026-11-14T15:03:14Z",
-     "summary": "submitted by /u/A-D2001 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "6aa0bfd33acc",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "WTFTime.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 будут бесплатно раздавать на Twitch",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNVJtZXJnUFdTc3lsRm1tUlNJdEk2S0lCRF9fSUlNOXVXVlJ0WlBqUXF1WWJjdmZ5RVFySFJlUVRuMy14ZlZ6Z1g1SzVUTW9ObWRhdUxoVmlrRWRxREZicm5CVkNKQkRPVWQzY19tbDh5NU9sOFhnbF9mMDNBT1VGZzl3?oc=5",
-     "ts": "2026-11-14T15:17:05Z",
-     "summary": ""
-    },
-    {
-     "id": "245152111f08",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Twitch раздаст больше десяти тысяч копий GTA VI Ultimate Edition",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeG9KUGZVWU9aZmQ3d3piSWZKQzlVVldSOFlRQlRGMm5PVG5pRG1RV2xBQ3ZmSEZTb2pMOVJYcERldU9GbHNpdXJTb3BrYXdBblh6Q1FwY3U3RnhGR2hNSkdPbTVpRmY3RThzN25lX05UOElYVE1RWXNSOUh5ZGFvSEFXczVzZnZCYmpENi1rck5Dc3F4eVlXc28wSzFoM252Um5kMHhmd2vSAa4BQVVfeXFMTUVRNURmQW9ycEowUTBFdk9WanpTbFlUQ3REdUw4Z0p5XzFwbWNCUGFLM2dybklTdXY4Y1Z2Ty1kNEpqeDlSNUtYR0c1M1l3MlRCdDRKNWwzWXBLM3pfOGVITDVXM25WUkFBY1VuaThYanQwRXFIR3hfNzBObW1KQ2tCVmVnbzlJSjVVakRpRmswOEtOcC1UYlR3UVdRWDc4ak9BaWJidXp1OERPUGNB?oc=5",
-     "ts": "2026-11-14T12:02:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 84,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -5655,56 +5876,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "21c1dd6c02af",
-   "title": "В сети появился полный трек-лист музыкального альбома GTA 6 — В подборку вошли 34 трека от таких артистов, как Travis Scott, Playboi Carti, Lana Del Rey, Dua Li",
-   "first_seen": "2026-11-14T09:01:12Z",
-   "updated": "2026-11-14T09:31:02Z",
-   "items": [
-    {
-     "id": "21c1dd6c02af",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "В сети появился полный трек-лист музыкального альбома GTA 6 — В подборку вошли 34 трека от таких артистов, как Travis Scott, Playboi Carti, Lana Del Rey, Dua Li",
-     "url": "https://t.me/gta6deluxe/2052",
-     "ts": "2026-11-14T08:56:46Z",
-     "summary": "❗️ В сети появился полный трек-лист музыкального альбома GTA 6 — В подборку вошли 34 трека от таких артистов, как Travis Scott, Playboi Carti, Lana Del Rey, Dua Lipa, JENNIE, SZA, Cardi B и других 🔫 — нас ждет конкретное МЯСО 😀 Подписаться | Наш чат 😀"
-    },
-    {
-     "id": "098424a0b4b9",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "↖️ СЛИЛИ ТРЕК-ЛИСТ АЛЬБОМА GTA VI — сотрудник магазина винила показал все 34 трека с GTA VI: The Album На нём Travis Scott, Playboi Carti, Lana Del Rey, Dua Lip",
-     "url": "https://t.me/GTA6_m/9370",
-     "ts": "2026-11-14T09:21:51Z",
-     "summary": "↖️ СЛИЛИ ТРЕК-ЛИСТ АЛЬБОМА GTA VI — сотрудник магазина винила показал все 34 трека с GTA VI: The Album На нём Travis Scott, Playboi Carti, Lana Del Rey, Dua Lipa, SZA, JENNIE, Cardi B, Future и другие Ой, а где Big Baby Tape? Неужели то был фейк , да ну... 🙂 🥺 Канал про GTA 6 | Наш чат"
-    }
-   ],
-   "tags": [],
-   "score": 63,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 34 трека GTA 6: Travis Scott, Lana Del Rey, Dua Lipa",
-    "summary": "В сети появился полный трек-лист музыкального альбома GTA 6 из 34 треков. По данным TG @gta6deluxe, в подборку вошли Travis Scott, Playboi Carti, Lana Del Rey, Dua Lipa, JENNIE, SZA, Cardi B и другие.",
-    "idea": "Быстрый показ списка с подсветкой громких имён и таймером 34 трека — зрителю интересно, кто из любимых артистов попал в игру и что ждать от радио.",
-    "hook": "Полный трек-лист GTA 6 утёк: 34 трека и куча громких имён.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-14T09:01:15Z"
-   },
-   "msg_id": 943
   },
   {
    "id": "c68b548e53b2",
@@ -109924,53 +110095,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ad3045b3a6de",
-   "title": "A GTA 6 fan has set up a gaming room with a PS5 Pro and a 77-inch 4K OLED Samsung S90F.",
-   "first_seen": "2026-11-07T17:01:13Z",
-   "updated": "2026-11-07T17:01:13Z",
-   "items": [
-    {
-     "id": "ad3045b3a6de",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "A GTA 6 fan has set up a gaming room with a PS5 Pro and a 77-inch 4K OLED Samsung S90F.",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZiTFI5d1NHcXNjZFp5UTlxTC1vcDBxZzNndEI5eEpLbGNYY1Rmb3h1bGhqNDBWaVZTeWY4T0txS3lTRDhkS085WFZhdzNlQXl4S0Y5dWt0SXI2bkkwdkZwUUxhR0ItWW8tOXAwQzBLanJJQ1VIaW5VSHhEUFlQd1MxeG5MLTQ0eU1aREtIc3pVUncyVXJNeW8tNTZuRmxINnUyX3B4VFJEeWFOYXJ3b01pcTI5ZUdMUVE?oc=5",
-     "ts": "2026-11-07T16:46:53Z",
-     "summary": ""
-    },
-    {
-     "id": "7fff8e24d49c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Фанат GTA 6 подготовил игровую комнату с PS5 Pro и 77 дюймовым 4K OLED Samsung S90F",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSE9FZFdXOW91eEFGZUtpQ1VrSFdvNHhwV09RZjJKekxvNTF3NTRZd3dqRlZMQ3J5QUxFWkFnMl84WUhFT3hqQVh5OHdsM3plWkFqanV6TXdpcTQ0M2JVbjZmWGZEQ0lTOFdPTGlMTHZoWHM5UGtPeVBjaG1QVHJvQUlDRGhEMnp2SVdVbnpDalk2dF9BRU1RQVAybE5BaTM1dWVjLTZROV90cWpRLU1NS0hBb3lQdw?oc=5",
-     "ts": "2026-11-07T16:46:53Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T16:51:12Z",
+  "last_run": "2026-11-14T17:01:33Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 98/100",
+   "gnews_en: 99/100",
    "gnews_ru: 97/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
@@ -109978,11 +110110,11 @@
    "ign: 2/20",
    "eurogamer: 5/100",
    "dexerto_gta: 4/50",
-   "rockstarintel: 6/10",
+   "rockstarintel: 5/10",
    "gtaboom: 7/30",
    "reddit: 24/25",
-   "tg_gtavistar: 11/18",
-   "tg_gta6deluxe: 13/16",
+   "tg_gtavistar: 10/18",
+   "tg_gta6deluxe: 12/16",
    "tg_gta6_m: 15/18",
    "tg_gta6newsdaily: 2/18"
   ],
