@@ -1,6 +1,138 @@
 {
  "stories": [
   {
+   "id": "998aeea65c4f",
+   "title": "GTA 6 release could trigger $1B U.S. productivity loss",
+   "first_seen": "2026-11-13T23:20:51Z",
+   "updated": "2026-11-14T07:31:00Z",
+   "items": [
+    {
+     "id": "998aeea65c4f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Release Day Trigger",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xvmswj/release_day_trigger/",
+     "ts": "2026-11-13T23:12:35Z",
+     "summary": "Just wondering if anyone knows if, at midnight on release day, whether the trigger to unlock the game is local to the console or a switch is flicked sending a signal by internet? And yeah, I am reacting to what’s happening in the US with the ground stop and now the National Weather Service are experiencing outages. submitted by /u/mimglow to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "28e7b221a6c0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "FOX 13 Seattle",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 release could trigger $1B U.S. productivity loss",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MaTZYbzFIVktXaEhwY3M3R1ZobjFrTlBRVWFsOV9tNWN2aURCbnpad3NnUk4tcjIxaFJJZUhEYmVERktWWmlKM0NIQlRSNExrSVQ2cDNvZGxsc1g2d3dmQ04zdXRKRmk4RXRFRWZwSzE2bG8?oc=5",
+     "ts": "2026-11-14T02:48:23Z",
+     "summary": ""
+    },
+    {
+     "id": "f97461abd0df",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 release could trigger $1B U.S. productivity loss",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQei1GbHVQYlpFNXF0VnpDd1Q0cFJWcVV2N2pBNkkzTXRQbzQ2QTBuMEluS0FOUk9rSF9SalE0UHE2M0VQaXpLRi1EZ04zQklKeDA1T0QydlZQNGlWYWVBZF9IY1BIYjJfYk9HLWlBM0pNcTZkbU1ySG12UzlScDAxaW9NUGYyNHlq?oc=5",
+     "ts": "2026-11-14T02:48:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "72e76ca3bac5",
+   "title": "GTAVI creator ecosystem",
+   "first_seen": "2026-11-14T07:31:00Z",
+   "updated": "2026-11-14T07:31:00Z",
+   "items": [
+    {
+     "id": "72e76ca3bac5",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTAVI creator ecosystem",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvw38s/gtavi_creator_ecosystem/",
+     "ts": "2026-11-14T07:12:09Z",
+     "summary": "I want to become a GTA6 creator. What do I do? I plan to spend 10k hours playing GTA6 before 2026 ends submitted by /u/Hot-Bite-2863 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "75c8b31a7bea",
+   "title": "Gta 6 HDR or DV ? Whats most accurate for image quality ?",
+   "first_seen": "2026-11-14T07:31:00Z",
+   "updated": "2026-11-14T07:31:00Z",
+   "items": [
+    {
+     "id": "75c8b31a7bea",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Gta 6 HDR or DV ? Whats most accurate for image quality ?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvwbrd/gta_6_hdr_or_dv_whats_most_accurate_for_image/",
+     "ts": "2026-11-14T07:26:29Z",
+     "summary": "submitted by /u/Ornery_Opposite_3057 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "aa0be3841a64",
+   "title": "The Guardian раскрыла новые подробности GTA VI после посещения Rockstar Games Журналисты The Guardian побывали в студии Rockstar и узнали интересные детали об и",
+   "first_seen": "2026-11-14T07:31:00Z",
+   "updated": "2026-11-14T07:31:00Z",
+   "items": [
+    {
+     "id": "aa0be3841a64",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "The Guardian раскрыла новые подробности GTA VI после посещения Rockstar Games Журналисты The Guardian побывали в студии Rockstar и узнали интересные детали об и",
+     "url": "https://t.me/GTAVIStar/890",
+     "ts": "2026-11-14T07:29:40Z",
+     "summary": "The Guardian раскрыла новые подробности GTA VI после посещения Rockstar Games Журналисты The Guardian побывали в студии Rockstar и узнали интересные детали об игре и её разработке: • Действия игроков будут влиять на развитие сюжета. Особый акцент разработчики хотят сделать на эмпатии. • В торговых центрах можно будет грабить элитные магазины. • Технологические ограничения больше не мешают Rockstar. Теперь всё зависит от человеческих ресурсов и возможностей команды. • В игре появится 62 вида птиц. За ними можно будет наблюдать, фотографировать их и добавлять записи в специальный журнал дикой природы. • Каждый NPC создавался разработчиками вручную, вплоть до отдельных деталей одежды. • Некоторые сотрудники завершили работу над своими частями игры ещё за месяц до релиза. Теперь они могут отдохнуть после более чем десяти лет разработки. • Rockstar могла гораздо быстрее выпустить условную GTA 5.5, но не захотела повторяться. «Нужно рисковать по-крупному. Нельзя просто делать больше того же самого», — заявил Роб Нельсон. • Разработчикам было непросто остановиться и завершить игру. Им постоянно хотелось добавить что-то ещё, но в какой-то момент пришлось финализировать проект. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "eb5ac132cb22",
    "title": "GTA 6 — почему игра не получит 60 FPS даже на PS5 Pro",
    "first_seen": "2026-11-14T03:10:47Z",
@@ -1909,47 +2041,6 @@
     "at": "2026-11-14T03:20:56Z"
    },
    "msg_id": 939
-  },
-  {
-   "id": "998aeea65c4f",
-   "title": "GTA 6 release could trigger $1B U.S. productivity loss",
-   "first_seen": "2026-11-13T23:20:51Z",
-   "updated": "2026-11-14T03:10:47Z",
-   "items": [
-    {
-     "id": "998aeea65c4f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Release Day Trigger",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xvmswj/release_day_trigger/",
-     "ts": "2026-11-13T23:12:35Z",
-     "summary": "Just wondering if anyone knows if, at midnight on release day, whether the trigger to unlock the game is local to the console or a switch is flicked sending a signal by internet? And yeah, I am reacting to what’s happening in the US with the ground stop and now the National Weather Service are experiencing outages. submitted by /u/mimglow to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "28e7b221a6c0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "FOX 13 Seattle",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 release could trigger $1B U.S. productivity loss",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MaTZYbzFIVktXaEhwY3M3R1ZobjFrTlBRVWFsOV9tNWN2aURCbnpad3NnUk4tcjIxaFJJZUhEYmVERktWWmlKM0NIQlRSNExrSVQ2cDNvZGxsc1g2d3dmQ04zdXRKRmk4RXRFRWZwSzE2bG8?oc=5",
-     "ts": "2026-11-14T02:48:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
   },
   {
    "id": "9119479262e0",
@@ -108028,7 +108119,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T07:20:51Z",
+  "last_run": "2026-11-14T07:31:00Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 96/100",
@@ -108041,8 +108132,8 @@
    "dexerto_gta: 7/50",
    "rockstarintel: 5/10",
    "gtaboom: 9/30",
-   "reddit: 23/25",
-   "tg_gtavistar: 15/18",
+   "reddit: 24/25",
+   "tg_gtavistar: 16/18",
    "tg_gta6deluxe: 15/15",
    "tg_gta6_m: 15/18",
    "tg_gta6newsdaily: 2/18"
