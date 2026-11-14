@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "5bd56582b621",
+   "title": "Some of These GTA 6 Clips Look So Good That I Don't Care if It's Running at 30fps",
+   "first_seen": "2026-11-14T22:40:49Z",
+   "updated": "2026-11-14T22:40:49Z",
+   "items": [
+    {
+     "id": "5bd56582b621",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Some of These GTA 6 Clips Look So Good That I Don't Care if It's Running at 30fps",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOckEtMFFOc0ZpM1NzdWFVbnV4cVItS3hJV2ZHajBmVHRhaXJiTVNpTnVJeDZvYTBrQ1ZwR1dTdDV5aDZiVHNGMEFkZmZIU1FqdGhCUzRqcFBfSjZKdUk1LVpIQ1ZSWjE3eUl6RFlrMGlQUFpvb09RazN0bm9hd29DX05mcWk0MGFpOWxVSTZuWVdsNkU0X2JlcFU5LUNibl9kLVVWRWZMUHRGR2o5RmVGTzBMMEx4UzN4MzRRRm9FbWlma2s?oc=5",
+     "ts": "2026-11-14T13:19:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f9d279a3b39a",
+   "title": "Fake GTA 6 Downloads Hide Vidar Malware, ESET Warns",
+   "first_seen": "2026-11-14T22:40:49Z",
+   "updated": "2026-11-14T22:40:49Z",
+   "items": [
+    {
+     "id": "f9d279a3b39a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "shattered.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Fake GTA 6 Downloads Hide Vidar Malware, ESET Warns",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcksxaS1pdEF2b180NktTeXExdUd3eVZMcS0ySDBfMHZ4YndhcDNWS0NTNFhsdXUyMzlYTUtCcDNiT3Ywd2cteWtmemZxeWk1U1NOdjRSNWtTS1pIeTBjTWtvcmF0bjhuNk0yajJjSUZyZ0F4Y2hEWmRmM2l0ZDlnaEFJSVZQeFFmMXpwSVJCMA?oc=5",
+     "ts": "2026-11-14T22:30:14Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4adef99d53b3",
    "title": "‘GTA V’ made $1 billion in 3 days. Can ‘GTA VI’ be even bigger?",
    "first_seen": "2026-11-14T20:40:56Z",
@@ -111507,41 +111559,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ebf61917b020",
-   "title": "Anyone else think GTA 5 makes GTA 6 look like a PS5 game, or is it just me?",
-   "first_seen": "2026-11-07T22:40:47Z",
-   "updated": "2026-11-07T22:40:47Z",
-   "items": [
-    {
-     "id": "ebf61917b020",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Anyone else think GTA 5 makes GTA 6 look like a PS5 game, or is it just me?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xqiuz0/anyone_else_think_gta_5_makes_gta_6_look_like_a/",
-     "ts": "2026-11-07T22:34:07Z",
-     "summary": "submitted by /u/RogerRoger63358 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T22:31:03Z",
+  "last_run": "2026-11-14T22:40:49Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 100/100",
-   "gnews_ru: 91/100",
+   "gnews_ru: 92/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
