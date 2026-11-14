@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "81025d968b66",
+   "title": "В сети сравнили кадры из вирусных видео по GTA 6 с реальностью",
+   "first_seen": "2026-11-14T04:31:02Z",
+   "updated": "2026-11-14T04:31:02Z",
+   "items": [
+    {
+     "id": "81025d968b66",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В сети сравнили кадры из вирусных видео по GTA 6 с реальностью",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDFFNEpYb3hFYlZnblZMTjVVSVotODhZQXZPT0tSNkpHSm1oNHg1WENaY0V0czRrYXhBOGZ3MVU0b0Q0UFBHVXktbURuQ0tfaDQ5TkFQczdMWC14Y21za3dnT0s5VERhb1BQZjVPb05RTFl2dnkzbndJNEt4VTdjbFFoSmJkWGFaWEhoQW1JSEQ4bXRWMWpXUFk1b0lHMjBVazlfSdIBqgFBVV95cUxNdDdXZkRoZXl3ZjRmSVl6dG5hdTQ1TTE2ZFZOWmxkX1R3N0RQanJJS2ZWaE1HM2tjdTlCWHVLbEozeTcyYVJlUVJ6RDNqRXBmTDFKZkwyNGNkNlNqTmxPNTJ5cWZqU2JzVk5QZnpLQnNGV1R5ZWxTZFAxS2k1TzI0dmlmMElqeVBxaVh1eVBjNWRhNHJIZWJQMjlxdkVDaEVuMDdoOHFRcWVqUQ?oc=5",
+     "ts": "2026-11-13T09:10:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c0ac9cf6bade",
+   "title": "The end is Nigh",
+   "first_seen": "2026-11-14T04:31:02Z",
+   "updated": "2026-11-14T04:31:02Z",
+   "items": [
+    {
+     "id": "c0ac9cf6bade",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "The end is Nigh",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvt5dl/the_end_is_nigh/",
+     "ts": "2026-11-14T04:25:40Z",
+     "summary": "we got society imploding on itself before GTAVI submitted by /u/gorlami222 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8309603f5316",
+   "title": "GTA6 extras? ps5 download section",
+   "first_seen": "2026-11-14T04:31:02Z",
+   "updated": "2026-11-14T04:31:02Z",
+   "items": [
+    {
+     "id": "8309603f5316",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA6 extras? ps5 download section",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvt5t6/gta6_extras_ps5_download_section/",
+     "ts": "2026-11-14T04:26:23Z",
+     "summary": "I accidentally clicked off the ps5 download page and can't find it anymore. Anyone knows how i can download I'm trying to figure out where to exactly find my extra downloads content submitted by /u/KeeperOfWind to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9eecfe4b971b",
    "title": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
    "first_seen": "2026-11-13T12:10:50Z",
@@ -107693,9 +107771,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T04:20:55Z",
+  "last_run": "2026-11-14T04:31:02Z",
   "last_log": [
-   "rockstar_site: 0/4",
+   "rockstar_site: 0/5",
    "gnews_en: 96/100",
    "gnews_ru: 96/100",
    "gamesbeat: 0/10",
