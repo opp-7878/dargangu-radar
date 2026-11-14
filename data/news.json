@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "acadb3afc41f",
+   "title": "Which character are you planning on playing as more?",
+   "first_seen": "2026-11-14T16:40:53Z",
+   "updated": "2026-11-14T16:40:53Z",
+   "items": [
+    {
+     "id": "acadb3afc41f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Which character are you planning on playing as more?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xw6non/which_character_are_you_planning_on_playing_as/",
+     "ts": "2026-11-14T16:32:42Z",
+     "summary": "I’m not really planning as playing as one more i’ll just let what happens happen. But it’ll probably be jason for me as i am a man. But i’m curious what do y’all think? And don’t vote if you plan to play like me as in jason as much as lucia View Poll submitted by /u/nothing533439878 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c65c7d64d487",
+   "title": "🏆Champions League dominance between the releases of GTA V and GTA VI",
+   "first_seen": "2026-11-14T16:40:53Z",
+   "updated": "2026-11-14T16:40:53Z",
+   "items": [
+    {
+     "id": "c65c7d64d487",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OneFootball",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "🏆Champions League dominance between the releases of GTA V and GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQazJrQ0lDbnpCeXlyNUh1Mk02UEhsSkVZU2kyVHNwUm85QU0xdW4zZjFuQUsxN2FUTlFrOGpCRy1wWHpVcldobFZ0VXlaaGkzeEY2MS1WdVBMMTRzU1lCbHRwUk81Zm1XVnUydGhzTnpVU2g0bXVVdkdSSEtrMFp4N1RQTE9xNXJkaWtkd241NVNjUnVpZFZPR184UWRXT243dzA1d2Fpd3RZNzFn?oc=5",
+     "ts": "2026-11-14T16:34:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d37bc3e2795e",
    "title": "Spotted in Rotterdam, The Netherlands.",
    "first_seen": "2026-11-14T11:30:59Z",
@@ -110035,7 +110087,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T16:31:07Z",
+  "last_run": "2026-11-14T16:40:53Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 98/100",
@@ -110048,7 +110100,7 @@
    "dexerto_gta: 4/50",
    "rockstarintel: 5/10",
    "gtaboom: 7/30",
-   "reddit: 23/25",
+   "reddit: 24/25",
    "tg_gtavistar: 11/18",
    "tg_gta6deluxe: 13/16",
    "tg_gta6_m: 15/18",
