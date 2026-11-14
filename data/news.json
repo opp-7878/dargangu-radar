@@ -1,6 +1,110 @@
 {
  "stories": [
   {
+   "id": "14ccdd655250",
+   "title": "GTA 6 Players Report Issues with Physical Version Pre-Order Codes",
+   "first_seen": "2026-11-14T16:51:03Z",
+   "updated": "2026-11-14T16:51:03Z",
+   "items": [
+    {
+     "id": "14ccdd655250",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Players Report Issues with Physical Version Pre-Order Codes",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2U1hsbXBvSEVCZWxOWkoxTlg2VEdqSmJXUnkwU2RXNTRSbndBRVFkc180ZkVqT2xUdVJkb2hWejA1ZmZpemcwRXEtbUFVZjNBYW1qNTBaeW9janhhTGlVcHp2bmE3am5TbTRpLUlYaHM2RzZWZTBEZHRXTzE?oc=5",
+     "ts": "2026-11-14T16:43:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️У предзаказов GTA 6 на диск не работают коды — что известно",
+    "summary": "Игроки сообщают о проблемах с кодами физических предзаказов GTA 6, пишет Polygon. Речь о версиях на дисках, где не активируются бонусы или доступ к контенту. Rockstar пока не комментировала ситуацию.",
+    "idea": "Короткий разбор: что именно не работает у дисков, как проверить свой код и что делать до ответа Rockstar. Плюс — собрать в комментариях похожие случаи.",
+    "hook": "Предзаказал GTA 6 на диск, а код не работает? Вот что известно сейчас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-14T16:51:12Z"
+   },
+   "msg_id": 958
+  },
+  {
+   "id": "1347b9f48b5a",
+   "title": "YouTube will work for Rockstar",
+   "first_seen": "2026-11-14T16:51:03Z",
+   "updated": "2026-11-14T16:51:03Z",
+   "items": [
+    {
+     "id": "1347b9f48b5a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "YouTube will work for Rockstar",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xw6ykk/youtube_will_work_for_rockstar/",
+     "ts": "2026-11-14T16:44:59Z",
+     "summary": "What if Rockstar has made this game so nudity, no streamers can stream this game for more than a considerable time. More will be unexplored and exciting. If a nudity scene appears, YouTube will remove that content. Rockstar workload is reduced. submitted by /u/Frequent-Dish-1558 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a498db5feea0",
+   "title": "GTA VI Physical Copies Face Used Code Issues",
+   "first_seen": "2026-11-14T16:51:03Z",
+   "updated": "2026-11-14T16:51:03Z",
+   "items": [
+    {
+     "id": "a498db5feea0",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA VI Physical Copies Face Used Code Issues",
+     "url": "https://rockstarintel.com/gta-vi-physical-copies-face-used-code-issues/",
+     "ts": "2026-11-14T16:49:34Z",
+     "summary": "GTA VI physical copies have raised concerns among buyers after fans discovered a potential security issue with the game’s packaging. The discovery has been shared online, with some players showing how the download code inside the box could potentially be accessed without purchasing or opening the game. The issue was first brought to attention by [...] The post GTA VI Physical Copies Face Used Code Issues appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Коробки GTA 6: код активации можно использовать без вскрытия",
+    "summary": "Фанаты обнаружили, что код загрузки в физических копиях GTA 6 можно получить, не вскрывая коробку. Об этом сообщили игроки в сети, показав уязвимость упаковки.",
+    "idea": "Короткая демонстрация, как код виден через упаковку, и совет проверить коробку при покупке. Зрителю важно не потерять доступ к игре.",
+    "hook": "Не вскрывай — а код уже использован. Смотри, как это происходит с GTA 6.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-14T16:51:08Z"
+   },
+   "msg_id": 957
+  },
+  {
    "id": "acadb3afc41f",
    "title": "Which character are you planning on playing as more?",
    "first_seen": "2026-11-14T16:40:53Z",
@@ -109859,235 +109963,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "0ccc78536c9b",
-   "title": "We are so close now.",
-   "first_seen": "2026-11-07T16:50:50Z",
-   "updated": "2026-11-07T16:50:50Z",
-   "items": [
-    {
-     "id": "0ccc78536c9b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "We are so close now.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xq9f4m/we_are_so_close_now/",
-     "ts": "2026-11-07T15:46:10Z",
-     "summary": "submitted by /u/DaveJN to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4e54b067fec3",
-   "title": "Ad in Berlin Germany",
-   "first_seen": "2026-11-07T16:50:50Z",
-   "updated": "2026-11-07T16:50:50Z",
-   "items": [
-    {
-     "id": "4e54b067fec3",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Ad in Berlin Germany",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xqa91r/ad_in_berlin_germany/",
-     "ts": "2026-11-07T16:21:03Z",
-     "summary": "Alexanderplatz, underground. Looks so cool!! The hype is real! submitted by /u/xSlimShadyxx to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b2f61403ac3d",
-   "title": "Rockstar Just Made GTA 6 Wait Feel Almost Bearable",
-   "first_seen": "2026-11-07T16:50:49Z",
-   "updated": "2026-11-07T16:50:49Z",
-   "items": [
-    {
-     "id": "b2f61403ac3d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Esquire India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Just Made GTA 6 Wait Feel Almost Bearable",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2gyazFXelVjMjRlek9fN3pZazRsdGM5RUhiSnhVQWlXY3BkVkU3VzQ1ZDB1a3AzaXRvY0gtNWFNdzIyZ3lLR0ItNm85N0c1Q2tad21WZDJjLXMzQmhIQzFUMlI5S29GOFgtU00xcUkyUnoyQlpiMDNrWndOb0Z1Q3JHSDhnQVQ0SWVGVHpTZ3EyNlZxaXpzb0RMNUlBdUpya1pwbtIBsgFBVV95cUxPdVhLZ2pUcFRkeWpBcnU5dDNaWW1iVnFMRVdTXzNOM2ljMFhYQWM4d3gzNXk3cE51dDN3UEhIQk5rakxXU2ZlQldYSUNHRXhXMTI5OWpiUmJiSjRDcjlTeDJHMWFnbFN4Z0FfdEc2cHJYVW5UdEx5SExLVktxRkdITkhsZWF1ckFxVlRVWERXMFpmRVR2TlBabXJUdmM3TmMtdXdkRF9scjdPMFpmUGpTZ25R?oc=5",
-     "ts": "2026-11-07T02:23:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1debff8d850e",
-   "title": "GTA 6: How Yorkshire’s gaming sector could benefit from presence of Rockstar's little-known Leeds base",
-   "first_seen": "2026-11-07T16:50:49Z",
-   "updated": "2026-11-07T16:50:49Z",
-   "items": [
-    {
-     "id": "1debff8d850e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yorkshire Post",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: How Yorkshire’s gaming sector could benefit from presence of Rockstar's little-known Leeds base",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdDBjRDFCTU0zVjdYd0NlejZMOUJZZWJFNlhhWlVqSEpnYnJ6dFdOSWhSN3R4UENmbE9RN1BGOEI1Y0FyVXJ5YXV1eXJPbVBaQlQ1ejRhUnlYMGhGdWdWNGdiel9MNjBaN2JicUFjUkFXd25nMEVENFF2S0E3NDBXZDVUMXBQRDFxZWszQWRidlJmVll4Rk02c2JXaGNRVnRTQmxqWm9QTm14eXlCZmFxcklkWF9EdkZOYnk5d2szU1FRMXRIcjlhWmctZUk5SmdfVzMzM2dSLXJja252cEdXbE9B?oc=5",
-     "ts": "2026-11-07T06:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d583fd28735b",
-   "title": "Updated GTA6 Download Size Reveal Potential Censorship Differences",
-   "first_seen": "2026-11-06T22:01:08Z",
-   "updated": "2026-11-07T16:41:09Z",
-   "items": [
-    {
-     "id": "d583fd28735b",
-     "src": "rockstarintel",
-     "src_name": "Rockstar INTEL",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 55,
-     "alert": true,
-     "title": "Updated GTA6 Download Size Reveal Potential Censorship Differences",
-     "url": "https://rockstarintel.com/updated-gta6-download-size-reveal-potential-censorship-differences/",
-     "ts": "2026-11-06T22:00:15Z",
-     "summary": "An updated file size for GTA 6 on XBOX shows that the game will be bigger on Microsoft’s console than the PS5. Also, a difference in file size across different regions suggest censorship is coming into play. We’re less than 2 weeks away from release and the last several details we’d expect to get pre-launch [...] The post Updated GTA6 Download Size Reveal Potential Censorship Differences appeared first on RockstarINTEL ."
-    },
-    {
-     "id": "3001cd89d5bc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "RockstarINTEL",
-     "group": "media",
-     "weight": 55,
-     "alert": true,
-     "title": "Updated GTA6 Download Size Reveal Potential Censorship Differences",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWC1MUk1VTWxRQndOOWhBSldmTkJXZ3V4MkR2MWdwVklKMjhZWVI4cjQxUXdCVVZXRWdLejVMNEpHX0FHaUV1SmtJLTJWWVRCNmcxZTJYZUZjZkZ5VXRLOUtva0VTQklEQ0NBVG04MDJTdG1yYXF2NEdYdW9SS0V2MEhLS0REYkNLN2gwcDMxNVpsWnV0aExBWA?oc=5",
-     "ts": "2026-11-06T22:00:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс",
-    "размер/preload"
-   ],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "aec97d1d1cfb",
-   "title": "GTA 6 Launch: Germany's Paid Leave Loophole for Gamers",
-   "first_seen": "2026-11-07T16:41:09Z",
-   "updated": "2026-11-07T16:41:09Z",
-   "items": [
-    {
-     "id": "aec97d1d1cfb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Everything Edinburgh",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Launch: Germany's Paid Leave Loophole for Gamers",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUWF1RFhTd0hwSlVVSDM2RTRJcW0waUFKMHBWRG5OUWV5Wi1NdVlWT1lYeVZNOEduZGYyUkpiWjJQemEta0FldDJzOGRTVUhUdTZiQ19vc0xVTGtrc2doNlJzRElxR3BQVkFmdk4yZ0FacXpRakNrUUtEWTZEcjAyN2RGMmRReHFoZ2JN?oc=5",
-     "ts": "2026-11-07T15:31:17Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "025c615d8030",
-   "title": "12 новых скриншотов GTA 6 демонстрируют невероятно детализированные автомобили",
-   "first_seen": "2026-11-07T16:41:09Z",
-   "updated": "2026-11-07T16:41:09Z",
-   "items": [
-    {
-     "id": "025c615d8030",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "12 новых скриншотов GTA 6 демонстрируют невероятно детализированные автомобили",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTTJySGtTdVIyaERrLUJGTjlWSUltRUNnMU1LQ3VndVlvNWliTGt1b0tLV2gzTFY3QzJSVkF5MFFkbnB5UXVJVUNtRkRJbjlhZkhVeHh5TEFhcUhLQ0pYdmJhN0x2WDJFWmRpbEIyemh1RkFQNUc2N18wdjJzdXR1VWNlTWFHX01SdEhsMU1scV93OUFYQVZfbUFIZ1ZnUGlBM3RVOVhCQVNqMjRZT1I0UXhzaHhNZ2VkeWNTOTFmY2Y0VGhR?oc=5",
-     "ts": "2026-11-07T16:16:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "813403a35fb8",
-   "title": "Don't Take Single Player for Granted",
-   "first_seen": "2026-11-07T16:41:09Z",
-   "updated": "2026-11-07T16:41:09Z",
-   "items": [
-    {
-     "id": "813403a35fb8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Don't Take Single Player for Granted",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xqakk1/dont_take_single_player_for_granted/",
-     "ts": "2026-11-07T16:34:26Z",
-     "summary": "​ submitted by /u/poorna_sus14 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T16:40:53Z",
+  "last_run": "2026-11-14T16:51:12Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 98/100",
@@ -110098,7 +109978,7 @@
    "ign: 2/20",
    "eurogamer: 5/100",
    "dexerto_gta: 4/50",
-   "rockstarintel: 5/10",
+   "rockstarintel: 6/10",
    "gtaboom: 7/30",
    "reddit: 24/25",
    "tg_gtavistar: 11/18",
