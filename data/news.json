@@ -1,6 +1,240 @@
 {
  "stories": [
   {
+   "id": "7947fa13977f",
+   "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
+   "first_seen": "2026-11-14T17:40:48Z",
+   "updated": "2026-11-14T18:10:48Z",
+   "items": [
+    {
+     "id": "7947fa13977f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN India",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzl5R3Y3dGxqbWpKLVFkb3RuejItLXBTX1JzSjFBSnFwV3RQY1dMN2JoQUEycUlWeU1iUXlCZm50Z2htYUE3QU5icFhKRWlhNVdtUUNQVks5WkROT0I1ZWNqbEJ5QnBCelo0ODNlbFFUX0VOQ0dockdSVDlhUWQ2Z0FPM2h2TTYxN3ZNdDNnd0FqbnhkenVBSlFVR0lBZTZrT2FtbThYYms3N2wzMGxDdDJMblJkQU5TN0JpWTU1VnA?oc=5",
+     "ts": "2026-11-14T17:34:47Z",
+     "summary": ""
+    },
+    {
+     "id": "8b182506bc67",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWlcyYkk4LWFxekNwR0NSRGV2N3QyX2M1clh0TmlaYVdPa3psYmVRUnNIcjB5dmdXLW1FT1RTc1ZOY3Vhc1VUQ0E4eG53aWdfdzJfU20tMURNM1ZGTTNsamJqbGE5U0xIQzdOWHYybkNmd2t2TDNiaG5mczF2RnhzYlh4OXQxUnJ1dC05YUFRTzVEcFVRcWdjMFdPR2hEMmdJb2h1a3NtTTFBVGw2bUJqXzR1dTJpd2V1Q0oyTUttd3ZIWEM4NXhlMk1McUdMZXIyVFhDMw?oc=5",
+     "ts": "2026-11-14T18:04:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 впервые будет учить эмпатии — что это значит",
+    "summary": "По данным IGN India и IGN Southeast Asia, GTA 6 впервые в серии будет поощрять эмпатию. Журналисты ссылаются на материалы Rockstar, отмечая новый акцент на сопереживании героям.",
+    "idea": "Короткий разбор: как именно GTA 6 будет поощрять эмпатию и чем это отличается от прошлых частей. Зрителю интересно, как это скажется на сюжете и геймплее.",
+    "hook": "GTA 6 впервые будет учить эмпатии — вот что это значит для нас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-14T18:10:53Z"
+   },
+   "msg_id": 961
+  },
+  {
+   "id": "cf3f04e87351",
+   "title": "В США появилась вакансия с зарплатой $135 тыс. за игру в GTA VI",
+   "first_seen": "2026-11-14T18:10:48Z",
+   "updated": "2026-11-14T18:10:48Z",
+   "items": [
+    {
+     "id": "cf3f04e87351",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Sostav.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В США появилась вакансия с зарплатой $135 тыс. за игру в GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR2s2ZC1Kd3p5ZFowTUFaX1p4MDFuaW41NzFxLVg2c195SDU3VU1UbWwxcmwwYXZKYUI5SEJKQzhjRnRzU2EyamRlbXJ6SW9GUUdlb2R3Z1Mwc1NabWFmcmotRjBYY2tCY3hWRGw4U1g0YmQ5bU9KTFktbTBkRmN2MDd2dzlLTWRfX2V6ZWNLVVVSRDNYcENhMWxXY3pleURrYlMyMzBZT3p1WHJs?oc=5",
+     "ts": "2026-11-14T12:09:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "cf3cbd0044c5",
+   "title": "Мощный фонарик позволяет увидеть секретные коды внутри запечатанных коробок GTA 6",
+   "first_seen": "2026-11-14T18:10:48Z",
+   "updated": "2026-11-14T18:10:48Z",
+   "items": [
+    {
+     "id": "cf3cbd0044c5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Мощный фонарик позволяет увидеть секретные коды внутри запечатанных коробок GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWljSUs3d2l1XzUyc1otNlBjS0lGV3lPbGpfOFNMZWRYOEdaYUh3cWlPUFF3c0NWaG00WTExcm5fSEVjSDlKd3JyZnBsOFVHLVllcWt1b0MwQmJSdkJHRDFnVGRhLWIzWFpkMV9fQUwxUEp0dXhDM2pzUmVFQktKYVZ5YjdfbHlaRTR3QXdRNmRFRDZuYUh3TWdWcWtnSF9IOEdUOElfY09KV0wyaFgxVkt0RGg4SHM?oc=5",
+     "ts": "2026-11-14T17:39:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "72d607c49f03",
+   "title": "'Grand Theft Auto VI' is almost here. What to know about the characters, music and billions at stake",
+   "first_seen": "2026-11-14T18:10:48Z",
+   "updated": "2026-11-14T18:10:48Z",
+   "items": [
+    {
+     "id": "72d607c49f03",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "yoursun.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' is almost here. What to know about the characters, music and billions at stake",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUFlhZURwV29EbmhldWdBMXlvbWx5WnM1REoxTlozUTRkZHByMEV0cTRZYmEzYWRFd0NCN1UzQ1FkYTdWVzlqZU4yc0QtRm51eElMNm5pVkV1U0tkNkhkWFdJWE5wQjhWdklVekR0aldYYVIwbVpmUEphVDVuTTB4czR4RWlPM2NkeHlSQ2Z2QjAyWlUxTElVeFhyVERpM1dYcW85c0dfd0hZUEx6UmNKaDBaZzZpWVJTaHVkSlFQTVFzYlFYSFVrdE9LRzE5RkpCVFg5UDFSTmtlUUQ1NzZNTFR5c1p4djh0ZU1JS1R6SnN6SUdVRmZ3?oc=5",
+     "ts": "2026-11-14T18:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2dbb7f48fad5",
+   "title": "Grand Theft Auto Movie Chances Addressed By Studio Boss Ahead Of GTA VI",
+   "first_seen": "2026-11-14T18:10:48Z",
+   "updated": "2026-11-14T18:10:48Z",
+   "items": [
+    {
+     "id": "2dbb7f48fad5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ScreenRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto Movie Chances Addressed By Studio Boss Ahead Of GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjNYTm10eXdsbDZlT2hhZTB0T2dyTXlBbjJudmRGM09jT0RqZG4xMk02b1lwb2g3cFo3UmtjcVI1ZHM2UlNJdFBPY0hXdUc2WkhtbDlhTFFxNkVZcGJNMkMzRm92YnJFZ2tZTGxsZmNzYUpaV0hRTzdVbTluZGNzNE9aQWg2QWN2NGFXOElSVU1tajg?oc=5",
+     "ts": "2026-11-14T18:00:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "07f32abc7aed",
+   "title": "I'm Superman Now - Modding GTA 5 Into GTA 6",
+   "first_seen": "2026-11-14T18:10:48Z",
+   "updated": "2026-11-14T18:10:48Z",
+   "items": [
+    {
+     "id": "07f32abc7aed",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I'm Superman Now - Modding GTA 5 Into GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XT3M1aU5iczgwYW9PTFZUUWo4UUk1ak0yMG5UNnJSSzc1TXd6S0E3elpVa3FnSGFramNyaVV1cF9YRTl5Wno4Qld6RjY4Z1lteXpGNWw4ZVNEMFFxWkc0cC1oX1pRT213Q3JibWhJMzZkOU14bENYUXI5Sl8?oc=5",
+     "ts": "2026-11-14T18:01:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "130c427e6470",
+   "title": "Anyone planning to make one of the GTAVI cocktails for release night?",
+   "first_seen": "2026-11-14T18:10:48Z",
+   "updated": "2026-11-14T18:10:48Z",
+   "items": [
+    {
+     "id": "130c427e6470",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Anyone planning to make one of the GTAVI cocktails for release night?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xw8vzy/anyone_planning_to_make_one_of_the_gtavi/",
+     "ts": "2026-11-14T18:02:23Z",
+     "summary": "I've seen Miami locals on YouTube (Joel Franco, Eric with the Land) documenting the marketing happening in Miami. Most of us won't be visiting any of these bars/restaurants, but making these at home could add some fun to release night gaming! Has anyone else found more marketing drinks outside of these 4 menus? submitted by /u/SeaSnakeParty to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "01f2b0b9e7c2",
+   "title": "My birthday cake",
+   "first_seen": "2026-11-14T18:10:48Z",
+   "updated": "2026-11-14T18:10:48Z",
+   "items": [
+    {
+     "id": "01f2b0b9e7c2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "My birthday cake",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xw8xwg/my_birthday_cake/",
+     "ts": "2026-11-14T18:04:26Z",
+     "summary": "submitted by /u/derrick2462 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ed78044111ff",
    "title": "В сети появились изображения с предполагаемым полным списком песен из GTA VI: The Album незадолго до официального релиза",
    "first_seen": "2026-11-14T18:01:11Z",
@@ -313,32 +547,6 @@
    "tags": [],
    "score": 20,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7947fa13977f",
-   "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
-   "first_seen": "2026-11-14T17:40:48Z",
-   "updated": "2026-11-14T17:40:48Z",
-   "items": [
-    {
-     "id": "7947fa13977f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzl5R3Y3dGxqbWpKLVFkb3RuejItLXBTX1JzSjFBSnFwV3RQY1dMN2JoQUEycUlWeU1iUXlCZm50Z2htYUE3QU5icFhKRWlhNVdtUUNQVks5WkROT0I1ZWNqbEJ5QnBCelo0ODNlbFFUX0VOQ0dockdSVDlhUWQ2Z0FPM2h2TTYxN3ZNdDNnd0FqbnhkenVBSlFVR0lBZTZrT2FtbThYYms3N2wzMGxDdDJMblJkQU5TN0JpWTU1VnA?oc=5",
-     "ts": "2026-11-14T17:34:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -110255,66 +110463,14 @@
     "at": "2026-11-07T18:20:57Z"
    },
    "msg_id": 630
-  },
-  {
-   "id": "9941f9753a03",
-   "title": "🔞 Спойлеры подвезли 🥺 Канал про GTA 6 | Наш чат",
-   "first_seen": "2026-11-07T18:10:46Z",
-   "updated": "2026-11-07T18:10:46Z",
-   "items": [
-    {
-     "id": "9941f9753a03",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "🔞 Спойлеры подвезли 🥺 Канал про GTA 6 | Наш чат",
-     "url": "https://t.me/GTA6_m/9316",
-     "ts": "2026-11-07T18:05:11Z",
-     "summary": "🔞 Спойлеры подвезли 🥺 Канал про GTA 6 | Наш чат"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "904a1081e034",
-   "title": "I grew up in and live in Miami, I would love to explore my real neighborhoods, but I would want to create an alternate win condition using love and kindness. Possible?",
-   "first_seen": "2026-11-07T18:10:46Z",
-   "updated": "2026-11-07T18:10:46Z",
-   "items": [
-    {
-     "id": "904a1081e034",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I grew up in and live in Miami, I would love to explore my real neighborhoods, but I would want to create an alternate win condition using love and kindness. Possible?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xqcu5f/i_grew_up_in_and_live_in_miami_i_would_love_to/",
-     "ts": "2026-11-07T18:09:47Z",
-     "summary": "submitted by /u/magicbeaned to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T18:01:11Z",
+  "last_run": "2026-11-14T18:10:53Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 99/100",
+   "gnews_en: 100/100",
    "gnews_ru: 94/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
@@ -110323,7 +110479,7 @@
    "eurogamer: 5/100",
    "dexerto_gta: 4/50",
    "rockstarintel: 5/10",
-   "gtaboom: 6/30",
+   "gtaboom: 5/30",
    "reddit: 24/25",
    "tg_gtavistar: 10/18",
    "tg_gta6deluxe: 12/16",
