@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "d064aebd7850",
+   "title": "What To Play Instead Of Grand Theft Auto 6",
+   "first_seen": "2026-11-14T05:10:59Z",
+   "updated": "2026-11-14T05:10:59Z",
+   "items": [
+    {
+     "id": "d064aebd7850",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "80 Level",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "What To Play Instead Of Grand Theft Auto 6",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RbmtDRXdzd3J3M1Y5OHVKTGdNb1hVRDVlNWdTbVphV3lQMEg4MVpVYkhBWFd1RkU0c3FTSnRfeTBuRXAxekFRaVZYQlUwU3BZR2puclZYYlRVdXFzWXJqTHNFOVpJWFNyUEdCSXl3?oc=5",
+     "ts": "2026-11-13T20:55:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8e94180ab808",
+   "title": "сходил в этот ваш как его барби шоп...",
+   "first_seen": "2026-11-14T05:10:59Z",
+   "updated": "2026-11-14T05:10:59Z",
+   "items": [
+    {
+     "id": "8e94180ab808",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "сходил в этот ваш как его барби шоп...",
+     "url": "https://t.me/GTA6_m/9369",
+     "ts": "2026-11-14T05:05:05Z",
+     "summary": "сходил в этот ваш как его барби шоп... 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "31300e9bbdab",
    "title": "Yeah I know, another one….",
    "first_seen": "2026-11-14T05:01:16Z",
@@ -107823,41 +107875,13 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "6cc151c95372",
-   "title": "I have a question regarding the animals",
-   "first_seen": "2026-11-07T05:10:46Z",
-   "updated": "2026-11-07T05:10:46Z",
-   "items": [
-    {
-     "id": "6cc151c95372",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I have a question regarding the animals",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xpy697/i_have_a_question_regarding_the_animals/",
-     "ts": "2026-11-07T05:08:57Z",
-     "summary": "I don't know if this has been confirmed, but as Chop was your pet in GTA V, do you think we will be able to have pets ? Given there's multiple dogs I wonder if you can have one....... or hopefully a bunny submitted by /u/SRODH to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T05:01:16Z",
+  "last_run": "2026-11-14T05:10:59Z",
   "last_log": [
-   "rockstar_site: 0/4",
+   "rockstar_site: 0/3",
    "gnews_en: 96/100",
    "gnews_ru: 96/100",
    "gamesbeat: 0/10",
@@ -107871,7 +107895,7 @@
    "reddit: 24/25",
    "tg_gtavistar: 16/18",
    "tg_gta6deluxe: 15/15",
-   "tg_gta6_m: 16/18",
+   "tg_gta6_m: 17/18",
    "tg_gta6newsdaily: 2/18"
   ],
   "digest": "2026-11-13@21",
