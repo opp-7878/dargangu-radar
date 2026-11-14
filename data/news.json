@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "5a38164472b6",
+   "title": "It’s been a long time… but we’re back in Vice City, baby!",
+   "first_seen": "2026-11-13T23:01:18Z",
+   "updated": "2026-11-14T08:40:46Z",
+   "items": [
+    {
+     "id": "5a38164472b6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "It’s been a long time… but we’re back in Vice City, baby!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xvj4xw/its_been_a_long_time_but_were_back_in_vice_city/",
+     "ts": "2026-11-13T20:42:48Z",
+     "summary": "submitted by /u/DaKoalaBaer to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "602c66844c69",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We’re heading back to Vice City baby!!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvxebj/were_heading_back_to_vice_city_baby/",
+     "ts": "2026-11-14T08:31:49Z",
+     "summary": "same city, different era submitted by /u/Ok-Apricot-1634 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "ca34d71b4d81",
    "title": "GTA 6 Could Sell 55 Million Copies By Early Next Year, Report Says, And Average Selling Price Could Be $90",
    "first_seen": "2026-11-13T11:31:11Z",
@@ -5327,32 +5366,6 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xvit0g/me_going_to_work_next_week/",
      "ts": "2026-11-13T20:29:50Z",
      "summary": "And my Series X is at home 🤩 submitted by /u/NightsearchSWE to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5a38164472b6",
-   "title": "It’s been a long time… but we’re back in Vice City, baby!",
-   "first_seen": "2026-11-13T23:01:18Z",
-   "updated": "2026-11-13T23:01:18Z",
-   "items": [
-    {
-     "id": "5a38164472b6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "It’s been a long time… but we’re back in Vice City, baby!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xvj4xw/its_been_a_long_time_but_were_back_in_vice_city/",
-     "ts": "2026-11-13T20:42:48Z",
-     "summary": "submitted by /u/DaKoalaBaer to r/GTA6 [link] [comments]"
     }
    ],
    "tags": [],
@@ -108007,14 +108020,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T08:31:01Z",
+  "last_run": "2026-11-14T08:40:46Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 97/100",
-   "gnews_ru: 96/100",
+   "gnews_ru: 95/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 1/10",
+   "insider_gaming: 2/10",
    "ign: 2/20",
    "eurogamer: 5/100",
    "dexerto_gta: 7/50",
