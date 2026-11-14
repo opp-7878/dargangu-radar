@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "e57b46935157",
+   "title": "Using AI when there are literally official images, I’m dead",
+   "first_seen": "2026-11-14T23:01:13Z",
+   "updated": "2026-11-14T23:01:13Z",
+   "items": [
+    {
+     "id": "e57b46935157",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Using AI when there are literally official images, I’m dead",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xwfqdf/using_ai_when_there_are_literally_official_images/",
+     "ts": "2026-11-14T22:55:37Z",
+     "summary": "submitted by /u/WadieXkiller to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "1e3de409d445",
    "title": "Aussie gamer industry counting down to GTA 6 release",
    "first_seen": "2026-11-14T22:50:55Z",
@@ -111614,67 +111640,15 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
-  },
-  {
-   "id": "be9ba8f80da9",
-   "title": "13 years of development well",
-   "first_seen": "2026-11-07T23:01:12Z",
-   "updated": "2026-11-07T23:01:12Z",
-   "items": [
-    {
-     "id": "be9ba8f80da9",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "13 years of development well",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xqjasd/13_years_of_development_well/",
-     "ts": "2026-11-07T22:55:09Z",
-     "summary": "submitted by /u/drunkstoned94 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a8de8f57af2b",
-   "title": "Don’t forget where we started",
-   "first_seen": "2026-11-07T23:01:12Z",
-   "updated": "2026-11-07T23:01:12Z",
-   "items": [
-    {
-     "id": "a8de8f57af2b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Don’t forget where we started",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xqjdu9/dont_forget_where_we_started/",
-     "ts": "2026-11-07T22:59:18Z",
-     "summary": "submitted by /u/gulagsurvivor2019 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T22:50:55Z",
+  "last_run": "2026-11-14T23:01:14Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
-   "gnews_ru: 91/100",
+   "gnews_ru: 90/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
