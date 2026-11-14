@@ -1,62 +1,10 @@
 {
  "stories": [
   {
-   "id": "a498db5feea0",
-   "title": "GTA VI Physical Copies Face Used Code Issues",
-   "first_seen": "2026-11-14T16:51:03Z",
-   "updated": "2026-11-14T17:01:33Z",
-   "items": [
-    {
-     "id": "a498db5feea0",
-     "src": "rockstarintel",
-     "src_name": "Rockstar INTEL",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 55,
-     "alert": true,
-     "title": "GTA VI Physical Copies Face Used Code Issues",
-     "url": "https://rockstarintel.com/gta-vi-physical-copies-face-used-code-issues/",
-     "ts": "2026-11-14T16:49:34Z",
-     "summary": "GTA VI physical copies have raised concerns among buyers after fans discovered a potential security issue with the game’s packaging. The discovery has been shared online, with some players showing how the download code inside the box could potentially be accessed without purchasing or opening the game. The issue was first brought to attention by [...] The post GTA VI Physical Copies Face Used Code Issues appeared first on RockstarINTEL ."
-    },
-    {
-     "id": "9d8bc510cbe7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "RockstarINTEL",
-     "group": "media",
-     "weight": 55,
-     "alert": true,
-     "title": "GTA VI Physical Copies Face Used Code Issues",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ajktU1NlQ0gyZVVYWlhkUG4wc3d5Xy13MlllZ2RaWHl6TUJxbkJmd2lRUWhfcnl5QWJiOFByYmdnSUE2ekozb1Q5N0JILXJUd0dPa1NQTE8xanpMUVJXRHgwMFpOOHBONGJWbm4tdGJQdWxWeGpQNzdxaw?oc=5",
-     "ts": "2026-11-14T16:49:34Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Коробки GTA 6: код активации можно использовать без вскрытия",
-    "summary": "Фанаты обнаружили, что код загрузки в физических копиях GTA 6 можно получить, не вскрывая коробку. Об этом сообщили игроки в сети, показав уязвимость упаковки.",
-    "idea": "Короткая демонстрация, как код виден через упаковку, и совет проверить коробку при покупке. Зрителю важно не потерять доступ к игре.",
-    "hook": "Не вскрывай — а код уже использован. Смотри, как это происходит с GTA 6.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-14T16:51:08Z"
-   },
-   "msg_id": 957
-  },
-  {
    "id": "a3340cbeac91",
    "title": "Twitch Plans to Give Away Free Copies of GTA 6 Ultimate Edition",
    "first_seen": "2026-11-14T14:01:12Z",
-   "updated": "2026-11-14T17:01:33Z",
+   "updated": "2026-11-14T17:10:51Z",
    "items": [
     {
      "id": "a3340cbeac91",
@@ -135,6 +83,19 @@
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEtDSnVJY3YtSXBpLUNUcVJERGc2R0w1bldKRVM1SXR5MVZjR2x1V1pHNkpiSlpzUmJJUTZiZllUNldLbVR4OGk0enp3NkZyTVZSd1ZMX1RaVU55ZGtpNkYtbmYwaTlveTQwcUFmTUpCckZCdk5yVkpybUZHUnp2SjlKcDhYcnVwWmlqVGVTeVYydkVuVUdYVFVaVVZmUQ?oc=5",
      "ts": "2026-11-14T16:56:28Z",
      "summary": ""
+    },
+    {
+     "id": "ca94e1b5c496",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Ultimate edition upgrade",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xw7l66/ultimate_edition_upgrade/",
+     "ts": "2026-11-14T17:10:04Z",
+     "summary": "submitted by /u/Taulukauppias00 to r/GTAVI [link] [comments]"
     }
    ],
    "tags": [
@@ -144,6 +105,193 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
+  },
+  {
+   "id": "1e72e51fcd51",
+   "title": "GTA 6: Новый трейлер с элитными авто и рекордные предзаказы перед релизом 19 ноября",
+   "first_seen": "2026-11-14T17:10:51Z",
+   "updated": "2026-11-14T17:10:51Z",
+   "items": [
+    {
+     "id": "1e72e51fcd51",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "carexpo.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: Новый трейлер с элитными авто и рекордные предзаказы перед релизом 19 ноября",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlBCcElZTzBkaUVneGRqcklfZGFKUThHSVprZ0o4SFh2djRHRjgxQV9pUFNaRS1vcVBkVDhpOE95RG1KUFo2NGlMZ09kMXFfbmRuRmdEeTBnc184XzI4UjFBd2NlNzRoallqMDBBQzR2c2xIejBCZ1JzNzkzelY4UkIwcnNzVFJkdWNKYUh1d1V5TjJTSzYtX040UEc?oc=5",
+     "ts": "2026-11-14T17:01:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "трейлер",
+    "цена/издания"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "5b0f04832b0b",
+   "title": "\"Ничего подобного ещё не было\": выход GTA 6 может парализовать игровую индустрию и затмить другие развлечения",
+   "first_seen": "2026-11-14T17:10:51Z",
+   "updated": "2026-11-14T17:10:51Z",
+   "items": [
+    {
+     "id": "5b0f04832b0b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "\"Ничего подобного ещё не было\": выход GTA 6 может парализовать игровую индустрию и затмить другие развлечения",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObjhJZmVRdXpLSnUwSjdDR0U3ZTc4eTBHdHBWQVNuczkyalJoT2xrc0ROQVVyakl3MG45aDE3R0RlVS1UdXUwSjFDZHpHV0VUUFd2UzF3QVhyblNaRFA3MGR4Z1hZSnVjdmRwTG1IOFJwTWJ4d1lWcERPbnltRjNNUXFaX251QW0tYlFhZDB6dUdyeWduOEplYzhjSlprTVEzaEpoVnJ6bG1yc1dmWTRTT1FjRkppXzNjeXl6QU4ydmZrbTUxTDM3VVJUdldtRDF5aVNJQl96VHRIWm9BOThlbnM4OE5kZlVYN2Q1cXpkTQ?oc=5",
+     "ts": "2026-11-14T17:04:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "81beb7abad33",
+   "title": "GTA Online for Grand Theft Auto VI is expected to launch in the first quarter of 2027.",
+   "first_seen": "2026-11-14T17:10:51Z",
+   "updated": "2026-11-14T17:10:51Z",
+   "items": [
+    {
+     "id": "81beb7abad33",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA Online for Grand Theft Auto VI is expected to launch in the first quarter of 2027.",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNazJzSVllckVjOG1UYVMxa193cURLUjFMbVNoeFJxdm1DNzBjMmtOM191TVE2NGp5c0JfbGI4bk9xUTNEYVJfTGJpWHE2U3ZDM1NTcS1tSHhWQ1hPekE3bmFVUjBTZ0xrZnA1dUgtU1pRYUNBQWtXU0JFRHh2aF83eDBkT0lTc1BwSFV1RXRvQVZKT05UdllCdFQzcEtZcjJHalNLWl95VzlmNmZwWXFGUXFwVXNPQQ?oc=5",
+     "ts": "2026-11-14T17:05:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "b3bdd0e20c0e",
+   "title": "Detail I picked up on",
+   "first_seen": "2026-11-14T17:10:51Z",
+   "updated": "2026-11-14T17:10:51Z",
+   "items": [
+    {
+     "id": "b3bdd0e20c0e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Detail I picked up on",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xw7hid/detail_i_picked_up_on/",
+     "ts": "2026-11-14T17:06:05Z",
+     "summary": "I remember in one of the articles, I can’t recall which one; the interviewer asked whether it was an option to marry Jason and Lucia. Rob Nelson replied something to the effect of “no comment”. That made me think, maybe as a plot beat they get hitched so they can’t be compelled to testify against each other. It’s also substantiated by Rob’s silence. If it was a story spoiler he might not wanna share it. submitted by /u/Total-Awareness1526 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "be1962e7ef7a",
+   "title": "Went out like a Boss.",
+   "first_seen": "2026-11-14T17:10:51Z",
+   "updated": "2026-11-14T17:10:51Z",
+   "items": [
+    {
+     "id": "be1962e7ef7a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Went out like a Boss.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xw7k3q/went_out_like_a_boss/",
+     "ts": "2026-11-14T17:08:50Z",
+     "summary": "Deleted the game right after this to make room for 6. Came a long way from Paleto Bay, he had a good fuckin run. submitted by /u/MUDNBUD to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a498db5feea0",
+   "title": "GTA VI Physical Copies Face Used Code Issues",
+   "first_seen": "2026-11-14T16:51:03Z",
+   "updated": "2026-11-14T17:01:33Z",
+   "items": [
+    {
+     "id": "a498db5feea0",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA VI Physical Copies Face Used Code Issues",
+     "url": "https://rockstarintel.com/gta-vi-physical-copies-face-used-code-issues/",
+     "ts": "2026-11-14T16:49:34Z",
+     "summary": "GTA VI physical copies have raised concerns among buyers after fans discovered a potential security issue with the game’s packaging. The discovery has been shared online, with some players showing how the download code inside the box could potentially be accessed without purchasing or opening the game. The issue was first brought to attention by [...] The post GTA VI Physical Copies Face Used Code Issues appeared first on RockstarINTEL ."
+    },
+    {
+     "id": "9d8bc510cbe7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RockstarINTEL",
+     "group": "media",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA VI Physical Copies Face Used Code Issues",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ajktU1NlQ0gyZVVYWlhkUG4wc3d5Xy13MlllZ2RaWHl6TUJxbkJmd2lRUWhfcnl5QWJiOFByYmdnSUE2ekozb1Q5N0JILXJUd0dPa1NQTE8xanpMUVJXRHgwMFpOOHBONGJWbm4tdGJQdWxWeGpQNzdxaw?oc=5",
+     "ts": "2026-11-14T16:49:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Коробки GTA 6: код активации можно использовать без вскрытия",
+    "summary": "Фанаты обнаружили, что код загрузки в физических копиях GTA 6 можно получить, не вскрывая коробку. Об этом сообщили игроки в сети, показав уязвимость упаковки.",
+    "idea": "Короткая демонстрация, как код виден через упаковку, и совет проверить коробку при покупке. Зрителю важно не потерять доступ к игре.",
+    "hook": "Не вскрывай — а код уже использован. Смотри, как это происходит с GTA 6.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-14T16:51:08Z"
+   },
+   "msg_id": 957
   },
   {
    "id": "21c1dd6c02af",
@@ -109967,139 +110115,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "9fb2e647db2d",
-   "title": "Самое интересное за неделю: безумно дорогой и крутой Motorola Signature 27, предзагрузка GTA 6",
-   "first_seen": "2026-11-07T09:40:49Z",
-   "updated": "2026-11-07T17:10:49Z",
-   "items": [
-    {
-     "id": "9fb2e647db2d",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ichip.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Самое интересное за неделю: безумно дорогой и крутой Motorola Signature 27, предзагрузка GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNmZuejQ5TWpSSzZCSERhR0dXT3ZmRGlLSzMwNUVweUtTTVNnVlJJdlpQS3hab1kxdzBVTndsQjQzS2xzS3N0Q09NWW1DR2lXZTJSVVM4U1IxYUt3eUEyVGdaTkYxQlViam5KLUw4TEhRZ3BRUW9DSi0wNHY1T0NlaU9naU9LbGp0ZDA5NGJ2OHhsUENJQWQ1R0JEQmVGaTJSd1MxeDBVaXhDc1Z1Y1laOF9BMzNidUxrQjY2Vl9XclY5WTA?oc=5",
-     "ts": "2026-11-07T09:34:37Z",
-     "summary": ""
-    },
-    {
-     "id": "2b11f7c03a65",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "prospect.com.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Самое интересное за неделю: безумно дорогой и крутой Motorola Signature 27, предзагрузка GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFM0OVd1Z1J1VFk5bzM4YWZQdnNDamU2cXRFU0tnS1dQaktRbHhPclB3bXZfblFKbzBJakFkdnBvQ0JVVTV2R0MybFpRWXNkVzZCd2RfRHZQWVVKMTNESkc5d0RFMkl4YnotcjhBcUo1M3NBR2xRMTZSS1VaeWZfRzFYOW5jbnVwTlc3VEhPOVVhdTZ5ZkNNelQzYmJUM0ZzbTN1MDA2ZkZNUGJQa2tRb2hia1F0NUJBNU40dzNweDRNakdkQS02d0tyOVdMbUFr?oc=5",
-     "ts": "2026-11-07T17:03:54Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 63,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Предзагрузка GTA 6: что известно о размере",
-    "summary": "По данным iChip, ожидается предзагрузка GTA 6 с 12 ноября 2026, за неделю до релиза 19 ноября. Официального размера Rockstar не назвала, но ориентируемся на крупные файлы для PS5 и Xbox Series.",
-    "idea": "Сравним ожидаемый размер GTA 6 с другими крупными играми и посчитаем, сколько займёт на диске. Зрителю важно понять, хватит ли места и SSD.",
-    "hook": "Предзагрузка GTA 6 стартует 12 ноября — сколько гигабайт готовить?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-07T09:40:52Z"
-   },
-   "msg_id": 614
-  },
-  {
-   "id": "d58e2e674943",
-   "title": "89% of People Think GTA 6 Will Win Game of the Year at The Game Awards",
-   "first_seen": "2026-11-07T17:10:49Z",
-   "updated": "2026-11-07T17:10:49Z",
-   "items": [
-    {
-     "id": "d58e2e674943",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "89% of People Think GTA 6 Will Win Game of the Year at The Game Awards",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BZU9icVhBMXZTS1hzeFhYWTRTbG9VY01LaFd0Y2ZnT0hsYWxkMDNVUDZzbkJreWYzVW5CRXFJdGttSzREcE9Bd1hwZ0Utd1NESVI2dWhXSkVxUVRiV2t3dzgybWE4R1NBc05xZ2dBeGhIQm8?oc=5",
-     "ts": "2026-11-07T16:59:42Z",
-     "summary": ""
-    },
-    {
-     "id": "387410e0aa57",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "89% of People Think GTA 6 Will Win Game of the Year at The Game Awards",
-     "url": "https://insider-gaming.com/gta-6-game-of-the-year-awards-chances/",
-     "ts": "2026-11-07T16:59:42Z",
-     "summary": "Grand Theft Auto 6 has an 89% chance of securing Game of the Year at The Game Awards this year, one site has predicted. The post 89% of People Think GTA 6 Will Win Game of the Year at The Game Awards appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 — фаворит на «Игру года»? Прогноз: 89%",
-    "summary": "По данным Insider Gaming, один сайт предсказал GTA 6 89% на победу в номинации «Игра года» на The Game Awards. Об этом написал Том Хендерсон со ссылкой на прогноз.",
-    "idea": "Короткий разбор шансов GTA 6 на TGA: что значит 89% и кто главные соперники. Зрителю интересно узнать, реально ли победа и что может помешать.",
-    "hook": "89% на «Игру года» для GTA 6 — реально или просто хайп?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-07T17:10:53Z"
-   },
-   "msg_id": 627
-  },
-  {
-   "id": "dac13b326684",
-   "title": "Should You Buy A PS5 Pro Just To Play GTA 6?",
-   "first_seen": "2026-11-07T17:10:49Z",
-   "updated": "2026-11-07T17:10:49Z",
-   "items": [
-    {
-     "id": "dac13b326684",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "www.svg.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Should You Buy A PS5 Pro Just To Play GTA 6?",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SMG1YUFVwejJTMWFoZ2xYQlV1NHEwLWFkTENSTzJDOENNal9MU1M3dS1Va1AtdGk1LUpfVk5WbXZ5a0QxdHZ1N3lldGhFYWU0MHRqTWVhOUZEOF82UVNRbFB4WXhBUkpUZXFuWjdOYw?oc=5",
-     "ts": "2026-11-07T17:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T17:01:33Z",
+  "last_run": "2026-11-14T17:10:51Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
@@ -110111,7 +110131,7 @@
    "eurogamer: 5/100",
    "dexerto_gta: 4/50",
    "rockstarintel: 5/10",
-   "gtaboom: 7/30",
+   "gtaboom: 6/30",
    "reddit: 24/25",
    "tg_gtavistar: 10/18",
    "tg_gta6deluxe: 12/16",
