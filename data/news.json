@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "2355176ad668",
+   "title": "В сети обсуждают возможную проблему с физическими копиями GTA 6",
+   "first_seen": "2026-11-14T06:31:00Z",
+   "updated": "2026-11-14T06:31:00Z",
+   "items": [
+    {
+     "id": "2355176ad668",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Игромания",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "В сети обсуждают возможную проблему с физическими копиями GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3pSQUotNVRGNVhVVGYzdjBRZHI0VE5TSXdRTzE1MzY3Y1RSR1lLVXFNbUMwQUZ4cE9paDN5eV9Jd3BuRGNaUWYzbUljR00zLWMtUzFzalRjeklmbkJPRDBwTHBnOXZxVWFkOEV2TkFsMXh3Rjh0X3A0c0NaWEczMW9IVW9tNG8yYnpRa2d6OTNUbkp4SWMzNEJXaHR0TUJPdjIySE1nbEdMeERhb25ET2VLcnRZSTRfc3BoYWlXT0ltN2JiTFBfbXVB?oc=5",
+     "ts": "2026-11-14T06:15:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9eecfe4b971b",
    "title": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
    "first_seen": "2026-11-13T12:10:50Z",
@@ -108113,9 +108139,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T06:20:52Z",
+  "last_run": "2026-11-14T06:31:00Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/4",
    "gnews_en: 96/100",
    "gnews_ru: 96/100",
    "gamesbeat: 0/10",
