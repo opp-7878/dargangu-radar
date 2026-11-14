@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "db193edf0c3c",
+   "title": "Last 100 hours!!",
+   "first_seen": "2026-11-14T07:01:13Z",
+   "updated": "2026-11-14T07:01:13Z",
+   "items": [
+    {
+     "id": "db193edf0c3c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Last 100 hours!!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvvre7/last_100_hours/",
+     "ts": "2026-11-14T06:52:40Z",
+     "summary": "We're in the double digits of hours until it's out, see you in Leonida! 🚘⛱️💜 submitted by /u/Consistent_Active519 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6db87d987d51",
    "title": "Rockstar Games раскрыла новые подробности о GTA 6",
    "first_seen": "2026-11-14T06:50:49Z",
@@ -108104,40 +108130,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "6c06a664f57d",
-   "title": "Rockstar показала 40 новых кадров GTA 6",
-   "first_seen": "2026-11-07T07:01:09Z",
-   "updated": "2026-11-07T07:01:09Z",
-   "items": [
-    {
-     "id": "6c06a664f57d",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "bigmir)net",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar показала 40 новых кадров GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkh1S0VFRmhYTlJwLS1mcjBkTVJOVm5ZOHp4ZHY4OFd5dVVLSnN2TnRjVWRYUU5uWjV2RjM1bG05UmNmVEc4bmR0MEdtcTdqUUlFUWM2WjlHQ3I3UnRSTzBIdnVQckNvR0NDOHVRYXgxanpBd0h0RXpKclA5Vm0zVVJjSE54OVhYYUF2ZkJ2VQ?oc=5",
-     "ts": "2026-11-06T08:05:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T06:50:49Z",
+  "last_run": "2026-11-14T07:01:13Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 97/100",
+   "gnews_en: 96/100",
    "gnews_ru: 96/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
