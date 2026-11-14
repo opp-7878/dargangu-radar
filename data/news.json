@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "6db87d987d51",
+   "title": "Rockstar Games раскрыла новые подробности о GTA 6",
+   "first_seen": "2026-11-14T06:50:49Z",
+   "updated": "2026-11-14T06:50:49Z",
+   "items": [
+    {
+     "id": "6db87d987d51",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar Games раскрыла новые подробности о GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUFZemlmYXJUaE5Fa1JyUEJ6Z3QyaEw0OXJiVGFLUFI2a1RVVEk4STFIMmk5Umc2SUdyU2RDei1yX2Q5R1YzMDkwZjY1REUxbUJfTmZhZW9SVnJIa3hRU0VIMk9IdHZhajJzdU9EWm9BQllLQlN5NnMyNFNWb0s0SW1jTkVRam1xZm9SSm1pNG9DcThIcVhhMw?oc=5",
+     "ts": "2026-11-14T06:28:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "02c57902d167",
    "title": "Премия Дарвина среди геймеров? Блогер раскрыл ключ GTA 6 перед тысячами глаз",
    "first_seen": "2026-11-14T06:40:50Z",
@@ -108104,40 +108130,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "529efb01be74",
-   "title": "GTA 6 Might Be the Most Anticipated Game Ever… If Not, What Was?",
-   "first_seen": "2026-11-07T06:50:46Z",
-   "updated": "2026-11-07T06:50:46Z",
-   "items": [
-    {
-     "id": "529efb01be74",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Goomba Stomp Magazine",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Might Be the Most Anticipated Game Ever… If Not, What Was?",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ29NWDV5WkpQeWJ2NGZzTGRkMi1fb20xeU41ekxEaXVWcnNuUUJNcmJzdE9McDhfTjNyQjZLMWlQZENsVWYwaEpwVEk1T0ZCTC1fQTZUd001cFdIeU1UcWE4T2RvMHdsdEg0NnB3VDNkdHNFZ1didVlVZThpZ1Y4MGFzeDhsay1FR25RLU12NA?oc=5",
-     "ts": "2026-11-07T06:42:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T06:40:50Z",
+  "last_run": "2026-11-14T06:50:49Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 96/100",
+   "gnews_en: 97/100",
    "gnews_ru: 96/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
