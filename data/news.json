@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "011cb5f39f40",
+   "title": "Продажи GTA 5 резко выросли в преддверии выхода GTA 6 — Alinea Analytics",
+   "first_seen": "2026-11-14T01:40:57Z",
+   "updated": "2026-11-14T01:40:57Z",
+   "items": [
+    {
+     "id": "011cb5f39f40",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Продажи GTA 5 резко выросли в преддверии выхода GTA 6 — Alinea Analytics",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmVqeFJPQWVsaUVCSXMwTHZHLXlHclBQZm5rMjRiTUhyRE1DcEp3NkpUZEYweHprekhMdFdOSzduMTFuRzloVDVmUWxUdktjMmZNVURDMDJyR01IR3JhSl9pNHAyY3R4SmRFbGt5MGdOMXp1UkVtUDVpV3cwZmFGSlpadFJyNnJzb21VejZGek55Ti1ibkkyYWgxdzlUeC16T1hJRWVTNNIBrAFBVV95cUxPbkEwU05kNzZRWm9wTEpvUWNkdWMza2dLZ1FtWGxzaXJFYUJ2VkVmdFNLNzd0OTI5VEpoWmJpODM0Q082R1E2dDMwVk0xdTFjTzJWNEI3WjEzQUVHNENUUHFjZlVpTXljWXRGemF2azZJZTlzWHpjV2xGTVNpd1pHRk93SFhidVk4bVhKMzFhdjNNekZhVmtLZWZMZ1RwbjRLY0JOd25hUjRVaTNh?oc=5",
+     "ts": "2026-11-14T01:35:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "004e5f176ef0",
+   "title": "Does the game release on PS5 at 9:00 pm pacific west coast time, or midnight?",
+   "first_seen": "2026-11-14T01:40:57Z",
+   "updated": "2026-11-14T01:40:57Z",
+   "items": [
+    {
+     "id": "004e5f176ef0",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Does the game release on PS5 at 9:00 pm pacific west coast time, or midnight?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvpy82/does_the_game_release_on_ps5_at_900_pm_pacific/",
+     "ts": "2026-11-14T01:39:29Z",
+     "summary": "I keep getting conflicting answers on this. Does anyone know for sure? submitted by /u/ShrekHands to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "140cd7bdad16",
    "title": "LiAngelo Ball Drops New NSFW Song 'GTA Livin' Ahead of Grand Theft Auto VI Release Date",
    "first_seen": "2026-11-13T20:10:48Z",
@@ -107384,9 +107436,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T01:37:45Z",
+  "last_run": "2026-11-14T01:40:57Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/4",
    "gnews_en: 97/100",
    "gnews_ru: 96/100",
    "gamesbeat: 0/10",
