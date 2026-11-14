@@ -1,6 +1,97 @@
 {
  "stories": [
   {
+   "id": "3a12cbf6c10f",
+   "title": "В США воссоздали суперкар из GTA VI. Во сколько его оценили?",
+   "first_seen": "2026-11-14T06:10:49Z",
+   "updated": "2026-11-14T06:10:49Z",
+   "items": [
+    {
+     "id": "3a12cbf6c10f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "av.by",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В США воссоздали суперкар из GTA VI. Во сколько его оценили?",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBndGpRWi1NQ3BaUF9CQkdyNEdZYVVlX0FUYldsS2lIbGpfU19IYmVDbXdrS05TT1lUU1dmN2t1T2VVLXpNV2NxV0gxQzh4eVVPV2RuZl80dlZ4c1g0RlJoOTJ0R2xZdU5zMmtyLQ?oc=5",
+     "ts": "2026-11-14T06:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9a926c761db7",
+   "title": "Go into GTA 6 blind. Let the wind take you",
+   "first_seen": "2026-11-14T06:10:49Z",
+   "updated": "2026-11-14T06:10:49Z",
+   "items": [
+    {
+     "id": "9a926c761db7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Go into GTA 6 blind. Let the wind take you",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xvuwtq/go_into_gta_6_blind_let_the_wind_take_you/",
+     "ts": "2026-11-14T06:03:22Z",
+     "summary": "I’ve been seeing videos about GTA 6 checklists, what people are planning to do, encouraging others to do the same, and even creating their own checklists. My advice? Go in free, with no checklist, and let the wind take you. IMO, it ruins the experience because you’re programming your mind to treat the game like a task rather than focusing on the fun. Part of the fun is discovering things organically and doing things you never planned on doing. submitted by /u/xanderico7 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "903c393ba5b1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Go into GTA 6 blind. Let the wind take you.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvv014/go_into_gta_6_blind_let_the_wind_take_you/",
+     "ts": "2026-11-14T06:08:22Z",
+     "summary": "I’ve been seeing videos about GTA 6 checklists, what people are planning to do, encouraging others to do the same, and even creating their own checklists. My advice? Go in free, with no checklist, and let the wind take you. IMO, it ruins the experience because you’re programming your mind to treat the game like a task rather than focusing on the fun. Part of the fun is discovering things organically and doing things you never planned on doing. submitted by /u/xanderico7 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0a178c3baa22",
+   "title": "Dazed Magazine w/ Stickers!",
+   "first_seen": "2026-11-14T06:10:49Z",
+   "updated": "2026-11-14T06:10:49Z",
+   "items": [
+    {
+     "id": "0a178c3baa22",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Dazed Magazine w/ Stickers!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xvv14i/dazed_magazine_w_stickers/",
+     "ts": "2026-11-14T06:10:07Z",
+     "summary": "I chose to collect Dazed Magazine because it's the first print appearance and official deep-dive interview by Rockstar Games for Grand Theft Auto VI submitted by /u/11pmStalker to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "8bfa8bdaf7c5",
    "title": "GTA 6 physical copy codes reportedly visible by flashlight",
    "first_seen": "2026-11-14T06:01:35Z",
@@ -108020,9 +108111,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-14T06:01:35Z",
+  "last_run": "2026-11-14T06:10:49Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/4",
    "gnews_en: 96/100",
    "gnews_ru: 96/100",
    "gamesbeat: 0/10",
