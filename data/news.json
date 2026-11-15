@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "2294aa0c8b60",
+   "title": "The graphics of GTA Vice City and GTA VI were compared using the same elements.",
+   "first_seen": "2026-11-15T00:20:44Z",
+   "updated": "2026-11-15T00:20:44Z",
+   "items": [
+    {
+     "id": "2294aa0c8b60",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The graphics of GTA Vice City and GTA VI were compared using the same elements.",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1pSX3pGYXJYb0RsMHhtUzBQYUhoaDc0VkhpX1hqRGRzV1F3alA4VHp6T1BzdUFQRk5aUGVTS0txUG5aUUIwWGZCVHd1OFZkd3o3bXJtQlFmYnAxQi1tMXI3aWU2T1d4ektRdE1GQVVwbFZnZlVralFFZTZqZEduSFhVdk5iS2JVTDNpSDdOUlliUldMZ1pzNkFTdVdDMEk?oc=5",
+     "ts": "2026-11-15T00:10:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "384341385211",
    "title": "GTA 6 Track List Leak Reveals Contributions From Dua Lipa, Lana Del Rey, Zara Larsson, and More",
    "first_seen": "2026-11-14T16:31:03Z",
@@ -112102,11 +112128,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-15T00:10:52Z",
+  "last_run": "2026-11-15T00:20:44Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
-   "gnews_ru: 93/100",
+   "gnews_ru: 92/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 3/10",
