@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "f27d97bf2283",
+   "title": "Около 12,5 миллиона жителей США планируют пропустить работу или учёбу в день выхода GTA 6",
+   "first_seen": "2026-11-15T06:40:47Z",
+   "updated": "2026-11-15T06:40:47Z",
+   "items": [
+    {
+     "id": "f27d97bf2283",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Около 12,5 миллиона жителей США планируют пропустить работу или учёбу в день выхода GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMmtZRDRjOU15aVI4RnZIMEtuRDRMYnRTVUpFYmlEVlRaQ0pkdmp5RkJyNnk5Q1ROMkdVWkJsSlowbnZGaEg5cUU1RkZTYTBYRVl0LTNCWjI3RVpFZ0NqaDVIYUxxWHgxQUFQSTJDZ2dGd0U0SzdWUm9tdlZab21uVldhNUhQRnRZcllWYVNoLVhUdldyNUNTblVuVkJGLS1YMVlERDRLSllMcEtzWUZIM0RsTzRNT25YMmVRYWNNLWlaMUQweFRjOF90ZVp0d0Q0VFBV?oc=5",
+     "ts": "2026-11-15T06:27:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "06e623bb75d6",
+   "title": "Xbox cloud",
+   "first_seen": "2026-11-15T06:40:47Z",
+   "updated": "2026-11-15T06:40:47Z",
+   "items": [
+    {
+     "id": "06e623bb75d6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Xbox cloud",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xwolii/xbox_cloud/",
+     "ts": "2026-11-15T06:39:04Z",
+     "summary": "Apparently you can play gta six on xbox one, but this would only be possible through xbox cloud, does this mean I would be able to play gta six on my pc also using xbox cloud? submitted by /u/Infimists to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "951d912c51f4",
    "title": "What to Stream: ‘GTA VI,’ ‘Always Lalisa,’ ‘The Altruists’ and ‘Steps’",
    "first_seen": "2026-11-14T22:20:59Z",
@@ -112953,7 +113007,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-15T06:31:00Z",
+  "last_run": "2026-11-15T06:40:47Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
