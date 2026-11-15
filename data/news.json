@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "37206326c5b6",
+   "title": "Hurry up ffs",
+   "first_seen": "2026-11-15T05:11:11Z",
+   "updated": "2026-11-15T05:11:11Z",
+   "items": [
+    {
+     "id": "37206326c5b6",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Hurry up ffs",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xwmwq2/hurry_up_ffs/",
+     "ts": "2026-11-15T05:01:07Z",
+     "summary": "Trying not to die here submitted by /u/InfernoBlaze1221 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2eea5f1fe2a7",
+   "title": "🪑 В сети нашли первую в мире услугу цифрового к#колда 🥺 Канал про GTA 6 | Наш чат",
+   "first_seen": "2026-11-15T05:11:11Z",
+   "updated": "2026-11-15T05:11:11Z",
+   "items": [
+    {
+     "id": "2eea5f1fe2a7",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🪑 В сети нашли первую в мире услугу цифрового к#колда 🥺 Канал про GTA 6 | Наш чат",
+     "url": "https://t.me/GTA6_m/9376",
+     "ts": "2026-11-15T05:05:05Z",
+     "summary": "🪑 В сети нашли первую в мире услугу цифрового к#колда 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4adef99d53b3",
    "title": "‘GTA V’ made $1 billion in 3 days. Can ‘GTA VI’ be even bigger?",
    "first_seen": "2026-11-14T20:40:56Z",
@@ -112915,67 +112967,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "47808aeb10b8",
-   "title": "What’s everyone’s plan for when the game drops?",
-   "first_seen": "2026-11-08T05:10:47Z",
-   "updated": "2026-11-08T05:10:47Z",
-   "items": [
-    {
-     "id": "47808aeb10b8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What’s everyone’s plan for when the game drops?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xqqd0u/whats_everyones_plan_for_when_the_game_drops/",
-     "ts": "2026-11-08T05:02:59Z",
-     "summary": "My plan is that on my first play through I’m gonna really take my time and explore and just complete the main story. Then do all the side stuff like activities, collectibles, encounters, side missions and 100% completion for my 2nd play through. What about you guys? submitted by /u/Holiday-Fix2882 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "61c6b58b1619",
-   "title": "Spotted on the way to Chicago. It's on the other side of the building too!",
-   "first_seen": "2026-11-08T05:10:47Z",
-   "updated": "2026-11-08T05:10:47Z",
-   "items": [
-    {
-     "id": "61c6b58b1619",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Spotted on the way to Chicago. It's on the other side of the building too!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xqqg85/spotted_on_the_way_to_chicago_its_on_the_other/",
-     "ts": "2026-11-08T05:08:17Z",
-     "summary": "Please excuse the crappy dash photo submitted by /u/GyroMVS to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-15T05:01:11Z",
+  "last_run": "2026-11-15T05:11:11Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 98/100",
-   "gnews_ru: 95/100",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
@@ -112987,7 +112987,7 @@
    "reddit: 25/25",
    "tg_gtavistar: 9/18",
    "tg_gta6deluxe: 12/16",
-   "tg_gta6_m: 14/18",
+   "tg_gta6_m: 15/18",
    "tg_gta6newsdaily: 2/18"
   ],
   "digest": "2026-11-14@21",
