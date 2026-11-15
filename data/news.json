@@ -1,6 +1,60 @@
 {
  "stories": [
   {
+   "id": "049e0d00342e",
+   "title": "Что случилось, пока мы ждали Grand Theft Auto VI",
+   "first_seen": "2026-11-15T09:01:16Z",
+   "updated": "2026-11-15T09:01:16Z",
+   "items": [
+    {
+     "id": "049e0d00342e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Wylsacom",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Что случилось, пока мы ждали Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WdjFmeGNoWFBiUTFoWmw2SWxEc2lGTE9XMnNBZGx5cDhZSV95VkdLZzFhbm5WLV9tdmpudm5kRTZEdHhyazNvV2ZQc05ZenczdllfTlFoazRzdnRUTEs0VlJsby1TbjJzdWVqUGIybWZIOHpyZ0VN?oc=5",
+     "ts": "2026-11-15T08:00:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "adeb23c92944",
+   "title": "Couldn’t wait for pc. I love the poster.",
+   "first_seen": "2026-11-15T09:01:16Z",
+   "updated": "2026-11-15T09:01:16Z",
+   "items": [
+    {
+     "id": "adeb23c92944",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Couldn’t wait for pc. I love the poster.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xwqskv/couldnt_wait_for_pc_i_love_the_poster/",
+     "ts": "2026-11-15T08:56:00Z",
+     "summary": "Gonna play some vice city and god of war til I wait. Hope everyone has fun!🍻 submitted by /u/Classic_Adagio2930 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a94abc28c94d",
    "title": "GTA 6 Launches Nov. 19 After 13-Year Wait",
    "first_seen": "2026-11-15T08:50:58Z",
@@ -113265,7 +113319,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-15T08:50:58Z",
+  "last_run": "2026-11-15T09:01:16Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
@@ -113278,8 +113332,8 @@
    "dexerto_gta: 5/50",
    "rockstarintel: 7/10",
    "gtaboom: 4/30",
-   "reddit: 22/25",
-   "tg_gtavistar: 8/18",
+   "reddit: 21/25",
+   "tg_gtavistar: 7/18",
    "tg_gta6deluxe: 12/16",
    "tg_gta6_m: 14/18",
    "tg_gta6newsdaily: 2/18"
