@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "a94abc28c94d",
+   "title": "GTA 6 Launches Nov. 19 After 13-Year Wait",
+   "first_seen": "2026-11-15T08:50:58Z",
+   "updated": "2026-11-15T08:50:58Z",
+   "items": [
+    {
+     "id": "a94abc28c94d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Seoul Economic Daily",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Launches Nov. 19 After 13-Year Wait",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTJFaWpseWlCMWh3RGg0N1RRREtxSGJfRko2Skd0NHlxRV9PaUNkalBuMGNFZHBPOHlXeU4yeFlWTVNPbkRGZXM5cWlkYXk3c1ZldTV1c2tWamNPdnY2XzJNNjQzM09HYXlQcVBGQVctX05qVFFMRGxCVU1WYnlTS1hBdVVQajR1WkI0cnF6TjAtNkc5WHo4dVItazBCU2k0Wklj?oc=5",
+     "ts": "2026-11-15T07:53:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3fe212c2db93",
+   "title": "Those who have GTA 6 Pre Ordered",
+   "first_seen": "2026-11-15T08:50:58Z",
+   "updated": "2026-11-15T08:50:58Z",
+   "items": [
+    {
+     "id": "3fe212c2db93",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Those who have GTA 6 Pre Ordered",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xwqku2/those_who_have_gta_6_pre_ordered/",
+     "ts": "2026-11-15T08:41:52Z",
+     "summary": "submitted by /u/nathaodedara24 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e57b463874b3",
    "title": "Could we see who plays Jason and Lucia on Tuesday?",
    "first_seen": "2026-11-15T08:40:46Z",
@@ -113209,41 +113261,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "dd6fb3a98bfe",
-   "title": "2 часа до итогов нашего самого крупного Розыгрыша Проверьте сколько у вас билетов и каков шанс по ссылке Всем удачи и хорошего воскресенья!",
-   "first_seen": "2026-11-08T08:50:49Z",
-   "updated": "2026-11-08T08:50:49Z",
-   "items": [
-    {
-     "id": "dd6fb3a98bfe",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "2 часа до итогов нашего самого крупного Розыгрыша Проверьте сколько у вас билетов и каков шанс по ссылке Всем удачи и хорошего воскресенья!",
-     "url": "https://t.me/GTA6_m/9317",
-     "ts": "2026-11-08T08:42:48Z",
-     "summary": "❗️ 2 часа до итогов нашего самого крупного Розыгрыша Проверьте сколько у вас билетов и каков шанс по ссылке Всем удачи и хорошего воскресенья! ❤️ В 13:30 по мск пост будет обновлён автоматически, в боте случайно определятся победители"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-15T08:40:46Z",
+  "last_run": "2026-11-15T08:50:58Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 96/100",
+   "gnews_ru: 95/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
