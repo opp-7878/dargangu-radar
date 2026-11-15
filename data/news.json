@@ -1,6 +1,63 @@
 {
  "stories": [
   {
+   "id": "b26b9ad43471",
+   "title": "Can't believe I'm finally holding it in my hands!!!",
+   "first_seen": "2026-11-15T20:40:45Z",
+   "updated": "2026-11-15T20:40:45Z",
+   "items": [
+    {
+     "id": "b26b9ad43471",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Can't believe I'm finally holding it in my hands!!!",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xx5x2o/cant_believe_im_finally_holding_it_in_my_hands/",
+     "ts": "2026-11-15T20:31:07Z",
+     "summary": "The game is installing. Got the pre-order bonuses and the Ultimate Edition ready. The GTA6 DualSense controller is on its way. I'm ready! Can't wait for 19.11 to be here! submitted by /u/Billi96 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c2ff5cd097b1",
+   "title": "GTA VI shows locked after preload on PS5",
+   "first_seen": "2026-11-15T20:40:45Z",
+   "updated": "2026-11-15T20:40:45Z",
+   "items": [
+    {
+     "id": "c2ff5cd097b1",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "GTA VI shows locked after preload on PS5",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xx60pq/gta_vi_shows_locked_after_preload_on_ps5/",
+     "ts": "2026-11-15T20:35:19Z",
+     "summary": "I downloaded GTA VI as soon as the preloads came out on November 10th, But since yesterday, instead of the release countdown, a lock has appeared saying I don't have the license. I've tried everything: cleared the cache, rebuilt the database, enabled and disabled offline play. Restoring licenses doesn't work (uploading stays stuck at 0%). I've asked several of my friends but I'm the only one having the problem. I've read about other people online with the same exact issue as me. Is this normal? If not, does anyone know how to fix it? submitted by /u/REAL_SNOWPICCIONE to r/GTAVI [link] [comment"
+    }
+   ],
+   "tags": [
+    "Online",
+    "размер/preload"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "de559ed5f0d6",
    "title": "GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
    "first_seen": "2026-11-15T12:01:19Z",
@@ -117049,39 +117106,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "02ca6eb541af",
-   "title": "Online sidejobs to buy the game",
-   "first_seen": "2026-11-08T20:36:29Z",
-   "updated": "2026-11-08T20:36:29Z",
-   "items": [
-    {
-     "id": "02ca6eb541af",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Online sidejobs to buy the game",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xr8foa/online_sidejobs_to_buy_the_game/",
-     "ts": "2026-11-08T20:36:06Z",
-     "summary": "The Game is almost out, I been trying to save the money to buy it but It's hard (I'm from latin america) to much responsabilities, so I can't count on my job to buy it, I already got 60$, just missing 40$, any online job I can do to get those 40$ before launch day? Please let me know your recomendations. submitted by /u/Anndersonxx to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-15T20:31:02Z",
+  "last_run": "2026-11-15T20:40:45Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
@@ -117094,11 +117123,11 @@
    "dexerto_gta: 4/50",
    "rockstarintel: 7/10",
    "gtaboom: 2/30",
-   "reddit: 19/25",
+   "reddit: 20/25",
    "tg_gtavistar: 6/17",
    "tg_gta6deluxe: 9/17",
    "tg_gta6_m: 11/18",
-   "tg_gta6newsdaily: 1/18"
+   "tg_gta6newsdaily: 0/18"
   ],
   "digest": "2026-11-15@21",
   "tg_offset": 854319078
