@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "6ed23387be72",
+   "title": "GTA 6 Arrives This Week: What the Launch Means for Workplaces and Sales",
+   "first_seen": "2026-11-15T23:01:23Z",
+   "updated": "2026-11-15T23:01:23Z",
+   "items": [
+    {
+     "id": "6ed23387be72",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Around Prague",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Arrives This Week: What the Launch Means for Workplaces and Sales",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTHRfbE5lOE1Yckg5Y3RFZFgwcWFuWF9LRXN6WUc1RWlyVDRNbWZvclZqajM1MGJUSFc4RlpvQ3QzQWs4aS1yQjdxNGx4bU1mUjlKdWVNdkRYR3ZfcXdOZ3Q3bUdkRXE1MlNjUlA1NzBFZHFNTGdiQUlFR0d5Y1VSS3AwYkhzV2JndTdUX3FJaFdiUzBKOGE4TnU2ckFGbVNCeDMyaUYxeFU0Q3psTlN3?oc=5",
+     "ts": "2026-11-15T21:53:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4d3d002db300",
+   "title": "Empty Inside",
+   "first_seen": "2026-11-15T23:01:23Z",
+   "updated": "2026-11-15T23:01:23Z",
+   "items": [
+    {
+     "id": "4d3d002db300",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Empty Inside",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xx97oo/empty_inside/",
+     "ts": "2026-11-15T22:51:28Z",
+     "summary": "submitted by /u/SubtleScuttler to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "646079aca314",
    "title": "GTA 6 и 170 млн шекелей — как считали потери",
    "first_seen": "2026-11-15T22:50:49Z",
@@ -117227,70 +117279,18 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a71ef28a79d4",
-   "title": "Cal is gonna make us bawl our eyes out in the story",
-   "first_seen": "2026-11-08T23:01:16Z",
-   "updated": "2026-11-08T23:01:16Z",
-   "items": [
-    {
-     "id": "a71ef28a79d4",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Cal is gonna make us bawl our eyes out in the story",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xrbk4a/cal_is_gonna_make_us_bawl_our_eyes_out_in_the/",
-     "ts": "2026-11-08T22:52:50Z",
-     "summary": "submitted by /u/Tvrdak to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2dfa35cda3f1",
-   "title": "It's not very long left",
-   "first_seen": "2026-11-08T23:01:16Z",
-   "updated": "2026-11-08T23:01:16Z",
-   "items": [
-    {
-     "id": "2dfa35cda3f1",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "It's not very long left",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xrbqj6/its_not_very_long_left/",
-     "ts": "2026-11-08T23:00:46Z",
-     "summary": "Soon 😎 submitted by /u/McKeviin to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-15T22:50:49Z",
+  "last_run": "2026-11-15T23:01:23Z",
   "last_log": [
-   "rockstar_site: 0/0",
+   "rockstar_site: 0/1",
    "gnews_en: 98/100",
    "gnews_ru: 88/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 3/10",
+   "insider_gaming: 2/10",
    "ign: 5/20",
    "eurogamer: 2/100",
    "dexerto_gta: 4/50",
