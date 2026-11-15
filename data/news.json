@@ -1,6 +1,162 @@
 {
  "stories": [
   {
+   "id": "1e0633f0e00f",
+   "title": "На получение платины в GTA VI может уйти более 200 часов",
+   "first_seen": "2026-11-15T12:50:45Z",
+   "updated": "2026-11-15T15:10:50Z",
+   "items": [
+    {
+     "id": "1e0633f0e00f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Согласно инсайдеру Тому Хендерсону, получение платины в GTA 6 займет в среднем более 200 часов",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVnVzSmdidGp5Q1g5dXQwN1U1SW1aTk9NZFk2ZzRFVW5sbE1BNnZTMVlzcmxVY1dlMXlOaUhQd29JMmlwNVNfcWJPbGJkbEMzOHdBY2c0WWhWM2JmdWlaeDQ5aGl0TGFvUG50cmVCZmJNTU13XzlpUTlhSnBzWGU5QlZtZENJMHR6U2RXTG5GQmRHVDFidk9jWjRMTGlIOEtuazdpYVdoZlEtSWFhOG9USWxDdFlNb0lKdVhKdmNPNEgxRlNxcGJuMGhpbmV5OVR4aTR3bXltdw?oc=5",
+     "ts": "2026-11-15T12:42:18Z",
+     "summary": ""
+    },
+    {
+     "id": "e8814d57312a",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "На получение платины в GTA VI может уйти более 200 часов",
+     "url": "https://t.me/GTAVIStar/894",
+     "ts": "2026-11-15T13:59:46Z",
+     "summary": "На получение платины в GTA VI может уйти более 200 часов • Журналист и инсайдер Том Хендерсон заявил, что для получения платинового трофея в GTA VI потребуется больше 200 часов. • Для сравнения, платину в GTA V можно было получить примерно за 50–70 часов. Похоже, охотникам за достижениями в новой части придётся потратить гораздо больше времени. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    },
+    {
+     "id": "4adfb97672ef",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "www.championat.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "На получение всех достижений в GTA 6 понадобится более 200 часов — инсайдер",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2ZXOHJ4SEI1RnJ6WDBXVjc0VGFuNzhUM01JUVRjR3pBN1dYMDlpWTY5VHo1WmJldXdBYndkZ2NKRFMtUldTOE5rYVZBYXVnVnoxWlp0SUszVGJqaHcxOFhyY2NRQmh2emNTU250V2JmU2JQRjh1RnpkTDh0MnByWXZWZ0t5eEhkZHhEWExzcDJlTEZ2Y3c2LXVrdy1scDdCX29TSzNwNXE4OFZBa1Rubm5GaGxrbFRXblVrU1VhSVdTYm5OZWRtNzZRa3I?oc=5",
+     "ts": "2026-11-15T13:58:24Z",
+     "summary": ""
+    },
+    {
+     "id": "895c5d9e7123",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Инсайдер оценил «платину» в GTA 6 более чем в 200 часов",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR0lKejBKdnBoYVo2ZjZaQl9EdzlFMUQwSmJYckU1b0hlVW5Bc19FeGlSMXFJa3Jmd2x4MEhNN1ItbGxad0ZkTmtESmFqX0RwM090ZVQ0MlAxRWh4QlJjZlBjc2lMUDBSM3FXeUJGblVlZzZYTXI4MzJVMUtOQVJaeGZHTXI3eWdpa0t4a3FJM0hxbWtPVS13bVJVZW1VbFR1VFVjQw?oc=5",
+     "ts": "2026-11-15T13:04:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 69,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: выдуманные числа: 100",
+   "ai": {
+    "title_ru": "❗️Платина в GTA 6: более 200 часов — инсайдер",
+    "summary": "По словам инсайдера Тома Хендерсона, для получения платинового трофея в GTA 6 потребуется более 200 часов. Для сравнения, платину в GTA V можно было получить примерно за 50–70 часов.",
+    "idea": "Сравнение времени на платину: GTA V — 50–70 часов, GTA 6 — более 200. Зрителю интересно, сколько месяцев это займёт и какие трофеи займут больше всего времени.",
+    "hook": "Платина в GTA 6 — больше 200 часов. Готов потратить столько?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-15T15:10:53Z"
+   },
+   "msg_id": 986
+  },
+  {
+   "id": "14231c355ea3",
+   "title": "Im wondering how the gunplay feels?",
+   "first_seen": "2026-11-15T15:10:50Z",
+   "updated": "2026-11-15T15:10:50Z",
+   "items": [
+    {
+     "id": "14231c355ea3",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Im wondering how the gunplay feels?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xwxoh2/im_wondering_how_the_gunplay_feels/",
+     "ts": "2026-11-15T15:03:44Z",
+     "summary": "I don't know if they ever talked about this but I hope the gunplay feels like Max Payne or even Red dead 2. The shooting in V felt lackluster. What do you guys think submitted by /u/RollingthunderBch to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a5d502c13691",
+   "title": "Rockstar will be banning people changing their location to play the game early… FAFO",
+   "first_seen": "2026-11-15T15:10:50Z",
+   "updated": "2026-11-15T15:10:50Z",
+   "items": [
+    {
+     "id": "a5d502c13691",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Rockstar will be banning people changing their location to play the game early… FAFO",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xwxoq0/rockstar_will_be_banning_people_changing_their/",
+     "ts": "2026-11-15T15:04:01Z",
+     "summary": "Its cheating… After what happened in call of duty MW4 game streamers changing location to play the game a day early forced Activision to launch the game early. If you don’t live in New Zealand, I would highly recommend you not change your network settings to play the game early. However, I do know a lot of game streamers are going to do it anyway and rockstar will be banning them. There will be no excuses like oh it’s a tradition for modern warfare games… 😆 if you don’t believe me just FAFO! submitted by /u/ShockingFactory to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d331f9b4d447",
+   "title": "what are your preconceptions about the protagonists?",
+   "first_seen": "2026-11-15T15:10:50Z",
+   "updated": "2026-11-15T15:10:50Z",
+   "items": [
+    {
+     "id": "d331f9b4d447",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "what are your preconceptions about the protagonists?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xwxpy6/what_are_your_preconceptions_about_the/",
+     "ts": "2026-11-15T15:05:26Z",
+     "summary": "I have the feeling I'm gonna like more Jason than Lucia. I like his reserved personality and based on extended look, Jason wants to hit a big score and get settled while Lucia wants that life forever and Jason maybe will be dragged to that life but not being sure if what he is doing is right. I think Lucia will end up being too extravagant and a bit annoying. I hope I'm wrong. What are your ideas about these characters development? Do you hope you are right or wrong about your opinion? submitted by /u/PvZW4rf4reG4rden to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "01147445de71",
    "title": "Grand Theft Auto VI’s Campaign is Reportedly Split Across Five Chapters With Nearly 100 Missions in Total, According to Tom Henderson (Insider Gaming).",
    "first_seen": "2026-11-15T14:50:54Z",
@@ -1159,60 +1315,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "1e0633f0e00f",
-   "title": "На получение платины в GTA VI может уйти более 200 часов",
-   "first_seen": "2026-11-15T12:50:45Z",
-   "updated": "2026-11-15T14:10:47Z",
-   "items": [
-    {
-     "id": "1e0633f0e00f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Согласно инсайдеру Тому Хендерсону, получение платины в GTA 6 займет в среднем более 200 часов",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVnVzSmdidGp5Q1g5dXQwN1U1SW1aTk9NZFk2ZzRFVW5sbE1BNnZTMVlzcmxVY1dlMXlOaUhQd29JMmlwNVNfcWJPbGJkbEMzOHdBY2c0WWhWM2JmdWlaeDQ5aGl0TGFvUG50cmVCZmJNTU13XzlpUTlhSnBzWGU5QlZtZENJMHR6U2RXTG5GQmRHVDFidk9jWjRMTGlIOEtuazdpYVdoZlEtSWFhOG9USWxDdFlNb0lKdVhKdmNPNEgxRlNxcGJuMGhpbmV5OVR4aTR3bXltdw?oc=5",
-     "ts": "2026-11-15T12:42:18Z",
-     "summary": ""
-    },
-    {
-     "id": "e8814d57312a",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "На получение платины в GTA VI может уйти более 200 часов",
-     "url": "https://t.me/GTAVIStar/894",
-     "ts": "2026-11-15T13:59:46Z",
-     "summary": "На получение платины в GTA VI может уйти более 200 часов • Журналист и инсайдер Том Хендерсон заявил, что для получения платинового трофея в GTA VI потребуется больше 200 часов. • Для сравнения, платину в GTA V можно было получить примерно за 50–70 часов. Похоже, охотникам за достижениями в новой части придётся потратить гораздо больше времени. 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    },
-    {
-     "id": "4adfb97672ef",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "www.championat.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "На получение всех достижений в GTA 6 понадобится более 200 часов — инсайдер",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2ZXOHJ4SEI1RnJ6WDBXVjc0VGFuNzhUM01JUVRjR3pBN1dYMDlpWTY5VHo1WmJldXdBYndkZ2NKRFMtUldTOE5rYVZBYXVnVnoxWlp0SUszVGJqaHcxOFhyY2NRQmh2emNTU250V2JmU2JQRjh1RnpkTDh0MnByWXZWZ0t5eEhkZHhEWExzcDJlTEZ2Y3c2LXVrdy1scDdCX29TSzNwNXE4OFZBa1Rubm5GaGxrbFRXblVrU1VhSVdTYm5OZWRtNzZRa3I?oc=5",
-     "ts": "2026-11-15T13:58:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 61,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: выдуманные числа: 100"
   },
   {
    "id": "de2f8b0242c8",
@@ -115073,117 +115175,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ce46a64d7748",
-   "title": "Grand Theft Auto VI: Our Highlights As 2026’s Biggest Game Approaches",
-   "first_seen": "2026-11-08T15:10:49Z",
-   "updated": "2026-11-08T15:10:49Z",
-   "items": [
-    {
-     "id": "ce46a64d7748",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Comics Gaming Magazine",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI: Our Highlights As 2026’s Biggest Game Approaches",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc1lNTEI4U1owaER0SWJkRlByM1lZTjVQYXBtYXoycmx3Q3o4SXZ2ZlE3UlhaV2N2QndlNFVXQk9rc3ZBN3FXdml2LTJNdTcxcEVSdExPVU9ubnJmZ2tHX2hOVUE2TEh6MXppbFcxWjdEUG5sVDNkaldhZWxNOWczbmRB?oc=5",
-     "ts": "2026-11-08T15:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "409680055d09",
-   "title": "Shall someone please finish this chart all the way through?",
-   "first_seen": "2026-11-08T15:10:49Z",
-   "updated": "2026-11-08T15:10:49Z",
-   "items": [
-    {
-     "id": "409680055d09",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Shall someone please finish this chart all the way through?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xr0gda/shall_someone_please_finish_this_chart_all_the/",
-     "ts": "2026-11-08T15:03:54Z",
-     "summary": "I came across this glorious meme back in March this year. Today I been digging through \"Archived\" stories on my IG account and saw this. Considering we've almost reached the goal, shall someone please fill out this chart all the way through for me? That would be awesome. Then, feel free to share it anywhere you like. Thanks in advance submitted by /u/ukLz to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "abb38dbac521",
-   "title": "Instead of wasting your money on a physical copy, do this instead...",
-   "first_seen": "2026-11-08T15:10:49Z",
-   "updated": "2026-11-08T15:10:49Z",
-   "items": [
-    {
-     "id": "abb38dbac521",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Instead of wasting your money on a physical copy, do this instead...",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xr0h5f/instead_of_wasting_your_money_on_a_physical_copy/",
-     "ts": "2026-11-08T15:04:49Z",
-     "summary": "When the game is released, download the map from the official website. Then, find the artwork and cover art online (you can find them on The Cover Project). Download the artwork in A3 size and head to a local printing shop to have it printed on glossy A3 art paper. Once you've got everything, take the cover out of an old game case and replace it with your GTA 6 cover. There you have it, physical version without wasting on another 100 bucks. submitted by /u/Doberliusz to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "39f049e24780",
-   "title": "Be careful people.",
-   "first_seen": "2026-11-08T15:10:49Z",
-   "updated": "2026-11-08T15:10:49Z",
-   "items": [
-    {
-     "id": "39f049e24780",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Be careful people.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xr0ivs/be_careful_people/",
-     "ts": "2026-11-08T15:06:57Z",
-     "summary": "Spoilers are already coming out. I just logged onto YouTube and was met with a 90 minute video titled “over analyzing all 1415 GTA VI world encounters”. It could be fake, but I’m not taking any chances, block the less reputable GTA VI channels you’ve had on your feeds, and be prepared to dodge shit for the next few days. submitted by /u/Oploplou to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-15T15:01:20Z",
+  "last_run": "2026-11-15T15:10:53Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 99/100",
