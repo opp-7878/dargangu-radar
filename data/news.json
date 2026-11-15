@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "f6e8f05ff448",
+   "title": "PlayStation предложила арендовать PS5 с GTA VI, но это не очень выгодная сделка.",
+   "first_seen": "2026-11-15T03:01:13Z",
+   "updated": "2026-11-15T03:01:13Z",
+   "items": [
+    {
+     "id": "f6e8f05ff448",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "PlayStation предложила арендовать PS5 с GTA VI, но это не очень выгодная сделка.",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3FSUnB5eC03WmhWeW13UXRlcTVQcm1ZVGgyS3c2enlSVnF6WFFPMU9OT2w4Zk9NVjRvVzN0aHR5cTI5UHQ3Q2ZVNEpOSTJidW9QVmRkWVV4S3k5V1lUWG9Vejdvcm81akhKeW8xQ3BXY0otVC0yNnJ5YUxTZEhzMDNWVkhjNXg2bmJEWHpBbUlYNGtrUkZDLVZjNDhWUTg4VzE5MmJpZUZBdWVsRVRfcnczQmZLY05X0gG-AUFVX3lxTFBNRXVGMk5rZkF5N21BVmhEcHAyZ3hZV3NnTWYzNmkwRWxJTWtpcmwxWEE3TlVOZ3ZkY0dJZWdUOEFaTjVTV3BaS2F4LS1DRmhNV1VPU2laekxnd0hkWlVhblQtb2Q3WnpOa1JKdnN2aUwzelBvU1NvOGMwWWV2RjRtUmlhMjNHSzd2YkVOTG5rdThfTjdCQWRyZUlyS0dSMGtHZzhBbUZOZTZHMk8wbVJDQzFJekZENlFfR04xMFE?oc=5",
+     "ts": "2026-11-15T02:23:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c73584ef02ea",
    "title": "How are you planning to avoid GTA 6 spoilers? Could we see people temporarily abandoning social media?",
    "first_seen": "2026-11-15T02:50:56Z",
@@ -112431,11 +112457,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-15T02:57:46Z",
+  "last_run": "2026-11-15T03:01:13Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/2",
+   "gnews_en: 99/100",
+   "gnews_ru: 93/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
