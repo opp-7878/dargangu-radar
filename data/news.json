@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "4309bcaf4ebc",
+   "title": "Thanks Amazon 😫",
+   "first_seen": "2026-11-15T06:01:11Z",
+   "updated": "2026-11-15T06:01:11Z",
+   "items": [
+    {
+     "id": "4309bcaf4ebc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Thanks Amazon 😫",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xwnvlw/thanks_amazon/",
+     "ts": "2026-11-15T05:57:10Z",
+     "summary": "submitted by /u/jaytotharome to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4202adb20286",
    "title": "Предзаказ GTA VI оформили уже 12.1 млн раз — такую цифру раскрыли SensorTower Получается, что с момента старта предзагрузок игру фанаты покупают по 1 млн копий ",
    "first_seen": "2026-11-14T16:01:18Z",
@@ -112993,67 +113019,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "dd72f08f90c7",
-   "title": "Do you guys think we can play gta 6 offline on November 19th?",
-   "first_seen": "2026-11-08T06:01:06Z",
-   "updated": "2026-11-08T06:01:06Z",
-   "items": [
-    {
-     "id": "dd72f08f90c7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Do you guys think we can play gta 6 offline on November 19th?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xqrb4i/do_you_guys_think_we_can_play_gta_6_offline_on/",
-     "ts": "2026-11-08T05:59:52Z",
-     "summary": "I know this sounds like a dumb question but I’m in the process of getting new internet services at my new apartment and was going to download the game November 10th ofc and was planning on booting it up on the 19th at my place (I have no WiFi) but yea should I boot it up first at my parents house once with the WiFi on the 19th just to be safe? Or should I be good to boot it up without internet on the 19th? submitted by /u/Embarrassed_Plan4117 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2b754705b6f0",
-   "title": "Are you taking time off work to play GTA 6?",
-   "first_seen": "2026-11-08T06:01:06Z",
-   "updated": "2026-11-08T06:01:06Z",
-   "items": [
-    {
-     "id": "2b754705b6f0",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Are you taking time off work to play GTA 6?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xqrboo/are_you_taking_time_off_work_to_play_gta_6/",
-     "ts": "2026-11-08T06:00:35Z",
-     "summary": "I heard on the news that a lot of people are going to take the day off work just for GTA 6. Some journalists insist that it will also have an impact on the economy. Will you... take the day off for GTA 6? submitted by /u/breacket to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-15T05:50:45Z",
+  "last_run": "2026-11-15T06:01:11Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 96/100",
+   "gnews_ru: 95/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
@@ -113062,13 +113036,13 @@
    "dexerto_gta: 5/50",
    "rockstarintel: 7/10",
    "gtaboom: 4/30",
-   "reddit: 24/25",
+   "reddit: 23/25",
    "tg_gtavistar: 9/18",
    "tg_gta6deluxe: 12/16",
    "tg_gta6_m: 15/18",
    "tg_gta6newsdaily: 2/18"
   ],
-  "digest": "2026-11-14@21",
+  "digest": "2026-11-15@9",
   "tg_offset": 854319078
  }
 }
