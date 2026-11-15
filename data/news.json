@@ -1,6 +1,56 @@
 {
  "stories": [
   {
+   "id": "3695118b142d",
+   "title": "How GTA 6 became a global phenomenon we can’t ignore",
+   "first_seen": "2026-11-15T17:31:12Z",
+   "updated": "2026-11-15T19:10:47Z",
+   "items": [
+    {
+     "id": "3695118b142d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Conversation",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How GTA 6 became a global phenomenon we can’t ignore",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGI2WGI0OE5NWS1UcEc0UFZpTnJ6aEw4MmlfTU9pQ203OUlOelNhTTFJVHlMaHdPa1Y5UDBoWldSNC12ZHN0OE42MER5MFZHNHVWRHBnR3lBZnBBVWF3SmJsVUlBV1I4Z2Jmb3NyUDE3ZUt6NnFsQjFxWTBFRGxZRWtvcUlNSHlITm9kVU53bw?oc=5",
+     "ts": "2026-11-15T17:26:13Z",
+     "summary": ""
+    },
+    {
+     "id": "0ea5d4ee6344",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo News Australia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How GTA 6 became a global phenomenon we can’t ignore",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2QTBLd21YTFlkb3lpZkM1eEQ2LUhhVURYTFhlQjRsTHkyUEQzRTY0d01rWDB0ZWNMeHJ1S2JBWVJvU1d0ZHBzLUpHNFl1MjBZNmNUbVZlODhCMWs5amJyNFV0eVdzMGJhM0V4UGpocklkRDRsOU0xTlM2bw?oc=5",
+     "ts": "2026-11-15T17:26:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: как игра стала мировым феноменом",
+    "summary": "По данным The Conversation и Yahoo News Australia, GTA 6 стала глобальным феноменом, который невозможно игнорировать. Издания отмечают рекордный интерес и влияние игры на поп-культуру ещё до релиза.",
+    "idea": "Короткая нарезка мировых реакций и заголовков о GTA 6 с вопросом: почему весь мир сходит с ума до релиза?",
+    "hook": "Весь мир говорит о GTA 6. Почему игра стала феноменом ещё до выхода?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-15T19:10:52Z"
+   },
+   "msg_id": 999
+  },
+  {
    "id": "1e0633f0e00f",
    "title": "На получение платины в GTA VI может уйти более 200 часов",
    "first_seen": "2026-11-15T12:50:45Z",
@@ -2235,32 +2285,6 @@
    ],
    "score": 35,
    "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3695118b142d",
-   "title": "How GTA 6 became a global phenomenon we can’t ignore",
-   "first_seen": "2026-11-15T17:31:12Z",
-   "updated": "2026-11-15T17:31:12Z",
-   "items": [
-    {
-     "id": "3695118b142d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Conversation",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How GTA 6 became a global phenomenon we can’t ignore",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGI2WGI0OE5NWS1UcEc0UFZpTnJ6aEw4MmlfTU9pQ203OUlOelNhTTFJVHlMaHdPa1Y5UDBoWldSNC12ZHN0OE42MER5MFZHNHVWRHBnR3lBZnBBVWF3SmJsVUlBV1I4Z2Jmb3NyUDE3ZUt6NnFsQjFxWTBFRGxZRWtvcUlNSHlITm9kVU53bw?oc=5",
-     "ts": "2026-11-15T17:26:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
@@ -116636,89 +116660,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "9920b8f2deca",
-   "title": "Just bought a new TV",
-   "first_seen": "2026-11-08T19:10:50Z",
-   "updated": "2026-11-08T19:10:50Z",
-   "items": [
-    {
-     "id": "9920b8f2deca",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Just bought a new TV",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xr66ux/just_bought_a_new_tv/",
-     "ts": "2026-11-08T19:03:57Z",
-     "summary": "I managed to get a PS5 Pro right after the Extended Look and thought I was set, then I saw how great OLED looked this weekend and figured it was the right time, grabbed an LG G5 77 inch just now and I am ready for the 19th! submitted by /u/InternetKillTV to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1e7113d58b2f",
-   "title": "Article of the Day #68: Pegassi Residences",
-   "first_seen": "2026-11-08T19:10:50Z",
-   "updated": "2026-11-08T19:10:50Z",
-   "items": [
-    {
-     "id": "1e7113d58b2f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Article of the Day #68: Pegassi Residences",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xr67yk/article_of_the_day_68_pegassi_residences/",
-     "ts": "2026-11-08T19:05:12Z",
-     "summary": "(click on each image to view the corresponding tower's page) submitted by /u/gtawiki to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "610c227cd643",
-   "title": "There are now two large advertisements at alexanderplatz in berlin, basically next to each other",
-   "first_seen": "2026-11-08T19:10:50Z",
-   "updated": "2026-11-08T19:10:50Z",
-   "items": [
-    {
-     "id": "610c227cd643",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "There are now two large advertisements at alexanderplatz in berlin, basically next to each other",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xr6811/there_are_now_two_large_advertisements_at/",
-     "ts": "2026-11-08T19:05:17Z",
-     "summary": "submitted by /u/Stone0fThor to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-15T19:01:25Z",
+  "last_run": "2026-11-15T19:10:52Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
@@ -116730,8 +116676,8 @@
    "eurogamer: 2/100",
    "dexerto_gta: 6/50",
    "rockstarintel: 7/10",
-   "gtaboom: 3/30",
-   "reddit: 20/25",
+   "gtaboom: 2/30",
+   "reddit: 19/25",
    "tg_gtavistar: 6/17",
    "tg_gta6deluxe: 9/17",
    "tg_gta6_m: 10/18",
