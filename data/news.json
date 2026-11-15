@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "7d92d2def6a7",
+   "title": "i just realized, yall think gta 6 gonna have cheat codes",
+   "first_seen": "2026-11-15T21:58:29Z",
+   "updated": "2026-11-15T21:58:29Z",
+   "items": [
+    {
+     "id": "7d92d2def6a7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "i just realized, yall think gta 6 gonna have cheat codes",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xx7ukl/i_just_realized_yall_think_gta_6_gonna_have_cheat/",
+     "ts": "2026-11-15T21:52:00Z",
+     "summary": "submitted by /u/realweekdays133alt to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6f72fbfed82e",
+   "title": "GTA 6 pre-orders come with a month of GTA+, keeping GTA 5 in play",
+   "first_seen": "2026-11-15T21:58:29Z",
+   "updated": "2026-11-15T21:58:29Z",
+   "items": [
+    {
+     "id": "6f72fbfed82e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "www.well-played.com.au",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 pre-orders come with a month of GTA+, keeping GTA 5 in play",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRkp0bjFZNDRFZEFKN2YzeUFnSk1PaGY2Sm1kVnNiTEh1U3d0WnlkbDI5NklQVVhLNW1NbkVueXNUMjJBV0RvTXVKWmhtUW83cy13RXpWeHdhWDZ5dnlFc0JqbmUteWI4TkpyRTlfV2w4Q01mX0NTdUkyVHkybUc5NktubVV0QzZ6UzJIcll1c1F4cjRYSlBxbml5RQ?oc=5",
+     "ts": "2026-11-15T21:55:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Предзаказы GTA 6: месяц GTA+ в комплекте",
+    "summary": "По данным Well Played, предзаказы GTA 6 включают месяц подписки GTA+, что поддерживает актуальность GTA 5. Официально Rockstar это пока не подтверждала.",
+    "idea": "Коротко показываем, что дают за предзаказ GTA 6 — месяц GTA+ — и зачем это нужно тем, кто ещё играет в GTA 5. Зрителю понятно, что он получит и стоит ли брать предзаказ.",
+    "hook": "Предзаказал GTA 6? Вот что тебе дадут уже в первый месяц.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-15T21:58:32Z"
+   },
+   "msg_id": 1000
+  },
+  {
    "id": "21f32933a85f",
    "title": "Том Хендерсон раскрыл новые детали GTA 6 — продолжительность игры, сюжет, Platinum и многое другое",
    "first_seen": "2026-11-15T21:50:56Z",
@@ -117466,7 +117531,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-15T21:50:56Z",
+  "last_run": "2026-11-15T21:58:32Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
@@ -117479,7 +117544,7 @@
    "dexerto_gta: 4/50",
    "rockstarintel: 7/10",
    "gtaboom: 2/30",
-   "reddit: 23/25",
+   "reddit: 24/25",
    "tg_gtavistar: 7/18",
    "tg_gta6deluxe: 9/17",
    "tg_gta6_m: 11/18",
