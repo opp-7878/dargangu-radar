@@ -1,6 +1,307 @@
 {
  "stories": [
   {
+   "id": "7543fd2049cb",
+   "title": "UK’s National Health Service Is Urging Gamers to Protect Their Hands Ahead of GTA 6 Launch",
+   "first_seen": "2026-11-16T23:20:53Z",
+   "updated": "2026-11-16T23:31:12Z",
+   "items": [
+    {
+     "id": "7543fd2049cb",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "UK’s National Health Service Is Urging Gamers to Protect Their Hands Ahead of GTA 6 Launch",
+     "url": "https://www.ign.com/articles/uks-national-health-service-is-urging-gamers-to-protect-their-hands-ahead-of-gta-6-launch",
+     "ts": "2026-11-16T22:55:25Z",
+     "summary": "The UK’s National Health Service is giving players advice to help them avoid straining their hands once GTA 6 finally releases on November 19."
+    },
+    {
+     "id": "a4766ccdbbcd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "UK’s National Health Service Is Urging Gamers to Protect Their Hands Ahead of GTA 6 Launch",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS3RCNWM5bGFHQXpYU191bkYwMjVxUklyN0R3bmxZaC02UmhBYkFEdEdLRlhZRTlNMmQtYi1pbGZuOHhETlprRmlKaGtaV0c2anNPa3pWNDVUb2h6dHh4Um1ORzAtNWJCNEhnWkdtNHJ0WTV2d0tfdDJGNnN3NzBMeEF3YW8xaFVKcW8xVUZQQzh1czI3ajlCTUhFMnZFN2ZKNjdXWFFucVNZRVEwUHVCSE9vek02cFlQZHV3UHkzU1VKZmg2YWY3RVp5dEVhZHdvcTBxUjJR?oc=5",
+     "ts": "2026-11-16T23:09:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Врачи Британии дали советы игрокам перед выходом GTA 6",
+    "summary": "Национальная служба здравоохранения Великобритании (NHS) дала советы игрокам, чтобы они не перетрудили руки к релизу GTA 6 19 ноября. Об этом сообщает IGN.",
+    "idea": "Короткий гид NHS за 40 секунд: простые упражнения и таймеры для рук перед марафоном GTA 6. Зрителю важно — меньше боли и больше часов в игре.",
+    "hook": "Релиз GTA 6 через два дня — твои руки готовы к марафону?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-16T23:20:57Z"
+   },
+   "msg_id": 1089
+  },
+  {
+   "id": "cf6a94307bd8",
+   "title": "The Weather Channel Partners With Rockstar to Share Leonida Forecast With New GTA 6 Screenshots",
+   "first_seen": "2026-11-16T21:01:23Z",
+   "updated": "2026-11-16T23:31:12Z",
+   "items": [
+    {
+     "id": "cf6a94307bd8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "New screenshots posted by The Weather Channel",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xy0wmw/new_screenshots_posted_by_the_weather_channel/",
+     "ts": "2026-11-16T20:52:29Z",
+     "summary": "submitted by /u/Snak3D0ct0r to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "6e0c0abf9c9f",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Rockstar teamed up with The Weather Channel with new screenshots describing the weather in game",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xy0xst/rockstar_teamed_up_with_the_weather_channel_with/",
+     "ts": "2026-11-16T20:53:46Z",
+     "summary": "submitted by /u/ResponsibleRatio6569 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "03c6054bad36",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "New GTA 6 Screenshots shared by the weather channel",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xy16b4/new_gta_6_screenshots_shared_by_the_weather/",
+     "ts": "2026-11-16T21:02:41Z",
+     "summary": "submitted by /u/PastaCheed to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "e5ba314bcda8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Weather channel posts about GTA 6",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xy16cf/weather_channel_posts_about_gta_6/",
+     "ts": "2026-11-16T21:02:44Z",
+     "summary": "submitted by /u/CryptographerHot6198 to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "680df276ad9a",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Weather channel posts about GTA 6",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xy174p/weather_channel_posts_about_gta_6/",
+     "ts": "2026-11-16T21:03:30Z",
+     "summary": "submitted by /u/CryptographerHot6198 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "1e5584fb765e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "New screenshots from The Weather Channel",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xy1g9l/new_screenshots_from_the_weather_channel/",
+     "ts": "2026-11-16T21:13:12Z",
+     "summary": "submitted by /u/NoBullet to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "3f238524f99b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "The Weather Channel Partners With Rockstar to Share Leonida Forecast With New GTA 6 Screenshots",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWRWT1lKOFZDcUNnd0RSWUY0bndUa0haNTQxTFYtY3ZaXzJxRU1UOEdVNXIzVjRnQ2x2anc4VmJMeU1YQU9mNzNKRXpFdFdlMDJNMjNqQjBCNUlfSTVXa1Z6ZVBzdzdMMTJfRDgzcjZhNjBJZVJfbjRrQnJqckphNEhvN29hODFRN2ROajdOX2NxNEtvd0NuYQ?oc=5",
+     "ts": "2026-11-16T22:26:10Z",
+     "summary": ""
+    },
+    {
+     "id": "85eac3c619fa",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Rockstar Just Got The Weather Channel to Forecast GTA 6 Weather",
+     "url": "https://www.gtaboom.com/rockstar-just-got-the-weather-channel-to-forecast-gta-6-weather-4cbf",
+     "ts": "2026-11-16T22:59:40Z",
+     "summary": "The Weather Channel showcases rain, storms, fog and mist across six Leonida locations in exclusive GTA 6 screenshots."
+    },
+    {
+     "id": "912bdacb7be3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Push Square",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc2NaWGFVQVAwZ0poWTZ6YUV1aUp4SVM5cVBvbEhteS1LNG9zUFJJQlE3Y2hGUmNFX0hBby1hS3JCWFg5XzFqS24xd09ZS1pPdldzb2w3MzRVanJVWUJyWFVqcE5NR19aX2ZCeXJfVkJrV2VLZUxuejBaMk85c0p6U0d2dW1VbzVDTW5KRkZ3OW9HSzFnRkd0cWxzNXAtV3FUWlBKX2M2Wld1OWd0bHpFSUw0S2xaRWxLdVVsN19Dc2dpVGhkTzg5dUZR?oc=5",
+     "ts": "2026-11-16T23:14:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 79 (char 80)",
+   "ai": {
+    "title_ru": "☀️ The Weather Channel показал погоду в Леониде из GTA 6",
+    "summary": "The Weather Channel опубликовал эксклюзивные скриншоты GTA 6 с погодой в шести точках Леониды: дождь, шторм, туман и дымка. О коллаборации написали IGN и GTA Boom, а снимки обсуждают на Reddit.",
+    "idea": "Короткий обзор погоды Леониды по реальным скриншотам от The Weather Channel: дождь, шторм, туман — как это меняет геймплей.",
+    "hook": "Погода в Леониде — впервые от The Weather Channel. Смотри, что показали.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-16T23:01:22Z"
+   },
+   "msg_id": 1087
+  },
+  {
+   "id": "281ea022a522",
+   "title": "‘Grand Theft Auto VI’ is almost here. What to know about the characters, music and billions at stake",
+   "first_seen": "2026-11-16T19:10:52Z",
+   "updated": "2026-11-16T23:31:12Z",
+   "items": [
+    {
+     "id": "281ea022a522",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KAKE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ is almost here. What to know about the characters, music and billions at stake",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWTFMUnV2TENfUlZMZ21YUFFBRWNBeTBKZGJsWWxsRFowVXh2UURmOGx0b3FIUXBWNDZzME5RRUVtZGpTZWh3cHl6NUl0YklUYm1YTVBRNkJISG9SRklaQVRIZXZiUkdhWGNmcTRqREJKSE0xaFUyLVR2YzFfTjVpazB3MVNWd3lRSHVVTV82a3ZDUlFGeVFVVnhJSmpyQkkwaXJjeS10NDJ4UFNkNlNHTWhTSU9uXzY2amRWVVMtMmtBTVRLNTFDd1NCbVVIdjlQMHU1ZHl2TXV2alJhS0xNZ29ZbklYNGUtWkl5SUhCcHRaN3NMNkE?oc=5",
+     "ts": "2026-11-16T18:51:00Z",
+     "summary": ""
+    },
+    {
+     "id": "5f2ac77afb21",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Pioneer Press",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ is almost here. What to know about the characters, music and billions at stake",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa0hKV05PWmg4UEtndld2YTVVbkpqTi1LcF8xN3NYdEZaZURfYmt3c0c0WEc0NVEzYXlvQmNVRWdnRnpnRjdrY3lFdlEyQUN2TDVETlpmZWZGRk5IQ1JDUmVKaHFBcWpqVWFPQXpZdmJkcU1OSXdDZms3UFhUTmVzUGZKY2Rsb1BGVVZWYXZka1NrYkU0NDlMc0lZemJyMWVZN0hfb0V0aVBCdHRSeW91ek1SNWdwOGFXOThzenp3QVN1SWdOWFVuV29USmM5MWkw?oc=5",
+     "ts": "2026-11-16T15:43:44Z",
+     "summary": ""
+    },
+    {
+     "id": "41e637aad72a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Washington Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ is almost here. What to know about the characters, music and billions at stake",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOTFINWpyU3ZIelJoNFNtQlB0dGFKcTFpcERvNjVXdWZ5U0cyRWR4R1ZBZGNJS2pNZW9rR2U5UVJaaDZLWlAtbFZDWHVYTG1nNUlySWxDbzNCZEVBcTU2cnNtUVhCUFJVYWdLVmxvOV9CZjRteS1GbHgzRHdYczZQY19MX1ZVdnprWEhDQUZRNEVXckhkTzhKUHFIcGZfd0g5RE1leUQ5NVZxbFRseTZaeXIyMA?oc=5",
+     "ts": "2026-11-16T22:43:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "2e50cee333ce",
+   "title": "Do you think they are confirming we can book hotels?",
+   "first_seen": "2026-11-16T23:31:12Z",
+   "updated": "2026-11-16T23:31:12Z",
+   "items": [
+    {
+     "id": "2e50cee333ce",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Do you think they are confirming we can book hotels?",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xy4nd0/do_you_think_they_are_confirming_we_can_book/",
+     "ts": "2026-11-16T23:23:52Z",
+     "summary": "Not sure if this means we can book hotel rooms like we could in RDR2 or if it's just a general statement to get across the image. What do you think? submitted by /u/ProudBoiiiiLol to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a368a6cfc4e8",
+   "title": "Just wanting to quadruple check that two people can play one copy of GTA 6 at the same time with two Xboxes (Via Xbox Game Sharing)",
+   "first_seen": "2026-11-16T23:31:12Z",
+   "updated": "2026-11-16T23:31:12Z",
+   "items": [
+    {
+     "id": "a368a6cfc4e8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Just wanting to quadruple check that two people can play one copy of GTA 6 at the same time with two Xboxes (Via Xbox Game Sharing)",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xy4rh7/just_wanting_to_quadruple_check_that_two_people/",
+     "ts": "2026-11-16T23:28:57Z",
+     "summary": "So I have an Xbox Series S and an Xbox One S. The Series S is my home Xbox, my boyfriend plays on it using his account but it stays my home Xbox. We share a game pass this way so we don’t have to buy it twice every month. I play on the Xbox One. If I buy GTA 6 on my home Xbox the series S and download the game and my boyfriend signs out of my account and into his, he can play gta 6 on his account because it’s my home Xbox. At the same time, I can play GTA 6 on my Xbox One using cloud streaming (even though they limited the amount of hours you can cloud stream) I checked to make sure we can bot"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "b89b834c36f8",
    "title": "GTA 6 Gets New Screenshots Highlighting Leonida's Dynamic Weather",
    "first_seen": "2026-11-16T21:40:56Z",
@@ -91,43 +392,6 @@
     "at": "2026-11-16T21:40:59Z"
    },
    "msg_id": 1084
-  },
-  {
-   "id": "7543fd2049cb",
-   "title": "UK’s National Health Service Is Urging Gamers to Protect Their Hands Ahead of GTA 6 Launch",
-   "first_seen": "2026-11-16T23:20:53Z",
-   "updated": "2026-11-16T23:20:53Z",
-   "items": [
-    {
-     "id": "7543fd2049cb",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "UK’s National Health Service Is Urging Gamers to Protect Their Hands Ahead of GTA 6 Launch",
-     "url": "https://www.ign.com/articles/uks-national-health-service-is-urging-gamers-to-protect-their-hands-ahead-of-gta-6-launch",
-     "ts": "2026-11-16T22:55:25Z",
-     "summary": "The UK’s National Health Service is giving players advice to help them avoid straining their hands once GTA 6 finally releases on November 19."
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Врачи Британии дали советы игрокам перед выходом GTA 6",
-    "summary": "Национальная служба здравоохранения Великобритании (NHS) дала советы игрокам, чтобы они не перетрудили руки к релизу GTA 6 19 ноября. Об этом сообщает IGN.",
-    "idea": "Короткий гид NHS за 40 секунд: простые упражнения и таймеры для рук перед марафоном GTA 6. Зрителю важно — меньше боли и больше часов в игре.",
-    "hook": "Релиз GTA 6 через два дня — твои руки готовы к марафону?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-16T23:20:57Z"
-   },
-   "msg_id": 1089
   },
   {
    "id": "e910db203104",
@@ -388,136 +652,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "cf6a94307bd8",
-   "title": "The Weather Channel Partners With Rockstar to Share Leonida Forecast With New GTA 6 Screenshots",
-   "first_seen": "2026-11-16T21:01:23Z",
-   "updated": "2026-11-16T23:01:18Z",
-   "items": [
-    {
-     "id": "cf6a94307bd8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "New screenshots posted by The Weather Channel",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xy0wmw/new_screenshots_posted_by_the_weather_channel/",
-     "ts": "2026-11-16T20:52:29Z",
-     "summary": "submitted by /u/Snak3D0ct0r to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "6e0c0abf9c9f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Rockstar teamed up with The Weather Channel with new screenshots describing the weather in game",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xy0xst/rockstar_teamed_up_with_the_weather_channel_with/",
-     "ts": "2026-11-16T20:53:46Z",
-     "summary": "submitted by /u/ResponsibleRatio6569 to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "03c6054bad36",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "New GTA 6 Screenshots shared by the weather channel",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xy16b4/new_gta_6_screenshots_shared_by_the_weather/",
-     "ts": "2026-11-16T21:02:41Z",
-     "summary": "submitted by /u/PastaCheed to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "e5ba314bcda8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Weather channel posts about GTA 6",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xy16cf/weather_channel_posts_about_gta_6/",
-     "ts": "2026-11-16T21:02:44Z",
-     "summary": "submitted by /u/CryptographerHot6198 to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "680df276ad9a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Weather channel posts about GTA 6",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xy174p/weather_channel_posts_about_gta_6/",
-     "ts": "2026-11-16T21:03:30Z",
-     "summary": "submitted by /u/CryptographerHot6198 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "1e5584fb765e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "New screenshots from The Weather Channel",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xy1g9l/new_screenshots_from_the_weather_channel/",
-     "ts": "2026-11-16T21:13:12Z",
-     "summary": "submitted by /u/NoBullet to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "3f238524f99b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "The Weather Channel Partners With Rockstar to Share Leonida Forecast With New GTA 6 Screenshots",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWRWT1lKOFZDcUNnd0RSWUY0bndUa0haNTQxTFYtY3ZaXzJxRU1UOEdVNXIzVjRnQ2x2anc4VmJMeU1YQU9mNzNKRXpFdFdlMDJNMjNqQjBCNUlfSTVXa1Z6ZVBzdzdMMTJfRDgzcjZhNjBJZVJfbjRrQnJqckphNEhvN29hODFRN2ROajdOX2NxNEtvd0NuYQ?oc=5",
-     "ts": "2026-11-16T22:26:10Z",
-     "summary": ""
-    },
-    {
-     "id": "85eac3c619fa",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "Rockstar Just Got The Weather Channel to Forecast GTA 6 Weather",
-     "url": "https://www.gtaboom.com/rockstar-just-got-the-weather-channel-to-forecast-gta-6-weather-4cbf",
-     "ts": "2026-11-16T22:59:40Z",
-     "summary": "The Weather Channel showcases rain, storms, fog and mist across six Leonida locations in exclusive GTA 6 screenshots."
-    }
-   ],
-   "tags": [],
-   "score": 86,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 79 (char 80)",
-   "ai": {
-    "title_ru": "☀️ The Weather Channel показал погоду в Леониде из GTA 6",
-    "summary": "The Weather Channel опубликовал эксклюзивные скриншоты GTA 6 с погодой в шести точках Леониды: дождь, шторм, туман и дымка. О коллаборации написали IGN и GTA Boom, а снимки обсуждают на Reddit.",
-    "idea": "Короткий обзор погоды Леониды по реальным скриншотам от The Weather Channel: дождь, шторм, туман — как это меняет геймплей.",
-    "hook": "Погода в Леониде — впервые от The Weather Channel. Смотри, что показали.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-16T23:01:22Z"
-   },
-   "msg_id": 1087
   },
   {
    "id": "02b58b5b3417",
@@ -2258,45 +2392,6 @@
    "score": 20,
    "level": "SPECULATION",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "281ea022a522",
-   "title": "‘Grand Theft Auto VI’ is almost here. What to know about the characters, music and billions at stake",
-   "first_seen": "2026-11-16T19:10:52Z",
-   "updated": "2026-11-16T21:51:00Z",
-   "items": [
-    {
-     "id": "281ea022a522",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KAKE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ is almost here. What to know about the characters, music and billions at stake",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWTFMUnV2TENfUlZMZ21YUFFBRWNBeTBKZGJsWWxsRFowVXh2UURmOGx0b3FIUXBWNDZzME5RRUVtZGpTZWh3cHl6NUl0YklUYm1YTVBRNkJISG9SRklaQVRIZXZiUkdhWGNmcTRqREJKSE0xaFUyLVR2YzFfTjVpazB3MVNWd3lRSHVVTV82a3ZDUlFGeVFVVnhJSmpyQkkwaXJjeS10NDJ4UFNkNlNHTWhTSU9uXzY2amRWVVMtMmtBTVRLNTFDd1NCbVVIdjlQMHU1ZHl2TXV2alJhS0xNZ29ZbklYNGUtWkl5SUhCcHRaN3NMNkE?oc=5",
-     "ts": "2026-11-16T18:51:00Z",
-     "summary": ""
-    },
-    {
-     "id": "5f2ac77afb21",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Pioneer Press",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ is almost here. What to know about the characters, music and billions at stake",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa0hKV05PWmg4UEtndld2YTVVbkpqTi1LcF8xN3NYdEZaZURfYmt3c0c0WEc0NVEzYXlvQmNVRWdnRnpnRjdrY3lFdlEyQUN2TDVETlpmZWZGRk5IQ1JDUmVKaHFBcWpqVWFPQXpZdmJkcU1OSXdDZms3UFhUTmVzUGZKY2Rsb1BGVVZWYXZka1NrYkU0NDlMc0lZemJyMWVZN0hfb0V0aVBCdHRSeW91ek1SNWdwOGFXOThzenp3QVN1SWdOWFVuV29USmM5MWkw?oc=5",
-     "ts": "2026-11-16T15:43:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -124437,149 +124532,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "44e9a2209ab6",
-   "title": "What Grand Theft Auto Games Should You Play Before GTA 6?",
-   "first_seen": "2026-11-09T23:31:05Z",
-   "updated": "2026-11-09T23:31:05Z",
-   "items": [
-    {
-     "id": "44e9a2209ab6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Man of Many",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "What Grand Theft Auto Games Should You Play Before GTA 6?",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0ZuUUNITWZCY1RWUzZFUWdoV2J5clBnUDFfY05FRzJVcE1YSk56OTJOR2M4QkFpdE1JZ3VwUXhsQ0g2V1RkUk5rSG5yaXU1akg5aTFhNmdYMGh5MU5fTXl6ZUF0cjhsd0VMd2ZLYmROb3A3WlBoOVQyN01JSUwwemRITnloT1JOaG1QM1FWUmF5ZUh6cUEwWXptcWxKNE9E?oc=5",
-     "ts": "2026-11-09T23:20:10Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e23f3e54e1ca",
-   "title": "GTA 6: в мире может наступить \"блэкаут работы\"",
-   "first_seen": "2026-11-09T23:31:05Z",
-   "updated": "2026-11-09T23:31:05Z",
-   "items": [
-    {
-     "id": "e23f3e54e1ca",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "телепорт.рф",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6: в мире может наступить \"блэкаут работы\"",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzY4YkU4ekNDbTB0UkY4bUFROFhwMEh2a1F4RkRSQTdxbkkySG02R3U5YzNZX0JNZkNLX2Y5SVNZTGg3TUllRzJlSHVRQXQtTVNmMGJWaEF4RmNvaHp0Wl9hYlVTUXdhUktSWW1tY2ZGSWdNT09pYWdiUHY1T096eFd5bnFDaTZRT0pzOW83c2FiVnIxZWgwc005LURnMVVZ?oc=5",
-     "ts": "2026-11-09T23:21:35Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "896edaa2c5ed",
-   "title": "GTA 6 Festival: Lineup, Date And How To Get Tickets",
-   "first_seen": "2026-11-09T23:31:05Z",
-   "updated": "2026-11-09T23:31:05Z",
-   "items": [
-    {
-     "id": "896edaa2c5ed",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Forbes",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "GTA 6 Festival: Lineup, Date And How To Get Tickets",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPXzdTUkNPSnJRN1hhd185azRUYjJNc0JmRWdxb1lYNzNNTVQ4dVZ2WlhJSEZjZVFyMWdPZG1MWUpic3NLX3hUa2N4dUNoandoZ0R1bnVsWFBIY2FCNTRXUlRpVEpodTZpaUI4RjZpU2ZOQndkUDhETDV6ZHR1V1Q3OE5pdFZ6aU1hRF9ncEVKM1piZUNWdTRBbFlMeHlBR3lSbVhWd3hIYlNNSDZFQWRfWS1wQWxxOTNCQmtaSThsSXNZYjhvU3U5OHNfMXBLbmRyU0U1eUN3TlE2b19WcmRKUEtGdXBKRDhN?oc=5",
-     "ts": "2026-11-09T23:22:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "URLError: <urlopen error timed out>"
-  },
-  {
-   "id": "b3609b8869bb",
-   "title": "Grand Theft Auto 6 has Gone Gold, meaning the game is complete and ready for release on November 19th!!",
-   "first_seen": "2026-11-09T23:31:05Z",
-   "updated": "2026-11-09T23:31:05Z",
-   "items": [
-    {
-     "id": "b3609b8869bb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Grand Theft Auto 6 has Gone Gold, meaning the game is complete and ready for release on November 19th!!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xs79gc/grand_theft_auto_6_has_gone_gold_meaning_the_game/",
-     "ts": "2026-11-09T23:25:09Z",
-     "summary": "submitted by /u/Sshaikh191 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9608f695bc43",
-   "title": "I have just realized how much of a difference the NZ trick makes",
-   "first_seen": "2026-11-09T23:31:05Z",
-   "updated": "2026-11-09T23:31:05Z",
-   "items": [
-    {
-     "id": "9608f695bc43",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I have just realized how much of a difference the NZ trick makes",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xs7cs3/i_have_just_realized_how_much_of_a_difference_the/",
-     "ts": "2026-11-09T23:29:17Z",
-     "summary": "My game was done downloading like 12 hours ago, and I can’t believe some people are just now starting the preload. Crazy how much progress can be made in that time. Starting at noon is so much better than midnight. submitted by /u/Pajca to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-16T23:20:59Z",
+  "last_run": "2026-11-16T23:31:12Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 429: Too Many Requests",
-   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
-   "gnews_ru: 100/100",
+   "rockstar_site: 0/1",
+   "gnews_en: 100/100",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 2/10",
    "vgc: 1/10",
    "insider_gaming: 2/10",
