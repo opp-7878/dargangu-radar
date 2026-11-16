@@ -1,6 +1,296 @@
 {
  "stories": [
   {
+   "id": "15a0390049bb",
+   "title": "GTA 6 box code 'flashlight trick' failed on a US copy in testing, and no stolen codes have been confirmed",
+   "first_seen": "2026-11-16T04:40:45Z",
+   "updated": "2026-11-16T09:40:49Z",
+   "items": [
+    {
+     "id": "15a0390049bb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Nacionale",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 box code 'flashlight trick' failed on a US copy in testing, and no stolen codes have been confirmed",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXczRjZWYnNpU21zblZCY1lYU09BYTEyMURhdjlUbVZBTlc3VHZyNnVqckhWSWxKRTRzOEFLeGF4LTJfSnBVWHpiazdNWlV4a1BwRFdwcGJrd050OEJRZG16YjRmdWdibTdxN3VwOFNkSnV5Z2dxalhTOVVOcml0U2dOWmwxelVJTGN6MkVPdWE0NThBYUpuc1NXTFZfVkE4ZmRISjdlWFNncGxxemt5dmkxUQ?oc=5",
+     "ts": "2026-11-16T04:27:37Z",
+     "summary": ""
+    },
+    {
+     "id": "31950a563cf2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "New GTA6 gaming chair has been confirmed, get yours now.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xxl65e/new_gta6_gaming_chair_has_been_confirmed_get/",
+     "ts": "2026-11-16T09:33:17Z",
+     "summary": "submitted by /u/helldivers2hellpods to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Тесты коробок GTA 6: трюк с фонариком не сработал",
+    "summary": "По данным Nacionale, трюк с фонариком для вскрытия коробок GTA 6 не сработал на американской копии при тестировании. Издание также пишет, что подтверждённых украденных кодов нет.",
+    "idea": "Короткая проверка «фонарика» на коробке GTA 6: сработает ли трюк. Зрителю интересно узнать, реально ли так вскрыть предзаказ и ждать ли утечек кодов.",
+    "hook": "Трюк с фонариком на коробке GTA 6 — тест в США провалился.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-16T04:40:51Z"
+   },
+   "msg_id": 1005
+  },
+  {
+   "id": "953a27f3fbcf",
+   "title": "Появилась вакансия — исследователь GTA 6. Геймеру заплатят до $135 тыс. за прохождение и анализ игры",
+   "first_seen": "2026-11-15T22:31:04Z",
+   "updated": "2026-11-16T09:40:49Z",
+   "items": [
+    {
+     "id": "953a27f3fbcf",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Правила жизни",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Появилась вакансия — исследователь GTA 6. Геймеру заплатят до $135 тыс. за прохождение и анализ игры",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRXFFa2Rxb2tlNzZRVUxLbkJaME0zR25iellQSDJvYWUwWVQwQW9LWmxFMmVTeTVxYTFQQm4yZ0hDRk5sWDhiaUlfWXY3Xzk3UldIQm9sWlJvSERLN0JQbEJwMXNKLTFwbFFTcEFhcG9zVlRJZUFRa0ItY1VFYVNmNFZVZ25mMm9vVktnbV9Ldjl0NzBIOE9oR1M2M2I1Zi1hWk9CdkZxVERqaEh5aUR0SGhJaHJ0VllWQkxISnpRYW13WTg5UkFUeks1RG9DVERzZHVvNllpOHRodmtZY2NFZnJrWVZJeDNxWUJmZ2s1OGtOTmtWQXVZVQ?oc=5",
+     "ts": "2026-11-15T18:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "b1840712631e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Правила жизни",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Появилась вакансия — исследователь GTA 6. Геймеру заплатят до $135 тыс. за прохождение и анализ игры",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSDhSWXBBOXJMTVFVUmpIYmR3WDQ0YnhqQXZmR01fbl81d0dxbjRNckJRVzU0QlgxQkRHeVVEVHAxd0RYU0dIZjd6VjdWRW1xMUpISnVoU3U2cnVqU0kwcDM5VlJIcTY2YV93MkFwNEJzTFM3RXoyU0JfdVcycnZBM2NpOFhuWHNWTGlIekk5b1FQa3VGX0w5aWYxZU5DOWFXZUU0eXBGQlJILU1JSHZ6aUpXSXRHVlF0QWxKdGZDclpGVHlkUHhtdFZoSTZuTFNpWUFrVkN1VmxNZWZXMlNfZ21NUHNJczNUVE55NGI4bXpZRDRRcERVaTBTTEllY1dLb1E?oc=5",
+     "ts": "2026-11-15T18:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "385b2fe95f46",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Repost.uz",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В США готовы заплатить $135 тыс. за то, чтобы человек целыми днями играл в GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15cHVocDVRWUdjVDJKbEpKWmR3MFpkNkg2VlUtX29wcjFWMzFrbDRYYmMwZTJtbDM3dFBnN2xHS0FXQ2EyRXlWRnJ0bWtXUU0?oc=5",
+     "ts": "2026-11-16T09:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 63,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "20ddb57f2df9",
+   "title": "Пиратская GTA 6 стала ближе: энтузиаст сдампил игру на свежей прошивке PS5",
+   "first_seen": "2026-11-16T09:40:49Z",
+   "updated": "2026-11-16T09:40:49Z",
+   "items": [
+    {
+     "id": "20ddb57f2df9",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Пиратская GTA 6 стала ближе: энтузиаст сдампил игру на свежей прошивке PS5",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdFlxQzFHQjRzazRUcHctOVVDR2VsbEVaMU81Q3ozdHdfRkoyTGJjamJwOHV1d3FRYU02MUF1WE1zWFMzRnBJMmZNZUp0RDBNN1dZUk9SRDc3UUlmQ3NPd2t3T0R0Y01QeHpZYTdIT3pDaUdISVhndEY5WDU2b2ZpaF90U0JMNmc5QlluVldWOGUyZ1VFT1dvQWdsdWwzUmZMMlc3VXlibW9yN2c?oc=5",
+     "ts": "2026-11-16T09:05:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "561bb803731e",
+   "title": "A mention of a 120Hz mode has been found in the files of the PS5 Pro version of GTA 6.",
+   "first_seen": "2026-11-16T09:40:49Z",
+   "updated": "2026-11-16T09:40:49Z",
+   "items": [
+    {
+     "id": "561bb803731e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "A mention of a 120Hz mode has been found in the files of the PS5 Pro version of GTA 6.",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWE1fa0UwS2hHN2FLT2o1bjBrX21XMC1KY2tYb0lTQ2FRcTFyUEl2c1lsenZfVUxZdDhzdThmbFE1U2lYUUZuQXVfUEZuOU5MSVNzMUVWNGYtX1dGb3htMEZYeWpJUUQxc1p6NUlTcXJGQ044MzYxZmRmMHhhMlNXQUl2amZvV0hMUDhkV3l1ckZPSm4yYUxEVVkyMF82MDAwclFudHl1UnZoa1k?oc=5",
+     "ts": "2026-11-16T09:28:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5f219cd697b2",
+   "title": "В файлах версии GTA 6 для PS5 Pro обнаружено упоминание режима 120 Гц",
+   "first_seen": "2026-11-16T09:40:49Z",
+   "updated": "2026-11-16T09:40:49Z",
+   "items": [
+    {
+     "id": "5f219cd697b2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В файлах версии GTA 6 для PS5 Pro обнаружено упоминание режима 120 Гц",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjlzaExuTDh6LThxX1RxZ2s1Qkd3OEE4MjJNYS1vNElLSTB5NVUzcncyZjRLN3lxdG0xakZ3b1NhNS1PdF9WcllOZ0JuOUNfa0hscG8xaWhwMGtEcEZzSUllQzN0ak1ybnBvbldqX05zRDdVZF95LVBvTzNYWmI3Uk4xb1M3VTllc0RxRGpmQUJJME5TRy1YQTFRSERsTHhNMTh1N0R0UQ?oc=5",
+     "ts": "2026-11-16T09:28:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6ff25aa12451",
+   "title": "GTA 6 Preload Is Live: Up to 212GB, Download Began November 10",
+   "first_seen": "2026-11-16T09:40:49Z",
+   "updated": "2026-11-16T09:40:49Z",
+   "items": [
+    {
+     "id": "6ff25aa12451",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameLuster",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Preload Is Live: Up to 212GB, Download Began November 10",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZSmJfa2ZyYkNuS2VITWhOZ0xTQXpCamRKTmNqQUdtRUdoZTV1Ri1pMWM4VGF2dmI0SzVtcHZ4V1JqaHEtbUJma1R3VjdXR3Y0NHROeUFIUjQ2d2VrUktzcm1qYjRMVUtK?oc=5",
+     "ts": "2026-11-16T09:35:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "a4e5ea052b90",
+   "title": "Вся надежда на GTA 6: россияне стали реже покупать консоли",
+   "first_seen": "2026-11-16T09:40:48Z",
+   "updated": "2026-11-16T09:40:48Z",
+   "items": [
+    {
+     "id": "a4e5ea052b90",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Вся надежда на GTA 6: россияне стали реже покупать консоли",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYnk2SkpPdXVESFlnbTBGeEN0bzZueTAwU19ZTThmQzdsd2FFcGlRSlFwRDJDQ2RacnQyM0dpUVRCdUxOaVdiZDJtVFlQaFNkQ0hyamlnaFRuajRlejFxNE84bl9Jd2FuQmt5R095TnJtVHJVTlBycHdKLXlLSm5LM043TUlpN3h6Um1jaFB3TEVlNHFj?oc=5",
+     "ts": "2026-11-16T07:36:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0e0d4beb62fa",
+   "title": "Стримерам GTA 6 запретят показывать угон авто и убийства — но в одной стране",
+   "first_seen": "2026-11-16T09:40:48Z",
+   "updated": "2026-11-16T09:40:48Z",
+   "items": [
+    {
+     "id": "0e0d4beb62fa",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Стримерам GTA 6 запретят показывать угон авто и убийства — но в одной стране",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ0haUU9lcnlHZWNmUjdicFhSOGlHRFRGV3E5Z25JajdPLWFPNlFWTHFOS2RPcTdWNzc1eGI1Nkx5YkxjOFRhSC14Sm9qOHFTZFFPaXZQajB2U1YyVUhnc3dITFEwWXBvN2JQY3BMQWVFOExZR1JZT081NnhQR0xxa002SzFORlFPNTZNRmI2RTRJQ3c5NWNndFJubmtQeC16R0dwVEE1Zw?oc=5",
+     "ts": "2026-11-16T08:03:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3d9340075824",
+   "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
+   "first_seen": "2026-11-16T09:40:48Z",
+   "updated": "2026-11-16T09:40:48Z",
+   "items": [
+    {
+     "id": "3d9340075824",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iNFOnews.ca",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdkxWN3hyRm9XSHdDR2lVVjRXdUJDeTlTN2hhMmVzZWVwR0UxdmhvTWJTcE1JLWR5N3QxX1VDbVFfMi1KT1RyWmxVeHdYTWwySzU5cGhVTDRnNldTekRJaWhYWFVOYzdNc0JmSmVJQ1VCTHNIUlRSNjZubS1ZTGNYNklMSVN1RmtRN09IOFI2WmJLSzdPZWxUS1ozM0hHNjVJWS1pNm1hUlhCdw?oc=5",
+     "ts": "2026-11-16T08:25:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f29d53045322",
    "title": "GTA 6 впервые в истории серии будет поощрять игроков проявлять сочувствие",
    "first_seen": "2026-11-16T09:31:01Z",
@@ -3709,45 +3999,6 @@
    "status": "new"
   },
   {
-   "id": "15a0390049bb",
-   "title": "GTA 6 box code 'flashlight trick' failed on a US copy in testing, and no stolen codes have been confirmed",
-   "first_seen": "2026-11-16T04:40:45Z",
-   "updated": "2026-11-16T04:40:45Z",
-   "items": [
-    {
-     "id": "15a0390049bb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Nacionale",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 box code 'flashlight trick' failed on a US copy in testing, and no stolen codes have been confirmed",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXczRjZWYnNpU21zblZCY1lYU09BYTEyMURhdjlUbVZBTlc3VHZyNnVqckhWSWxKRTRzOEFLeGF4LTJfSnBVWHpiazdNWlV4a1BwRFdwcGJrd050OEJRZG16YjRmdWdibTdxN3VwOFNkSnV5Z2dxalhTOVVOcml0U2dOWmwxelVJTGN6MkVPdWE0NThBYUpuc1NXTFZfVkE4ZmRISjdlWFNncGxxemt5dmkxUQ?oc=5",
-     "ts": "2026-11-16T04:27:37Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Тесты коробок GTA 6: трюк с фонариком не сработал",
-    "summary": "По данным Nacionale, трюк с фонариком для вскрытия коробок GTA 6 не сработал на американской копии при тестировании. Издание также пишет, что подтверждённых украденных кодов нет.",
-    "idea": "Короткая проверка «фонарика» на коробке GTA 6: сработает ли трюк. Зрителю интересно узнать, реально ли так вскрыть предзаказ и ждать ли утечек кодов.",
-    "hook": "Трюк с фонариком на коробке GTA 6 — тест в США провалился.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-16T04:40:51Z"
-   },
-   "msg_id": 1005
-  },
-  {
    "id": "44e9f92fbd7f",
    "title": "Apparently Blokes Are Making Their Partners Sign GTA VI Contracts Ahead Of Its Release This Week",
    "first_seen": "2026-11-16T04:40:45Z",
@@ -6038,47 +6289,6 @@
    "score": 20,
    "level": "SPECULATION",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "953a27f3fbcf",
-   "title": "Появилась вакансия — исследователь GTA 6. Геймеру заплатят до $135 тыс. за прохождение и анализ игры",
-   "first_seen": "2026-11-15T22:31:04Z",
-   "updated": "2026-11-16T00:40:47Z",
-   "items": [
-    {
-     "id": "953a27f3fbcf",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Правила жизни",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Появилась вакансия — исследователь GTA 6. Геймеру заплатят до $135 тыс. за прохождение и анализ игры",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRXFFa2Rxb2tlNzZRVUxLbkJaME0zR25iellQSDJvYWUwWVQwQW9LWmxFMmVTeTVxYTFQQm4yZ0hDRk5sWDhiaUlfWXY3Xzk3UldIQm9sWlJvSERLN0JQbEJwMXNKLTFwbFFTcEFhcG9zVlRJZUFRa0ItY1VFYVNmNFZVZ25mMm9vVktnbV9Ldjl0NzBIOE9oR1M2M2I1Zi1hWk9CdkZxVERqaEh5aUR0SGhJaHJ0VllWQkxISnpRYW13WTg5UkFUeks1RG9DVERzZHVvNllpOHRodmtZY2NFZnJrWVZJeDNxWUJmZ2s1OGtOTmtWQXVZVQ?oc=5",
-     "ts": "2026-11-15T18:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "b1840712631e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Правила жизни",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Появилась вакансия — исследователь GTA 6. Геймеру заплатят до $135 тыс. за прохождение и анализ игры",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSDhSWXBBOXJMTVFVUmpIYmR3WDQ0YnhqQXZmR01fbl81d0dxbjRNckJRVzU0QlgxQkRHeVVEVHAxd0RYU0dIZjd6VjdWRW1xMUpISnVoU3U2cnVqU0kwcDM5VlJIcTY2YV93MkFwNEJzTFM3RXoyU0JfdVcycnZBM2NpOFhuWHNWTGlIekk5b1FQa3VGX0w5aWYxZU5DOWFXZUU0eXBGQlJILU1JSHZ6aUpXSXRHVlF0QWxKdGZDclpGVHlkUHhtdFZoSTZuTFNpWUFrVkN1VmxNZWZXMlNfZ21NUHNJczNUVE55NGI4bXpZRDRRcERVaTBTTEllY1dLb1E?oc=5",
-     "ts": "2026-11-15T18:50:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -119872,11 +120082,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-16T09:31:01Z",
+  "last_run": "2026-11-16T09:40:49Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 94/100",
+   "gnews_ru: 95/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
@@ -119885,7 +120095,7 @@
    "dexerto_gta: 4/50",
    "rockstarintel: 5/10",
    "gtaboom: 4/30",
-   "reddit: 16/25",
+   "reddit: 17/25",
    "tg_gtavistar: 6/18",
    "tg_gta6deluxe: 9/18",
    "tg_gta6_m: 11/18",
