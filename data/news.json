@@ -1,6 +1,71 @@
 {
  "stories": [
   {
+   "id": "a2ad6b452011",
+   "title": "'GTA 6' Is the Most Preordered Game in Both Sony and Xbox Histories",
+   "first_seen": "2026-11-16T04:11:06Z",
+   "updated": "2026-11-16T04:11:06Z",
+   "items": [
+    {
+     "id": "a2ad6b452011",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' Is the Most Preordered Game in Both Sony and Xbox Histories",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUWM2NUlLRE84Y1dudmxFX01tazRnTmFaSFRHbU0tMmxvRkx5Wm04ZHNsTDhhQXZRMUZJcjFidTlZMGpXYWkyOU5oY3BiRTVhUDd4SHZsTy1qU1FJaGJkaVFKTldhVDNtcEljNVpCSjNJZDBiWnNkbTdmdHdoNEtxTDNmWkRvWTQ?oc=5",
+     "ts": "2026-11-16T03:22:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 — самый предзаказываемый в истории PlayStation и Xbox",
+    "summary": "По данным Yahoo Tech, GTA 6 стала самой предзаказываемой игрой в истории PlayStation и Xbox. Официально Rockstar и платформы это не комментировали, но цифры предзаказов уже рекордные.",
+    "idea": "Сравниваем GTA 6 с GTA 5 и Call of Duty по предзаказам и показываем, почему это значит для игроков — ажиотаж, очереди на старте и дефицит.",
+    "hook": "GTA 6 — самая предзаказываемая игра в истории PlayStation и Xbox.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-16T04:11:09Z"
+   },
+   "msg_id": 1004
+  },
+  {
+   "id": "1c12a89bddd2",
+   "title": "We have come along way",
+   "first_seen": "2026-11-16T04:11:06Z",
+   "updated": "2026-11-16T04:11:06Z",
+   "items": [
+    {
+     "id": "1c12a89bddd2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "We have come along way",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xxfqk2/we_have_come_along_way/",
+     "ts": "2026-11-16T04:06:33Z",
+     "summary": "submitted by /u/Final-Association-65 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "cba3e24cc6f5",
    "title": "Can you play GTA 6 before November 19? What each edition allows",
    "first_seen": "2026-11-16T04:01:14Z",
@@ -118815,54 +118880,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c21412685b73",
-   "title": "Lucia in GTA 6: Her story, personality and role explained",
-   "first_seen": "2026-11-08T10:01:07Z",
-   "updated": "2026-11-09T04:01:15Z",
-   "items": [
-    {
-     "id": "c21412685b73",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Lucia in GTA 6: Her story, personality and role explained",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fTDN0MEEyQUp6cVJBMnRhX05PTVZlczY5Sm9EZUp5c3NSa215NWZ4QkFMeC04TVdFRXNHY1FfOE5CaVRRMnhyM1ZIY0xab21ubUthbGFfVW4wVFplV0E?oc=5",
-     "ts": "2026-11-08T08:52:23Z",
-     "summary": ""
-    },
-    {
-     "id": "4dc693489bb6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Lucia in GTA 6: Her story, personality and role explained",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KQmlUSWpQaVZycUNOMVJ4R2tjSF92UVowaFVhVDNKRkZpZEo1aVRVblFPQl9wRFZzbFRCMEZwY0x0bjZzZmppWFVGU3ZmODFsZ3hnQWVmNkNPZmlGanc?oc=5",
-     "ts": "2026-11-09T02:59:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-16T04:01:14Z",
+  "last_run": "2026-11-16T04:11:10Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 89/100",
+   "gnews_ru: 90/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 2/10",
@@ -118870,7 +118896,7 @@
    "eurogamer: 2/100",
    "dexerto_gta: 4/50",
    "rockstarintel: 7/10",
-   "gtaboom: 4/30",
+   "gtaboom: 3/30",
    "reddit: 21/25",
    "tg_gtavistar: 7/18",
    "tg_gta6deluxe: 9/17",
