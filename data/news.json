@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "500a202e8301",
+   "title": "How GTA 6 Fixes Rockstar Games' Problem With Games Losing Its Music",
+   "first_seen": "2026-11-16T04:20:48Z",
+   "updated": "2026-11-16T04:20:48Z",
+   "items": [
+    {
+     "id": "500a202e8301",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "How GTA 6 Fixes Rockstar Games' Problem With Games Losing Its Music",
+     "url": "https://www.gtaboom.com/how-gta-6-fixes-rockstar-games-problem-with-games-losing-its-music-b380",
+     "ts": "2026-11-16T04:18:58Z",
+     "summary": "GTA 6's 34 original tracks commissioned with Atlantic Records are less likely to disappear over time than licensed radio hits."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "266f7be4f677",
+   "title": "When will we get GTA 6 Controllers and Vinyl delivered?",
+   "first_seen": "2026-11-16T04:20:48Z",
+   "updated": "2026-11-16T04:20:48Z",
+   "items": [
+    {
+     "id": "266f7be4f677",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "When will we get GTA 6 Controllers and Vinyl delivered?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xxfzvr/when_will_we_get_gta_6_controllers_and_vinyl/",
+     "ts": "2026-11-16T04:20:30Z",
+     "summary": "If someone has a clue please help.. submitted by /u/bzxc- to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a2ad6b452011",
    "title": "'GTA 6' Is the Most Preordered Game in Both Sony and Xbox Histories",
    "first_seen": "2026-11-16T04:11:06Z",
@@ -118884,7 +118936,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-16T04:11:10Z",
+  "last_run": "2026-11-16T04:20:48Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
@@ -118896,8 +118948,8 @@
    "eurogamer: 2/100",
    "dexerto_gta: 4/50",
    "rockstarintel: 7/10",
-   "gtaboom: 3/30",
-   "reddit: 21/25",
+   "gtaboom: 4/30",
+   "reddit: 22/25",
    "tg_gtavistar: 7/18",
    "tg_gta6deluxe: 9/17",
    "tg_gta6_m: 11/18",
