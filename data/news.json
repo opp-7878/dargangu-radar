@@ -1,73 +1,10 @@
 {
  "stories": [
   {
-   "id": "3d9340075824",
-   "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
-   "first_seen": "2026-11-16T09:40:48Z",
-   "updated": "2026-11-16T10:10:48Z",
-   "items": [
-    {
-     "id": "3d9340075824",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "iNFOnews.ca",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdkxWN3hyRm9XSHdDR2lVVjRXdUJDeTlTN2hhMmVzZWVwR0UxdmhvTWJTcE1JLWR5N3QxX1VDbVFfMi1KT1RyWmxVeHdYTWwySzU5cGhVTDRnNldTekRJaWhYWFVOYzdNc0JmSmVJQ1VCTHNIUlRSNjZubS1ZTGNYNklMSVN1RmtRN09IOFI2WmJLSzdPZWxUS1ozM0hHNjVJWS1pNm1hUlhCdw?oc=5",
-     "ts": "2026-11-16T08:25:13Z",
-     "summary": ""
-    },
-    {
-     "id": "7d968ebb975a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo News Canada",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSeEV6OXEyOS1famd1LWRxa1BEZE4ydEJyVGZoZm9nYzRvY1BPQ25PczVPM2gwNVk3eU42aFhRd0VWM3BUcjhDc0ZuSkRvb1AzSmludExYbDlGNk9ZNjB4Yl95ZFV3TDYydG11TXR6R3JSdlM5?oc=5",
-     "ts": "2026-11-16T09:32:29Z",
-     "summary": ""
-    },
-    {
-     "id": "5f83968c6c42",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Penticton Herald",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzRJbHIwcHVnbVBOZ0JIQW5iN0tSc2tycUxyWV9wNy1pMFpqYmlKaHhEbE5BNTUwX3pCSzNwQ240Z2I2VXhwUTVhYzdNS0FnQzlMWENaTXExcG5pakt2ZlJnaWZuWFlHTkN2WTRNLUhpdU5VdU1wSzA0OEFMT2ZFeVJ0TEk2SUctODZhYnpDb3NqckQ3NXE2Vld4djdaRkdw?oc=5",
-     "ts": "2026-11-16T09:25:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 уже в новостях Канады: игра вышла по версии СМИ",
-    "summary": "iNFOnews.ca и Yahoo News Canada в утренних выпусках написали, что GTA VI уже вышла. Официально Rockstar это не подтверждала — на сегодня релиз 19 ноября 2026.",
-    "idea": "Короткий разбор «ошибки дня»: ведущие СМИ Канады написали, что GTA 6 вышла. Показываем заголовки, напоминаем реальную дату и просим чекнуть свой магазин.",
-    "hook": "Крупные канадские СМИ написали, что GTA 6 уже вышла. Правда ли это?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-16T09:51:33Z"
-   },
-   "msg_id": 1015
-  },
-  {
    "id": "3fbc974bd5e2",
    "title": "GTA fever: Sick leaves, absences expected on 'Grand Theft Auto VI' release day",
    "first_seen": "2026-11-16T09:20:45Z",
-   "updated": "2026-11-16T10:10:48Z",
+   "updated": "2026-11-16T10:20:47Z",
    "items": [
     {
      "id": "3fbc974bd5e2",
@@ -107,10 +44,23 @@
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLS1FSms2QnZBUzNnY2twSmpBdE1xQXRrQUhKVGc5STlTVGtHcHZNMS1yVTd6c0V5dW0tTl9WZXg1Ui1uTjVOQlJ3ZC0zY1F5X1pHNkRHTTJLU3VOUk1NNVg0cy1zdXRrUkpsZ3M2TTN5Y2hDSEUwRTg0SEFaS3ZENG9tdDNOeEUzSURTOHh5eVRWZ0hnYW5Yc0k4Z2ZYaVNtR1I1YmhDWEU3U3dQWUJKbVZaSG9jLWtj?oc=5",
      "ts": "2026-11-16T09:00:23Z",
      "summary": ""
+    },
+    {
+     "id": "3d5d69b6d596",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "thecanadianpressnews.ca",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA fever: Sick leaves, absences expected on 'Grand Theft Auto VI' release day",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN1hNWTNLNjJkYW50aUZyRDZIb3IzcHQ4alBKSk8wakdsTm1RUHk4cXpsS29EdXpYYTR4N3NyZzB4dlcyYVFxNEpTNmNIS2NHSkYzdnd5ZFlaeGsyaFRQV0QybWxHaXdwZTZkMVhUS21jQmVXUktDREs5WXZFLXNhNzZhcXlqeDhxVTBXVFY2cU1kd19MczQtTnF2eFRTVlUxT2hpbk5CbUkzR0h0VlZUYjQ4X0ppb1p1VEtHYS1YWW1RODJqdnY2N2xQVE5pSnpJcTRkam1EWjZMNk5wTjZwcUtYSWp0SUQ5ekZVWTBaRVZmeU9JbUF5LUd1UThfQQ?oc=5",
+     "ts": "2026-11-16T10:01:47Z",
+     "summary": ""
     }
    ],
    "tags": [],
-   "score": 66,
+   "score": 74,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new",
@@ -118,88 +68,10 @@
    "ai_error": "ValueError: нет полей: title_ru"
   },
   {
-   "id": "4e26b27f9fa4",
-   "title": "You can grab GTA 6 entirely for free if you know where to look",
-   "first_seen": "2026-11-16T10:10:48Z",
-   "updated": "2026-11-16T10:10:48Z",
-   "items": [
-    {
-     "id": "4e26b27f9fa4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GAMINGbible",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "You can grab GTA 6 entirely for free if you know where to look",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWJfSXdpaUtvdndfTm04QXI5a0t5bmpXTnJLRnJvQm41cllDQkhEbkt0VzdxU3JoMlJyLVNtbGNKNTBZWVlycnhWc0t6Z2ZWTzRYT3BDdHRfel9FRHRFQ2lvT1p2RHJlR19yS3gxWEVjejNCRDU0QUR2OWttSk1XVW4yV2RoSmM?oc=5",
-     "ts": "2026-11-16T10:00:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "fa91e16839db",
-   "title": "Internet exchange sees all-time network traffic high as ‘Grand Theft Auto VI’ downloads begin",
-   "first_seen": "2026-11-16T10:10:48Z",
-   "updated": "2026-11-16T10:10:48Z",
-   "items": [
-    {
-     "id": "fa91e16839db",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Computer Weekly",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Internet exchange sees all-time network traffic high as ‘Grand Theft Auto VI’ downloads begin",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMTlzc0ZveGJtQ0ZkSHpfcWdBWUdiU1Rlb2JRbm1PaWNFSDB6cC1LcUZIcjM1bW9vSk9XbnluZkxTZVZwRnBHb2ZzSnh5RDJ1RlVOVXFyRWcyZExiTUI0X01wUnJWQVRHRmozTXlSVVpOM3RSdHAwTGhSdnczM0p3dUo3UkdkRFk1bXBsQlZMWjl3Y2dyQkFlVVBsbEdqMjluN2dTVXZKUm1LNTk0dzMzRUJrOEhLSEhydXdkdEU3eW41czlWMUhKV2xUaVBXckRyZXVZ?oc=5",
-     "ts": "2026-11-16T10:03:51Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "216e3488910a",
-   "title": "Игроки устраивают прощальные заезды по Лос-Сантосу перед выходом GTA VI",
-   "first_seen": "2026-11-16T10:10:48Z",
-   "updated": "2026-11-16T10:10:48Z",
-   "items": [
-    {
-     "id": "216e3488910a",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Игроки устраивают прощальные заезды по Лос-Сантосу перед выходом GTA VI",
-     "url": "https://t.me/GTAVIStar/898",
-     "ts": "2026-11-16T10:03:55Z",
-     "summary": "Игроки устраивают прощальные заезды по Лос-Сантосу перед выходом GTA VI • Фанаты начали символически прощаться с GTA V. Десятки тысяч игроков возвращаются в игру, чтобы напоследок прокатиться по знакомым улицам Лос-Сантоса перед выходом шестой части. 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "1da13de0f1d8",
    "title": "GTA 6 limited edition PS5 controller normally £75 now £56 with special deal stack",
    "first_seen": "2026-11-15T16:20:47Z",
-   "updated": "2026-11-16T10:01:19Z",
+   "updated": "2026-11-16T10:20:47Z",
    "items": [
     {
      "id": "1da13de0f1d8",
@@ -369,6 +241,19 @@
      "url": "https://www.reddit.com/r/GTA6/comments/1xxll0x/there_are_qr_codes_on_these_boxes_in_the_gta6/",
      "ts": "2026-11-16T10:00:31Z",
      "summary": "submitted by /u/Novapierce_ to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "760d8a3a052e",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Gamesharing Ultimate Edition PS5",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xxlrdu/gamesharing_ultimate_edition_ps5/",
+     "ts": "2026-11-16T10:11:22Z",
+     "summary": "I game share off my brother and he has paid for the ultimate edition. Will I get all the benefits of it I have set it up so console sharing is active. submitted by /u/Bare_Noizee to r/GTAVI [link] [comments]"
     }
    ],
    "tags": [
@@ -379,6 +264,407 @@
    "score": 81,
    "level": "PROBABLE",
    "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "1e0633f0e00f",
+   "title": "На получение платины в GTA VI может уйти более 200 часов",
+   "first_seen": "2026-11-15T12:50:45Z",
+   "updated": "2026-11-16T10:20:47Z",
+   "items": [
+    {
+     "id": "1e0633f0e00f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "PlayGround.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Согласно инсайдеру Тому Хендерсону, получение платины в GTA 6 займет в среднем более 200 часов",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVnVzSmdidGp5Q1g5dXQwN1U1SW1aTk9NZFk2ZzRFVW5sbE1BNnZTMVlzcmxVY1dlMXlOaUhQd29JMmlwNVNfcWJPbGJkbEMzOHdBY2c0WWhWM2JmdWlaeDQ5aGl0TGFvUG50cmVCZmJNTU13XzlpUTlhSnBzWGU5QlZtZENJMHR6U2RXTG5GQmRHVDFidk9jWjRMTGlIOEtuazdpYVdoZlEtSWFhOG9USWxDdFlNb0lKdVhKdmNPNEgxRlNxcGJuMGhpbmV5OVR4aTR3bXltdw?oc=5",
+     "ts": "2026-11-15T12:42:18Z",
+     "summary": ""
+    },
+    {
+     "id": "e8814d57312a",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "На получение платины в GTA VI может уйти более 200 часов",
+     "url": "https://t.me/GTAVIStar/894",
+     "ts": "2026-11-15T13:59:46Z",
+     "summary": "На получение платины в GTA VI может уйти более 200 часов • Журналист и инсайдер Том Хендерсон заявил, что для получения платинового трофея в GTA VI потребуется больше 200 часов. • Для сравнения, платину в GTA V можно было получить примерно за 50–70 часов. Похоже, охотникам за достижениями в новой части придётся потратить гораздо больше времени. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    },
+    {
+     "id": "4adfb97672ef",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "www.championat.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "На получение всех достижений в GTA 6 понадобится более 200 часов — инсайдер",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2ZXOHJ4SEI1RnJ6WDBXVjc0VGFuNzhUM01JUVRjR3pBN1dYMDlpWTY5VHo1WmJldXdBYndkZ2NKRFMtUldTOE5rYVZBYXVnVnoxWlp0SUszVGJqaHcxOFhyY2NRQmh2emNTU250V2JmU2JQRjh1RnpkTDh0MnByWXZWZ0t5eEhkZHhEWExzcDJlTEZ2Y3c2LXVrdy1scDdCX29TSzNwNXE4OFZBa1Rubm5GaGxrbFRXblVrU1VhSVdTYm5OZWRtNzZRa3I?oc=5",
+     "ts": "2026-11-15T13:58:24Z",
+     "summary": ""
+    },
+    {
+     "id": "895c5d9e7123",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "CyberMeta",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Инсайдер оценил «платину» в GTA 6 более чем в 200 часов",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR0lKejBKdnBoYVo2ZjZaQl9EdzlFMUQwSmJYckU1b0hlVW5Bc19FeGlSMXFJa3Jmd2x4MEhNN1ItbGxad0ZkTmtESmFqX0RwM090ZVQ0MlAxRWh4QlJjZlBjc2lMUDBSM3FXeUJGblVlZzZYTXI4MzJVMUtOQVJaeGZHTXI3eWdpa0t4a3FJM0hxbWtPVS13bVJVZW1VbFR1VFVjQw?oc=5",
+     "ts": "2026-11-15T13:04:54Z",
+     "summary": ""
+    },
+    {
+     "id": "8072008bacae",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "На платину в GTA 6 может уйти более 200 часов — инсайдер намекнул на условие",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQejBkejVfclFUQUJidzQyT0Q2dVlsWHAxdG1sOWtxaERGWDZ1T2VuTzhKdTRlY3NIOXVYVzJmdmNnekVrQkhlcU1jVC05WGNNMDlsVHVTX011RVd3UkZ1LWZFX0dBZVR1NUFNSDlRTlZ1dUtVRGFSelM3RUJIWVJDX19GVG4tWUFVaFVyazUzNzYyakdRZGRvMUUwb2hrbXowZXUzZlJFMWJBdw?oc=5",
+     "ts": "2026-11-15T16:31:47Z",
+     "summary": ""
+    },
+    {
+     "id": "6cbf52ccddfe",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Инсайдер раскрыл время прохождения GTA VI — на «платину» потребуется более 200 часов",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFdHbzVJXzZ5dVlSbmlZcENxMmtkdFNVVWh2aTZuMklpUEdvVFZjWnhBUWhINXpZZlc5dWFOdnZoN21rMVJ3RFJZYVB4T0Qwa2w1azVoUldkU0lPLXN5ZUQxeXdrVnBlVDZrYWhPRXBCbElDalFoSGE1M2EzbWowYVFXOS1wSXdjamdqdi01MURRY3hobmtOUmN1ZFJwZDlBbWZrQUh2TkRBQnJENGNJT3JpVmVQSU1LamI3VmI0dWjSAcYBQVVfeXFMTXpIanNvOUNTZlcxbVlucUk0MEg2bjFERWtFMndDN2RVcXRGLVlLX1p4emp6R1RFd0dKQUxzZi1KUXRFaW1CT2xSNnhwcUdoaGw5R0Y0YjZ6U0xJclVHbXNpYlJ0Tk41ZjFWVzlGZHlxVEdvVkhGbHZRUlVZdjRheldBQndBTFo4ZDVaSnBkLUp1YXNOLVRPdTlUbE9VSTJia2JpR09ocU1uUWZNRmxEUkJwRU81azVteExpd20yUFVFQ3BGVnBR?oc=5",
+     "ts": "2026-11-16T02:44:00Z",
+     "summary": ""
+    },
+    {
+     "id": "19e0dabdcac0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Gagadget.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Придется брать отпуск: на получение “Платины” в GTA VI может потребоваться более двухсот часов",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDB2bDRNbi1admpTaDcyWTBnTF9kWTZmRmhWdUdlbXZUc3RJR2lOenYxZEUtQkNwOTI5ZTVIczlqemp3MjZ4SHNPOHpFMmlLbFJtU3hKZFdwb1g4MVBrNENIUHNXUHFrRjdJTFBkc1lSU1dLQl85UGpqSzVOQ1lQNHFKMzNEZ21hanlsYUVwdWZBRUU2ZjFha3NJazh4a05OYlB6X0I0TVZwOXFuZDNBU3dLVmJENTVwckY1NDROVGxfUFUtWkHSAcsBQVVfeXFMTzRPMnVuam12MGRabHIwQVlXQW8zQmc1cTRXTWxWN1l6WlA1UENBdFZMdTlidEZGTGlicXBJUVVTOTkydE45a0c4WFJZeXBtVTZaRDktR2NpRzMxUVdpLVE3dGlaOTNicFNTenJkb2NhRF9VN21Fb2ViZmx5aV9Sa3RqNGZOVmdkX3NHSC1ldVVPdVVoY2k2QlU2X0dyakRoM3QwVUNPd196NlZHd08yVjZyVkQ2NE1PeWxsLVdBSG9VYWpValRQZ2V1d28?oc=5",
+     "ts": "2026-11-16T10:00:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: выдуманные числа: 100",
+   "ai": {
+    "title_ru": "❗️Платина в GTA 6: более 200 часов — инсайдер",
+    "summary": "По словам инсайдера Тома Хендерсона, для получения платинового трофея в GTA 6 потребуется более 200 часов. Для сравнения, платину в GTA V можно было получить примерно за 50–70 часов.",
+    "idea": "Сравнение времени на платину: GTA V — 50–70 часов, GTA 6 — более 200. Зрителю интересно, сколько месяцев это займёт и какие трофеи займут больше всего времени.",
+    "hook": "Платина в GTA 6 — больше 200 часов. Готов потратить столько?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-15T15:10:53Z"
+   },
+   "msg_id": 986
+  },
+  {
+   "id": "bffe6467bf7b",
+   "title": "Gangland Tales From the Frontline of Rockstar's Real-Life Grand Theft Auto Research",
+   "first_seen": "2026-11-16T10:20:47Z",
+   "updated": "2026-11-16T10:20:47Z",
+   "items": [
+    {
+     "id": "bffe6467bf7b",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Gangland Tales From the Frontline of Rockstar's Real-Life Grand Theft Auto Research",
+     "url": "https://www.ign.com/articles/rockstars-real-life-grand-theft-auto-research",
+     "ts": "2026-11-16T10:00:49Z",
+     "summary": "A former Rockstar developer tells stories about the real-life research that went into making the Grand Theft Auto games so authentic."
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Как Rockstar делает Вайс-Сити реальным: истории разработчика",
+    "summary": "Бывший разработчик Rockstar рассказал IGN о реальных исследованиях для Grand Theft Auto. Команда изучала криминальную жизнь и локации, чтобы миры ощущались настоящими. Это объясняет внимание к деталям в Вайс-Сити.",
+    "idea": "Короткий рассказ о реальных поездках и «полевой работе» Rockstar с кадрами Вайс-Сити. Зрителю интересно увидеть, как реальный криминал превращается в миссии и детали карты.",
+    "hook": "Почему Вайс-Сити в GTA 6 ощущается живым? Вот как Rockstar это делает.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-16T10:20:52Z"
+   },
+   "msg_id": 1016
+  },
+  {
+   "id": "d5e29f1a48ab",
+   "title": "«Нельзя делать одно и то же»: Rockstar — о гигантских масштабах GTA 6",
+   "first_seen": "2026-11-16T10:20:47Z",
+   "updated": "2026-11-16T10:20:47Z",
+   "items": [
+    {
+     "id": "d5e29f1a48ab",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://www.championat.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Нельзя делать одно и то же»: Rockstar — о гигантских масштабах GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2dSbVdlbEszOXNycUo3bEdTbGZzcS1JRXB0ZlhsSVdBUmExZGhJbHlEN2JrcHgtTnpicFoyXzNIU2gyY1F1T1lNZFA2bUhyNXV5U0c4c0FHZHVBWUhFVUtyTlVabUpBUnlJa25GVkFpQzczV1pBWm1Eam1rQUNiZEtBcFgtR0RQYy14cWVELXJuTHhCaEVBZy0xU1UxTjVva25fdDhTdVhGN1lJSnY1U1ZmQTNudGF6NzA1SQ?oc=5",
+     "ts": "2026-11-16T10:08:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4290f03ce4fc",
+   "title": "New GTA VI patch is live, check your consoles!",
+   "first_seen": "2026-11-16T10:20:47Z",
+   "updated": "2026-11-16T10:20:47Z",
+   "items": [
+    {
+     "id": "4290f03ce4fc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "New GTA VI patch is live, check your consoles!",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xxlsnt/new_gta_vi_patch_is_live_check_your_consoles/",
+     "ts": "2026-11-16T10:13:31Z",
+     "summary": "submitted by /u/Primary_Journalist_2 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1d9cd0679ef6",
+   "title": "GTA 6 едва не запретили в Южной Корее из-за обилия обнаженки",
+   "first_seen": "2026-11-16T10:20:47Z",
+   "updated": "2026-11-16T10:20:47Z",
+   "items": [
+    {
+     "id": "1d9cd0679ef6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Land of Games",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 едва не запретили в Южной Корее из-за обилия обнаженки",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3lTMHlseVpobGtoRWt6TmlKTGtleV9iWlVTaTg4WWV6WjlId0drQ1k5OXJ4WVlmQ2hYMlAwcE1ZOFNqbVNnYU1GeC1NZ0Zsamxvd0cySUpDZDhiZmx6WGY5cThGX1NhWm5SUG9tTWdTVUxqamJGVW9Tb2tiZjdIWnVCSDY4NmUxeVQ5NVU0dFhCcUlFcVYySzlqalRaeUMwRlEzdEhNa0VuWlpCOGFuaDlOS2Q?oc=5",
+     "ts": "2026-11-16T10:13:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9a89c549c511",
+   "title": "Which of these maps is part of the “Goodtime State: Collector Box”? I personally like the coloured one more",
+   "first_seen": "2026-11-16T10:20:47Z",
+   "updated": "2026-11-16T10:20:47Z",
+   "items": [
+    {
+     "id": "9a89c549c511",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Which of these maps is part of the “Goodtime State: Collector Box”? I personally like the coloured one more",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xxlu6r/which_of_these_maps_is_part_of_the_goodtime_state/",
+     "ts": "2026-11-16T10:16:09Z",
+     "summary": "Have been seeing both of these maps float about. Want to know which one is part of the collector box. I personally would want the more colourful one hung in my living room. Can someone confirm this? Thanks. submitted by /u/karthikgovil to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3d9340075824",
+   "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
+   "first_seen": "2026-11-16T09:40:48Z",
+   "updated": "2026-11-16T10:10:48Z",
+   "items": [
+    {
+     "id": "3d9340075824",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iNFOnews.ca",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdkxWN3hyRm9XSHdDR2lVVjRXdUJDeTlTN2hhMmVzZWVwR0UxdmhvTWJTcE1JLWR5N3QxX1VDbVFfMi1KT1RyWmxVeHdYTWwySzU5cGhVTDRnNldTekRJaWhYWFVOYzdNc0JmSmVJQ1VCTHNIUlRSNjZubS1ZTGNYNklMSVN1RmtRN09IOFI2WmJLSzdPZWxUS1ozM0hHNjVJWS1pNm1hUlhCdw?oc=5",
+     "ts": "2026-11-16T08:25:13Z",
+     "summary": ""
+    },
+    {
+     "id": "7d968ebb975a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo News Canada",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSeEV6OXEyOS1famd1LWRxa1BEZE4ydEJyVGZoZm9nYzRvY1BPQ25PczVPM2gwNVk3eU42aFhRd0VWM3BUcjhDc0ZuSkRvb1AzSmludExYbDlGNk9ZNjB4Yl95ZFV3TDYydG11TXR6R3JSdlM5?oc=5",
+     "ts": "2026-11-16T09:32:29Z",
+     "summary": ""
+    },
+    {
+     "id": "5f83968c6c42",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Penticton Herald",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzRJbHIwcHVnbVBOZ0JIQW5iN0tSc2tycUxyWV9wNy1pMFpqYmlKaHhEbE5BNTUwX3pCSzNwQ240Z2I2VXhwUTVhYzdNS0FnQzlMWENaTXExcG5pakt2ZlJnaWZuWFlHTkN2WTRNLUhpdU5VdU1wSzA0OEFMT2ZFeVJ0TEk2SUctODZhYnpDb3NqckQ3NXE2Vld4djdaRkdw?oc=5",
+     "ts": "2026-11-16T09:25:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 уже в новостях Канады: игра вышла по версии СМИ",
+    "summary": "iNFOnews.ca и Yahoo News Canada в утренних выпусках написали, что GTA VI уже вышла. Официально Rockstar это не подтверждала — на сегодня релиз 19 ноября 2026.",
+    "idea": "Короткий разбор «ошибки дня»: ведущие СМИ Канады написали, что GTA 6 вышла. Показываем заголовки, напоминаем реальную дату и просим чекнуть свой магазин.",
+    "hook": "Крупные канадские СМИ написали, что GTA 6 уже вышла. Правда ли это?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-16T09:51:33Z"
+   },
+   "msg_id": 1015
+  },
+  {
+   "id": "4e26b27f9fa4",
+   "title": "You can grab GTA 6 entirely for free if you know where to look",
+   "first_seen": "2026-11-16T10:10:48Z",
+   "updated": "2026-11-16T10:10:48Z",
+   "items": [
+    {
+     "id": "4e26b27f9fa4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GAMINGbible",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "You can grab GTA 6 entirely for free if you know where to look",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWJfSXdpaUtvdndfTm04QXI5a0t5bmpXTnJLRnJvQm41cllDQkhEbkt0VzdxU3JoMlJyLVNtbGNKNTBZWVlycnhWc0t6Z2ZWTzRYT3BDdHRfel9FRHRFQ2lvT1p2RHJlR19yS3gxWEVjejNCRDU0QUR2OWttSk1XVW4yV2RoSmM?oc=5",
+     "ts": "2026-11-16T10:00:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fa91e16839db",
+   "title": "Internet exchange sees all-time network traffic high as ‘Grand Theft Auto VI’ downloads begin",
+   "first_seen": "2026-11-16T10:10:48Z",
+   "updated": "2026-11-16T10:10:48Z",
+   "items": [
+    {
+     "id": "fa91e16839db",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Computer Weekly",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Internet exchange sees all-time network traffic high as ‘Grand Theft Auto VI’ downloads begin",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMTlzc0ZveGJtQ0ZkSHpfcWdBWUdiU1Rlb2JRbm1PaWNFSDB6cC1LcUZIcjM1bW9vSk9XbnluZkxTZVZwRnBHb2ZzSnh5RDJ1RlVOVXFyRWcyZExiTUI0X01wUnJWQVRHRmozTXlSVVpOM3RSdHAwTGhSdnczM0p3dUo3UkdkRFk1bXBsQlZMWjl3Y2dyQkFlVVBsbEdqMjluN2dTVXZKUm1LNTk0dzMzRUJrOEhLSEhydXdkdEU3eW41czlWMUhKV2xUaVBXckRyZXVZ?oc=5",
+     "ts": "2026-11-16T10:03:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "216e3488910a",
+   "title": "Игроки устраивают прощальные заезды по Лос-Сантосу перед выходом GTA VI",
+   "first_seen": "2026-11-16T10:10:48Z",
+   "updated": "2026-11-16T10:10:48Z",
+   "items": [
+    {
+     "id": "216e3488910a",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Игроки устраивают прощальные заезды по Лос-Сантосу перед выходом GTA VI",
+     "url": "https://t.me/GTAVIStar/898",
+     "ts": "2026-11-16T10:03:55Z",
+     "summary": "Игроки устраивают прощальные заезды по Лос-Сантосу перед выходом GTA VI • Фанаты начали символически прощаться с GTA V. Десятки тысяч игроков возвращаются в игру, чтобы напоследок прокатиться по знакомым улицам Лос-Сантоса перед выходом шестой части. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -5246,110 +5532,6 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "1e0633f0e00f",
-   "title": "На получение платины в GTA VI может уйти более 200 часов",
-   "first_seen": "2026-11-15T12:50:45Z",
-   "updated": "2026-11-16T03:10:55Z",
-   "items": [
-    {
-     "id": "1e0633f0e00f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Согласно инсайдеру Тому Хендерсону, получение платины в GTA 6 займет в среднем более 200 часов",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVnVzSmdidGp5Q1g5dXQwN1U1SW1aTk9NZFk2ZzRFVW5sbE1BNnZTMVlzcmxVY1dlMXlOaUhQd29JMmlwNVNfcWJPbGJkbEMzOHdBY2c0WWhWM2JmdWlaeDQ5aGl0TGFvUG50cmVCZmJNTU13XzlpUTlhSnBzWGU5QlZtZENJMHR6U2RXTG5GQmRHVDFidk9jWjRMTGlIOEtuazdpYVdoZlEtSWFhOG9USWxDdFlNb0lKdVhKdmNPNEgxRlNxcGJuMGhpbmV5OVR4aTR3bXltdw?oc=5",
-     "ts": "2026-11-15T12:42:18Z",
-     "summary": ""
-    },
-    {
-     "id": "e8814d57312a",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "На получение платины в GTA VI может уйти более 200 часов",
-     "url": "https://t.me/GTAVIStar/894",
-     "ts": "2026-11-15T13:59:46Z",
-     "summary": "На получение платины в GTA VI может уйти более 200 часов • Журналист и инсайдер Том Хендерсон заявил, что для получения платинового трофея в GTA VI потребуется больше 200 часов. • Для сравнения, платину в GTA V можно было получить примерно за 50–70 часов. Похоже, охотникам за достижениями в новой части придётся потратить гораздо больше времени. 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    },
-    {
-     "id": "4adfb97672ef",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "www.championat.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "На получение всех достижений в GTA 6 понадобится более 200 часов — инсайдер",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2ZXOHJ4SEI1RnJ6WDBXVjc0VGFuNzhUM01JUVRjR3pBN1dYMDlpWTY5VHo1WmJldXdBYndkZ2NKRFMtUldTOE5rYVZBYXVnVnoxWlp0SUszVGJqaHcxOFhyY2NRQmh2emNTU250V2JmU2JQRjh1RnpkTDh0MnByWXZWZ0t5eEhkZHhEWExzcDJlTEZ2Y3c2LXVrdy1scDdCX29TSzNwNXE4OFZBa1Rubm5GaGxrbFRXblVrU1VhSVdTYm5OZWRtNzZRa3I?oc=5",
-     "ts": "2026-11-15T13:58:24Z",
-     "summary": ""
-    },
-    {
-     "id": "895c5d9e7123",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "CyberMeta",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Инсайдер оценил «платину» в GTA 6 более чем в 200 часов",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR0lKejBKdnBoYVo2ZjZaQl9EdzlFMUQwSmJYckU1b0hlVW5Bc19FeGlSMXFJa3Jmd2x4MEhNN1ItbGxad0ZkTmtESmFqX0RwM090ZVQ0MlAxRWh4QlJjZlBjc2lMUDBSM3FXeUJGblVlZzZYTXI4MzJVMUtOQVJaeGZHTXI3eWdpa0t4a3FJM0hxbWtPVS13bVJVZW1VbFR1VFVjQw?oc=5",
-     "ts": "2026-11-15T13:04:54Z",
-     "summary": ""
-    },
-    {
-     "id": "8072008bacae",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "На платину в GTA 6 может уйти более 200 часов — инсайдер намекнул на условие",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQejBkejVfclFUQUJidzQyT0Q2dVlsWHAxdG1sOWtxaERGWDZ1T2VuTzhKdTRlY3NIOXVYVzJmdmNnekVrQkhlcU1jVC05WGNNMDlsVHVTX011RVd3UkZ1LWZFX0dBZVR1NUFNSDlRTlZ1dUtVRGFSelM3RUJIWVJDX19GVG4tWUFVaFVyazUzNzYyakdRZGRvMUUwb2hrbXowZXUzZlJFMWJBdw?oc=5",
-     "ts": "2026-11-15T16:31:47Z",
-     "summary": ""
-    },
-    {
-     "id": "6cbf52ccddfe",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Инсайдер раскрыл время прохождения GTA VI — на «платину» потребуется более 200 часов",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFdHbzVJXzZ5dVlSbmlZcENxMmtkdFNVVWh2aTZuMklpUEdvVFZjWnhBUWhINXpZZlc5dWFOdnZoN21rMVJ3RFJZYVB4T0Qwa2w1azVoUldkU0lPLXN5ZUQxeXdrVnBlVDZrYWhPRXBCbElDalFoSGE1M2EzbWowYVFXOS1wSXdjamdqdi01MURRY3hobmtOUmN1ZFJwZDlBbWZrQUh2TkRBQnJENGNJT3JpVmVQSU1LamI3VmI0dWjSAcYBQVVfeXFMTXpIanNvOUNTZlcxbVlucUk0MEg2bjFERWtFMndDN2RVcXRGLVlLX1p4emp6R1RFd0dKQUxzZi1KUXRFaW1CT2xSNnhwcUdoaGw5R0Y0YjZ6U0xJclVHbXNpYlJ0Tk41ZjFWVzlGZHlxVEdvVkhGbHZRUlVZdjRheldBQndBTFo4ZDVaSnBkLUp1YXNOLVRPdTlUbE9VSTJia2JpR09ocU1uUWZNRmxEUkJwRU81azVteExpd20yUFVFQ3BGVnBR?oc=5",
-     "ts": "2026-11-16T02:44:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: выдуманные числа: 100",
-   "ai": {
-    "title_ru": "❗️Платина в GTA 6: более 200 часов — инсайдер",
-    "summary": "По словам инсайдера Тома Хендерсона, для получения платинового трофея в GTA 6 потребуется более 200 часов. Для сравнения, платину в GTA V можно было получить примерно за 50–70 часов.",
-    "idea": "Сравнение времени на платину: GTA V — 50–70 часов, GTA 6 — более 200. Зрителю интересно, сколько месяцев это займёт и какие трофеи займут больше всего времени.",
-    "hook": "Платина в GTA 6 — больше 200 часов. Готов потратить столько?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-15T15:10:53Z"
-   },
-   "msg_id": 986
   },
   {
    "id": "d2d9b769bc3f",
@@ -119715,143 +119897,19 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "36c5261cbcda",
-   "title": "GTA VI еще не вышла, а Rockstar уже заработала на игре более 750 миллионов долларов",
-   "first_seen": "2026-11-09T10:11:03Z",
-   "updated": "2026-11-09T10:11:03Z",
-   "items": [
-    {
-     "id": "36c5261cbcda",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Mixnews",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI еще не вышла, а Rockstar уже заработала на игре более 750 миллионов долларов",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTlBFUTY2VU9RWWVPM0dFRThWTlM3ZG9VbUwyNndOS3BWY0lCQUpCcWdjWmtVNHlxS1czc2pnNUd0enNoNFNZQXdPbUhsNFA4MHBPNktiLUc0cUc0RWFhODMyY2J0WWFFMnp5UWRxWDZQZHRvbXJWRG1QcjBTU1dKM1VOYWgwOWtRZTNkMTJmVG0xSWE4LVNWV05uRDVXYk9xbmRRWVVlTjVOYjc1MlVMd3E3Rk1VbGdoMG5LX3V0LVhnZw?oc=5",
-     "ts": "2026-11-09T09:33:52Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5cc223b3fab7",
-   "title": "Онлайн-режим GTA VI может стать отдельной игрой — коробки с игрой рассекретили план Rockstar",
-   "first_seen": "2026-11-09T10:11:03Z",
-   "updated": "2026-11-09T10:11:03Z",
-   "items": [
-    {
-     "id": "5cc223b3fab7",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Gagadget.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Онлайн-режим GTA VI может стать отдельной игрой — коробки с игрой рассекретили план Rockstar",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd19HanViYjgxbnE5OWxoSTl2RG80Ry1wZmFtbVNTR0dQdnBsbXlUdExRN2VsNDlDTk1uTFVtb1ZBeUJaWXRwcFYwYnc5SEhvakFnbVhsUXdSRFlaQkJPS05tbjBPWGtfWFB2V0I1MnNFS1BhVURQNW1QTkwzbnFzdlg1V0R4ZmtJX2JqWVQyYkhZa3dWSDRLc0M1c09RYUVqTFVkR0FQWHVHa1YxUU42WDAyUmlfekMtMDdWOG9BQdIBxAFBVV95cUxPZHNiYlpUcE5WZGdEUWQ5aUFhUmRncHlhRFUtdTNzUFBOMno1V0MwLUhUQ04xODBDRGY1bE5ZYTFGc0ViWU1MUmJtNkFJc0g1RjY0SDRzVGRNeDhMbnV1S1RFZEFRY0M2cG9PYkdWbFNpUkdQczkyOXltWGp6NGQzVVVJc0taNjE4OVFUYXktLXlGc2drTTNCXzhYSlZxUmRQejJoTlJFQzE2OGJ4VXpPcFkxRG1Xd0xhSVZ3Q2t3MFVYX0pl?oc=5",
-     "ts": "2026-11-09T09:47:57Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "102bf85ccbb3",
-   "title": "Former Rockstar developer says AI concerns could bring GTA 6 to PC sooner",
-   "first_seen": "2026-11-09T10:11:03Z",
-   "updated": "2026-11-09T10:11:03Z",
-   "items": [
-    {
-     "id": "102bf85ccbb3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Express Tribune",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Former Rockstar developer says AI concerns could bring GTA 6 to PC sooner",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWFBZ21OMjVCWHhkNzNCWWotT2RWSmxMQUI0dkVmNVRzRDN6alNPZFhBQzNHRnF3dHlEZUpYU0lZaVo5VHNKRFctSHR6MGs0TVVKZmUyT1ZJUy1EZXVyVW5oM1VNYThkVGNWMUdIYVhFZ3FKT3lEMzhoUXJEVWVtLWg5enJEUi1wOGRqUUVEbDhrOFVoc3V6RWlZMV83QnZNMloxak14TGZoYXE0M3hr0gG3AUFVX3lxTFAyYzJyQnNVYWJzQTRqWTFmSHNhRHVOdEJXOUdpX3A3UkFPWHppOHFtUU5hRUhxaGRHSGlDUlRaWklTeXkwcWZuZlZKdmNfQUNsd2xkZDRMZTU4dUNzeVZtUE9qYnp3WGRMUF94dUdvc0QzTXR2UC1CdWRsZDBKWlFOZ0hmMkt1SEpQR3YzcnpLeUxWZ3kzZU96X3VsUGJhUVc0d1N2NVBuY0wxN29XSm14aDUtcW5CNA?oc=5",
-     "ts": "2026-11-09T10:00:22Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "593b3adfa7d4",
-   "title": "Selfridges London has launched a huge Grand Theft Auto 6 store with 60+ items for sale",
-   "first_seen": "2026-11-09T10:11:03Z",
-   "updated": "2026-11-09T10:11:03Z",
-   "items": [
-    {
-     "id": "593b3adfa7d4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Video Games Chronicle",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Selfridges London has launched a huge Grand Theft Auto 6 store with 60+ items for sale",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CWHZyZTN5TVNEd1lnYksyVUkwZVVxVm5NZ0JIVThzNHFQV0JXS19PU0dZeEZIRFNERVJxdkdvSF84TmQ0Y2hPY0d3OHhjV1FpLS1NWWcyZXJfTXg2Yy1mQUxraTZjWktnYjJ2QkJ0UVIzUQ?oc=5",
-     "ts": "2026-11-09T10:07:17Z",
-     "summary": ""
-    },
-    {
-     "id": "b7cdde2ef160",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Selfridges London has launched a huge Grand Theft Auto 6 store with 60+ items for sale",
-     "url": "https://www.videogameschronicle.com/news/selfridges-london-gta6/",
-     "ts": "2026-11-09T10:07:17Z",
-     "summary": "Selfridges GTA 6 merchandise includes a £2,500 jacket; some items reportedly already sold out online"
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 93,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 2,
-   "ai_error": "ValueError: выдуманные числа: 2500",
-   "msg_id": 675
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-16T10:10:53Z",
+  "last_run": "2026-11-16T10:20:52Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
    "gnews_ru: 95/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
-   "insider_gaming: 4/10",
-   "ign: 6/20",
+   "insider_gaming: 3/10",
+   "ign: 7/20",
    "eurogamer: 1/100",
    "dexerto_gta: 4/50",
    "rockstarintel: 5/10",
