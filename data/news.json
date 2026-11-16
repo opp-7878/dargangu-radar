@@ -1,6 +1,151 @@
 {
  "stories": [
   {
+   "id": "3d9340075824",
+   "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
+   "first_seen": "2026-11-16T09:40:48Z",
+   "updated": "2026-11-16T09:50:56Z",
+   "items": [
+    {
+     "id": "3d9340075824",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iNFOnews.ca",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdkxWN3hyRm9XSHdDR2lVVjRXdUJDeTlTN2hhMmVzZWVwR0UxdmhvTWJTcE1JLWR5N3QxX1VDbVFfMi1KT1RyWmxVeHdYTWwySzU5cGhVTDRnNldTekRJaWhYWFVOYzdNc0JmSmVJQ1VCTHNIUlRSNjZubS1ZTGNYNklMSVN1RmtRN09IOFI2WmJLSzdPZWxUS1ozM0hHNjVJWS1pNm1hUlhCdw?oc=5",
+     "ts": "2026-11-16T08:25:13Z",
+     "summary": ""
+    },
+    {
+     "id": "7d968ebb975a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo News Canada",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSeEV6OXEyOS1famd1LWRxa1BEZE4ydEJyVGZoZm9nYzRvY1BPQ25PczVPM2gwNVk3eU42aFhRd0VWM3BUcjhDc0ZuSkRvb1AzSmludExYbDlGNk9ZNjB4Yl95ZFV3TDYydG11TXR6R3JSdlM5?oc=5",
+     "ts": "2026-11-16T09:32:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 уже в новостях Канады: игра вышла по версии СМИ",
+    "summary": "iNFOnews.ca и Yahoo News Canada в утренних выпусках написали, что GTA VI уже вышла. Официально Rockstar это не подтверждала — на сегодня релиз 19 ноября 2026.",
+    "idea": "Короткий разбор «ошибки дня»: ведущие СМИ Канады написали, что GTA 6 вышла. Показываем заголовки, напоминаем реальную дату и просим чекнуть свой магазин.",
+    "hook": "Крупные канадские СМИ написали, что GTA 6 уже вышла. Правда ли это?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-16T09:51:33Z"
+   },
+   "msg_id": 1015
+  },
+  {
+   "id": "8a69fe4b4d32",
+   "title": "Покупатели GTA VI пожаловались на пустые коробки — заказ прислали без кода активации",
+   "first_seen": "2026-11-16T03:10:55Z",
+   "updated": "2026-11-16T09:50:56Z",
+   "items": [
+    {
+     "id": "8a69fe4b4d32",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Покупатели GTA VI пожаловались на пустые коробки — заказ прислали без кода активации",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUU9nckgwV3pWNFl0eHczallyZGc0Ri1OSUtRaFhIMG5ORjdLX2pRblg0V0hSTE1aam9rRVdzcU1MdlNsZlF4ZTdNVVVKaTdRWnlsaER0OEpmY0pqR0ViazF5YWJQNWhvMkZMT0ZZT2JHZWhyV0FCNURnMkhtbHc3Y3NpbFdVM1lkY3FscURVSDFXV1FPTVA2V3FUSTRmUW51Q2kxbzlXQzl5YTcza3FTWERlTU5NNTdTUGZtMmVR0gHDAUFVX3lxTFBhei1nc3ZQSDN4VHJRU1k0cUlGb2RBV0hsM2JpT2JiaDdXRklscnJ2SDBoT2paUVVnaHhPUUN3bGhkdmo0OHBKQUU2RGZRLWJmRWxaSS1Td21KR1hJcEMzVmtpTGxOU0wwTEk4VGdWV1pYQVNKbXNULUprMURMeFYwbzNzbDlVajNBcDFYS2ZhMFRFM1lQdmZZUDZUX1o4amM2QTNNYUdfMXZiWkZNd19VVTR5d3FXdVk2WDlybktRdFVEQQ?oc=5",
+     "ts": "2026-11-16T02:48:00Z",
+     "summary": ""
+    },
+    {
+     "id": "63c7a21208c0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "SE7EN.ws",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Покупатели GTA VI пожаловались, что получили пустые коробки без кода активации",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTVFSy1hVmItZC1LT3VGbnhzazN2eGlwTC1ESVNhanBzUjROWERMajJRQW90VXU4OTlrVHEwdERUbU9xU1ptNFZ4YUdadEJIUkhEMkFPTlR6d0o0RjNEU0VteEk1dkVTUWZEVHFLZE1WODZTR0lIZzQ0NTFlZllDMExZelZjS2RidHYwTlBLanFYWnY1anRqMG5XbUowRXc?oc=5",
+     "ts": "2026-11-16T08:12:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 53,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1b31a1753418",
+   "title": "GTA 6 release time, launch date, preload and file size",
+   "first_seen": "2026-11-16T09:50:56Z",
+   "updated": "2026-11-16T09:50:56Z",
+   "items": [
+    {
+     "id": "1b31a1753418",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rock Paper Shotgun",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 release time, launch date, preload and file size",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uWm5rbElzV2hwZjNaOU5QV0U5b2hvVVRsUWdCdTNDanJoWlpyZ0s2TmZmTkw3Y19rSXFGaGNibDNBaGZMNW13YzdVbk5RQmRmM3hqQlQzd2UyM1o4aTVfRmhIYWNrcVU?oc=5",
+     "ts": "2026-11-16T09:46:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>"
+  },
+  {
+   "id": "eaa4c6072b92",
+   "title": "Guys no more 'we got... before gta 6 jokes! 3 more days to go",
+   "first_seen": "2026-11-16T09:50:56Z",
+   "updated": "2026-11-16T09:50:56Z",
+   "items": [
+    {
+     "id": "eaa4c6072b92",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Guys no more 'we got... before gta 6 jokes! 3 more days to go",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xxlfhj/guys_no_more_we_got_before_gta_6_jokes_3_more/",
+     "ts": "2026-11-16T09:50:29Z",
+     "summary": "submitted by /u/Kind_Possibility2027 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "15a0390049bb",
    "title": "GTA 6 box code 'flashlight trick' failed on a US copy in testing, and no stolen codes have been confirmed",
    "first_seen": "2026-11-16T04:40:45Z",
@@ -260,32 +405,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3d9340075824",
-   "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
-   "first_seen": "2026-11-16T09:40:48Z",
-   "updated": "2026-11-16T09:40:48Z",
-   "items": [
-    {
-     "id": "3d9340075824",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "iNFOnews.ca",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdkxWN3hyRm9XSHdDR2lVVjRXdUJDeTlTN2hhMmVzZWVwR0UxdmhvTWJTcE1JLWR5N3QxX1VDbVFfMi1KT1RyWmxVeHdYTWwySzU5cGhVTDRnNldTekRJaWhYWFVOYzdNc0JmSmVJQ1VCTHNIUlRSNjZubS1ZTGNYNklMSVN1RmtRN09IOFI2WmJLSzdPZWxUS1ozM0hHNjVJWS1pNm1hUlhCdw?oc=5",
-     "ts": "2026-11-16T08:25:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -5097,32 +5216,6 @@
     "at": "2026-11-16T03:10:59Z"
    },
    "msg_id": 1002
-  },
-  {
-   "id": "8a69fe4b4d32",
-   "title": "Покупатели GTA VI пожаловались на пустые коробки — заказ прислали без кода активации",
-   "first_seen": "2026-11-16T03:10:55Z",
-   "updated": "2026-11-16T03:10:55Z",
-   "items": [
-    {
-     "id": "8a69fe4b4d32",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Покупатели GTA VI пожаловались на пустые коробки — заказ прислали без кода активации",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUU9nckgwV3pWNFl0eHczallyZGc0Ri1OSUtRaFhIMG5ORjdLX2pRblg0V0hSTE1aam9rRVdzcU1MdlNsZlF4ZTdNVVVKaTdRWnlsaER0OEpmY0pqR0ViazF5YWJQNWhvMkZMT0ZZT2JHZWhyV0FCNURnMkhtbHc3Y3NpbFdVM1lkY3FscURVSDFXV1FPTVA2V3FUSTRmUW51Q2kxbzlXQzl5YTcza3FTWERlTU5NNTdTUGZtMmVR0gHDAUFVX3lxTFBhei1nc3ZQSDN4VHJRU1k0cUlGb2RBV0hsM2JpT2JiaDdXRklscnJ2SDBoT2paUVVnaHhPUUN3bGhkdmo0OHBKQUU2RGZRLWJmRWxaSS1Td21KR1hJcEMzVmtpTGxOU0wwTEk4VGdWV1pYQVNKbXNULUprMURMeFYwbzNzbDlVajNBcDFYS2ZhMFRFM1lQdmZZUDZUX1o4amM2QTNNYUdfMXZiWkZNd19VVTR5d3FXdVk2WDlybktRdFVEQQ?oc=5",
-     "ts": "2026-11-16T02:48:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "c4e0951cdeaf",
@@ -119787,306 +119880,15 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "830a0754a684",
-   "title": "Insane GTA 6 Takeover Arrives in London’s Selfridges Store",
-   "first_seen": "2026-11-09T09:41:07Z",
-   "updated": "2026-11-09T09:50:56Z",
-   "items": [
-    {
-     "id": "830a0754a684",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Insane GTA 6 Takeover Arrives in London’s Selfridges Store",
-     "url": "https://insider-gaming.com/gta-6-selfridges-insane-merch-lineup/",
-     "ts": "2026-11-09T09:38:18Z",
-     "summary": "In London, an incredible GTA 6-themed takeover has happened in Selfridges, one of the most iconic department stores in the world. The post Insane GTA 6 Takeover Arrives in London’s Selfridges Store appeared first on Insider Gaming ."
-    },
-    {
-     "id": "0a4268f0d59e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Insane GTA 6 Takeover Arrives in London’s Selfridges Store",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoS2pOTEtzX1dvYnBNaW9vOXNTSzBlRl93TlRReXBUNXhwT0FaUFNNNENyZGhCM2xHRXUwdmNZclpIZmhhSnZCeHQxbWZ1ZGdWTGZWcTgtTUlURjRLMFNObjNpbVNabkFOSFVwbHI3Z3JtZw?oc=5",
-     "ts": "2026-11-09T09:38:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 2,
-   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 63 (char 64)"
-  },
-  {
-   "id": "08029bf3bf47",
-   "title": "GTA 6 Main Menu Music Leaked Ahead Of Pre-Load",
-   "first_seen": "2026-11-09T09:41:07Z",
-   "updated": "2026-11-09T09:50:56Z",
-   "items": [
-    {
-     "id": "08029bf3bf47",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA VI - MAIN MENU MUSIC",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xrnh47/gta_vi_main_menu_music/",
-     "ts": "2026-11-09T09:39:26Z",
-     "summary": "submitted by /u/ZEROA9 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "8c013a2dc286",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "RockstarINTEL",
-     "group": "media",
-     "weight": 55,
-     "alert": true,
-     "title": "GTA 6 Main Menu Music Leaked Ahead Of Pre-Load",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xTHJ1ZDhhRUFjY29ZVkc3RHgxVjlQX0xnTHRxSlJVVXd5aTlGZXFiU29lRDNXTmhmM0k4WlhhOVhRZUExVVM4clVseUlOeVlGX3FNcS1UVkhwYkloQ0JGSDI3WEZaMWlpS3BITl9BLTUxVjZYdFNMMnJXZkRHUQ?oc=5",
-     "ts": "2026-11-09T09:43:34Z",
-     "summary": ""
-    },
-    {
-     "id": "191c8c81bb4f",
-     "src": "rockstarintel",
-     "src_name": "Rockstar INTEL",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 55,
-     "alert": true,
-     "title": "GTA 6 Main Menu Music Leaked Ahead Of Pre-Load",
-     "url": "https://rockstarintel.com/gta-6-main-menu-music-leaked-ahead-of-pre-load/",
-     "ts": "2026-11-09T09:43:34Z",
-     "summary": "The GTA 6 main menu background music has leaked ahead of the game’s pre-load and you’ll be able to listen to it right here. We are just hours away from Grand Theft Auto VI going up for pre-load on both PlayStation 5 and XBOX Series X|S and that means more leaks. The game has already [...] The post GTA 6 Main Menu Music Leaked Ahead Of Pre-Load appeared first on RockstarINTEL ."
-    },
-    {
-     "id": "32ddbdcd3208",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "Home-Screen Music of GTA 6 on PS5 Leaks Ahead of November 10 Pre-Load",
-     "url": "https://www.gtaboom.com/home-screen-music-of-gta-6-on-ps5-leaks-ahead-of-november-10-pre-load-8809",
-     "ts": "2026-11-09T09:48:12Z",
-     "summary": "A circulating recording of GTA 6's ambient PS5 home screen music is drawing fan comparisons to Woody Jackson's work."
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 94,
-   "level": "SPECULATION",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Слили музыку главного меню GTA 6 за день до предзагрузки",
-    "summary": "За день до предзагрузки GTA 6, которая стартует 10 ноября, в сеть утекла фоновая музыка главного меню на PS5. О сливе сообщили RockstarINTEL, GTA Boom и пользователи Reddit, фанаты сравнивают трек с работами Woody Jackson.",
-    "idea": "Зачитать утёкший трек на фоне логотипа GTA 6 и спросить, похож ли он на стиль Woody Jackson. Зрителю интересно услышать «первую официальную» музыку и сравнить ожидания.",
-    "hook": "Музыка главного меню GTA 6 утекла за день до предзагрузки — слушаем.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-09T09:51:00Z"
-   },
-   "msg_id": 674
-  },
-  {
-   "id": "214197ed3a86",
-   "title": "Гайд по GTA 6: ранний доступ на Xbox через Новую Зеландию",
-   "first_seen": "2026-11-09T09:50:56Z",
-   "updated": "2026-11-09T09:50:56Z",
-   "items": [
-    {
-     "id": "214197ed3a86",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "games.gg",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Гайд по GTA 6: ранний доступ на Xbox через Новую Зеландию",
-     "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOR21relpRZ1pQVXdDdFpqZGN5d2tuWWRhcEFlT1VPTTlnbEJ6Z21VMVZFSzdERnpsbXVnT09tT3ZLbEtaa0V6Q2xRZ0NNRFhUcjVxRUZNS0pGaVRxdTlXVmNmcklRemxCMjgzZXE2Q09IMTFEYkNMNmZvUUF6Y0pOTk5KWWtFQzVnQTk3QmxhZFJsN2JLS1dHQWZ0ZUx5dUtySl81U2xPV3ZTTkU4VVA1ckpMZXpPU285MEZUNXE5TjE2emF4WXA0bnNNcTVwVnVUOEctU1UxaXBRZW1QcjhKZG9aWWZyWHFVVEhxaWZRUUowQWIxSDRsc3Y5MlFkUXdnNGdZbnJqLWdmbTh0MEF2d1NNaXhLSTN1ZG1Vck9FZXJ1ZDJlaFF2bjBRM2M4R2pmaF9KVEd1d2ZjS0s0U1VvcTk1UlBrWHAwZVFLbEx1QWlWZ3lLS0g0TEdLbThEWWtZdjFCbUZuQjJEb0pYeFFTUHhsU0JVTlJibjFNOUt3QzBtMFZBVWJFSWhXVl9IWEpEMk5MMzBDVzhMbEI0REEyd05vd3E?oc=5",
-     "ts": "2026-11-08T22:40:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b9c3d9541ac3",
-   "title": "«Трактор» провалил миссию GTA 6 и проиграл «Автомобилисту»",
-   "first_seen": "2026-11-09T09:50:56Z",
-   "updated": "2026-11-09T09:50:56Z",
-   "items": [
-    {
-     "id": "b9c3d9541ac3",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "1obl.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Трактор» провалил миссию GTA 6 и проиграл «Автомобилисту»",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZEN5amNlQ2x5bFJ6aU4zajJQcG9yZ3p3SmJCRDMwdW43WGJqcndsZ090OUx5YzBFLTJXWFVrV3VNNWxYLW5rbm9wUWpNMVdvakxNWUF3cmZpXzlFTVlhMFBDSVNBaEhCa0RlQUVRRHZ6aXdpTExBc0liSXlRakFEQ2M3UlZzRTJVdTFUU2Jhdzc?oc=5",
-     "ts": "2026-11-09T03:34:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0a5e1af32ef4",
-   "title": "Не просто трейлер, а целых 20 минут живого геймплея GTA 6 нас будут ждать 27 августа",
-   "first_seen": "2026-11-09T09:41:07Z",
-   "updated": "2026-11-09T09:41:07Z",
-   "items": [
-    {
-     "id": "0a5e1af32ef4",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Не просто трейлер, а целых 20 минут живого геймплея GTA 6 нас будут ждать 27 августа",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYm53OHB4NlFOU1BBd2NwX3J2Y0ZHUWk3VnNTdDBJYm8zZ2lKaC1RVWl0b0F3VFpoeHZ4bENNdGw4Uno2RHVHWGhfb1hBS3J2UldWR2Y0RWtyeUtYOHhHUUtnbnFoeS1tN3ZXYXBNblBYb19uemNzY3hjamtGUDFLQndMZTg5ajJmbU5xN20td19KTEZjZXJfQjd2VU8waFNlM1BBZ25BVHZSSlRHQjJrRHVn?oc=5",
-     "ts": "2026-11-09T08:41:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "геймплей",
-    "трейлер"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "20 минут геймплея GTA 6 27 августа? Что покажут",
-    "summary": "По информации GoHa.Ru, 27 августа могут показать не просто трейлер, а около 20 минут геймплея GTA 6. Официально Rockstar это пока не подтверждала.",
-    "idea": "Сравним обещанные 20 минут с трейлерами GTA 5 и RDR 2 и разберём, что успеют показать: город, механики, Лусию и Джейсона. Зрителю важно понять, увидим ли мы реальный геймплей или нарезку.",
-    "hook": "Говорят, 27 августа дадут 20 минут геймплея GTA 6. Что успеют показать?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-09T09:41:14Z"
-   },
-   "msg_id": 673
-  },
-  {
-   "id": "ef5f81a3d3fd",
-   "title": "Новые подробности GTA 6 от Rockstar, заявления Зельника и возможные сроки выхода на ПК",
-   "first_seen": "2026-11-09T09:41:07Z",
-   "updated": "2026-11-09T09:41:07Z",
-   "items": [
-    {
-     "id": "ef5f81a3d3fd",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Новые подробности GTA 6 от Rockstar, заявления Зельника и возможные сроки выхода на ПК",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVFBzNU55OTl4XzVzRU1OV0dGY0lLOEpEYmZDZmplTzBsMEVfVXN3ZFRpN1pEanNUVFhOZFRYc0ZIZjZUcFdOTkItV0w3Wm9Na0RVa09PUU9mXzBCY1poQUFDVlZnVEs0UXpKLWdQYVlNVVFEMlE4VDl3RW1tbzM0TlFIcEthLThrU3BzY0Y3UHVrZUxRWTY4ZnlWamFNMlM5Z2ZhSzEyeUhVOVJheUMwX21NRGpHSVBUMkhWV2t1ZWhaRE4wdE15dEJNaWVVVXdK?oc=5",
-     "ts": "2026-11-09T09:14:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "97caa6f0db30",
-   "title": "GTA 6 x Selfridges collaboration: All items and their costs",
-   "first_seen": "2026-11-09T09:41:07Z",
-   "updated": "2026-11-09T09:41:07Z",
-   "items": [
-    {
-     "id": "97caa6f0db30",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Sportskeeda",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 x Selfridges collaboration: All items and their costs",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUjc3VXBWdHJYc2lVME56LU54RDhvQ1RfQTlSeWtudTNJNVAyTVVjQWNRclBtYkt1MkZyMmNRWG1ieV9oX09PTGpaVzVUbkZJOU16b2J0ZDZmSEdaRUktRHU1Q0V3WmdaalU3bjdFaklJdnA2ekhzWGJWcGpSU0ZCbXBJTnV3cEU?oc=5",
-     "ts": "2026-11-09T09:36:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "669e1b4cedb1",
-   "title": "Reminder to: Enjoy it!",
-   "first_seen": "2026-11-09T09:41:07Z",
-   "updated": "2026-11-09T09:41:07Z",
-   "items": [
-    {
-     "id": "669e1b4cedb1",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Reminder to: Enjoy it!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xrng7s/reminder_to_enjoy_it/",
-     "ts": "2026-11-09T09:37:51Z",
-     "summary": "Just a reminder for anyone else who needs to hear this: Come midnight, on day of release. Play. The. Game. Don’t check the internet - just log off. Do it for yourself! For me, I’m doing it for my inner young self, the gamer in 2003 who played GTA Vice City for about 6 hours straight every day for about 3 weeks. While I can’t do that now, I’m not going to slice that special time up by checking YouTube and Reddit and Google for other players encounter things. I’m not gonna stream myself. I’m not gonna watch streams. Rockstar have been building and planning this game for 14 years so we can EXPERI"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-16T09:40:49Z",
+  "last_run": "2026-11-16T09:51:33Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 95/100",
+   "gnews_ru: 94/100",
    "gamesbeat: 0/10",
    "vgc: 0/10",
    "insider_gaming: 4/10",
