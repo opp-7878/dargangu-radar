@@ -4,7 +4,7 @@
    "id": "a8235dd1df3e",
    "title": "The Game Awards 2026 Nominations Revealed, GTA 6 Dominates",
    "first_seen": "2026-11-17T17:20:56Z",
-   "updated": "2026-11-17T23:30:59Z",
+   "updated": "2026-11-17T23:40:48Z",
    "items": [
     {
      "id": "a8235dd1df3e",
@@ -317,6 +317,19 @@
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5keHgxVXpqdEM1VXo4eVJHRS1vMktBRU5RNDV5cEoyMDVpSlVncTBvajktMVh5TTkxbHdET1VlRjNsM2JwNnFqUGp5b0ozb3k0QktPWkdFTlNtRzY5ak1UdWp1Tk13OVBG?oc=5",
      "ts": "2026-11-17T23:28:00Z",
      "summary": ""
+    },
+    {
+     "id": "cfe636e95d61",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Deadline",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ Speeds Away With Eight Game Awards Nominations For 2026",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXZ2NGJwYUt4Z3k3MTU1c2kzNWx0UFJFMmtpeU5WOE9DMXVBMlkzTlF4eTVqYVVLYTBTUTdaejVId3ZfajJtMU1vTE40bGVpaWJNekhzbVNIODF4Nm44aE0xMVIwX0tEeVdoVXJPT2V3X3JZV19IejhTSDN5QmxIblNKd0ZHZHd3LWVkcA?oc=5",
+     "ts": "2026-11-17T23:28:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -325,6 +338,58 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "cf01846f1b42",
+   "title": "GTA 6 Travis Scott Nike Collection [PHOTOS]",
+   "first_seen": "2026-11-17T23:40:48Z",
+   "updated": "2026-11-17T23:40:48Z",
+   "items": [
+    {
+     "id": "cf01846f1b42",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Travis Scott Nike Collection [PHOTOS]",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT0tpSlNYb19fT0R6WXhLQ0RHNXZlNUJjOXdTR0s5bUNOd1lOcGNzYmozb3V1Y242cERmV1YyMld6bHBGMnRzaEpyQ1Y1OWtFY0ZYd2RFQzJ5akg4R1pZZm1hQWN5Znc0Smt4bkhxMWZfNVpmSE1VLUFNWldsbjd4WlA3LWRCX2hsSjVXeW91OA?oc=5",
+     "ts": "2026-11-17T22:01:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "514f38c88d60",
+   "title": "Grand Theft Auto VI arrives Nov. 19. Here is what you need to know about the release. See link below ⬇️ 📸 Courtesy of Rockstar Games",
+   "first_seen": "2026-11-17T23:40:48Z",
+   "updated": "2026-11-17T23:40:48Z",
+   "items": [
+    {
+     "id": "514f38c88d60",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Facebook",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI arrives Nov. 19. Here is what you need to know about the release. See link below ⬇️ 📸 Courtesy of Rockstar Games",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTFF2SlFLdm5jTExiWE5qZDk4aWYzV2w3YVU0TFAtZ3VPd3lVb0cxUG5kRFVjcXF3dVJHSHdnTl9PbV9ueHRZdlVVYklFa050OHRzeW45VEpiSjZtWDJVREFUNHZRSE1mUzZaY2pYQnItbk40SzlUdE9Ed1E5Vng3U0ZaeWlONFNKOXZaQlZUbkxZMVF5NllQMmgxY241RFA2MEx6ZHJqZERpVmVBbm5vY2dURFlVWmNQRHh0Q3JEQVZ3NnRER2RROXpucjZPSG5FM2dkQ0lTOUQxYTdrclhvSg?oc=5",
+     "ts": "2026-11-17T23:30:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -130835,14 +130900,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-17T23:31:02Z",
+  "last_run": "2026-11-17T23:40:48Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 97/100",
+   "gnews_en: 95/100",
    "gnews_ru: 99/100",
    "gamesbeat: 0/10",
    "vgc: 7/10",
-   "insider_gaming: 3/10",
+   "insider_gaming: 2/10",
    "ign: 2/20",
    "eurogamer: 9/100",
    "dexerto_gta: 9/50",
