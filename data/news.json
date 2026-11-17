@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "237b30ed3d7a",
+   "title": "GTA 6 заставит игроков пожалеть даже случайного прохожего? Rockstar раскрыла неожиданную философию новой игры",
+   "first_seen": "2026-11-17T02:40:50Z",
+   "updated": "2026-11-17T02:40:50Z",
+   "items": [
+    {
+     "id": "237b30ed3d7a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Neva.Today",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 заставит игроков пожалеть даже случайного прохожего? Rockstar раскрыла неожиданную философию новой игры",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTDNXMHdwQlc1RjNKODRRY0hjdjUxYVFUS3dxTEVqeXI1cTJob2p6THBVRXFGbWNjWkNaMmhQeW9fdV95UW5ETzRUem12T0o1XzdLQ3dsbEhIZGpjT1JNRkxsQUFUOU9YUzY2SzYzMDRCWm1YVzZKVmxIR2xfcFZobVFIN1VjQnJnM0ZKcDNhemRWWHlpcXZvU29rZU8xMEVObzRyUU5RZkp1RUpOQndvdWtRWXJJSUtyVm1fVkktdVZ0VW96ckpJZFMwX2dYSnFQVGN2OFVYSUR3Wko0TTViUjRYaC00Zl9LVDhPUVdkWUJMZ3JfV01UUzZvdm1zYWI2TEtFdVNiMzY?oc=5",
+     "ts": "2026-11-17T00:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "2a14521b3e91",
    "title": "GTA 6: Jason and Lucia’s Backstory Explained",
    "first_seen": "2026-11-16T13:01:18Z",
@@ -124995,9 +125021,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-17T02:31:09Z",
+  "last_run": "2026-11-17T02:40:50Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 429: Too Many Requests",
+   "rockstar_site: 0/0",
    "gnews_en: 99/100",
    "gnews_ru: 100/100",
    "gamesbeat: 2/10",
