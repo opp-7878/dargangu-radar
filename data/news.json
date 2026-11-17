@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "982143a825a1",
+   "title": "Should I buy a gaming console just to play 'GTA 6'? That depends on your FOMO.",
+   "first_seen": "2026-11-17T19:41:04Z",
+   "updated": "2026-11-17T19:41:04Z",
+   "items": [
+    {
+     "id": "982143a825a1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable SEA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Should I buy a gaming console just to play 'GTA 6'? That depends on your FOMO.",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbDk1Mk1NOWZROU5acUpEM1ZwVjJOck5HR0gtTUpUNHpXQXZJTjN5Q0dKQm1nRWcwVmNmM2tDNl9UOVIyVXc3WnlyS01CVGd6bXlQekJKUmgwaWQzUjRVTWt3UFZkZjdJVENyRUl6d0dIZnlwNDNiVHJKZFhIOXNGUDBydExnN3JPOTRwcGdCRm0wZHR5RkFSTC1qbURKLTlIZTZOajVKVVgwNGlOc05QRQ?oc=5",
+     "ts": "2026-11-17T19:08:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a8235dd1df3e",
    "title": "The Game Awards 2026 Nominations Revealed, GTA 6 Dominates",
    "first_seen": "2026-11-17T17:20:56Z",
@@ -133185,37 +133211,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "730614eb553e",
-   "title": "«Не понимаю этот хайп»: сооснователь Warhorse Studios признался, что не собирается играть в GTA 6, но хочет, чтобы игры еще подорожали",
-   "first_seen": "2026-11-10T19:40:50Z",
-   "updated": "2026-11-10T19:40:50Z",
-   "items": [
-    {
-     "id": "730614eb553e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Не понимаю этот хайп»: сооснователь Warhorse Studios признался, что не собирается играть в GTA 6, но хочет, чтобы игры еще подорожали",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORUNzNW5ZUlA3LTctZ3RVcVNCMUh2cmR0RllRMFpqRGFxak56cy1zTHhCdWFCenBCZEI3RUV3bVQ3Um51NTJUT0Jub3lQdGgwS2tZbzBiVnRRdEduLVJ5ekRoRVBEcWtiWFkwVm9hNURRTXdNVUFtSTA2VER2Sjl3REJ1T2Rvbi1Jc1dsYk40SjVpc0UzRGNaWk1FRHAyMmJGcGtENXRqSTFCMEQyM3d1ZUVtaF92YmpMV0FTTV9OaUNqdlFjY051X2kwcGMxVVF2T1VQUGREQ2ViMndYOF9UU2dCeWxmbW1GR1dIczlfM3hNV3RJ?oc=5",
-     "ts": "2026-11-10T10:55:25Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-17T19:38:13Z",
+  "last_run": "2026-11-17T19:41:04Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
