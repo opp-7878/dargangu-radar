@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "040e7b8570d4",
+   "title": "Car customization",
+   "first_seen": "2026-11-17T07:31:08Z",
+   "updated": "2026-11-17T07:31:08Z",
+   "items": [
+    {
+     "id": "040e7b8570d4",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Car customization",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xydr0q/car_customization/",
+     "ts": "2026-11-17T07:00:19Z",
+     "summary": "I truly hope we can make any car have hydros and be able to make anything a donk, midnight club level of customization when it comes to that, I also hope that we’ll be able to undonkify cars cause I got my eyes on one from the trailers that I wanna take. submitted by /u/Some_Sweet8277 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2d4f9272ddde",
+   "title": "What do you think other video games have to do just to compete with GTA 6?",
+   "first_seen": "2026-11-17T07:31:08Z",
+   "updated": "2026-11-17T07:31:08Z",
+   "items": [
+    {
+     "id": "2d4f9272ddde",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "What do you think other video games have to do just to compete with GTA 6?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xydzjj/what_do_you_think_other_video_games_have_to_do/",
+     "ts": "2026-11-17T07:14:39Z",
+     "summary": "What would other games have to do that’ll make you say “you know what? I’ll play this”? submitted by /u/Dylen2Times to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a88befcd359b",
+   "title": "Release week",
+   "first_seen": "2026-11-17T07:31:08Z",
+   "updated": "2026-11-17T07:31:08Z",
+   "items": [
+    {
+     "id": "a88befcd359b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Release week",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xye168/release_week/",
+     "ts": "2026-11-17T07:17:23Z",
+     "summary": "This memory just came out from fb.. it just a reminder the long waiting and we almost there guys.. submitted by /u/elyisus_1988 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "8d652228ccff",
    "title": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
    "first_seen": "2026-11-16T14:51:00Z",
@@ -126581,11 +126661,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-17T07:20:55Z",
+  "last_run": "2026-11-17T07:31:08Z",
   "last_log": [
    "rockstar_site: 0/0",
    "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
-   "gnews_ru: 98/100",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 2/10",
    "vgc: 1/10",
    "insider_gaming: 2/10",
@@ -126594,7 +126674,7 @@
    "dexerto_gta: 8/50",
    "rockstarintel: 7/10",
    "gtaboom: 11/30",
-   "⚠️ reddit: HTTP Error 429: Too Many Requests",
+   "reddit: 21/25",
    "tg_gtavistar: 12/14",
    "tg_gta6deluxe: 14/17",
    "tg_gta6_m: 13/19",
