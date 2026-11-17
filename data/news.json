@@ -1,6 +1,422 @@
 {
  "stories": [
   {
+   "id": "c1adf3b75f0c",
+   "title": "Jason We Need To Cook",
+   "first_seen": "2026-11-17T16:21:04Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "c1adf3b75f0c",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Jason We Need To Cook",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xyok9i/jason_we_need_to_cook/",
+     "ts": "2026-11-17T16:14:23Z",
+     "summary": "submitted by /u/Last_One_Left50 to r/GTAVI [link] [comments]"
+    },
+    {
+     "id": "d63e631c8ea7",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Jason We Need To Cook",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xyola9/jason_we_need_to_cook/",
+     "ts": "2026-11-17T16:15:28Z",
+     "summary": "submitted by /u/Last_One_Left50 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "87d5444c5435",
+   "title": "Геймеры оформили предзаказов GTA VI почти 15 млн копий",
+   "first_seen": "2026-11-17T14:20:50Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "87d5444c5435",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ITSpeaker",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Геймеры оформили предзаказов GTA VI почти 15 млн копий",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRzBvUVBNWFVZV0R4aTR5cmI0R3haWkF4NTlYRzZnV0ZnSVhub29VQjBVcXBJVThTc0htbzhUc1hKQWxEWi0ya2VBMTZCTk03Wi1mYzVkX2dZYU9UZmNpdldrb19zaGo5Zkl3UEpmZnlMUkNFcEo2S19YekI4NjVDWGVqb0FuSlR2UlFn?oc=5",
+     "ts": "2026-11-17T14:14:08Z",
+     "summary": ""
+    },
+    {
+     "id": "edd79e02b41b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Финансы Mail",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI установила рекорд предзаказов: 15 млн копий на PlayStation и Xbox, объем продаж",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnhfeEFyVm11VU5Oak9CWVpydkxTZFZ5ZDNNd2dVVEpRanQ3WG5OUldvSlY0TmlpMlhRWWp2LTFTcmdtRmpyNElUSk15SFBDNE5sZEs3ZktFNlJrMGtpeFJ5SE5Vd29lVW1fbGh5amdKWmhIcjl5Q0d3U1FjNjNPNk5Jc1lPYUlkMnNDb0NpanhLVVdjWnRVY2NUYTN6S1RqS21objJn?oc=5",
+     "ts": "2026-11-17T06:47:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 63,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "15 миллионов предзаказов GTA 6: что это значит для игроков",
+    "summary": "По данным ITSpeaker, геймеры оформили почти 15 миллионов предзаказов GTA 6. Официально Rockstar и Take-Two эти цифры не подтверждали.",
+    "idea": "Считаем, сколько это денег и как 15 млн предзаказов могут повлиять на поддержку, цены и DLC. Зрителю важно понять, станет ли игра «дороже» для игроков.",
+    "hook": "15 миллионов предзаказов GTA 6 — это много или мало? Давайте посчитаем.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-17T14:20:54Z"
+   },
+   "msg_id": 1126
+  },
+  {
+   "id": "039f4e03f2bb",
+   "title": "В Discord появилась временная тема по GTA 6 Vice City",
+   "first_seen": "2026-11-17T16:51:07Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "039f4e03f2bb",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "games.gg",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В Discord появилась временная тема по GTA 6 Vice City",
+     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPNVhzRjBqeXR4SnZCZDBQdmxFZ2ViN1U0aTItTXFnTTNmeklsd1hOSWo2ckFIc182VlFaV1dOVDl6aDdpdWRjcV9iYnFWUTdjZkNOUFNuSzdCRFBONmNDb2NKSkRzaG5reVpQSUpadXY3b1BwekFPQnNFYVlPeE9paW11VkQ4dWtfSVRjQy1fV2EyWFV3WTRQb1N1MVhOcnFrQ0lWSUh5cGRoZ0tVSzIydll2alJKOFJMR2Fwb2VWUFc0T2F2NUM3bDRqR3VlMXotTFVFeXk1eXhwVDd0NEdkSk51M0toN1U3cnBPTVJJMFVEX1RrSjVFQzJVOV9QbHBodWU3eEROeXZJeTc3N2otdTVqTE8wZmU1c1VwdXdyVVZmNjRHcmJHLWFES0k?oc=5",
+     "ts": "2026-11-17T16:04:05Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fe80340c6a00",
+   "title": "How are you guys planning to manage save files in GTA 6 on PS5?",
+   "first_seen": "2026-11-17T16:51:07Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "fe80340c6a00",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "How are you guys planning to manage save files in GTA 6 on PS5?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xyolor/how_are_you_guys_planning_to_manage_save_files_in/",
+     "ts": "2026-11-17T16:15:47Z",
+     "summary": "Two people will be playing GTA 6 on the same PS5 at my house, and I don't want the other person playing on my save file. Are you guys planning to create separate save files within the game itself? Do you think we'll be able to have multiple profiles in the game? Or are you planning to create a separate PS5 user profile for the other person? If I buy GTA 6 on my account, will they be able to play it on their own profile? I'll be playing right at launch, at 12 AM BRT (Brasília Time) on the 19th, and I'll probably only deal with all of this after playing for at least 5 hours straight. So I'll mos"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "716251ad587b",
+   "title": "These NPC's better enjoy the peace while it lasts",
+   "first_seen": "2026-11-17T16:51:07Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "716251ad587b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "These NPC's better enjoy the peace while it lasts",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xyoxcd/these_npcs_better_enjoy_the_peace_while_it_lasts/",
+     "ts": "2026-11-17T16:27:54Z",
+     "summary": "submitted by /u/Inside-Sink-8135 to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2d76ad142cdc",
+   "title": "GTA 6 Is Almost Here, and Fans Are Planning One Last Ride Through Los Santos to Say Goodbye to Grand Theft Auto V After 13 Years",
+   "first_seen": "2026-11-17T16:51:07Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "2d76ad142cdc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "www.levelup.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Is Almost Here, and Fans Are Planning One Last Ride Through Los Santos to Say Goodbye to Grand Theft Auto V After 13 Years",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX1Z5WDBiRkN1UFRHekFBV0VHUFNRSXJHeFFGMXNlRHhTSXRfMnBqbW5yMjBkMm45MndtdXFSRmJzZEJxM29KVmwzd0EzQUVqTHZaaEx4cmNoMHhnOFNPd2VYOHQxQk9HbzRLOEtOYUdjbkM2Yk04WVc0TUVCaHF5T29MazNQblVCeHVYSklNZzBaNjBycF9hV3JFQUJhVHdHeUk1Q0RXdy03Q1o0b2RuR2VFSTVmempVbllYeWtmb1ZzbFNDTkdoMUU3TEs2UEVkSjVFZ25pSjViYzZiazlrSjRwSUhZZzZtQ0h2dEcwMTRBZw?oc=5",
+     "ts": "2026-11-17T16:27:57Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1f95a9e9d65d",
+   "title": "Кеми Баденок обеспокоена временем детей в GTA 6",
+   "first_seen": "2026-11-17T16:51:07Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "1f95a9e9d65d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "games.gg",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Кеми Баденок обеспокоена временем детей в GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPX2tXRkhjbnhBdE9UYkJtVUY4M1R2WWJIZzN4V0NjeDR6X3JTRExFTlZhTDdMZmpWVnF6MTJFRklwTkFDbWlKazdKcThneWtONmM4MWpxejY5S3ROdHRHNWZUaWR3cVZTbG1Nd1UtSXBNSXNwQjhnOU5kZFdaZ2pmY3hIVVhTVEN4R3NfdmZYX0hiczB5TjZuUFZNbEEta1RGWTdWVVJQdng2Y01qZWp4cGk0UHJxYlduWWV6WktZNFVLaTg3QzJBclVmc3FBVmlCS054bHRtbjdLck1IQ09yS19XY3FjSTZpb1VtNGpjMlVlYlNfYjFSWTRwRlAtd0JkMUVZY19JSjZlRi1wOEFFQ1lsNnpoZThKR2ZyRWdEcFVoT042dndVLTVXdm14dGtKQnRpUmg3WEI3dDdKSHY5STNMQWR4YlgyMHFIbS0zN3NYU210SUVEcEhXVWFkVmtvd3VWUTFISFJEeDNJNkE?oc=5",
+     "ts": "2026-11-17T16:28:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "600734f492e0",
+   "title": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
+   "first_seen": "2026-11-17T16:51:07Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "600734f492e0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BBC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82cDlmdEx1UHllSFh0M2pkdGZYbGNvRkt6Mjd0WTZjQTdGZmdJaS1HMHR3REpNaUhqR3NSLVRWY1EyYW1LUUF0UllOOW5EX3l3OTdGM0t0ajE?oc=5",
+     "ts": "2026-11-17T16:38:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "05a7af5dccb4",
+   "title": "‘GTA 6’ Could Break Traffic Records—Here’s What the Stats Mean",
+   "first_seen": "2026-11-17T16:51:07Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "05a7af5dccb4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Newsweek",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA 6’ Could Break Traffic Records—Here’s What the Stats Mean",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXhSSDkySkRsUGpzYURZd25VcVJ6TkE4RGFvWk1qdFhodlNBXzloVVc2MVI0bXJHR3JsXzlLdFBzbUlQVDJteGFTNFdTTTgwa1FlRGI5TEIyZjdFeVpnamlkN0kxdDd6bWpPN1ZQWmRyWjRLNFoxMjBUc1hSWGZPYy14UE8?oc=5",
+     "ts": "2026-11-17T16:39:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "20565ea1373c",
+   "title": "Арт предзагрузки GTA 6 может скрывать сцену из финала игры",
+   "first_seen": "2026-11-17T16:51:07Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "20565ea1373c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Арт предзагрузки GTA 6 может скрывать сцену из финала игры",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdG5yYURxd0tqNDVxbnhwNl9Zc2dwNk1JUU5qbkpWZktVdExZQU5iSmY1d1pQR2ItTGtDazNmajRDdXRyckQxM082aGFxOWNwdlJlR1BPVDBFZXBFZU56aFh0SndDLUFxR2Jaa083aWNKTEZsOUNiajBEQ2FpeFFYUUxTakhObUltMmpMdTZpVURTbW9QakZ6Tg?oc=5",
+     "ts": "2026-11-17T16:40:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "👀 Арт предзагрузки GTA 6: в нём спрятали финал игры?",
+    "summary": "По данным Shazoo, арт предзагрузки GTA 6 может скрывать сцену из финала игры. Официально Rockstar это не подтверждала — так что ждём.",
+    "idea": "Разбор кадра предзагрузки с подсветкой деталей, которые похожи на финал. Зрителю интересно искать скрытые подсказки и спорить, что это значит.",
+    "hook": "Смотри на арт предзагрузки GTA 6 — это финал? Разбираем кадр.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-17T16:51:13Z"
+   },
+   "msg_id": 1150
+  },
+  {
+   "id": "0ceaa51ba018",
+   "title": "Just Days Before GTA 6’s Launch, Sony Strengthens PS5 Security With a New Update to Prevent Potential Game Piracy",
+   "first_seen": "2026-11-17T16:51:07Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "0ceaa51ba018",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "www.levelup.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Just Days Before GTA 6’s Launch, Sony Strengthens PS5 Security With a New Update to Prevent Potential Game Piracy",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS0pIRWVILThNMG5hTVpnTDZxLW1objRwc1dBb3F5bk11WC0tWEo0MVlsX3BPUm5saGRpbVZnOXA3Rjd3REFFRHBiSkdGckZsdl9OY1QxeGQ4M0UwUkRvbENIUmdmMWRMTG9hS056Zm80UmliMXJUQlZCT1JXM1NoYXdjdjd4b1JHNHNmUzcxNnFzVm56ZmNqeWVjanVtaTRJNjBuU1I5SFRUeF9kRW9hbVBVMlFPSE9ISDVfUDFJNEhhTE9ldXdWQW5lRTNrVlI3cUMxT1hMN3puTnF6?oc=5",
+     "ts": "2026-11-17T16:42:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f5e7a79fedf2",
+   "title": "everyone in front of their TVs 10 minutes before the launch",
+   "first_seen": "2026-11-17T16:51:07Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "f5e7a79fedf2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "everyone in front of their TVs 10 minutes before the launch",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xype8o/everyone_in_front_of_their_tvs_10_minutes_before/",
+     "ts": "2026-11-17T16:45:39Z",
+     "summary": "submitted by /u/WorkingNewspaper3412 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "476f058240f8",
+   "title": "I cannot enjoy the game as much as I was going to.",
+   "first_seen": "2026-11-17T16:51:07Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "476f058240f8",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I cannot enjoy the game as much as I was going to.",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xypekv/i_cannot_enjoy_the_game_as_much_as_i_was_going_to/",
+     "ts": "2026-11-17T16:46:01Z",
+     "summary": "I have been waiting a long time and was super excited to play this game, but last night someone broke into my house and took my laptops and my girlfriend's phone, so for sure I will play the game to distract myself, but I am not going to enjoy it as much anymore. Just wanted to ventilate my frustration submitted by /u/Aerrykhehra to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "acc356dcc182",
+   "title": "Biggest Entertainment hype of 2026 is only a day away for me lol",
+   "first_seen": "2026-11-17T16:51:07Z",
+   "updated": "2026-11-17T16:51:07Z",
+   "items": [
+    {
+     "id": "acc356dcc182",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Biggest Entertainment hype of 2026 is only a day away for me lol",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xypj05/biggest_entertainment_hype_of_2026_is_only_a_day/",
+     "ts": "2026-11-17T16:50:42Z",
+     "summary": "Luckily tomorrow after work I’ll be able to experience it submitted by /u/Equivalent-Horse7609 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a24560940f83",
    "title": "‘GTA VI’ Hits Estimated $1.5 Billion In Sales—Before Launch, Report Says",
    "first_seen": "2026-11-17T11:01:32Z",
@@ -984,32 +1400,6 @@
    "score": 55,
    "level": "SPECULATION",
    "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "c1adf3b75f0c",
-   "title": "Jason We Need To Cook",
-   "first_seen": "2026-11-17T16:21:04Z",
-   "updated": "2026-11-17T16:21:04Z",
-   "items": [
-    {
-     "id": "c1adf3b75f0c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Jason We Need To Cook",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xyok9i/jason_we_need_to_cook/",
-     "ts": "2026-11-17T16:14:23Z",
-     "summary": "submitted by /u/Last_One_Left50 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -5726,45 +6116,6 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "87d5444c5435",
-   "title": "Геймеры оформили предзаказов GTA VI почти 15 млн копий",
-   "first_seen": "2026-11-17T14:20:50Z",
-   "updated": "2026-11-17T14:20:50Z",
-   "items": [
-    {
-     "id": "87d5444c5435",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ITSpeaker",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Геймеры оформили предзаказов GTA VI почти 15 млн копий",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRzBvUVBNWFVZV0R4aTR5cmI0R3haWkF4NTlYRzZnV0ZnSVhub29VQjBVcXBJVThTc0htbzhUc1hKQWxEWi0ya2VBMTZCTk03Wi1mYzVkX2dZYU9UZmNpdldrb19zaGo5Zkl3UEpmZnlMUkNFcEo2S19YekI4NjVDWGVqb0FuSlR2UlFn?oc=5",
-     "ts": "2026-11-17T14:14:08Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "15 миллионов предзаказов GTA 6: что это значит для игроков",
-    "summary": "По данным ITSpeaker, геймеры оформили почти 15 миллионов предзаказов GTA 6. Официально Rockstar и Take-Two эти цифры не подтверждали.",
-    "idea": "Считаем, сколько это денег и как 15 млн предзаказов могут повлиять на поддержку, цены и DLC. Зрителю важно понять, станет ли игра «дороже» для игроков.",
-    "hook": "15 миллионов предзаказов GTA 6 — это много или мало? Давайте посчитаем.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-17T14:20:54Z"
-   },
-   "msg_id": 1126
   },
   {
    "id": "d28721fa19fc",
@@ -130814,364 +131165,14 @@
     "at": "2026-11-09T22:31:09Z"
    },
    "msg_id": 723
-  },
-  {
-   "id": "77b647fb7a64",
-   "title": "Don’t Have 210 Spare GBs? ‘GTA VI’ Is Coming to Xbox Cloud Gaming (and the Xbox One) at Launch",
-   "first_seen": "2026-11-10T16:31:17Z",
-   "updated": "2026-11-10T16:50:46Z",
-   "items": [
-    {
-     "id": "77b647fb7a64",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Hollywood Reporter",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Don’t Have 210 Spare GBs? ‘GTA VI’ Is Coming to Xbox Cloud Gaming (and the Xbox One) at Launch",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNalNPX2NESmJZV0R3SHFrZjRMaVhyaV9QMHRoamV4akhQeVV2MDB1VVI4ZE9YZnI0RUFXRzZxZkFwNEd1akp0TjRxN0w3TUhWQXJmMDRPaS1YM2N0R3NBZ3ZPYlBkbXg0VUlOMkZiMHF6VGZodG5fLWtZaVYxUFVEb1BVSm9LRjdyc1Q2TTVTeFI4OEJPVjFvemRnRG1SZUo4STNjSkVMdnZySmhJQmxXYTdMUXpDbFpvc25saTRB?oc=5",
-     "ts": "2026-11-10T16:21:17Z",
-     "summary": ""
-    },
-    {
-     "id": "45b49bf23177",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IMDb",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Don’t Have 210 Spare GBs? ‘GTA VI’ Is Coming to Xbox Cloud Gaming (and the Xbox One) at Launch",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRHlzSUhOMWdKUnVCLWJZZkU5UXExUXVGRUtSNF9EU1ZXSGl3UUE2QmRpOVhGNTNhV2dQUHpPcXJ0LVBHRmVPUW9RZEtCTEEzdkozSGtLS1FhV0JwYUxyRW1FNWVadw?oc=5",
-     "ts": "2026-11-10T16:45:54Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 на Xbox One и в облаке: как это вообще возможно?",
-    "summary": "По данным The Hollywood Reporter и IMDb, GTA 6 выйдет на Xbox Cloud Gaming и Xbox One в день релиза. Это позволит играть без 210 ГБ на диске.",
-    "idea": "Короткий разбор: как GTA 6 работает на Xbox One через облако, что нужно для игры и почему это спасение для старых консолей.",
-    "hook": "GTA 6 на Xbox One в день релиза? Вот как это будет работать.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-10T16:50:50Z"
-   },
-   "msg_id": 755
-  },
-  {
-   "id": "8c8f8ba4e05b",
-   "title": "«Американский дух — основа серии»: почему Rockstar отказалась от разработки GTA в Токио, Москве и Лондоне",
-   "first_seen": "2026-11-10T16:50:46Z",
-   "updated": "2026-11-10T16:50:46Z",
-   "items": [
-    {
-     "id": "8c8f8ba4e05b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Американский дух — основа серии»: почему Rockstar отказалась от разработки GTA в Токио, Москве и Лондоне",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGFueWdwMzY4M0kxc3JDeXVvdk1yam5vTHBtY1dBc1hPLUQwNHF4SldNQnU5QjlXTWtVaHBCc0lsbmZnQnRYR2ptbzNXQlVYVGxuNUpfa2Flamdpb3p4U3ExR2I5blhDb1BYRTBkbWl3R2gycEJXRXpzdzgxcUxXQkhlMVJGODhtdGlNYnNWMklqblBKMXdVWEh0WmpURFU5V1djcF9aaUg4QklZQzhuclZtSlBWdDBncHo0eWh0Wl9wZkVZ?oc=5",
-     "ts": "2026-11-10T10:53:30Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e43778e42984",
-   "title": "Car in Germany",
-   "first_seen": "2026-11-10T16:50:46Z",
-   "updated": "2026-11-10T16:50:46Z",
-   "items": [
-    {
-     "id": "e43778e42984",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Car in Germany",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xsrhdo/car_in_germany/",
-     "ts": "2026-11-10T16:32:27Z",
-     "summary": "submitted by /u/DonicVR to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "76ff6f3eddad",
-   "title": "Does anyone know why GTAV story and cross-gen licenses are listed in the GTAVI game content",
-   "first_seen": "2026-11-10T16:50:46Z",
-   "updated": "2026-11-10T16:50:46Z",
-   "items": [
-    {
-     "id": "76ff6f3eddad",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Does anyone know why GTAV story and cross-gen licenses are listed in the GTAVI game content",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xsrs5y/does_anyone_know_why_gtav_story_and_crossgen/",
-     "ts": "2026-11-10T16:43:24Z",
-     "summary": "I was just looking at what was actually installed after preloading, went to manage game content and saw that GTAV’s licenses are listed with the rest of GTAVI’s licenses, and all set to usable. i don’t really understand why they aren’t being treated as separate entities, no other r* titles have done this, as a matter of fact i then looked at Assassins creed, watch dogs, FC, NBA 2k (another take two game). No games typically have it where licenses are shared across game. submitted by /u/oliowoodio1 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "Take-Two",
-    "размер/preload"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b79d08c5a33e",
-   "title": "Thoughts on police being absent from the minimap?",
-   "first_seen": "2026-11-10T16:50:46Z",
-   "updated": "2026-11-10T16:50:46Z",
-   "items": [
-    {
-     "id": "b79d08c5a33e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Thoughts on police being absent from the minimap?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xsrvqn/thoughts_on_police_being_absent_from_the_minimap/",
-     "ts": "2026-11-10T16:47:13Z",
-     "summary": "I think it'll keep our eyes off the minimap and more to our surroundings, keep us on our toes some more when fleeing the cops submitted by /u/Aion9- to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e34813b5c310",
-   "title": "'GTA 6' on PS5 vs. Xbox: What we know",
-   "first_seen": "2026-11-10T16:20:59Z",
-   "updated": "2026-11-10T16:41:05Z",
-   "items": [
-    {
-     "id": "e34813b5c310",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6' on PS5 vs. Xbox: What we know",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVpvMGZPU1BJME9pZ0NRSzc5N1c0XzhSUUdrb0RrMW5SWTJUOVM5T29qbmdLRHFNMm5GT0cyOGhJZnhmaXNndnVCUW8tTUtMRVFpZGsyQS12UXFjaEczU3pZNEMtY3kwZ3NYVS1rMmdHazA0WWJVQU9kaTRuY0Z6MTZMZnA?oc=5",
-     "ts": "2026-11-10T16:13:45Z",
-     "summary": ""
-    },
-    {
-     "id": "74c32ee960ec",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable SEA",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6' on PS5 vs. Xbox: What we know",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBneERkMXhMdDc3d3R1SnY1cG9HOGNSa3NoSHdGdXZEY1VFSG5TZXI5dlBmVWVWck11SGVtWGVsVzM4XzBoT1JUb0tpX05sWDlnTk5aeVlNS0ZrekhyZ0ZfM0VjTUl2SnZTekpPZVFsWGRZa3VjRzM1RFlB?oc=5",
-     "ts": "2026-11-10T16:02:33Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 на PS5 и Xbox: в чём разница? 👀",
-    "summary": "По данным Mashable, GTA 6 выйдет 19 ноября 2026 на PS5 и Xbox Series X|S. По их сводке, версии для обеих консолей будут практически идентичны по качеству и возможностям.",
-    "idea": "Сравнение версий GTA 6 на PS5 и Xbox: показываем кадры и ключевые отличия, чтобы зритель понял, где лучше играть.",
-    "hook": "PS5 или Xbox для GTA 6? Вот что известно прямо сейчас.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-10T16:41:12Z"
-   },
-   "msg_id": 754
-  },
-  {
-   "id": "82467ddd59eb",
-   "title": "GTA 6 PS5 vs XBOX Series X|S Specs & Features Comparison Guide",
-   "first_seen": "2026-11-10T16:41:05Z",
-   "updated": "2026-11-10T16:41:05Z",
-   "items": [
-    {
-     "id": "82467ddd59eb",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 PS5 vs XBOX Series X|S Specs & Features Comparison Guide",
-     "url": "https://insider-gaming.com/gta-6-ps5-vs-xbox-specs/",
-     "ts": "2026-11-10T16:30:00Z",
-     "summary": "Wondering if there's a huge difference between GTA 6 on PS5 and Xbox Series X|S? You've come to the right place. The post GTA 6 PS5 vs XBOX Series X|S Specs & Features Comparison Guide appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 на PS5 и Xbox: в чём разница? Сравнение от инсайдера",
-    "summary": "По данным Insider Gaming (Tom Henderson), вышел гайд по сравнению версий GTA 6 на PS5 и Xbox Series X|S. В нём разбирают технические особенности и функции обеих консолей.",
-    "idea": "Короткий разбор: где картинка и загрузка лучше, а где разницы почти нет. Зрителю важно понять, стоит ли переплачивать за конкретную версию.",
-    "hook": "PS5 или Xbox для GTA 6? Вот где реально есть разница.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-10T16:41:08Z"
-   },
-   "msg_id": 753
-  },
-  {
-   "id": "765746a17210",
-   "title": "Rockstar проведет музыкальный фестиваль в честь выхода GTA 6",
-   "first_seen": "2026-11-10T16:41:05Z",
-   "updated": "2026-11-10T16:41:05Z",
-   "items": [
-    {
-     "id": "765746a17210",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "24 Канал",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar проведет музыкальный фестиваль в честь выхода GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWs4SzNQbTRlMGRWUlo1U0N3Z0hpZXNjLVA0VjlRLS1aUkVMZ0FhZ0pmdThwR1Z2UWtmVHBiRHFKVHRJaFgzS1otOEVyS2otT1QzQmRxVkVQajdWZk9PQ0Y2ZXNpN1ZnOXpBeXpSMEZ2VGlyb2MtTTBvb2hmTU1OaUFGSDhPMU1BcDFsZmZ4WDllRUszR3R2VdIBngFBVV95cUxNME5CcnRFdDEzUE5oRW94UmkxTVdoc2ZicmtMUmRsR0hVcFlkSHhGaEpqWXNYODYycVNhOGNEQkhMV21SLS14bER1bmRiVDdaRHk3VDhUWmR5SE1LTHpxWkdtN2FQaHJRRm5MYThQMU8yb2FXOGZIZG1WZ2tsenhRNXFuUnd3MmlQMzdqUG1jR2xEc2xlSUlvbTJUbXdDdw?oc=5",
-     "ts": "2026-11-10T16:35:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b16c84757847",
-   "title": "The games most at risk from GTA 6's engagement whirlpool",
-   "first_seen": "2026-11-10T16:41:05Z",
-   "updated": "2026-11-10T16:41:05Z",
-   "items": [
-    {
-     "id": "b16c84757847",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Alinea Insight newsletter",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The games most at risk from GTA 6's engagement whirlpool",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81SVNrdXNPYWV5UjhTTlNybkc1SmJSYUcwMXhaSVRoc3JBcFpfRXg5Wmp0aGF0QXZNcHFnM2l6b3lMWmtzTjgtOFd5Sm43TTVmUFhycFdJWlFqSWx2azd2Q1ptaUV1QlR2ZXUwaDEwWnlmZTludVF1S1l3OFlyQQ?oc=5",
-     "ts": "2026-11-10T16:35:57Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e2eaca7da091",
-   "title": "We’re so close, these next 8 days and change are going to be excruciatingly long",
-   "first_seen": "2026-11-10T16:41:05Z",
-   "updated": "2026-11-10T16:41:05Z",
-   "items": [
-    {
-     "id": "e2eaca7da091",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "We’re so close, these next 8 days and change are going to be excruciatingly long",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xsrlgr/were_so_close_these_next_8_days_and_change_are/",
-     "ts": "2026-11-10T16:36:34Z",
-     "summary": "It’s hard to imagine we’d be here from the first trailer 3 years ago submitted by /u/FloydianSlip20 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "db48ebe2c60d",
-   "title": "How you guys plan to avoid spoiler",
-   "first_seen": "2026-11-10T16:41:05Z",
-   "updated": "2026-11-10T16:41:05Z",
-   "items": [
-    {
-     "id": "db48ebe2c60d",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "How you guys plan to avoid spoiler",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xsrm4o/how_you_guys_plan_to_avoid_spoiler/",
-     "ts": "2026-11-10T16:37:18Z",
-     "summary": "Well i don't think I can avoid social media, my only thoughts is modifying my instagram algorithm, but i have no idea on other platform like Youtube submitted by /u/yuen497 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-17T16:41:02Z",
+  "last_run": "2026-11-17T16:51:14Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 97/100",
+   "gnews_en: 98/100",
    "gnews_ru: 100/100",
    "gamesbeat: 3/10",
    "vgc: 4/10",
@@ -131181,7 +131182,7 @@
    "dexerto_gta: 10/50",
    "rockstarintel: 9/10",
    "gtaboom: 15/30",
-   "reddit: 22/25",
+   "reddit: 21/25",
    "tg_gtavistar: 12/14",
    "tg_gta6deluxe: 11/11",
    "tg_gta6_m: 15/19",
