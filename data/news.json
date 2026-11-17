@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "044c356bbb35",
+   "title": "Wearing out the X button",
+   "first_seen": "2026-11-17T03:10:50Z",
+   "updated": "2026-11-17T03:10:50Z",
+   "items": [
+    {
+     "id": "044c356bbb35",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Wearing out the X button",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xy9gvr/wearing_out_the_x_button/",
+     "ts": "2026-11-17T03:06:50Z",
+     "summary": "submitted by /u/ohyoudidntknooow to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4d8102ce2f37",
+   "title": "For the new zealanders atleast",
+   "first_seen": "2026-11-17T03:10:50Z",
+   "updated": "2026-11-17T03:10:50Z",
+   "items": [
+    {
+     "id": "4d8102ce2f37",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "For the new zealanders atleast",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xy9i17/for_the_new_zealanders_atleast/",
+     "ts": "2026-11-17T03:08:26Z",
+     "summary": "24 hours until the internet blows up (in miniature) and 24 hours more until it actually blows up (cause shit always explodes or gets bombed whenever the americans get to something or somewhere) submitted by /u/HistorVical to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "57b7315623fb",
    "title": "Anyone else kinda bracing themselves for all the complaining?",
    "first_seen": "2026-11-17T03:01:14Z",
@@ -125227,41 +125279,15 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "4d2bf05d24b6",
-   "title": "I'm going to try and take it slow",
-   "first_seen": "2026-11-10T03:01:15Z",
-   "updated": "2026-11-10T03:01:15Z",
-   "items": [
-    {
-     "id": "4d2bf05d24b6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I'm going to try and take it slow",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xsbsd5/im_going_to_try_and_take_it_slow/",
-     "ts": "2026-11-10T02:54:42Z",
-     "summary": "Obviously I am not sure how the game is going to be played flow wise and if it will be possible. I would like to try and create a bit of a schedule in Vice City. Like Mondays are workout days at the gym, Tuesdays are for fishing, etc. I'm not even sure if I will be able to stick to it myself and if the flow of the game will let that be an option and if fetures are really going to be that deep. I just think it would be a fun idea to try and fo a full Sim, I think that would help me slow down and really enjoy everything the game has on the 1st run. I can only play GTA 6 for the first time once. "
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-17T03:01:14Z",
+  "last_run": "2026-11-17T03:10:50Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 99/100",
-   "gnews_ru: 100/100",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 2/10",
    "vgc: 1/10",
    "insider_gaming: 2/10",
