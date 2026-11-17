@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "ff5a38d57ed2",
+   "title": "November 19th is nearly here, so I created a GTA 6 Fan poster, what do you think?",
+   "first_seen": "2026-11-17T04:01:07Z",
+   "updated": "2026-11-17T04:01:07Z",
+   "items": [
+    {
+     "id": "ff5a38d57ed2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "November 19th is nearly here, so I created a GTA 6 Fan poster, what do you think?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xyadd5/november_19th_is_nearly_here_so_i_created_a_gta_6/",
+     "ts": "2026-11-17T03:51:50Z",
+     "summary": "submitted by /u/Amateuart to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "05ec05be5ad2",
    "title": "A pre-release patch of up to 1,2 GB has been released for Grand Theft Auto VI on PS5 and Xbox.",
    "first_seen": "2026-11-16T15:41:18Z",
@@ -125763,10 +125789,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-17T03:50:47Z",
+  "last_run": "2026-11-17T04:01:07Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 99/100",
+   "⚠️ rockstar_site: HTTP Error 429: Too Many Requests",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
    "gnews_ru: 100/100",
    "gamesbeat: 2/10",
    "vgc: 1/10",
