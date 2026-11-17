@@ -4,7 +4,7 @@
    "id": "4a4816442470",
    "title": "GTA 6 launch has gamers planning to call out sick and skip work Thursday",
    "first_seen": "2026-11-16T14:40:53Z",
-   "updated": "2026-11-17T04:31:02Z",
+   "updated": "2026-11-17T04:40:52Z",
    "items": [
     {
      "id": "4a4816442470",
@@ -250,6 +250,19 @@
      "alert": true,
      "title": "Grand Theft Auto VI players plan to call out sick",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTEVSWk9UaEVESDBBeEtkcFVySlZMa0t1WG41blRVLWVmaUo4R042UDlGV2FfVnoyWjdlWHVGUXBOMEJMZWRPVlNXVEtBZVdkUXY1NW5MbGxTWmxwYUpMcWtHVEYwenhXQy1FSWNZY2FCSVI3dVlzNWZaUEh3MU5lZjVCY214elFMT0pURzhR?oc=5",
+     "ts": "2026-11-17T03:39:00Z",
+     "summary": ""
+    },
+    {
+     "id": "38636f51207d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KALB | News Channel 5",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI players plan to call out sick",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWW8tQWdQcUVWdDNUaVpNZ2lkdXBqWmNFVUw3M3VQRVFpY2t6b0RlLXpkandFSXMxdHpZcWZCR3J5WTM2Z3dFdjBzLTNpZUlzMzNRM2VDYlV4OWdSS2FLVklsYjRfVGE2MHNPZ2tvRG5VaUhDLXBGdHQ4aFV3WVgtX0tobUg3dlg5QWZWaUl3?oc=5",
      "ts": "2026-11-17T03:39:00Z",
      "summary": ""
     }
@@ -126019,11 +126032,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-17T04:31:02Z",
+  "last_run": "2026-11-17T04:40:52Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 99/100",
-   "gnews_ru: 100/100",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 2/10",
    "vgc: 1/10",
    "insider_gaming: 2/10",
