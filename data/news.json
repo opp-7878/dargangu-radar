@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "id": "e5634b60dd5d",
+   "title": "Should I hook my Pro to the 4K@60Hz 55” QLED or 1440p@280Hz 27” OLED?",
+   "first_seen": "2026-11-17T05:31:11Z",
+   "updated": "2026-11-17T05:31:11Z",
+   "items": [
+    {
+     "id": "e5634b60dd5d",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Should I hook my Pro to the 4K@60Hz 55” QLED or 1440p@280Hz 27” OLED?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xyc6sn/should_i_hook_my_pro_to_the_4k60hz_55_qled_or/",
+     "ts": "2026-11-17T05:29:06Z",
+     "summary": "I have the QLED in my living room and an OLED hooked up currently to my PS5 Pro and gaming PC all in my bedroom. Both also have HDR. I like privacy and at first wanted to play it on my monitor, but then I recently heard bad news about how bad 30 fps is on OLED. I play Xbox 360 games at 30 fps on a 1080p LCD from time to time and I can tolerate 30 fps with drops, but my fear is not getting a smooth experience on OLED. I heard motion blur could fix this, but will it then be just as good at playing on a 4K60Hz tv without motion blur? submitted by /u/ImmediateTrust3674 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "0b6ac755b07d",
    "title": "Just preordered gta 6 on playstation 2 cant wait to play",
    "first_seen": "2026-11-17T05:10:48Z",
@@ -125766,67 +125794,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "35d8d0e2a9b2",
-   "title": "I got 16% downloaded before I got this notification from Verizon.",
-   "first_seen": "2026-11-10T05:30:57Z",
-   "updated": "2026-11-10T05:30:57Z",
-   "items": [
-    {
-     "id": "35d8d0e2a9b2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I got 16% downloaded before I got this notification from Verizon.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xsemuc/i_got_16_downloaded_before_i_got_this/",
-     "ts": "2026-11-10T05:23:08Z",
-     "summary": "I put the meme flair cause nothing else fit but this is 100% real. I'm so upset. submitted by /u/Throbbing-Kielbasa-3 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "fd6bae8861f2",
-   "title": "Can't believe we are here lads",
-   "first_seen": "2026-11-10T05:30:57Z",
-   "updated": "2026-11-10T05:30:57Z",
-   "items": [
-    {
-     "id": "fd6bae8861f2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Can't believe we are here lads",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xsen6f/cant_believe_we_are_here_lads/",
-     "ts": "2026-11-10T05:23:40Z",
-     "summary": "LLLLLFFFFFFFFGGGGGGGGG submitted by /u/j_effpineapple to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-17T05:21:14Z",
+  "last_run": "2026-11-17T05:31:11Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/0",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 2/10",
    "vgc: 1/10",
    "insider_gaming: 2/10",
