@@ -1,6 +1,136 @@
 {
  "stories": [
   {
+   "id": "f301f3ec873b",
+   "title": "PC elitists on November 19th hearing that GTA6 runs smoothly at 30FPS thanks to an unlimited budget and unlimited time to develop.",
+   "first_seen": "2026-11-16T21:20:54Z",
+   "updated": "2026-11-17T16:01:20Z",
+   "items": [
+    {
+     "id": "f301f3ec873b",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "PC elitists on November 19th hearing that GTA6 runs smoothly at 30FPS thanks to an unlimited budget and unlimited time to develop.",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xxwqkk/pc_elitists_on_november_19th_hearing_that_gta6/",
+     "ts": "2026-11-16T18:16:57Z",
+     "summary": "submitted by /u/gbsysadmin to r/GTA6 [link] [comments]"
+    },
+    {
+     "id": "e92339a5e9a2",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Would you buy GTA6 again when it launches on PC?",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xyo5vj/would_you_buy_gta6_again_when_it_launches_on_pc/",
+     "ts": "2026-11-17T15:59:29Z",
+     "summary": "submitted by /u/arthurman101 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 35,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "300a0ab5a6dc",
+   "title": "I will not be getting on social media til the 19th",
+   "first_seen": "2026-11-17T16:01:20Z",
+   "updated": "2026-11-17T16:01:20Z",
+   "items": [
+    {
+     "id": "300a0ab5a6dc",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I will not be getting on social media til the 19th",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xyo642/i_will_not_be_getting_on_social_media_til_the_19th/",
+     "ts": "2026-11-17T15:59:47Z",
+     "summary": "I already know there will be alot of people posting the game tommorow from switching their accounts to play it early and yall will not spoil it for me I tell you that much 😂🙂‍↔️ submitted by /u/YoungCz to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c1f07ee93f21",
+   "title": "🤯 В GTA VI НЕ БУДЕТ насилия, преступлений и угона машин, но пока только в Китае — там игру вообще хотели запретить стримимить и показывать в интернете, но в ито",
+   "first_seen": "2026-11-17T16:01:20Z",
+   "updated": "2026-11-17T16:01:20Z",
+   "items": [
+    {
+     "id": "c1f07ee93f21",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "🤯 В GTA VI НЕ БУДЕТ насилия, преступлений и угона машин, но пока только в Китае — там игру вообще хотели запретить стримимить и показывать в интернете, но в ито",
+     "url": "https://t.me/gta6deluxe/2088",
+     "ts": "2026-11-17T16:00:14Z",
+     "summary": "🤯 В GTA VI НЕ БУДЕТ насилия, преступлений и угона машин, но пока только в Китае — там игру вообще хотели запретить стримимить и показывать в интернете, но в итоге разрешили с жесткими ограничениями Вот полный список того, что нельзя будет показывать в Китае: 😀 Угон машин 😀 Нападение на прохожих 😀 Драки и перестрелки с полицией 😀 Избиение и убийство полицейских 😀 Откровенную одежду персонажей 😀 Кровь, её нужно перекрашивать или замазывать 🔫 — ах#ть, а смысл тогда вообще стримить такое? 🔫 — от самой игры там толком ничего и не останется) 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 в Китае: без насилия, угонов и крови",
+    "summary": "По данным канала @gta6deluxe, в китайской версии GTA 6 запретят показывать насилие, угон машин, драки с полицией, кровь и откровенную одежду. Стримить и публиковать игру в Китае разрешили, но с жёсткими ограничениями.",
+    "idea": "Короткий контраст: показываем обычную GTA 6 и тут же — китайскую версию без крови, угонов и полиции. Зрителю интересно, как вообще выглядит GTA без главного.",
+    "hook": "Представь GTA 6 без угонов, полиции и крови. В Китае это реальность.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-17T16:01:25Z"
+   },
+   "msg_id": 1139
+  },
+  {
+   "id": "e8f7f84c2549",
+   "title": "Poland - Warsaw Central railway station",
+   "first_seen": "2026-11-17T16:01:19Z",
+   "updated": "2026-11-17T16:01:19Z",
+   "items": [
+    {
+     "id": "e8f7f84c2549",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "Poland - Warsaw Central railway station",
+     "url": "https://www.reddit.com/r/GTA6/comments/1xyo2y1/poland_warsaw_central_railway_station/",
+     "ts": "2026-11-17T15:56:43Z",
+     "summary": "submitted by /u/zabovsky to r/GTA6 [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a24560940f83",
    "title": "‘GTA VI’ Hits Estimated $1.5 Billion In Sales—Before Launch, Report Says",
    "first_seen": "2026-11-17T11:01:32Z",
@@ -22691,34 +22821,6 @@
    "score": 58,
    "level": "PROBABLE",
    "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "f301f3ec873b",
-   "title": "PC elitists on November 19th hearing that GTA6 runs smoothly at 30FPS thanks to an unlimited budget and unlimited time to develop.",
-   "first_seen": "2026-11-16T21:20:54Z",
-   "updated": "2026-11-16T21:20:54Z",
-   "items": [
-    {
-     "id": "f301f3ec873b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "PC elitists on November 19th hearing that GTA6 runs smoothly at 30FPS thanks to an unlimited budget and unlimited time to develop.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xxwqkk/pc_elitists_on_november_19th_hearing_that_gta6/",
-     "ts": "2026-11-16T18:16:57Z",
-     "summary": "submitted by /u/gbsysadmin to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -130624,18 +130726,18 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-17T15:51:08Z",
+  "last_run": "2026-11-17T16:01:26Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 96/100",
-   "gnews_ru: 100/100",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 3/10",
    "vgc: 4/10",
    "insider_gaming: 4/10",
    "ign: 6/20",
    "eurogamer: 7/100",
    "dexerto_gta: 11/50",
-   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
+   "rockstarintel: 9/10",
    "gtaboom: 15/30",
    "reddit: 22/25",
    "tg_gtavistar: 11/14",
