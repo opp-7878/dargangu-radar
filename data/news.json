@@ -124641,79 +124641,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4596f510fdfa",
-   "title": "Grand Theft Auto VI Takes Over Miami With Star-Studded Music Festival",
-   "first_seen": "2026-11-09T15:58:46Z",
-   "updated": "2026-11-10T01:20:46Z",
-   "items": [
-    {
-     "id": "4596f510fdfa",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Floridian Press",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Takes Over Miami With Star-Studded Music Festival",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTThfRGNUd1UycU5qcEJRbWRTTjlkSHBxbXZ1MktvVGNTUkVLXzFTcXozTEl0YVJYSGFYMHQ2VW01cnMzMWJYMmE2bXhTOHg2VUJ3XzI0aFdLcVdTRFRDajhyYkJTVm1lUTJFU0FvS3BpSEVfLTF3ZFN2ckhEb1FGNUs0aV96cmRKUnZiS0UxUE96dmtKUE5haU8xdzJ3a2pUVm5lc2t6bU0?oc=5",
-     "ts": "2026-11-09T15:49:58Z",
-     "summary": ""
-    },
-    {
-     "id": "b4597df184e7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WSVN",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI takes over Miami with star studded festival set for Wynwood",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0Y4YWxMTDRFTExWWmVHc1Z6OE9VVmZaa1lxN0lMczRBZnN3SDZWUjJWUjFGcUJQTHBROFQzZVYyaEd5dUc5NXJtSmZOcjFRNFUyY0pzeXlUb1BuMVBBSFpnbTdza0hGWDlHYkhmNTJIc2RIdFdSODdRWVBxUEpQakxZcjI2a0lXSDUzOGFYV1VEelR2ckRTeFZpOElSV0VrZU5xZjNmcVZHZ2Y0SC1mWVh1M0lzSXk5ZHcwZWFWOA?oc=5",
-     "ts": "2026-11-10T01:11:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "bbac1336a5e1",
-   "title": "GTA VI has been certified Gold ahead of its scheduled launch.",
-   "first_seen": "2026-11-10T01:20:46Z",
-   "updated": "2026-11-10T01:20:46Z",
-   "items": [
-    {
-     "id": "bbac1336a5e1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI has been certified Gold ahead of its scheduled launch.",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWnNmY2l1SFZLa2hRSXNDMXRNT1JoVElhbkxHT2ptdzNHY1E1dDNLM19UMkhmV3FDZjhFdXh5cnBtNXBUeTlzUWFvSk1XWmJtUW12YUxDVmF6ZkVNWTFSa2hSOUc3b2JjSmpvUk9UZjBpWjZVa2Y2UDNOZmE0SThvb1ktbnk1Sl96czY1eGVwaVN4dVJSVzNV?oc=5",
-     "ts": "2026-11-10T01:12:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-17T01:10:48Z",
+  "last_run": "2026-11-17T01:20:47Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 100/100",
+   "⚠️ rockstar_site: HTTP Error 429: Too Many Requests",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
    "gnews_ru: 100/100",
    "gamesbeat: 2/10",
    "vgc: 1/10",
