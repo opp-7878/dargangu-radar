@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "0a5b7589b631",
+   "title": "I want to get GTA VI but I don’t want it if you can’t be gay in it",
+   "first_seen": "2026-11-17T00:31:02Z",
+   "updated": "2026-11-17T00:31:02Z",
+   "items": [
+    {
+     "id": "0a5b7589b631",
+     "src": "reddit",
+     "src_name": "Reddit r/GTA6 + r/GTAVI",
+     "outlet": "",
+     "group": "reddit",
+     "weight": 20,
+     "alert": false,
+     "title": "I want to get GTA VI but I don’t want it if you can’t be gay in it",
+     "url": "https://www.reddit.com/r/GTAVI/comments/1xy62m5/i_want_to_get_gta_vi_but_i_dont_want_it_if_you/",
+     "ts": "2026-11-17T00:25:34Z",
+     "summary": "submitted by /u/RemarkableError2721 to r/GTAVI [link] [comments]"
+    }
+   ],
+   "tags": [],
+   "score": 20,
+   "level": "SPECULATION",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "57e9cd70e2fe",
    "title": "Subway Is Releasing a GTA 6-Themed Sandwich, But Only For People Who Live in Miami",
    "first_seen": "2026-11-16T23:40:55Z",
@@ -124581,41 +124607,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "698883257c61",
-   "title": "I've long waited for this moment.",
-   "first_seen": "2026-11-10T00:31:01Z",
-   "updated": "2026-11-10T00:31:01Z",
-   "items": [
-    {
-     "id": "698883257c61",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I've long waited for this moment.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xs8rcy/ive_long_waited_for_this_moment/",
-     "ts": "2026-11-10T00:30:01Z",
-     "summary": "At November 19 I have an exam though :-( submitted by /u/twentyseven27272 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-17T00:20:57Z",
+  "last_run": "2026-11-17T00:31:02Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 429: Too Many Requests",
-   "gnews_en: 100/100",
-   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
+   "rockstar_site: 0/0",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
+   "gnews_ru: 100/100",
    "gamesbeat: 2/10",
    "vgc: 1/10",
    "insider_gaming: 2/10",
