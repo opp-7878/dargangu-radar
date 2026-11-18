@@ -1,6 +1,69 @@
 {
  "stories": [
   {
+   "id": "ce7e827fd7a7",
+   "title": "Почему весь интернет только и говорит о GTA 6: феномен самой дорогой игры в истории",
+   "first_seen": "2026-11-18T02:01:07Z",
+   "updated": "2026-11-18T02:01:07Z",
+   "items": [
+    {
+     "id": "ce7e827fd7a7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://www.championat.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Почему весь интернет только и говорит о GTA 6: феномен самой дорогой игры в истории",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPREYyS0dfakpZZkh2c0VxdWc1ZWozWmZXbUNocEY3amZRVHhDX3FXOXd1WEoydWZYLU5BTXZVSEVFNzFuakFCWTFvRGRlMktfUjc0Y2lKX0RfTEZoMlBrWjZ2aFIzdzFFVUFwQ2dYMzR2NEd3M3YzWGZuaHhHdXJ2SDNaNzc2Qk5DT2FteEMwZjB6UnVCS1VLR2JJU0ZBVHNrVE5FYXhuUzI3cGFJRFBCbTVZT0VmUHZIQVd6REF5a0l2cUxrREVhTkZFTEJhNkJpT1JsU2hvVlNiajQ?oc=5",
+     "ts": "2026-11-17T18:30:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0813f31256f8",
+   "title": "Birdwatchers, Catholic Schools, And The Weather Channel: Everyone's Hyping Up GTA 6 Release Day",
+   "first_seen": "2026-11-18T02:01:07Z",
+   "updated": "2026-11-18T02:01:07Z",
+   "items": [
+    {
+     "id": "0813f31256f8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Kotaku",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Birdwatchers, Catholic Schools, And The Weather Channel: Everyone's Hyping Up GTA 6 Release Day",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVdoeXo0U1lmMWx6ODVMakxsWGdjU2tRNko3QWZQam92MW5YclZrV0NxTXU0bXVkNGpyUUxqX0lVNmJ1dXRKek9tUzZ0dUc3VGE2Xy1rNlZUWHY0cU5pbXMyYXFkXzBxeURSRXRWT0FQeUxlUEI0OFZfek9lMHU4U2tLVW5tMVRUTVljUm16bzZlRHI0OWNETjN3a1FrV2JFU2lNOEJCQjVpanpkNWllZ1FZVk9wdG00ODZMZHVR?oc=5",
+     "ts": "2026-11-18T01:48:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️ Весь мир хайпит GTA 6: школы, ТВ, орнитологи",
+    "summary": "По данным Kotaku, в день выхода GTA 6 о ней говорят не только геймеры: католические школы, орнитологи и The Weather Channel тоже включились в хайп. Rockstar пока не комментировала эти примеры, но шум вокруг 19 ноября растёт.",
+    "idea": "Короткая нарезка реальных упоминаний GTA 6 из разных сфер (школы, ТВ, орнитологи) с подписью «19 ноября — тема дня». Зрителю интересно увидеть, как игра стала общим инфоповодом.",
+    "hook": "GTA 6 ждут не только геймеры — даже орнитологи и The Weather Channel.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T02:01:12Z"
+   },
+   "msg_id": 1190
+  },
+  {
    "id": "d7f11b4016f2",
    "title": "‘GTA 6’ Price & Editions Explained: How Much Does ‘Grand Theft Auto VI’ Cost on PS5 & Xbox?",
    "first_seen": "2026-11-17T19:50:58Z",
@@ -130973,10 +131036,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-18T01:51:54Z",
+  "last_run": "2026-11-18T02:01:12Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 97/100",
+   "gnews_en: 98/100",
    "gnews_ru: 99/100",
    "gamesbeat: 1/10",
    "vgc: 7/10",
