@@ -1,6 +1,806 @@
 {
  "stories": [
   {
+   "id": "6baafc088172",
+   "title": "Review: Grand Theft Auto VI (Sony PlayStation 5)",
+   "first_seen": "2026-11-18T11:10:49Z",
+   "updated": "2026-11-18T12:31:08Z",
+   "items": [
+    {
+     "id": "6baafc088172",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Digitally Downloaded",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Review: Grand Theft Auto VI (Sony PlayStation 5)",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUNXc0s4TlhCYUQwLUVxUzdTcUdFam55NFNwb0MwMDV0SElRU3dSTzFGalFvRnNWTldHOWRjV0RwRFRJaFpyV1VWZUM5cWQzeEVzM0ZWam52SWo4ZE5MWHpBYi1BNXBPbkY1Um1wM1NGSmJsX2FkX3hPVHJuWWROdXVDYkxzZFcxRVhzNzB2NDN0S25VeFBhN09R?oc=5",
+     "ts": "2026-11-18T11:01:20Z",
+     "summary": ""
+    },
+    {
+     "id": "c38d15ba7c3b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "RTVI",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Пиратам не скачать ГТА 6: Sony обновила защиту PlayStation 5",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT3JkM2F3TFE4MC1xTnJMVDFPQkVtUDFZZVFvT0RvbGtFMkhNZGt6MFNiSm5kN2dqUGc5UnBobGVNeGJwa3RyZVBYRktaZTJrUDVsNE45Z1pKcTNyVXd2ZDlvN0lxZXdkekF4WGdUakRDUy1NOXhMOU1ScllZY3dPVVJRNmRlXzNpeHJobU1QUW1OdVE?oc=5",
+     "ts": "2026-11-18T12:23:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Пиратам не скачать GTA 6: Sony обновила защиту PS5",
+    "summary": "Журнал Digitally Downloaded опубликовал обзор GTA 6 на PS5, а RTVI сообщает, что Sony обновила защиту PlayStation 5. Новая защита делает невозможным запуск нелицензионных копий на консоли.",
+    "idea": "Показываем, как обновлённая защита PS5 блокирует пиратские копии GTA 6, и объясняем, почему это значит для игроков. Зрителю важно знать, ждать ли взлом и когда.",
+    "hook": "Пиратам конец: Sony закрыла GTA 6 на PS5 новой защитой.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T12:31:29Z"
+   },
+   "msg_id": 1286
+  },
+  {
+   "id": "633707cca5b4",
+   "title": "NBA player Davion Mitchell received a custom PlayStation 5 Pro ahead of GTA 6's release.",
+   "first_seen": "2026-11-18T07:01:15Z",
+   "updated": "2026-11-18T12:31:08Z",
+   "items": [
+    {
+     "id": "633707cca5b4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "NBA player Davion Mitchell received a custom PlayStation 5 Pro ahead of GTA 6's release.",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWV3cHhZZGZMVDI1TUNfQkVLTVVxdlJodnhwZ3lJdFM4NmprMFc5UDBQRUhpU19uQkZNa1ZnaEJ2SjZHNjBoYmQ3OXZ4My1qWE5md0hza0tPOHhnUTNSQ3FnRHNCR0g5V3ZuWkRFR1dKQ0YxWGZYaDZuVGc1TDI4WGM2M3plRS1IZ0JBZ29FdkwxazhodGNzNzRvNlpxSjZ0VDdoRWlUbmc3WHB1djg5blNlS0pYUDV5ZzhUNA?oc=5",
+     "ts": "2026-11-18T06:49:20Z",
+     "summary": ""
+    },
+    {
+     "id": "4ba854b868bd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BGR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation 5 Pro Prices Go Absolutely Wild Ahead Of GTA 6 Release",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBudGFkdFR2ZjdjbDFWNzNBS1BrZEFkcmhjR1A1bURTTW5wY2RRcWZ5Vm5nUDJPMGZWSmRQdHZ4dFZKeUZJT3VBenNrcUlFTE9PaXBna25CQ0o2Y3BBcDl2UlpHY0lGMDNrM1NQZlVvNUZFLTc4cHBIN2FHZHQ?oc=5",
+     "ts": "2026-11-18T12:17:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "eafe8b263246",
+   "title": "New PC app boosts GTA 6 PS5 performance from 30 fps to 60 fps, but at a cost",
+   "first_seen": "2026-11-17T18:10:58Z",
+   "updated": "2026-11-18T12:31:08Z",
+   "items": [
+    {
+     "id": "eafe8b263246",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "New PC app boosts GTA 6 PS5 performance from 30 fps to 60 fps, but at a cost",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVlNUWQxNDV1V0ZGckQxLVJuOFRqdVE5NzFPMjdQbkNLWER5TWRnYllQalFmekJBVk9WNGhGYVROMUpobUFteWF4RVg2RVRwN21BS1d3RGhLMVA4OXBjS3lsalVEZEhZN3gtSV9Oa0cwMHAxNFhwQ1lFTkF6d2lKNFRFUjlMX3cxeEdvTURCeTJCMVk1ZWxEcVZwSnJISEd2OUJNRm9mdzhMb0tKSFh2SVlwNEVOQndoMkg2Yw?oc=5",
+     "ts": "2026-11-17T17:22:00Z",
+     "summary": ""
+    },
+    {
+     "id": "c9a31ec57c0f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI на релизе получит 180 FPS благодаря DLSS 4.5 и нейронному рендерингу DLSS 5 на ПК с RTX 5090",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaDdsOFRDRWF3YnI0ejBWWkVSSVBpWnZ5OGJ5UnF6RVUyQjRvcEZHV1VfOEVoelExU0lfSnhOOHhuSkREbHZuRDk1WWJWRVNjWTZaRDk0eFRTa3ctNHc3a00zRG5GTDRvazlqWUhSMFhBUlNqcC1FdG5IMDNRVFdRSDFCLTVBcTBCODNBT3JLS2JnQWF2cWlXd1dNNHRrcmZVZDBLY0c4LUdfck1YRXRQLXlzVGJSWndRWlhlOFN1TFE2bzBxQ05yck5lTQ?oc=5",
+     "ts": "2026-11-17T18:55:54Z",
+     "summary": ""
+    },
+    {
+     "id": "743ca09bc408",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Notebookcheck-ru.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Новое приложение для ПК повышает частоту кадров в GTA 6 на PS5 с 30 до 60 кадров/с, но за это приходится платить",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNU1gxUlVoMWQtZ2lWZkNWMmIxS3hzOGRteTdqN0pJTm1LVUd3VF9ub191VHRQRy1iaTJBcU80RWs3alBaY3ZPazE3VTJ2VkhpbDF0VWtkMlF4eUxLUHVtS05tT1J5NHlIbk9YNTEzYTRHSlpxRXFjWDl5SEk4aGhsMGFURWF2MFpEd0JxMDZWenYyaGdrMHhxcC13ejYwZTVSbUM0NnJOS0RhVU94VE1jWVk4dGF5MFd0WDZWY3VRSmRKMTlZeU1wcl9YVmFFaS1IM1poVlcxZ3Fjd0tFczA5Q0x5QVUzOWZQaTNOTXRpMXRxY3hwWktMVg?oc=5",
+     "ts": "2026-11-18T03:20:07Z",
+     "summary": ""
+    },
+    {
+     "id": "2bfd38773c49",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "dungen.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 на консолях застряла на 30 fps. ПК ещё в очереди",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82NnI4T2laMG9mNjJicWZWalh6TW0yOVJ5aW4zNndKYzVwTHpzRExQM0lvODliQkJPejdfbXpfTDdPN0RncDdKUnV3T0t2THh6VmQwRVF3VlpRVloxaWJLckNnZWVXUQ?oc=5",
+     "ts": "2026-11-18T12:20:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 89,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Приложение обещает 60 FPS в GTA 6 на ПК. В чём подвох?",
+    "summary": "По данным Notebookcheck, новое приложение для ПК обещает повысить производительность GTA 6 с 30 до 60 FPS. Однако за это приходится платить, и пока неясно, насколько это безопасно и легально.",
+    "idea": "Короткий разбор: что обещает приложение, в чём подвох и почему не стоит рисковать ради 60 FPS. Зрителю важно знать, как не поймать бан или не сломать систему.",
+    "hook": "60 FPS в GTA 6 на ПК бесплатно? Вот почему это плохая идея.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-17T18:11:07Z"
+   },
+   "msg_id": 1162
+  },
+  {
+   "id": "deab84a00b6d",
+   "title": "How are people playing GTA 6 already? How time zones affect game launch",
+   "first_seen": "2026-11-18T12:31:08Z",
+   "updated": "2026-11-18T12:31:08Z",
+   "items": [
+    {
+     "id": "deab84a00b6d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "El Paso Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How are people playing GTA 6 already? How time zones affect game launch",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT3FKRmtPTnZia0RtcnNKWHZOR3hrUnA3NGFXaWw2WDZwanpna0htVm1QbzlrelBzRU8wUnNscmc2d09qeUlxWkZhZWl4aVhiWFhObHJHZFNiSDZWNGFBemFMQkxOSjZIS1A3Y1hzSHFVV1Bna3FrSmVnc1dNRGhJcEI0QzVyRmFDYmZBQ3d4Y3p6RmZ5bVB0M1lwMG9xZTlTVTN6Z3ctZDduWXpaUkt6bHBzTGp1X0RPREVPV0ZtMDE0dEFQSUdwdWFQX0xiVHY5QnVsazN3?oc=5",
+     "ts": "2026-11-18T12:19:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2b84b8ed9a2e",
+   "title": "Джейсон Шрайер назвал GTA 6 шедевром, хотя главный сюжет и отношения Джейсона и Лусии его не захватили",
+   "first_seen": "2026-11-18T12:31:08Z",
+   "updated": "2026-11-18T12:31:08Z",
+   "items": [
+    {
+     "id": "2b84b8ed9a2e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Джейсон Шрайер назвал GTA 6 шедевром, хотя главный сюжет и отношения Джейсона и Лусии его не захватили",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOHRTX1oxTFJqcmFTQWFiUDdvdmdzUFZPdTJPUmNrMXNWVG9VQlF4ajRUTEpOVEN6UURaZTBiaXdiU0lmMEVzTm0wTUhZbks2T3FuSnNlYVlfWW42cnpYMnZHa3dyMVZxNURHV0F5MmM0N1dPb21qeUN2Z19lMVVkdzJtY0hMOS1JZ1dSLWE2V1NWVXNtN0ItamtWbGViTU9ZRy1vTlB6blQ4dmJIUmp6WEZlLWpWWW5vZy1RNlloMTdNaTVaVV9QaENldzRmVTVtaW5QdzNGbw?oc=5",
+     "ts": "2026-11-18T12:20:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "68821c4ca325",
+   "title": "GTA VI Could Cost US Businesses $1 Billion in Lost Productivity",
+   "first_seen": "2026-11-18T12:31:08Z",
+   "updated": "2026-11-18T12:31:08Z",
+   "items": [
+    {
+     "id": "68821c4ca325",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Newsweek",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Could Cost US Businesses $1 Billion in Lost Productivity",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX3VhcnBsVWo0SUJwckNvOU5udVppSmdvaUhacUtlUTlHQzlFUmVqMGR5VHhQOUxuM29xa1FldnVzTFJlLWFIb2tyVzVQbHR2bkxWSThTWFVfaVk4Vmx2c0kxckpOTFhwdFpXY2hhRWZfMUhCZWwwaVRUeWZ3UG9TbnUyOGxKWDlWX0o5aHNtOV9FaUduc2o2Rjlib00?oc=5",
+     "ts": "2026-11-18T12:24:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 за $1 млрд: сколько потеряют компании в США",
+    "summary": "По данным Newsweek, выход GTA 6 может стоить американским компаниям около 1 миллиарда долларов из-за падения продуктивности. Речь о потерянных рабочих часах в день релиза, а не о цене самой игры.",
+    "idea": "Считаем, сколько «стоит» день релиза GTA 6 для экономики США — в деньгах и рабочих часах. Зрителю интересно увидеть масштаб потерь и сравнить со своими планами взять отгул.",
+    "hook": "GTA 6 19 ноября: компании США потеряют миллиард долларов. Считаем.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T12:31:22Z"
+   },
+   "msg_id": 1285
+  },
+  {
+   "id": "c5a1da01d374",
+   "title": "☺️ New gameplay footage from GTA 6.",
+   "first_seen": "2026-11-18T12:31:08Z",
+   "updated": "2026-11-18T12:31:08Z",
+   "items": [
+    {
+     "id": "c5a1da01d374",
+     "src": "tg_gta6newsdaily",
+     "src_name": "TG @gta6newsdaily",
+     "outlet": "",
+     "group": "telegram_en",
+     "weight": 45,
+     "alert": true,
+     "title": "☺️ New gameplay footage from GTA 6.",
+     "url": "https://t.me/gta6newsdaily/5032",
+     "ts": "2026-11-18T12:24:11Z",
+     "summary": "☺️ New gameplay footage from GTA 6. #GTA6 #GTAVI"
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "5010446723d7",
+   "title": "В польском вузе собирают подписи за выходной в день релиза GTA 6",
+   "first_seen": "2026-11-18T12:31:08Z",
+   "updated": "2026-11-18T12:31:08Z",
+   "items": [
+    {
+     "id": "5010446723d7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Общественная служба новостей",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В польском вузе собирают подписи за выходной в день релиза GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHU3QXhnZ201SFNyaVZwUDBaMXE1QzZxREUwQmh4SG11aURiZ3FkcDhJcVlEblBSaFNlRjF6bE9OWmoySWFKNHZiQkgyOVMwMU1OT2ZtUTFneU5qS1hsZzdJQVhPTXN4akNXTmduWUNCaTl6cVpxcjcyX3hmcGV3TWdodW52UFR0TDcyVnVwOWZBZ2dJZWNVUlNB?oc=5",
+     "ts": "2026-11-18T12:24:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "369bd228b604",
+   "title": "All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes",
+   "first_seen": "2026-11-18T12:31:08Z",
+   "updated": "2026-11-18T12:31:08Z",
+   "items": [
+    {
+     "id": "369bd228b604",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes",
+     "url": "https://insider-gaming.com/all-gta-6-cheats-best-grand-theft-auto-6-cheat-codes/",
+     "ts": "2026-11-18T12:28:06Z",
+     "summary": "Here's everything you need to know about cheats in Grand Theft Auto 6, including all of their inputs and what they do. The post All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 46 (char 47)"
+  },
+  {
+   "id": "334b5fb4951c",
+   "title": "Стартовую сцену GTA 6 показали в сети",
+   "first_seen": "2026-11-18T12:31:08Z",
+   "updated": "2026-11-18T12:31:08Z",
+   "items": [
+    {
+     "id": "334b5fb4951c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Стартовую сцену GTA 6 показали в сети",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOG1Ja3BiMGFBeGlVejdRUzY1VWFmRmkzSlpEal94VE5jSXVkYUtnaUh5RVFHdXhtcEFnbXBlSkhaSklJRkJXSzdva2lqVTlQbW5fdXE2ZXNUd1FVYWJXdVZmWW9HRExRV3l1VUZYaUZTR2pvZEZ3N0RVUFgzTnJXenNKWQ?oc=5",
+     "ts": "2026-11-18T12:28:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7aa223b4e866",
+   "title": "‘Grand Theft Auto VI’ is ‘the biggest thing in entertainment’",
+   "first_seen": "2026-11-18T11:40:47Z",
+   "updated": "2026-11-18T12:31:07Z",
+   "items": [
+    {
+     "id": "7aa223b4e866",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "AP News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ is ‘the biggest thing in entertainment’",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFFqRlBIV1lJcEFqeGpGTEM5VDNzei1FSzNWbHN0QmFucnNtRnJRcUVqNGttZWtJdGZoRHgtNEsxaVJidWd2eUx2U2RkSzYzOG5fRllXM09VNm15M1A0TUJhd1JnOFhmbXAtSFV2RlJXeFUtMWZPM3pIOVk0cFN6S2xQZmllTUFQY0RvcXJqS096TzBVeUVaa2RUTGNLckw1VlpBaWZPQnNfT0hWaVlDN2RxYnZ3QQ?oc=5",
+     "ts": "2026-11-18T11:26:00Z",
+     "summary": ""
+    },
+    {
+     "id": "672948118288",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo News Singapore",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' is 'the biggest thing in entertainment'",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SN2pRZDE1WTVnWWQ1dEVacmY3aVQzTHpDaVlNQ0RqZ0x5cmN5VElEZFFGNVY2TmVaU1hXUEk1bUJhVU04WVBGaWpaYXdaRzlVaGFQaW5mNHVmX2pMYnZBNTZhY0hKS005VWtrSm55T2twUDFmdW9J?oc=5",
+     "ts": "2026-11-18T11:24:24Z",
+     "summary": ""
+    },
+    {
+     "id": "fc2d7357de41",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' is 'the biggest thing in entertainment'",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzNGZmJMVDF6ZGxPRkN6dHl5eGlJQ0F0QlB3bDdVTGJfVU9iM05ZS0hBSEcxUl9CNG9fZ2xocXBPamNscWs1ZGEycnVaZ0EyX3hueHpZc1lWRGdsTEthVmJ1WTBvUzl2bnloN3gtTktKUF9vbWU0dUxRZy1HM2dpM19n?oc=5",
+     "ts": "2026-11-18T11:24:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 — «самое большое событие в индустрии развлечений»",
+    "summary": "AP News и Yahoo News Singapore называют GTA 6 «самым большим событием в индустрии развлечений». Издания отмечают масштаб ожиданий и влияние игры на рынок.",
+    "idea": "Короткий ролик с заголовками AP и Yahoo, где GTA 6 называют главным событием в развлечениях. Зрителю важно увидеть, что игру уже ставят в один ряд с крупнейшими релизами.",
+    "hook": "GTA 6 уже называют самым большим событием в индустрии развлечений.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T12:21:13Z"
+   },
+   "msg_id": 1280
+  },
+  {
+   "id": "5c45cc7cbe99",
+   "title": "GTA 6 is Now The Joint-Highest Rated Game of All Time",
+   "first_seen": "2026-11-18T12:10:48Z",
+   "updated": "2026-11-18T12:31:07Z",
+   "items": [
+    {
+     "id": "5c45cc7cbe99",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 is Now The Joint-Highest Rated Game of All Time",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUTh1SFo1RWw5ZTZ6cDVZN2tHck9GdmhyX2RFRnZvcVVKUFY3MGtkaHZqR3F6cVBiUWRrV2lXZjZyNXZ4ME8tdjlfYzkydEhFZElUOENrZ01XRnNvN1ZKaWFrSTVoejZfeWdad1pDS3pSYlZNd1h2Y1hEUmZQSFBvbnp4MDN0NEpuZlUybVlNMDBqeEFFQ3llYXZab2JqMUN5dkMxUDdB?oc=5",
+     "ts": "2026-11-18T12:01:28Z",
+     "summary": ""
+    },
+    {
+     "id": "5c10c34ebb63",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 is Now The Joint-Highest Rated Game of All Time",
+     "url": "https://www.ign.com/articles/gta-6-is-now-the-joint-highest-rated-game-of-all-time",
+     "ts": "2026-11-18T11:47:41Z",
+     "summary": "GTA 6 has become the joint-highest rated game of all time, following the widespread publication of reviews."
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 — игра с высшим рейтингом в истории. Что пишут критики",
+    "summary": "По данным IGN и IGN Nordic, GTA 6 стала одной из самых высокооценённых игр в истории после публикации рецензий. Издания отмечают, что проект получил рекордные оценки от критиков.",
+    "idea": "Короткий монтаж цитат из рецензий IGN с геймплейными кадрами GTA 6 и титром «высший рейтинг в истории». Зрителю важно увидеть, за что именно критики поставили топовые оценки.",
+    "hook": "GTA 6 официально — одна из лучших игр в истории по версии IGN.",
+    "stars": 5,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T12:31:14Z"
+   },
+   "msg_id": 1283
+  },
+  {
+   "id": "a0423d4c98af",
+   "title": "Gamers get ready to enter Vice City as Grand Theft Auto VI begins global rollout",
+   "first_seen": "2026-11-18T11:10:50Z",
+   "updated": "2026-11-18T12:31:07Z",
+   "items": [
+    {
+     "id": "a0423d4c98af",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Reuters",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers get ready to enter Vice City as Grand Theft Auto VI begins global rollout",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVVqRHRmV1VIanMwYjl6bHB4R0FTSWZOVFY5RXVYSmtaOVZQMVhXNkoxVjM1NF9ZUUZYa2hneUMxeTBzRC1WTFJQZVJBOTAweVhHOFhfZFJIVmt6cTdHMGxwYnFDUjZaYUZJVGlvV2dOVGFvVWVDY3FaX2VHQWZ4dlhlRGxQdDhETVN5aFA0OG9hOVVHMFBYbHFESkxEY0ZPeUV0a0U3LTFvZFRnWk9oQkhwdTVSbmdGQUZHSk02UzE?oc=5",
+     "ts": "2026-11-18T11:06:26Z",
+     "summary": ""
+    },
+    {
+     "id": "a58b986479d2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo News Singapore",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers get ready to enter Vice City as Grand Theft Auto VI begins global rollout",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHckNMekVMeVRfOHp5QURoZHI5aUs2MTdvWEtSVnNDdEx0MVBSamtRS2E3OXVHdzFST0RZVnBQbEh2ZVRSaTVlNmJuME5DbldHRlJScnJ0dERhdnY3WDZhMVUzaDRTNHhGYUh6bWJKR2NiNFpMNHBvVg?oc=5",
+     "ts": "2026-11-18T11:03:39Z",
+     "summary": ""
+    },
+    {
+     "id": "69cd08e1d73b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Lufkin Daily News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers get ready to enter Vice City as Grand Theft Auto VI begins global rollout",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdFp0UGlCWTZmc1l2a0gzWWRhbDhmSGFFaW5tcFRyQTA0bWI0N1dfTWM2eG9sMlBTZEp2RHFwbkFzYlFyVGEwdl9ZRmh6Z29hanVoTFJhT2ZwNV85bEhLQTZPQ1c4T1ZOdkp2SlpSSXpJN19ZMDdkajhIanUyeElkSnR0Z3BxenVfQ0JaeGpGMXJKMHUyV1lDWGh0VVltbFZyUzdDYTY2R19BN1JHZ3FlOEpEb1dweEloUURfYlZZWTAtYUllUHdzckhVc0lkSk1vQk82UnlGVFEyVlNMRlltX09ZNWpra3FkYm1fdi00aFd4WVhPTGI2TEpPT29rbFNVbnNvZ3oyczlsSDFz?oc=5",
+     "ts": "2026-11-18T11:10:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 уже в доступе: Вайс-Сити открыт по всему миру",
+    "summary": "Grand Theft Auto VI начал мировой запуск, игроки готовятся войти в Вайс-Сити, сообщают Reuters и Yahoo News Singapore. Игра выходит на PS5 и Xbox Series X|S. Предзагрузка стартовала 12 ноября.",
+    "idea": "Кадры запуска по часовым поясам и первые эмоции игроков в Вайс-Сити — динамика и масштаб релиза. Зрителю интересно увидеть, как мир встречает GTA 6 прямо сейчас.",
+    "hook": "GTA 6 уже в доступе — Вайс-Сити ожил по всему миру.",
+    "stars": 5,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T12:01:51Z"
+   },
+   "msg_id": 1271
+  },
+  {
+   "id": "1bfa34eb56b0",
+   "title": "I've played GTA 6 on Xbox Series S: How Does the Weakest Console Handle the Biggest Game of All Time?",
+   "first_seen": "2026-11-18T11:31:09Z",
+   "updated": "2026-11-18T12:31:07Z",
+   "items": [
+    {
+     "id": "1bfa34eb56b0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "I've played GTA 6 on Xbox Series S: How Does the Weakest Console Handle the Biggest Game of All Time?",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nSWM2MGNvYVdNSDN6R3p5amxCVjV6WUZUU3FQNG0xWENuWVd4dmRVYmFsT1liaENCZF9jOTVSRXMyLWk0aW9TQWdmek5qb3IyNUhZcWVsNVVyS2YxMi1pNDVldWtzeTlCV1lLZA?oc=5",
+     "ts": "2026-11-18T11:21:51Z",
+     "summary": ""
+    },
+    {
+     "id": "064570357154",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Xbox Series S Performance: How Does the Weakest Console Handle the Biggest Game of All Time?",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVVNxRzM0TmU2ZGNGaTdwMDM0emxmSDR1OEFpaVVsMHBiS3BVUWZVNTRfY09oVlJtTUpGTUFEZkU1X1pCUVpDbmdmNXZfa0xpUzRYWFByNUFEeFBzaGU3bkdLdDhQbFZBQWQ3MkNSdlRjaVhtR1UwTlI0cnZCRVpyZHdpZ2lseW84UVhzZXNsd1FVOV8wRno4dTNFblBaU2Y0QURWT250RU1nSkc1M2laMGtPWG9fd3NyUGZnRjh6SmdrN3RmS1VSeW12Uy1nb2Y2WElhWGxrQldvcmw0Yl9v?oc=5",
+     "ts": "2026-11-18T11:35:05Z",
+     "summary": ""
+    },
+    {
+     "id": "dab094c2bf33",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Xbox Series S Performance: How Does the Weakest Console Handle the Biggest Game of All Time?",
+     "url": "https://www.ign.com/articles/gta-6-xbox-series-s-performance",
+     "ts": "2026-11-18T11:21:39Z",
+     "summary": "GTA 6 is finally here, and one of the biggest questions heading up to launch is how well the Xbox Series S would handle the game – well, I've finally had the chance to play the game on the tiny Xbox."
+    }
+   ],
+   "tags": [],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 на Xbox Series S: как тянет слабейшая консоль?",
+    "summary": "Автор IGN поиграл в GTA 6 на Xbox Series S и рассказал, как справляется самая слабая консоль текущего поколения с самой большой игрой. Деталей по FPS и настройкам в источнике нет, но факт теста подтверждён. Это первый публичный опыт на Series S, о котором сообщил IGN.",
+    "idea": "Короткий разбор: как выглядит и ощущается GTA 6 на самой слабой консоли — Series S. Зрителю важно понять, потянет ли он игру на бюджетном железе.",
+    "hook": "Я поиграл в GTA 6 на Xbox Series S — вот что реально происходит.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T11:31:15Z"
+   },
+   "msg_id": 1245
+  },
+  {
+   "id": "c72687778410",
+   "title": "GTA VI вышла спустя 13 лет после пятой части",
+   "first_seen": "2026-11-18T11:40:47Z",
+   "updated": "2026-11-18T12:31:07Z",
+   "items": [
+    {
+     "id": "c72687778410",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://the-tech.kz/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI вышла спустя 13 лет после пятой части",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9obVMxSlRIYVBydUVYMEY0ZVZsYTdDdlZnbFJHWFlYU3RxRnNONUMzX2l0N3NYNWVaWVpoaFQ0eUZkVXJ0b1BHSURxV1NZNlpNRGlMRENVRHVzZVB0QkRsTFBWZmRiWDdVUnc1T1JBZTVnUEZZLVNjQg?oc=5",
+     "ts": "2026-11-18T11:35:54Z",
+     "summary": ""
+    },
+    {
+     "id": "d991c0ce0a9c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "The Blueprint",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI вышла спустя 13 лет после предыдущей части",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YeTlDMHlVNmctWXZnbl9vZkhnS1dQNmRla2RkeGNkSEw0MkxrSHVESzBOMDdqZVo2WGxfSTdFeDNhNXlURXFNblpB?oc=5",
+     "ts": "2026-11-18T09:15:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bc00760bf099",
+   "title": "How GTA 6 was shaped by Yorkshire",
+   "first_seen": "2026-11-18T07:50:48Z",
+   "updated": "2026-11-18T12:31:07Z",
+   "items": [
+    {
+     "id": "bc00760bf099",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BBC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How GTA 6 was shaped by Yorkshire",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVeVVaX0pSaUNsVlBmMXNXWEhFZGd5ejJnc2RKTFlveTJUVmQweFB0VkhlQk13RUVYWkJCc1dJVlI5TUJSZG9VVGJTQk5DcGpGaTkycm9qeTBLSmdxa1E?oc=5",
+     "ts": "2026-11-18T07:40:47Z",
+     "summary": ""
+    },
+    {
+     "id": "b75289eca298",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BBC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How GTA 6 was shaped by Yorkshire",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54QWlVdWk3NmppQVlGU0poc1BOMWN2LWlxMEJ1TWMxMjlBYWNLVHFqNFVzU1llZ21rSmEzWm13UDQwQV9ndk1hSHctMHdQRUh6ZkIxSkhTaWNid0E?oc=5",
+     "ts": "2026-11-18T07:40:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4e12a1e58c54",
+   "title": "KFC Australia Is Holding a Fake Funeral for Ann Alibi So You Can Take the Day Off for GTA 6",
+   "first_seen": "2026-11-18T12:31:07Z",
+   "updated": "2026-11-18T12:31:07Z",
+   "items": [
+    {
+     "id": "4e12a1e58c54",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "KFC Australia Is Holding a Fake Funeral for Ann Alibi So You Can Take the Day Off for GTA 6",
+     "url": "https://www.ign.com/articles/kfc-australia-fake-funeral-gta-6",
+     "ts": "2026-11-18T11:25:38Z",
+     "summary": "When famous people die, they break attendance records for funerals all the time. I have a feeling the upcoming funeral for the definitely real Ann Alibi might blow those attendance numbers out of the water though."
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "KFC устроил «похороны» героини GTA 6 — дадут выходной",
+    "summary": "KFC Australia проводит шуточные «похороны» Энн Алиби из GTA 6 и обещает выходной в день релиза. Об этом пишет IGN.",
+    "idea": "Короткая шутка: «Похороны» Энн Алиби от KFC — абсурдный промо-ход, который идеально заходит в Shorts. Зрителю смешно и хочется обсудить, дадут ли выходной.",
+    "hook": "KFC хоронит Энн Алиби из GTA 6 и обещает выходной — это что вообще?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T12:31:18Z"
+   },
+   "msg_id": 1284
+  },
+  {
+   "id": "d6aad22be8e2",
+   "title": "Люди по всему миру берут отгулы ради GTA 6, а кто-то даже бронирует отель на целую неделю. А чем вы пожертвовали ради игры?",
+   "first_seen": "2026-11-18T12:31:07Z",
+   "updated": "2026-11-18T12:31:07Z",
+   "items": [
+    {
+     "id": "d6aad22be8e2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Т—Ж",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Люди по всему миру берут отгулы ради GTA 6, а кто-то даже бронирует отель на целую неделю. А чем вы пожертвовали ради игры?",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE15bFlGWF9ibHN1XzA1TG9mZ2M5NTU4NXZmODBWb0huaDJQRmltbVBkbkstNzNMcUxsajlpYnF0b1NtOThDSEJR?oc=5",
+     "ts": "2026-11-18T11:25:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "96d186a8917b",
+   "title": "8 GTA 6 tips the game doesn’t tell you, from someone who’s played for 140 hours",
+   "first_seen": "2026-11-18T12:31:07Z",
+   "updated": "2026-11-18T12:31:07Z",
+   "items": [
+    {
+     "id": "96d186a8917b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "8 GTA 6 tips the game doesn’t tell you, from someone who’s played for 140 hours",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EMWpZMFdfX0NGRzlUMUUtYThtUW1LemtjN2hDejdwM21kWlBYdkpobWt2MmlIeE5CZmM4bUN3RGR0RG5YUG9RY3dFcnpvT1p3N3RzUWprZmZlNmczZGQwWk85anJRd0VQcmxhdzUzZDVyLVhvV1ZFd1Nvbw?oc=5",
+     "ts": "2026-11-18T11:54:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "663e3b4e6ad0",
+   "title": "Стартовал мировой релиз GTA VI",
+   "first_seen": "2026-11-18T12:31:07Z",
+   "updated": "2026-11-18T12:31:07Z",
+   "items": [
+    {
+     "id": "663e3b4e6ad0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "BFM.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Стартовал мировой релиз GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB1Vko2aGZiUXRvQ3o3ZHE1X1oyT1ZPMUY3aGVvU2xuV1NzSmZzeXM1b0ZsWUhXTGxyVk4wNFg5QnlWYU5v0gFKQVVfeXFMTzZIWXNnUjYtcVlTQXhnNFNrSzlJT1BnUGFWcHM2c2FTOWpCbl9RTmNPdXlYQnF3SXQwajBtbnM1Zk5GRGpDcVhFaGc?oc=5",
+     "ts": "2026-11-18T12:02:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "7dcd4ce67c1e",
    "title": "День до релиза GTA, обстановка 🥺 Канал про GTA 6 | Наш чат",
    "first_seen": "2026-11-17T19:11:05Z",
@@ -401,56 +1201,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7aa223b4e866",
-   "title": "‘Grand Theft Auto VI’ is ‘the biggest thing in entertainment’",
-   "first_seen": "2026-11-18T11:40:47Z",
-   "updated": "2026-11-18T12:20:46Z",
-   "items": [
-    {
-     "id": "7aa223b4e866",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "AP News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ is ‘the biggest thing in entertainment’",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFFqRlBIV1lJcEFqeGpGTEM5VDNzei1FSzNWbHN0QmFucnNtRnJRcUVqNGttZWtJdGZoRHgtNEsxaVJidWd2eUx2U2RkSzYzOG5fRllXM09VNm15M1A0TUJhd1JnOFhmbXAtSFV2RlJXeFUtMWZPM3pIOVk0cFN6S2xQZmllTUFQY0RvcXJqS096TzBVeUVaa2RUTGNLckw1VlpBaWZPQnNfT0hWaVlDN2RxYnZ3QQ?oc=5",
-     "ts": "2026-11-18T11:26:00Z",
-     "summary": ""
-    },
-    {
-     "id": "672948118288",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo News Singapore",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' is 'the biggest thing in entertainment'",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SN2pRZDE1WTVnWWQ1dEVacmY3aVQzTHpDaVlNQ0RqZ0x5cmN5VElEZFFGNVY2TmVaU1hXUEk1bUJhVU04WVBGaWpaYXdaRzlVaGFQaW5mNHVmX2pMYnZBNTZhY0hKS005VWtrSm55T2twUDFmdW9J?oc=5",
-     "ts": "2026-11-18T11:24:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 — «самое большое событие в индустрии развлечений»",
-    "summary": "AP News и Yahoo News Singapore называют GTA 6 «самым большим событием в индустрии развлечений». Издания отмечают масштаб ожиданий и влияние игры на рынок.",
-    "idea": "Короткий ролик с заголовками AP и Yahoo, где GTA 6 называют главным событием в развлечениях. Зрителю важно увидеть, что игру уже ставят в один ряд с крупнейшими релизами.",
-    "hook": "GTA 6 уже называют самым большим событием в индустрии развлечений.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T12:21:13Z"
-   },
-   "msg_id": 1280
   },
   {
    "id": "c9820a3fc7b7",
@@ -1719,32 +2469,6 @@
    "status": "new"
   },
   {
-   "id": "5c45cc7cbe99",
-   "title": "GTA 6 is Now The Joint-Highest Rated Game of All Time",
-   "first_seen": "2026-11-18T12:10:48Z",
-   "updated": "2026-11-18T12:10:48Z",
-   "items": [
-    {
-     "id": "5c45cc7cbe99",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 is Now The Joint-Highest Rated Game of All Time",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUTh1SFo1RWw5ZTZ6cDVZN2tHck9GdmhyX2RFRnZvcVVKUFY3MGtkaHZqR3F6cVBiUWRrV2lXZjZyNXZ4ME8tdjlfYzkydEhFZElUOENrZ01XRnNvN1ZKaWFrSTVoejZfeWdad1pDS3pSYlZNd1h2Y1hEUmZQSFBvbnp4MDN0NEpuZlUybVlNMDBqeEFFQ3llYXZab2JqMUN5dkMxUDdB?oc=5",
-     "ts": "2026-11-18T12:01:28Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "e96bd3d2457d",
    "title": "Сколько времени занимает прохождение GTA 6: сюжет, концовки и зачистка на 100%",
    "first_seen": "2026-11-18T12:10:48Z",
@@ -2634,56 +3358,6 @@
     "at": "2026-11-18T12:01:36Z"
    },
    "msg_id": 1268
-  },
-  {
-   "id": "a0423d4c98af",
-   "title": "Gamers get ready to enter Vice City as Grand Theft Auto VI begins global rollout",
-   "first_seen": "2026-11-18T11:10:50Z",
-   "updated": "2026-11-18T12:01:17Z",
-   "items": [
-    {
-     "id": "a0423d4c98af",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Reuters",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers get ready to enter Vice City as Grand Theft Auto VI begins global rollout",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVVqRHRmV1VIanMwYjl6bHB4R0FTSWZOVFY5RXVYSmtaOVZQMVhXNkoxVjM1NF9ZUUZYa2hneUMxeTBzRC1WTFJQZVJBOTAweVhHOFhfZFJIVmt6cTdHMGxwYnFDUjZaYUZJVGlvV2dOVGFvVWVDY3FaX2VHQWZ4dlhlRGxQdDhETVN5aFA0OG9hOVVHMFBYbHFESkxEY0ZPeUV0a0U3LTFvZFRnWk9oQkhwdTVSbmdGQUZHSk02UzE?oc=5",
-     "ts": "2026-11-18T11:06:26Z",
-     "summary": ""
-    },
-    {
-     "id": "a58b986479d2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo News Singapore",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers get ready to enter Vice City as Grand Theft Auto VI begins global rollout",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHckNMekVMeVRfOHp5QURoZHI5aUs2MTdvWEtSVnNDdEx0MVBSamtRS2E3OXVHdzFST0RZVnBQbEh2ZVRSaTVlNmJuME5DbldHRlJScnJ0dERhdnY3WDZhMVUzaDRTNHhGYUh6bWJKR2NiNFpMNHBvVg?oc=5",
-     "ts": "2026-11-18T11:03:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 уже в доступе: Вайс-Сити открыт по всему миру",
-    "summary": "Grand Theft Auto VI начал мировой запуск, игроки готовятся войти в Вайс-Сити, сообщают Reuters и Yahoo News Singapore. Игра выходит на PS5 и Xbox Series X|S. Предзагрузка стартовала 12 ноября.",
-    "idea": "Кадры запуска по часовым поясам и первые эмоции игроков в Вайс-Сити — динамика и масштаб релиза. Зрителю интересно увидеть, как мир встречает GTA 6 прямо сейчас.",
-    "hook": "GTA 6 уже в доступе — Вайс-Сити ожил по всему миру.",
-    "stars": 5,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T12:01:51Z"
-   },
-   "msg_id": 1271
   },
   {
    "id": "9c4341b47124",
@@ -3798,56 +4472,6 @@
    "status": "new"
   },
   {
-   "id": "1bfa34eb56b0",
-   "title": "I've played GTA 6 on Xbox Series S: How Does the Weakest Console Handle the Biggest Game of All Time?",
-   "first_seen": "2026-11-18T11:31:09Z",
-   "updated": "2026-11-18T11:40:47Z",
-   "items": [
-    {
-     "id": "1bfa34eb56b0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "I've played GTA 6 on Xbox Series S: How Does the Weakest Console Handle the Biggest Game of All Time?",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nSWM2MGNvYVdNSDN6R3p5amxCVjV6WUZUU3FQNG0xWENuWVd4dmRVYmFsT1liaENCZF9jOTVSRXMyLWk0aW9TQWdmek5qb3IyNUhZcWVsNVVyS2YxMi1pNDVldWtzeTlCV1lLZA?oc=5",
-     "ts": "2026-11-18T11:21:51Z",
-     "summary": ""
-    },
-    {
-     "id": "064570357154",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Xbox Series S Performance: How Does the Weakest Console Handle the Biggest Game of All Time?",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVVNxRzM0TmU2ZGNGaTdwMDM0emxmSDR1OEFpaVVsMHBiS3BVUWZVNTRfY09oVlJtTUpGTUFEZkU1X1pCUVpDbmdmNXZfa0xpUzRYWFByNUFEeFBzaGU3bkdLdDhQbFZBQWQ3MkNSdlRjaVhtR1UwTlI0cnZCRVpyZHdpZ2lseW84UVhzZXNsd1FVOV8wRno4dTNFblBaU2Y0QURWT250RU1nSkc1M2laMGtPWG9fd3NyUGZnRjh6SmdrN3RmS1VSeW12Uy1nb2Y2WElhWGxrQldvcmw0Yl9v?oc=5",
-     "ts": "2026-11-18T11:35:05Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 на Xbox Series S: как тянет слабейшая консоль?",
-    "summary": "Автор IGN поиграл в GTA 6 на Xbox Series S и рассказал, как справляется самая слабая консоль текущего поколения с самой большой игрой. Деталей по FPS и настройкам в источнике нет, но факт теста подтверждён. Это первый публичный опыт на Series S, о котором сообщил IGN.",
-    "idea": "Короткий разбор: как выглядит и ощущается GTA 6 на самой слабой консоли — Series S. Зрителю важно понять, потянет ли он игру на бюджетном железе.",
-    "hook": "Я поиграл в GTA 6 на Xbox Series S — вот что реально происходит.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:31:15Z"
-   },
-   "msg_id": 1245
-  },
-  {
    "id": "2717f8ad1f3b",
    "title": "How To Switch Between Jason And Lucia In GTA 6",
    "first_seen": "2026-11-17T17:01:16Z",
@@ -4322,32 +4946,6 @@
    ],
    "tags": [],
    "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c72687778410",
-   "title": "GTA VI вышла спустя 13 лет после пятой части",
-   "first_seen": "2026-11-18T11:40:47Z",
-   "updated": "2026-11-18T11:40:47Z",
-   "items": [
-    {
-     "id": "c72687778410",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "https://the-tech.kz/",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI вышла спустя 13 лет после пятой части",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9obVMxSlRIYVBydUVYMEY0ZVZsYTdDdlZnbFJHWFlYU3RxRnNONUMzX2l0N3NYNWVaWVpoaFQ0eUZkVXJ0b1BHSURxV1NZNlpNRGlMRENVRHVzZVB0QkRsTFBWZmRiWDdVUnc1T1JBZTVnUEZZLVNjQg?oc=5",
-     "ts": "2026-11-18T11:35:54Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -7091,32 +7689,6 @@
    ],
    "tags": [],
    "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6baafc088172",
-   "title": "Review: Grand Theft Auto VI (Sony PlayStation 5)",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "6baafc088172",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Digitally Downloaded",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Review: Grand Theft Auto VI (Sony PlayStation 5)",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUNXc0s4TlhCYUQwLUVxUzdTcUdFam55NFNwb0MwMDV0SElRU3dSTzFGalFvRnNWTldHOWRjV0RwRFRJaFpyV1VWZUM5cWQzeEVzM0ZWam52SWo4ZE5MWHpBYi1BNXBPbkY1Um1wM1NGSmJsX2FkX3hPVHJuWWROdXVDYkxzZFcxRVhzNzB2NDN0S25VeFBhN09R?oc=5",
-     "ts": "2026-11-18T11:01:20Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -14103,32 +14675,6 @@
    "status": "new"
   },
   {
-   "id": "bc00760bf099",
-   "title": "How GTA 6 was shaped by Yorkshire",
-   "first_seen": "2026-11-18T07:50:48Z",
-   "updated": "2026-11-18T07:50:48Z",
-   "items": [
-    {
-     "id": "bc00760bf099",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BBC",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How GTA 6 was shaped by Yorkshire",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVeVVaX0pSaUNsVlBmMXNXWEhFZGd5ejJnc2RKTFlveTJUVmQweFB0VkhlQk13RUVYWkJCc1dJVlI5TUJSZG9VVGJTQk5DcGpGaTkycm9qeTBLSmdxa1E?oc=5",
-     "ts": "2026-11-18T07:40:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "cd097b43f8dc",
    "title": "Все решает аккаунт: во сколько выйдет GTA 6 по Москве 19 ноября 2026",
    "first_seen": "2026-11-18T07:50:48Z",
@@ -14784,32 +15330,6 @@
      "title": "Binding of Isaac DLC goes up against GTA 6: \"If it was a stupid idea, it's a funny stupid idea\"",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGRFUUN6R0FfQmt5YS1XOC16QTJNdkZheEMxaE9lR2pidEpWM0F2VXFQQ0hRanZiZWk0THpUZU5TbXhuMFNqbGNZRXdpanozUU9fQ0R3cVl6bm5OUnBxNWpVd3dpbFRaZE9iQXExbHBfemZ1S1htaVVXOTlCRU5uelRFSV91Z2k3dWtURg?oc=5",
      "ts": "2026-11-17T22:45:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "633707cca5b4",
-   "title": "NBA player Davion Mitchell received a custom PlayStation 5 Pro ahead of GTA 6's release.",
-   "first_seen": "2026-11-18T07:01:15Z",
-   "updated": "2026-11-18T07:01:15Z",
-   "items": [
-    {
-     "id": "633707cca5b4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "NBA player Davion Mitchell received a custom PlayStation 5 Pro ahead of GTA 6's release.",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWV3cHhZZGZMVDI1TUNfQkVLTVVxdlJodnhwZ3lJdFM4NmprMFc5UDBQRUhpU19uQkZNa1ZnaEJ2SjZHNjBoYmQ3OXZ4My1qWE5md0hza0tPOHhnUTNSQ3FnRHNCR0g5V3ZuWkRFR1dKQ0YxWGZYaDZuVGc1TDI4WGM2M3plRS1IZ0JBZ29FdkwxazhodGNzNzRvNlpxSjZ0VDdoRWlUbmc3WHB1djg5blNlS0pYUDV5ZzhUNA?oc=5",
-     "ts": "2026-11-18T06:49:20Z",
      "summary": ""
     }
    ],
@@ -15609,71 +16129,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "eafe8b263246",
-   "title": "New PC app boosts GTA 6 PS5 performance from 30 fps to 60 fps, but at a cost",
-   "first_seen": "2026-11-17T18:10:58Z",
-   "updated": "2026-11-18T05:50:48Z",
-   "items": [
-    {
-     "id": "eafe8b263246",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Notebookcheck",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "New PC app boosts GTA 6 PS5 performance from 30 fps to 60 fps, but at a cost",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVlNUWQxNDV1V0ZGckQxLVJuOFRqdVE5NzFPMjdQbkNLWER5TWRnYllQalFmekJBVk9WNGhGYVROMUpobUFteWF4RVg2RVRwN21BS1d3RGhLMVA4OXBjS3lsalVEZEhZN3gtSV9Oa0cwMHAxNFhwQ1lFTkF6d2lKNFRFUjlMX3cxeEdvTURCeTJCMVk1ZWxEcVZwSnJISEd2OUJNRm9mdzhMb0tKSFh2SVlwNEVOQndoMkg2Yw?oc=5",
-     "ts": "2026-11-17T17:22:00Z",
-     "summary": ""
-    },
-    {
-     "id": "c9a31ec57c0f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI на релизе получит 180 FPS благодаря DLSS 4.5 и нейронному рендерингу DLSS 5 на ПК с RTX 5090",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaDdsOFRDRWF3YnI0ejBWWkVSSVBpWnZ5OGJ5UnF6RVUyQjRvcEZHV1VfOEVoelExU0lfSnhOOHhuSkREbHZuRDk1WWJWRVNjWTZaRDk0eFRTa3ctNHc3a00zRG5GTDRvazlqWUhSMFhBUlNqcC1FdG5IMDNRVFdRSDFCLTVBcTBCODNBT3JLS2JnQWF2cWlXd1dNNHRrcmZVZDBLY0c4LUdfck1YRXRQLXlzVGJSWndRWlhlOFN1TFE2bzBxQ05yck5lTQ?oc=5",
-     "ts": "2026-11-17T18:55:54Z",
-     "summary": ""
-    },
-    {
-     "id": "743ca09bc408",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Notebookcheck-ru.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Новое приложение для ПК повышает частоту кадров в GTA 6 на PS5 с 30 до 60 кадров/с, но за это приходится платить",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNU1gxUlVoMWQtZ2lWZkNWMmIxS3hzOGRteTdqN0pJTm1LVUd3VF9ub191VHRQRy1iaTJBcU80RWs3alBaY3ZPazE3VTJ2VkhpbDF0VWtkMlF4eUxLUHVtS05tT1J5NHlIbk9YNTEzYTRHSlpxRXFjWDl5SEk4aGhsMGFURWF2MFpEd0JxMDZWenYyaGdrMHhxcC13ejYwZTVSbUM0NnJOS0RhVU94VE1jWVk4dGF5MFd0WDZWY3VRSmRKMTlZeU1wcl9YVmFFaS1IM1poVlcxZ3Fjd0tFczA5Q0x5QVUzOWZQaTNOTXRpMXRxY3hwWktMVg?oc=5",
-     "ts": "2026-11-18T03:20:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 81,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Приложение обещает 60 FPS в GTA 6 на ПК. В чём подвох?",
-    "summary": "По данным Notebookcheck, новое приложение для ПК обещает повысить производительность GTA 6 с 30 до 60 FPS. Однако за это приходится платить, и пока неясно, насколько это безопасно и легально.",
-    "idea": "Короткий разбор: что обещает приложение, в чём подвох и почему не стоит рисковать ради 60 FPS. Зрителю важно знать, как не поймать бан или не сломать систему.",
-    "hook": "60 FPS в GTA 6 на ПК бесплатно? Вот почему это плохая идея.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-17T18:11:07Z"
-   },
-   "msg_id": 1162
   },
   {
    "id": "0ceaa51ba018",
@@ -139098,253 +139553,19 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "63048728ac31",
-   "title": "GTA 6 Will Be 30 FPS, Leaving Fans Divided and PS5 Pro Owners Frustrated",
-   "first_seen": "2026-11-10T14:10:48Z",
-   "updated": "2026-11-11T12:31:05Z",
-   "items": [
-    {
-     "id": "63048728ac31",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA VI НА PS5 И PS5 PRO БУДЕТ ИДТИ В 30 FPS",
-     "url": "https://t.me/GTAVIStar/868",
-     "ts": "2026-11-10T14:03:46Z",
-     "summary": "⚡️ GTA VI НА PS5 И PS5 PRO БУДЕТ ИДТИ В 30 FPS • GTA VI полностью переработали с нуля для консолей текущего поколения. Игра будет работать при 30 FPS , используя возможности PS5 и Xbox Series X|S для создания детализированного мира Леонариды. • На PS5 Pro появятся улучшенная чёткость изображения благодаря PSSR и тени с трассировкой лучей. На обычной PS5 разработчики задействовали адаптивную отдачу DualSense, Tempest 3D Audio и улучшили время загрузки. • Также GTA VI станет доступна через Xbox Cloud Gaming , в том числе на Xbox One, с графическими настройками версии для Series S. Обе консольные версии будут поддерживать Remote Play. 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    },
-    {
-     "id": "ec0f1ad2e22e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "30 FPS Confirmed and RT Shadows on the PS5 Pro!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xsnyzc/30_fps_confirmed_and_rt_shadows_on_the_ps5_pro/",
-     "ts": "2026-11-10T14:15:12Z",
-     "summary": "https://preview.redd.it/mgpv7zqrms0i1.png?width=751&format=png&auto=webp&s=c30f690bc7256d50dbeb721baf27ee2396bdfdb7 30 FPS Confirmed and RT Shadows on the PS5 Pro + improved image clarity. Like'd to see more videos recorded on the PRO and on the XBOX series... submitted by /u/HeroStrike3 to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "a937d8befd15",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "VICE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Will Run at 30 FPS on PS5 Pro at Launch",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HWlFDUTZtc2dETFVqSk9YRGdMTF85V3hmMkFpU3NWT211dVlibk1vWG1ldW4tWmdWaGJlQnFONDQtZUpCSGszMVBjazl0RWtmNVVOOWF5ZjVkVkhnRUdVZmNRSQ?oc=5",
-     "ts": "2026-11-10T14:37:57Z",
-     "summary": ""
-    },
-    {
-     "id": "8957a894715f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Kotaku",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Rockstar Says GTA VI Is ‘Targeting’ 30 FPS And Will Use PSSR On PS5 Pro",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPREgwYkR5ZEpMaGJ5RXlWbEZPZkFXVzBCay1ud2lwbXhDUzZsVWQ1N1ZpT1BUR3JYeVBiTmxWdUtqTlhzQ3RKQjh6VG1OZmNJUHc1dkxCdkFGUURHSUowQ3hJUFhyUnFTV0M4bmRZcDYxV1JQWjBrX2txS2ZSWjVaQTBISjljNDRCZ2lUT0d2UQ?oc=5",
-     "ts": "2026-11-10T14:42:54Z",
-     "summary": ""
-    },
-    {
-     "id": "f3142ace8661",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Game Informer",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Will Run At 30 FPS On All Consoles, But PS5 Pro Will Feature 'Improved Clarity' And Ray-Traced Shadows",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1R4NWVvYnJSeUJZWTQ2WnVxWHNsX1hpbzRTd1RHdmdOdF9POWN5R05aSENlSU81ZGFzWE16cmxjazJoUmQybmVwSno2NzUtaVo4U19QQnZNaVdSQlU2cXh5TzRhWmY5UExBVEZsdERKU25QSnBFVWRCb2RsZlJJSFpaUWNWX3Z2b3l4OWc0N1JkV1JqS0FTdEkxdkxlTGRORFM0ODFqRDE2M0xqSHdUX3RQelpUclk4aWNfNm5UMjBoZw?oc=5",
-     "ts": "2026-11-10T14:41:46Z",
-     "summary": ""
-    },
-    {
-     "id": "ff433157333b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "The GEEK",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar подтвердила 30 FPS в GTA VI даже на PS5 Pro",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yMmFLZWFVSUN5R1FidXBoT0ZmT3FRZTlSdTRQNVpBa2duY1Fod2RtUkpndk9NU0sycHd2ckw3WGpyU2hNWl9iY3BfU0hPamppTVV4cm9ObUU?oc=5",
-     "ts": "2026-11-10T15:24:43Z",
-     "summary": ""
-    },
-    {
-     "id": "598030d588da",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "https://dungen.ru/",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 на PS5 Pro: 30 fps, трассировка теней и PSSR",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KQ2dDWEJqQUxPVXJ5b3BGYmxJQzY2cUc3cnN0MVd6cUVUQjQwVU5ONk4zMjM3MmFLMncwb2N1OERyT2dtZGI2VUE5LTB3OTlYMGNpUHR4eHNrdS1Sd01iNXhBeGNVVmQyT0dZY0FOWFFYdw?oc=5",
-     "ts": "2026-11-10T15:03:49Z",
-     "summary": ""
-    },
-    {
-     "id": "6ebde786e31e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA VI will run at 30 fps even on PS5 Pro — Rockstar reveals game's technical details",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbXNCYzZXbjk2UHU0T0RSdmVJTzNaSXRPM3hGQnVfQkliRGRBN1hsSVl1NlBPLTlWZERadWExd3E1NnJjSzNTa2dQc2YxZ2g1MnR0QW5IaHZQblJyU1VMa0YtWHAxRTA4YlB3NlE5WkZpS3l4dmw1bTJUaEtjSVdZd3UwTko3TW90Q0Q2bmdNd2tjYUlDcXZXckFETmhicENkSFExVmRwRXp5eFlUS0laaHB5d1dYdVB6MHNpdWgyQ1N3QmNwZXMtOWhDRXNib3N3TEVIU1MzWGJCZVnSAeABQVVfeXFMTllRUm5seE84TVlRSGEyU2ZIZnZxeDZDRTZPMUIwdXBFN2Y4ZWRZOU9hdDhucXVqV05KU0l0b2ZmZmdsT2RjQ1hXcjBKeFlJek04eVdZX2VheTB1QUI4MEV6UGI0NEthYVRpb0pKcmtJZVFvYVJpQThOZllDbHNhLU5nbmpmRGRlbjBLd2h0cTBtb0NZbWdDcDkzYlgwaWEyS3BzWk1TMUgwVTNUUG0wci11Q1VBbHRBQS00YzBxUm1kUXlyZFdyRGg4cERieW1kc3VLeDRmVGF3V282S2gwSWY?oc=5",
-     "ts": "2026-11-10T15:36:00Z",
-     "summary": ""
-    },
-    {
-     "id": "9e5d1fc5efa8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Will Be 30 FPS, Leaving Fans Divided and PS5 Pro Owners Frustrated",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDVzdjZGYmFJRmdoZmoxdGY5ZXNsLWpfeHo4VXBfLTE4MnYxWFByX3JHbDFBaWdNQTh0bWk0WlBWUmdhanl1RGFWRk9UNkYyUy1YV3ppc2dyWHFWQ0U2RVZBNW9iTnh2cHNvajdmN0NXek9sa2ZXeFFud19JZFdjbXdKT0g?oc=5",
-     "ts": "2026-11-10T17:16:22Z",
-     "summary": ""
-    },
-    {
-     "id": "c234f7b1e344",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "CyberMeta",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar: GTA 6 рассчитана на 30 FPS даже на PS5 Pro",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSFZoWmJWa0thVk8zZ2hUOThVZFhmVVZKQ1RyejBtdXFQd19jUTk3dFRMTzBSUFhsakpZODMxd1plczg5eTdhZkJxd21zNmZvd1BzZHd5SHgtLXQxN2ExQ2JmR2VTYmtWLUZCRWFLUHpmNXQwRnpVY29ndlM2bTBSN3lseGx5MHhMWE1XZmRqQ3JFYXVkLXd0ZWlEZXo2Wjg4VXc?oc=5",
-     "ts": "2026-11-10T14:13:00Z",
-     "summary": ""
-    },
-    {
-     "id": "da670c13d041",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA VI НА PS5 И PS5 PRO БУДЕТ ИДТИ В 30 FPS",
-     "url": "https://t.me/GTAVIStar/871",
-     "ts": "2026-11-10T21:15:02Z",
-     "summary": "⚡️ GTA VI НА PS5 И PS5 PRO БУДЕТ ИДТИ В 30 FPS • GTA VI полностью переработали с нуля для консолей текущего поколения. Игра будет работать при 30 FPS, используя возможности PS5 и Xbox Series X|S для создания детализированного мира Леонариды. • На PS5 Pro…"
-    },
-    {
-     "id": "d613eb5d8fe7",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Carexpo.ru_ все авто на одном сайте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 на консолях: 30 FPS, PS5 Pro без 60 FPS, и что это значит для игроков",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGY2aWdBaEN2cldtTGQ4eDF2TGhCQ0VOS3VMUExxc1lnM2xpOWFyMW5tU3J5TXMzZG81Q1A1ME05SEVPNkREMFZpSFhkck05eHJCdk5CalVWblQzNk9XeEF2amJ2c1U4d2QyeFVHa3VqRXJwaVhYakxMeEFhbFhUZGdoeTFob1RIVWJOR2FiOGVxYzlNZTVaUUdIYTE?oc=5",
-     "ts": "2026-11-11T04:44:47Z",
-     "summary": ""
-    },
-    {
-     "id": "e5ef97d7c3e4",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Mass Effect will return, GTA VI will run at 30 fps even on PS5 Pro — top highlights for November 10",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcmZhejlUNHBaXzE2TjNaTHBQbWxmd3lhYXJOOC1PcE5lUVM4UHFENURUYnNoYTBwbzVmRUoxU0laYkJiWk1pMXE0NXl4eEJTb3JIRER2Mm9EVGRySU9PSkQxUkRPdHBVQXQyWlFwdENObDZGaWMwNHpVSjlySXVnaWVuNEoxVE5Zc2JKR290elkyb2hBeVR1TzhVTERMS1djd2VXMUtOV2l6YW02NEFNaXpNdFFXX2dZQnRGZHZHMjExVnRpRWszWWlrMkJvWjNkVVo2UlRlMWxpMTVURkt3MzZETXLSAeoBQVVfeXFMTjExZ2UtaGd0NEEyUEJ4Y0NCVUFjYmVzUmp6TWNXc21WZDgwWUNfX3VLbG9JejFGaU9LSHZDaS1VejZHWm9fcnBXSkxoWkxVSjd1VHBYU2JnNXhMeWVXNlQyamVOYzR0ZXVvVGJiZXlQcWdZUG16aU1LeVhaRXcyVFpqTnpDMThLc19kZllLSjRKaURKX1hkR1laeGVHaXVkNXFPRkFvbkxsTk96R1A1QnJDeEpMdlFLNUExNHZzZVFZSk1zclRONUQtTGR4bzZaVE1DOGgwb2NFTkpXOWhjdDBYbHdtUFVrZ05R?oc=5",
-     "ts": "2026-11-11T09:16:00Z",
-     "summary": ""
-    },
-    {
-     "id": "d1b85652c102",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "T3",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 plays better on PS5 Pro, but not in the way we most hoped – Rockstar confirms \"Pro\" features ahead of launch",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc1VqSGxzaXRMMHpUM2F0S25sM2JKR2pZQmdkdzkyNVdoajVTQlZRR2JzMVRLQmJtSkZkdDNjU1VxM0JrajNEM1d1bDhBOXQ5MkRtVHREYlA5bVpfUXl5Szg1bk1NWjUwT0l0WVVSYTRlblRmSnJBcXlUYTMxWFZ6a3M3RGNkaklHQWRKMzA1cXhsNFBVRFMwempTZWJYV2xDVDVuWURvSU5lUU4zYzV4OFhSbV9MTngxX2FjdVlPYnlQdTBQVkdvSGlHdWNPQVFhM1M5V2pzOA?oc=5",
-     "ts": "2026-11-11T10:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "01131f5b3ead",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "www.championat.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Зачем я купил PS5 Pro?» Геймеры разочарованы GTA 6 из-за 30 FPS на консолях",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcDA0SjBobTR1U3RuOGtkMHotQjVfWHVfYjJya0U1OUpuSFMxTzVXYUpLaDgxbnl1X0JDNWlhZnVsaFljZnB5M25xV1AwN2RJalEtU2w2ODJxaDB6c3VDRGE1VnprNEhWM2lqT1FFeXFKU1hTdDFUakVPLXI2bmVTaWYxUEgwXy05a29vdTlQeXJPeWpfWFZsdjRKLUVCSlhEYTZSX2pLNm9WaWx1am9uM2lXajNxeHN1SjAyQnNWNTY4b2M3VHQyQUF4dDY?oc=5",
-     "ts": "2026-11-11T11:31:01Z",
-     "summary": ""
-    },
-    {
-     "id": "86716bdb223d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 plays better on PS5 Pro, but not in the way we most hoped – Rockstar confirms \"Pro\" features ahead of launch",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTklTbTNSZkQya3pYd2hDNlJ5WF9Ha1hOMzRuZFVoQ09JbmJ6TWotNW1kNXJheVZZM0xUV2R2cnlIUklINGFqcUptTld3akVONHp2WlpIM2EzenFlTGhLYllLR1ozQTZyVEFqSVV4RkJhS0ZBUENJZlJhczdUd1g1akhn?oc=5",
-     "ts": "2026-11-11T10:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 на PS5 и PS5 Pro: 30 FPS и RT-тени",
-    "summary": "По данным TG @GTAVIStar и обсуждений на Reddit, GTA 6 на PS5 и PS5 Pro будет работать в 30 FPS. На PS5 Pro обещают улучшенную чёткость благодаря PSSR и тени с трассировкой лучей, а на обычной PS5 — адаптивную отдачу DualSense, Tempest 3D Audio и быстрые загрузки.",
-    "idea": "Сравнение PS5 и PS5 Pro в GTA 6: 30 FPS на обеих, на Pro — RT-тени и PSSR. Покажи кадры и подписи, чтобы зритель сразу увидел разницу.",
-    "hook": "30 FPS в GTA 6 — и на PS5, и на PS5 Pro. Вот что реально меняется.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-10T14:31:16Z"
-   },
-   "msg_id": 737
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-18T12:21:20Z",
+  "last_run": "2026-11-18T12:31:29Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 91/100",
+   "gnews_en: 89/100",
    "gnews_ru: 98/100",
    "gamesbeat: 2/10",
    "vgc: 10/10",
    "insider_gaming: 9/10",
-   "ign: 14/20",
+   "ign: 15/20",
    "eurogamer: 10/100",
    "dexerto_gta: 12/50",
    "rockstarintel: 10/10",
@@ -139352,8 +139573,8 @@
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 5/5",
    "tg_gta6deluxe: 8/10",
-   "tg_gta6_m: 19/19",
-   "tg_gta6newsdaily: 9/20"
+   "tg_gta6_m: 18/18",
+   "tg_gta6newsdaily: 10/20"
   ],
   "digest": "2026-11-18@9",
   "tg_offset": 854319078
