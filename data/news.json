@@ -1,6 +1,329 @@
 {
  "stories": [
   {
+   "id": "7622bd983a8a",
+   "title": "Join Us For a Special GTA 6 Launch Celebration",
+   "first_seen": "2026-11-18T09:10:49Z",
+   "updated": "2026-11-18T09:31:01Z",
+   "items": [
+    {
+     "id": "7622bd983a8a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Join Us For a Special GTA 6 Launch Celebration",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRSzFHcGM5Nm9LNmJiNTY1T3BUWGVXbXNjU2ZCaUhta1pNZTg3UGVyaEpTakZHc0dPTXZMOXl1M09naGpYSzlBVmVqNS1HN3JPOWYweHBvS0Z1eHo5OEpkUjJodlc0cG9lRXZVM2NIbkg2SG0wa2RoVXl6c0RrUQ?oc=5",
+     "ts": "2026-11-18T09:06:41Z",
+     "summary": ""
+    },
+    {
+     "id": "b7cd04146cf0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN India",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Join Us For a Special GTA 6 Launch Celebration",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMExtcS1xaUJMMWVQdUVzQUdtZkU4eDlzazNHRmZTSEYyeDlZdXQ4UFl4NGJQNHptWUE5cjBNSUxyOG9jLWRtVWw2czdYLVFpREJyd2RCY29hME1DQjgzbklmcnRoN3U0dXhFYnNqUm8ySUxyel9iLVFDTVE2VlhSMHBvUzVRVnZ5NVlfUzIyUTIyamdERzJB?oc=5",
+     "ts": "2026-11-18T09:06:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️ IGN устраивает празднование запуска GTA 6",
+    "summary": "IGN анонсировал специальное празднование в честь запуска GTA 6. Детали события пока не раскрыты, но редакция обещает отметить выход игры.",
+    "idea": "Угол: что именно устроит IGN в ночь запуска — стрим, челленджи или раздача мерча. Зрителю интересно, как присоединиться и что можно выиграть.",
+    "hook": "IGN зовёт на празднование GTA 6 — что там будет и как попасть?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T09:10:55Z"
+   },
+   "msg_id": 1206
+  },
+  {
+   "id": "cff177d620ac",
+   "title": "🤪 С этого момента все посты со спойлерами, геймплеем, механиками и так далее, и тому подобное, будут прятаться под СПОЙЛЕР Они будут в формате: ГЕЙМПЛЕЙ/СЮЖЕТ/М",
+   "first_seen": "2026-11-17T09:50:50Z",
+   "updated": "2026-11-18T09:31:01Z",
+   "items": [
+    {
+     "id": "cff177d620ac",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ITC.ua",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Новые скриншоты GTA 6: как реалистичные погодные условия будут влиять на геймплей",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbV9hZXRBdTR4ejBSZGRFWEVoN0sxbzEzbmQ3X0hNTklsREZsUUpLY3BLSVlrbmphT2Z6bTROWWpuZWlDeE1VNU10ZktsRDAzMzQzLUFWNzdCTExzdTBIdDlRbVdPXzBfNTAxbkg1SWE5RWUwNks0MUdyR2xVSFZ6a2l6c1dOTUZ5Q3pjcC1va1cteHp1LWNDQVoxeEpORUg4Sm9MakI5TdIBrAFBVV95cUxQTmJnc0hUeFBycWVVLXhLRXJ0OHhUZ3FCS1QwYWpGRnRwT3ZaM29Ma1NNZnQtYnpYVlJ6cjBTWGk4WktpU3pUYXdyaVFFbEtCeGdvNUw1T2pVOVVVVi1WSHdzbnRUeElmUG5jU2tLZUVkeWdYdVJiSjRfOWtHNjdETXRBS1pQbUZ5RWpvMXJKVXN5MkxBZm9HWDJvY1g2RGhjLWpDNDg0OHdBTS1V?oc=5",
+     "ts": "2026-11-17T08:29:34Z",
+     "summary": ""
+    },
+    {
+     "id": "f54ac53d50ac",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "🤪 С этого момента все посты со спойлерами, геймплеем, механиками и так далее, и тому подобное, будут прятаться под СПОЙЛЕР Они будут в формате: ГЕЙМПЛЕЙ/СЮЖЕТ/М",
+     "url": "https://t.me/gta6deluxe/2102",
+     "ts": "2026-11-18T08:16:27Z",
+     "summary": "🤪 С этого момента все посты со спойлерами, геймплеем, механиками и так далее, и тому подобное, будут прятаться под СПОЙЛЕР Они будут в формате: ГЕЙМПЛЕЙ/СЮЖЕТ/МЕХАНИКИ и дальше текст в спойлере, который вы сами решите смотреть или нет . Всё для того, чтобы не испортить ваше первое впечатление об игре К сожалению, мне (админу) придётся узнать всё об игре ещё до того, как я сам поиграю. Но ваш первый опыт оставлю в целости и сохранности 🥰 😀 Подписаться | Наш чат 😀"
+    },
+    {
+     "id": "87135809be39",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🔊 СПОЙЛЕР: спойлеров не будет А точнее — любое описания сюжета, геймплея и механик после релиза первое время будут скрыты под спойлер ♥ Всё ради того, чтобы не ",
+     "url": "https://t.me/GTA6_m/9400",
+     "ts": "2026-11-18T09:29:25Z",
+     "summary": "🔊 СПОЙЛЕР: спойлеров не будет А точнее — любое описания сюжета, геймплея и механик после релиза первое время будут скрыты под спойлер ♥ Всё ради того, чтобы не заруинить вам удовольствие от самостоятельного первого прохождения НО в комментариях разрешено обсуждать любые темы. Если боитесь спойлеров — открывайте их на свой страх и риск 💬 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "2fec2701ba9c",
+   "title": "GTA 6 feels like the last true gaming event — but after this, I don’t want another 10-year wait",
+   "first_seen": "2026-11-18T09:31:01Z",
+   "updated": "2026-11-18T09:31:01Z",
+   "items": [
+    {
+     "id": "2fec2701ba9c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 feels like the last true gaming event — but after this, I don’t want another 10-year wait",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3M2VkZ6TDVZSmhabVIwWlFLMVNQX2VsNzllTzBhbjZEbHlIUmZabFR2WkZKSy1fb25FcUNoY0pUbW8tdGxBTnhHSlZFeTdWUkVzSEpLRGFEaVpPVHRESnV0UmFUd2tyQ3hfN2RUNU5IWTh4YVJVcUtpaXlLak05Wg?oc=5",
+     "ts": "2026-11-18T07:15:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5bb61c83f4bb",
+   "title": "GTA 6 launch scams: The traps to avoid before and after release",
+   "first_seen": "2026-11-18T09:31:01Z",
+   "updated": "2026-11-18T09:31:01Z",
+   "items": [
+    {
+     "id": "5bb61c83f4bb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 launch scams: The traps to avoid before and after release",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTRWX05WXzc1NkpxcEl3UXNaR3UxU1pCSkFvaUMyeEx2X0NWWkZTWnZSWVZVY1ZqYXN6b1ptekhPZ3lFTVZ2cWVickhIT09LODJwZkV6RVVKdjFzaGM0LU0zLVJTSTBVNzJkZ0VmS3FLa05Kb2VLT0VzZ291MnNBWHA1bzZybnF3d1V0MGNUMG93ek4wdWV0dWg4UjFIUEZtTnZIVFZfdlZrZ3M?oc=5",
+     "ts": "2026-11-18T09:10:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "02777b99faa8",
+   "title": "When does the GTA 6 NZ trick go live? Here’s how to play early, but it comes with a warning",
+   "first_seen": "2026-11-18T09:31:01Z",
+   "updated": "2026-11-18T09:31:01Z",
+   "items": [
+    {
+     "id": "02777b99faa8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Guide",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "When does the GTA 6 NZ trick go live? Here’s how to play early, but it comes with a warning",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPemozbUhneWZzOVRXOHZkTEo4YUhMbXJqX05IZGZxVm5LNnczeWlWWUhvOURsVXNTWmxwMC0wcGlqck1vbldDeGFIU3dKbWlMaUlyelpnUU45VVQ5dlZnaUdhaUhVUlUxVUk5RkdNR0dHYzFrbTF2YS1mNFVyeFdab2U0alVkYnlZZ2FoQ2tndUtlanFZUFhKVW9hLTh1d1dRaXZQMG1SbE1XUnRhb296N0ZyclFpR3VyVFE?oc=5",
+     "ts": "2026-11-18T09:18:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f0f5792ba60c",
+   "title": "PS5 gamers warned to update consoles ahead of GTA 6 launch",
+   "first_seen": "2026-11-18T09:31:01Z",
+   "updated": "2026-11-18T09:31:01Z",
+   "items": [
+    {
+     "id": "f0f5792ba60c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Big Lead",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PS5 gamers warned to update consoles ahead of GTA 6 launch",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5X21yTVV3Sy1ZUHNJTjk3M3V4U0Q4VHpodXRLMHJZWE9YNWxmd2xLWnhlN1NZT0kxOFhWaEZGWnNXSzA4cDFRcWlGSVR0cDI4eVdnSWsxUExhNHJVSTMwNA?oc=5",
+     "ts": "2026-11-18T09:21:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cc5f61e7e99a",
+   "title": "GTA VI has US athletes planning sleepless nights and warning of sporting chaos",
+   "first_seen": "2026-11-18T09:31:01Z",
+   "updated": "2026-11-18T09:31:01Z",
+   "items": [
+    {
+     "id": "cc5f61e7e99a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Independent",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI has US athletes planning sleepless nights and warning of sporting chaos",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYzBDQm5EOEFVaml4d2loWjktM0ZKX2pmX2NvS0ZISEZ5UklJOS1LZ3FjNk1sNE1MbXdJcnFoNnJQNGtocTBDRHN3WG5mRjNzd25GWHRBS08weFM2UzRFZHU3RGpHVGlYS2gySkp3NDBodmxIb1RsUEtaZXBrd1YwaW0xYUgydw?oc=5",
+     "ts": "2026-11-18T09:23:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "470192bf0521",
+   "title": "GTA 6 выйдет 19 ноября: зачем взрослые берут отпуск ради новой игры",
+   "first_seen": "2026-11-18T09:31:01Z",
+   "updated": "2026-11-18T09:31:01Z",
+   "items": [
+    {
+     "id": "470192bf0521",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Бриф24",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 выйдет 19 ноября: зачем взрослые берут отпуск ради новой игры",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBRzNDdldRZG9rVkY5a3dBYUY5NUtVTXlacm9HVDR6cXFKR2VPd1A3VmhwdTJDWUpMS1BOV2JCbWZpUEFxQ1J1NkhqcEpBMzVLeHpr?oc=5",
+     "ts": "2026-11-18T09:26:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "17b80a0dcec0",
+   "title": "GTA 6: Visiting Vice City in real life? Here’s what travelers need to know",
+   "first_seen": "2026-11-18T09:31:01Z",
+   "updated": "2026-11-18T09:31:01Z",
+   "items": [
+    {
+     "id": "17b80a0dcec0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "VisasNews",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Visiting Vice City in real life? Here’s what travelers need to know",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHdFcUR5dzdMNXNOZ0NxUzM0Z29Zd1lwcXFOZ3ZYWjlBaXhCd0dvNll6dDd1MGltRjZKUzcwZWZBNjFjRHJ4b1VlUDFvcGllTUxBZjZfakVoU1hNQUVwTWJnOWw5ZGJmcUc2TjR4cko5VWFvRzVvSXZrc3BjMWVIMmdCRnR3MmNwU1RZYUJTN0gxYXBYaWZtcUlLTGZrdw?oc=5",
+     "ts": "2026-11-18T09:27:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f98d74aeea00",
+   "title": "⬇️ PS5 ПОДОР...",
+   "first_seen": "2026-11-18T09:31:01Z",
+   "updated": "2026-11-18T09:31:01Z",
+   "items": [
+    {
+     "id": "f98d74aeea00",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "⬇️ PS5 ПОДОР...",
+     "url": "https://t.me/gta6deluxe/2105",
+     "ts": "2026-11-18T09:30:47Z",
+     "summary": "⬇️ PS5 ПОДОР... Подешевела на фоне выхода GTA 6 — незначительно, но цены упали в день релиза игры Ценники упали примерно на 10% на все виды консолей. Видимо, у вас появился шанс прыгнуть в последний вагон 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "PS5 подешевела в день выхода GTA 6 — цены упали на 10%",
+    "summary": "В день релиза GTA 6 цены на PS5 упали примерно на 10% на все версии консолей. Об этом сообщил Telegram-канал @gta6deluxe.",
+    "idea": "Короткий разбор: сколько стоила PS5 до релиза и сколько сейчас, плюс вывод — стоит ли брать прямо сейчас. Зрителю важно понять реальную выгоду и не упустить момент.",
+    "hook": "PS5 подешевела в день выхода GTA 6 — ловим момент или ждём?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T09:31:07Z"
+   },
+   "msg_id": 1210
+  },
+  {
    "id": "a8235dd1df3e",
    "title": "The Game Awards 2026 Nominations Revealed, GTA 6 Dominates",
    "first_seen": "2026-11-17T17:20:56Z",
@@ -1104,43 +1427,6 @@
     "at": "2026-11-18T09:11:03Z"
    },
    "msg_id": 1208
-  },
-  {
-   "id": "7622bd983a8a",
-   "title": "Join Us For a Special GTA 6 Launch Celebration",
-   "first_seen": "2026-11-18T09:10:49Z",
-   "updated": "2026-11-18T09:10:49Z",
-   "items": [
-    {
-     "id": "7622bd983a8a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Join Us For a Special GTA 6 Launch Celebration",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRSzFHcGM5Nm9LNmJiNTY1T3BUWGVXbXNjU2ZCaUhta1pNZTg3UGVyaEpTakZHc0dPTXZMOXl1M09naGpYSzlBVmVqNS1HN3JPOWYweHBvS0Z1eHo5OEpkUjJodlc0cG9lRXZVM2NIbkg2SG0wa2RoVXl6c0RrUQ?oc=5",
-     "ts": "2026-11-18T09:06:41Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️ IGN устраивает празднование запуска GTA 6",
-    "summary": "IGN анонсировал специальное празднование в честь запуска GTA 6. Детали события пока не раскрыты, но редакция обещает отметить выход игры.",
-    "idea": "Угол: что именно устроит IGN в ночь запуска — стрим, челленджи или раздача мерча. Зрителю интересно, как присоединиться и что можно выиграть.",
-    "hook": "IGN зовёт на празднование GTA 6 — что там будет и как попасть?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T09:10:55Z"
-   },
-   "msg_id": 1206
   },
   {
    "id": "54681d362eaa",
@@ -2589,47 +2875,6 @@
    "score": 58,
    "level": "PROBABLE",
    "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "cff177d620ac",
-   "title": "🤪 С этого момента все посты со спойлерами, геймплеем, механиками и так далее, и тому подобное, будут прятаться под СПОЙЛЕР Они будут в формате: ГЕЙМПЛЕЙ/СЮЖЕТ/М",
-   "first_seen": "2026-11-17T09:50:50Z",
-   "updated": "2026-11-18T08:20:57Z",
-   "items": [
-    {
-     "id": "cff177d620ac",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ITC.ua",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Новые скриншоты GTA 6: как реалистичные погодные условия будут влиять на геймплей",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbV9hZXRBdTR4ejBSZGRFWEVoN0sxbzEzbmQ3X0hNTklsREZsUUpLY3BLSVlrbmphT2Z6bTROWWpuZWlDeE1VNU10ZktsRDAzMzQzLUFWNzdCTExzdTBIdDlRbVdPXzBfNTAxbkg1SWE5RWUwNks0MUdyR2xVSFZ6a2l6c1dOTUZ5Q3pjcC1va1cteHp1LWNDQVoxeEpORUg4Sm9MakI5TdIBrAFBVV95cUxQTmJnc0hUeFBycWVVLXhLRXJ0OHhUZ3FCS1QwYWpGRnRwT3ZaM29Ma1NNZnQtYnpYVlJ6cjBTWGk4WktpU3pUYXdyaVFFbEtCeGdvNUw1T2pVOVVVVi1WSHdzbnRUeElmUG5jU2tLZUVkeWdYdVJiSjRfOWtHNjdETXRBS1pQbUZ5RWpvMXJKVXN5MkxBZm9HWDJvY1g2RGhjLWpDNDg0OHdBTS1V?oc=5",
-     "ts": "2026-11-17T08:29:34Z",
-     "summary": ""
-    },
-    {
-     "id": "f54ac53d50ac",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "🤪 С этого момента все посты со спойлерами, геймплеем, механиками и так далее, и тому подобное, будут прятаться под СПОЙЛЕР Они будут в формате: ГЕЙМПЛЕЙ/СЮЖЕТ/М",
-     "url": "https://t.me/gta6deluxe/2102",
-     "ts": "2026-11-18T08:16:27Z",
-     "summary": "🤪 С этого момента все посты со спойлерами, геймплеем, механиками и так далее, и тому подобное, будут прятаться под СПОЙЛЕР Они будут в формате: ГЕЙМПЛЕЙ/СЮЖЕТ/МЕХАНИКИ и дальше текст в спойлере, который вы сами решите смотреть или нет . Всё для того, чтобы не испортить ваше первое впечатление об игре К сожалению, мне (админу) придётся узнать всё об игре ещё до того, как я сам поиграю. Но ваш первый опыт оставлю в целости и сохранности 🥰 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [
-    "геймплей"
-   ],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -132557,76 +132802,11 @@
     "at": "2026-11-11T09:40:50Z"
    },
    "msg_id": 774
-  },
-  {
-   "id": "61eace36b607",
-   "title": "Rockstar Games простят 30 fps в GTA 6, но ничего хорошего в такой частоте нет — HUB",
-   "first_seen": "2026-11-11T08:40:45Z",
-   "updated": "2026-11-11T09:31:03Z",
-   "items": [
-    {
-     "id": "61eace36b607",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar Games простят 30 fps в GTA 6, но ничего хорошего в такой частоте нет — HUB",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFBKbE83Ty1zVVRYc1NNSlBqWHNHZjgzRGZHTG9COC1RYWtENW1MRHM2LTRYMXE0NGNDX0cwVHV0RUVjSEx3S1dqamhGa0dCVTlYUUVLRnJ0NUxJWmNSSWlBWGNDUU0tZU85TldPODdIWlRZXzFaRFljZ3NpSXpsMnZpWXhia2NoaGRLY1F2cUg0TXA3ZjlxWE9PWU9FUW9faVNWTDVwOG1Dd9IBrwFBVV95cUxPZW1LbU9HMGlscWxyWDZrdFl4cF82eHZ5N1UyRVlvdWJDdVZMNE5fY2pGS3lLZFExNnZIUmJFamxwOWNEcGh1LVkzQ0x3c3FOcWNMcG4zQjFBaGwwV1Zya20wRWJLRGN1ZGl3VkRyOUp3ZXQtV0gzWW5TOWk2b09QeUkxLUdxNGswLWc1RE1KbFU5UzFNQ3Npd1hhVG9YdEsxWElJNGI5NG1ybkpCRXBj?oc=5",
-     "ts": "2026-11-10T09:29:40Z",
-     "summary": ""
-    },
-    {
-     "id": "2c6e3d4ec87a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar Games простят 30 fps в GTA 6, но ничего хорошего в такой частоте нет — HUB",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZW1LbU9HMGlscWxyWDZrdFl4cF82eHZ5N1UyRVlvdWJDdVZMNE5fY2pGS3lLZFExNnZIUmJFamxwOWNEcGh1LVkzQ0x3c3FOcWNMcG4zQjFBaGwwV1Zya20wRWJLRGN1ZGl3VkRyOUp3ZXQtV0gzWW5TOWk2b09QeUkxLUdxNGswLWc1RE1KbFU5UzFNQ3Npd1hhVG9YdEsxWElJNGI5NG1ybkpCRXBj0gGvAUFVX3lxTE9lbUttT0cwaWxxbHJYNmt0WXhwXzZ4dnk3VTJFWW91YkN1Vkw0Tl9jakZLeUtkUTE2dkhSYkVqbHA5Y0RwaHUtWTNDTHdzcU5xY0xwbjNCMUFobDBXVnJrbTBFYktEY3VkaXdWRHI5SndldC1XSDNZblM5aTZvT1B5STEtR3E0azAtZzVETUpsVTlTMU1Dc2l3WGFUb1h0SzFYSUk0Yjk0bXJuSkJFcGM?oc=5",
-     "ts": "2026-11-11T08:36:12Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7bed8323e3a5",
-   "title": "how are you planning to not get spoiled when some regions get it earlier",
-   "first_seen": "2026-11-11T09:31:03Z",
-   "updated": "2026-11-11T09:31:03Z",
-   "items": [
-    {
-     "id": "7bed8323e3a5",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "how are you planning to not get spoiled when some regions get it earlier",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xtdhkp/how_are_you_planning_to_not_get_spoiled_when_some/",
-     "ts": "2026-11-11T09:30:07Z",
-     "summary": "my plan is mute every keyword and stay off this sub til i finish the story. give it 2 days before some youtube thumbnail ruins it anyway submitted by /u/Minimum-Guard7303 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-18T09:20:51Z",
+  "last_run": "2026-11-18T09:31:08Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
@@ -132642,7 +132822,7 @@
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 7/8",
    "tg_gta6deluxe: 17/18",
-   "tg_gta6_m: 16/20",
+   "tg_gta6_m: 17/20",
    "tg_gta6newsdaily: 2/18"
   ],
   "digest": "2026-11-18@9",
