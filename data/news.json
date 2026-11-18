@@ -1,88 +1,10 @@
 {
  "stories": [
   {
-   "id": "40082cf2cf8b",
-   "title": "‘Grand Theft Auto VI’ launching amid feverish anticipation",
-   "first_seen": "2026-11-18T21:40:57Z",
-   "updated": "2026-11-18T22:10:54Z",
-   "items": [
-    {
-     "id": "40082cf2cf8b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Lee News Central",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launching amid feverish anticipation",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGV5Q0ppdmlBbzg5SGFUNktyX0kzRE82MzZjVHZIbW1qZzA1QlB2MGQtcjJPZV9RRnlZN19YaW5hYzlOU0hJYW9aa1VpdUhLWEJLMGxuUXFxMXZaQ1VvWG4wWHpMM0JZTzdPUVVxSVg0aDJyUjZiZFpRd29HQ3BXMVdOdHpQVkFYWkh1WThSQnBHWXh6cmtpZVJLcmJyTjI0OUdLOUp1aHR5MDhzSjlaQWZkWHhTSTFWWFZNajZCZWpONUYtSW9qU2dDV0pJdTFDc0ZIMmdmS0twVXA3c0dpV1lRbmxScDBISTlyTE5USWw?oc=5",
-     "ts": "2026-11-18T21:30:00Z",
-     "summary": ""
-    },
-    {
-     "id": "eaa52b5177b9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Buffalo News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launching amid feverish anticipation",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ0I2N1NPS01xU0t1Qk5hTExYM2hIblM5UzRGUGUxcXJoNW5OYnRKS05hc1ZsSDBiR0liVHZCTE9OS21xZFhUUGtjTjFaZkFWa3JaZ1lMUU5hZ25ldWtCdVBCZDUtYm5PckYtUVhhLWd1U2xJWHVNRWhVTGpITWVzc1ptdnRPbF9KenIzc1pPTDB1THBjMFdJX25ubXBIZUt3c3RMSjBpbk0?oc=5",
-     "ts": "2026-11-18T21:30:00Z",
-     "summary": ""
-    },
-    {
-     "id": "02170a9e9c05",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Elko Daily Free Press",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launching amid feverish anticipation",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkVvMU1MZnlremdkZ2ltbF9hOVQwWENKa2s5bXkwWmF5aldjRTQxdFNpaDlyZjhrYWRhS2ZoWk5uZVExRGJ1Tm1VTG0yS2JxbEZpUEFySEQzdkVjcHJqYk93QXpuczlVNk15VVEzd1ZrWHFkVkF4dFV3aWpLWHFla1g1MzZaYzl6R0pXV2hlS3lrODJ1SHZYbFU3dWxnZG5qcGZXZWVn?oc=5",
-     "ts": "2026-11-18T21:30:00Z",
-     "summary": ""
-    },
-    {
-     "id": "24e0160d1710",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Channel 3000",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launching amid feverish anticipation",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOVFfY1BRNHZpYWJ4WVdTWWtaYlFJeHFncDdqckpHc0EwMFBqVGwtTjNUMFpCUll1YmhsSVdFakVWOTAwMFRVYzFRY3c0cGFyS1RWVEdWcjhGTzFIWjRUNnEzT2h1LV9Cb1N1UVNIU0ZMQ2xKMDN5QlNIUWhzSnlwVlNQS25LUTJlMUpuVUV5THFpWTJtWW9Od1c1MFlaTnB6ZXlHdlpIUXVzVUlmSjVuT1hkbF8wVFduZThVZmIycGtuOVNPWGs0eE84NEV0R0thUFdGU1YteDhPVlVoTkk0U0h3NkJZLVhNeTdnaGFn?oc=5",
-     "ts": "2026-11-18T21:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 74,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru",
-   "ai": {
-    "title_ru": "GTA 6 вышла сегодня: город кипит, игроки уже в деле",
-    "summary": "Сегодня 19 ноября 2026 года GTA 6 официально вышла на PS5 и Xbox Series X|S. Lee News Central, Buffalo News и Elko Daily Free Press пишут о запуске на фоне ажиотажа и очередей.",
-    "idea": "Кадры ночных очередей и первые эмоции у консолей — зритель видит, что релиз уже здесь, и хочет присоединиться.",
-    "hook": "Сегодня релиз GTA 6 — очереди у магазинов, первые эмоции и запуск.",
-    "stars": 5,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T22:01:19Z"
-   },
-   "msg_id": 1412
-  },
-  {
    "id": "6d61fbe4bc36",
    "title": "Want to discuss 'Grand Theft Auto VI' with gaming friends? Here's a primer as the new version drops",
    "first_seen": "2026-11-18T21:10:57Z",
-   "updated": "2026-11-18T22:10:54Z",
+   "updated": "2026-11-18T22:20:48Z",
    "items": [
     {
      "id": "6d61fbe4bc36",
@@ -239,6 +161,19 @@
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNnIteG13MzM0YWFfeThhblNEMXRIRGlYdHQtZ2FqRHpWU2x5NG5EVzhZUllmNmt0NmRpQXE2YVZvT2JBa01ESjhBYXE2QnFwQVU0aGxDNG9KNnBITzVkekJDSURDeVgxOFkybDREZmlWR2wzalZ0cFNvQm00VGpvSW9TaWozSXlLb05xUDhQVGh3b2NMRGxsZkpYRm1mRVplbXlBNE51M3dZNUxIX3lsS1gyY24wLV9jaUJQRWdoU3ZMeFVKZGJEMTBRRHN4WW9rMXNyaTRHWldHYlphZVAwWHZZbmZNMUlaSDFvRzIxSXI?oc=5",
      "ts": "2026-11-18T21:39:00Z",
      "summary": ""
+    },
+    {
+     "id": "b839ec3e6dbb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "AP News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Want to discuss 'Grand Theft Auto VI' with gaming friends? Here's a primer as the new version drops",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1dpUTVGWTVNbGFkS21mX0tVV1RDSS1DaktjQjhtenVCWk45ZldhX1F2cHZrdUxENkNoTmtUTk1HZTRCUWc5bndrdHB2LUxCb092VklnVlBPNUxGOXdHSmZlUEdTcHRfcGZfMGxHeERxRWdYdUFvQUJLZHREUE5VeEFmc3d5d3VrUE93Zlhxa0ttcENKZnd3?oc=5",
+     "ts": "2026-11-18T21:04:00Z",
+     "summary": ""
     }
    ],
    "tags": [],
@@ -257,6 +192,455 @@
     "at": "2026-11-18T21:20:59Z"
    },
    "msg_id": 1402
+  },
+  {
+   "id": "e8655bf27a04",
+   "title": "PlayStation Issues New Mandatory Update Warning Ahead Of GTA 6 Launch",
+   "first_seen": "2026-11-18T08:31:02Z",
+   "updated": "2026-11-18T22:20:48Z",
+   "items": [
+    {
+     "id": "e8655bf27a04",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation Issues New Mandatory Update Warning Ahead Of GTA 6 Launch",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGVYYnBSZ05VM0luVHBRcnJNTTZra05Pd3dsaE5PZE01WF91a2JRUVFBRUpxYTVzWXljWlVsZHJFWEw4dXhxWDZld3VjUGJhZzFUSnhkd0lUalpOcXducmV3QW1OVHJNR1c3RU54S0dkbWI0cWpoTzA3NjJlZzBXYndySEFKSXFIUk94Y0JWbmRtNThDd2g3UU0xTXNvZEhrckkxODZn?oc=5",
+     "ts": "2026-11-18T08:20:11Z",
+     "summary": ""
+    },
+    {
+     "id": "b104e9627546",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Newsweek",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation Issues GTA 6 Software Warning Before Launch",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkU4OUNlNnUxT3VXNTMzQjhSTm5hTHpJanI4SEVHaHk5U1l2Yi1HWnhGYjNjUlhsOUxoeDNZNXhlVlVaYzBNOVlENmJrckJZTkdfTXYyNGJmMHhWRWJUOEtyMThfQXJSR1BDcldYRml6bUdyOUJHNTF4MC1lUmpCRWRNSWxOczFuMHc?oc=5",
+     "ts": "2026-11-18T10:31:00Z",
+     "summary": ""
+    },
+    {
+     "id": "30164285c211",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Newsweek",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation Users Report Access Issues Hours Before GTA VI Launch",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczN1Z253MGZoVlZsa0VGZWVXaV90M0Z1cUVnRGJYT2lVZWtTMjRLbVotZUFBV2x0bjRlOVVvSDg1M3FybnlINjhnemdwZUxvUXpoMGVVUFBHbU1VTGNQRnQ0NEtOenVlQ0loaXFkQXlnNnJvRThTZ0EzUmwzaWxSTTRMdkk2T0ptbDVkUUpkRlFvRWdZdTN5UUNBZFhwRlVf?oc=5",
+     "ts": "2026-11-18T20:54:00Z",
+     "summary": ""
+    },
+    {
+     "id": "a0d162d2719f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CT Insider",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation Network outage hits users hours before GTA 6 launch",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGpMX2VERlRHUnRwRkYtQjc4QjNWZXpjME1wd2VrQ3MyZzZiSGdJM0RxekxGaTNBLTlueXBrRjNLVGFjOGJRQ3NsNGxMZm91WDhfMkY2MFF6YTFrSEY5UzlfSVNza0x2VnJpRXc0d0FFWjZFNHBqN3NrQ2dNcXJQLTJZa2xpYkdiekVkV3gtNEd5YWktWGdiOUoybw?oc=5",
+     "ts": "2026-11-18T21:16:42Z",
+     "summary": ""
+    },
+    {
+     "id": "ae33e7578888",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BigGo Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation Network Buckles Hours Before GTA VI Midnight Launch",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WT0pDdnNyX29zU3JfeDF2bEFCVkx4YzhWM1Bua1F0bWstXzNac0tYRGZhVlUySWVyclBmemhfNS1EbW5BYm9tR2NfZWZqZnRxNkpHREZ2eUNnTkxPUHg0d2NxakhoeHR6OUh6UlBFSTA4OVJBWnc?oc=5",
+     "ts": "2026-11-18T22:05:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 74,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️PlayStation предупреждает: обновитесь перед запуском GTA 6",
+    "summary": "PlayStation выпустила предупреждение о необходимости обязательного обновления ПО перед запуском GTA 6. Об этом сообщили OpenCritic и Newsweek.",
+    "idea": "Короткая инструкция: зайти в настройки, нажать «Обновить», показать экран загрузки. Зрителю важно не словить ошибку в день релиза.",
+    "hook": "Не обновишь PS5 — GTA 6 может не запуститься. Вот что сделать.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T10:41:05Z"
+   },
+   "msg_id": 1222
+  },
+  {
+   "id": "5235c2e331c8",
+   "title": "How Are People Playing GTA 6 Early?",
+   "first_seen": "2026-11-18T11:50:51Z",
+   "updated": "2026-11-18T22:20:48Z",
+   "items": [
+    {
+     "id": "5235c2e331c8",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "How Are People Playing GTA 6 Early?",
+     "url": "https://insider-gaming.com/gta-6-early/",
+     "ts": "2026-11-18T11:44:09Z",
+     "summary": "You might have seen people playing GTA 6 early and posting content online, and there are two reasons for this. The post How Are People Playing GTA 6 Early? appeared first on Insider Gaming ."
+    },
+    {
+     "id": "073efd535e77",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Bergen Record",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How are people playing GTA 6 early? The New Zealand trick explained",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOczZ2Q1poU1p3ZEgwQ3N4aTB5d3V2NXhIZlNqTXU3YmJFUDZacFY5a1NyT29wWmdHVW9yUXEzeFVVd0dPeVNzMm1uVDM4QmhKT2UwN21MbzNnNGlhNWpRTkk4R2hWSzg3b2FpaFQySU50VmE0X0Q3MHFfLU9SZU9rcXIyNlEtQ2pudlZTdkU2cTI0MTdsWmtOM29EY3BLYUFBUUpvWHVjczdJeXYydlNjUkRBRFBJWmVfdjd1Z28wd0FUVXBsTjM1Y0RmUDN0T1kzbEQ2UDVRemdFcWFUOGVtU3NId2JTRWY5X2RSYS0xUWc5b1BoRGc?oc=5",
+     "ts": "2026-11-18T12:49:01Z",
+     "summary": ""
+    },
+    {
+     "id": "c9f1d2fc6529",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Revista Merca2.0",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Is GTA 6 already out in New Zealand? How are people playing it already?",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMHVpNnVrQlhhSUd0clJfbVNoQ3IwR0txbGFVQkxsZmFOSTVuZ0pwdmJHNWZjX3hOaWhROVBCNFFucDBkem11VVBaN1l6R25mTkhIOGlIQ0c4UFdyRE14a0FKVXFTdjA3NFc2ZUlOcV9GMVNPYVdoeV94LVJVSHBSOVpjdTl2NEdEQmZBOUdJbE1vN2xkY25MdlhB?oc=5",
+     "ts": "2026-11-18T14:42:36Z",
+     "summary": ""
+    },
+    {
+     "id": "c14fb8fff9ed",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Clarin.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How are people playing GTA 6 already? The New Zealand trick and early access explained",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ1ZaZVRvWWdNMXQxQ29sdkNYMlVpT0owU2NpMmhYRmNKUUM2Qkw3MlppbWdyaGQxMm12aExUQXVVc0k2dDY3dlFQWkxaeWI4ZUJmRGJQN1RpY2dKUG1SM1ZkTnI5bkhvVmhWNGV2V0NWcGVhODVIOXM2eTBOWXNQNEpsazZ6T2VfT054T0xfc1l5M0JVdmFET3BQTjZKWmhMVVMxbGQ5UndNVzZaQzV2YllUR21WV1UtWV9PN1B5cFNkLUVoUy1RNjlXeGRwOWvSAdQBQVVfeXFMT3B3ZzZmZjF5aDhUd3N3QVFxRy1tZVJ3ZEdIWVA5MlhSNDkwdXRhdDFkNm10TmRjSXJJSDM1VkhpUWU1MEt1NEMzZVkweEFNOE5FQmlYcnJTZ241QnV6dHZNMTh3RlFINWtmbkxtUjJBdTdfTmE1NDNtWXdnSEEwcWdyamttcnRBT29PalZnVWtITHVYTzZ4Y3FsV3VjNFpCbW1kOU5FNUlVLXBRT1Z1OFQwQXlKOHBCZ3pHM2ZmTnV3QUwwUENOV05UM1BCMzNlSTZfSEQ?oc=5",
+     "ts": "2026-11-18T14:59:44Z",
+     "summary": ""
+    },
+    {
+     "id": "72b430af64da",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Is ‘GTA 6’ out? How people are playing the new game already, plus what the verdict is so far.",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZGI2bGhxU1VzMDd6ZkJrMjg2MGRUclM5MkRsNXl3M2kwX0h5UWZQLWg3MnJ4NTVTXzkybVBSLVdMTE5QR2RHQ1Uzei1ZRFd6OTRIR1hzTVdiQlAxQnZ0QWNYSXFUaVBqemFmZkwwdWtjVVhVdERxU0FPQVZWMEtjWnY5a1pVLWxlakRRcVpYdy1naXBNSjRlVmtWNEd5MlJHSmNTNFJWTlFnazhzaFZ1MTZtanBzQnBNZHZ1V0tLY2g4cWwxSURIa3lxOEwxbWV2YlY4b3NVNHNKVU15NmF3V2w5X1lfckJDeWFz?oc=5",
+     "ts": "2026-11-18T15:23:23Z",
+     "summary": ""
+    },
+    {
+     "id": "651764a457e3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Forbes",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "How To Play GTA 6 Early With The New Zealand Trick",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbzZHY0RORmx4SHUyaUVoTldubktpcFozMUtPaFFFUkNpR1NiazJyTDU4Zzl6WU1UeUFkbENfdWFUS2sxVVZ0RDlnNlNuV2QyT0h6VzRwZExNNnFpZjdvNFpzajczM0dLcmNOUE9BUVp6T0hJbTJGVmNGOGUzcUE4Rl9mX2EwNDY4d2pTaFFlSlhJNk53X1JhU3pDdjVib09QQlIwNUZSNkdCV1pET0dKanloWUE1QXdPak14MUZ2MnVkRDJuVkw4?oc=5",
+     "ts": "2026-11-18T22:13:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Как люди играют в GTA 6 до релиза? Две причины",
+    "summary": "По данным Insider Gaming (Tom Henderson), в сети появились ролики с GTA 6 до релиза. Есть две причины, почему люди играют раньше и выкладывают контент.",
+    "idea": "Коротко разбираем две причины раннего доступа к GTA 6 и показываем примеры утёкших роликов. Зрителю интересно, откуда утечки и можно ли верить «геймплею до релиза».",
+    "hook": "Видели геймплей GTA 6 до релиза? Вот две причины, как это возможно.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T11:50:57Z"
+   },
+   "msg_id": 1257
+  },
+  {
+   "id": "b473818f0053",
+   "title": "Игровое событие десятилетия: GTA VI официально вышла спустя 13 лет ожидания",
+   "first_seen": "2026-11-18T22:20:48Z",
+   "updated": "2026-11-18T22:20:48Z",
+   "items": [
+    {
+     "id": "b473818f0053",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "The GEEK",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Игровое событие десятилетия: GTA VI официально вышла спустя 13 лет ожидания",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kMjJ1cFVFOURWZWhDOVRieWxGWVNidXh5MlpBYXdZUzlPRjdLN1V6R3AtRjJab18xVGtNQmo2cWFIcTJTbkpJZERfSFJ3QQ?oc=5",
+     "ts": "2026-11-18T21:01:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6b27c93b3d3c",
+   "title": "'GTA VI' release attracts gamers, multi-media retailers",
+   "first_seen": "2026-11-18T22:20:48Z",
+   "updated": "2026-11-18T22:20:48Z",
+   "items": [
+    {
+     "id": "6b27c93b3d3c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WV News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA VI' release attracts gamers, multi-media retailers",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb1RLUThXWlhidmFVTkRzTkV4emh3d1VTel9tNXJGV3p5U1k1VlE3RjRuZzVST0NuQS1VaDlGdDFnbVRlTVNwYm1wdWNPcUlZNUFSaEY1V3NHNFByZmR2SUFrZWVzVWJvbWlWNWc2cFRCUTBVcWN4cjc0QmdkeENhNEFZQl95TXBnQnEwQWpXaEJRNlo4aEx6Skdnc0Q3YnNwWEdFdEdLUnRWalc4X1NyYTRyMDhmbHlJYmkzZUFtNTdxNW9WaGh4VjRkcEhUZTQxOGVR?oc=5",
+     "ts": "2026-11-18T22:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0782dc0c94a8",
+   "title": "‘Grand Theft Auto VI’ release brings excitement to Topeka gamers",
+   "first_seen": "2026-11-18T22:20:48Z",
+   "updated": "2026-11-18T22:20:48Z",
+   "items": [
+    {
+     "id": "0782dc0c94a8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KSNT 27 News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ release brings excitement to Topeka gamers",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUFRM2ZsSVRfMFdsamwtZjMyRGY0ZDlPV1BObE9ZVUhtUUNhN1pUNFVCbTJiR2drYXRpeExuYlRkekd2OGZBRnRMbXBfYTVaS3RFRzFCV01BNXA1OTdhdGhwYjJJUGJ1UEE0RnRBNmZNVUZLRHNkLVFsWm9BU25hR3Z1Mm05ZlJYTnFZTW9ZWjJpcDdIRmJ1UUppNE9JWG9nN3fSAacBQVVfeXFMTjgxNXctRlkxUjlYYkp5RHQ0ZUxMdmUySjdsVE4tdVVHdFhQWEtlc3M5ME9ScFpKcVZraEdBSW5uYzJic05iSHJqNXNuNnZlNDcyc2dUSzlad0x3Q244anVaZFg5S0JrRVFTVVk2UVNZblpHLThzU0ZBaUwtYnF0SmotQU1GT2ZkaHZsd19oMXA0RjlSQTlMVnlnUlNBZXVMNWZ5ZDMtSG8?oc=5",
+     "ts": "2026-11-18T22:06:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6ae9480e9439",
+   "title": "GTA 6’s Record MetaCritic Score Stays, Maintains GOAT Status",
+   "first_seen": "2026-11-18T22:20:48Z",
+   "updated": "2026-11-18T22:20:48Z",
+   "items": [
+    {
+     "id": "6ae9480e9439",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6’s Record MetaCritic Score Stays, Maintains GOAT Status",
+     "url": "https://insider-gaming.com/gta-6-metacritic-score-maintains-goat-status/",
+     "ts": "2026-11-18T22:11:38Z",
+     "summary": "After the review embargo for GTA 6 dropped and scores flooded in, it had the highest rating ever. Looks like that'll stick. The post GTA 6’s Record MetaCritic Score Stays, Maintains GOAT Status appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 — рекордный рейтинг MetaCritic. И он держится",
+    "summary": "По данным Insider Gaming (Tom Henderson), после снятия эмбарго на рецензии GTA 6 получила самый высокий рейтинг в истории MetaCritic. Пока этот рекорд сохраняется, и игра удерживает статус GOAT.",
+    "idea": "Короткий ролик с быстрым монтажом оценок и реакцией: показываем рекордный балл и реакцию комьюнити. Зрителю важно увидеть, что GTA 6 не просто хайп, а реально лучшая по оценкам.",
+    "hook": "Самый высокий рейтинг в истории MetaCritic — и он держится. GTA 6 — GOAT?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T22:20:52Z"
+   },
+   "msg_id": 1416
+  },
+  {
+   "id": "3bcd0a0c6b4c",
+   "title": "Масштабный сбой PlayStation произошел в мире на фоне выхода GTA 6",
+   "first_seen": "2026-11-18T22:20:48Z",
+   "updated": "2026-11-18T22:20:48Z",
+   "items": [
+    {
+     "id": "3bcd0a0c6b4c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "телепорт.рф",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Масштабный сбой PlayStation произошел в мире на фоне выхода GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN1dvRDZhaHdwUkIwMHhzUWVSRE9QdklEQk5WZVdHRHZfenY3X2NGM1BldVdsWEhCNE9GdzZoZnlObVltemZzdUZjLXcySlB6Z0FrR05ZRjR4S3ZQMjItRkQ1ZTRGWTVFazlEM1h4UnhNVzQyUU1ranBVbkh5ZzUtQWZQQjhSbko2QjhhV05lRW9nVFF5Q282Mi1DZHpDdDFrbUZUNXUwdC1lQUhpa2xfZUpmNFBHZUZhZEYzM0d6TXJkZw?oc=5",
+     "ts": "2026-11-18T22:12:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "032042026aca",
+   "title": "Can You Romance Mandy In GTA 6?",
+   "first_seen": "2026-11-18T22:20:48Z",
+   "updated": "2026-11-18T22:20:48Z",
+   "items": [
+    {
+     "id": "032042026aca",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Can You Romance Mandy In GTA 6?",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YS1pCT01hcXNNN2lqUjV3MDdhN0xHRXRQeW9oejM5UzZ4akRkRkxiZEcyc1hKNG9QbEt4Q2kwSlllTU1aQmRkYUJVb3QwYldCNFZ1VUNEYVQ4TllJM2JTcWNmdDh2MmUwVHo5MHVYX3V3VkE?oc=5",
+     "ts": "2026-11-18T22:14:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Можно ли встречаться с Мэнди в GTA 6? Что известно",
+    "summary": "GameSpot разбирает, можно ли завести роман с Мэнди в GTA 6. Официально Rockstar это не подтверждала, поэтому пока это лишь предположения по утечкам и слухам.",
+    "idea": "Коротко объясняем, что известно о романтических линиях в GTA 6 и почему это важно для ролевой игры. В кадре — нарезка утечек и вопрос зрителю, кого он выберет.",
+    "hook": "Мэнди в GTA 6 — можно ли с ней встречаться? Разбираем факты.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T22:20:55Z"
+   },
+   "msg_id": 1417
+  },
+  {
+   "id": "40082cf2cf8b",
+   "title": "‘Grand Theft Auto VI’ launching amid feverish anticipation",
+   "first_seen": "2026-11-18T21:40:57Z",
+   "updated": "2026-11-18T22:10:54Z",
+   "items": [
+    {
+     "id": "40082cf2cf8b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Lee News Central",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launching amid feverish anticipation",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGV5Q0ppdmlBbzg5SGFUNktyX0kzRE82MzZjVHZIbW1qZzA1QlB2MGQtcjJPZV9RRnlZN19YaW5hYzlOU0hJYW9aa1VpdUhLWEJLMGxuUXFxMXZaQ1VvWG4wWHpMM0JZTzdPUVVxSVg0aDJyUjZiZFpRd29HQ3BXMVdOdHpQVkFYWkh1WThSQnBHWXh6cmtpZVJLcmJyTjI0OUdLOUp1aHR5MDhzSjlaQWZkWHhTSTFWWFZNajZCZWpONUYtSW9qU2dDV0pJdTFDc0ZIMmdmS0twVXA3c0dpV1lRbmxScDBISTlyTE5USWw?oc=5",
+     "ts": "2026-11-18T21:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "eaa52b5177b9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Buffalo News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launching amid feverish anticipation",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ0I2N1NPS01xU0t1Qk5hTExYM2hIblM5UzRGUGUxcXJoNW5OYnRKS05hc1ZsSDBiR0liVHZCTE9OS21xZFhUUGtjTjFaZkFWa3JaZ1lMUU5hZ25ldWtCdVBCZDUtYm5PckYtUVhhLWd1U2xJWHVNRWhVTGpITWVzc1ptdnRPbF9KenIzc1pPTDB1THBjMFdJX25ubXBIZUt3c3RMSjBpbk0?oc=5",
+     "ts": "2026-11-18T21:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "02170a9e9c05",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Elko Daily Free Press",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launching amid feverish anticipation",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkVvMU1MZnlremdkZ2ltbF9hOVQwWENKa2s5bXkwWmF5aldjRTQxdFNpaDlyZjhrYWRhS2ZoWk5uZVExRGJ1Tm1VTG0yS2JxbEZpUEFySEQzdkVjcHJqYk93QXpuczlVNk15VVEzd1ZrWHFkVkF4dFV3aWpLWHFla1g1MzZaYzl6R0pXV2hlS3lrODJ1SHZYbFU3dWxnZG5qcGZXZWVn?oc=5",
+     "ts": "2026-11-18T21:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "24e0160d1710",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Channel 3000",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launching amid feverish anticipation",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOVFfY1BRNHZpYWJ4WVdTWWtaYlFJeHFncDdqckpHc0EwMFBqVGwtTjNUMFpCUll1YmhsSVdFakVWOTAwMFRVYzFRY3c0cGFyS1RWVEdWcjhGTzFIWjRUNnEzT2h1LV9Cb1N1UVNIU0ZMQ2xKMDN5QlNIUWhzSnlwVlNQS25LUTJlMUpuVUV5THFpWTJtWW9Od1c1MFlaTnB6ZXlHdlpIUXVzVUlmSjVuT1hkbF8wVFduZThVZmIycGtuOVNPWGs0eE84NEV0R0thUFdGU1YteDhPVlVoTkk0U0h3NkJZLVhNeTdnaGFn?oc=5",
+     "ts": "2026-11-18T21:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 74,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru",
+   "ai": {
+    "title_ru": "GTA 6 вышла сегодня: город кипит, игроки уже в деле",
+    "summary": "Сегодня 19 ноября 2026 года GTA 6 официально вышла на PS5 и Xbox Series X|S. Lee News Central, Buffalo News и Elko Daily Free Press пишут о запуске на фоне ажиотажа и очередей.",
+    "idea": "Кадры ночных очередей и первые эмоции у консолей — зритель видит, что релиз уже здесь, и хочет присоединиться.",
+    "hook": "Сегодня релиз GTA 6 — очереди у магазинов, первые эмоции и запуск.",
+    "stars": 5,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T22:01:19Z"
+   },
+   "msg_id": 1412
   },
   {
    "id": "69cd76dd668a",
@@ -2696,82 +3080,6 @@
    "status": "new",
    "ai_fail": 1,
    "ai_error": "ValueError: нет полей: title_ru"
-  },
-  {
-   "id": "e8655bf27a04",
-   "title": "PlayStation Issues New Mandatory Update Warning Ahead Of GTA 6 Launch",
-   "first_seen": "2026-11-18T08:31:02Z",
-   "updated": "2026-11-18T21:31:09Z",
-   "items": [
-    {
-     "id": "e8655bf27a04",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "OpenCritic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "PlayStation Issues New Mandatory Update Warning Ahead Of GTA 6 Launch",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGVYYnBSZ05VM0luVHBRcnJNTTZra05Pd3dsaE5PZE01WF91a2JRUVFBRUpxYTVzWXljWlVsZHJFWEw4dXhxWDZld3VjUGJhZzFUSnhkd0lUalpOcXducmV3QW1OVHJNR1c3RU54S0dkbWI0cWpoTzA3NjJlZzBXYndySEFKSXFIUk94Y0JWbmRtNThDd2g3UU0xTXNvZEhrckkxODZn?oc=5",
-     "ts": "2026-11-18T08:20:11Z",
-     "summary": ""
-    },
-    {
-     "id": "b104e9627546",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Newsweek",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "PlayStation Issues GTA 6 Software Warning Before Launch",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkU4OUNlNnUxT3VXNTMzQjhSTm5hTHpJanI4SEVHaHk5U1l2Yi1HWnhGYjNjUlhsOUxoeDNZNXhlVlVaYzBNOVlENmJrckJZTkdfTXYyNGJmMHhWRWJUOEtyMThfQXJSR1BDcldYRml6bUdyOUJHNTF4MC1lUmpCRWRNSWxOczFuMHc?oc=5",
-     "ts": "2026-11-18T10:31:00Z",
-     "summary": ""
-    },
-    {
-     "id": "30164285c211",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Newsweek",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "PlayStation Users Report Access Issues Hours Before GTA VI Launch",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczN1Z253MGZoVlZsa0VGZWVXaV90M0Z1cUVnRGJYT2lVZWtTMjRLbVotZUFBV2x0bjRlOVVvSDg1M3FybnlINjhnemdwZUxvUXpoMGVVUFBHbU1VTGNQRnQ0NEtOenVlQ0loaXFkQXlnNnJvRThTZ0EzUmwzaWxSTTRMdkk2T0ptbDVkUUpkRlFvRWdZdTN5UUNBZFhwRlVf?oc=5",
-     "ts": "2026-11-18T20:54:00Z",
-     "summary": ""
-    },
-    {
-     "id": "a0d162d2719f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "CT Insider",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "PlayStation Network outage hits users hours before GTA 6 launch",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGpMX2VERlRHUnRwRkYtQjc4QjNWZXpjME1wd2VrQ3MyZzZiSGdJM0RxekxGaTNBLTlueXBrRjNLVGFjOGJRQ3NsNGxMZm91WDhfMkY2MFF6YTFrSEY5UzlfSVNza0x2VnJpRXc0d0FFWjZFNHBqN3NrQ2dNcXJQLTJZa2xpYkdiekVkV3gtNEd5YWktWGdiOUoybw?oc=5",
-     "ts": "2026-11-18T21:16:42Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️PlayStation предупреждает: обновитесь перед запуском GTA 6",
-    "summary": "PlayStation выпустила предупреждение о необходимости обязательного обновления ПО перед запуском GTA 6. Об этом сообщили OpenCritic и Newsweek.",
-    "idea": "Короткая инструкция: зайти в настройки, нажать «Обновить», показать экран загрузки. Зрителю важно не словить ошибку в день релиза.",
-    "hook": "Не обновишь PS5 — GTA 6 может не запуститься. Вот что сделать.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T10:41:05Z"
-   },
-   "msg_id": 1222
   },
   {
    "id": "8b0d9a85c137",
@@ -16725,97 +17033,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "5235c2e331c8",
-   "title": "How Are People Playing GTA 6 Early?",
-   "first_seen": "2026-11-18T11:50:51Z",
-   "updated": "2026-11-18T15:31:21Z",
-   "items": [
-    {
-     "id": "5235c2e331c8",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "How Are People Playing GTA 6 Early?",
-     "url": "https://insider-gaming.com/gta-6-early/",
-     "ts": "2026-11-18T11:44:09Z",
-     "summary": "You might have seen people playing GTA 6 early and posting content online, and there are two reasons for this. The post How Are People Playing GTA 6 Early? appeared first on Insider Gaming ."
-    },
-    {
-     "id": "073efd535e77",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Bergen Record",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How are people playing GTA 6 early? The New Zealand trick explained",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOczZ2Q1poU1p3ZEgwQ3N4aTB5d3V2NXhIZlNqTXU3YmJFUDZacFY5a1NyT29wWmdHVW9yUXEzeFVVd0dPeVNzMm1uVDM4QmhKT2UwN21MbzNnNGlhNWpRTkk4R2hWSzg3b2FpaFQySU50VmE0X0Q3MHFfLU9SZU9rcXIyNlEtQ2pudlZTdkU2cTI0MTdsWmtOM29EY3BLYUFBUUpvWHVjczdJeXYydlNjUkRBRFBJWmVfdjd1Z28wd0FUVXBsTjM1Y0RmUDN0T1kzbEQ2UDVRemdFcWFUOGVtU3NId2JTRWY5X2RSYS0xUWc5b1BoRGc?oc=5",
-     "ts": "2026-11-18T12:49:01Z",
-     "summary": ""
-    },
-    {
-     "id": "c9f1d2fc6529",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Revista Merca2.0",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Is GTA 6 already out in New Zealand? How are people playing it already?",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMHVpNnVrQlhhSUd0clJfbVNoQ3IwR0txbGFVQkxsZmFOSTVuZ0pwdmJHNWZjX3hOaWhROVBCNFFucDBkem11VVBaN1l6R25mTkhIOGlIQ0c4UFdyRE14a0FKVXFTdjA3NFc2ZUlOcV9GMVNPYVdoeV94LVJVSHBSOVpjdTl2NEdEQmZBOUdJbE1vN2xkY25MdlhB?oc=5",
-     "ts": "2026-11-18T14:42:36Z",
-     "summary": ""
-    },
-    {
-     "id": "c14fb8fff9ed",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Clarin.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How are people playing GTA 6 already? The New Zealand trick and early access explained",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ1ZaZVRvWWdNMXQxQ29sdkNYMlVpT0owU2NpMmhYRmNKUUM2Qkw3MlppbWdyaGQxMm12aExUQXVVc0k2dDY3dlFQWkxaeWI4ZUJmRGJQN1RpY2dKUG1SM1ZkTnI5bkhvVmhWNGV2V0NWcGVhODVIOXM2eTBOWXNQNEpsazZ6T2VfT054T0xfc1l5M0JVdmFET3BQTjZKWmhMVVMxbGQ5UndNVzZaQzV2YllUR21WV1UtWV9PN1B5cFNkLUVoUy1RNjlXeGRwOWvSAdQBQVVfeXFMT3B3ZzZmZjF5aDhUd3N3QVFxRy1tZVJ3ZEdIWVA5MlhSNDkwdXRhdDFkNm10TmRjSXJJSDM1VkhpUWU1MEt1NEMzZVkweEFNOE5FQmlYcnJTZ241QnV6dHZNMTh3RlFINWtmbkxtUjJBdTdfTmE1NDNtWXdnSEEwcWdyamttcnRBT29PalZnVWtITHVYTzZ4Y3FsV3VjNFpCbW1kOU5FNUlVLXBRT1Z1OFQwQXlKOHBCZ3pHM2ZmTnV3QUwwUENOV05UM1BCMzNlSTZfSEQ?oc=5",
-     "ts": "2026-11-18T14:59:44Z",
-     "summary": ""
-    },
-    {
-     "id": "72b430af64da",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Is ‘GTA 6’ out? How people are playing the new game already, plus what the verdict is so far.",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZGI2bGhxU1VzMDd6ZkJrMjg2MGRUclM5MkRsNXl3M2kwX0h5UWZQLWg3MnJ4NTVTXzkybVBSLVdMTE5QR2RHQ1Uzei1ZRFd6OTRIR1hzTVdiQlAxQnZ0QWNYSXFUaVBqemFmZkwwdWtjVVhVdERxU0FPQVZWMEtjWnY5a1pVLWxlakRRcVpYdy1naXBNSjRlVmtWNEd5MlJHSmNTNFJWTlFnazhzaFZ1MTZtanBzQnBNZHZ1V0tLY2g4cWwxSURIa3lxOEwxbWV2YlY4b3NVNHNKVU15NmF3V2w5X1lfckJDeWFz?oc=5",
-     "ts": "2026-11-18T15:23:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Как люди играют в GTA 6 до релиза? Две причины",
-    "summary": "По данным Insider Gaming (Tom Henderson), в сети появились ролики с GTA 6 до релиза. Есть две причины, почему люди играют раньше и выкладывают контент.",
-    "idea": "Коротко разбираем две причины раннего доступа к GTA 6 и показываем примеры утёкших роликов. Зрителю интересно, откуда утечки и можно ли верить «геймплею до релиза».",
-    "hook": "Видели геймплей GTA 6 до релиза? Вот две причины, как это возможно.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:50:57Z"
-   },
-   "msg_id": 1257
   },
   {
    "id": "bb3fc5263a2c",
@@ -150377,96 +150594,18 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "71199476bcc6",
-   "title": "More interactions between NPC’s. Three NPCS’s hugging each other. And two people at the table tapping drinks to cheer.",
-   "first_seen": "2026-11-11T22:20:49Z",
-   "updated": "2026-11-11T22:20:49Z",
-   "items": [
-    {
-     "id": "71199476bcc6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "More interactions between NPC’s. Three NPCS’s hugging each other. And two people at the table tapping drinks to cheer.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xtvaif/more_interactions_between_npcs_three_npcss/",
-     "ts": "2026-11-11T22:11:22Z",
-     "summary": "submitted by /u/NoBullet to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9c938919c3dd",
-   "title": "New Zealand Method was worth it in the Uk",
-   "first_seen": "2026-11-11T22:20:49Z",
-   "updated": "2026-11-11T22:20:49Z",
-   "items": [
-    {
-     "id": "9c938919c3dd",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "New Zealand Method was worth it in the Uk",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xtvbxa/new_zealand_method_was_worth_it_in_the_uk/",
-     "ts": "2026-11-11T22:12:49Z",
-     "summary": "I got one on my main account and one on New Zealand. Smh already bought 2 copies of the game before it even released. I’ll probably gameshare someone or give the account away after submitted by /u/Creative-Safety6252 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "935d8bd2e3fb",
-   "title": "In 1 week all the theories will be forgotten. Lets share our favorite hopium theory.",
-   "first_seen": "2026-11-11T22:20:49Z",
-   "updated": "2026-11-11T22:20:49Z",
-   "items": [
-    {
-     "id": "935d8bd2e3fb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "In 1 week all the theories will be forgotten. Lets share our favorite hopium theory.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xtvfud/in_1_week_all_the_theories_will_be_forgotten_lets/",
-     "ts": "2026-11-11T22:17:19Z",
-     "summary": "crazy to think in 1 week this isnt gonna be the same nerds analyzing frame by frame and pixel by pixel and creating wierd theories. insane. which theories did we have: moon theory hank eaffle / road theory submitted by /u/Linusalbus to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-18T22:11:05Z",
+  "last_run": "2026-11-18T22:20:56Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 95/100",
    "gnews_ru: 99/100",
    "gamesbeat: 6/10",
    "vgc: 9/10",
-   "insider_gaming: 6/10",
+   "insider_gaming: 7/10",
    "ign: 4/20",
    "eurogamer: 18/100",
    "dexerto_gta: 10/50",
