@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "55490e844777",
+   "title": "Does GTA 6 Have a Physical Disc? Code-in-Box Explained",
+   "first_seen": "2026-11-18T04:20:49Z",
+   "updated": "2026-11-18T04:20:49Z",
+   "items": [
+    {
+     "id": "55490e844777",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Game Haus",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Does GTA 6 Have a Physical Disc? Code-in-Box Explained",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzY1RmxHSnZSXzUyeW01aS1GWGpMZGxwNEIwbGFQWUlXT3o3SnlJaWtXSzVZcjVKM0dXTU0wYm9xTDdva0VEUGM1WTA5OVlrank3dENBNUdKaEhlTThBWWRzdWZTVUlKNXpnRXdIZmVha0ZpMkJjV1dsUkJTQW9XVGttSTJsNjZSRFREa0dSamNwQTV1Q0lmbWI2UQ?oc=5",
+     "ts": "2026-11-18T04:15:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "63260cebf2d5",
    "title": "GTA 6 Vice City NBA Court Revealed by Miami Heat",
    "first_seen": "2026-11-17T06:31:04Z",
@@ -130706,89 +130732,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "199cdea46660",
-   "title": "GTA 6 Natively Supports Dolby Vision on Xbox X",
-   "first_seen": "2026-11-11T04:20:47Z",
-   "updated": "2026-11-11T04:20:47Z",
-   "items": [
-    {
-     "id": "199cdea46660",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 Natively Supports Dolby Vision on Xbox X",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xt84f8/gta_6_natively_supports_dolby_vision_on_xbox_x/",
-     "ts": "2026-11-11T04:12:16Z",
-     "summary": "Xbox is the best submitted by /u/Constant_General_622 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3a69e536012d",
-   "title": "Non gamer dudes going to work on 19th November",
-   "first_seen": "2026-11-11T04:20:47Z",
-   "updated": "2026-11-11T04:20:47Z",
-   "items": [
-    {
-     "id": "3a69e536012d",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Non gamer dudes going to work on 19th November",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xt88qw/non_gamer_dudes_going_to_work_on_19th_november/",
-     "ts": "2026-11-11T04:18:46Z",
-     "summary": "submitted by /u/raydebapratim1 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "07f8c81527f4",
-   "title": "Rockstar Shows Off More GTA 6 Backflips",
-   "first_seen": "2026-11-11T04:20:46Z",
-   "updated": "2026-11-11T04:20:46Z",
-   "items": [
-    {
-     "id": "07f8c81527f4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Rockstar Shows Off More GTA 6 Backflips",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xendUVUxLV2VObTM5NzhRVkFmZ0pQSS1ZWW14ajVhWFdmQkN6UGRMZEQzcWZtVTVCaXpvM3dBd2NSY1ktMTRGbTBuZDl2UUQ4Z3dyZkZOdktHeE82Z3Z6bElZVmQtckJqSEgwVkJiVE1KNXVt?oc=5",
-     "ts": "2026-11-11T01:20:26Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-18T04:10:51Z",
+  "last_run": "2026-11-18T04:20:49Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
@@ -130800,7 +130748,7 @@
    "eurogamer: 9/100",
    "dexerto_gta: 9/50",
    "rockstarintel: 9/10",
-   "gtaboom: 21/30",
+   "gtaboom: 20/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 11/14",
    "tg_gta6deluxe: 14/15",
