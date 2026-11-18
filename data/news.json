@@ -1,6 +1,985 @@
 {
  "stories": [
   {
+   "id": "1c0e22fc0da0",
+   "title": "GTA 6 First-Person mode explained: Does GTA 6 have a first-person mode?",
+   "first_seen": "2026-11-18T12:01:18Z",
+   "updated": "2026-11-18T13:41:08Z",
+   "items": [
+    {
+     "id": "1c0e22fc0da0",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Can You Switch to First-Person in GTA 6? Camera Options, Explained",
+     "url": "https://insider-gaming.com/how-to-switch-to-first-person-gta-6/",
+     "ts": "2026-11-18T11:52:28Z",
+     "summary": "Learn if you can switch to first-person in Grand Theft Auto 6 and how you can achieve that in this snapshot guide. The post Can You Switch to First-Person in GTA 6? Camera Options, Explained appeared first on Insider Gaming ."
+    },
+    {
+     "id": "6ad376293442",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 First-Person mode explained: Does GTA 6 have a first-person mode?",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-first-person-mode-explained-does-gta-6-have-a-first-person-mode/",
+     "ts": "2026-11-18T11:57:56Z",
+     "summary": "Does GTA 6 have a first-person mode like GTA 5? Here's the answer"
+    },
+    {
+     "id": "1a1190c6fe55",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Indy100",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Is there a first-person mode?",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CSnRvcVhDZVBsVV8xRjBVOEVuS1NkZUhyQ1dQbTdsRE1qMEFSWm9KRVlPbFFYMzRqdHpSRllOeW9KQ1BaNU1Ta3dtRTJydnFacG9ZZUJkWkIwbktpZENVWnRGZzk?oc=5",
+     "ts": "2026-11-18T13:35:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: будет ли вид от первого лица? Что известно",
+    "summary": "По данным VGC и Insider Gaming (Tom Henderson), в GTA 6 ожидается вид от первого лица и переключение камер, как в GTA 5. Официально Rockstar детали не раскрывала, поэтому часть информации основана на утечках и анализе.",
+    "idea": "Короткая нарезка: вид от первого лица в городе, перестрелке и машине. Зрителю важно понять, будет ли привычный FPP и как он ощущается в GTA 6.",
+    "hook": "GTA 6 от первого лица — реально? Показываю, что известно на сегодня.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T12:01:23Z"
+   },
+   "msg_id": 1265
+  },
+  {
+   "id": "81afa4c32caf",
+   "title": "GTA 6 New Zealand Trick Could Help PlayStation Players Get Early Access, But There’s A Catch",
+   "first_seen": "2026-11-18T09:40:51Z",
+   "updated": "2026-11-18T13:41:08Z",
+   "items": [
+    {
+     "id": "81afa4c32caf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NDTV Sports",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 New Zealand Trick Could Help PlayStation Players Get Early Access, But There’s A Catch",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVUFsZlBGMkRkUXhsc0QwcFpGOUU1YWJsQjl3aFFTbDR2TERSbmFKTUNQZEFDYVNpVVF0dE5qVXp4d0dtendYZHd0R01iR3k4VklsQWZVbkxHN28zN2hTYklBcU00SjdVU25OOUg3OFd6TERLd2ItUnFKdnZUUjNUcEQzUURZS3loTmdhYWctOVl2SDJrbHlPY2xCN0RPTktPSzNnNUJCOWxYUTVTV2pWem1UTV9ObFFudHVfT0ZMMWpKY3FKUWVFQm5WWWZFU2NfbzVaVHp2aw?oc=5",
+     "ts": "2026-11-18T09:14:38Z",
+     "summary": ""
+    },
+    {
+     "id": "cf35983fbdb2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Newsweek",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA 6’ Players Access Game Early With New Zealand Timezone Trick",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWF0VVhaWk1rTUZoNHdtc2pvU3RheUNhZ2pXb2ZSN210RVJWOGJHOHRuaExteGRqckx1b0lic251OFNXNE9GYjdDaU5Ec3h1R3VkSWxjMEVuTWFCc0NhZHZ5bDNlZGlRQ2VRVk0zTnFQVjNqNnplbko5YlptTVExaml0WmJOeEU1eUhCZDFadkNlWi1hSDBjU0VTWmR0dw?oc=5",
+     "ts": "2026-11-18T13:36:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "00a3b9ffce32",
+   "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
+   "first_seen": "2026-11-17T21:50:51Z",
+   "updated": "2026-11-18T13:41:08Z",
+   "items": [
+    {
+     "id": "00a3b9ffce32",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TR1o1UHV1bkEtYllROGstek16cFBCQ3Z4dGRlMTRfTV9ydjRzampORERLOGc3TGwzN3FSYUJxbTVzMDdYV1B5czFXaVBpWVU3VTlaZ01aMlM0TlBJblVQVWxRQkdrZw?oc=5",
+     "ts": "2026-11-17T21:49:03Z",
+     "summary": ""
+    },
+    {
+     "id": "677a1b7c2e45",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QaFlhVkpkek1aRlcyWnZwYTlUc1ZFUzFaZ3Bpb3NkR3lieUxNMHIyUG5BRkNLdm0tTUFQRVFSenlWUkIyYlFXNFF6NWM5NExUZXRQZWxyaUhCNmQybXEtdkhkSkkyenJDX0E?oc=5",
+     "ts": "2026-11-17T22:15:25Z",
+     "summary": ""
+    },
+    {
+     "id": "51835b26e7b1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aMHp3eEF6ZkNnelZmRkRiLWxmS05qS3NIazExSzR1THlOVkthNG1vQmlzcFh4LVpxd0o0TTRwdFdEU3lNYkZGa0JHS3B3OTdWSGR4R095VjBVWEZXbzlndlhoRF9mRHAyMWc?oc=5",
+     "ts": "2026-11-17T21:54:39Z",
+     "summary": ""
+    },
+    {
+     "id": "abaa1ceae4db",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZkF4aWNXSWZEMDgyeEhza1pFelZhMjlkSHRwemowNmJxM09hSk1fVGhIN0V5Wi1fZ1BiZVBaWFJPQzFMRDNpOF9Qa1BWcl9pN1FlLXN5VWZ5UWdWdEJfWUhjeWJ0cEV3SlJnOHI3andkVzlKREEyTEllOXFrakNJNkQ5aWZyQQ?oc=5",
+     "ts": "2026-11-17T21:07:49Z",
+     "summary": ""
+    },
+    {
+     "id": "df8ba6c3d87a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ABC News - Breaking News, Latest News and Videos",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 comes out this week: What to know about its release date, preloading, file size and more",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVo1THd4XzhBWk1sTUFHRm1qV0hKUm1DYU1fUXlIZnI5aG9RbjV4WThMRHJUeURUalpRa180YUpYU01hRU1VeTJzR0lBM3EzVTgzY3lJV0g0Z21ySG5mTllaSWVSU25BVUxjdUx4STRXdjItTGxqUE1qejZsczRTdlFmVlZ0blnSAYwBQVVfeXFMTXpJX3FvcHBzMEtkRmVzUktPeTluYUFSM3JwUlpyM3NIeHlSUjlEREZ1TExETmpacU1YNThtVDd6cDBBNGc2ZDlPZlIteHBLd1VFRVN5SjJGQkNBd3RLV0N1ZUgxOG5lMmFUdEdjOEFTQ3BCZk0tbUd1bWV4azhFR004WjdEcGF4UUJ1eDQ?oc=5",
+     "ts": "2026-11-17T21:44:25Z",
+     "summary": ""
+    },
+    {
+     "id": "a43bd96b170a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Xbox reportedly warns against GTA 6 New Zealand trick for early release date unlock",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd3JoQThYUHppTktJS3pJYjRTZUtZWV9KaVVEMkZmSUtUN2pjcFRfZlFuLVcwZmZYbWx6X3lkRkJfN0tTUjUyTTZDdEZtQnM0UV9fTzJxME5tWW5WeVlvWUZPTG53Zk0xMWxNb2FpSkpTanozbUNnaFJjQTdlR2QxdS1WZHJIQnVoU01kU3FsX1NETC00RGFHMk9FTW1yWTFINmI3dWRuVnhqOEVqR0NIVU1sQlp4akY2TnhtUUVxYmdLdUl2d0JF?oc=5",
+     "ts": "2026-11-17T23:33:00Z",
+     "summary": ""
+    },
+    {
+     "id": "1b2be28b0dbf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Le Monde.fr",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA Online': Ahead of GTA VI release, online players prep for 'last ride'",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUHhqS0JpLXlaRV8zYk9uWHltVi1IU2w1bnQtSEgyZWhxTXEzUXp5WExYaGpXTVg5aldzaGVfZ3MwUndSZ05pZnJzZEFyeWJNV1I4anVSUml1eS1keGNoY2ZfblJZTU1xdzFrQ0tUQ01ObXEtX1Y1dXZlNHJ5OGtPUW5QVHktbVdleUdvUE9IWkswamNRSkxfLWNzMENNRXo2VEhtVzdyRDcyd1MwdmltVXZQQkxNVWd4dVdQWXNkaWotVG1kTS1rVVlmNEh3UTdRNmc?oc=5",
+     "ts": "2026-11-18T03:00:10Z",
+     "summary": ""
+    },
+    {
+     "id": "cf42311f75a9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Fact Check: FAKE Rockstar Games Letter Claims GTA VI Release Date Pushed Back To 2027",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2ZTRjdGejRXaWZTNWRJUlI0STBYc2RqTWNmZ0hNemtpcE9aNVpfdjEwcVpCTXJPcVBEVTZ0dW1QYTZkaXJKelVYUTdPTGt1c0EzZ3BHRE8yeXRZOFZIUDRaT1dPMVlTeTdlNmhUREVVdTBQczBVSnZtRldRaHlYcVZmck93YnBLUGtRUw?oc=5",
+     "ts": "2026-11-18T03:26:34Z",
+     "summary": ""
+    },
+    {
+     "id": "c3a5ba917189",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Clarin.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "What time does GTA 6 release? Launch date, unlock times, and how to preload on PS5 and Xbox",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMXVaZ0ZTQlVQRXhCOEpaZ29sdmVrMkM0NlFiYzZsVTdGeWFNazR0TkVVZlloMkhUQktoWlJ1ZkN4SVNHa2Q4bnVKbFNRdjdfZGViVzlGMmxXVnVsNzNhYkxjN2h0NGl5SXliT0JKdk9sWTRPMmZOR2lUbGJ5NUVaODFybFJUQnhrOGRpWkotOGhVejBwMkFqN0lTaGNZU241M3lZWkRJUFQ3R3dWRUs1ZzRwREp3aW9FV0tKMUJ1RnUxcGt2M0xFcG9XSng4UHJMV2Iw0gHYAUFVX3lxTE5YaC1sR0tXcWJBSTU3ZnpaMVN6N0wyQXNTS2hybUsxMk16a1d0enJHNFhpUjRkQVBwd253TTk3WkdRdWR2bjJ2MTVXNXJGVndLRHhwNlJYaWVRSGRjRWJTZkY0d3U2RGNvZGtTZFhRNzlUYWNXaXBqaTh1VlRjWGtzUVlvVVVvZDFNZVNXd2l1d0FWN2Q1aXFrbHRtLUlJZ2Z1cmZ1UFpQUTctb2EwLW53RGxCenk2R0NRYS1yOVg2ZUU2RGxHRkczY29OcXJrd1kwUlhRUHZOcQ?oc=5",
+     "ts": "2026-11-18T04:01:50Z",
+     "summary": ""
+    },
+    {
+     "id": "ef5d164952cb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Clarin.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "What time does GTA 6 release? Launch date, unlock times, and how to preload on PS5 and Xbox",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMXVaZ0ZTQlVQRXhCOEpaZ29sdmVrMkM0NlFiYzZsVTdGeWFNazR0TkVVZlloMkhUQktoWlJ1ZkN4SVNHa2Q4bnVKbFNRdjdfZGViVzlGMmxXVnVsNzNhYkxjN2h0NGl5SXliT0JKdk9sWTRPMmZOR2lUbGJ5NUVaODFybFJUQnhrOGRpWkotOGhVejBwMkFqN0lTaGNZU241M3lZWkRJUFQ3R3dWRUs1ZzRwREp3aW9FV0tKMUJ1RnUxcGt2M0xFcG9XSng4UHJMV2Iw?oc=5",
+     "ts": "2026-11-18T04:01:50Z",
+     "summary": ""
+    },
+    {
+     "id": "5a1e4a6e8b50",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The National",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "What time does GTA 6 launch in the UAE? Release date, price and how to preload",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWk5UjNyd0hscGZtTUNQXzBZb28zYjlVQVRzRlUxZVJ2Q19XWFRpXzlwNGhBcThacy1jNzRhM05TNE1sdjkxWXQ3aWRJU05wZWIwdjQ2MHRZV3F3R3NuN1FON2RINklFbHFWWi1OQTRCM3lFc1FwcjB4TjM2TEtyWWxfUVNpeGZfTVN1VEtlODZSUQ?oc=5",
+     "ts": "2026-11-18T06:59:09Z",
+     "summary": ""
+    },
+    {
+     "id": "383c8ace03eb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "finchannel",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 release time: New Zealand launch leads U.S. PS5 unlock",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUU0xWUhna1I5ZGF6YjNrQkxLM3hISzUtZWFFV0xIUXV0OHB0M3MwTWNPMm1WVnhDb2JMT3FVMnVCZUt5WlJvTUV0eG0wQnltbktGdGJtemRmdks4bVJfdTlueFdSVjNIM2NIeElWYkxndmNJU0QzbDZmdkdibTU3TVpLTFh6b2RxeFlWZXFrWkJNMW0zMVRpVjFJTTcxT2VfRm9JRXZ0SW9PazBYWGhmcA?oc=5",
+     "ts": "2026-11-18T08:24:21Z",
+     "summary": ""
+    },
+    {
+     "id": "8818e887efb0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Facebook",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Get ready for the GTA 6 launch. Discover release times, preload details, and if you can play early.",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRTFwSDZiMC1oLUpmd19RS3pQZUFCYXlHMEFSdy1MMk5aTmFreFgtTW41SGp2T2dtV1VEV2hZR0JHSlFPY2JVR0I4dFZIY1I1U1htcy1HTURqMXhObFpWYXZQZlZ0TVFIWExldkNiWWJsODVNZHNVTDRVb3pMbVZLeGgzaHhOWlZpUU9uZnFwUEV6dnl3eEU0Z1Fkd015a0t1Y3RQeTAxajUzd0pTVlR4NXRoUGdlU0FkSGxkQWlqbVh5Rm9sRDFTc2l4djdVMUpzR1BlN0doSUJ3a0U?oc=5",
+     "ts": "2026-11-18T13:37:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online",
+    "дата/перенос",
+    "размер/preload",
+    "цена/издания"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 Online: будет ли мультиплеер на старте?",
+    "summary": "По данным IMDb, обсуждается, будет ли GTA 6 Online доступен в день релиза. Официальной информации от Rockstar о старте мультиплеера пока нет.",
+    "idea": "Угол: «запустят ли мультиплеер сразу или позже» — коротко объясняем, что известно и чего ждать. Зрителю важно понять, ждать ли онлайн с первого дня.",
+    "hook": "GTA 6 Online на релизе — будет или нет? Вот что известно.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-17T21:50:55Z"
+   },
+   "msg_id": 1175
+  },
+  {
+   "id": "062cbd79b1dd",
+   "title": "GTA 6 car alarms explained: How to steal cars with alarms in GTA 6",
+   "first_seen": "2026-11-18T13:41:08Z",
+   "updated": "2026-11-18T13:41:08Z",
+   "items": [
+    {
+     "id": "062cbd79b1dd",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 car alarms explained: How to steal cars with alarms in GTA 6",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-car-alarms-explained-how-to-steal-cars-with-alarms-in-gta-6/",
+     "ts": "2026-11-18T13:34:53Z",
+     "summary": "The Grand Theft Auto in Grand Theft Auto is different this time"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Сигнализации машин в GTA 6: как угонять по-новому",
+    "summary": "По данным VGC, в GTA 6 появятся сигнализации на машинах: при взломе авто срабатывает сирена, и у игрока есть короткое окно, чтобы успеть уехать до приезда полиции. Это меняет привычный угон и добавляет риска.",
+    "idea": "Короткий челлендж: успеешь ли ты уехать за 5 секунд после сирены. Зрителю интересно увидеть реальную реакцию и риск.",
+    "hook": "Сирена орёт — у тебя 5 секунд. Успеешь уехать или браслеты?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T13:41:13Z"
+   },
+   "msg_id": 1306
+  },
+  {
+   "id": "be64c0092f49",
+   "title": "GTA VI — это полноценная RPG!",
+   "first_seen": "2026-11-18T13:41:08Z",
+   "updated": "2026-11-18T13:41:08Z",
+   "items": [
+    {
+     "id": "be64c0092f49",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA VI — это полноценная RPG!",
+     "url": "https://t.me/gta6deluxe/2184",
+     "ts": "2026-11-18T13:35:00Z",
+     "summary": "🔥 GTA VI — это полноценная RPG! По словам обозревателей решения игрока очень влияют на сюжет, геймплей и внешность персонажа 😀 В отличие от GTA V, в GTA VI не предусмотрена возможность повторного прохождения сюжетных миссий 😀 Помимо выполнения основных заданий, игрокам придётся поддерживать физическую форму, уделять внимание отдыху, зарабатывать деньги и заботиться о других повседневных потребностях 😀 NPC в GTA VI стали гораздо реалистичнее: они могут первыми заговорить с игроком, спровоцировать драку или просто развернуться и уйти посреди разговора 😀 Даже обычная поездка или поход в магазин могут обернуться неожиданными событиями: агрессивное вождение способно привести к конфликту с другим автомобилистом, а во время покупок можно случайно попасть в объектив блогера 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 — полноценная RPG? Что меняют решения игрока",
+    "summary": "По словам обозревателей из TG @gta6deluxe, решения игрока в GTA 6 сильно влияют на сюжет, геймплей и внешность персонажа. В отличие от GTA V, миссии нельзя переигрывать, а NPC могут первыми заговорить и спровоцировать.",
+    "idea": "Коротко показываем, как выборы меняют внешность, сюжет и рутину героя — без спойлеров. Зрителю важно понять, насколько игра станет «жизнью», а не набором миссий.",
+    "hook": "GTA 6 — RPG? Сейчас покажу, как твои выборы реально меняют игру.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T13:41:17Z"
+   },
+   "msg_id": 1307
+  },
+  {
+   "id": "3afa2020d41f",
+   "title": "GTA 6 Prologue Mission Walkthrough",
+   "first_seen": "2026-11-18T13:01:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "3afa2020d41f",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Prologue Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-prologue-mission-walkthrough/",
+     "ts": "2026-11-18T12:54:14Z",
+     "summary": "GTA 6 begins with Prologue, the game's first mission"
+    },
+    {
+     "id": "4b554df2ce23",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Gear Up Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-gear-up-mission-walkthrough/",
+     "ts": "2026-11-18T13:13:39Z",
+     "summary": "Gear Up is the third mission of GTA 6. Time to get tooled up!"
+    },
+    {
+     "id": "9ce5541925ae",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Gone Fishing Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-gone-fishing-mission-walkthrough/",
+     "ts": "2026-11-18T13:18:35Z",
+     "summary": "Gone Fishing is the second mission in GTA 6"
+    },
+    {
+     "id": "0acd5f64ee90",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Lab Fees Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-lab-fees-mission-walkthrough/",
+     "ts": "2026-11-18T13:32:14Z",
+     "summary": "Collect Brian's money in Lab Fees"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 начинается с Пролога: как стартует игра",
+    "summary": "По данным VGC, GTA 6 начинается с Пролога — первой миссии, которая знакомит с героями и механиками. Детали миссии издание не раскрывает. Официально Rockstar это не подтверждала.",
+    "idea": "Короткая нарезка фактов о Прологе с таймлайном старта: что известно, чего нет, и почему это важно для старта сюжета.",
+    "hook": "С чего стартует GTA 6? Вот что известно о Прологе прямо сейчас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T13:01:12Z"
+   },
+   "msg_id": 1292
+  },
+  {
+   "id": "663e3b4e6ad0",
+   "title": "Стартовал мировой релиз GTA VI",
+   "first_seen": "2026-11-18T12:31:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "663e3b4e6ad0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "BFM.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Стартовал мировой релиз GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB1Vko2aGZiUXRvQ3o3ZHE1X1oyT1ZPMUY3aGVvU2xuV1NzSmZzeXM1b0ZsWUhXTGxyVk4wNFg5QnlWYU5v0gFKQVVfeXFMTzZIWXNnUjYtcVlTQXhnNFNrSzlJT1BnUGFWcHM2c2FTOWpCbl9RTmNPdXlYQnF3SXQwajBtbnM1Zk5GRGpDcVhFaGc?oc=5",
+     "ts": "2026-11-18T12:02:22Z",
+     "summary": ""
+    },
+    {
+     "id": "1fd7634a07f1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "BFM.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Стартовал мировой релиз игры GTA VI: сначала в Новой Зеландии",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAwVF9HeEp6Rk1QNjJlRDNieUY0NkFHaDNUSUNQUkFqdWVJM3ZGSUI3aVdTMGxkTmVHc1F4aXB1aWs0aTc40gFKQVVfeXFMTk1HSVVRaXVINlFFNzNhWFJxSTdSTkNDUnZQbllzY1BtSHl2WjEyWHZHOG5KYVhTYWpMSDg4VG9taDNOWnlsRHVibmc?oc=5",
+     "ts": "2026-11-18T13:34:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "564187c385d1",
+   "title": "100 hours with GTA 6: A sprawling adventure that will be so much better on PC",
+   "first_seen": "2026-11-18T11:10:49Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "564187c385d1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "100 hours with GTA 6: A sprawling adventure that will be so much better on PC",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR240M0J2WFVtSWp3ZDlGd1NFc21kQUZtSTVnTG40TURfcDVSY3JJZVRTUUs1WmpHNmlhNGRxVERPUkdfbWhfMW1SSmk4U0FnTlRGa3dCVlhxeExVR1JVRGhvZ1lqUEdKVXQ4Y29zc1ItSFBOUV85U0xlMmozcGZiYzB1d2djdERVbWRLbzd2Z1VEWHExd1RqNUlQMGZpNkdmSDY3ZEphX3ZWNEVqM19LclRFbGNmVDNjVzM2WVpFNnNDdw?oc=5",
+     "ts": "2026-11-18T11:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "50078fcab401",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Автор PC Gamer провел 100 часов в GTA 6 и с нетерпением ждет версию для ПК — она затмит консольную",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWi00dzhBZ1VKckpQNWVndE1pZWdMTVpNWVZ2V1BSU3RhdENqYmYzZWRmTHZhMjM2TFRCb1hXRFJRd2NYczJKQkJrZ19zanlRd2lBXzUwWWVpZVVSdHhqMENkbWMtMGM5ZkR0b0xNd1dYdEg3NmxRTExVaGRtYWE3RXdtajRPd21TbHRqWEtOb0xsZkVmQlhkdnZvMzZBNUMyd3REMlYyNznSAa4BQVVfeXFMTndlLWNuLWszOG1XTk9pZDZVNG5QUEhTYng2YURBWTRzbFFHb0hLdG0zUkZaYkpvNEg4X1l3UFRJRm5Pd3prX281YlpudzYzdmFZRUNnTnFMV01lT2xhYVl6YXhrLTB5MHl1Nlluc1dtOXhjMEFOZU9KdnBrbS1oV1pLSHo2RVZqLXN0VG9sdDBiMlBWSkpyVUJwb0E2bkhNVjNVejdnZjU5cUVqOHZB?oc=5",
+     "ts": "2026-11-18T11:40:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 88,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "43b17eafc212",
+   "title": "Sony Releases Mandatory PS5 System Update for GTA 6 Players, Triggers Public Backlash",
+   "first_seen": "2026-11-18T06:31:02Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "43b17eafc212",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "autoevolution",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony Releases Mandatory PS5 System Update for GTA 6 Players, Triggers Public Backlash",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMm5xbndfcHFFUGtyZHhQOUE0VjFCQ2FOaG9zTldMcXdaR0lXanZqOEQtSFBLVUw1ZWZnMmtfYUlHWDVOQ1ZIZVpsMkFUTzhGM0pZZno3TDA2ZFNpUWNSbW5MR2ZoYlJmbkhzaFFzZmFvSjc0UjBiRlR2dmpING9OdXpnRk5obGRnRmhFeko4NzZIZGZONi1zTEJJOUZ1RXdaN21YUjBBY1JhTVRpMV9BTkJsdld3d0xDdWtiTmtiS1FEWG9QSHpPbFJHTQ?oc=5",
+     "ts": "2026-11-18T06:21:33Z",
+     "summary": ""
+    },
+    {
+     "id": "f9f92054d5a4",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "PS5 Players Must Install a Mandatory System Update Before Playing GTA 6",
+     "url": "https://www.gtaboom.com/ps5-players-must-install-a-mandatory-system-update-before-playing-gta-6-dfe2",
+     "ts": "2026-11-18T07:01:58Z",
+     "summary": "PS5 players reportedly need a roughly 1.2GB system software update to play GTA 6, separate from the game's own patches."
+    },
+    {
+     "id": "4dd41579febc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "www.svg.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Launch: PS5 Players Need To Download This Mandatory Update Before Playing",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3OHZoY0JfUXBnajJMOFRkVFZfYjNHd28wMWFYRENkaXZJRUs2d3lQNmlQUmlTUlRvdzZESzhVdFYxNUQ1aWhXN1B3VDBlandHNFl0MzQ5VHdSM01TTVNkYUlrRW9iTDRIemdONjF2TVVzZHlIWXNCMDd3NXo?oc=5",
+     "ts": "2026-11-18T13:26:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Обновление PS5 на 1.2 ГБ ради GTA 6: игроки недовольны",
+    "summary": "Sony выпустила обязательное обновление системы PS5 примерно на 1.2 ГБ для запуска GTA 6, сообщает GTA Boom. По данным autoevolution, это вызвало волну жалоб игроков. Обновление нужно отдельно от патчей самой игры.",
+    "idea": "Короткий разбор: почему Sony выкатила обязательное обновление на 1.2 ГБ перед GTA 6 и чем это бесит игроков. Плюс быстрый опрос: качать или ворчать в комменты.",
+    "hook": "Sony заставляет качать обновление на 1.2 ГБ, чтобы просто запустить GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T07:10:55Z"
+   },
+   "msg_id": 1199
+  },
+  {
+   "id": "4e697ad5d35c",
+   "title": "Вышла обновленная прошивка для PS5 14.23 — для предотвращения утечки GTA 6 в пиратские магазины",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "4e697ad5d35c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "sport-express.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Вышла обновленная прошивка для PS5 14.23 — для предотвращения утечки GTA 6 в пиратские магазины",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeTZJMGozOEswcnZGSFB4dEJWY1lEV21ybUpDemdsWHRGckpDamM1WktwRVFsamE5bnh4b0FjMDZvYjRYREdTVllkQ3pQaE5EUmZ5TWRJY0JUVFZzZ2lSX2xPSmpWZVVtOHBsckdxS1VpMHhOWTNpajhnSmtCX2NUNjhwR1BVLUkzYWd0dEtxdlF3aWh4U1FVOVVEOXRPSF9GY0JZM2FlWVlfUVo5WU9XMnlUdlJnMW1wOUQ4d2lCY0FLS1h5SDNMOXl3ell3RmJDdGZNem1TSFBDNjItbEliTTdhTUxVNEJkQlhNdnBCOGp4dVNGTGljaWo4RWEwdFl4?oc=5",
+     "ts": "2026-11-18T12:00:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 55,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Прошивка PS5 14.23: защита от слива GTA 6",
+    "summary": "Вышла обновленная прошивка для PS5 14.23. По данным sport-express.ru, она направлена на предотвращение утечки GTA 6 в пиратские магазины.",
+    "idea": "Коротко показываем экран обновления 14.23 и объясняем, что Sony закрыла дыры перед релизом. Зрителю важно понять, почему сливов станет меньше.",
+    "hook": "PS5 обновилась до 14.23 — похоже, Sony закрыла слив GTA 6.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T13:41:34Z"
+   },
+   "msg_id": 1312
+  },
+  {
+   "id": "1e92d8422002",
+   "title": "All GTA 6 Cheats And How To Unlock Them",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "1e92d8422002",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "All GTA 6 Cheats And How To Unlock Them",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xd2Mzb1U4SzRVOUpReU1jMlBfREFtVFh1N0txS1JVcXJhYmZzMzlieHhPQk5NOG5lNXE5MkE1Rlp2TXlNeXNYRzBiUXJlX0FfZ29XSUFoRVUwNGtQUWxIcHFzak1LME1mS25JMFNvbDVYc0k1RGQwU0ZDQzd2TkU?oc=5",
+     "ts": "2026-11-18T12:20:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Все чит-коды GTA 6: как их открыть",
+    "summary": "GameSpot опубликовал список всех чит-кодов GTA 6 и способы их разблокировки. В материале собраны команды и условия активации для консолей и ПК.",
+    "idea": "Быстрый гайд: показываем 5 самых полезных читов и как их открыть за 10 секунд. Зрителю — мгновенная польза для весёлых заездов.",
+    "hook": "Нужны деньги и бессмертие в GTA 6? Вот читы и как их открыть.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T13:41:20Z"
+   },
+   "msg_id": 1308
+  },
+  {
+   "id": "1aa692fac274",
+   "title": "GTA 6 вышла: вот какие детали показали в первый час игры — без спойлеров!",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "1aa692fac274",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Sport24.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 вышла: вот какие детали показали в первый час игры — без спойлеров!",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSkRpWHhjTmdReEd1QlRnSXVYeEd2Z3hsVXM2TkpXdkw3Qk1VVklYTmp1SjNxY3VFTTVZWnBHUGVic0I1QWRibGNDc29USG1DY2JVZDRpMTdTRjUtbVh3TXVHOU9HaXlKbEVnSmUxS2gybXpNeXFid3J1bkxBMTNSXzNDUm1zYmdaYkY4YjMyZkpmVTF6R2Vid1lPbTFCUElYNC10clNpSDFZekNJaWdqcFRRT0ZiZWZN0gG-AUFVX3lxTE5QMW4taUJLbkhpajBHMjFNYjJJRDYyYVg2aGRtTjVEX1JLZFFqdmVkd3NjVEpzOFVDdVRxX3V6dWdtenQ1QkdPeDA1aUtRa2NvZ2ZhdlVldlVXU0NSR0VVYnpzMGx6X2JaSVA5aHpGb2ZBZGRka3hlUXJCM2NlWVJVYnRDRVgzNm5WclpZUW1RbXRFOXNRU3lmQVhodnBUbzZfUXBkeW9MY2hSbnl6UUJ4QnF0U0tvRUc4d2FTdnc?oc=5",
+     "ts": "2026-11-18T13:20:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e453b71c8a06",
+   "title": "Открытый мир, где можно зайти почти в любой дом, и одна из лучших игр в истории: что пишут в обзорах GTA 6",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "e453b71c8a06",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Т—Ж",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Открытый мир, где можно зайти почти в любой дом, и одна из лучших игр в истории: что пишут в обзорах GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RWUZicVdQTFVKS2MxeE5SZnJ5WE5RaXZKUWItdkVJSGtZSFFERm1ObnE3YkFKT0tCNVRDUTJHR1VBa3Y2YWFCSw?oc=5",
+     "ts": "2026-11-18T13:24:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "43966bbfaf89",
+   "title": "GTA 6 появилась на сумке Hermès Birkin",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "43966bbfaf89",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "profashion.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 появилась на сумке Hermès Birkin",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNUNFZUEyOVBnZkJnNWMxWTNmMkFXMkREOGxCRlpER3FxMnhYSW5xcTEwalFzNzhkVE9nSmhxbHZ6LWt6TjE3Q0tUVGxBMTRfYkU3cWZpMGo0RzlPUElEcmc0djRFRmxHZjRlcWJZZlk1X2duMEJ1dzE3Wks2Qmh1WldB?oc=5",
+     "ts": "2026-11-18T13:27:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "85bba28bcadd",
+   "title": "CoinW разыграет PS5 в стиле GTA 6 во фьючерсном турнире",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "85bba28bcadd",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ForkLog",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "CoinW разыграет PS5 в стиле GTA 6 во фьючерсном турнире",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXy1uQTlVTVlMd2RTZlQ4WmFxSnhqbmxmUlRMSDJ3dWVqTng5eVNScVcyZFR1eFBueHZKaU1pSkRrQUxpS2FHVzlIdnlvbzUtNXJCRU9fN0hCdVhxNV92UnNlWW5BRDR3UlJZNVhYTVRzQTJHN0VBRXVYX0d4LTM0eF9QVWU5RDli?oc=5",
+     "ts": "2026-11-18T13:28:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ac0b5e862700",
+   "title": "GTA 6 reviews: Critics hail new game as ‘a masterpiece’ and ‘the best ever’",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "ac0b5e862700",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 reviews: Critics hail new game as ‘a masterpiece’ and ‘the best ever’",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3FKNkVBX0JEdGt3dkx3THQ5UGVSbzVNcHlWSVRvZjdfcEFtQTBjc0xYeFdKVF9fUUl4blc2cV9zN2xmSkZDbENuc1RMWk5ORW5QbEZ1MnBKS1YyWG9zWjB3eGxyRWhQeFZjV044TTJQR2cyYU1pX1Z1Z0s1YTdBdnlQUG1nakU?oc=5",
+     "ts": "2026-11-18T13:29:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5408eb599c27",
+   "title": "CoinW запускает фьючерсный турнир в день выхода GTA 6 с розыгрышем PlayStation 5 и других призов",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "5408eb599c27",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "BeInCrypto",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "CoinW запускает фьючерсный турнир в день выхода GTA 6 с розыгрышем PlayStation 5 и других призов",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmakZQeFRXV3Z6Nm9oYlE4QnZSVmtXWHFsUmdiUG5YcGJWTDFha0x2d3g3d08tdjUwVGs1Q2tTTzdrVFBkZ1pCSUxjaEhBYnMxRmw3VU5tRnh6LWJLQTBMSkVUTkc1WDFXSEJBSmc4MWhocHJ3OEE?oc=5",
+     "ts": "2026-11-18T13:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "484de981e3e8",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Incrypted",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "CoinW анонсировала фьючерсный турнир с розыгрышем PlayStation 5 в стиле GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1RCWkliNTRSdndQeW9OUVVsTW5BYjlNOGtob0tXVEdaajVXdG83aWVxZi1nZWhsOVQxNDVfeVNESnY0SjNYNTB5ekY2eEFreXBWQUYyM0Vyakt0SzFDeDFUSnljTW1WT3diS2w1Y1pEQVhmUmhnZl9EalFPSlBRVkxTejhXWFJXcFhSeFNtRkd5SVhqRzE1T0I1eTJpa3p6ejd3dQ?oc=5",
+     "ts": "2026-11-18T13:34:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 63,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️CoinW запускает турнир к GTA 6: розыгрыш PS5",
+    "summary": "Биржа CoinW анонсировала фьючерсный турнир в день выхода GTA 6 с розыгрышем PlayStation 5 и других призов. Об этом сообщили BeInCrypto и Incrypted.",
+    "idea": "Угол: «розыгрыш PS5 в день релиза GTA 6» — зрителю интересно, как бесплатно получить консоль к старту игры. Коротко: что за турнир, когда стартует, что разыгрывают.",
+    "hook": "Хочешь PS5 бесплатно в день выхода GTA 6? Вот как это сделать.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T13:41:32Z"
+   },
+   "msg_id": 1311
+  },
+  {
+   "id": "afc65db5688a",
+   "title": "GTA 6 Finally Explains Why You Can Hear The Police Radio Chatter",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "afc65db5688a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Kotaku",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Finally Explains Why You Can Hear The Police Radio Chatter",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXhVZVlldzZoU1NVdXNnd19zVGNmR0dYRVc1amtOUFo5ZUtkaEFoazNwVnpORHgzREVvbmg4NTFEcWVNc0I0cFVIdV9BbUROSmJ4YjNIQlpvQTNESHFhWnlFVFRwOV8zdnNxeU9lQVJTQXdHVU9hRXhRZjkwQWQtTTFzMEp5MGtjSmtnREZtWkJ5MFpzX0JQWVZ3?oc=5",
+     "ts": "2026-11-18T13:30:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 объяснила, зачем слышны переговоры полиции по радио",
+    "summary": "По данным Kotaku, в GTA 6 переговоры полиции по радио — не просто фон, а часть механики: они подсказывают о патрулях и помогают планировать побег. Rockstar использует их как инструмент погружения и навигации в открытом мире.",
+    "idea": "Короткий разбор: как по радио понять, где патруль и когда прятаться. Зрителю полезно: меньше погонь, больше тактики.",
+    "hook": "Слышишь радио полиции в GTA 6? Это не фон — это подсказка.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T13:41:25Z"
+   },
+   "msg_id": 1309
+  },
+  {
+   "id": "606462257c2f",
+   "title": "How Do Criminal Profiles Work in GTA 6? Professional to Irredeemable, Explained",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "606462257c2f",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "How Do Criminal Profiles Work in GTA 6? Professional to Irredeemable, Explained",
+     "url": "https://insider-gaming.com/all-criminal-profiles-explained-gta-6/",
+     "ts": "2026-11-18T13:32:54Z",
+     "summary": "Grand Theft Auto 6 uses a tiered criminal profile system to track your behavior in the game. Learn how it all works in this guide. The post How Do Criminal Profiles Work in GTA 6? Professional to Irredeemable, Explained appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Как в GTA 6 работает «криминальный профиль» — объяснение",
+    "summary": "По данным Insider Gaming (Tom Henderson), в GTA 6 появится многоуровневый «криминальный профиль», который отслеживает поведение игрока. Система ранжирует стиль от «профессионала» до «неисправимого». Официально Rockstar это не подтверждала.",
+    "idea": "Коротко показываем, как поступки меняют «криминальный профиль» и открывают/закрывают варианты. Зрителю интересно, как это влияет на миссии и полицию.",
+    "hook": "В GTA 6 у тебя есть «криминальный профиль» — и он реально влияет на игру.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T13:41:29Z"
+   },
+   "msg_id": 1310
+  },
+  {
+   "id": "6dec09b63ec4",
+   "title": "🔐 Бан за «переезд» в Новую Зеландию Пока ни один стример не умудрился получить бан за ранний запуск GTA VI на Новой Зеландии кроме...",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "6dec09b63ec4",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🔐 Бан за «переезд» в Новую Зеландию Пока ни один стример не умудрился получить бан за ранний запуск GTA VI на Новой Зеландии кроме...",
+     "url": "https://t.me/GTA6_m/9415",
+     "ts": "2026-11-18T13:33:11Z",
+     "summary": "🔐 Бан за «переезд» в Новую Зеландию Пока ни один стример не умудрился получить бан за ранний запуск GTA VI на Новой Зеландии кроме... N3on Этот популярный американский блогер догадался начать менять регион Xbox прямо на стриме и закономерно отъехал IQ тест был провален. 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ec6de85869a5",
+   "title": "Бояре где-то рядом: число зрителей GTA 6 на Twitch перевалило за 2,5 миллиона",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-18T13:41:07Z",
+   "items": [
+    {
+     "id": "ec6de85869a5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Бояре где-то рядом: число зрителей GTA 6 на Twitch перевалило за 2,5 миллиона",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEpVZzFqTEdpRFBKNlNTUFI3NC1ha2hvS0taNWxwdWlPMjRKWmoxalJSSDJZUy1BX0RpX1QwSGZjM1Q5UVZwTFNoWTVSNDQ5blhSdzNvUmVvNzc1ckYzRUNrUVR2b01xd2FJRndJOWRkQ3hROUtwNlkyUEdkV0pDR1N0T21IQW9leHZESGwtX21ocEQxREhvRkR4UVRyWkFkOVozOEEyYm8?oc=5",
+     "ts": "2026-11-18T13:33:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6bb8be6b6023",
    "title": "After a 13-year wait, 'Grand Theft Auto VI' arrives with enormous hype and expectations",
    "first_seen": "2026-11-18T05:31:02Z",
@@ -1527,69 +2506,6 @@
     "at": "2026-11-18T13:31:08Z"
    },
    "msg_id": 1304
-  },
-  {
-   "id": "3afa2020d41f",
-   "title": "GTA 6 Prologue Mission Walkthrough",
-   "first_seen": "2026-11-18T13:01:07Z",
-   "updated": "2026-11-18T13:21:25Z",
-   "items": [
-    {
-     "id": "3afa2020d41f",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Prologue Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-prologue-mission-walkthrough/",
-     "ts": "2026-11-18T12:54:14Z",
-     "summary": "GTA 6 begins with Prologue, the game's first mission"
-    },
-    {
-     "id": "4b554df2ce23",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Gear Up Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-gear-up-mission-walkthrough/",
-     "ts": "2026-11-18T13:13:39Z",
-     "summary": "Gear Up is the third mission of GTA 6. Time to get tooled up!"
-    },
-    {
-     "id": "9ce5541925ae",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Gone Fishing Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-gone-fishing-mission-walkthrough/",
-     "ts": "2026-11-18T13:18:35Z",
-     "summary": "Gone Fishing is the second mission in GTA 6"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 начинается с Пролога: как стартует игра",
-    "summary": "По данным VGC, GTA 6 начинается с Пролога — первой миссии, которая знакомит с героями и механиками. Детали миссии издание не раскрывает. Официально Rockstar это не подтверждала.",
-    "idea": "Короткая нарезка фактов о Прологе с таймлайном старта: что известно, чего нет, и почему это важно для старта сюжета.",
-    "hook": "С чего стартует GTA 6? Вот что известно о Прологе прямо сейчас.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T13:01:12Z"
-   },
-   "msg_id": 1292
   },
   {
    "id": "a32cfaccfa9f",
@@ -4485,32 +5401,6 @@
    "status": "new"
   },
   {
-   "id": "663e3b4e6ad0",
-   "title": "Стартовал мировой релиз GTA VI",
-   "first_seen": "2026-11-18T12:31:07Z",
-   "updated": "2026-11-18T12:31:07Z",
-   "items": [
-    {
-     "id": "663e3b4e6ad0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "BFM.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Стартовал мировой релиз GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB1Vko2aGZiUXRvQ3o3ZHE1X1oyT1ZPMUY3aGVvU2xuV1NzSmZzeXM1b0ZsWUhXTGxyVk4wNFg5QnlWYU5v0gFKQVVfeXFMTzZIWXNnUjYtcVlTQXhnNFNrSzlJT1BnUGFWcHM2c2FTOWpCbl9RTmNPdXlYQnF3SXQwajBtbnM1Zk5GRGpDcVhFaGc?oc=5",
-     "ts": "2026-11-18T12:02:22Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "7dcd4ce67c1e",
    "title": "День до релиза GTA, обстановка 🥺 Канал про GTA 6 | Наш чат",
    "first_seen": "2026-11-17T19:11:05Z",
@@ -6177,56 +7067,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "1c0e22fc0da0",
-   "title": "GTA 6 First-Person mode explained: Does GTA 6 have a first-person mode?",
-   "first_seen": "2026-11-18T12:01:18Z",
-   "updated": "2026-11-18T12:01:18Z",
-   "items": [
-    {
-     "id": "1c0e22fc0da0",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Can You Switch to First-Person in GTA 6? Camera Options, Explained",
-     "url": "https://insider-gaming.com/how-to-switch-to-first-person-gta-6/",
-     "ts": "2026-11-18T11:52:28Z",
-     "summary": "Learn if you can switch to first-person in Grand Theft Auto 6 and how you can achieve that in this snapshot guide. The post Can You Switch to First-Person in GTA 6? Camera Options, Explained appeared first on Insider Gaming ."
-    },
-    {
-     "id": "6ad376293442",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 First-Person mode explained: Does GTA 6 have a first-person mode?",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-first-person-mode-explained-does-gta-6-have-a-first-person-mode/",
-     "ts": "2026-11-18T11:57:56Z",
-     "summary": "Does GTA 6 have a first-person mode like GTA 5? Here's the answer"
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6: будет ли вид от первого лица? Что известно",
-    "summary": "По данным VGC и Insider Gaming (Tom Henderson), в GTA 6 ожидается вид от первого лица и переключение камер, как в GTA 5. Официально Rockstar детали не раскрывала, поэтому часть информации основана на утечках и анализе.",
-    "idea": "Короткая нарезка: вид от первого лица в городе, перестрелке и машине. Зрителю важно понять, будет ли привычный FPP и как он ощущается в GTA 6.",
-    "hook": "GTA 6 от первого лица — реально? Показываю, что известно на сегодня.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T12:01:23Z"
-   },
-   "msg_id": 1265
   },
   {
    "id": "b724cee552a1",
@@ -9595,34 +10435,6 @@
    "score": 50,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "564187c385d1",
-   "title": "100 hours with GTA 6: A sprawling adventure that will be so much better on PC",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "564187c385d1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PC Gamer",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "100 hours with GTA 6: A sprawling adventure that will be so much better on PC",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR240M0J2WFVtSWp3ZDlGd1NFc21kQUZtSTVnTG40TURfcDVSY3JJZVRTUUs1WmpHNmlhNGRxVERPUkdfbWhfMW1SSmk4U0FnTlRGa3dCVlhxeExVR1JVRGhvZ1lqUEdKVXQ4Y29zc1ItSFBOUV85U0xlMmozcGZiYzB1d2djdERVbWRLbzd2Z1VEWHExd1RqNUlQMGZpNkdmSDY3ZEphX3ZWNEVqM19LclRFbGNmVDNjVzM2WVpFNnNDdw?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 80,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -14462,32 +15274,6 @@
    "status": "new"
   },
   {
-   "id": "81afa4c32caf",
-   "title": "GTA 6 New Zealand Trick Could Help PlayStation Players Get Early Access, But There’s A Catch",
-   "first_seen": "2026-11-18T09:40:51Z",
-   "updated": "2026-11-18T09:40:51Z",
-   "items": [
-    {
-     "id": "81afa4c32caf",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NDTV Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 New Zealand Trick Could Help PlayStation Players Get Early Access, But There’s A Catch",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVUFsZlBGMkRkUXhsc0QwcFpGOUU1YWJsQjl3aFFTbDR2TERSbmFKTUNQZEFDYVNpVVF0dE5qVXp4d0dtendYZHd0R01iR3k4VklsQWZVbkxHN28zN2hTYklBcU00SjdVU25OOUg3OFd6TERLd2ItUnFKdnZUUjNUcEQzUURZS3loTmdhYWctOVl2SDJrbHlPY2xCN0RPTktPSzNnNUJCOWxYUTVTV2pWem1UTV9ObFFudHVfT0ZMMWpKY3FKUWVFQm5WWWZFU2NfbzVaVHp2aw?oc=5",
-     "ts": "2026-11-18T09:14:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "cd3318591e21",
    "title": "Life on pause: How GTA 6 could move financial markets",
    "first_seen": "2026-11-18T09:40:51Z",
@@ -15536,191 +16322,6 @@
     "at": "2026-11-17T18:11:04Z"
    },
    "msg_id": 1161
-  },
-  {
-   "id": "00a3b9ffce32",
-   "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
-   "first_seen": "2026-11-17T21:50:51Z",
-   "updated": "2026-11-18T08:31:02Z",
-   "items": [
-    {
-     "id": "00a3b9ffce32",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IMDb",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TR1o1UHV1bkEtYllROGstek16cFBCQ3Z4dGRlMTRfTV9ydjRzampORERLOGc3TGwzN3FSYUJxbTVzMDdYV1B5czFXaVBpWVU3VTlaZ01aMlM0TlBJblVQVWxRQkdrZw?oc=5",
-     "ts": "2026-11-17T21:49:03Z",
-     "summary": ""
-    },
-    {
-     "id": "677a1b7c2e45",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IMDb",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QaFlhVkpkek1aRlcyWnZwYTlUc1ZFUzFaZ3Bpb3NkR3lieUxNMHIyUG5BRkNLdm0tTUFQRVFSenlWUkIyYlFXNFF6NWM5NExUZXRQZWxyaUhCNmQybXEtdkhkSkkyenJDX0E?oc=5",
-     "ts": "2026-11-17T22:15:25Z",
-     "summary": ""
-    },
-    {
-     "id": "51835b26e7b1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IMDb",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aMHp3eEF6ZkNnelZmRkRiLWxmS05qS3NIazExSzR1THlOVkthNG1vQmlzcFh4LVpxd0o0TTRwdFdEU3lNYkZGa0JHS3B3OTdWSGR4R095VjBVWEZXbzlndlhoRF9mRHAyMWc?oc=5",
-     "ts": "2026-11-17T21:54:39Z",
-     "summary": ""
-    },
-    {
-     "id": "abaa1ceae4db",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA 6 Online’ Release Date: Will ‘Grand Theft Auto VI’ Have Multiplayer at Launch?",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZkF4aWNXSWZEMDgyeEhza1pFelZhMjlkSHRwemowNmJxM09hSk1fVGhIN0V5Wi1fZ1BiZVBaWFJPQzFMRDNpOF9Qa1BWcl9pN1FlLXN5VWZ5UWdWdEJfWUhjeWJ0cEV3SlJnOHI3andkVzlKREEyTEllOXFrakNJNkQ5aWZyQQ?oc=5",
-     "ts": "2026-11-17T21:07:49Z",
-     "summary": ""
-    },
-    {
-     "id": "df8ba6c3d87a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ABC News - Breaking News, Latest News and Videos",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 comes out this week: What to know about its release date, preloading, file size and more",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVo1THd4XzhBWk1sTUFHRm1qV0hKUm1DYU1fUXlIZnI5aG9RbjV4WThMRHJUeURUalpRa180YUpYU01hRU1VeTJzR0lBM3EzVTgzY3lJV0g0Z21ySG5mTllaSWVSU25BVUxjdUx4STRXdjItTGxqUE1qejZsczRTdlFmVlZ0blnSAYwBQVVfeXFMTXpJX3FvcHBzMEtkRmVzUktPeTluYUFSM3JwUlpyM3NIeHlSUjlEREZ1TExETmpacU1YNThtVDd6cDBBNGc2ZDlPZlIteHBLd1VFRVN5SjJGQkNBd3RLV0N1ZUgxOG5lMmFUdEdjOEFTQ3BCZk0tbUd1bWV4azhFR004WjdEcGF4UUJ1eDQ?oc=5",
-     "ts": "2026-11-17T21:44:25Z",
-     "summary": ""
-    },
-    {
-     "id": "a43bd96b170a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Notebookcheck",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Xbox reportedly warns against GTA 6 New Zealand trick for early release date unlock",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd3JoQThYUHppTktJS3pJYjRTZUtZWV9KaVVEMkZmSUtUN2pjcFRfZlFuLVcwZmZYbWx6X3lkRkJfN0tTUjUyTTZDdEZtQnM0UV9fTzJxME5tWW5WeVlvWUZPTG53Zk0xMWxNb2FpSkpTanozbUNnaFJjQTdlR2QxdS1WZHJIQnVoU01kU3FsX1NETC00RGFHMk9FTW1yWTFINmI3dWRuVnhqOEVqR0NIVU1sQlp4akY2TnhtUUVxYmdLdUl2d0JF?oc=5",
-     "ts": "2026-11-17T23:33:00Z",
-     "summary": ""
-    },
-    {
-     "id": "1b2be28b0dbf",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Le Monde.fr",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA Online': Ahead of GTA VI release, online players prep for 'last ride'",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUHhqS0JpLXlaRV8zYk9uWHltVi1IU2w1bnQtSEgyZWhxTXEzUXp5WExYaGpXTVg5aldzaGVfZ3MwUndSZ05pZnJzZEFyeWJNV1I4anVSUml1eS1keGNoY2ZfblJZTU1xdzFrQ0tUQ01ObXEtX1Y1dXZlNHJ5OGtPUW5QVHktbVdleUdvUE9IWkswamNRSkxfLWNzMENNRXo2VEhtVzdyRDcyd1MwdmltVXZQQkxNVWd4dVdQWXNkaWotVG1kTS1rVVlmNEh3UTdRNmc?oc=5",
-     "ts": "2026-11-18T03:00:10Z",
-     "summary": ""
-    },
-    {
-     "id": "cf42311f75a9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Fact Check: FAKE Rockstar Games Letter Claims GTA VI Release Date Pushed Back To 2027",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2ZTRjdGejRXaWZTNWRJUlI0STBYc2RqTWNmZ0hNemtpcE9aNVpfdjEwcVpCTXJPcVBEVTZ0dW1QYTZkaXJKelVYUTdPTGt1c0EzZ3BHRE8yeXRZOFZIUDRaT1dPMVlTeTdlNmhUREVVdTBQczBVSnZtRldRaHlYcVZmck93YnBLUGtRUw?oc=5",
-     "ts": "2026-11-18T03:26:34Z",
-     "summary": ""
-    },
-    {
-     "id": "c3a5ba917189",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Clarin.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "What time does GTA 6 release? Launch date, unlock times, and how to preload on PS5 and Xbox",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMXVaZ0ZTQlVQRXhCOEpaZ29sdmVrMkM0NlFiYzZsVTdGeWFNazR0TkVVZlloMkhUQktoWlJ1ZkN4SVNHa2Q4bnVKbFNRdjdfZGViVzlGMmxXVnVsNzNhYkxjN2h0NGl5SXliT0JKdk9sWTRPMmZOR2lUbGJ5NUVaODFybFJUQnhrOGRpWkotOGhVejBwMkFqN0lTaGNZU241M3lZWkRJUFQ3R3dWRUs1ZzRwREp3aW9FV0tKMUJ1RnUxcGt2M0xFcG9XSng4UHJMV2Iw0gHYAUFVX3lxTE5YaC1sR0tXcWJBSTU3ZnpaMVN6N0wyQXNTS2hybUsxMk16a1d0enJHNFhpUjRkQVBwd253TTk3WkdRdWR2bjJ2MTVXNXJGVndLRHhwNlJYaWVRSGRjRWJTZkY0d3U2RGNvZGtTZFhRNzlUYWNXaXBqaTh1VlRjWGtzUVlvVVVvZDFNZVNXd2l1d0FWN2Q1aXFrbHRtLUlJZ2Z1cmZ1UFpQUTctb2EwLW53RGxCenk2R0NRYS1yOVg2ZUU2RGxHRkczY29OcXJrd1kwUlhRUHZOcQ?oc=5",
-     "ts": "2026-11-18T04:01:50Z",
-     "summary": ""
-    },
-    {
-     "id": "ef5d164952cb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Clarin.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "What time does GTA 6 release? Launch date, unlock times, and how to preload on PS5 and Xbox",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMXVaZ0ZTQlVQRXhCOEpaZ29sdmVrMkM0NlFiYzZsVTdGeWFNazR0TkVVZlloMkhUQktoWlJ1ZkN4SVNHa2Q4bnVKbFNRdjdfZGViVzlGMmxXVnVsNzNhYkxjN2h0NGl5SXliT0JKdk9sWTRPMmZOR2lUbGJ5NUVaODFybFJUQnhrOGRpWkotOGhVejBwMkFqN0lTaGNZU241M3lZWkRJUFQ3R3dWRUs1ZzRwREp3aW9FV0tKMUJ1RnUxcGt2M0xFcG9XSng4UHJMV2Iw?oc=5",
-     "ts": "2026-11-18T04:01:50Z",
-     "summary": ""
-    },
-    {
-     "id": "5a1e4a6e8b50",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The National",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "What time does GTA 6 launch in the UAE? Release date, price and how to preload",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWk5UjNyd0hscGZtTUNQXzBZb28zYjlVQVRzRlUxZVJ2Q19XWFRpXzlwNGhBcThacy1jNzRhM05TNE1sdjkxWXQ3aWRJU05wZWIwdjQ2MHRZV3F3R3NuN1FON2RINklFbHFWWi1OQTRCM3lFc1FwcjB4TjM2TEtyWWxfUVNpeGZfTVN1VEtlODZSUQ?oc=5",
-     "ts": "2026-11-18T06:59:09Z",
-     "summary": ""
-    },
-    {
-     "id": "383c8ace03eb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "finchannel",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 release time: New Zealand launch leads U.S. PS5 unlock",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUU0xWUhna1I5ZGF6YjNrQkxLM3hISzUtZWFFV0xIUXV0OHB0M3MwTWNPMm1WVnhDb2JMT3FVMnVCZUt5WlJvTUV0eG0wQnltbktGdGJtemRmdks4bVJfdTlueFdSVjNIM2NIeElWYkxndmNJU0QzbDZmdkdibTU3TVpLTFh6b2RxeFlWZXFrWkJNMW0zMVRpVjFJTTcxT2VfRm9JRXZ0SW9PazBYWGhmcA?oc=5",
-     "ts": "2026-11-18T08:24:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Online",
-    "дата/перенос",
-    "размер/preload",
-    "цена/издания"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 Online: будет ли мультиплеер на старте?",
-    "summary": "По данным IMDb, обсуждается, будет ли GTA 6 Online доступен в день релиза. Официальной информации от Rockstar о старте мультиплеера пока нет.",
-    "idea": "Угол: «запустят ли мультиплеер сразу или позже» — коротко объясняем, что известно и чего ждать. Зрителю важно понять, ждать ли онлайн с первого дня.",
-    "hook": "GTA 6 Online на релизе — будет или нет? Вот что известно.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-17T21:50:55Z"
-   },
-   "msg_id": 1175
   },
   {
    "id": "753bb767b566",
@@ -17539,56 +18140,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "43b17eafc212",
-   "title": "Sony Releases Mandatory PS5 System Update for GTA 6 Players, Triggers Public Backlash",
-   "first_seen": "2026-11-18T06:31:02Z",
-   "updated": "2026-11-18T07:10:50Z",
-   "items": [
-    {
-     "id": "43b17eafc212",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "autoevolution",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony Releases Mandatory PS5 System Update for GTA 6 Players, Triggers Public Backlash",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMm5xbndfcHFFUGtyZHhQOUE0VjFCQ2FOaG9zTldMcXdaR0lXanZqOEQtSFBLVUw1ZWZnMmtfYUlHWDVOQ1ZIZVpsMkFUTzhGM0pZZno3TDA2ZFNpUWNSbW5MR2ZoYlJmbkhzaFFzZmFvSjc0UjBiRlR2dmpING9OdXpnRk5obGRnRmhFeko4NzZIZGZONi1zTEJJOUZ1RXdaN21YUjBBY1JhTVRpMV9BTkJsdld3d0xDdWtiTmtiS1FEWG9QSHpPbFJHTQ?oc=5",
-     "ts": "2026-11-18T06:21:33Z",
-     "summary": ""
-    },
-    {
-     "id": "f9f92054d5a4",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "PS5 Players Must Install a Mandatory System Update Before Playing GTA 6",
-     "url": "https://www.gtaboom.com/ps5-players-must-install-a-mandatory-system-update-before-playing-gta-6-dfe2",
-     "ts": "2026-11-18T07:01:58Z",
-     "summary": "PS5 players reportedly need a roughly 1.2GB system software update to play GTA 6, separate from the game's own patches."
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Обновление PS5 на 1.2 ГБ ради GTA 6: игроки недовольны",
-    "summary": "Sony выпустила обязательное обновление системы PS5 примерно на 1.2 ГБ для запуска GTA 6, сообщает GTA Boom. По данным autoevolution, это вызвало волну жалоб игроков. Обновление нужно отдельно от патчей самой игры.",
-    "idea": "Короткий разбор: почему Sony выкатила обязательное обновление на 1.2 ГБ перед GTA 6 и чем это бесит игроков. Плюс быстрый опрос: качать или ворчать в комменты.",
-    "hook": "Sony заставляет качать обновление на 1.2 ГБ, чтобы просто запустить GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T07:10:55Z"
-   },
-   "msg_id": 1199
   },
   {
    "id": "c97e1916542c",
@@ -140902,89 +141453,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "74fab1e8abae",
-   "title": "Don’t Count Out the XBOX Series X When It Comes to GTA VI",
-   "first_seen": "2026-11-11T13:40:59Z",
-   "updated": "2026-11-11T13:40:59Z",
-   "items": [
-    {
-     "id": "74fab1e8abae",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Outerhaven",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Don’t Count Out the XBOX Series X When It Comes to GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTRscnpYWE1ISVVMY2swYllVX2xQa0VINzhHUmxnbXR0R0pITS1VeVpreUlmUWhHTGJmNmQ3MFhJc0JzV1JpM3duVGE4bkRxRlUxWlpiOVBOT0hZZ1dvVmVnbWdHX3pLX3VXZDFPZUduakV0S0ZkTTY0ZDdwNmRzUWo3enR1eWN6WFI2cWpIMW4?oc=5",
-     "ts": "2026-11-11T13:26:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d7348df55fcf",
-   "title": "Still no PS5 PRO to be found, I guess series x it is…",
-   "first_seen": "2026-11-11T13:40:59Z",
-   "updated": "2026-11-11T13:40:59Z",
-   "items": [
-    {
-     "id": "d7348df55fcf",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Still no PS5 PRO to be found, I guess series x it is…",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xththb/still_no_ps5_pro_to_be_found_i_guess_series_x_it/",
-     "ts": "2026-11-11T13:31:58Z",
-     "summary": "submitted by /u/Untrus4598 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "090b66477ec6",
-   "title": "The last weekend before GTA 6",
-   "first_seen": "2026-11-11T13:40:59Z",
-   "updated": "2026-11-11T13:40:59Z",
-   "items": [
-    {
-     "id": "090b66477ec6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "The last weekend before GTA 6",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xthydd/the_last_weekend_before_gta_6/",
-     "ts": "2026-11-11T13:38:00Z",
-     "summary": "submitted by /u/DrewN89 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-18T13:31:13Z",
+  "last_run": "2026-11-18T13:41:35Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 93/100",
@@ -140995,11 +141468,11 @@
    "ign: 16/20",
    "eurogamer: 9/100",
    "dexerto_gta: 12/50",
-   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
+   "rockstarintel: 10/10",
    "gtaboom: 24/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 5/5",
-   "tg_gta6deluxe: 13/14",
+   "tg_gta6deluxe: 8/9",
    "tg_gta6_m: 18/18",
    "tg_gta6newsdaily: 11/20"
   ],
