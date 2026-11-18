@@ -1,6 +1,177 @@
 {
  "stories": [
   {
+   "id": "5302aa9b5365",
+   "title": "Nine days before launch, GTA VI preloads set Virgin Media O2’s daily data record",
+   "first_seen": "2026-11-18T20:50:50Z",
+   "updated": "2026-11-18T20:50:50Z",
+   "items": [
+    {
+     "id": "5302aa9b5365",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MarketScale",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Nine days before launch, GTA VI preloads set Virgin Media O2’s daily data record",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2N1UnQ4Y1NzU3NpeVQ1cnY4MmVuUERDeGg2LXJMWThIak00eFM5UzBfdkZiaXN2ci1EWWNSRWZvMzBaMkxGakhFb3hEZXJHOW9fNmFMbjNYOUtSYmhZMDNrQ004S3hJRUI2YnB1LVNLd0dpOExlVGxlSDJzZlEzSkE4TU95MGlCeGFwOHZaT3phTWI5LTJ2cW9odndyWW41YkI0bHlVN3puRFo2eV93OExmRXNsZXZKMlE?oc=5",
+     "ts": "2026-11-18T20:42:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "e9debc94c9dd",
+   "title": "GTA 6 призвали запретить в России — для лиц до 18 лет",
+   "first_seen": "2026-11-18T20:50:49Z",
+   "updated": "2026-11-18T20:50:49Z",
+   "items": [
+    {
+     "id": "e9debc94c9dd",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 призвали запретить в России — для лиц до 18 лет",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbVBhclh2RzlSZzh6MEJGWEZzOUZ6a1BPV0tEN0xZU2lGeUQ3cHluY1NRVDhvR3JrWDBwMm41WC0wMFR0YjkwbWtLaTVDSHNvR0poRWFFRHZhM2tneFd6MUN3S3F4c1ZweC1jenF2d2pxd3hQNDJIQXVZdEVBYlBfLUoyV3NEa2JUNlE?oc=5",
+     "ts": "2026-11-18T13:22:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "18a6f8fac987",
+   "title": "How Xbox’s Streaming Deal For GTA 6 Could Expand Its Marketshare By 30%",
+   "first_seen": "2026-11-18T20:50:49Z",
+   "updated": "2026-11-18T20:50:49Z",
+   "items": [
+    {
+     "id": "18a6f8fac987",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "How Xbox’s Streaming Deal For GTA 6 Could Expand Its Marketshare By 30%",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0FvLW93X2Q2UldPT0R0Ym5ZTkE3Vy0tQ0tQUVNzWFFhcVpJbnZ3ekJ0YmVrZ1JIMFlQaDR6Wlg0S2JfazlBd0t3UGh5NDd6dzY2T1RENEZfUmo4Y0kwTkZHb01heEtaOV9vLTZwR2JsMWFtNE1aT09rdVdDQWtGR2JLZkdFWkE1YmdFUTYtUXZ4X1ZxZEl0X09GbzlEYjJQQkhTWkRuaw?oc=5",
+     "ts": "2026-11-18T19:56:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Стриминг GTA 6 на Xbox: как сделка может увеличить долю на 30%",
+    "summary": "По данным GameSpot, сделка Xbox по стримингу GTA 6 может увеличить долю рынка Xbox на 30%. Материал анализирует, как облачный запуск игры расширит аудиторию без мощной консоли.",
+    "idea": "Коротко объясняем, как облачный запуск GTA 6 на Xbox может дать +30% к доле рынка. Зрителю важно понять, сможет ли он играть без дорогой консоли.",
+    "hook": "GTA 6 без консоли? Сделка Xbox по стримингу может дать +30% доли.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T20:50:52Z"
+   },
+   "msg_id": 1400
+  },
+  {
+   "id": "6d7841ad32a6",
+   "title": "TTWO Stock Rallies After GTA VI Scores 99 On Metacritic: Freedom Broker Says Wait Was Worth It For Gamers And Investors Alike",
+   "first_seen": "2026-11-18T20:50:49Z",
+   "updated": "2026-11-18T20:50:49Z",
+   "items": [
+    {
+     "id": "6d7841ad32a6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "TTWO Stock Rallies After GTA VI Scores 99 On Metacritic: Freedom Broker Says Wait Was Worth It For Gamers And Investors Alike",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDRxcEZOeGJRU0xuWjFBcGJrUFNobFpRWVJHc0FPMGt2MnN2OWFxZlpOVWsxVVluTEJSVDdHNDVsU2VzemRQeVZLN09BdS1NSXdMOC1QN0Jyb1h1YXlrTnpWOE1SVUgzS2ZKOFQwZ093ZjZmdThuVThNaDVqOGhyYnNVck1RbnNlMlpySllkT1gtX3NZ?oc=5",
+     "ts": "2026-11-18T20:15:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c3b925266ec6",
+   "title": "Конор Макгрегор объявил для своих работников выходной из-за выхода GTA 6",
+   "first_seen": "2026-11-18T20:50:49Z",
+   "updated": "2026-11-18T20:50:49Z",
+   "items": [
+    {
+     "id": "c3b925266ec6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://www.championat.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Конор Макгрегор объявил для своих работников выходной из-за выхода GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQU1DSm0zYnNyVEpYUUJWb2lJTFFHanlmZ1VtOFZSTXZhcTZfaFdKQ2FWSVlnS25WOXB4X3hpVzk3RDlLbVIwakRiMHRycGFNNzk1Skk5Z2thNFZUWGZkV29PeC12cG1DdFpIVmp6NXdxQlYweXFnVFdPX3l0VXd2Tlp2VDZxVDNwcmZTLTJmUnFpV25kRk1mMlA4dE5TM3pDSkMxZjVqM1VrVGlkeUg3Nk1IOUdtRjVzTVZ4Uk1ydlNIdw?oc=5",
+     "ts": "2026-11-18T20:35:05Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "e572826679f3",
+   "title": "4 Unexpected Ways GTA 6 Changes How You Control The Game",
+   "first_seen": "2026-11-18T20:50:49Z",
+   "updated": "2026-11-18T20:50:49Z",
+   "items": [
+    {
+     "id": "e572826679f3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BGR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "4 Unexpected Ways GTA 6 Changes How You Control The Game",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XM1Y1eVh0QU5SMGp5dUtzUThYcGZyU09PUk5uc2ZWNUlfNlhRdEI2YUt5ZkVPWVFwLXdXeENILXZpcU1SWXFDNGdic1JDeTR4cVVUdVBIejBOaHNxdVlIR1Z1dkp1dXJTMGI5TUFRNHViUzRldThicFl0ODQ?oc=5",
+     "ts": "2026-11-18T20:35:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6bb8be6b6023",
    "title": "After a 13-year wait, 'Grand Theft Auto VI' arrives with enormous hype and expectations",
    "first_seen": "2026-11-18T05:31:02Z",
@@ -149203,10 +149374,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-18T20:41:01Z",
+  "last_run": "2026-11-18T20:50:53Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 99/100",
+   "gnews_en: 98/100",
    "gnews_ru: 99/100",
    "gamesbeat: 7/10",
    "vgc: 10/10",
