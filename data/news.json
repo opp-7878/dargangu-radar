@@ -1,349 +1,91 @@
 {
  "stories": [
   {
-   "id": "3afa2020d41f",
-   "title": "GTA 6 Prologue Mission Walkthrough",
-   "first_seen": "2026-11-18T13:01:07Z",
-   "updated": "2026-11-18T17:40:43Z",
+   "id": "d0b33ce86ef1",
+   "title": "GTA 6: How The Ultimate Edition Content Works",
+   "first_seen": "2026-11-18T13:50:56Z",
+   "updated": "2026-11-18T17:50:42Z",
    "items": [
     {
-     "id": "3afa2020d41f",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
+     "id": "d0b33ce86ef1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 Ultimate Edition — где забрать все бонусы издания",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGNOdHc1eTJyYmVFeVIwN2ZXcngwYTJwUTNQMnRnTVJNRmlPSEhyWFRjZzlZUm9GbTJzQkJmV252TGl0c0FvdUhRcm5pWG1FUExsTTlZakJDakdjcndiaG9nVW00T2FleVc3VC15Z2hvNF9RRjAyUG45VHhYVThaMzZBS2ozc0s4RU1pbmM3VkpVMHRHQ1Rv?oc=5",
+     "ts": "2026-11-18T13:40:34Z",
+     "summary": ""
+    },
+    {
+     "id": "b266e3ac72ae",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
      "group": "media",
      "weight": 70,
      "alert": true,
-     "title": "GTA 6 Prologue Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-prologue-mission-walkthrough/",
-     "ts": "2026-11-18T12:54:14Z",
-     "summary": "GTA 6 begins with Prologue, the game's first mission"
+     "title": "GTA 6: How The Ultimate Edition Content Works",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUEzckRXZUNBb04waFlDbWtRU3BlSE1tUldvQlNQS2EzUC1tSWNKSnhiel9fZ2pjNW1qMm1pZi1WWElpcnI4MHhHRjNHVFVPeEQxUUF4UTlXdU1qNFVjQWREcW1oQmxCdTZ5YWxoTXh2dXJ6bk1oaXpMXzlqQU1xVHVGMk10SjJ2UXRDT2ljYUNyalFzRzBrcw?oc=5",
+     "ts": "2026-11-18T14:07:08Z",
+     "summary": ""
     },
     {
-     "id": "4b554df2ce23",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Gear Up Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-gear-up-mission-walkthrough/",
-     "ts": "2026-11-18T13:13:39Z",
-     "summary": "Gear Up is the third mission of GTA 6. Time to get tooled up!"
-    },
-    {
-     "id": "9ce5541925ae",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Gone Fishing Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-gone-fishing-mission-walkthrough/",
-     "ts": "2026-11-18T13:18:35Z",
-     "summary": "Gone Fishing is the second mission in GTA 6"
-    },
-    {
-     "id": "0acd5f64ee90",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Lab Fees Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-lab-fees-mission-walkthrough/",
-     "ts": "2026-11-18T13:32:14Z",
-     "summary": "Collect Brian's money in Lab Fees"
-    },
-    {
-     "id": "d5cd6530c65b",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Just A Scratch Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-just-a-scratch-mission-walkthrough/",
-     "ts": "2026-11-18T13:51:21Z",
-     "summary": "Get yourself a shiny new car with Just A Scratch"
-    },
-    {
-     "id": "9f27466c1acf",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Unwanted Attention Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-unwanted-attention-mission-walkthrough/",
-     "ts": "2026-11-18T13:51:42Z",
-     "summary": "Snoop on the police in Unwanted Attention"
-    },
-    {
-     "id": "70d83c62d8bd",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Pipework Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-pipework-mission-walkthrough/",
-     "ts": "2026-11-18T14:04:02Z",
-     "summary": "Jason takes on a side job in Pipework"
-    },
-    {
-     "id": "75bd0d15cb69",
+     "id": "b159dd01689d",
      "src": "gtaboom",
      "src_name": "GTA Boom",
      "outlet": "",
      "group": "fansite",
      "weight": 45,
      "alert": true,
-     "title": "How to Complete Gone Fishing in GTA 6",
-     "url": "https://www.gtaboom.com/gta-6-gone-fishing-mission-walkthrough-ff86",
-     "ts": "2026-11-18T16:10:02Z",
-     "summary": "Slow the boat so Cal can collect all three drops, sneak Donnie out of the camp, then land the floatplane and take Jason home."
+     "title": "How to Unlock GTA 6 Ultimate Edition Bonuses",
+     "url": "https://www.gtaboom.com/gta-6-ultimate-edition-unlock-guide-5081",
+     "ts": "2026-11-18T17:11:50Z",
+     "summary": "Find the Ultimate Edition rewards by chapter, from Stockyard’s shops to the Squalo at Washington Beach."
     },
     {
-     "id": "ec2282b9be64",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "How to Complete Lab Fees in GTA 6",
-     "url": "https://www.gtaboom.com/gta-6-lab-fees-mission-walkthrough-a2c7",
-     "ts": "2026-11-18T17:21:57Z",
-     "summary": "Call Brian from Moonstone Boutique, get the lab code from the clerk, then stash the acid in Brian's lockup at the Isla Tropical private club."
-    },
-    {
-     "id": "071b21b27292",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Feng Shui Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-feng-shui-mission-walkthrough/",
-     "ts": "2026-11-18T17:33:47Z",
-     "summary": "Get your house in order before Lucia comes home"
-    },
-    {
-     "id": "8110513d046f",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Clean Up After Donnie Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-clean-up-after-donnie-mission-walkthrough/",
-     "ts": "2026-11-18T17:33:56Z",
-     "summary": "Oh Donnie... when will you learn?"
-    },
-    {
-     "id": "dca187136629",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Coming Home mission walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-coming-home-mission-walkthrough/",
-     "ts": "2026-11-18T17:34:21Z",
-     "summary": "Lucia is free, it's time to celebrate!"
-    },
-    {
-     "id": "4f8415a4029e",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Buck Me Mission Walkthrough",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-buck-me-mission-walkthrough/",
-     "ts": "2026-11-18T17:34:37Z",
-     "summary": "Here comes the money!"
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 начинается с Пролога: как стартует игра",
-    "summary": "По данным VGC, GTA 6 начинается с Пролога — первой миссии, которая знакомит с героями и механиками. Детали миссии издание не раскрывает. Официально Rockstar это не подтверждала.",
-    "idea": "Короткая нарезка фактов о Прологе с таймлайном старта: что известно, чего нет, и почему это важно для старта сюжета.",
-    "hook": "С чего стартует GTA 6? Вот что известно о Прологе прямо сейчас.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T13:01:12Z"
-   },
-   "msg_id": 1292
-  },
-  {
-   "id": "cec09193791a",
-   "title": "This GTA 6-Inspired Keycap Set Will Make The Wait For A PC Version Slightly Easier",
-   "first_seen": "2026-11-17T19:50:58Z",
-   "updated": "2026-11-18T17:40:43Z",
-   "items": [
-    {
-     "id": "cec09193791a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "This GTA 6-Inspired Keycap Set Will Make The Wait For A PC Version Slightly Easier",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjdNWEpIVFIwcGQ0Z3o2RXpHRTlkNlJ1bmZjNzlZRjNYQk1ib3FmN2VDMDRCbWxhakdqX3ZDOGJZZXkxRFlEQmk5WXhqWjROOHRuYm1HSW85X2JaUmpsNV85elhFQmsyV2V0WjRIQUpuSEp1ZllaSG5KSGVoVW5VdFd5a3Z4SVBCbGdaWVFWWnpLZG91am1lWGxlNmFLWFFuQ2hhRHI1cWpoYUwxa1RLSEtsYzFGQy1L?oc=5",
-     "ts": "2026-11-17T19:44:28Z",
-     "summary": ""
-    },
-    {
-     "id": "338df640d936",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Kotaku",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "How Am I Supposed To Wait Until The PC Version To Play GTA 6?",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEExYWlHM0hhQnRRajVtNnViRUpOMHJlZjFucEJsNVlnbFlPeVlRV3hXRkdwWVR2dUlLdVRSeVM2U1BXOVpZMGUtZ0JnQmhNNkg1LUpJNFZ1YkRCVEhBRU43Wk5aYUh0Zzg3OGpFQUVvVkZjUGxXZVJ6T1VRMUFzQ25LeUhxbGEyN0FpbG9XeGstYzh2bDN6V3NRMA?oc=5",
-     "ts": "2026-11-18T17:30:37Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 88,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "2c04c527add2",
-   "title": "Most, though not quite all, of the 34 fired Rockstar employees are named in the GTA 6 credits",
-   "first_seen": "2026-11-18T17:40:43Z",
-   "updated": "2026-11-18T17:40:43Z",
-   "items": [
-    {
-     "id": "2c04c527add2",
+     "id": "0fa572e80ae2",
      "src": "eurogamer",
      "src_name": "Eurogamer",
      "outlet": "",
      "group": "media",
      "weight": 70,
      "alert": true,
-     "title": "Most, though not quite all, of the 34 fired Rockstar employees are named in the GTA 6 credits",
-     "url": "https://www.eurogamer.net/fired-rockstar-employees-named-gta-6-credits-tribunal",
-     "ts": "2026-11-18T17:35:50Z",
-     "summary": "Eurogamer can confirm that at least 28 of the 34 employees fired by Rockstar roughly a year ago - in an action that directly led to the employment tribunal Rockstar is currently facing in Scotland - are named in the credits of Grand Theft Auto 6 . Read more"
+     "title": "PSA: Some GTA 6 Ultimate Edition content is only available for the first chapter, and you'll have to put in hard graft to unlock more",
+     "url": "https://www.eurogamer.net/gta-6-ultimate-edition-unlock-details-temporary-content",
+     "ts": "2026-11-18T17:42:30Z",
+     "summary": "GTA 6's Ultimate Edition has proven enormously popular, despite its hefty $100 price tag. So much so that Strauss Zelnick, boss of Rockstar parent company Take-Two, recently confirmed it's the edition most people are buying - and that's despite a lack of specific information about how its unlockable content works. With GTA 6 just hours away from release, however - and out now in certain parts of the work - details are beginning to emerge, and the answer is perhaps a little surprising. Read more"
     }
    ],
    "tags": [
-    "анонс"
+    "Take-Two",
+    "анонс",
+    "цена/издания"
    ],
-   "score": 85,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Уволенные Rockstar всё же попали в титры GTA 6",
-    "summary": "Eurogamer сообщает, что как минимум 28 из 34 сотрудников, уволенных Rockstar около года назад, указаны в титрах GTA 6. Это увольнение привело к трудовому трибуналу в Шотландии, который сейчас идёт.",
-    "idea": "Коротко объясняем, что уволенные всё же попали в титры, и показываем кадры титров GTA 6. Зрителю интересно, потому что это про справедливость и итог громкой истории с увольнениями.",
-    "hook": "Уволили — но в титрах GTA 6 они всё же есть.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T17:40:47Z"
-   },
-   "msg_id": 1367
-  },
-  {
-   "id": "7428ce449292",
-   "title": "How to Complete Gear Up in GTA 6",
-   "first_seen": "2026-11-18T17:40:43Z",
-   "updated": "2026-11-18T17:40:43Z",
-   "items": [
-    {
-     "id": "7428ce449292",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "How to Complete Gear Up in GTA 6",
-     "url": "https://www.gtaboom.com/gta-6-gear-up-mission-walkthrough-26a2",
-     "ts": "2026-11-18T17:36:34Z",
-     "summary": "Buy a longarm at Chuck's Tackle & Shot, get through the Kingfishers' ambush outside, and finish Jason's call with Donnie."
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a69b2eee3919",
-   "title": "Хакер расшифровал файлы GTA 6 в день релиза, открыв путь к порту на ПК",
-   "first_seen": "2026-11-18T17:40:43Z",
-   "updated": "2026-11-18T17:40:43Z",
-   "items": [
-    {
-     "id": "a69b2eee3919",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Хакер расшифровал файлы GTA 6 в день релиза, открыв путь к порту на ПК",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LNFdGR2VMZy00dXlKNkJXdVAzS0xnQk9jUG1xSjViZzJRTHBvb0JCU2drbURSSnU5c005YjVvQjlEbW42VFZTd3hDRFBaNFZVdG9pUk03aGFNaEZ4ck4zaUJuTUd5V09hWXctaURUdFItbk4yWU9Z?oc=5",
-     "ts": "2026-11-18T17:36:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 55,
+   "score": 100,
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
   },
   {
-   "id": "968318f7ddbf",
-   "title": "GTA VI Reviews Hail Video Game as a ‘Masterpiece’ That Was ‘Worth the Wait’",
-   "first_seen": "2026-11-18T17:40:43Z",
-   "updated": "2026-11-18T17:40:43Z",
+   "id": "430746511ee5",
+   "title": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
+   "first_seen": "2026-11-18T17:50:42Z",
+   "updated": "2026-11-18T17:50:42Z",
    "items": [
     {
-     "id": "968318f7ddbf",
+     "id": "430746511ee5",
      "src": "gnews_en",
      "src_name": "Google News EN",
-     "outlet": "TheWrap",
+     "outlet": "Decrypt",
      "group": "media",
      "weight": 50,
      "alert": true,
-     "title": "GTA VI Reviews Hail Video Game as a ‘Masterpiece’ That Was ‘Worth the Wait’",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84V2h3YmdOTE16M2F5THVtMkFVclZHSnEwaEVQZEdNc2ZfSU1jT080Yjhfd0hjXzNLUk1LLUt1Qk9RT3QtZUc5ck5MbkpnUEpWNW9wcm1qVUYxQ0x5cXBpdWZfaTdqODU1OHV4Y0lQQlNlTnc?oc=5",
-     "ts": "2026-11-18T17:36:49Z",
+     "title": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWlViTlVmNGV4dlhiSGlvN0RTREVOaFNMREdPLV83M25KUjRBd1pVanV5UDVTeW5iSTFfTnlXN20td3c1Vm9zSzAxMFlCYmk2SlRCQzV0RDFqd2RlTUo0NEZodFFZY1dGSUZrRUtYWlZ2RGRkMl91U3ZJYnJFWGJsUV8zeUd0ejVqb0ZMdjBkeGJKNm1hTEM3Sw?oc=5",
+     "ts": "2026-11-18T17:32:13Z",
      "summary": ""
     }
    ],
@@ -354,10 +96,203 @@
    "status": "new"
   },
   {
+   "id": "0b17d54b3499",
+   "title": "“Grand Theft Auto VI” Surpasses All Expectations",
+   "first_seen": "2026-11-18T17:50:42Z",
+   "updated": "2026-11-18T17:50:42Z",
+   "items": [
+    {
+     "id": "0b17d54b3499",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Roger Ebert",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "“Grand Theft Auto VI” Surpasses All Expectations",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Lc3F0WWVuTHZULUpWVU14WTBHYlBaSEVYYXdZQmdfbXA5aG5jWnkwZnkwX21rMmdGTjBCbXkxaF9sS1lnYlJiMVNHbEF1dzJhbUtIai1CMDd6ZUZ6UjVrMWo3bzJnZHFBQWRxUDRwUWRyUDA?oc=5",
+     "ts": "2026-11-18T17:38:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ad18ceec2e85",
+   "title": "I've played through GTA 6 - this is how my playthrough went",
+   "first_seen": "2026-11-18T17:50:42Z",
+   "updated": "2026-11-18T17:50:42Z",
+   "items": [
+    {
+     "id": "ad18ceec2e85",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Indy100",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I've played through GTA 6 - this is how my playthrough went",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44MzdJSkZLclcxeHVRUzlweUl0eGQxTzRpUnNQUXBvdl9iZjFlODdYeXEwM0otbmpvVV9xQmlrRG5uWmRMLVRuUlF3R1N6TkZkZnd5QUp1ZkJQZ3l0a1c4N0FnaGFvZnJtMEY3eGFrRzhJUzJpUVE?oc=5",
+     "ts": "2026-11-18T17:40:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b3ad6a3e3253",
+   "title": "Rockstar Drops GTA 6 Festival Set Times With Cactus Jack Finale",
+   "first_seen": "2026-11-18T17:50:42Z",
+   "updated": "2026-11-18T17:50:42Z",
+   "items": [
+    {
+     "id": "b3ad6a3e3253",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Rockstar Drops GTA 6 Festival Set Times With Cactus Jack Finale",
+     "url": "https://www.gtaboom.com/rockstar-drops-gta-6-festival-set-times-with-cactus-jack-finale-071f",
+     "ts": "2026-11-18T17:44:40Z",
+     "summary": "Rockstar's GTA 6 Miami festival schedule puts Metro Boomin at midnight and the Cactus Jack finale at 12:40 a.m. local time."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "eab69234e0a5",
+   "title": "Rockstar Games GTA VI Developers Explain How They Created Leonida",
+   "first_seen": "2026-11-18T17:50:42Z",
+   "updated": "2026-11-18T17:50:42Z",
+   "items": [
+    {
+     "id": "eab69234e0a5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Restart.run",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games GTA VI Developers Explain How They Created Leonida",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUDFCYWFobl9pakxmTk9tQ2RGcmZTUE1NOGRIMlE5T1RuQnVUd002UVhvSTZYVDl0U05qTURwdjJ5RzN1STU1QTRsUFM5ZEIxVm1iQkV5eGFmMm1LNm01X1FSNlhRTUdoT3pyY2YteUFoeUVqYjd0WEt0Z2oxRlRCMzAtVGNlQVFZQ2R1Mm9TZlpyN1RpYjA2aGlzQi1kWkk?oc=5",
+     "ts": "2026-11-18T17:45:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e0e7957ed3df",
+   "title": "'GTA 6' streamers playing now: See the list.",
+   "first_seen": "2026-11-18T17:50:42Z",
+   "updated": "2026-11-18T17:50:42Z",
+   "items": [
+    {
+     "id": "e0e7957ed3df",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' streamers playing now: See the list.",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWdjJtbzBsRW5VNWQxcTFYUU82ejNvUEY3Q211UjRXNWRfYzhGTFp3YVdkZWJnTU1qRGZTTkU2SDVWMUZXYjBoRWtZUG9VSXVoOE54YnhoX2h0NjlzUGRsbm9FTzFPUURoT0lXdA?oc=5",
+     "ts": "2026-11-18T17:45:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "989273996eb7",
+   "title": "🚗 Тачки в GTA просто ИМБА — уровень проработки транспорта полный ах#й В каждой машине можно управлять окнами, светом, поворотниками и аварийкой через полноценну",
+   "first_seen": "2026-11-18T17:50:42Z",
+   "updated": "2026-11-18T17:50:42Z",
+   "items": [
+    {
+     "id": "989273996eb7",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🚗 Тачки в GTA просто ИМБА — уровень проработки транспорта полный ах#й В каждой машине можно управлять окнами, светом, поворотниками и аварийкой через полноценну",
+     "url": "https://t.me/GTA6_m/9432",
+     "ts": "2026-11-18T17:49:58Z",
+     "summary": "🚗 Тачки в GTA просто ИМБА — уровень проработки транспорта полный ах#й В каждой машине можно управлять окнами, светом, поворотниками и аварийкой через полноценную приборную панель А в зависимости от модели доступны режим off-road и откидной борт Наконец-то «Auto» в названии полностью оправдано 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "900153367a62",
+   "title": "Кажется, я в какой-то не тот стрип-клуб зашёл...",
+   "first_seen": "2026-11-18T17:50:42Z",
+   "updated": "2026-11-18T17:50:42Z",
+   "items": [
+    {
+     "id": "900153367a62",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "Кажется, я в какой-то не тот стрип-клуб зашёл...",
+     "url": "https://t.me/gta6deluxe/2222",
+     "ts": "2026-11-18T17:50:00Z",
+     "summary": "Кажется, я в какой-то не тот стрип-клуб зашёл... 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Странный стрип-клуб в GTA 6? Что заметили игроки",
+    "summary": "Игроки обсуждают необычный стрип-клуб в GTA 6, кадры из которого опубликовал канал @gta6deluxe. Официально Rockstar детали не подтверждала, поэтому это пока слух.",
+    "idea": "Короткая нарезка странных моментов из стрип-клуба с реакцией на стоп-кадрах — зрителям нравится искать «что не так» и спорить в комментариях.",
+    "hook": "Это точно обычный стрип-клуб в GTA 6? Смотри, что тут не так.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T17:50:47Z"
+   },
+   "msg_id": 1370
+  },
+  {
    "id": "7aa223b4e866",
    "title": "‘Grand Theft Auto VI’ is ‘the biggest thing in entertainment’",
    "first_seen": "2026-11-18T11:40:47Z",
-   "updated": "2026-11-18T17:40:42Z",
+   "updated": "2026-11-18T17:50:41Z",
    "items": [
     {
      "id": "7aa223b4e866",
@@ -891,6 +826,71 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3dDS2U0V0dYTDFjenFzNlhybTVTbkVzOWd2QnFleHFpTktnRldKcnRNTjF0b2E5aEpsbmQ5UVU5YlhyckhPRjRiX3hXVmVlOG1xUHR6ZTZ4eUdxcGlOSFlaVVFLODRPVjYzWGpydDkxSzdNcGNMS2tTT1dDcFRxQ2sta1JtNzJOY2YxbmtFN3VmdXNLejRvX2lFbnQ2Qlpw?oc=5",
      "ts": "2026-11-18T16:50:00Z",
      "summary": ""
+    },
+    {
+     "id": "1a59ef405003",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WRDW",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' is 'the biggest thing in entertainment'",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLURucGpuTzllY3ZQSnJJaTduMkhJRC1QbWFWdXN5Vlhod2Rfa0t1b0VjUC1hSkRvZUNLYmdIR0hjczZONHU1aURmYTRqdy14eENZT2NHZ3M5Y2FqbzlzZjlPQXdlR0NSNlFtMS1wZWozeXNpVGt3RVoyRUZOVGc2cmV3cHpPMHhUT1hCWENUY0Nxa28ySmg4YQ?oc=5",
+     "ts": "2026-11-18T16:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "defe3cc25141",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' is 'the biggest thing in entertainment'",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWlFUTVqZlJJY3c1cFFTR3BnR09Mb1FfZF94QTR2a0RuWXc1UTJXdXlYWXRtU2tCQ1FqOWROY1hEd0lqVXp5VTNZeElyRXFHTC01X092bGZXU3Z0MDg2UFI1bGtnN2Z4RThESk1TTXBLN3hFVUFTNmhwaE9uLWNXYUNIcGlzcl90MVJTQThqR24wRnY4TWNwZDJ3MzQ?oc=5",
+     "ts": "2026-11-18T16:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "1512d4786fd1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KKTV",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' is 'the biggest thing in entertainment'",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR3Z5V2F6X2kzb2FmNXNlYk95T29Ld3ItbUNSbVlfYmNBeGkxXzJfN0s2UHpUQURMUzAzZm1VZDFHdnBvLW9MUlJteEFSenpvUEFOY0dHREt6VkRJVUhfVlZPNG96UVZLMmlSQlFKX0xYTG9qLTRFbUV6bFdZMzF0cjZXOWg1ZVRJcEdnV3poZEFZMXVMLTVJcw?oc=5",
+     "ts": "2026-11-18T16:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "80e67e83c2e0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WECT",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' is 'the biggest thing in entertainment'",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb2ZGUmJRakw4eDNjRXFnOEpaaWZiVkNTX2swWjFqUkJabHBsck53RG9SaTl5Q2kxeGdkSGhzTXhReEJSQWhmVWp5dkowT2JuSVNhZ2NMTjBxZE9Mejdac2lyTDZsOV81UGxqVEtzc0RmSHVqUkx1UlFCWU9mcEx2RGdYbkxyYVpFdFNIdHV2MmdFVUlPWWlwVw?oc=5",
+     "ts": "2026-11-18T16:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "36c21d3e3999",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WBNG",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' is 'the biggest thing in entertainment'",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2ctOEdVVGRNV05Vai1XZjBfdEhYQzN3Sng3U05vSVRsQWpFbHNKeld0N2w4czROWHhuTDU1V050NEF6T0x2T0FDV3NYTVNJRVVtOEhUakN6dldKZ1pELVY3ZWJMLWZiUElJODg3NElaUnFGWDRqb0tJNTJwU3RaV3V0Nm1aeGJNWGRIa0FFMFpmRTBzMzkzOA?oc=5",
+     "ts": "2026-11-18T16:50:00Z",
+     "summary": ""
     }
    ],
    "tags": [],
@@ -909,6 +909,487 @@
     "at": "2026-11-18T12:21:13Z"
    },
    "msg_id": 1280
+  },
+  {
+   "id": "283dea2dc1ac",
+   "title": "I've Played the First 30 Minutes Of GTA 6 On Every Console, Here's How Performance Compares",
+   "first_seen": "2026-11-18T17:11:20Z",
+   "updated": "2026-11-18T17:50:41Z",
+   "items": [
+    {
+     "id": "283dea2dc1ac",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "I've Played the First 30 Minutes Of GTA 6 On Every Console, Here's How Performance Compares",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEMxaDBxZWpCN1Nwd1hGWEpGU2ZWYVNfWEF1V1FmS2NhRlJUa2JlRHREQUh5aDJoQzJtZXJkdnRrVTMzeU4wYnVKRnFqS0RpU0IzSjVvcTM1ZWFZTGpTUmpIYjBBd012azNfX09rSmtOa1daRHdaYUNkX1RLT2VfMmFHdXFSZmh6TFZRRUd0aDdBa2FmUC10NDlBbWQwZ19OLS1pRURUdUo4a1FDSjEyVFlOQV9aclFw?oc=5",
+     "ts": "2026-11-18T16:56:34Z",
+     "summary": ""
+    },
+    {
+     "id": "fdb2bc00b0bc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I've Played the First 30 Minutes of GTA 6 on Every Console, Here's How Performance Compares",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWUxzSGFScExITFE4bHMwbHJSc0FpTWJMWFBnV1JaaUdmMmRoZm1RaVlfQ3dBVldYVm5fQkVwMWljby1vUnFHbWhQbTFvWjBLUnR6N3V1UUFnWFRWdVQ2ZHhkME5fN21HLThXWkItcE9hZWxOd0xYejR5X0hRSjhlNGxTZnk4LTBQa0ZGR3pPbDZtVy0xZTJLd3Z3NkRWRG9wb3k0Q25kNG53YVRSUmNUWnJYV0l1SDNkN21TSGpfYmxUc0Y0Z2xJVzJqQThlVS1LRTF1Ug?oc=5",
+     "ts": "2026-11-18T17:11:15Z",
+     "summary": ""
+    },
+    {
+     "id": "03c191c71ff7",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "I've Played the First 30 Minutes of GTA 6 on Every Console, Here's How Performance Compares",
+     "url": "https://www.ign.com/articles/ive-played-the-first-30-minutes-of-gta-6-on-every-console-heres-how-performance-compares",
+     "ts": "2026-11-18T16:56:31Z",
+     "summary": "How GTA 6 performance compares across every console, based on our early tests."
+    },
+    {
+     "id": "ef1863ab6f40",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I've Played the First 30 Minutes of GTA 6 on Every Console, Here's How Performance Compares",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT3lwMFZTc25xWFJDWGtBQnRrcVlJSTlnZVBMeTlJblpleGhkZmhVZUYtbkp4WlZtQ0VZNE5lWkpjSEo0RnBzWHVIUzBQUmFWZUdDMmpOZUFxUy1aSExaRVoxQXoySzI3OGl5XzNyQ256YzVIVU50QW5TMHVrNnNtWnNDeGg2SUdXNXRadXpmcUR6N196TlNWdEFiNDV4UzROX3hkQzJPOUNYLVV3blh0bkJvZEJRcGg5Q1VLTWIwaWh2T3ljLTg1M0pTUzJ2ZXlyQklBbG1veEpydzVfWHJrb2hHWQ?oc=5",
+     "ts": "2026-11-18T17:20:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 94,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Первые 30 минут GTA 6 на PS5 и Xbox: сравнение производительности",
+    "summary": "По данным IGN, автор поиграл первые 30 минут GTA 6 на всех консолях и сравнил производительность. В заметке речь о первых впечатлениях и сравнении версий, без конкретных цифр.",
+    "idea": "Короткий разбор: как ощущаются первые 30 минут GTA 6 на PS5 и Xbox. Зрителю важно понять, где плавнее и стоит ли выбирать платформу.",
+    "hook": "Я поиграл первые 30 минут GTA 6 на всех консолях — вот разница.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T17:11:26Z"
+   },
+   "msg_id": 1364
+  },
+  {
+   "id": "33738c2c8cfa",
+   "title": "Sony issues message to PS5 players ahead of highly anticipated GTA 6 launch",
+   "first_seen": "2026-11-18T17:50:41Z",
+   "updated": "2026-11-18T17:50:41Z",
+   "items": [
+    {
+     "id": "33738c2c8cfa",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NBC 5 Chicago",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sony issues message to PS5 players ahead of highly anticipated GTA 6 launch",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb3BQUUZEWFdqWWRib3M0RkpIWDg4OG5ncnROemtxbGd5Z3J1U3lvSmpCczdfRm1MRTY0M0psMG93UVFvVEdzT2VwYmJRNmlBUGl1ci1XQjktZ2owdjA4SFVvSlRmNDBETFVFQzNHT2JhVnEtcGJDZ1ZGNXFwTTB5amR0UkFMOTRDSkpWZktvd1I0N3VHMDJ30gGfAUFVX3lxTE9qVHRfblVVcnU2SjFiN05IbHB6ZURXMFNhc0JoRHpSZTAyRkpacnFNMTR3ZWx0bXpfX1BMWE9FeTI5Y3lkWHNVblNuR2lxQk13UkY3UXBvbHFCZ25fWmVxTXV4Y0VrWTVBYmo3LXQ0dlBXRTNELXhaNURPVlBnSG1kTmZ1WTBMZDJnM1VsQThlWldxVmJRZ2xiTWtUT2hKQQ?oc=5",
+     "ts": "2026-11-18T15:26:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1c8b898b1ea6",
+   "title": "Аналитики называют GTA 6 спасением для консольного рынка 2026 года",
+   "first_seen": "2026-11-18T17:50:41Z",
+   "updated": "2026-11-18T17:50:41Z",
+   "items": [
+    {
+     "id": "1c8b898b1ea6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Аналитики называют GTA 6 спасением для консольного рынка 2026 года",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVdJMFhEQ0NqR192NFJlcDlydUwwcW1MeGtyRHVyLTVNYVpOdVhhZ1Bra05kSDdEeHlrZjZRY2xXRG9scExYZHAyOEs1MVllejhFdW1xeTlZTC1QendUYWc4Ni1FbnU3MFVWdmpiZnNLMHhLNW1UU0NLY2R6dmU4UFJjRVJuSU85d3pNWHJmRl9rR1RDS0lJSA?oc=5",
+     "ts": "2026-11-18T17:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3afa2020d41f",
+   "title": "GTA 6 Prologue Mission Walkthrough",
+   "first_seen": "2026-11-18T13:01:07Z",
+   "updated": "2026-11-18T17:40:43Z",
+   "items": [
+    {
+     "id": "3afa2020d41f",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Prologue Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-prologue-mission-walkthrough/",
+     "ts": "2026-11-18T12:54:14Z",
+     "summary": "GTA 6 begins with Prologue, the game's first mission"
+    },
+    {
+     "id": "4b554df2ce23",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Gear Up Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-gear-up-mission-walkthrough/",
+     "ts": "2026-11-18T13:13:39Z",
+     "summary": "Gear Up is the third mission of GTA 6. Time to get tooled up!"
+    },
+    {
+     "id": "9ce5541925ae",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Gone Fishing Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-gone-fishing-mission-walkthrough/",
+     "ts": "2026-11-18T13:18:35Z",
+     "summary": "Gone Fishing is the second mission in GTA 6"
+    },
+    {
+     "id": "0acd5f64ee90",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Lab Fees Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-lab-fees-mission-walkthrough/",
+     "ts": "2026-11-18T13:32:14Z",
+     "summary": "Collect Brian's money in Lab Fees"
+    },
+    {
+     "id": "d5cd6530c65b",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Just A Scratch Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-just-a-scratch-mission-walkthrough/",
+     "ts": "2026-11-18T13:51:21Z",
+     "summary": "Get yourself a shiny new car with Just A Scratch"
+    },
+    {
+     "id": "9f27466c1acf",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Unwanted Attention Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-unwanted-attention-mission-walkthrough/",
+     "ts": "2026-11-18T13:51:42Z",
+     "summary": "Snoop on the police in Unwanted Attention"
+    },
+    {
+     "id": "70d83c62d8bd",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Pipework Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-pipework-mission-walkthrough/",
+     "ts": "2026-11-18T14:04:02Z",
+     "summary": "Jason takes on a side job in Pipework"
+    },
+    {
+     "id": "75bd0d15cb69",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "How to Complete Gone Fishing in GTA 6",
+     "url": "https://www.gtaboom.com/gta-6-gone-fishing-mission-walkthrough-ff86",
+     "ts": "2026-11-18T16:10:02Z",
+     "summary": "Slow the boat so Cal can collect all three drops, sneak Donnie out of the camp, then land the floatplane and take Jason home."
+    },
+    {
+     "id": "ec2282b9be64",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "How to Complete Lab Fees in GTA 6",
+     "url": "https://www.gtaboom.com/gta-6-lab-fees-mission-walkthrough-a2c7",
+     "ts": "2026-11-18T17:21:57Z",
+     "summary": "Call Brian from Moonstone Boutique, get the lab code from the clerk, then stash the acid in Brian's lockup at the Isla Tropical private club."
+    },
+    {
+     "id": "071b21b27292",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Feng Shui Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-feng-shui-mission-walkthrough/",
+     "ts": "2026-11-18T17:33:47Z",
+     "summary": "Get your house in order before Lucia comes home"
+    },
+    {
+     "id": "8110513d046f",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Clean Up After Donnie Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-clean-up-after-donnie-mission-walkthrough/",
+     "ts": "2026-11-18T17:33:56Z",
+     "summary": "Oh Donnie... when will you learn?"
+    },
+    {
+     "id": "dca187136629",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Coming Home mission walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-coming-home-mission-walkthrough/",
+     "ts": "2026-11-18T17:34:21Z",
+     "summary": "Lucia is free, it's time to celebrate!"
+    },
+    {
+     "id": "4f8415a4029e",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Buck Me Mission Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-buck-me-mission-walkthrough/",
+     "ts": "2026-11-18T17:34:37Z",
+     "summary": "Here comes the money!"
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 начинается с Пролога: как стартует игра",
+    "summary": "По данным VGC, GTA 6 начинается с Пролога — первой миссии, которая знакомит с героями и механиками. Детали миссии издание не раскрывает. Официально Rockstar это не подтверждала.",
+    "idea": "Короткая нарезка фактов о Прологе с таймлайном старта: что известно, чего нет, и почему это важно для старта сюжета.",
+    "hook": "С чего стартует GTA 6? Вот что известно о Прологе прямо сейчас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T13:01:12Z"
+   },
+   "msg_id": 1292
+  },
+  {
+   "id": "cec09193791a",
+   "title": "This GTA 6-Inspired Keycap Set Will Make The Wait For A PC Version Slightly Easier",
+   "first_seen": "2026-11-17T19:50:58Z",
+   "updated": "2026-11-18T17:40:43Z",
+   "items": [
+    {
+     "id": "cec09193791a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "This GTA 6-Inspired Keycap Set Will Make The Wait For A PC Version Slightly Easier",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjdNWEpIVFIwcGQ0Z3o2RXpHRTlkNlJ1bmZjNzlZRjNYQk1ib3FmN2VDMDRCbWxhakdqX3ZDOGJZZXkxRFlEQmk5WXhqWjROOHRuYm1HSW85X2JaUmpsNV85elhFQmsyV2V0WjRIQUpuSEp1ZllaSG5KSGVoVW5VdFd5a3Z4SVBCbGdaWVFWWnpLZG91am1lWGxlNmFLWFFuQ2hhRHI1cWpoYUwxa1RLSEtsYzFGQy1L?oc=5",
+     "ts": "2026-11-17T19:44:28Z",
+     "summary": ""
+    },
+    {
+     "id": "338df640d936",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Kotaku",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "How Am I Supposed To Wait Until The PC Version To Play GTA 6?",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEExYWlHM0hhQnRRajVtNnViRUpOMHJlZjFucEJsNVlnbFlPeVlRV3hXRkdwWVR2dUlLdVRSeVM2U1BXOVpZMGUtZ0JnQmhNNkg1LUpJNFZ1YkRCVEhBRU43Wk5aYUh0Zzg3OGpFQUVvVkZjUGxXZVJ6T1VRMUFzQ25LeUhxbGEyN0FpbG9XeGstYzh2bDN6V3NRMA?oc=5",
+     "ts": "2026-11-18T17:30:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 88,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "2c04c527add2",
+   "title": "Most, though not quite all, of the 34 fired Rockstar employees are named in the GTA 6 credits",
+   "first_seen": "2026-11-18T17:40:43Z",
+   "updated": "2026-11-18T17:40:43Z",
+   "items": [
+    {
+     "id": "2c04c527add2",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Most, though not quite all, of the 34 fired Rockstar employees are named in the GTA 6 credits",
+     "url": "https://www.eurogamer.net/fired-rockstar-employees-named-gta-6-credits-tribunal",
+     "ts": "2026-11-18T17:35:50Z",
+     "summary": "Eurogamer can confirm that at least 28 of the 34 employees fired by Rockstar roughly a year ago - in an action that directly led to the employment tribunal Rockstar is currently facing in Scotland - are named in the credits of Grand Theft Auto 6 . Read more"
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 85,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Уволенные Rockstar всё же попали в титры GTA 6",
+    "summary": "Eurogamer сообщает, что как минимум 28 из 34 сотрудников, уволенных Rockstar около года назад, указаны в титрах GTA 6. Это увольнение привело к трудовому трибуналу в Шотландии, который сейчас идёт.",
+    "idea": "Коротко объясняем, что уволенные всё же попали в титры, и показываем кадры титров GTA 6. Зрителю интересно, потому что это про справедливость и итог громкой истории с увольнениями.",
+    "hook": "Уволили — но в титрах GTA 6 они всё же есть.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T17:40:47Z"
+   },
+   "msg_id": 1367
+  },
+  {
+   "id": "7428ce449292",
+   "title": "How to Complete Gear Up in GTA 6",
+   "first_seen": "2026-11-18T17:40:43Z",
+   "updated": "2026-11-18T17:40:43Z",
+   "items": [
+    {
+     "id": "7428ce449292",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "How to Complete Gear Up in GTA 6",
+     "url": "https://www.gtaboom.com/gta-6-gear-up-mission-walkthrough-26a2",
+     "ts": "2026-11-18T17:36:34Z",
+     "summary": "Buy a longarm at Chuck's Tackle & Shot, get through the Kingfishers' ambush outside, and finish Jason's call with Donnie."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a69b2eee3919",
+   "title": "Хакер расшифровал файлы GTA 6 в день релиза, открыв путь к порту на ПК",
+   "first_seen": "2026-11-18T17:40:43Z",
+   "updated": "2026-11-18T17:40:43Z",
+   "items": [
+    {
+     "id": "a69b2eee3919",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Хакер расшифровал файлы GTA 6 в день релиза, открыв путь к порту на ПК",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LNFdGR2VMZy00dXlKNkJXdVAzS0xnQk9jUG1xSjViZzJRTHBvb0JCU2drbURSSnU5c005YjVvQjlEbW42VFZTd3hDRFBaNFZVdG9pUk03aGFNaEZ4ck4zaUJuTUd5V09hWXctaURUdFItbk4yWU9Z?oc=5",
+     "ts": "2026-11-18T17:36:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "968318f7ddbf",
+   "title": "GTA VI Reviews Hail Video Game as a ‘Masterpiece’ That Was ‘Worth the Wait’",
+   "first_seen": "2026-11-18T17:40:43Z",
+   "updated": "2026-11-18T17:40:43Z",
+   "items": [
+    {
+     "id": "968318f7ddbf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TheWrap",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Reviews Hail Video Game as a ‘Masterpiece’ That Was ‘Worth the Wait’",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84V2h3YmdOTE16M2F5THVtMkFVclZHSnEwaEVQZEdNc2ZfSU1jT080Yjhfd0hjXzNLUk1LLUt1Qk9RT3QtZUc5ck5MbkpnUEpWNW9wcm1qVUYxQ0x5cXBpdWZfaTdqODU1OHV4Y0lQQlNlTnc?oc=5",
+     "ts": "2026-11-18T17:36:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
   },
   {
    "id": "4f8fd135fda1",
@@ -1558,69 +2039,6 @@
    "status": "new"
   },
   {
-   "id": "283dea2dc1ac",
-   "title": "I've Played the First 30 Minutes Of GTA 6 On Every Console, Here's How Performance Compares",
-   "first_seen": "2026-11-18T17:11:20Z",
-   "updated": "2026-11-18T17:31:14Z",
-   "items": [
-    {
-     "id": "283dea2dc1ac",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "I've Played the First 30 Minutes Of GTA 6 On Every Console, Here's How Performance Compares",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEMxaDBxZWpCN1Nwd1hGWEpGU2ZWYVNfWEF1V1FmS2NhRlJUa2JlRHREQUh5aDJoQzJtZXJkdnRrVTMzeU4wYnVKRnFqS0RpU0IzSjVvcTM1ZWFZTGpTUmpIYjBBd012azNfX09rSmtOa1daRHdaYUNkX1RLT2VfMmFHdXFSZmh6TFZRRUd0aDdBa2FmUC10NDlBbWQwZ19OLS1pRURUdUo4a1FDSjEyVFlOQV9aclFw?oc=5",
-     "ts": "2026-11-18T16:56:34Z",
-     "summary": ""
-    },
-    {
-     "id": "fdb2bc00b0bc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "I've Played the First 30 Minutes of GTA 6 on Every Console, Here's How Performance Compares",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWUxzSGFScExITFE4bHMwbHJSc0FpTWJMWFBnV1JaaUdmMmRoZm1RaVlfQ3dBVldYVm5fQkVwMWljby1vUnFHbWhQbTFvWjBLUnR6N3V1UUFnWFRWdVQ2ZHhkME5fN21HLThXWkItcE9hZWxOd0xYejR5X0hRSjhlNGxTZnk4LTBQa0ZGR3pPbDZtVy0xZTJLd3Z3NkRWRG9wb3k0Q25kNG53YVRSUmNUWnJYV0l1SDNkN21TSGpfYmxUc0Y0Z2xJVzJqQThlVS1LRTF1Ug?oc=5",
-     "ts": "2026-11-18T17:11:15Z",
-     "summary": ""
-    },
-    {
-     "id": "03c191c71ff7",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "I've Played the First 30 Minutes of GTA 6 on Every Console, Here's How Performance Compares",
-     "url": "https://www.ign.com/articles/ive-played-the-first-30-minutes-of-gta-6-on-every-console-heres-how-performance-compares",
-     "ts": "2026-11-18T16:56:31Z",
-     "summary": "How GTA 6 performance compares across every console, based on our early tests."
-    }
-   ],
-   "tags": [],
-   "score": 86,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Первые 30 минут GTA 6 на PS5 и Xbox: сравнение производительности",
-    "summary": "По данным IGN, автор поиграл первые 30 минут GTA 6 на всех консолях и сравнил производительность. В заметке речь о первых впечатлениях и сравнении версий, без конкретных цифр.",
-    "idea": "Короткий разбор: как ощущаются первые 30 минут GTA 6 на PS5 и Xbox. Зрителю важно понять, где плавнее и стоит ли выбирать платформу.",
-    "hook": "Я поиграл первые 30 минут GTA 6 на всех консолях — вот разница.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T17:11:26Z"
-   },
-   "msg_id": 1364
-  },
-  {
    "id": "62d03de7cbd7",
    "title": "Rockstar Explains Why GTA 6 Doesn’t Have a 40 FPS Mode",
    "first_seen": "2026-11-18T13:30:58Z",
@@ -2059,60 +2477,6 @@
     "at": "2026-11-18T13:01:32Z"
    },
    "msg_id": 1297
-  },
-  {
-   "id": "d0b33ce86ef1",
-   "title": "GTA 6: How The Ultimate Edition Content Works",
-   "first_seen": "2026-11-18T13:50:56Z",
-   "updated": "2026-11-18T17:20:46Z",
-   "items": [
-    {
-     "id": "d0b33ce86ef1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Igromania.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 Ultimate Edition — где забрать все бонусы издания",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGNOdHc1eTJyYmVFeVIwN2ZXcngwYTJwUTNQMnRnTVJNRmlPSEhyWFRjZzlZUm9GbTJzQkJmV252TGl0c0FvdUhRcm5pWG1FUExsTTlZakJDakdjcndiaG9nVW00T2FleVc3VC15Z2hvNF9RRjAyUG45VHhYVThaMzZBS2ozc0s4RU1pbmM3VkpVMHRHQ1Rv?oc=5",
-     "ts": "2026-11-18T13:40:34Z",
-     "summary": ""
-    },
-    {
-     "id": "b266e3ac72ae",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6: How The Ultimate Edition Content Works",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUEzckRXZUNBb04waFlDbWtRU3BlSE1tUldvQlNQS2EzUC1tSWNKSnhiel9fZ2pjNW1qMm1pZi1WWElpcnI4MHhHRjNHVFVPeEQxUUF4UTlXdU1qNFVjQWREcW1oQmxCdTZ5YWxoTXh2dXJ6bk1oaXpMXzlqQU1xVHVGMk10SjJ2UXRDT2ljYUNyalFzRzBrcw?oc=5",
-     "ts": "2026-11-18T14:07:08Z",
-     "summary": ""
-    },
-    {
-     "id": "b159dd01689d",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "How to Unlock GTA 6 Ultimate Edition Bonuses",
-     "url": "https://www.gtaboom.com/gta-6-ultimate-edition-unlock-guide-5081",
-     "ts": "2026-11-18T17:11:50Z",
-     "summary": "Find the Ultimate Edition rewards by chapter, from Stockyard’s shops to the Squalo at Washington Beach."
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   },
   {
    "id": "4e697ad5d35c",
@@ -145315,11 +145679,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-18T17:40:56Z",
+  "last_run": "2026-11-18T17:50:48Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 96/100",
-   "gnews_ru: 99/100",
+   "gnews_en: 95/100",
+   "gnews_ru: 100/100",
    "gamesbeat: 5/10",
    "vgc: 8/10",
    "insider_gaming: 6/10",
