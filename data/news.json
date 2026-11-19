@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "cab25a2ed4db",
+   "title": "Создатель Deus Ex раскритиковал миллиардный бюджет GTA 6",
+   "first_seen": "2026-11-19T02:50:46Z",
+   "updated": "2026-11-19T02:50:46Z",
+   "items": [
+    {
+     "id": "cab25a2ed4db",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Создатель Deus Ex раскритиковал миллиардный бюджет GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUDhKVUxYWG41SC02N09HUFFIdjNRZXZMTlRKcUk0dy1wNVQzM29CakNnVzJ0TF9YM0RUSFFndTQxclUwZ3dMUUVYT0VuOXBZMXlmODdxZDVSTk9yNFFMTF9Tc3RPYzhCTGpZWk1CMkFOd1c0d2J5MlZycnpabGxrVmEzQ0hfUzNkclJnSGgtaw?oc=5",
+     "ts": "2026-11-18T20:08:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "77bce4fdc2fa",
+   "title": "Fastly Sees AI Security Upside as GTA VI Launch Clouds Q4 Outlook",
+   "first_seen": "2026-11-19T02:50:46Z",
+   "updated": "2026-11-19T02:50:46Z",
+   "items": [
+    {
+     "id": "77bce4fdc2fa",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Fastly Sees AI Security Upside as GTA VI Launch Clouds Q4 Outlook",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbk1LZGxFUVBYMENJdVpqX2ljSU1OWHd1Q0FaYWctTDdsUzF0eFIyQ0d6bGZDTXoyVTA1Y0V5QVY2X1dCZTRSc0s1aVhhRlhiZkFMNmlBYUdxdUhWZTlKS0c3Tkk3WTRRMXFPdklrRkxxUHlHekZkLUptTk5uai1EX0JSSVZOYjFvekhrb25LMEN6aFpiR2pwMW1B?oc=5",
+     "ts": "2026-11-19T02:12:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6894a3915d05",
    "title": "How to Complete Get Shirley's Rum in GTA 6",
    "first_seen": "2026-11-18T21:40:57Z",
@@ -153925,9 +153977,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T02:40:48Z",
+  "last_run": "2026-11-19T02:50:46Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/0",
    "gnews_en: 95/100",
    "gnews_ru: 99/100",
    "gamesbeat: 6/10",
