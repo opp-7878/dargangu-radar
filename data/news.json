@@ -1,6 +1,236 @@
 {
  "stories": [
   {
+   "id": "012f87fa386c",
+   "title": "'It's cinematic': Gamers get first taste of 'Grand Theft Auto VI'",
+   "first_seen": "2026-11-19T08:31:01Z",
+   "updated": "2026-11-19T08:40:46Z",
+   "items": [
+    {
+     "id": "012f87fa386c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "France 24",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'It's cinematic': Gamers get first taste of 'Grand Theft Auto VI'",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0dlZk53SFppRk1sUkpGTjJXVDdpQzVBQWpDSG53TnNJY09ZQnUxc01OUzdYQW1lQk05VEl5VDlfQi13NS1FZHlLWW8xTzdmbHlKU1ZnbHJjSVktV3NrbWxxa1ByZU1JUWkxNFpjMnlESE95MHlMR0l5dzRlX1VsalJ4enE5TEFrUVhpTFVOS0dPRUdLUTM5Y1hZNWhHSkxKSGM5dlBWaXpPMEk?oc=5",
+     "ts": "2026-11-19T07:45:23Z",
+     "summary": ""
+    },
+    {
+     "id": "f625532e4f1b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KMVU FOX 26 Medford",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'It's cinematic': Gamers get first taste of 'Grand Theft Auto VI'",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUFNNk5mYWIyUllpWjlORk4zX0lKaWJLVEkxczZSc0dTZTZCUFhwOVpSRTU2RV9kWnRtREE1NVk1OFdXU2lrbldxazJIeXRETjRQUDJEVFI4TDllQzE3bEQ0NkRTZGhYX1FNTFZYWDludFd0M1UyMjNXUVdKcVVUQzZYMEs4WXFrcHQ3LUNnNThyOWlPNm12X3BGSEZyWVNxTlBVSFl4cWVMQk8wb2t5TURWWWwyMWZQQldMMS1hUkJhRGZ6T0tlckpLM1Z5NnBPeWtDbXZJM1NRandTZm9femhUZHUtMG8?oc=5",
+     "ts": "2026-11-19T08:34:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Игроки уже пробуют GTA 6: «как в кино»",
+    "summary": "Геймеры в США получили первые копии GTA 6 и делятся впечатлениями, называя игру «кинематографичной». Об этом сообщают France 24 и KMVU FOX 26 Medford.",
+    "idea": "Короткие реакции первых игроков с цитатой «как в кино» и нарезкой первых кадров — зрителю хочется увидеть, как игра ощущается вживую.",
+    "hook": "Первые диски GTA 6 уже у игроков — и вот их первые слова.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T08:40:52Z"
+   },
+   "msg_id": 1448
+  },
+  {
+   "id": "6cf170538d99",
+   "title": "I’m one of ‘millions’ taking time off work to play GTA 6. Here’s why",
+   "first_seen": "2026-11-18T09:20:47Z",
+   "updated": "2026-11-19T08:40:46Z",
+   "items": [
+    {
+     "id": "6cf170538d99",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Independent",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I’m one of ‘millions’ taking time off work to play GTA 6. Here’s why",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON09KLTBpSXBYU05scDk2VjhuaVgtd3FVZlZldGQtekRsNG9IRmczcXpEN2hZdDhWZXhCMW13Mk5fX3QwRDdXbzc1MGJEMDVhcTNKU2dMeHowX09jZC10LWNzOU9CUkg5TzgzWjk0M2RDVXlpcm5nQkplelcyUzV5NzhCZ2xlc3NRVFU3R1E1VGZMQmtHeUpRUUJycFpNTmNN?oc=5",
+     "ts": "2026-11-18T08:59:00Z",
+     "summary": ""
+    },
+    {
+     "id": "0e719f46e6d9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Awards Radar",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' is Here and I'm Not Taking Time Off to Play It...But the Game is a Masterpiece",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcDVDT0NBOTc0VEh6eGZoRXduT3VhU3lNeUxfaTBaaHRHWVlZTTBhREF3ZVh2dGNYekdBYkxqaUpvODlVUXdTYnl3a2REV1hmWVdaVE9yUld0d3I0UlFVLWZFSk1lVkFUWU1MUXZ0N2FXOHU5SEtPcW9QU25JVG1rNWFPd1l4WDU0QUsxQXhnbHVQVjMwWnY1NENYSmxYWXg3aDhrS2oyX3NLaDhwRzl4dUNfTFdoUXJQbERWOEo3cU9idWY2UG9YZk5sWQ?oc=5",
+     "ts": "2026-11-19T08:25:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "740e0a57fb3f",
+   "title": "GTA 6 наконец-то вышла. Уже успели поиграть? Поделитесь впечатлениями",
+   "first_seen": "2026-11-19T08:40:46Z",
+   "updated": "2026-11-19T08:40:46Z",
+   "items": [
+    {
+     "id": "740e0a57fb3f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Т—Ж",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 наконец-то вышла. Уже успели поиграть? Поделитесь впечатлениями",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GUGVyQkZPRUJwbEh1Nm5rZE1qcUZFWEFaODNkZjIzSUNiUEpNSXljQi01TFk0aGhKaDd6MnRTc2VLalhCS1VKS1lxY3dfdzQ?oc=5",
+     "ts": "2026-11-19T08:20:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "03ba9744a262",
+   "title": "Норрис признался, что не интересуется GTA 6",
+   "first_seen": "2026-11-19T08:40:46Z",
+   "updated": "2026-11-19T08:40:46Z",
+   "items": [
+    {
+     "id": "03ba9744a262",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "F1Report.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Норрис признался, что не интересуется GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqdGxuZDEyQnJuQ2hlY1Bjd0ZKNWZGaTRpbDNaOHA1RHlXbkN4Vm5lYnpRSE9oTm1ra3NFcmdqaE9BTlRsb0htdTN5N3k1NnM?oc=5",
+     "ts": "2026-11-19T08:30:14Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "76654309b082",
+   "title": "В новой GTA 6 изменятся правила применения читкодов",
+   "first_seen": "2026-11-19T08:40:46Z",
+   "updated": "2026-11-19T08:40:46Z",
+   "items": [
+    {
+     "id": "76654309b082",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Бриф24",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В новой GTA 6 изменятся правила применения читкодов",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2dkRTbHhnN255VzVObm9xeEZEUGhXZ0ZYVzNhLTNLdWNoQnJVa2M2MUFINURqQmZURVZwUWdubVZNajdNSjNsZjRISVRDNG9OUnBR?oc=5",
+     "ts": "2026-11-19T08:31:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "86cb678c9f74",
+   "title": "Does GTA 6 Perform Differently On An HDR TV?",
+   "first_seen": "2026-11-19T08:40:46Z",
+   "updated": "2026-11-19T08:40:46Z",
+   "items": [
+    {
+     "id": "86cb678c9f74",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "SlashGear",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Does GTA 6 Perform Differently On An HDR TV?",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjBJZFRqd0RZby1LRlhDd2k0VzNwVEpNbVBsX3lkenhKRlBNUFNtb3BBZFVsYWlNZ0wyUlM5SERaXzl3NVhRdnhDYXJ2dm0xYzBDWC1lVi13cnNKUEdUMUlFNGxVc1NBVzlNUnFsbFNwTGloS1VvN1FYcFU3TzhRZGhnR1Q?oc=5",
+     "ts": "2026-11-19T08:31:57Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "410673449bfd",
+   "title": "🍀 Ну что, GTA 6 вышла во всём мире, а 19 ноября стало чуть ли не официальным выходным Аномальный рост числа отгулов зафиксировали по всему миру: 😀 США — +18%; 😀",
+   "first_seen": "2026-11-19T08:40:46Z",
+   "updated": "2026-11-19T08:40:46Z",
+   "items": [
+    {
+     "id": "410673449bfd",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "🍀 Ну что, GTA 6 вышла во всём мире, а 19 ноября стало чуть ли не официальным выходным Аномальный рост числа отгулов зафиксировали по всему миру: 😀 США — +18%; 😀",
+     "url": "https://t.me/gta6deluxe/2236",
+     "ts": "2026-11-19T08:40:02Z",
+     "summary": "🍀 Ну что, GTA 6 вышла во всём мире, а 19 ноября стало чуть ли не официальным выходным Аномальный рост числа отгулов зафиксировали по всему миру: 😀 США — +18%; 😀 Италия — рекорд мира, +91%; 😀 Индия — +60%; 😀 Ирландия — +57%; 😀 Испания — +44%; 😀 Великобритания — +42%; 😀 Австралия — +29%; 😀 Канада — +6,6%; 😀 Россия — +6%. Почти каждый третий сотрудник отдыхает ещё и в пятницу, чтобы просидеть в игре аж 4 дня подряд А вы брали себе отгулы/отпуска? Пишите в коммы ❓ 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 вышла: мир взял отгул, чтобы играть 4 дня подряд",
+    "summary": "По данным Telegram-канала @gta6deluxe, 19 ноября 2026 года GTA 6 вышла по всему миру, а число отгулов резко выросло: США +18%, Италия +91%, Индия +60%, Ирландия +57%, Испания +44%, Великобритания +42%, Австралия +29%, Канада +6,6%, Россия +6%. Почти каждый третий сотрудник отдыхает ещё и в пятницу ради 4 дней в игре.",
+    "idea": "Короткий ролик с картой мира и всплывающими процентами отгулов по странам — зритель сразу видит масштаб «мирового отпуска» ради GTA 6. В конце — вопрос: «Ты тоже взял отгул?» — чтобы поднять комментарии.",
+    "hook": "GTA 6 вышла — и мир официально ушёл в 4-дневный игровой отпуск.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T08:40:58Z"
+   },
+   "msg_id": 1449
+  },
+  {
    "id": "3afa2020d41f",
    "title": "GTA 6 Prologue Mission Walkthrough",
    "first_seen": "2026-11-18T13:01:07Z",
@@ -398,32 +628,6 @@
     "at": "2026-11-19T08:31:09Z"
    },
    "msg_id": 1447
-  },
-  {
-   "id": "012f87fa386c",
-   "title": "'It's cinematic': Gamers get first taste of 'Grand Theft Auto VI'",
-   "first_seen": "2026-11-19T08:31:01Z",
-   "updated": "2026-11-19T08:31:01Z",
-   "items": [
-    {
-     "id": "012f87fa386c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "France 24",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'It's cinematic': Gamers get first taste of 'Grand Theft Auto VI'",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0dlZk53SFppRk1sUkpGTjJXVDdpQzVBQWpDSG53TnNJY09ZQnUxc01OUzdYQW1lQk05VEl5VDlfQi13NS1FZHlLWW8xTzdmbHlKU1ZnbHJjSVktV3NrbWxxa1ByZU1JUWkxNFpjMnlESE95MHlMR0l5dzRlX1VsalJ4enE5TEFrUVhpTFVOS0dPRUdLUTM5Y1hZNWhHSkxKSGM5dlBWaXpPMEk?oc=5",
-     "ts": "2026-11-19T07:45:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "7a00faef19c0",
@@ -44076,32 +44280,6 @@
     "at": "2026-11-18T09:31:07Z"
    },
    "msg_id": 1210
-  },
-  {
-   "id": "6cf170538d99",
-   "title": "I’m one of ‘millions’ taking time off work to play GTA 6. Here’s why",
-   "first_seen": "2026-11-18T09:20:47Z",
-   "updated": "2026-11-18T09:20:47Z",
-   "items": [
-    {
-     "id": "6cf170538d99",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Independent",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "I’m one of ‘millions’ taking time off work to play GTA 6. Here’s why",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON09KLTBpSXBYU05scDk2VjhuaVgtd3FVZlZldGQtekRsNG9IRmczcXpEN2hZdDhWZXhCMW13Mk5fX3QwRDdXbzc1MGJEMDVhcTNKU2dMeHowX09jZC10LWNzOU9CUkg5TzgzWjk0M2RDVXlpcm5nQkplelcyUzV5NzhCZ2xlc3NRVFU3R1E1VGZMQmtHeUpRUUJycFpNTmNN?oc=5",
-     "ts": "2026-11-18T08:59:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "093b7a6d8e12",
@@ -155425,242 +155603,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "8e66e8f5d871",
-   "title": "Logitech разрешает своим сотрудникам взять выходной, чтобы просто поиграть в GTA 6",
-   "first_seen": "2026-11-11T16:31:06Z",
-   "updated": "2026-11-12T08:40:53Z",
-   "items": [
-    {
-     "id": "8e66e8f5d871",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Notebookcheck-ru.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Logitech разрешает своим сотрудникам взять выходной, чтобы просто поиграть в GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOHVyVGNqUC1sazNLUWVwZTd3SWxnaVk3RXkxOGtSaWN6eElhdG4xb0pyb09TWkNxa2FGMDFXVk8tc1BLQ1ZNN1ZiNkgzQlNjWGNzUEZWM0MtRkRPenR0MXJMWm84MXlINnFXRlBUcFczUzdMZVhCTVhfdXdjVkFkSHlsNWVBZE1pZTlEOU9CNXZRTTlPT2FyVEp5NU4zYkl0ZUpBbDhsdGVDZTlMYWZLZFZwVGxWYURxZDhQU2JsMm4xbml0QTlpRnl5cw?oc=5",
-     "ts": "2026-11-11T16:12:20Z",
-     "summary": ""
-    },
-    {
-     "id": "f76e6c289a61",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Onlíner",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Logitech сделала всем своим сотрудникам выходной, чтобы те поиграли в GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVJRcTJUWkxuSlJ1UmFNcHlnMlU4dElCNXpVMGVwM1c5YUFJSWlwLThUMzdYekZHNFVndUxRS1g2eUN0OUJPcXlxbEdxNmJiaFJtOFVNc1FvZ3dWY2xsNEFhay1qeTJlVk9sVFdkd2RqM2Z0V2pSQmJTNnZ1dU9KZlM0REl2bm5rYkNnVHVnT1p2U1NqSEU4Rldja0dRc2dsQnVmMHlseUZaaGlXOFRydQ?oc=5",
-     "ts": "2026-11-12T08:20:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 48,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3cdc07bf62ec",
-   "title": "В GTA 6 воссоздали уличное видео из Майами – ролик посчитали настоящим",
-   "first_seen": "2026-11-12T08:40:53Z",
-   "updated": "2026-11-12T08:40:53Z",
-   "items": [
-    {
-     "id": "3cdc07bf62ec",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "В GTA 6 воссоздали уличное видео из Майами – ролик посчитали настоящим",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTRLc3hmM0tZdi1iNGd6LWNwOV9LNHp0eUlMRDdCM0VHWERNaV9OTE9YdGc5OFYzN2RnbVJmVWhEUWdOeDJOQmpqakZYTE0wQ0R5TmxiQkw1UEdGUThGdlJQZnpEMjBWaWN6SkNHQjAzWm1ONEtodkQ1cHA1U0ctRC1rcjhxaGJrOF9SazRIaUdRMWtSYlZodEJKM3RnYWIwZGgzWGd4ZnVUYWM?oc=5",
-     "ts": "2026-11-12T08:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2e4991fa1ae2",
-   "title": "Ultimate Upgrade Question",
-   "first_seen": "2026-11-12T08:40:53Z",
-   "updated": "2026-11-12T08:40:53Z",
-   "items": [
-    {
-     "id": "2e4991fa1ae2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Ultimate Upgrade Question",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xu7kvo/ultimate_upgrade_question/",
-     "ts": "2026-11-12T08:35:46Z",
-     "summary": "Sorry if this has already been asked but I was wondering, if I were to get the digital standard edition would I be able to upgrade to the ultimate edition at a later date or is the upgrade for the physical edition only? Thanks submitted by /u/MoonMack7 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "95a16e022816",
-   "title": "Rockstar \"украла\" название яхты для GTA 6 у одного из игроков",
-   "first_seen": "2026-11-12T08:31:13Z",
-   "updated": "2026-11-12T08:31:13Z",
-   "items": [
-    {
-     "id": "95a16e022816",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar \"украла\" название яхты для GTA 6 у одного из игроков",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYW9DTWVGRmg2TXZwV2NZSVJqSVRDUXlNLVotRk1fbkNxbjlESnUtY0dMeFZlbUZHUWN1TnNHOWIteTI1RXFhSU9ZZ1h2bGRpSlFsUS1hbmwyTk9rRzhkV1ZJb3BoRlJBN3dBaTQ0djVySEd5Y3IwOUtMdmM1bXZJNnVzSGRwWkdOazczd0ZNNnZvaE01MWUySHJoN1RPdw?oc=5",
-     "ts": "2026-11-12T08:20:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e9274ad5d892",
-   "title": "Xbox game sharing",
-   "first_seen": "2026-11-12T08:31:13Z",
-   "updated": "2026-11-12T08:31:13Z",
-   "items": [
-    {
-     "id": "e9274ad5d892",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Xbox game sharing",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xu7de9/xbox_game_sharing/",
-     "ts": "2026-11-12T08:22:10Z",
-     "summary": "I'm just wondering for Xbox game sharing. If my friend gets the ultimate edition, do I just get the base game to download. Will I have to just get the ultimate edition separately and will that work? Thanks submitted by /u/yorkie1892 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8cc9e8c03676",
-   "title": "'GTA 6' Came Right to the Brink of Rating Refusal in Korea",
-   "first_seen": "2026-11-12T08:31:13Z",
-   "updated": "2026-11-12T08:31:13Z",
-   "items": [
-    {
-     "id": "8cc9e8c03676",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Inven Global",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6' Came Right to the Brink of Rating Refusal in Korea",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUV6cEc2N2hxQXk5OUhIOUxMQVFwNW9lSm8zX0Z4RVdfUk9zYjJudFZVLWZHaXRxeEdZcENHX2FlYVkyaFdxWEZLejdrdEhDQlhvWXVCSlQ0eFN1Y1pZck1nRG9yZXpyY3lEZ1F3MURpVnoyc0JhT2FSVm5FSWk3UWxmUHA0bVR2THBVWWgzYUxmRlZWVW1yVy1YRTN5NFoy?oc=5",
-     "ts": "2026-11-12T08:22:43Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ad8bb4bc28f5",
-   "title": "New look at the Declasse Tornado",
-   "first_seen": "2026-11-12T08:31:13Z",
-   "updated": "2026-11-12T08:31:13Z",
-   "items": [
-    {
-     "id": "ad8bb4bc28f5",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "New look at the Declasse Tornado",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xu7fc9/new_look_at_the_declasse_tornado/",
-     "ts": "2026-11-12T08:25:48Z",
-     "summary": "I’m surprised no one pointed out that the white car was never part of the cars that toured Miami. Now i’m not sure if this is a Tornado or a Peyote, but the Peyote only has 1 window so. submitted by /u/FLEIXY to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "87d562cc94f2",
-   "title": "Gta VI online preorder query",
-   "first_seen": "2026-11-12T08:31:13Z",
-   "updated": "2026-11-12T08:31:13Z",
-   "items": [
-    {
-     "id": "87d562cc94f2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Gta VI online preorder query",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xu7h59/gta_vi_online_preorder_query/",
-     "ts": "2026-11-12T08:29:10Z",
-     "summary": "submitted by /u/Negative-Ganache-722 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "Online",
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T08:31:10Z",
+  "last_run": "2026-11-19T08:40:58Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "gnews_en: 96/100",
+   "gnews_en: 95/100",
    "gnews_ru: 94/100",
    "gamesbeat: 5/10",
    "vgc: 9/10",
