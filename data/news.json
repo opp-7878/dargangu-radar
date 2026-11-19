@@ -1,6 +1,433 @@
 {
  "stories": [
   {
+   "id": "c71d0844ff1b",
+   "title": "'Can't rush greatness': Gamers, local game store react to GTA VI release",
+   "first_seen": "2026-11-19T23:01:17Z",
+   "updated": "2026-11-19T23:01:17Z",
+   "items": [
+    {
+     "id": "c71d0844ff1b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KGAN",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Can't rush greatness': Gamers, local game store react to GTA VI release",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3NzaUl4XzYwdFJYU2Q5dVZvMnVwMGJERm5WVHN4R3BVbXZqeEF0QmtvcWtZa3hDalNVZzdIS21CRjZQTk53eU9Ba29yaTF0bWxPWVhBVUYxT1Bzb3MwMEd4bC1TeUNKdHo1aDJkeFVoZGpwdWo2LWhyUndFcDVHNTFBelVYbk55QldsN19CZUhsbmNGVUk1bnlXZkl0Zmtt?oc=5",
+     "ts": "2026-11-19T22:58:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "00ae289e3aa4",
+   "title": "GTA 6 Has A Radio Station Hosted By 'Weird Al' Yankovic",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T23:01:16Z",
+   "items": [
+    {
+     "id": "00ae289e3aa4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Dayton’s New Country 103.9",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Has A Radio Station Hosted By 'Weird Al' Yankovic",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMG5LTUVBZUxhWnI4S3JlMmc2MlRNZHdZVlhvTjZpM29EaFRvNVREYW1Xak52dWlIczJOYzdSZVF5eGo3VWU4OS0weTBFUGxmX1ZvZS1QZDRJNkV4akFqdHVlM3NuMXZtQkFzYXg3LU1maG9FU2l1eFBURk1TQTFpR0RrMkU3aURoalVzQ0RqQk1MOFZ0OTRPbUhpZnl0T01ETklIQUFUaE1WN0lMb0E?oc=5",
+     "ts": "2026-11-19T22:10:00Z",
+     "summary": ""
+    },
+    {
+     "id": "b8eacaae1ffc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WGCI-FM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Has A Radio Station Hosted By 'Weird Al' Yankovic",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGZjSUx0djBuMFpoY21rbzFFbmJMclhUeG1SbXNmMl9LakNLdXNKeHd2eVdSQmRpNVR6NlBrS2NiSkdnUGJ6bF9EeWpVOTZZRXN1NWxPdWFNUnJXWGpmaURvcE1BdGRSWXozRk5CTXdtVUNMbUxfaUJUWGF1NHdET01EUWFJQ2o0UHQtYnUtTU9leGllRTJOQTROb1lGdw?oc=5",
+     "ts": "2026-11-19T22:10:00Z",
+     "summary": ""
+    },
+    {
+     "id": "cca5b5dd69ae",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "106.7 Lite FM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Has A Radio Station Hosted By 'Weird Al' Yankovic",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajcxSFJKMTFDaWU1UjlUenA2TFhVZm9vMEo4dGJsUmthTFgtWVNCYy1mNFp3MmpfU3RIelNVOWFfZ212OEtGdENyQ2p0WWxzTGR4QUR5YXRCTnhDVm1ua2lmb3ZSSmZGZ1hwRWlZUDl0dHVBYjFkblpFXzBQV2tMT3lNcFRlcWNta2tCR3RSZkswM2I0Y0FWZFNXRUZuT0Qx?oc=5",
+     "ts": "2026-11-19T22:10:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В GTA 6 есть радиостанция с Ведром Элом Янковичем",
+    "summary": "По данным Dayton’s New Country 103.9 и WGCI-FM, в GTA 6 появится радиостанция, которую ведёт Ведро Эл Янкович. Официально Rockstar это пока не подтверждала.",
+    "idea": "Короткий монтаж песен Ведра Эла с геймплеем GTA 6 и реакцией героя на радио. Зрителю смешно и сразу понятно, что за станция и чего ждать в машине.",
+    "hook": "Ведро Эл Янкович — в GTA 6? Вот что уже играет на радио.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T22:40:54Z"
+   },
+   "msg_id": 1609
+  },
+  {
+   "id": "1518c71fc021",
+   "title": "GTA VI launch draws attention from Kentucky schools and workplaces",
+   "first_seen": "2026-11-19T16:20:48Z",
+   "updated": "2026-11-19T23:01:16Z",
+   "items": [
+    {
+     "id": "1518c71fc021",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NY State of Politics",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI launch draws attention from Kentucky schools and workplaces",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQV92N1hHbWhDUDBCS3E1RjNFWGdYQlZCdExZcHNwenFoN3FGR2dnNXdYeWJtSUdfRVdvZXcxS2FXQlpBV3ZoaWFkOWZHNVJoWjNVRDExcXc4TUE5WTVGNGFuckpCYnJPV1BERzVIbFRpdGN3U1pTRFlVZVhlZW92bmVmQ3JJeGRjNUV5dGRGN1RxcE9XdkpMQjV3dnYtWk5kcVZQY0I4RGRDVEw0R19HNTc3TEhnYVpoSWFiT2tWUG4?oc=5",
+     "ts": "2026-11-19T16:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "45d6029d663d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WKYT",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVRFUmtwQ2lUZVNRdHVNVzJ5eHBDa3dNRkpra2VpaUlJRXczbDZqdmlrVGpBejYtOVNHcXFfS0dUcklBZUhwYXBTYkZ4cldyYWpnNV9LdlBnT0preklHVS1nMFg4UlpEV2lsWEt1TGdKc0dlckFiaVpDSGZ3elVGUWIxZjBQUkxvejRZNGFIU1BzcE9LVXVr?oc=5",
+     "ts": "2026-11-19T21:32:00Z",
+     "summary": ""
+    },
+    {
+     "id": "c4deadbba74f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WCAX",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaDNNZ3VKc3JYV2tPQmh3aXpVZUwtRllwV0ZxSmE5clhIRnBKeGltRFBOd2ZUX2hqczF2RWNWdFc3TXZoZXMyckJ5YUlVcHZoLVI4TE5hSGdJVF9DM3RRLTR6dlZFODZtanptbk9CRk91Q1Zodk50aVJKUWIwVUpHZWM2Zm1zdEY2RS1IMTNoRDkxZVYtSHE3M3BSSkNEaDA?oc=5",
+     "ts": "2026-11-19T21:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "58ad241e721c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WKYT",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0x4dVp2VEhFclhrZ2ZMc0d6X2xCaU5zR3poV013QmI4VEthcTRFclhwNzlaUVo4d2t3d2ZyMFk0NENScDJGV21QNG0yS0l6RGE0OFpwRXVER19BWGc4eXBkbzV4V2YxYUtpVUhyQi1wQU9pcHJCazI0RnBWUkc5TVh3WmtoeFNYdjVkWXZncVlRTWlQQWcyUG53YTNxQzQ?oc=5",
+     "ts": "2026-11-19T21:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "3924df7eb437",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WBAY",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWVnV0RDeURZSkh4SFdlalU5Nk40ZWZsZlE3VW9qQktYbnhjeHphUEg2THJCXzE3dlJnUER1NkZyLXdka3F2ZnFlWE5ycFhYOU56V0ZqazJwMlVqcF9UZnNRelUwSUFaQVNYTkdzMll1QjBET0JiTDdJU3dOalFRbDN5MWNaSWJNMlF5LS1jNEZxQ21xTWgtamUzaDdZRWc?oc=5",
+     "ts": "2026-11-19T21:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "097de0c499b4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WFSB",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1R4OWI3S19qYmc2YllUeWZPV2ppclV4anN6LWh3TlYtLXFBbnZlX3M3Qlh1MklQX0E5WVdrZTc4b1FkMEdmUzhSZDEteHgway1PR0ZndmJFZDV0dk1PWUtYelFWMFVLdVZaYkYweE5XZEt4RHJzX2hmWW1tQTNydVRIM1hKOC1OTE1fejZvTG9xdkFlQVpDM0tQVVprU3M?oc=5",
+     "ts": "2026-11-19T21:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "48495c5d8d4e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "fox10tv.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ2FGNXBTX0doTnZBR3NVTHRYWXhLLVl1SXhVVmRDRWZfcjVTbE9OLVd1dFdMRlRJbHBLaVJBcFhIY3NNQVhqRk9UTDVnYlBQM2tCalpnSnZxWGJUbTNSdDN4dlN0ei1waTlNN3Fhd2pLSHhkaDktVTZIRmhrTWxsSGd1ak1KOUl4TXpsUGhDd1ZhdGdpRVhUWXg5M2VGX0dUTDJz?oc=5",
+     "ts": "2026-11-19T21:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "8d623bf94e4a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WSFA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXpkYm45TG1WSnhWdUhaRnRvbUhGTjR2b0Y4cU45cThZVFVKNG1GSmdBSkVNcldzTVpObUdOYW5DWTAzTzVaclBEZC11OHhscmtXZ1hIX1BRYXF3Nng2dV9GdWJfVlVEU0hpd0g3ZHZlbjU3LVp6dVhnaDVYRXF6V016TmF1d2R1OG8zbHFOakdwcW1iQUM0VTZ0RlJZbkk?oc=5",
+     "ts": "2026-11-19T21:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "40295f7d26c7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WLBT",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUF9YUFFtVExRbkZiZ05NRU5RT2d4VWJxTXAwRVlBQXVSQ3M1VTZQdlFIQzZ0XzVGWlkteFNjUXlmZjV1QzdXN3pmMlRmdDgxMncxZTJlQVJ4LXJYY0tsZTZpcDRLVTJLampGaXZnUFFuZi1lOHZ4REkzOW5xR3hoaURRUFN1ZjJ2dExFWmNRcTNYVE1QTUU2VGlfUXhaWnM?oc=5",
+     "ts": "2026-11-19T21:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "7d196d5cd712",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WDBJ7",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamViMWtmZ2RuWGJmVDNhSmt3T0hUbTl2ZnVyS09hQmFrLWlsVkk2VENRb05YR0JpQU10S24yNTAxWTR5SlRfSDR6bzc0SU9jQVUwU2wzcUFlZ21uYUpXcUtkLS1vRkVyVjUtUnJnQnQ5cW1PNWVUWDZGdXE0SkhfX1JmTVZscEFJN0hyME1reUZEWU96eHBibTZQb0VVTEFC?oc=5",
+     "ts": "2026-11-19T21:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "8eb5d9a8e19d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Hawaii News Now",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNblR1dDc4S3lSanhjM1B4WkplUktTMWl5S0V3bmJ0aHZ6LWJhUWJMeG5FQ3lvSXJ5MnZPUW56RnJ2YmJLV09jUDJjRk05bnBQdEJlRmJvOGZFT0otOVFudUtna0hfVkFvblJtSThzYVhwSDZ3UXdrUzltMURMbWhLMFRSay1LT25PTk54dFg4TTdXVlNVT2xXeXNfUXg5Sl91THNYWTJ1aEliY0U?oc=5",
+     "ts": "2026-11-19T21:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "794d5a8c0c38",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "fox8live.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaS1EZHVEQmxDTFR3MHY2ZUd0TjJmQTktbnRyd1VvYi1SNG90aGswcmlKOHN6NFhBVndEX0ZzM0ptT2lFOUFJYnVJal9WdkwybHJ6Q1RIb3dKWG9lU3FzeHNKcmZ5T1FnLTJncnZYREsyQ1FtRDlIdlE3LVRSaWFpb091aGxHVE1JUTludGdDSWh0djFIVDJGcHlBdC1fSE5ncXdWYg?oc=5",
+     "ts": "2026-11-19T21:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "180b53263762",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeUFGbG5KcDB4bU9nMllsQmR0VzQ2TjR5R0ExZjhPRnBYalVtY2c4c00wOTZOSkJmei1uUHQ4SFpKM3lkMkpsRlc4QjBlMzVQQy16b1BsSENYOFV2UkoyUl9qdFNjdlUyMlVHa0xMVFBBdVZwdks2dFh0VkRIdldEMnRuSWhMNHQwVW5uQjBWRlVoOEVuandZZnExQWIxS3dvRElB?oc=5",
+     "ts": "2026-11-19T21:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "eb9c41312e75",
+   "title": "GTA 6 Is Here, and This Boss Closed the Whole Office",
+   "first_seen": "2026-11-19T23:01:16Z",
+   "updated": "2026-11-19T23:01:16Z",
+   "items": [
+    {
+     "id": "eb9c41312e75",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KSAT",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Is Here, and This Boss Closed the Whole Office",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWNsWDFVbllaLTV2Y0N6OG9IUUNaNVBPMTJJaVNueDF1a1N2UF93ZV9VeUVSNFhITWJXRndWbHhDMTJJeThRblFkVXo4ZFNvQ2ZJM1BLMEs2aThZWjdEQ0xHV0ZUdmZhVE9NSlpnX3FtbC1qOWZSWmN2Mk5sWngtY01pRlVKWlg2R1hETEdWWGJrQ3hwdDd0MFNtOA?oc=5",
+     "ts": "2026-11-19T22:32:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0c130dc40c7b",
+   "title": "Help: I can't stop obeying traffic laws in GTA 6",
+   "first_seen": "2026-11-19T23:01:16Z",
+   "updated": "2026-11-19T23:01:16Z",
+   "items": [
+    {
+     "id": "0c130dc40c7b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Help: I can't stop obeying traffic laws in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX3NPSURRemZ2V2tWWU5rVzJpTzlhc1NFQ21TQnIwNFVObHdNYjBqMW9JbURONHAxV1p6RF9UaGRjb3RHZ0JiLXFKWUpHdXJMZVhuUnp3cnZWYWRDMmZzQjBGaVNkY0R3Vm5LUXhIRjlzSkFQa3M3LXFWSkJ3aGlzM2FsdzV6TUs0QWluVy01dFE1bnZLRzZQS1RR?oc=5",
+     "ts": "2026-11-19T22:46:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: выдуманные числа: 60"
+  },
+  {
+   "id": "17556782206b",
+   "title": "Take-Two Stock Just Sank Almost 4% on the Day GTA VI Launched With a 99 Score",
+   "first_seen": "2026-11-19T23:01:16Z",
+   "updated": "2026-11-19T23:01:16Z",
+   "items": [
+    {
+     "id": "17556782206b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "24/7 Wall St.",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take-Two Stock Just Sank Almost 4% on the Day GTA VI Launched With a 99 Score",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2M4ZlN5TjdXeEMyTk85VUdQT1RyVmxqMkxSblhqb25XX1VaSDhnckcyeHZuVlR6YW9zQW1vZTdWUmtrUWtXWWZKVnllRzRYank3Sko3SHRHRVNtaTNNLXBWMks5bW1waERRUXFmYmhYUTFiOVMwQUdxWDVzVG9ra2Q5M3JSU3JfRVFaMU5MeGdfZi1CVHF2bC01TFVQRHA0ZzhHMXktSGY2OUh0ZHU1UURmRHNqMUxqRDNpUQ?oc=5",
+     "ts": "2026-11-19T22:51:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Акции Take-Two упали почти на 4% в день выхода GTA 6",
+    "summary": "По данным 24/7 Wall St., акции Take-Two упали почти на 4% в день релиза GTA 6, несмотря на оценку 99. Падение произошло именно в день запуска.",
+    "idea": "Показываем график и реакцию: почему акции падают в день триумфа GTA 6 и что это значит для игроков. Коротко, наглядно, с эффектом «вот это поворот».",
+    "hook": "GTA 6 — 99 баллов, а акции Take-Two упали почти на 4%.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T23:01:25Z"
+   },
+   "msg_id": 1612
+  },
+  {
+   "id": "55a4d5fe63c6",
+   "title": "Best Early Game Locations For Easy Cash in GTA 6—Chapter One Money Making, Explained",
+   "first_seen": "2026-11-19T23:01:16Z",
+   "updated": "2026-11-19T23:01:16Z",
+   "items": [
+    {
+     "id": "55a4d5fe63c6",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Best Early Game Locations For Easy Cash in GTA 6—Chapter One Money Making, Explained",
+     "url": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+     "ts": "2026-11-19T22:51:08Z",
+     "summary": "In GTA 6, there are a few easy-to-access locations you'll want to take advantage of early to make a good stack of cash. The post Best Early Game Locations For Easy Cash in GTA 6—Chapter One Money Making, Explained appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "💸 Где быстро заработать в GTA 6: лучшие места в первой главе",
+    "summary": "Insider Gaming (Tom Henderson) рассказал о лучших местах для заработка в первой главе GTA 6. По его данным, есть несколько легкодоступных точек, где можно быстро поднять деньги в начале игры.",
+    "idea": "Короткий маршрут по 2–3 точкам с таймером: показываем, где и что делать, чтобы зритель сразу повторил и получил кэш.",
+    "hook": "Быстрые деньги в GTA 6? Вот 3 места, которые реально работают.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T23:01:28Z"
+   },
+   "msg_id": 1613
+  },
+  {
+   "id": "c372d3e7e30f",
+   "title": "GTA VI gives Maine customers another reason to shop local",
+   "first_seen": "2026-11-19T23:01:16Z",
+   "updated": "2026-11-19T23:01:16Z",
+   "items": [
+    {
+     "id": "c372d3e7e30f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "newscentermaine.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI gives Maine customers another reason to shop local",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWxxVklQeTNQMjZGZE9hcmdqamNZb096bG9xdW5PUXpzMmZMZGNpZnZhd2lXaW9OT2NjckpheElnbnNwcTBLd2RUemFwWUswZlZFXzBHeWl5ay1Ba1dzME44c3RHZXNOYldwTlZtbDY2VWlTdjVRUEJESVlCc3BOMmZFYVRiSlR2QkwteXRyVzM5N0ZCTjFDRVdFNDl3NmR6XzhQZGVXTXRDVnhrczdHak5kc2Z6eGZIVlRaVEZoMS1xdEZTcHU0QkttOXlDSk51YV8tRnJwNDItcURaaEhr?oc=5",
+     "ts": "2026-11-19T22:53:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "23102be7c176",
    "title": "After 13 Years, Grand Theft Auto VI Finally Arrives",
    "first_seen": "2026-11-19T13:20:57Z",
@@ -820,56 +1247,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "00ae289e3aa4",
-   "title": "GTA 6 Has A Radio Station Hosted By 'Weird Al' Yankovic",
-   "first_seen": "2026-11-19T22:31:05Z",
-   "updated": "2026-11-19T22:40:51Z",
-   "items": [
-    {
-     "id": "00ae289e3aa4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Dayton’s New Country 103.9",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Has A Radio Station Hosted By 'Weird Al' Yankovic",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMG5LTUVBZUxhWnI4S3JlMmc2MlRNZHdZVlhvTjZpM29EaFRvNVREYW1Xak52dWlIczJOYzdSZVF5eGo3VWU4OS0weTBFUGxmX1ZvZS1QZDRJNkV4akFqdHVlM3NuMXZtQkFzYXg3LU1maG9FU2l1eFBURk1TQTFpR0RrMkU3aURoalVzQ0RqQk1MOFZ0OTRPbUhpZnl0T01ETklIQUFUaE1WN0lMb0E?oc=5",
-     "ts": "2026-11-19T22:10:00Z",
-     "summary": ""
-    },
-    {
-     "id": "b8eacaae1ffc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WGCI-FM",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Has A Radio Station Hosted By 'Weird Al' Yankovic",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGZjSUx0djBuMFpoY21rbzFFbmJMclhUeG1SbXNmMl9LakNLdXNKeHd2eVdSQmRpNVR6NlBrS2NiSkdnUGJ6bF9EeWpVOTZZRXN1NWxPdWFNUnJXWGpmaURvcE1BdGRSWXozRk5CTXdtVUNMbUxfaUJUWGF1NHdET01EUWFJQ2o0UHQtYnUtTU9leGllRTJOQTROb1lGdw?oc=5",
-     "ts": "2026-11-19T22:10:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "В GTA 6 есть радиостанция с Ведром Элом Янковичем",
-    "summary": "По данным Dayton’s New Country 103.9 и WGCI-FM, в GTA 6 появится радиостанция, которую ведёт Ведро Эл Янкович. Официально Rockstar это пока не подтверждала.",
-    "idea": "Короткий монтаж песен Ведра Эла с геймплеем GTA 6 и реакцией героя на радио. Зрителю смешно и сразу понятно, что за станция и чего ждать в машине.",
-    "hook": "Ведро Эл Янкович — в GTA 6? Вот что уже играет на радио.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T22:40:54Z"
-   },
-   "msg_id": 1609
   },
   {
    "id": "3f3850990372",
@@ -1975,175 +2352,6 @@
    "score": 55,
    "level": "SPECULATION",
    "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "1518c71fc021",
-   "title": "GTA VI launch draws attention from Kentucky schools and workplaces",
-   "first_seen": "2026-11-19T16:20:48Z",
-   "updated": "2026-11-19T22:20:51Z",
-   "items": [
-    {
-     "id": "1518c71fc021",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NY State of Politics",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI launch draws attention from Kentucky schools and workplaces",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQV92N1hHbWhDUDBCS3E1RjNFWGdYQlZCdExZcHNwenFoN3FGR2dnNXdYeWJtSUdfRVdvZXcxS2FXQlpBV3ZoaWFkOWZHNVJoWjNVRDExcXc4TUE5WTVGNGFuckpCYnJPV1BERzVIbFRpdGN3U1pTRFlVZVhlZW92bmVmQ3JJeGRjNUV5dGRGN1RxcE9XdkpMQjV3dnYtWk5kcVZQY0I4RGRDVEw0R19HNTc3TEhnYVpoSWFiT2tWUG4?oc=5",
-     "ts": "2026-11-19T16:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "45d6029d663d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WKYT",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVRFUmtwQ2lUZVNRdHVNVzJ5eHBDa3dNRkpra2VpaUlJRXczbDZqdmlrVGpBejYtOVNHcXFfS0dUcklBZUhwYXBTYkZ4cldyYWpnNV9LdlBnT0preklHVS1nMFg4UlpEV2lsWEt1TGdKc0dlckFiaVpDSGZ3elVGUWIxZjBQUkxvejRZNGFIU1BzcE9LVXVr?oc=5",
-     "ts": "2026-11-19T21:32:00Z",
-     "summary": ""
-    },
-    {
-     "id": "c4deadbba74f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WCAX",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaDNNZ3VKc3JYV2tPQmh3aXpVZUwtRllwV0ZxSmE5clhIRnBKeGltRFBOd2ZUX2hqczF2RWNWdFc3TXZoZXMyckJ5YUlVcHZoLVI4TE5hSGdJVF9DM3RRLTR6dlZFODZtanptbk9CRk91Q1Zodk50aVJKUWIwVUpHZWM2Zm1zdEY2RS1IMTNoRDkxZVYtSHE3M3BSSkNEaDA?oc=5",
-     "ts": "2026-11-19T21:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "58ad241e721c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WKYT",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0x4dVp2VEhFclhrZ2ZMc0d6X2xCaU5zR3poV013QmI4VEthcTRFclhwNzlaUVo4d2t3d2ZyMFk0NENScDJGV21QNG0yS0l6RGE0OFpwRXVER19BWGc4eXBkbzV4V2YxYUtpVUhyQi1wQU9pcHJCazI0RnBWUkc5TVh3WmtoeFNYdjVkWXZncVlRTWlQQWcyUG53YTNxQzQ?oc=5",
-     "ts": "2026-11-19T21:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "3924df7eb437",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WBAY",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWVnV0RDeURZSkh4SFdlalU5Nk40ZWZsZlE3VW9qQktYbnhjeHphUEg2THJCXzE3dlJnUER1NkZyLXdka3F2ZnFlWE5ycFhYOU56V0ZqazJwMlVqcF9UZnNRelUwSUFaQVNYTkdzMll1QjBET0JiTDdJU3dOalFRbDN5MWNaSWJNMlF5LS1jNEZxQ21xTWgtamUzaDdZRWc?oc=5",
-     "ts": "2026-11-19T21:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "097de0c499b4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WFSB",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1R4OWI3S19qYmc2YllUeWZPV2ppclV4anN6LWh3TlYtLXFBbnZlX3M3Qlh1MklQX0E5WVdrZTc4b1FkMEdmUzhSZDEteHgway1PR0ZndmJFZDV0dk1PWUtYelFWMFVLdVZaYkYweE5XZEt4RHJzX2hmWW1tQTNydVRIM1hKOC1OTE1fejZvTG9xdkFlQVpDM0tQVVprU3M?oc=5",
-     "ts": "2026-11-19T21:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "48495c5d8d4e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "fox10tv.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ2FGNXBTX0doTnZBR3NVTHRYWXhLLVl1SXhVVmRDRWZfcjVTbE9OLVd1dFdMRlRJbHBLaVJBcFhIY3NNQVhqRk9UTDVnYlBQM2tCalpnSnZxWGJUbTNSdDN4dlN0ei1waTlNN3Fhd2pLSHhkaDktVTZIRmhrTWxsSGd1ak1KOUl4TXpsUGhDd1ZhdGdpRVhUWXg5M2VGX0dUTDJz?oc=5",
-     "ts": "2026-11-19T21:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "8d623bf94e4a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WSFA",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXpkYm45TG1WSnhWdUhaRnRvbUhGTjR2b0Y4cU45cThZVFVKNG1GSmdBSkVNcldzTVpObUdOYW5DWTAzTzVaclBEZC11OHhscmtXZ1hIX1BRYXF3Nng2dV9GdWJfVlVEU0hpd0g3ZHZlbjU3LVp6dVhnaDVYRXF6V016TmF1d2R1OG8zbHFOakdwcW1iQUM0VTZ0RlJZbkk?oc=5",
-     "ts": "2026-11-19T21:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "40295f7d26c7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WLBT",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUF9YUFFtVExRbkZiZ05NRU5RT2d4VWJxTXAwRVlBQXVSQ3M1VTZQdlFIQzZ0XzVGWlkteFNjUXlmZjV1QzdXN3pmMlRmdDgxMncxZTJlQVJ4LXJYY0tsZTZpcDRLVTJLampGaXZnUFFuZi1lOHZ4REkzOW5xR3hoaURRUFN1ZjJ2dExFWmNRcTNYVE1QTUU2VGlfUXhaWnM?oc=5",
-     "ts": "2026-11-19T21:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "7d196d5cd712",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WDBJ7",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamViMWtmZ2RuWGJmVDNhSmt3T0hUbTl2ZnVyS09hQmFrLWlsVkk2VENRb05YR0JpQU10S24yNTAxWTR5SlRfSDR6bzc0SU9jQVUwU2wzcUFlZ21uYUpXcUtkLS1vRkVyVjUtUnJnQnQ5cW1PNWVUWDZGdXE0SkhfX1JmTVZscEFJN0hyME1reUZEWU96eHBibTZQb0VVTEFC?oc=5",
-     "ts": "2026-11-19T21:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "8eb5d9a8e19d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Hawaii News Now",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNblR1dDc4S3lSanhjM1B4WkplUktTMWl5S0V3bmJ0aHZ6LWJhUWJMeG5FQ3lvSXJ5MnZPUW56RnJ2YmJLV09jUDJjRk05bnBQdEJlRmJvOGZFT0otOVFudUtna0hfVkFvblJtSThzYVhwSDZ3UXdrUzltMURMbWhLMFRSay1LT25PTk54dFg4TTdXVlNVT2xXeXNfUXg5Sl91THNYWTJ1aEliY0U?oc=5",
-     "ts": "2026-11-19T21:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "794d5a8c0c38",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "fox8live.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaS1EZHVEQmxDTFR3MHY2ZUd0TjJmQTktbnRyd1VvYi1SNG90aGswcmlKOHN6NFhBVndEX0ZzM0ptT2lFOUFJYnVJal9WdkwybHJ6Q1RIb3dKWG9lU3FzeHNKcmZ5T1FnLTJncnZYREsyQ1FtRDlIdlE3LVRSaWFpb091aGxHVE1JUTludGdDSWh0djFIVDJGcHlBdC1fSE5ncXdWYg?oc=5",
-     "ts": "2026-11-19T21:50:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -171384,121 +171592,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b599ef82f0f9",
-   "title": "Кладбище проектов Sony: 10 игр, отмененных из-за GTA 6",
-   "first_seen": "2026-11-12T23:01:26Z",
-   "updated": "2026-11-12T23:01:26Z",
-   "items": [
-    {
-     "id": "b599ef82f0f9",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Neva.Today",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Кладбище проектов Sony: 10 игр, отмененных из-за GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOY282eENOOVRmOXoxUXFlSm5mVVM2SVhwT0dodDAwTjlOdE1nLXlQeThkaGJDazZZdktwS0JscWZfTkpOVVV6OUNDVjBWdlVMd3M0?oc=5",
-     "ts": "2026-11-12T22:48:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "54bbdbf7bb41",
-   "title": "I bought digital edition, I want a box.",
-   "first_seen": "2026-11-12T23:01:26Z",
-   "updated": "2026-11-12T23:01:26Z",
-   "items": [
-    {
-     "id": "54bbdbf7bb41",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I bought digital edition, I want a box.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xurcqi/i_bought_digital_edition_i_want_a_box/",
-     "ts": "2026-11-12T22:53:10Z",
-     "summary": "Hi everyone, I pre-ordered the GTAVI digital deluxe edition. I didn’t know you could get the ultimate if you bought the ‘physical’ version. My question is this: If I buy the box from a retailer, are there any sites I can directly sell my code to? even if it’s for less than $80? Thanks. I see people online selling their boxes for $40 and I don’t want to spend that much. submitted by /u/Open_Count3556 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "Online",
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "28d3e9ed2aa8",
-   "title": "If Take 2 isn’t lying, expect an Episode of Liberty City type expansion for VI. It shouldn’t take too long, right?",
-   "first_seen": "2026-11-12T23:01:26Z",
-   "updated": "2026-11-12T23:01:26Z",
-   "items": [
-    {
-     "id": "28d3e9ed2aa8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "If Take 2 isn’t lying, expect an Episode of Liberty City type expansion for VI. It shouldn’t take too long, right?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xurg0b/if_take_2_isnt_lying_expect_an_episode_of_liberty/",
-     "ts": "2026-11-12T22:57:11Z",
-     "summary": "Have minor or supporting characters or stories preview in VI then spin those stories or characters off in a game in 2028-2029. submitted by /u/Professional_Fee578 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "966e3596108a",
-   "title": "Who else? This is what I went with.",
-   "first_seen": "2026-11-12T23:01:26Z",
-   "updated": "2026-11-12T23:01:26Z",
-   "items": [
-    {
-     "id": "966e3596108a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Who else? This is what I went with.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xurgls/who_else_this_is_what_i_went_with/",
-     "ts": "2026-11-12T22:57:54Z",
-     "summary": "Who else is buying a console just for this? Ended up grabbing a refurbished slim digital ps5 off Sonys website for 499. Looked like the cheapest alternative and I’ll probably want to use it for the next god of war game coming out. Havent used a ps5 and it’s been quite a while since I’ve touched the ps4, any tips or things to look out for? submitted by /u/mfly300 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T22:50:57Z",
+  "last_run": "2026-11-19T23:01:28Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 98/100",
+   "rockstar_site: 0/3",
+   "gnews_en: 96/100",
    "gnews_ru: 99/100",
    "gamesbeat: 4/10",
    "vgc: 6/10",
