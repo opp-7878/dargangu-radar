@@ -1,6 +1,35 @@
 {
  "stories": [
   {
+   "id": "9c132442bdde",
+   "title": "GTA 6 easter eggs so far: fan finds from the trailers and what Rockstar has confirmed",
+   "first_seen": "2026-11-19T03:40:46Z",
+   "updated": "2026-11-19T03:40:46Z",
+   "items": [
+    {
+     "id": "9c132442bdde",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 easter eggs so far: fan finds from the trailers and what Rockstar has confirmed",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTQ2d0N6dXNLYTFVMGVRclhsdHRGNWZhQ2RuN3NCQ1V3cy1uTVYzNkpSUDZZVmdGNGFFbEpCTVJzZGg5WTQ0YllvaFNSajhJUDVXMnVLWDB2dk1JQXg3M3hfcDFlUVlEdTVHcFFPM1o1N2lPcVlpLXk4UzdxOXNLZ1pLVmhIbTJsajE3NFhIZ3FBbGRaeXV0OWE0REx0TTJaWUFuSTI0Yw?oc=5",
+     "ts": "2026-11-19T03:38:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "трейлер"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "a243d705d4db",
    "title": "How ‘Grand Theft Auto VI’ pushes the boundaries of video game physics",
    "first_seen": "2026-11-18T12:01:18Z",
@@ -154213,10 +154242,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T03:31:01Z",
+  "last_run": "2026-11-19T03:40:46Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 97/100",
+   "rockstar_site: 0/1",
+   "gnews_en: 96/100",
    "gnews_ru: 100/100",
    "gamesbeat: 6/10",
    "vgc: 9/10",
