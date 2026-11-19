@@ -1,6 +1,860 @@
 {
  "stories": [
   {
+   "id": "fe75cdaa75f0",
+   "title": "GTA 6: The Optional Missions You Won’t Want to Miss",
+   "first_seen": "2026-11-19T16:20:49Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "fe75cdaa75f0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: The Optional Missions You Won’t Want to Miss",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTF6T253VGtzSnBkUXozSGQwTlpXdzNrb0Zfd0diQkRjZVhtYWVXY0JHVjA3UlpKa1N4MXYzbHdtNk5xbWduNDF2UkZYWjlxUVZ3WWItRGdYaUZ5STZfZnJ3M3V5WlEtUGNLdzVwazU2Mnd5WFhWbXAzYzNZcU82cHFmcGxYd3lsX1Q4Qi1DSE9WWGJYcDREUTItOXpuYVFk?oc=5",
+     "ts": "2026-11-19T16:15:11Z",
+     "summary": ""
+    },
+    {
+     "id": "2a34fbc4e868",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6: The Optional Missions You Won’t Want to Miss",
+     "url": "https://www.ign.com/articles/gta-6-the-optional-missions-you-wont-want-to-miss",
+     "ts": "2026-11-19T16:00:00Z",
+     "summary": "GTA 6 is full of optional activities, but some are more essential than others. These are the seven side missions you really shouldn't miss out on."
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Не пропусти: самые важные побочные миссии в GTA 6",
+    "summary": "По данным IGN, в GTA 6 много необязательных занятий, но некоторые из них важнее других. Издание выделило несколько побочных миссий, которые не стоит пропускать.",
+    "idea": "Короткий топ необязательных, но ключевых побочных миссий GTA 6 с быстрыми нарезками. Зрителю важно знать, что делать в открытом мире в первую очередь.",
+    "hook": "Семь побочных миссий в GTA 6, которые нельзя пропускать.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T16:31:24Z"
+   },
+   "msg_id": 1550
+  },
+  {
+   "id": "c1f915caf9ef",
+   "title": "Grand Theft Auto VI preorders hit 19M before launch, with PS5 outselling Xbox 3-1",
+   "first_seen": "2026-11-19T12:40:53Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "c1f915caf9ef",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Estimated to Have Reached 20 Million Preorders Ahead of Launch",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFQwc0NsQXZIbDJfQy02U1JmVXpuNlByUHphNFNVNnQtZWVPazRiMU10RlBROVNuXzRPWTRVOHVHRDBfeWNlUjU0aURYN3ZxU2w1RFNVM25rQVU4TU5lZlNzdXJTYWw2ZElIR1IxUlJHM1dOdHV6dlhPUHQ0YzBXdExvVnZiSmhaand3cmpGUks4bnRnNnZsYWppVmpXUEp5RHllN0wxMVEyY21DZllkczJVLWlXVDVRVVM5cFMyRmppUkw4OWZXNA?oc=5",
+     "ts": "2026-11-19T12:05:12Z",
+     "summary": ""
+    },
+    {
+     "id": "a9da41859140",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesBeat",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "Grand Theft Auto VI preorders hit 19M before launch, with PS5 outselling Xbox 3-1",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2dZTmQ4Skhvb25Uc0VOT3owcU0yUzloVGk0VkIwdUpQYjhKXzdHbG93akpxY2c1U2RjVTlxT0pNSFNZM1l4eG80SGJOQXZ0NndOemt5enhGWl9LUUNIdFYzYlFyT01NdUFjU0d6ZzRkcHdRcXZmQzBQVHpDcnc5MWRMVllyMEdndTVzLVA5eWFWZEo5VVpUQi1jWmNZall4V1B1Sld3?oc=5",
+     "ts": "2026-11-19T15:36:19Z",
+     "summary": ""
+    },
+    {
+     "id": "4d1a8a75b1d2",
+     "src": "gamesbeat",
+     "src_name": "GamesBeat",
+     "outlet": "",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "Grand Theft Auto VI preorders hit 19M before launch, with PS5 outselling Xbox 3-1",
+     "url": "https://gamesbeat.com/grand-theft-auto-vi-preorders-hit-19m-before-launch-with-ps5-outselling-xbox-3-1/",
+     "ts": "2026-11-19T15:34:00Z",
+     "summary": "Grand Theft Auto VI preorders hit 19.05 million copies sold before today’s launch, according to measurement firm Sensor Tower. That translates into $1.84 billion... The post Grand Theft Auto VI preorders hit 19M before launch, with PS5 outselling Xbox 3-1 appeared first on GamesBeat ."
+    },
+    {
+     "id": "7db4fe3bdf48",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The American Bazaar",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI launch: Rockstar’s $1.5 billion blockbuster eyes biggest video game debut",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ1Z6QjAzQUNWbjlQOVJKamVaSk9wVlhSY1FDNWRLTm1nT0JqLVN1NEtvZFYwRVpRZF9xc1ltcW9LN2RPbmJlaDhUYzJSNzdXVXd6WWxmbGNCbGZKMWVaYjFnWWJsclowd0c2TW9TRk1GWGY5TElMWEZvTVh3WHp6VUtHTlR6dGJHbUpIbTBsUTFBR01TLU1vWUdhQ2lwSnVPcFdDanBDRkFndVRJSjRYdnJZNVpwSEx6eERZVnpkYk9jUTNPbmRTRw?oc=5",
+     "ts": "2026-11-19T16:17:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "f1c129528b0a",
+   "title": "Rockstar Publishes Full GTA 6 Credits — But Beware, They Contain Major Spoilers",
+   "first_seen": "2026-11-19T16:01:04Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "f1c129528b0a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Publishes Full GTA 6 Credits — But Beware, They Contain Major Spoilers",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDhfSEVoWURTdEd5b19XS0VzdkhUN0lQM2RGLXJZVWgxUmZ1RGdub21rMndpQ2oyYVAzWlhZcWZvZXZ0NGVYcEcya3JDVTlYLVloNkhwNzNESUYzR1dhb1NLcm50cUtEUGNYOElZWFgxckp0TDlWU05LRTYwY2k2X2xaLUlMWHNhTUt2ajVVMWppaG12Z0dZMUtvYWpOb2ZCcGtfcktoUl9aZGJiR2QybnNwTlFzSFdRckxGVHI3anR2MnFx?oc=5",
+     "ts": "2026-11-19T15:55:11Z",
+     "summary": ""
+    },
+    {
+     "id": "ed51b3ca0335",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rockstar Publishes Full GTA 6 Credits — But Beware, They Contain Major Spoilers",
+     "url": "https://www.ign.com/articles/rockstar-publishes-full-gta-6-credits-but-beware-they-contain-major-spoilers",
+     "ts": "2026-11-19T15:43:11Z",
+     "summary": "With GTA 6 now launched across the world, Rockstar has published the game's full credits online — with a major spoiler hidden in plain view."
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 93,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Полные титры GTA 6 уже в сети — внутри спрятан МАЖОРНЫЙ спойлер",
+    "summary": "Rockstar опубликовала полные титры GTA 6 онлайн, и в них спрятан крупный спойлер. Об этом сообщает IGN.",
+    "idea": "Разбираем титры GTA 6 и показываем, где спрятан спойлер — без пересказа сюжета. Зрителю интересно узнать, что именно слили и как это обойти.",
+    "hook": "Титры GTA 6 уже в сети — и там спрятан спойлер, который лучше не видеть.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T16:31:16Z"
+   },
+   "msg_id": 1549
+  },
+  {
+   "id": "6960688a2677",
+   "title": "GTA 6 is here! Return to Leonida now with Jason Duval and Lucia Caminos",
+   "first_seen": "2026-11-19T15:01:06Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "6960688a2677",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Star Press",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 is here! Return to Leonida now with Jason Duval and Lucia Caminos",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjBVYzBURFRuUTBIS0lLS2RIUFdpSUdCZnRiTmFEM3dNVFZSVTNOTGgtOGVKbDdyaUtlQVBfTVR6X1BXSmstU2JxZV9ab3h4ZmJNbmc2Y1d0dERiV0lxcm5mMGJVcHE1ak1TMG5aRTJ2LU5wZnFlMExHQ0sxY21XQVdFYUJvNUxyb1NUUGFkSWJsQ0FZcjVRU0dPNkFrR29hdFpSd3AtRkhSX19EWjk0dDZpdUREaTJ4a0JyVTVFN3U?oc=5",
+     "ts": "2026-11-19T14:45:00Z",
+     "summary": ""
+    },
+    {
+     "id": "c1e833ed8daf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "St. Cloud Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 is here! Return to Leonida now with Jason Duval and Lucia Caminos",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVmtDd1lSZXBRUDBtQ19uRnA2RlpJN2pGNjZoa0xiZnNpWW9XTDNqUEtzbnpwd0Q5T3RFQTZVRHUtR2NLVFZuSUtGTVVyU1BZYjNsQjRiejlYa0hzdVg2cUxwUkR5SEhIbEd3a2tXbkFNTFBCTXYwWWNBSGZJYkFqVE5xQWpWeTdCQ1F4LVM3eVR5TVlkdFR1MDgwU3pHS2xTQ0puZ0YzbnhiXzFFanROYjEycUV1Z1oyV3c?oc=5",
+     "ts": "2026-11-19T14:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "63601ca51e47",
+   "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
+   "first_seen": "2026-11-19T13:31:03Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "63601ca51e47",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "FOX Carolina News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVElPT0VqWmpaakJsdjZidXBEQklJSmJxZ0FvVG85Z25BYV9kMkVCQUZPMXlmTjJXdjk2UGtJMEV5c3RRVXdFMWtoVW9EMERya0loNVVWYS1lckNTWm92LTdUYVZIZk1KTzlNcFZwRnhwajVCUWZVNGt3RDJZOUlldFhxVjBsbnJZUklYc2VhT1lRLTY2cDgzazFCdzYwZS0wR2ZCOA?oc=5",
+     "ts": "2026-11-19T13:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "0415356ec598",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KCRG",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb1VzRkplb1o4c21VLUJmdnBHNnBQaFJEX0JlRHdPbWUyNlkyMUNhbTdMOGNfeDJ6cWdJbWVUTUE2dHYtYk1iRy1lSGpsNVFuVHF4d2RxeDk1SXVTN3NBNDFUMlF1S3VCRnUzMUdiOXBXU05seDlsdTJ2a1labVJFU2NlVjNET2JjWDlxQktZaWYwenUybk9nWUpYOA?oc=5",
+     "ts": "2026-11-19T13:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "e840b01d4f05",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "FOX19 | Cincinnati",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWnhmVWJ6TWcxTzU3bG1yR2ttVVliaWpJYjNnZjlxaHlSRk5SNnlPU29tX0ZiZ2ItekRwUFNDVXo5NmI4bWFaWWlaSTk2SUI1VEVxdWZKQ25aRE5ORTZUME5BYnFPd0NLUUxKTkhRVlREbDVVaktsSmN1MnluVEtCNTVRc2hQclRhcVNWblpmTm1rby1SQVh2V3N3a0c?oc=5",
+     "ts": "2026-11-19T13:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "217e861acd25",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WLBT",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnozS1lWS0F1UXR5aXgtUWZGbXhhX3ZnNWt1STUwRWhpUERDamxjTUlaNk9XcTEtSVJZbkEyWERNMzJtNkROcXowTkZ1UU1fMmZ1WV85T0hMcG5rb0IxS0RuSVdsNFZ1b25rdFRqZ05hRlAybzZPNXU5dXBZNzROWWNILUxBQ2V0MlVxMjl2anRuSVkzNWRBdGRxTQ?oc=5",
+     "ts": "2026-11-19T13:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "240edf54a6e1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WOWT",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDIzXzltTEc4VmJaOHFPWnE5RGRhMzA4RmJ1Q1phUkZQRDJURXRpYXhlakh3OVBWM1JVYlRpRTkzZzYyekVKWFB1QVlPM1RlR0F2SFdLV1I0dE41S3ZjUC0tU3hvc2ZYckxTb05mN290bElSUjBkOU42ejFjT2NMV09Va2l5a3htR24wVFN1andxbkhGeGlxQ3lCMA?oc=5",
+     "ts": "2026-11-19T13:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "6755817eaff1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KKTV",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDFFZ2N4TGprS0M3LU9iaVl0cmtqcDhzUEJIU3lSdnktcmdQSXF3VDV3dHdIZkdRZDd3dDlTOWJkandJTXRvUFR2cnkxMi15cjl6R3FuUmRlLTM2bkZheTd1ZElhSk9rQy1sNVllZ3QwaHU4VFlyYy1odnlOUFJKQnZhUThIUGVOMWEtS0RyZmFXYk1yUExKalEyNA?oc=5",
+     "ts": "2026-11-19T13:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "815c03ea8c5f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMlpkcFJHVDBSWkJ1MUdhU2Y5cUFMWlZyZDBTTUt5VEZSNVA4ZVJOaS14MUdzSHdJZ3djZzB6Ny1oWUJVeTI1aWp5RE5ISXhOdFRKVktPSVJ0am5DQkhlajhwSXhlNVpzOVE5RDhRdy1fUTdvb0x2dWhKUXhqX1VFeXVwdHpQZU8wWmJUQW9PY2FKTUozQ1pPZjRocFA3OTQ?oc=5",
+     "ts": "2026-11-19T13:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "de4da2da7461",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WKYT",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnBla2Z4WU5yQ1RURHg3Q0JkaHRkdXBFdkJNN29fRUZwMVJvTEk3OGlvVjJuUGJiS1dWbFZYel9rczJseWVTZjhHVUtkV1AwaUxIRFRVSWtzR21keE43c2hrODhjNm5PTGNQelAwNTB4QkpyTlpOSjV1ZEFOWWlUSThZZHAxdENGSWdpVWJzTGlfTHAyUXF0YjBGQQ?oc=5",
+     "ts": "2026-11-19T13:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "7ca473300ea8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "fox8live.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVNMTEhKUTA5TVg1NWw1Tnh6bUdQakNVZVFwM2tXeGx3RUlrcHprb3l1UHI3Y2hUdEl3Vzd5a1B2bGV0V0hBR05Sc2JTM3lzZDl0Rm1Fd3NFYWtpeHZWZEVsbXM4M205TUtuWk5aWmVBdUxHb05fMkZmaHdNRHpiMF9iTnlqZUViLVpLZ1BQRzdhNXBueU9FdnpzeVF6WW0y?oc=5",
+     "ts": "2026-11-19T13:20:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 вышла: фанаты сходят с ума. Что известно",
+    "summary": "GTA 6 вышла 19 ноября 2026 на PS5 и Xbox Series X|S, фанаты активно обсуждают релиз. По данным FOX Carolina, KCRG и FOX19 Cincinnati, игра уже доступна, предзагрузка шла с 12 ноября.",
+    "idea": "Короткая нарезка эмоций фанатов в день релиза с титрами фактов: дата, платформы, предзагрузка. Зрителю интересно увидеть живую реакцию и быстро узнать главное.",
+    "hook": "GTA 6 вышла сегодня — вот что творится на улицах и в сети.",
+    "stars": 5,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T13:31:18Z"
+   },
+   "msg_id": 1504
+  },
+  {
+   "id": "9d35f250b2f4",
+   "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
+   "first_seen": "2026-11-18T21:31:08Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "9d35f250b2f4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KMVU FOX 26 Medford",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQUZIMVc0X3MwckRHYjZINUVNel9LNUE5TWpyNWpCVEtaNEdBWmxaNGYzRmxEanAtU0ZiRV9UWlhIVkp5QWFWNXR0bzVTT24zME94dTFxR0o5NEJHd3JLV2l4SHJlOEF2elJRLVJ6WUVabTk5NXBhVTV3WnNsVVZuYkhkQWxKM2dqZGx4NGtlVnYxamZDdldTQi1NVUZaOGpDZ1gzXzhtdVNES0hMb0ZwaDF5STBfcmRDcWlRWDJmZ3F4NlJOSjJGQWFQTTVHejFBUWdpZF9TVlViZU9aMno1UDBjMG5yUGh2M1Yw?oc=5",
+     "ts": "2026-11-18T20:14:59Z",
+     "summary": ""
+    },
+    {
+     "id": "f9689f8603ac",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "AFP.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1VyWVpTNTR4UWgtdVQ4d2g0WjlHaUZ0QXZkU2QxWHJnUmR1MVhMcGtkWkNMbDBJZUlCa1ZWalprSjE2RkQyWUszTGJ3ZHA2SVpTalNNcjIweV91M1ZmZmlCQjNrYzBlRTBEbzZIUFlKTVlBakNkelJZV1JocXZBVmtEUUdyWGUxR2c?oc=5",
+     "ts": "2026-11-18T21:14:59Z",
+     "summary": ""
+    },
+    {
+     "id": "dcd965e2e7c1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Euronews.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXNCYWVxRnI0VmtxcnJxbWFudEs0U3JQQVp4TFY3NkcxNnZabUlyWV9JMDdqQU5wcndYZENiS2NZVWdFSF9kYlNUT2Y1cEx4Szl5WEVHUUdPUWxSZ3JkNWY2aFpTUU1vNUtiRGRGTWx0dV9pNldjSjRSQVE4NEdhN3hNbUlnQmhSdTFNMHlrdjhjbGdzNEprdXpFZjVJaTJvc3ZzT25sRmJKTU5yR2pmSjlaNlA?oc=5",
+     "ts": "2026-11-19T08:52:40Z",
+     "summary": ""
+    },
+    {
+     "id": "b33b3e54f9e5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Quartz",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take-Two stock jumps more than 6% as GTA VI launches to near-perfect reviews",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xb0FzZllVMHRHN01zOEhJOHBWbTRWODNhUmpPU1hXOUQ2dUxUYVJsS1ozUTYzc3J3R0RwbTFfa1VHWnkzb0V6WXZtdjFfOHR3c0NfVndveUU3Tm1PMi1JTjM4d09Yd3d5V3c?oc=5",
+     "ts": "2026-11-19T12:53:48Z",
+     "summary": ""
+    },
+    {
+     "id": "6e004c57cb20",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA VI продалась тиражом более 19 млн копий и подняла акции Take-Two, Sony, Microsoft и даже AMD",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZk9UMG1MaGxaOEV4Ny04WmJHWjlheXRxbl8wcjRnbzk5SEoyb0hTUzNibDdzeENPcVQ1Y0YxaHgxMDB6Tk95UHpfZlZOMFViN0Ryd3k2UmhOLUhOQmFzcFNLaU84MmQ5M21Cd1JQVldZZ21WWFZhd3V4WkhKMTY1ellROXBxVlQzYVVyMERFVnR0MDZ5WC1lSGxFX1RvNFU0eGFYX0pXa1Zya0hORE1jdmZsUjVUNWJtNnNNSG1HRXJDUW5fVm1vT3RhaGZMQzDSAdQBQVVfeXFMUGNMVEhSZHVRWWhYcW1YaERhRTI4SGc4T3lCc2JwOXEwT0JIYzdiWTFVR3NISmd0MjdEZE1LYUVFOVpCdnMtQ0Y2NVd6c0NtVEE1WWV5a285WkhTXzZpNzlLQkYxWUY2dXF6UmpvMkJObWFkUHVQZVI2MHByaEhuaTJvaW1tYmJYS3BlZjJveVVETUVSOHBzTnhlSzVtdndOTTNXbllyY18wajlTN3lwU0daemhha3VXRjJodWVJdm9vcTlpNVg3cVJPUEFRUm9OWFdLM1Y?oc=5",
+     "ts": "2026-11-19T13:18:00Z",
+     "summary": ""
+    },
+    {
+     "id": "7873783eb15e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Benzinga",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 vs. Sam Bankman-Fried: Netflix Drops FTX Series on Same Day as Take-Two’s Blockbuster Launch",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcWNiRzF6N0I0bGtOVDlZQWJsRk9yVGhGZHE3U3c1X0ZwRmNmaDVMQXVoU1hZVlJteTA3Z2FsU0h2eXFab3R0X05iSS1ILWtoTUZXQ1dyT19paDVKOWN4S2VhX3JrTUp0SVNjLS1iQXdneVE1VktQbGV1SjFHeW1BMktMa3JsV3RDdWY1NXJTOWY2dGxFSDRJMkJxQk9Ebm81N1JkWnpiUE9JczdpTG9meGF5NjBMWmN4bmZ6eVV0OU1jNWVKay1IS0trUDRQLXZ2R0FnQ3RvdXlHaW9HLW1zRA?oc=5",
+     "ts": "2026-11-19T13:15:22Z",
+     "summary": ""
+    },
+    {
+     "id": "85f4fdfd2b5a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Seeking Alpha",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I Bought GTA VI, But Not Take-Two Interactive Stock (NASDAQ:TTWO)",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzlWZGtFb0lLVVRVaGI4RGpZV3hhUTlHdGlyUDRGWUlRYW5jWTJCZjJVLS1nbGl2TkEyNFZSZmZOQUNTWHFOd2lnNHR6akRfdVFWUlJvaDF2ZzJwbFp4cWdZQzBPeld0LVY5OEZ6S1NMQjZQSjJGRllvR3BkSFpXcGp5Z3d6bGJvajRrWGp3RllCQWpYTEE?oc=5",
+     "ts": "2026-11-19T13:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "afed22f7495b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Акции Take-Two взлетели на 8% на Nasdaq в день выхода GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1TEJocWVIc0VNYi16bmlhVWhRU3JlRWpJMU5IbE9PSVk2bHU4S1VsZFFBMm5HY1FVeGlRcVJaR016alFJVF9PeUhOTEVkTTJvNm9WSjNiM19wYW1IejFGVkdjNU9CdUItdll5ajk0RHBOQQ?oc=5",
+     "ts": "2026-11-19T16:20:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 вышла: мировые обзоры почти идеальны",
+    "summary": "Grand Theft Auto VI вышла по всему миру 19 ноября 2026 года. По данным KMVU FOX 26 Medford и AFP, игра получает почти идеальные отзывы от критиков.",
+    "idea": "Короткая нарезка первых оценок и реакций на запуск GTA 6 с титрами «почти идеальные обзоры». Зрителю важно увидеть, что старт успешный и оценки рекордные.",
+    "hook": "GTA 6 вышла сегодня — и критики уже ставят почти идеальные оценки.",
+    "stars": 5,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T22:11:04Z"
+   },
+   "msg_id": 1415
+  },
+  {
+   "id": "23102be7c176",
+   "title": "After 13 Years, Grand Theft Auto VI Finally Arrives",
+   "first_seen": "2026-11-19T13:20:57Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "23102be7c176",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WJR-AM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "After 13 Years, Grand Theft Auto VI Finally Arrives",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUktqT1hvUm80c01QVll0WGowT2JlUHlnQ3BlVVhaMHZDa29pZFYtOExDeHR3X1VUNF9BS0ctLVI4Zmc5MXVoWDY5QTJIRzZYbHdwa1U1aG1yWmE1SjJHMnM3QmZnQWVxSzc5WWRZNENtdkFLNTgtMnZtbWdrc2NJNWtQQ2N2SGVidXc?oc=5",
+     "ts": "2026-11-19T13:07:27Z",
+     "summary": ""
+    },
+    {
+     "id": "e41ef6ce7563",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WAFB",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI is finally here after 13 years. Here’s how much it costs",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzVha1BMczNyd0Y0dmFBMnhvVUpjOEVlSE83cEN0R1RkWmZidTdlWkZHTXZGZ1ppd0k2d0ZrQUZFUTY3Z1g2cnJVODVpdWJQZFdnVGJyUG9uNXczSExNZ0N5NjhpWDNrdkExb3huQUZadVFzbDZlZ291V2lLRGNjaC1TRWRSM1pOOGFaRkx4Z1VQcHpZejhwS2h30gGuAUFVX3lxTE42aWttSXVaVDAtSHgwWGV5UzF4ZTJzNV9TLUZZUTNJNkFfVG5SOGtlWlMxaUpSNURHZjhPZnlQSU9wRGhqTEx1N1g5WU5LRG1EWl9VMHQ1RWlMM1NPSXRicllVQmdBeW9FY0NTdEI0a01MQV9oa3M3X3FVSVJES3BucE4tRFYzcnJLT2pzNjVyOGxIOGtXd1F1TUxzVW5MMnNxU0x1ZlBvSmF6Q0hRQQ?oc=5",
+     "ts": "2026-11-19T16:15:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "af4fbe914d38",
+   "title": "Lincoln gamers celebrate release of ‘Grand Theft Auto VI’",
+   "first_seen": "2026-11-18T23:01:16Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "af4fbe914d38",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Lincoln gamers celebrate release of ‘Grand Theft Auto VI’",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHBkVUxNQ0F1VDdqVFo2YlROOXM0d1ZEa1lZVTdGdGJCVXhlcE44WDFyX1JDUXphUlVONnJjSE9pc1FnZUNicVlvOGI4Z2VWZVJzMjZtY1c0aEVkT2J4eDZDOFF0OG9NeFNST292WnRMVHNkWFA3YURnMzVHQlhhaVNJY2tRZGdZekYzZFpoZHQ2QdIBpgFBVV95cUxOT1E0M2xMRWdaZGNSMGpQdmw4TVo0bnd3WHJXcV9wSHR0UDRJanY1UjdNZUpNcGE1cHZuU0loZkh0QWk5ZDBvWjRwMHhYSExENWxyQnExOTZ0eWFoQlZEc3ZDdEY2NlJyZDJpRHBzWjA3emVjWGt5ZUk1SlY2Vm1ZU0VvTjF5UWJjLWJhaEhVMF9TWTdwZEp1ZzJUQjRab2xhcU90cm1n?oc=5",
+     "ts": "2026-11-18T22:49:00Z",
+     "summary": ""
+    },
+    {
+     "id": "39db082562eb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Lincoln gamers celebrate release of ‘Grand Theft Auto VI’",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3Y5cXF5a01ySkV3aURiVG9XSy1veE9TT2htYi1EdTVVXzJjSVB0ODBIMExFR1ZjNm1MSUoxUUhOQWJaQTRVMkExMlZwbUwtWGtIaHl6QUlGejRvOUtJVTVaMGxQR0lWWlg3QXRCUUhBVngyc2lpU0E3emRXZUpFaU1abWZMbFJuMEI3Sjd5cVItZHJwVXFkYV9R?oc=5",
+     "ts": "2026-11-19T00:22:00Z",
+     "summary": ""
+    },
+    {
+     "id": "e08bba069534",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Floridian Press",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers Celebrate Long-Awaited Release of Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXl6WnpHVmNtcWVnbzJ5RWxlUFRyRVY0V3BOdzBRUy1USlVHTnAtVVpYOFd3Q0FHU1NTVnRYUXRUckd2OWV5YjRCOVpsdDlDX3NPVTJXVUdnNXJDVkFvRVk0d2xIT2hmQk9yNFRucXhxbjhPVGFpQll4MmNTMW1INV9lcTRyV0N6dDVsbkRLZWZoMmpBNEoyeDFwMnU?oc=5",
+     "ts": "2026-11-19T15:59:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "2ae1bdee0cc7",
+   "title": "The GTA 6 effect: Israeli internet traffic jumps as gamers log on",
+   "first_seen": "2026-11-19T16:31:10Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "2ae1bdee0cc7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CTech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The GTA 6 effect: Israeli internet traffic jumps as gamers log on",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZNi1hNHRrZVlVXzJHV1FCUU9qSkVkUUdVcmpPWXRIbXYtTlN1eFZRaEdzbE9sMkNVN2NhSGVWWkZvdHFqVFRYU09wVzQ3TkRUUFAzX25VcVpGYlA5emVpeGRaOTN0VmM?oc=5",
+     "ts": "2026-11-19T16:13:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "29cf43d7ae6c",
+   "title": "Как получить лучшее оружие в начале GTA 6 — гайд",
+   "first_seen": "2026-11-19T16:31:10Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "29cf43d7ae6c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://www.championat.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Как получить лучшее оружие в начале GTA 6 — гайд",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZGUtM1FISDJIaTZ6bm54d1haZDlRb3NnNk5LNWdqclRVY2hLd3FnN0lXSU15cHA2Y0tYbTM4VEVTak9GU1pfT2gyR3VSOXBLQjF2dTU3S2dUZUs3WFY4TnpwRmZEdzlhZ3FrR09IbnpwMTZpWmNNQ0dZTjdvekhSWjRFUW82Mkh5ZFNrdUF1NEtVa19JeEFTV0NDVXUydmIxSWZWbk1Dcmo?oc=5",
+     "ts": "2026-11-19T16:13:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c62571d759e1",
+   "title": "Action 2 News senior producer reviews Grand Theft Auto VI",
+   "first_seen": "2026-11-19T16:31:10Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "c62571d759e1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WSMV",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Action 2 News senior producer reviews Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObTYtQ2czcFR0MzBON0d5dGFZMEtYUEtHaGI2U2x4YzllZ3pqNkF0alotTzZxUkVfbWJwaUpTVG4ySndBazRybFBOS1RMeEhFNFBrWHpKcVhzd2k5bTdoVnZTNVRLTldlc09XU0JvdHRFdklzRFpOU0FPR1ZEZzhFeUNMRW5tel8zZVNPSlBZRERDb3B1d0RtbkFXZ2E?oc=5",
+     "ts": "2026-11-19T16:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "a7f8392a9ed1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WTVA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Action 2 News senior producer reviews Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc1hpWFZmQ3IzMms4Tk5qRmFLRVN5aDJ1SVdjMmlLRGVYejRXMlpxQnhLOGNCemZGU245MzBzWlNJWFVrN0ZzYWU2d1Z3bk9LWFEyd3R1VXFiSmNMX05FWDJHMUpocDJQQWw1ZldLMmJFSWFoaUczaTdXZDFyTWQzSF9GTFlVZmZ1OFlPc0ZYRDc2aXNpSWEwZEZDdDg?oc=5",
+     "ts": "2026-11-19T16:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "b03eb772c903",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WFSB",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Action 2 News senior producer reviews Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaFNjU3RDeXEycjUyaTVIOEZURG4xY1hXZ3l5ZU5oSWFBLXBjUmZwT2VsT0NRT3JiZER3eGhGWWdlUmJoYXVrVkRXMjFLdVV3T0ItZUZNNDJfZng5R29xUkVvMlI1QkZRM0RYdnFzV3pzZWY2TFp0Q1pSRC1zR2prUFdiZ0RSRkYzX3VuOHpINWNTWmpraDIyVGU2by0?oc=5",
+     "ts": "2026-11-19T16:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "0d289000b664",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "FOX19 | Cincinnati",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Action 2 News senior producer reviews Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGQ3U2w2Tm12TEN6QTRteUJKMUFJTG1oVy05UG5FZDA2MUt1aDFWY2FvSlpoM3hjcWZFVTVXbm5MSXludS1wNFItejdOT0xOcHZoRmFpY0dyRHpybnYtRVZVanAtS3lpNHBuODUxWmpZdWkyaFNoT0ZwYk03SXZRVlJCTnlfcDQyNVl2b1lKT1A2dHFmTlZZOEg1YlU2Zw?oc=5",
+     "ts": "2026-11-19T16:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "5c0449529896",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KCRG",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Action 2 News senior producer reviews Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEgyNXRTMTJxZGhvcVZYcG1OWEtwTDRwY0l2R1cyeGxLWFZmZkkxOWp6T05NdWNNNkc5WExmQ0R1M2hoQm1rWm5PWG4wY19tdDVoZUtXTGZmZ2lJODJ1WE44ejBxUkt2dVdyOXhNMXZ3TVpONmRwdWs0WmdGVXBVaUlEVFRyYnFaRll0c0djWldsbzg1bjlqVHVac20?oc=5",
+     "ts": "2026-11-19T16:20:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Редактор новостей посмотрел GTA 6 и высказался в прямом эфире",
+    "summary": "Старшие продюсеры Action 2 News в нескольких филиалах рассказали о своих впечатлениях от GTA 6 в эфире. Они отметили атмосферу Вайс-Сити и внимание к деталям открытого мира. Официально Rockstar игру не комментировала.",
+    "idea": "Собираем самые живые реакции редакторов местных новостей в один короткий ролик — без спойлеров, только эмоции и детали мира. Зрителю интересно увидеть «человеческую» реакцию неигровых медиа на GTA 6.",
+    "hook": "Редакторы новостей вышли в эфир и не сдержали эмоций о GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T16:31:27Z"
+   },
+   "msg_id": 1551
+  },
+  {
+   "id": "90984ac7e4b7",
+   "title": "Игроки GTA 6 пожаловались на вылеты игры на PS5 и Xbox после релиза",
+   "first_seen": "2026-11-19T16:31:10Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "90984ac7e4b7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "sport-express.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Игроки GTA 6 пожаловались на вылеты игры на PS5 и Xbox после релиза",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3NKRVJ0QVpXSmthMndHbGdmUDV3djFRMjVBelV1NFpjU2hPMVpXRFFvWmt5MzFVRTMxR1dwYkw4MXd3T2NfLTlyckxqbW1YN2RHeS01WXJGVWpSSjk1SDhYbzBLR3oyZ3o0cXAzeUJxMENHSWt0MkRYQmNuSExINFpuUTZkVUJEYjlOTkVNd05lU1hjWjJJeFh3RkVxazgtNjcxN2s5cWsxNjNhMWlsRlZnN3dTZVkzSHZiSTU0d1RHTS0tWUd0MThB?oc=5",
+     "ts": "2026-11-19T16:21:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9c0ba3b06303",
+   "title": "In GTA 6, the Ultimate Male Fantasy Is Being a Good Boyfriend",
+   "first_seen": "2026-11-19T16:31:10Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "9c0ba3b06303",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Newsweek",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "In GTA 6, the Ultimate Male Fantasy Is Being a Good Boyfriend",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1BjcFNZNFRXUW1nNDlZaTMxaVJoa2RNQjZiTE96b0pBOWMtMFNCSlptUkx0MjMzeV84WUU2WVZTSjAtR2pNM0lxSjJ4X1lSM3IwLVc4R0JrS2p0SVVPWlp6TGltLXRsaGw2ZW96bm55Z1Y1RTVMLTJhM2pmOGs0dU1YVlRreUJIVVc2UmE5dTZiLURjM3c5eXdR?oc=5",
+     "ts": "2026-11-19T16:23:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "22636ce898e0",
+   "title": "GTA 6 Cast List Includes Potentially Huge Spoiler, So Be Warned",
+   "first_seen": "2026-11-19T16:31:10Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "22636ce898e0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Cast List Includes Potentially Huge Spoiler, So Be Warned",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMW5RMGtueFZvSjI2VXVnSEtZdl9CZzc5cWVOeHFXcjAzLVBUQTNyVTBqWWZabTBaZGx3TFNHT3BsQWctZEEtYzJsQ3oyVkxCSWl4Yy1uTUo4QW5VR21Pa0pEaHhPRF80QWtVUFdzMmVTd2tNLWVWN0g1NFlPT2kxTWtRNzhTU3h5SnN3UTVhZHpTYWw2ZUt4VDJmSWFvZw?oc=5",
+     "ts": "2026-11-19T16:24:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В списке актеров GTA 6 заспойлерили важную деталь сюжета",
+    "summary": "В официальном списке актеров GTA 6 нашли имя, которое может выдать важную деталь сюжета, пишет GameSpot. Издание предупреждает зрителей, что это потенциальный спойлер. Rockstar пока не комментировала находку.",
+    "idea": "Разбираем «тихий» спойлер из списка актеров: кто и что мог заспойлерить, и как не нахвататься спойлеров перед релизом.",
+    "hook": "В официальном списке актеров GTA 6 спрятали спойлер — вот где он.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T16:31:30Z"
+   },
+   "msg_id": 1552
+  },
+  {
+   "id": "1d9629b40402",
+   "title": "Более 2 млн игроков на Xbox Series из США и Британии начали играть в GTA 6 до полуночи — благодаря восточным регионам",
+   "first_seen": "2026-11-19T16:31:10Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "1d9629b40402",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Более 2 млн игроков на Xbox Series из США и Британии начали играть в GTA 6 до полуночи — благодаря восточным регионам",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeExpbE1adGFZdkFLMXhzV05NSW5sMm5nekV5ZjRkeEsydkJlQ0lVX21LYnNFMXpTYTdqWmhVMElNMmRrc2IzRHRZZG8xeXNCT19NQTZuazRXaUZhYzFxWFNHbWxUdXNCZkd1bUdYT3ZFQ2FhbUhzU19zbE82MGRrTVRMc0JUUldLeWRjRmRCSmVDYXJianRjb0VEWWJMYWpyMG5OX1FzdnEtZW54MHNaSWs2MTdLbWRoMHJ4MWZVTE5kOU9lU19wSmRzOGQ0S2xLbDdUNmhOamhENVU4MnpNQUVnWm9FWWhfSTFQd0tkYw?oc=5",
+     "ts": "2026-11-19T16:25:06Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4cde14d333ec",
+   "title": "GTA 6 Early Money: Motel Tiger Attack",
+   "first_seen": "2026-11-19T16:31:10Z",
+   "updated": "2026-11-19T16:31:10Z",
+   "items": [
+    {
+     "id": "4cde14d333ec",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Early Money: Motel Tiger Attack",
+     "url": "https://www.gtaboom.com/gta-6-early-money-motel-tiger-attack-614c",
+     "ts": "2026-11-19T16:29:59Z",
+     "summary": "After Gone Fishing in GTA 6, clear Manatee Motel's animals, loot cash and pick up the Laird 350 sniper to unlock it permanently."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "1a3519f57986",
    "title": "GTA 6 Just Moved In Mission Walkthrough",
    "first_seen": "2026-11-19T16:01:04Z",
@@ -216,32 +1070,6 @@
     "at": "2026-11-19T16:20:53Z"
    },
    "msg_id": 1547
-  },
-  {
-   "id": "fe75cdaa75f0",
-   "title": "GTA 6: The Optional Missions You Won’t Want to Miss",
-   "first_seen": "2026-11-19T16:20:49Z",
-   "updated": "2026-11-19T16:20:49Z",
-   "items": [
-    {
-     "id": "fe75cdaa75f0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: The Optional Missions You Won’t Want to Miss",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTF6T253VGtzSnBkUXozSGQwTlpXdzNrb0Zfd0diQkRjZVhtYWVXY0JHVjA3UlpKa1N4MXYzbHdtNk5xbWduNDF2UkZYWjlxUVZ3WWItRGdYaUZ5STZfZnJ3M3V5WlEtUGNLdzVwazU2Mnd5WFhWbXAzYzNZcU82cHFmcGxYd3lsX1Q4Qi1DSE9WWGJYcDREUTItOXpuYVFk?oc=5",
-     "ts": "2026-11-19T16:15:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "a02505cbe020",
@@ -562,60 +1390,6 @@
    "score": 40,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c1f915caf9ef",
-   "title": "Grand Theft Auto VI preorders hit 19M before launch, with PS5 outselling Xbox 3-1",
-   "first_seen": "2026-11-19T12:40:53Z",
-   "updated": "2026-11-19T16:10:48Z",
-   "items": [
-    {
-     "id": "c1f915caf9ef",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Estimated to Have Reached 20 Million Preorders Ahead of Launch",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFQwc0NsQXZIbDJfQy02U1JmVXpuNlByUHphNFNVNnQtZWVPazRiMU10RlBROVNuXzRPWTRVOHVHRDBfeWNlUjU0aURYN3ZxU2w1RFNVM25rQVU4TU5lZlNzdXJTYWw2ZElIR1IxUlJHM1dOdHV6dlhPUHQ0YzBXdExvVnZiSmhaand3cmpGUks4bnRnNnZsYWppVmpXUEp5RHllN0wxMVEyY21DZllkczJVLWlXVDVRVVM5cFMyRmppUkw4OWZXNA?oc=5",
-     "ts": "2026-11-19T12:05:12Z",
-     "summary": ""
-    },
-    {
-     "id": "a9da41859140",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesBeat",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "Grand Theft Auto VI preorders hit 19M before launch, with PS5 outselling Xbox 3-1",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2dZTmQ4Skhvb25Uc0VOT3owcU0yUzloVGk0VkIwdUpQYjhKXzdHbG93akpxY2c1U2RjVTlxT0pNSFNZM1l4eG80SGJOQXZ0NndOemt5enhGWl9LUUNIdFYzYlFyT01NdUFjU0d6ZzRkcHdRcXZmQzBQVHpDcnc5MWRMVllyMEdndTVzLVA5eWFWZEo5VVpUQi1jWmNZall4V1B1Sld3?oc=5",
-     "ts": "2026-11-19T15:36:19Z",
-     "summary": ""
-    },
-    {
-     "id": "4d1a8a75b1d2",
-     "src": "gamesbeat",
-     "src_name": "GamesBeat",
-     "outlet": "",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "Grand Theft Auto VI preorders hit 19M before launch, with PS5 outselling Xbox 3-1",
-     "url": "https://gamesbeat.com/grand-theft-auto-vi-preorders-hit-19m-before-launch-with-ps5-outselling-xbox-3-1/",
-     "ts": "2026-11-19T15:34:00Z",
-     "summary": "Grand Theft Auto VI preorders hit 19.05 million copies sold before today’s launch, according to measurement firm Sensor Tower. That translates into $1.84 billion... The post Grand Theft Auto VI preorders hit 19M before launch, with PS5 outselling Xbox 3-1 appeared first on GamesBeat ."
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -1225,32 +1999,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f1c129528b0a",
-   "title": "Rockstar Publishes Full GTA 6 Credits — But Beware, They Contain Major Spoilers",
-   "first_seen": "2026-11-19T16:01:04Z",
-   "updated": "2026-11-19T16:01:04Z",
-   "items": [
-    {
-     "id": "f1c129528b0a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Publishes Full GTA 6 Credits — But Beware, They Contain Major Spoilers",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDhfSEVoWURTdEd5b19XS0VzdkhUN0lQM2RGLXJZVWgxUmZ1RGdub21rMndpQ2oyYVAzWlhZcWZvZXZ0NGVYcEcya3JDVTlYLVloNkhwNzNESUYzR1dhb1NLcm50cUtEUGNYOElZWFgxckp0TDlWU05LRTYwY2k2X2xaLUlMWHNhTUt2ajVVMWppaG12Z0dZMUtvYWpOb2ZCcGtfcktoUl9aZGJiR2QybnNwTlFzSFdRckxGVHI3anR2MnFx?oc=5",
-     "ts": "2026-11-19T15:55:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -4701,32 +5449,6 @@
    "status": "new"
   },
   {
-   "id": "6960688a2677",
-   "title": "GTA 6 is here! Return to Leonida now with Jason Duval and Lucia Caminos",
-   "first_seen": "2026-11-19T15:01:06Z",
-   "updated": "2026-11-19T15:01:06Z",
-   "items": [
-    {
-     "id": "6960688a2677",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Star Press",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 is here! Return to Leonida now with Jason Duval and Lucia Caminos",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjBVYzBURFRuUTBIS0lLS2RIUFdpSUdCZnRiTmFEM3dNVFZSVTNOTGgtOGVKbDdyaUtlQVBfTVR6X1BXSmstU2JxZV9ab3h4ZmJNbmc2Y1d0dERiV0lxcm5mMGJVcHE1ak1TMG5aRTJ2LU5wZnFlMExHQ0sxY21XQVdFYUJvNUxyb1NUUGFkSWJsQ0FZcjVRU0dPNkFrR29hdFpSd3AtRkhSX19EWjk0dDZpdUREaTJ4a0JyVTVFN3U?oc=5",
-     "ts": "2026-11-19T14:45:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "e37699bc5c88",
    "title": "Why GTA 6 Doesn’t Include Disney World",
    "first_seen": "2026-11-19T15:01:06Z",
@@ -5379,134 +6101,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "63601ca51e47",
-   "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
-   "first_seen": "2026-11-19T13:31:03Z",
-   "updated": "2026-11-19T14:51:14Z",
-   "items": [
-    {
-     "id": "63601ca51e47",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "FOX Carolina News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVElPT0VqWmpaakJsdjZidXBEQklJSmJxZ0FvVG85Z25BYV9kMkVCQUZPMXlmTjJXdjk2UGtJMEV5c3RRVXdFMWtoVW9EMERya0loNVVWYS1lckNTWm92LTdUYVZIZk1KTzlNcFZwRnhwajVCUWZVNGt3RDJZOUlldFhxVjBsbnJZUklYc2VhT1lRLTY2cDgzazFCdzYwZS0wR2ZCOA?oc=5",
-     "ts": "2026-11-19T13:20:00Z",
-     "summary": ""
-    },
-    {
-     "id": "0415356ec598",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KCRG",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb1VzRkplb1o4c21VLUJmdnBHNnBQaFJEX0JlRHdPbWUyNlkyMUNhbTdMOGNfeDJ6cWdJbWVUTUE2dHYtYk1iRy1lSGpsNVFuVHF4d2RxeDk1SXVTN3NBNDFUMlF1S3VCRnUzMUdiOXBXU05seDlsdTJ2a1labVJFU2NlVjNET2JjWDlxQktZaWYwenUybk9nWUpYOA?oc=5",
-     "ts": "2026-11-19T13:20:00Z",
-     "summary": ""
-    },
-    {
-     "id": "e840b01d4f05",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "FOX19 | Cincinnati",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWnhmVWJ6TWcxTzU3bG1yR2ttVVliaWpJYjNnZjlxaHlSRk5SNnlPU29tX0ZiZ2ItekRwUFNDVXo5NmI4bWFaWWlaSTk2SUI1VEVxdWZKQ25aRE5ORTZUME5BYnFPd0NLUUxKTkhRVlREbDVVaktsSmN1MnluVEtCNTVRc2hQclRhcVNWblpmTm1rby1SQVh2V3N3a0c?oc=5",
-     "ts": "2026-11-19T13:20:00Z",
-     "summary": ""
-    },
-    {
-     "id": "217e861acd25",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WLBT",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnozS1lWS0F1UXR5aXgtUWZGbXhhX3ZnNWt1STUwRWhpUERDamxjTUlaNk9XcTEtSVJZbkEyWERNMzJtNkROcXowTkZ1UU1fMmZ1WV85T0hMcG5rb0IxS0RuSVdsNFZ1b25rdFRqZ05hRlAybzZPNXU5dXBZNzROWWNILUxBQ2V0MlVxMjl2anRuSVkzNWRBdGRxTQ?oc=5",
-     "ts": "2026-11-19T13:20:00Z",
-     "summary": ""
-    },
-    {
-     "id": "240edf54a6e1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WOWT",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDIzXzltTEc4VmJaOHFPWnE5RGRhMzA4RmJ1Q1phUkZQRDJURXRpYXhlakh3OVBWM1JVYlRpRTkzZzYyekVKWFB1QVlPM1RlR0F2SFdLV1I0dE41S3ZjUC0tU3hvc2ZYckxTb05mN290bElSUjBkOU42ejFjT2NMV09Va2l5a3htR24wVFN1andxbkhGeGlxQ3lCMA?oc=5",
-     "ts": "2026-11-19T13:20:00Z",
-     "summary": ""
-    },
-    {
-     "id": "6755817eaff1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KKTV",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDFFZ2N4TGprS0M3LU9iaVl0cmtqcDhzUEJIU3lSdnktcmdQSXF3VDV3dHdIZkdRZDd3dDlTOWJkandJTXRvUFR2cnkxMi15cjl6R3FuUmRlLTM2bkZheTd1ZElhSk9rQy1sNVllZ3QwaHU4VFlyYy1odnlOUFJKQnZhUThIUGVOMWEtS0RyZmFXYk1yUExKalEyNA?oc=5",
-     "ts": "2026-11-19T13:20:00Z",
-     "summary": ""
-    },
-    {
-     "id": "815c03ea8c5f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMlpkcFJHVDBSWkJ1MUdhU2Y5cUFMWlZyZDBTTUt5VEZSNVA4ZVJOaS14MUdzSHdJZ3djZzB6Ny1oWUJVeTI1aWp5RE5ISXhOdFRKVktPSVJ0am5DQkhlajhwSXhlNVpzOVE5RDhRdy1fUTdvb0x2dWhKUXhqX1VFeXVwdHpQZU8wWmJUQW9PY2FKTUozQ1pPZjRocFA3OTQ?oc=5",
-     "ts": "2026-11-19T13:20:00Z",
-     "summary": ""
-    },
-    {
-     "id": "de4da2da7461",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WKYT",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Release of 'GTA VI' has fans buzzing. Here's the breakdown of the new game",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnBla2Z4WU5yQ1RURHg3Q0JkaHRkdXBFdkJNN29fRUZwMVJvTEk3OGlvVjJuUGJiS1dWbFZYel9rczJseWVTZjhHVUtkV1AwaUxIRFRVSWtzR21keE43c2hrODhjNm5PTGNQelAwNTB4QkpyTlpOSjV1ZEFOWWlUSThZZHAxdENGSWdpVWJzTGlfTHAyUXF0YjBGQQ?oc=5",
-     "ts": "2026-11-19T13:20:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 вышла: фанаты сходят с ума. Что известно",
-    "summary": "GTA 6 вышла 19 ноября 2026 на PS5 и Xbox Series X|S, фанаты активно обсуждают релиз. По данным FOX Carolina, KCRG и FOX19 Cincinnati, игра уже доступна, предзагрузка шла с 12 ноября.",
-    "idea": "Короткая нарезка эмоций фанатов в день релиза с титрами фактов: дата, платформы, предзагрузка. Зрителю интересно увидеть живую реакцию и быстро узнать главное.",
-    "hook": "GTA 6 вышла сегодня — вот что творится на улицах и в сети.",
-    "stars": 5,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T13:31:18Z"
-   },
-   "msg_id": 1504
   },
   {
    "id": "45b202f84d53",
@@ -8192,123 +8786,6 @@
    "status": "new"
   },
   {
-   "id": "9d35f250b2f4",
-   "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
-   "first_seen": "2026-11-18T21:31:08Z",
-   "updated": "2026-11-19T13:40:50Z",
-   "items": [
-    {
-     "id": "9d35f250b2f4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KMVU FOX 26 Medford",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQUZIMVc0X3MwckRHYjZINUVNel9LNUE5TWpyNWpCVEtaNEdBWmxaNGYzRmxEanAtU0ZiRV9UWlhIVkp5QWFWNXR0bzVTT24zME94dTFxR0o5NEJHd3JLV2l4SHJlOEF2elJRLVJ6WUVabTk5NXBhVTV3WnNsVVZuYkhkQWxKM2dqZGx4NGtlVnYxamZDdldTQi1NVUZaOGpDZ1gzXzhtdVNES0hMb0ZwaDF5STBfcmRDcWlRWDJmZ3F4NlJOSjJGQWFQTTVHejFBUWdpZF9TVlViZU9aMno1UDBjMG5yUGh2M1Yw?oc=5",
-     "ts": "2026-11-18T20:14:59Z",
-     "summary": ""
-    },
-    {
-     "id": "f9689f8603ac",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "AFP.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1VyWVpTNTR4UWgtdVQ4d2g0WjlHaUZ0QXZkU2QxWHJnUmR1MVhMcGtkWkNMbDBJZUlCa1ZWalprSjE2RkQyWUszTGJ3ZHA2SVpTalNNcjIweV91M1ZmZmlCQjNrYzBlRTBEbzZIUFlKTVlBakNkelJZV1JocXZBVmtEUUdyWGUxR2c?oc=5",
-     "ts": "2026-11-18T21:14:59Z",
-     "summary": ""
-    },
-    {
-     "id": "dcd965e2e7c1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Euronews.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXNCYWVxRnI0VmtxcnJxbWFudEs0U3JQQVp4TFY3NkcxNnZabUlyWV9JMDdqQU5wcndYZENiS2NZVWdFSF9kYlNUT2Y1cEx4Szl5WEVHUUdPUWxSZ3JkNWY2aFpTUU1vNUtiRGRGTWx0dV9pNldjSjRSQVE4NEdhN3hNbUlnQmhSdTFNMHlrdjhjbGdzNEprdXpFZjVJaTJvc3ZzT25sRmJKTU5yR2pmSjlaNlA?oc=5",
-     "ts": "2026-11-19T08:52:40Z",
-     "summary": ""
-    },
-    {
-     "id": "b33b3e54f9e5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Quartz",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Take-Two stock jumps more than 6% as GTA VI launches to near-perfect reviews",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xb0FzZllVMHRHN01zOEhJOHBWbTRWODNhUmpPU1hXOUQ2dUxUYVJsS1ozUTYzc3J3R0RwbTFfa1VHWnkzb0V6WXZtdjFfOHR3c0NfVndveUU3Tm1PMi1JTjM4d09Yd3d5V3c?oc=5",
-     "ts": "2026-11-19T12:53:48Z",
-     "summary": ""
-    },
-    {
-     "id": "6e004c57cb20",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA VI продалась тиражом более 19 млн копий и подняла акции Take-Two, Sony, Microsoft и даже AMD",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZk9UMG1MaGxaOEV4Ny04WmJHWjlheXRxbl8wcjRnbzk5SEoyb0hTUzNibDdzeENPcVQ1Y0YxaHgxMDB6Tk95UHpfZlZOMFViN0Ryd3k2UmhOLUhOQmFzcFNLaU84MmQ5M21Cd1JQVldZZ21WWFZhd3V4WkhKMTY1ellROXBxVlQzYVVyMERFVnR0MDZ5WC1lSGxFX1RvNFU0eGFYX0pXa1Zya0hORE1jdmZsUjVUNWJtNnNNSG1HRXJDUW5fVm1vT3RhaGZMQzDSAdQBQVVfeXFMUGNMVEhSZHVRWWhYcW1YaERhRTI4SGc4T3lCc2JwOXEwT0JIYzdiWTFVR3NISmd0MjdEZE1LYUVFOVpCdnMtQ0Y2NVd6c0NtVEE1WWV5a285WkhTXzZpNzlLQkYxWUY2dXF6UmpvMkJObWFkUHVQZVI2MHByaEhuaTJvaW1tYmJYS3BlZjJveVVETUVSOHBzTnhlSzVtdndOTTNXbllyY18wajlTN3lwU0daemhha3VXRjJodWVJdm9vcTlpNVg3cVJPUEFRUm9OWFdLM1Y?oc=5",
-     "ts": "2026-11-19T13:18:00Z",
-     "summary": ""
-    },
-    {
-     "id": "7873783eb15e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Benzinga",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 vs. Sam Bankman-Fried: Netflix Drops FTX Series on Same Day as Take-Two’s Blockbuster Launch",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcWNiRzF6N0I0bGtOVDlZQWJsRk9yVGhGZHE3U3c1X0ZwRmNmaDVMQXVoU1hZVlJteTA3Z2FsU0h2eXFab3R0X05iSS1ILWtoTUZXQ1dyT19paDVKOWN4S2VhX3JrTUp0SVNjLS1iQXdneVE1VktQbGV1SjFHeW1BMktMa3JsV3RDdWY1NXJTOWY2dGxFSDRJMkJxQk9Ebm81N1JkWnpiUE9JczdpTG9meGF5NjBMWmN4bmZ6eVV0OU1jNWVKay1IS0trUDRQLXZ2R0FnQ3RvdXlHaW9HLW1zRA?oc=5",
-     "ts": "2026-11-19T13:15:22Z",
-     "summary": ""
-    },
-    {
-     "id": "85f4fdfd2b5a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Seeking Alpha",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "I Bought GTA VI, But Not Take-Two Interactive Stock (NASDAQ:TTWO)",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzlWZGtFb0lLVVRVaGI4RGpZV3hhUTlHdGlyUDRGWUlRYW5jWTJCZjJVLS1nbGl2TkEyNFZSZmZOQUNTWHFOd2lnNHR6akRfdVFWUlJvaDF2ZzJwbFp4cWdZQzBPeld0LVY5OEZ6S1NMQjZQSjJGRllvR3BkSFpXcGp5Z3d6bGJvajRrWGp3RllCQWpYTEE?oc=5",
-     "ts": "2026-11-19T13:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 вышла: мировые обзоры почти идеальны",
-    "summary": "Grand Theft Auto VI вышла по всему миру 19 ноября 2026 года. По данным KMVU FOX 26 Medford и AFP, игра получает почти идеальные отзывы от критиков.",
-    "idea": "Короткая нарезка первых оценок и реакций на запуск GTA 6 с титрами «почти идеальные обзоры». Зрителю важно увидеть, что старт успешный и оценки рекордные.",
-    "hook": "GTA 6 вышла сегодня — и критики уже ставят почти идеальные оценки.",
-    "stars": 5,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T22:11:04Z"
-   },
-   "msg_id": 1415
-  },
-  {
    "id": "604b925d7290",
    "title": "Выход GTA 6 больше всех ждали саратовцы старше 35 лет",
    "first_seen": "2026-11-19T13:40:50Z",
@@ -8719,32 +9196,6 @@
     "at": "2026-11-19T13:31:27Z"
    },
    "msg_id": 1506
-  },
-  {
-   "id": "23102be7c176",
-   "title": "After 13 Years, Grand Theft Auto VI Finally Arrives",
-   "first_seen": "2026-11-19T13:20:57Z",
-   "updated": "2026-11-19T13:20:57Z",
-   "items": [
-    {
-     "id": "23102be7c176",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WJR-AM",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "After 13 Years, Grand Theft Auto VI Finally Arrives",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUktqT1hvUm80c01QVll0WGowT2JlUHlnQ3BlVVhaMHZDa29pZFYtOExDeHR3X1VUNF9BS0ctLVI4Zmc5MXVoWDY5QTJIRzZYbHdwa1U1aG1yWmE1SjJHMnM3QmZnQWVxSzc5WWRZNENtdkFLNTgtMnZtbWdrc2NJNWtQQ2N2SGVidXc?oc=5",
-     "ts": "2026-11-19T13:07:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "6c21b2b9b525",
@@ -29318,45 +29769,6 @@
     "at": "2026-11-18T10:41:05Z"
    },
    "msg_id": 1222
-  },
-  {
-   "id": "af4fbe914d38",
-   "title": "Lincoln gamers celebrate release of ‘Grand Theft Auto VI’",
-   "first_seen": "2026-11-18T23:01:16Z",
-   "updated": "2026-11-19T00:31:02Z",
-   "items": [
-    {
-     "id": "af4fbe914d38",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Lincoln gamers celebrate release of ‘Grand Theft Auto VI’",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHBkVUxNQ0F1VDdqVFo2YlROOXM0d1ZEa1lZVTdGdGJCVXhlcE44WDFyX1JDUXphUlVONnJjSE9pc1FnZUNicVlvOGI4Z2VWZVJzMjZtY1c0aEVkT2J4eDZDOFF0OG9NeFNST292WnRMVHNkWFA3YURnMzVHQlhhaVNJY2tRZGdZekYzZFpoZHQ2QdIBpgFBVV95cUxOT1E0M2xMRWdaZGNSMGpQdmw4TVo0bnd3WHJXcV9wSHR0UDRJanY1UjdNZUpNcGE1cHZuU0loZkh0QWk5ZDBvWjRwMHhYSExENWxyQnExOTZ0eWFoQlZEc3ZDdEY2NlJyZDJpRHBzWjA3emVjWGt5ZUk1SlY2Vm1ZU0VvTjF5UWJjLWJhaEhVMF9TWTdwZEp1ZzJUQjRab2xhcU90cm1n?oc=5",
-     "ts": "2026-11-18T22:49:00Z",
-     "summary": ""
-    },
-    {
-     "id": "39db082562eb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Lincoln gamers celebrate release of ‘Grand Theft Auto VI’",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3Y5cXF5a01ySkV3aURiVG9XSy1veE9TT2htYi1EdTVVXzJjSVB0ODBIMExFR1ZjNm1MSUoxUUhOQWJaQTRVMkExMlZwbUwtWGtIaHl6QUlGejRvOUtJVTVaMGxQR0lWWlg3QXRCUUhBVngyc2lpU0E3emRXZUpFaU1abWZMbFJuMEI3Sjd5cVItZHJwVXFkYV9R?oc=5",
-     "ts": "2026-11-19T00:22:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "951575329bde",
@@ -165149,45 +165561,19 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "5bc4bea9796c",
-   "title": "GTA 6 Release Times: When Can You Start Playing?",
-   "first_seen": "2026-11-12T16:31:10Z",
-   "updated": "2026-11-12T16:31:10Z",
-   "items": [
-    {
-     "id": "5bc4bea9796c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Push Square",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Release Times: When Can You Start Playing?",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0l6RFdOVm5HYnVoV2N0Wm01MWdxLXVXdnp2RTltMnRESER5N3FNWG1Nc281dWdiMEJEc1l3U0paRll4UUs5ZWIwUVZrTk9PaHEyUk8yNkMzS2NULWlmMXRiNWtLY04zQThOSXRVUTVabXFad1doRXB1czlvME5xeXVzUnJPeWs?oc=5",
-     "ts": "2026-11-12T14:01:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T16:20:56Z",
+  "last_run": "2026-11-19T16:31:33Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 96/100",
-   "gnews_ru: 99/100",
+   "gnews_en: 97/100",
+   "gnews_ru: 98/100",
    "gamesbeat: 5/10",
    "vgc: 8/10",
    "insider_gaming: 5/10",
-   "ign: 11/20",
+   "ign: 13/20",
    "eurogamer: 25/100",
    "dexerto_gta: 10/50",
    "rockstarintel: 10/10",
