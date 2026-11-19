@@ -1,6 +1,947 @@
 {
  "stories": [
   {
+   "id": "11f0e76bdf31",
+   "title": "Rockstar Games Announces Grand Theft Auto VI Now Available",
+   "first_seen": "2026-11-19T12:10:50Z",
+   "updated": "2026-11-19T12:10:50Z",
+   "items": [
+    {
+     "id": "11f0e76bdf31",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Quantisnow",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games Announces Grand Theft Auto VI Now Available",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWWRSLV9MaEVxUmVhMjdEcTNRNUt3QlRQQVZJb0hON1VUdnpoLUhBd1J0Rkdmd2p6OXVOQWdERFFxMmoycU03aGJuTXFKdThmWjhnNWtlQWZHR0drZUx5SlN2UkUzMHlzUGJRUHAxNVk1U050TlBlMXZicDlwU2p0S09wTVpMLUVwYndEZHlFczdIQ3hRR2dfMFJSemlGUQ?oc=5",
+     "ts": "2026-11-19T12:05:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "03ab5e49f6fc",
+   "title": "India's gamers skip work, crowd cafes for Grand Theft Auto VI as Modi joins buzz",
+   "first_seen": "2026-11-19T12:01:15Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "03ab5e49f6fc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "India's gamers skip work, crowd cafes for Grand Theft Auto VI as Modi joins buzz",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSU82aV9uemowUERtYVRVbW42QzByTHNZb1N4bzVVOHU0RWUwRWdGaXIxZy05cENGVjVCSzI1MlMtTkNKTWk1aEFhQ0dJR0dNWHlkcG91RjdtM1g0UHV0SVhGRUhzd0VURG1USHhnRnZGMTktNWdvQ1k0RDM0M1RrcmdRVDl4aFVDVnZUdmpFNVFKN0FEMzhjMmpwUU4?oc=5",
+     "ts": "2026-11-19T11:50:03Z",
+     "summary": ""
+    },
+    {
+     "id": "f54c08f28ed0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Reuters",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "India's gamers skip work, crowd cafes for Grand Theft Auto VI as Modi joins buzz",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONm9pRzJrbHEweThPSExmVlVlUnFNTUN2RXNoam5qNGRBQ213REM1ckpYUEhYSndDc1VoQkZYZnVoemVxZlJwdEpOcHJJRXhTZ3dES291ZW5fZVlkc0IwV2lpYzAtbGdYOUcxSXM2VUJmbGdGNV9vRmFSdXNOUjdKaUJMVm82OFl6SmJuMy1GZF9ZdU9yNEhyZWNFSUQ1R0FFZl9SWmdacGlvZUIxUWJpbjBTRTJuM3FvS1Bz?oc=5",
+     "ts": "2026-11-19T11:54:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Индия играет в GTA 6: премьер Моди тоже в теме",
+    "summary": "Игроки в Индии массово берут отгул и собираются в кафе ради GTA 6, сообщает Reuters и Yahoo. К ажиотажу присоединился премьер-министр Нарендра Моди — он тоже обсуждает игру.",
+    "idea": "Угол: «GTA 6 — национальное событие: от улиц до премьера». Показать кадры из кафе, очереди и реакцию Моди — зрителю интересно масштаб и «вирусность» релиза.",
+    "hook": "Вся Индия взяла отгул ради GTA 6 — и даже премьер Моди в теме.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T12:11:07Z"
+   },
+   "msg_id": 1480
+  },
+  {
+   "id": "8d363378f731",
+   "title": "GTA VI: 43 soldiers will play game during ‘extended weekend’ as part of reenlistment deal",
+   "first_seen": "2026-11-19T12:01:15Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "8d363378f731",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WPXI",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI: 43 soldiers will play game during ‘extended weekend’ as part of reenlistment deal",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTW5OcjU4RWdHb3NoMDN1WmNQNWExa2paMXVsV05QVmJSNWVaVUlTRzVaSzcxXzgxRFpMbXRRaWVVY0VsTm5FNlRHb0RBYmw2SmpqcHRabzREanFlbUZrVEY2Y1NUdHFtOEdjVUNmMGhZUXlmLXRhTWRuMm1jSUsyYWtqMlVkMnZ3R1o5QTJNY1E5OUNkMC1sbmZrOUstN2xCTWRjbm1HNU1PNWQ4YS0xMDBHQXFwX2N4dGZBZmlKR3B3THJ2VFJBZDBrUmNUUlpfODdMVEhaS19TQW_SAe8BQVVfeXFMUEQ1em1RTTJILVd4R1pZTGhDdU02dVN1b3N1MWRiRktuRzE0ZktDdzNWeF9nZHlhTHBaWUc3eVQ3X3BaLWEzdkk1QVI4Y0tqNmxWUnhyNUZzU0tzcGswZy1hNmx4SFd4Wk1rN01ESlJBZnZ6dmtnZkhYQmFHdlE1YnkwX3dlTWVIS1hLUDd1RlRPck5XSFFrYm5vRG1WRTZHZ3pDR25VSWYyM01PVVZlbHd5YnJqckI4dnVGZlVxY2czSmNJRWtTRHpmQVNGOGoxODJvZ3dKYWdGVlVnQWFpRlF3ZzF6MlVoa3UzSE91Y2s?oc=5",
+     "ts": "2026-11-19T11:54:14Z",
+     "summary": ""
+    },
+    {
+     "id": "1220da11c3be",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WSOC TV",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI: 43 soldiers will play game during ‘extended weekend’ as part of reenlistment deal",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbWhlendyalBmNlMtbVRWTXdWZk9tY1lrdDVyWmJqX2tGQ3J3eHgyQnZtY2xITWNNdmJkdzIyODAwRGo1dXJCdVBmU2djaHZQd3c3U1MyeHh6VHNsUGNpQkVTZkJJWThPRVlYd3J1SEM3Skdoa0V6ekxaZE9yNEV6MXVpa2lkS3M3THVVcm1Nbk4zeE0yd3BlYVRZcktpQkhCMzFGOG9lZ0otR0F4Y3AzNlNKLVFzb0x0UTI1c1VOa2hpME84ei1ZTUlhazBqaXVyM3lvZHdiaUNrRGl6a0HSAfIBQVVfeXFMUGNFN3lnSWJ4WFpBTlMyV2Fsb2d0SGJFN1NMMnU5UEQ1WW5UR2RUWW1DMmRmWHlvSXp5WEoxbUUyU0YycmRKQUFYM0E5Sk96U1c4bVdZV2l4VHBJeWN1QTVkT1FOUEdOS2xqSkhndkNUZ1RBWXAzc2lmaThYVlU0Y0xsM3gxTW1jM1UwVzhkdGtlN3dwcXBMaXBTcnhQSUJLWUR1UEYtNDd4V1FIRnJsdGZMUTNUNEd4RHVrN2diSUI2NGRkLV9yT29UNDNzZ1BtV0VPcDdONDRvSjR1TXJ4NVY0NEtRQTJtbGptYzNOWHVIUUE?oc=5",
+     "ts": "2026-11-19T11:54:14Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "43 солдата сыграют в GTA 6 на выходных по контракту",
+    "summary": "По данным WPXI и WSOC TV, 43 солдата сыграют в GTA 6 на «длинных выходных» как часть сделки по продлению контракта. Это не рекламная акция Rockstar, а инициатива военных.",
+    "idea": "Короткая нарезка: солдаты получают доступ, логотип GTA 6, реакция. Зрителю интересно, потому что игра уже в руках у людей до релиза — редкий живой доступ.",
+    "hook": "43 солдата сыграют в GTA 6 раньше всех — вот как им это разрешили.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T12:11:11Z"
+   },
+   "msg_id": 1481
+  },
+  {
+   "id": "a5f3c95795f3",
+   "title": "GTA 6 is finally here and we are playing. Here's our first impressions",
+   "first_seen": "2026-11-19T11:41:00Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "a5f3c95795f3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "USA Today",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 is finally here and we are playing. Here's our first impressions",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmtOZ21YeVhLY1RMcXIxcDlybFNqeUlyWFJjaDlXd1Eta0VITngzNjFGN1B6V3NfM1hQV0tNSGRYc0JSdXNxWnBLWXNhV1VkRElfbXBsZWxlOGx0YXh2dkNGSnQ2ZlM5Mm4tTklnQkhXZE94UVlGNmJudVpSVFREV1lkUTJZeHdrazYtdXI5Mzd5dnV3ZmVPdUtWWTRwT3BpaWpJ?oc=5",
+     "ts": "2026-11-19T11:34:16Z",
+     "summary": ""
+    },
+    {
+     "id": "94ae8c51ecb0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Wichita Eagle",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 is finally here and we are playing. Here's our first impressions",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HbjNoS0ZKU2s4QlBJaTZhc2o5UTIxdUptcVJ5VWdDSDFrSjN6TVB5MHZneFJacnJJbHpHamZZY0FRNE12aG5ZR3ZSRmd0TUNJSmxtaE1sczNGTDQtc20xZElnekw5R0t0Z1E?oc=5",
+     "ts": "2026-11-19T12:03:09Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 вышла! Первые впечатления: что мы увидели в игре",
+    "summary": "GTA 6 вышла 19 ноября 2026 на PS5 и Xbox Series X|S, сообщает USA Today. Журналисты уже играют и делятся первыми впечатлениями. Wichita Eagle публикует схожий материал с первыми выводами об открытом мире и героях.",
+    "idea": "Короткий обзор первых впечатлений: открытый мир, Лусия и Джейсон, первые фишки. Зрителю важно понять, за что хвалят и что удивило в первые часы.",
+    "hook": "GTA 6 вышла сегодня — делюсь первыми впечатлениями без спойлеров.",
+    "stars": 5,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T12:11:15Z"
+   },
+   "msg_id": 1482
+  },
+  {
+   "id": "2d2892f40b57",
+   "title": "After a 13-year wait, GTA 6 unlocks in El Paso tonight at 10 p.m.",
+   "first_seen": "2026-11-18T19:40:58Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "2d2892f40b57",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KVIA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "After a 13-year wait, GTA 6 unlocks in El Paso tonight at 10 p.m.",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVlp1Y2ZRMWsyLXNHcGJWaldRVWljNVNZWTlYMWNnbVYwcDV1ZnNLTVFxX0NBYnFCdUFUeDZncDBQQTFwOFZMZDJMV0hyeC1zZDZKVXhrcF9fT3RobWd2Mm80RzRSaURKd0dNUFo3MkxLak41V3ZGYlFwM3ZUd3RJR0JnTDIta3ZpQVB5bDU5RTJOcHAzbnF3OHV0ZHhyNnA5X0VJVU94NUxJQQ?oc=5",
+     "ts": "2026-11-18T18:39:22Z",
+     "summary": ""
+    },
+    {
+     "id": "6655086bb1f7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WIBW",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA 6’ releases tonight after 13-year wait",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fOUNfY0RZMEJaNFEwWWVmNm1SN05qejV4bkJMaE85eTFnSmZFZzhIQUptQnpxd3lpclFpclVTUnpaUTExaV9zS1lFVkxNdnJHQVRVV1BIVC1nMUxpYkNfSzVpR09UTUxnWWpsOVJlM1Z4QjZjc2gzUU4zSnlzYlXSAZMBQVVfeXFMUEwwRlV6aU9weDh3VmphZ09KTmxtbnlIQlZqYVZCcDRuUUFwdy0tYWx2VmtGRVVwMjNZczBKbDVrSkR6TFFEVE02MERNZkVsaUYycVd5TVFrd1Ezd3phTktQUkNFdGRILW8tMHV2WTBhZVZVYVB0TDI4dVlNRWFpOTA1bUhiU244bFdnbGpDSkh6XzBr?oc=5",
+     "ts": "2026-11-19T00:23:00Z",
+     "summary": ""
+    },
+    {
+     "id": "0cb2d6ca52dd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI released after 13-year wait",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWNOdm9nYm1fOU5wZEZFQ01fTUlPQXFsSmNtd1YtV1pHQU5tX2poZVU1VTNUTXhicDVrSEREUnFVdUpQZk1DQTVtX1JDbkRWMWU4ZlpIUWRnODJZX29vZGZpQm5FMmdDSU94RHVLdnRJNjR1d0Q3QkFhMU90Q2g0aTV4SVpQaVkyRWc?oc=5",
+     "ts": "2026-11-19T03:48:00Z",
+     "summary": ""
+    },
+    {
+     "id": "1f51a20ced84",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CBS News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI release sparks excitement after 13-year wait",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWhpSlFHanV1YjYycVlweHZRWDJnLTN2SDdxajJ0Q3JpMTU5b18zTDlOMnFrakYyelVpUGs2akh1cVJyWWpkRFhJTnJweHlWRHFtdDBBWXhoNjlyWmxLd1FnOWNjbzg5UnRadG1sOGcydFRwSHB6X3pMejhOd1A5ZnhKdXZSeVc3cnVGa3BPYUlwT29IcGZXU05jMjdrb1VSWDI0?oc=5",
+     "ts": "2026-11-19T04:22:00Z",
+     "summary": ""
+    },
+    {
+     "id": "d29e1311f286",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "wvtm",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Alabama gamers gear up for ‘Grand Theft Auto VI’ after 13-year wait",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQzgwQi1JdWZ4RDJxcnRhb3J6N01WWGJ4ZjNUTjRDXzYtMTF1N0Jpc0ZNdkNNZlJTbDk2aWN2TGFxa05tcUc5ekZ4RVlGcWtuMXhVc3FiSmxBcDhXLW1qb1ZGZDZ1a2F3Sl84VnlpMFI2S2JLNWRFUndva0tOUzJaRA?oc=5",
+     "ts": "2026-11-19T04:41:00Z",
+     "summary": ""
+    },
+    {
+     "id": "afff78f4235d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Thai PBS World",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "After a 13-year wait, 'Grand Theft Auto VI' arrives with enormous hype and expectations",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MVmhCMGNKNDZNUWhhbUhSbVcwdFlaSlQxYjJqZmctNHVtc1FVZTFoUnJoTkFXTjR5djNETXdpMHp2YTk3M3JUTGxfTFVuVEdXRHBUUFpGc21kZTlYLXc?oc=5",
+     "ts": "2026-11-19T05:26:23Z",
+     "summary": ""
+    },
+    {
+     "id": "03244471ac69",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Jackson Hole News&Guide",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "After a 13-year wait, 'Grand Theft Auto VI' arrives with enormous hype and expectations",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxORTlkbU9HaDFiOVgtZHlpUFVxQlJodW5Rb3NwaU1VSEJWb1QwSXBXLXpfazdYdGpYdk9LOVhwNFZaeXNRZG9mVXRSUmhnRkNtSHJhb1B1QkFvNk53QzE3TVFuaHVoNm44S3FvN1Y0cTJjNTBUcmZBaDdfQzNqbmtJYncxR1U5MV9qazBob0c0M0hNMzJ6UnRHeURaa2tabkI1QUZZQWV2a2NjNHdKdWwya21BSnlZVDNiNXNBRC1vY2JJQUxRdkJBUmpWSVhkb2pxLV9WWlRVV1hoMWpKZFpfbHhKSFpCMTl6RllYYnItT19UbDNiOThpTi1GVGxIQ3EtcEZ6dl85UmZwZXVVUVRaOXpSTGttYkxkTVBEOWM3bGxtb3BYVDZ3cg?oc=5",
+     "ts": "2026-11-19T07:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "b3afa798b6e5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Pharos-Tribune",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "After a 13-year wait, 'Grand Theft Auto VI' arrives with enormous hype and expectations",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVG9mQUtoRG5wN2VwUnpSdHN1M1ZNSjB4RjluS0k4Q2dOZnRGeHdaQWxZekVVNlJKMG50RVQ0dUhoMTZKU2Zyb1Zyb0JzQ0tPMUwwYXpqNGVlOHJWREpVblZ0RkwxdDRmaGpZRkE1ZDVGOTF4d28zOWRzX2NwNV9yUEFRM0IxZlFWOEV6cw?oc=5",
+     "ts": "2026-11-19T08:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "c0b06a2c3a7e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' released after 13-year wait, selling over 17 million copies",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaGdQSm96S2tIZDVNakkxdUgtVGhwX2w1M1NLWHpWMl9COGRfcG5DUGFBMWEwU19FNmRkN2JEQUJHUDMwRWgwNWVXdkhBa1k1d0pwRWVPLV9kb2ZWdGZaWkJXMzJKNm9hYmRfcHhOTml3MnF1NEpaRFNGcDVTUVB0ZDUwWlFrN002bnc?oc=5",
+     "ts": "2026-11-19T08:52:40Z",
+     "summary": ""
+    },
+    {
+     "id": "3e47a1000dac",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NPR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "After 13-year wait, Grand Theft Auto VI hits store shelves",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRmdjalpkQXR4cHJlUjlGamp6R3V4Q05HeTN4OWZMNHdoSGVWZWljLXZjYTdGRENFZk9jNlNqcEFqQXNwQmFkUmdwM2VSR3dNdHphbFZKYTQyX1ZmX0Nxd2JKbjREM2w5QUtnbkdicl9LbE9JYU81RXAzR2h4dDdfNlJWWFhQanZRTTBQRlIxc1A0RFFIb1p3eXZmby1ZWUV3TnhoZA?oc=5",
+     "ts": "2026-11-19T09:45:32Z",
+     "summary": ""
+    },
+    {
+     "id": "04ce31466085",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WWLP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI released after 13-year wait",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2RCWWtxaVNCcHFJa3EtRUx2SkM4X2thbXdwQ3dESDlRYVd0WUZxVHBZTHdESlNWZEkwVDlFNmN6c0RLM2VTMnBrS2FMZVBHbXpRcjVaSzBKR1ZvcW9DZG9pcXlLRjFDMG02NldUQ3RiWDhSZDh3RGp4NHRiZnBwa2ZaN2NJQnVueU1rdGVR0gGTAUFVX3lxTE9wQWJQcWwyeDM5U29HWWkwcm5Rck8xa1VOdGhXQVk0WXoyUDN5VmNmQlRGalJSQmRLa3UyWkVaa2VoRFRaOGc1MjE1Q2lleEswVTZReWZleGJHcDlud0hzZU9vaDhscjJDMTZlc3drVWYyVUR1Vi1uaUJuWXhOZ2ZxbGFaNDAzVml6M2MtXzVfVDczOA?oc=5",
+     "ts": "2026-11-19T11:09:01Z",
+     "summary": ""
+    },
+    {
+     "id": "729c3b1de3b4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "fox10tv.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS2tDSDNWSXhkSE1wT3RyTnBzMDRHV1JVVGRzMkdlZ0lNRWkxVzNMS2I0cXpzVjNjTjdLQ0J4dXhiSHg5QjBaWW5LWjRqLWdnaTdoNEdUNVJjSld2alBzVFZ4WEgza0wxOVhIdk80SlNnbEJZc2lodi1WaHdRbUlFOEZBUElkSW05eUlULUd0OS1ReTdqMk9zZWREbnpMSFBkaUJESkE5Z3lXRGo1c014eDkxTl9OMUd5TE9EbQ?oc=5",
+     "ts": "2026-11-19T12:04:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "1e92d8422002",
+   "title": "All GTA 6 Cheats And How To Unlock Them",
+   "first_seen": "2026-11-18T13:41:07Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "1e92d8422002",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "All GTA 6 Cheats And How To Unlock Them",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xd2Mzb1U4SzRVOUpReU1jMlBfREFtVFh1N0txS1JVcXJhYmZzMzlieHhPQk5NOG5lNXE5MkE1Rlp2TXlNeXNYRzBiUXJlX0FfZ29XSUFoRVUwNGtQUWxIcHFzak1LME1mS25JMFNvbDVYc0k1RGQwU0ZDQzd2TkU?oc=5",
+     "ts": "2026-11-18T12:20:21Z",
+     "summary": ""
+    },
+    {
+     "id": "4ee57a9e8f74",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Red Bull",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 cheats: All the codes and how to unlock them",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KbmpaZUYxUUFrNTVUX251QVlTYV9LcGtoZ1M5cS1KRl9nbF84dE9hemtZcEdlNTRoUkpVMVpZQ0h1R0w4ZFlDaEtTbE9HbVB1OTJzNk9OcG4xOWM?oc=5",
+     "ts": "2026-11-18T16:40:41Z",
+     "summary": ""
+    },
+    {
+     "id": "d7ea417248b3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Red Bull",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 cheats: All the codes and how to unlock them",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fN0M0MldZbU1FaUhjeFlTRFBHenFZa0N6RWtlcWV5OVJydDNqVThyUC1IaWVVeEp0Z1Z5R2tndGZVTVVQakhfRTdQTEJxZFN4SUtYbHpwU1NadlVt?oc=5",
+     "ts": "2026-11-18T16:40:41Z",
+     "summary": ""
+    },
+    {
+     "id": "1995fbced9f6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "SVG",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Cheat Codes Explained: How To Unlock Them",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJejA3ZFAzakVSZkFuMDJEUmlpTVl3NHk4OWNJUk15d0FhN3Vlc0VkaXZkUXlmTmswa2FuQ1FHRUpYVnA4T0NMQnZzQmpPelNSRklJZTk0amd4ZWJuQV9sX3dDbE9YWnFWMEdFRlBzbFVmX1F2bXc?oc=5",
+     "ts": "2026-11-18T18:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "c950bab8e29d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Red Bull",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 cheats: All the codes and how to unlock them",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05T1pxTG01dElGcW9ubG1DbXpUSTV0MXJNaVNzWHplY3RLMlB2TllQekVuZ1FsSFZrVTBlYmY4X20zNnRfb1RscVdJNENORGRqRTV0UHlpQzRQZm8?oc=5",
+     "ts": "2026-11-18T18:58:54Z",
+     "summary": ""
+    },
+    {
+     "id": "0ee853510fb6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Pure Xbox",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Cheat Codes: All Reveals So Far, And How To Unlock Them On Xbox",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFhua1hsbWRscFRqQkxJZnp6WkNTdm9fLVRsWHZiVzR3aWlPSjhZaEFlbkxPMG0yX0NZYVQ5dHBCVEN2MzhfS21qT2dpcWZzMUlnMnIzcHZGY25YbEpiMHNULS15V2Jnakw4VERvRlhfLWtRNk9ydWt4WlN6ajN6YWNxbW96RkVWV0VYekFJZThWMzlqTUVuVzhIUWVFUkFC?oc=5",
+     "ts": "2026-11-19T12:03:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Все чит-коды GTA 6: как их открыть",
+    "summary": "GameSpot опубликовал список всех чит-кодов GTA 6 и способы их разблокировки. В материале собраны команды и условия активации для консолей и ПК.",
+    "idea": "Быстрый гайд: показываем 5 самых полезных читов и как их открыть за 10 секунд. Зрителю — мгновенная польза для весёлых заездов.",
+    "hook": "Нужны деньги и бессмертие в GTA 6? Вот читы и как их открыть.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T13:41:20Z"
+   },
+   "msg_id": 1308
+  },
+  {
+   "id": "82fc675f3f69",
+   "title": "‘GTA 6’ Is Already Huge, and People Are Skipping Work to Play",
+   "first_seen": "2026-11-18T18:50:39Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "82fc675f3f69",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "People.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA 6’ Is Already Huge, and People Are Skipping Work to Play",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWlOZzU4T0hzaHVneXphUnJzUWpub3BOZjdieExJdU5JRGJSLTdyQ0x5QUZXc2xPX0l4RGZjZ3JGYnJyUmt2TnVoSDhwakJKSVVhQm90NEVvSk41WmVIX0VCMVBiWldCUG81Wm15dDFwUGtWT1VzdTFQb3hWeGJDeVVTTm5PUC1iNzlBUWpuQQ?oc=5",
+     "ts": "2026-11-18T17:34:27Z",
+     "summary": ""
+    },
+    {
+     "id": "eea5beb924c3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CBC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Skipping work to play Grand Theft Auto VI? You're not alone",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGpjVHIzQ0YyREdGTF85N0dBQmFfVHVuZEp3WGpibnRjdmtqak9RWTRCa1pxQVNzRW5nb2tKYVVTcUJld0NFWEN0MlFrN3VOclF3QmZBVEQ2N3FJbUJGcnY1eXY3R0VPTHBQNDY0SThHYlNSWDVnRHJHRVZGbXhjSXhPZDE?oc=5",
+     "ts": "2026-11-19T09:20:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "a03684fb3e3f",
+   "title": "PTO Requests Surge For 'GTA VI' Release",
+   "first_seen": "2026-11-18T15:40:46Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "a03684fb3e3f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "102.5 WDVE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PTO Requests Surge For 'GTA VI' Release",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWTR4cnBsQXdTWFlkbG9VMXEwN3FXdUhrOTlWRVgzbzBzOUlYTGNNNS1NbGVsQjhMa3FJdW1lUGs3SzAxeFNqdHdJMjBCZkRkT2d0UGxpSTJCZEZXSVdIaWcyWWFqT1BBOFJaQV9tcEszZFlwRmczMTRxTUx0NVRMQks1dXNPN0k?oc=5",
+     "ts": "2026-11-18T14:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "e8a90a34a1e4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "HR Executive",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI release spurs surge in PTO requests",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kZXFOOGZ3WGhGZUpmUktOa3JORUVSTmVHdFl3ZnJsVkRZOUg0aUgzQmxnaV9IbHJBbHUtTUtTV2tFeGp5bUFpT1o1WkpzZ1FfVWxQTkc1STF3U25JeXdfU0F1aE54VG5XT3BEQjgzUHQzVzJOVXc?oc=5",
+     "ts": "2026-11-19T12:01:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "cfe4a125c43d",
+   "title": "Hamilton Will Head Back Early to Play GTA VI. Verstappen Already Downloaded It",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "cfe4a125c43d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Sports",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Hamilton Will Head Back Early to Play GTA VI. Verstappen Already Downloaded It",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNlhuUzZlclRDQWJ4czMxd0dhcnRQaVNTd1lrUUhKYUJQSjY3N01UcHViTzQyQXJuaEl1Z1NzT2N1WlZLOWUxMV95WEJ3Mk9LbUdYZzUzV2tuZjN6LXhzTWhfY29GdXJMakQ4YlEtZi1WOFVxdWhxT1V1WHpORENfbmptMUk?oc=5",
+     "ts": "2026-11-19T11:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3da527e13834",
+   "title": "Round Up: Spare A Thought For These Games Launching On 'GTA 6 Day'",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "3da527e13834",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Nintendo Life",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Round Up: Spare A Thought For These Games Launching On 'GTA 6 Day'",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTU0wZzQxaTh6SEN4UGN3T2o5UFlPUXowSVhPTVNDbW5hdmFrS2FtTXZ4Zm5mU3otaXZ5TnNjLWpSbzFHTE5Fa2lsdk5jek9qVk5hcEItQTBhVVM0OWl5SVFGNVk2T201VmJrYWZrR1ktMTFQdXhLV0d2SGhVeFN6TXV4cmtUeEhEc3VyNUJta0pmNmFjQV8wMzlCZjI2aGFIb3JZS0UwWlQ?oc=5",
+     "ts": "2026-11-19T11:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "df24e7c29f95",
+   "title": "Lewis Hamilton will be playing GTA 6 at Las Vegas GP: “I have my PlayStation with me”",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "df24e7c29f95",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Crash.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Lewis Hamilton will be playing GTA 6 at Las Vegas GP: “I have my PlayStation with me”",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWktmdDFIaFJPZnFabkdqMWZjN1RRYW9HX3l4eWxxSzlqaTZ4TDBOUzFUcmxzZldlTUFxRGp2czViUkxZd2I3aW9jWDVaRTlCMWdZaWxrLTlRNndxcmFwVVFpYkpwQ000NW5Qd0NDY2hGUjVDRGNqZ2Q5dWxOU0pBVGFTRmJ0NmZUWEJWYTM1ZjAzU2dBRW5GQjZMdi1QTGhoYmUtQTBPVDhvUXNteVNHb2pfcHA?oc=5",
+     "ts": "2026-11-19T11:54:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8b6086f76b14",
+   "title": "Grand Theft Auto VI mania comes with serious health risks, doctors warn",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "8b6086f76b14",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Fox News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI mania comes with serious health risks, doctors warn",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaVFOUUhKWmRDZzNvOXlHd2owYlBWMFNydFVwRUVFbXQyMlV2NHdXT0NWM0hqWnJTRzJqeUpTZVlGV3kxMGRqZXJvWW1kNlNPWXZVNm1hcldzQXBsWlIyQ0J0LWwzVm0zaHlBcTFQMmQ1YlF1Xzktck4zaGEteTFreDVtallocnJRRUxFTDJ2NXNwSjlr0gGaAUFVX3lxTE5sVVk3bllyV2J3Q0t5R0VkOFdFcHlqMl92eDJGNEY0UVUya3dsdElUcmFkeHlBM0l2UDRJZEEyYTFqM0c4U29zclB2aF8yZkJrY0trdnJPckR6M3NyUG9SVVlvUUt6dFBUUk5nbGd1OERPSmVkNlRZMG94Q3VvNGlLNXpzRVNQVUw4ZEtrM0dlMWEzSVdfYmpDeUE?oc=5",
+     "ts": "2026-11-19T11:56:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "40e22aa3dbfd",
+   "title": "How To Rob Businesses In GTA 6",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "40e22aa3dbfd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "How To Rob Businesses In GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsMU1yR1IyWFhhRnltdFRya0g3TVFGT3RtWWZsMWNldDVSc0xybDBjQngwSDhQVWZBb1BMZTdYcFB2Z1BQSmIwQkoyTTZHTzhWcXlYR0RINzRDZzVlYkhSNUFySmV2RUMtOTBHYWtmOGRtMTA?oc=5",
+     "ts": "2026-11-19T11:58:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Как грабить бизнесы в GTA 6: что показал GameSpot",
+    "summary": "GameSpot показал, как устроены ограбления бизнесов в GTA 6: подготовка, выбор подхода и отход. В ролике разбирают механику и варианты действий без спойлеров сюжета. Это демонстрация геймплея, а не сюжетные детали.",
+    "idea": "Короткий гайд по ограблению бизнеса: 3 шага — подготовка, заход, отход. Зрителю важно увидеть, как это играется, а не слушать пересказ.",
+    "hook": "Сегодня GameSpot показал, как грабить бизнесы в GTA 6 — смотри три шага.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T12:11:02Z"
+   },
+   "msg_id": 1479
+  },
+  {
+   "id": "b928ad930c6b",
+   "title": "You Will Not Believe What I Had To Do To Get a Six-Star Wanted Level in GTA 6",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "b928ad930c6b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "You Will Not Believe What I Had To Do To Get a Six-Star Wanted Level in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeU5kejJxWGV5Y1JycDBOcVpFZm94M2VBb0s1eGRJUHkwYkJBNDJlTlFxYWdEeUhwWlhXdTNvVGdJTWlUekxENVY2ODFKcnhlV1RyNllhSlM0QVFaMy1NcFgzQ3FFZFZ5UW5namFOTV9HT3RaV1d5OGowSDNBeWhwdTJXQzdIbHk4N3RFeUdITDVTZjdiOEhRZVRfNDVFVG5VOU4wVnhENHo2a3M?oc=5",
+     "ts": "2026-11-19T12:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Как я получил 6 звёзд розыска в GTA 6 — безумный эксперимент",
+    "summary": "По данным IGN, автор проверил, как в GTA 6 работает максимальный уровень розыска — шесть звёзд. Он описал, что пришлось сделать, чтобы до него добраться, и как на это реагирует игра.",
+    "idea": "Короткий ролик-монтаж: от первой звезды до шести и хаоса на экране. Зрителю интересно увидеть, насколько тяжело и зрелищно дойти до максимума.",
+    "hook": "Я специально довёл GTA 6 до 6 звёзд — вот что случилось.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T12:10:58Z"
+   },
+   "msg_id": 1478
+  },
+  {
+   "id": "19f110e2d8b1",
+   "title": "5 Essential GTA 6 Features That You Have To Enable Yourself",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "19f110e2d8b1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "www.svg.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "5 Essential GTA 6 Features That You Have To Enable Yourself",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xZ1hhVDhlMFUxTVN4N2VJUTFhdHFDdjFyb1NZZGNNMzZOOEtTdGUzZDVVeDc5ckNEVERuWHdlcENlOU9TTFRyNUlDbW9menVxMkM0c0JuNUJDYWszYTNxdVlPR2NNcHVSM1NKSVdWaXhCVTZZLWRJcHpzTHRhUUk?oc=5",
+     "ts": "2026-11-19T12:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "55f6793c0ef5",
+   "title": "When do GTA 6's strip clubs unlock and what intimate acts you can perform",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "55f6793c0ef5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GAMINGbible",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "When do GTA 6's strip clubs unlock and what intimate acts you can perform",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdnN1RG4tNnFYTUZlVjhkd2Mxa3VJZU1tYWlTUzA3M3ZuZzBwSXBXc1U5X1RlVEs3RVgycTBiRVEzRUVXbEFMd2JhT05tWnV5TVc2Q1lLczdkUWlQQ05VSG9tbjF0NEFYbU1CcG9pSTdfamFDbjNxMFVRQ0pnWlBGM3EwLXg3OTZz?oc=5",
+     "ts": "2026-11-19T12:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "442ab352b442",
+   "title": "The GTA 6 Map Is So Much Bigger Than Everyone Originally Thought",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "442ab352b442",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "SlashGear",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The GTA 6 Map Is So Much Bigger Than Everyone Originally Thought",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeU5ycV9Jc3NSTE4xcWFFOW5OMnNIWUVNckxzbmRPTmsyZDhFRnc2ZmVYTGtoams3cWhWdGF1b0tvSHhMLWxYZjZqU0lJbHp3RElaVUtnYUpjbG5tTWFpUnJhaUZwYVlGS3owZmJzbmUxQkczWlhtNk5FVGViSl9uZkhUU3djMHlxeldrVlNpdm5xWFFRTFlyVQ?oc=5",
+     "ts": "2026-11-19T12:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ecfe31aa04a7",
+   "title": "‘Grand Theft Auto VI’ Debut Spurs Livestream Influencer Marathons",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "ecfe31aa04a7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Bloomberg.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ Debut Spurs Livestream Influencer Marathons",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFZPc2xJWmdRal83aUJ1cnhhelRNYmxacWJSUkU4YW5vN0xvVWxFbGVkYm4wdl9JdzVMMXUtdGtSRTRrelN3b2RXVWFvTVFZcHJ4WGdsSDhMd0h3QVJlejdLT2ltVjlVVjZZV1RIaExKNk9JRXY1SmsxZFp5TTRDbUlpODVVRThzV1V1aE5tV0c3dkxZT2RWWG42R3lOdW9QWEI1RXdJT0xrcDBiOTdMbnkza0l0dw?oc=5",
+     "ts": "2026-11-19T12:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "252f9dfb0cb0",
+   "title": "В GTA 6 запретили фурри, а игрок может помочь им сбежать от полиции",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "252f9dfb0cb0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "В GTA 6 запретили фурри, а игрок может помочь им сбежать от полиции",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWExOV9UWWdnRkw5V3NQQkQxWURzOWh6MnphWTY5UDBKVzlLWXZkUjNpc3dMemFycENxbFBRaFpBVWpqODVHTHg2ZUdMaVRfcUdjTnFfNUNadGc3aEVPNWJqVUlkNVhQMFpSa0pELTFPdEllTTk2X1VTTE8yNjBjZEQzaGs5eWl6MnZzOUlCMm5CNkNiSldFTEE4d1dZU045TWc?oc=5",
+     "ts": "2026-11-19T12:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "278b1b4328a6",
+   "title": "Why Colts Fans Should Value TNF Matchup Over GTA VI Release",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "278b1b4328a6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Sports Illustrated",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Why Colts Fans Should Value TNF Matchup Over GTA VI Release",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWE41Q1BkbmVqbDY0X29nTnV1NVBaRmR2eGdiWFJ2cGpFSVZRdjdZSnFGQ296REJWZ000UkZKeDJyZk40alhlODNvS2xONHNfbEhXamt2WlFjeGpEbTl6VnhyazRocTBiOVUwcnVGVUlVMWM2dTRQcUMteWdDLU9rNWVmVmotSUlFMksybE1wT01rY2ZjMU5YTg?oc=5",
+     "ts": "2026-11-19T12:00:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cbe705b26239",
+   "title": "🔞 Джейсон может стать стриптизёром — в одной из миссий GTA VI его отправят под прикрытием в ночной клуб Ради задания придётся примерить откровенный наряд Судя п",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "cbe705b26239",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🔞 Джейсон может стать стриптизёром — в одной из миссий GTA VI его отправят под прикрытием в ночной клуб Ради задания придётся примерить откровенный наряд Судя п",
+     "url": "https://t.me/GTA6_m/9443",
+     "ts": "2026-11-19T12:02:35Z",
+     "summary": "🔞 Джейсон может стать стриптизёром — в одной из миссий GTA VI его отправят под прикрытием в ночной клуб Ради задания придётся примерить откровенный наряд Судя по реакции Люсии, она и не против 😁 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3d50b0c4a3dc",
+   "title": "Актёры GTA 6: полный голосовой состав игры",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "3d50b0c4a3dc",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "dungen.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Актёры GTA 6: полный голосовой состав игры",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43R2lFWklaUnNyekR2czRLc0tDVk9qcTdQbWxUZHFWd3VqQXVZQU5mN1NDY1JkcklQSkFpSFFlc3ZPbU9mUUxkeGdJMy1CSHV2T0hkQ0hB?oc=5",
+     "ts": "2026-11-19T12:04:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cfee56296aa5",
+   "title": "Японская цензура в GTA VI ❤️ — хорошо, что я живу не в Японии 6️⃣ GTA VI News 💝 💬 Наш чатик",
+   "first_seen": "2026-11-19T12:10:49Z",
+   "updated": "2026-11-19T12:10:49Z",
+   "items": [
+    {
+     "id": "cfee56296aa5",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Японская цензура в GTA VI ❤️ — хорошо, что я живу не в Японии 6️⃣ GTA VI News 💝 💬 Наш чатик",
+     "url": "https://t.me/GTAVIStar/965",
+     "ts": "2026-11-19T12:04:29Z",
+     "summary": "Японская цензура в GTA VI ❤️ — хорошо, что я живу не в Японии 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "68821c4ca325",
    "title": "GTA 6 Estimated to Have Reached 20 Million Preorders Ahead of Launch",
    "first_seen": "2026-11-18T12:31:08Z",
@@ -500,32 +1441,6 @@
    "status": "new"
   },
   {
-   "id": "03ab5e49f6fc",
-   "title": "India's gamers skip work, crowd cafes for Grand Theft Auto VI as Modi joins buzz",
-   "first_seen": "2026-11-19T12:01:15Z",
-   "updated": "2026-11-19T12:01:15Z",
-   "items": [
-    {
-     "id": "03ab5e49f6fc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "India's gamers skip work, crowd cafes for Grand Theft Auto VI as Modi joins buzz",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSU82aV9uemowUERtYVRVbW42QzByTHNZb1N4bzVVOHU0RWUwRWdGaXIxZy05cENGVjVCSzI1MlMtTkNKTWk1aEFhQ0dJR0dNWHlkcG91RjdtM1g0UHV0SVhGRUhzd0VURG1USHhnRnZGMTktNWdvQ1k0RDM0M1RrcmdRVDl4aFVDVnZUdmpFNVFKN0FEMzhjMmpwUU4?oc=5",
-     "ts": "2026-11-19T11:50:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "5f9ebda2bd09",
    "title": "Grand Theft Auto VI: a new era for the franchise – and for gaming itself",
    "first_seen": "2026-11-19T12:01:15Z",
@@ -613,32 +1528,6 @@
     "at": "2026-11-19T12:01:29Z"
    },
    "msg_id": 1477
-  },
-  {
-   "id": "8d363378f731",
-   "title": "GTA VI: 43 soldiers will play game during ‘extended weekend’ as part of reenlistment deal",
-   "first_seen": "2026-11-19T12:01:15Z",
-   "updated": "2026-11-19T12:01:15Z",
-   "items": [
-    {
-     "id": "8d363378f731",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WPXI",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI: 43 soldiers will play game during ‘extended weekend’ as part of reenlistment deal",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTW5OcjU4RWdHb3NoMDN1WmNQNWExa2paMXVsV05QVmJSNWVaVUlTRzVaSzcxXzgxRFpMbXRRaWVVY0VsTm5FNlRHb0RBYmw2SmpqcHRabzREanFlbUZrVEY2Y1NUdHFtOEdjVUNmMGhZUXlmLXRhTWRuMm1jSUsyYWtqMlVkMnZ3R1o5QTJNY1E5OUNkMC1sbmZrOUstN2xCTWRjbm1HNU1PNWQ4YS0xMDBHQXFwX2N4dGZBZmlKR3B3THJ2VFJBZDBrUmNUUlpfODdMVEhaS19TQW_SAe8BQVVfeXFMUEQ1em1RTTJILVd4R1pZTGhDdU02dVN1b3N1MWRiRktuRzE0ZktDdzNWeF9nZHlhTHBaWUc3eVQ3X3BaLWEzdkk1QVI4Y0tqNmxWUnhyNUZzU0tzcGswZy1hNmx4SFd4Wk1rN01ESlJBZnZ6dmtnZkhYQmFHdlE1YnkwX3dlTWVIS1hLUDd1RlRPck5XSFFrYm5vRG1WRTZHZ3pDR25VSWYyM01PVVZlbHd5YnJqckI4dnVGZlVxY2czSmNJRWtTRHpmQVNGOGoxODJvZ3dKYWdGVlVnQWFpRlF3ZzF6MlVoa3UzSE91Y2s?oc=5",
-     "ts": "2026-11-19T11:54:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "f700488de53d",
@@ -1974,32 +2863,6 @@
    "status": "new"
   },
   {
-   "id": "a5f3c95795f3",
-   "title": "GTA 6 is finally here and we are playing. Here's our first impressions",
-   "first_seen": "2026-11-19T11:41:00Z",
-   "updated": "2026-11-19T11:41:00Z",
-   "items": [
-    {
-     "id": "a5f3c95795f3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "USA Today",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 is finally here and we are playing. Here's our first impressions",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmtOZ21YeVhLY1RMcXIxcDlybFNqeUlyWFJjaDlXd1Eta0VITngzNjFGN1B6V3NfM1hQV0tNSGRYc0JSdXNxWnBLWXNhV1VkRElfbXBsZWxlOGx0YXh2dkNGSnQ2ZlM5Mm4tTklnQkhXZE94UVlGNmJudVpSVFREV1lkUTJZeHdrazYtdXI5Mzd5dnV3ZmVPdUtWWTRwT3BpaWpJ?oc=5",
-     "ts": "2026-11-19T11:34:16Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "e2cf2975ab3b",
    "title": "What if \"Grand Theft Auto VI\" took place in Cleveland?",
    "first_seen": "2026-11-19T11:41:00Z",
@@ -2500,162 +3363,6 @@
    "score": 48,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2d2892f40b57",
-   "title": "After a 13-year wait, GTA 6 unlocks in El Paso tonight at 10 p.m.",
-   "first_seen": "2026-11-18T19:40:58Z",
-   "updated": "2026-11-19T11:20:57Z",
-   "items": [
-    {
-     "id": "2d2892f40b57",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KVIA",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "After a 13-year wait, GTA 6 unlocks in El Paso tonight at 10 p.m.",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVlp1Y2ZRMWsyLXNHcGJWaldRVWljNVNZWTlYMWNnbVYwcDV1ZnNLTVFxX0NBYnFCdUFUeDZncDBQQTFwOFZMZDJMV0hyeC1zZDZKVXhrcF9fT3RobWd2Mm80RzRSaURKd0dNUFo3MkxLak41V3ZGYlFwM3ZUd3RJR0JnTDIta3ZpQVB5bDU5RTJOcHAzbnF3OHV0ZHhyNnA5X0VJVU94NUxJQQ?oc=5",
-     "ts": "2026-11-18T18:39:22Z",
-     "summary": ""
-    },
-    {
-     "id": "6655086bb1f7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WIBW",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA 6’ releases tonight after 13-year wait",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fOUNfY0RZMEJaNFEwWWVmNm1SN05qejV4bkJMaE85eTFnSmZFZzhIQUptQnpxd3lpclFpclVTUnpaUTExaV9zS1lFVkxNdnJHQVRVV1BIVC1nMUxpYkNfSzVpR09UTUxnWWpsOVJlM1Z4QjZjc2gzUU4zSnlzYlXSAZMBQVVfeXFMUEwwRlV6aU9weDh3VmphZ09KTmxtbnlIQlZqYVZCcDRuUUFwdy0tYWx2VmtGRVVwMjNZczBKbDVrSkR6TFFEVE02MERNZkVsaUYycVd5TVFrd1Ezd3phTktQUkNFdGRILW8tMHV2WTBhZVZVYVB0TDI4dVlNRWFpOTA1bUhiU244bFdnbGpDSkh6XzBr?oc=5",
-     "ts": "2026-11-19T00:23:00Z",
-     "summary": ""
-    },
-    {
-     "id": "0cb2d6ca52dd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI released after 13-year wait",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWNOdm9nYm1fOU5wZEZFQ01fTUlPQXFsSmNtd1YtV1pHQU5tX2poZVU1VTNUTXhicDVrSEREUnFVdUpQZk1DQTVtX1JDbkRWMWU4ZlpIUWRnODJZX29vZGZpQm5FMmdDSU94RHVLdnRJNjR1d0Q3QkFhMU90Q2g0aTV4SVpQaVkyRWc?oc=5",
-     "ts": "2026-11-19T03:48:00Z",
-     "summary": ""
-    },
-    {
-     "id": "1f51a20ced84",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "CBS News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI release sparks excitement after 13-year wait",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWhpSlFHanV1YjYycVlweHZRWDJnLTN2SDdxajJ0Q3JpMTU5b18zTDlOMnFrakYyelVpUGs2akh1cVJyWWpkRFhJTnJweHlWRHFtdDBBWXhoNjlyWmxLd1FnOWNjbzg5UnRadG1sOGcydFRwSHB6X3pMejhOd1A5ZnhKdXZSeVc3cnVGa3BPYUlwT29IcGZXU05jMjdrb1VSWDI0?oc=5",
-     "ts": "2026-11-19T04:22:00Z",
-     "summary": ""
-    },
-    {
-     "id": "d29e1311f286",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "wvtm",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Alabama gamers gear up for ‘Grand Theft Auto VI’ after 13-year wait",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQzgwQi1JdWZ4RDJxcnRhb3J6N01WWGJ4ZjNUTjRDXzYtMTF1N0Jpc0ZNdkNNZlJTbDk2aWN2TGFxa05tcUc5ekZ4RVlGcWtuMXhVc3FiSmxBcDhXLW1qb1ZGZDZ1a2F3Sl84VnlpMFI2S2JLNWRFUndva0tOUzJaRA?oc=5",
-     "ts": "2026-11-19T04:41:00Z",
-     "summary": ""
-    },
-    {
-     "id": "afff78f4235d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Thai PBS World",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "After a 13-year wait, 'Grand Theft Auto VI' arrives with enormous hype and expectations",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MVmhCMGNKNDZNUWhhbUhSbVcwdFlaSlQxYjJqZmctNHVtc1FVZTFoUnJoTkFXTjR5djNETXdpMHp2YTk3M3JUTGxfTFVuVEdXRHBUUFpGc21kZTlYLXc?oc=5",
-     "ts": "2026-11-19T05:26:23Z",
-     "summary": ""
-    },
-    {
-     "id": "03244471ac69",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Jackson Hole News&Guide",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "After a 13-year wait, 'Grand Theft Auto VI' arrives with enormous hype and expectations",
-     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxORTlkbU9HaDFiOVgtZHlpUFVxQlJodW5Rb3NwaU1VSEJWb1QwSXBXLXpfazdYdGpYdk9LOVhwNFZaeXNRZG9mVXRSUmhnRkNtSHJhb1B1QkFvNk53QzE3TVFuaHVoNm44S3FvN1Y0cTJjNTBUcmZBaDdfQzNqbmtJYncxR1U5MV9qazBob0c0M0hNMzJ6UnRHeURaa2tabkI1QUZZQWV2a2NjNHdKdWwya21BSnlZVDNiNXNBRC1vY2JJQUxRdkJBUmpWSVhkb2pxLV9WWlRVV1hoMWpKZFpfbHhKSFpCMTl6RllYYnItT19UbDNiOThpTi1GVGxIQ3EtcEZ6dl85UmZwZXVVUVRaOXpSTGttYkxkTVBEOWM3bGxtb3BYVDZ3cg?oc=5",
-     "ts": "2026-11-19T07:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "b3afa798b6e5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Pharos-Tribune",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "After a 13-year wait, 'Grand Theft Auto VI' arrives with enormous hype and expectations",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVG9mQUtoRG5wN2VwUnpSdHN1M1ZNSjB4RjluS0k4Q2dOZnRGeHdaQWxZekVVNlJKMG50RVQ0dUhoMTZKU2Zyb1Zyb0JzQ0tPMUwwYXpqNGVlOHJWREpVblZ0RkwxdDRmaGpZRkE1ZDVGOTF4d28zOWRzX2NwNV9yUEFRM0IxZlFWOEV6cw?oc=5",
-     "ts": "2026-11-19T08:30:00Z",
-     "summary": ""
-    },
-    {
-     "id": "c0b06a2c3a7e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' released after 13-year wait, selling over 17 million copies",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaGdQSm96S2tIZDVNakkxdUgtVGhwX2w1M1NLWHpWMl9COGRfcG5DUGFBMWEwU19FNmRkN2JEQUJHUDMwRWgwNWVXdkhBa1k1d0pwRWVPLV9kb2ZWdGZaWkJXMzJKNm9hYmRfcHhOTml3MnF1NEpaRFNGcDVTUVB0ZDUwWlFrN002bnc?oc=5",
-     "ts": "2026-11-19T08:52:40Z",
-     "summary": ""
-    },
-    {
-     "id": "3e47a1000dac",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NPR",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "After 13-year wait, Grand Theft Auto VI hits store shelves",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRmdjalpkQXR4cHJlUjlGamp6R3V4Q05HeTN4OWZMNHdoSGVWZWljLXZjYTdGRENFZk9jNlNqcEFqQXNwQmFkUmdwM2VSR3dNdHphbFZKYTQyX1ZmX0Nxd2JKbjREM2w5QUtnbkdicl9LbE9JYU81RXAzR2h4dDdfNlJWWFhQanZRTTBQRlIxc1A0RFFIb1p3eXZmby1ZWUV3TnhoZA?oc=5",
-     "ts": "2026-11-19T09:45:32Z",
-     "summary": ""
-    },
-    {
-     "id": "04ce31466085",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WWLP",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI released after 13-year wait",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2RCWWtxaVNCcHFJa3EtRUx2SkM4X2thbXdwQ3dESDlRYVd0WUZxVHBZTHdESlNWZEkwVDlFNmN6c0RLM2VTMnBrS2FMZVBHbXpRcjVaSzBKR1ZvcW9DZG9pcXlLRjFDMG02NldUQ3RiWDhSZDh3RGp4NHRiZnBwa2ZaN2NJQnVueU1rdGVR0gGTAUFVX3lxTE9wQWJQcWwyeDM5U29HWWkwcm5Rck8xa1VOdGhXQVk0WXoyUDN5VmNmQlRGalJSQmRLa3UyWkVaa2VoRFRaOGc1MjE1Q2lleEswVTZReWZleGJHcDlud0hzZU9vaDhscjJDMTZlc3drVWYyVUR1Vi1uaUJuWXhOZ2ZxbGFaNDAzVml6M2MtXzVfVDczOA?oc=5",
-     "ts": "2026-11-19T11:09:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -26814,95 +27521,6 @@
    "msg_id": 1388
   },
   {
-   "id": "1e92d8422002",
-   "title": "All GTA 6 Cheats And How To Unlock Them",
-   "first_seen": "2026-11-18T13:41:07Z",
-   "updated": "2026-11-18T19:31:02Z",
-   "items": [
-    {
-     "id": "1e92d8422002",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "All GTA 6 Cheats And How To Unlock Them",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xd2Mzb1U4SzRVOUpReU1jMlBfREFtVFh1N0txS1JVcXJhYmZzMzlieHhPQk5NOG5lNXE5MkE1Rlp2TXlNeXNYRzBiUXJlX0FfZ29XSUFoRVUwNGtQUWxIcHFzak1LME1mS25JMFNvbDVYc0k1RGQwU0ZDQzd2TkU?oc=5",
-     "ts": "2026-11-18T12:20:21Z",
-     "summary": ""
-    },
-    {
-     "id": "4ee57a9e8f74",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 cheats: All the codes and how to unlock them",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KbmpaZUYxUUFrNTVUX251QVlTYV9LcGtoZ1M5cS1KRl9nbF84dE9hemtZcEdlNTRoUkpVMVpZQ0h1R0w4ZFlDaEtTbE9HbVB1OTJzNk9OcG4xOWM?oc=5",
-     "ts": "2026-11-18T16:40:41Z",
-     "summary": ""
-    },
-    {
-     "id": "d7ea417248b3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 cheats: All the codes and how to unlock them",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fN0M0MldZbU1FaUhjeFlTRFBHenFZa0N6RWtlcWV5OVJydDNqVThyUC1IaWVVeEp0Z1Z5R2tndGZVTVVQakhfRTdQTEJxZFN4SUtYbHpwU1NadlVt?oc=5",
-     "ts": "2026-11-18T16:40:41Z",
-     "summary": ""
-    },
-    {
-     "id": "1995fbced9f6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "SVG",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Cheat Codes Explained: How To Unlock Them",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJejA3ZFAzakVSZkFuMDJEUmlpTVl3NHk4OWNJUk15d0FhN3Vlc0VkaXZkUXlmTmswa2FuQ1FHRUpYVnA4T0NMQnZzQmpPelNSRklJZTk0amd4ZWJuQV9sX3dDbE9YWnFWMEdFRlBzbFVmX1F2bXc?oc=5",
-     "ts": "2026-11-18T18:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "c950bab8e29d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 cheats: All the codes and how to unlock them",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05T1pxTG01dElGcW9ubG1DbXpUSTV0MXJNaVNzWHplY3RLMlB2TllQekVuZ1FsSFZrVTBlYmY4X20zNnRfb1RscVdJNENORGRqRTV0UHlpQzRQZm8?oc=5",
-     "ts": "2026-11-18T18:58:54Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 81,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 Все чит-коды GTA 6: как их открыть",
-    "summary": "GameSpot опубликовал список всех чит-кодов GTA 6 и способы их разблокировки. В материале собраны команды и условия активации для консолей и ПК.",
-    "idea": "Быстрый гайд: показываем 5 самых полезных читов и как их открыть за 10 секунд. Зрителю — мгновенная польза для весёлых заездов.",
-    "hook": "Нужны деньги и бессмертие в GTA 6? Вот читы и как их открыть.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T13:41:20Z"
-   },
-   "msg_id": 1308
-  },
-  {
    "id": "d47025ab4da9",
    "title": "GTA VI hype reaches fever pitch with less than 24 hours until game's release",
    "first_seen": "2026-11-18T15:11:02Z",
@@ -28748,32 +29366,6 @@
     "at": "2026-11-18T12:21:13Z"
    },
    "msg_id": 1280
-  },
-  {
-   "id": "82fc675f3f69",
-   "title": "‘GTA 6’ Is Already Huge, and People Are Skipping Work to Play",
-   "first_seen": "2026-11-18T18:50:39Z",
-   "updated": "2026-11-18T18:50:39Z",
-   "items": [
-    {
-     "id": "82fc675f3f69",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "People.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA 6’ Is Already Huge, and People Are Skipping Work to Play",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWlOZzU4T0hzaHVneXphUnJzUWpub3BOZjdieExJdU5JRGJSLTdyQ0x5QUZXc2xPX0l4RGZjZ3JGYnJyUmt2TnVoSDhwakJKSVVhQm90NEVvSk41WmVIX0VCMVBiWldCUG81Wm15dDFwUGtWT1VzdTFQb3hWeGJDeVVTTm5PUC1iNzlBUWpuQQ?oc=5",
-     "ts": "2026-11-18T17:34:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "0015df501f83",
@@ -35449,32 +36041,6 @@
    ],
    "tags": [],
    "score": 48,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a03684fb3e3f",
-   "title": "PTO Requests Surge For 'GTA VI' Release",
-   "first_seen": "2026-11-18T15:40:46Z",
-   "updated": "2026-11-18T15:40:46Z",
-   "items": [
-    {
-     "id": "a03684fb3e3f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "102.5 WDVE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "PTO Requests Surge For 'GTA VI' Release",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWTR4cnBsQXdTWFlkbG9VMXEwN3FXdUhrOTlWRVgzbzBzOUlYTGNNNS1NbGVsQjhMa3FJdW1lUGs3SzAxeFNqdHdJMjBCZkRkT2d0UGxpSTJCZEZXSVdIaWcyWWFqT1BBOFJaQV9tcEszZFlwRmczMTRxTUx0NVRMQks1dXNPN0k?oc=5",
-     "ts": "2026-11-18T14:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -160398,165 +160964,22 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e082dc15d752",
-   "title": "In GTA 6 , your fits actually help you beat the game",
-   "first_seen": "2026-11-12T12:10:49Z",
-   "updated": "2026-11-12T12:10:49Z",
-   "items": [
-    {
-     "id": "e082dc15d752",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "British GQ",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "In GTA 6 , your fits actually help you beat the game",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sVldIN2U2Rlo5X1ltWG15NU45eHh1MmNfc2VsWFNFa0luNTN0TmNsVXN5TFVsdWF0TE5JQ3RwQzF6cU9odC1CYjJ3OC1tZlpFTEZaQ0VmdnQ4b01mZEh2ZHBkbnhqcDFYaFY3Zg?oc=5",
-     "ts": "2026-11-12T11:50:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5cd702903a66",
-   "title": "10 Masterpiece Movies to Watch Before Playing GTA 6",
-   "first_seen": "2026-11-12T12:10:49Z",
-   "updated": "2026-11-12T12:10:49Z",
-   "items": [
-    {
-     "id": "5cd702903a66",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Comic Book Resources",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "10 Masterpiece Movies to Watch Before Playing GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Mb1p5cWxiSjhXWmhCUDBYNXh1WENhM0k5alZuSjBXaFVrZ1hpUXJVa05ETWw3M3RPZ29IOGhnTXl2b25YUjZZZ01Va2hRQ0lpQ3AyNEpsZU9iTWE4Y3NValpKWVp5Q3BpUmJv?oc=5",
-     "ts": "2026-11-12T12:03:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a9b60c8b73b7",
-   "title": "RIP KEY WEST ?? (This is the cartoonized map version found in the The Goodtime State – Vice City™ Collection)",
-   "first_seen": "2026-11-12T12:10:49Z",
-   "updated": "2026-11-12T12:10:49Z",
-   "items": [
-    {
-     "id": "a9b60c8b73b7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "RIP KEY WEST ?? (This is the cartoonized map version found in the The Goodtime State – Vice City™ Collection)",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xub162/rip_key_west_this_is_the_cartoonized_map_version/",
-     "ts": "2026-11-12T12:04:00Z",
-     "summary": "This is from a display shown at Selfridges in Manchester There is a whale blocking where the roads lead to, either key west was cleverly placed there but they made it smaller or this is our definitive proof that Key West is 100% cut from the game. https://preview.redd.it/0wgt9ov9961i1.png?width=2083&format=png&auto=webp&s=9e3a25c778176d30223b55575da9ad510129ed5c submitted by /u/meechCS to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9dd57adc6efe",
-   "title": "Another for the Wall",
-   "first_seen": "2026-11-12T12:10:49Z",
-   "updated": "2026-11-12T12:10:49Z",
-   "items": [
-    {
-     "id": "9dd57adc6efe",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Another for the Wall",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xub2o6/another_for_the_wall/",
-     "ts": "2026-11-12T12:06:00Z",
-     "summary": "submitted by /u/TalionWolfe to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1eda0b91ffc3",
-   "title": "🍺 Пиво из GTA VI появится В РОССИИ — юзеры нашли часть трейлера где герои пьют Dr.Diesel Эта имба уже появилась на полках российских магазинов 😀 Подписаться | Н",
-   "first_seen": "2026-11-12T12:10:49Z",
-   "updated": "2026-11-12T12:10:49Z",
-   "items": [
-    {
-     "id": "1eda0b91ffc3",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "🍺 Пиво из GTA VI появится В РОССИИ — юзеры нашли часть трейлера где герои пьют Dr.Diesel Эта имба уже появилась на полках российских магазинов 😀 Подписаться | Н",
-     "url": "https://t.me/gta6deluxe/2032",
-     "ts": "2026-11-12T12:10:09Z",
-     "summary": "🍺 Пиво из GTA VI появится В РОССИИ — юзеры нашли часть трейлера где герои пьют Dr.Diesel Эта имба уже появилась на полках российских магазинов 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Пиво Dr.Diesel из GTA 6 уже в России: нашли в трейлере",
-    "summary": "Пользователи нашли в трейлере GTA 6 сцену, где герои пьют Dr.Diesel. По словам канала TG @gta6deluxe, этот напиток уже появился на полках российских магазинов.",
-    "idea": "Сравним банку Dr.Diesel из трейлера с реальной из магазина и попробуем — фанатам зайдёт такой «тест‑драйв» реквизита.",
-    "hook": "Пиво из GTA 6 уже продают в России — я купил банку Dr.Diesel.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-12T12:10:53Z"
-   },
-   "msg_id": 830
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T12:01:29Z",
+  "last_run": "2026-11-19T12:11:16Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 94/100",
    "gnews_ru: 98/100",
    "gamesbeat: 5/10",
    "vgc: 10/10",
-   "insider_gaming: 6/10",
+   "insider_gaming: 4/10",
    "ign: 9/20",
-   "eurogamer: 18/100",
-   "dexerto_gta: 12/50",
-   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
+   "eurogamer: 17/100",
+   "dexerto_gta: 11/50",
+   "rockstarintel: 9/10",
    "gtaboom: 30/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 12/13",
