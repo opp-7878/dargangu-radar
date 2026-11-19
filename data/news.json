@@ -1,6 +1,275 @@
 {
  "stories": [
   {
+   "id": "64554a60328e",
+   "title": "Morning Bid: Loading ... Claude and GTA VI",
+   "first_seen": "2026-11-19T05:50:51Z",
+   "updated": "2026-11-19T06:10:45Z",
+   "items": [
+    {
+     "id": "64554a60328e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "US News Money",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Morning Bid: Loading ... Claude and GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeXJ2QUdBWUxiVEJqckludjFvZ0N2b2lFN2lJS00tc3hjaGdCN3d1cWdMVDVhSUJIaTN0bDZsX0h1ekp3MmZQM2Q0QnRQb1JaMHRWaG5FTjMwN3JvcVBCa0tGWjRrQlI4RkxjMjRFb0M2a2VRaEc1RFItZENGVERrQzVySDliT1JWWWxhcFNvYVJHRFNfTWxUMXBDTkRUUQ?oc=5",
+     "ts": "2026-11-19T05:40:54Z",
+     "summary": ""
+    },
+    {
+     "id": "e7c8481b0369",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Lufkin Daily News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Morning Bid: Loading ... Claude and GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZFRUY0doeTlCc0hYb0NIOUxJdkdmcEVqX2xNSHV0QXVMVXFhZTNQOW5INDV3OXRXMDBwdnJJeVkwWlJMbVNQQjV2Z2c1UWdVaVNyckJ4VkpuY3hxWXNxYjdGV01fSkxDU01Jc1lGMDNGSWI0cndnS3g4R3VFek5CQjI5WXNPcjdKS0swT0RzSXJHU2YybUxNQWhsSTg0UVVTd1kyMUtfVWJLLWR0VzFnY3BtVi1mbWM0Q1FJcjVNaTcxRXJMaHpMTEc1UF9LRVpYZGRn?oc=5",
+     "ts": "2026-11-19T05:32:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 попала в утренний бизнес-брифинг: что это значит",
+    "summary": "По данным US News Money и The Lufkin Daily News, GTA 6 упомянута в утреннем бизнес-брифинге Morning Bid рядом с Claude. Это не официальный анонс, а заметка в деловом дайджесте.",
+    "idea": "Коротко разбираем, почему GTA 6 оказалась в бизнес-брифинге и что это значит для игроков. Зрителю интересно понять, ждать ли новостей или это просто бизнес-упоминание.",
+    "hook": "GTA 6 — в утреннем бизнес-брифинге. Что это значит для нас, игроков?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T06:10:52Z"
+   },
+   "msg_id": 1442
+  },
+  {
+   "id": "d9af8edce04b",
+   "title": "Heat transform arena for ‘GTA 6’ theme night — complete with massive rooftop advertisement",
+   "first_seen": "2026-11-19T05:20:49Z",
+   "updated": "2026-11-19T06:10:45Z",
+   "items": [
+    {
+     "id": "d9af8edce04b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "AOL.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Heat transform arena for ‘GTA 6’ theme night — complete with massive rooftop advertisement",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42MWJ0VnZBT2dlZVU2VmxwZFNtZGIyTjhSTVluZGVRUkpRR1NBTzVJZURjR0RGY2VVdmF3MnE2dXZfbG55cGtNeU4wYVN3RXZPS3FyRHJvSGVDcHpXSUQ3Y3RZYnlOZ2wycFhNcUxXbUlYUkp6c2stVnJn?oc=5",
+     "ts": "2026-11-19T05:02:00Z",
+     "summary": ""
+    },
+    {
+     "id": "7b59d8d67715",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "New York Post",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Heat transform arena for 'GTA 6' theme night — complete with massive rooftop advertisement",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnoyVVN5S1E0OEpkQUlVd3N1cU1lTEQ5UHVjOUFVYzhSY1BDN2VRS01yaEdxanJFRlVLU3VwQ0h6ZHBST2RaeUlkb25yRkI1Njk3RXJLTEVZa1F6Mkc0Qk9XOFBJZXJDNXl4YVZHY3hFMkRnLUdIN1pncU0zOTgxZVR3UmVyeldzcnhydHhvX2o3WGUwMFE1a045cXE1Y1o5VmFXZENJN2t1RTczMEpkaDNzbW1raEVoY29nbWYwd3JuQQ?oc=5",
+     "ts": "2026-11-19T05:02:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Вайс-Сити пришёл в Майами: арена Miami Heat в стиле GTA 6",
+    "summary": "Арена Miami Heat превратилась в локацию GTA 6: на крыше установили огромную рекламу игры, а внутри — тематическую ночь. Об этом написали AOL.com и New York Post.",
+    "idea": "Снимем крышу и фасад арены с гигантским баннером GTA 6, затем — вход и детали внутри, под бит из трейлера. Зрителю интересно увидеть, как реальная Майами-арена выглядит как Вайс-Сити.",
+    "hook": "Miami Heat арену превратили в Вайс-Сити ради GTA 6 — смотри, как это выглядит.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T06:10:48Z"
+   },
+   "msg_id": 1441
+  },
+  {
+   "id": "21b7a2f56726",
+   "title": "Just How Big Is ‘Grand Theft Auto VI’? The Multibillion-Dollar Frenzy in Charts",
+   "first_seen": "2026-11-19T01:10:48Z",
+   "updated": "2026-11-19T06:10:45Z",
+   "items": [
+    {
+     "id": "21b7a2f56726",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WSJ",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Just How Big Is ‘Grand Theft Auto VI’? The Multibillion-Dollar Frenzy in Charts",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEdNaGdTb0NkZXhibnhvTW1qM2VqeFVBcTVnbzBNUGpMX2VGT2V1YXNOWEZ6RElielE2RldNNkhzcHEteFRVUmtPbElMdE90RW9BLVFnRlhCTl9uOUtMa2NZQlVXNE0tcHpfRzlLLVJsT1pTQ21GMXZ5amYyeVMyeGk3Nlp2ck5LNHJranNWdWpWcTJFLVJ3SFJsUTgzSnlxd0g1WWd6dDNOcHdvdkV2WlBkX3hJVDF1aWhrWA?oc=5",
+     "ts": "2026-11-19T01:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "b72ce362e77e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "tovima.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Just How Big Is ‘Grand Theft Auto VI’? The Multibillion-Dollar Frenzy in Charts",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFMWk1vZVJzX3dmb3pMNnY3Z0pKdHN1MkRqSFpQRXZrWmZuLUtqRy02c1UtVnlqTXlic2RHZWVpeEdyYTktUnczUXZuZUJBZ29WOXJxeXItdDFaNTRKRG5WUHUxX0ZtZUVwV3VFRWs3XzlCRy1hSk9ybjFPTEZKT21xcmc2cVlNN3Zkdkl6cFF3TFpaWkI2UWtWb3VTTXM5aGdjUTRaUQ?oc=5",
+     "ts": "2026-11-19T06:05:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "372ca78a3300",
+   "title": "GTA VI didn’t break the internet, thanks to ‘stupid DNS tricks’",
+   "first_seen": "2026-11-19T06:10:45Z",
+   "updated": "2026-11-19T06:10:45Z",
+   "items": [
+    {
+     "id": "372ca78a3300",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Register",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI didn’t break the internet, thanks to ‘stupid DNS tricks’",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzFwOTlMN1R3RUZzUUZERzZXV3ZSbmxxRWVvSllpRWtJVm1Hekc1VEFFZk1lVTBqelMyTTl4UW1jUnZLQ0ZVaHpFaEphQm1BdWFtT1p6NUs3Zlk5TG9MXy1oMVBEc3FaTGpVVklFbDA2T3BkekUtclJQWkNMT2Z0dFZxMDFQX1BXU21pX3NSNndmT0hSUlkxMlRodURwRUpGWG92eEd3OUQyWUdSVnVENzRuUzV2QQ?oc=5",
+     "ts": "2026-11-19T05:57:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "92468d594062",
+   "title": "☺️ THIS PARROT LEADS YOU TO A SECRET EARLY-GAME MONEY STASH IN GTA 6.",
+   "first_seen": "2026-11-19T06:10:45Z",
+   "updated": "2026-11-19T06:10:45Z",
+   "items": [
+    {
+     "id": "92468d594062",
+     "src": "tg_gta6newsdaily",
+     "src_name": "TG @gta6newsdaily",
+     "outlet": "",
+     "group": "telegram_en",
+     "weight": 45,
+     "alert": true,
+     "title": "☺️ THIS PARROT LEADS YOU TO A SECRET EARLY-GAME MONEY STASH IN GTA 6.",
+     "url": "https://t.me/gta6newsdaily/5041",
+     "ts": "2026-11-19T06:01:18Z",
+     "summary": "☺️ THIS PARROT LEADS YOU TO A SECRET EARLY-GAME MONEY STASH IN GTA 6. #GTA6 #GTAVI #GTA"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d2cd14ec39d8",
+   "title": "GTA VI: How Grand Theft Auto handles issues like homelessness",
+   "first_seen": "2026-11-19T06:10:45Z",
+   "updated": "2026-11-19T06:10:45Z",
+   "items": [
+    {
+     "id": "d2cd14ec39d8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Big Issue",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI: How Grand Theft Auto handles issues like homelessness",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1OEN1VlJ6cnlyeVBKMkJYS0VBZDlEaFRkNFdCUHRRSWtrNGRiXzNEeFZETW9TemktcUZvMHNOclVjX29IdG1rWG5TeU1qbUVHRmpMUlE2Y0xXT1pQUElZSU85WFBra2F3Tkx2ZWdoOW00cnBaSGJJdW1YWQ?oc=5",
+     "ts": "2026-11-19T06:04:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "eaf4ecbcba79",
+   "title": "Геймеры «положили» статистику: скачивание GTA VI взвинтило интернет-трафик в России",
+   "first_seen": "2026-11-19T06:10:45Z",
+   "updated": "2026-11-19T06:10:45Z",
+   "items": [
+    {
+     "id": "eaf4ecbcba79",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "rosbalt.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Геймеры «положили» статистику: скачивание GTA VI взвинтило интернет-трафик в России",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0NJXzhMdHpKcEg5UXNGdlJGeE02RXlzOFpILXYwYnFOM0pxUF9UN09QRWs0bkFoRHFmN0I5Rks5MVA3bHBNTzN5RFR4enNHSVFFdUs4WkIzZzF1QXd2R3hieHRIeGNaeFFUUkNKOFRiem9SR0xWWDBsM2JzY0dFSllCaXBkbVkyb0xjWUtTdWRyUnJub1BxcGQ5LTdlbklwaGhON3FnQkctRkVEajVDSi1EbHZCMktyMDcxOGozUHI1TTZ0cTBhcw?oc=5",
+     "ts": "2026-11-19T06:04:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4455c7292c9e",
+   "title": "Компания-разработчик GTA 6 выпустила эксклюзивный кейс для PlayStation 5",
+   "first_seen": "2026-11-19T06:10:45Z",
+   "updated": "2026-11-19T06:10:45Z",
+   "items": [
+    {
+     "id": "4455c7292c9e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Kursiv Media Казахстан: последние новости Казахстана и мира",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Компания-разработчик GTA 6 выпустила эксклюзивный кейс для PlayStation 5",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMml4eW1zYjcwWGJTaW5kRWU5aDVKSHp5alFLbmxHSEtwbW5fVzM1MXpYbTNQbUN2RTh1VHlxNjFxRlZfN1BzR3AxblB2b2RMLTkyNzRMVmRuWFdxb0ZGRkI4aE4xckRaSkpOUFkyRWlNMUVHcFpnX0VSOHZYSnFwQ1pBb0JlS2c0Q01LUG5LdHJtal9OV2pmdGNONkptbHd2ejBlaHRnXzJ4ZGpLOE5BX2w2QkR5dEZp?oc=5",
+     "ts": "2026-11-19T06:06:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "bd9369c58159",
    "title": "«Романтизация криминала»: в России призвали ограничить GTA 6 среди детей",
    "first_seen": "2026-11-19T06:01:09Z",
@@ -294,32 +563,6 @@
     "at": "2026-11-18T13:01:24Z"
    },
    "msg_id": 1295
-  },
-  {
-   "id": "64554a60328e",
-   "title": "Morning Bid: Loading ... Claude and GTA VI",
-   "first_seen": "2026-11-19T05:50:51Z",
-   "updated": "2026-11-19T05:50:51Z",
-   "items": [
-    {
-     "id": "64554a60328e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "US News Money",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Morning Bid: Loading ... Claude and GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeXJ2QUdBWUxiVEJqckludjFvZ0N2b2lFN2lJS00tc3hjaGdCN3d1cWdMVDVhSUJIaTN0bDZsX0h1ekp3MmZQM2Q0QnRQb1JaMHRWaG5FTjMwN3JvcVBCa0tGWjRrQlI4RkxjMjRFb0M2a2VRaEc1RFItZENGVERrQzVySDliT1JWWWxhcFNvYVJHRFNfTWxUMXBDTkRUUQ?oc=5",
-     "ts": "2026-11-19T05:40:54Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "02c054492249",
@@ -896,32 +1139,6 @@
    "status": "new",
    "ai_fail": 1,
    "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 46 (char 47)"
-  },
-  {
-   "id": "d9af8edce04b",
-   "title": "Heat transform arena for ‘GTA 6’ theme night — complete with massive rooftop advertisement",
-   "first_seen": "2026-11-19T05:20:49Z",
-   "updated": "2026-11-19T05:20:49Z",
-   "items": [
-    {
-     "id": "d9af8edce04b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "AOL.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Heat transform arena for ‘GTA 6’ theme night — complete with massive rooftop advertisement",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42MWJ0VnZBT2dlZVU2VmxwZFNtZGIyTjhSTVluZGVRUkpRR1NBTzVJZURjR0RGY2VVdmF3MnE2dXZfbG55cGtNeU4wYVN3RXZPS3FyRHJvSGVDcHpXSUQ3Y3RZYnlOZ2wycFhNcUxXbUlYUkp6c2stVnJn?oc=5",
-     "ts": "2026-11-19T05:02:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "bd3cc70a0b74",
@@ -7136,32 +7353,6 @@
      "title": "How to Get Rich Fast in GTA 6: Every Money Method Ranked by Payout",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0o2Rk1SN2tOVkxkQnN1UUlfcnFzaWpLRnlEUzlfdnZ0UUFmQ2lCRXhYUjhEcVhKeWMxdGoydGx0TUFqcUd1aXJJSWcxa2xRaWtiTjNXbTJSaktoN3JRZmdBYTJlYjl5eDJERlpyNXAtVGRmZjVfTHVUaGdGXzAxa0lBOEFfWERObFpFZ3dR?oc=5",
      "ts": "2026-11-19T01:14:58Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "21b7a2f56726",
-   "title": "Just How Big Is ‘Grand Theft Auto VI’? The Multibillion-Dollar Frenzy in Charts",
-   "first_seen": "2026-11-19T01:10:48Z",
-   "updated": "2026-11-19T01:10:48Z",
-   "items": [
-    {
-     "id": "21b7a2f56726",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WSJ",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Just How Big Is ‘Grand Theft Auto VI’? The Multibillion-Dollar Frenzy in Charts",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEdNaGdTb0NkZXhibnhvTW1qM2VqeFVBcTVnbzBNUGpMX2VGT2V1YXNOWEZ6RElielE2RldNNkhzcHEteFRVUmtPbElMdE90RW9BLVFnRlhCTl9uOUtMa2NZQlVXNE0tcHpfRzlLLVJsT1pTQ21GMXZ5amYyeVMyeGk3Nlp2ck5LNHJranNWdWpWcTJFLVJ3SFJsUTgzSnlxd0g1WWd6dDNOcHdvdkV2WlBkX3hJVDF1aWhrWA?oc=5",
-     "ts": "2026-11-19T01:00:00Z",
      "summary": ""
     }
    ],
@@ -155749,184 +155940,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "43e970e6598b",
-   "title": "IF YOU ARE NOT HOME WHEN GTA 6 RELEASES",
-   "first_seen": "2026-11-12T06:10:47Z",
-   "updated": "2026-11-12T06:10:47Z",
-   "items": [
-    {
-     "id": "43e970e6598b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "IF YOU ARE NOT HOME WHEN GTA 6 RELEASES",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xu523q/if_you_are_not_home_when_gta_6_releases/",
-     "ts": "2026-11-12T06:01:30Z",
-     "summary": "YOU WAITED 5+ YEARS FOR GTA 6. YOU CAN WAIT 20 MORE MINUTES OR LONGER TO GET HOME SAFELY!! submitted by /u/Vivid-Champion-1367 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4f67b03e5e6c",
-   "title": "Instead of a next GTA game, why not just create different maps and experiences?",
-   "first_seen": "2026-11-12T06:10:47Z",
-   "updated": "2026-11-12T06:10:47Z",
-   "items": [
-    {
-     "id": "4f67b03e5e6c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Instead of a next GTA game, why not just create different maps and experiences?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xu52sp/instead_of_a_next_gta_game_why_not_just_create/",
-     "ts": "2026-11-12T06:02:37Z",
-     "summary": "First of all, I'm not well-versed in game development and production of them, but why couldn't they just use the existing systems of a supposedly insanely developed game and say, make a Liberty City one then Los Santos after, and connect them all? Or a completely different place. Wouldn't having the GTA 6 serve as foundation for it and shorten the production of them? Or is that not how game development translates? Wouldn't that be easier and could be churned out way faster than your average game development? submitted by /u/afanoferi to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c116e700febe",
-   "title": "Никакого VRR — GTA 6 на консолях не увидит даже 40 FPS и будет",
-   "first_seen": "2026-11-12T06:10:47Z",
-   "updated": "2026-11-12T06:10:47Z",
-   "items": [
-    {
-     "id": "c116e700febe",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Никакого VRR — GTA 6 на консолях не увидит даже 40 FPS и будет",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnJyODZlb01zLXJ5dUhscUFUdllFTDVLQy1ic0ZoRDQxSGRQZlIxTGg1NFRqZGF2Y3FDWm5fMXIzemcySUVlOURRMkVERHpyaXZuT1dBSHdESE4xQ0JOcWMtbU9nSFNFazh0STdldWRDLU1FUldvOFVIa3F4YjczMFh6STVWb2FGQVRYNzItNTNPUTVmZlA0S2o1TEFmN0x1dXVXaWpud0xwamdxMG9CZHN2SUo0LV9GcmgyWVRsWG9fYUdNdGFXOTdFMm0wQi04OUlveA?oc=5",
-     "ts": "2026-11-12T06:03:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "42f4c5c631d1",
-   "title": "Holy shit",
-   "first_seen": "2026-11-12T06:10:47Z",
-   "updated": "2026-11-12T06:10:47Z",
-   "items": [
-    {
-     "id": "42f4c5c631d1",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Holy shit",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xu53v8/holy_shit/",
-     "ts": "2026-11-12T06:04:15Z",
-     "summary": "It’s so beautiful submitted by /u/Kobes98 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e0bec83c0714",
-   "title": "Playing GTA V one final time and thought the sky was very fitting",
-   "first_seen": "2026-11-12T06:10:47Z",
-   "updated": "2026-11-12T06:10:47Z",
-   "items": [
-    {
-     "id": "e0bec83c0714",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Playing GTA V one final time and thought the sky was very fitting",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xu5489/playing_gta_v_one_final_time_and_thought_the_sky/",
-     "ts": "2026-11-12T06:04:52Z",
-     "summary": "submitted by /u/KuntaWuKnicks to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "69a30bdaab36",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Playing GTA V one final time and thought the sky was very fitting",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xu55af/playing_gta_v_one_final_time_and_thought_the_sky/",
-     "ts": "2026-11-12T06:06:35Z",
-     "summary": "submitted by /u/KuntaWuKnicks to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1fff40fef751",
-   "title": "A cleaner alternative to the GTA 6 weapon wheel",
-   "first_seen": "2026-11-12T06:01:17Z",
-   "updated": "2026-11-12T06:01:17Z",
-   "items": [
-    {
-     "id": "1fff40fef751",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "A cleaner alternative to the GTA 6 weapon wheel",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xu4xe4/a_cleaner_alternative_to_the_gta_6_weapon_wheel/",
-     "ts": "2026-11-12T05:54:16Z",
-     "summary": "Jason Schreier’s comments about Rockstar spending months/years testing alternatives to the weapon wheel because they wanted more realistic limited loadouts made me think about the Spider-Man 2 system. Hold L1 for weapons Hold R1 for consumables, etc. Just pure muscle memory on where you choose to place your weapons. I mocked it up quickly (sorry for the AI image, it was honestly the only way I could show what I meant). If you played Spider-Man 2 you know what I mean. Also, I’m curious what you guys think. submitted by /u/dubdizzle99 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T06:01:10Z",
+  "last_run": "2026-11-19T06:10:53Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
-   "gnews_ru: 98/100",
+   "rockstar_site: 0/0",
+   "gnews_en: 97/100",
+   "gnews_ru: 97/100",
    "gamesbeat: 6/10",
    "vgc: 9/10",
    "insider_gaming: 9/10",
@@ -155939,7 +155961,7 @@
    "tg_gtavistar: 11/11",
    "tg_gta6deluxe: 17/17",
    "tg_gta6_m: 14/14",
-   "tg_gta6newsdaily: 18/20"
+   "tg_gta6newsdaily: 19/20"
   ],
   "digest": "2026-11-19@9",
   "tg_offset": 854319078
