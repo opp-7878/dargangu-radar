@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "6bd14c844793",
+   "title": "GTA 6: What's the big deal?",
+   "first_seen": "2026-11-19T00:40:55Z",
+   "updated": "2026-11-19T00:40:55Z",
+   "items": [
+    {
+     "id": "6bd14c844793",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Wenatchee World",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: What's the big deal?",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkRvekdWUW1MaHFtRXpITW95UG9pa2xzN3BGQVhjR0hBWFk1cnNqRFhib2RyRzZZOU16TmkwR1pmX0M0aWtOZUxBWm5YekNJdXZQUUl5dW1YVzdnSmM2bkoyeEhETnRRY0VneGtvVmdHQ3M2bmxkZi1QUGZyazBveGduOUlqcEpkWkRWaUROeDRkczE4UGp4ZXU2YXlMQUI5U3dXZlU3eThINEJLNGlYNEtZcmpqRGs?oc=5",
+     "ts": "2026-11-19T00:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "8e458a7a0eb2",
    "title": "GTA 6 Jason’s House: How to fix all projects around Jason’s House",
    "first_seen": "2026-11-18T11:10:50Z",
@@ -152531,7 +152557,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T00:40:02Z",
+  "last_run": "2026-11-19T00:40:55Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
