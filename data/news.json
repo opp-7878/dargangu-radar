@@ -1,6 +1,871 @@
 {
  "stories": [
   {
+   "id": "a8e0e74ab517",
+   "title": "First Impression: ‘Grand Theft Auto VI’s’ realism pulls gamers into being actors",
+   "first_seen": "2026-11-19T20:41:06Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "a8e0e74ab517",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Mercury News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "First Impression: ‘Grand Theft Auto VI’s’ realism pulls gamers into being actors",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tV1dRRGdiYm1QV2EwazV4VV9oQi1rcGlNQmZnQlhZbFRxc3Z1WFNpUUlJbGNaXzU5RkNJSGdqNV9pcDd5cE4zRmVZWDIwNXJkVHVXOGJ6cmlDUWctTF9uSzZFSTFCeFU1?oc=5",
+     "ts": "2026-11-19T20:35:55Z",
+     "summary": ""
+    },
+    {
+     "id": "79d6098af6c5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Santa Cruz Sentinel",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "First impression: ‘Grand Theft Auto VI’s’ realism pulls gamers into being actors",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wOHprZ0cwZ0p5SnpaX0hUZXBWLU41WVVGVWdCeDlWYVNpSG1FMGFaWWhlZ2ZQUHF0dXlab05DdUh5U1VmdWFGWFp4MGRkWHVKVTAyOS1sU0h4NkRJUy1hNS1CWmtKQ2lTajhHSFBuZkw?oc=5",
+     "ts": "2026-11-19T22:07:03Z",
+     "summary": ""
+    },
+    {
+     "id": "70906b785ef9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Times-Standard",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "First impression: ‘Grand Theft Auto VI’s’ realism pulls gamers into being actors",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcGVEMlQzV0k5dkxrOThUeEVFb1NPal9DWW1rbWJrVUVYMmtNN1hpeHNOaUItdkJLekQ3UlJBWlFFLUxTNlZFcVVveG96MW4xaU03ZkNHUlMxcHB2Mko2NHNHaUNtcDFrYWNCSg?oc=5",
+     "ts": "2026-11-19T22:06:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: реализм, от которого мурашки. Первые впечатления",
+    "summary": "По данным The Mercury News и Santa Cruz Sentinel, игроки отмечают, что реализм GTA 6 буквально втягивает в роль. Журналисты описывают первые впечатления как ощущение «быть актёром» в живом Вайс-Сити.",
+    "idea": "Короткая нарезка «живых» моментов GTA 6 с реакциями игроков и титром «Будто ты актёр». Зрителю интересно увидеть, за что хвалят реализм и как это ощущается в игре.",
+    "hook": "Будто ты актёр, а не игрок — первые часы в GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T22:20:58Z"
+   },
+   "msg_id": 1605
+  },
+  {
+   "id": "007d45e28ebe",
+   "title": "Gamers in New Zealand try out 'GTA VI' first",
+   "first_seen": "2026-11-19T20:41:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "007d45e28ebe",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WRDW",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTU0SkRiMlFld2Z0blZmZDlmaW9KcmdSWDNVN2RmNjNaQW5uUlNPOFluVGtMdlpWMlNacUtfWXQtZ0hTVUVsWUhWd0REOGlDcFpFdVJUNWFYazIzVUE2X0R4SEZoLV82Zl83cFpsYWg2VXRNamF0Q1FhcDFOOHllYjk5Mno?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "95a772ea761e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KCBD",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRy1vQUhHQ0pIZVBMdjRabkdma1puNWV6bTkyaVQydmg5Z0NGM1c2anQtcV8yNVEwMnZyVDJOWXR3clV3cmZJNllCZWVOOW4zYkJocGdXU1dJbF83ZlY2a2FXV2c0dnk4dHpsQVNaUFV6NXBDeU5tenhhQW9LTkpBMVlidkQ?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "6cc41a7f9573",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WVLT",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTFVKaE0zQXRRbnZjbjFEWjZTd1JwZ3lJYzVYbVo0Vy1zY0dCdXY1TmlFLUZobHVvb1A0b3FaaDlXMl85bklTMllDY18xOXhXU1pjUWlNeTNkNkxXalpWT0ppTDFLRDdWLWsxV09KaHFuQUNuakJjNW9SS2VGLW9uYmxpTQ?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "38d23b85cc13",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Upper Michigan's Source",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZnBSMEFkUmhqVjMwTjZBUERPRVY0US1xV0pwaTFLQVhKZ2prSG5VaVlLMkNMZnUxaFV0M05seEl0X1I2VzRRN3VNNFJxSlpOZ0lXTkJwUWI1WUc2dGVoU0N0SmJ5UFhreHZhY29SUzI3OXYwaUlwQURnMGIzNUY2anlGTjBlRFByQjE1OF9OWDRCZzlnZ2JFU0dB?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "97cfd9f4c835",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WAFB",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3poZWxLMXpCOFBLSTJZRW0xeFIyOUFfV3lqTHpxeVdKXzhsVXMzX3dFSnNSUnhrZ3lyT25FNnJNQjNJRjAzYXZDdGU5ZTBjenNvQWJyUVVoN01kYkh1ejZCaVUtSU8tV3NoeHA2YmxzV0NYRkxNNGwwaFQ2Y2twQThnNzY?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "1be514216da4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "News Channel 6 | Wichita Falls, TX",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0xqSm9SN1dSd1lqTVVtYThGUmwzN0VDUDhHSUtQSHNhSUZlTDhGQklTZ3kxbDdsM05oanlRSWQ0SHdTQjg4dnJKVldjNzUxS0E4UXJCX2ZmaXBxcFdnRHFKMXcwQmc1Y0JqLUJ2MUhDY0RqMlMzbDVWWS1MalpLNm1vdHVFaVVBWXV1UGl4bXY0MFE?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "0bc5fe26e86d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ABC7 WWSB",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTQxTkV6cjJKTFhqSU1FX1pQNWxXdnRtcnpXaTZWUmVZRTNaZWRzOEdpT3NpM0EyY3BUNndGVGxDWjh1QnJJQjY5ZV9VMlVrbkwzX2lDTjk1Y3BUNnZ2X1p2b0xpdGJUbm5kVVJUOGFTeXR4czZIWUFXNk1iakUtVjNyNElPcHpqY3BuUg?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "a3f0ff494025",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WHSV",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWZBV3poWGh1MFd2UDRRelJTSFpiSFdnZi1TMnczX2tRWnNTbE1FdFo0RU5KUG1uRF9iMXhUMDJTalU0eTJScmlpTl9IallNeE90OTR2b3hxbjIxenZJQ0RIZEQyTUpPYno2c3FveWlXaVRETFZXcGcwRXo1Z1JJZjVpMFk?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "4fef22ce3d11",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WBRC 6 News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTXlvSldrbFRhMXpSQlA2Skk5YWdMUXFCNnphWFN3LV8zWE1LOHhQSVZlOWhZSThXdXIxVmpDZWktSjBtbHB5WXdMeDJlTGY2eHV5RUNjZVZSOXdLT280WnFWUkFNYlRKd0d1a2hYdllQcXRENnU2TVJJZ2h4YzVkZE9MWFo?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "29fa56c0ccab",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WABI",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU1EdG5yUTVUMjNCWDZ2czF4c0laSnlOZlV0cGgwN2c2dGd4cjhUOERoVUlhNnFZWnp5NGMtTmhFX01KeVFleGMzN3c5YjZ6QVJQMUpPMWYyaG5iYjBlZGxuamFQR2lhX3gwZlhGUXRLSjRqNzZ5YVN4ZkQtczFPSHRPQQ?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "da03ef8d5047",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KOLD",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDFCZWpySXlLUTNiRTc1M0lwTnFaZm5ZaGZkOF93N3M4QkY4UEFzOGZBVFVmX3BqYnlTbTF0d1dYWnRpa1IxdlprUHI2NV9OSUFVVXR4UlZ5Mi16bTFSaWRrU05hcjgtdjF6M1dKWkhJUjFCdnR2SUE3VjhrTWJENHB5LVI?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "aaecfef60bf5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WIS News 10",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEJUcUc5UzdKNkdyWUZGT3o4eUE5UmRHN2Y5Y3RRcXlrMUZGVFJWbnZsNXlvbWxWcHNzVVJnQVpkOGg1Z3FiZEFvMmw5YVdERU1lSkRHS1pVeWNESmNvY29jUlFkUWNYY0hwazhWeTBJdV9mUHdzWkFKb3MxaWFUU0NpQkRVQQ?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "e8da85099f6e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KOTA Territory News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNamFvdko2bktrV29lWnkyTV9IRjl1ekNVX3FRRDhiWm53RVdHNU5qMUJUWF81Zkl4SkQ0NTNLc1o4ZFppOEhpSzRGNlJhallkNGE0X0w3Z1p0TlRCVmh2WGd6Z0tkOTlBdWFtLVRRakVYeV9QeGdBLVlleXhxeW5IYk40aDF6ZW8?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "d3e0f46f7a6b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WWBT",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd001QWpOdnBEeXl5anJlRFA0WE5iZFo4WmVjdWJiSUhueXVOd1BpakRrMGJucEpNcFJoeUVPeTVzazY1WTZFYU5IT0ZkeEtNcDF2NHE2enl5OGl3Z1dsdlRFa05mS1lYcUU4ZXM1eTY2MTRSOHFvMVo5QjBoRDhuRTVwWmRMRGtkRDBobklWOA?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "959c042a9c44",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WTAP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlp4U2FULTlYYlhKRXdlcTZrOElCZk03bXB5QWE0Zm9xQmFpRjFQUWZzbFhFVnYwNGhFenJ5QWo0X3JwVmtUeGdDT1djaFFOdGZhOXpHdjlTWkZtY3NWQ1RPWUJwb2t0RDdnQmo0Ni1takotMXgweHpMLXF2RUVLOUVxSHI?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "23c50e2a00c6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "fox8live.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX01RV1ZLVmdSSzRHYjl1U2NtU0tVUjQ5ekhwcS1zNjBTWTg4ZU5XLXhOWVJ2Z3FEM3labXFKZTA4RDQ4aDI0QWhQZjJlSm85S09lZ0VsQ1FvMllFckJMc3dyUVJpUEFJb21ySU1pNWtZSGxhRW9zSkJ0N3RRR2tMU05UZ1E0dXJVWnc?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "5d6984c6abcb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WLBT",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGdCc3RuWmgxdHVwLTVVTlp1d3gyZ2pPLXdIeU9iMnFkWG9scnQ2ZmdaNm5fYVc0a3JZNFZJSkhyWFQ3WXBJN2puRzhlbmNESkozM3lWTkoyRzJvTWRUUGd2Z2ctb0toY19SVm53UzMta2Y0ajVRLWtzZXFCbEd2ZGxsUV8?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "29bbfa09bb99",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WBAY",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnpXSEk2UHM2d0lBLVVwM3NrS3RGV01Pc09KMC0wajRlWlhSbGd4RzQ3bVgwMFVDOVZmZnM1bjgwV1Jma1NveldkaGp6UFNwWTBFYzNkYTA0Nm9wQUVieldWcG5uME5MMm9sRW5zQkNhMDNMYmlPWVVoR0czUTgtRFdaTmk?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "0cab2ace0b72",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WWNY",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ25mX0xkVkpCRzBHM0VIVEp0TmdIMGxMLWh1aXpyZXY2d1dhSDVWNko3UWpMUXlwNjN0UzNyd1ZfcXk3Nkc0VUFSQ1BVeDNqXzdnQ2U3M2VFUkVOR09XUzZ3VEdPZThCZkpfbE8zdnl2WnppQ1Zod2tWODBqamZKdnlhdGhZZGc?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "35968f116b21",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "www.fox34.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORDUwTG1PaWIzY0JfLTBVQ1JxVkdtU1QzM0lEd2RXbzZtV0JITDVZSFAxZEVtZUs0ZG9jbnI0TTljejVpUmhtT1VFR0VoZUcycHdTTTFKQ3c1NURCY25Dd2o0R0RRbGlHTDkwQm5JaVludk85QmJ4eksxZk92SEQ2dDI4MXBodw?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "1c8c987d5d78",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WALB.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjRDVjBLUi0xUEw1Y0pJM0tseExxVU91UTlUZ21HV1FYbmptTlN1QmNDWlFpdUR1X1FfOHlfV0VPZ1l2NjV3YzZrTC1VR3pzRklqVkYtVWhGYm03WGpLc2dNSHlfREYybllqNndVT1pTbmo1bERPdm1BZDNPXzVkYXhCMGo?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "67732971ed64",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KALB | News Channel 5",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0xJQURVaGV1ZkhPUnRJc29ROG45TW1QZjBUbGlZMGVVZUxaN3RPa0N0NjlBczU2c0JaX2tYSjlOWTlWa0p2dkpKaTVmSG9VdEhtS0tKSTFwazlZanNwWVdUUEdLQUMtQlloTXBtV1NHT3lsOHk1eGRCQ2Rvc1YyUkZ0QTc?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    },
+    {
+     "id": "781093367faf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KFVS12",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers in New Zealand try out 'GTA VI' first",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXV3YnpiaGhKQnk0a2cwMVFZc09PdmtIM2lnOGswZDhOS2ItdGJzSjYwd0VkMzdmeDVjeGRyS1RwRXF2QmoxZXByODdJTm5LS0JJams3TTBTaW1HRnozREpsTWtsSVJEeFpNMUFOd0F5N1FOVDAydEY4MGJpSFdkUTZ4TGlIUUU?oc=5",
+     "ts": "2026-11-19T20:24:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 уже играют в Новой Зеландии? 👀",
+    "summary": "Геймеры в Новой Зеландии утверждают, что уже пробуют GTA 6, пишут местные СМИ WRDW, KCBD и WVLT. Официальных комментариев от Rockstar нет. Похоже на ранний локальный тест или розыгрыш.",
+    "idea": "Короткий разбор: что именно сказали игроки, почему это может быть тест, и вопрос зрителям — фейк или нет. Зрителю интересно проверить слухи в день релиза.",
+    "hook": "Говорят, в Новой Зеландии уже играют в GTA 6. Проверяем.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T20:41:11Z"
+   },
+   "msg_id": 1597
+  },
+  {
+   "id": "af4fbe914d38",
+   "title": "Lincoln gamers celebrate release of ‘Grand Theft Auto VI’",
+   "first_seen": "2026-11-18T23:01:16Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "af4fbe914d38",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Lincoln gamers celebrate release of ‘Grand Theft Auto VI’",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHBkVUxNQ0F1VDdqVFo2YlROOXM0d1ZEa1lZVTdGdGJCVXhlcE44WDFyX1JDUXphUlVONnJjSE9pc1FnZUNicVlvOGI4Z2VWZVJzMjZtY1c0aEVkT2J4eDZDOFF0OG9NeFNST292WnRMVHNkWFA3YURnMzVHQlhhaVNJY2tRZGdZekYzZFpoZHQ2QdIBpgFBVV95cUxOT1E0M2xMRWdaZGNSMGpQdmw4TVo0bnd3WHJXcV9wSHR0UDRJanY1UjdNZUpNcGE1cHZuU0loZkh0QWk5ZDBvWjRwMHhYSExENWxyQnExOTZ0eWFoQlZEc3ZDdEY2NlJyZDJpRHBzWjA3emVjWGt5ZUk1SlY2Vm1ZU0VvTjF5UWJjLWJhaEhVMF9TWTdwZEp1ZzJUQjRab2xhcU90cm1n?oc=5",
+     "ts": "2026-11-18T22:49:00Z",
+     "summary": ""
+    },
+    {
+     "id": "39db082562eb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Lincoln gamers celebrate release of ‘Grand Theft Auto VI’",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3Y5cXF5a01ySkV3aURiVG9XSy1veE9TT2htYi1EdTVVXzJjSVB0ODBIMExFR1ZjNm1MSUoxUUhOQWJaQTRVMkExMlZwbUwtWGtIaHl6QUlGejRvOUtJVTVaMGxQR0lWWlg3QXRCUUhBVngyc2lpU0E3emRXZUpFaU1abWZMbFJuMEI3Sjd5cVItZHJwVXFkYV9R?oc=5",
+     "ts": "2026-11-19T00:22:00Z",
+     "summary": ""
+    },
+    {
+     "id": "e08bba069534",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Floridian Press",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers Celebrate Long-Awaited Release of Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXl6WnpHVmNtcWVnbzJ5RWxlUFRyRVY0V3BOdzBRUy1USlVHTnAtVVpYOFd3Q0FHU1NTVnRYUXRUckd2OWV5YjRCOVpsdDlDX3NPVTJXVUdnNXJDVkFvRVk0d2xIT2hmQk9yNFRucXhxbjhPVGFpQll4MmNTMW1INV9lcTRyV0N6dDVsbkRLZWZoMmpBNEoyeDFwMnU?oc=5",
+     "ts": "2026-11-19T15:59:15Z",
+     "summary": ""
+    },
+    {
+     "id": "4fad036939dd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NBC News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers worldwide celebrate the release of Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFRPcmJlOUt6eHgxYXhuUVBjLUlUYWpzRFRSMnZuN3BQcERUdUVsbUoyellib3p1eFNhZGVhQXNrTlZOU3ZaTkk1X0l2TFJPbk1sM1lIbUtzaUtUTWF2cjg2aTNLV1MwZ3VuOXFQcWZ5bkx6Tmc5T2cwWDc1Mm5NQWsxR0FOcEZYSVo1dDItY2Y4VDBaZnBOSFBKQWZKZFBNeFFDbUZyWQ?oc=5",
+     "ts": "2026-11-19T21:41:01Z",
+     "summary": ""
+    },
+    {
+     "id": "eb6bf5e43bdf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NBC News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gamers worldwide celebrate release of GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVNCTmR4Rmc0S0NPNTZEZTJQbGtMcm4xSF81aTFkSXR1RnZpdXdkUW9MWjFBcjJ3SmpWZWJDZEhmOFVaTFFtd3ZPcC1FU2RCaGQxMDdpV21BTE43TFpkdUVMNmFOZmc3RzZIQ2t1ODllNVhKTVhMQjRiOWFydC13X1ZtcWtwb3Vkd1pWU0xqc3h1ck15YUgtUHVR?oc=5",
+     "ts": "2026-11-19T22:22:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "183d951b4679",
+   "title": "GTA 6 has Lamine Yamal in it? Character’s appearance has players looking for answers",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "183d951b4679",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MARCA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 has Lamine Yamal in it? Character’s appearance has players looking for answers",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSkF6RFktb0RpTjBzUXpsWkN3dE5aUHdocWRTbnI5aXhyYVBHTklxQkh6YUU5dTFBS0EwTDR6SHhVWnFiQzZDSE84cWJnUldFOElDTHJBbnQ5M05TaXNkT01qMlFUU194VGxTck1UWTdiTmU5RDZkeVlvTzdKTVRNdDhtTEdiNWF4TlNCQ0hiZGVSLUN1Qi1PaHlWeHpnSXY5c05ZV2lMQ2p6WmxLUW45Q3JqbEVCU1FUcEN5czlKb2RJcmo3OWhKTTlraDUtTjU1QzhSOTFJZmtEd9IB2gFBVV95cUxQdHFQTHlZakhHSERqVVZaNnNicC0ydFoyZFl4Q1Vvcmoya3R2TmdGaDhVRUVlQ1VuS25DTFZyT093R18xNXZXVDAzb0dpUzNWWXZKb0tRZUJhVkh5dGg4VXBreXFaRkh6QVJ5dWEtOVZTaC1UUHpBZEJSYnYzNl8taWdJZWNrUFppM2l5djFHZ3J4R3R5ZHJYeHNTUFRrck9SdmRYY1RkVlk3ajNNck9vakI3RXdQaGZFM3p1cmxHM0dzZl9VdGRxWlRqZjJRSFU4WEp5UWhBcXNPZw?oc=5",
+     "ts": "2026-11-19T21:47:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "57235807620b",
+   "title": "GTA VI Easter Egg: Players Find Dexter Morgan’s Apartment In-Game",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "57235807620b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TheWrap",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Easter Egg: Players Find Dexter Morgan’s Apartment In-Game",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkRpRkd2cWZZMUdZRGlzVkxfUjE1dWtPYnEwR3ZoTUE0RGtONWo2eFFJVnFBMEtnaXphTjRaalJQWThheENJWkVocmdQMGcxbW5kVVBNdVNIVkIwMk1qbWhkdnJGR3ZnRmxOa3k5NzhPZUhaOG9mSU11bmlTd0d4V200YTJqbWpGNHFab3RleENMa1ppWXc?oc=5",
+     "ts": "2026-11-19T21:52:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8813b232eb2e",
+   "title": "GTA 6 Made 2 Million XBOX Players Lie About Their Nationality",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "8813b232eb2e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "DualShockers",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Made 2 Million XBOX Players Lie About Their Nationality",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOFk0aGJlbEwtVFRPVEdJYlg4YmtqdFo1dk50N2UwNms0TVc4b0JDcmt1WVpJT2ZDQko5QU5HVE1mWk5DdW1kek1jM0tEQUpuN1JfRThaVmY4azlTdzVia05zRVB1OVlMU3VUaGZlLWQ4elVqbklqVHNVMjdpSzVaS1FfXzdiNkx0SlVXV3lWNFhnSXE1bnc?oc=5",
+     "ts": "2026-11-19T22:08:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "00ae289e3aa4",
+   "title": "GTA 6 Has A Radio Station Hosted By 'Weird Al' Yankovic",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "00ae289e3aa4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Dayton’s New Country 103.9",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Has A Radio Station Hosted By 'Weird Al' Yankovic",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMG5LTUVBZUxhWnI4S3JlMmc2MlRNZHdZVlhvTjZpM29EaFRvNVREYW1Xak52dWlIczJOYzdSZVF5eGo3VWU4OS0weTBFUGxmX1ZvZS1QZDRJNkV4akFqdHVlM3NuMXZtQkFzYXg3LU1maG9FU2l1eFBURk1TQTFpR0RrMkU3aURoalVzQ0RqQk1MOFZ0OTRPbUhpZnl0T01ETklIQUFUaE1WN0lMb0E?oc=5",
+     "ts": "2026-11-19T22:10:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "dd81b595dc84",
+   "title": "Analyst says 'GTA VI' could sell 30M copies by March, maybe December",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "dd81b595dc84",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Analyst says 'GTA VI' could sell 30M copies by March, maybe December",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXRzdDBVUC1qNDJpN2xTVXMyMWVpZ2h2Uzl2ckoxSkl2NVJ4Z2oxNDUwQ1FsU05Ubkd4WUU0VE1MOWtzTnVNbEdiTmRkeGptM0lodkVjZzFUUzdHUVlsclVRTlBCbXY0RURFYmFtY0QyMXhuWHJKTlVaMHIteWM2ZENtaEN1LWpQZDV3RnJJUGVfaVFmTklwUncwdkZoamlnazhQemczUzg2T01MU1hyak5iUHY0dw?oc=5",
+     "ts": "2026-11-19T22:13:57Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5212456fc287",
+   "title": "GTA 6 launch & Sports with PudgyBoyz Sports Talk!",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "5212456fc287",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "FOX 5 New York",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 launch & Sports with PudgyBoyz Sports Talk!",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rdDhxbTBpYWhKY25tQkZ2enRwb01wMHVXczN3TUdhblNDTHc4ODJSeEJQTDh4aHEwQmNDS25ydlZaWEMzSFo4UlUyODVCNFJleG9yRmx2ald0VVFmWlHSAWNBVV95cUxQbGRWZk5QT096WnBHMDJzX1ZNX2lzT1ZZX0JNSDRzakZOYTVRenZGanhHdURONWpYZmxXRkF6T28zb3NsRUp6VUxtNmVqMXlqTUJBVWNLVFp1RVFfb2U1WWlHY00?oc=5",
+     "ts": "2026-11-19T22:19:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a1251d9696b9",
+   "title": "Video Game Spending Dropped 14 Percent This October, Possibly Because Everyone Was Preparing for GTA 6",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "a1251d9696b9",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Video Game Spending Dropped 14 Percent This October, Possibly Because Everyone Was Preparing for GTA 6",
+     "url": "https://www.ign.com/articles/video-game-spending-dropped-14-percent-this-october-possibly-because-everyone-was-preparing-for-gta-6",
+     "ts": "2026-11-19T22:20:09Z",
+     "summary": "The amount of money that players spent on video games this October fell 14%, and it’s little surprise that this coincided with the release of GTA 6 in November."
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Игроки экономят перед GTA 6: траты упали на 14%",
+    "summary": "По данным IGN, в октябре траты игроков на видеоигры упали на 14%. Издание связывает это с подготовкой к выходу GTA 6 в ноябре.",
+    "idea": "Короткий разбор графика трат с подписью «Все копят на GTA 6» и выводом: ноябрь объясняет провал октября.",
+    "hook": "Октябрьские траты на игры рухнули на 14%. Все копят на GTA 6?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T22:31:08Z"
+   },
+   "msg_id": 1606
+  },
+  {
+   "id": "08a203f1ab83",
+   "title": "KFC Australia and We Are Social Stage Fake Funeral for GTA VI Launch Day — LBB",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "08a203f1ab83",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "LBB - Little Black Book",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "KFC Australia and We Are Social Stage Fake Funeral for GTA VI Launch Day — LBB",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xYXpwTEFPcW1sSUpYaVJnd29UNHd5cGI1bk01dnFXc3hwLUJmakduOHdKaEFTM0NWVGNoZFJqMGs2WEs0SDRPU2lxSlkyWUJVZTZqaW5zT0N5d3pUbDhLczZ2WDkwNFdhVTU1NA?oc=5",
+     "ts": "2026-11-19T22:21:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "31d487f2efc4",
+   "title": "Wichitans show excitement ahead of Grand Theft Auto VI release",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "31d487f2efc4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KWCH",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Wichitans show excitement ahead of Grand Theft Auto VI release",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2FwWFFPSjBGbXJkOWFXU0VVd052X0x0TUxwSkpMR2g5eU5JXzFHNjBUNnVvbElFUnFjYXlxd195UW5OLWZ6VkozM3duRDdCQ2tzQl9NZnFZSG4wUkRuLVJEVnVTUHFtLUdDX1RFMlBwZ3hqdUtYSVl4VG1tcmlydnVjbnBZMnNyOXpVQmRPLWZucjJBUHpv?oc=5",
+     "ts": "2026-11-19T22:22:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fe77abb35e38",
+   "title": "GTA 6's Best Early Car Upgrade Is Free - Here's How To Get It In Chapter 1",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "fe77abb35e38",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "SlashGear",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's Best Early Car Upgrade Is Free - Here's How To Get It In Chapter 1",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sRHlyQXFibk50bGVzYkYzdDl4YUVFSU9qMVNVMzVqanZVMHhmNFVRcEY0Q21WUGlacXdXN3NXdTBEVXZSYVVjaEZjTWxPNTMtSmtablViVGhmQjZOUnZXOWVxVzZrWnhxeE5jN0J4TVZvczF5SjA5ckJkTEtZdw?oc=5",
+     "ts": "2026-11-19T22:23:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cf744590cf3f",
+   "title": "Unreleased D’Angelo Song “Kamikazi” Appears in GTA 6",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "cf744590cf3f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Consequence of Sound",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Unreleased D’Angelo Song “Kamikazi” Appears in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJNmJpU0ZncW80bjR0NHFqbUVWQVlyN1RkTWlaSzM5ZUFIM1V6MUNrcnVsQ3dodEdmSGV1bGpFeXJPamVSVnVmeVo0UndQaFZIbDZwSU8zVjFockstS2I5RmZmemstVGoxQ2FaRXZR?oc=5",
+     "ts": "2026-11-19T22:24:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ac62dab163fb",
+   "title": "‘Grand Theft Auto VI’ sales set to top more than $3 billion in first week",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "ac62dab163fb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Semafor",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ sales set to top more than $3 billion in first week",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbURHYnBFTVBnRkEyVEVBQmctWFFHRHFHUVVsWkFMWWRsUnlTaXJBaFFybkpUdmo2ai1pMGVkemNFdnpxa2M5Z242b3czUG9jSXRWOUtwRDZQdEtHVExoMlRnX1pGdXBrTUtTd2Q2MWlJRE5kU0pVYlIwbnZCeEFhTUVmdnFnaE9XWWNaTURMUWFwX3lqRVpGTmo4ZHVpaXFGdlE?oc=5",
+     "ts": "2026-11-19T22:27:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 может собрать больше $3 млрд за первую неделю",
+    "summary": "По данным Semafor, продажи GTA 6 могут превысить 3 миллиарда долларов за первую неделю. Это оценка на основе ожиданий рынка и прошлых рекордов серии.",
+    "idea": "Сравним прогноз в $3 млрд с рекордами GTA 5 и RDR 2, чтобы показать масштаб. Зрителю интересно увидеть, насколько GTA 6 обгонит прошлые хиты.",
+    "hook": "GTA 6 за неделю — больше 3 миллиардов долларов. Серьёзно?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T22:31:12Z"
+   },
+   "msg_id": 1607
+  },
+  {
+   "id": "cac1a706d2c7",
+   "title": "When Can You Get a New Safehouse in GTA 6? Next Hideout, Explained",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-19T22:31:05Z",
+   "items": [
+    {
+     "id": "cac1a706d2c7",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "When Can You Get a New Safehouse in GTA 6? Next Hideout, Explained",
+     "url": "https://insider-gaming.com/when-do-you-get-new-safehouse-gta-6-explained/",
+     "ts": "2026-11-19T22:29:07Z",
+     "summary": "Grand Theft Auto is a game best known for an extensive safehouse network, but when do you get a new safehouse in GTA 6? Find out here. The post When Can You Get a New Safehouse in GTA 6? Next Hideout, Explained appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Когда дадут новый дом в GTA 6? Разбор Insider Gaming",
+    "summary": "По данным Insider Gaming (Tom Henderson), в GTA 6 объяснили, когда игрок получает следующий сейфхаус. Материал разбирает, как устроена сеть убежищ и на каком этапе дают новое.",
+    "idea": "Короткий гайд: на каком моменте сюжета дают новый дом и как это меняет геймплей. Зрителю важно знать, когда появится новая база.",
+    "hook": "Когда дадут новый дом в GTA 6? Разбираем по минутам.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T22:31:14Z"
+   },
+   "msg_id": 1608
+  },
+  {
+   "id": "72efa4be4866",
+   "title": "Cyberleek вернулся и заявил, что слил в сеть незашифрованный билд GTA VI для Xbox",
+   "first_seen": "2026-11-19T22:31:04Z",
+   "updated": "2026-11-19T22:31:04Z",
+   "items": [
+    {
+     "id": "72efa4be4866",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Cyberleek вернулся и заявил, что слил в сеть незашифрованный билд GTA VI для Xbox",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTGpDRXJTOXVxX2R0RmdBWmJCOTlCQU9GSUlXbzFnU25ZYlFta1dxOEh6LWo4dThHYkV6Ri11bkpzUUFMMDA1ekZqU2VnS0Fuc0s0TVFabXU5b21aQ0NJSWtMcVljblp2aDdhX0RxSnBObDBXUWdHN1djSEZzOTlqQ2xyaGY1XzY5RmtuVXNMRHRuS1RsZ1NMaDBYNjJMY3ZlN1NvMnIwNnlTRkXSAbABQVVfeXFMTXpaSWZ5aXdFRDVGYkNjaDRVWDRRY2VpWk05Um5xcGtoSjY4YVdNZERDajV4R0toaXpHLTdPVC13aExsVlUyMHgwWVhDSEowbWhvdFJrbW1CdHV3Sm1BMTFvVDI2dzE5dlN3bFhucktVQlFIZDB2cjY3RVVvdklVN2JaOXF1UjBYM0dVeUlMXzYtNEJrdm51eV9ZMno0Q081X29zSGtDcDY1dTJDaXAzOVg?oc=5",
+     "ts": "2026-11-19T20:05:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 55,
+   "level": "SPECULATION",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "1518c71fc021",
    "title": "GTA VI launch draws attention from Kentucky schools and workplaces",
    "first_seen": "2026-11-19T16:20:48Z",
@@ -168,56 +1033,6 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
-  },
-  {
-   "id": "a8e0e74ab517",
-   "title": "First Impression: ‘Grand Theft Auto VI’s’ realism pulls gamers into being actors",
-   "first_seen": "2026-11-19T20:41:06Z",
-   "updated": "2026-11-19T22:20:51Z",
-   "items": [
-    {
-     "id": "a8e0e74ab517",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Mercury News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "First Impression: ‘Grand Theft Auto VI’s’ realism pulls gamers into being actors",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tV1dRRGdiYm1QV2EwazV4VV9oQi1rcGlNQmZnQlhZbFRxc3Z1WFNpUUlJbGNaXzU5RkNJSGdqNV9pcDd5cE4zRmVZWDIwNXJkVHVXOGJ6cmlDUWctTF9uSzZFSTFCeFU1?oc=5",
-     "ts": "2026-11-19T20:35:55Z",
-     "summary": ""
-    },
-    {
-     "id": "79d6098af6c5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Santa Cruz Sentinel",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "First impression: ‘Grand Theft Auto VI’s’ realism pulls gamers into being actors",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wOHprZ0cwZ0p5SnpaX0hUZXBWLU41WVVGVWdCeDlWYVNpSG1FMGFaWWhlZ2ZQUHF0dXlab05DdUh5U1VmdWFGWFp4MGRkWHVKVTAyOS1sU0h4NkRJUy1hNS1CWmtKQ2lTajhHSFBuZkw?oc=5",
-     "ts": "2026-11-19T22:07:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6: реализм, от которого мурашки. Первые впечатления",
-    "summary": "По данным The Mercury News и Santa Cruz Sentinel, игроки отмечают, что реализм GTA 6 буквально втягивает в роль. Журналисты описывают первые впечатления как ощущение «быть актёром» в живом Вайс-Сити.",
-    "idea": "Короткая нарезка «живых» моментов GTA 6 с реакциями игроков и титром «Будто ты актёр». Зрителю интересно увидеть, за что хвалят реализм и как это ощущается в игре.",
-    "hook": "Будто ты актёр, а не игрок — первые часы в GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T22:20:58Z"
-   },
-   "msg_id": 1605
   },
   {
    "id": "4913ca9c0504",
@@ -608,316 +1423,6 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "007d45e28ebe",
-   "title": "Gamers in New Zealand try out 'GTA VI' first",
-   "first_seen": "2026-11-19T20:41:05Z",
-   "updated": "2026-11-19T22:20:50Z",
-   "items": [
-    {
-     "id": "007d45e28ebe",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WRDW",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTU0SkRiMlFld2Z0blZmZDlmaW9KcmdSWDNVN2RmNjNaQW5uUlNPOFluVGtMdlpWMlNacUtfWXQtZ0hTVUVsWUhWd0REOGlDcFpFdVJUNWFYazIzVUE2X0R4SEZoLV82Zl83cFpsYWg2VXRNamF0Q1FhcDFOOHllYjk5Mno?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "95a772ea761e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KCBD",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRy1vQUhHQ0pIZVBMdjRabkdma1puNWV6bTkyaVQydmg5Z0NGM1c2anQtcV8yNVEwMnZyVDJOWXR3clV3cmZJNllCZWVOOW4zYkJocGdXU1dJbF83ZlY2a2FXV2c0dnk4dHpsQVNaUFV6NXBDeU5tenhhQW9LTkpBMVlidkQ?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "6cc41a7f9573",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WVLT",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTFVKaE0zQXRRbnZjbjFEWjZTd1JwZ3lJYzVYbVo0Vy1zY0dCdXY1TmlFLUZobHVvb1A0b3FaaDlXMl85bklTMllDY18xOXhXU1pjUWlNeTNkNkxXalpWT0ppTDFLRDdWLWsxV09KaHFuQUNuakJjNW9SS2VGLW9uYmxpTQ?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "38d23b85cc13",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Upper Michigan's Source",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZnBSMEFkUmhqVjMwTjZBUERPRVY0US1xV0pwaTFLQVhKZ2prSG5VaVlLMkNMZnUxaFV0M05seEl0X1I2VzRRN3VNNFJxSlpOZ0lXTkJwUWI1WUc2dGVoU0N0SmJ5UFhreHZhY29SUzI3OXYwaUlwQURnMGIzNUY2anlGTjBlRFByQjE1OF9OWDRCZzlnZ2JFU0dB?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "97cfd9f4c835",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WAFB",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3poZWxLMXpCOFBLSTJZRW0xeFIyOUFfV3lqTHpxeVdKXzhsVXMzX3dFSnNSUnhrZ3lyT25FNnJNQjNJRjAzYXZDdGU5ZTBjenNvQWJyUVVoN01kYkh1ejZCaVUtSU8tV3NoeHA2YmxzV0NYRkxNNGwwaFQ2Y2twQThnNzY?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "1be514216da4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "News Channel 6 | Wichita Falls, TX",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0xqSm9SN1dSd1lqTVVtYThGUmwzN0VDUDhHSUtQSHNhSUZlTDhGQklTZ3kxbDdsM05oanlRSWQ0SHdTQjg4dnJKVldjNzUxS0E4UXJCX2ZmaXBxcFdnRHFKMXcwQmc1Y0JqLUJ2MUhDY0RqMlMzbDVWWS1MalpLNm1vdHVFaVVBWXV1UGl4bXY0MFE?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "0bc5fe26e86d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ABC7 WWSB",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTQxTkV6cjJKTFhqSU1FX1pQNWxXdnRtcnpXaTZWUmVZRTNaZWRzOEdpT3NpM0EyY3BUNndGVGxDWjh1QnJJQjY5ZV9VMlVrbkwzX2lDTjk1Y3BUNnZ2X1p2b0xpdGJUbm5kVVJUOGFTeXR4czZIWUFXNk1iakUtVjNyNElPcHpqY3BuUg?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "a3f0ff494025",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WHSV",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWZBV3poWGh1MFd2UDRRelJTSFpiSFdnZi1TMnczX2tRWnNTbE1FdFo0RU5KUG1uRF9iMXhUMDJTalU0eTJScmlpTl9IallNeE90OTR2b3hxbjIxenZJQ0RIZEQyTUpPYno2c3FveWlXaVRETFZXcGcwRXo1Z1JJZjVpMFk?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "4fef22ce3d11",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WBRC 6 News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTXlvSldrbFRhMXpSQlA2Skk5YWdMUXFCNnphWFN3LV8zWE1LOHhQSVZlOWhZSThXdXIxVmpDZWktSjBtbHB5WXdMeDJlTGY2eHV5RUNjZVZSOXdLT280WnFWUkFNYlRKd0d1a2hYdllQcXRENnU2TVJJZ2h4YzVkZE9MWFo?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "29fa56c0ccab",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WABI",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU1EdG5yUTVUMjNCWDZ2czF4c0laSnlOZlV0cGgwN2c2dGd4cjhUOERoVUlhNnFZWnp5NGMtTmhFX01KeVFleGMzN3c5YjZ6QVJQMUpPMWYyaG5iYjBlZGxuamFQR2lhX3gwZlhGUXRLSjRqNzZ5YVN4ZkQtczFPSHRPQQ?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "da03ef8d5047",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KOLD",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDFCZWpySXlLUTNiRTc1M0lwTnFaZm5ZaGZkOF93N3M4QkY4UEFzOGZBVFVmX3BqYnlTbTF0d1dYWnRpa1IxdlprUHI2NV9OSUFVVXR4UlZ5Mi16bTFSaWRrU05hcjgtdjF6M1dKWkhJUjFCdnR2SUE3VjhrTWJENHB5LVI?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "aaecfef60bf5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WIS News 10",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEJUcUc5UzdKNkdyWUZGT3o4eUE5UmRHN2Y5Y3RRcXlrMUZGVFJWbnZsNXlvbWxWcHNzVVJnQVpkOGg1Z3FiZEFvMmw5YVdERU1lSkRHS1pVeWNESmNvY29jUlFkUWNYY0hwazhWeTBJdV9mUHdzWkFKb3MxaWFUU0NpQkRVQQ?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "e8da85099f6e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KOTA Territory News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNamFvdko2bktrV29lWnkyTV9IRjl1ekNVX3FRRDhiWm53RVdHNU5qMUJUWF81Zkl4SkQ0NTNLc1o4ZFppOEhpSzRGNlJhallkNGE0X0w3Z1p0TlRCVmh2WGd6Z0tkOTlBdWFtLVRRakVYeV9QeGdBLVlleXhxeW5IYk40aDF6ZW8?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "d3e0f46f7a6b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WWBT",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd001QWpOdnBEeXl5anJlRFA0WE5iZFo4WmVjdWJiSUhueXVOd1BpakRrMGJucEpNcFJoeUVPeTVzazY1WTZFYU5IT0ZkeEtNcDF2NHE2enl5OGl3Z1dsdlRFa05mS1lYcUU4ZXM1eTY2MTRSOHFvMVo5QjBoRDhuRTVwWmRMRGtkRDBobklWOA?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "959c042a9c44",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WTAP",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlp4U2FULTlYYlhKRXdlcTZrOElCZk03bXB5QWE0Zm9xQmFpRjFQUWZzbFhFVnYwNGhFenJ5QWo0X3JwVmtUeGdDT1djaFFOdGZhOXpHdjlTWkZtY3NWQ1RPWUJwb2t0RDdnQmo0Ni1takotMXgweHpMLXF2RUVLOUVxSHI?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "23c50e2a00c6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "fox8live.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX01RV1ZLVmdSSzRHYjl1U2NtU0tVUjQ5ekhwcS1zNjBTWTg4ZU5XLXhOWVJ2Z3FEM3labXFKZTA4RDQ4aDI0QWhQZjJlSm85S09lZ0VsQ1FvMllFckJMc3dyUVJpUEFJb21ySU1pNWtZSGxhRW9zSkJ0N3RRR2tMU05UZ1E0dXJVWnc?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "5d6984c6abcb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WLBT",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGdCc3RuWmgxdHVwLTVVTlp1d3gyZ2pPLXdIeU9iMnFkWG9scnQ2ZmdaNm5fYVc0a3JZNFZJSkhyWFQ3WXBJN2puRzhlbmNESkozM3lWTkoyRzJvTWRUUGd2Z2ctb0toY19SVm53UzMta2Y0ajVRLWtzZXFCbEd2ZGxsUV8?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "29bbfa09bb99",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WBAY",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnpXSEk2UHM2d0lBLVVwM3NrS3RGV01Pc09KMC0wajRlWlhSbGd4RzQ3bVgwMFVDOVZmZnM1bjgwV1Jma1NveldkaGp6UFNwWTBFYzNkYTA0Nm9wQUVieldWcG5uME5MMm9sRW5zQkNhMDNMYmlPWVVoR0czUTgtRFdaTmk?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "0cab2ace0b72",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WWNY",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ25mX0xkVkpCRzBHM0VIVEp0TmdIMGxMLWh1aXpyZXY2d1dhSDVWNko3UWpMUXlwNjN0UzNyd1ZfcXk3Nkc0VUFSQ1BVeDNqXzdnQ2U3M2VFUkVOR09XUzZ3VEdPZThCZkpfbE8zdnl2WnppQ1Zod2tWODBqamZKdnlhdGhZZGc?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "35968f116b21",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "www.fox34.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORDUwTG1PaWIzY0JfLTBVQ1JxVkdtU1QzM0lEd2RXbzZtV0JITDVZSFAxZEVtZUs0ZG9jbnI0TTljejVpUmhtT1VFR0VoZUcycHdTTTFKQ3c1NURCY25Dd2o0R0RRbGlHTDkwQm5JaVludk85QmJ4eksxZk92SEQ2dDI4MXBodw?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "1c8c987d5d78",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WALB.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjRDVjBLUi0xUEw1Y0pJM0tseExxVU91UTlUZ21HV1FYbmptTlN1QmNDWlFpdUR1X1FfOHlfV0VPZ1l2NjV3YzZrTC1VR3pzRklqVkYtVWhGYm03WGpLc2dNSHlfREYybllqNndVT1pTbmo1bERPdm1BZDNPXzVkYXhCMGo?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    },
-    {
-     "id": "67732971ed64",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KALB | News Channel 5",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers in New Zealand try out 'GTA VI' first",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0xJQURVaGV1ZkhPUnRJc29ROG45TW1QZjBUbGlZMGVVZUxaN3RPa0N0NjlBczU2c0JaX2tYSjlOWTlWa0p2dkpKaTVmSG9VdEhtS0tKSTFwazlZanNwWVdUUEdLQUMtQlloTXBtV1NHT3lsOHk1eGRCQ2Rvc1YyUkZ0QTc?oc=5",
-     "ts": "2026-11-19T20:24:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 уже играют в Новой Зеландии? 👀",
-    "summary": "Геймеры в Новой Зеландии утверждают, что уже пробуют GTA 6, пишут местные СМИ WRDW, KCBD и WVLT. Официальных комментариев от Rockstar нет. Похоже на ранний локальный тест или розыгрыш.",
-    "idea": "Короткий разбор: что именно сказали игроки, почему это может быть тест, и вопрос зрителям — фейк или нет. Зрителю интересно проверить слухи в день релиза.",
-    "hook": "Говорят, в Новой Зеландии уже играют в GTA 6. Проверяем.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T20:41:11Z"
-   },
-   "msg_id": 1597
   },
   {
    "id": "dc846c7c5fcb",
@@ -1567,71 +2072,6 @@
    "score": 50,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "af4fbe914d38",
-   "title": "Lincoln gamers celebrate release of ‘Grand Theft Auto VI’",
-   "first_seen": "2026-11-18T23:01:16Z",
-   "updated": "2026-11-19T21:50:48Z",
-   "items": [
-    {
-     "id": "af4fbe914d38",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Lincoln gamers celebrate release of ‘Grand Theft Auto VI’",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHBkVUxNQ0F1VDdqVFo2YlROOXM0d1ZEa1lZVTdGdGJCVXhlcE44WDFyX1JDUXphUlVONnJjSE9pc1FnZUNicVlvOGI4Z2VWZVJzMjZtY1c0aEVkT2J4eDZDOFF0OG9NeFNST292WnRMVHNkWFA3YURnMzVHQlhhaVNJY2tRZGdZekYzZFpoZHQ2QdIBpgFBVV95cUxOT1E0M2xMRWdaZGNSMGpQdmw4TVo0bnd3WHJXcV9wSHR0UDRJanY1UjdNZUpNcGE1cHZuU0loZkh0QWk5ZDBvWjRwMHhYSExENWxyQnExOTZ0eWFoQlZEc3ZDdEY2NlJyZDJpRHBzWjA3emVjWGt5ZUk1SlY2Vm1ZU0VvTjF5UWJjLWJhaEhVMF9TWTdwZEp1ZzJUQjRab2xhcU90cm1n?oc=5",
-     "ts": "2026-11-18T22:49:00Z",
-     "summary": ""
-    },
-    {
-     "id": "39db082562eb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Lincoln gamers celebrate release of ‘Grand Theft Auto VI’",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3Y5cXF5a01ySkV3aURiVG9XSy1veE9TT2htYi1EdTVVXzJjSVB0ODBIMExFR1ZjNm1MSUoxUUhOQWJaQTRVMkExMlZwbUwtWGtIaHl6QUlGejRvOUtJVTVaMGxQR0lWWlg3QXRCUUhBVngyc2lpU0E3emRXZUpFaU1abWZMbFJuMEI3Sjd5cVItZHJwVXFkYV9R?oc=5",
-     "ts": "2026-11-19T00:22:00Z",
-     "summary": ""
-    },
-    {
-     "id": "e08bba069534",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Floridian Press",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers Celebrate Long-Awaited Release of Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXl6WnpHVmNtcWVnbzJ5RWxlUFRyRVY0V3BOdzBRUy1USlVHTnAtVVpYOFd3Q0FHU1NTVnRYUXRUckd2OWV5YjRCOVpsdDlDX3NPVTJXVUdnNXJDVkFvRVk0d2xIT2hmQk9yNFRucXhxbjhPVGFpQll4MmNTMW1INV9lcTRyV0N6dDVsbkRLZWZoMmpBNEoyeDFwMnU?oc=5",
-     "ts": "2026-11-19T15:59:15Z",
-     "summary": ""
-    },
-    {
-     "id": "4fad036939dd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NBC News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers worldwide celebrate the release of Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFRPcmJlOUt6eHgxYXhuUVBjLUlUYWpzRFRSMnZuN3BQcERUdUVsbUoyellib3p1eFNhZGVhQXNrTlZOU3ZaTkk1X0l2TFJPbk1sM1lIbUtzaUtUTWF2cjg2aTNLV1MwZ3VuOXFQcWZ5bkx6Tmc5T2cwWDc1Mm5NQWsxR0FOcEZYSVo1dDItY2Y4VDBaZnBOSFBKQWZKZFBNeFFDbUZyWQ?oc=5",
-     "ts": "2026-11-19T21:41:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -170890,244 +171330,19 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "97d068caa88e",
-   "title": "Its finally here (GTA6)",
-   "first_seen": "2026-11-12T13:51:09Z",
-   "updated": "2026-11-12T22:21:07Z",
-   "items": [
-    {
-     "id": "97d068caa88e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Its finally here (GTA6)",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xud1hj/its_finally_here_gta6/",
-     "ts": "2026-11-12T13:41:17Z",
-     "summary": "Finally got ittt😭😭😭 submitted by /u/PanDaOp28 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "cb578030608c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "It's finally here",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xuqdbd/its_finally_here/",
-     "ts": "2026-11-12T22:11:41Z",
-     "summary": "Ironic there's a still an empty spot for a disk......but it's here submitted by /u/DruidsCircle91 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "612b5138f22d",
-   "title": "Is the vintage pack worth it",
-   "first_seen": "2026-11-12T22:21:07Z",
-   "updated": "2026-11-12T22:21:07Z",
-   "items": [
-    {
-     "id": "612b5138f22d",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Is the vintage pack worth it",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xuqcmb/is_the_vintage_pack_worth_it/",
-     "ts": "2026-11-12T22:10:50Z",
-     "summary": "submitted by /u/Final-Association-65 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3d34d12e14c3",
-   "title": "New Xbox preload teaser",
-   "first_seen": "2026-11-12T22:21:07Z",
-   "updated": "2026-11-12T22:21:07Z",
-   "items": [
-    {
-     "id": "3d34d12e14c3",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "New Xbox preload teaser",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xuqcv0/new_xbox_preload_teaser/",
-     "ts": "2026-11-12T22:11:09Z",
-     "summary": "submitted by /u/hackersgalley to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1e0f732f6cfb",
-   "title": "I hope I don’t fail the romance in GTA 6",
-   "first_seen": "2026-11-12T22:21:07Z",
-   "updated": "2026-11-12T22:21:07Z",
-   "items": [
-    {
-     "id": "1e0f732f6cfb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I hope I don’t fail the romance in GTA 6",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xuqdgk/i_hope_i_dont_fail_the_romance_in_gta_6/",
-     "ts": "2026-11-12T22:11:51Z",
-     "summary": "(Male here) I’m scared to share about my personal life but since we all know that grand theft auto 6 is around the corner and rockstar confirmed that this game will include intimacy, romance, ect and we all know that Jason and Lucia are couples and the game is going to guide us to do the intimacy I myself who’s never been in a relationship (I mean I did have genuine relationships with girls all my past but never do like making them to be my love) anyway… ever since I’ve read other articles about this game and the romance between Jason and Lucia it might be realistic but they put the dynamics g"
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "bad9a2d6ced7",
-   "title": "Do Rockstar have a interest in Sony's GTA sales ?",
-   "first_seen": "2026-11-12T22:21:07Z",
-   "updated": "2026-11-12T22:21:07Z",
-   "items": [
-    {
-     "id": "bad9a2d6ced7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Do Rockstar have a interest in Sony's GTA sales ?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xuqfwa/do_rockstar_have_a_interest_in_sonys_gta_sales/",
-     "ts": "2026-11-12T22:14:39Z",
-     "summary": "submitted by /u/littlebelialskey to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "94d626e2a092",
-   "title": "Anybody else going to play gta 6 through cloud gaming?",
-   "first_seen": "2026-11-12T22:21:07Z",
-   "updated": "2026-11-12T22:21:07Z",
-   "items": [
-    {
-     "id": "94d626e2a092",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Anybody else going to play gta 6 through cloud gaming?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xuqha5/anybody_else_going_to_play_gta_6_through_cloud/",
-     "ts": "2026-11-12T22:16:21Z",
-     "summary": "I'm just wondering, I have an Xbox one x so can't really play it normally. I don't want to upgrade to a series x or s because I think the one x already does the job for me. submitted by /u/ins4neguy to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e1726c043549",
-   "title": "Какие обои поставить в канал?",
-   "first_seen": "2026-11-12T22:21:07Z",
-   "updated": "2026-11-12T22:21:07Z",
-   "items": [
-    {
-     "id": "e1726c043549",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Какие обои поставить в канал?",
-     "url": "https://t.me/GTA6_m/9357",
-     "ts": "2026-11-12T22:19:10Z",
-     "summary": "Какие обои поставить в канал? На 10 уровне бустов они откроются, сейчас уже 7й уровень Осталось чуть-чуть 😁 Помогите их открыть, отправьте голоса по ссылке Голосуем реакцией: 💵 — первый вариант 🔥 — второй вариант"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0b02ff226274",
-   "title": "This tweet was the point where the avalanche began. I remember it like it was yesterday. Have the past 3 years flown by for you, or did they feel like a long time?",
-   "first_seen": "2026-11-12T22:21:07Z",
-   "updated": "2026-11-12T22:21:07Z",
-   "items": [
-    {
-     "id": "0b02ff226274",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "This tweet was the point where the avalanche began. I remember it like it was yesterday. Have the past 3 years flown by for you, or did they feel like a long time?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xuqk4n/this_tweet_was_the_point_where_the_avalanche/",
-     "ts": "2026-11-12T22:19:36Z",
-     "summary": "submitted by /u/FaultExcellent3306 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T22:20:59Z",
+  "last_run": "2026-11-19T22:31:14Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 97/100",
+   "rockstar_site: 0/2",
+   "gnews_en: 98/100",
    "gnews_ru: 99/100",
    "gamesbeat: 4/10",
    "vgc: 6/10",
    "insider_gaming: 5/10",
-   "ign: 9/20",
+   "ign: 7/20",
    "eurogamer: 25/100",
    "dexerto_gta: 10/50",
    "rockstarintel: 10/10",
