@@ -1,6 +1,496 @@
 {
  "stories": [
   {
+   "id": "56b55fe4e49e",
+   "title": "Microsoft Polls Users After Plastering GTA 6 Artwork Over Xbox Custom Dashboard Backgrounds",
+   "first_seen": "2026-11-19T11:20:57Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "56b55fe4e49e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Microsoft Polls Users After Plastering GTA 6 Artwork Over Xbox Custom Dashboard Backgrounds",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQnNpY0hZSGpZWTJZQUtDUnhMYVMyN1lCR0tqRXpDNDlqUk1uZTh2VjJMUkJCVUFKXzQyTHNGQkVjVDV5eEFUXzdrMjF1eXdFSWZCTWs5QTZHSnhVZEhPUThJRzVObi16V2ZFV0NqaGJoVEhDMjVtVlVWREpCN1RQZ2txbDNwOXN4dV82dmM0S19pSHI3TWN3Y0hEMG92eUNZMHVMYjliX2g4OGNBSExFUUZNaE0yT0tub3NoWmozS1R3SDl5RHc2WnNROFJvYUFPYS0zNW9NSFA?oc=5",
+     "ts": "2026-11-19T11:15:11Z",
+     "summary": ""
+    },
+    {
+     "id": "8e0ea47fff47",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Microsoft Polls Users After Plastering GTA 6 Artwork Over Xbox Custom Dashboard Backgrounds",
+     "url": "https://www.ign.com/articles/microsoft-polls-users-after-plastering-gta-6-artwork-over-xbox-custom-dashboard-backgrounds",
+     "ts": "2026-11-19T11:00:09Z",
+     "summary": "Xbox is asking for feedback on its controversial Event Backgrounds, after plastering GTA 6 artwork over users' custom console dashboards."
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Xbox закрыл кастомные фоны GTA 6 и спрашивает мнение игроков",
+    "summary": "Microsoft опросила игроков после того, как заменила их кастомные фоны консоли на арты GTA 6 в рамках Event Backgrounds. Об этом написали IGN и IGN Nordic.",
+    "idea": "Короткий разбор: Xbox временно убрал пользовательские фоны ради GTA 6-артов и запустил опрос. Зрителю важно, потому что это влияет на персонализацию консоли.",
+    "hook": "Xbox сам убрал твои фоны ради GTA 6 — и теперь спрашивает мнение.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T11:31:09Z"
+   },
+   "msg_id": 1471
+  },
+  {
+   "id": "8f0436b84a24",
+   "title": "'GTA 6': How to use a talking parrot to find a stash of money",
+   "first_seen": "2026-11-19T11:10:47Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "8f0436b84a24",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6': How to use a talking parrot to find a stash of money",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IanhESkJPU2JUZ2FVeV9oaDU4M0pWWXRkZXlWSTVnYWdPcV9FczhoXzcyU3J0dnZEMHNCSzNicHZ5SUk0ODhRbVNUWlNDNGw1QkVPOUxLUVYtUVo4M0w3b1FLS3k5LXlaTmNfbXJoR0VVU1lYamc?oc=5",
+     "ts": "2026-11-19T11:07:01Z",
+     "summary": ""
+    },
+    {
+     "id": "8e5f5da078d1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable SEA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6': How to use a talking parrot to find a stash of money",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSnEyNk9XaDVuOWRSM254TGh6T3pvX2tOVlAwN2tsSHRXRjVWZERGemdxckFLdWgwV2V1bXFRcXNRelYtYVBPSjBlZ1hhaW9aaHVWaEVrQ2xhNGFmOUFMVEtNUzgxdXVUMXZtWldMSF80YjFrMWJXS1pPcDRZVWtKV0Z6S004cnkwRjBEajRKQ0lHbjlPYnBLQWcxbw?oc=5",
+     "ts": "2026-11-19T11:01:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🦜 В GTA 6 можно найти тайник с деньгами с помощью попугая",
+    "summary": "По данным Mashable, в GTA 6 можно использовать говорящего попугая, чтобы найти тайник с деньгами. Об этом же пишет Mashable SEA, без деталей от Rockstar.",
+    "idea": "Короткий гайд: как найти тайник с помощью попугая — где взять птицу, как она подсказывает, что получаем. Зрителю интересно быстро забрать лёгкие деньги.",
+    "hook": "Слышал, что в GTA 6 тайник можно найти через попугая? Показываю.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T11:31:13Z"
+   },
+   "msg_id": 1472
+  },
+  {
+   "id": "65f1407bf0ed",
+   "title": "GTA 6's Prologue Can Go More Way More Differently Than You Might Think",
+   "first_seen": "2026-11-19T09:31:01Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "65f1407bf0ed",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6's Prologue Can Go More Way More Differently Than You Might Think",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSjhlQXE3S3RubGpLaHhyNXN1SjdoSno2ODlDSDZ1eElHTlctSVJHRWhWWlRKVnZCUkVnSklDYUFoYXE4ZWxNazlzR2NwM3JaSllEdlRqaFhFa2Z5QmJDZF9vamNGal9NQVlTUHJBQmRqLUctWTRCbWk0RnJJSHI1Vktra1lTc1dYVWkyeXdXcUN1Wi12QzJjQmRISi1mVk0?oc=5",
+     "ts": "2026-11-19T09:25:41Z",
+     "summary": ""
+    },
+    {
+     "id": "8bddff8b4dbf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's Prologue Can Go More Way More Differently Than You Might Think",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaFZKUzB5d3BPU0E4TDhYQ1ZBVTdTYlFqWGNnNDlDd2hNRE1LVG8yMVhwaUdWXzQ3TzctbGt0VEEweWJVc19YT0ltTFB5Sm9jU0J3S0xhVlBsVWpZMnZza3g2a244eUpZYXk5bDgydk40Q3dyZVhmRk53N1RJMm00X0R1UERzd012Y3U2TEZHazdvNFd1dmQwODRqVFF6dmJtYXJNNk4taW0xWWtDdlZfck9JdzdjVjRaLXFtOXpsQzJWdk00OWFzNjhn?oc=5",
+     "ts": "2026-11-19T09:30:41Z",
+     "summary": ""
+    },
+    {
+     "id": "4c761ebad941",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's Prologue Can Go More Way More Differently Than You Might Think",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVUtoM2hrQWlyNDhNTFR4a1FGZm4wbGFFa05sYXRuTzNkU3plNnhWVkFUV2NvTGRrVFQ0N0pqMHNsQXBlbVlLQkdxSkExRHRlUVRGMFhWeEQxc3l1VThpYjVna0hVRlZmUXFobC0yVTlLZFEtVElpaGZWbmJKWDk4TXRXQ0taVDIzY0NPcldMbGJaM0x6YnZDV241dmJxeWFjdU56VzZnVHY2a3JETVI1Q2h5YW11SjBuT0NBSVFHczZVbTgxUXV3YQ?oc=5",
+     "ts": "2026-11-19T09:31:40Z",
+     "summary": ""
+    },
+    {
+     "id": "b8a62a6ac325",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6's Prologue Can Go Way More Differently Than You Might Think",
+     "url": "https://www.ign.com/articles/gta-6s-prologue-can-go-way-more-differently-than-you-might-think",
+     "ts": "2026-11-19T10:30:00Z",
+     "summary": "GTA 6's prologue can go more way more differently than you might think."
+    }
+   ],
+   "tags": [],
+   "score": 94,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Пролог GTA 6 может пойти совсем не так, как вы думаете",
+    "summary": "По данным IGN, пролог GTA 6 может развиваться по-разному в зависимости от действий игрока. Издание отмечает вариативность событий и последствия для дальнейшего сюжета.",
+    "idea": "Показываем 2–3 варианта развития пролога GTA 6 с быстрыми нарезками и титрами «что меняется». Зрителю интересно, как его решения реально влияют на старт истории.",
+    "hook": "Думаешь, пролог GTA 6 всегда одинаковый? А вот и нет — смотри.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T09:31:05Z"
+   },
+   "msg_id": 1451
+  },
+  {
+   "id": "9e4312d297b3",
+   "title": "Яндекс запустил полицейскую погоню за курсором по запросам GTA 6",
+   "first_seen": "2026-11-19T11:31:02Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "9e4312d297b3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Яндекс запустил полицейскую погоню за курсором по запросам GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVRaNVVINE9mWC1VN3JKSG0wNElmOS13MmNLcGo5M2hYb2d3NUU5VHhSVHd0dUJDRnJEcTBIelRSZEVjbDh4YVg3Y0pCQ2tHQmRTTkplMXROaFJBRFZraW5LTk5aSHM2S3FiLUJHdTR5a2kzWDdKZTI2eTJrckN3NU1zeV9lTmc0UEIyYWR3?oc=5",
+     "ts": "2026-11-19T10:48:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9ff403d97ec4",
+   "title": "Where to find the tree effigies for the Skunk Ape mission in GTA 6",
+   "first_seen": "2026-11-19T11:31:02Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "9ff403d97ec4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Where to find the tree effigies for the Skunk Ape mission in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTjFhd19iRzZ2alRmTVdHci1QWmpXSy1iTWdGblRXLTAyajdaWnBVcW02VE5GYUpiNVhhdlAtdExtdGFvSVhuREE3dnFVRjZtTzBwWjdoS3p2OG5kdDNCT19abjVIdjVSUWFqLWJScVhHcjJPb1l0amh4STlIc3Z0OU1Vc2U?oc=5",
+     "ts": "2026-11-19T11:01:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "62542498a1c1",
+   "title": "GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs",
+   "first_seen": "2026-11-19T11:31:02Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "62542498a1c1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Decrypt",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbUhCSUcwaDBmWHJ1RFFCLTUxTjhPUHZfY1p3TUlrbDJkU3FBYmhTMHRfU1JWUDFuM09oSHZwcWNudVpOSG1iU1pVQ010SkhqZjVHTkZNdHVENlRBNGV1S29aRVZ0V0VoUF9yM3BpMWVGVlBYTTA3eElMOW9Lcy1wY1JMbFAxOURHallkOFJHajFWNjgwYk9sSTBjaElpWTJfWXpNaEpn?oc=5",
+     "ts": "2026-11-19T11:15:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d36e2a3d5943",
+   "title": "Can You Game Share GTA 6 On PlayStation Or Xbox?",
+   "first_seen": "2026-11-19T11:31:02Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "d36e2a3d5943",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BGR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Can You Game Share GTA 6 On PlayStation Or Xbox?",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ycVRjYkJKQ3lqSy1tSEpxUy1XUlZRUzdXZE5XWkJSOVhyNkpkbWl5V0hObEpjbnFramVkSHBuWnVmdDltYkg0c0tqQzlQUHctdm1zVllpU29BVG1YaWJ2b0NlbTNoZ3RKVTRTUzcyX1hudVpDb3JraDBUTGc?oc=5",
+     "ts": "2026-11-19T11:17:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "991b98d772cf",
+   "title": "Streamer Loses 11 Hours of GTA 6 Progress After Accidentally Turning Off Their PS5, Gets Swatted Immediately Afterwards",
+   "first_seen": "2026-11-19T11:31:02Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "991b98d772cf",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Streamer Loses 11 Hours of GTA 6 Progress After Accidentally Turning Off Their PS5, Gets Swatted Immediately Afterwards",
+     "url": "https://www.ign.com/articles/streamer-loses-11-hours-of-gta-6-progress-gets-swatted-immediately-afterwards",
+     "ts": "2026-11-19T11:18:46Z",
+     "summary": "JasonTheWeen, a steamer with 1.3 million followers on YouTube, lost 11 hours and a whole chapter of progress in GTA 6 after accidentally turning their PS5 off."
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 85,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "9e92a898a5bc",
+   "title": "Игрок в GTA 6 запутался в управлении и стал героем мема с двумя случайно купленными коктейлями",
+   "first_seen": "2026-11-19T11:31:02Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "9e92a898a5bc",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Игрок в GTA 6 запутался в управлении и стал героем мема с двумя случайно купленными коктейлями",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZURDZmd6eW1uWDA2WTlvbzNMQXY2ZEFxT1ZDYzFjN09mWkRYb0gzR1pTUFRBaVBsNzJDLTM0UTNpeUFlWjc5anBvVnF3TUFwcEdKS3UxNmk5b2QtemxSRlVBMnJ0Vmh5RjBaaDJ0MFljQS1sVmQtWjJkUzBFcFVoYlRGeW03cVkzOFNLQVdCRjVEcnZKZk1CRjdieTJ3Z3VzcTdXVmEwNEx1N3ZzVllWWHJsUjFpMzFPU0pjVGJycVRyd3FlblJwWVpwSFZIdw?oc=5",
+     "ts": "2026-11-19T11:20:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d801b6ce6fc7",
+   "title": "GTA 6: A guide to every mission and chapter",
+   "first_seen": "2026-11-19T11:31:02Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "d801b6ce6fc7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Red Bull",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: A guide to every mission and chapter",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZTzY0eDVKaS1mS3dhWlhEQ3lPQk9qN3lEOVpwcWl1TXNVTW1GUUczYkNhSmVKRnBpcHV2R29JeUhKQ2t0Y3ctR3h6dmp2V2V5WXJ2WXhnTVBvR2oxMUpBTDlwcHN1UWNr?oc=5",
+     "ts": "2026-11-19T11:20:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9dcc5f3ad930",
+   "title": "GTA VI earns widespread acclaim following global release, ties Metacritic record",
+   "first_seen": "2026-11-19T11:31:02Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "9dcc5f3ad930",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Anadolu Ajansı",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI earns widespread acclaim following global release, ties Metacritic record",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkc2MDROaXFJeUZCd19pSGNYYTRNZ3NQSC1fdndhbVhkMEhrOUFPaHVtZXdoUUVVY1Y3azYzdUJ2T0VUMFkyOHVHNkFlOVZMLWtTbnJKU2Rya2Z0V1d4LWVoNXY4dmMwYXJwYXdZR3FCcjE5WjNYNEtJdy1DemI3LURnbmczLVdMOWI4b2F4bnQ3ZGFLZnJBbFdHZUZ2Qy1vdlBOX3lhU0pyb1BWNDZib2NFTnhpUGJy?oc=5",
+     "ts": "2026-11-19T11:20:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d1f2bd9b02f0",
+   "title": "GTA 6 вышла и претендует на звание самой высокооцененной игры всех времен — 99 баллов из 100",
+   "first_seen": "2026-11-19T11:31:02Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "d1f2bd9b02f0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ichip.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 вышла и претендует на звание самой высокооцененной игры всех времен — 99 баллов из 100",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcl85NnZKSVBick9STVZpZENBam54MkVkcVpRelV1TVd3bGFEdGsxWWVpVmNRcDdBaGZWa2RDS2U3SnNCNGRONTI1RWpQM2NIeXdDcU1DVUpkOXBHOUkwS0NoOHFGYW9GWWpKN2pRSkc3Y2tMWnFQcTZ6ZHNTcUtjV0RQRE1ydVRBdV9JT0dydjgtOGJhWVVpbDZoOWRWQ0xBallNV3VldVJtVHF1NEc1V3lkaUxxcmVWeU41RmloMHY?oc=5",
+     "ts": "2026-11-19T11:21:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8ced83344c4c",
+   "title": "How to fix cars in GTA 6",
+   "first_seen": "2026-11-19T11:31:02Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "8ced83344c4c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rock Paper Shotgun",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How to fix cars in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5R2hZeVRCX3EzMWwwQkhLRFhOY3AwN1lrcXVObXZiTmowOFRmUTgzakdiRG5MZUlhZWxZOVRuUTd1a19TSDFqYXNvb1lTVklOaTVCVmF6Q2RQUXZGbnFxQ3NqdDg?oc=5",
+     "ts": "2026-11-19T11:21:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5df2671ccceb",
+   "title": "GTA 6 Radio Songs List: Every song in the game and where to find the playlist to listen to them",
+   "first_seen": "2026-11-19T11:31:02Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "5df2671ccceb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MARCA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Radio Songs List: Every song in the game and where to find the playlist to listen to them",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLXBIcnRycVpaWGh5YlU1UDd5RzN3aXBuN3JFR050eXdNanQxS2lkLXFNbEVQV1RybHRyUkJONF9DTjNuYkJ3c0IyR0RSbmxYeER3a1I1UkhMd0lfbU5YWEtqb3VJNFZPV3J1VUNQNld3M0MwZWN6RHVHM2lYZHVoc01ETnpnNGhXQ0hXSHI2V1dCNFpaX2JodEkxUzdfUkNrTGx1al9CdDJvOXZJRi15OU9Xd0JuMUQ2T2llS09mOFVha1ZJSFFxY2NGeTdpMWhhQ1Qyd21UeFQ2MnB1NW5uUzdISVNjRWpB0gHoAUFVX3lxTE4wVXo0ZnpHZWRCSmZaOGQ3a1I4Z0ZLQW9DZ3lfVWVraGdYTE1lSVJvOVR0VW9BZjdjcnVtUHFtSXgxRnQxaUNPdFZwT3NJVWhlZGJwRDZOOUYwZ2JROENGcklVNDBnM2RoWEpub25oNURHNHJwU3VoWlh3Y0pHQ0dzdGVWeUVDT0x2SnNSdkFGbkJ6b1NhRjVkM0lmZ1hyNFBJdnN3SU5XdG5CTzRzWXZjMm9ZWmJBMjEydmlYSVFBb04yM0E4dEVxSnVhOE1kRjgyNUktNDd6R2t3akx5b044RUpxWXBCbDY?oc=5",
+     "ts": "2026-11-19T11:24:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "26e8e05a0efb",
+   "title": "GTA 6 Early Money: Apollo Aggregates Warehouse Stash",
+   "first_seen": "2026-11-19T11:31:02Z",
+   "updated": "2026-11-19T11:31:02Z",
+   "items": [
+    {
+     "id": "26e8e05a0efb",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Early Money: Apollo Aggregates Warehouse Stash",
+     "url": "https://www.gtaboom.com/gta-6-apollo-aggregates-warehouse-stash-5820",
+     "ts": "2026-11-19T11:29:09Z",
+     "summary": "Clear the safe and both vans, then compare Donnie's and Brian's offers before you hand over the stash."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "327eb6a0796f",
    "title": "GTA 6 arrives after 13-year wait: Live updates as gamers explore Vice City",
    "first_seen": "2026-11-19T11:10:47Z",
@@ -825,32 +1315,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "56b55fe4e49e",
-   "title": "Microsoft Polls Users After Plastering GTA 6 Artwork Over Xbox Custom Dashboard Backgrounds",
-   "first_seen": "2026-11-19T11:20:57Z",
-   "updated": "2026-11-19T11:20:57Z",
-   "items": [
-    {
-     "id": "56b55fe4e49e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Microsoft Polls Users After Plastering GTA 6 Artwork Over Xbox Custom Dashboard Backgrounds",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQnNpY0hZSGpZWTJZQUtDUnhMYVMyN1lCR0tqRXpDNDlqUk1uZTh2VjJMUkJCVUFKXzQyTHNGQkVjVDV5eEFUXzdrMjF1eXdFSWZCTWs5QTZHSnhVZEhPUThJRzVObi16V2ZFV0NqaGJoVEhDMjVtVlVWREpCN1RQZ2txbDNwOXN4dV82dmM0S19pSHI3TWN3Y0hEMG92eUNZMHVMYjliX2g4OGNBSExFUUZNaE0yT0tub3NoWmozS1R3SDl5RHc2WnNROFJvYUFPYS0zNW9NSFA?oc=5",
-     "ts": "2026-11-19T11:15:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -1874,32 +2338,6 @@
      "title": "\"GTA VI\" is here. Here's how Utah fought games like it.",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWUtOVRmVFhXUDF4cTdRN3NFX1hoUXJtNlBTZExLcXhCQ0RzeEFMampoNHY4SnUweWZHZW9Oc0hSWFc1YzRpLTJRZ0xDVVBEOVZDdjFPVHkzYzVaSlNFbnVHY0ZCZ1g1MzJlUmhVMklDaG5EN2ZqYkdZcTIxN0VJVUdUelY1SDA4MzZKY2RYT0VoUEdqejJNX0xYT01IVlBoZERUM2gzVlBfLWFn?oc=5",
      "ts": "2026-11-19T11:04:55Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8f0436b84a24",
-   "title": "'GTA 6': How to use a talking parrot to find a stash of money",
-   "first_seen": "2026-11-19T11:10:47Z",
-   "updated": "2026-11-19T11:10:47Z",
-   "items": [
-    {
-     "id": "8f0436b84a24",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6': How to use a talking parrot to find a stash of money",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IanhESkJPU2JUZ2FVeV9oaDU4M0pWWXRkZXlWSTVnYWdPcV9FczhoXzcyU3J0dnZEMHNCSzNicHZ5SUk0ODhRbVNUWlNDNGw1QkVPOUxLUVYtUVo4M0w3b1FLS3k5LXlaTmNfbXJoR0VVU1lYamc?oc=5",
-     "ts": "2026-11-19T11:07:01Z",
      "summary": ""
     }
    ],
@@ -4456,69 +4894,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "65f1407bf0ed",
-   "title": "GTA 6's Prologue Can Go More Way More Differently Than You Might Think",
-   "first_seen": "2026-11-19T09:31:01Z",
-   "updated": "2026-11-19T10:10:48Z",
-   "items": [
-    {
-     "id": "65f1407bf0ed",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6's Prologue Can Go More Way More Differently Than You Might Think",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSjhlQXE3S3RubGpLaHhyNXN1SjdoSno2ODlDSDZ1eElHTlctSVJHRWhWWlRKVnZCUkVnSklDYUFoYXE4ZWxNazlzR2NwM3JaSllEdlRqaFhFa2Z5QmJDZF9vamNGal9NQVlTUHJBQmRqLUctWTRCbWk0RnJJSHI1Vktra1lTc1dYVWkyeXdXcUN1Wi12QzJjQmRISi1mVk0?oc=5",
-     "ts": "2026-11-19T09:25:41Z",
-     "summary": ""
-    },
-    {
-     "id": "8bddff8b4dbf",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Prologue Can Go More Way More Differently Than You Might Think",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaFZKUzB5d3BPU0E4TDhYQ1ZBVTdTYlFqWGNnNDlDd2hNRE1LVG8yMVhwaUdWXzQ3TzctbGt0VEEweWJVc19YT0ltTFB5Sm9jU0J3S0xhVlBsVWpZMnZza3g2a244eUpZYXk5bDgydk40Q3dyZVhmRk53N1RJMm00X0R1UERzd012Y3U2TEZHazdvNFd1dmQwODRqVFF6dmJtYXJNNk4taW0xWWtDdlZfck9JdzdjVjRaLXFtOXpsQzJWdk00OWFzNjhn?oc=5",
-     "ts": "2026-11-19T09:30:41Z",
-     "summary": ""
-    },
-    {
-     "id": "4c761ebad941",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Prologue Can Go More Way More Differently Than You Might Think",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVUtoM2hrQWlyNDhNTFR4a1FGZm4wbGFFa05sYXRuTzNkU3plNnhWVkFUV2NvTGRrVFQ0N0pqMHNsQXBlbVlLQkdxSkExRHRlUVRGMFhWeEQxc3l1VThpYjVna0hVRlZmUXFobC0yVTlLZFEtVElpaGZWbmJKWDk4TXRXQ0taVDIzY0NPcldMbGJaM0x6YnZDV241dmJxeWFjdU56VzZnVHY2a3JETVI1Q2h5YW11SjBuT0NBSVFHczZVbTgxUXV3YQ?oc=5",
-     "ts": "2026-11-19T09:31:40Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 86,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Пролог GTA 6 может пойти совсем не так, как вы думаете",
-    "summary": "По данным IGN, пролог GTA 6 может развиваться по-разному в зависимости от действий игрока. Издание отмечает вариативность событий и последствия для дальнейшего сюжета.",
-    "idea": "Показываем 2–3 варианта развития пролога GTA 6 с быстрыми нарезками и титрами «что меняется». Зрителю интересно, как его решения реально влияют на старт истории.",
-    "hook": "Думаешь, пролог GTA 6 всегда одинаковый? А вот и нет — смотри.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T09:31:05Z"
-   },
-   "msg_id": 1451
   },
   {
    "id": "74e64218d9d1",
@@ -159357,18 +159732,18 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T11:21:16Z",
+  "last_run": "2026-11-19T11:31:14Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 96/100",
    "gnews_ru: 97/100",
    "gamesbeat: 5/10",
    "vgc: 10/10",
-   "insider_gaming: 7/10",
-   "ign: 6/20",
+   "insider_gaming: 6/10",
+   "ign: 9/20",
    "eurogamer: 18/100",
    "dexerto_gta: 12/50",
-   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
+   "rockstarintel: 9/10",
    "gtaboom: 30/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 12/13",
