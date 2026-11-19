@@ -1,6 +1,574 @@
 {
  "stories": [
   {
+   "id": "73185a979265",
+   "title": "GTA 6 Bigfoot explained: How to find ‘Bigfoot’ in GTA 6",
+   "first_seen": "2026-11-19T18:40:47Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "73185a979265",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Bigfoot explained: How to find ‘Bigfoot’ in GTA 6",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-bigfoot-explained-how-to-find-bigfoot-in-gta-6/",
+     "ts": "2026-11-19T18:30:42Z",
+     "summary": "Bigfoot stalks Jason in GTA 6... or does he?"
+    },
+    {
+     "id": "ed7444701d22",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "VICE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Bigfoot Explained: What is Skunkape?",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Qd0NZaDRENlZfamctYXE5QnR0SGMtNUk3OXU2Snk5QVRsYjJtaS1pRmZsOUJ3N2p1dE01OXpnZG92RzVOS1pGYmFPZk1LVVRwVUlIcjZNcHl0WHN1bEhTbDg0d3VfT3BITzJZS2RSYXUxWjBJSTZlMHFkQUIydw?oc=5",
+     "ts": "2026-11-19T19:51:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Бигфут в GTA 6: охотится за Джейсоном или нет?",
+    "summary": "По данным VGC, в GTA 6 Бигфут преследует Джейсона, но до конца неясно, реальный это монстр или обманка. В статье VGC разбирают, как найти Бигфута и что это может быть — пасхалка или городская легенда.",
+    "idea": "Короткий хоррор-ролик: ночная вылазка в Леониде, камера фиксирует силуэт в лесу, затем резкий скример. Зрителю интересно проверить, существует ли Бигфут на самом деле.",
+    "hook": "Бигфут в GTA 6 существует? Он реально преследует Джейсона.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T18:40:52Z"
+   },
+   "msg_id": 1580
+  },
+  {
+   "id": "1459f0e9fe94",
+   "title": "GTA 6: All Ultimate Edition bonus content and where to find it",
+   "first_seen": "2026-11-19T14:01:17Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "1459f0e9fe94",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Red Bull",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: All Ultimate Edition bonus content and where to find it",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rMmg1MWY0WVRUcWRtLTRfRl9Ya0d5SkxkOTlLOTd4Um5XeXF3YUczRlVUWVpzeVJZem16YW5EaXY4eURmWDB6QmpHQnpjeUJGLUplZXZWTEhJZGNNSWV2V0FtVHJtTVAxSUJ4UUNB?oc=5",
+     "ts": "2026-11-19T13:28:55Z",
+     "summary": ""
+    },
+    {
+     "id": "f7a6a0eca8a5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Red Bull",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: All Ultimate Edition bonus content and where to find it",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zb0sxaGVyLTYtNXpRdFJxRzhOT2tkMEhHRjlzUG1zT1RTR3JiUE45czdKRHJUalVYekN4SUtLNGNVUEdPblotYy1HNnpSaHlZa2lSOUM1Nk5iSXNpYnpRelRmZVc4UllGWEpIdA?oc=5",
+     "ts": "2026-11-19T13:28:55Z",
+     "summary": ""
+    },
+    {
+     "id": "bbfb4eae8682",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "$100 за «боевой пропуск» — игроки раскритиковали премиум-издание GTA VI: Ultimate Edition",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHd0ZEU1SXJlRXpxSW5ES2Y5T2JrWnFyaHFOYjBLUzExXzFlNHVhWjZ3VEYzWEM0SmdiNW9NWktkRmQxcGNSS0p4VFQ0VXNCMGR0cmhSTTZPaGxiRFVOVjFxUFlzOUUta3Bnc3F1aEg2S3E2SUhMX0ZaZ0ZFYnItcnRpV19ZU3dpcnFMb2J6TXJEb2tIQTlzeF9mQUZYZ2l0bVNwTXpfeUNLRkdKSFYtVk1XMm9qajdkcTQ2RndSdVrSAcYBQVVfeXFMUDhBQ2pzQ3RQc1JwMW5uLWtHUDRRbFR5dGxNdmpxcEdNZzJ1b2ZwVWhnVzVNTGZ1SFFDekdMODkydTQxNzd6SktzbEhjUlJyREJVeFFVSWlLTE95cXFGTmFNUFNfbFhQYzVFVVA2by11TlF1TVE2VUpxbDVXY2gzdUtwRFZYWjk1WHphNFJiODlPb2s4VzZVd3ZxOG1lOG9sUEhCUUdwZjlGU3djUFFJZWlSQndUakFNSmt2YS1ycUlUaDFPR3JR?oc=5",
+     "ts": "2026-11-19T16:59:00Z",
+     "summary": ""
+    },
+    {
+     "id": "a0dff059fe13",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«$100 за боевой пропуск»: геймеры критикуют расширенное издание GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ21Kc3psWGV2MVhnaG9DM1JRbHJKa0t3QTdSenZ3Vy1xbEYzLXZEdnVsbk9kbXlpcTNfM1NTaXZmeFlTMjJWeDV0LVJtWjhfTGhDX0xSQTkxd3JfTDE3dE1kdUVIT0JjWnNXWWExMEJsUHlZLXhTMjNkLUtkT240ZE1QOUlmOUk2am9XMk92OGhqX3hxSHRHZFJ3VWM4dw?oc=5",
+     "ts": "2026-11-19T13:20:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "7b9230d9d6f8",
+   "title": "100 часов GTA 6 от VK Play: новый гость — стример и тестировщик Егор Кулагин",
+   "first_seen": "2026-11-19T01:01:18Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "7b9230d9d6f8",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "100 часов GTA 6 от VK Play: новый гость — стример и тестировщик Егор Кулагин",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHV1OXQ3QjVOT3dRSG9sV0VlVFF0TUFXaHhSODBOWXVUQTQ3NVBHeHZJMXU0YTVoQTZicWZBVGJQN2ZJd3hrVUtDeUtMaVNnVTUycko0RE5IcmtvaGpJQTRydGlFU2pRcFFIUFE2Q2xiZmF0NjBseE4xbjFJOGhPcDhCRVNHOVZfem1TTG9temtLeC1pWF82SjFTSFZzSU16bEZ1dUVzdFAzQQ?oc=5",
+     "ts": "2026-11-18T19:43:44Z",
+     "summary": ""
+    },
+    {
+     "id": "409e62e9fb82",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "100 часов GTA 6 от VK Play: новый гость — музыкант Kambulat",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVkpRTDFPcWU1eWx2a0JjYzltSWZGUFMxdkM1cjM4V05MbHBvZExTc3BFS2hPMHRsV1NGc3E5b2lrbXVZRXZkNWdWMFBTRWhLSUJUZmZIUTRNT2lqNmdPMG1MZW5XNGJwMlZMMHlpd0NOTHg5QzBTajl3bWdBUUNRVUV3bGZTQTdCMFdDRFBTaw?oc=5",
+     "ts": "2026-11-19T18:15:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "99c6a70a2bf5",
+   "title": "Блогер Екатерина Упрямкова поиграла в GTA 6 и решила, что GTA 7 не выйдет",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "99c6a70a2bf5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Блогер Екатерина Упрямкова поиграла в GTA 6 и решила, что GTA 7 не выйдет",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0hsSXZaVmotR054M3pjSVhfYWdhdVl0bmExczVhUHpFcUFyR1o1SEtTcU9CYWp4V0d4aXdac283b0p2SGlSdUR1b1RfVzgyeGhlcjJaV0ktdU9CSlR3TUxuVDZOUktYX0NnUmZPN1pQdUs2cWI4YXltLWpuTHRlT3RTNGFBRk53TVAyYUliUmlsbjFVb2M1NEZBTXliLTdLLVgydDdKUQ?oc=5",
+     "ts": "2026-11-19T12:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f49588a056f1",
+   "title": "100 часов GTA 6 от VK Play: новый гость — продюсер «Война Миров: Сибирь»",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "f49588a056f1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "100 часов GTA 6 от VK Play: новый гость — продюсер «Война Миров: Сибирь»",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQjBxejNoYWFFS0ZOb3V4ajUzRlNNaXRUaGVyTmNXRGlCRGQtNU91LW5DRGZaU2FpVm16bHJFQVo2ZHNCSVJ1d2c3SC00OXhnX0FwaWFZLWlCdmR4Ylk5blE4QV9qVHRvckRNaVJYQWI3VU5FYUp3UXJWcVpJRHIwbHJBZEdGWUpqODV5NGFwLUZMN1RHZFlPSEY4NFo?oc=5",
+     "ts": "2026-11-19T12:48:09Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fa92073e7dbd",
+   "title": "100 часов GTA 6 от VK Play: гость — автор игровых медиа Константин Иванов",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "fa92073e7dbd",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "100 часов GTA 6 от VK Play: гость — автор игровых медиа Константин Иванов",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMW9qcElIUUZfV01qeThIV3hUNVE0M0cwdUFfcTk3cVo2QXZWaFhIYUlfYndDTmlHU1lzV2ljSndoMGNlRXpkMnEwVngxaEhPSl9aT2kwR2xOTHlrR09jeTJyMHVQS2I5eDZzZC1qLWNxNWlfOFBlQmxaUElYaGR5SlliUk5IVkNjU3dFSmNZVi1rSjZQMU9sNWFnYlZRaE82clRV?oc=5",
+     "ts": "2026-11-19T14:16:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "49c5e8a73f8b",
+   "title": "«40-летний мужик пытается устроить свою жизнь»: блогер сравнил GTA 6 с RDR 2",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "49c5e8a73f8b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«40-летний мужик пытается устроить свою жизнь»: блогер сравнил GTA 6 с RDR 2",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFBPOWpLTnZhTGo5Zm5NMGd6LTJOMjlDU1ctX01SVjVCWmt5N0FhUTNYWUFjbWhDWllDRFM5STFFU0lNLVhnOGI2dVRUejJ2SDRFcG5mb1QtQUFQTjFCSWNLakFNUWlsUk1XSXNZQzN6aUVOeHNPYVVoUVc4MFNhUHZCQ3d0QnIzLTc3ek5GNWlvN09ESzl2T1Atdmx0OE8xeVB0all2Ym0?oc=5",
+     "ts": "2026-11-19T14:44:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4a659e00f44c",
+   "title": "«Подрался с женщиной в грязи»: продюсер «Война Миров: Сибирь» оценил GTA 6",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "4a659e00f44c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Подрался с женщиной в грязи»: продюсер «Война Миров: Сибирь» оценил GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkRyRzZsNFVxN2xWeGFKT1hucllpcml2cEFINU5iYm83dmxTbThobFVrNFdvRHBKMHVGTC0xYW1BRDMyQ1dwU3ZJNll1SVo3SWpZMlNBdUVtdExSY01HaFRDTV8wOURoODB2V1ozWmlYRWdLbTlTS0JjZGFpcXFaOW1wWnR1bm00dGpGemc4LWJwTFhTcW1tT2pLemI4b0tDaTJMVjZlLXk?oc=5",
+     "ts": "2026-11-19T15:31:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9c202aafe316",
+   "title": "Мэддисона навсегда забанили за стрим GTA 6",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "9c202aafe316",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Мэддисона навсегда забанили за стрим GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CSGRibFBHY2JuV01Sa2hReDNia1JxdHRNakk2TEItM3g1ZS1wTUlXMl9VY2k1RW9YdDdPMklOTmFRZUZZT1B6R1NWZWFoNC1xeDB3U1dwQlVpX1BhLTRNVWtFU0dPc2VHOEY5Mks2RVpDaXo0SWd6bm5KUQ?oc=5",
+     "ts": "2026-11-19T15:54:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8e9fc93b0fef",
+   "title": "Долгожданная GTA 6 уже вышла в релиз! Были ли оправданы ожидания?",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "8e9fc93b0fef",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Канобу",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Долгожданная GTA 6 уже вышла в релиз! Были ли оправданы ожидания?",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaE1ZOGJrcEczRVByc0JuYTB5UkZ4TXRvUTU2VUEyYTFmNlo2Q0hHb2o5UU04Z1dxWjNNYU03dm9JTGFjZGllSF9qbHJqM0ZmUmtyVHNzLWZhV3JIZXptVnRKNGVpcHQ3VDVlUVFPbkdIaE9MRXpseEdqSGp5QmNNZ04waVpXQi1iNHJGd1lYNHd3RVA5cmRBX3Q0VG50RFFPa3AzNjhB?oc=5",
+     "ts": "2026-11-19T18:20:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0711a208ad64",
+   "title": "Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "0711a208ad64",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ESPN",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0pjQllCMzlBc3hVZUZsQVhhOWt3VUJtVUtlQmc2SmwweFQ1ZnJEanc1RVVaR0FmUEt5blNJRmM1cE83aW9CWlFkQmo0SXhobHBybFVnMmg5Vkh4VmNfeTYyVWo2TVh4djUyeUNfVF9ibS03MjRNMkJTOHJsOTliTEw3TQ?oc=5",
+     "ts": "2026-11-19T19:41:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ef064a45d25d",
+   "title": "Grand Theft Auto VI creates a buzz with Florida gamers",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "ef064a45d25d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Tampa Bay 28",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI creates a buzz with Florida gamers",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWRIQ3FIT0x6Rm96cDJ5RkJhUDhnZUU1SHhzV0RuNUZFRFQ2NmFzblBGdmNheUZTSnh6WGtPWWtRTmUwbmxxWWgzRlkwX3pUcjFYWFlKLWVBZ0hwSVQ3Mi14VGNjVDRCblh5UFNNbHlFVUtFeDBoWC1mWEt1UG1ESERtcWpzTlBIWmZldHZtaExvZXJkMVlKZDEwR1FzSDhv?oc=5",
+     "ts": "2026-11-19T19:44:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c9d6f5e2a818",
+   "title": "GTA 6 launch sparks excitement and plans among gamers",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "c9d6f5e2a818",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Twin States News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 launch sparks excitement and plans among gamers",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd3FydnJkOEhrMVJxSEJDckdxcmFWX2R1Q1AweU9ra0d4N0o1b3ZKTGp1ZExfTGVweE9Ma2UyQWdxRWVmZ0c0Z0ZWbnZmeWszWWZQTTJ2UnQ1MDFEWXJFazVGZTJPLUpxR3l1LWcyN1Vyb2RwSVp4d1JISms5NzN2VllJZGRlMlZlRXZwMk4tbXkwMlhMYUwteWhBOVl6S2xKbVNxZ0k5Q2F0MUdPMUpDVnpURGRHdTNlbDRhaENyeHpMWjM5ZGFMOUc4UkNZR2JzUVlMUjItb1BNZjZKV0E?oc=5",
+     "ts": "2026-11-19T19:46:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "007487ba5f8a",
+   "title": "‘GTA 6’ Sales Have Already Surpassed Christopher Nolan’s ‘The Odyssey’",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "007487ba5f8a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Hollywood Reporter",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA 6’ Sales Have Already Surpassed Christopher Nolan’s ‘The Odyssey’",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOVJyTV9RWWE0RU02Mk9ybGh0dGdFY1RSY2hyNWpwVTY2N0NJQk10dlhKV1RiVTYtNEFSMGZta3QzbmtqYXIyYkZzSTRRQXBHV2pLdUdKajVSQ3JpaUlzSWN1ZXBHaGp1VDAyTUlvdzcxNV9RaF8xcjlud2J2MGMtTHFQVEp4bXg0VWd3dFZlVQ?oc=5",
+     "ts": "2026-11-19T19:48:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "eb54c29f0ea9",
+   "title": "Батраков поделился фотографией с GTA 6: «На часик потеряли»",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "eb54c29f0ea9",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "sport-express.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Батраков поделился фотографией с GTA 6: «На часик потеряли»",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWFhZNFhqZmo3ZmczMDM4TkNfLThzVlM2TkNuVG5aeUdoMFIzTU5WUG9OeXRzMDFFck1YYzl2dHY2eUI1ODQ1REtFV0dveW5XQ0dQbWJSRGtiTVdLR2ZTbVY1MTZIOElwMnRDZWZ2RG5PYkEyT3hIM0pkaldxS28wcUY2VzZMWk9UR0xfUHNUa3ZPN3BLeXRjMHFTM3RYSHhlaEVESXN5SkFkVFhaNnhoWjMwYUJSN0dlZ0ZNVHhDYXZjUkd1OWc?oc=5",
+     "ts": "2026-11-19T19:50:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "dc846c7c5fcb",
+   "title": "Your GTA 6 car is your Red Dead 2 horse, and it's perfect",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "dc846c7c5fcb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Your GTA 6 car is your Red Dead 2 horse, and it's perfect",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnJjdzVQWmRwNUlxZlM2XzZJcUpKUUlxUzBZdnVoMTczd183QUtacGxSNHRhUVRWYTFyc3h4MUpjdG5IcmozVVZldENPSGZMYXdnVHdOM256ZVdRaGdxc28tQ205TnRMZzJWc2w5ZUttcERwRWUzcWdOOVVCaW84VEFhQi1TYTFDNVFMbFRUcm83NWs1RTg1YUV3amNBczBqcThWaHpn?oc=5",
+     "ts": "2026-11-19T19:54:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Машина в GTA 6 ведёт себя как конь из Red Dead 2",
+    "summary": "По данным PC Gamer, в GTA 6 поведение автомобиля похоже на механику лошади из Red Dead Redemption 2. Издание отмечает, что это делает поездки живее и добавляет погружения.",
+    "idea": "Сравнение физики машины в GTA 6 с конём из RDR2: показываем пару коротких сцен и реакцию. Зрителю интересно, станет ли езда в GTA 6 такой же «живой», как в RDR2.",
+    "hook": "Машина в GTA 6 — как конь из Red Dead 2? Смотри сравнение.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T20:01:26Z"
+   },
+   "msg_id": 1589
+  },
+  {
+   "id": "f72eae2451aa",
+   "title": "New GTA VI Backgrounds Added To PS5",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "f72eae2451aa",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "New GTA VI Backgrounds Added To PS5",
+     "url": "https://rockstarintel.com/new-gta-vi-backgrounds-added-to-ps5/",
+     "ts": "2026-11-19T19:55:25Z",
+     "summary": "Rockstar Games and PlayStation have just released a few GTA VI backgrounds to use on PS5. The game has finally released worldwide and to celebrate the two companies have provided fans with various pieces of artwork to take over their console’s dashboard. We’ll be showing you how to access them all. Upon booting up your [...] The post New GTA VI Backgrounds Added To PS5 appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️ Новые фоны GTA 6 для PS5 уже доступны",
+    "summary": "Rockstar и PlayStation выпустили официальные фоны GTA 6 для PS5 в честь релиза игры. Теперь фанаты могут установить новые арты на главный экран консоли. Об этом сообщил RockstarINTEL.",
+    "idea": "Быстрый гайд: где в настройках PS5 найти и поставить новые фоны GTA 6. Зрителю важно — за 30 секунд получить результат без поисков.",
+    "hook": "Релиз GTA 6 есть — а крутой фон на PS5 уже стоит?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T20:01:31Z"
+   },
+   "msg_id": 1590
+  },
+  {
+   "id": "91bc3df26ee3",
+   "title": "‘Grand Theft Auto VI’ releases to the public",
+   "first_seen": "2026-11-19T20:01:21Z",
+   "updated": "2026-11-19T20:01:21Z",
+   "items": [
+    {
+     "id": "91bc3df26ee3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KYMA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ releases to the public",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUnJtZ3ViUGphYy1WZU1VcHhxZjJ6dFQxMU9sOTliRzNhelgtNEdjRTRDWS10T2xoOUE1Z09Ya3dSVW9TN21EZGtPY25iX2NEbWV5MkhOdHJBUFZ5akxPMGRkdnRTb1VpbmE3ZGd6VGVGV3ZxTDI2bHhCRzFsd0pzeEVuV1JscHo4ZTg2cE5IVDctR0Vq?oc=5",
+     "ts": "2026-11-19T19:57:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "fbd6659fa405",
    "title": "Kentucky Headhunters featured in Grand Theft Auto VI",
    "first_seen": "2026-11-19T19:50:49Z",
@@ -2664,43 +3232,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "73185a979265",
-   "title": "GTA 6 Bigfoot explained: How to find ‘Bigfoot’ in GTA 6",
-   "first_seen": "2026-11-19T18:40:47Z",
-   "updated": "2026-11-19T18:40:47Z",
-   "items": [
-    {
-     "id": "73185a979265",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Bigfoot explained: How to find ‘Bigfoot’ in GTA 6",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-bigfoot-explained-how-to-find-bigfoot-in-gta-6/",
-     "ts": "2026-11-19T18:30:42Z",
-     "summary": "Bigfoot stalks Jason in GTA 6... or does he?"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Бигфут в GTA 6: охотится за Джейсоном или нет?",
-    "summary": "По данным VGC, в GTA 6 Бигфут преследует Джейсона, но до конца неясно, реальный это монстр или обманка. В статье VGC разбирают, как найти Бигфута и что это может быть — пасхалка или городская легенда.",
-    "idea": "Короткий хоррор-ролик: ночная вылазка в Леониде, камера фиксирует силуэт в лесу, затем резкий скример. Зрителю интересно проверить, существует ли Бигфут на самом деле.",
-    "hook": "Бигфут в GTA 6 существует? Он реально преследует Джейсона.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T18:40:52Z"
-   },
-   "msg_id": 1580
   },
   {
    "id": "ad7be9e832ce",
@@ -5568,60 +6099,6 @@
     "at": "2026-11-19T17:01:35Z"
    },
    "msg_id": 1559
-  },
-  {
-   "id": "1459f0e9fe94",
-   "title": "GTA 6: All Ultimate Edition bonus content and where to find it",
-   "first_seen": "2026-11-19T14:01:17Z",
-   "updated": "2026-11-19T17:31:03Z",
-   "items": [
-    {
-     "id": "1459f0e9fe94",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: All Ultimate Edition bonus content and where to find it",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rMmg1MWY0WVRUcWRtLTRfRl9Ya0d5SkxkOTlLOTd4Um5XeXF3YUczRlVUWVpzeVJZem16YW5EaXY4eURmWDB6QmpHQnpjeUJGLUplZXZWTEhJZGNNSWV2V0FtVHJtTVAxSUJ4UUNB?oc=5",
-     "ts": "2026-11-19T13:28:55Z",
-     "summary": ""
-    },
-    {
-     "id": "f7a6a0eca8a5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: All Ultimate Edition bonus content and where to find it",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zb0sxaGVyLTYtNXpRdFJxRzhOT2tkMEhHRjlzUG1zT1RTR3JiUE45czdKRHJUalVYekN4SUtLNGNVUEdPblotYy1HNnpSaHlZa2lSOUM1Nk5iSXNpYnpRelRmZVc4UllGWEpIdA?oc=5",
-     "ts": "2026-11-19T13:28:55Z",
-     "summary": ""
-    },
-    {
-     "id": "bbfb4eae8682",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "$100 за «боевой пропуск» — игроки раскритиковали премиум-издание GTA VI: Ultimate Edition",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHd0ZEU1SXJlRXpxSW5ES2Y5T2JrWnFyaHFOYjBLUzExXzFlNHVhWjZ3VEYzWEM0SmdiNW9NWktkRmQxcGNSS0p4VFQ0VXNCMGR0cmhSTTZPaGxiRFVOVjFxUFlzOUUta3Bnc3F1aEg2S3E2SUhMX0ZaZ0ZFYnItcnRpV19ZU3dpcnFMb2J6TXJEb2tIQTlzeF9mQUZYZ2l0bVNwTXpfeUNLRkdKSFYtVk1XMm9qajdkcTQ2RndSdVrSAcYBQVVfeXFMUDhBQ2pzQ3RQc1JwMW5uLWtHUDRRbFR5dGxNdmpxcEdNZzJ1b2ZwVWhnVzVNTGZ1SFFDekdMODkydTQxNzd6SktzbEhjUlJyREJVeFFVSWlLTE95cXFGTmFNUFNfbFhQYzVFVVA2by11TlF1TVE2VUpxbDVXY2gzdUtwRFZYWjk1WHphNFJiODlPb2s4VzZVd3ZxOG1lOG9sUEhCUUdwZjlGU3djUFFJZWlSQndUakFNSmt2YS1ycUlUaDFPR3JR?oc=5",
-     "ts": "2026-11-19T16:59:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   },
   {
    "id": "896d2e3391be",
@@ -35068,32 +35545,6 @@
    ],
    "tags": [],
    "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7b9230d9d6f8",
-   "title": "100 часов GTA 6 от VK Play: новый гость — стример и тестировщик Егор Кулагин",
-   "first_seen": "2026-11-19T01:01:18Z",
-   "updated": "2026-11-19T01:01:18Z",
-   "items": [
-    {
-     "id": "7b9230d9d6f8",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "100 часов GTA 6 от VK Play: новый гость — стример и тестировщик Егор Кулагин",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHV1OXQ3QjVOT3dRSG9sV0VlVFF0TUFXaHhSODBOWXVUQTQ3NVBHeHZJMXU0YTVoQTZicWZBVGJQN2ZJd3hrVUtDeUtMaVNnVTUycko0RE5IcmtvaGpJQTRydGlFU2pRcFFIUFE2Q2xiZmF0NjBseE4xbjFJOGhPcDhCRVNHOVZfem1TTG9temtLeC1pWF82SjFTSFZzSU16bEZ1dUVzdFAzQQ?oc=5",
-     "ts": "2026-11-18T19:43:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -167066,751 +167517,22 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "9476f30da3bb",
-   "title": "Watch Twitch CEO: GTA VI Could Be Our Biggest Moment",
-   "first_seen": "2026-11-12T19:20:56Z",
-   "updated": "2026-11-12T20:01:26Z",
-   "items": [
-    {
-     "id": "9476f30da3bb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Bloomberg.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Watch Twitch CEO: GTA VI Could Be Our Biggest Moment",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnVQVk1IODY3SU5udXN5cnkxQkw1TUZMVXdCS0pEdmhJaE5xdE9lc21nMElEQ3pXT1N6cF9TSV90dDliWWtCWWxId0RTcVd1SkFJaGhwTjQxaWYwRTNwaUYyb0tuR1JwcmFoRjFCTG50a1dYdmxuTjhfazFCZm1zMDNNUVFlNjJkczBlczRXekk0ZGJFREYzMlp4RDVFdm5MZVE?oc=5",
-     "ts": "2026-11-12T19:10:14Z",
-     "summary": ""
-    },
-    {
-     "id": "166ebf9b0b8b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "marketscreener.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Twitch CEO: GTA VI Could Be Our Biggest Moment",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFVyWXc4SXZNUWt0aG11U1Z4T0JERTJodk44Yk90dF9PX3F2MHRWUnJjTk41ams2aVUzUmRKMURwOEg1a29ibGhlSWFYR2MtcDJsdlBiRml2OF9ydnVnVU5ua2IwVDU0QmxIS1pIUjRmVzJRYjI2QTZLRTJHVFlRTXNHUmwtX3UtVllOa2xFalVsYlpfVWdnTU5UUF9YeUU?oc=5",
-     "ts": "2026-11-12T19:52:59Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Глава Twitch: GTA 6 может стать нашим главным моментом",
-    "summary": "Глава Twitch Дэн Клэнси заявил, что GTA 6 может стать крупнейшим событием для платформы. Об этом он рассказал в интервью Bloomberg.",
-    "idea": "Угол: сколько зрителей может собрать стрим GTA 6 на Twitch и почему это важно. Зрителю интересно — это про рекордные онлайны, мемы и шанс попасть в историю.",
-    "hook": "Глава Twitch сказал, что GTA 6 может стать их главным моментом. Вот что это значит.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-12T20:01:32Z"
-   },
-   "msg_id": 872
-  },
-  {
-   "id": "a32d0fdbf148",
-   "title": "Ah thank you for reminding me Rockstar",
-   "first_seen": "2026-11-12T20:01:26Z",
-   "updated": "2026-11-12T20:01:26Z",
-   "items": [
-    {
-     "id": "a32d0fdbf148",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Ah thank you for reminding me Rockstar",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xukh77/ah_thank_you_for_reminding_me_rockstar/",
-     "ts": "2026-11-12T18:25:39Z",
-     "summary": "Gta 6 ad in gta 6 subreddit submitted by /u/Old-Presentation3876 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d33563a77767",
-   "title": "What’s the one element of the game that impresses you the most from what we’ve seen?",
-   "first_seen": "2026-11-12T20:01:26Z",
-   "updated": "2026-11-12T20:01:26Z",
-   "items": [
-    {
-     "id": "d33563a77767",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What’s the one element of the game that impresses you the most from what we’ve seen?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xulekx/whats_the_one_element_of_the_game_that_impresses/",
-     "ts": "2026-11-12T19:00:05Z",
-     "summary": "For me, it’s just the NPC realism and density. I mean, I could go on and on about various things that look amazing but I think the NPC element is the most exciting to me. submitted by /u/Complete_Quantity_30 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a868e036e2eb",
-   "title": "I'm gonna miss the anticipation",
-   "first_seen": "2026-11-12T20:01:26Z",
-   "updated": "2026-11-12T20:01:26Z",
-   "items": [
-    {
-     "id": "a868e036e2eb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I'm gonna miss the anticipation",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xumbho/im_gonna_miss_the_anticipation/",
-     "ts": "2026-11-12T19:33:37Z",
-     "summary": "It is really crazy to think that this is the last Thursday without GTA 6. I'm seriously going to miss the hype. It has been so fun to be a part of this community and get super amped up about any amount of info we can scrounge up. Getting news every Thursday the past few months, the excitement for what may come next. I heard we're getting something big next Thursday, actually. I only became a Rockstar fan in like 2022 when I played RDR2 which quickly became my all-time favorite game. It means a whole lot to me, and I haven't experienced anything quite like playing RDR2 since then. I imagine VI "
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a1ae91bb51af",
-   "title": "GTA 6 Physical / Poster",
-   "first_seen": "2026-11-12T20:01:26Z",
-   "updated": "2026-11-12T20:01:26Z",
-   "items": [
-    {
-     "id": "a1ae91bb51af",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 Physical / Poster",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xumfwf/gta_6_physical_poster/",
-     "ts": "2026-11-12T19:38:03Z",
-     "summary": "I hadn’t realized that the physical version came with a double-sided poster. I kinda wish they had done the map, but this is still a nice bonus. Only posting to inform others who may want to collect, sorry if it’s a common post I’m not active on this sub. submitted by /u/OhSocietyxx to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e49851da76b3",
-   "title": "How many times have you watched the extended look?",
-   "first_seen": "2026-11-12T20:01:26Z",
-   "updated": "2026-11-12T20:01:26Z",
-   "items": [
-    {
-     "id": "e49851da76b3",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "How many times have you watched the extended look?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xuml7r/how_many_times_have_you_watched_the_extended_look/",
-     "ts": "2026-11-12T19:43:29Z",
-     "summary": "Must have watched the extended look at least 10 times by now. Probably more. Always rewatched all trailers the same amount. How is everyone passing time while waiting? submitted by /u/aimlesseffort to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "bc886a2a3b5e",
-   "title": "GTA VI FINALLY CAME!",
-   "first_seen": "2026-11-12T20:01:26Z",
-   "updated": "2026-11-12T20:01:26Z",
-   "items": [
-    {
-     "id": "bc886a2a3b5e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA VI FINALLY CAME!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xumsse/gta_vi_finally_came/",
-     "ts": "2026-11-12T19:51:18Z",
-     "summary": "I AM SO EXCITED RIGHT NOW!!! submitted by /u/OfficialGalaxyIsHere to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e8d5e0739973",
-   "title": "Imma Greet Greet Antagonize every NPC out there😭",
-   "first_seen": "2026-11-12T20:01:26Z",
-   "updated": "2026-11-12T20:01:26Z",
-   "items": [
-    {
-     "id": "e8d5e0739973",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Imma Greet Greet Antagonize every NPC out there😭",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xumvtb/imma_greet_greet_antagonize_every_npc_out_there/",
-     "ts": "2026-11-12T19:54:24Z",
-     "summary": "Fr tho the convos with the NPCs is gonna be crazy good!! submitted by /u/Pistoluislero to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "779a68668cf4",
-   "title": "Is the game size too big ?",
-   "first_seen": "2026-11-12T20:01:26Z",
-   "updated": "2026-11-12T20:01:26Z",
-   "items": [
-    {
-     "id": "779a68668cf4",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Is the game size too big ?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xumwyu/is_the_game_size_too_big/",
-     "ts": "2026-11-12T19:55:36Z",
-     "summary": "210Gb base game is kinda ridiculous. This is just the base game let’s track some time back. GTA 5 on PS3 was 8 gigs , the ps4 version was 45-50gb at launch and now doubled in size to over 100gbs with all dlcs ect. If this games at double what gta5 ps5 edition is now at its launch it could well go over 350+ gigs over the years with all the dlc. Unless the ps6 launches at 1TB base models we got an issue. submitted by /u/Creative-Safety6252 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7e72a060f8e8",
-   "title": "Are GTA VI Preloads Associated with Outlook Going Down?",
-   "first_seen": "2026-11-12T20:01:26Z",
-   "updated": "2026-11-12T20:01:26Z",
-   "items": [
-    {
-     "id": "7e72a060f8e8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Are GTA VI Preloads Associated with Outlook Going Down?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xun1lu/are_gta_vi_preloads_associated_with_outlook_going/",
-     "ts": "2026-11-12T20:00:24Z",
-     "summary": "So apparently Outlook/Microsoft 365 is experiencing a pretty major outage today. Users are having trouble accessing email, sending messages, and connecting to services. Microsoft says it’s related to elevated load on some of its infrastructure. Here’s my conspiracy theory: GTA VI physical editions and preloading are supposedly becoming available today, and with a 212GB game being downloaded by potentially millions of people, could that massive spike in internet traffic be contributing to the problem? 😂 There’s already been reported network congestion tied to GTA VI downloads in some areas. Mic"
-    }
-   ],
-   "tags": [
-    "размер/preload",
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4aa7740d157e",
-   "title": "Couldn’t even give us a map",
-   "first_seen": "2026-11-12T20:01:26Z",
-   "updated": "2026-11-12T20:01:26Z",
-   "items": [
-    {
-     "id": "4aa7740d157e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Couldn’t even give us a map",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xun1p8/couldnt_even_give_us_a_map/",
-     "ts": "2026-11-12T20:00:28Z",
-     "summary": "submitted by /u/Derkaholic to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "032e304f414a",
-   "title": "I don’t know about yall, but I’m actually looking forward to meeting Mendez",
-   "first_seen": "2026-11-12T20:01:25Z",
-   "updated": "2026-11-12T20:01:25Z",
-   "items": [
-    {
-     "id": "032e304f414a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I don’t know about yall, but I’m actually looking forward to meeting Mendez",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xukahd/i_dont_know_about_yall_but_im_actually_looking/",
-     "ts": "2026-11-12T18:18:50Z",
-     "summary": "I know most everyone is excited to get to know Jason and Lucia as well as their friends and associates. It will be interesting to get to know their story and seeing how it unfolds. For me, however, I’m also just as excited to our first encounter with Mendez. He seems to be one of the central antagonists of the game and we haven’t seen too much of him in the trailers. The moment that really peaked my interest in Mendez was the scene in the extended look where Jason and Lucia are in the elevator rushing to close the doors as Mendez and his task force appear. It wasn’t necessarily his appearance,"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0f731ee1e506",
-   "title": "The GTA 6 flu is coming for office attendance on Nov. 19",
-   "first_seen": "2026-11-12T19:40:41Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "0f731ee1e506",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Human Resources Director",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The GTA 6 flu is coming for office attendance on Nov. 19",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQVNWWGdGNTVaQVZkMWlHSmtvbS1YcG1LelhzSXhUNV9MdDg3WjBqdDFmYVZBVmdKbkoxWXlOd0pITzVkTHl6YXJuREl4Y1ZrNS1hcUZ0T1Uyb3RESk1mbW45TGl2OVNqbE5zSE5PMkk3MHZjdC10TUxDYUVtUUdiSlZ4N1lVbmJ1andZTWtmQ3pPTzFGUkZzZEtqcFdidkd0N3NtdjRIckhFQjFJaEE5Z29nYndNVXpVbmVRdmlNTQ?oc=5",
-     "ts": "2026-11-12T19:29:14Z",
-     "summary": ""
-    },
-    {
-     "id": "8bd3e4969e5e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Human Resources Director",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The GTA 6 flu is coming for office attendance on Nov. 19",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRXNaV0hQbTU2dmlYdDZtYXBFOHBzejdKUldfX3lQWVdfWDVWZ3YtZmVuM25ta1pySE9TWGZRdWVXMnFZRTBjeWJiazNzc256VklycnRJcWo3R01wb1p5RC1pWDZEWXZhY1lSYkZjVGQyRV8yQzlOVmVLNGV1V2RVZG1lNmJOS2dIaG5uN25HODFnYUhEbTRpM1R1Sl8wYXZhNWw0?oc=5",
-     "ts": "2026-11-12T19:29:17Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1237aa3b75af",
-   "title": "Во всем мире берут отпуск ради GTA VI. Но не в Екатеринбурге",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "1237aa3b75af",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "66.RU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Во всем мире берут отпуск ради GTA VI. Но не в Екатеринбурге",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1Z1bGtkVUNkbm15Wi1oNVBuRTY4eVFXaEZ5QXM4WUpJM1pqMU5nN0dUYkNuRDhOUG1IeW8wbjR4NEt4Ynl1MTdxY29nSGJuTW9hV1dMUC1hR3FzdDhXYTRidmI0TEdNdjdEUzJ0U05PSGFJMWdIbGFqMEtUcW1ZX3BnLU9MM2lzT3NzQkRZQzRCTkdT?oc=5",
-     "ts": "2026-11-12T06:35:20Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "785ce7be169b",
-   "title": "Thoughts on 60 FPS on the Extended Look?",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "785ce7be169b",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Thoughts on 60 FPS on the Extended Look?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xucra1/thoughts_on_60_fps_on_the_extended_look/",
-     "ts": "2026-11-12T13:28:24Z",
-     "summary": "Personally, I don’t mind the 30FPS now. I’d love it to be 60 sure, but I’m not going to cry over it. I’m not sure how many people on this Reddit has seen a close resemblance on the 60fps comparison. submitted by /u/Major-Quote6172 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5e0a3ffedec4",
-   "title": "Can somebody help me",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "5e0a3ffedec4",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Can somebody help me",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xufb07/can_somebody_help_me/",
-     "ts": "2026-11-12T15:13:03Z",
-     "summary": "I bought gta 6 Ultimate Edition but it only shows extra 2 extra 3 extra 4 and extra 5 but if i see the download of other people it also says extra Grand Theft Auto VI: Ultimate Edition-upgrade Grand Theft Auto VI: Vintage Vice City-pack Story How can i fix this submitted by /u/Beneficialwomanizer to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3a984dd5ee55",
-   "title": "GTA 6 launches without the “You’re too early” message on Xbox today",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "3a984dd5ee55",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 launches without the “You’re too early” message on Xbox today",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xufu3m/gta_6_launches_without_the_youre_too_early/",
-     "ts": "2026-11-12T15:33:48Z",
-     "summary": "Switched my Xbox Series X to New Zealand today and tried launching it. Surprisingly, no “You’re too early” message. It just sits on the GTA 6 splash screen. Pressing A takes me back to the dashboard. Obviously not playable yet, but kinda interesting. Anyone else tried this? submitted by /u/Impressive_Donkey_57 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "603a71d0e41c",
-   "title": "Is gamestop giving away anything for gta 6 ?",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "603a71d0e41c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Is gamestop giving away anything for gta 6 ?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xugkg1/is_gamestop_giving_away_anything_for_gta_6/",
-     "ts": "2026-11-12T16:01:24Z",
-     "summary": "I just wanna know so I can show up before they open. If not I'll go later on and get some Chipotle across the street 🤷‍♂️ submitted by /u/bigboir32 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c698fcbe5602",
-   "title": "How to get Microsoft to charge my card for gta6",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "c698fcbe5602",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "How to get Microsoft to charge my card for gta6",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xuhbt1/how_to_get_microsoft_to_charge_my_card_for_gta6/",
-     "ts": "2026-11-12T16:30:05Z",
-     "summary": "So I bought GTA sixth Deluxe edition on the 29th of October I was one cent short on the day they tried to take out the money 10 days before release and I'm just wondering are they gonna try to charge again cause I can't really cancel my free order on the store since it says I own the Deluxe edition so my question Is Microsoft gonna charge my card before the f****** game comes out submitted by /u/Desperate-Meat-8823 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "090c1a6b5703",
-   "title": "Me after redeeming GTA VI's code and selling its empty box and poster to a willing buyer",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "090c1a6b5703",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Me after redeeming GTA VI's code and selling its empty box and poster to a willing buyer",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xuhsmm/me_after_redeeming_gta_vis_code_and_selling_its/",
-     "ts": "2026-11-12T16:47:32Z",
-     "summary": "submitted by /u/FroggyTonic to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "82e3d5878e22",
-   "title": "trying too gameshare gta6 but not working.",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "82e3d5878e22",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "trying too gameshare gta6 but not working.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xui90n/trying_too_gameshare_gta6_but_not_working/",
-     "ts": "2026-11-12T17:04:05Z",
-     "summary": "i’m having this problem, my friend pre ordered gta6, and he’s gamesharing with me, but when i go too his account gta6 doesn’t even show in his library, and even if i go too the store, it doesn’t even show that he purchased it. but another thing is, when i go on the ps app and look at what friends pre ordered it, it says he did. yes i have perms and logged in, is anyone else having this problem? submitted by /u/Disastrous_Ease937 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3c88b08b805e",
-   "title": "I'm joining y'all! What's your first mission?",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "3c88b08b805e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I'm joining y'all! What's your first mission?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xumio5/im_joining_yall_whats_your_first_mission/",
-     "ts": "2026-11-12T19:40:50Z",
-     "summary": "submitted by /u/One_Appointment_7246 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "977900833a59",
-   "title": "Nvidia CEO Scandal: What It Could Mean For GTA VI & The Future Of Gaming | The Craig Carton Show",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "977900833a59",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Fox News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Nvidia CEO Scandal: What It Could Mean For GTA VI & The Future Of Gaming | The Craig Carton Show",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRQ1VVRWtlWUdXTVRUTmZPWXdzYmN1MV9nalp3cGhQdk5jM2MxeDhBUlRJX2MtdGNPWEVQRUl4eFBRVlBKYy1tQTJsU2NMcEZtbEpSNXZR?oc=5",
-     "ts": "2026-11-12T19:41:12Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "fd78752dcb40",
-   "title": "W Walmart Pre Order",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "fd78752dcb40",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "W Walmart Pre Order",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xumkn8/w_walmart_pre_order/",
-     "ts": "2026-11-12T19:42:52Z",
-     "summary": "Just got delivered with some free goodies courtesy of Walmart 🔥🔥🔥 submitted by /u/Arback101 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "63d3e1301a69",
-   "title": "Seriously Amazon 1 week later for a code in a box!😂",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "63d3e1301a69",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Seriously Amazon 1 week later for a code in a box!😂",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xumo3v/seriously_amazon_1_week_later_for_a_code_in_a_box/",
-     "ts": "2026-11-12T19:46:33Z",
-     "summary": "My order was showing this morning coming out today then at noon I received that message,i busted laughing and cancelled my order,i’m one of the minority that wanted the code in a Box just to frame the poster for my game room,i took the bus and got to EB Games instead to get it submitted by /u/jpeeno33 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "42f3a2b65ee2",
-   "title": "Bag secured (GameStop)",
-   "first_seen": "2026-11-12T19:51:20Z",
-   "updated": "2026-11-12T19:51:20Z",
-   "items": [
-    {
-     "id": "42f3a2b65ee2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Bag secured (GameStop)",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xumqs1/bag_secured_gamestop/",
-     "ts": "2026-11-12T19:49:16Z",
-     "summary": "Can't wait to get home and preload it! Does anyone know if we can preload the Ultimate Edition upgrade, or do we have to wait until next week for that? submitted by /u/kyle429 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "размер/preload",
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T19:50:49Z",
+  "last_run": "2026-11-19T20:01:32Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 99/100",
-   "gnews_ru: 98/100",
+   "gnews_en: 98/100",
+   "gnews_ru: 99/100",
    "gamesbeat: 6/10",
    "vgc: 6/10",
    "insider_gaming: 4/10",
    "ign: 7/20",
    "eurogamer: 24/100",
    "dexerto_gta: 10/50",
-   "rockstarintel: 9/10",
+   "rockstarintel: 10/10",
    "gtaboom: 29/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 18/19",
