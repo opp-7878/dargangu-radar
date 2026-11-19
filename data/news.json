@@ -1,6 +1,964 @@
 {
  "stories": [
   {
+   "id": "d880bebfeb64",
+   "title": "GTA VI launch exposes cyber aggregation gaps in broker books",
+   "first_seen": "2026-11-19T06:40:47Z",
+   "updated": "2026-11-19T09:10:57Z",
+   "items": [
+    {
+     "id": "d880bebfeb64",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insurance Business",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI launch exposes cyber aggregation gaps in broker books",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd1FYWjVHZzBsb0J4Zm5jY1k0a0ZBUEtvMTNjQ1FWdmdkdEJjbVJnM1VKaDFYRWJJU1Zyd1otSmNGd2hIZmtnUzNNS1lVY1hQZjU0eEs5VWVpX1RDQ3JVeWx2TzEwOVBZZUtPeW9BV2FydDAzMEc0WnRQOVpieWtIcUE2LVpjUTFVTHU5RU9HMDc2eGZETjdPUU4wZy1nNDM0MkY3N3BUV01vX20xRXJEeGYxYjhVR2k5TERaX3RxY2E?oc=5",
+     "ts": "2026-11-19T06:31:28Z",
+     "summary": ""
+    },
+    {
+     "id": "f51ef3cd4cc4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insurance Business",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI launch exposes cyber aggregation gaps in broker books",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeERkMTMzdzRVRV9rbFNhdW1WajFTV1BGMkNUQk9yM0xKQk1qSjFic3B1Vm5PMmtKdE5CcEpIQmlJYmtfVXFUNkR4bWU5dmdrcTJwNHdZS3YtWVA5QWF3NWhLalFNUEFSWWV1cWNNMEQ0Q2NHLWYwZlFtTHBmaXNndUVMY0pJbkwySE0tT0NUdDhSRk9uX0lSWnc4N3otb1U0c3hYNHVBS1VHRFluWGprSHhVYUhHYUhfbjRnSUEzSTFQdm1LRnNOLTFyVQ?oc=5",
+     "ts": "2026-11-19T07:39:36Z",
+     "summary": ""
+    },
+    {
+     "id": "f1f4b4d687b9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insurance Business",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI launch exposes cyber aggregation gaps in broker books",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjdPMVo0aTN1X2NOR0p2akRmR2Y2VFhOdi01MXFxTEtyS1NJRVdnQUJ6SjM4Wks2SzdMRzVDNGpVeVp1WjJQNEF0YnBfc25qSFBuQ0Z0cHBNQ3VVNnJQbG5vaC1MWS04MHh6Tm1CbEl0b01pcXQ2Q3dCdzVhLXlDNFk2M1RxMEluRElUbUZ5dDZsR0JGbW9McTd4UTRaQkhSU3dqd0EzSWN0MWpRVmI1aE02SmkzQ012b0NxWG9vLUxuLUE2WjJNYXU0Yw?oc=5",
+     "ts": "2026-11-19T07:42:30Z",
+     "summary": ""
+    },
+    {
+     "id": "55977977a616",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insurance Business",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI launch exposes cyber aggregation gaps in broker books",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXVkS3lNTkFzenFKUkxuN0tNSlNPZ0YwMmRDYXF5aUdvVTA3UzV2NGNOd3FFNlUxTl92LTNtWXdKdXhzTVpyeXNpOUtqdVVQaFVRV05xRU5nTUk5d2t4dmI0dXFZSjd3eDVBdUhETTZ5Rkg0eE82VnAtVTlIQjB1bFRrdFRXNGhjby0zU1RmMXBkbGNheFRYakVNOFhIbUpKZEhaUXRiTWdFckx3bnlReU0wTW9PX012XzEtazVNT2k?oc=5",
+     "ts": "2026-11-19T07:42:51Z",
+     "summary": ""
+    },
+    {
+     "id": "b7969abcdd30",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insurance Business",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI launch exposes cyber aggregation gaps in broker books",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRkRidi1lWElWdVN6ZTM1Q0ZTaFVvNU1jelhPMDlHcVBBSlZMeHh3WjlmTDZ0cmNya1RGSzFoQXk0M040UzZZQWxiTnhlT29jSUFRemE5NFM0dXFZTjVLOXZoMmhnaS1WVUlybzdORU5WRlR6c0JiNzdxRUhrWTBseU41ekM0NkZRSlhKb1FWSmJkc2RDbVRTY3diYUNrOEpQRWdWSkJPTkRZWThJNF9pdTBzMlBMbHNoaURFUXZQM1A3cFk?oc=5",
+     "ts": "2026-11-19T08:56:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f6352470387c",
+   "title": "Трафик «МегаФона» взлетел на 58% на старте предзагрузки GTA VI",
+   "first_seen": "2026-11-19T03:10:49Z",
+   "updated": "2026-11-19T09:10:57Z",
+   "items": [
+    {
+     "id": "f6352470387c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Трафик «МегаФона» взлетел на 58% на старте предзагрузки GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkTVl2Ymxtamp1d2dhNms3TWg5dnBWYUhoLWVlNUItdV9YWW53YVk3X0ZaNmFmLTZhVHpYTXRXZGdCaFZyRjJpWWx5d1R5azY3eV9BbDFKRWhEcGJpUy1KX25HX0Vwb2t3aGZGSmpqd184clVpeGc?oc=5",
+     "ts": "2026-11-19T03:00:49Z",
+     "summary": ""
+    },
+    {
+     "id": "5ffb46bebca3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В Брянской области трафик геймеров взлетел на 58% в день предзагрузки GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2hpNEZ5TTE4eHZSLUk5MW53VGo1NmhKbjhKdkFfY1NORW5SQXhROHFSaEQzNUNkZl9OclcyUndRTk40NUNJU1FrV2JZS0RNeURkbGlXM0p2WFc2cDZsN19zRm5jYjRwWFE2ZmU5eTRHWGlmUHBiNmppeW90U21KUlczQWk?oc=5",
+     "ts": "2026-11-19T09:00:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Предзагрузка GTA 6: трафик МегаФона взлетел на 58%",
+    "summary": "По данным Techora.ru, трафик «МегаФона» вырос на 58% на старте предзагрузки GTA 6. Это косвенно подтверждает начало предзагрузки игры.",
+    "idea": "Короткий разбор: показываем график/цифру 58% и объясняем, что это значит для игроков — предзагрузка уже идёт, пора освобождать место на диске.",
+    "hook": "Трафик МегаФона взлетел на 58%. Это значит, что GTA 6 уже качают.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T03:10:53Z"
+   },
+   "msg_id": 1434
+  },
+  {
+   "id": "032042026aca",
+   "title": "GTA 6 Mandy explained: Can you romance Mandy in GTA 6?",
+   "first_seen": "2026-11-18T22:20:48Z",
+   "updated": "2026-11-19T09:10:57Z",
+   "items": [
+    {
+     "id": "032042026aca",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Can You Romance Mandy In GTA 6?",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YS1pCT01hcXNNN2lqUjV3MDdhN0xHRXRQeW9oejM5UzZ4akRkRkxiZEcyc1hKNG9QbEt4Q2kwSlllTU1aQmRkYUJVb3QwYldCNFZ1VUNEYVQ4TllJM2JTcWNmdDh2MmUwVHo5MHVYX3V3VkE?oc=5",
+     "ts": "2026-11-18T22:14:07Z",
+     "summary": ""
+    },
+    {
+     "id": "4d4fc121e6b7",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Mandy explained: Can you romance Mandy in GTA 6?",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-mandy-explained-can-you-romance-mandy-in-gta-6/",
+     "ts": "2026-11-19T09:07:57Z",
+     "summary": "Mandy from the Pipework mission certainly likes Jason"
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Можно ли встречаться с Мэнди в GTA 6? Что известно",
+    "summary": "GameSpot разбирает, можно ли завести роман с Мэнди в GTA 6. Официально Rockstar это не подтверждала, поэтому пока это лишь предположения по утечкам и слухам.",
+    "idea": "Коротко объясняем, что известно о романтических линиях в GTA 6 и почему это важно для ролевой игры. В кадре — нарезка утечек и вопрос зрителю, кого он выберет.",
+    "hook": "Мэнди в GTA 6 — можно ли с ней встречаться? Разбираем факты.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T22:20:55Z"
+   },
+   "msg_id": 1417
+  },
+  {
+   "id": "69cd76dd668a",
+   "title": "PlayStation Network outages hit before GTA 6 launch",
+   "first_seen": "2026-11-18T21:01:13Z",
+   "updated": "2026-11-19T09:10:57Z",
+   "items": [
+    {
+     "id": "69cd76dd668a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Detroit News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation Network outages hit before GTA 6 launch",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHMzdkh0cHpGbmNYVDhNOF94UV9NOVNUeE5iRDJXNkFXbDRfUUEzUkNvUFdGRTE4TDYtdkd5YWxjdV92VG82YWtVQTNwYjhXUHV0S0VtX2ROZUFHeW9ic05nZ1hXWGhZc3BRVmNBbDlMZG56SjdWX0FFamFWYmhabnFFcGlzNVdwemJmdno3SmFmX09IOWRWWFVWSlRoeUV0UE1XR2p4Z0tiN0s4?oc=5",
+     "ts": "2026-11-18T20:51:00Z",
+     "summary": ""
+    },
+    {
+     "id": "ab638e8f9777",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Diario AS",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Is PlayStation Network down? What to expect before the launch of GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY295T2FTREFqS29zaUt0MXpvSWkzVkpSWHY1LUtyMXYwZkw1bmZQMjhNX2pIbkV4dlE2bDFTd0tLR2pKRFZ0dXNxNC1HRHBEN0o4cC1mNzdGZXl0bDF1RmRqVl93UHZTWjdsQVRsMEF1MWRZY3Vja1UxS0hSSmtRbnBfRkdHUHdoMHVCbjYxX2FhZE93UkNwaUJLa0M4M2gwU0ZVazBfTFVnMWhpc29ST9IBxAFBVV95cUxNMDJRWS1QU3NFb254RlBCSWhrb3RLVmtFV1lIMVNBVGJqWnBFb0c3X29kNVh0dmZOUnpNOGhzcFNCUWo0Y2d0M3E2aExoVTNXZllXRXJkVWVkUHRubEJkTXYyOGZzYTBQeTgyXzVFMFZOUlhLaDFjMk04dGdqX1E2dXE5d1RwQzNOMkhOSUFVM0NkOVZDeTV2eVVpWEVFeTEwXzZvYXplY3dHeWZLcHRNbFpZUDROdVAwTFh3VUhXTXVrbkpq?oc=5",
+     "ts": "2026-11-18T21:17:02Z",
+     "summary": ""
+    },
+    {
+     "id": "646766715763",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation Network down for thousands as 'GTA 6' launches",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOEIxazZvTmpHRUkydGM4LVhPbUVCemZwNTFEcWlXbVRUWV9iMGhQbmh6Yk83NzhLNXFaRlMxS0hPdjdTbEpHbFJ6dXAyVlVuS0pORXZ4M1pla3lLZFl2MUNBMTBHSnJiZUZtalVGUnNuMTFXaFNzajdJZmxmTE94RnhhZmZZMlB6Tm9nXzdBUVBtQm9MWmVtOE8wNXZMRmhENmZVY055bWh1YWNzYkRSVE5UTXdMZVFIaTEtZUFvTTY?oc=5",
+     "ts": "2026-11-18T20:41:49Z",
+     "summary": ""
+    },
+    {
+     "id": "934006709e28",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 causes PlayStation Network outages",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamxHZXA4UzRqcFRYTk5ySjNHWm91OFFYQ21HU3o4aldmNnpNT2Z2OFhFMmh5OVdwd0xpbzd3dlN0QzhHd1Zkb3lSSXpUVmxINVMwaGlESDBlbWJyR0VjUGRsTkhOYVkycjB4YzZmMmVub1ExdlloWjhjcXUxX0J6UE00WEhwR2tBZkNUMVl3?oc=5",
+     "ts": "2026-11-18T21:34:00Z",
+     "summary": ""
+    },
+    {
+     "id": "cb519c3ba164",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "SDxCentral",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PlayStation network struggles with GTA VI launch traffic",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGlUMno2S2loLWltMjROMVNPN0FoWTQ0azNYZXg4ZDdqOWRiSWtlaktvelNoYkZJZmRmS2ctSTREVjY4NlQtTmg1WU9WRklOSVBWcXFfMUs3NkU5YXpzXzk5eEdnXzVRcVJrYjRCckJQUUkwbXVwb1B0d3VTZlpuelQ2c1UzcnpJYmJnMktOa0E2WFU?oc=5",
+     "ts": "2026-11-19T08:59:56Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Сбои PSN перед запуском GTA 6: что известно",
+    "summary": "В PlayStation Network зафиксированы сбои накануне выхода GTA 6, пишет The Detroit News. Diario AS отмечает, что подобные падения PSN часто происходят перед крупными релизами. Официальных комментариев Sony пока нет.",
+    "idea": "Короткий разбор: что происходит с PSN перед релизом GTA 6 и как это влияет на игроков. Зрителю важно понять, ждать ли проблем с загрузкой и онлайн-режимами.",
+    "hook": "PSN легла за день до GTA 6 — что это значит для нас?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T21:31:20Z"
+   },
+   "msg_id": 1409
+  },
+  {
+   "id": "1a2081053eb9",
+   "title": "GTA 6 Shatters Streaming Records Before It Even Launches Globally",
+   "first_seen": "2026-11-18T19:20:51Z",
+   "updated": "2026-11-19T09:10:57Z",
+   "items": [
+    {
+     "id": "1a2081053eb9",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Shatters Streaming Records Before It Even Launches Globally",
+     "url": "https://www.ign.com/articles/gta-6-shatters-streaming-records-before-it-even-launches-globally",
+     "ts": "2026-11-18T18:43:45Z",
+     "summary": "GTA 6 is already breaking records, despite not having even been out for a full day yet."
+    },
+    {
+     "id": "c4efa23269aa",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 shatters streaming record – even before its worldwide release",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0ItS3NtUFZRYkhIZ21zT01sRnpkSzVmQUxGYXZVVWhORGl6YmRpVGdsYzU2VEpQb19ibG1hSEJTejRlNENsc2hGYXMwWGYtU0YwSVYydGlWbW13a1VNTERncWE3WDR2dFFoNi04OGRNTFF4NXBrQWZBS3pqQWNULWROaVVLYVdydXN0MEFTaDVvclNlUnUtSlBYTlFpWngxV1BCZVZnT1VnbHNOWDg4?oc=5",
+     "ts": "2026-11-19T08:57:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 бьёт рекорды стримов до релиза",
+    "summary": "По данным IGN, GTA 6 уже бьёт рекорды стримов до глобального запуска. Игра ещё не вышла, но трансляции бьют исторические пики.",
+    "idea": "Короткий монтаж рекордов и цифр с таймером до 19 ноября — зрителю важно увидеть масштаб хайпа и понять, что ждать завтра.",
+    "hook": "GTA 6 ещё не вышла, а стримы уже бьют исторические рекорды.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T19:20:56Z"
+   },
+   "msg_id": 1386
+  },
+  {
+   "id": "4c41ab8047de",
+   "title": "Предзагрузка GTA VI вызвала рекордный рост трафика в России на 58%",
+   "first_seen": "2026-11-19T09:10:57Z",
+   "updated": "2026-11-19T09:10:57Z",
+   "items": [
+    {
+     "id": "4c41ab8047de",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Предзагрузка GTA VI вызвала рекордный рост трафика в России на 58%",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOazJ5Y1BOd0o3VG9PTDJubWx4UXRfTVBrb29qSkhsTGYxa015eWtwOTBGRUhoSVJ2bkwwbVpwaDVOUGZqLW9SajdadnNybEFQUzhpR3JtRkJIeFUwQXIxdW81N1ZHTFlxTklzZGxETmw0QzVXT2w2eXV0bUVTSGZoWExfdw?oc=5",
+     "ts": "2026-11-19T08:55:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "1c7acf9ab231",
+   "title": "Игроки GTA 6 гладят котов, кормят змей, становятся обедом для аллигаторов и целью для гигантского краба",
+   "first_seen": "2026-11-19T09:10:57Z",
+   "updated": "2026-11-19T09:10:57Z",
+   "items": [
+    {
+     "id": "1c7acf9ab231",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Игроки GTA 6 гладят котов, кормят змей, становятся обедом для аллигаторов и целью для гигантского краба",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONnRXRmZSVmtzV1ptS3ZFd3VFN01MVEl5Y1VIS1dwejlaTTZZQlJYd2wxZXJTdDJRTElVZ0hzbnMyV1dYYzhabi1rTGNtNzc3R2xNZE1VNFZoT2tkUEV4a2tOcHBVOThVQ1RDTkZQVkRVcEluenlhYzBweXIzZWVDR1p4NGNRUHBFNzBEdWlqT1Y1dThWTEFmWlE5M3EwMVRzeDhmWC1LMDFOU2hhVG0xNVEwNXRuSWVKd2VpNTJiY3ZGWDE0OTlHeWpJdFdxYlFkbFk0a2Jzb21rYWc?oc=5",
+     "ts": "2026-11-19T09:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d7880625256c",
+   "title": "How GTA VI Is Pushing the Limits of Virtual World Technology",
+   "first_seen": "2026-11-19T09:10:57Z",
+   "updated": "2026-11-19T09:10:57Z",
+   "items": [
+    {
+     "id": "d7880625256c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Tomorrow's World Today",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How GTA VI Is Pushing the Limits of Virtual World Technology",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUVrbHYyTFR0bUprc0xRbDFjekt0Q0F5cDFTSTBmRkVKalRPUW1GNlE5X0wzYm5HN09UbVhFTFZMOG10b015TGhKa05NV1kwM2thWFpCb3VtNGdDWldMWFNrSkxzWXFTT1E5NlphNVpGNHd5OGFpQ1M4ZzQ0cjlnR3ZVZE5JX1Z5OWdnd1hzZ3dhRU9KRWI5bE10b3lZXzdDSTNKM3V4QXJyTWY5?oc=5",
+     "ts": "2026-11-19T09:00:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6a1fa6e03622",
+   "title": "Grand Theft Auto 6 launch day live - news and reaction as GTA 6 arrives around the world",
+   "first_seen": "2026-11-19T09:10:57Z",
+   "updated": "2026-11-19T09:10:57Z",
+   "items": [
+    {
+     "id": "6a1fa6e03622",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Grand Theft Auto 6 launch day live - news and reaction as GTA 6 arrives around the world",
+     "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog",
+     "ts": "2026-11-19T09:05:00Z",
+     "summary": "The day is finally here: Grand Theft Auto 6 is available to play worldwide. It's destined to become the largest video game release of all time, and probably one of the biggest entertainment releases of all time. So we're doing a launch day live blog to chart its arrival in the world. Read more"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "2af6a25f7d1e",
+   "title": "Digital Foundry Finds that GTA 6 Indeed Runs Best on PS5 Pro",
+   "first_seen": "2026-11-19T09:10:57Z",
+   "updated": "2026-11-19T09:10:57Z",
+   "items": [
+    {
+     "id": "2af6a25f7d1e",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Digital Foundry Finds that GTA 6 Indeed Runs Best on PS5 Pro",
+     "url": "https://www.gtaboom.com/digital-foundry-finds-that-gta-6-indeed-runs-best-on-ps5-pro-b72f",
+     "ts": "2026-11-19T09:08:13Z",
+     "summary": "Digital Foundry ranks PS5 Pro best for GTA 6, citing near 4K PSSR reconstruction and exclusive ray traced shadows."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "80a4ea73cc34",
+   "title": "Pro athletes clamor for ‘Grand Theft Auto VI’ release, but they insist their day jobs come first",
+   "first_seen": "2026-11-19T06:40:47Z",
+   "updated": "2026-11-19T09:10:56Z",
+   "items": [
+    {
+     "id": "80a4ea73cc34",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Alpena News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Pro athletes clamor for ‘Grand Theft Auto VI’ release, but they insist their day jobs come first",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcTRrN2VNbXk0dEhVLU1WR3JIaExpeGd0SUUtZTNXSENjY0hySzdQamFWRzRSbGdkbmJxQWpyenRwOGdTZFZkOERIWnpTU01TSG9HT3ptWC1OVFBVdm9kLWFHTFI2c0swVGpVUmx3a2FYdV9NTktseU93OWEyeklZUU9yUnVhcnlJOTYwamlpbUNfaURsWk14RGlVX1N0MWRoZy1rMjA5S1hnTFJicV96RDI1Qm5XUnlNSklva0ZmOHlwVDhzOFhSNHI2SzFSTWdaVDI1NVZB?oc=5",
+     "ts": "2026-11-19T06:36:31Z",
+     "summary": ""
+    },
+    {
+     "id": "69ba452ee369",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WWLP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Pro athletes clamor for ‘Grand Theft Auto VI’ release, but they insist their day jobs come first",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0UxQkxXQ0RqaEdMcHpBZVRsQ2tFTFZUbk9QOEd1U2sxUmYzNzZMcEY4RXJ4bGF2c1BuMHJINmphWkxyMmY2dGJOdFBiNGdDc0prX0FPckRPZ09QM0cyZmVJUkxuM1pwYmxMY1RPQTFEWEtBYU9OQV96SFdialQ4cUp4LUFPWjFfT1RqVFlncmtPQmJlTm5hODJZYmdlek8yOHlNQk40S1ZSZ3NCaVFyN29FWGFfMWRkQmFYeXlQNkRjVnRpLThQatIBzgFBVV95cUxPcmZEV3dKYTBHamNxc1RwcGs5bmFmYlQyNDdNaThsdkw2Zkt4c1hyN2FOcHRNMUEwUjI3TXdBSHk4VzhaemhEWlh5WWVTZW1WQjYxS1prMmJTWnlTc0lwQ1JBM2VKdkMzeUhISWFpYUtxa01tOTJ6TWdKX0xhWHlna1BFOVJvQTZhRFBlM25JTnNXc1RUdEpDUC0xVFQ5NjRWdEQyRFJOeDVocjVNU0JfTnlqZm9aTHhxb2tKMkw0TjdYMHFzbHU2MFg3NlhJdw?oc=5",
+     "ts": "2026-11-19T08:06:26Z",
+     "summary": ""
+    },
+    {
+     "id": "099f3e9cb980",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KRON4",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Pro athletes clamor for ‘Grand Theft Auto VI’ release, but they insist their day jobs come first",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRE10SUd1RkRkYkwzUmhRemFkdzVlVkV0UllpM2xpMndKWlNoZlRJZjdodGZlUVl0dHUxRmxEYmdMekRJck53VjNEMTlrMDRGOFZDS0RjdDNCVHBBMjVfRVJoOXVJaTBtVTB1ek9aVFpfQlJmWlhJbkhvckxvLTFrbGZiLTZiRnhiUGl6TkF2ems1TGczYzFmdktFSlRIdHZIRVVNMmdYWWtCQkQwejdfSzNTbC1uRVg3d1VYNnYyeDdyeHZsbkNnN29B0gHPAUFVX3lxTE9yTmJmbTk2ZjBwX3doYkozUEYxWmNHYzEzem45UDR0aUxYLWVWV1VMZ21aSWJFN2R4NnRCdEZQUEhWYjJ3Y0ZlOTgtTFY3SEtJbGQ4MDNTSGZYXy1hd0t1clFSUU1MOTI3U0hGX3ZqOGxwRnNoNW5WTFNUUWs2aHNGYU5HZVliLXBYSEVuOVVPTVhFbjdfaWg2VFV2WUZ2aG0wdUQya0ZLcENwbTdKT1l3SHdVakRyWnViamltWXg4R0JnNm9POHVvUWxmbUxxSQ?oc=5",
+     "ts": "2026-11-19T08:06:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Спортсмены ждут GTA 6, но работа — в приоритете",
+    "summary": "Профессиональные спортсмены ждут выхода GTA 6, но ставят тренировки и матчи выше игры. Об этом пишут The Alpena News и WWLP.",
+    "idea": "Короткие нарезки тренировок и матчей с наложением мыслей о GTA 6 — контраст «надо играть, но нельзя». Зрителю зайдёт из-за узнаваемости: спорт vs игры.",
+    "hook": "Спортсмены ждут GTA 6 не меньше нас — но у них сезон.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T08:31:09Z"
+   },
+   "msg_id": 1447
+  },
+  {
+   "id": "e85f550a1a66",
+   "title": "GTA 6: 15 Minutes of First Mission Gameplay",
+   "first_seen": "2026-11-18T11:20:55Z",
+   "updated": "2026-11-19T09:10:56Z",
+   "items": [
+    {
+     "id": "e85f550a1a66",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6: 15 Minutes of First Mission Gameplay",
+     "url": "https://www.ign.com/articles/gta-6-15-minutes-of-first-mission-gameplay",
+     "ts": "2026-11-18T11:20:00Z",
+     "summary": "Check out 15 minutes of gameplay from the first mission of GTA 6 captured on PS5 Pro."
+    },
+    {
+     "id": "fcc09811f6ab",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6: 15 Minutes of First Mission Gameplay",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtQnB0al9XcmcyMV9CeFY0OUFvdnFtaHVLYkFLU2VfTDBUOS1FdHgtOGdhd0tTYWNKNy1pMFc2eDd0MjhJeTg0bVN6am1uUmVyQS1sWWhwNkd1c0oyalRXU1g1ZHBydVJXMDRSYkRnajhEMXIxZWhFSU5QOA?oc=5",
+     "ts": "2026-11-18T11:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "374f6df97f60",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: 15 Minutes of First Mission Gameplay",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVFlSEdkeGUzZFRtRXdPRlN2ZEJaYWF5bWN0U2lqN3FFTDZpM09xLWRsSnhXVXIxbzUzMkNNVWU3Vm5ma0xlS3ZodElXN3czRzdsYm1lLW9DTWlKZThmUnFtbnRqVHpkME5KSEVGeHItQ2tTbmhTVFhkRFIwa2x4Uk9pTFdXSEcwcVVNYmxDMG1zdWNXLWJB?oc=5",
+     "ts": "2026-11-18T11:31:25Z",
+     "summary": ""
+    },
+    {
+     "id": "8b46e3f32083",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "15 Minutes of GTA 6 PS5 Pro Gameplay (First Mission)",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRndOaTdFbE15NGhlRXVkLTgxUURabjNpaXFZRHFpYjk4WTVMeTVBY09CQ2VtNzBxRTl5WC1iZ05xWEljdnRxTlVWTjEtVG44S1dvTzFZVHJMR2hUaDBLOTZCRUVMNlY3ZU5FMEU2SnV6ZVRFZXlUNDVPeUJBenVpYW5iLUxGanNJdEhJWUU3dksxOEN5MlBQdkN1XzljQmh0NE9uTkl4cUFPZHlZeFNiYw?oc=5",
+     "ts": "2026-11-18T11:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "effaed66c5e5",
+     "src": "tg_gta6newsdaily",
+     "src_name": "TG @gta6newsdaily",
+     "outlet": "",
+     "group": "telegram_en",
+     "weight": 45,
+     "alert": true,
+     "title": "☺️ 18 minutes of GTA VI gameplay captured on PS 5, including elements from RDR2, police, driving, etc.",
+     "url": "https://t.me/gta6newsdaily/5033",
+     "ts": "2026-11-18T13:06:31Z",
+     "summary": "☺️ 18 minutes of GTA VI gameplay captured on PS 5, including elements from RDR2, police, driving, etc. #GTA6 #GTAVI"
+    },
+    {
+     "id": "189d2c4ce29d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "15 Minutes of GTA 6 PS5 Pro Gameplay (First Mission)",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1gweTR5Y1B4bzgtSjNrejlzV1RhS0wtN2xqVEtleS1tbTdydmZGdlozS2thNXFKMXBBcndQUUE3UWp5ajBySlZmSWY3akVMZkhBTnZ3Rm51eUh1OGpqSlJYWk5IZ2h1cVJmVjNya1BMVjdnazVjLUZUTXlXX2hjRlk0Vk9YNkxNLVlERkd6dmFWd2ZZLUdXZWl5VUwwMUN3?oc=5",
+     "ts": "2026-11-18T13:23:16Z",
+     "summary": ""
+    },
+    {
+     "id": "04467461bc5c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "autoevolution",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Watch the First Hour of Gameplay and the First Two Chapters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFBpMlBIWWdCMkZqeXQ0N2JjNHFLdzl0dnJValRzWlNfMGt0MmZKQnVjc1VIX3ZnOGlPY1VscTM2TnpPSjNHbE9POEJfUTVwV2pWWUZzT3hXb1ktR3kxcjNUUmtaQUJmYmhFYzN3cWNheWk3Qnd2RTVWLUlYb3VZaVNITzQ5dVlyTXlsN3BKVFlBX0dLQVVNZkRLNkZlVUZSQ09fdXo5R04tTGVMdXdETEl3?oc=5",
+     "ts": "2026-11-19T07:54:20Z",
+     "summary": ""
+    },
+    {
+     "id": "757abf98fb2a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Benelux",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 PS5 Pro vs Xbox Series S Gameplay - Closer Than You'd Think",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUtBVExlV1JESU1YSTV0ZFdsZlhwT3V5RHpacjFsX3BGZS1wUTAxMWVtRjJfbVhqN0NWdUd5OTJiLUlQUExzelpEWkFIYzdReW5ERk9LZnNvNlowSjJObVY5b3RGTUJtQlRpLUZIUG9CWGlEUkJqVmYtWnhKQmtmcWZydmczdDVVcjlTdXdiVDg5RjZLSUVLUlVKeWxSOEVSc0M2MmJtanJidEtL?oc=5",
+     "ts": "2026-11-19T08:38:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "9d35f250b2f4",
+   "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
+   "first_seen": "2026-11-18T21:31:08Z",
+   "updated": "2026-11-19T09:10:56Z",
+   "items": [
+    {
+     "id": "9d35f250b2f4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KMVU FOX 26 Medford",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQUZIMVc0X3MwckRHYjZINUVNel9LNUE5TWpyNWpCVEtaNEdBWmxaNGYzRmxEanAtU0ZiRV9UWlhIVkp5QWFWNXR0bzVTT24zME94dTFxR0o5NEJHd3JLV2l4SHJlOEF2elJRLVJ6WUVabTk5NXBhVTV3WnNsVVZuYkhkQWxKM2dqZGx4NGtlVnYxamZDdldTQi1NVUZaOGpDZ1gzXzhtdVNES0hMb0ZwaDF5STBfcmRDcWlRWDJmZ3F4NlJOSjJGQWFQTTVHejFBUWdpZF9TVlViZU9aMno1UDBjMG5yUGh2M1Yw?oc=5",
+     "ts": "2026-11-18T20:14:59Z",
+     "summary": ""
+    },
+    {
+     "id": "f9689f8603ac",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "AFP.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1VyWVpTNTR4UWgtdVQ4d2g0WjlHaUZ0QXZkU2QxWHJnUmR1MVhMcGtkWkNMbDBJZUlCa1ZWalprSjE2RkQyWUszTGJ3ZHA2SVpTalNNcjIweV91M1ZmZmlCQjNrYzBlRTBEbzZIUFlKTVlBakNkelJZV1JocXZBVmtEUUdyWGUxR2c?oc=5",
+     "ts": "2026-11-18T21:14:59Z",
+     "summary": ""
+    },
+    {
+     "id": "dcd965e2e7c1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Euronews.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXNCYWVxRnI0VmtxcnJxbWFudEs0U3JQQVp4TFY3NkcxNnZabUlyWV9JMDdqQU5wcndYZENiS2NZVWdFSF9kYlNUT2Y1cEx4Szl5WEVHUUdPUWxSZ3JkNWY2aFpTUU1vNUtiRGRGTWx0dV9pNldjSjRSQVE4NEdhN3hNbUlnQmhSdTFNMHlrdjhjbGdzNEprdXpFZjVJaTJvc3ZzT25sRmJKTU5yR2pmSjlaNlA?oc=5",
+     "ts": "2026-11-19T08:52:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 вышла: мировые обзоры почти идеальны",
+    "summary": "Grand Theft Auto VI вышла по всему миру 19 ноября 2026 года. По данным KMVU FOX 26 Medford и AFP, игра получает почти идеальные отзывы от критиков.",
+    "idea": "Короткая нарезка первых оценок и реакций на запуск GTA 6 с титрами «почти идеальные обзоры». Зрителю важно увидеть, что старт успешный и оценки рекордные.",
+    "hook": "GTA 6 вышла сегодня — и критики уже ставят почти идеальные оценки.",
+    "stars": 5,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-18T22:11:04Z"
+   },
+   "msg_id": 1415
+  },
+  {
+   "id": "f6737300dc99",
+   "title": "GTA 6 Launches With a Record-Tying 99 Metacritic",
+   "first_seen": "2026-11-18T11:40:47Z",
+   "updated": "2026-11-19T09:10:56Z",
+   "items": [
+    {
+     "id": "f6737300dc99",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Launches With a 99 on Metacritic, Tying the Highest-Rated Game Ever",
+     "url": "https://www.gtaboom.com/gta-6-launches-with-a-99-on-metacritic-tying-the-highest-rated-game-ever-0d69",
+     "ts": "2026-11-18T11:33:50Z",
+     "summary": "GTA 6 has a 99 Metacritic score from 100 critic reviews, tying the highest score ever and beating every previous GTA game."
+    },
+    {
+     "id": "78808ea0e22f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Technology Org",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Launches With a Record-Tying 99 Metacritic",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ3BPaHNhUU9kOE5EVVpCYUhhbzE4eGZpeGx3V1Y4cC1GUkZjSS1YUTBKdERFaVBmYlpNVW1PdjlhS0h6YmVrUVU3TUJBeFhjUFlsbWpGbFhrQk9EaWktVDJDbTZJdnNmTHBNYllDMDJJcExfT3NWczFXMTQwQ2MtOWx0ci1yb3I3V0dkZTg5dEU0UEFvb00wdQ?oc=5",
+     "ts": "2026-11-19T08:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "6e86df24ade1",
+   "title": "How To Get A Six-Star Wanted Level In GTA 6",
+   "first_seen": "2026-11-18T11:10:49Z",
+   "updated": "2026-11-19T09:10:56Z",
+   "items": [
+    {
+     "id": "6e86df24ade1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "How To Get A Six-Star Wanted Level In GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMG9EOFRhQ1J5eno2ZVFzWXVpSFNUUDczV2dESWpJY2JCaWczRk1XQU1UVm5MenEyNFFSWnE5YmhSTTJ2Q0NCTEZGSm9zaHJMR1hrNFh4LUdFMTc5ZkRORWlBRkwxcFFxZEFjRGRsekRFWnFqT1k5QU5xTm1SQXhXM1dUeVo?oc=5",
+     "ts": "2026-11-18T11:03:30Z",
+     "summary": ""
+    },
+    {
+     "id": "02965cafc198",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CULTR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Wanted Level Explained: How the Star System Works and How to Get 6 Stars",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTBYSU1qY3gzZFBaNldxZE9RZEpVcUZVUVl2N1ZyRnE0QjFSNmdZNF84S2VyaXFHRmZ6SVhPa1otTlpJalN5R0EwN29qVElFZzUyN2VPMFF1X0hNVUVPbkVyc1dfaFFvVmxzT2lWWXcweWd2SXlMS0ctU2F0UkE3dklfTFUxdm8xeTB1RVdjcWlnZ1ZJUlZrZmNkbTRIa3A5clJjR1U3Tk4?oc=5",
+     "ts": "2026-11-19T07:09:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "72a939e54247",
+   "title": "«Всем доброй ночи». Екатерина Мизулина начала прохождение GTA 6",
+   "first_seen": "2026-11-19T09:10:56Z",
+   "updated": "2026-11-19T09:10:56Z",
+   "items": [
+    {
+     "id": "72a939e54247",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://www.championat.ru/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Всем доброй ночи». Екатерина Мизулина начала прохождение GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnN6TS00SUtlVmNLTG1DRGZNcTBzZDBYN2l4eFYzeGlJNFM2eWN1aWRvck1SZ0M3aWFJNXVYZW85SDlib244MEwtX0FRbE82c1hxNS02c0VjM0RPT3BLZlgwSm51cGJDSFM3bk5XYlYyOVB1WjFVc2FoYjBLNnZLLXRVSkRoY2UxdnNMMl9IcnJHa1JncmxyZnZURF9ybENoS0NCbS1oc0NQcThiZmFiVXlabWNXaExOeGc?oc=5",
+     "ts": "2026-11-19T07:43:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a6a00a580536",
+   "title": "GTA VI lets you use these cheat codes, but only after beating the main story",
+   "first_seen": "2026-11-19T09:10:56Z",
+   "updated": "2026-11-19T09:10:56Z",
+   "items": [
+    {
+     "id": "a6a00a580536",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GosuGamers",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI lets you use these cheat codes, but only after beating the main story",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbU1wNXdKR2pHck9Nc3ZQcFhmVjFoODBVVVNBRThlQ0xnRl9jX1J2S2ZRbnljNEdJOXdLMVNPSVJiaUNyRUFfSWlFN3ZjbmV6MVk4bXI3TUh4ajdiYkxXbDg5cFl0Nm14UFYwYTY3Q1FES18ySUo3WXZKa2lSUFRycFpxdmFhQ3k1d01QdDFSRldqLWlralF2ekFmejBwVVFjOTZJOVFJYWwwUGtxTGR1SXJ3YmdteDhBTW9ROUZtc01Idnk3SFE?oc=5",
+     "ts": "2026-11-19T08:34:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "765c630f58d8",
+   "title": "Xbox Series X beats PS5 in GTA 6 smoothness thanks to 120Hz VRR support",
+   "first_seen": "2026-11-19T09:10:56Z",
+   "updated": "2026-11-19T09:10:56Z",
+   "items": [
+    {
+     "id": "765c630f58d8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Xbox Series X beats PS5 in GTA 6 smoothness thanks to 120Hz VRR support",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZVdjOTlFU0VRZjRXekFSanMtMUlySjhma2ZtOUJEWmNJbDRQbHBYeUF3Zl9qSGxNeTFmbXF3dnVuSDVZSGZ5OGx6R0RjVjR4dVVwNjJuMDI2NTgxZkxxTXYwMU9wSHNIaE93NVQxUGFfUzd2c1U4eUVUeW9ZY1BuMXZPU0d4UHZEaVBLdEo1ZEM0VVVmbk1IaWlDQlVSTFBLVnhaR3JtTk0xY1BPRklRSDFfYzk?oc=5",
+     "ts": "2026-11-19T08:46:14Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "62d517db3cac",
+   "title": "Slapstick moment: GTA 6 video shows what happens when you encounter a tiger",
+   "first_seen": "2026-11-19T09:10:56Z",
+   "updated": "2026-11-19T09:10:56Z",
+   "items": [
+    {
+     "id": "62d517db3cac",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Slapstick moment: GTA 6 video shows what happens when you encounter a tiger",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUlvYmxweTZSeHNBbzJsdDRzU2V6Nk9HZ0NNcWRtbDB5ODc2LWJvcXgxMm1vSnd4MWh1a1VWLUd0c0ZXZUZ0WkJmbEFHbmltTmJVT3pMazJuSC1PV293Nlhka1RCaGc3NXFlaEpNeVctMV9RWkVMNTVqS2pSRzhPUGFXUjVSc1V3WDVHTHU5Y182TDdRNGtQcmZzRkRhQ0FCVWVmQ3pwTWRtSjdpaU1TcHp1eTZYVEItSV9r?oc=5",
+     "ts": "2026-11-19T08:48:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ecd1a381fdb3",
+   "title": "From BLACKPINK to Japanese Jazz, GTA VI's Soundtrack Has a Surprisingly Strong Asian Music Presence",
+   "first_seen": "2026-11-19T09:10:56Z",
+   "updated": "2026-11-19T09:10:56Z",
+   "items": [
+    {
+     "id": "ecd1a381fdb3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Resonate Voices",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "From BLACKPINK to Japanese Jazz, GTA VI's Soundtrack Has a Surprisingly Strong Asian Music Presence",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSlBfcW1MTEVhSFZWb2g2Y2RqTy01Y1phcWo3VnZLMXI1MjY5c2t5V05henU0ckVzSTltWFBfZi15MzZNZlpsQ3VjMVNCdTl4MFNWeG1pY1ZGZG1CSkdYMVd3Z0cyOTZISWFqYjgydlU2MXhFRC00NDBKVG9WZUpkREFrRlVLRVFOZEdSZEVKLUFXcTl1OU1ObWh1VW92ZEJRUGlSRzR2Xzg1V2tkTE1JY3FKYU1DdGx4MzFqMGJqc2JWVG9Fclc4a1YxckItNm1hdFE?oc=5",
+     "ts": "2026-11-19T08:48:45Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4d3948c5768e",
+   "title": "GTA 6: How To Give The Middle Finger",
+   "first_seen": "2026-11-19T09:10:56Z",
+   "updated": "2026-11-19T09:10:56Z",
+   "items": [
+    {
+     "id": "4d3948c5768e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Cultured Vultures",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: How To Give The Middle Finger",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhUzU5UGJ3Wjc3cEI5S2NSZ0ZfM3RmdllodmRJY3E2SXE0d0RpWTNzZ1BzVHVfZnI4VWdRNnJpNXVteVFMcjFDRFZZMkNlX1J0d2VzX3o0Q18yVl9EQjN1TDJJVzdhRHhUanNlNmpnbUdPS1U?oc=5",
+     "ts": "2026-11-19T08:51:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "55b94901a41e",
+   "title": "Вайс-Сити вдвое больше Лос-Сантоса: интересные факты о GTA 6 и лайфхаки",
+   "first_seen": "2026-11-19T09:10:56Z",
+   "updated": "2026-11-19T09:10:56Z",
+   "items": [
+    {
+     "id": "55b94901a41e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "rosbalt.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Вайс-Сити вдвое больше Лос-Сантоса: интересные факты о GTA 6 и лайфхаки",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1NHT2VtZGlaMldGcFJ0YnlldnplMXJKYlFKOWlJNEhWcWVNWm1vcTRBcVJhWm5ONndKT2NyUlZYS1dXay1PZm5kemVnMkx1Zlc5MEtyZzdEd0tvOW0ta2tYMUZiWTN5aml2Tm5DcE9vZ3dZYnlzd2RnYjRoWU53d29jTFE3RG5nNWR5LUNDemJwVUVUMmhINjZrUE54bTExS1RZWTJvNkxDWnlyM0YtdmZmQ3RySUQz?oc=5",
+     "ts": "2026-11-19T08:52:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "0e870245a3a3",
    "title": "Через сколько ГТА 6 выйдет на ПК — названы конкретные сроки",
    "first_seen": "2026-11-19T07:01:19Z",
@@ -1361,56 +2319,6 @@
    "msg_id": 1292
   },
   {
-   "id": "80a4ea73cc34",
-   "title": "Pro athletes clamor for ‘Grand Theft Auto VI’ release, but they insist their day jobs come first",
-   "first_seen": "2026-11-19T06:40:47Z",
-   "updated": "2026-11-19T08:31:01Z",
-   "items": [
-    {
-     "id": "80a4ea73cc34",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Alpena News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Pro athletes clamor for ‘Grand Theft Auto VI’ release, but they insist their day jobs come first",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcTRrN2VNbXk0dEhVLU1WR3JIaExpeGd0SUUtZTNXSENjY0hySzdQamFWRzRSbGdkbmJxQWpyenRwOGdTZFZkOERIWnpTU01TSG9HT3ptWC1OVFBVdm9kLWFHTFI2c0swVGpVUmx3a2FYdV9NTktseU93OWEyeklZUU9yUnVhcnlJOTYwamlpbUNfaURsWk14RGlVX1N0MWRoZy1rMjA5S1hnTFJicV96RDI1Qm5XUnlNSklva0ZmOHlwVDhzOFhSNHI2SzFSTWdaVDI1NVZB?oc=5",
-     "ts": "2026-11-19T06:36:31Z",
-     "summary": ""
-    },
-    {
-     "id": "69ba452ee369",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WWLP",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Pro athletes clamor for ‘Grand Theft Auto VI’ release, but they insist their day jobs come first",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0UxQkxXQ0RqaEdMcHpBZVRsQ2tFTFZUbk9QOEd1U2sxUmYzNzZMcEY4RXJ4bGF2c1BuMHJINmphWkxyMmY2dGJOdFBiNGdDc0prX0FPckRPZ09QM0cyZmVJUkxuM1pwYmxMY1RPQTFEWEtBYU9OQV96SFdialQ4cUp4LUFPWjFfT1RqVFlncmtPQmJlTm5hODJZYmdlek8yOHlNQk40S1ZSZ3NCaVFyN29FWGFfMWRkQmFYeXlQNkRjVnRpLThQatIBzgFBVV95cUxPcmZEV3dKYTBHamNxc1RwcGs5bmFmYlQyNDdNaThsdkw2Zkt4c1hyN2FOcHRNMUEwUjI3TXdBSHk4VzhaemhEWlh5WWVTZW1WQjYxS1prMmJTWnlTc0lwQ1JBM2VKdkMzeUhISWFpYUtxa01tOTJ6TWdKX0xhWHlna1BFOVJvQTZhRFBlM25JTnNXc1RUdEpDUC0xVFQ5NjRWdEQyRFJOeDVocjVNU0JfTnlqZm9aTHhxb2tKMkw0TjdYMHFzbHU2MFg3NlhJdw?oc=5",
-     "ts": "2026-11-19T08:06:26Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Спортсмены ждут GTA 6, но работа — в приоритете",
-    "summary": "Профессиональные спортсмены ждут выхода GTA 6, но ставят тренировки и матчи выше игры. Об этом пишут The Alpena News и WWLP.",
-    "idea": "Короткие нарезки тренировок и матчей с наложением мыслей о GTA 6 — контраст «надо играть, но нельзя». Зрителю зайдёт из-за узнаваемости: спорт vs игры.",
-    "hook": "Спортсмены ждут GTA 6 не меньше нас — но у них сезон.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T08:31:09Z"
-   },
-   "msg_id": 1447
-  },
-  {
    "id": "7a00faef19c0",
    "title": "GTA 6 в облаке: где играть без мощного ПК, цены и сравнение сервисов",
    "first_seen": "2026-11-19T08:31:01Z",
@@ -2280,112 +3188,6 @@
    "msg_id": 1438
   },
   {
-   "id": "e85f550a1a66",
-   "title": "GTA 6: 15 Minutes of First Mission Gameplay",
-   "first_seen": "2026-11-18T11:20:55Z",
-   "updated": "2026-11-19T08:01:15Z",
-   "items": [
-    {
-     "id": "e85f550a1a66",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6: 15 Minutes of First Mission Gameplay",
-     "url": "https://www.ign.com/articles/gta-6-15-minutes-of-first-mission-gameplay",
-     "ts": "2026-11-18T11:20:00Z",
-     "summary": "Check out 15 minutes of gameplay from the first mission of GTA 6 captured on PS5 Pro."
-    },
-    {
-     "id": "fcc09811f6ab",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6: 15 Minutes of First Mission Gameplay",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtQnB0al9XcmcyMV9CeFY0OUFvdnFtaHVLYkFLU2VfTDBUOS1FdHgtOGdhd0tTYWNKNy1pMFc2eDd0MjhJeTg0bVN6am1uUmVyQS1sWWhwNkd1c0oyalRXU1g1ZHBydVJXMDRSYkRnajhEMXIxZWhFSU5QOA?oc=5",
-     "ts": "2026-11-18T11:20:00Z",
-     "summary": ""
-    },
-    {
-     "id": "374f6df97f60",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: 15 Minutes of First Mission Gameplay",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVFlSEdkeGUzZFRtRXdPRlN2ZEJaYWF5bWN0U2lqN3FFTDZpM09xLWRsSnhXVXIxbzUzMkNNVWU3Vm5ma0xlS3ZodElXN3czRzdsYm1lLW9DTWlKZThmUnFtbnRqVHpkME5KSEVGeHItQ2tTbmhTVFhkRFIwa2x4Uk9pTFdXSEcwcVVNYmxDMG1zdWNXLWJB?oc=5",
-     "ts": "2026-11-18T11:31:25Z",
-     "summary": ""
-    },
-    {
-     "id": "8b46e3f32083",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "15 Minutes of GTA 6 PS5 Pro Gameplay (First Mission)",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRndOaTdFbE15NGhlRXVkLTgxUURabjNpaXFZRHFpYjk4WTVMeTVBY09CQ2VtNzBxRTl5WC1iZ05xWEljdnRxTlVWTjEtVG44S1dvTzFZVHJMR2hUaDBLOTZCRUVMNlY3ZU5FMEU2SnV6ZVRFZXlUNDVPeUJBenVpYW5iLUxGanNJdEhJWUU3dksxOEN5MlBQdkN1XzljQmh0NE9uTkl4cUFPZHlZeFNiYw?oc=5",
-     "ts": "2026-11-18T11:30:00Z",
-     "summary": ""
-    },
-    {
-     "id": "effaed66c5e5",
-     "src": "tg_gta6newsdaily",
-     "src_name": "TG @gta6newsdaily",
-     "outlet": "",
-     "group": "telegram_en",
-     "weight": 45,
-     "alert": true,
-     "title": "☺️ 18 minutes of GTA VI gameplay captured on PS 5, including elements from RDR2, police, driving, etc.",
-     "url": "https://t.me/gta6newsdaily/5033",
-     "ts": "2026-11-18T13:06:31Z",
-     "summary": "☺️ 18 minutes of GTA VI gameplay captured on PS 5, including elements from RDR2, police, driving, etc. #GTA6 #GTAVI"
-    },
-    {
-     "id": "189d2c4ce29d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "15 Minutes of GTA 6 PS5 Pro Gameplay (First Mission)",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1gweTR5Y1B4bzgtSjNrejlzV1RhS0wtN2xqVEtleS1tbTdydmZGdlozS2thNXFKMXBBcndQUUE3UWp5ajBySlZmSWY3akVMZkhBTnZ3Rm51eUh1OGpqSlJYWk5IZ2h1cVJmVjNya1BMVjdnazVjLUZUTXlXX2hjRlk0Vk9YNkxNLVlERkd6dmFWd2ZZLUdXZWl5VUwwMUN3?oc=5",
-     "ts": "2026-11-18T13:23:16Z",
-     "summary": ""
-    },
-    {
-     "id": "04467461bc5c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "autoevolution",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: Watch the First Hour of Gameplay and the First Two Chapters",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFBpMlBIWWdCMkZqeXQ0N2JjNHFLdzl0dnJValRzWlNfMGt0MmZKQnVjc1VIX3ZnOGlPY1VscTM2TnpPSjNHbE9POEJfUTVwV2pWWUZzT3hXb1ktR3kxcjNUUmtaQUJmYmhFYzN3cWNheWk3Qnd2RTVWLUlYb3VZaVNITzQ5dVlyTXlsN3BKVFlBX0dLQVVNZkRLNkZlVUZSQ09fdXo5R04tTGVMdXdETEl3?oc=5",
-     "ts": "2026-11-19T07:54:20Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "геймплей"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
    "id": "6337e23751e9",
    "title": "Here's Why You Won't Get Any Websites in GTA 6",
    "first_seen": "2026-11-19T08:01:15Z",
@@ -2818,58 +3620,6 @@
      "title": "GTA 6 Console Performance: Clips vs. Reported Tests",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWmt4UERHUHhZT2JDazVIbXB4YW90N0NLaW9NX1dncWxVMzNoTlRSRVh2RWtic2Y3dmdPSGtiNTN4RXpPOW9yazM1NUg1cWxya2Yya20xNjR1eHozQnBHX21OTmNsT2pTZDlpX0MtVVNURXNuTnZBRmNIaUhtVzFhTWh3?oc=5",
      "ts": "2026-11-19T07:50:41Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d880bebfeb64",
-   "title": "GTA VI launch exposes cyber aggregation gaps in broker books",
-   "first_seen": "2026-11-19T06:40:47Z",
-   "updated": "2026-11-19T07:50:46Z",
-   "items": [
-    {
-     "id": "d880bebfeb64",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insurance Business",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI launch exposes cyber aggregation gaps in broker books",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd1FYWjVHZzBsb0J4Zm5jY1k0a0ZBUEtvMTNjQ1FWdmdkdEJjbVJnM1VKaDFYRWJJU1Zyd1otSmNGd2hIZmtnUzNNS1lVY1hQZjU0eEs5VWVpX1RDQ3JVeWx2TzEwOVBZZUtPeW9BV2FydDAzMEc0WnRQOVpieWtIcUE2LVpjUTFVTHU5RU9HMDc2eGZETjdPUU4wZy1nNDM0MkY3N3BUV01vX20xRXJEeGYxYjhVR2k5TERaX3RxY2E?oc=5",
-     "ts": "2026-11-19T06:31:28Z",
-     "summary": ""
-    },
-    {
-     "id": "f51ef3cd4cc4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insurance Business",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI launch exposes cyber aggregation gaps in broker books",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeERkMTMzdzRVRV9rbFNhdW1WajFTV1BGMkNUQk9yM0xKQk1qSjFic3B1Vm5PMmtKdE5CcEpIQmlJYmtfVXFUNkR4bWU5dmdrcTJwNHdZS3YtWVA5QWF3NWhLalFNUEFSWWV1cWNNMEQ0Q2NHLWYwZlFtTHBmaXNndUVMY0pJbkwySE0tT0NUdDhSRk9uX0lSWnc4N3otb1U0c3hYNHVBS1VHRFluWGprSHhVYUhHYUhfbjRnSUEzSTFQdm1LRnNOLTFyVQ?oc=5",
-     "ts": "2026-11-19T07:39:36Z",
-     "summary": ""
-    },
-    {
-     "id": "f1f4b4d687b9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insurance Business",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI launch exposes cyber aggregation gaps in broker books",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjdPMVo0aTN1X2NOR0p2akRmR2Y2VFhOdi01MXFxTEtyS1NJRVdnQUJ6SjM4Wks2SzdMRzVDNGpVeVp1WjJQNEF0YnBfc25qSFBuQ0Z0cHBNQ3VVNnJQbG5vaC1MWS04MHh6Tm1CbEl0b01pcXQ2Q3dCdzVhLXlDNFk2M1RxMEluRElUbUZ5dDZsR0JGbW9McTd4UTRaQkhSU3dqd0EzSWN0MWpRVmI1aE02SmkzQ012b0NxWG9vLUxuLUE2WjJNYXU0Yw?oc=5",
-     "ts": "2026-11-19T07:42:30Z",
      "summary": ""
     }
    ],
@@ -8980,45 +9730,6 @@
    "status": "new"
   },
   {
-   "id": "f6352470387c",
-   "title": "Трафик «МегаФона» взлетел на 58% на старте предзагрузки GTA VI",
-   "first_seen": "2026-11-19T03:10:49Z",
-   "updated": "2026-11-19T03:10:49Z",
-   "items": [
-    {
-     "id": "f6352470387c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Трафик «МегаФона» взлетел на 58% на старте предзагрузки GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkTVl2Ymxtamp1d2dhNms3TWg5dnBWYUhoLWVlNUItdV9YWW53YVk3X0ZaNmFmLTZhVHpYTXRXZGdCaFZyRjJpWWx5d1R5azY3eV9BbDFKRWhEcGJpUy1KX25HX0Vwb2t3aGZGSmpqd184clVpeGc?oc=5",
-     "ts": "2026-11-19T03:00:49Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 Предзагрузка GTA 6: трафик МегаФона взлетел на 58%",
-    "summary": "По данным Techora.ru, трафик «МегаФона» вырос на 58% на старте предзагрузки GTA 6. Это косвенно подтверждает начало предзагрузки игры.",
-    "idea": "Короткий разбор: показываем график/цифру 58% и объясняем, что это значит для игроков — предзагрузка уже идёт, пора освобождать место на диске.",
-    "hook": "Трафик МегаФона взлетел на 58%. Это значит, что GTA 6 уже качают.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T03:10:53Z"
-   },
-   "msg_id": 1434
-  },
-  {
    "id": "04453a362677",
    "title": "Grand Theft Auto VI: Q&A with Clark Stacey",
    "first_seen": "2026-11-19T03:10:49Z",
@@ -15091,43 +15802,6 @@
    "status": "new"
   },
   {
-   "id": "032042026aca",
-   "title": "Can You Romance Mandy In GTA 6?",
-   "first_seen": "2026-11-18T22:20:48Z",
-   "updated": "2026-11-18T22:20:48Z",
-   "items": [
-    {
-     "id": "032042026aca",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Can You Romance Mandy In GTA 6?",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YS1pCT01hcXNNN2lqUjV3MDdhN0xHRXRQeW9oejM5UzZ4akRkRkxiZEcyc1hKNG9QbEt4Q2kwSlllTU1aQmRkYUJVb3QwYldCNFZ1VUNEYVQ4TllJM2JTcWNmdDh2MmUwVHo5MHVYX3V3VkE?oc=5",
-     "ts": "2026-11-18T22:14:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Можно ли встречаться с Мэнди в GTA 6? Что известно",
-    "summary": "GameSpot разбирает, можно ли завести роман с Мэнди в GTA 6. Официально Rockstar это не подтверждала, поэтому пока это лишь предположения по утечкам и слухам.",
-    "idea": "Коротко объясняем, что известно о романтических линиях в GTA 6 и почему это важно для ролевой игры. В кадре — нарезка утечек и вопрос зрителю, кого он выберет.",
-    "hook": "Мэнди в GTA 6 — можно ли с ней встречаться? Разбираем факты.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T22:20:55Z"
-   },
-   "msg_id": 1417
-  },
-  {
    "id": "40082cf2cf8b",
    "title": "‘Grand Theft Auto VI’ launching amid feverish anticipation",
    "first_seen": "2026-11-18T21:40:57Z",
@@ -15204,82 +15878,6 @@
     "at": "2026-11-18T22:01:19Z"
    },
    "msg_id": 1412
-  },
-  {
-   "id": "69cd76dd668a",
-   "title": "PlayStation Network outages hit before GTA 6 launch",
-   "first_seen": "2026-11-18T21:01:13Z",
-   "updated": "2026-11-18T22:10:54Z",
-   "items": [
-    {
-     "id": "69cd76dd668a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Detroit News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "PlayStation Network outages hit before GTA 6 launch",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHMzdkh0cHpGbmNYVDhNOF94UV9NOVNUeE5iRDJXNkFXbDRfUUEzUkNvUFdGRTE4TDYtdkd5YWxjdV92VG82YWtVQTNwYjhXUHV0S0VtX2ROZUFHeW9ic05nZ1hXWGhZc3BRVmNBbDlMZG56SjdWX0FFamFWYmhabnFFcGlzNVdwemJmdno3SmFmX09IOWRWWFVWSlRoeUV0UE1XR2p4Z0tiN0s4?oc=5",
-     "ts": "2026-11-18T20:51:00Z",
-     "summary": ""
-    },
-    {
-     "id": "ab638e8f9777",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Diario AS",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Is PlayStation Network down? What to expect before the launch of GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY295T2FTREFqS29zaUt0MXpvSWkzVkpSWHY1LUtyMXYwZkw1bmZQMjhNX2pIbkV4dlE2bDFTd0tLR2pKRFZ0dXNxNC1HRHBEN0o4cC1mNzdGZXl0bDF1RmRqVl93UHZTWjdsQVRsMEF1MWRZY3Vja1UxS0hSSmtRbnBfRkdHUHdoMHVCbjYxX2FhZE93UkNwaUJLa0M4M2gwU0ZVazBfTFVnMWhpc29ST9IBxAFBVV95cUxNMDJRWS1QU3NFb254RlBCSWhrb3RLVmtFV1lIMVNBVGJqWnBFb0c3X29kNVh0dmZOUnpNOGhzcFNCUWo0Y2d0M3E2aExoVTNXZllXRXJkVWVkUHRubEJkTXYyOGZzYTBQeTgyXzVFMFZOUlhLaDFjMk04dGdqX1E2dXE5d1RwQzNOMkhOSUFVM0NkOVZDeTV2eVVpWEVFeTEwXzZvYXplY3dHeWZLcHRNbFpZUDROdVAwTFh3VUhXTXVrbkpq?oc=5",
-     "ts": "2026-11-18T21:17:02Z",
-     "summary": ""
-    },
-    {
-     "id": "646766715763",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "PlayStation Network down for thousands as 'GTA 6' launches",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOEIxazZvTmpHRUkydGM4LVhPbUVCemZwNTFEcWlXbVRUWV9iMGhQbmh6Yk83NzhLNXFaRlMxS0hPdjdTbEpHbFJ6dXAyVlVuS0pORXZ4M1pla3lLZFl2MUNBMTBHSnJiZUZtalVGUnNuMTFXaFNzajdJZmxmTE94RnhhZmZZMlB6Tm9nXzdBUVBtQm9MWmVtOE8wNXZMRmhENmZVY055bWh1YWNzYkRSVE5UTXdMZVFIaTEtZUFvTTY?oc=5",
-     "ts": "2026-11-18T20:41:49Z",
-     "summary": ""
-    },
-    {
-     "id": "934006709e28",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Notebookcheck",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 causes PlayStation Network outages",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamxHZXA4UzRqcFRYTk5ySjNHWm91OFFYQ21HU3o4aldmNnpNT2Z2OFhFMmh5OVdwd0xpbzd3dlN0QzhHd1Zkb3lSSXpUVmxINVMwaGlESDBlbWJyR0VjUGRsTkhOYVkycjB4YzZmMmVub1ExdlloWjhjcXUxX0J6UE00WEhwR2tBZkNUMVl3?oc=5",
-     "ts": "2026-11-18T21:34:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 74,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Сбои PSN перед запуском GTA 6: что известно",
-    "summary": "В PlayStation Network зафиксированы сбои накануне выхода GTA 6, пишет The Detroit News. Diario AS отмечает, что подобные падения PSN часто происходят перед крупными релизами. Официальных комментариев Sony пока нет.",
-    "idea": "Короткий разбор: что происходит с PSN перед релизом GTA 6 и как это влияет на игроков. Зрителю важно понять, ждать ли проблем с загрузкой и онлайн-режимами.",
-    "hook": "PSN легла за день до GTA 6 — что это значит для нас?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T21:31:20Z"
-   },
-   "msg_id": 1409
   },
   {
    "id": "49ec41c1bcbc",
@@ -15406,56 +16004,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "9d35f250b2f4",
-   "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
-   "first_seen": "2026-11-18T21:31:08Z",
-   "updated": "2026-11-18T22:10:53Z",
-   "items": [
-    {
-     "id": "9d35f250b2f4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KMVU FOX 26 Medford",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQUZIMVc0X3MwckRHYjZINUVNel9LNUE5TWpyNWpCVEtaNEdBWmxaNGYzRmxEanAtU0ZiRV9UWlhIVkp5QWFWNXR0bzVTT24zME94dTFxR0o5NEJHd3JLV2l4SHJlOEF2elJRLVJ6WUVabTk5NXBhVTV3WnNsVVZuYkhkQWxKM2dqZGx4NGtlVnYxamZDdldTQi1NVUZaOGpDZ1gzXzhtdVNES0hMb0ZwaDF5STBfcmRDcWlRWDJmZ3F4NlJOSjJGQWFQTTVHejFBUWdpZF9TVlViZU9aMno1UDBjMG5yUGh2M1Yw?oc=5",
-     "ts": "2026-11-18T20:14:59Z",
-     "summary": ""
-    },
-    {
-     "id": "f9689f8603ac",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "AFP.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1VyWVpTNTR4UWgtdVQ4d2g0WjlHaUZ0QXZkU2QxWHJnUmR1MVhMcGtkWkNMbDBJZUlCa1ZWalprSjE2RkQyWUszTGJ3ZHA2SVpTalNNcjIweV91M1ZmZmlCQjNrYzBlRTBEbzZIUFlKTVlBakNkelJZV1JocXZBVmtEUUdyWGUxR2c?oc=5",
-     "ts": "2026-11-18T21:14:59Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 вышла: мировые обзоры почти идеальны",
-    "summary": "Grand Theft Auto VI вышла по всему миру 19 ноября 2026 года. По данным KMVU FOX 26 Medford и AFP, игра получает почти идеальные отзывы от критиков.",
-    "idea": "Короткая нарезка первых оценок и реакций на запуск GTA 6 с титрами «почти идеальные обзоры». Зрителю важно увидеть, что старт успешный и оценки рекордные.",
-    "hook": "GTA 6 вышла сегодня — и критики уже ставят почти идеальные оценки.",
-    "stars": 5,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T22:11:04Z"
-   },
-   "msg_id": 1415
   },
   {
    "id": "34599e72a6f3",
@@ -20419,43 +20967,6 @@
     "at": "2026-11-18T19:31:07Z"
    },
    "msg_id": 1387
-  },
-  {
-   "id": "1a2081053eb9",
-   "title": "GTA 6 Shatters Streaming Records Before It Even Launches Globally",
-   "first_seen": "2026-11-18T19:20:51Z",
-   "updated": "2026-11-18T19:20:51Z",
-   "items": [
-    {
-     "id": "1a2081053eb9",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Shatters Streaming Records Before It Even Launches Globally",
-     "url": "https://www.ign.com/articles/gta-6-shatters-streaming-records-before-it-even-launches-globally",
-     "ts": "2026-11-18T18:43:45Z",
-     "summary": "GTA 6 is already breaking records, despite not having even been out for a full day yet."
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 бьёт рекорды стримов до релиза",
-    "summary": "По данным IGN, GTA 6 уже бьёт рекорды стримов до глобального запуска. Игра ещё не вышла, но трансляции бьют исторические пики.",
-    "idea": "Короткий монтаж рекордов и цифр с таймером до 19 ноября — зрителю важно увидеть масштаб хайпа и понять, что ждать завтра.",
-    "hook": "GTA 6 ещё не вышла, а стримы уже бьют исторические рекорды.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T19:20:56Z"
-   },
-   "msg_id": 1386
   },
   {
    "id": "9821022c9b6d",
@@ -39225,32 +39736,6 @@
    "msg_id": 1253
   },
   {
-   "id": "f6737300dc99",
-   "title": "GTA 6 Launches With a 99 on Metacritic, Tying the Highest-Rated Game Ever",
-   "first_seen": "2026-11-18T11:40:47Z",
-   "updated": "2026-11-18T11:40:47Z",
-   "items": [
-    {
-     "id": "f6737300dc99",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA 6 Launches With a 99 on Metacritic, Tying the Highest-Rated Game Ever",
-     "url": "https://www.gtaboom.com/gta-6-launches-with-a-99-on-metacritic-tying-the-highest-rated-game-ever-0d69",
-     "ts": "2026-11-18T11:33:50Z",
-     "summary": "GTA 6 has a 99 Metacritic score from 100 critic reviews, tying the highest score ever and beating every previous GTA game."
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "2f8c14531c3d",
    "title": "GTA 6: как Rockstar делала открытые миссии — и почему это так сложно",
    "first_seen": "2026-11-18T11:40:47Z",
@@ -41163,32 +41648,6 @@
     "at": "2026-11-18T11:10:56Z"
    },
    "msg_id": 1231
-  },
-  {
-   "id": "6e86df24ade1",
-   "title": "How To Get A Six-Star Wanted Level In GTA 6",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "6e86df24ade1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "How To Get A Six-Star Wanted Level In GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMG9EOFRhQ1J5eno2ZVFzWXVpSFNUUDczV2dESWpJY2JCaWczRk1XQU1UVm5MenEyNFFSWnE5YmhSTTJ2Q0NCTEZGSm9zaHJMR1hrNFh4LUdFMTc5ZkRORWlBRkwxcFFxZEFjRGRsekRFWnFqT1k5QU5xTm1SQXhXM1dUeVo?oc=5",
-     "ts": "2026-11-18T11:03:30Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "d3d6a7f6077a",
@@ -155741,77 +156200,25 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e490b97b71e2",
-   "title": "Logitech предоставила всем 7 тысячам сотрудников выходной для игры в GTA VI",
-   "first_seen": "2026-11-12T09:10:54Z",
-   "updated": "2026-11-12T09:10:54Z",
-   "items": [
-    {
-     "id": "e490b97b71e2",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Хабр",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Logitech предоставила всем 7 тысячам сотрудников выходной для игры в GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wZE1vdnVUNFRyMlVJSjBNSmhfSHhrMmx4VnRwWDlid2g4cjJ0b0dfQ1BOaEg5NDFDYjN2SDF5cFRLVWw2bXNuaDhucjFZd9IBWEFVX3lxTFBicUktV1pEcl9ud2tZXzJBRmRuYVl3WU5MLTEtalBZaXVZTHRROHlYVDUyUDk0NjdpRkhsVzRHWHlYSFFQLTFzZ01DZjQwWjVNOUlqOV9uX2I?oc=5",
-     "ts": "2026-11-12T08:53:06Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "801f995ad0ac",
-   "title": "Remember GTA 5 Launch?",
-   "first_seen": "2026-11-12T09:10:54Z",
-   "updated": "2026-11-12T09:10:54Z",
-   "items": [
-    {
-     "id": "801f995ad0ac",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Remember GTA 5 Launch?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xu80yj/remember_gta_5_launch/",
-     "ts": "2026-11-12T09:04:29Z",
-     "summary": "Why is the game launching 30 fps on ps5 pro? Not to mention the base model but I want us to remember that when gta 5 launched it was also 30 FPS on 360 and ps3. Now when it launched on the next generation you had to not only: buy a new console. But you also had to buy the ENTIRE game again in order to play at 60 fps. Now I want you to understand why the game is only running 30 fps on the best consoles out to date. They want you to buy the next console generation. This shit is a ruthless and outrageous activity with rockstar cooperating with the makers of the consoles to incentivize buying cons"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T09:01:57Z",
+  "last_run": "2026-11-19T09:11:01Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
-   "gnews_ru: 93/100",
+   "gnews_en: 98/100",
+   "gnews_ru: 94/100",
    "gamesbeat: 5/10",
    "vgc: 9/10",
    "insider_gaming: 8/10",
    "ign: 6/20",
-   "eurogamer: 19/100",
+   "eurogamer: 20/100",
    "dexerto_gta: 10/50",
-   "rockstarintel: 9/10",
+   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
    "gtaboom: 30/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
-   "tg_gtavistar: 11/11",
+   "tg_gtavistar: 11/12",
    "tg_gta6deluxe: 16/16",
    "tg_gta6_m: 14/14",
    "tg_gta6newsdaily: 18/19"
