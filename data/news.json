@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "bd9369c58159",
+   "title": "«Романтизация криминала»: в России призвали ограничить GTA 6 среди детей",
+   "first_seen": "2026-11-19T06:01:09Z",
+   "updated": "2026-11-19T06:01:09Z",
+   "items": [
+    {
+     "id": "bd9369c58159",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Югорский снегирь",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Романтизация криминала»: в России призвали ограничить GTA 6 среди детей",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeW1mMWxPbjhYa0RiQTc5YXdVZ3BmYXVBUTY5Rjk3cDMyODBGWlJ5bDNxM05QTkFGTzV1emFkOVVyOW1hd1FzekJtRUdJU3ZKbnFJZ1NjbDJYdmZGM1N6VFlobm52TFRsa0ZqSjk4MDhzcmtpazRyT0dGZ0diNC1EU0YzZ3Vjc1RvTjJRTlJHdS1ib1Y0bWx5WFVJRHgzZUwwY1E?oc=5",
+     "ts": "2026-11-19T05:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c00dbc9d19f5",
    "title": "'Grand Theft Auto VI' is here. What to know about the characters, music and all the hype | National News | 2news.com",
    "first_seen": "2026-11-19T01:31:00Z",
@@ -155896,10 +155922,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-19T05:50:51Z",
+  "last_run": "2026-11-19T06:01:10Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 97/100",
+   "rockstar_site: 0/1",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
    "gnews_ru: 98/100",
    "gamesbeat: 6/10",
    "vgc: 9/10",
@@ -155912,10 +155938,10 @@
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 11/11",
    "tg_gta6deluxe: 17/17",
-   "tg_gta6_m: 15/15",
+   "tg_gta6_m: 14/14",
    "tg_gta6newsdaily: 18/20"
   ],
-  "digest": "2026-11-18@21",
+  "digest": "2026-11-19@9",
   "tg_offset": 854319078
  }
 }
