@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "7d0f03f67c13",
+   "title": "Doja Cat Really Wanted That GTA VI Cameo",
+   "first_seen": "2026-11-20T03:31:01Z",
+   "updated": "2026-11-20T03:31:01Z",
+   "items": [
+    {
+     "id": "7d0f03f67c13",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Vulture",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Doja Cat Really Wanted That GTA VI Cameo",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lSGlvZE9KNlJSbndsZzgtRkVnYzJhQUJNRkdRRDdsZDVZd2VISWl3LWJfU1BqbGpHSDRBZWNjS3BkMHJmemZ0VFNfbnl6YUZBMW5TazlOSDlBd3ZoWHY0UDBnTmc4YVZXRWc1eG9sczl3WndXakRFTUd3?oc=5",
+     "ts": "2026-11-19T23:08:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "7c1153d30177",
    "title": "GTA 6 Is Censored in Japan, Exactly Like We Predicted",
    "first_seen": "2026-11-20T03:21:16Z",
@@ -173518,12 +173544,12 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-20T03:21:16Z",
+  "last_run": "2026-11-20T03:31:01Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
-   "gamesbeat: 3/10",
+   "rockstar_site: 0/3",
+   "gnews_en: 99/100",
+   "gnews_ru: 99/100",
+   "gamesbeat: 4/10",
    "vgc: 6/10",
    "insider_gaming: 5/10",
    "ign: 4/20",
