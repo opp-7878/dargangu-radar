@@ -1,6 +1,110 @@
 {
  "stories": [
   {
+   "id": "3ae83da2b9ea",
+   "title": "With GTA VI release, Laredo police remind community of real-life consequences of game actions",
+   "first_seen": "2026-11-20T01:50:47Z",
+   "updated": "2026-11-20T01:50:47Z",
+   "items": [
+    {
+     "id": "3ae83da2b9ea",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KGNS",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "With GTA VI release, Laredo police remind community of real-life consequences of game actions",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjhLSXp6QnUzUjBpVlJ0M09JQ2xDRGtVSVVYV3R1RkJINzhROWVRdjhCLXpmUkw4Qkc1YmVqZnA1M0xKMUVKcGRGQVRUQUdTZWtZNlIwVW5NTHMtRzA0SEdZOXNaR01NR0lFLWpWMFZrZHF3ZVJfMDFUbC1ueWNaRTV4T0J2RkZKbW83cjYxalJUZThzTk03WkNsNlV2bnYwOFFqQi0xWm41Q2dGcS1GeFhBRkFrYzBkMWc?oc=5",
+     "ts": "2026-11-19T23:25:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "05ce11d31746",
+   "title": "‘GTA VI’ goes beyond crime and chaos: Key takeaways after day one of game play",
+   "first_seen": "2026-11-20T01:50:47Z",
+   "updated": "2026-11-20T01:50:47Z",
+   "items": [
+    {
+     "id": "05ce11d31746",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NBC News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA VI’ goes beyond crime and chaos: Key takeaways after day one of game play",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDhvazU2UmhiVUllYlNnZGdYanJiMDZwV1lqdnhHaTRsbG5lUTNFa291N25xb29INllPaWtDYUdtZWl5TW4ydDJpR3hiTDdmUlV2a0tPRmhyZ3BfZTFLeHRkR2ZvRHE2cFpRaGxfNjlLRHZ3VVhmeHB0MmYzME5KZjJVOVpNUmR4U0NtYXRYSFQweUIyYnIzZlI3VEFyWlg0Wk1waW1LOUNhWE5DWjBUSENlMUZkQW8?oc=5",
+     "ts": "2026-11-20T01:40:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2721fd121ec0",
+   "title": "GTA 6 Swamped Walkthrough",
+   "first_seen": "2026-11-20T01:50:47Z",
+   "updated": "2026-11-20T01:50:47Z",
+   "items": [
+    {
+     "id": "2721fd121ec0",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Swamped Walkthrough",
+     "url": "https://www.gtaboom.com/gta-6-swamped-walkthrough-bb6b",
+     "ts": "2026-11-20T01:43:24Z",
+     "summary": "Start Swamped in GTA 6 by meeting Brian at the marina after Day Release. Bring a long gun and pick up the spare Adrenaline in the shed if you're..."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9d4b690bcd52",
+   "title": "GTA 6 Day Release Walkthrough",
+   "first_seen": "2026-11-20T01:50:47Z",
+   "updated": "2026-11-20T01:50:47Z",
+   "items": [
+    {
+     "id": "9d4b690bcd52",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Day Release Walkthrough",
+     "url": "https://www.gtaboom.com/gta-6-day-release-walkthrough-2211",
+     "ts": "2026-11-20T01:44:11Z",
+     "summary": "Start Day Release in GTA 6 by selecting Meet Mattia & Kat on the Story map and ordering a drink at the Rusty Anchor."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "8fdd832349c5",
    "title": "Kyren Williams hopes GTA VI release distracts other NFL teams",
    "first_seen": "2026-11-20T01:10:47Z",
@@ -173217,12 +173321,12 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-20T01:40:50Z",
+  "last_run": "2026-11-20T01:50:47Z",
   "last_log": [
-   "rockstar_site: 0/3",
-   "gnews_en: 98/100",
+   "rockstar_site: 0/2",
+   "gnews_en: 97/100",
    "gnews_ru: 99/100",
-   "gamesbeat: 4/10",
+   "gamesbeat: 3/10",
    "vgc: 6/10",
    "insider_gaming: 5/10",
    "ign: 4/20",
