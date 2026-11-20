@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "ac62dab163fb",
+   "title": "‘Grand Theft Auto VI’ sales set to top more than $3 billion in first week",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-20T03:40:46Z",
+   "items": [
+    {
+     "id": "ac62dab163fb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Semafor",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ sales set to top more than $3 billion in first week",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbURHYnBFTVBnRkEyVEVBQmctWFFHRHFHUVVsWkFMWWRsUnlTaXJBaFFybkpUdmo2ai1pMGVkemNFdnpxa2M5Z242b3czUG9jSXRWOUtwRDZQdEtHVExoMlRnX1pGdXBrTUtTd2Q2MWlJRE5kU0pVYlIwbnZCeEFhTUVmdnFnaE9XWWNaTURMUWFwX3lqRVpGTmo4ZHVpaXFGdlE?oc=5",
+     "ts": "2026-11-19T22:27:00Z",
+     "summary": ""
+    },
+    {
+     "id": "4fd0cf0be971",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BBC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
+     "ts": "2026-11-20T02:13:05Z",
+     "summary": ""
+    },
+    {
+     "id": "fa350ca1d3e5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TweakTown",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 day one sales estimates break 24.5 million with $2.36 billion earned",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObGROeE84ZVJOVmM0RHVlYzltRERpb3R1VFZNdUZ6blUxaDRvQ2xsTjlFTXNBcUt5czRndDVVa0s5bkJNUUlNQTlITy1jRWZwWmxqWmQ1MC1LXy1iWFkzZUVPX3RteEQ0T2xkRVpzbmo3dkZpWjRvVll5YkZvUnh6djNzTVY5LXFESWdwak9aN3hHbXNLakhYTmYybkpZaHRGelZUN05zUGdVSExucFN1S2hvNTJZVWd0cjA5SFlzNE1JNmJ6cFJNWg?oc=5",
+     "ts": "2026-11-20T02:34:15Z",
+     "summary": ""
+    },
+    {
+     "id": "ada727053be5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA VI’ Sales Surge Past $2 Billion On Launch Day As Vice City Mania Takes Over",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BWXBpZ3pSY2tXYWJubFdHalZuTVBESmVUODd5TG9OSnJ4OTZHaHEzWmtDeDVTZmtxRnZoVDlTVW1rMWRMMkF2d0JXZ29JNVA3MDVreXdvTGQ2d2hUajNpQjJWbVBUWXZLbHNaNmNxeWJVdGlvekZIWW9BYWE?oc=5",
+     "ts": "2026-11-20T00:29:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 89,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 может собрать больше $3 млрд за первую неделю",
+    "summary": "По данным Semafor, продажи GTA 6 могут превысить 3 миллиарда долларов за первую неделю. Это оценка на основе ожиданий рынка и прошлых рекордов серии.",
+    "idea": "Сравним прогноз в $3 млрд с рекордами GTA 5 и RDR 2, чтобы показать масштаб. Зрителю интересно увидеть, насколько GTA 6 обгонит прошлые хиты.",
+    "hook": "GTA 6 за неделю — больше 3 миллиардов долларов. Серьёзно?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T22:31:12Z"
+   },
+   "msg_id": 1607
+  },
+  {
    "id": "7d0f03f67c13",
    "title": "Doja Cat Really Wanted That GTA VI Cameo",
    "first_seen": "2026-11-20T03:31:01Z",
@@ -479,71 +557,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ac62dab163fb",
-   "title": "‘Grand Theft Auto VI’ sales set to top more than $3 billion in first week",
-   "first_seen": "2026-11-19T22:31:05Z",
-   "updated": "2026-11-20T02:40:44Z",
-   "items": [
-    {
-     "id": "ac62dab163fb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Semafor",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ sales set to top more than $3 billion in first week",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbURHYnBFTVBnRkEyVEVBQmctWFFHRHFHUVVsWkFMWWRsUnlTaXJBaFFybkpUdmo2ai1pMGVkemNFdnpxa2M5Z242b3czUG9jSXRWOUtwRDZQdEtHVExoMlRnX1pGdXBrTUtTd2Q2MWlJRE5kU0pVYlIwbnZCeEFhTUVmdnFnaE9XWWNaTURMUWFwX3lqRVpGTmo4ZHVpaXFGdlE?oc=5",
-     "ts": "2026-11-19T22:27:00Z",
-     "summary": ""
-    },
-    {
-     "id": "4fd0cf0be971",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BBC",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
-     "ts": "2026-11-20T02:13:05Z",
-     "summary": ""
-    },
-    {
-     "id": "fa350ca1d3e5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TweakTown",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 day one sales estimates break 24.5 million with $2.36 billion earned",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObGROeE84ZVJOVmM0RHVlYzltRERpb3R1VFZNdUZ6blUxaDRvQ2xsTjlFTXNBcUt5czRndDVVa0s5bkJNUUlNQTlITy1jRWZwWmxqWmQ1MC1LXy1iWFkzZUVPX3RteEQ0T2xkRVpzbmo3dkZpWjRvVll5YkZvUnh6djNzTVY5LXFESWdwak9aN3hHbXNLakhYTmYybkpZaHRGelZUN05zUGdVSExucFN1S2hvNTJZVWd0cjA5SFlzNE1JNmJ6cFJNWg?oc=5",
-     "ts": "2026-11-20T02:34:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 81,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 может собрать больше $3 млрд за первую неделю",
-    "summary": "По данным Semafor, продажи GTA 6 могут превысить 3 миллиарда долларов за первую неделю. Это оценка на основе ожиданий рынка и прошлых рекордов серии.",
-    "idea": "Сравним прогноз в $3 млрд с рекордами GTA 5 и RDR 2, чтобы показать масштаб. Зрителю интересно увидеть, насколько GTA 6 обгонит прошлые хиты.",
-    "hook": "GTA 6 за неделю — больше 3 миллиардов долларов. Серьёзно?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T22:31:12Z"
-   },
-   "msg_id": 1607
   },
   {
    "id": "c1a97b3db3f6",
@@ -173486,70 +173499,16 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "905134c5eb64",
-   "title": "Poster/case",
-   "first_seen": "2026-11-13T03:31:09Z",
-   "updated": "2026-11-13T03:31:09Z",
-   "items": [
-    {
-     "id": "905134c5eb64",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Poster/case",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xux6ej/postercase/",
-     "ts": "2026-11-13T03:24:35Z",
-     "summary": "I get the frustration of no disc but honestly for the same price as the digital, the poster is pretty fire and I’m definitely gonna keep the case for a long time💯 submitted by /u/Malybo to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "494f63c9a7e2",
-   "title": "Reflections on shadows",
-   "first_seen": "2026-11-13T03:31:09Z",
-   "updated": "2026-11-13T03:31:09Z",
-   "items": [
-    {
-     "id": "494f63c9a7e2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Reflections on shadows",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xux9jd/reflections_on_shadows/",
-     "ts": "2026-11-13T03:29:03Z",
-     "summary": "It’s amazing that Rockstar was able to create reflections inside shadows on top of a reflective surface like a painted car body. The lighting in this game is going to be one of the major centerpieces that creates the realism. submitted by /u/BoogaSnu to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-20T03:31:01Z",
+  "last_run": "2026-11-20T03:40:46Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/2",
    "gnews_en: 99/100",
    "gnews_ru: 99/100",
-   "gamesbeat: 4/10",
+   "gamesbeat: 3/10",
    "vgc: 6/10",
    "insider_gaming: 5/10",
    "ign: 4/20",
