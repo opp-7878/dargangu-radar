@@ -1,60 +1,10 @@
 {
  "stories": [
   {
-   "id": "e107ba5bfb64",
-   "title": "Игроки GTA 6 нашли квартиру Декстера с набором серийного убийцы и его лодкой",
-   "first_seen": "2026-11-20T07:40:45Z",
-   "updated": "2026-11-20T08:40:45Z",
-   "items": [
-    {
-     "id": "e107ba5bfb64",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Игроки GTA 6 нашли квартиру Декстера с набором серийного убийцы и его лодкой",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeVh3dTNtaXlVNHpxSncxb0xvaUZvYVFhcGw1V0R4Y2p3UnM1eGs0NDQtOTFRMXdocWNSeG5FN084YkdTSmJYekRXeW5MOF8yaG1yc3RJcE1HR3h0SEhBTWtyamhvUkVUZjZzWWJuTHJsM2htMzc0WkV3QlhyaS1TMVV3c2dxTmpIX0Q4ZU5JVHVGV0hSOXQzS1diUHF1N3V4dkk1cDE3YWxWc1FkZFBPdldB?oc=5",
-     "ts": "2026-11-20T07:30:00Z",
-     "summary": ""
-    },
-    {
-     "id": "983b9899bcc4",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Soyuz.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "В GTA 6 нашли квартиру Декстера Моргана и его лодку",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONS0tcnZfMlhlYzc2bms3QXZZVHBvdU10eXk0MC0tcEMxX19HUDkxSzg2ZzJMOGVScGFFOTJoMGJTQWhDU2d4cVYydDl5X0FWWUNYZk9ycnFxVFF6LUgxNkNXdy1NNXFlbHU1QkFmclpzOGR2dl9IOTVYSlluNjZsSEFPbEw?oc=5",
-     "ts": "2026-11-20T08:16:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "👀 В GTA 6 нашли квартиру Декстера Моргана и его лодку",
-    "summary": "Игроки нашли в GTA 6 квартиру Декстера Моргана с набором серийного убийцы и лодку, как в сериале. Об этом пишут Shazoo и Soyuz.Ru.",
-    "idea": "Короткая экскурсия по квартире и лодке с акцентом на узнаваемые детали из «Декстера». Зрителю интересно увидеть пасхалку вживую.",
-    "hook": "Мы нашли в GTA 6 квартиру Декстера Моргана. Смотри, что внутри.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-20T08:40:49Z"
-   },
-   "msg_id": 1638
-  },
-  {
    "id": "c1f915caf9ef",
    "title": "Grand Theft Auto VI preorders hit 19M before launch, with PS5 outselling Xbox 3-1",
    "first_seen": "2026-11-19T12:40:53Z",
-   "updated": "2026-11-20T08:40:45Z",
+   "updated": "2026-11-20T08:50:47Z",
    "items": [
     {
      "id": "c1f915caf9ef",
@@ -263,6 +213,19 @@
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDFTVW96WmNLR0RHLVRXbHIzT0JJcy1tZUF6LTZsc1V2T0RiUzlrSXZoanJ1T1F4MEtsWnBXZ1B1WWtuUU9MZlFOZUlQejNlNG9RQVdNcUtDanJaQ3h4NXhjbHV5S3hFZkFpNmpFNG9ENFBXaEZybkVGenFNNzJVZVR4SHQ4MmdZcS0tVklUNA?oc=5",
      "ts": "2026-11-20T08:26:15Z",
      "summary": ""
+    },
+    {
+     "id": "64fdfbf99364",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Anadolu Ajansı",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 generates estimated $2.36B in launch revenue, sells over 24.5M copies",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmFzSUh4aE5FN2x1aUJ4WHZFZ05wXzktM2hBZ2RIV1pXSUVuZmJJV084eGEtMENEeXdULUlDVlVEc25vaDBteURFN1dPZnJfVWlJbzJ1T1VVM1FFamFLdzVtNDlpUEVuckRMbDEyN3dMSkpJQTNYdXZBRXdKWTU0R1J6bTM1a183Y1lmX0tDM0pReDdydTc1clFST05yN3VLaW9ZWFQtc0Z1UQ?oc=5",
+     "ts": "2026-11-20T07:11:54Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -273,6 +236,548 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
+  },
+  {
+   "id": "ac62dab163fb",
+   "title": "‘Grand Theft Auto VI’ sales set to top more than $3 billion in first week",
+   "first_seen": "2026-11-19T22:31:05Z",
+   "updated": "2026-11-20T08:50:47Z",
+   "items": [
+    {
+     "id": "ac62dab163fb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Semafor",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ sales set to top more than $3 billion in first week",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbURHYnBFTVBnRkEyVEVBQmctWFFHRHFHUVVsWkFMWWRsUnlTaXJBaFFybkpUdmo2ai1pMGVkemNFdnpxa2M5Z242b3czUG9jSXRWOUtwRDZQdEtHVExoMlRnX1pGdXBrTUtTd2Q2MWlJRE5kU0pVYlIwbnZCeEFhTUVmdnFnaE9XWWNaTURMUWFwX3lqRVpGTmo4ZHVpaXFGdlE?oc=5",
+     "ts": "2026-11-19T22:27:00Z",
+     "summary": ""
+    },
+    {
+     "id": "4fd0cf0be971",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BBC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
+     "ts": "2026-11-20T02:13:05Z",
+     "summary": ""
+    },
+    {
+     "id": "fa350ca1d3e5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TweakTown",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 day one sales estimates break 24.5 million with $2.36 billion earned",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObGROeE84ZVJOVmM0RHVlYzltRERpb3R1VFZNdUZ6blUxaDRvQ2xsTjlFTXNBcUt5czRndDVVa0s5bkJNUUlNQTlITy1jRWZwWmxqWmQ1MC1LXy1iWFkzZUVPX3RteEQ0T2xkRVpzbmo3dkZpWjRvVll5YkZvUnh6djNzTVY5LXFESWdwak9aN3hHbXNLakhYTmYybkpZaHRGelZUN05zUGdVSExucFN1S2hvNTJZVWd0cjA5SFlzNE1JNmJ6cFJNWg?oc=5",
+     "ts": "2026-11-20T02:34:15Z",
+     "summary": ""
+    },
+    {
+     "id": "ada727053be5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA VI’ Sales Surge Past $2 Billion On Launch Day As Vice City Mania Takes Over",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BWXBpZ3pSY2tXYWJubFdHalZuTVBESmVUODd5TG9OSnJ4OTZHaHEzWmtDeDVTZmtxRnZoVDlTVW1rMWRMMkF2d0JXZ29JNVA3MDVreXdvTGQ2d2hUajNpQjJWbVBUWXZLbHNaNmNxeWJVdGlvekZIWW9BYWE?oc=5",
+     "ts": "2026-11-20T00:29:00Z",
+     "summary": ""
+    },
+    {
+     "id": "2c0b95132d39",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Frederick News-Post",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The video game \"Grand Theft Auto VI,\" released on Thursday, has generated $1.8 billion in sales and is on track to be the highest-grossing single entertainment event of all time. What do you think?",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMkdsbGd3dlhQY3JmdU0zMV95OGl0NGVsLUY5SHNFaVJScmNBZ3lrRklLMnM2X1c3UHN5MkRLSExxR0JXVmd1bW02OF9sb2FnamFEb3lYaG13MkhETjl4cmpZQzBPeDJtamt1emxNR2xVTHVLLWxjUm1fWGJiOEtvMFV5anhkcGFoUENYcDhoNG5HSHpMa0wtT1hNbW96c3Y5aDktZnBIQy1kSFg4djJpMEt6dDNBRkRkTEtHeDd0MGQwSXRsRS1nUlZaMmdKMkVsa3cyOXA3N1ZoNlJteDhKTndpams0b1VHTDQ5LUQ3dTFvWHZ4?oc=5",
+     "ts": "2026-11-20T04:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "d68c08c95250",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "The Miami Heat Sold Over $1.5 Million in Vice City Merch on GTA 6 Launch Eve",
+     "url": "https://www.gtaboom.com/the-miami-heat-sold-over-15-million-in-vice-city-merch-on-gta-6-launch-eve-72c0",
+     "ts": "2026-11-20T05:20:25Z",
+     "summary": "A Miami Heat representative says the team sold over $1.5 million in Vice City merch in one evening on GTA 6's launch eve."
+    },
+    {
+     "id": "8585ebeb5759",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 passes $2.36 billion in estimated launch-day sales",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTZ4Y2NUNUpNdEdjWU12a3FNN183OUFZR3NtdUJUT051cThZcVVXcmswY3RPbm5JaHAwMkhxMWotNDZ0bEFqVG0wWlp2TDJYYzFUMXVMcVc5MHRFaEJLanl1NjJPd0tlNWtzMWJSd1lKRmRnVnF4TDRJOGx0S1VpQnVfMmE0eW1Sa29KVGxweVdWcGV5VGhLcEJhd1VCZGp0alE?oc=5",
+     "ts": "2026-11-20T06:45:00Z",
+     "summary": ""
+    },
+    {
+     "id": "9be59d146c0e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Arise News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Breaks Records As Estimated Sales Top $2.3bn",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcl9ZalZzeXRVa0taNWdSQVpBMW9XT1RaQWtrYklwWmJJX2hOLW9sc0gyZWhYaW9fZHNFdkFTa25GdHR5bjdhRXN0QXBUeFBNX3Vla0ItUzJFWlJXdmF3VGpieTUwY19jUmRGSWFDRmhwdDNjV2NScnhGOA?oc=5",
+     "ts": "2026-11-20T07:42:14Z",
+     "summary": ""
+    },
+    {
+     "id": "721d39009cf5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI отбилась за первый день, принесла $2,36 млрд и втрое превзошла рекорд GTA V",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOF9wemozckZkVzF2a1lXdS0xQnpXT1ZGWnk5c0JjMGVqUnhmVTduUWg2ZVN1UVI4M09tSy1DZjlNWWRlMG56QlgyVnR2Um5BSXp0SkhHU3NxTlBUak95d3RtajRPdHFoRHpOeEJ4eHo3RDhCbTNDdEd1dXdpTHhQRVpFby1CZFVOcHFXdTcwUlZDV0ZVektVR0E1VFZCbk1lcTJ2aG9idEFYdFE3WC1pWl9IbEIxa1NhMVEw0gHAAUFVX3lxTE9NWDlUVmYtcDhJald5ZVNhLUdZeW54MFVHYlNIbHJjRFdnaDZlR0V5d1RrVDNtcHNMMGJZYV92UUUtUG5GU1EtVXljRDBJUVVMUTNjS1NVN1Z2T1dJZExnVGMxYmNySzR2bXZUZjczVUtRamIwSFB6blRnM1B1VkkzRnhLSDRaVWxmRkpNcTVKa2lfTEVsRHIyNjh6Q1lYWjJ5TkM0MjNUTlctUWh4NnhYYnM5RFJPUWpjamFHWllrQg?oc=5",
+     "ts": "2026-11-20T07:52:00Z",
+     "summary": ""
+    },
+    {
+     "id": "691d6aa62c9a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Crypto Briefing",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI could generate $5B in first week, reviving franchise model",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTdMVFZIVU8xWEIzWEI3NW93Yl9CRk9CUHRyZXRGR0FjU1ZiVEg4Ni1PX29qZ1VnUC1zdlhfdXJ1bXBvZEpUWWZaODhwdXVOaU9BZFBTeWMydnNQcDkwTkRFNF92OWdHQ2l4VDJlWmpweTNzNmc0aDdiTENodmowTm12QURFZjIzOHlKaTMwWXdmQmFjaGc?oc=5",
+     "ts": "2026-11-20T07:32:34Z",
+     "summary": ""
+    },
+    {
+     "id": "7cb3989a43c7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Хабр",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Аналитики оценили стартовые продажи GTA 6 в 25 млн копий и $2,36 млрд выручки",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wQkZ2ZlJmdmoxSGpPenpqejY2VkZESUpyU3hzX2dHNk0tWmQ2Tm1SaHpwUnE1UEpDMm1ZVWFSZXF5UEU2SG9LWFQzOVBrVFFFaFAwOVo2NnZydHpQNjBIejBUUdIBWEFVX3lxTE1EelpVNm9IRE5Xd2lFcjdwTE5WbnE1RzdXSFJETW9vWmY1NEZ1YmFLSEpuUDVORnU5UWZxemtBWTU2TExlZlJQYzl6elBpNUVBZEtHc09MaUg?oc=5",
+     "ts": "2026-11-20T08:36:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 может собрать больше $3 млрд за первую неделю",
+    "summary": "По данным Semafor, продажи GTA 6 могут превысить 3 миллиарда долларов за первую неделю. Это оценка на основе ожиданий рынка и прошлых рекордов серии.",
+    "idea": "Сравним прогноз в $3 млрд с рекордами GTA 5 и RDR 2, чтобы показать масштаб. Зрителю интересно увидеть, насколько GTA 6 обгонит прошлые хиты.",
+    "hook": "GTA 6 за неделю — больше 3 миллиардов долларов. Серьёзно?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T22:31:12Z"
+   },
+   "msg_id": 1607
+  },
+  {
+   "id": "8fc42a805846",
+   "title": "Memphis’ Penny Hardaway finds silver lining from his players binging GTA 6",
+   "first_seen": "2026-11-19T20:41:05Z",
+   "updated": "2026-11-20T08:50:47Z",
+   "items": [
+    {
+     "id": "8fc42a805846",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Sports",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Memphis’ Penny Hardaway finds silver lining from his players binging GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU042LVZudGhfWUVTVExsS05Ma1ZtTldqN1lxOWNmUS1lVEE5Zmc5UWxSSVpEaVYxaXcxQUxHaWg0WGZRRGdIZmVoU19CMVloQ0dWWkstMW40T2lOblI5dTR1TlRoX1lJU1pHSVJRZml3dXpyMENYdjNpRmJJNGRQZGNZWmkwTTJ2aXhoYQ?oc=5",
+     "ts": "2026-11-19T20:20:38Z",
+     "summary": ""
+    },
+    {
+     "id": "e4db5a41ba6b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Sports",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "“I am worried” – Penny Hardaway fears GTA 6 could become a major distraction for his Memphis players",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVltaFN5U25MeV9JNFZWSHhXdlBKNXRzeEkyRlhibGIzWHEwdDZxVGZFTmhPeWJBM0NELVhqNjl0LUJjcms1MC1tbWZ4Z3NXaDBiOUVPUXltVjJjXy1JV21zLVFiOWlQS0V0M2ZLVVE0Ukt6MXZQX3JvcHZxRGRhOWczYXd2TGs?oc=5",
+     "ts": "2026-11-20T06:31:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "24e8f6f18e75",
+   "title": "Как найти Mitsubishi Eclipse Пола Уокера в GTA 6 — пасхалка на «Форсаж»",
+   "first_seen": "2026-11-19T20:20:51Z",
+   "updated": "2026-11-20T08:50:47Z",
+   "items": [
+    {
+     "id": "24e8f6f18e75",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Как найти Mitsubishi Eclipse Пола Уокера в GTA 6 — пасхалка на «Форсаж»",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1AwQ3k2YlhmUG9NbmN5N1FyUTRweGc1aFphbkVBcW5wNjVCYk9mMEJwN0lzUTJTYXdyQkdKaHd5eG9TNVllbkx5cVdoaWZGSnJLZnhxNEJZeVV5SzdmS3RDUnFwUm9lRThBUk5XUVBfcjZpdFJScklCTzN0SkcySHJhWkhONG85Nk1kaWNQYzVodDRFWG9HX1g2dnZScDVOVlhv?oc=5",
+     "ts": "2026-11-19T19:14:00Z",
+     "summary": ""
+    },
+    {
+     "id": "8a039ffa4299",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Чемпионат",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В GTA 6 нашли машину Пола Уокера из «Форсажа» — зелёную Mitsubishi Eclipse",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQakt1dXlEUXJHQzh5cWwwNVlMVG1UVlFTbFdrUGJmOU1neE5PQWNmdVVXVVBrZS1NaXNzd3hNNWtwLVRvbDR0N0xLbTFxdTlBdWQxQ3lLNjVkdWxZZldqOWRobEVrLUZEcXROYVBNdEI4NUZnMVI1WlJPVHBqWWt5bjUyUi1jOUpWTVpaVkhFNWVqMnRWbkFyd09OVFBxTVZXTEREUUxGc25jNkw4NTV5ZWlJUnljTnA3WDMxZzFTYVJ2dkFsLVQ5cUxSS3JOd0JJX2tvY0VqMlZBb1FkMTA1R1pBUQ?oc=5",
+     "ts": "2026-11-20T08:38:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3113c65c7cd3",
+   "title": "Where Is GTA 6's Disney World Parody? Rockstar North Co-Studio Head Explains No-Show",
+   "first_seen": "2026-11-19T17:31:03Z",
+   "updated": "2026-11-20T08:50:47Z",
+   "items": [
+    {
+     "id": "3113c65c7cd3",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Where Is GTA 6's Disney World Parody? Rockstar North Co-Studio Head Explains No-Show",
+     "url": "https://www.ign.com/articles/where-is-gta-6s-disney-world-parody-rockstar-north-co-studio-head-explains-no-show",
+     "ts": "2026-11-19T16:42:07Z",
+     "summary": "GTA 6 lacks a parody of Disney World partially because developer Rockstar felt there wasn't a strong enough narrative justification for all the work that would have to go into meeting player expectations."
+    },
+    {
+     "id": "97b17251027f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Where Is GTA 6's Disney World Parody? Rockstar North Co-Studio Head Explains No-Show",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORWZjSkhORzg1emxWSUQ5Q0tHVlRfaWM2UGJ4WElTWWpQZWxORDRQcTRtVWpTZmtzZ2p4NXhYbWI1aE5HV1hOS1o2SXdoR1dvSm9jR1lOemtrelg2alFXWEFacDd2OE5qWWhSekloWTFSMmxMRDZUZDNhbWs5WUpaM3NvR0c2WkI3cDRxUXRxcU92S0h3MHJDV0RCcm9YS2JIdzllVE9ISXUySHlneTRFSlp1WkNxVER3NjRXNUZrbFJWN3JyU2RFSjRUMXV3MFJMQjcwS09aRTJsWDA?oc=5",
+     "ts": "2026-11-19T17:05:23Z",
+     "summary": ""
+    },
+    {
+     "id": "6c92567a40ef",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Where Is GTA 6's Disney World Parody? Rockstar North Co-Studio Head Explains No-Show",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQamZzX0F4UUZVOFRYeTI5Qnp6UWp2Wk95NGFNRHhtTkMxV1BpbG9oenljekdwR216dkVyX05NOVdCcy1hS2YyLXNaVmdocjlVMXJnVGpVU2FSSWhPbFotM0dKaUt1LTlueFlHY3JON2lHWXdvcFZRalZTbFBNZkFUQVplZy0zTFlKMXN6QlVOSHdvdEtFaTZMZE1GRmpSUXZvYzJIV3Blc1RpX3pIZ3Jhc2RuLWR6ZG9XUzEyX0xfOWFCV0t0QktR?oc=5",
+     "ts": "2026-11-20T08:41:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Почему в GTA 6 нет пародии на Disney World? Ответ Rockstar",
+    "summary": "В GTA 6 нет пародии на Disney World, потому что Rockstar не нашла сильного сюжетного оправдания для таких затрат, сообщил со-руководитель Rockstar North в интервью IGN. Разработчики решили не делать локацию, чтобы не обманывать ожидания игроков.",
+    "idea": "Коротко объясняем, почему в Вайс-Сити нет «Диснея», и показываем карту/кадры мира GTA 6. Зрителю интересно, где ждали парк и что вместо него есть на карте.",
+    "hook": "Нет «Диснея» в GTA 6? Вот настоящая причина от Rockstar.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T17:31:18Z"
+   },
+   "msg_id": 1568
+  },
+  {
+   "id": "4cfd3ff160c4",
+   "title": "Stephen A. Smith rips Miami Heat superstars over GTA VI comments",
+   "first_seen": "2026-11-20T08:50:47Z",
+   "updated": "2026-11-20T08:50:47Z",
+   "items": [
+    {
+     "id": "4cfd3ff160c4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BasketNews.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Stephen A. Smith rips Miami Heat superstars over GTA VI comments",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUkEzR0hFQ2Z1WDExTFcxdFdYZFFVTjZZUnVVR1UyVGhvZ2hZVmlYNk1IMVdZU3JSOFlqd0JVRVI4aWxVeElqdzltVmw5ZmdYX2lBVXRvWmhSUHFwM25fcWVvd29LU0pJSGtZTWMtN3F6YmpSYkZIRTdYUFlvZG9uVmZ2YU14RnAxM0xhNEtRMUtLR2V5WXo2dk5OQTAyQkxoYlBoczVB?oc=5",
+     "ts": "2026-11-20T07:43:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "daf7767fb7f3",
+   "title": "Watch as gaming fans worldwide dive into long-awaited Grand Theft Auto VI",
+   "first_seen": "2026-11-20T08:50:47Z",
+   "updated": "2026-11-20T08:50:47Z",
+   "items": [
+    {
+     "id": "daf7767fb7f3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "AP News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Watch as gaming fans worldwide dive into long-awaited Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaEdBeGhrV09QYkhCV2pyS19xRWliaS11V1JoWW0tR1hGMFhVaXhlSWcySEgzWnhVNE5VZU5pV01jcEt4R0ZCXzBFTFVGakY1YlJnXzZlU1NRUlVndzNGUzU0emxEbkVlbnlpTURhRHJNWjMyc19EVGFNekhsNFF0Z1ZSUFB2YkNQNVFBX2wxZTB0WFlUZ0VpLTkwUFpSMmhGUS0tQnVUQUZiU0tsVkZUdGpuemhaMzRDd3BwOXppMXIyd3RqbHMxUVZfVQ?oc=5",
+     "ts": "2026-11-20T08:22:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "95d14558f6cf",
+   "title": "GTA 6 установила рекорд продаж в день выхода",
+   "first_seen": "2026-11-20T08:50:47Z",
+   "updated": "2026-11-20T08:50:47Z",
+   "items": [
+    {
+     "id": "95d14558f6cf",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Казахстанская правда",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 установила рекорд продаж в день выхода",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSTRmSjRjZ0pDdGt2amY2TGlMYnhrV2xmbnFUN3BfTGFxUjFyYVZhVnVGY1pkeVFEY0dYMDZoZXNTb0Z1d3NJUHlTUTloOUk3RW1XRGZTLUVYSHluNUVMNUdaRjlmckpHTnl3b2ZkOHdTa2RPSUhF?oc=5",
+     "ts": "2026-11-20T08:22:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0c90cd4273bb",
+   "title": "GTA 6: Why you shouldn't spend too much time making money early on",
+   "first_seen": "2026-11-20T08:50:47Z",
+   "updated": "2026-11-20T08:50:47Z",
+   "items": [
+    {
+     "id": "0c90cd4273bb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Why you shouldn't spend too much time making money early on",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDdKc0RoTmU4UjlwbnlXcU0zMGdKdVE4b3JWTkVNdjlnYUdhNFZWdVI4ay1TYUpLRWxQX01EcUlhOU4yclNWaEdwWUgyUXhxUHg3TW4zVUtkdjRlQ0NYMTRtVE5PWDdEUll0RWtTMTFHZ0N5TDl3dVJTMk41VGh4NlVBMnZhR19JbXpzVmNWOGU0UU5TYkRTNTcxYzk1b1NNR2cwUmJJN1duQl9uNlRn?oc=5",
+     "ts": "2026-11-20T08:32:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a9e901518454",
+   "title": "Интерактивная карта GTA 6 — теперь все могут закрыть игру на 100%",
+   "first_seen": "2026-11-20T08:50:47Z",
+   "updated": "2026-11-20T08:50:47Z",
+   "items": [
+    {
+     "id": "a9e901518454",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Интерактивная карта GTA 6 — теперь все могут закрыть игру на 100%",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeEJFUS1VQVFTQmd1anQwbkNNbkhJOEZaaUtWN1pHallxa3FBOXFlNDg5YlJQLWpRdklTaHdXMWpTdy1TS2V6YzJqSVR6ZlF4aXJUaFN3U1R5ejhtTzdab25scV9pZG1SVG9xdDNQd3hCUGhnUXRhQjV6TFo1akllclREWkh4emZyMlFtNVNQdEpSUQ?oc=5",
+     "ts": "2026-11-20T08:45:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fbbc71460db4",
+   "title": "🏆 iShowSpeed играет в новую ГТА уже более 42 часов, уделяя при этом по 2 часа на сон Кажется, через пару дней он уже полностью ее пройдёт Мечтаете так же засест",
+   "first_seen": "2026-11-20T08:50:47Z",
+   "updated": "2026-11-20T08:50:47Z",
+   "items": [
+    {
+     "id": "fbbc71460db4",
+     "src": "tg_gta6_m",
+     "src_name": "TG @GTA6_m",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "🏆 iShowSpeed играет в новую ГТА уже более 42 часов, уделяя при этом по 2 часа на сон Кажется, через пару дней он уже полностью ее пройдёт Мечтаете так же засест",
+     "url": "https://t.me/GTA6_m/9454",
+     "ts": "2026-11-20T08:47:09Z",
+     "summary": "🏆 iShowSpeed играет в новую ГТА уже более 42 часов, уделяя при этом по 2 часа на сон Кажется, через пару дней он уже полностью ее пройдёт Мечтаете так же засесть?) 🥺 Канал про GTA 6 | Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3f1aa1f35d5f",
+   "title": "Выход GTA 6 спровоцировал бум на аренду приставок в Москве",
+   "first_seen": "2026-11-20T08:50:47Z",
+   "updated": "2026-11-20T08:50:47Z",
+   "items": [
+    {
+     "id": "3f1aa1f35d5f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "rosbalt.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Выход GTA 6 спровоцировал бум на аренду приставок в Москве",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVURKMl9tY3Q0Vk4tV0VxYndsSzVORmYtb3MxSnd6LUFvU1N2LTRFRWtnaTk5RHBQbS1DdGxTaWlLRmNKOTVRdkk0eng2SDJ1Y3BiXzJ4azA4VUtUQWRkYkh3NlhVUG9kcy1oT2x4Zm9FNTRrSEk3b2RjVEg3Y2Zod3gwS2VDdElkWFRHSEhudFdaNUctTkRhbkk3TW83Uk1yZkNPZ1BpM3hpZw?oc=5",
+     "ts": "2026-11-20T08:47:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e107ba5bfb64",
+   "title": "Игроки GTA 6 нашли квартиру Декстера с набором серийного убийцы и его лодкой",
+   "first_seen": "2026-11-20T07:40:45Z",
+   "updated": "2026-11-20T08:40:45Z",
+   "items": [
+    {
+     "id": "e107ba5bfb64",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Игроки GTA 6 нашли квартиру Декстера с набором серийного убийцы и его лодкой",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeVh3dTNtaXlVNHpxSncxb0xvaUZvYVFhcGw1V0R4Y2p3UnM1eGs0NDQtOTFRMXdocWNSeG5FN084YkdTSmJYekRXeW5MOF8yaG1yc3RJcE1HR3h0SEhBTWtyamhvUkVUZjZzWWJuTHJsM2htMzc0WkV3QlhyaS1TMVV3c2dxTmpIX0Q4ZU5JVHVGV0hSOXQzS1diUHF1N3V4dkk1cDE3YWxWc1FkZFBPdldB?oc=5",
+     "ts": "2026-11-20T07:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "983b9899bcc4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Soyuz.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В GTA 6 нашли квартиру Декстера Моргана и его лодку",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONS0tcnZfMlhlYzc2bms3QXZZVHBvdU10eXk0MC0tcEMxX19HUDkxSzg2ZzJMOGVScGFFOTJoMGJTQWhDU2d4cVYydDl5X0FWWUNYZk9ycnFxVFF6LUgxNkNXdy1NNXFlbHU1QkFmclpzOGR2dl9IOTVYSlluNjZsSEFPbEw?oc=5",
+     "ts": "2026-11-20T08:16:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "👀 В GTA 6 нашли квартиру Декстера Моргана и его лодку",
+    "summary": "Игроки нашли в GTA 6 квартиру Декстера Моргана с набором серийного убийцы и лодку, как в сериале. Об этом пишут Shazoo и Soyuz.Ru.",
+    "idea": "Короткая экскурсия по квартире и лодке с акцентом на узнаваемые детали из «Декстера». Зрителю интересно увидеть пасхалку вживую.",
+    "hook": "Мы нашли в GTA 6 квартиру Декстера Моргана. Смотри, что внутри.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-20T08:40:49Z"
+   },
+   "msg_id": 1638
   },
   {
    "id": "e60bd1935d6d",
@@ -1037,149 +1542,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ac62dab163fb",
-   "title": "‘Grand Theft Auto VI’ sales set to top more than $3 billion in first week",
-   "first_seen": "2026-11-19T22:31:05Z",
-   "updated": "2026-11-20T08:10:48Z",
-   "items": [
-    {
-     "id": "ac62dab163fb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Semafor",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ sales set to top more than $3 billion in first week",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbURHYnBFTVBnRkEyVEVBQmctWFFHRHFHUVVsWkFMWWRsUnlTaXJBaFFybkpUdmo2ai1pMGVkemNFdnpxa2M5Z242b3czUG9jSXRWOUtwRDZQdEtHVExoMlRnX1pGdXBrTUtTd2Q2MWlJRE5kU0pVYlIwbnZCeEFhTUVmdnFnaE9XWWNaTURMUWFwX3lqRVpGTmo4ZHVpaXFGdlE?oc=5",
-     "ts": "2026-11-19T22:27:00Z",
-     "summary": ""
-    },
-    {
-     "id": "4fd0cf0be971",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BBC",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
-     "ts": "2026-11-20T02:13:05Z",
-     "summary": ""
-    },
-    {
-     "id": "fa350ca1d3e5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TweakTown",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 day one sales estimates break 24.5 million with $2.36 billion earned",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObGROeE84ZVJOVmM0RHVlYzltRERpb3R1VFZNdUZ6blUxaDRvQ2xsTjlFTXNBcUt5czRndDVVa0s5bkJNUUlNQTlITy1jRWZwWmxqWmQ1MC1LXy1iWFkzZUVPX3RteEQ0T2xkRVpzbmo3dkZpWjRvVll5YkZvUnh6djNzTVY5LXFESWdwak9aN3hHbXNLakhYTmYybkpZaHRGelZUN05zUGdVSExucFN1S2hvNTJZVWd0cjA5SFlzNE1JNmJ6cFJNWg?oc=5",
-     "ts": "2026-11-20T02:34:15Z",
-     "summary": ""
-    },
-    {
-     "id": "ada727053be5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Finance UK",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA VI’ Sales Surge Past $2 Billion On Launch Day As Vice City Mania Takes Over",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BWXBpZ3pSY2tXYWJubFdHalZuTVBESmVUODd5TG9OSnJ4OTZHaHEzWmtDeDVTZmtxRnZoVDlTVW1rMWRMMkF2d0JXZ29JNVA3MDVreXdvTGQ2d2hUajNpQjJWbVBUWXZLbHNaNmNxeWJVdGlvekZIWW9BYWE?oc=5",
-     "ts": "2026-11-20T00:29:00Z",
-     "summary": ""
-    },
-    {
-     "id": "2c0b95132d39",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Frederick News-Post",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The video game \"Grand Theft Auto VI,\" released on Thursday, has generated $1.8 billion in sales and is on track to be the highest-grossing single entertainment event of all time. What do you think?",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMkdsbGd3dlhQY3JmdU0zMV95OGl0NGVsLUY5SHNFaVJScmNBZ3lrRklLMnM2X1c3UHN5MkRLSExxR0JXVmd1bW02OF9sb2FnamFEb3lYaG13MkhETjl4cmpZQzBPeDJtamt1emxNR2xVTHVLLWxjUm1fWGJiOEtvMFV5anhkcGFoUENYcDhoNG5HSHpMa0wtT1hNbW96c3Y5aDktZnBIQy1kSFg4djJpMEt6dDNBRkRkTEtHeDd0MGQwSXRsRS1nUlZaMmdKMkVsa3cyOXA3N1ZoNlJteDhKTndpams0b1VHTDQ5LUQ3dTFvWHZ4?oc=5",
-     "ts": "2026-11-20T04:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "d68c08c95250",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "The Miami Heat Sold Over $1.5 Million in Vice City Merch on GTA 6 Launch Eve",
-     "url": "https://www.gtaboom.com/the-miami-heat-sold-over-15-million-in-vice-city-merch-on-gta-6-launch-eve-72c0",
-     "ts": "2026-11-20T05:20:25Z",
-     "summary": "A Miami Heat representative says the team sold over $1.5 million in Vice City merch in one evening on GTA 6's launch eve."
-    },
-    {
-     "id": "8585ebeb5759",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Notebookcheck",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 passes $2.36 billion in estimated launch-day sales",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTZ4Y2NUNUpNdEdjWU12a3FNN183OUFZR3NtdUJUT051cThZcVVXcmswY3RPbm5JaHAwMkhxMWotNDZ0bEFqVG0wWlp2TDJYYzFUMXVMcVc5MHRFaEJLanl1NjJPd0tlNWtzMWJSd1lKRmRnVnF4TDRJOGx0S1VpQnVfMmE0eW1Sa29KVGxweVdWcGV5VGhLcEJhd1VCZGp0alE?oc=5",
-     "ts": "2026-11-20T06:45:00Z",
-     "summary": ""
-    },
-    {
-     "id": "9be59d146c0e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Arise News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Breaks Records As Estimated Sales Top $2.3bn",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcl9ZalZzeXRVa0taNWdSQVpBMW9XT1RaQWtrYklwWmJJX2hOLW9sc0gyZWhYaW9fZHNFdkFTa25GdHR5bjdhRXN0QXBUeFBNX3Vla0ItUzJFWlJXdmF3VGpieTUwY19jUmRGSWFDRmhwdDNjV2NScnhGOA?oc=5",
-     "ts": "2026-11-20T07:42:14Z",
-     "summary": ""
-    },
-    {
-     "id": "721d39009cf5",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI отбилась за первый день, принесла $2,36 млрд и втрое превзошла рекорд GTA V",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOF9wemozckZkVzF2a1lXdS0xQnpXT1ZGWnk5c0JjMGVqUnhmVTduUWg2ZVN1UVI4M09tSy1DZjlNWWRlMG56QlgyVnR2Um5BSXp0SkhHU3NxTlBUak95d3RtajRPdHFoRHpOeEJ4eHo3RDhCbTNDdEd1dXdpTHhQRVpFby1CZFVOcHFXdTcwUlZDV0ZVektVR0E1VFZCbk1lcTJ2aG9idEFYdFE3WC1pWl9IbEIxa1NhMVEw0gHAAUFVX3lxTE9NWDlUVmYtcDhJald5ZVNhLUdZeW54MFVHYlNIbHJjRFdnaDZlR0V5d1RrVDNtcHNMMGJZYV92UUUtUG5GU1EtVXljRDBJUVVMUTNjS1NVN1Z2T1dJZExnVGMxYmNySzR2bXZUZjczVUtRamIwSFB6blRnM1B1VkkzRnhLSDRaVWxmRkpNcTVKa2lfTEVsRHIyNjh6Q1lYWjJ5TkM0MjNUTlctUWh4NnhYYnM5RFJPUWpjamFHWllrQg?oc=5",
-     "ts": "2026-11-20T07:52:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 может собрать больше $3 млрд за первую неделю",
-    "summary": "По данным Semafor, продажи GTA 6 могут превысить 3 миллиарда долларов за первую неделю. Это оценка на основе ожиданий рынка и прошлых рекордов серии.",
-    "idea": "Сравним прогноз в $3 млрд с рекордами GTA 5 и RDR 2, чтобы показать масштаб. Зрителю интересно увидеть, насколько GTA 6 обгонит прошлые хиты.",
-    "hook": "GTA 6 за неделю — больше 3 миллиардов долларов. Серьёзно?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T22:31:12Z"
-   },
-   "msg_id": 1607
   },
   {
    "id": "d0b1e40d4eb1",
@@ -13840,32 +14202,6 @@
    "status": "new"
   },
   {
-   "id": "8fc42a805846",
-   "title": "Memphis’ Penny Hardaway finds silver lining from his players binging GTA 6",
-   "first_seen": "2026-11-19T20:41:05Z",
-   "updated": "2026-11-19T20:41:05Z",
-   "items": [
-    {
-     "id": "8fc42a805846",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Memphis’ Penny Hardaway finds silver lining from his players binging GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU042LVZudGhfWUVTVExsS05Ma1ZtTldqN1lxOWNmUS1lVEE5Zmc5UWxSSVpEaVYxaXcxQUxHaWg0WGZRRGdIZmVoU19CMVloQ0dWWkstMW40T2lOblI5dTR1TlRoX1lJU1pHSVJRZml3dXpyMENYdjNpRmJJNGRQZGNZWmkwTTJ2aXhoYQ?oc=5",
-     "ts": "2026-11-19T20:20:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "5bb3558e519c",
    "title": "‘GTA 6’ Officially Defeats Christopher Nolan’s ‘The Odyssey’ in Just 1 Day",
    "first_seen": "2026-11-19T20:41:05Z",
@@ -14958,32 +15294,6 @@
    ],
    "tags": [],
    "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "24e8f6f18e75",
-   "title": "Как найти Mitsubishi Eclipse Пола Уокера в GTA 6 — пасхалка на «Форсаж»",
-   "first_seen": "2026-11-19T20:20:51Z",
-   "updated": "2026-11-19T20:20:51Z",
-   "items": [
-    {
-     "id": "24e8f6f18e75",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Как найти Mitsubishi Eclipse Пола Уокера в GTA 6 — пасхалка на «Форсаж»",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1AwQ3k2YlhmUG9NbmN5N1FyUTRweGc1aFphbkVBcW5wNjVCYk9mMEJwN0lzUTJTYXdyQkdKaHd5eG9TNVllbkx5cVdoaWZGSnJLZnhxNEJZeVV5SzdmS3RDUnFwUm9lRThBUk5XUVBfcjZpdFJScklCTzN0SkcySHJhWkhONG85Nk1kaWNQYzVodDRFWG9HX1g2dnZScDVOVlhv?oc=5",
-     "ts": "2026-11-19T19:14:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -20319,56 +20629,6 @@
     "at": "2026-11-18T22:11:04Z"
    },
    "msg_id": 1415
-  },
-  {
-   "id": "3113c65c7cd3",
-   "title": "Where Is GTA 6's Disney World Parody? Rockstar North Co-Studio Head Explains No-Show",
-   "first_seen": "2026-11-19T17:31:03Z",
-   "updated": "2026-11-19T17:40:57Z",
-   "items": [
-    {
-     "id": "3113c65c7cd3",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Where Is GTA 6's Disney World Parody? Rockstar North Co-Studio Head Explains No-Show",
-     "url": "https://www.ign.com/articles/where-is-gta-6s-disney-world-parody-rockstar-north-co-studio-head-explains-no-show",
-     "ts": "2026-11-19T16:42:07Z",
-     "summary": "GTA 6 lacks a parody of Disney World partially because developer Rockstar felt there wasn't a strong enough narrative justification for all the work that would have to go into meeting player expectations."
-    },
-    {
-     "id": "97b17251027f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Where Is GTA 6's Disney World Parody? Rockstar North Co-Studio Head Explains No-Show",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORWZjSkhORzg1emxWSUQ5Q0tHVlRfaWM2UGJ4WElTWWpQZWxORDRQcTRtVWpTZmtzZ2p4NXhYbWI1aE5HV1hOS1o2SXdoR1dvSm9jR1lOemtrelg2alFXWEFacDd2OE5qWWhSekloWTFSMmxMRDZUZDNhbWs5WUpaM3NvR0c2WkI3cDRxUXRxcU92S0h3MHJDV0RCcm9YS2JIdzllVE9ISXUySHlneTRFSlp1WkNxVER3NjRXNUZrbFJWN3JyU2RFSjRUMXV3MFJMQjcwS09aRTJsWDA?oc=5",
-     "ts": "2026-11-19T17:05:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Почему в GTA 6 нет пародии на Disney World? Ответ Rockstar",
-    "summary": "В GTA 6 нет пародии на Disney World, потому что Rockstar не нашла сильного сюжетного оправдания для таких затрат, сообщил со-руководитель Rockstar North в интервью IGN. Разработчики решили не делать локацию, чтобы не обманывать ожидания игроков.",
-    "idea": "Коротко объясняем, почему в Вайс-Сити нет «Диснея», и показываем карту/кадры мира GTA 6. Зрителю интересно, где ждали парк и что вместо него есть на карте.",
-    "hook": "Нет «Диснея» в GTA 6? Вот настоящая причина от Rockstar.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T17:31:18Z"
-   },
-   "msg_id": 1568
   },
   {
    "id": "c655835df0a8",
@@ -174522,37 +174782,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "555c84537f28",
-   "title": "Second GTA 6 clip shows a luxury convoy – here's why it looks so real",
-   "first_seen": "2026-11-13T08:50:46Z",
-   "updated": "2026-11-13T08:50:46Z",
-   "items": [
-    {
-     "id": "555c84537f28",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Notebookcheck",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Second GTA 6 clip shows a luxury convoy – here's why it looks so real",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGE0MUtPRksycWs4WVQ1V0F0bEtUZmJnSldHVk9OYVc5Z0ljVDk2eXR0cXJoWm1fVVhGR0g1WDZXZkZhT3FvcDJySFBVNDhCNnV6NmJoWDFwNnJEZVhxXzZRM2ZUeUhnR2t6U3B3ZUZCNXhxYmpRSHdldDFTQW9RdGRTTV83N0xnUzZTSXdVNllsWTVBazZ1eG5HMUR1bTJhZjdxaWdXMG5MUEZaWlBJTk9B?oc=5",
-     "ts": "2026-11-13T08:41:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-20T08:40:54Z",
+  "last_run": "2026-11-20T08:50:47Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 100/100",
