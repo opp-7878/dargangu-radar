@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "7c1153d30177",
+   "title": "GTA 6 Is Censored in Japan, Exactly Like We Predicted",
+   "first_seen": "2026-11-20T03:21:16Z",
+   "updated": "2026-11-20T03:21:16Z",
+   "items": [
+    {
+     "id": "7c1153d30177",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Is Censored in Japan, Exactly Like We Predicted",
+     "url": "https://www.gtaboom.com/gta-6-is-censored-in-japan-exactly-like-we-predicted-f912",
+     "ts": "2026-11-20T03:12:16Z",
+     "summary": "Game\\Spark found Japan's GTA 6 covers Jason's shower nudity and drops the blood intensity slider, but retains decapitations."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "61d6ea67e6b3",
    "title": "Grand Theft Auto VI could outsell Taylor Swift’s entire Eras Tour in its first week, report says",
    "first_seen": "2026-11-19T20:41:05Z",
@@ -173488,42 +173514,16 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "1489b1cba6b8",
-   "title": "The Final Countdown",
-   "first_seen": "2026-11-13T03:10:48Z",
-   "updated": "2026-11-13T03:10:48Z",
-   "items": [
-    {
-     "id": "1489b1cba6b8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "The Final Countdown",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xuwqbo/the_final_countdown/",
-     "ts": "2026-11-13T03:02:32Z",
-     "summary": "In the time we have left before release, how is everyone occupying their free time? What content creators are you watching? Is anyone reading some good books? Dostoyevsky, perhaps? What movies are scratching that itch for you? I'm currently replaying Vice City submitted by /u/L3nninga to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-20T03:10:44Z",
+  "last_run": "2026-11-20T03:21:16Z",
   "last_log": [
-   "rockstar_site: 0/3",
-   "gnews_en: 99/100",
-   "gnews_ru: 99/100",
-   "gamesbeat: 4/10",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "gamesbeat: 3/10",
    "vgc: 6/10",
    "insider_gaming: 5/10",
    "ign: 4/20",
