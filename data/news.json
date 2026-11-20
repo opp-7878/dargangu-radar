@@ -1,6 +1,696 @@
 {
  "stories": [
   {
+   "id": "c07cbf633ba0",
+   "title": "Grand Theft Auto VI releases with new album and 22 in-game radios",
+   "first_seen": "2026-11-20T11:10:56Z",
+   "updated": "2026-11-20T11:10:56Z",
+   "items": [
+    {
+     "id": "c07cbf633ba0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Headliner Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI releases with new album and 22 in-game radios",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOGt4ZnFNNFZ4a0NKNmtPRjBYZDBSMy1lN0xaTGVMUHY2NmJ0VkZhcER0QVZYRXFRSjBKU1YyNGJoSHZZb210Wm10QTYyME1zVXZnUnZYa2dfZHRkTjFubHBnUFUzMnRuN0QwTDdMbXh1bWFnUjdtekZpWUJQNnNXTXBxWnpYMm1PSzNUem5MYnFTWkdJaEt3YkYzQQ?oc=5",
+     "ts": "2026-11-20T11:02:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1de1298899c3",
+   "title": "GTA 6 takes the world by storm after 13 years of anticipation",
+   "first_seen": "2026-11-20T11:10:56Z",
+   "updated": "2026-11-20T11:10:56Z",
+   "items": [
+    {
+     "id": "1de1298899c3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KABB",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 takes the world by storm after 13 years of anticipation",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYW0xdGtiZXdRQkJCRWd5UkpSdnp0QU1zcWJSUDhRV2ZWYnhSbHRRTE5fVklxdEl1MW9aUTJOWGZWY0paSENtZ2EwMFV5dFVVVC10SjZSOUc3Q09GV001aFJPcGszRXN4OFcxTVV3MHNPUFlLazNCc0lvOUhfYWM3aTVpQzFIdl81akVRM2hnVURoVzR5NnVSQ2hWLUU2TTFxNjUzbjlrZkU3M2E1ak1LS0JpZGUwenJnRlZqdU1QSE04MnFGcDhqeGhnZW10dGtYTVRHSnJ4U2lERzY0c3hGUUdSeE5XZlk4dVhVRnVMTVhJTDRSS1E?oc=5",
+     "ts": "2026-11-20T11:05:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0cce0d0f1e55",
+   "title": "GTA VI hijacks America",
+   "first_seen": "2026-11-20T10:50:50Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "0cce0d0f1e55",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Axios",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI hijacks America",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uMmpYSW1TZXhsV283QXdBaXVJM0tYSjhTbTVMWEZGeWlmRzBwaEI0ZHZ5VHcwdWYwRmhZWkUzNWlCYnFUMVlsYjlwSUROd1ZFb29MRUlDOGtRVFd2T2dPeHlsMHJWd0FDeUxxYTRwZ2hCQQ?oc=5",
+     "ts": "2026-11-20T10:48:32Z",
+     "summary": ""
+    },
+    {
+     "id": "27408514a78e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI hijacks America",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGl4MTAxaGdrWU83OEoxeTd1d1d5bF9oQnNYRlA0ampGdUhwdEwzT1JtdDNiV3FDN2FBb1cyV0NmU0pBSHlQNWNETHJ5R0xzeENHNHE3eGFBa3g0T0pNY1B0TFlFcWFRNTJKNWdQOElOZVl1eTlGX2JSdWRwV2FVbkRR?oc=5",
+     "ts": "2026-11-20T10:45:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 захватила Америку: что пишут СМИ",
+    "summary": "По данным Axios и Yahoo Tech, GTA 6 стала главной темой в США в день релиза. Журналисты отмечают, что игра «захватила» страну и обсуждается повсеместно.",
+    "idea": "Короткая нарезка заголовков и реакций СМИ под динамичную музыку — зрителю интересно увидеть масштаб хайпа в день выхода.",
+    "hook": "GTA 6 вышла — и захватила Америку. Вот что пишут СМИ.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-20T11:11:00Z"
+   },
+   "msg_id": 1653
+  },
+  {
+   "id": "85c212a8269f",
+   "title": "Игроки GTA 6 научились запускать игру в 60 FPS с DLSS 5 через стриминг с PS5 на ПК",
+   "first_seen": "2026-11-19T13:10:47Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "85c212a8269f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Из GTA 6 делают настоящий некст-ген с помощью ПК и DLSS",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0lvVkR5UkJ3SFdCYTlBSXRsSExTVkQzWDY4WXVMTm9fUHZuWWhlUThDSDA3SF9sZEF5a1BfLUFPUDNyTS1JWGtwRHR0Mzc2SUZkVzFZdWJEZ3NVMzhDZ1ZjM0Jqbm9GVU5odFJGWldiUXR3WC00U2thQllZWURWVlQ3dXdQRDZWM2Q0NXZ3OTNtZw?oc=5",
+     "ts": "2026-11-19T13:00:09Z",
+     "summary": ""
+    },
+    {
+     "id": "e88468acb9e4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "3DNews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Игроки уже нашли способ запустить GTA VI на ПК с DLSS 5 и генерацией кадров",
+     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9QUVFYdTNCOFRndnpXSUlvTGR1aUt0dGlQcHlaYlUtNWpoLVdxV3RUdURQS3ZIOUpBV21LNEpR0gGqAUFVX3lxTE9tY3BpUk1ibFFQOFY2VGNkdWtCb1p0b3ROTjFLSmYxeW1GbnV0eWxIOTNZTkJmSFk5MmFGb0hpUFRfYTdJVjRac0tselpzOWw4ODlYY2dQMnJoNzFhc3NmVHZJZW8tTFZ3TF9qczNzWEpaVUxNZ191R2daX0VaT1JFTXhVckJSc3FjRHZic2ZydEJkcHhrQURBaElCVEtVMUstUVFTYkNWMVZR?oc=5",
+     "ts": "2026-11-19T17:49:00Z",
+     "summary": ""
+    },
+    {
+     "id": "0ace62d3c117",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Разработчик показал запуск GTA VI на ПК и подвергся критике — игроки ему не верят",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNanpidkhDZ1lfVFU2ZW1VbTBTbkptWXFpbkJQN3FoQjlUU1JIWXhWbUZhNjZIVlNlMlBXNEw5TTZmaUZZdVBKU1ZkVVRmWTJtRTNnWHR1U1VtTFVNUEg3UFYtLW5USGZtSk5DMmNGZTdleGhXa0UxSHNOZmVsd1FpMmN5WWVFMmRMNEEtYU9Da2k1Q09kLUFwN2FqWEllN212RXVMY19UcW02RHpxRGVuTVh5RG50UE93NDVoeHp30gHDAUFVX3lxTFBsWTZoOWxibW1VQ19qd1pkR0V1MFhpc1kwNnZNTGtSX0tMNktKU1poQ3drUXVFNDlERVlfdEIxcGhLNTZBbFBvalVEdGJmMFZGOTVpNnduZ0N1WkJ1eVdPejd5MFVSLWZIMXFtT0tKSjVVaTdhenBjVlQxLU5qODJaNkxRbGplaFFKYjl6TEExTUtMUnFuX0VvemFrQUROVHNjS1NoR3R6dHBWd0YzbVJBRGxSWV9sSldRNnJlZk5fVm1DUQ?oc=5",
+     "ts": "2026-11-19T17:31:00Z",
+     "summary": ""
+    },
+    {
+     "id": "a5679b53af9a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "3DNews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Игроки уже нашли способ запустить GTA VI на ПК с DLSS 5 и генерацией кадров",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2w0ZFJJdWt0bEhrRm5LdE5Ocm8wUFlmYjZ5YU9OTlAzbWdqZlV2a0NQRjRzeWtSanpwUDNqbTVfam1FSmE4UWJTZDdTaXBmcFlDR3NXcDctV2dhMElwRmFPQjQtaUQ1eEVJZ1pQY1J2Z1BMbnYzUHBhbDIzMTJUT094aDVPenV1Z2FoeUlnWUwxZk5GSzh2Vmsxb3IzdW9adDUwZNIBqgFBVV95cUxPbWNwaVJNYmxRUDhWNlRjZHVrQm9adG90Tk4xS0pmMXltRm51dHlsSDkzWU5CZkhZOTJhRm9IaVBUX2E3SVY0WnNLbHpaczlsODg5WGNnUDJyaDcxYXNzZlR2SWVvLUxWd0xfanMzc1hKWlVMTWdfdUdnWl9FWk9SRU14VXJCUnNxY0R2YnNmcnRCZHB4a0FEQWhJQlRLVTFLLVFRU2JDVjFWUQ?oc=5",
+     "ts": "2026-11-19T17:49:00Z",
+     "summary": ""
+    },
+    {
+     "id": "9bca9acad229",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Код.ру",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI запустили на ПК: энтузиаст показал экспериментальную сборку",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ncXZyTWNGaTY4MnFzemF5aHJydDNoUWhMWlpMRXlpbGNjcGpKaHRmYk5PSWdILWJEUXpiQllrZDZfUlRlQTBxRmQwQmVYMjRF?oc=5",
+     "ts": "2026-11-19T11:06:19Z",
+     "summary": ""
+    },
+    {
+     "id": "bc6a6fc34dd5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Энтузиасты воспользовались PS5 Remote Play для запуска GTA VI на ПК с DLSS 5",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGlVYjZHUzNDcGtjMzFPVXFUdUVHRGFWakQxYldYdDEzYlNtSmxWSVZvc21vRzdQd0ZzX2xkYTVLc0xITWtFZ1V0SUE1SkRPUzZMUy1TMDZRLUpFMTl4b1NKcGY2NDZYZVp1RTdJWGpZSkdIeVlsMnBZeHNSX3dmeDlGdGRWT19QeDV5emJta0tpOTlETmtVMXJ2WkZJZkUxSUxvcFFHTdIBrAFBVV95cUxNLUhia0haa3c4QnBpYnl3SVpKZXZ6TGRNQ3FjQjh1QldDV2RQX3hjTHF1UUxwOVpidEVQMTVGalFZMzg0TFNpR2laVHBjYXhveE40blZfSU85WFYyWUFoemhEcnY0cnNBeDVaUnp3WDEtbktoV3kxVUlkVjdZTUZ2V2VjSDUxdFdLUTBLZzRCYkdDWURjVmwtVU5rNU0ybGhSekpYR3FTdng3bV85?oc=5",
+     "ts": "2026-11-19T13:10:04Z",
+     "summary": ""
+    },
+    {
+     "id": "ae3f151dd283",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "3DNews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Игроки уже нашли способ запустить GTA VI на ПК с DLSS 5 и генерацией кадров",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2w0ZFJJdWt0bEhrRm5LdE5Ocm8wUFlmYjZ5YU9OTlAzbWdqZlV2a0NQRjRzeWtSanpwUDNqbTVfam1FSmE4UWJTZDdTaXBmcFlDR3NXcDctV2dhMElwRmFPQjQtaUQ1eEVJZ1pQY1J2Z1BMbnYzUHBhbDIzMTJUT094aDVPenV1Z2FoeUlnWUwxZk5GSzh2Vmsxb3IzdW9adDUwZA?oc=5",
+     "ts": "2026-11-19T17:49:00Z",
+     "summary": ""
+    },
+    {
+     "id": "702efe2c6f49",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Игроки GTA 6 научились запускать игру в 60 FPS с DLSS 5 через стриминг с PS5 на ПК",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVRUeGNkSERPd0wxYjV1WGdBakMwT3Rvc1RhNl8yczhRa1BtbmtLcGJvTWkxNE5CNzJ1V0lYUTB6TFNxZTlxQjVTanZlVHMyTTBlRE90ZXJXNkdjd3FJTXVwdG82a29ha29ja0psY2ZHcXBxT0NVbEJBVC1OMzNZQ3FRakVFRnZVRmdrV2VSVWt2bVN6SGdpeG1feElOS2hQOG9mcGx5bzBPUVM2Q0ZJRFdubE5KVlk?oc=5",
+     "ts": "2026-11-20T06:40:00Z",
+     "summary": ""
+    },
+    {
+     "id": "428e35bb278b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "To run GTA 6 at 60 FPS on PC you will need a processor of the level Ryzen 7 9800X3D",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXNkNGF6Z2c2VmNDaTFqX0NiNG5oMWt5MHJrUzVtRW1mbDBScEZXQTc2b1pFLTA2eGpWWEpfR1d6VXRFaE1VcHBFSjR0bFlxSHM2S3RXOGI4Q2Nmai14X3NkOXVEZXVNRnZGUzNfcnJxMFNRSmo4ZFRQX3JJYmdZT3JKVGdrZnpLR1pXWklZZmtEcUlFMGtya2VGLVRCZWI4dFVSdC1XZDI2aldJZUxyakdtaGxkUzg?oc=5",
+     "ts": "2026-11-20T05:42:11Z",
+     "summary": ""
+    },
+    {
+     "id": "136571ba317a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI на обычном ПК: VK Play запустил аренду консолей через облако",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNblJ6UjNmdUdBME5aTmVGb3lGOFMtYjFJTUN2WjI4UUQtTDh0ZWw5OUJiNTJEckk2bGFPS3lCb2dtNkxqai1HWW01MkU4Y3NreVpNYW02XzNDdi1aRGdFMllmdWhPbmxCZWtVaktQM3g2eUtUM1ZHQ2RObUVDcF9VUEdNZS1GbXpOM1Jvbk9MYks3anVWNTZNSXdVQjVVZnZraTJJOWVoMWZrOTc30gGyAUFVX3lxTE1VczYtV0t4QWtkM1RJVi1POEtVbFo4ZmNKbG9YRUltbnRJdGVRUmtJV3hDNElNZlJBc3BMbzRGc3hZSTZRX3BhaDY3NmlZWl9QdGo1XzhzVlgzWDAyck9rN2hSbkRxOGNJRVNJblVYNGx4R3AtS3o4QlN5WXQ3MzE4LU1SNGxSQ0xpOVB1V05kSnMxSXp1d3hjTE02QlgySnc0a1pLZmpaeVNuUjR4VVlfQ2c?oc=5",
+     "ts": "2026-11-20T07:27:00Z",
+     "summary": ""
+    },
+    {
+     "id": "62ae438bd5d5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Hardwareluxx Russia",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 на ПК: моддер добился 60 FPS из трансляции с PS5, хакеры заявили об утечке сборки для Xbox",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSlJYbFFKMmJwVTBNNnNnemlHUVFhRGQxc2Noa1BudzZnc2FqOUV3WlNpRXNrakxkTEQxMUswLU5YWG56c25WMmpNNXpEaDVmZ2tMWDJNcFNHT3U4RnZxTlJoQWRINGF2SnJOZ1pyVnB4Tkt6dUtRb1BxNF9QSVRuNl9zVTBlOFd4V3ppY2FyT1h4aENQcWozcTZITlBoU1BGeDVCRTlTaUFFX0FBcjN0QU1xdTZKTGF4b0lHaF9lamtpaVp4RWNpdHhVWlh5RVZmM1ZGR3hraGdXNmMxRHcza0dSeWZfUlRrOG1ucU5lbXFfX0E?oc=5",
+     "ts": "2026-11-20T10:28:45Z",
+     "summary": ""
+    },
+    {
+     "id": "28d916c842f4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Sport24.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 может появиться на ПК уже через неделю: от чего это зависит и как можно будет поиграть",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYkxvWG9iZ1ZvRmwyRUphX2otaUc2X3p0OWFRdjdNTzlPNk42VWZwNzdyRE4ybDI2OVJXaXl5ZEpwQ2M2NWFtbnhMSXlfdERGdWUtdG1qMDktU0o2RGdmcUpyc0h6YmRnZ1ZTNmM5VkNtU1hiVlg0WWEtc3ZpNEFPSi0wN2VDV05mNkVmcDhicUUwQlpIbW02Smt1VDZ3YTRXV2NlYjJZMlNxbEEwYjNSWk15Y0RsTUVkVmNSNWFmRXNkam9BNkM2T0dOWnQxUmxlUEIxZ01LTGdoQdIB3wFBVV95cUxPY3NtTFAyandzOFhkYU5YS2lmSEtvRkFMX1Q0aHRVZlJPbk53X0pZNFNIcGx3R244c1lMVlFwSS1waW52N3RReC1TN1lsZ0dVUkFGbmY1RXZ3eEhJbjN3bEpfanZMNm5uR1VtT3FDSGlFbGtSMHRkTHRYM014RzdmTHdlY2p3QWNYRlRoa3VvRDgxcWFVazhwYU93QVB2aGl0WnBPNmRDcnQwNTRyRjNiOGpiUnA2MU41MnRuOW5UZ3V4eDdOcHpjYl9icU9US0JmLWV3V1hQd2VyMmhEc1hz?oc=5",
+     "ts": "2026-11-20T10:55:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК",
+    "слив"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "170433f82dc1",
+   "title": "GTA 6 Broke the Open World Formula… It’s About Time | GTFM",
+   "first_seen": "2026-11-19T20:10:52Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "170433f82dc1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Broke the Open World Formula… It’s About Time | GTFM",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVN3Um5CSXVKbWZPN0tMVW9fdzJURUhEdHM0V2pJMUxOR3RrWTNxVjVBd3lUbC12TWFFS2ozTllvWlRqeHBCcnBvQ2pBNFRJc21vU294Q3Zpc2RYa0dVcDB5QjhudGVKbWcyUkhZSV93RG9IZmdiRmZib3JvTlZPWmY4YnhXOXRMVjc3MVo2YmVPbDQ5NkswRWdqR1U2TkhjeDlHbFV4QQ?oc=5",
+     "ts": "2026-11-19T19:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "2fe470c31fc8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Broke the Open World Formula… It’s About Time | GTFM",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXdaNk5RTkpJeHRuVGpBQURtbEp1RHQwVUhsMWhhVTBoOTlJRWdaUXgxWTFHUzZ6U3ZvVXozcGVxTVptRy1CUmYzN2pTVTVSdWZjbnI3eTE2TmpPb1NlcmJWejdUYW0xb2hFM0s5S19lVld2Ti1aWkdtOXQ0MHU0TF9ncTNacDJtdXZlYzZIYkNfSWlNWE91T3JqMGdja1JvOUxzU0d5Q0pIdmJSMEhoXzNHUnVVZw?oc=5",
+     "ts": "2026-11-19T19:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "1551131f3906",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Broke the Open World Formula… It’s About Time | GTFM",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbnVKSWoxVjlTSDd5WTZpWVRfNElwd1BOUmE1MFZBY2R0TXRBMWI4R0JrcWpSbXhwZVMzTDdDYzlsQ0JvWjVNamNTdm1vWUZ5aFMxTzlfYVd4YXN5Um1DX3lEMTlyRHRmU1pEX3BzUEV1dUM5OHNIOWVoVjNpaVVWU2UxOW1ObVNNYUwyWmk5c3ZubUV4Y1JFMEJsSmpHRW81bWxacVZn?oc=5",
+     "ts": "2026-11-20T10:59:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 сломала формулу открытого мира. Наконец-то!",
+    "summary": "По данным IGN Nordic и IGN Southeast Asia, GTA 6 изменила формулу открытого мира, сделав её более живой и интерактивной. Журналисты отмечают, что мир реагирует на действия игрока, а не просто служит фоном. Это первый большой разбор механик после релиза.",
+    "idea": "Покажем 3–4 быстрых примера, как мир GTA 6 реагирует на игрока, и сравним с GTA 5. Зрителю интересно увидеть, что изменилось в рутине и погонях.",
+    "hook": "GTA 6 сломала формулу открытого мира — и это лучшее, что случилось с серией.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-19T20:21:01Z"
+   },
+   "msg_id": 1593
+  },
+  {
+   "id": "5c731b00e913",
+   "title": "Мошенники крадут данные россиян через поддельную GTA VI",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "5c731b00e913",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Мошенники крадут данные россиян через поддельную GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNajVWanVHaDdVVUVtZUhQNFpuY1FNMGhrNlh0ZnhWdmJVOFdXbk5rLVowdm5UNzJwWlRLWnF5UE5MZ0cyUnVCV2R2b1Y4cEZhVVZwbXBBNTJOWWNpTHNKQkpyRUFaa21uNWNaZjZiSC1kYU9temRGdE9SUTBMOVoySmdsQjBpTWdiazFZNURSbw?oc=5",
+     "ts": "2026-11-20T09:54:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a917f3cf8f3d",
+   "title": "‘Just embarrassing’: JD Vance’s GTA 6 AI slop post slammed online",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "a917f3cf8f3d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Indy100",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Just embarrassing’: JD Vance’s GTA 6 AI slop post slammed online",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WNGlzaC1qU29IY09sMDJ5dldpVlNlbmFiRWVqMjdoS2o2b0ZwQWlXeGJwSUJZY1lwRWE1V2RGZlpxRGxzczdTZ2RiZGNPOE85MS1ZQmpwVm5ubWpJblllMUp3bEdXTEtjaHc?oc=5",
+     "ts": "2026-11-20T10:21:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "e715c13c3d2d",
+   "title": "Should I buy a gaming console just to play 'GTA 6'? That depends on your FOMO.",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "e715c13c3d2d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Should I buy a gaming console just to play 'GTA 6'? That depends on your FOMO.",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEdBcGpRTHRsSzA3LTFiWDRlRGNvUTgyYTJWRjc4WDlfYVljUWhkc2p6RGp4Ry1NbFZpQzAyNlIzMkFLUnN4Yk5EcXBuUlRzZnRVT2pLRUR2dHpWTzRnTG5DdGI4NmkxOXpOUVc0TjBZRlNpY3FsdzBScldtb3hsSWlqSTBROE1hZ2Zsc296YUZydnM?oc=5",
+     "ts": "2026-11-20T10:47:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "69692ec70f35",
+   "title": "GTA VI: Why do we love playing the outlaw?",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "69692ec70f35",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Aleteia EN",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI: Why do we love playing the outlaw?",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GSHFuZjMzMGFCVzJuVDhjczlaTGlfR0dDejRUbnZZMzR3c3lIUWZVblAzX0VLMWx4VmRQamJwZUhtV2NBT0VVQ21QQVBWcU9aamlWSGNZcVVSdUo0REF2dUpVdy1pZGRRcFUzYldZai1EMVFIcGRnWFhJNmQ?oc=5",
+     "ts": "2026-11-20T10:56:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9d368a0f640b",
+   "title": "«Гораздо прикольнее»: губернатор Ненецкого округа предложила заменить GTA 6 игрой о выживании в тундре",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "9d368a0f640b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "RTVI",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Гораздо прикольнее»: губернатор Ненецкого округа предложила заменить GTA 6 игрой о выживании в тундре",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxMVZiVzVkMTZoM2xUTFdobzNTTklIQWlpdkF6MU1GQU92TUhuOGtwd0ZJdE1YRDZ5elFvYlA0ZUFJWFF5c0xlMUFaSFRsTVNQTWR2cW12c2ZxZHRjOFNNZzJEWmFWRDFvNy1lOGF0aEZCblgzazV1Tg?oc=5",
+     "ts": "2026-11-20T10:58:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9e3b7c101791",
+   "title": "GTA VI is a marvel. Just don’t make me play it.",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "9e3b7c101791",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Boston Globe",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI is a marvel. Just don’t make me play it.",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLUR2YVVvQVZwTXJlSkMyVlMtbldLd1F3UVJ2VmdWUVJFenR4NmhSQ1pmWHdQTFg3ZDJKTEJQWGlaZkYwUFZ1WWl1bWFWbE5EU1NOMjZDaXNubnFhNWMzRGlrRWpkRlJfMXFKOVNJb3dZcDFncndBLTBRdzJpWk1lSkRnMXh1VFJHV3JvUV93NA?oc=5",
+     "ts": "2026-11-20T10:58:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e071d2834157",
+   "title": "Раскрыта тайна первого трейлера GTA VI: девушка в бикини оказалась Мэнди",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "e071d2834157",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Раскрыта тайна первого трейлера GTA VI: девушка в бикини оказалась Мэнди",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwMDBxVWZBd3ctd2E3Y3FwVnlRNHBRc3hoRTdJNTRMQnRmYXBVRFBiTDBvNDJCcUdTSlpuSEpsYkdYaXpITWd5SkFOX0w2ZkVmVTd2Z0NFblB2WnRIRUtnemtZZDk3alVNWDNnS0ZZYXVDMVllczlKUVJxX2VNZw?oc=5",
+     "ts": "2026-11-20T10:59:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "трейлер"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Девушка в бикини из трейлера GTA 6 — это Мэнди",
+    "summary": "По данным Techora.ru, в первом трейлере GTA 6 девушка в бикини — это Мэнди. Издание утверждает, что раскрыло тайну персонажа.",
+    "idea": "Крупный план кадра из трейлера с девушкой в бикини и быстрая плашка «Это Мэнди». Зрителю интересно, потому что это разгадка одной из главных загадок первого трейлера.",
+    "hook": "Та самая девушка в бикини из трейлера GTA 6 — это Мэнди.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-20T11:11:03Z"
+   },
+   "msg_id": 1654
+  },
+  {
+   "id": "fe39fca10e6e",
+   "title": "GTA 6's Relationship System Completely Changes How You Play The Game",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "fe39fca10e6e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "www.svg.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's Relationship System Completely Changes How You Play The Game",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPanhnQkVmbWRLVWhHRXNtbGoxdFV0dnBDdW0yMzFmLVJTTGlzbXluZXY3enZrS21yQkpnLVlwN2prZWdlZ3dTSGtNRFpsNlZaeEhsZ1M4TkYzZ29wQWpPUU5tY0ViMnozeFFvRGhfMlI1Uzd5ZzlPTXhseVpPOUdKOFB3?oc=5",
+     "ts": "2026-11-20T11:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5742ab1799ef",
+   "title": "GTA 6’s most impressive details are the ones you’ll probably miss",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "5742ab1799ef",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Creative Bloq",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6’s most impressive details are the ones you’ll probably miss",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGw4aTFQZk9vTEd0dEZlM3hraFU2Q1FqN1MtRmhxUVhkdzdHUGlNQ2JKc0NoQ0d4aU9XWU13LTRHanZKMWpBS2JDSnBZYktGblFvUXJNOGF2WUQ0MWJxdWwtYTc1OTRjUDZNQ0RVdGNGNmNYYVVuSDY4QVNqbm1wemV0T2lxYy1OQUVZX0FMVFpqYlRLQ2VNdUlETldyemxVN0JGWW1qSlIwSlgzU093WHlXeXNlQQ?oc=5",
+     "ts": "2026-11-20T11:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "83825606ed53",
+   "title": "GTA 6 не обрушила интернет благодаря \"глупым трюкам с DNS\"",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "83825606ed53",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 не обрушила интернет благодаря \"глупым трюкам с DNS\"",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVhEN2FYQk5FalEyamNPNUpEd2dPS2cwVFEwa2JMUHZCb1RPdThjdEdTT2dXOFI4UDZaYWdET1JqNkM3SW1NQXIySzl3LVl6aUVjMHFRbUFVemE3T09TNjBGeGtCRU51MGZlVE5xZWEtSm53czFQQUxNMVdzQ3ZKZ0kyelJCTjE2WkxfSXU2dFBjd21RWVlyX2tB?oc=5",
+     "ts": "2026-11-20T11:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "533833ed1275",
+   "title": "Packers news roundup: Micah Parsons roster spot, Zaire Franklin hint, GTA 6",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "533833ed1275",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Lombardi Ave",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Packers news roundup: Micah Parsons roster spot, Zaire Franklin hint, GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaFJiaUZqbFVNcHBFemFFMXcyVXpuZkhtVWxVVHhtOFROdGNuM0YxZjVXM0NDeGNLYzBhbV91X1dIZjl3emN3RV9BTkxLZi1jbXpBZ0ZsdUVDZGFJZlNDODVPblVtcXBkTzRFLVR5STFYOU9xU3l6RFVGUHNld3NlYXpKN3VsMGRaWmxfdGJlLWZERTlhcFVYaVhwb0E?oc=5",
+     "ts": "2026-11-20T11:00:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0563e776c9f4",
+   "title": "The physical boxed copy of GTA 6 is missing something pretty important",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "0563e776c9f4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MakeUseOf",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The physical boxed copy of GTA 6 is missing something pretty important",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVGlhaDNKeDNYWU5Bb281TGx4NTB0S0hobTZ6eHhzVDJYVm9KX2JreGR4NGRsb29tS1R0M1piVGljMTZ6NUJmWl83WktwNC0xU0kxdFFubmJYNHNzdUh6Z1otcjUtNzFHYWFEZzREX1M0UUU?oc=5",
+     "ts": "2026-11-20T11:00:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "363886d5606e",
+   "title": "В GTA 6 обнаружены новые отсылки к Red Dead Redemption и Артуру Моргану",
+   "first_seen": "2026-11-20T11:10:55Z",
+   "updated": "2026-11-20T11:10:55Z",
+   "items": [
+    {
+     "id": "363886d5606e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В GTA 6 обнаружены новые отсылки к Red Dead Redemption и Артуру Моргану",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYN09FbWhlLU4td05Na0pyUi1PZTNwV09HMHVRYzRjVmVOcHEzNFlkWUNzQkJhVnBJSVg0cC1zaHVSdDZmbEQ1amxpNjRjUWNVZTU3OU5QS1h1YmRZQ2M0NktnNDNaQ0dCa0ZNb0t0Yno?oc=5",
+     "ts": "2026-11-20T11:00:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "17ef105d6e25",
    "title": "Ubisoft drops after Q3 forecast miss as GTA VI looms large over holiday season",
    "first_seen": "2026-11-20T10:50:50Z",
@@ -557,32 +1247,6 @@
    "status": "new"
   },
   {
-   "id": "0cce0d0f1e55",
-   "title": "GTA VI hijacks America",
-   "first_seen": "2026-11-20T10:50:50Z",
-   "updated": "2026-11-20T10:50:50Z",
-   "items": [
-    {
-     "id": "0cce0d0f1e55",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Axios",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI hijacks America",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uMmpYSW1TZXhsV283QXdBaXVJM0tYSjhTbTVMWEZGeWlmRzBwaEI0ZHZ5VHcwdWYwRmhZWkUzNWlCYnFUMVlsYjlwSUROd1ZFb29MRUlDOGtRVFd2T2dPeHlsMHJWd0FDeUxxYTRwZ2hCQQ?oc=5",
-     "ts": "2026-11-20T10:48:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "664b8a1f042c",
    "title": "How to Enable Auto-Drive in GTA 6—Cinematic View, Speed Options, and More",
    "first_seen": "2026-11-20T10:31:06Z",
@@ -631,165 +1295,6 @@
     "at": "2026-11-20T10:31:14Z"
    },
    "msg_id": 1649
-  },
-  {
-   "id": "85c212a8269f",
-   "title": "Игроки GTA 6 научились запускать игру в 60 FPS с DLSS 5 через стриминг с PS5 на ПК",
-   "first_seen": "2026-11-19T13:10:47Z",
-   "updated": "2026-11-20T10:40:50Z",
-   "items": [
-    {
-     "id": "85c212a8269f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Из GTA 6 делают настоящий некст-ген с помощью ПК и DLSS",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0lvVkR5UkJ3SFdCYTlBSXRsSExTVkQzWDY4WXVMTm9fUHZuWWhlUThDSDA3SF9sZEF5a1BfLUFPUDNyTS1JWGtwRHR0Mzc2SUZkVzFZdWJEZ3NVMzhDZ1ZjM0Jqbm9GVU5odFJGWldiUXR3WC00U2thQllZWURWVlQ3dXdQRDZWM2Q0NXZ3OTNtZw?oc=5",
-     "ts": "2026-11-19T13:00:09Z",
-     "summary": ""
-    },
-    {
-     "id": "e88468acb9e4",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "3DNews",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Игроки уже нашли способ запустить GTA VI на ПК с DLSS 5 и генерацией кадров",
-     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9QUVFYdTNCOFRndnpXSUlvTGR1aUt0dGlQcHlaYlUtNWpoLVdxV3RUdURQS3ZIOUpBV21LNEpR0gGqAUFVX3lxTE9tY3BpUk1ibFFQOFY2VGNkdWtCb1p0b3ROTjFLSmYxeW1GbnV0eWxIOTNZTkJmSFk5MmFGb0hpUFRfYTdJVjRac0tselpzOWw4ODlYY2dQMnJoNzFhc3NmVHZJZW8tTFZ3TF9qczNzWEpaVUxNZ191R2daX0VaT1JFTXhVckJSc3FjRHZic2ZydEJkcHhrQURBaElCVEtVMUstUVFTYkNWMVZR?oc=5",
-     "ts": "2026-11-19T17:49:00Z",
-     "summary": ""
-    },
-    {
-     "id": "0ace62d3c117",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Разработчик показал запуск GTA VI на ПК и подвергся критике — игроки ему не верят",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNanpidkhDZ1lfVFU2ZW1VbTBTbkptWXFpbkJQN3FoQjlUU1JIWXhWbUZhNjZIVlNlMlBXNEw5TTZmaUZZdVBKU1ZkVVRmWTJtRTNnWHR1U1VtTFVNUEg3UFYtLW5USGZtSk5DMmNGZTdleGhXa0UxSHNOZmVsd1FpMmN5WWVFMmRMNEEtYU9Da2k1Q09kLUFwN2FqWEllN212RXVMY19UcW02RHpxRGVuTVh5RG50UE93NDVoeHp30gHDAUFVX3lxTFBsWTZoOWxibW1VQ19qd1pkR0V1MFhpc1kwNnZNTGtSX0tMNktKU1poQ3drUXVFNDlERVlfdEIxcGhLNTZBbFBvalVEdGJmMFZGOTVpNnduZ0N1WkJ1eVdPejd5MFVSLWZIMXFtT0tKSjVVaTdhenBjVlQxLU5qODJaNkxRbGplaFFKYjl6TEExTUtMUnFuX0VvemFrQUROVHNjS1NoR3R6dHBWd0YzbVJBRGxSWV9sSldRNnJlZk5fVm1DUQ?oc=5",
-     "ts": "2026-11-19T17:31:00Z",
-     "summary": ""
-    },
-    {
-     "id": "a5679b53af9a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "3DNews",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Игроки уже нашли способ запустить GTA VI на ПК с DLSS 5 и генерацией кадров",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2w0ZFJJdWt0bEhrRm5LdE5Ocm8wUFlmYjZ5YU9OTlAzbWdqZlV2a0NQRjRzeWtSanpwUDNqbTVfam1FSmE4UWJTZDdTaXBmcFlDR3NXcDctV2dhMElwRmFPQjQtaUQ1eEVJZ1pQY1J2Z1BMbnYzUHBhbDIzMTJUT094aDVPenV1Z2FoeUlnWUwxZk5GSzh2Vmsxb3IzdW9adDUwZNIBqgFBVV95cUxPbWNwaVJNYmxRUDhWNlRjZHVrQm9adG90Tk4xS0pmMXltRm51dHlsSDkzWU5CZkhZOTJhRm9IaVBUX2E3SVY0WnNLbHpaczlsODg5WGNnUDJyaDcxYXNzZlR2SWVvLUxWd0xfanMzc1hKWlVMTWdfdUdnWl9FWk9SRU14VXJCUnNxY0R2YnNmcnRCZHB4a0FEQWhJQlRLVTFLLVFRU2JDVjFWUQ?oc=5",
-     "ts": "2026-11-19T17:49:00Z",
-     "summary": ""
-    },
-    {
-     "id": "9bca9acad229",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Код.ру",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI запустили на ПК: энтузиаст показал экспериментальную сборку",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ncXZyTWNGaTY4MnFzemF5aHJydDNoUWhMWlpMRXlpbGNjcGpKaHRmYk5PSWdILWJEUXpiQllrZDZfUlRlQTBxRmQwQmVYMjRF?oc=5",
-     "ts": "2026-11-19T11:06:19Z",
-     "summary": ""
-    },
-    {
-     "id": "bc6a6fc34dd5",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Энтузиасты воспользовались PS5 Remote Play для запуска GTA VI на ПК с DLSS 5",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGlVYjZHUzNDcGtjMzFPVXFUdUVHRGFWakQxYldYdDEzYlNtSmxWSVZvc21vRzdQd0ZzX2xkYTVLc0xITWtFZ1V0SUE1SkRPUzZMUy1TMDZRLUpFMTl4b1NKcGY2NDZYZVp1RTdJWGpZSkdIeVlsMnBZeHNSX3dmeDlGdGRWT19QeDV5emJta0tpOTlETmtVMXJ2WkZJZkUxSUxvcFFHTdIBrAFBVV95cUxNLUhia0haa3c4QnBpYnl3SVpKZXZ6TGRNQ3FjQjh1QldDV2RQX3hjTHF1UUxwOVpidEVQMTVGalFZMzg0TFNpR2laVHBjYXhveE40blZfSU85WFYyWUFoemhEcnY0cnNBeDVaUnp3WDEtbktoV3kxVUlkVjdZTUZ2V2VjSDUxdFdLUTBLZzRCYkdDWURjVmwtVU5rNU0ybGhSekpYR3FTdng3bV85?oc=5",
-     "ts": "2026-11-19T13:10:04Z",
-     "summary": ""
-    },
-    {
-     "id": "ae3f151dd283",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "3DNews",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Игроки уже нашли способ запустить GTA VI на ПК с DLSS 5 и генерацией кадров",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2w0ZFJJdWt0bEhrRm5LdE5Ocm8wUFlmYjZ5YU9OTlAzbWdqZlV2a0NQRjRzeWtSanpwUDNqbTVfam1FSmE4UWJTZDdTaXBmcFlDR3NXcDctV2dhMElwRmFPQjQtaUQ1eEVJZ1pQY1J2Z1BMbnYzUHBhbDIzMTJUT094aDVPenV1Z2FoeUlnWUwxZk5GSzh2Vmsxb3IzdW9adDUwZA?oc=5",
-     "ts": "2026-11-19T17:49:00Z",
-     "summary": ""
-    },
-    {
-     "id": "702efe2c6f49",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Игроки GTA 6 научились запускать игру в 60 FPS с DLSS 5 через стриминг с PS5 на ПК",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVRUeGNkSERPd0wxYjV1WGdBakMwT3Rvc1RhNl8yczhRa1BtbmtLcGJvTWkxNE5CNzJ1V0lYUTB6TFNxZTlxQjVTanZlVHMyTTBlRE90ZXJXNkdjd3FJTXVwdG82a29ha29ja0psY2ZHcXBxT0NVbEJBVC1OMzNZQ3FRakVFRnZVRmdrV2VSVWt2bVN6SGdpeG1feElOS2hQOG9mcGx5bzBPUVM2Q0ZJRFdubE5KVlk?oc=5",
-     "ts": "2026-11-20T06:40:00Z",
-     "summary": ""
-    },
-    {
-     "id": "428e35bb278b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "To run GTA 6 at 60 FPS on PC you will need a processor of the level Ryzen 7 9800X3D",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXNkNGF6Z2c2VmNDaTFqX0NiNG5oMWt5MHJrUzVtRW1mbDBScEZXQTc2b1pFLTA2eGpWWEpfR1d6VXRFaE1VcHBFSjR0bFlxSHM2S3RXOGI4Q2Nmai14X3NkOXVEZXVNRnZGUzNfcnJxMFNRSmo4ZFRQX3JJYmdZT3JKVGdrZnpLR1pXWklZZmtEcUlFMGtya2VGLVRCZWI4dFVSdC1XZDI2aldJZUxyakdtaGxkUzg?oc=5",
-     "ts": "2026-11-20T05:42:11Z",
-     "summary": ""
-    },
-    {
-     "id": "136571ba317a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI на обычном ПК: VK Play запустил аренду консолей через облако",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNblJ6UjNmdUdBME5aTmVGb3lGOFMtYjFJTUN2WjI4UUQtTDh0ZWw5OUJiNTJEckk2bGFPS3lCb2dtNkxqai1HWW01MkU4Y3NreVpNYW02XzNDdi1aRGdFMllmdWhPbmxCZWtVaktQM3g2eUtUM1ZHQ2RObUVDcF9VUEdNZS1GbXpOM1Jvbk9MYks3anVWNTZNSXdVQjVVZnZraTJJOWVoMWZrOTc30gGyAUFVX3lxTE1VczYtV0t4QWtkM1RJVi1POEtVbFo4ZmNKbG9YRUltbnRJdGVRUmtJV3hDNElNZlJBc3BMbzRGc3hZSTZRX3BhaDY3NmlZWl9QdGo1XzhzVlgzWDAyck9rN2hSbkRxOGNJRVNJblVYNGx4R3AtS3o4QlN5WXQ3MzE4LU1SNGxSQ0xpOVB1V05kSnMxSXp1d3hjTE02QlgySnc0a1pLZmpaeVNuUjR4VVlfQ2c?oc=5",
-     "ts": "2026-11-20T07:27:00Z",
-     "summary": ""
-    },
-    {
-     "id": "62ae438bd5d5",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Hardwareluxx Russia",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 на ПК: моддер добился 60 FPS из трансляции с PS5, хакеры заявили об утечке сборки для Xbox",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSlJYbFFKMmJwVTBNNnNnemlHUVFhRGQxc2Noa1BudzZnc2FqOUV3WlNpRXNrakxkTEQxMUswLU5YWG56c25WMmpNNXpEaDVmZ2tMWDJNcFNHT3U4RnZxTlJoQWRINGF2SnJOZ1pyVnB4Tkt6dUtRb1BxNF9QSVRuNl9zVTBlOFd4V3ppY2FyT1h4aENQcWozcTZITlBoU1BGeDVCRTlTaUFFX0FBcjN0QU1xdTZKTGF4b0lHaF9lamtpaVp4RWNpdHhVWlh5RVZmM1ZGR3hraGdXNmMxRHcza0dSeWZfUlRrOG1ucU5lbXFfX0E?oc=5",
-     "ts": "2026-11-20T10:28:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК",
-    "слив"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   },
   {
    "id": "ad7be9e832ce",
@@ -18036,56 +18541,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "170433f82dc1",
-   "title": "GTA 6 Broke the Open World Formula… It’s About Time | GTFM",
-   "first_seen": "2026-11-19T20:10:52Z",
-   "updated": "2026-11-19T20:20:51Z",
-   "items": [
-    {
-     "id": "170433f82dc1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Broke the Open World Formula… It’s About Time | GTFM",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVN3Um5CSXVKbWZPN0tMVW9fdzJURUhEdHM0V2pJMUxOR3RrWTNxVjVBd3lUbC12TWFFS2ozTllvWlRqeHBCcnBvQ2pBNFRJc21vU294Q3Zpc2RYa0dVcDB5QjhudGVKbWcyUkhZSV93RG9IZmdiRmZib3JvTlZPWmY4YnhXOXRMVjc3MVo2YmVPbDQ5NkswRWdqR1U2TkhjeDlHbFV4QQ?oc=5",
-     "ts": "2026-11-19T19:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "2fe470c31fc8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Broke the Open World Formula… It’s About Time | GTFM",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXdaNk5RTkpJeHRuVGpBQURtbEp1RHQwVUhsMWhhVTBoOTlJRWdaUXgxWTFHUzZ6U3ZvVXozcGVxTVptRy1CUmYzN2pTVTVSdWZjbnI3eTE2TmpPb1NlcmJWejdUYW0xb2hFM0s5S19lVld2Ti1aWkdtOXQ0MHU0TF9ncTNacDJtdXZlYzZIYkNfSWlNWE91T3JqMGdja1JvOUxzU0d5Q0pIdmJSMEhoXzNHUnVVZw?oc=5",
-     "ts": "2026-11-19T19:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 сломала формулу открытого мира. Наконец-то!",
-    "summary": "По данным IGN Nordic и IGN Southeast Asia, GTA 6 изменила формулу открытого мира, сделав её более живой и интерактивной. Журналисты отмечают, что мир реагирует на действия игрока, а не просто служит фоном. Это первый большой разбор механик после релиза.",
-    "idea": "Покажем 3–4 быстрых примера, как мир GTA 6 реагирует на игрока, и сравним с GTA 5. Зрителю интересно увидеть, что изменилось в рутине и погонях.",
-    "hook": "GTA 6 сломала формулу открытого мира — и это лучшее, что случилось с серией.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T20:21:01Z"
-   },
-   "msg_id": 1593
   },
   {
    "id": "178cedb2b36b",
@@ -175230,268 +175685,21 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "32c954f991dd",
-   "title": "GTA 6 Release Time: West Coast Players May Start 9 PM Wednesday, Not Midnight Thursday",
-   "first_seen": "2026-11-12T23:40:47Z",
-   "updated": "2026-11-13T11:10:47Z",
-   "items": [
-    {
-     "id": "32c954f991dd",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "WEST COAST RELEASE TIME???",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xusf0p/west_coast_release_time/",
-     "ts": "2026-11-12T23:40:20Z",
-     "summary": "Can someone for the love of god please confirm when GTA will come out west coast time. Is it 9pm on wednesday or midnight??? There is nothing to confirm what the time actually is. submitted by /u/Any-Revenue-8863 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "833626b6f5d6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Tech Times",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Release Time: West Coast Players May Start 9 PM Wednesday, Not Midnight Thursday",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONTZyX2I0Mk5BYkZUU1ZnX3BwWS15WElaWGNTeV9ZOGI2NnJnU2t1bWJuM0NkdEREX3RNOS0zNXVJU3A2TUh4bHVaampoZTBvdU1XakVIUlJvQjRobXBjNVgySGtVYTFGeTBJaVJ5d3VZTUtwajBTUG5vYS1FVVBvTlprMEw1M1dYazhmWkdjTUNEREFaSEZua2VJUXBrWDg1dE5Uc1J4X08zSnhwWnFSb1NkZm5kUnhwMENURlE3NGt3Xy0wbDZqcmlvRVd4QWdPcF80YkVB?oc=5",
-     "ts": "2026-11-13T11:07:52Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "4660d6cd6e94",
-   "title": "Kalshi says it's hiring a 'GTA 6' researcher to study the game's economy",
-   "first_seen": "2026-11-12T18:40:55Z",
-   "updated": "2026-11-13T11:10:47Z",
-   "items": [
-    {
-     "id": "4660d6cd6e94",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable SEA",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Kalshi says it's hiring a 'GTA 6' researcher to study the game's economy",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjAza1FDZHQ2VllydkNrMEQ0Q2hlZmQ3ZWY3Szk1TE5sd1VLSHVWN3NFRFZXMUVvU19ZLTkxUWgtWVEzRlE2MXRUYVFNaDdJMWJNbjhNelp5X2V1UjBrcVhJTjNSOFBrUDZyR3ZDN2FndDNNWHprYnJ1OXhYbjJBaGxuSjM2Nk1OajNkbVlQS19yTnQ0RDZvdHhuNEE3Q3VxdUlxMEs0RQ?oc=5",
-     "ts": "2026-11-12T18:06:36Z",
-     "summary": ""
-    },
-    {
-     "id": "1482d51e643c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Kalshi says it's hiring a 'GTA 6' researcher to study the game's economy",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1RmFTR0VxS3RUWFFHOENGTWQxeUVLZW9nWnJNRF9KMFVkT3YzTnUxa2FEVkdtQ1NtMDhucktOR2VhaXVSZkc5TDFocTNnRnRLZlRVd0ItQ3I1OEVzMnhQYU1yMmgtbndtNWNfR0lpcERUaEZLSHh4LUZn?oc=5",
-     "ts": "2026-11-12T19:34:37Z",
-     "summary": ""
-    },
-    {
-     "id": "ab56ef890a9c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Finance",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Kalshi is hiring a 'GTA VI Researcher' to livestream the game and study its economy",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQlR4S2QtZUc5QUlLSkxRb0lVWUVsWEw2OXBiMVE1SHkxUWV6Y1M0d1RRa2REdlRXWF9HRHlfM1RvTHRyR2hLZ2VlNVliMlgxX1VIOEJrQlY2VEtsdGxRZ3pYTkdxdnlXVHRKLXJlLVhaSEV6V0lGVUY5S2VmN01nQkVjMlV3OUppMzlXTkZERU82WW9weGQ2OWRMVFlkT1VXSFk1cGxWRk40LXJqQUQzRk14eFFYVm5UMWdoQlF4aV9VeUdpaW1LUUxQWGVKXzROWVc1WThXM2o?oc=5",
-     "ts": "2026-11-13T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Биржа Kalshi нанимает исследователя экономики GTA 6",
-    "summary": "Биржа предсказаний Kalshi ищет исследователя для изучения экономики GTA 6, следует из вакансии. Компания хочет проанализировать внутриигровые рынки и их связь с реальными ожиданиями, пишет Mashable.",
-    "idea": "Сравним экономику GTA 6 с реальными прогнозами биржи Kalshi — где игроки заработают больше. Зрителю интересно, как внутриигровые деньги соотносятся с реальными ставками.",
-    "hook": "Биржа Kalshi нанимает аналитика по экономике GTA 6 — зачем это им?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-12T19:51:25Z"
-   },
-   "msg_id": 871
-  },
-  {
-   "id": "45ba5d7b2bb5",
-   "title": "GTA 6 sales numbers: First year projection revealed, and it's massive",
-   "first_seen": "2026-11-13T11:10:47Z",
-   "updated": "2026-11-13T11:10:47Z",
-   "items": [
-    {
-     "id": "45ba5d7b2bb5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Radio Times",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 sales numbers: First year projection revealed, and it's massive",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pcndQeDJ0MHI1czl0NnJ2NkRhS0NtWHlDSWF4bDNVaDUyOW5tQUpSQ0Z0UUJodDhaNXcyNDBUa0lLTjJGTDBkQVdHOV9vaGxnQ2JPNVplazJ1T3pVTGZkV3NUbXAwV0s0VkxKWFFtRlZDTWs?oc=5",
-     "ts": "2026-11-13T11:01:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6: прогноз продаж за первый год — цифры поражают",
-    "summary": "По данным Radio Times, прогноз продаж GTA 6 за первый год после релиза — огромный. Издание приводит оценку, не раскрывая методику подсчёта. Официально Rockstar эти цифры не подтверждала.",
-    "idea": "Считаем, сколько копий GTA 6 могут купить за год, и переводим в «полные Вайс-Сити». Зрителю интересно увидеть масштаб в понятных сравнениях.",
-    "hook": "Сколько людей купят GTA 6 за первый год? Считаем в Вайс-Сити.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-13T11:10:56Z"
-   },
-   "msg_id": 893
-  },
-  {
-   "id": "39cf1846ef37",
-   "title": "It doesn’t feel real..",
-   "first_seen": "2026-11-13T11:10:47Z",
-   "updated": "2026-11-13T11:10:47Z",
-   "items": [
-    {
-     "id": "39cf1846ef37",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "It doesn’t feel real..",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xv4ye9/it_doesnt_feel_real/",
-     "ts": "2026-11-13T11:01:14Z",
-     "summary": "We’ve waited so long and now we are finally here. Stay safe out there, everyone! Only 6 days to go… submitted by /u/T-Rix88 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3b6b4be82130",
-   "title": "GTA 6 boss says physical discs will be the vinyl records of gaming eventually",
-   "first_seen": "2026-11-13T11:10:47Z",
-   "updated": "2026-11-13T11:10:47Z",
-   "items": [
-    {
-     "id": "3b6b4be82130",
-     "src": "dexerto_gta",
-     "src_name": "Dexerto GTA",
-     "outlet": "",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "GTA 6 boss says physical discs will be the vinyl records of gaming eventually",
-     "url": "https://www.dexerto.com/gta/gta-6-boss-says-physical-discs-will-be-the-vinyl-records-of-gaming-eventually-3427979/",
-     "ts": "2026-11-13T11:01:55Z",
-     "summary": "Take-Two boss Strauss Zelnick says physical games could become the video game equivalent of vinyl records, even as GTA 6 prepares to launch without a disc."
-    }
-   ],
-   "tags": [
-    "Take-Two"
-   ],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Босс Take-Two: диски игр станут как виниловые пластинки",
-    "summary": "Глава Take-Two Штраус Зельник заявил, что физические копии игр со временем станут как виниловые пластинки. При этом GTA 6 готовится к запуску без диска.",
-    "idea": "Сравнение физических игр с винилом: почему GTA 6 выходит без диска и что это значит для игроков.",
-    "hook": "Босс Take-Two сравнил диски игр с виниловыми пластинками. Вот что это значит.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-13T11:10:52Z"
-   },
-   "msg_id": 892
-  },
-  {
-   "id": "4bd19db1fd8b",
-   "title": "GTA VI — оформляем предзаказ!",
-   "first_seen": "2026-11-13T11:10:47Z",
-   "updated": "2026-11-13T11:10:47Z",
-   "items": [
-    {
-     "id": "4bd19db1fd8b",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA VI — оформляем предзаказ!",
-     "url": "https://t.me/GTAVIStar/887",
-     "ts": "2026-11-13T11:02:36Z",
-     "summary": "🔥 GTA VI — оформляем предзаказ! 🔥 Самая ожидаемая игра десятилетия выходит 19 ноября на PS5. Оформите заказ заранее и начните играть в первый же день. Standard — 4990 ₽ Ultimate — 6590 ₽ ✅ Оформим быстро и надёжно ✅ Поможем, если что-то непонятно ✅ Поддержка на всех этапах 📩 Для заказов: t.me/pspluslife #Реклама"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Предзаказ GTA 6: цены и издания — что предлагают",
-    "summary": "По информации канала TG @GTAVIStar, открыт предзаказ GTA 6 на PS5. Standard стоит 4990 ₽, Ultimate — 6590 ₽, обещают помощь с оформлением и поддержку.",
-    "idea": "Сравнение изданий GTA 6 за 4990 и 6590 ₽: что входит и стоит ли переплачивать. Зрителю важно понять разницу перед оплатой.",
-    "hook": "Предзаказ GTA 6 открыт: Standard 4990 ₽, Ultimate 6590 ₽ — что берём?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-13T11:10:59Z"
-   },
-   "msg_id": 894
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-20T11:01:25Z",
+  "last_run": "2026-11-20T11:11:04Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 98/100",
-   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
+   "gnews_ru: 96/100",
    "gamesbeat: 3/10",
    "vgc: 7/10",
    "insider_gaming: 7/10",
    "ign: 4/20",
    "eurogamer: 25/100",
-   "dexerto_gta: 14/50",
+   "dexerto_gta: 13/50",
    "rockstarintel: 10/10",
    "gtaboom: 28/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
