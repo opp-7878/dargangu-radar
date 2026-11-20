@@ -1,6 +1,86 @@
 {
  "stories": [
   {
+   "id": "595ac76bab78",
+   "title": "GTA 6 Stars Dylan Rourke and Manni L. Perez Share Gratitude and Insights After Launch",
+   "first_seen": "2026-11-20T07:20:48Z",
+   "updated": "2026-11-20T07:20:48Z",
+   "items": [
+    {
+     "id": "595ac76bab78",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Stars Dylan Rourke and Manni L. Perez Share Gratitude and Insights After Launch",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2VvUEVSX1NTOGZVOFpGa0NGdlVjcmdYemNheFE5XzNRR1dqM1BSemJGVVJidVM5ZjBfVkFtOW1POG1TZ1pmVG82U0c1YlZPUzQ4Mk1WZHVBdUN1UnNVSUNrRjgwTmJ0WE9xUHR2WU92TGJkeEZRbC1PNE9BbUc1alJYcXE?oc=5",
+     "ts": "2026-11-20T03:44:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "793c3fb71e29",
+   "title": "Более 2,6 млн владельцев Xbox сменили регион на Новую Зеландию, чтобы играть в GTA VI",
+   "first_seen": "2026-11-20T07:20:48Z",
+   "updated": "2026-11-20T07:20:48Z",
+   "items": [
+    {
+     "id": "793c3fb71e29",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Более 2,6 млн владельцев Xbox сменили регион на Новую Зеландию, чтобы играть в GTA VI",
+     "url": "https://t.me/GTAVIStar/974",
+     "ts": "2026-11-20T07:16:00Z",
+     "summary": "Более 2,6 млн владельцев Xbox сменили регион на Новую Зеландию, чтобы играть в GTA VI • Аналитики Ampere Analysis подсчитали, что минимум 2,6 млн пользователей Xbox воспользовались возможностью сменить регион и раньше времени отправиться в Вайс-Сити. Больше всего таких игроков оказалось в США — около 1,5 млн. Ещё 600 тысяч пришлось на Великобританию. • Причина проста: GTA VI запускалась по регионам, и Новая Зеландия получила доступ к игре первой. Поскольку Xbox не ограничивает смену региона и часового пояса, игроки массово воспользовались этой возможностью. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "eef1f648f0b5",
+   "title": "Хакеры слили актуальную версию GTA 6 в Сеть — для порта на ПК",
+   "first_seen": "2026-11-20T07:20:48Z",
+   "updated": "2026-11-20T07:20:48Z",
+   "items": [
+    {
+     "id": "eef1f648f0b5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Чемпионат",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Хакеры слили актуальную версию GTA 6 в Сеть — для порта на ПК",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZS1vMVEyelJmNUx4VWFteU5vRHM1ZTF3X3dHZ05CSm16UW1ncGdtRGVvUEhYaWNjZkxicDdOdGJ4cHZ4bnUxOUk4aGNzY1p4YTh4VmFiMFVuNWVBcTJnTnp2Wl9ZaEtmTlhUanhZQUtZN2Z4VllHRU5fbk1UdHhEcGtaRjZqOUROQ3Q2U05STm9meU1ubk15dXY1UWFQUlk4b1c4VFZveWRHRXZRSDJNRVRyTnhWZw?oc=5",
+     "ts": "2026-11-20T07:18:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "72efa4be4866",
    "title": "Cyberleek GTA 6 Xbox Build: 209 GB, No Executable",
    "first_seen": "2026-11-19T22:31:04Z",
@@ -173612,7 +173692,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-20T07:11:01Z",
+  "last_run": "2026-11-20T07:20:48Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 99/100",
