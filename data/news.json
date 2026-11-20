@@ -1,6 +1,240 @@
 {
  "stories": [
   {
+   "id": "32cf99eb9d9a",
+   "title": "The world is experiencing ‘GTA VI’ together — players and spectators alike",
+   "first_seen": "2026-11-19T23:20:52Z",
+   "updated": "2026-11-20T00:30:57Z",
+   "items": [
+    {
+     "id": "32cf99eb9d9a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CNN",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The world is experiencing ‘GTA VI’ together — players and spectators alike",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYWRkUFhaZ2V2czUyX0ZyZFJ0RHJlWWdMR1d4bXppX0Jmcjc4MEZ0QV9icTNqM3JOdkszdTZHcVE1My1YRWlGbHoxR3lzYXlMRzJzbVJzSVUwc0N6ems5a2Y1bEJBUjdJZ3VEZXA5elNZOWhWMUl4aGlFQjNHT3l6dUtzVWd4djNOWkRzOTZvZw?oc=5",
+     "ts": "2026-11-19T23:17:46Z",
+     "summary": ""
+    },
+    {
+     "id": "8b0b94af5cb3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "news8000.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The world is experiencing ‘GTA VI’ together — players and spectators alike",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUURMajRnU0s0TEFNWGt3Z2E0eUpUcjd0MEgxOFVsb2RSRVU4NGI0cGZFZC1nSUtyekdmX19YdHhyTm51RTl4Q0FzM0JsdzdMSWhaZXRyaUl6b2hjWC1LbXNHbUllM0l2OEctejVFMmR2dmJlNVdlVmp5d3dicjJKVjlDaEZXVTVzdUc2dTkxbG16RU9FWW5OOU1ldGV1MlA0bDhKVkI1b2l2NTNWRXFGcG54dF9HMC1ZbGVfUDJvSWZRWVZmOXRMckhycG1aVTQtNElfdkVFbUJ0ZmhKcEdsUWpIT3JNS2JUa1c1ajRHc3dvWEk?oc=5",
+     "ts": "2026-11-19T23:17:46Z",
+     "summary": ""
+    },
+    {
+     "id": "5a7b92220887",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KRDO",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The world is experiencing ‘GTA VI’ together — players and spectators alike",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjc1VmlSQ2pwTERfdTZKNjVZcEhuLWpYTkl0bndHWTN0RS0xSjdRbkNRczQ3UUhYOUk0aFhNVUFLYmcxWjBpcklMUUdqYm02Wm9oUTgxb1RzelBNUDlDd2dad3c3VXdxcHJNWWRVZ3JZa2dMeHFkV1pVVk51ODZMZzJ6MEtWaEpNSUtOVUVOUVJ6MDNwT21XVENkdlJpUmRqVmVOUVRtZw?oc=5",
+     "ts": "2026-11-20T00:20:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru",
+   "ai": {
+    "title_ru": "GTA 6 вышла: весь мир играет и смотрит одновременно",
+    "summary": "GTA 6 официально вышла 19 ноября 2026 на PS5 и Xbox Series X|S, сообщает CNN и региональные издания. Игроки и зрители одновременно смотрят стримы, заполняя соцсети и тренды. Предзагрузка стартовала 12 ноября, релиз прошёл без переносов.",
+    "idea": "Угол: «мир одновременно играет и смотрит» — нарезка глобальных реакций и экранов. Зрителю интересно увидеть масштаб запуска и сравнить со своим опытом.",
+    "hook": "GTA 6 вышла вчера — и весь мир нажал Play одновременно.",
+    "stars": 5,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-20T00:31:03Z"
+   },
+   "msg_id": 1624
+  },
+  {
+   "id": "ad7be9e832ce",
+   "title": "How 'Grand Theft Auto VI' is changing gaming and Miami",
+   "first_seen": "2026-11-19T17:10:17Z",
+   "updated": "2026-11-20T00:30:57Z",
+   "items": [
+    {
+     "id": "ad7be9e832ce",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WBUR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How 'Grand Theft Auto VI' is changing gaming and Miami",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNRTdNNnNDSUJzS1I3VW5TWDFrczlHVHNxeS1FVDh0cENoN1Vhd3NPTFpDLTlsSnJtMkZlVF9Lc3JWQmpFaGRtTXptZGZYVHdYeE13MmR4WllqN2tnTkk3SzAtZFpwUGMtVTVUYVQ3dw?oc=5",
+     "ts": "2026-11-19T16:59:27Z",
+     "summary": ""
+    },
+    {
+     "id": "459d493e18b4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "nwitimes.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GAMING-GTA VI/MIAMI-LAUNCH",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aOUJhNFQ3czF5VXVLdHQyaDRIUlNCV2R4Qkg3WGppdXU5RlRoZ0hoOGdPVi1RRXptSktTS1kydnVRWVpSZWs2SU5HODBYZW5lUzVQMG1jQjFxdU1QX09Ed29RRTZwaW1VLWFDSy1iUFJNR3EweEdJ?oc=5",
+     "ts": "2026-11-19T18:23:15Z",
+     "summary": ""
+    },
+    {
+     "id": "79f6c444670d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "nwitimes.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GAMING-GTA VI/MIAMI-LAUNCH",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HcFpzckhIai1Sa3dxWTlRVlhqS1JkNTZsMXJ1VnQtU0dXUEpCek1DVzFmZ2gwd2dNQzhZalptN0hfRlFCa3IyR0ZySWtDUU0wWmZ5alNqS2JnUUZic20zcGcxR0JKMjVmSEd6djliQkIxcERaQkhz?oc=5",
+     "ts": "2026-11-19T18:23:16Z",
+     "summary": ""
+    },
+    {
+     "id": "592172d77ad9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WGLT",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How 'Grand Theft Auto VI' is changing gaming and Miami",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEFJV1NVdEt6di1SZHNheEt0NG5VdVdLM1QyeUkzLXBKbU1memxrTUVMM000ekJIbEtNZEFqQ2ZLb19jX0lnZVQ2OFBTM2M3UTQxUERCX09ZTlRoQzM4NWYzbnNFTlY2ZUZRbVl0eF9LM2szb0dIbTl5NzdfODdhRlFUNlVHWldRNVA0VA?oc=5",
+     "ts": "2026-11-19T21:33:31Z",
+     "summary": ""
+    },
+    {
+     "id": "d18d6d287305",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WCBU Peoria",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How 'Grand Theft Auto VI' is changing gaming and Miami",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdDVyYi1sdjlaYzhjNk0xeURISjgtWDJWS2dtblZWRUxwRWg2YngtS3hOMzVPYXB5RmhkNDJuQWxndGxRZVFRdHVXcW9IM0FEQWtIRVRpN3pZcHg0N1N2NHM4T2VwSE1iZnM3LUhnNTcyUVJEUkpkcXZsbF92R2R1RnZDU2xCcGViaTM5dw?oc=5",
+     "ts": "2026-11-20T00:29:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 74,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "e65a234ffb78",
+   "title": "3 Common Problems With GTA 6 On PS5 (And How To Fix Them)",
+   "first_seen": "2026-11-20T00:30:57Z",
+   "updated": "2026-11-20T00:30:57Z",
+   "items": [
+    {
+     "id": "e65a234ffb78",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BGR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "3 Common Problems With GTA 6 On PS5 (And How To Fix Them)",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00QjFXVndaRWtnY29hZFZ0ZWZ2M1FlNnlscHFjd3JYaEtNal9CMHZEYjJnbFFPUlc0R1V5QWp3TXNSVk5KV21ERU5sU21UZmxyVFN4UE9lUWpqd3A1TGZ0OHZ4WXJKeW9rY1pQS0FnSkpnQQ?oc=5",
+     "ts": "2026-11-19T23:34:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6e84e942dded",
+   "title": "The 'GTA VI' launch goes beyond a billion dollars, and beyond just gaming",
+   "first_seen": "2026-11-20T00:30:57Z",
+   "updated": "2026-11-20T00:30:57Z",
+   "items": [
+    {
+     "id": "6e84e942dded",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "LEX 18 News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The 'GTA VI' launch goes beyond a billion dollars, and beyond just gaming",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjFNYnlzdGlRZ0hwOFRiZGI0Z05UQi1aSXJfZlJtNXo1bXVoVzZIRXFTNE9yTEtKRVF4WmhtWDcyOHNESGloZnBnMTNHWW5ob3J4dXE3eU1ld25Hd1VuOTEzYkFLRXZiSEdlQ1ljQ29QZTZQdS1VZ0tlRVZlZXBoazFDTktEa0p5MmpnMlB0N0pVWEhWazVWTFBRaDZBZml4dkhxcm40STNhdw?oc=5",
+     "ts": "2026-11-19T23:39:09Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "dfdb8cfa250e",
+   "title": "GTA 6 Has Police Departments Across America Begging People Not to Commit Crimes IRL",
+   "first_seen": "2026-11-20T00:30:57Z",
+   "updated": "2026-11-20T00:30:57Z",
+   "items": [
+    {
+     "id": "dfdb8cfa250e",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Has Police Departments Across America Begging People Not to Commit Crimes IRL",
+     "url": "https://www.ign.com/articles/gta-6-has-police-departments-across-america-begging-people-not-to-commit-crimes-irl",
+     "ts": "2026-11-19T23:55:01Z",
+     "summary": "GTA 6's popularity has led to police departments around the United States pleading with citizens to not commit real crimes."
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Полиция США просит не повторять GTA 6 в жизни",
+    "summary": "По данным IGN, полиция США просит граждан не повторять преступления из GTA 6 в реальной жизни из-за популярности игры. Официально Rockstar это не комментировала.",
+    "idea": "Угол: «GTA 6 настолько реалистична, что полиция США просит не повторять её в жизни». Зрителю интересно, потому что это забавный и неожиданный эффект игры на реальный мир.",
+    "hook": "Полиция США официально просит игроков GTA 6 не повторять это в жизни.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-20T00:31:00Z"
+   },
+   "msg_id": 1623
+  },
+  {
    "id": "e6b3aebfb673",
    "title": "‘See y’all in Leonida’: Jason’s actor finally confirms he’s in GTA 6",
    "first_seen": "2026-11-19T13:40:51Z",
@@ -734,47 +968,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "32cf99eb9d9a",
-   "title": "The world is experiencing ‘GTA VI’ together — players and spectators alike",
-   "first_seen": "2026-11-19T23:20:52Z",
-   "updated": "2026-11-20T00:01:12Z",
-   "items": [
-    {
-     "id": "32cf99eb9d9a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "CNN",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The world is experiencing ‘GTA VI’ together — players and spectators alike",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYWRkUFhaZ2V2czUyX0ZyZFJ0RHJlWWdMR1d4bXppX0Jmcjc4MEZ0QV9icTNqM3JOdkszdTZHcVE1My1YRWlGbHoxR3lzYXlMRzJzbVJzSVUwc0N6ems5a2Y1bEJBUjdJZ3VEZXA5elNZOWhWMUl4aGlFQjNHT3l6dUtzVWd4djNOWkRzOTZvZw?oc=5",
-     "ts": "2026-11-19T23:17:46Z",
-     "summary": ""
-    },
-    {
-     "id": "8b0b94af5cb3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "news8000.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The world is experiencing ‘GTA VI’ together — players and spectators alike",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUURMajRnU0s0TEFNWGt3Z2E0eUpUcjd0MEgxOFVsb2RSRVU4NGI0cGZFZC1nSUtyekdmX19YdHhyTm51RTl4Q0FzM0JsdzdMSWhaZXRyaUl6b2hjWC1LbXNHbUllM0l2OEctejVFMmR2dmJlNVdlVmp5d3dicjJKVjlDaEZXVTVzdUc2dTkxbG16RU9FWW5OOU1ldGV1MlA0bDhKVkI1b2l2NTNWRXFGcG54dF9HMC1ZbGVfUDJvSWZRWVZmOXRMckhycG1aVTQtNElfdkVFbUJ0ZmhKcEdsUWpIT3JNS2JUa1c1ajRHc3dvWEk?oc=5",
-     "ts": "2026-11-19T23:17:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
   },
   {
    "id": "289354d1e60a",
@@ -5701,73 +5894,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ad7be9e832ce",
-   "title": "How 'Grand Theft Auto VI' is changing gaming and Miami",
-   "first_seen": "2026-11-19T17:10:17Z",
-   "updated": "2026-11-19T21:40:54Z",
-   "items": [
-    {
-     "id": "ad7be9e832ce",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WBUR",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How 'Grand Theft Auto VI' is changing gaming and Miami",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNRTdNNnNDSUJzS1I3VW5TWDFrczlHVHNxeS1FVDh0cENoN1Vhd3NPTFpDLTlsSnJtMkZlVF9Lc3JWQmpFaGRtTXptZGZYVHdYeE13MmR4WllqN2tnTkk3SzAtZFpwUGMtVTVUYVQ3dw?oc=5",
-     "ts": "2026-11-19T16:59:27Z",
-     "summary": ""
-    },
-    {
-     "id": "459d493e18b4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "nwitimes.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GAMING-GTA VI/MIAMI-LAUNCH",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aOUJhNFQ3czF5VXVLdHQyaDRIUlNCV2R4Qkg3WGppdXU5RlRoZ0hoOGdPVi1RRXptSktTS1kydnVRWVpSZWs2SU5HODBYZW5lUzVQMG1jQjFxdU1QX09Ed29RRTZwaW1VLWFDSy1iUFJNR3EweEdJ?oc=5",
-     "ts": "2026-11-19T18:23:15Z",
-     "summary": ""
-    },
-    {
-     "id": "79f6c444670d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "nwitimes.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GAMING-GTA VI/MIAMI-LAUNCH",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HcFpzckhIai1Sa3dxWTlRVlhqS1JkNTZsMXJ1VnQtU0dXUEpCek1DVzFmZ2gwd2dNQzhZalptN0hfRlFCa3IyR0ZySWtDUU0wWmZ5alNqS2JnUUZic20zcGcxR0JKMjVmSEd6djliQkIxcERaQkhz?oc=5",
-     "ts": "2026-11-19T18:23:16Z",
-     "summary": ""
-    },
-    {
-     "id": "592172d77ad9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WGLT",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How 'Grand Theft Auto VI' is changing gaming and Miami",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEFJV1NVdEt6di1SZHNheEt0NG5VdVdLM1QyeUkzLXBKbU1memxrTUVMM000ekJIbEtNZEFqQ2ZLb19jX0lnZVQ2OFBTM2M3UTQxUERCX09ZTlRoQzM4NWYzbnNFTlY2ZUZRbVl0eF9LM2szb0dIbTl5NzdfODdhRlFUNlVHWldRNVA0VA?oc=5",
-     "ts": "2026-11-19T21:33:31Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
   },
   {
    "id": "3e14eff45f10",
@@ -172958,15 +173084,15 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-20T00:20:49Z",
+  "last_run": "2026-11-20T00:31:03Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/3",
    "gnews_en: 99/100",
    "gnews_ru: 99/100",
    "gamesbeat: 4/10",
    "vgc: 6/10",
    "insider_gaming: 5/10",
-   "ign: 7/20",
+   "ign: 4/20",
    "eurogamer: 25/100",
    "dexerto_gta: 10/50",
    "rockstarintel: 10/10",
