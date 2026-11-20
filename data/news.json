@@ -1,6 +1,95 @@
 {
  "stories": [
   {
+   "id": "0fa41dd6ce04",
+   "title": "☄️ СПОЙЛЕР: в GTA VI появляется НИКО БЕЛИК из GTA IV — он предстаёт как босс мафии, который даёт задание на ограбление Фанаты в комментариях к геймплейному роли",
+   "first_seen": "2026-11-20T08:01:13Z",
+   "updated": "2026-11-20T10:01:35Z",
+   "items": [
+    {
+     "id": "0fa41dd6ce04",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "☄️ СПОЙЛЕР: в GTA VI появляется НИКО БЕЛИК из GTA IV — он предстаёт как босс мафии, который даёт задание на ограбление Фанаты в комментариях к геймплейному роли",
+     "url": "https://t.me/gta6deluxe/2266",
+     "ts": "2026-11-20T07:51:36Z",
+     "summary": "☄️ СПОЙЛЕР: в GTA VI появляется НИКО БЕЛИК из GTA IV — он предстаёт как босс мафии, который даёт задание на ограбление Фанаты в комментариях к геймплейному ролику в ЛЮТОМ ВОСТОРГЕ. Многие признаются, что при появлении музыки из GTA IV у них буквально пошли мурашки по телу Фанаты игры 2008 года — только в обморок не падайте 😱 😀 Подписаться | Наш чат 😀"
+    },
+    {
+     "id": "a55d230c0455",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "☄️ СПОЙЛЕР: в GTA VI появляется НИКО БЕЛИК из GTA IV — он предстаёт как босс мафии, который даёт задание на ограбление Фанаты в комментариях к геймплейному роли",
+     "url": "https://t.me/gta6deluxe/2276",
+     "ts": "2026-11-20T10:00:38Z",
+     "summary": "☄️ СПОЙЛЕР: в GTA VI появляется НИКО БЕЛИК из GTA IV — он предстаёт как босс мафии, который даёт задание на ограбление Фанаты в комментариях к геймплейному ролику в ЛЮТОМ ВОСТОРГЕ. Многие признаются, что при появлении музыки из GTA IV у них буквально пошли…"
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Нико Белик в GTA 6? Фанаты в шоке от спойлера",
+    "summary": "По сообщению TG @gta6deluxe, в GTA 6 якобы появляется Нико Белик из GTA IV как босс мафии, дающий задание на ограбление. Фанаты в комментариях к геймплейному ролику в восторге и отмечают мурашки от музыки из GTA IV.",
+    "idea": "Короткая нарезка реакции на «камео» Нико: лицо героя, затем чат с мурашками — почему фанаты GTA IV так заведены и стоит ли верить слуху.",
+    "hook": "Нико Белик в GTA 6? Вот что показали в геймплейном ролике — фанаты в шоке.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-20T08:01:19Z"
+   },
+   "msg_id": 1633
+  },
+  {
+   "id": "4d3e7cdb388e",
+   "title": "\"You broke my heart\" - popular artist Doja Cat gutted to not have her music in Grand Theft Auto 6",
+   "first_seen": "2026-11-20T10:01:35Z",
+   "updated": "2026-11-20T10:01:35Z",
+   "items": [
+    {
+     "id": "4d3e7cdb388e",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "\"You broke my heart\" - popular artist Doja Cat gutted to not have her music in Grand Theft Auto 6",
+     "url": "https://www.eurogamer.net/grand-theft-auto-6-doja-cat-gutted-not-in-soundtrack",
+     "ts": "2026-11-20T09:58:10Z",
+     "summary": "As countless people flock to Grand Theft Auto 6 following its launch earlier this week, a common highlight gamers have been highlighting are the many radio stations present in the game. While packed with songs, one artist has expressed her frustration with not being included among the list of featured artists. Read more"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Doja Cat обиделась: её нет в радио GTA 6",
+    "summary": "После релиза GTA 6 игроки хвалят радиостанции игры, но певица Doja Cat расстроена, что её треков там нет. Об этом пишет Eurogamer.",
+    "idea": "Короткая нарезка любимых радиостанций GTA 6 с реакцией на твит Doja Cat — зрителям будет интересно, какие треки могли бы попасть в игру.",
+    "hook": "Doja Cat обиделась на Rockstar — её треков нет в радио GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-20T10:01:40Z"
+   },
+   "msg_id": 1645
+  },
+  {
    "id": "c1f915caf9ef",
    "title": "Grand Theft Auto VI preorders hit 19M before launch, with PS5 outselling Xbox 3-1",
    "first_seen": "2026-11-19T12:40:53Z",
@@ -3544,45 +3633,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "0fa41dd6ce04",
-   "title": "☄️ СПОЙЛЕР: в GTA VI появляется НИКО БЕЛИК из GTA IV — он предстаёт как босс мафии, который даёт задание на ограбление Фанаты в комментариях к геймплейному роли",
-   "first_seen": "2026-11-20T08:01:13Z",
-   "updated": "2026-11-20T08:01:13Z",
-   "items": [
-    {
-     "id": "0fa41dd6ce04",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "☄️ СПОЙЛЕР: в GTA VI появляется НИКО БЕЛИК из GTA IV — он предстаёт как босс мафии, который даёт задание на ограбление Фанаты в комментариях к геймплейному роли",
-     "url": "https://t.me/gta6deluxe/2266",
-     "ts": "2026-11-20T07:51:36Z",
-     "summary": "☄️ СПОЙЛЕР: в GTA VI появляется НИКО БЕЛИК из GTA IV — он предстаёт как босс мафии, который даёт задание на ограбление Фанаты в комментариях к геймплейному ролику в ЛЮТОМ ВОСТОРГЕ. Многие признаются, что при появлении музыки из GTA IV у них буквально пошли мурашки по телу Фанаты игры 2008 года — только в обморок не падайте 😱 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [
-    "геймплей"
-   ],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Нико Белик в GTA 6? Фанаты в шоке от спойлера",
-    "summary": "По сообщению TG @gta6deluxe, в GTA 6 якобы появляется Нико Белик из GTA IV как босс мафии, дающий задание на ограбление. Фанаты в комментариях к геймплейному ролику в восторге и отмечают мурашки от музыки из GTA IV.",
-    "idea": "Короткая нарезка реакции на «камео» Нико: лицо героя, затем чат с мурашками — почему фанаты GTA IV так заведены и стоит ли верить слуху.",
-    "hook": "Нико Белик в GTA 6? Вот что показали в геймплейном ролике — фанаты в шоке.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-20T08:01:19Z"
-   },
-   "msg_id": 1633
   },
   {
    "id": "789e4defcee7",
@@ -174950,208 +175000,22 @@
     "at": "2026-11-13T10:11:07Z"
    },
    "msg_id": 890
-  },
-  {
-   "id": "2a60c521f714",
-   "title": "What are you playing before jumping into GTA VI?",
-   "first_seen": "2026-11-13T10:01:24Z",
-   "updated": "2026-11-13T10:01:24Z",
-   "items": [
-    {
-     "id": "2a60c521f714",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What are you playing before jumping into GTA VI?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xv3t1q/what_are_you_playing_before_jumping_into_gta_vi/",
-     "ts": "2026-11-13T09:51:26Z",
-     "summary": "Everyone’s talking about how many days they’ve taken off for GTA VI, while I’m just gonna put my unopened copy aside and wait for the patches to roll out. In the meantime, I’ll finish a few other games and probably fire it up around Christmas. Maybe by then we’ll even have a 40 or 60 FPS mode (though that would just be the icing on the cake). I'm actually playing GTA V for the first time right now. I've loved every GTA game I've played so far, so I'm really curious to see what GTA VI has ! What are you playing before jumping into GTA VI? submitted by /u/bandix34x to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3ef70dba4d3f",
-   "title": "I've only played Vice City & San Andreas",
-   "first_seen": "2026-11-13T10:01:24Z",
-   "updated": "2026-11-13T10:01:24Z",
-   "items": [
-    {
-     "id": "3ef70dba4d3f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I've only played Vice City & San Andreas",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xv3w5k/ive_only_played_vice_city_san_andreas/",
-     "ts": "2026-11-13T09:56:54Z",
-     "summary": "About to play my third GTA on the 19th after all these years. Played Vice City on my uncle's old pc back in the day and it built the love I have for video games. Played San Andreas on PS2, didn't really like it as much as Vice City but it had its moments. I've had all consoles and I know I'm going to get some fans mad but I wasn't really interested in 5 and I haven't played it to this day, both the story and online. Didn't play 4 as well but I'm about to jump back to the GTA universe in 5 days. Tommy Vercetti is still and will always be my fav game character, RIP Ray Liotta🙏🏽 submitted by /u/G"
-    }
-   ],
-   "tags": [
-    "Online",
-    "ПК"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ae2b0b63e70e",
-   "title": "До релиза GTA VI осталось 5 дней Готовы уже?",
-   "first_seen": "2026-11-13T10:01:24Z",
-   "updated": "2026-11-13T10:01:24Z",
-   "items": [
-    {
-     "id": "ae2b0b63e70e",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "До релиза GTA VI осталось 5 дней Готовы уже?",
-     "url": "https://t.me/GTAVIStar/886",
-     "ts": "2026-11-13T09:58:25Z",
-     "summary": "До релиза GTA VI осталось 5 дней Готовы уже? ❤️ — взял отпуск под это дело 🔥 — больничный спасает 🙏 — спасибо, что я ещё учусь 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "323c0834e73d",
-   "title": "😞 Бедолага: чел решил провести стрим и вы#бнуться тем, что купил GTA VI, но у него УГНАЛИ ключ Во время трансляции он случайно показал цифровой код активации в ",
-   "first_seen": "2026-11-13T09:51:17Z",
-   "updated": "2026-11-13T09:51:17Z",
-   "items": [
-    {
-     "id": "323c0834e73d",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "😞 Бедолага: чел решил провести стрим и вы#бнуться тем, что купил GTA VI, но у него УГНАЛИ ключ Во время трансляции он случайно показал цифровой код активации в ",
-     "url": "https://t.me/gta6deluxe/2044",
-     "ts": "2026-11-13T09:50:53Z",
-     "summary": "😞 Бедолага: чел решил провести стрим и вы#бнуться тем, что купил GTA VI, но у него УГНАЛИ ключ Во время трансляции он случайно показал цифровой код активации в камеру и в итоге один из зрителей обогнал его, на халяву залутав копию игры 🔫 — ахах бл#, это просто п#здец 🔫 — не представляю насколько ему обидно 🔫 — лох не мамонт - не вымрет)) 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "👀 Показал ключ GTA 6 на стриме — его тут же угнали",
-    "summary": "По сообщению Telegram-канала @gta6deluxe, стример случайно показал цифровой ключ активации GTA 6 в эфире, и зритель активировал игру раньше него. Автор канала назвал ситуацию провалом и отметил, что стримеру должно быть обидно.",
-    "idea": "Короткая нарезка: показ ключа на стриме, чат взрывается, и момент «игра уже активирована». Зрителям понравится наглядный фейл и быстрый ритм.",
-    "hook": "Показал ключ GTA 6 на стриме — зритель забрал игру первым.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-13T09:51:31Z"
-   },
-   "msg_id": 888
-  },
-  {
-   "id": "d24a24ef1ba6",
-   "title": "PS5 Pro restock tracker: Where to buy the best console for 'GTA 6'",
-   "first_seen": "2026-11-13T09:51:16Z",
-   "updated": "2026-11-13T09:51:16Z",
-   "items": [
-    {
-     "id": "d24a24ef1ba6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "PS5 Pro restock tracker: Where to buy the best console for 'GTA 6'",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56OHlqSDg4ZFdPUGhGSl9WeTBFUktGTURpdmM3aDdrSm5FR3lUT0h4VTV5aUg1Z0xjQXhzLUhfdzFwVC1tUHVsUzdQZnRpRUtVZk9pZmIxWEFHZ0k0VEptaDBLWFpJb1N5UEtxSzk1YVhQUQ?oc=5",
-     "ts": "2026-11-13T08:15:53Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c2d0f026a7fa",
-   "title": "Will GTA 6 break the internet? UK broadband operator braces for impact, saying \"GTA 6 has been on our radar for a long time\"",
-   "first_seen": "2026-11-13T09:51:16Z",
-   "updated": "2026-11-13T09:51:16Z",
-   "items": [
-    {
-     "id": "c2d0f026a7fa",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Will GTA 6 break the internet? UK broadband operator braces for impact, saying \"GTA 6 has been on our radar for a long time\"",
-     "url": "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach",
-     "ts": "2026-11-13T09:42:40Z",
-     "summary": "As Grand Theft Auto 6 breaks pre-order records on the PlayStation and Xbox stores , and looks poised to break many more sales records once it launches next week, questions of whether it will also break the internet arise. Collective network load will undoubtedly spike around its release - will regional infrastructure be able to bear it? Read more"
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 85,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 бьёт рекорды предзаказов: сети готовятся к удару",
-    "summary": "GTA 6 бьёт рекорды предзаказов в PlayStation и Xbox магазинах, пишет Eurogamer. Британский провайдер заявил, что игра давно на их радаре и нагрузка на сети резко вырастет. Релиз уже на следующей неделе.",
-    "idea": "Короткий ролик о том, как GTA 6 ставит рекорды предзаказов и нагружает сети — покажем цифры и реакцию провайдера. Зрителю важно понять, ждать ли лагов и проблем в день релиза.",
-    "hook": "GTA 6 бьёт рекорды предзаказов — провайдеры уже готовятся к удару.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-13T09:51:23Z"
-   },
-   "msg_id": 886,
-   "posts": {
-    "flash": "⚡️ <b>GTA 6 бьёт рекорды предзаказов — провайдеры готовятся</b>\n\nПо данным Eurogamer, Openready и Ofcom готовятся к пиковой нагрузке на сети в Британии. Игроков просят скачать игру заранее из-за «беспрецедентного спроса».\n\n#GTA6 #DargaNGU"
-   }
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-20T09:50:48Z",
+  "last_run": "2026-11-20T10:01:41Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 100/100",
-   "gnews_ru: 97/100",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 3/10",
    "vgc: 7/10",
    "insider_gaming: 6/10",
    "ign: 3/20",
-   "eurogamer: 25/100",
+   "eurogamer: 26/100",
    "dexerto_gta: 14/50",
-   "rockstarintel: 10/10",
+   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
    "gtaboom: 28/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 17/18",
