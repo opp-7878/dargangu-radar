@@ -1,10 +1,36 @@
 {
  "stories": [
   {
+   "id": "f8d392d85ed0",
+   "title": "Grand Theft Auto VI, the franchise’s first entry in 13 years, is more than just a crime simulator. It’s a cartoonish sendup of the U.S.",
+   "first_seen": "2026-11-20T16:31:01Z",
+   "updated": "2026-11-20T16:31:01Z",
+   "items": [
+    {
+     "id": "f8d392d85ed0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Facebook",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI, the franchise’s first entry in 13 years, is more than just a crime simulator. It’s a cartoonish sendup of the U.S.",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUEg2QmVselZNN0dERWp6TEd5d2cycklrMHcwV0ZIcUh4bmhzMUs1NnZTYXI5emMwOGhoRVlHdzJDbHpQQm5FOHZXc01kQXF3OEw0SktVN0c3Snp0QWxzcTRqSnZLeFd2SXpFQlUyS2ZxbmpYQXpLT0V6aEo2bU9VenRvVXlFRjMxa0lTY0R0SW1oT3ZLNDQ4UG9Xb0hHTTBnQmtNbm1scVRndFdkdU45dDZmanZ5c1pQVlZ1Nk5vaEdUalJLUW5XdW81UFJtQ1Jod3gzYQ?oc=5",
+     "ts": "2026-11-20T16:25:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "438ac3bdea57",
    "title": "Sales of 'Grand Theft Auto VI' skyrocket as the series makes its return after 13-year absence",
    "first_seen": "2026-11-20T16:10:49Z",
-   "updated": "2026-11-20T16:20:53Z",
+   "updated": "2026-11-20T16:31:00Z",
    "items": [
     {
      "id": "438ac3bdea57",
@@ -44,12 +70,25 @@
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWEtTR1V0aEpQREFLLUVOYU00V3NFVGdIOTlRT2RCMWJhY1ZIZkV1cFk5RmgyZXpZY0J0NXpBVjFDNlJBX09QM2JVeTJST0Z1MHRaQkZYRXpuNVAtWFJMM1pmamd3QzVGUzNqZmdKeTljNlRLUHRnVVlieDhhaEQ5cmhkZmVoX00xcEVMa294ZHhkYTdycHRCZFNiOHRmNVVKU0VzZDhtTVhOckNWeURhTzVPQjl0Zm1SOWpzR19vX3ZzMlZRQTlncWdOSGREMUhlV0pSN1NsU3o3TVBfNzFFckV3aUV2NVNzU3FTVDRHOVgwbGdMUHZyUGlDaVEtYlBrb0Vn?oc=5",
      "ts": "2026-11-20T16:03:44Z",
      "summary": ""
+    },
+    {
+     "id": "9132eebe3527",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Spectrum News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sales of 'Grand Theft Auto VI' skyrocket as the series makes its return after 13-year absence",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYVhuTmNPUzJiMExoRVQ1THR4ZG56NUFYRmlIQllEVkZacFNlSXpiM3Y2bUIyUVdkUDhqNC1RekpmUXpQcGw2OUdjS1FORDMyLWhDUUZXNkVzcUNxWWlyTG1rY0VGLVJmVklwdVhsamRzR2EyMmxYZ0h5OFNXNzVkTTdEWURCeTFIQUZIdTln?oc=5",
+     "ts": "2026-11-20T16:17:00Z",
+     "summary": ""
     }
    ],
    "tags": [],
-   "score": 66,
+   "score": 74,
    "level": "PROBABLE",
-   "alerted": "",
+   "alerted": "yellow",
    "status": "new",
    "ai": {
     "title_ru": "GTA 6 бьёт рекорды продаж: возвращение после 13 лет",
@@ -60,13 +99,14 @@
     "scale": 5,
     "model": "GigaChat-3-Ultra",
     "at": "2026-11-20T16:21:22Z"
-   }
+   },
+   "msg_id": 1717
   },
   {
    "id": "e589518037b0",
    "title": "I’ve Played GTA 6 for 110 Hours, and These Are the 7 Weirdest Strangers I’ve Met",
    "first_seen": "2026-11-20T16:10:48Z",
-   "updated": "2026-11-20T16:20:53Z",
+   "updated": "2026-11-20T16:31:00Z",
    "items": [
     {
      "id": "e589518037b0",
@@ -93,12 +133,25 @@
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaDlYN0t2SHJjemV2QURSMS0yMlZGUkUzSkl0SXNIVHB6WGhuZXYzQ1Y0ZWhrei0wWmNJeTJUenVSRVJuckhqRkh2a212WS1FQTVqWjQ4b25sTFQ1UlFIdTFvVllHQm0tbk5kbUozU3k5SjdlZkpNZnk2MzB5SlRiaGlwdndaeW9KREpLcFVsSXR5aFY5ZF93bWVqekpVc0hsZ2NJRDR3X2pBSE91QmtibHkwZ25SVWRUbkE?oc=5",
      "ts": "2026-11-20T16:15:14Z",
      "summary": ""
+    },
+    {
+     "id": "536817cd9f2d",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "I’ve Played GTA 6 for 110 Hours, Here Are the Weirdest Things I’ve Seen",
+     "url": "https://www.ign.com/articles/ive-played-gta-6-for-110-hours-here-are-the-weirdest-things-ive-seen",
+     "ts": "2026-11-20T16:00:00Z",
+     "summary": "From a robot sex freak to a rebellious furry, these are the seven weirdest strangers I've met in GTA 6."
     }
    ],
    "tags": [],
-   "score": 78,
+   "score": 86,
    "level": "PROBABLE",
-   "alerted": "",
+   "alerted": "yellow",
    "status": "new",
    "ai": {
     "title_ru": "110 часов в GTA 6: 7 самых странных незнакомцев",
@@ -109,13 +162,14 @@
     "scale": 5,
     "model": "GigaChat-3-Ultra",
     "at": "2026-11-20T16:10:56Z"
-   }
+   },
+   "msg_id": 1716
   },
   {
    "id": "ac62dab163fb",
    "title": "GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative",
    "first_seen": "2026-11-19T22:31:05Z",
-   "updated": "2026-11-20T16:20:53Z",
+   "updated": "2026-11-20T16:31:00Z",
    "items": [
     {
      "id": "ac62dab163fb",
@@ -493,6 +547,45 @@
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmtKMXZYdmNyaXdaU2w3alU3WDRUaEg2ckptUTFZRXo5LTF5ZkFkUW5iZnJTU01vSzQ5b2V3LW9TUEcxYWlVMjF4Qmo0Vkt5eGlFWElfT2E4QnN6MGxsaDQ3cURrNXdna003T1plWUlqbjlhYWNWWl9Ta19LWHlvZGRRcHJPblBZbDJrSm04SGVRQXF1WjJUTWgzWl93OTFoTjNwMw?oc=5",
      "ts": "2026-11-20T16:11:29Z",
      "summary": ""
+    },
+    {
+     "id": "de1756a3e187",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Just Sold an Estimated $2.36 Billion in One Day, Nearly Triple GTA V. Take-Two Stock Is Rising",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMHJwQWVmd19faXVZMkItME5nRXhtd2JhMnNOTm1lNHo3encyZHg4QUloT2xzU1lkTDZrb2FXcDRVb2xWQWdNd05QSHhVbUJiTnU4c0VSNkZaUVJRTkpjLVNqY1ZUTnBaYnJ6R2dNbFNEU0pzWllhTDRzT3BLVzhwbTlOVDdpcHNMazQ5UThLMzZfMmJJ?oc=5",
+     "ts": "2026-11-20T15:07:01Z",
+     "summary": ""
+    },
+    {
+     "id": "1ab7c7fc08ae",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Facebook",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI made a massive debut, selling 19 million copies in just 24 hours and generating billions of dollars. Before its release, preorders had already surpassed $1.5 billion. The standard edition costs $79.99, while other versions reach $100. #GTA",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT3BqeUpNU0tYeWdESTVkZzFZSVIxd1RuZjk0R2pRQ0JYT1VWdXVCMDNnT3VydU94UGhFZEphNmpPQ3o2YzhhaDdnNk5ZNUp2a1NRbEt3SDREeHg1UzRVRXJvenhnTWJ4QTgtRVdNTktUWnVaTEI2ZjltcW94eXVYZGhCNFN6WjFDeDBSWnJzaWh0c2llM2ZBbzl2OFdFTmxYNFBqdlpPcUYyWUVfY1NhLXNNa09CMEcwNDE1UjNQLUNfVTZ2RnFBUHpnUkFhM2hZLU9qZmtLY2o1Sk5jMEdNMQ?oc=5",
+     "ts": "2026-11-20T16:17:59Z",
+     "summary": ""
+    },
+    {
+     "id": "ad48501b07dc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Facebook",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI made a massive debut, selling 19 million copies in just 24 hours and generating billions of dollars. Before its release, preorders had already surpassed $1.5 billion. The standard edition costs $79.99, while other versions reach $100. #GTA",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX21Va3g0WmsxSVNJWi1fbkdQV2JzNEFYbGd3d0xId3NvTE43b1pUamRvWm9SaUZ3TlQ4MklhRVBJak1PUFRUb2VpcmQzWkFId0c1cDVKcV9CQ0h5MHN0QmhwTDZpMklrZUFKZ0FIUW93VUlzaVRTeHo1TlZZWjc1NnFCMHdReUNiS0xMNFJSTTNTRU9JODd3d3hteFRyeldsdlZrTTlQRmF2em9mR25GazJ3QXFfUzdzWGJfZlNEb21Wb1lDNnYzS3lHMFVwMURWUUFoTjhOcjRIblBjdG0w?oc=5",
+     "ts": "2026-11-20T16:20:38Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -514,6 +607,421 @@
     "at": "2026-11-19T22:31:12Z"
    },
    "msg_id": 1607
+  },
+  {
+   "id": "a19f2246e9cd",
+   "title": "Моддеры обещают запустить GTA 6 на ПК уже через неделю после утечки билда для Xbox",
+   "first_seen": "2026-11-20T14:01:15Z",
+   "updated": "2026-11-20T16:31:00Z",
+   "items": [
+    {
+     "id": "a19f2246e9cd",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Моддеры планируют запустить GTA 6 на ПК через неделю после утечки",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsY2o5N3lLdUstUmdtMldiQkZLaVh2UG9OTUgyQ0gtdlM2X1FJRUJZTTJ3OWJTMFpDMm5KQVZZVHYxMTBrM2lDTF8ybkdwSW1HNjBGbjVuQS1iT3RzMVlQWXpGT2RtTFhGVG9veUoxSXZfbEZTTXYwQThjQQ?oc=5",
+     "ts": "2026-11-20T13:48:23Z",
+     "summary": ""
+    },
+    {
+     "id": "ebf574183fc6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Моддеры обещают запустить GTA 6 на ПК уже через неделю после утечки билда для Xbox",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnYxZ05icU4xMWlhcW1vSDl5ZUFDUGozZ0dCR1pyMnJ6cENTMW9OQmVBRk5na3JieGJGR3JxeEhkR0VSbExCS2hkbUFqa3NEaFpPRlI0d1NoTUg0R0hTZG11WVhzbmpJZ0Y5UVFjSVdOMEZRMUJyQkJ3d3AzekRseXl4bmVYTmlxMVRyYTdUS1VnamM3S0o4QjBuNkV2QnlmSWxQbUFVNmdxbnhuTjlyMlo3ZU9JMjUxY2dlakR4cw?oc=5",
+     "ts": "2026-11-20T15:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "f2dc4f0f7721",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "www1.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI теперь доступна даже на слабом ПК: в VK Play запустили аренду консолей через облако",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXZoaVE0aGc5OVFtZzd3dUMwRW5hR3VNdUV6anB1Ykp2NGNjTWdZTkxlSThWWUZxb1QybjY4dWI5bDhWTkMwQUtYSENWemMyWF84bDFjOVJ0a251TXhiWDEySW5DMEtjdkNHdVFvS0R6UC1TVUhvTTlyZVczVEdNOEljMGNidlBMSktTUkdtX0N5VzFzX0JNaDVTZUhUTDFFekhfTF9iUkJ4NFZ0ZW84Q0pwOUl1LWVaYlJLYUtsMnJuODTSAcgBQVVfeXFMTi1jWGh2dTNXektESEpFM193OHY3XzQ4Nm1BZzF5dzdJZUd6SUdHNkM0Wllnd3RMeWgyZ2dURFpFTUk1WWR1STAyMnVUaW5CdlRzNkdRTU1GNlluUjB5QVpFVmhUcmxsZmZVRFg4U1FuRTJwYmJxN2hWYjJsRmI2UDNvWnlUYzF5QnRwRklYRjJaVU1Ucmh1bU53V3ROdmJjVXpqMXp5TFM0Rmp5REp3OWx6bklTbThUY2pWY3FWQUxOYmxJS2VvRi0?oc=5",
+     "ts": "2026-11-20T13:13:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК",
+    "слив"
+   ],
+   "score": 81,
+   "level": "SPECULATION",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "3f08102b6d32",
+   "title": "GTA 6 was made by humans, but its publisher is all for using AI on admin",
+   "first_seen": "2026-11-20T14:10:57Z",
+   "updated": "2026-11-20T16:31:00Z",
+   "items": [
+    {
+     "id": "3f08102b6d32",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Business Insider",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 was made by humans, but its publisher is all for using AI on admin",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2JTQi1pMW1qUVE3bzlINkZyTkxic1NQMUhpQmFrOFRHbWRqUnlqeFRXaVZENUdsLTQzVFlPRHZiQVVhNm9ZN08xYkhsY2hybG1SYnBkdnVZNFY5MzRseUNPM3RDaUVsZmdsUkJVZTQ2VHBOZHhnT01zYVZ3NGp0VkkxUU1aUkhPS3lQYXNyQ1FteTMzS25sdmFR?oc=5",
+     "ts": "2026-11-20T14:06:00Z",
+     "summary": ""
+    },
+    {
+     "id": "bd8ad82e7a10",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 was made by humans, but its publisher is all for using AI on admin",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRWh1andxUDJRZlU3SVdkMk93UkdQZ3N1bk1na0J3V3ZJcGxGcVZmU0NmSzdqdFZSNzVScV8tcndVbWF0NktUVFBaYVRhMU50WGd2aVZqV25KTnVuV08tT1p4UWR6azZwMURpSGV5aVNIQkxHZkxwblBJbVZUQm1JMjdB?oc=5",
+     "ts": "2026-11-20T14:06:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 делали люди, но ИИ возьмут в работу издателя",
+    "summary": "По данным Business Insider и Yahoo Finance UK, GTA 6 создавали люди, без ИИ в разработке. При этом Take-Two планирует использовать искусственный интеллект в административных задачах.",
+    "idea": "Короткий контраст: «Разработчики — люди, офис — ИИ». Показываем кадры офиса и титры, чтобы зритель понял, где ждать ИИ, а где — нет.",
+    "hook": "GTA 6 делали люди, а вот офис Take-Two подружится с ИИ.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-20T16:31:11Z"
+   },
+   "msg_id": 1720
+  },
+  {
+   "id": "c0455dd6cefc",
+   "title": "GTA 6 Is Finally Here, And You Can Get Both Editions Cheaper With This Xbox Deal",
+   "first_seen": "2026-11-20T11:40:54Z",
+   "updated": "2026-11-20T16:31:00Z",
+   "items": [
+    {
+     "id": "c0455dd6cefc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BGR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "You Can Get Your Own Physical GTA 6 Map For $1 — Here's How",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzaWJ3Q1NxQVJHbDRkaVV5ZXIxNDJ3UF92Z2FtOEJIc1Nmd2tqaTBaZVlPRUtTSlVKLTlLYVJvemUwN0ljeUNmNmJZQk95TTRXODBfRjBBc19WM1F1cWJEQlpzQUJoRi1nX3c?oc=5",
+     "ts": "2026-11-20T11:17:00Z",
+     "summary": ""
+    },
+    {
+     "id": "a398b175e345",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "You Can Get Your Own Physical GTA 6 Map For $1 — Here's How",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVzFURW9Zb09BS29pamNOOEVWdFhHRDFORG82N1V6c3BDa0ZXSlpBNUZ0M3p4UnVkdGpVeTQya0dWandDMDh4N3NjaVpOX2JFUng4Mmt6RWs2bDJTdnNheGwtSzZJOGdGM25ya2RtUnNUOHdOSzA3Z3FhWnhCOEpxOGxHaFlQZ1BEb0E?oc=5",
+     "ts": "2026-11-20T11:17:00Z",
+     "summary": ""
+    },
+    {
+     "id": "977c5a099592",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameSpot",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Is Finally Here, And You Can Get Both Editions Cheaper With This Xbox Deal",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3VfUFM0a0NrTmVZdzRxRzlVLW5xVHA4X0x2VFNsR0VsLUx0aWZsSHBaSGQ0MlFWa2Mtbl85djl5VDkxa3NVazZfbXE1RjI3d3B1WkZxU3g3WHY1RkxoeDVNSGxuNXZ2bTVPNC1BeGVma2ZxbF9hUVlRaUg5VTFoSmx1X2x2Y2hQNUdFeE1ZLUl2SnVNblo1LTNVWWVNdE5pelNBTUlQRWs2SlRHQ2R4YTBsVXg?oc=5",
+     "ts": "2026-11-20T16:20:31Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 96,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Физическая карта GTA 6 за $1: как получить",
+    "summary": "По данным BGR, физическую карту GTA 6 можно получить за 1 доллар. Издание описывает, как оформить предложение.",
+    "idea": "Короткая инструкция, как оформить карту GTA 6 за доллар, с показом шагов на экране. Зрителю важно увидеть, где нажать и сколько это реально стоит.",
+    "hook": "Карта GTA 6 за доллар? Смотри, как оформить за минуту.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-20T11:41:04Z"
+   },
+   "msg_id": 1659
+  },
+  {
+   "id": "4c9ce9ad80bd",
+   "title": "GTA 6: All Door Codes and Safe Combinations",
+   "first_seen": "2026-11-19T16:40:50Z",
+   "updated": "2026-11-20T16:31:00Z",
+   "items": [
+    {
+     "id": "4c9ce9ad80bd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Cultured Vultures",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: All Door Codes and Safe Combinations",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IWXN1cTBVZFZVNmZYZC0zX3RSd3BYZHZGWk0tbC0xQk1GTUtZSkhNYzRrV2NBRmZZODhfX1lOWVZVWjNxeWprVmVOaktLdWJYaXlpU3JTWDQxc08xUkNHb2hSX3RiRzZfLWpyN3BiZmhpaWthWGlaSmFVbmI?oc=5",
+     "ts": "2026-11-19T16:22:15Z",
+     "summary": ""
+    },
+    {
+     "id": "8e18f738fa57",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "VICE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Safe Codes for Illegal Operations – All Known Combinations",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VVlJJeG5ZU1R6QXVoa2dPZWJYNDh2b0hfMGdnVW9hOWpsdjVERzhlaHJNLUpkQ0d0RmNXV0YyWjFUSVFxWFlEajFMMzFBZGUyN3NQZXQ3SlpQb0xnMnc3ZURnQk5heS1aRWRTZ21iU3U1Zm1haWIwYVZXRFo?oc=5",
+     "ts": "2026-11-20T16:22:05Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "9142458b373e",
+   "title": "All main story missions in GTA 6",
+   "first_seen": "2026-11-20T16:31:00Z",
+   "updated": "2026-11-20T16:31:00Z",
+   "items": [
+    {
+     "id": "9142458b373e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "All main story missions in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tSkNyTkl1Vk53ZHk5UWVyYk1qU2JKV2p1SWl6SFhhSUd5WU5oLS1mRDFESFh3cXdJampCcW5Ob21rZ1BhTzlqTmxDcVlKeXAzQjBrZmtZWl9Qb05TWUNFUkdnLTVtWlZ4VzAwWQ?oc=5",
+     "ts": "2026-11-20T15:59:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "261588f5fd47",
+   "title": "6 Steam Games To Wishlist That Aren't GTA 6",
+   "first_seen": "2026-11-20T16:31:00Z",
+   "updated": "2026-11-20T16:31:00Z",
+   "items": [
+    {
+     "id": "261588f5fd47",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "6 Steam Games To Wishlist That Aren't GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52THpqNE5VcmtBdmlIWkRzSzdvaGJDV2kzMEwtWGhnalpHbjkwLTJWT1piZ1UtSE1GdWRHbnlFcF9NQWR4MlNSV1FIc0dGemY4YWJrMQ?oc=5",
+     "ts": "2026-11-20T16:00:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "ПК-версия GTA 6: в вишлисте на Steam её пока нет",
+    "summary": "Polygon в подборке из 6 игр для вишлиста на Steam не упомянул GTA 6. Официально ПК-версия не анонсирована, GamesBeat ранее писал о релизе в первом квартале 2027.",
+    "idea": "Короткий скетч: игрок ищет GTA 6 в вишлисте Steam и не находит — отсюда шутка про ожидание ПК-версии. Зрителю близко: вишлисты, Steam и вечный вопрос «когда на ПК».",
+    "hook": "Ищешь GTA 6 в вишлисте Steam? Её там нет — и вот почему.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-20T16:31:08Z"
+   },
+   "msg_id": 1719
+  },
+  {
+   "id": "2da9ffc74a29",
+   "title": "GTA 6's No-Nonsense Cops Are Scaring Players Into Actually Following the Law",
+   "first_seen": "2026-11-20T16:31:00Z",
+   "updated": "2026-11-20T16:31:00Z",
+   "items": [
+    {
+     "id": "2da9ffc74a29",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6's No-Nonsense Cops Are Scaring Players Into Actually Following the Law",
+     "url": "https://www.ign.com/articles/gta-6-new-wanted-system-difficulty",
+     "ts": "2026-11-20T16:14:14Z",
+     "summary": "GTA 6's cops are meaner and easier to provoke than ever before, leading many players to obey the law and keep their head down early doors."
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "👮‍♂️ Полиция в GTA 6 пугает игроков: приходится соблюдать закон",
+    "summary": "По данным IGN, полиция в GTA 6 стала злее и легче провоцируется, из-за чего игроки стараются соблюдать закон и не нарываться. Это отмечают многие в первые дни после выхода.",
+    "idea": "Показать нарезку, как копы в GTA 6 жёстко наказывают за мелочи, и сравнить с GTA 5. Зрителю интересно, потому что меняется привычный геймплей и риск/награда.",
+    "hook": "В GTA 6 копы реально пугают — теперь все ездят по правилам.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-20T16:31:05Z"
+   },
+   "msg_id": 1718
+  },
+  {
+   "id": "8fe58292544d",
+   "title": "Под видом бесплатной GTA VI распространяют стилеры для кражи паролей",
+   "first_seen": "2026-11-20T16:31:00Z",
+   "updated": "2026-11-20T16:31:00Z",
+   "items": [
+    {
+     "id": "8fe58292544d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Anti-Malware.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Под видом бесплатной GTA VI распространяют стилеры для кражи паролей",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PalhYOFVvQkRkajRMMHJiVDNDUGZBdDJVUERqS2w0UVhEQ0hpUlE3aGNJNi1LdUxmd2NHc2U0Mm5ZSDZCX0tqM1dnRE5QQnV2UkdLYnFJbGNONElEalhWUDM2cnB2U2_SAWxBVV95cUxON2hVTjhDNTNQRTVWTUtia3A4djI1QXE4YVU5XzUwSGhTLWRLQmNyaGswSjhUWm1BWEdNYnYtOGUwYm1hQUVpX1Rybk9iSFl2VTlCeml2aTAxOS11R21sLVFvR0I5NnljNGlTaXQ?oc=5",
+     "ts": "2026-11-20T16:15:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "49ef959b80a8",
+   "title": "What SW Florida landmarks are featured on GTA 6 video game",
+   "first_seen": "2026-11-20T16:31:00Z",
+   "updated": "2026-11-20T16:31:00Z",
+   "items": [
+    {
+     "id": "49ef959b80a8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Naples Daily News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "What SW Florida landmarks are featured on GTA 6 video game",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNS03eWJTVXU4MFlxaERSckllb3JFSWpuRTU2VmhvcERUR1hoemhYb0ZnalQzUHkyMy1vZmlWMW84Y2VzRjN0dF96STFsTm9YcFRUVl9QbF9tNWxKTm5hZ08wXzhtaDB6VkJGelBXcHhsbENiQWRyeWQ5T2U2Y1FfMGpNOFJCYUNjeGRJbmlJU3I5Q3FWY0YteUh6cDA5OXNjMkVzRFd5a3hiU0YwSW9fZGI3blhlZ09iTm9NYWRxTElIUTRrNG5sZGpR?oc=5",
+     "ts": "2026-11-20T16:20:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "26928d498a04",
+   "title": "Heat vs. Banged-Up Thunder + GTA VI the New \"South Beach Flu\"?",
+   "first_seen": "2026-11-20T16:31:00Z",
+   "updated": "2026-11-20T16:31:00Z",
+   "items": [
+    {
+     "id": "26928d498a04",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Audacy",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Heat vs. Banged-Up Thunder + GTA VI the New \"South Beach Flu\"?",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0FlRE0wV3c4VnFqQjRlME1qQXpJNjJZSEI2QlRkQmxrRGVONy1RNUU5R09qb3ptZG5BT3pKdk9qdWI5dFJQcXhTY1d6NW5Kak9scGNmRjZrYU9WeS03Y3p6Z09jYndMd1NDTW1OR0RMdzVaOGdPS1BGQ0dJdGJSTnVMUWZrNUJzb1BSUFRqVUMtUU1JN2E3Y201TDB5c1E?oc=5",
+     "ts": "2026-11-20T16:21:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9cce22668633",
+   "title": "GTA 6 map size and counties: the estimates compared, with nothing official yet",
+   "first_seen": "2026-11-20T16:31:00Z",
+   "updated": "2026-11-20T16:31:00Z",
+   "items": [
+    {
+     "id": "9cce22668633",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 map size and counties: the estimates compared, with nothing official yet",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGZOX2JHbHBGM3F0V2RrZUI2eUJ3MGVxQk1saFA3bkx6a3FZN0poRmU2eS02VW5lZlo4dFVOV0pKRW9oTm5VQXBXNXc1NHI0NGJSamt6MTFCT0VKSG12MW9TNlRER0Q5aXpaSDRxSkxTQ3kzLTF0Xy1fSERfTVZnQWNMRnFhR05udkR6cU05YTBJeTVRdVFOTWE5dTA?oc=5",
+     "ts": "2026-11-20T16:22:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
   },
   {
    "id": "95087cc5066d",
@@ -3122,48 +3630,6 @@
    "msg_id": 1696
   },
   {
-   "id": "a19f2246e9cd",
-   "title": "Моддеры обещают запустить GTA 6 на ПК уже через неделю после утечки билда для Xbox",
-   "first_seen": "2026-11-20T14:01:15Z",
-   "updated": "2026-11-20T15:10:59Z",
-   "items": [
-    {
-     "id": "a19f2246e9cd",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Моддеры планируют запустить GTA 6 на ПК через неделю после утечки",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsY2o5N3lLdUstUmdtMldiQkZLaVh2UG9OTUgyQ0gtdlM2X1FJRUJZTTJ3OWJTMFpDMm5KQVZZVHYxMTBrM2lDTF8ybkdwSW1HNjBGbjVuQS1iT3RzMVlQWXpGT2RtTFhGVG9veUoxSXZfbEZTTXYwQThjQQ?oc=5",
-     "ts": "2026-11-20T13:48:23Z",
-     "summary": ""
-    },
-    {
-     "id": "ebf574183fc6",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Моддеры обещают запустить GTA 6 на ПК уже через неделю после утечки билда для Xbox",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnYxZ05icU4xMWlhcW1vSDl5ZUFDUGozZ0dCR1pyMnJ6cENTMW9OQmVBRk5na3JieGJGR3JxeEhkR0VSbExCS2hkbUFqa3NEaFpPRlI0d1NoTUg0R0hTZG11WVhzbmpJZ0Y5UVFjSVdOMEZRMUJyQkJ3d3AzekRseXl4bmVYTmlxMVRyYTdUS1VnamM3S0o4QjBuNkV2QnlmSWxQbUFVNmdxbnhuTjlyMlo3ZU9JMjUxY2dlakR4cw?oc=5",
-     "ts": "2026-11-20T15:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК",
-    "слив"
-   ],
-   "score": 73,
-   "level": "SPECULATION",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
    "id": "5f9b96b96375",
    "title": "VK Play проводит 100-часовой марафон GTA 6 — с призами и звездными гостями",
    "first_seen": "2026-11-20T15:10:59Z",
@@ -5681,32 +6147,6 @@
      "title": "How to Lose the Cops Fast in GTA 6",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1b196SmJCT1M0ZmZBVWhsVEJPUmNZeVpQLVNNWDRYYjc0czJMQ2REQnRIZFpiUy1ZZERtTXRnMkpBbFRnMmxxclB0Q1FaSGFlT0J1bFQxYUJvcjVXTWNmaWw1anAtTHFaQkd1SEc5MGN1UWo3V1E?oc=5",
      "ts": "2026-11-20T13:55:05Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3f08102b6d32",
-   "title": "GTA 6 was made by humans, but its publisher is all for using AI on admin",
-   "first_seen": "2026-11-20T14:10:57Z",
-   "updated": "2026-11-20T14:10:57Z",
-   "items": [
-    {
-     "id": "3f08102b6d32",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Business Insider",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 was made by humans, but its publisher is all for using AI on admin",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2JTQi1pMW1qUVE3bzlINkZyTkxic1NQMUhpQmFrOFRHbWRqUnlqeFRXaVZENUdsLTQzVFlPRHZiQVVhNm9ZN08xYkhsY2hybG1SYnBkdnVZNFY5MzRseUNPM3RDaUVsZmdsUkJVZTQ2VHBOZHhnT01zYVZ3NGp0VkkxUU1aUkhPS3lQYXNyQ1FteTMzS25sdmFR?oc=5",
-     "ts": "2026-11-20T14:06:00Z",
      "summary": ""
     }
    ],
@@ -8752,58 +9192,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c0455dd6cefc",
-   "title": "You Can Get Your Own Physical GTA 6 Map For $1 — Here's How",
-   "first_seen": "2026-11-20T11:40:54Z",
-   "updated": "2026-11-20T12:41:00Z",
-   "items": [
-    {
-     "id": "c0455dd6cefc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BGR",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "You Can Get Your Own Physical GTA 6 Map For $1 — Here's How",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzaWJ3Q1NxQVJHbDRkaVV5ZXIxNDJ3UF92Z2FtOEJIc1Nmd2tqaTBaZVlPRUtTSlVKLTlLYVJvemUwN0ljeUNmNmJZQk95TTRXODBfRjBBc19WM1F1cWJEQlpzQUJoRi1nX3c?oc=5",
-     "ts": "2026-11-20T11:17:00Z",
-     "summary": ""
-    },
-    {
-     "id": "a398b175e345",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "You Can Get Your Own Physical GTA 6 Map For $1 — Here's How",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVzFURW9Zb09BS29pamNOOEVWdFhHRDFORG82N1V6c3BDa0ZXSlpBNUZ0M3p4UnVkdGpVeTQya0dWandDMDh4N3NjaVpOX2JFUng4Mmt6RWs2bDJTdnNheGwtSzZJOGdGM25ya2RtUnNUOHdOSzA3Z3FhWnhCOEpxOGxHaFlQZ1BEb0E?oc=5",
-     "ts": "2026-11-20T11:17:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Физическая карта GTA 6 за $1: как получить",
-    "summary": "По данным BGR, физическую карту GTA 6 можно получить за 1 доллар. Издание описывает, как оформить предложение.",
-    "idea": "Короткая инструкция, как оформить карту GTA 6 за доллар, с показом шагов на экране. Зрителю важно увидеть, где нажать и сколько это реально стоит.",
-    "hook": "Карта GTA 6 за доллар? Смотри, как оформить за минуту.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-20T11:41:04Z"
-   },
-   "msg_id": 1659
   },
   {
    "id": "23102be7c176",
@@ -35953,32 +36341,6 @@
      "title": "This streamer already played GTA 6 for over 100 hours. Here's what he thinks.",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNak90SmpXQnF3Y2ZWanljUENpbFVWcWE2TktWRGZzanJtMzFBSTdVZWxjajRSVUpJVjltTUNMYUVXYUFjRHktWnhqNGd3SDRBbDhQVk9oN0NBenJRMVU5YXZ5bjRzMHhNSzFUM2N4QmRMcVFEZGpiRDBOWjZpQjNYVkNyd2p1dUhhTXpjVC1TT1RjcU5sc1dQckhfUnVYZzlzbTVJ?oc=5",
      "ts": "2026-11-19T15:27:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4c9ce9ad80bd",
-   "title": "GTA 6: All Door Codes and Safe Combinations",
-   "first_seen": "2026-11-19T16:40:50Z",
-   "updated": "2026-11-19T16:40:50Z",
-   "items": [
-    {
-     "id": "4c9ce9ad80bd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Cultured Vultures",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: All Door Codes and Safe Combinations",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IWXN1cTBVZFZVNmZYZC0zX3RSd3BYZHZGWk0tbC0xQk1GTUtZSkhNYzRrV2NBRmZZODhfX1lOWVZVWjNxeWprVmVOaktLdWJYaXlpU3JTWDQxc08xUkNHb2hSX3RiRzZfLWpyN3BiZmhpaWthWGlaSmFVbmI?oc=5",
-     "ts": "2026-11-19T16:22:15Z",
      "summary": ""
     }
    ],
@@ -180140,89 +180502,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "94156c071ea5",
-   "title": "GTA VI isn’t out yet – and the scams are already out in full forc",
-   "first_seen": "2026-11-13T16:31:02Z",
-   "updated": "2026-11-13T16:31:02Z",
-   "items": [
-    {
-     "id": "94156c071ea5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WeLiveSecurity",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI isn’t out yet – and the scams are already out in full forc",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjhOenI1Y1FoWDZpR01QRC1jMjVVemFTd2xmM0xqVlBQOVpvd3FzaTJfMzE0ekZaOExQejRxLUNRajlmcGZncVp0cXFuYnVZdHE1OG9LbENnRXdWdERtYW55M3NQaUdNOWthUi04MnRaSnBxblJkRmN0Z0ZqUEIwOGVDYl9Ka1o2RVRDTHF3?oc=5",
-     "ts": "2026-11-13T10:38:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a789ea7529a8",
-   "title": "GTA VI after 13 years: can Rockstar live up to the hype?",
-   "first_seen": "2026-11-13T16:31:02Z",
-   "updated": "2026-11-13T16:31:02Z",
-   "items": [
-    {
-     "id": "a789ea7529a8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Ynetnews",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI after 13 years: can Rockstar live up to the hype?",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jWjdHN3VteTZlV0g4eERsbzdWWkhZbEtacFlXdS1DX3ZoNkp0dFhvZDdlZ0Y5TEtBTFJpd2pub0xUdkNqMGRKVDJwcFVfWDk0dGdiUHIwM0FnREdjQi14UmlRM2tTZlNvTkV3LQ?oc=5",
-     "ts": "2026-11-13T16:16:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e884ee9ce256",
-   "title": "GTA 6 pre-load is now available: How to free up 212GB of space on your PS5 or Xbox for the new game",
-   "first_seen": "2026-11-13T16:31:02Z",
-   "updated": "2026-11-13T16:31:02Z",
-   "items": [
-    {
-     "id": "e884ee9ce256",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 pre-load is now available: How to free up 212GB of space on your PS5 or Xbox for the new game",
-     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNeDdRaWowWnlLcDVDdndaOVJwcl84LTFwd1VnWnJhUk9rbzBDZTZNN2RkZEUzQWJ5VUdQZXNBaURyalZaNTJYRFFYWmNiTHJGdVU5TnNNd2Q2TktwbFNwWGFzMEpOaWNiX3R0aHRrMVVOSzdfSXRJclFmTnotQlVUOXJmOFFJREV0WEs3U3BaTUtHTzBNejFBOTVoZkRRNUJlMUdtbFVHQWt5OW5iY3JaZ2pGZllQbWFoRDJzUjcwbTE0RHJsM2tTYmtuNXdiVFVpMWhQR0FXcGZrVUxaVFFkeXluU2NCRm5hTTNycjg1WmtxUzRSZlZjMFE1YU9RTG00QzVhX1RqMHhfLVNqcVY1R1RSX25rbFFsQnd4ZEVpY0c0N2Z2emNz?oc=5",
-     "ts": "2026-11-13T16:26:35Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-20T16:22:53Z",
+  "last_run": "2026-11-20T16:31:12Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 99/100",
@@ -180239,7 +180523,7 @@
    "tg_gtavistar: 12/12",
    "tg_gta6deluxe: 11/11",
    "tg_gta6_m: 12/15",
-   "tg_gta6newsdaily: 18/19"
+   "tg_gta6newsdaily: 17/19"
   ],
   "digest": "2026-11-20@9",
   "tg_offset": 854319078
