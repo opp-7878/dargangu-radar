@@ -1,6 +1,279 @@
 {
  "stories": [
   {
+   "id": "9cdd28f3e425",
+   "title": "The anonymous hacker Cyberleek releases an Xbox build of 'GTA VI'",
+   "first_seen": "2026-11-21T19:31:03Z",
+   "updated": "2026-11-21T19:50:46Z",
+   "items": [
+    {
+     "id": "9cdd28f3e425",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The anonymous hacker Cyberleek releases an Xbox build of 'GTA VI'",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EdnlPdjFWY1IzUko2anpqMHV3V1ZZQnZMLVM1WlNteWxSVThrd3BPWm0xdnZld1NtemRHS2hUZ21iTHNkY25YTFNibllBVTcwQkJGQ29HZDA2M08tWVlHTktUUjZnWXBPUi12eGdRMGN0cVZhU0JSVloyZw?oc=5",
+     "ts": "2026-11-21T19:28:28Z",
+     "summary": ""
+    },
+    {
+     "id": "f5cb2a9e0851",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable SEA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The anonymous hacker Cyberleek releases an Xbox build of 'GTA VI'",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTldKZEFNZW5hUGthRTFYUkV5b21ucS1aNUpzTktUZHl0X1lfYW5kSkZsTlNXSlZNV29TWVNVZFl3elVCRk8zMDhvMF9jRE1vNnZyOTFzS0JheEJ5dWJUWGdDWlVVTkx2WEJGXzJHXzVCM3BjSi1TMFZuSHRmMWRBbWg2TlRGRUstTlpBWFB3N1Y4dTJPU01vTGpjZmlHVDAz?oc=5",
+     "ts": "2026-11-21T19:17:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 73,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Слив сборки GTA 6 для Xbox от Cyberleek",
+    "summary": "По данным Mashable, анонимный хакер Cyberleek опубликовал сборку GTA 6 для Xbox. Rockstar и Take-Two официально это не подтверждали.",
+    "idea": "Показываем, что именно утекло в сборке для Xbox, и чем это отличается от прошлых сливов. Зрителю интересно увидеть реальный геймплей раньше всех.",
+    "hook": "Новая сборка GTA 6 для Xbox утекла — смотрим, что внутри.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T19:31:08Z"
+   },
+   "msg_id": 1862
+  },
+  {
+   "id": "dcb5c54c0b4b",
+   "title": "Где найти Declasse Vamos в GTA 6. Как угнать Declasse Vamos для Мозеса в ГТА 6",
+   "first_seen": "2026-11-21T18:40:47Z",
+   "updated": "2026-11-21T19:50:46Z",
+   "items": [
+    {
+     "id": "dcb5c54c0b4b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Escorenews.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Где найти Declasse Vamos в GTA 6. Как угнать Declasse Vamos для Мозеса в ГТА 6",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUDM0YW5hUVhSMENFY1RNSl9SdWh6aWx5U0pBLTVqUFpxbzFhdUV6T3pmMnhKRHBybUgtQzNtMnB6bHdpaXJkdWtOc0VKYUk2M0V1X3piNnZBUW9EZmRMeWVYQzZ4UmNRYm95WVRPTzVwY1hJTWVSRjN3ekU1RkJCY3B2WWpTVk44cEtzbVVfazJiQ0otY1U2SmdfTXI3VmV0bUZEUHNsTFlvNVMwMXVCZFd4Vjd1OVNI?oc=5",
+     "ts": "2026-11-21T18:28:00Z",
+     "summary": ""
+    },
+    {
+     "id": "c327a7104fc4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Escorenews.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Как угнать Declasse Vamos для Мозеса в ГТА 6. Код от гаража с машиной Declasse Vamos в GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU3h5QmdNMEVZY2FSOFRubC15N21KNGhqWF9MMnpqTzVpLUY4Qk1IRzVfcHRfbTBDOWd4NGh2b1NBOG9rRllKS1VVNTZ0LV9kVVhzMG1LNDJzcE03b1J3UmdwQjZVVVVfOEFQWENzU3Qxc0w0NS1lSllWUFBWVV9VM25yY3dzY2tUUFozU3pjZVRpemN1Z1pmYVAtTFRTN19VNWRIb0JGQ3hueVRQaHJRdkVxU0tUdENUTjZxWjNRd3k1Vk9maTh0eUFvalM?oc=5",
+     "ts": "2026-11-21T18:28:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "89c76255a51f",
+   "title": "Житель Ставрополья решил поиграть в GTA 6 прямо посреди улицы",
+   "first_seen": "2026-11-21T19:50:46Z",
+   "updated": "2026-11-21T19:50:46Z",
+   "items": [
+    {
+     "id": "89c76255a51f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Блокнот Ставрополь",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Житель Ставрополья решил поиграть в GTA 6 прямо посреди улицы",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZHk4VG1ZV2l6RW8tdGFoeFg0VFB5enJZUFJWcU54WUNHQlp6RExDb0ZDR2oyNzRFdXBNRU1DZEYwdlF5dUNxdnBYY0R4akM0SkZMbFhGRDFNT2hBbUcyMVZUcHlXTzhoSjNlT01FV1hrNkhQZVQwUENNdUZWMTZXN01EdDk4MXhtaVF3d3phY1ZrTkxIX2tN?oc=5",
+     "ts": "2026-11-21T13:46:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0999843f0938",
+   "title": "It’s Official, GTA 6’s Graphics Have Broken My Brain",
+   "first_seen": "2026-11-21T19:50:46Z",
+   "updated": "2026-11-21T19:50:46Z",
+   "items": [
+    {
+     "id": "0999843f0938",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "It’s Official, GTA 6’s Graphics Have Broken My Brain",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBR1Q3dFhsYWQ1MmQzODJTX2RCUDVzUGtvNmN3QTZBX2hkdEdlT0Iybm1pZ3J0NS1tQmY1OE1BdnhYNUJPZU4xWkZPSlFzdnZKRUkteV9wYS13TG8?oc=5",
+     "ts": "2026-11-21T19:00:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "955543c177f7",
+   "title": "'Grand Theft Auto VI' is here. What to know about the characters, music and all the hype",
+   "first_seen": "2026-11-21T19:50:46Z",
+   "updated": "2026-11-21T19:50:46Z",
+   "items": [
+    {
+     "id": "955543c177f7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "New Castle News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' is here. What to know about the characters, music and all the hype",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOVNvS192U1YtMEhsMDQtX3J4VHdiMjlmV1psd1pTemRBdmh5Um1XdGpzWTRBY2VWa0pGUEt2Z0x0akNZVE9GeGdLM2llMGFwR2JtM2dpamFTZEx4OURvendKMFBULVl0VFhWTGdydlFYQlJXa2xBamM0aVdScHJ1SGN3MkN1bkdUdzRyRUdwdWpzMWdIcFJ6cXdOM19nZ0xVR3FMYW5lakYxSjBlQnFqRGNGallEd1VnMVNtazRIemZoWDNDU3lNOEpiSVZnVksyQkxQRGpuazlJa25VSkxDUTdsYXJuMTJteGNXYk1CdDd2ZTN4eURCb1hYMVY?oc=5",
+     "ts": "2026-11-21T19:35:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a01cbaed7c4d",
+   "title": "Запуск GTA 6 вызвал \"цифровое цунами\", которое превосходит чемпионат мира 2026 года, - СМИ",
+   "first_seen": "2026-11-21T19:50:46Z",
+   "updated": "2026-11-21T19:50:46Z",
+   "items": [
+    {
+     "id": "a01cbaed7c4d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "УНИАН",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Запуск GTA 6 вызвал \"цифровое цунами\", которое превосходит чемпионат мира 2026 года, - СМИ",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNWlPaTBtT3hYc1ZUajF4WUNaYTBLVGVtU0dKX0lrM2o3NFZVRjZUVEhSQi1lVGNBM3FuLVE5M1JaTHpoaGpzUGI0TVR6MWZaREI5QkFQamd1b1M1bjYyMm1mNUZJcS11UU1LSnZvRUZnbG4zVlBWRnlBTFlxN2dlODdWdy11ZmV0T0hRZmlCcWdBSllhY0FadzhBeDhmZVg5M041TVU0aEhraWFlN2xNYWhMMjE5X3djXzIzRm5yS3JEdjRUaUdBamNxMnhvWTTSAdQBQVVfeXFMTi1GenFLai1xNjNUcC1FNTdoMExLV3pWRHhBeWpBX0I5b0pPazBJNFBjRmhYZlBYXzhWdk5HQ0x0QkxVbjdzRkVlZm9PeHE5VEoyZUV3dHBXYmEzYjhzNUc5MDgxbHRKa0dMb2xHNDNBckhoMEdmSThEN3FWcGItZ0NGRUgwT3hqTjhUdk1uTkVNdnFXOXBFempFc0Q1S01Kd1VBQURUTTBKcXRiM014bVNXMzN0Q3d6TmNBTGZici1TV2tFVmhFYlczZXJKMVhXTkVqUU4?oc=5",
+     "ts": "2026-11-21T19:38:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0921fab29716",
+   "title": "Greene: Parents concerned about kids playing Grand Theft Auto VI feel like the bad guy",
+   "first_seen": "2026-11-21T19:50:46Z",
+   "updated": "2026-11-21T19:50:46Z",
+   "items": [
+    {
+     "id": "0921fab29716",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "New York Daily News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Greene: Parents concerned about kids playing Grand Theft Auto VI feel like the bad guy",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2stNk5RbzFCbDk0eXVoUlptcUl2a21lVnRYMm1aaDdCbGdVc1h5RnBaMUQtMjhCTVhINEwzN2Z6YWttYVQyMURlcmNFYUJ0bm5fcEhEaXdZREQzUTVaZWZKRm9kNDVWUk95bW8xVHFJcW5wWkZWa2NtaEZtM3B6VXdUSzd1WXIxcWdGcmM4ZTFhTlhqOWdRZlhPXzE5SEdtRTBmb0F0VjhwWnFVbFZaaDZKdW9MQQ?oc=5",
+     "ts": "2026-11-21T19:39:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "036475cd7cc8",
+   "title": "В GTA VI обнаружили отсылку к Курту Кобейну ❤️ — легенда 6️⃣ GTA VI News 💝 💬 Наш чатик",
+   "first_seen": "2026-11-21T19:50:46Z",
+   "updated": "2026-11-21T19:50:46Z",
+   "items": [
+    {
+     "id": "036475cd7cc8",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "В GTA VI обнаружили отсылку к Курту Кобейну ❤️ — легенда 6️⃣ GTA VI News 💝 💬 Наш чатик",
+     "url": "https://t.me/GTAVIStar/1022",
+     "ts": "2026-11-21T19:44:57Z",
+     "summary": "В GTA VI обнаружили отсылку к Курту Кобейну ❤️ — легенда 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ca46fe3fc5ba",
+   "title": "GTA 6 Officially Becomes One of the Lowest-Rated Games of the Year",
+   "first_seen": "2026-11-21T19:50:46Z",
+   "updated": "2026-11-21T19:50:46Z",
+   "items": [
+    {
+     "id": "ca46fe3fc5ba",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Comic Book Resources",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Officially Becomes One of the Lowest-Rated Games of the Year",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWnZtWjluT3Jpc1AtYUFWcG42RjFvVFpvZGlBU05MOEpGdmJPX09SNUk5OVp3dTVjRURGLWowSF9iVGpmSHd0T3FoSGp4Ym5mSnNEZlpyRm9jUEU1eUhuZnFydmFBR3NjRmR4ZUtEcFZCS1RhNmFqa3p2ZzBCcTlNT1VR?oc=5",
+     "ts": "2026-11-21T19:47:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4cb7f5cf9aab",
    "title": "RAW: HANDOUT: GTA VI SALES MORE THAN $3B ON FIRST DAY",
    "first_seen": "2026-11-20T22:50:54Z",
@@ -816,45 +1089,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "9cdd28f3e425",
-   "title": "The anonymous hacker Cyberleek releases an Xbox build of 'GTA VI'",
-   "first_seen": "2026-11-21T19:31:03Z",
-   "updated": "2026-11-21T19:31:03Z",
-   "items": [
-    {
-     "id": "9cdd28f3e425",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The anonymous hacker Cyberleek releases an Xbox build of 'GTA VI'",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EdnlPdjFWY1IzUko2anpqMHV3V1ZZQnZMLVM1WlNteWxSVThrd3BPWm0xdnZld1NtemRHS2hUZ21iTHNkY25YTFNibllBVTcwQkJGQ29HZDA2M08tWVlHTktUUjZnWXBPUi12eGdRMGN0cVZhU0JSVloyZw?oc=5",
-     "ts": "2026-11-21T19:28:28Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 65,
-   "level": "SPECULATION",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Слив сборки GTA 6 для Xbox от Cyberleek",
-    "summary": "По данным Mashable, анонимный хакер Cyberleek опубликовал сборку GTA 6 для Xbox. Rockstar и Take-Two официально это не подтверждали.",
-    "idea": "Показываем, что именно утекло в сборке для Xbox, и чем это отличается от прошлых сливов. Зрителю интересно увидеть реальный геймплей раньше всех.",
-    "hook": "Новая сборка GTA 6 для Xbox утекла — смотрим, что внутри.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-21T19:31:08Z"
-   },
-   "msg_id": 1862
   },
   {
    "id": "1cf19b469f53",
@@ -1919,32 +2153,6 @@
    ],
    "tags": [],
    "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "dcb5c54c0b4b",
-   "title": "Где найти Declasse Vamos в GTA 6. Как угнать Declasse Vamos для Мозеса в ГТА 6",
-   "first_seen": "2026-11-21T18:40:47Z",
-   "updated": "2026-11-21T18:40:47Z",
-   "items": [
-    {
-     "id": "dcb5c54c0b4b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Escorenews.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Где найти Declasse Vamos в GTA 6. Как угнать Declasse Vamos для Мозеса в ГТА 6",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUDM0YW5hUVhSMENFY1RNSl9SdWh6aWx5U0pBLTVqUFpxbzFhdUV6T3pmMnhKRHBybUgtQzNtMnB6bHdpaXJkdWtOc0VKYUk2M0V1X3piNnZBUW9EZmRMeWVYQzZ4UmNRYm95WVRPTzVwY1hJTWVSRjN3ekU1RkJCY3B2WWpTVk44cEtzbVVfazJiQ0otY1U2SmdfTXI3VmV0bUZEUHNsTFlvNVMwMXVCZFd4Vjd1OVNI?oc=5",
-     "ts": "2026-11-21T18:28:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -190454,203 +190662,13 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a8fc66ac839f",
-   "title": "«Отвалите от меня со своей GTA 6». Папич раскритиковал хайп вокруг игры",
-   "first_seen": "2026-11-14T19:20:45Z",
-   "updated": "2026-11-14T19:47:38Z",
-   "items": [
-    {
-     "id": "a8fc66ac839f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "https://www.championat.ru/",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Отвалите от меня со своей GTA 6». Папич раскритиковал хайп вокруг игры",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2N3WGRjQWtUV24yM0IzVkNteE9feUZSZVBqZEpPV3JZb2p1RGhyTXdYRHVKdkE0cFNpTTBESlVQOUJjZjEybzBnTm82aTVwaG5wcGUyWVpYMG1XVUpYSklGdGI4RHhfYTlMLWhVMnJSVDZDZURoSjZLeFhRVURYdjhvSVF4NHpSaWhHRVFiZF9nRnltbjd4aDBxU3YycnlIT19rUlprVG8tNUh0X3RNVy1vTWhSbWdJMUJEQ2tEZXptZXVI?oc=5",
-     "ts": "2026-11-14T13:23:10Z",
-     "summary": ""
-    },
-    {
-     "id": "ad1e248de144",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "irbis.spb.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Отвалите от меня со своей GTA 6». Папич раскритиковал хайп вокруг игры",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDMyYk5RWndWXzd6NEcyR2V4cFhUS0RUUHZ3ZEJBaDEwOUNDVzdkSjRjZmJ2VVZnbGNaUnpGWUV0cFRidjJMazRnWF9WQk5mclR6N1dlUERtU0djRE9Ob19aaEdYVTJ3NUszaWFqdm9SLUNDVWRZODhNLUJFck9uWTJ5ZmNaZG54X1ZTb0tfTHRhNml2cm1pX2czQm9OaUFUWWg3eDZVZnF0VnBld1E?oc=5",
-     "ts": "2026-11-14T15:43:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 48,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6eb4606c89b0",
-   "title": "What if GTA VI got delayed for another year?",
-   "first_seen": "2026-11-14T19:47:38Z",
-   "updated": "2026-11-14T19:47:38Z",
-   "items": [
-    {
-     "id": "6eb4606c89b0",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "What if GTA VI got delayed for another year?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xwbd92/what_if_gta_vi_got_delayed_for_another_year/",
-     "ts": "2026-11-14T19:42:49Z",
-     "summary": "submitted by /u/wafflesinmyhouse to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "дата/перенос"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6e3e4ff2b645",
-   "title": "I still wish cyberleek should’ve never happened",
-   "first_seen": "2026-11-14T19:47:38Z",
-   "updated": "2026-11-14T19:47:38Z",
-   "items": [
-    {
-     "id": "6e3e4ff2b645",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I still wish cyberleek should’ve never happened",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xwbdy6/i_still_wish_cyberleek_shouldve_never_happened/",
-     "ts": "2026-11-14T19:43:37Z",
-     "summary": "A part of me still thinks cyberleek should’ve never happened. While it may have ended the ever lasting long drought, it’s shouldn’t have been like that. The gameplay should’ve never been introduced before our eyes that way. Just imagine watching the extended look first(some people did) with people all around the world live premiere on Netflix with the video starting off with jason and lucia walking “yo crackheads”. Would’ve been such a once in lifetime gameplay reveal moment and it would’ve been talked about for years. I know it was supposed to be a generational moment and cyberleek kinda ruin"
-    }
-   ],
-   "tags": [
-    "анонс",
-    "геймплей",
-    "слив"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8824cc33bc92",
-   "title": "Is GTA 6 Out Now? Grand Theft Auto 6 Launch Day Tracker",
-   "first_seen": "2026-11-14T00:40:49Z",
-   "updated": "2026-11-14T19:40:47Z",
-   "items": [
-    {
-     "id": "8824cc33bc92",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Not playing on launch day...",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xvol5h/not_playing_on_launch_day/",
-     "ts": "2026-11-14T00:32:38Z",
-     "summary": "As the title says, I'm not playing on launch day, and this actually makes me sad. Since 2022, when the first leaks came out, I've been excited to see new info about GTA 6 coming (relatively) soon. My life has been shit since 2023. I've lost friends, had an existential crisis, and all of that crap. I ended my 5-year relationship earlier this year with the person I really wanted to play GTA 6 with when it came out. I was recently fired from a job that would allow me to get a PS5 and GTA 6. I know, I know, I had 6 years to get a PS5 and enough time to save for the game, but hey, life, bills, and "
-    },
-    {
-     "id": "1fdecab1de8c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Is GTA 6 Out Now? Grand Theft Auto 6 Launch Day Tracker",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40YWdVQUJsbWVaUWo3d0hmODBVVWstWEowZWdsUEdVbzBqSmlwU1UzT0w1U0F3S0c4enNBSkQwb195Y3VlQWpmUkpmamhKVC1UVUgxc2hJVXdtOTl1VDJYaWJKc1JWUTRZOHpnb1NNaTg?oc=5",
-     "ts": "2026-11-14T08:32:08Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 88,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "60fc32c02902",
-   "title": "Which storage to install GTA VI on Ps5 Pro?",
-   "first_seen": "2026-11-14T19:40:47Z",
-   "updated": "2026-11-14T19:40:47Z",
-   "items": [
-    {
-     "id": "60fc32c02902",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Which storage to install GTA VI on Ps5 Pro?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xwb3zq/which_storage_to_install_gta_vi_on_ps5_pro/",
-     "ts": "2026-11-14T19:32:02Z",
-     "summary": "Where should I install Gta VI on Ps5 pro? The internal drive or the Wd sn850 m2 ssd in terms of the loading speed etc? submitted by /u/aslanyavrusu86 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4c9a54a61020",
-   "title": "How many times will we buy GTA 6?",
-   "first_seen": "2026-11-14T19:40:47Z",
-   "updated": "2026-11-14T19:40:47Z",
-   "items": [
-    {
-     "id": "4c9a54a61020",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "How many times will we buy GTA 6?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xwb7op/how_many_times_will_we_buy_gta_6/",
-     "ts": "2026-11-14T19:36:25Z",
-     "summary": "submitted by /u/DrasticMart to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-21T19:40:46Z",
+  "last_run": "2026-11-21T19:50:47Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/2",
    "gnews_en: 97/100",
    "gnews_ru: 100/100",
    "gamesbeat: 4/10",
