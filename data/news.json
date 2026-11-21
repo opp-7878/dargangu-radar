@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "0f388c576f69",
+   "title": "'Cops and robbers': Grand Theft Auto VI brings virtual crime, real-world excitement to New Mexico",
+   "first_seen": "2026-11-21T02:40:45Z",
+   "updated": "2026-11-21T02:40:45Z",
+   "items": [
+    {
+     "id": "0f388c576f69",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Albuquerque Journal",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Cops and robbers': Grand Theft Auto VI brings virtual crime, real-world excitement to New Mexico",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaV9faFgtYWZ1M0JzNWJmd2Fld2tET0stYmE4ZXF1WVZVU0NTVXJvOEhOS1ZvbGdsT19obS1FdzRpQk9GellQMlVfWWZzcktEQ09yVzFUQWduRjJtY3BXZDFmbDV5cm1SM2NJOXZ0cTZsbVk0WlZUNWVoTUpNMHpOQzRyRncxNDZhRC1wVkhfM1RrSXhoNEp0VXNDdm9BNUhFZlUxVE9JdTdxd0VyZHVnODI2MzdsVXZxdGw4M1lWQVFrV0pwOExJbkEtMHNkUQ?oc=5",
+     "ts": "2026-11-21T02:31:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4cb7f5cf9aab",
    "title": "RAW: HANDOUT: GTA VI SALES MORE THAN $3B ON FIRST DAY",
    "first_seen": "2026-11-20T22:50:54Z",
@@ -185822,63 +185848,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "74b5e3631bba",
-   "title": "Can we talk about how hard Jason rocks this guy?",
-   "first_seen": "2026-11-14T02:31:05Z",
-   "updated": "2026-11-14T02:31:05Z",
-   "items": [
-    {
-     "id": "74b5e3631bba",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Can we talk about how hard Jason rocks this guy?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xvqik3/can_we_talk_about_how_hard_jason_rocks_this_guy/",
-     "ts": "2026-11-14T02:08:21Z",
-     "summary": "submitted by /u/IsaiahPheifer123 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9eb074f20948",
-   "title": "Not even 1 seconds of release..",
-   "first_seen": "2026-11-14T02:31:05Z",
-   "updated": "2026-11-14T02:31:05Z",
-   "items": [
-    {
-     "id": "9eb074f20948",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Not even 1 seconds of release..",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xvqk65/not_even_1_seconds_of_release/",
-     "ts": "2026-11-14T02:10:40Z",
-     "summary": "submitted by /u/Specialist_Pen_196 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-21T02:31:00Z",
+  "last_run": "2026-11-21T02:40:45Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 99/100",
