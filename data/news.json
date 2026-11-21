@@ -4,7 +4,7 @@
    "id": "4cb7f5cf9aab",
    "title": "RAW: HANDOUT: GTA VI SALES MORE THAN $3B ON FIRST DAY",
    "first_seen": "2026-11-20T22:50:54Z",
-   "updated": "2026-11-21T18:50:45Z",
+   "updated": "2026-11-21T19:01:12Z",
    "items": [
     {
      "id": "4cb7f5cf9aab",
@@ -447,6 +447,19 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DalJ5SElmNHFRXzB4TlNHZGRSZnlKSnQ3d0ZRRWliUTVfTll3MExSbEFJMl9MdU9ZaWw4VE9wb3AwbC11RjF3NjVsR2QyUzZBdEFSZTZXbi1RVXAxeHZGR0xVbWQ0aTRWUHFDUTdpNUtVV28?oc=5",
      "ts": "2026-11-21T18:25:00Z",
      "summary": ""
+    },
+    {
+     "id": "805f238eb908",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Taipei Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA VI’ brings in record US$3.8bn on first day",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PRHNlQzBPT2loQnpMX1NBb1REZFUxbWtSNTc4SmVZNnE4X0dXZGhNbTBjMS1QWmNvV1VuVnpUMUZEcFFIOWhLTS1CeXdudEJBM1BtMHUwQWVqbWFSOTdNOHRfWmJUQmJwSlp5YURoa1R6N19RNzN1RQ?oc=5",
+     "ts": "2026-11-21T16:00:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -456,6 +469,215 @@
    "score": 90,
    "level": "PROBABLE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "deb5d9ab7f3d",
+   "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+   "first_seen": "2026-11-21T18:50:45Z",
+   "updated": "2026-11-21T19:01:12Z",
+   "items": [
+    {
+     "id": "deb5d9ab7f3d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemxUX1hTeE9tTk1oV28yUjU1ZGVDcVozRHEyd0lFVXFNRThKMV9jblFDeVBnRjRXaFhvZUcxeU1oVng2dHdib29PZ3V0TUhsYnVkUEVlWGxoMW02YnZJVVNyZzF0aUtxYW9sTVpVbDNRalVldWJMV2RWNDJqUUtSVnl2VHd3NXNOczlLcEhrTERVX2FpZDRNOWp5bVJQZm93T194NA?oc=5",
+     "ts": "2026-11-21T18:43:54Z",
+     "summary": ""
+    },
+    {
+     "id": "fa540134be07",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTkNfSThIUTVsUHpPWmFYbTMwMW02SGNxempzWVZtQ3doWUNaN3NKYnJkSldXQ3o2YkpHN1RXbzZ4OGctbi1NUUxVQlBkMVlPMk04QjlrUVg4VmM5ZllXQi14TVh5UkNiVzdYOGZsVjVtTDUtaVozNTlwUUFram9nOWN3UU9BTzl0eG1pZHVqVmJOYzBjRmQ2aEZyNzNHTWViOVNkNFEzdGhYX0MxTFg0bnF1UmxLS0d2N3R1dHNQNUg?oc=5",
+     "ts": "2026-11-21T18:55:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 силой мысли: первый геймплей через Neuralink",
+    "summary": "Участник испытаний Neuralink показал, как играет в GTA 6 с помощью нейроинтерфейса. Об этом сообщил IGN. Официально Rockstar это не подтверждала.",
+    "idea": "Короткая нарезка: курсор/прицел двигается без рук, герой бежит и стреляет по мыслям. Это доказывает, что управление реально работает — и выглядит как магия.",
+    "hook": "Он играет в GTA 6 без рук — только силой мысли.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T18:50:51Z"
+   },
+   "msg_id": 1858
+  },
+  {
+   "id": "e56799fd3848",
+   "title": "В GTA VI разблокировали частоту кадров и получили более 60 FPS — игроки раскритиковали Rockstar за отсутствие официального режима",
+   "first_seen": "2026-11-21T18:40:47Z",
+   "updated": "2026-11-21T19:01:12Z",
+   "items": [
+    {
+     "id": "e56799fd3848",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "В GTA VI разблокировали частоту кадров и получили более 60 FPS — игроки раскритиковали Rockstar за отсутствие официального режима",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaGhpRmFvNlNrdHdLUW55ME1NNDNHY3kxSjVnaHZxSW43b2dYZ3B1MTg3QUc5Y1RKV1J1Zk1uLXpBWFJnbzY2UnFBZVZTVjFOQ25iRnBHYVNsaFhtdHppMmJSRElzMlQ3cXl1SlA2VVdxNW1PeG5Rc1VZbVpQSDJRM1lZU1VVbmVnQ2l1ZGh4d1FQZTdETUtLMElfSWFMMjMybjBoS0dzdldIbF92SDRXNjAwVjJ2RTNVMHdsel9OUk5jdElWbTBXYjd3WEY1Q1NZMnhwdWNDeEJENFVSblBqNXotaldxMXpJMmVvQnJBTERwN2dIVDc5NkhB0gH_AUFVX3lxTE1LOU1LekdmUmp6Rmd2am43VGN1d2tDeFhJMjlGSnZWOXRkOUxGOWcyM0taRVc2LVRlSVJXMVJrdHhXZU9rbmN1Q2owSjY5bVgxa0NOTUJmMEx6bEpHaG43U2RSNEM0MnVqTWVtSkNRN1B0RFVzb0FBVmZoZTJFNUlmOXhwOVZOX2t6b2ctaUNaWDlXSk1JX0htbllQSTUxTnEya2lpazBaNnhZQ3dxaEc1cFZEa1BQNmJ2b1VXclVVaXRHd001QzFvNWwtT204Vjd5SFVpV25BMDZPeUh3V1h3TllLS3hsamI2ekZ1MXNOVGpSczZ2Z2Y5OWhCbDdWOA?oc=5",
+     "ts": "2026-11-21T17:52:00Z",
+     "summary": ""
+    },
+    {
+     "id": "59016779b362",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "В GTA VI разблокировали частоту кадров и получили более 60 FPS — игроки раскритиковали Rockstar за отсутствие официального режима",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaGhpRmFvNlNrdHdLUW55ME1NNDNHY3kxSjVnaHZxSW43b2dYZ3B1MTg3QUc5Y1RKV1J1Zk1uLXpBWFJnbzY2UnFBZVZTVjFOQ25iRnBHYVNsaFhtdHppMmJSRElzMlQ3cXl1SlA2VVdxNW1PeG5Rc1VZbVpQSDJRM1lZU1VVbmVnQ2l1ZGh4d1FQZTdETUtLMElfSWFMMjMybjBoS0dzdldIbF92SDRXNjAwVjJ2RTNVMHdsel9OUk5jdElWbTBXYjd3WEY1Q1NZMnhwdWNDeEJENFVSblBqNXotaldxMXpJMmVvQnJBTERwN2dIVDc5NkhB?oc=5",
+     "ts": "2026-11-21T17:52:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4d076445d8ec",
+   "title": "Grand Theft Auto VI: Collectors Box. Whats inside?",
+   "first_seen": "2026-11-21T16:31:04Z",
+   "updated": "2026-11-21T19:01:12Z",
+   "items": [
+    {
+     "id": "4d076445d8ec",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "Grand Theft Auto VI: Collectors Box. Whats inside?",
+     "url": "https://rockstarintel.com/grand-theft-auto-vi-collectors-box-whats-inside/",
+     "ts": "2026-11-21T16:26:11Z",
+     "summary": "Its been a few days since Grand Theft Auto VI released worldwide, and one thing we can say is, that its been a huge success. breaking records left right and centre. As we all know, a few months ago, Rockstar Games announced a Collectors Box, costing a controversial £350 plus shipping. Our collectors box arrived [...] The post Grand Theft Auto VI: Collectors Box. Whats inside? appeared first on RockstarINTEL ."
+    },
+    {
+     "id": "7572f018565a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RockstarINTEL",
+     "group": "media",
+     "weight": 55,
+     "alert": true,
+     "title": "Grand Theft Auto VI: Collectors Box. Whats inside?",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TWE5yZVdabk9XOTRRYVFmckNocEJ2SFl6bTRXUHFCWVBfQ2pGRERfTnduYk5fNFpNblBmVjJ3RzZ6ejViclhqeFBCSG9HWEQzOG9lOVpUSF9UbUtxWng0cHhLWEdObUtpTG83aVNUZ0tTNGJ4ZldvQTdyekg4aFU?oc=5",
+     "ts": "2026-11-21T16:26:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Коллекционка GTA 6 за £350: что внутри",
+    "summary": "Rockstar Games анонсировала коллекционное издание GTA 6 за £350 плюс доставка. По данным Rockstar INTEL, коробка уже приехала автору и игра бьёт рекорды после релиза.",
+    "idea": "Распаковка коллекционки GTA 6 за £350: что реально кладут за такие деньги и стоит ли оно того.",
+    "hook": "£350 за коробку GTA 6 — открываем и смотрим, за что такие деньги.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T16:31:12Z"
+   },
+   "msg_id": 1841
+  },
+  {
+   "id": "a7d251a85635",
+   "title": "Could This Major GTA VI Leak Make It Playable On PC?",
+   "first_seen": "2026-11-20T23:20:48Z",
+   "updated": "2026-11-21T19:01:12Z",
+   "items": [
+    {
+     "id": "a7d251a85635",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Guide",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 could be playable on PC by next week, say modders",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTBPX2VxbmxMbDUxYUdqOWhwa2RLRzRIUlA0dzIxTjVva2ZnNDZuS2dFSWUyWVZQZGdST3dJb1hDOHRkd3F4UzFYQkRVem1wVTJvVHQtcWh4b1kwV0tXM2FDajBNSlA2N2dQekRwN1VFQ3NVNWtfX0NqcjFjcUh5cDZ3T0xqd0NfX0NSYw?oc=5",
+     "ts": "2026-11-20T23:03:21Z",
+     "summary": ""
+    },
+    {
+     "id": "f7a2b81fefe5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RockstarINTEL",
+     "group": "media",
+     "weight": 55,
+     "alert": true,
+     "title": "Could This Major GTA VI Leak Make It Playable On PC?",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGNXUkNaYUU3aDhkWERHbHF5LUd5VmRJSjdXWW5wd1J1c0FOOFlCeFBVLXJXRVd3ZEdoLXl6WmxTUDlEOXJWd293NlM1clVtZU1laVIyTk05LTZ6bURsM2d1dWVlRDJDeVdsamlLcWJncVRTM0gta2t2d2laWFZoZUJkWDQ?oc=5",
+     "ts": "2026-11-21T13:35:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК",
+    "слив"
+   ],
+   "score": 78,
+   "level": "SPECULATION",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "a64946aae72f",
+   "title": "‘GTA VI’ to supercharge Sony — but not so much in Japan",
+   "first_seen": "2026-11-21T19:01:12Z",
+   "updated": "2026-11-21T19:01:12Z",
+   "items": [
+    {
+     "id": "a64946aae72f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Taipei Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA VI’ to supercharge Sony — but not so much in Japan",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50cW1Sc1NDazVQV0tIdE5Dak9lNlVzblRZWkhwWXJVM0g2OXdHS3hJTTJVbWxxTDYxWC1jbjZmb0NhYnFmRFNjLTFMR0FzZjRyVlZzUzFEUmpPU1pVUXZTZ3JfV2ozcVRtMWZnRDJhaE5Lc1pnbEE?oc=5",
+     "ts": "2026-11-21T16:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -572,43 +794,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "deb5d9ab7f3d",
-   "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
-   "first_seen": "2026-11-21T18:50:45Z",
-   "updated": "2026-11-21T18:50:45Z",
-   "items": [
-    {
-     "id": "deb5d9ab7f3d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemxUX1hTeE9tTk1oV28yUjU1ZGVDcVozRHEyd0lFVXFNRThKMV9jblFDeVBnRjRXaFhvZUcxeU1oVng2dHdib29PZ3V0TUhsYnVkUEVlWGxoMW02YnZJVVNyZzF0aUtxYW9sTVpVbDNRalVldWJMV2RWNDJqUUtSVnl2VHd3NXNOczlLcEhrTERVX2FpZDRNOWp5bVJQZm93T194NA?oc=5",
-     "ts": "2026-11-21T18:43:54Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 силой мысли: первый геймплей через Neuralink",
-    "summary": "Участник испытаний Neuralink показал, как играет в GTA 6 с помощью нейроинтерфейса. Об этом сообщил IGN. Официально Rockstar это не подтверждала.",
-    "idea": "Короткая нарезка: курсор/прицел двигается без рук, герой бежит и стреляет по мыслям. Это доказывает, что управление реально работает — и выглядит как магия.",
-    "hook": "Он играет в GTA 6 без рук — только силой мысли.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-21T18:50:51Z"
-   },
-   "msg_id": 1858
   },
   {
    "id": "a16e8b2902e5",
@@ -829,32 +1014,6 @@
    ],
    "tags": [],
    "score": 53,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e56799fd3848",
-   "title": "В GTA VI разблокировали частоту кадров и получили более 60 FPS — игроки раскритиковали Rockstar за отсутствие официального режима",
-   "first_seen": "2026-11-21T18:40:47Z",
-   "updated": "2026-11-21T18:40:47Z",
-   "items": [
-    {
-     "id": "e56799fd3848",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "В GTA VI разблокировали частоту кадров и получили более 60 FPS — игроки раскритиковали Rockstar за отсутствие официального режима",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaGhpRmFvNlNrdHdLUW55ME1NNDNHY3kxSjVnaHZxSW43b2dYZ3B1MTg3QUc5Y1RKV1J1Zk1uLXpBWFJnbzY2UnFBZVZTVjFOQ25iRnBHYVNsaFhtdHppMmJSRElzMlQ3cXl1SlA2VVdxNW1PeG5Rc1VZbVpQSDJRM1lZU1VVbmVnQ2l1ZGh4d1FQZTdETUtLMElfSWFMMjMybjBoS0dzdldIbF92SDRXNjAwVjJ2RTNVMHdsel9OUk5jdElWbTBXYjd3WEY1Q1NZMnhwdWNDeEJENFVSblBqNXotaldxMXpJMmVvQnJBTERwN2dIVDc5NkhB0gH_AUFVX3lxTE1LOU1LekdmUmp6Rmd2am43VGN1d2tDeFhJMjlGSnZWOXRkOUxGOWcyM0taRVc2LVRlSVJXMVJrdHhXZU9rbmN1Q2owSjY5bVgxa0NOTUJmMEx6bEpHaG43U2RSNEM0MnVqTWVtSkNRN1B0RFVzb0FBVmZoZTJFNUlmOXhwOVZOX2t6b2ctaUNaWDlXSk1JX0htbllQSTUxTnEya2lpazBaNnhZQ3dxaEc1cFZEa1BQNmJ2b1VXclVVaXRHd001QzFvNWwtT204Vjd5SFVpV25BMDZPeUh3V1h3TllLS3hsamI2ekZ1MXNOVGpSczZ2Z2Y5OWhCbDdWOA?oc=5",
-     "ts": "2026-11-21T17:52:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -3454,45 +3613,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4d076445d8ec",
-   "title": "Grand Theft Auto VI: Collectors Box. Whats inside?",
-   "first_seen": "2026-11-21T16:31:04Z",
-   "updated": "2026-11-21T16:31:04Z",
-   "items": [
-    {
-     "id": "4d076445d8ec",
-     "src": "rockstarintel",
-     "src_name": "Rockstar INTEL",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 55,
-     "alert": true,
-     "title": "Grand Theft Auto VI: Collectors Box. Whats inside?",
-     "url": "https://rockstarintel.com/grand-theft-auto-vi-collectors-box-whats-inside/",
-     "ts": "2026-11-21T16:26:11Z",
-     "summary": "Its been a few days since Grand Theft Auto VI released worldwide, and one thing we can say is, that its been a huge success. breaking records left right and centre. As we all know, a few months ago, Rockstar Games announced a Collectors Box, costing a controversial £350 plus shipping. Our collectors box arrived [...] The post Grand Theft Auto VI: Collectors Box. Whats inside? appeared first on RockstarINTEL ."
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Коллекционка GTA 6 за £350: что внутри",
-    "summary": "Rockstar Games анонсировала коллекционное издание GTA 6 за £350 плюс доставка. По данным Rockstar INTEL, коробка уже приехала автору и игра бьёт рекорды после релиза.",
-    "idea": "Распаковка коллекционки GTA 6 за £350: что реально кладут за такие деньги и стоит ли оно того.",
-    "hook": "£350 за коробку GTA 6 — открываем и смотрим, за что такие деньги.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-21T16:31:12Z"
-   },
-   "msg_id": 1841
   },
   {
    "id": "80590ea981a6",
@@ -18389,34 +18509,6 @@
    "score": 58,
    "level": "PROBABLE",
    "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "a7d251a85635",
-   "title": "GTA 6 could be playable on PC by next week, say modders",
-   "first_seen": "2026-11-20T23:20:48Z",
-   "updated": "2026-11-20T23:20:48Z",
-   "items": [
-    {
-     "id": "a7d251a85635",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PC Guide",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 could be playable on PC by next week, say modders",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTBPX2VxbmxMbDUxYUdqOWhwa2RLRzRIUlA0dzIxTjVva2ZnNDZuS2dFSWUyWVZQZGdST3dJb1hDOHRkd3F4UzFYQkRVem1wVTJvVHQtcWh4b1kwV0tXM2FDajBNSlA2N2dQekRwN1VFQ3NVNWtfX0NqcjFjcUh5cDZ3T0xqd0NfX0NSYw?oc=5",
-     "ts": "2026-11-20T23:03:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -190517,14 +190609,14 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-21T18:50:55Z",
+  "last_run": "2026-11-21T19:01:12Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 97/100",
-   "gnews_ru: 99/100",
+   "rockstar_site: 0/1",
+   "gnews_en: 96/100",
+   "gnews_ru: 100/100",
    "gamesbeat: 4/10",
    "vgc: 10/10",
-   "insider_gaming: 7/10",
+   "insider_gaming: 6/10",
    "ign: 7/20",
    "eurogamer: 14/100",
    "dexerto_gta: 12/50",
