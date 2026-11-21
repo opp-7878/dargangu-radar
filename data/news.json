@@ -1,6 +1,238 @@
 {
  "stories": [
   {
+   "id": "09b6e1e724a6",
+   "title": "How Grand Theft Auto VI's launch surpassed expectations",
+   "first_seen": "2026-11-21T10:20:53Z",
+   "updated": "2026-11-21T10:31:00Z",
+   "items": [
+    {
+     "id": "09b6e1e724a6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Reuters",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How Grand Theft Auto VI's launch surpassed expectations",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWC12bUo0X3M1alRPRHNvSVRBSnRMbUdzVmltRHdRUW9qdGl5NHNpdXhvU0dmUnkxQkRtcU9QeENzQzFpUVdvTHFsbW1JUHFTUmdqcFRzWXhiOVRvb2R6Y1UyOFJQOGZDSG82ODR1VHVucEFpbXU5RkhCUS1nTXZLLVdFSTdUZlZvUGJaLWlJU3d4b0t0RU55ZFhMVDROdmZLQlZIODZR?oc=5",
+     "ts": "2026-11-21T10:05:48Z",
+     "summary": ""
+    },
+    {
+     "id": "7de9b09806d4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "marketscreener.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How Grand Theft Auto VI's launch surpassed expectations",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRVNtVU41M3pnZmN2eWFmTEllS1FYMTQ2XzdobnN4LU5aSnkyT1ozZE1tZXZMNGRZVUtnMEVJc3RteV9sY3h2Q0F6VDJRUlZuYWc2N1NrV1RHdzFaWHB4NE5zTUhSbXR2UzZudW55WVZLMThjSWk3TVh0TUJrTkpLUElKbFBXVEVjQ3RUUnJ2anJhMURKb3dCRWdBQTRZT1pxQ2I0LVIzMlVOcUpD?oc=5",
+     "ts": "2026-11-21T10:01:18Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 побила ожидания: что пишут Reuters и marketscreener",
+    "summary": "По данным Reuters и marketscreener, запуск GTA 6 превзошёл ожидания. Журналисты отмечают сильный старт продаж и интерес игроков, без новых дат и деталей от Rockstar.",
+    "idea": "Короткий разбор заголовков Reuters и marketscreener: что значит «превзошёл ожидания» для игроков. Зрителю важно понять, о чём именно пишут СМИ и чего ждать дальше.",
+    "hook": "Reuters и marketscreener пишут: запуск GTA 6 превзошёл ожидания. Что это значит?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T10:31:08Z"
+   },
+   "msg_id": 1800
+  },
+  {
+   "id": "1bbe721fa56a",
+   "title": "Veyra 2.2.0 expands GTA 6 launch capabilities on PC via PlayStation 5",
+   "first_seen": "2026-11-21T09:30:58Z",
+   "updated": "2026-11-21T10:31:00Z",
+   "items": [
+    {
+     "id": "1bbe721fa56a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Завистливые ПК-бояре устроили GTA 6 геноцид на MetaCritic: у игры всего 5.5 балла от «игроков»",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakdNWVhtVDRST0FoNG10ZlVJaG5hWkpIS1ZaRjluamFRYjBxU2NpMUpLWWcyRFhhN1ZlU2Y5eXVRRlVjUHctYlZVN1lLT2xkTjNIUWF6YS1aZkUycktlenlyQV82a3ZHSWtxYk5DcS1QajdyUTMxcXl5OFpPaG5vazROYTZuR0s3Q1ZHVU5yc2F5U2k5Qk9td1FpakRUUy1Gb002Tlh1YzFoQ0tOYjVaSEVfdTNPMlJfalE?oc=5",
+     "ts": "2026-11-21T09:25:46Z",
+     "summary": ""
+    },
+    {
+     "id": "e90453ca94f1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Veyra 2.2.0 expands GTA 6 launch capabilities on PC via PlayStation 5",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXhoZ2JURmxmRV9VZ3hOYjN0b1B0Q29kb1RZelIwWFlFX09EakV0VWxiYW9pV0FrdHBlMnpKNnhsRk5Tdlk5dDZ2QUdiVng0T001dHBOMGFuT3VUTG5vOE9SLVRaVGxkWFdWbV9SRXE5OXBKd2VORWNfSEZtX2dKLWV1OGRGMHhPdnlVb2F1NThINU1QS21USlRLN21XR193eVpsWnlETWo5Z2t4S3c?oc=5",
+     "ts": "2026-11-21T10:26:13Z",
+     "summary": ""
+    },
+    {
+     "id": "6f3f53a69f19",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Veyra 2.2.0 расширила возможности запуска GTA 6 на ПК через PlayStation 5",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTQxaHYxcGlNTXA2SGZOUV9iWEpaaXQxcDM3ZjVoWjNnS2MyZldvejJua2NsdHlDcmVyaGFEclhhcUZlMzlNajZScDJEQVZlYjYtUzhpRGc5TFVEYURxQ0xBVkdFTzgwS082VDJZQWFBdWJ2YWFkMm9TR2gzUndvUXAtUFFnR0RpQmtWZHgyMTdTNlNKdEdwTzloSmwzZnprbFREMWJkNjd6Zw?oc=5",
+     "ts": "2026-11-21T10:26:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "ПК-бояре утопили GTA 6 на MetaCritic: 5.5 от игроков",
+    "summary": "По данным GoHa.Ru, пользователи ПК поставили GTA 6 на MetaCritic среднюю оценку 5.5. Причина — отсутствие ПК-версии на старте и перенос на первый квартал 2027.",
+    "idea": "Короткий разбор «реванша ПК-бояр»: почему ставят единицы и что это значит для рейтинга. Плюс экран MetaCritic как доказательство.",
+    "hook": "ПК-бояре мстят: GTA 6 на MetaCritic — 5.5 от игроков. Вот почему.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T09:31:02Z"
+   },
+   "msg_id": 1797
+  },
+  {
+   "id": "ae2da0b7cbd2",
+   "title": "Your kid wants to play Grand Theft Auto VI? Here's what you need to know",
+   "first_seen": "2026-11-20T13:08:41Z",
+   "updated": "2026-11-21T10:31:00Z",
+   "items": [
+    {
+     "id": "ae2da0b7cbd2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CBC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Your kid wants to play Grand Theft Auto VI? Here's what you need to know",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OQ3FoeFNvcFRGeHRGaUVXd3M3RFYzWFlBd3dTZDhLdlJQQm11Smd6UjRySW1TcHdOOEd5MENGakx3MThWb3kyRlBvZVNLZzlDS095ZkhkUUt3SkpBOUowMXVoUEd2YXVBMGZXMVY3S1ZKbWJHWllLazJn?oc=5",
+     "ts": "2026-11-20T13:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "a3886721aebf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable SEA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Your teen wants to play 'GTA 6'. Here's what to know.",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzROMEFsLVVMX2hwVENZSFkwbnNEZXdRNVNOdFE4enMxWG5xWDM4UTlvUXhyclZvZVRHTi1qVzZaT3RHRFlIZ3QyMGlMNUpnMmJLaEtBRHc2em9qZEFCRXNuaEpfeU9ZQ3FwclZUZU56QlFrY1BjRE9Eak1QbWtpRkgyTDNKYjMwUGs3TFN3?oc=5",
+     "ts": "2026-11-21T10:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "31953e8e419a",
+   "title": "Rockstar объяснила ограничение 30 FPS в GTA VI на консолях мощностью CPU",
+   "first_seen": "2026-11-21T10:31:00Z",
+   "updated": "2026-11-21T10:31:00Z",
+   "items": [
+    {
+     "id": "31953e8e419a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar объяснила ограничение 30 FPS в GTA VI на консолях мощностью CPU",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEhVYWtqcFJuQm1ILXlPcWl4aW8zSUFqNXdKWF84Z1pXLUtha1RIc016N3hvd1hTY0NkLTBZS21MSTQ3MTNSa2RteTdrbjlJWHJiNHFxQnRWeUduUkJHeG1RRGNHTjhVU0dnTllJSVJWRWNKME1jdE5pcGExYzlnbQ?oc=5",
+     "ts": "2026-11-21T09:43:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8a5cfaad2041",
+   "title": "GTA VI вызвала настоящий бум в Индии",
+   "first_seen": "2026-11-21T10:31:00Z",
+   "updated": "2026-11-21T10:31:00Z",
+   "items": [
+    {
+     "id": "8a5cfaad2041",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Большая Азия",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI вызвала настоящий бум в Индии",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2RFdGFEZXl1WVNmSmk1Nm83dmVyejU3X0VGZHdfM3d6MFVSRmx2T054WmdSSGMzTW9YaHJnMERKYmFrd09RVW9BQVZ0SmtXazY2dGdUVWc3RGhGNVk1STREUFpSSVNDRmFUZkE0am1PU2JaNzhIS2RJNklmS19VbWdBdlFCXzk1WUE?oc=5",
+     "ts": "2026-11-21T10:17:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ef951d12635e",
+   "title": "Greek PM faces backlash for promoting mature-content GTA VI as Christmas gift for children",
+   "first_seen": "2026-11-21T10:31:00Z",
+   "updated": "2026-11-21T10:31:00Z",
+   "items": [
+    {
+     "id": "ef951d12635e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TRT World",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Greek PM faces backlash for promoting mature-content GTA VI as Christmas gift for children",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0SXh4TG9LaXZPRm41MmNjVzFWMm5QS1JnSWpiakFaMlpNRTJURVIxTWM4NGVVdDdBUWVxN2F0NXBJZDFyYXEtbUNUb0tLRUFvN3N3OFM0emM?oc=5",
+     "ts": "2026-11-21T10:25:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "459286a7d97f",
    "title": "Experts have tips for parents to navigate hype around 'GTA VI' and its mature content",
    "first_seen": "2026-11-20T23:50:49Z",
@@ -309,32 +541,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "09b6e1e724a6",
-   "title": "How Grand Theft Auto VI's launch surpassed expectations",
-   "first_seen": "2026-11-21T10:20:53Z",
-   "updated": "2026-11-21T10:20:53Z",
-   "items": [
-    {
-     "id": "09b6e1e724a6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Reuters",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How Grand Theft Auto VI's launch surpassed expectations",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWC12bUo0X3M1alRPRHNvSVRBSnRMbUdzVmltRHdRUW9qdGl5NHNpdXhvU0dmUnkxQkRtcU9QeENzQzFpUVdvTHFsbW1JUHFTUmdqcFRzWXhiOVRvb2R6Y1UyOFJQOGZDSG82ODR1VHVucEFpbXU5RkhCUS1nTXZLLVdFSTdUZlZvUGJaLWlJU3d4b0t0RU55ZFhMVDROdmZLQlZIODZR?oc=5",
-     "ts": "2026-11-21T10:05:48Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -2185,45 +2391,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "1bbe721fa56a",
-   "title": "Завистливые ПК-бояре устроили GTA 6 геноцид на MetaCritic: у игры всего 5.5 балла от «игроков»",
-   "first_seen": "2026-11-21T09:30:58Z",
-   "updated": "2026-11-21T09:30:58Z",
-   "items": [
-    {
-     "id": "1bbe721fa56a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Завистливые ПК-бояре устроили GTA 6 геноцид на MetaCritic: у игры всего 5.5 балла от «игроков»",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakdNWVhtVDRST0FoNG10ZlVJaG5hWkpIS1ZaRjluamFRYjBxU2NpMUpLWWcyRFhhN1ZlU2Y5eXVRRlVjUHctYlZVN1lLT2xkTjNIUWF6YS1aZkUycktlenlyQV82a3ZHSWtxYk5DcS1QajdyUTMxcXl5OFpPaG5vazROYTZuR0s3Q1ZHVU5yc2F5U2k5Qk9td1FpakRUUy1Gb002Tlh1YzFoQ0tOYjVaSEVfdTNPMlJfalE?oc=5",
-     "ts": "2026-11-21T09:25:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "ПК-бояре утопили GTA 6 на MetaCritic: 5.5 от игроков",
-    "summary": "По данным GoHa.Ru, пользователи ПК поставили GTA 6 на MetaCritic среднюю оценку 5.5. Причина — отсутствие ПК-версии на старте и перенос на первый квартал 2027.",
-    "idea": "Короткий разбор «реванша ПК-бояр»: почему ставят единицы и что это значит для рейтинга. Плюс экран MetaCritic как доказательство.",
-    "hook": "ПК-бояре мстят: GTA 6 на MetaCritic — 5.5 от игроков. Вот почему.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-21T09:31:02Z"
-   },
-   "msg_id": 1797
   },
   {
    "id": "067a1e29d683",
@@ -27746,32 +27913,6 @@
      "title": "GTA 6's Mandy actress issues statement while gamers divided over ‘fixing sink’ scene",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTl1TUc2TGRiZ1VFVFFKTzFFYjJCLV83b3F1VWU2S2FBdERINDFlU1ZxdjJuS2R0akJRLXk4UC00V184M0ZjZXJWVWE5TE50ZFdqb0pkY1BDMmNFOWFZZS11X2dlT2Q2TWVpMTJ1d2k5aWFNOWpVQllaTTA0MUFtNndHYThPT1p0dXNGNGZCZw?oc=5",
      "ts": "2026-11-20T12:59:35Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ae2da0b7cbd2",
-   "title": "Your kid wants to play Grand Theft Auto VI? Here's what you need to know",
-   "first_seen": "2026-11-20T13:08:41Z",
-   "updated": "2026-11-20T13:08:41Z",
-   "items": [
-    {
-     "id": "ae2da0b7cbd2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "CBC",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Your kid wants to play Grand Theft Auto VI? Here's what you need to know",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OQ3FoeFNvcFRGeHRGaUVXd3M3RFYzWFlBd3dTZDhLdlJQQm11Smd6UjRySW1TcHdOOEd5MENGakx3MThWb3kyRlBvZVNLZzlDS095ZkhkUUt3SkpBOUowMXVoUEd2YXVBMGZXMVY3S1ZKbWJHWllLazJn?oc=5",
-     "ts": "2026-11-20T13:00:00Z",
      "summary": ""
     }
    ],
@@ -187250,48 +187391,22 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "5939e1e91aef",
-   "title": "GTA 6 has a whole cartoon TV show inside the game, and fans are losing it!",
-   "first_seen": "2026-11-14T10:31:07Z",
-   "updated": "2026-11-14T10:31:07Z",
-   "items": [
-    {
-     "id": "5939e1e91aef",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Times of India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 has a whole cartoon TV show inside the game, and fans are losing it!",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOV3EzRDdOTm1XdnVBdDYyNUpVWWVTYzg1MWU5NVBwc1AyajBwa3h3dk9ya1dLN1J2dkxDOEpjbFpzbVZWWU1CY1VfdmtwbmM1UFJYVDFpYnZoVFJWTGxkNjlEbjVUZW1hRVNqNEE4d3BQSmNVUUp3aHdBR1V6WDFjNmtNUWwzOTdfbTRJZ09vYlBQcG95VklaZHJmMHJHcnlDMUJjeU5XMXNKTEN3c1F5enFUZ1JtM29XSWlUczRoTlNfcWtQcXMycFNMdVZpXzB1S3liX3p4WW5qcDFnOHJUNElqUXjSAeoBQVVfeXFMTW5XcWpiczJucDd2SF9OamZzSHRVSl83aGpVemVCVE5tMHU4OUFrMkpUdlUyNEc1dU44WHJ6azhPRzh2NjJtMEU5RndZMFJEVUt1azJxYjlEZVVBSWYyeUR4QmNRWl9WZlJCQXJGa2NkUWpwMkFqSTZfUW9PQUE1UUlmM1VIU3lDQ2F3NFBKWFJIVDhTQ1RDOWktQTFHc1ZFaUJJNC1sMm84a25icVNkNklid05EY3ktRlV4d1BVb1FWcGl4cHNSNmoydllPRl9vZVN0b011QjdDTUFYYllFRGE0Y2tIWjAxbUh3?oc=5",
-     "ts": "2026-11-14T10:18:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-21T10:20:59Z",
+  "last_run": "2026-11-21T10:31:08Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 98/100",
-   "gnews_ru: 99/100",
+   "gnews_en: 97/100",
+   "gnews_ru: 98/100",
    "gamesbeat: 3/10",
    "vgc: 10/10",
    "insider_gaming: 6/10",
    "ign: 6/20",
    "eurogamer: 20/100",
    "dexerto_gta: 13/50",
-   "rockstarintel: 10/10",
+   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
    "gtaboom: 30/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 13/13",
