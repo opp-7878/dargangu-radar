@@ -1,6 +1,121 @@
 {
  "stories": [
   {
+   "id": "2e83dc95b3c4",
+   "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
+   "first_seen": "2026-11-21T00:10:49Z",
+   "updated": "2026-11-21T01:01:11Z",
+   "items": [
+    {
+     "id": "2e83dc95b3c4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkxQcXBESzAxZXJxenBMOXp6UmQzRzhxVm1Ya1EyM0hEMlYwWVdfbnZtaG9LUnBzc0FKdkJxaEVKMnhqZks0ZUtEWkFmODJwazJYSG14UlRxamlhY01JVXhLNXhpVW53ajRQTjZQYnFtUzdqSWVpbWZ6dS1QeG1JNFFlRzhRTnp5ajBRSWp4N2RvMVU4aU9OVUlBTWloeV9FNVVNWDRlMjlZNDJ2UlNJLXpJeEM?oc=5",
+     "ts": "2026-11-21T00:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "db81dd1359b9",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
+     "url": "https://www.ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history",
+     "ts": "2026-11-20T23:30:15Z",
+     "summary": "Comcast has said GTA 6's launch triggered the busiest traffic day the company has seen since it was founded in 1963."
+    },
+    {
+     "id": "7be27e93e7da",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Comcast Records Busiest Day in Company History Thanks to GTA 6 Pre-Loading",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSFZMdkhXcEoyLW15b2lkMkhxcDNrRkJmTTdOcTdBWEJhbk81eDFndmFBSnM5ZGZGUUVSTUVZQXRMYzVNUkNNVHoyaUstbllSQkEwVnE2QWRudHhUZ2hTNU5WWDkybUtiS3Rha09mWHVnV2FKR3ZYSGx4Y1ROOHVjb0xBR0RZMVM1U3c?oc=5",
+     "ts": "2026-11-20T23:30:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Запуск GTA 6 обрушил сеть Comcast: рекорд трафика",
+    "summary": "По данным IGN, запуск GTA 6 вызвал самый загруженный день трафика в истории Comcast с 1963 года. Об этом сообщила сама компания Comcast.",
+    "idea": "Короткий факт-рекорд: показать шкалу «трафик Comcast» и стрелку на пике в день выхода GTA 6. Зрителю интересно увидеть масштаб нагрузки на сеть в цифрах и реакции игроков.",
+    "hook": "GTA 6 не только побила рекорды продаж, но и обрушила Comcast.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T00:31:06Z"
+   },
+   "msg_id": 1777
+  },
+  {
+   "id": "3688a8dad45e",
+   "title": "Grand Theft Auto VI (Video Game) Review: The Latest Chapter of Rockstar’s Crime Saga Overdelivers Aft...",
+   "first_seen": "2026-11-21T01:01:11Z",
+   "updated": "2026-11-21T01:01:11Z",
+   "items": [
+    {
+     "id": "3688a8dad45e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "JoBlo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI (Video Game) Review: The Latest Chapter of Rockstar’s Crime Saga Overdelivers Aft...",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1Y2JCdUMzMWw4OFhOUkJxNWE2dHNIVEQ1Qkphbjl0TjdTVEp5azlvbHVzelpyYkg1VUtqT3dqalZVOVExY2N5dE9fNUJTT3l5bU40VVYydXlGWi010gFiQVVfeXFMTkxYZU5Jd0J3T1BvQkcyd1M1Q0RmcnRFMTc5YXZlYmlaY01pTFp3WU1vbVoyYjRmOTdoZF84QjJEMGYxdTlWeXB2NXlsY2U5Tm85V0Q0MnJKWE1FeEFkWTFnTVE?oc=5",
+     "ts": "2026-11-20T22:28:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "56b331b7e587",
+   "title": "‘Grand Theft Auto VI’ is packed with Bay Area music",
+   "first_seen": "2026-11-21T01:01:11Z",
+   "updated": "2026-11-21T01:01:11Z",
+   "items": [
+    {
+     "id": "56b331b7e587",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "San Francisco Chronicle",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ is packed with Bay Area music",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVI2Tk5NS2YwNUpQbXlmaHc4eHdGaWlGc2N6VDE3dElKT0hXTEdBOW1aeTdoa05fb0k4SHVwUDJ6cUxzdGh0Sm9od0tmdF84eHduR3VxTVFsOUozUzh2Q19sblZ6ck9Lb3hRdnRPU3pNeEpDTlBOM2R1eDVLNWMxeWlCWEEwdWVOVWdWTVJocmZ3Q1FiMFE?oc=5",
+     "ts": "2026-11-21T00:02:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "6f9f8bab8cbb",
    "title": "GTA 6 Sets New Sales Record for Rockstar Just One Day In",
    "first_seen": "2026-11-20T16:20:53Z",
@@ -601,56 +716,6 @@
     "at": "2026-11-21T00:20:53Z"
    },
    "msg_id": 1776
-  },
-  {
-   "id": "2e83dc95b3c4",
-   "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
-   "first_seen": "2026-11-21T00:10:49Z",
-   "updated": "2026-11-21T00:31:00Z",
-   "items": [
-    {
-     "id": "2e83dc95b3c4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkxQcXBESzAxZXJxenBMOXp6UmQzRzhxVm1Ya1EyM0hEMlYwWVdfbnZtaG9LUnBzc0FKdkJxaEVKMnhqZks0ZUtEWkFmODJwazJYSG14UlRxamlhY01JVXhLNXhpVW53ajRQTjZQYnFtUzdqSWVpbWZ6dS1QeG1JNFFlRzhRTnp5ajBRSWp4N2RvMVU4aU9OVUlBTWloeV9FNVVNWDRlMjlZNDJ2UlNJLXpJeEM?oc=5",
-     "ts": "2026-11-21T00:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "db81dd1359b9",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
-     "url": "https://www.ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history",
-     "ts": "2026-11-20T23:30:15Z",
-     "summary": "Comcast has said GTA 6's launch triggered the busiest traffic day the company has seen since it was founded in 1963."
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Запуск GTA 6 обрушил сеть Comcast: рекорд трафика",
-    "summary": "По данным IGN, запуск GTA 6 вызвал самый загруженный день трафика в истории Comcast с 1963 года. Об этом сообщила сама компания Comcast.",
-    "idea": "Короткий факт-рекорд: показать шкалу «трафик Comcast» и стрелку на пике в день выхода GTA 6. Зрителю интересно увидеть масштаб нагрузки на сеть в цифрах и реакции игроков.",
-    "hook": "GTA 6 не только побила рекорды продаж, но и обрушила Comcast.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-21T00:31:06Z"
-   },
-   "msg_id": 1777
   },
   {
    "id": "3ace8f88f8b0",
@@ -185777,7 +185842,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-21T00:50:55Z",
+  "last_run": "2026-11-21T01:01:11Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
