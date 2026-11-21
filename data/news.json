@@ -1,111 +1,22 @@
 {
  "stories": [
   {
-   "id": "09b6e1e724a6",
-   "title": "How Grand Theft Auto VI's launch surpassed expectations",
-   "first_seen": "2026-11-21T10:20:53Z",
-   "updated": "2026-11-21T11:01:17Z",
+   "id": "a22d26f5a31c",
+   "title": "GTA 6’s pedestrians are built to the same standard as Jason and Lucia",
+   "first_seen": "2026-11-21T11:10:53Z",
+   "updated": "2026-11-21T11:10:53Z",
    "items": [
     {
-     "id": "09b6e1e724a6",
+     "id": "a22d26f5a31c",
      "src": "gnews_en",
      "src_name": "Google News EN",
-     "outlet": "Reuters",
+     "outlet": "Creative Bloq",
      "group": "media",
      "weight": 50,
      "alert": true,
-     "title": "How Grand Theft Auto VI's launch surpassed expectations",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWC12bUo0X3M1alRPRHNvSVRBSnRMbUdzVmltRHdRUW9qdGl5NHNpdXhvU0dmUnkxQkRtcU9QeENzQzFpUVdvTHFsbW1JUHFTUmdqcFRzWXhiOVRvb2R6Y1UyOFJQOGZDSG82ODR1VHVucEFpbXU5RkhCUS1nTXZLLVdFSTdUZlZvUGJaLWlJU3d4b0t0RU55ZFhMVDROdmZLQlZIODZR?oc=5",
-     "ts": "2026-11-21T10:05:48Z",
-     "summary": ""
-    },
-    {
-     "id": "7de9b09806d4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "marketscreener.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How Grand Theft Auto VI's launch surpassed expectations",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRVNtVU41M3pnZmN2eWFmTEllS1FYMTQ2XzdobnN4LU5aSnkyT1ozZE1tZXZMNGRZVUtnMEVJc3RteV9sY3h2Q0F6VDJRUlZuYWc2N1NrV1RHdzFaWHB4NE5zTUhSbXR2UzZudW55WVZLMThjSWk3TVh0TUJrTkpLUElKbFBXVEVjQ3RUUnJ2anJhMURKb3dCRWdBQTRZT1pxQ2I0LVIzMlVOcUpD?oc=5",
-     "ts": "2026-11-21T10:01:18Z",
-     "summary": ""
-    },
-    {
-     "id": "c1a7351ce524",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WTVB",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How Grand Theft Auto VI’s launch surpassed expectations",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUZUZmtxdWJtWlMxOC1WWnZWbHpkVmtZR016U0ZnMEZlbXFfdE11Q2NUMGVqbVNZSDhCb190SzN3MlI4THNYc2lxSG5sRXRMWDdZLU41SUFHd1B4cU1DUEZvZThfc2x3VGpPQkNjbDY0VW8zaktBSVRkUFFNVkN0a29RSWM1b3FDNGdsM2x3?oc=5",
-     "ts": "2026-11-21T10:24:17Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 побила ожидания: что пишут Reuters и marketscreener",
-    "summary": "По данным Reuters и marketscreener, запуск GTA 6 превзошёл ожидания. Журналисты отмечают сильный старт продаж и интерес игроков, без новых дат и деталей от Rockstar.",
-    "idea": "Короткий разбор заголовков Reuters и marketscreener: что значит «превзошёл ожидания» для игроков. Зрителю важно понять, о чём именно пишут СМИ и чего ждать дальше.",
-    "hook": "Reuters и marketscreener пишут: запуск GTA 6 превзошёл ожидания. Что это значит?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-21T10:31:08Z"
-   },
-   "msg_id": 1800
-  },
-  {
-   "id": "5ae4598c87f7",
-   "title": "Блогер Кристина Невская: мужчинам играть за Лусию в GTA 6 — нормально",
-   "first_seen": "2026-11-21T11:01:17Z",
-   "updated": "2026-11-21T11:01:17Z",
-   "items": [
-    {
-     "id": "5ae4598c87f7",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Блогер Кристина Невская: мужчинам играть за Лусию в GTA 6 — нормально",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDhjMDYwRXFjZlIxVFpSbE9HQ3pHZHNNT24wamdNdFlyMWVUY2NiQkhtR3BTOVZtY1NtNzV4czBXV0YyeWNGbHY1RklBM203V0JMdkplWllWNWt1bTBndmlIbU4tbEprUHYxSGNrRlZ5bTI3ZGZqTnc4X2pueDlhS0FhemdhNThucHdKVW9FUTBGcEozZVVhY2lDVmhNTTQ?oc=5",
-     "ts": "2026-11-21T07:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "170e506cfca2",
-   "title": "Trump calls Xi and Putin a notable word, and we finally get ‘GTA VI’ after all: The news quiz",
-   "first_seen": "2026-11-21T11:01:17Z",
-   "updated": "2026-11-21T11:01:17Z",
-   "items": [
-    {
-     "id": "170e506cfca2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NBC News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Trump calls Xi and Putin a notable word, and we finally get ‘GTA VI’ after all: The news quiz",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODZxNWluLV9HWmFpeHlZUVpId0thQU5INktoaVJaNk4ya29zOTNieWNoTTQ5ZGNjbHEyZktIaVBpYS1Kd3p2Yl9uVVctX1lZeXFWeHM3cm1iN1MtMkt0VGExNm0xd0Vlakc2NE5zSHR6d2F5R2tMdUlrRHFzZnNiOE5VRG0?oc=5",
-     "ts": "2026-11-21T10:15:00Z",
+     "title": "GTA 6’s pedestrians are built to the same standard as Jason and Lucia",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkt5SGZMelNCZGZBUUQ0UEROYXBqMkxObWR1SHA2OXhUZG1sZ3RJRG1JRU14Y1RzNVhpeUdzQnRKcnY5SlRCZXRRclIxd0R4dzJZaFdwbF9CY0FUd3pLSG1nYlc2T3J0UlJpNmVXbm9jNENNWDBDUUpiRWQ0VXB2X0lRYkw0YWgtRGlUTG00eFlVRUY4Z05Pa1lPMjBPVFJvMnFSVw?oc=5",
+     "ts": "2026-11-21T11:00:00Z",
      "summary": ""
     }
    ],
@@ -116,48 +27,100 @@
    "status": "new"
   },
   {
-   "id": "f56f3579ce53",
-   "title": "Продажи GTA VI достигли 19 млн копий: доходы разработчиков, стримы и будущее игры",
-   "first_seen": "2026-11-21T11:01:17Z",
-   "updated": "2026-11-21T11:01:17Z",
+   "id": "cc7279c828ef",
+   "title": "'I'm hit with a feeling of self-healing': The moment I realised GTA 6 was one of the greatest games ever",
+   "first_seen": "2026-11-21T11:10:53Z",
+   "updated": "2026-11-21T11:10:53Z",
    "items": [
     {
-     "id": "f56f3579ce53",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Финансы Mail",
-     "group": "media_ru",
-     "weight": 40,
+     "id": "cc7279c828ef",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BBC",
+     "group": "media",
+     "weight": 50,
      "alert": true,
-     "title": "Продажи GTA VI достигли 19 млн копий: доходы разработчиков, стримы и будущее игры",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaE1PUU9sdFdsdG9VVEFybTRza3UxWXZMTC1tT25iZ2VQZDYzV05DMFhUeGFNa3h6RUNoY0RzRmNqRzVKdzBTNlRjVW5iZ05SYUswTTdaYmtENWNlNDl3SXpzR2xXX1QxQWdfTWVNbUhXdUo3alBmWTFTRGFzU1RyZ3NOOXN4Rm5wVlhhVktpNGpvZnBfdnlzLXhRN2pJQnVzdnZn?oc=5",
-     "ts": "2026-11-21T10:43:59Z",
+     "title": "'I'm hit with a feeling of self-healing': The moment I realised GTA 6 was one of the greatest games ever",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV3psM3lmR2RfMUNIaUxrV2pkdWZfeEU2R0RGRDI5R1BIRXhncDQ3eU1RbWcwNHVOeDM4ekJNMkdOQW00MEpQcUV2NWZKMlM4UjFKLXoybTFiMTdBY3NGbmpNOWozMzRTdGY1bkI5dXlaNFdBd1ZaLW9oR0dCbDdLalVfNnBteWRTNElXNUhsTHVxTDNJ?oc=5",
+     "ts": "2026-11-21T11:00:00Z",
      "summary": ""
     }
    ],
    "tags": [],
-   "score": 40,
+   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
   },
   {
-   "id": "3b724344a785",
-   "title": "GTA 6 obliterates box office records as fans spot impressive details about figures",
-   "first_seen": "2026-11-21T11:01:17Z",
-   "updated": "2026-11-21T11:01:17Z",
+   "id": "a8aeb007a244",
+   "title": "GTA 6: Should You Max Out Your Savings?",
+   "first_seen": "2026-11-21T11:10:53Z",
+   "updated": "2026-11-21T11:10:53Z",
    "items": [
     {
-     "id": "3b724344a785",
+     "id": "a8aeb007a244",
      "src": "gnews_en",
      "src_name": "Google News EN",
-     "outlet": "Indy100",
+     "outlet": "Cultured Vultures",
      "group": "media",
      "weight": 50,
      "alert": true,
-     "title": "GTA 6 obliterates box office records as fans spot impressive details about figures",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IZ08tS1JnbTY1dm45RWNiejlwV2lkSU5zM2lQSjZ1R2MzNlZ0Ykk3UFVJN0VkZldjcXJfZEp0ZzQ4WGZSdVBiTHl4NVRMcHRvOHVSYnc1TjhDSG5CNXR0QW1Ec2V3UThPaVNRUg?oc=5",
-     "ts": "2026-11-21T10:55:35Z",
+     "title": "GTA 6: Should You Max Out Your Savings?",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pWDJORThlcHluUUdFVmFRYWhaQmc4X3Vxb0wzMmlyMlJNX201X1pFYlM2ME1uRjhya095b0diMndzSkk0STd6ZzlQUkZzTnFKQndmT2FjVlNDYkk3YnhHeA?oc=5",
+     "ts": "2026-11-21T11:00:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "af18373e09c7",
+   "title": "'College GameDay' joins GTA 6, Vice City mania ahead of Miami-Virginia Tech",
+   "first_seen": "2026-11-21T11:10:53Z",
+   "updated": "2026-11-21T11:10:53Z",
+   "items": [
+    {
+     "id": "af18373e09c7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "USA Today",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'College GameDay' joins GTA 6, Vice City mania ahead of Miami-Virginia Tech",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTlNsdjRma0JIc2dnUzhDVGVIYzAxdDB2MjNOaHBPcFBENXBMZDhNQ0FOU2JHVGVDX1p5SjdEOGEtMUZfLUUxSTQxaUx1NjJ0enRwZFlmbHd1c0xZZEtkem1vc1BTblVBbm9DOUxONVNWVk1XRXRGZlNiNWduYV9yTGFiNmR6UUxGOEFkaWpLZUJzYlh4ejY0NFh1eGZ4dzNJQUVEaHpLbkFfSE5NUGc4dkN0UDIyS0hacEZPOUVGS20?oc=5",
+     "ts": "2026-11-21T11:06:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "eb2f0da3eed8",
+   "title": "Grand Theft Auto VI and The Game Awards deserve each other",
+   "first_seen": "2026-11-21T11:10:53Z",
+   "updated": "2026-11-21T11:10:53Z",
+   "items": [
+    {
+     "id": "eb2f0da3eed8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "A.V. Club",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI and The Game Awards deserve each other",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2bmxTZzJrNVNQUW82Xy1CcWRzUklDSjJWcllzNGZkY2NMQmtYRzlMdWx2alk3cWNkUDhZMmtqVWppM25mTEZiYkNpTV9YaU1xckV3bVgzZms1VEZJRVVnUi1VVzdoYTZRRTlvZmc2MDBMMnM?oc=5",
+     "ts": "2026-11-21T11:06:18Z",
      "summary": ""
     }
    ],
@@ -171,7 +134,7 @@
    "id": "6f9f8bab8cbb",
    "title": "GTA 6 Sets New Sales Record for Rockstar Just One Day In",
    "first_seen": "2026-11-20T16:20:53Z",
-   "updated": "2026-11-21T10:50:57Z",
+   "updated": "2026-11-21T11:10:52Z",
    "items": [
     {
      "id": "6f9f8bab8cbb",
@@ -601,6 +564,19 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd3Zyd3JMb25TZzdQU0JEZUtFTFhSUUhhN0tZUU54VXRKUGJNWWE4aGVFdTJtS1RvdzVmLVdxS3VITGFUWVZIamsycjgtdDZNVFR4Z0poaGxMUDMtbEozTHprbXVyc05FYXozM2NBT01UaUJJenBoRjEyaHZYSnVrdEJIdjJ4NE5f?oc=5",
      "ts": "2026-11-21T07:40:16Z",
      "summary": ""
+    },
+    {
+     "id": "655f64ddf88e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BigGo Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Rakes In $3.79 Billion on Day One as Console Cafes Pack Out and Hong Kong PS5 Pro Scalps Hit CNY 16,000",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEMzVub05pMjdHczhXaGpKWU1mTXhXVjVQaWNqZUxPM1g3MTZhbkVlUFgxYjg3M0FTNWpkbHpQTk1MNUw2ajRMUkoxaENjc25wdGowem9LY1hrQVctNFFhMjdtcWhRbkU2OG1kQW9XVWs4NTdSTUE?oc=5",
+     "ts": "2026-11-21T10:25:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -609,6 +585,251 @@
    "score": 90,
    "level": "PROBABLE",
    "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "f86790eef378",
+   "title": "US police departments warn GTA VI users to ‘keep it in the game’",
+   "first_seen": "2026-11-21T11:10:52Z",
+   "updated": "2026-11-21T11:10:52Z",
+   "items": [
+    {
+     "id": "f86790eef378",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Guardian",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "US police departments warn GTA VI users to ‘keep it in the game’",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1oxcmtWNEY5V21ZOHJTcmQzUXM3cllrLWpYQU83RXBJaUh5THkwaklYRGJrTkxUT04wWnZfT20xR2ZZOHZtY3F4V2lmMklDeW9xeFZnWmRqRmFCcGRLMUtZMmpBZUpHNVFNVTFSM3VUNF9QdGxCZldyb0RiSE16WkpVM2JLdVh6?oc=5",
+     "ts": "2026-11-20T23:02:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6733f650cdb3",
+   "title": "Did you come down with GTA flu? I won’t judge – I may even join you in Vice City | Imogen West-Knights",
+   "first_seen": "2026-11-21T11:10:52Z",
+   "updated": "2026-11-21T11:10:52Z",
+   "items": [
+    {
+     "id": "6733f650cdb3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Guardian",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Did you come down with GTA flu? I won’t judge – I may even join you in Vice City | Imogen West-Knights",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGhZQld2NEhvenVuUWRRdUcxcnNsODNDcTlxN3BQeDRzOFpQMHRiNHZFWjhET01yaFFzM05xUUZXSTBleGJrMHU3WFNKTTVDblNuS3l3dE1uaHFFZmpsZGRlS2hUVHFXY1dPcnRxTnlRVHhJenJQNE16ZFEyLWw1WndIb080OTk2SExtT0diREg0eFU?oc=5",
+     "ts": "2026-11-21T08:35:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2a13fd639d48",
+   "title": "GTA 6's First Major Death Might Be The Most Disturbing In The Entire Franchise",
+   "first_seen": "2026-11-21T11:10:52Z",
+   "updated": "2026-11-21T11:10:52Z",
+   "items": [
+    {
+     "id": "2a13fd639d48",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "www.svg.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's First Major Death Might Be The Most Disturbing In The Entire Franchise",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsT3ZMQVplR2F0QWJRWWIwUE5DMFlVRUpiemJjVFc1ZXdoRm95U2dzbGlFN0pybVBxSHl3a2hSaXg5aWVHZU1kcmctcEx1dm9tUk9EVGJWQkNWRWoyN2JzTVFjVGJZRmZN?oc=5",
+     "ts": "2026-11-21T11:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "09b6e1e724a6",
+   "title": "How Grand Theft Auto VI's launch surpassed expectations",
+   "first_seen": "2026-11-21T10:20:53Z",
+   "updated": "2026-11-21T11:01:17Z",
+   "items": [
+    {
+     "id": "09b6e1e724a6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Reuters",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How Grand Theft Auto VI's launch surpassed expectations",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWC12bUo0X3M1alRPRHNvSVRBSnRMbUdzVmltRHdRUW9qdGl5NHNpdXhvU0dmUnkxQkRtcU9QeENzQzFpUVdvTHFsbW1JUHFTUmdqcFRzWXhiOVRvb2R6Y1UyOFJQOGZDSG82ODR1VHVucEFpbXU5RkhCUS1nTXZLLVdFSTdUZlZvUGJaLWlJU3d4b0t0RU55ZFhMVDROdmZLQlZIODZR?oc=5",
+     "ts": "2026-11-21T10:05:48Z",
+     "summary": ""
+    },
+    {
+     "id": "7de9b09806d4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "marketscreener.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How Grand Theft Auto VI's launch surpassed expectations",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRVNtVU41M3pnZmN2eWFmTEllS1FYMTQ2XzdobnN4LU5aSnkyT1ozZE1tZXZMNGRZVUtnMEVJc3RteV9sY3h2Q0F6VDJRUlZuYWc2N1NrV1RHdzFaWHB4NE5zTUhSbXR2UzZudW55WVZLMThjSWk3TVh0TUJrTkpLUElKbFBXVEVjQ3RUUnJ2anJhMURKb3dCRWdBQTRZT1pxQ2I0LVIzMlVOcUpD?oc=5",
+     "ts": "2026-11-21T10:01:18Z",
+     "summary": ""
+    },
+    {
+     "id": "c1a7351ce524",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WTVB",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How Grand Theft Auto VI’s launch surpassed expectations",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUZUZmtxdWJtWlMxOC1WWnZWbHpkVmtZR016U0ZnMEZlbXFfdE11Q2NUMGVqbVNZSDhCb190SzN3MlI4THNYc2lxSG5sRXRMWDdZLU41SUFHd1B4cU1DUEZvZThfc2x3VGpPQkNjbDY0VW8zaktBSVRkUFFNVkN0a29RSWM1b3FDNGdsM2x3?oc=5",
+     "ts": "2026-11-21T10:24:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 побила ожидания: что пишут Reuters и marketscreener",
+    "summary": "По данным Reuters и marketscreener, запуск GTA 6 превзошёл ожидания. Журналисты отмечают сильный старт продаж и интерес игроков, без новых дат и деталей от Rockstar.",
+    "idea": "Короткий разбор заголовков Reuters и marketscreener: что значит «превзошёл ожидания» для игроков. Зрителю важно понять, о чём именно пишут СМИ и чего ждать дальше.",
+    "hook": "Reuters и marketscreener пишут: запуск GTA 6 превзошёл ожидания. Что это значит?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T10:31:08Z"
+   },
+   "msg_id": 1800
+  },
+  {
+   "id": "5ae4598c87f7",
+   "title": "Блогер Кристина Невская: мужчинам играть за Лусию в GTA 6 — нормально",
+   "first_seen": "2026-11-21T11:01:17Z",
+   "updated": "2026-11-21T11:01:17Z",
+   "items": [
+    {
+     "id": "5ae4598c87f7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Блогер Кристина Невская: мужчинам играть за Лусию в GTA 6 — нормально",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDhjMDYwRXFjZlIxVFpSbE9HQ3pHZHNNT24wamdNdFlyMWVUY2NiQkhtR3BTOVZtY1NtNzV4czBXV0YyeWNGbHY1RklBM203V0JMdkplWllWNWt1bTBndmlIbU4tbEprUHYxSGNrRlZ5bTI3ZGZqTnc4X2pueDlhS0FhemdhNThucHdKVW9FUTBGcEozZVVhY2lDVmhNTTQ?oc=5",
+     "ts": "2026-11-21T07:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "170e506cfca2",
+   "title": "Trump calls Xi and Putin a notable word, and we finally get ‘GTA VI’ after all: The news quiz",
+   "first_seen": "2026-11-21T11:01:17Z",
+   "updated": "2026-11-21T11:01:17Z",
+   "items": [
+    {
+     "id": "170e506cfca2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NBC News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Trump calls Xi and Putin a notable word, and we finally get ‘GTA VI’ after all: The news quiz",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODZxNWluLV9HWmFpeHlZUVpId0thQU5INktoaVJaNk4ya29zOTNieWNoTTQ5ZGNjbHEyZktIaVBpYS1Kd3p2Yl9uVVctX1lZeXFWeHM3cm1iN1MtMkt0VGExNm0xd0Vlakc2NE5zSHR6d2F5R2tMdUlrRHFzZnNiOE5VRG0?oc=5",
+     "ts": "2026-11-21T10:15:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f56f3579ce53",
+   "title": "Продажи GTA VI достигли 19 млн копий: доходы разработчиков, стримы и будущее игры",
+   "first_seen": "2026-11-21T11:01:17Z",
+   "updated": "2026-11-21T11:01:17Z",
+   "items": [
+    {
+     "id": "f56f3579ce53",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Финансы Mail",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Продажи GTA VI достигли 19 млн копий: доходы разработчиков, стримы и будущее игры",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaE1PUU9sdFdsdG9VVEFybTRza3UxWXZMTC1tT25iZ2VQZDYzV05DMFhUeGFNa3h6RUNoY0RzRmNqRzVKdzBTNlRjVW5iZ05SYUswTTdaYmtENWNlNDl3SXpzR2xXX1QxQWdfTWVNbUhXdUo3alBmWTFTRGFzU1RyZ3NOOXN4Rm5wVlhhVktpNGpvZnBfdnlzLXhRN2pJQnVzdnZn?oc=5",
+     "ts": "2026-11-21T10:43:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3b724344a785",
+   "title": "GTA 6 obliterates box office records as fans spot impressive details about figures",
+   "first_seen": "2026-11-21T11:01:17Z",
+   "updated": "2026-11-21T11:01:17Z",
+   "items": [
+    {
+     "id": "3b724344a785",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Indy100",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 obliterates box office records as fans spot impressive details about figures",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IZ08tS1JnbTY1dm45RWNiejlwV2lkSU5zM2lQSjZ1R2MzNlZ0Ykk3UFVJN0VkZldjcXJfZEp0ZzQ4WGZSdVBiTHl4NVRMcHRvOHVSYnc1TjhDSG5CNXR0QW1Ec2V3UThPaVNRUg?oc=5",
+     "ts": "2026-11-21T10:55:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -187098,174 +187319,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a6599a251f33",
-   "title": "\"Ничего сопоставимого по масштабу еще не было\": аналитики ждут от GTA 6 55 млн продаж к концу марта 2027",
-   "first_seen": "2026-11-14T11:10:47Z",
-   "updated": "2026-11-14T11:10:47Z",
-   "items": [
-    {
-     "id": "a6599a251f33",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "\"Ничего сопоставимого по масштабу еще не было\": аналитики ждут от GTA 6 55 млн продаж к концу марта 2027",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNakdPMzFPSWJUdHlGa0JQbWlNbHJVTXA4RFhLR21jRElRQkNkWm9ldkV0Ry1NTzBPQXJheW4zcU90a3A0M2Z2enNSUEQtQlZqYTNKT3J6NnFQWDZBWi10YzdWMnFLem9ZYllFdHVaaUdVVmMzSEdQOEhCbEtucE5OcTJZOFppRVN2VWUzb2F3LUJsdGZtcUpMUzZKc3lCbFNnSk1PSlZzZEFmYmZvVGZhdFI1YXBPMlJjRm4tREVseFNCUWFmU2pldWMwaTRDVjZMbU9UaVFtNGFCTkRVLW1rQ04yc3pwZUNt?oc=5",
-     "ts": "2026-11-14T07:52:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "207b56609289",
-   "title": "GTA VI is genuinely starting to feel unreal",
-   "first_seen": "2026-11-14T11:10:47Z",
-   "updated": "2026-11-14T11:10:47Z",
-   "items": [
-    {
-     "id": "207b56609289",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA VI is genuinely starting to feel unreal",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xvzsud/gta_vi_is_genuinely_starting_to_feel_unreal/",
-     "ts": "2026-11-14T11:04:35Z",
-     "summary": "I don’t think people fully realise how big GTA VI is going to be. We’ve been waiting for this game for years, analysing every trailer, every tiny detail and every leak. At this point, Rockstar has created expectations that are almost impossible to meet. Personally, I’m more interested in the world itself than anything else. The atmosphere, NPC behaviour, random encounters, interiors, radio stations and all those little details that make a GTA game feel alive. I just hope the final game actually delivers on that ambition. What are you guys most excited about? The story, the map, the gameplay or"
-    }
-   ],
-   "tags": [
-    "геймплей",
-    "слив",
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b024d59a98d9",
-   "title": "Macca can shapeshift his hands?",
-   "first_seen": "2026-11-14T11:10:47Z",
-   "updated": "2026-11-14T11:10:47Z",
-   "items": [
-    {
-     "id": "b024d59a98d9",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Macca can shapeshift his hands?",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xvztaf/macca_can_shapeshift_his_hands/",
-     "ts": "2026-11-14T11:05:21Z",
-     "summary": "https://preview.redd.it/eg7oydx28k1i1.png?width=2540&format=png&auto=webp&s=cbf8af7d6d4aa8d2e890de34cc9bb878a508a2df https://preview.redd.it/6g6whrt48k1i1.png?width=2104&format=png&auto=webp&s=061b78c42c3a7ab7371a55cb5031cb5dabea4caf https://preview.redd.it/rieor5jm8k1i1.png?width=1068&format=png&auto=webp&s=a568d96e118d7290604b2bdd5a4d848e58ac474f I noticed something straight away in short preview of the in game show, Macca's hands seem to change from his normal hands to crab claws and then back to normal again? just pointing it out haha submitted by /u/BRUHTHATSICK to r/GTA6 [link] [comments"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3e542baf2040",
-   "title": "GTA 6 just like many others I did it!! 😄",
-   "first_seen": "2026-11-14T11:10:47Z",
-   "updated": "2026-11-14T11:10:47Z",
-   "items": [
-    {
-     "id": "3e542baf2040",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 just like many others I did it!! 😄",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xvztho/gta_6_just_like_many_others_i_did_it/",
-     "ts": "2026-11-14T11:05:40Z",
-     "summary": "Time to download it 🙌 submitted by /u/John_quu to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e775498db3f7",
-   "title": "GTA 6 Has Officially Gone Gold",
-   "first_seen": "2026-11-14T11:10:47Z",
-   "updated": "2026-11-14T11:10:47Z",
-   "items": [
-    {
-     "id": "e775498db3f7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "OpenCritic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Has Officially Gone Gold",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43anlGUkRXMDZQb2R2QTJ2VDRTcFRvZjJPMzlyWWJaam1lWmx3czVJSmRqcm54ZFRGb2MxckVYcVJWUVJnR1JvaEN3dHhSME92RXZ4YnRqVkVVaFRhdEM3QkpPSjg2MjdhT2YwSmdOelN3UQ?oc=5",
-     "ts": "2026-11-14T11:06:28Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "76c82d012318",
-   "title": "Геймеры устроили истерику, поверив в очевидный фейк, что ключ на GTA 6 можно украть из коробки с помощью фонарика",
-   "first_seen": "2026-11-14T11:10:47Z",
-   "updated": "2026-11-14T11:10:47Z",
-   "items": [
-    {
-     "id": "76c82d012318",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Геймеры устроили истерику, поверив в очевидный фейк, что ключ на GTA 6 можно украть из коробки с помощью фонарика",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbVZ3VXBfcjg5cEt2WVF5NkZXRXRLNFRRbkphVjc4c01XWE9KLWF3d2VlQ2kxZ3ZtdUVSUVBaLS00ZmtQcHd2SVpQQklCVjQtWC12b0oxcUczOFFKaGNoUjZHeXlEYjZNZk1jNHcwZVgzMzZfWlkyTjdEMF92RUtKWTdzbF9oVjI1Um9WNmo4c1ZRUEd2TzJqYUxpbklzMjd6LWx1QjI2bnFVYzlxZTFQcHQxSzBVQ3ZTZ2dpRS1BTFdPQm5GMWdyV3dBV0ZsOXdneFZFOWVGY1B6ajlk?oc=5",
-     "ts": "2026-11-14T11:07:08Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-21T11:01:17Z",
+  "last_run": "2026-11-21T11:10:53Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 429: Too Many Requests",
-   "gnews_en: 98/100",
+   "rockstar_site: 0/1",
+   "gnews_en: 97/100",
    "gnews_ru: 98/100",
    "gamesbeat: 3/10",
    "vgc: 10/10",
