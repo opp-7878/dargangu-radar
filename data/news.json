@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "fd65336f7dcd",
+   "title": "Absolutely Not: GTA 6 takes over Miami, but is the hype worth it?",
+   "first_seen": "2026-11-21T01:31:01Z",
+   "updated": "2026-11-21T01:31:01Z",
+   "items": [
+    {
+     "id": "fd65336f7dcd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CBS News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Absolutely Not: GTA 6 takes over Miami, but is the hype worth it?",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaS1pWnlNM3lUNG0xRkczQUw0M2lCb00wQWxIRElzQUZ0Z2FBZlJKdlhWbFRvQU16T3pCc29BdHJzM3NyaElLZ0ZlLVpnc3NEck1kRnlOelFfYVBPUzdhT1lQRE9xMDIxdXM5YmlDR0Y0Y2o2UnFBUmkzeDBwV3dIamxNTHVVbk11bGRyTWZkRXhONWE0dGxOZDdvXzFEbGRX?oc=5",
+     "ts": "2026-11-21T01:13:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4cb7f5cf9aab",
    "title": "RAW: HANDOUT: GTA VI SALES MORE THAN $3B ON FIRST DAY",
    "first_seen": "2026-11-20T22:50:54Z",
@@ -185866,9 +185892,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-21T01:20:50Z",
+  "last_run": "2026-11-21T01:31:01Z",
   "last_log": [
-   "rockstar_site: 0/5",
+   "rockstar_site: 0/4",
    "gnews_en: 99/100",
    "gnews_ru: 100/100",
    "gamesbeat: 3/10",
