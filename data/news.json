@@ -187113,66 +187113,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b2c88e530234",
-   "title": "30 FPS в GTA 6 можно и потерпеть, потому что графика впечатляет — IGN",
-   "first_seen": "2026-11-14T07:59:52Z",
-   "updated": "2026-11-14T09:01:12Z",
-   "items": [
-    {
-     "id": "b2c88e530234",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "30 FPS в GTA 6 можно и потерпеть, потому что графика впечатляет — IGN",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3Zpc05sNUtKWVJkbzRBYkV4Z04xb09Lak9wa2h3ek05bnYyelBCM0UzQUUwNnV5YXd3S1Z5VXY5Y3FvWmVCWEVJYzlYN1hTUHcxcFNWazZTZmQ4TVNVcFdSMmVfV2tIa3pfdXRMVDFxckppeDA1bnBIai16RFByb3hzdnBIVTh1M25GSy1Ed3lsTTRkWDBxQW92TGhDVWZ0ZkUxSHBuQdIBrAFBVV95cUxNU3FSdGJXR2dPQVE1aThXa2ZXajhTZEtadWdJMDNQZ09fSk5FOGpqald2RGRrN2ZMVFFMSTQteE5lUDhSbGpWcmJOa3g0UkZJN3J4dEFIWUxsbFZSYVlac0JpVHdkVWdkSF9sWDFpU3FVc24tTlhxNV9KTFpTZEdKM2RWX0QyUFpVY0h1ZXJHLS1PUUNZb0pVNzBwZVpRWWhycXFfdV91ZVBsTkFJ?oc=5",
-     "ts": "2026-11-13T14:45:30Z",
-     "summary": ""
-    },
-    {
-     "id": "db8aff8c9739",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "30 FPS в GTA 6 можно и потерпеть, потому что графика впечатляет — IGN | Видеоигры | Новости",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BSFFGM09BZXJ2MW9BajBicU45dTdaLUtPaEotTFNtdjNNQS1QekloVVBUdml3OVFkR0xTYjBzVmdqV3duSVVRcUR3VzlkUQ?oc=5",
-     "ts": "2026-11-14T07:41:30Z",
-     "summary": ""
-    },
-    {
-     "id": "3ac9a06a49c1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "30 FPS в GTA 6 можно и потерпеть, потому что графика впечатляет — IGN",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3FSdGJXR2dPQVE1aThXa2ZXajhTZEtadWdJMDNQZ09fSk5FOGpqald2RGRrN2ZMVFFMSTQteE5lUDhSbGpWcmJOa3g0UkZJN3J4dEFIWUxsbFZSYVlac0JpVHdkVWdkSF9sWDFpU3FVc24tTlhxNV9KTFpTZEdKM2RWX0QyUFpVY0h1ZXJHLS1PUUNZb0pVNzBwZVpRWWhycXFfdV91ZVBsTkFJ0gGsAUFVX3lxTE1TcVJ0YldHZ09BUTVpOFdrZldqOFNkS1p1Z0kwM1BnT19KTkU4ampqV3ZEZGs3ZkxUUUxJNC14TmVQOFJsalZyYk5reDRSRkk3cnh0QUhZTGxsVlJhWVpzQmlUd2RVZ2RIX2xYMWlTcVVzbi1OWHE1X0pMWlNkR0ozZFZfRDJQWlVjSHVlckctLU9RQ1lvSlU3MHBlWlFZaHJxcV91X3VlUGxOQUk?oc=5",
-     "ts": "2026-11-14T07:48:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-21T08:50:49Z",
+  "last_run": "2026-11-21T09:01:19Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 99/100",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
    "gnews_ru: 99/100",
    "gamesbeat: 3/10",
    "vgc: 10/10",
