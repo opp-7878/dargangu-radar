@@ -1,6 +1,108 @@
 {
  "stories": [
   {
+   "id": "8a05be48e9a5",
+   "title": "Grand Theft Auto VI rakes in nearly $4 billion",
+   "first_seen": "2026-11-21T23:01:17Z",
+   "updated": "2026-11-21T23:01:17Z",
+   "items": [
+    {
+     "id": "8a05be48e9a5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WHAS11",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI rakes in nearly $4 billion",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYXdQRWt1bm95UE9NeWNTaGxsWFhuZ2JMdzBlOEY2NjhDdkNSUGlYLTBXYXNTS2xmS2RaRndQTmxsVVJvOW9YUEJCSTgtZXR2MndJLUJLWmhpM3N6V0F4eHI2Uy1OMUlXVjZVS0t1eFFhS1MyMGQwQlNscjQ4VkpWdXdHTEtpcWUza2RxZ2hBbTIwLTNDa2FpdGRxRmh4aHhPT190OXV1OFNOWmhQeTJVVTM0NDVTRzVjWkdyeHZtQlExdGhVNllGaEhleUI0MURFVjRTTjF3?oc=5",
+     "ts": "2026-11-21T22:05:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 заработала почти $4 млрд: что это значит для игроков",
+    "summary": "По данным WHAS11, GTA 6 заработала почти 4 миллиарда долларов. Это финансовый рекорд, но официальных деталей о цене и изданиях Rockstar не раскрывала.",
+    "idea": "Коротко объясняем, что рекордные продажи не гарантируют скидки или ПК-версию, и призываем делиться мнением в комментариях.",
+    "hook": "4 миллиарда за GTA 6 — что это значит для нас, игроков?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T23:01:22Z"
+   },
+   "msg_id": 1879
+  },
+  {
+   "id": "4401b3257f6b",
+   "title": "На сколько процентов прошли GTA VI?",
+   "first_seen": "2026-11-21T23:01:17Z",
+   "updated": "2026-11-21T23:01:17Z",
+   "items": [
+    {
+     "id": "4401b3257f6b",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "На сколько процентов прошли GTA VI?",
+     "url": "https://t.me/GTAVIStar/1023",
+     "ts": "2026-11-21T22:54:06Z",
+     "summary": "На сколько процентов прошли GTA VI? Спустя 20 часов я только попал во вторую главу. А вы в какой главе и сколько процентов сюжета уже прошла?"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cd0f9acd68f7",
+   "title": "GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container",
+   "first_seen": "2026-11-21T23:01:17Z",
+   "updated": "2026-11-21T23:01:17Z",
+   "items": [
+    {
+     "id": "cd0f9acd68f7",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-container/",
+     "ts": "2026-11-21T22:55:42Z",
+     "summary": "Here's how to find and open the Scoop container in Meet The Heders"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔓 GTA 6: как открыть контейнер SCOOP в Meet The Heders",
+    "summary": "По данным VGC, в задании Meet The Heders в GTA 6 есть контейнер SCOOP — издание рассказало, как его найти и открыть. Это часть прохождения, без спойлеров сюжета.",
+    "idea": "Короткий гайд: где лежит SCOOP и как его открыть без лишних бегов. Зрителю важно — экономит время и нервы в открытом мире.",
+    "hook": "Застрял на SCOOP в Meet The Heders? Вот быстрый способ открыть.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T23:01:20Z"
+   },
+   "msg_id": 1878
+  },
+  {
    "id": "3b9a77521495",
    "title": "GTA 6: All Moses Vehicle Locations",
    "first_seen": "2026-11-21T22:50:46Z",
@@ -191637,37 +191739,11 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
-  },
-  {
-   "id": "e57b46935157",
-   "title": "Using AI when there are literally official images, I’m dead",
-   "first_seen": "2026-11-14T23:01:13Z",
-   "updated": "2026-11-14T23:01:13Z",
-   "items": [
-    {
-     "id": "e57b46935157",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Using AI when there are literally official images, I’m dead",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xwfqdf/using_ai_when_there_are_literally_official_images/",
-     "ts": "2026-11-14T22:55:37Z",
-     "summary": "submitted by /u/WadieXkiller to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-21T22:52:17Z",
+  "last_run": "2026-11-21T23:01:22Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 98/100",
