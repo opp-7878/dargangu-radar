@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "cee4f1d79d94",
+   "title": "Бывший глава Square Enix не нашел оттока из Steam и Fortnite после GTA 6",
+   "first_seen": "2026-11-22T04:01:05Z",
+   "updated": "2026-11-22T04:01:05Z",
+   "items": [
+    {
+     "id": "cee4f1d79d94",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Бывший глава Square Enix не нашел оттока из Steam и Fortnite после GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDc3d5TXI1RXdBTkxfMUhYb0VyOGVqZjhnTFd6WGNWLTliQkd0Sm5YQkhhOVJmY3RwX25lWDE0eVltSFNlNlZBQlFmcGhhenJ4ZFFHbTd6WWt6dWo5dzNjREVseVhmemdVU0QzMkdROHlhT1lYeUloU3l3?oc=5",
+     "ts": "2026-11-22T03:49:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
    "id": "c2616034cd9e",
    "title": "Can My PC Run GTA 6? Minimum And Recommended Specs To Expect",
    "first_seen": "2026-11-21T20:50:46Z",
@@ -191081,7 +191111,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T03:50:51Z",
+  "last_run": "2026-11-22T04:01:09Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
