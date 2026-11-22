@@ -191654,41 +191654,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "2294aa0c8b60",
-   "title": "The graphics of GTA Vice City and GTA VI were compared using the same elements.",
-   "first_seen": "2026-11-15T00:20:44Z",
-   "updated": "2026-11-15T00:20:44Z",
-   "items": [
-    {
-     "id": "2294aa0c8b60",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The graphics of GTA Vice City and GTA VI were compared using the same elements.",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1pSX3pGYXJYb0RsMHhtUzBQYUhoaDc0VkhpX1hqRGRzV1F3alA4VHp6T1BzdUFQRk5aUGVTS0txUG5aUUIwWGZCVHd1OFZkd3o3bXJtQlFmYnAxQi1tMXI3aWU2T1d4ektRdE1GQVVwbFZnZlVralFFZTZqZEduSFhVdk5iS2JVTDNpSDdOUlliUldMZ1pzNkFTdVdDMEk?oc=5",
-     "ts": "2026-11-15T00:10:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T00:10:45Z",
+  "last_run": "2026-11-22T00:21:07Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 98/100",
-   "gnews_ru: 100/100",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 4/10",
    "vgc: 10/10",
    "insider_gaming: 8/10",
