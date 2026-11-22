@@ -194736,67 +194736,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "55df63648e68",
-   "title": "Your ps account glitches and you have access to GTAVI 36 hours before everyone else does, rockstar can’t stop you. What do you do? Do you profit? Spoil it on YouTube for everyone? Keep it a secret?",
-   "first_seen": "2026-11-15T22:10:53Z",
-   "updated": "2026-11-15T22:10:53Z",
-   "items": [
-    {
-     "id": "55df63648e68",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Your ps account glitches and you have access to GTAVI 36 hours before everyone else does, rockstar can’t stop you. What do you do? Do you profit? Spoil it on YouTube for everyone? Keep it a secret?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xx86ak/your_ps_account_glitches_and_you_have_access_to/",
-     "ts": "2026-11-15T22:06:08Z",
-     "summary": "submitted by /u/Joe_Wild_ to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ca2b05fe1a9f",
-   "title": "Upcoming GTA 6 Physical Release Generates Millions Worth of Bets",
-   "first_seen": "2026-11-15T22:10:53Z",
-   "updated": "2026-11-15T22:10:53Z",
-   "items": [
-    {
-     "id": "ca2b05fe1a9f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "OpenCritic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Upcoming GTA 6 Physical Release Generates Millions Worth of Bets",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWx5dVBVME5WeUJmQllKS3ZCVFc2N1BPN3ZJRkhYY3VwMkN6THZXUG9oc2FtUXNXbEwwdVVyZHpvTVZ3NzV3WklFbkJKOWZiMHdnWEYyVGFNSnVDY1RDSFNESVU3QnNmakdHdF9CdFh3MUMxalg4VllFTGhjM01FZXd1S0N1MUljWmJGS2ZoTXRwLWZ5VTZCOWsyZVZiajg?oc=5",
-     "ts": "2026-11-15T22:07:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T22:01:21Z",
+  "last_run": "2026-11-22T22:11:13Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 99/100",
-   "gnews_ru: 97/100",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 2/10",
    "vgc: 10/10",
    "insider_gaming: 7/10",
