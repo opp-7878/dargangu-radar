@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "2829d62d2141",
+   "title": "GTA 6 Players Rescue Fursuiter Chase from Satirical Polic...",
+   "first_seen": "2026-11-22T22:46:31Z",
+   "updated": "2026-11-22T22:46:31Z",
+   "items": [
+    {
+     "id": "2829d62d2141",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "X",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Players Rescue Fursuiter Chase from Satirical Polic...",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjV1lmNVQ2SVJXZUh3MnVEdmcxM2UyUl81Z0g5N1ZaQzBza1RLblBRb3paOWJTTDRGVG5ybVZKOVpWS1l6MXZTejlsZG5xdG92cUtCX2hSaw?oc=5",
+     "ts": "2026-11-22T20:03:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "df8a8aa61ba1",
    "title": "GTA 6 Boobie Time walkthrough: How to complete the mission and rewards",
    "first_seen": "2026-11-22T22:20:48Z",
@@ -194892,11 +194918,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T22:40:51Z",
+  "last_run": "2026-11-22T22:46:31Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
-   "gnews_ru: 98/100",
+   "gnews_ru: 97/100",
    "gamesbeat: 2/10",
    "vgc: 10/10",
    "insider_gaming: 7/10",
