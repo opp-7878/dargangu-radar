@@ -1,6 +1,82 @@
 {
  "stories": [
   {
+   "id": "368ac8ba2e0e",
+   "title": "This Is the One Thing I’ll Never Do Again in GTA 6",
+   "first_seen": "2026-11-22T14:10:54Z",
+   "updated": "2026-11-22T14:20:47Z",
+   "items": [
+    {
+     "id": "368ac8ba2e0e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "This Is the One Thing I’ll Never Do Again in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclc5b2dRTG5JTHB4ekt2YmF3QzdLeHZrb1l1eXoyaF94b1UwRGFrWDRTdHQ5UVRlVVpVYlN6TzJCdldWMGdDaVotVjBaU3hHOWVreE8wNVpncVJwOFd5SGVqeUFNUEprMzJYQ3FYOExHYkJuRzhYcVNZamhHUXEwbmtn?oc=5",
+     "ts": "2026-11-22T14:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "0394d328129d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN India",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "This Is the One Thing I’ll Never Do Again in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEp6LTlxb0ZLcFZmVUNVSHBSMFByZi1FcjN1dlRvcWRGLXE3QTNKNmFVS2piUG9zSnVtSU81ZUlCUW5wcE12eVltMzdZNy1hcVg4RG00RDVYSng1RDdIS0lGZ3RwaTVYRUNQaThudXNWSEZPOHdXYU5FajRzLXVlSm5EWmlRdTU4LVNjczdFOWNKQzhQU0Fha0ZXWQ?oc=5",
+     "ts": "2026-11-22T14:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Автор IGN назвал одну вещь, которую больше не сделает в GTA 6",
+    "summary": "Автор IGN рассказал об одной вещи, которую он больше никогда не повторит в GTA 6. По его словам, это связано с ранним игровым опытом и выбором в открытом мире. Конкретную сцену он не раскрыл полностью, оставив интригу для читателей.",
+    "idea": "Короткая нарезка: автор IGN говорит о «одной вещи», а мы показываем типичные провальные моменты в GTA. Зрителю интересно узнать, что именно он никогда не повторит.",
+    "hook": "Автор IGN назвал одну вещь, которую больше никогда не сделает в GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-22T14:11:01Z"
+   },
+   "msg_id": 1906
+  },
+  {
+   "id": "3aaaaef7afc7",
+   "title": "GTA VI на Metacritic: Почему геймеры поставили 5.5, а критики — 99?",
+   "first_seen": "2026-11-22T14:20:47Z",
+   "updated": "2026-11-22T14:20:47Z",
+   "items": [
+    {
+     "id": "3aaaaef7afc7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "carexpo.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI на Metacritic: Почему геймеры поставили 5.5, а критики — 99?",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CYWxiaENEam1mV21ldVJBMWNJVkVQVEZlV2xoNGVhelhUdWRRb01yOGVCNWI3c1Y5emZVYml5V3J1aVV4WHlaanBjWk1BSmJhaGllT3dRb2VCZUlZcjJhbG5zVjM?oc=5",
+     "ts": "2026-11-22T14:12:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "dfb4e6ac8838",
    "title": "GTA VI Day-One Sales: Take-Two Reports $3.79 Billion",
    "first_seen": "2026-11-21T23:31:01Z",
@@ -247,43 +323,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "368ac8ba2e0e",
-   "title": "This Is the One Thing I’ll Never Do Again in GTA 6",
-   "first_seen": "2026-11-22T14:10:54Z",
-   "updated": "2026-11-22T14:10:54Z",
-   "items": [
-    {
-     "id": "368ac8ba2e0e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "This Is the One Thing I’ll Never Do Again in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclc5b2dRTG5JTHB4ekt2YmF3QzdLeHZrb1l1eXoyaF94b1UwRGFrWDRTdHQ5UVRlVVpVYlN6TzJCdldWMGdDaVotVjBaU3hHOWVreE8wNVpncVJwOFd5SGVqeUFNUEprMzJYQ3FYOExHYkJuRzhYcVNZamhHUXEwbmtn?oc=5",
-     "ts": "2026-11-22T14:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Автор IGN назвал одну вещь, которую больше не сделает в GTA 6",
-    "summary": "Автор IGN рассказал об одной вещи, которую он больше никогда не повторит в GTA 6. По его словам, это связано с ранним игровым опытом и выбором в открытом мире. Конкретную сцену он не раскрыл полностью, оставив интригу для читателей.",
-    "idea": "Короткая нарезка: автор IGN говорит о «одной вещи», а мы показываем типичные провальные моменты в GTA. Зрителю интересно узнать, что именно он никогда не повторит.",
-    "hook": "Автор IGN назвал одну вещь, которую больше никогда не сделает в GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-22T14:11:01Z"
-   },
-   "msg_id": 1906
   },
   {
    "id": "4dd1493c3c90",
@@ -192995,12 +193034,12 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T14:11:01Z",
+  "last_run": "2026-11-22T14:20:47Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 92/100",
    "gnews_ru: 97/100",
-   "gamesbeat: 2/10",
+   "gamesbeat: 3/10",
    "vgc: 10/10",
    "insider_gaming: 5/10",
    "ign: 5/20",
@@ -193011,8 +193050,8 @@
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 10/10",
    "tg_gta6deluxe: 10/10",
-   "tg_gta6_m: 12/14",
-   "tg_gta6newsdaily: 5/19"
+   "tg_gta6_m: 11/14",
+   "tg_gta6newsdaily: 4/19"
   ],
   "digest": "2026-11-22@9",
   "tg_offset": 854319078
