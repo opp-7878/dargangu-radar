@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "04a6d6531b0b",
+   "title": "GTA 6 Riata - Mini-mart",
+   "first_seen": "2026-11-22T16:31:03Z",
+   "updated": "2026-11-22T16:31:03Z",
+   "items": [
+    {
+     "id": "04a6d6531b0b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Riata - Mini-mart",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZMTFQdzZHTm05U3dfLV9mMmU0V0VPVVJvcWhBMUMwWEdMSk1zNC1aWktsS0FUcjBrVk9JeG00VTZXRTZoWU84c0ZIN3J0YzFvUC1JLWZpb3NxcXBJa0lEQXBkSWEtVUc1S2FJYTkyWEhYazJP?oc=5",
+     "ts": "2026-11-22T13:27:06Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9241d360d17c",
+   "title": "GTA 6: How many cars can you own and can you buy a house?",
+   "first_seen": "2026-11-22T16:31:03Z",
+   "updated": "2026-11-22T16:31:03Z",
+   "items": [
+    {
+     "id": "9241d360d17c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Indy100",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: How many cars can you own and can you buy a house?",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiVGV4U1hzeDlycmNNVkJOLUo4Qm1pbXlfUG00cEN2UXEzc2pIYm1sMDBLcm4xOTdRRE00ME9vLTNjSFFRVzlsT1QzNV8wNFlabzF3aUhtR0VWNkVIZDZOQw?oc=5",
+     "ts": "2026-11-22T16:23:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "30c38c047e56",
    "title": "Портирование GTA VI на ПК идёт очень быстро — энтузиасты перекомпилируют тысячи шейдеров из версии для Xbox Series с помощью AnyPS5 Чтобы ускорить работу, к про",
    "first_seen": "2026-11-21T18:10:45Z",
@@ -193566,11 +193618,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T16:21:03Z",
+  "last_run": "2026-11-22T16:31:03Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
-   "gnews_ru: 98/100",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 2/10",
    "vgc: 10/10",
    "insider_gaming: 5/10",
