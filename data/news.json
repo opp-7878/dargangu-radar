@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "2da3536fdb5e",
+   "title": "GTA VI players when something needs fixing at Mandy’s house Writer: Samuel",
+   "first_seen": "2026-11-22T22:31:00Z",
+   "updated": "2026-11-22T22:31:00Z",
+   "items": [
+    {
+     "id": "2da3536fdb5e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "X",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI players when something needs fixing at Mandy’s house Writer: Samuel",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPc2hURE9kX0x0Q3E5aUVXdzlXN1QxQzhWSmZONHIzVVU1UHl5c2JMclpDVU81WFd1LXA3eExrSzhNZzVpUnh4eVZQcTctVjdBRm1PLUtDYm5fLXFOQ01JVmxvc0NZRzFXYzMtRg?oc=5",
+     "ts": "2026-11-22T22:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "dfb4e6ac8838",
    "title": "GTA VI Day-One Sales: Take-Two Reports $3.79 Billion",
    "first_seen": "2026-11-21T23:31:01Z",
@@ -194931,11 +194957,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T22:20:54Z",
+  "last_run": "2026-11-22T22:31:00Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 98/100",
-   "gnews_ru: 98/100",
+   "gnews_ru: 97/100",
    "gamesbeat: 2/10",
    "vgc: 10/10",
    "insider_gaming: 7/10",
