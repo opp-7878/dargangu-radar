@@ -1,6 +1,555 @@
 {
  "stories": [
   {
+   "id": "49583d76de07",
+   "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
+   "first_seen": "2026-11-21T23:10:47Z",
+   "updated": "2026-11-22T05:20:52Z",
+   "items": [
+    {
+     "id": "49583d76de07",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3JxVGVCeWNZRFJTQmNOX25LUDFMT0t4SzNmZjN0aHByMzRpOHdBTDhnUVRsUWNOVE1xRWpxWHNCUldrMDA4S0hJa2h6U0E5Z3JkYlNaeGllY3ZvUjJzZF94VU9jVXBIX3BaUEFmWGd6ZWFZY3ctSTRzNktuRlVCT0p3dlc2bVlnYXo3VV9vLXUydU8xZnpUMnJSNTNybHNhbkFRZWZSWWVsV0lmYmNVRnRjYTZaSXBTdmtYWXRMYjU?oc=5",
+     "ts": "2026-11-21T21:42:29Z",
+     "summary": ""
+    },
+    {
+     "id": "03c53ca8d072",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MIXED News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 accounted for nearly a quarter of Comcast’s traffic at its peak, the company says",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaXZ3UGlxcFFGS19OS3VtSWk3V0VFeDNvNXpmay1FQk5aYzRGSk1qd0NpelA4ZkU2Y0x4SEdaS2pRV1N4b0RKU0tyMkxjUHRGVGVaSlQ0U09qdU1VbXpTZk9nMjNtd1hTMGF5MDl4QS1Ga1gyekdkWlBWOEpHUTA?oc=5",
+     "ts": "2026-11-22T02:58:21Z",
+     "summary": ""
+    },
+    {
+     "id": "14c7af9c56db",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 breaks Comcast internet record with 24% of peak traffic",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaENTOUhvRW9vMjY3NGpHY2tpYjliU0JiS2YwZWg4eTJLandMNi1uZEtqMTlhQVA2WERKTXlMX2NERVYzR3hoTkxjdnZQMlpiYWRqUkw0cDBYaFpvM19PckppbWR3TW8tM3g5emNVT1FnZm91M0RaWHh6aWZnZHVOQ0ZiZzZDcEptYTF5LWVCWUZ2dEp6Qml3SmhocGd0X0Y5RzdweG45cVU?oc=5",
+     "ts": "2026-11-22T05:06:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 забрала четверть всего интернета в пик",
+    "summary": "По данным Comcast, в пиковые часы GTA 6 генерировала почти четверть всего интернет-трафика. Об этом сообщает PC Gamer со ссылкой на данные провайдера.",
+    "idea": "Короткий ролик с графиком «1/4 трафика = GTA 6» и реакцией: показать масштаб нагрузки на сеть в день запуска.",
+    "hook": "Четверть всего интернета. В один вечер. Из-за одной игры — GTA 6.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T23:10:50Z"
+   },
+   "msg_id": 1880
+  },
+  {
+   "id": "1bbe721fa56a",
+   "title": "Veyra 2.2.0 expands GTA 6 launch capabilities on PC via PlayStation 5",
+   "first_seen": "2026-11-21T09:30:58Z",
+   "updated": "2026-11-22T05:20:52Z",
+   "items": [
+    {
+     "id": "1bbe721fa56a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Завистливые ПК-бояре устроили GTA 6 геноцид на MetaCritic: у игры всего 5.5 балла от «игроков»",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakdNWVhtVDRST0FoNG10ZlVJaG5hWkpIS1ZaRjluamFRYjBxU2NpMUpLWWcyRFhhN1ZlU2Y5eXVRRlVjUHctYlZVN1lLT2xkTjNIUWF6YS1aZkUycktlenlyQV82a3ZHSWtxYk5DcS1QajdyUTMxcXl5OFpPaG5vazROYTZuR0s3Q1ZHVU5yc2F5U2k5Qk9td1FpakRUUy1Gb002Tlh1YzFoQ0tOYjVaSEVfdTNPMlJfalE?oc=5",
+     "ts": "2026-11-21T09:25:46Z",
+     "summary": ""
+    },
+    {
+     "id": "e90453ca94f1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Veyra 2.2.0 expands GTA 6 launch capabilities on PC via PlayStation 5",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXhoZ2JURmxmRV9VZ3hOYjN0b1B0Q29kb1RZelIwWFlFX09EakV0VWxiYW9pV0FrdHBlMnpKNnhsRk5Tdlk5dDZ2QUdiVng0T001dHBOMGFuT3VUTG5vOE9SLVRaVGxkWFdWbV9SRXE5OXBKd2VORWNfSEZtX2dKLWV1OGRGMHhPdnlVb2F1NThINU1QS21USlRLN21XR193eVpsWnlETWo5Z2t4S3c?oc=5",
+     "ts": "2026-11-21T10:26:13Z",
+     "summary": ""
+    },
+    {
+     "id": "6f3f53a69f19",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Veyra 2.2.0 расширила возможности запуска GTA 6 на ПК через PlayStation 5",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTQxaHYxcGlNTXA2SGZOUV9iWEpaaXQxcDM3ZjVoWjNnS2MyZldvejJua2NsdHlDcmVyaGFEclhhcUZlMzlNajZScDJEQVZlYjYtUzhpRGc5TFVEYURxQ0xBVkdFTzgwS082VDJZQWFBdWJ2YWFkMm9TR2gzUndvUXAtUFFnR0RpQmtWZHgyMTdTNlNKdEdwTzloSmwzZnprbFREMWJkNjd6Zw?oc=5",
+     "ts": "2026-11-21T10:26:13Z",
+     "summary": ""
+    },
+    {
+     "id": "33f24492d460",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Wccftech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI PS5 Streams/Captures Get DLSS 5 and Frame Generation on PC Through Veyra/Neural Screen, But Gameplay Still Runs at 30FPS (with More Latency)",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFFqTkpBUjJNRmN2Mnc4OURLMkZqa1l2RkFwenRyeEJVT085V2QzY2tkRVRHd3lxdVVZM1d6ZzhuZnB1VGhTRmZCVUcycUJMN2o0TEN5eUZLemFqcFcwSksxMFVPb1RBWFhzWDV0d1pKMGRuVVRDLU8wMFdKcHJxV0tkRHk1VmdKNmEyZTRGVGVEeUFIdC1j0gGcAUFVX3lxTE5hZUNkLVZQZldIS0NWOF9jQnFxdmcwMVJUM0dvV0NxSk00Q3hKUUNNVXlORUdzWkFiNHVjMHB0aDdWeUVURkhUcVV1S2NIT0JyRF9mN3p0V1Z6LTViRW1CcWxkNFo5OXhQdEZydHhiRWZxU0pUZ0lxWV9qU29DcmZBeFZYT1dNbUJJOFBzUXA2ZGw1ZnJUZno5OHVDcQ?oc=5",
+     "ts": "2026-11-21T15:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "17438f3cbc2c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 PS5 and Xbox users protest after bans for sharing gameplay with nudity",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUdVNk1TdGtaYW5vc3Vaam9LcmJfV1I3bkpsVlV3c2FqWWNkNDN4aE1HcDMyMC16T2Zlc0RNZFd4bFNBN2hoYndyaGpQR0k5UXdaMDlZYVFldGs2alNtUTR6Y0xOcmhsVDgyczY4V1NwZnFCMi1PNkttMWFMc0psNV9mVzA5MGo0dFBEWFpRaDZqS09QVVFSa1ZxcUdFOE1iV2k1TlY2TVA5VG9tOV8teWJfUTlib2U4ZkRHYlF3?oc=5",
+     "ts": "2026-11-22T02:37:00Z",
+     "summary": ""
+    },
+    {
+     "id": "1877713d9f71",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Мошенничество вокруг GTA VI для ПК поставили на поток — начали продавать готовый набор инструментов для обмана игроков",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbm1UUklfVjJRWEpZNFVEeWVEdHBEck9MSFZla01ZMnhCUERZVkZCZG1UVm91bFlJR1JjRHYwYlExaVA5dVRRaDlrc2JOQllNdW1sU1JvSlFJbTUxZThsZnQwbHQwMWlJVWJaS1F0dmhrNEZSV3ZSaUJtM2ExOXlrNTBNS3FJSWJkdmRDQTV2SUc0a2tRYW85Mnd1WUtPeG5fenczVkpCcnVrd2lrR1NORmFqeF9vRG9hdEF2RW5uSnpuLUtvWk5mOUNQbkJJbHQtVlc5MWdsRGRNbXFmcDJGTE5BUjgzV0U1blpPb0l30gHzAUFVX3lxTFBoNXNTZDI1UGFxa2xUZ0lubG8xZDBNNUZwTDBscmMzRUxsWGtlVFBZQ2d4Y1NSUlRQbzdSQS1HTDUycVI2cXMxcEZVejFob3VOajBKbzNybkZ3SThoZkUyZ1JJVWJSNl9ibmp4NjhtLXZIYW94OGFwWkhsa2t5UFpfQTgyaTFNRUluZ0E1TE9PYnI4bTdfZTl0WHZZSVZXejZKWWhVMVF5NzAtT2xvXzNUUFFfd0Ftd2oyRjhLSWhfY0xiTkJhRGZpSkRYVTJtd0o2S2lIaGc5bFJoeWtTaW1xRmRmUTNpWWdpaVVUTnZENzZqUQ?oc=5",
+     "ts": "2026-11-22T02:31:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК",
+    "геймплей"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "ПК-бояре утопили GTA 6 на MetaCritic: 5.5 от игроков",
+    "summary": "По данным GoHa.Ru, пользователи ПК поставили GTA 6 на MetaCritic среднюю оценку 5.5. Причина — отсутствие ПК-версии на старте и перенос на первый квартал 2027.",
+    "idea": "Короткий разбор «реванша ПК-бояр»: почему ставят единицы и что это значит для рейтинга. Плюс экран MetaCritic как доказательство.",
+    "hook": "ПК-бояре мстят: GTA 6 на MetaCritic — 5.5 от игроков. Вот почему.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T09:31:02Z"
+   },
+   "msg_id": 1797
+  },
+  {
+   "id": "4c1ae82e410d",
+   "title": "How to Access GTA 6 Ultimate Edition Bonuses",
+   "first_seen": "2026-11-22T05:20:52Z",
+   "updated": "2026-11-22T05:20:52Z",
+   "items": [
+    {
+     "id": "4c1ae82e410d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How to Access GTA 6 Ultimate Edition Bonuses",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wWlAtcmVscnpHam1weU1YT3RSQWY0X2liYWkzbmhyTzdPcC1YVnNUVlo0dHJoMW1uY2tjd1UySjNNbXllZlFoQmNwc1lILVhlamlQckZwTUdMZnBISXF5TGRHZ1lyYkE?oc=5",
+     "ts": "2026-11-22T01:29:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "d32b1a9b85ad",
+   "title": "GTA 6 Skunk Ape: How to find Kirk and hunt Mr. Mangrove",
+   "first_seen": "2026-11-22T05:20:52Z",
+   "updated": "2026-11-22T05:20:52Z",
+   "items": [
+    {
+     "id": "d32b1a9b85ad",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "space4games",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Skunk Ape: How to find Kirk and hunt Mr. Mangrove",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXJsWlRvdW52X2hucmh1UmJkV3lUVWhyN2dnU3lKWUM5QlhaMjR0bzFyQ2xWTFU5a2wySUdMaFBuOFhvWUF1T3UweFl5bUx6X0xPRDFDRnN3MDlwVnY0bjVFQ2cwYTA1a25kSUxmVThwNjVJcXkzOVE5U2hVUlF2eXB3STZocm5hODZRS3hJRQ?oc=5",
+     "ts": "2026-11-22T01:52:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "930dcef85762",
+   "title": "GTA 6 Checking Out guide: the point of no return and how to avoid the bike chase bug",
+   "first_seen": "2026-11-22T05:20:52Z",
+   "updated": "2026-11-22T05:20:52Z",
+   "items": [
+    {
+     "id": "930dcef85762",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Checking Out guide: the point of no return and how to avoid the bike chase bug",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckZ3b0R2UWJuRkNEVEhBekZPWEdHX3lRQy1EZjktN3BlQVBUYTJmcDc5QnIyYWRTZmFmdElIRGRkT0c1REpHUzA2MTljQlAwVzJLMUlESTFiNGpuTzRaRzhnU3ZvbHNfZllwU3RMZE5fV0tuNlVDa2oyUVAxWnBOVjlobnFqU2NVOVYzM21WUlRkSENSOEVLd2xqU1NVT2hpUHlHaDVR?oc=5",
+     "ts": "2026-11-22T02:31:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "091340e14a08",
+   "title": "NPR explores GTA VI music and the sound of Miami today",
+   "first_seen": "2026-11-22T05:20:52Z",
+   "updated": "2026-11-22T05:20:52Z",
+   "items": [
+    {
+     "id": "091340e14a08",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KarloBag.eu",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "NPR explores GTA VI music and the sound of Miami today",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGtpMEQ4Y3AxNWNnYzZ4RndJUjlKd0o1b3pZSWpVNjVRLU83OEV4dElCYzFfd1hpYU1sbzVoejRKN2JzT3d1THFTb3p1dkJZTF9hMVg5cUx1VDVyalJWbjJ5aEc1emljcDNxNENQazZGRUZxNzZzWkY5bXlGS0g2NEdsb1l3ODIzVmZnanpKQkpQT1pRazR5MGFpcWZWTXEwZC1sUjJybjlDRW1ZUXI0a29fd1ZEQQ?oc=5",
+     "ts": "2026-11-22T02:32:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "70db12fabe54",
+   "title": "GTA 6 Thrillbilly Mud Club: How to win prize money in the dirt bike races",
+   "first_seen": "2026-11-22T05:20:52Z",
+   "updated": "2026-11-22T05:20:52Z",
+   "items": [
+    {
+     "id": "70db12fabe54",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "space4games",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Thrillbilly Mud Club: How to win prize money in the dirt bike races",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0ZUQ2pQQ3ltYnVrR0ZtcTk4WEM1WDBoQXdTRDdCdkNLSWU1aUxRcmh3clduRmFWQUsxcmtxQjVrXzU4ZFR2b0VqR1lRRzBTWldEc0htWGNCUjlZMk9zMldKa3otSWthVGdpeDFxRU10Wi0xeHJHVzlEbHdKa0hGS2JUVENjYng4ZmkzdmZHTW0?oc=5",
+     "ts": "2026-11-22T02:41:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "02d057af19eb",
+   "title": "GTA 6: All 5 Chapters and Missions – Story Progress Guide",
+   "first_seen": "2026-11-22T05:20:52Z",
+   "updated": "2026-11-22T05:20:52Z",
+   "items": [
+    {
+     "id": "02d057af19eb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "space4games",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: All 5 Chapters and Missions – Story Progress Guide",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZG14UXlPbFVNbElfZmFSaXNvLUM3UE1YMGp6a2swbkRGdl9CYmVoQjNTeUNveVNtaXFvMFFnaGZtbUV2YV9NdFhwTkxUSUJZVExYeG1jZVdWN0ZzZmN2S1ZzWW5HMkxrRjVCR1VadjcySW9mQ3hEcjZQUFhWS3I2QmplV3FNdw?oc=5",
+     "ts": "2026-11-22T03:41:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1496a1116b6f",
+   "title": "'GTA 6' on Xbox Series S: How well it actually runs",
+   "first_seen": "2026-11-22T05:20:52Z",
+   "updated": "2026-11-22T05:20:52Z",
+   "items": [
+    {
+     "id": "1496a1116b6f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' on Xbox Series S: How well it actually runs",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5weWZnSU1NaXVSOFhMNEtzUFJrTFgtZzVqX2psczFBY1pxcTRGekhqVWdsRDJUQjJMbGJtR1Frc01qT19zREZRQzNlWU5sYXdhc0dSazJRaGNtM3QweXREbndPV2xHUDRSbzFpY1dycDl6UUtwcG1PcDlPc3E?oc=5",
+     "ts": "2026-11-22T03:42:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "cf98d5e96ad1",
+   "title": "GTA 6: рейтинг 99 от критиков против 5.6 от игроков – в чем причина провала?",
+   "first_seen": "2026-11-22T05:20:52Z",
+   "updated": "2026-11-22T05:20:52Z",
+   "items": [
+    {
+     "id": "cf98d5e96ad1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Carexpo.ru_ все авто на одном сайте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: рейтинг 99 от критиков против 5.6 от игроков – в чем причина провала?",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdWpDekhvMnZpZURRV044OW9kSktZN3B5VWVReFdTaE85dzFhakFfTmN4cmtOVmVKNmJfMGdwZlVGdkZTY2RabHhUd0ZKTW0zUFFTR281YTV1eE9QaEd6WTJzTHpnSFNOVmFOc1lzVlM4QWtySDhOdkZOQmdHaTdtMmtKTS1hc2dVZ1ZpdjlRR0FTUm14aEpDVA?oc=5",
+     "ts": "2026-11-22T05:19:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "58ad7d0ab6d5",
+   "title": "'GTA VI' finally reveals the actors, voices and familiar names behind Vice City",
+   "first_seen": "2026-11-21T21:40:52Z",
+   "updated": "2026-11-22T05:20:51Z",
+   "items": [
+    {
+     "id": "58ad7d0ab6d5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Japan Today",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA VI' finally reveals the actors, voices and familiar names behind Vice City",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeEUwTS1tOEdDbzhnS0ZXd296MUd2UHNhTjlybGliWV9vLUpLellEeXdjR2hVRUFSUldMZl92bEV3cUpTcDA2MmFZXy1hMjFsbEZZVzVtUDFzSkxzNW5qRU8tVWZnZXBJdEFTUktJNUd2WTZPTXpNaWlFTlY1YlZBck1nNWNESEttaWpENFV5bDg1Xy10VGk4c1hOZVFMVWF6RGJ2a3l6bkl6NW80VVZXTFpScFV2RnM2QTd3d180cXZXdw?oc=5",
+     "ts": "2026-11-21T21:27:38Z",
+     "summary": ""
+    },
+    {
+     "id": "1aee25d78ab5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Sports",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Heat’s Klay Thompson reveals favorite part of GTA 6 after Vice City-themed game",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3RGXzZ0d3ZGTWdYNkxlVEFrdi1BNGZWR050cERkelVZRzZyZk82TlROZlh0SlJHbHFIa1BNYk9tTFpyMktUODlvanN3WENCalUwb3ZwY2t5LUZxTkNzdURNYURoajRiMU4tVmdKaHdxWmc0ZVlLTnlSY1V1cF9BY09QU2JHbU93ZEw2aw?oc=5",
+     "ts": "2026-11-21T21:15:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "d231d11b1152",
+   "title": "The Backstage Experience: The Hunger Games, I Play Rocky, GTA 6",
+   "first_seen": "2026-11-22T05:20:51Z",
+   "updated": "2026-11-22T05:20:51Z",
+   "items": [
+    {
+     "id": "d231d11b1152",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "FOX 13 Seattle",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Backstage Experience: The Hunger Games, I Play Rocky, GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VTzhhd3FaU21TbEJMVUNiVVRkVFNLd2FhUFYteVU5S05LY09ObDNFMXNWQ2lGNkZNM1J4RUMwMVNxa09XR0VaLTBYWGQ2RDNpOVVPOFgyWTBweDM3OUtLZjU5RWdjQdIBa0FVX3lxTE9xRUVhdXJvWFpyTGlnekZNVHpkSDRGN2J1RVNjS3MwVnZMNHhnaXQ1dF9MWG5HMUtBWER1d2hSUFNlcVNXdXVCZ0NIU3oxLS12ckM0RG91NUxEMUpJNmJwc2pCWUQ5eGNoc3Jz?oc=5",
+     "ts": "2026-11-21T18:49:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fac10967c2f2",
+   "title": "What's trending: 'Grand Theft Auto VI' hits record sales and 'Sunrise on the Reaping' hits theaters",
+   "first_seen": "2026-11-22T05:20:51Z",
+   "updated": "2026-11-22T05:20:51Z",
+   "items": [
+    {
+     "id": "fac10967c2f2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WZZM13.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "What's trending: 'Grand Theft Auto VI' hits record sales and 'Sunrise on the Reaping' hits theaters",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN2RobTFxQXpSbnJyTWhGc25SSXotRklzQlJkcTIxMm9xa1BLYlE0Rm1IMlBEdW9TUk9OZWdvcFJ2VU83djhNb2xFcWZnNGt6MDRpYS1rWUhpT1J0YWxSem5yOWpWRlhhRUtQWFBSN3laMUxYNXNIZjVkN19zRGI0eFZFM3ZlbGk4V3k0dVRyNGZfS1kyakZZRDAyaGQzNUpDeEpXVEhaaElOYmRaejBzMGg5S1E5WkpLc3p4WTJjVGtlM0Y1UkZ3VDZ6d09yR0E0ZndlYnRjR1o0NlZDMVphWlFVbl9iMjF5UVpGdlBjN1JwNFo4VUxMUjJWSllfRjU5Y2JN?oc=5",
+     "ts": "2026-11-21T18:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8609671e7de4",
+   "title": "UNLOCK GTA VI FIRST PERSON MODE",
+   "first_seen": "2026-11-22T05:20:51Z",
+   "updated": "2026-11-22T05:20:51Z",
+   "items": [
+    {
+     "id": "8609671e7de4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "UNLOCK GTA VI FIRST PERSON MODE",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43b1JmTGZPLXFqMHZHM1c2UTZvX0phQWF4SFZqOUFJS3JFNkNYeUJwS1hITjdUVmdEcVlGX3Fzczl3Zw?oc=5",
+     "ts": "2026-11-21T23:18:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6ee267845f99",
+   "title": "GTA 6 Xbox bans: can you appeal a suspension over an auto-uploaded clip?",
+   "first_seen": "2026-11-22T05:20:51Z",
+   "updated": "2026-11-22T05:20:51Z",
+   "items": [
+    {
+     "id": "6ee267845f99",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Hassan KOHEN",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Xbox bans: can you appeal a suspension over an auto-uploaded clip?",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2xEQTF3N1cyZjFrMXRhUXIyRXpoNmY2Z3ZjdzA4OC1MR0hJM1lkelAtMENvc0g3dWstTGp3YXlCR2V4V2dFdXNZSUdVai05MW9nR2xwS3l5NUljUkpQOXNITWRNWVVuSU11Qks1cHZYSExGTmZtVFYtYjcwbVE5R2s4NkZ3OGMyZjdvZjB4VVFtQ1FaNkR3N3hLSG5QTktu?oc=5",
+     "ts": "2026-11-22T01:13:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fe471e21e85c",
+   "title": "GTA 6 Officially Cuts A Controversial Franchise Feature After 25 Years",
+   "first_seen": "2026-11-22T05:20:51Z",
+   "updated": "2026-11-22T05:20:51Z",
+   "items": [
+    {
+     "id": "fe471e21e85c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Officially Cuts A Controversial Franchise Feature After 25 Years",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QUUp3b1BvM1FuTFhqTUNrZkdRNFljYmxkLTRqWDBNWEJPTlA1WGo0dXcyUFBBZHVwS2Z1OGdHWEZmSTJxZnBfbWJIa3hPT2ZUanZfbm1ST2Q2WHVaT1YwLUJkd3A?oc=5",
+     "ts": "2026-11-22T01:21:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4f493467f1df",
    "title": "All Saber Shipping Yard Robbery Key Valuables Locations - GTA 6",
    "first_seen": "2026-11-22T04:10:48Z",
@@ -1327,56 +1876,6 @@
    "status": "new"
   },
   {
-   "id": "49583d76de07",
-   "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
-   "first_seen": "2026-11-21T23:10:47Z",
-   "updated": "2026-11-22T03:01:07Z",
-   "items": [
-    {
-     "id": "49583d76de07",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PC Gamer",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3JxVGVCeWNZRFJTQmNOX25LUDFMT0t4SzNmZjN0aHByMzRpOHdBTDhnUVRsUWNOVE1xRWpxWHNCUldrMDA4S0hJa2h6U0E5Z3JkYlNaeGllY3ZvUjJzZF94VU9jVXBIX3BaUEFmWGd6ZWFZY3ctSTRzNktuRlVCT0p3dlc2bVlnYXo3VV9vLXUydU8xZnpUMnJSNTNybHNhbkFRZWZSWWVsV0lmYmNVRnRjYTZaSXBTdmtYWXRMYjU?oc=5",
-     "ts": "2026-11-21T21:42:29Z",
-     "summary": ""
-    },
-    {
-     "id": "03c53ca8d072",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MIXED News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 accounted for nearly a quarter of Comcast’s traffic at its peak, the company says",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaXZ3UGlxcFFGS19OS3VtSWk3V0VFeDNvNXpmay1FQk5aYzRGSk1qd0NpelA4ZkU2Y0x4SEdaS2pRV1N4b0RKU0tyMkxjUHRGVGVaSlQ0U09qdU1VbXpTZk9nMjNtd1hTMGF5MDl4QS1Ga1gyekdkWlBWOEpHUTA?oc=5",
-     "ts": "2026-11-22T02:58:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 забрала четверть всего интернета в пик",
-    "summary": "По данным Comcast, в пиковые часы GTA 6 генерировала почти четверть всего интернет-трафика. Об этом сообщает PC Gamer со ссылкой на данные провайдера.",
-    "idea": "Короткий ролик с графиком «1/4 трафика = GTA 6» и реакцией: показать масштаб нагрузки на сеть в день запуска.",
-    "hook": "Четверть всего интернета. В один вечер. Из-за одной игры — GTA 6.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-21T23:10:50Z"
-   },
-   "msg_id": 1880
-  },
-  {
    "id": "ef23ec502ff7",
    "title": "Пользователи далеко не в восторге от GTA VI — игру оценили в 5,6 балла из 10",
    "first_seen": "2026-11-21T20:20:45Z",
@@ -1440,98 +1939,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "1bbe721fa56a",
-   "title": "Veyra 2.2.0 expands GTA 6 launch capabilities on PC via PlayStation 5",
-   "first_seen": "2026-11-21T09:30:58Z",
-   "updated": "2026-11-22T02:50:45Z",
-   "items": [
-    {
-     "id": "1bbe721fa56a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Завистливые ПК-бояре устроили GTA 6 геноцид на MetaCritic: у игры всего 5.5 балла от «игроков»",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakdNWVhtVDRST0FoNG10ZlVJaG5hWkpIS1ZaRjluamFRYjBxU2NpMUpLWWcyRFhhN1ZlU2Y5eXVRRlVjUHctYlZVN1lLT2xkTjNIUWF6YS1aZkUycktlenlyQV82a3ZHSWtxYk5DcS1QajdyUTMxcXl5OFpPaG5vazROYTZuR0s3Q1ZHVU5yc2F5U2k5Qk9td1FpakRUUy1Gb002Tlh1YzFoQ0tOYjVaSEVfdTNPMlJfalE?oc=5",
-     "ts": "2026-11-21T09:25:46Z",
-     "summary": ""
-    },
-    {
-     "id": "e90453ca94f1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Veyra 2.2.0 expands GTA 6 launch capabilities on PC via PlayStation 5",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXhoZ2JURmxmRV9VZ3hOYjN0b1B0Q29kb1RZelIwWFlFX09EakV0VWxiYW9pV0FrdHBlMnpKNnhsRk5Tdlk5dDZ2QUdiVng0T001dHBOMGFuT3VUTG5vOE9SLVRaVGxkWFdWbV9SRXE5OXBKd2VORWNfSEZtX2dKLWV1OGRGMHhPdnlVb2F1NThINU1QS21USlRLN21XR193eVpsWnlETWo5Z2t4S3c?oc=5",
-     "ts": "2026-11-21T10:26:13Z",
-     "summary": ""
-    },
-    {
-     "id": "6f3f53a69f19",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Veyra 2.2.0 расширила возможности запуска GTA 6 на ПК через PlayStation 5",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTQxaHYxcGlNTXA2SGZOUV9iWEpaaXQxcDM3ZjVoWjNnS2MyZldvejJua2NsdHlDcmVyaGFEclhhcUZlMzlNajZScDJEQVZlYjYtUzhpRGc5TFVEYURxQ0xBVkdFTzgwS082VDJZQWFBdWJ2YWFkMm9TR2gzUndvUXAtUFFnR0RpQmtWZHgyMTdTNlNKdEdwTzloSmwzZnprbFREMWJkNjd6Zw?oc=5",
-     "ts": "2026-11-21T10:26:13Z",
-     "summary": ""
-    },
-    {
-     "id": "33f24492d460",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Wccftech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI PS5 Streams/Captures Get DLSS 5 and Frame Generation on PC Through Veyra/Neural Screen, But Gameplay Still Runs at 30FPS (with More Latency)",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFFqTkpBUjJNRmN2Mnc4OURLMkZqa1l2RkFwenRyeEJVT085V2QzY2tkRVRHd3lxdVVZM1d6ZzhuZnB1VGhTRmZCVUcycUJMN2o0TEN5eUZLemFqcFcwSksxMFVPb1RBWFhzWDV0d1pKMGRuVVRDLU8wMFdKcHJxV0tkRHk1VmdKNmEyZTRGVGVEeUFIdC1j0gGcAUFVX3lxTE5hZUNkLVZQZldIS0NWOF9jQnFxdmcwMVJUM0dvV0NxSk00Q3hKUUNNVXlORUdzWkFiNHVjMHB0aDdWeUVURkhUcVV1S2NIT0JyRF9mN3p0V1Z6LTViRW1CcWxkNFo5OXhQdEZydHhiRWZxU0pUZ0lxWV9qU29DcmZBeFZYT1dNbUJJOFBzUXA2ZGw1ZnJUZno5OHVDcQ?oc=5",
-     "ts": "2026-11-21T15:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "17438f3cbc2c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Notebookcheck",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 PS5 and Xbox users protest after bans for sharing gameplay with nudity",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUdVNk1TdGtaYW5vc3Vaam9LcmJfV1I3bkpsVlV3c2FqWWNkNDN4aE1HcDMyMC16T2Zlc0RNZFd4bFNBN2hoYndyaGpQR0k5UXdaMDlZYVFldGs2alNtUTR6Y0xOcmhsVDgyczY4V1NwZnFCMi1PNkttMWFMc0psNV9mVzA5MGo0dFBEWFpRaDZqS09QVVFSa1ZxcUdFOE1iV2k1TlY2TVA5VG9tOV8teWJfUTlib2U4ZkRHYlF3?oc=5",
-     "ts": "2026-11-22T02:37:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК",
-    "геймплей"
-   ],
-   "score": 89,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "ПК-бояре утопили GTA 6 на MetaCritic: 5.5 от игроков",
-    "summary": "По данным GoHa.Ru, пользователи ПК поставили GTA 6 на MetaCritic среднюю оценку 5.5. Причина — отсутствие ПК-версии на старте и перенос на первый квартал 2027.",
-    "idea": "Короткий разбор «реванша ПК-бояр»: почему ставят единицы и что это значит для рейтинга. Плюс экран MetaCritic как доказательство.",
-    "hook": "ПК-бояре мстят: GTA 6 на MetaCritic — 5.5 от игроков. Вот почему.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-21T09:31:02Z"
-   },
-   "msg_id": 1797
   },
   {
    "id": "cf8b5ef24d36",
@@ -4682,34 +5089,6 @@
    "score": 50,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "58ad7d0ab6d5",
-   "title": "'GTA VI' finally reveals the actors, voices and familiar names behind Vice City",
-   "first_seen": "2026-11-21T21:40:52Z",
-   "updated": "2026-11-21T21:40:52Z",
-   "items": [
-    {
-     "id": "58ad7d0ab6d5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Japan Today",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA VI' finally reveals the actors, voices and familiar names behind Vice City",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeEUwTS1tOEdDbzhnS0ZXd296MUd2UHNhTjlybGliWV9vLUpLellEeXdjR2hVRUFSUldMZl92bEV3cUpTcDA2MmFZXy1hMjFsbEZZVzVtUDFzSkxzNW5qRU8tVWZnZXBJdEFTUktJNUd2WTZPTXpNaWlFTlY1YlZBck1nNWNESEttaWpENFV5bDg1Xy10VGk4c1hOZVFMVWF6RGJ2a3l6bkl6NW80VVZXTFpScFV2RnM2QTd3d180cXZXdw?oc=5",
-     "ts": "2026-11-21T21:27:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -191114,154 +191493,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "4bcd345c96bf",
-   "title": "'GTA 6': 3 intriguing new details we just learned",
-   "first_seen": "2026-11-14T20:01:14Z",
-   "updated": "2026-11-15T05:20:50Z",
-   "items": [
-    {
-     "id": "4bcd345c96bf",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable SEA",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6': 3 intriguing new details we just learned",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkpkd0VTTzl3UlZMbjZONG9fRndoTWRWMmw2alJCaWdyRElUdXNrOWdEWGJpdmxMSGNOVTRuLXRSbkRLTmoyVWRPYWQ3d2NBekt2SGRvS3lWN3gxMXRuQWc5VVZmQVJnMVlaMlpiZ2RFejdwU1pGZkdsT2YtWVJGaTY3UDRSdWdJNTg4?oc=5",
-     "ts": "2026-11-14T19:34:13Z",
-     "summary": ""
-    },
-    {
-     "id": "27d3f9f91c4b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6': 3 intriguing new details we just learned",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHA1dkU4dWdmRUtXZFFUWFBkTmJrUHhLZk9jYmRiekpWWTc1c2ZqOWpoZFQ1VU9HUXdpdmE3TlZiU011N1BKaHBtMnNVTVV0ejM5Y1dVQmF2bERRY0hUaThqUUdySE5yUDZCUVRwNTVRdVAyQXZ2NHV2VXhreEJfNW9FbWw?oc=5",
-     "ts": "2026-11-15T03:05:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "5c0321ce23fe",
-   "title": "Хакеры пытались украсть GTA 6 у журналистов, но Rockstar и Sony якобы создали особую систему защиты аккаунтов PSN",
-   "first_seen": "2026-11-15T05:20:50Z",
-   "updated": "2026-11-15T05:20:50Z",
-   "items": [
-    {
-     "id": "5c0321ce23fe",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "PlayGround.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Хакеры пытались украсть GTA 6 у журналистов, но Rockstar и Sony якобы создали особую систему защиты аккаунтов PSN",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaWdqa3VOSGdaWWthOHZfOEotZEhUbVlNVFdYMEt1WWJRRDZPd1AyZjBRSGowSUtqX0c4TVd5XzgxMlI3YTJoZklRTVFna25nbk94dU1aWVhhTm5XU01xU0ZGa2V4TWgzUkdvMlVZM3Z3NnJUZkVaUlFhZDBRLTBBamtJQjNIdXF6dmVrZFpXUzRJcDRZRUFmN1RxcEFmelVSZkxMOWZOc0dzYlUtNEtCM2RtUEhxMXVCVF9kcXlDUDFuUVB1VWZGdmthUWJVUk5KYkpUV0xnQnp0VjJuRlp1RkphdkU4ODhzdGlraWw2ZzlHZw?oc=5",
-     "ts": "2026-11-15T05:06:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "260cf563e5b9",
-   "title": "Перед выходом GTA VI фанаты устроят GTA V необычные проводы",
-   "first_seen": "2026-11-15T05:20:50Z",
-   "updated": "2026-11-15T05:20:50Z",
-   "items": [
-    {
-     "id": "260cf563e5b9",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Перед выходом GTA VI фанаты устроят GTA V необычные проводы",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmpGZHB5dDFiazhpSkVTbWpNYlRibFpKTXFoTExMQ0FjUzRIaV9zclNCQXlSTXg1ZmZFVm1ia29JYUFjLV9MR2FHRWk2cFRtZmIxTGdPNC0wcjVRcy1zNWtmZTlRWEFyNnlycDFkMi1mSlowUHJJRXJUUWFvZUtaZ3hiNHVycVFHa1ZUX1VyZjRBSXVrX1o2RDhSbzZfQ1Uta1HSAacBQVVfeXFMTlF3Szczb29ZcEVWNVV1d2UxWGUwY2RWNUtxQmd0V3dJdE42YkoyMWh0aDlNUHhJdG5LQmQ2aFY4SnNSZXo1NkFGaGVfdGpEQ2gtVnRiR0RpdmJaLTlKOEpBYnBIQ2ZtLWFGbWprRjE2cEdfcWFJcEtCdzdvMDJVc3FDazR2aThzNmV5N2YySXNtd0tFS0JEeTFmVFdqUlQ5c25CMk5JcVE?oc=5",
-     "ts": "2026-11-15T05:11:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "37206326c5b6",
-   "title": "Hurry up ffs",
-   "first_seen": "2026-11-15T05:11:11Z",
-   "updated": "2026-11-15T05:11:11Z",
-   "items": [
-    {
-     "id": "37206326c5b6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Hurry up ffs",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xwmwq2/hurry_up_ffs/",
-     "ts": "2026-11-15T05:01:07Z",
-     "summary": "Trying not to die here submitted by /u/InfernoBlaze1221 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2eea5f1fe2a7",
-   "title": "🪑 В сети нашли первую в мире услугу цифрового к#колда 🥺 Канал про GTA 6 | Наш чат",
-   "first_seen": "2026-11-15T05:11:11Z",
-   "updated": "2026-11-15T05:11:11Z",
-   "items": [
-    {
-     "id": "2eea5f1fe2a7",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "🪑 В сети нашли первую в мире услугу цифрового к#колда 🥺 Канал про GTA 6 | Наш чат",
-     "url": "https://t.me/GTA6_m/9376",
-     "ts": "2026-11-15T05:05:05Z",
-     "summary": "🪑 В сети нашли первую в мире услугу цифрового к#колда 🥺 Канал про GTA 6 | Наш чат"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T05:10:43Z",
+  "last_run": "2026-11-22T05:20:52Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
