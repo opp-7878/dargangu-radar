@@ -1,6 +1,571 @@
 {
  "stories": [
   {
+   "id": "4e8dcd254763",
+   "title": "Trump Administration Tries To Use 'GTA VI' To Boost Its Agenda — And It's A Total Self-Own",
+   "first_seen": "2026-11-22T16:50:49Z",
+   "updated": "2026-11-22T17:01:20Z",
+   "items": [
+    {
+     "id": "4e8dcd254763",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Trump Administration Tries To Use 'GTA VI' To Boost Its Agenda — And It's A Total Self-Own",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0pULVMySnhGUVQ4T3pGazhKdVRGeURpN2I0SGFxbVBUOVpyZTVhSXllLTlpNjFNQkFQWTV5cmJqMGZzZVo5SFpNajVZZ05kbHlCeVlpd09CWllNSEh1RDUzZkg3Z0lJTmdyZjFBMHZwVXJHOVdfQ2h4Mk9wQUdidkp1UHA1Z3VxZktWN2hqZHNhMmpWZ3ZsWg?oc=5",
+     "ts": "2026-11-22T16:42:21Z",
+     "summary": ""
+    },
+    {
+     "id": "ea8debb6736d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo News Singapore",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Trump Administration Tries To Use 'GTA VI' To Boost Its Agenda — And It's A Total Self-Own",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRS0NDUHRaS3lCT2w0MFEySHVTX3dCdTVyME5zZ2EyYThVWGJTckdkN3E5NmlVVkNSQTJ0TEV5dU45YnVlV18ybGFjRVI4eVduU3pjZkVpQll2UmRhb3hKblp3TkV6R21Qaktjc2lFRlZOaVBZeE5ibXIxdzVOeFk?oc=5",
+     "ts": "2026-11-22T16:42:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Трамп использует GTA 6 в своей повестке — и это провал",
+    "summary": "Администрация Трампа попыталась использовать GTA 6 для продвижения своей повестки, но это обернулось против них. Об этом пишут Yahoo и Yahoo News Singapore.",
+    "idea": "Короткая нарезка: заголовки СМИ и реакция соцсетей на попытку властей «примазаться» к GTA 6. Зрителю интересно, потому что политика неожиданно ворвалась в игру — и вышла неловко.",
+    "hook": "Трамп решил хайпануть на GTA 6 — и всё пошло не по плану.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-22T17:01:30Z"
+   },
+   "msg_id": 1921
+  },
+  {
+   "id": "dfb4e6ac8838",
+   "title": "GTA VI Day-One Sales: Take-Two Reports $3.79 Billion",
+   "first_seen": "2026-11-21T23:31:01Z",
+   "updated": "2026-11-22T17:01:20Z",
+   "items": [
+    {
+     "id": "dfb4e6ac8838",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI установила рекорд, собрав $3,79 млрд за первый день",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQOHFNUl9paW5LN0xwN01Pd0dKeW9LYXhicURsdURBUktnNmpleGVsNUM4R2NRUkdadURJWFItZ1lmU0lSQ05KbUsyVm1Va3R2UjR6cklDRVJja3UtUThyT3FFMVBVNFY3c21PLWYzZ0ppLTM2Nl84?oc=5",
+     "ts": "2026-11-21T23:24:22Z",
+     "summary": ""
+    },
+    {
+     "id": "c3bb2513b4c1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Фактор - новости Карелии",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Продажи GTA VI побили рекорды и достигли $3,79 млрд",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFhwVXNpa1JnSTBXTndFTTQwcjMxNTR3Q0VsZlVCYnhaVjk0Zmw4NEE4U2Y4OG9wdVNneGdnQWpuUENPNGhNT2w5V2NxczVUdTFmWkNLRG85WXhRc2FkcVpLRUNNU19fcWhZTEFFd0Q0d3JoWjZaSk5UenM5dVgwVzB4WEY?oc=5",
+     "ts": "2026-11-21T20:02:11Z",
+     "summary": ""
+    },
+    {
+     "id": "697fba7b49f0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "airpress.kz",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 за первый день собрала $3,79 млрд — Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1Sl8tRng0dDR5MnpiY0lEUWtLQy05bVk0S0xiT19tWmpzdTRvSE12ZGJrTTNXRXhVY24xSVU0UXd4VUR4a1VfLWlHRXprVXVEYjNpdkpkbWVtM0hYM2pLU1c2VERaa25WQXBpUVJwMHZ5UQ?oc=5",
+     "ts": "2026-11-22T02:53:46Z",
+     "summary": ""
+    },
+    {
+     "id": "a7d291bf3206",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Kazi Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Day-One Sales: Take-Two Reports $3.79 Billion",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iRzhNSjZwbXhiRTJhaXBiSHAwaDRaYUFJd2pVSmktdlVRQWF4S3d5SGhoUHJYcFY4OTEtUkFGRW5OX1FMZ0VlVUY1dHE5c25XeWgzZDRtT0cyeDBENGg1eHVaZWtweUFXdldIVWlULTA?oc=5",
+     "ts": "2026-11-22T03:42:25Z",
+     "summary": ""
+    },
+    {
+     "id": "9a608f4dad71",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Make Tech Easier",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 made $3.79 billion on its first day and sold 32.5 million copies before release, Take-Two says, far above Sensor Tower's $2.36 billion estimate and nearly five times GTA 5's 2013 debut",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pNjFySjU2QmtiTzMwVVVwc2ZKYm9Vb3J2b1NTbExYVFVEQkxNLWhiLURBVlBNakY1OVBqTTB0Qkd6MmxfY2xVTk4tck5aRjlmSFIyVEhfT2JfTlpEcXhxMFh1Nmw?oc=5",
+     "ts": "2026-11-22T05:07:16Z",
+     "summary": ""
+    },
+    {
+     "id": "8ad631336a5f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Nokta.md",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Продажи GTA 6 приблизились к $4 млрд за первые сутки после релиза",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHZTM25CcEloUWpJRkt3S2llcWdFMkhQeUJCb3FTVHVrVElHVThQUGRSeWJycGxmM0NRUzExNWFyOFIwa05QbDhGQWtNRS1JcFc1ajVvTFpZb0FTazM2T2lNd2dCV2F5TlBvb2J1T25oaWxTMmxjalg3TVl3RU42NVlFYlFnNEYtSnc?oc=5",
+     "ts": "2026-11-22T06:01:48Z",
+     "summary": ""
+    },
+    {
+     "id": "95fb8e815c5b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "www.escapistmagazine.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take-Two Estimates GTA VI Hit $3.79 Billion in Day-One Retail Sales",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlJmTE9OWlZucEdMVUpXRXUtRzRWcjhVT09SSkprLW5wdV9Gc19UaWNNaEZSMEpYbF9adE5UZVgzZ29vRXdIRGJIOTZCR1d1S1B2WEItcEV5YmZ5Ml9jSGJ4Mk1FVTJUUHdFQ1lWazBTYkdTam0yUl9EdnRUV2NtRnpHWGtNNXlxRU9lR05iNGhLQ0VHbFQ4STdhNzJ4UDZCSkE?oc=5",
+     "ts": "2026-11-22T06:13:00Z",
+     "summary": ""
+    },
+    {
+     "id": "6a6978758d41",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mixmag Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI earns US$3.79 billion revenue in first-day sales",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRV9EQU1yQ2p4RjJ5bnZHdVd1NFljVXVUdGwxbVVWWkVIMkFRT3lfeWhibF9jbUtOX3piaVF1ZWxuRjIyc3ZYRVBHbmhBUm11SHlDMkl4UnpHWExCRFVZOVlwSFdSbG9kclhEQjBxdzFPajgzeEE5VjZQUE9Yb21VTmRYWUx1N29MekNvT2hDTmhJamdfckhFMVV4RWEyc0k4eHhDdGs5RXE?oc=5",
+     "ts": "2026-11-22T04:56:25Z",
+     "summary": ""
+    },
+    {
+     "id": "e3cd910fd254",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Korea Daily",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 — Grand Theft Auto 6 Breaks Records With $3.79B Opening Day",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPYWRNODFYZHVFMEZRZDhwa05ERjBXSWhEaDE4UFZBWGFSbXRkZFVUemFNcUdDTmRkX19XVDEwWjQxUUtfVmdGeTVZWWlyVkJrZklYMEZBcHJEcW9RcHNEd09mWTJSZk9U?oc=5",
+     "ts": "2026-11-22T09:10:13Z",
+     "summary": ""
+    },
+    {
+     "id": "2f49acbc76a4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Kursiv Media Узбекистан",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 заработала $3,79 млрд за сутки и установила рекорд",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUJDSFRDQWVzLVJ0MDFLdG1NUmNJeXFxYWMwQVkxMXU3czhEaGtibHIyYzhyaEVLN3BjOWpkLXdNMnZpZmFFWVowNG5XR0s2YVRiVFNhY2pycEhkeG5vbFBxbGZIQlI0OUQxV1hyR3d5OGZUQmtzZUlOcDdNSW5yeEI4amg1R3ByalBCRDgyRzQwZnppd1VzUGRrMl9aMDFQOEJPLV80bjdPNE9pdFVBR3lB?oc=5",
+     "ts": "2026-11-22T09:19:04Z",
+     "summary": ""
+    },
+    {
+     "id": "58a78a857a9b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "niagara-gazette.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTGwxY0dfYmNRcHNPZVE5WjhzRkdETHhvR1ItUnRHc1pmNEp4ZmlJZEhfU0JzOGMybWhFN25DcHRnMjYxbHV6WlJQR2NrcS1JUHd3QXJvRjBIc19ONHZEOEUtX1RaenNQdUxGNWhHQmpfZXVhYTFBTURtWlAzdnlKLVlBNjBIVmpRTGwzMkZMN3hfd3ptTm5Jb25XazRnbktNdmtyN0ltYUFKUUVUMDM3TjFlNndaMFN2Q0FzNHpTMTBmc0lWX3lzXzRkdXk4TWVmRy12YXltXzJsZVN1UGtrWU4yQm1LMmstT25hdWJBMDRnNEE5S2Nj?oc=5",
+     "ts": "2026-11-22T14:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "776679dfc8c7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Tom's Hardware",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "KFC offers disc-shaped fried chicken to sad disc-less GTA VI fans — KFC Spain’s ‘The Replacement Disc’ campaign delivers where Rockstar disappoints after selling $3.79 billion of GTA VI without a physical disc",
+     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQU2RSLTRpc0wtb2NOVldFWTFDXzNtZmYxZHJncmp3QkRGM2JpTm9Oc1lucWpZcnpHNXZNSXNKUDBkWDM5OWJWbUh5eFh6eTBJTnVnY0dsUTM1Tk05NUFMU2MxbzhVSmdEMjZiUmU2OVRENkFCNkdyLWw2Y1NyeXZWZlh1TThITnJrRVZHMHRUcF9rWklCa3pDVzhqS2hUbEVJMFVYeFoyR0NnTW1jbWdlQW9CM3g3UEQzbWRvUjd1UGhJTG9KX0xUd193eDdmejhmQUNXWlp3VllPaFVPSGIwUGRUaVNVZXpFTGxFM3c1cEJiLU1GVURtTnROdVJpbGptSTVNUmNObUtJczdEdlVPQ1JjWUZGc08zbFdVNnFhdlNLY0tKa0NtVWdyMm95WldNaHUxd0hBbFd1NzVZVDNPU3FqdVZoU3VISnRkQ2VCMG94NjVqSjhuT1hYdzROZFBsUE0tZWZ3?oc=5",
+     "ts": "2026-11-22T14:18:22Z",
+     "summary": ""
+    },
+    {
+     "id": "df4c59d8680f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Fairbanks Daily News-Miner",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' sets record with $3.79B in first-day retail sales, Rockstar Games reports",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWUxmeXRZemZ1RmJsNjlSN2xhSGxQdktsektsLVNxaTlFZXZOaEp5d3NJT3hnemtGSWNoTDFQTkF3aHI4NUtkY3RzN1A4aWZ2SXUySnNJcnRpd1RnZXJTc3pLWnZLZi1KcDRrMWJ0NlB5UEVya3Z4VFBFSzRHUEFlckVSR2x5S2x6bFZuejhMZFBGQ3ZrREhFYzMtM1V5VVIyNkFnOEtUZ1hRQXY5NGIyZmhvTjNNMGFFUkpkRExVMF9yRVFqUUpfZm5abGNaeWFDNnlVQTllLUZBbnFkMHdqVEhRZXdtbDU2Nkp2TXpkUkk0eTNp?oc=5",
+     "ts": "2026-11-22T15:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "765652e88c07",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Georgia Asian Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDNMeVV6YjVGb25Qa0tvdkRiZ2RjM0o1M2t1SWhYWHNiQ0JIRnRXSzRDdG8zOGpsMURrZENQRm85ODdrRDN5c05VdndfLVJIUnl5bzRtTUtKeXdQZXdXZWFHUjVfNmVzc09yQl84UHNoeF9nWlBEcjE5SkQ2Zi1uc3dQSldiTkIyQWg2M1hHOXdmelB2dF84YmZ3S1hTUXFwdndlMkVtd3liVjBRNmlCM19yV1NnOTZXel8xcnRGdUt2OUV0eGZ3b2NBVm85NE1zYWc?oc=5",
+     "ts": "2026-11-22T15:11:38Z",
+     "summary": ""
+    },
+    {
+     "id": "d37e44e05d67",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MoneyWise.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's $3.79B first-day haul tops Avengers Endgame's entire box office run by $850 million",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0xmUDNoZkpXNzVzX3pzbko5UDV2SkxPR3Y5aktHMm9ZeXBieVVrSWJuZk5GdGdwQTFvWlc3YWpwakg3dTAtZDdEc1FUWTJ0SklSVklIVU0tTS1fNDFod2w3M1FLUWVRdmVpY0Nac1JSVy1oOUtoQlMxOFdlT1J3d1Z2dlZUb1FvbEREYVFyOA?oc=5",
+     "ts": "2026-11-22T16:37:15Z",
+     "summary": ""
+    },
+    {
+     "id": "692734dc7636",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WBAP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON1BMemI2WVFlelBjM1VhMGNlYjhISUNSS0N1dzdQaEo1WUM4Q0dwLVZzZTF2Sjh3LUFzRlBISEdBVjh4MTVsZm9wc01LOWdQbFlKd3huRlE0NW1maXQ3MzVVMDBzTE1jZ2pVa1N3a0IwdHlHVXN5MVpMd3B3alpJTWtUc2Y4T05qeER4cnQzcjdISGhfeDVpSFAyZEVZOWlBZ25CTmNfUnJwc2xJRFViQlJmY0hscUp5d3Nrd3FDNThsZw?oc=5",
+     "ts": "2026-11-22T16:53:35Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two",
+    "цена/издания"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6: $3,79 млрд за первый день — новый рекорд",
+    "summary": "По данным Techora.ru, GTA 6 собрала $3,79 млрд за первый день и установила рекорд. Это самый быстрый результат в истории индустрии.",
+    "idea": "Сравним $3,79 млрд за сутки с рекордами GTA 5 и крупных фильмов — в цифрах и на экране. Зрителю интересно увидеть масштаб рекорда и реакцию.",
+    "hook": "3,79 миллиарда за сутки — GTA 6 бьёт все рекорды. Смотрим цифры.",
+    "stars": 5,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T23:31:04Z"
+   },
+   "msg_id": 1882
+  },
+  {
+   "id": "deb5d9ab7f3d",
+   "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+   "first_seen": "2026-11-21T18:50:45Z",
+   "updated": "2026-11-22T17:01:20Z",
+   "items": [
+    {
+     "id": "deb5d9ab7f3d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemxUX1hTeE9tTk1oV28yUjU1ZGVDcVozRHEyd0lFVXFNRThKMV9jblFDeVBnRjRXaFhvZUcxeU1oVng2dHdib29PZ3V0TUhsYnVkUEVlWGxoMW02YnZJVVNyZzF0aUtxYW9sTVpVbDNRalVldWJMV2RWNDJqUUtSVnl2VHd3NXNOczlLcEhrTERVX2FpZDRNOWp5bVJQZm93T194NA?oc=5",
+     "ts": "2026-11-21T18:43:54Z",
+     "summary": ""
+    },
+    {
+     "id": "fa540134be07",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTkNfSThIUTVsUHpPWmFYbTMwMW02SGNxempzWVZtQ3doWUNaN3NKYnJkSldXQ3o2YkpHN1RXbzZ4OGctbi1NUUxVQlBkMVlPMk04QjlrUVg4VmM5ZllXQi14TVh5UkNiVzdYOGZsVjVtTDUtaVozNTlwUUFram9nOWN3UU9BTzl0eG1pZHVqVmJOYzBjRmQ2aEZyNzNHTWViOVNkNFEzdGhYX0MxTFg0bnF1UmxLS0d2N3R1dHNQNUg?oc=5",
+     "ts": "2026-11-21T18:55:21Z",
+     "summary": ""
+    },
+    {
+     "id": "6997bed470ef",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+     "url": "https://www.ign.com/articles/neuralink-participant-showcases-what-its-like-to-play-gta-6-with-his-mind",
+     "ts": "2026-11-21T18:43:23Z",
+     "summary": "A Neuralink participant has shared a video showcasing how the technology has allowed him to drive boats, fly planes, and get in shootouts in GTA 6 with his mind."
+    },
+    {
+     "id": "25996f916cb9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag Australia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Neuralink Lets Man Play GTA 6 With His Mind",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnNWUlFtQXNqVUJuOTVxVUZ1U29wN1h0OV9CRy1CV2pINGlJUmQwRXNnTDJwVzFHWGg4SkxBX2o1bmFrZFEzM01RTUFfNTJEZW1KeEx6WC1IVmJZV2VzYzlld3lwM0JVOEptNGZNQ3N4SFhINjNzVE1aM3FZRGJFeURtWQ?oc=5",
+     "ts": "2026-11-22T16:48:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 94,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 силой мысли: первый геймплей через Neuralink",
+    "summary": "Участник испытаний Neuralink показал, как играет в GTA 6 с помощью нейроинтерфейса. Об этом сообщил IGN. Официально Rockstar это не подтверждала.",
+    "idea": "Короткая нарезка: курсор/прицел двигается без рук, герой бежит и стреляет по мыслям. Это доказывает, что управление реально работает — и выглядит как магия.",
+    "hook": "Он играет в GTA 6 без рук — только силой мысли.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-21T18:50:51Z"
+   },
+   "msg_id": 1858
+  },
+  {
+   "id": "45bd0ffef822",
+   "title": "Rockstar намекает, что карта GTA 6 будет расширена в будущем",
+   "first_seen": "2026-11-22T17:01:20Z",
+   "updated": "2026-11-22T17:01:20Z",
+   "items": [
+    {
+     "id": "45bd0ffef822",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar намекает, что карта GTA 6 будет расширена в будущем",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3VHLUltNHpRTjNPUTFESTdUR19qVWM4R0xzYkdMcFRPMXRsQkZ1azlzUUVCcnZ3Xzh1a0wya0pfUlZQekpXRFVXUnhBYmEwSDg2WFg5cFY0YXg4M2pfVUEzQWFZYkVUTy12akt5UmZUZzJrRV8tR00xVkhWZHR3UXh2ZXJINFVkX3l1S1lJQzgwV1VkR3gyT3BLRWNmc2Ff?oc=5",
+     "ts": "2026-11-22T15:50:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ba76df5fd428",
+   "title": "🎮 SPOILER: GTA VI's snitches are b*tches. Go to the police, lose a mission. Even if you've been KIDNAPPED. Writer: Marie",
+   "first_seen": "2026-11-22T17:01:20Z",
+   "updated": "2026-11-22T17:01:20Z",
+   "items": [
+    {
+     "id": "ba76df5fd428",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "X",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "🎮 SPOILER: GTA VI's snitches are b*tches. Go to the police, lose a mission. Even if you've been KIDNAPPED. Writer: Marie",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiSDVHeHVaQXJyT2pEV0Y5MUlMaDhiSDJZakVHa2xQMTB1cFo5S2I5bnF1MTJPRUNKLWVkdzR6MmtxaU1SUWZ3aUhFdTh2bm9kRFh2M0FpdW83OVhQWGJLaXFjR3BOVncyWDNNVA?oc=5",
+     "ts": "2026-11-22T16:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a6919d9d1225",
+   "title": "Ну чтож, давайте наконец уже поставим точку в этом споре: Люсия или Мэнди 🏆 🔫 — Мэнди лучшая часть этой игры)) 😀 — Люсия все-таки забрала сердечко 😀 Подписаться",
+   "first_seen": "2026-11-22T17:01:20Z",
+   "updated": "2026-11-22T17:01:20Z",
+   "items": [
+    {
+     "id": "a6919d9d1225",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "Ну чтож, давайте наконец уже поставим точку в этом споре: Люсия или Мэнди 🏆 🔫 — Мэнди лучшая часть этой игры)) 😀 — Люсия все-таки забрала сердечко 😀 Подписаться",
+     "url": "https://t.me/gta6deluxe/2328",
+     "ts": "2026-11-22T16:54:39Z",
+     "summary": "Ну чтож, давайте наконец уже поставим точку в этом споре: Люсия или Мэнди 🏆 🔫 — Мэнди лучшая часть этой игры)) 😀 — Люсия все-таки забрала сердечко 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Люсия или Мэнди? Игроки спорят, кто лучше в GTA 6",
+    "summary": "В Telegram-канале @gta6deluxe подписчики спорят, кто им больше нравится — Люсия или Мэнди. Одни считают Мэнди лучшей частью игры, другие — что Люсия забрала сердечко.",
+    "idea": "Короткий опрос: зрители голосуют за Люсию или Мэнди, пока на экране нарезка их сцен. Это цепляет, потому что спор о персонажах всегда вызывает эмоции и комментарии.",
+    "hook": "Люсия или Мэнди? Напиши в чат, кто у тебя номер один.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-22T17:01:33Z"
+   },
+   "msg_id": 1922
+  },
+  {
+   "id": "592dec6c8185",
+   "title": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers",
+   "first_seen": "2026-11-22T17:01:20Z",
+   "updated": "2026-11-22T17:01:20Z",
+   "items": [
+    {
+     "id": "592dec6c8185",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdHdoX05kaTdvTDcyYi1oV2hvRFMxN3hORXVQWnAyUHV2Q21UQ2Z4ODd4Z1YwcTR0dWlTUGo1bEYwZVNlS1hvcTNJVmg4dm82Um53ZWNIT2hBcUhlcHhSZlY0T2ZCLVdtd1lMQ2tlWXhZX05DNWYzclpBR0N1cWRSNVRjZW1sVndTdERNeDJCNXZkZThZNzFVa3NRM1U2N2hsVlJrd0dZTVBHR19PSlNHSGw3NG1XM3RnS2ZDdkk2eVJaT1owbm90Y3FhOUllTE93T0N2eXI5aXVjY09SUGpRYVJkLXRtb1JydFlRMmtLaEFIVDFvbUpfaTF1cHZydw?oc=5",
+     "ts": "2026-11-22T16:55:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Бывший художник Rockstar: GTA 6 — потрясающе, но реки лучше в RDR2",
+    "summary": "Бывший художник окружения Rockstar рассказал, что GTA 6 выглядит «потрясающе», но реки в Red Dead Redemption 2 сделаны лучше. Он отметил внимание к деталям в обеих играх, не раскрывая новых фактов о GTA 6.",
+    "idea": "Сравнение рек RDR2 и GTA 6 на кадрах: почему вода в Вайс-Сити не впечатлила бывшего художника Rockstar. Коротко и наглядно — цепляет фанатов графики.",
+    "hook": "Бывший художник Rockstar сказал, что реки в RDR2 лучше, чем в GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-22T17:01:25Z"
+   },
+   "msg_id": 1920
+  },
+  {
+   "id": "02807fdb6e28",
+   "title": "GTA 6 Has “Deep Backstories for Almost Everything,” Says Rockstar",
+   "first_seen": "2026-11-22T17:01:20Z",
+   "updated": "2026-11-22T17:01:20Z",
+   "items": [
+    {
+     "id": "02807fdb6e28",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamingBolt",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Has “Deep Backstories for Almost Everything,” Says Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSW5EV2hlMnZzZEpsN3YzRGtsNHF5VGNkbVNkUUVIUmJ0WUNfNk1OeUNwQl9yaHg0UVdJSFNGMjVFOXRDRWFUcEM4dHZtaXNqUGItSkxTSGxVNE44ZlA3am1BRFpuNS1TeVZFRlhmZWw0U0lOUktBRlJmZDh3UGJMTGU0aENkMnpHT0hjSE1B?oc=5",
+     "ts": "2026-11-22T16:55:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "84fb238cc659",
+   "title": "GTA 6 developer reportedly honors his late mother with a hidden memorial",
+   "first_seen": "2026-11-22T17:01:20Z",
+   "updated": "2026-11-22T17:01:20Z",
+   "items": [
+    {
+     "id": "84fb238cc659",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Digg",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 developer reportedly honors his late mother with a hidden memorial",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CYkY1cGZRc3J5dzlUVlp3YV9seWpMYzNIaG55SC1CN3p1QWpEajJVNzNCTGZWNWE4VkFQekl0Q2hoLXhZSFBv?oc=5",
+     "ts": "2026-11-22T16:55:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1e25d23f02a3",
+   "title": "Surprising No One, GTA 6's Comedy Is All Over the Place",
+   "first_seen": "2026-11-22T17:01:20Z",
+   "updated": "2026-11-22T17:01:20Z",
+   "items": [
+    {
+     "id": "1e25d23f02a3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Surprising No One, GTA 6's Comedy Is All Over the Place",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ld3RMNmhiczlobmJsSURRVUlzT2dvSUxFYWg4NEkxRkVNbHBrMmVDTF9oeTlJWmo2elhCSk90cEhLRmdHRFQya0pJQkV4UE5PQmVnQ2lVbUY3V2pqSXd2bWlwSHhmbVk?oc=5",
+     "ts": "2026-11-22T16:58:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a467433097fd",
    "title": "Where to Find The Piccia Furia Supercar in GTA 6—Randy’s Wishlist Car Locations",
    "first_seen": "2026-11-22T12:31:03Z",
@@ -101,32 +666,6 @@
     "at": "2026-11-22T12:31:10Z"
    },
    "msg_id": 1901
-  },
-  {
-   "id": "4e8dcd254763",
-   "title": "Trump Administration Tries To Use 'GTA VI' To Boost Its Agenda — And It's A Total Self-Own",
-   "first_seen": "2026-11-22T16:50:49Z",
-   "updated": "2026-11-22T16:50:49Z",
-   "items": [
-    {
-     "id": "4e8dcd254763",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Trump Administration Tries To Use 'GTA VI' To Boost Its Agenda — And It's A Total Self-Own",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0pULVMySnhGUVQ4T3pGazhKdVRGeURpN2I0SGFxbVBUOVpyZTVhSXllLTlpNjFNQkFQWTV5cmJqMGZzZVo5SFpNajVZZ05kbHlCeVlpd09CWllNSEh1RDUzZkg3Z0lJTmdyZjFBMHZwVXJHOVdfQ2h4Mk9wQUdidkp1UHA1Z3VxZktWN2hqZHNhMmpWZ3ZsWg?oc=5",
-     "ts": "2026-11-22T16:42:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "ca1360028ac1",
@@ -681,228 +1220,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "dfb4e6ac8838",
-   "title": "GTA VI Day-One Sales: Take-Two Reports $3.79 Billion",
-   "first_seen": "2026-11-21T23:31:01Z",
-   "updated": "2026-11-22T16:40:51Z",
-   "items": [
-    {
-     "id": "dfb4e6ac8838",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI установила рекорд, собрав $3,79 млрд за первый день",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQOHFNUl9paW5LN0xwN01Pd0dKeW9LYXhicURsdURBUktnNmpleGVsNUM4R2NRUkdadURJWFItZ1lmU0lSQ05KbUsyVm1Va3R2UjR6cklDRVJja3UtUThyT3FFMVBVNFY3c21PLWYzZ0ppLTM2Nl84?oc=5",
-     "ts": "2026-11-21T23:24:22Z",
-     "summary": ""
-    },
-    {
-     "id": "c3bb2513b4c1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Фактор - новости Карелии",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Продажи GTA VI побили рекорды и достигли $3,79 млрд",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFhwVXNpa1JnSTBXTndFTTQwcjMxNTR3Q0VsZlVCYnhaVjk0Zmw4NEE4U2Y4OG9wdVNneGdnQWpuUENPNGhNT2w5V2NxczVUdTFmWkNLRG85WXhRc2FkcVpLRUNNU19fcWhZTEFFd0Q0d3JoWjZaSk5UenM5dVgwVzB4WEY?oc=5",
-     "ts": "2026-11-21T20:02:11Z",
-     "summary": ""
-    },
-    {
-     "id": "697fba7b49f0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "airpress.kz",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 за первый день собрала $3,79 млрд — Rockstar",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1Sl8tRng0dDR5MnpiY0lEUWtLQy05bVk0S0xiT19tWmpzdTRvSE12ZGJrTTNXRXhVY24xSVU0UXd4VUR4a1VfLWlHRXprVXVEYjNpdkpkbWVtM0hYM2pLU1c2VERaa25WQXBpUVJwMHZ5UQ?oc=5",
-     "ts": "2026-11-22T02:53:46Z",
-     "summary": ""
-    },
-    {
-     "id": "a7d291bf3206",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Kazi Magazine",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI Day-One Sales: Take-Two Reports $3.79 Billion",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iRzhNSjZwbXhiRTJhaXBiSHAwaDRaYUFJd2pVSmktdlVRQWF4S3d5SGhoUHJYcFY4OTEtUkFGRW5OX1FMZ0VlVUY1dHE5c25XeWgzZDRtT0cyeDBENGg1eHVaZWtweUFXdldIVWlULTA?oc=5",
-     "ts": "2026-11-22T03:42:25Z",
-     "summary": ""
-    },
-    {
-     "id": "9a608f4dad71",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Make Tech Easier",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 made $3.79 billion on its first day and sold 32.5 million copies before release, Take-Two says, far above Sensor Tower's $2.36 billion estimate and nearly five times GTA 5's 2013 debut",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pNjFySjU2QmtiTzMwVVVwc2ZKYm9Vb3J2b1NTbExYVFVEQkxNLWhiLURBVlBNakY1OVBqTTB0Qkd6MmxfY2xVTk4tck5aRjlmSFIyVEhfT2JfTlpEcXhxMFh1Nmw?oc=5",
-     "ts": "2026-11-22T05:07:16Z",
-     "summary": ""
-    },
-    {
-     "id": "8ad631336a5f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Nokta.md",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Продажи GTA 6 приблизились к $4 млрд за первые сутки после релиза",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHZTM25CcEloUWpJRkt3S2llcWdFMkhQeUJCb3FTVHVrVElHVThQUGRSeWJycGxmM0NRUzExNWFyOFIwa05QbDhGQWtNRS1JcFc1ajVvTFpZb0FTazM2T2lNd2dCV2F5TlBvb2J1T25oaWxTMmxjalg3TVl3RU42NVlFYlFnNEYtSnc?oc=5",
-     "ts": "2026-11-22T06:01:48Z",
-     "summary": ""
-    },
-    {
-     "id": "95fb8e815c5b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "www.escapistmagazine.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Take-Two Estimates GTA VI Hit $3.79 Billion in Day-One Retail Sales",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlJmTE9OWlZucEdMVUpXRXUtRzRWcjhVT09SSkprLW5wdV9Gc19UaWNNaEZSMEpYbF9adE5UZVgzZ29vRXdIRGJIOTZCR1d1S1B2WEItcEV5YmZ5Ml9jSGJ4Mk1FVTJUUHdFQ1lWazBTYkdTam0yUl9EdnRUV2NtRnpHWGtNNXlxRU9lR05iNGhLQ0VHbFQ4STdhNzJ4UDZCSkE?oc=5",
-     "ts": "2026-11-22T06:13:00Z",
-     "summary": ""
-    },
-    {
-     "id": "6a6978758d41",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mixmag Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI earns US$3.79 billion revenue in first-day sales",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRV9EQU1yQ2p4RjJ5bnZHdVd1NFljVXVUdGwxbVVWWkVIMkFRT3lfeWhibF9jbUtOX3piaVF1ZWxuRjIyc3ZYRVBHbmhBUm11SHlDMkl4UnpHWExCRFVZOVlwSFdSbG9kclhEQjBxdzFPajgzeEE5VjZQUE9Yb21VTmRYWUx1N29MekNvT2hDTmhJamdfckhFMVV4RWEyc0k4eHhDdGs5RXE?oc=5",
-     "ts": "2026-11-22T04:56:25Z",
-     "summary": ""
-    },
-    {
-     "id": "e3cd910fd254",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Korea Daily",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 — Grand Theft Auto 6 Breaks Records With $3.79B Opening Day",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPYWRNODFYZHVFMEZRZDhwa05ERjBXSWhEaDE4UFZBWGFSbXRkZFVUemFNcUdDTmRkX19XVDEwWjQxUUtfVmdGeTVZWWlyVkJrZklYMEZBcHJEcW9RcHNEd09mWTJSZk9U?oc=5",
-     "ts": "2026-11-22T09:10:13Z",
-     "summary": ""
-    },
-    {
-     "id": "2f49acbc76a4",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Kursiv Media Узбекистан",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 заработала $3,79 млрд за сутки и установила рекорд",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUJDSFRDQWVzLVJ0MDFLdG1NUmNJeXFxYWMwQVkxMXU3czhEaGtibHIyYzhyaEVLN3BjOWpkLXdNMnZpZmFFWVowNG5XR0s2YVRiVFNhY2pycEhkeG5vbFBxbGZIQlI0OUQxV1hyR3d5OGZUQmtzZUlOcDdNSW5yeEI4amg1R3ByalBCRDgyRzQwZnppd1VzUGRrMl9aMDFQOEJPLV80bjdPNE9pdFVBR3lB?oc=5",
-     "ts": "2026-11-22T09:19:04Z",
-     "summary": ""
-    },
-    {
-     "id": "58a78a857a9b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "niagara-gazette.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTGwxY0dfYmNRcHNPZVE5WjhzRkdETHhvR1ItUnRHc1pmNEp4ZmlJZEhfU0JzOGMybWhFN25DcHRnMjYxbHV6WlJQR2NrcS1JUHd3QXJvRjBIc19ONHZEOEUtX1RaenNQdUxGNWhHQmpfZXVhYTFBTURtWlAzdnlKLVlBNjBIVmpRTGwzMkZMN3hfd3ptTm5Jb25XazRnbktNdmtyN0ltYUFKUUVUMDM3TjFlNndaMFN2Q0FzNHpTMTBmc0lWX3lzXzRkdXk4TWVmRy12YXltXzJsZVN1UGtrWU4yQm1LMmstT25hdWJBMDRnNEE5S2Nj?oc=5",
-     "ts": "2026-11-22T14:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "776679dfc8c7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Tom's Hardware",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "KFC offers disc-shaped fried chicken to sad disc-less GTA VI fans — KFC Spain’s ‘The Replacement Disc’ campaign delivers where Rockstar disappoints after selling $3.79 billion of GTA VI without a physical disc",
-     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQU2RSLTRpc0wtb2NOVldFWTFDXzNtZmYxZHJncmp3QkRGM2JpTm9Oc1lucWpZcnpHNXZNSXNKUDBkWDM5OWJWbUh5eFh6eTBJTnVnY0dsUTM1Tk05NUFMU2MxbzhVSmdEMjZiUmU2OVRENkFCNkdyLWw2Y1NyeXZWZlh1TThITnJrRVZHMHRUcF9rWklCa3pDVzhqS2hUbEVJMFVYeFoyR0NnTW1jbWdlQW9CM3g3UEQzbWRvUjd1UGhJTG9KX0xUd193eDdmejhmQUNXWlp3VllPaFVPSGIwUGRUaVNVZXpFTGxFM3c1cEJiLU1GVURtTnROdVJpbGptSTVNUmNObUtJczdEdlVPQ1JjWUZGc08zbFdVNnFhdlNLY0tKa0NtVWdyMm95WldNaHUxd0hBbFd1NzVZVDNPU3FqdVZoU3VISnRkQ2VCMG94NjVqSjhuT1hYdzROZFBsUE0tZWZ3?oc=5",
-     "ts": "2026-11-22T14:18:22Z",
-     "summary": ""
-    },
-    {
-     "id": "df4c59d8680f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Fairbanks Daily News-Miner",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' sets record with $3.79B in first-day retail sales, Rockstar Games reports",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWUxmeXRZemZ1RmJsNjlSN2xhSGxQdktsektsLVNxaTlFZXZOaEp5d3NJT3hnemtGSWNoTDFQTkF3aHI4NUtkY3RzN1A4aWZ2SXUySnNJcnRpd1RnZXJTc3pLWnZLZi1KcDRrMWJ0NlB5UEVya3Z4VFBFSzRHUEFlckVSR2x5S2x6bFZuejhMZFBGQ3ZrREhFYzMtM1V5VVIyNkFnOEtUZ1hRQXY5NGIyZmhvTjNNMGFFUkpkRExVMF9yRVFqUUpfZm5abGNaeWFDNnlVQTllLUZBbnFkMHdqVEhRZXdtbDU2Nkp2TXpkUkk0eTNp?oc=5",
-     "ts": "2026-11-22T15:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "765652e88c07",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Georgia Asian Times",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDNMeVV6YjVGb25Qa0tvdkRiZ2RjM0o1M2t1SWhYWHNiQ0JIRnRXSzRDdG8zOGpsMURrZENQRm85ODdrRDN5c05VdndfLVJIUnl5bzRtTUtKeXdQZXdXZWFHUjVfNmVzc09yQl84UHNoeF9nWlBEcjE5SkQ2Zi1uc3dQSldiTkIyQWg2M1hHOXdmelB2dF84YmZ3S1hTUXFwdndlMkVtd3liVjBRNmlCM19yV1NnOTZXel8xcnRGdUt2OUV0eGZ3b2NBVm85NE1zYWc?oc=5",
-     "ts": "2026-11-22T15:11:38Z",
-     "summary": ""
-    },
-    {
-     "id": "d37e44e05d67",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MoneyWise.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's $3.79B first-day haul tops Avengers Endgame's entire box office run by $850 million",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0xmUDNoZkpXNzVzX3pzbko5UDV2SkxPR3Y5aktHMm9ZeXBieVVrSWJuZk5GdGdwQTFvWlc3YWpwakg3dTAtZDdEc1FUWTJ0SklSVklIVU0tTS1fNDFod2w3M1FLUWVRdmVpY0Nac1JSVy1oOUtoQlMxOFdlT1J3d1Z2dlZUb1FvbEREYVFyOA?oc=5",
-     "ts": "2026-11-22T16:37:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two",
-    "цена/издания"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6: $3,79 млрд за первый день — новый рекорд",
-    "summary": "По данным Techora.ru, GTA 6 собрала $3,79 млрд за первый день и установила рекорд. Это самый быстрый результат в истории индустрии.",
-    "idea": "Сравним $3,79 млрд за сутки с рекордами GTA 5 и крупных фильмов — в цифрах и на экране. Зрителю интересно увидеть масштаб рекорда и реакцию.",
-    "hook": "3,79 миллиарда за сутки — GTA 6 бьёт все рекорды. Смотрим цифры.",
-    "stars": 5,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-21T23:31:04Z"
-   },
-   "msg_id": 1882
   },
   {
    "id": "e2e4047a2567",
@@ -16321,69 +16638,6 @@
     "at": "2026-11-21T19:20:48Z"
    },
    "msg_id": 1860
-  },
-  {
-   "id": "deb5d9ab7f3d",
-   "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
-   "first_seen": "2026-11-21T18:50:45Z",
-   "updated": "2026-11-21T19:31:03Z",
-   "items": [
-    {
-     "id": "deb5d9ab7f3d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemxUX1hTeE9tTk1oV28yUjU1ZGVDcVozRHEyd0lFVXFNRThKMV9jblFDeVBnRjRXaFhvZUcxeU1oVng2dHdib29PZ3V0TUhsYnVkUEVlWGxoMW02YnZJVVNyZzF0aUtxYW9sTVpVbDNRalVldWJMV2RWNDJqUUtSVnl2VHd3NXNOczlLcEhrTERVX2FpZDRNOWp5bVJQZm93T194NA?oc=5",
-     "ts": "2026-11-21T18:43:54Z",
-     "summary": ""
-    },
-    {
-     "id": "fa540134be07",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTkNfSThIUTVsUHpPWmFYbTMwMW02SGNxempzWVZtQ3doWUNaN3NKYnJkSldXQ3o2YkpHN1RXbzZ4OGctbi1NUUxVQlBkMVlPMk04QjlrUVg4VmM5ZllXQi14TVh5UkNiVzdYOGZsVjVtTDUtaVozNTlwUUFram9nOWN3UU9BTzl0eG1pZHVqVmJOYzBjRmQ2aEZyNzNHTWViOVNkNFEzdGhYX0MxTFg0bnF1UmxLS0d2N3R1dHNQNUg?oc=5",
-     "ts": "2026-11-21T18:55:21Z",
-     "summary": ""
-    },
-    {
-     "id": "6997bed470ef",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
-     "url": "https://www.ign.com/articles/neuralink-participant-showcases-what-its-like-to-play-gta-6-with-his-mind",
-     "ts": "2026-11-21T18:43:23Z",
-     "summary": "A Neuralink participant has shared a video showcasing how the technology has allowed him to drive boats, fly planes, and get in shootouts in GTA 6 with his mind."
-    }
-   ],
-   "tags": [],
-   "score": 86,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 силой мысли: первый геймплей через Neuralink",
-    "summary": "Участник испытаний Neuralink показал, как играет в GTA 6 с помощью нейроинтерфейса. Об этом сообщил IGN. Официально Rockstar это не подтверждала.",
-    "idea": "Короткая нарезка: курсор/прицел двигается без рук, герой бежит и стреляет по мыслям. Это доказывает, что управление реально работает — и выглядит как магия.",
-    "hook": "Он играет в GTA 6 без рук — только силой мысли.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-21T18:50:51Z"
-   },
-   "msg_id": 1858
   },
   {
    "id": "a4fb3b32212e",
@@ -193700,245 +193954,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "1c1e3e9cb9c3",
-   "title": "GTA 6 Jason and Lucia artwork at Rockstar North",
-   "first_seen": "2026-11-15T12:40:53Z",
-   "updated": "2026-11-15T17:01:18Z",
-   "items": [
-    {
-     "id": "1c1e3e9cb9c3",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 Jason and Lucia artwork at Rockstar North",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xwudi9/gta_6_jason_and_lucia_artwork_at_rockstar_north/",
-     "ts": "2026-11-15T12:32:39Z",
-     "summary": "That moment finally came. submitted by /u/YYY31 to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "31eebbbdb21a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 Jason and Lucia artwork at Rockstar North got Completed",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xx0hjq/gta_6_jason_and_lucia_artwork_at_rockstar_north/",
-     "ts": "2026-11-15T16:57:18Z",
-     "summary": "Finally fully completed. submitted by /u/YYY31 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "182bf0de12e6",
-   "title": "Kinda laugh at the haters",
-   "first_seen": "2026-11-15T17:01:18Z",
-   "updated": "2026-11-15T17:01:18Z",
-   "items": [
-    {
-     "id": "182bf0de12e6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Kinda laugh at the haters",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xwx68v/kinda_laugh_at_the_haters/",
-     "ts": "2026-11-15T14:42:33Z",
-     "summary": "Like really it’s ROCKSTAR they take their time on games Hell even there smaller games are classics like midnight club, bully, la noir GTA 4 was phenomenal gta 5 red dead 2 and now gta 6. They don’t pump out games every year like some game developers. I have faith in rockstar to deliver once in a lifetime gaming experience especially after red dead redemption 2. And people saying rockstar in it for the money well duh we all are but remember they have a passion too and they also put 2 billion dollars into gta 6. Would u rather rockstar be like Ubisoft or activision submitted by /u/helldivergamer"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8846535e8dd2",
-   "title": "Ads for the game in miami",
-   "first_seen": "2026-11-15T17:01:18Z",
-   "updated": "2026-11-15T17:01:18Z",
-   "items": [
-    {
-     "id": "8846535e8dd2",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Ads for the game in miami",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xwy8aw/ads_for_the_game_in_miami/",
-     "ts": "2026-11-15T15:26:42Z",
-     "summary": "submitted by /u/iralliart04 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "90b9b3f0a929",
-   "title": "‘GTA 6’ Game Length and Mission Count Officially Revealed",
-   "first_seen": "2026-11-15T17:01:18Z",
-   "updated": "2026-11-15T17:01:18Z",
-   "items": [
-    {
-     "id": "90b9b3f0a929",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Men's Journal",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA 6’ Game Length and Mission Count Officially Revealed",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYlhPZ09OWEN3aG5YZE1CWFBjQnlFYVdCcnppWHlGTmhCZ0kzREhRanBIc01qVnZJMUpPRm5uMlhsOGFISTc0TmNNaWkxT0RudGxYSkpQc3RnUW9UcnNGcDBSOXM4eVZKeUhmVlpJRW1UazQtRjIwaXB5dThpRlZ6Y0ZsazNKMHM2Z0tFLTZINGZ4WEZtd1M5ZncyZ01sUQ?oc=5",
-     "ts": "2026-11-15T16:44:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "ОФИЦИАЛЬНО: сколько часов GTA 6 и сколько миссий",
-    "summary": "Men's Journal опубликовал официальные данные Rockstar о длительности GTA 6 и количестве миссий. Rockstar впервые назвала эти цифры — теперь известно, сколько времени займёт сюжет и сколько заданий в игре.",
-    "idea": "Короткий таймер и счётчик миссий на фоне кадров GTA 6 — зритель сразу видит масштаб кампании. Это полезно всем, кто планирует, сколько времени уйдёт на сюжет.",
-    "hook": "Сколько часов займёт сюжет GTA 6? Rockstar назвала цифры.",
-    "stars": 5,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-15T17:01:21Z"
-   },
-   "msg_id": 988
-  },
-  {
-   "id": "5a0650fe1c8c",
-   "title": "I've spent 2.5 years building a GTA wiki. With GTA 6 just days away, I wanted to share what I've been working on.",
-   "first_seen": "2026-11-15T17:01:18Z",
-   "updated": "2026-11-15T17:01:18Z",
-   "items": [
-    {
-     "id": "5a0650fe1c8c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "I've spent 2.5 years building a GTA wiki. With GTA 6 just days away, I wanted to share what I've been working on.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xx0bte/ive_spent_25_years_building_a_gta_wiki_with_gta_6/",
-     "ts": "2026-11-15T16:50:58Z",
-     "summary": "Hey everyone! With GTA 6 just a few days away, I wanted to share something I've been working on for the past two and a half years. I'm the guy behind GTADB , a fan-made GTA database and wiki that started as a small passion project and somehow turned into something much bigger than I ever expected. Some of you might have already seen the interactive GTA 6 map, but that's actually just one part of the project. I've spent countless hours building databases for vehicles, characters, weapons, locations, and pretty much everything related to the GTA universe. There are hundreds of 3D vehicle views, "
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "df3e73328f64",
-   "title": "GTA VI Narrowly Avoids Ban Over Explicit Nudity Concerns",
-   "first_seen": "2026-11-15T16:51:00Z",
-   "updated": "2026-11-15T16:51:00Z",
-   "items": [
-    {
-     "id": "df3e73328f64",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "www.levelup.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI Narrowly Avoids Ban Over Explicit Nudity Concerns",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVluS0wyTWkxTE12dUlCZzFtYXhWVUFtcHN2alpaRjdDVGtLWHNsZXgzb0dfb2JKSW1zel9sYkVfUExNdGFxdUNPQmg5UjVJaFotbENYYlMyTnlDd2pWZU1YNkQyYy1KLWFld182c0tMeHpQQS1UTWszYlFtU3NhYmp3blE2WnV6d3k1N0xPNXdGanc?oc=5",
-     "ts": "2026-11-15T14:40:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0dc9b303bf4c",
-   "title": "In 79 hours we can rest",
-   "first_seen": "2026-11-15T16:51:00Z",
-   "updated": "2026-11-15T16:51:00Z",
-   "items": [
-    {
-     "id": "0dc9b303bf4c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "In 79 hours we can rest",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xx02n1/in_79_hours_we_can_rest/",
-     "ts": "2026-11-15T16:40:57Z",
-     "summary": "In 79 hours we can rest (slowed+reverbed) submitted by /u/BuffaloWing4 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8cc4e88a96cc",
-   "title": "My GTA 6 Ending Prediction: Lucia Will Break Jason’s Heart or Betray Him",
-   "first_seen": "2026-11-15T16:51:00Z",
-   "updated": "2026-11-15T16:51:00Z",
-   "items": [
-    {
-     "id": "8cc4e88a96cc",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "My GTA 6 Ending Prediction: Lucia Will Break Jason’s Heart or Betray Him",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xx04hg/my_gta_6_ending_prediction_lucia_will_break/",
-     "ts": "2026-11-15T16:42:58Z",
-     "summary": "We had something truly dramatic in Red Dead Redemption 2 with Arthur Morgan’s death. I think GTA 6 could have something just as shocking. Depending on how their relationship develops, maybe Lucia will break his heart or even betray him in the end. submitted by /u/Goobie-Goobie to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T16:50:49Z",
+  "last_run": "2026-11-22T17:01:34Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
@@ -193953,7 +193973,7 @@
    "gtaboom: 29/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 12/12",
-   "tg_gta6deluxe: 10/10",
+   "tg_gta6deluxe: 11/11",
    "tg_gta6_m: 12/14",
    "tg_gta6newsdaily: 2/19"
   ],
