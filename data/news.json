@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "820ffe24afe5",
+   "title": "GTA VI Cutscene with Sexyy Red and Denzel Curry Steals th...",
+   "first_seen": "2026-11-22T04:20:45Z",
+   "updated": "2026-11-22T04:20:45Z",
+   "items": [
+    {
+     "id": "820ffe24afe5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "X",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI Cutscene with Sexyy Red and Denzel Curry Steals th...",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zaU5veFVGV1VuT0RCY1BQZ2REMVBXdmVMeFVVZmQtTXhsdnZKVURBQlVSYlRZUnFzMEJTU1pLbjd6Wmlfem4zMFZ6eTB6ZkEtVlZ0cDM3dw?oc=5",
+     "ts": "2026-11-22T04:16:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "30c38c047e56",
    "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
    "first_seen": "2026-11-21T18:10:45Z",
@@ -191144,39 +191170,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "d5a1290d1b31",
-   "title": "Been watching the trailers a lot and...",
-   "first_seen": "2026-11-15T04:10:49Z",
-   "updated": "2026-11-15T04:10:49Z",
-   "items": [
-    {
-     "id": "d5a1290d1b31",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Been watching the trailers a lot and...",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xwlxg5/been_watching_the_trailers_a_lot_and/",
-     "ts": "2026-11-15T04:06:32Z",
-     "summary": "Maybe it's just me but our protagonists seem designed such that it's set up for a live action show or movie starring Affleck and J-lo submitted by /u/Gustavo13 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "трейлер"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T04:10:48Z",
+  "last_run": "2026-11-22T04:20:45Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 97/100",
