@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "38d7fdae0838",
+   "title": "Rockstar Says Grand Theft Auto VI: The Album Is Out Now",
+   "first_seen": "2026-11-22T07:30:59Z",
+   "updated": "2026-11-22T07:30:59Z",
+   "items": [
+    {
+     "id": "38d7fdae0838",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Kazi Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Says Grand Theft Auto VI: The Album Is Out Now",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wTkhSdmNrQ1UxbWZkaUtqbnpCV1lOUVJVS3VYZGlIZ3c4UHo2QW1sOWIwNTRScFF1bkN1eks1Vld2WWNpYlA0TlFxY3hsQkZiVXlNZTNLVkY3OU9QNE5ia3V4eVc?oc=5",
+     "ts": "2026-11-22T03:26:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "5578ccc873fa",
    "title": "ElAnalistaDeBits сравнил GTA 6 и GTA Vice City — как изменилась графика за 24 года",
    "first_seen": "2026-11-22T07:20:47Z",
@@ -191773,42 +191799,13 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e5ce50f1b118",
-   "title": "Effect of the GTA 6 launch on the world economy and businesses",
-   "first_seen": "2026-11-15T07:20:49Z",
-   "updated": "2026-11-15T07:20:49Z",
-   "items": [
-    {
-     "id": "e5ce50f1b118",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Effect of the GTA 6 launch on the world economy and businesses",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xwp8le/effect_of_the_gta_6_launch_on_the_world_economy/",
-     "ts": "2026-11-15T07:17:54Z",
-     "summary": "- 12.5 million gamers in the US plan to take time off to play it, with an estimated $1 billion in losses - 83 thousand days have been booked off in the UK, costing businesses $15.8 million - Logitech is giving all its employees a day off on November 19 - Car tuning company, Burger Motorsports announced they will pause operations on November 19 - A Russian factory is giving all workers a day off on November 19 - GFuel is closing their offices November 19 to let their team play - A US army battalion in Georgia is giving troops 4 days off to play if they reenlist - Pre-loading has set new records"
-    }
-   ],
-   "tags": [
-    "анонс",
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T07:20:47Z",
+  "last_run": "2026-11-22T07:30:59Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/0",
    "gnews_en: 92/100",
    "gnews_ru: 97/100",
    "gamesbeat: 4/10",
@@ -191823,7 +191820,7 @@
    "tg_gtavistar: 10/10",
    "tg_gta6deluxe: 8/8",
    "tg_gta6_m: 14/16",
-   "tg_gta6newsdaily: 6/19"
+   "tg_gta6newsdaily: 5/19"
   ],
   "digest": "2026-11-22@9",
   "tg_offset": 854319078
