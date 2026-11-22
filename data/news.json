@@ -1,6 +1,134 @@
 {
  "stories": [
   {
+   "id": "704c0b78cab5",
+   "title": "В GTA VI нашли дом конспиролога с пасхалкой из 2021 года",
+   "first_seen": "2026-11-22T10:20:44Z",
+   "updated": "2026-11-22T10:20:44Z",
+   "items": [
+    {
+     "id": "704c0b78cab5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В GTA VI нашли дом конспиролога с пасхалкой из 2021 года",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GV2FYVUxlZFk4QTdXMnlzQnFNTHl5dUpsajUyamN1c1VyZWVVOW5UUlNGalgzSUdSd2FYSGUxaV85TGR4YWJGY0tmVEkxc2FCZnZIU254QXh5NmMwZUVDV1k4eXpYek1uN3JKRHBEY09fblgzeXc?oc=5",
+     "ts": "2026-11-22T10:15:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "14e3d0eb7d3d",
+   "title": "Как в России отреагировали на релиз GTA 6: от покаяния до тундры",
+   "first_seen": "2026-11-22T10:20:44Z",
+   "updated": "2026-11-22T10:20:44Z",
+   "items": [
+    {
+     "id": "14e3d0eb7d3d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Говорит НеМосква",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Как в России отреагировали на релиз GTA 6: от покаяния до тундры",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtRzFxRkphWkk3RnVqT2t5MUlYeVFKQ0F3cVA5LW0zY2hSaWRLQ3dpTk5neF9QenI1ZTBLck9VNVQ4YzdmSWFMNk56MmxIN2RxblMya0wwNDU4M0ZyUWF0cmZPbk0zUWxC?oc=5",
+     "ts": "2026-11-22T10:17:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ec6016ad8ec5",
+   "title": "Hamilton gamers waited 13 years for Grand Theft Auto VI. One fan even took a day off work",
+   "first_seen": "2026-11-22T09:10:49Z",
+   "updated": "2026-11-22T10:20:43Z",
+   "items": [
+    {
+     "id": "ec6016ad8ec5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CBC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Hamilton gamers waited 13 years for Grand Theft Auto VI. One fan even took a day off work",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVJmMHp0TmhwVnJtNTFqUVlRdWZlUlNPcm1YTWx3LWlvbGxaWlgwRkNTSzBsbGE1blRZVWJnNVdKa0Q3bS1WSXBoakxDUDVrQnd5UFRqeVNVVWZKeVhrUnFHWDZKTWNDbjd2NDRpNGF6SnRDX2M3TnpiSTlYQ3lIcjZmbld4NkpKd0VrMTJjOHc?oc=5",
+     "ts": "2026-11-22T09:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "d040a99e59c6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo News Canada",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Hamilton gamers waited 13 years for Grand Theft Auto VI. One fan even took a day off work",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80R3ZkNmNsUnRwdktzRkc2V3M2MjRBTnVnaFIzNzRLc3g4V3ZXWXR0NVZTUkI3djQyRVB3N251VFJuSjk5d0RrUGUyam5xa0pDamFFdDlGZFFtOWFjVWRHd3VfLTIzVjlwU0gtRC1heWVyaURrdTdqcnJqRnc?oc=5",
+     "ts": "2026-11-22T09:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Канадец взял выходной ради GTA 6. 13 лет ожидания в Гамильтоне",
+    "summary": "По данным CBC и Yahoo News Canada, фанаты в Гамильтоне ждали GTA 6 тринадцать лет. Один из игроков взял выходной на 19 ноября, чтобы сыграть в день выхода.",
+    "idea": "Короткий опрос фанатов в Гамильтоне: что они делали 13 лет ожидания и как готовятся к 19 ноября. Зрителю зайдут живые эмоции и контраст «до/после».",
+    "hook": "Тринадцать лет ожидания, один выходной — Гамильтон готовится к GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-22T10:20:48Z"
+   },
+   "msg_id": 1896
+  },
+  {
+   "id": "ed13d4cdb2dc",
+   "title": "SS United States diving, GTA 6 Pensacola nod in top news",
+   "first_seen": "2026-11-22T10:20:43Z",
+   "updated": "2026-11-22T10:20:43Z",
+   "items": [
+    {
+     "id": "ed13d4cdb2dc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Pensacola News Journal",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "SS United States diving, GTA 6 Pensacola nod in top news",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVJRd3FodWpJQUczR0xsM2o0Sjg2MnBVYy1iS1o2dy1UMENmdWNuUi1kdU5xSzNOQS1rdC12NWpnaW9XLWxPU1luQmRwazhiTUNtRkFnc3ZQTWg2YzFNSzdXdHpfVWRFZHd5Zi1JcXJNOThXRGdSMGhxQVpYZEh0cnNjelowbkFfUnk2OHBaSDhxVGZnNk5fZzQzdzFwMTltYmtlS01VNEMwRW1aZFRSQ1o4Zk1YNkU?oc=5",
+     "ts": "2026-11-22T10:06:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "be5997f8a10b",
    "title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
    "first_seen": "2026-11-22T10:01:10Z",
@@ -1098,32 +1226,6 @@
     "at": "2026-11-22T08:50:54Z"
    },
    "msg_id": 1892
-  },
-  {
-   "id": "ec6016ad8ec5",
-   "title": "Hamilton gamers waited 13 years for Grand Theft Auto VI. One fan even took a day off work",
-   "first_seen": "2026-11-22T09:10:49Z",
-   "updated": "2026-11-22T09:10:49Z",
-   "items": [
-    {
-     "id": "ec6016ad8ec5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "CBC",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Hamilton gamers waited 13 years for Grand Theft Auto VI. One fan even took a day off work",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVJmMHp0TmhwVnJtNTFqUVlRdWZlUlNPcm1YTWx3LWlvbGxaWlgwRkNTSzBsbGE1blRZVWJnNVdKa0Q3bS1WSXBoakxDUDVrQnd5UFRqeVNVVWZKeVhrUnFHWDZKTWNDbjd2NDRpNGF6SnRDX2M3TnpiSTlYQ3lIcjZmbld4NkpKd0VrMTJjOHc?oc=5",
-     "ts": "2026-11-22T09:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "a0cbd172c909",
@@ -192238,63 +192340,11 @@
    "status": "new",
    "ai_fail": 1,
    "ai_error": "ValueError: нет полей: title_ru"
-  },
-  {
-   "id": "6b0066713494",
-   "title": "EA begs players to not uninstall their games to make room for GTA 6",
-   "first_seen": "2026-11-15T10:10:56Z",
-   "updated": "2026-11-15T10:10:56Z",
-   "items": [
-    {
-     "id": "6b0066713494",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GAMINGbible",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "EA begs players to not uninstall their games to make room for GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0U2NwZjl5VlFodm5LeXJkZnB0WDBBS3FSMDJ3cVNxTHItUjNiSUJleFZXN1hhMVV6N3M2RThsV040eG0telZjeV9sMGMwZnRwYXlxbWItb0RFZExaQ2R0UlN6cWlkaHNDMmlKcFRaODNCTmY0YUlUNQ?oc=5",
-     "ts": "2026-11-15T10:01:43Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b1c921a3ae69",
-   "title": "GTA gamers, explain the 60 FPS issue to me",
-   "first_seen": "2026-11-15T10:10:56Z",
-   "updated": "2026-11-15T10:10:56Z",
-   "items": [
-    {
-     "id": "b1c921a3ae69",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA gamers, explain the 60 FPS issue to me",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xwrvbc/gta_gamers_explain_the_60_fps_issue_to_me/",
-     "ts": "2026-11-15T10:04:25Z",
-     "summary": "I’m a casual gamer and the only game I’m aware of that I played at 60fps is Mario kart DS. I only know this cos I saw a video about how the game rendered on two screens despite the hardware limitations. I wasn’t able to tell the game was playing at a different fps to other games. Can anyone explain to me what difference 30 or 60 makes practically to the average player? Is it something you only notice if you look for it? submitted by /u/Royal_Difficulty_678 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T10:10:45Z",
+  "last_run": "2026-11-22T10:20:48Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 94/100",
