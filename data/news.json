@@ -1,6 +1,204 @@
 {
  "stories": [
   {
+   "id": "be5997f8a10b",
+   "title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
+   "first_seen": "2026-11-22T10:01:10Z",
+   "updated": "2026-11-22T10:10:45Z",
+   "items": [
+    {
+     "id": "be5997f8a10b",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
+     "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
+     "ts": "2026-11-22T10:00:10Z",
+     "summary": "In the decade or so since Grand Theft Auto Online 's arrival, its roads have become a kind of home; well-loved by its racers, its gear heads, and speed freaks. It's a game that allows players to lose themselves in the roleplay, the heists, and the crime sprees. But for me, an occasional dipper into its major updates, the car folk have always been the engine driving its appeal. Read more"
+    },
+    {
+     "id": "d63022795937",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Eurogamer.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfUUxtTlBha3d5U2hFZ3FlNnpTRjhZUU1pSk12MDJrZnAwMFRFLTdfS0NRV01qWnRUcmFIRjFDZ2hBTUg3SkcxMG9lTGdrMG1XeHg4V043SkZOeWtiWktqMzRISG1OMnlNN1Y0emxVY1hya0k?oc=5",
+     "ts": "2026-11-22T10:00:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 93,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Последний заезд: гонщики прощаются с GTA Online перед GTA 6",
+    "summary": "По статье Eurogamer, сообщество гонщиков GTA Online провожает игру перед запуском GTA 6. За десятилетие онлайн стал домом для гонок, тюнинга и ролевых режимов.",
+    "idea": "Короткий ролик о последнем ночном заезде в GTA Online: рев моторов, неон и финиш перед стартом GTA 6.",
+    "hook": "Ночь, неон и последний заезд в GTA Online перед GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-22T10:01:16Z"
+   },
+   "msg_id": 1895
+  },
+  {
+   "id": "44f68ec19175",
+   "title": "How Janelle James talked her way into 'GTA 6'",
+   "first_seen": "2026-11-21T20:50:46Z",
+   "updated": "2026-11-22T10:10:45Z",
+   "items": [
+    {
+     "id": "44f68ec19175",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable SEA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How Janelle James talked her way into 'GTA 6'",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNamdjT1JqZ09rOUFjUnQ1VUtBMFJBalFvVWxvbzJSOElIRU1xS1BMb01TMWZ3bFNjSnZRaXpyb09PaWM3bGt5cS1SSXRNM1gxQmp0UHUyem1zZ0w0Ty1ONURMcEVmMm1fRTV6TVpzWXRkTHNtU25yUDl5U3lsNFR2MjRVYnhhZw?oc=5",
+     "ts": "2026-11-21T19:51:32Z",
+     "summary": ""
+    },
+    {
+     "id": "48821ab9b04b",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Janelle James Bullied Her Way Into GTA 6, Then Rockstar Sent Her a Custom PS5 Pro",
+     "url": "https://www.gtaboom.com/janelle-james-bullied-her-way-into-gta-6-then-rockstar-sent-her-a-custom-ps5-pro-ad55",
+     "ts": "2026-11-22T10:09:03Z",
+     "summary": "Janelle James unboxed Rockstar’s custom PS5 Pro and says she pitched and scripted She Got Assets, the GTA 6 radio show she hosts as Tish."
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "97ac88573fbb",
+   "title": "GTA VI FSR 4.1 on Xbox Series X: Delay Unconfirmed",
+   "first_seen": "2026-11-21T13:50:47Z",
+   "updated": "2026-11-22T10:10:45Z",
+   "items": [
+    {
+     "id": "97ac88573fbb",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Технология масштабирования FSR 4.1 не появится в GTA VI на Xbox Series X в течение года",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnh6TjhJN0FIYXNLQS1jZ2dGTzVZYmdyTmVxMzJIS1pQWUtjeWNtNlNLOFduQjcwZlRnQXBGaXI5bXEwbmVMaEMtVF9yRzh2NjNUVll6d0w3Ukt2ZGZocEdRQlBIQlozUnlKWmtzTy1lODJ0MV9RQ3lzVlYtSEJTREl1eG1uNmVqVzlBUXV5NUcwUlJReTlHZUxVY1hwemxlQ0lsRlpuY3Qxd3R6Zm4tR250RWZ4Vmg2Z3paUUpwRW5MZw?oc=5",
+     "ts": "2026-11-21T13:33:54Z",
+     "summary": ""
+    },
+    {
+     "id": "a933e88fa0b9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "shattered.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI FSR 4.1 on Xbox Series X: Delay Unconfirmed",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlhmdF9qS0p2dlFZQ0NwZnJRX3pBUW9LX1RwUHhwUlMwbFRNamdVQ0JQcVdEUFlURVdFR2xSUzZQcThUcTFDTmE1cVNQbXZRaWtKY0hKRld0d20tZEZRWmJ0M0hMMW9Tb3JiVmVaR2t5VUhObWFBaFRwNXppTnZRb0xKYWVYUHRDWDh3?oc=5",
+     "ts": "2026-11-21T14:19:24Z",
+     "summary": ""
+    },
+    {
+     "id": "43823d6f9eaa",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "A 90s Kid",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Brings AMD FSR 4.1 to Consoles First on Xbox Series S",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGJzMGY5Q0w5Z2x4ZUEyMDFtcTZhTUVPN3R3RzluT1k1czhCWHpYVW0zNlVKYTlsNVhYUUxDLVpEUmF6REhmcGRMcVdiVmFmOE9lSVctMDdnVTcwMExwd09Kb0NBS3FWVlBYSG1PUWlDV3RBRkpsNlRwZHZOSndMTkhTUFNVaUgydXdZXw?oc=5",
+     "ts": "2026-11-22T10:02:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "дата/перенос"
+   ],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "9a6606a297dc",
+   "title": "How a piece of Detroit ended up inside GTA VI",
+   "first_seen": "2026-11-22T10:10:45Z",
+   "updated": "2026-11-22T10:10:45Z",
+   "items": [
+    {
+     "id": "9a6606a297dc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ClickOnDetroit | WDIV Local 4",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How a piece of Detroit ended up inside GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEs3VjVsMUhCVU1sX09CS3FTaDA5QjRuMS1Ja3NtX0ZjczRZd2NaakhSSmI0WDhadTZYMWkzNC0xX0Z6M3VqdXJNV3JqYkg4aEZ3bHFOQ0pPdm1ZSXFTakVpR2U1SmxOZjhkV24tWlBCSy1qWVZyS2xJajFWSi1CX2JiYnFjZkN0eFpEd1ZKSllZSHZGWUtUWjNYRmZlbk1k?oc=5",
+     "ts": "2026-11-22T10:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "978273c40b81",
+   "title": "I’m playing Grand Theft Auto VI for the outfits, of course",
+   "first_seen": "2026-11-22T10:10:45Z",
+   "updated": "2026-11-22T10:10:45Z",
+   "items": [
+    {
+     "id": "978273c40b81",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Vogue Adria",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I’m playing Grand Theft Auto VI for the outfits, of course",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95WGoxNGFDRVdJaTVaV0hLdnprUTRpMlNUa3drRUM5Mmd2NEdhSW5DWEh6LUhSN20tTzl5TVVfYUxsWlF0LTd3djNYd3RHLWVMLXhPc1h2UFl4T3V3cFdDZjhsUll4LWZoNm5hZzdudUtGVlRuMHBF?oc=5",
+     "ts": "2026-11-22T10:00:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "3e949a319b74",
    "title": "Manager Asked Who Was Taking Time Off for GTA 6, and the Confessions Didn’t Disappoint",
    "first_seen": "2026-11-22T10:01:10Z",
@@ -103,45 +301,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "be5997f8a10b",
-   "title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
-   "first_seen": "2026-11-22T10:01:10Z",
-   "updated": "2026-11-22T10:01:10Z",
-   "items": [
-    {
-     "id": "be5997f8a10b",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
-     "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
-     "ts": "2026-11-22T10:00:10Z",
-     "summary": "In the decade or so since Grand Theft Auto Online 's arrival, its roads have become a kind of home; well-loved by its racers, its gear heads, and speed freaks. It's a game that allows players to lose themselves in the roleplay, the heists, and the crime sprees. But for me, an occasional dipper into its major updates, the car folk have always been the engine driving its appeal. Read more"
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 85,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Последний заезд: гонщики прощаются с GTA Online перед GTA 6",
-    "summary": "По статье Eurogamer, сообщество гонщиков GTA Online провожает игру перед запуском GTA 6. За десятилетие онлайн стал домом для гонок, тюнинга и ролевых режимов.",
-    "idea": "Короткий ролик о последнем ночном заезде в GTA Online: рев моторов, неон и финиш перед стартом GTA 6.",
-    "hook": "Ночь, неон и последний заезд в GTA Online перед GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-22T10:01:16Z"
-   },
-   "msg_id": 1895
   },
   {
    "id": "2916922c255c",
@@ -8405,32 +8564,6 @@
    "status": "new"
   },
   {
-   "id": "44f68ec19175",
-   "title": "How Janelle James talked her way into 'GTA 6'",
-   "first_seen": "2026-11-21T20:50:46Z",
-   "updated": "2026-11-21T20:50:46Z",
-   "items": [
-    {
-     "id": "44f68ec19175",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable SEA",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How Janelle James talked her way into 'GTA 6'",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNamdjT1JqZ09rOUFjUnQ1VUtBMFJBalFvVWxvbzJSOElIRU1xS1BMb01TMWZ3bFNjSnZRaXpyb09PaWM3bGt5cS1SSXRNM1gxQmp0UHUyem1zZ0w0Ty1ONURMcEVmMm1fRTV6TVpzWXRkTHNtU25yUDl5U3lsNFR2MjRVYnhhZw?oc=5",
-     "ts": "2026-11-21T19:51:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "623dfc09ad4a",
    "title": "Вышла GTA 6: Стивен Рут озвучил Брайана Хедера",
    "first_seen": "2026-11-21T20:50:46Z",
@@ -16102,48 +16235,6 @@
    "score": 40,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "97ac88573fbb",
-   "title": "GTA VI FSR 4.1 on Xbox Series X: Delay Unconfirmed",
-   "first_seen": "2026-11-21T13:50:47Z",
-   "updated": "2026-11-21T14:20:44Z",
-   "items": [
-    {
-     "id": "97ac88573fbb",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Технология масштабирования FSR 4.1 не появится в GTA VI на Xbox Series X в течение года",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnh6TjhJN0FIYXNLQS1jZ2dGTzVZYmdyTmVxMzJIS1pQWUtjeWNtNlNLOFduQjcwZlRnQXBGaXI5bXEwbmVMaEMtVF9yRzh2NjNUVll6d0w3Ukt2ZGZocEdRQlBIQlozUnlKWmtzTy1lODJ0MV9RQ3lzVlYtSEJTREl1eG1uNmVqVzlBUXV5NUcwUlJReTlHZUxVY1hwemxlQ0lsRlpuY3Qxd3R6Zm4tR250RWZ4Vmg2Z3paUUpwRW5MZw?oc=5",
-     "ts": "2026-11-21T13:33:54Z",
-     "summary": ""
-    },
-    {
-     "id": "a933e88fa0b9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "shattered.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI FSR 4.1 on Xbox Series X: Delay Unconfirmed",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlhmdF9qS0p2dlFZQ0NwZnJRX3pBUW9LX1RwUHhwUlMwbFRNamdVQ0JQcVdEUFlURVdFR2xSUzZQcThUcTFDTmE1cVNQbXZRaWtKY0hKRld0d20tZEZRWmJ0M0hMMW9Tb3JiVmVaR2t5VUhObWFBaFRwNXppTnZRb0xKYWVYUHRDWDh3?oc=5",
-     "ts": "2026-11-21T14:19:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс",
-    "дата/перенос"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -192203,7 +192294,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T10:01:17Z",
+  "last_run": "2026-11-22T10:10:45Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 94/100",
@@ -192214,7 +192305,7 @@
    "ign: 6/20",
    "eurogamer: 14/100",
    "dexerto_gta: 11/50",
-   "rockstarintel: 9/10",
+   "rockstarintel: 8/10",
    "gtaboom: 29/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 10/10",
