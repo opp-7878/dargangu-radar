@@ -195096,106 +195096,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "79c8ee07be38",
-   "title": "Made these custom Manatees shirts for me and my wife for the release",
-   "first_seen": "2026-11-15T15:40:55Z",
-   "updated": "2026-11-16T00:01:12Z",
-   "items": [
-    {
-     "id": "79c8ee07be38",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Made these custom Manatees shirts for me and my wife for the release",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xwygtu/made_these_custom_manatees_shirts_for_me_and_my/",
-     "ts": "2026-11-15T15:36:38Z",
-     "summary": "It’s not the best quality but it’s for the fun during the release. All these before the snacks and the other stuff that will arrive. Oh and the PS5 VI controller I hope to get during the release. submitted by /u/Pouflex to r/GTA6 [link] [comments]"
-    },
-    {
-     "id": "cd6529758638",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Made some custom t shirts",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xx5d29/made_some_custom_t_shirts/",
-     "ts": "2026-11-15T20:08:19Z",
-     "summary": "submitted by /u/Alternative-Yak-9213 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8636bc1130b3",
-   "title": "Покупатели физических копий GTA 6 жалуются на отсутствие ключей активации",
-   "first_seen": "2026-11-16T00:01:12Z",
-   "updated": "2026-11-16T00:01:12Z",
-   "items": [
-    {
-     "id": "8636bc1130b3",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "LiveSport.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Покупатели физических копий GTA 6 жалуются на отсутствие ключей активации",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHA4WkU3b0NlNzY5VlllMjVUMWxVVGwtTTJ4Q19fVWxsOUZpMzVFakxtc2pxV25NRkRkaFFyS2JaYWQ4b1Ryb1kzdExVelYweWphX3BnN29oRTRSckJNUS1YOHdicm1kZ3hRemdJM25tbEl1cE1vUHBWYmw2WUR3ODQwM18?oc=5",
-     "ts": "2026-11-15T18:35:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f9e41655cedd",
-   "title": "Last project I did before the release (1000 pieces)",
-   "first_seen": "2026-11-16T00:01:12Z",
-   "updated": "2026-11-16T00:01:12Z",
-   "items": [
-    {
-     "id": "f9e41655cedd",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Last project I did before the release (1000 pieces)",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xx6eza/last_project_i_did_before_the_release_1000_pieces/",
-     "ts": "2026-11-15T20:51:43Z",
-     "summary": "submitted by /u/M-Duzz to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-22T23:50:55Z",
+  "last_run": "2026-11-23T00:01:21Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 99/100",
-   "gnews_ru: 98/100",
+   "rockstar_site: 0/1",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 2/10",
    "vgc: 10/10",
    "insider_gaming: 7/10",
