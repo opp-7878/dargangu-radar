@@ -1,6 +1,434 @@
 {
  "stories": [
   {
+   "id": "2475bb26f9dd",
+   "title": "Прощай GTA 6? На сервере произошел массовый сбой",
+   "first_seen": "2026-11-23T09:50:53Z",
+   "updated": "2026-11-23T10:01:08Z",
+   "items": [
+    {
+     "id": "2475bb26f9dd",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "14.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Прощай GTA 6? На сервере произошел массовый сбой",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44WHFvNDFUTTdtOWJDSlJKR1M0UXNRVkJEbTlxWktKMzRuVV9NMTdSRzh4SFJqOW1aQjg5YWFUX2VaWFR0QkVZWmkxZFozekdoMUNrOFNUTkg?oc=5",
+     "ts": "2026-11-23T09:40:00Z",
+     "summary": ""
+    },
+    {
+     "id": "ef914d7081f7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ngs70.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Прощай, GTA 6? На сервере произошел массовый сбой",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41NVFIWkZKOGtmLTZjdG5OMjlxQmx2cDc5alB4bmFNRExvWnNfck1qYkp6WmgzOHQzTlZVVEJ0OTYyUE9Qd2VVMkdSQ2x4YVJuRVVpZElJVEZSelR6?oc=5",
+     "ts": "2026-11-23T09:40:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "76c2f15e375d",
+   "title": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with",
+   "first_seen": "2026-11-23T09:50:53Z",
+   "updated": "2026-11-23T10:01:08Z",
+   "items": [
+    {
+     "id": "76c2f15e375d",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with",
+     "url": "https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources",
+     "ts": "2026-11-23T09:50:30Z",
+     "summary": "If you've been a fan of Grand Theft Auto for a while, you might have noticed a strange absence in GTA 6 . While the game is packed full of different activities, the recurring pastime of darts is missing, having been present in GTA 5 , GTA Online , and GTA 4. Read more"
+    },
+    {
+     "id": "d1d25cec567f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Eurogamer.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TeXhGRkpjalRPVU1zdmZLZGVta1ZfT0ZvLS1LbndfeXYtU2RqMWtnZlZEUVpCd3hDR3ZiV3A0WmUtcnBua3dfNWJ0bFAtUW5vSHAyMmRvWjhWMTdUdGNDME93c0ZMaGhfcjhXMk1nWmpyUkNwTXpDMjczYkp2azg?oc=5",
+     "ts": "2026-11-23T09:50:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 93,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Дартс вырезали из GTA 6. Причина — нехватка ресурсов",
+    "summary": "В GTA 6 нет дартса, хотя он был в GTA 5, GTA Online и GTA 4. По данным Eurogamer, Rockstar убрала режим, потому что не хватило ресурсов сделать его на нужном уровне качества.",
+    "idea": "Короткий ролик: «Куда пропал дартс в GTA 6?» — показываем дартс в прошлых частях и цитируем причину Rockstar. Зрителю интересно, потому что это привычная мини-игра, и хочется понять, что ещё урезали.",
+    "hook": "Заметил, что в GTA 6 нет дартса? Вот настоящая причина.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T09:50:57Z"
+   },
+   "msg_id": 1973
+  },
+  {
+   "id": "d34bafd192ec",
+   "title": "GTA 6 drew 61% of active US PS5 players and 56% of global Xbox players on launch day, Circana data show",
+   "first_seen": "2026-11-22T13:31:14Z",
+   "updated": "2026-11-23T10:01:08Z",
+   "items": [
+    {
+     "id": "d34bafd192ec",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mezha.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 drew 61% of active US PS5 players and 56% of global Xbox players on launch day, Circana data show",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLWS15S21sOXhXWWdfQ2dKSTlMT0hmMllKYWhJbTZWN0FOOXFlaDRQaWhjUVN6VlFlSl9KRVdUd1NETDBjZjdpY1REZURza2MzMDZIYWo3c1VwVmt2RFlBb1VUSHZaOXF1LXNjb25RbWgzTVc3Sk0xaw?oc=5",
+     "ts": "2026-11-22T12:08:17Z",
+     "summary": ""
+    },
+    {
+     "id": "f0acae155b26",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLWZfd3dSNFJ6NUF2T0tHS2RiZmlIWUdHdFpheDNlTlAxbERnNGk3QXRqR2xuRDZPSkNKY000TUhMbVJZTlpacUx3eU93Z1NIdktneWJvbXNycDg4eTlZSWdlTjhmQXJhaGsyNVJMSFkyNVFhTERuXzVhd3d0SG9XX08xS2Z3YnlYSGE4V1JCQlFNdEh0U1RrQndxWUlYU3paR3FXbFNPam5RYkFGQkl2VkVGeXZ4eFZjZUNRd003THpub1ltR2ZIV2pFNXpPczdITDFOOG5sTTZLMDV5UktFRk5UXzJRZw?oc=5",
+     "ts": "2026-11-22T22:23:00Z",
+     "summary": ""
+    },
+    {
+     "id": "207c421bbd40",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MIXED News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 drew 61% of active US PS5 players on launch day, Circana says",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00alExUF9ZUXh0cnJoOGF6eVVtX042eDhGRERhdUUxQ2RkTXk2aWtHMFAxb3NYUXBYSUZKbERlOVI2TW5OOVZpU0RaUzZiTnBsRHJCc3ppcXV0Qi1PUm9helhRUEt6WjFlWEEySkppeVZFME1adi1LM200R0NGQQ?oc=5",
+     "ts": "2026-11-23T09:58:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "cca736e338eb",
+   "title": "Slideshow: GTA 6 Bikini Girl Screenshots",
+   "first_seen": "2026-11-22T14:50:49Z",
+   "updated": "2026-11-23T10:01:08Z",
+   "items": [
+    {
+     "id": "cca736e338eb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Slideshow: GTA 6 Bikini Girl Screenshots",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOFpHYUM3bnBxYlJUamVnekNhbTBCMFVrcG5QWW9kVVlDc3BPR0IzeVRsNXZwUk5pZlIwNVREZEhjcWZyUFBVRzVDam5qOWltMjhyX052MkkwUU0zSnBhakFWR1lYZzRRNzZnN1FPM1c4dUN5Qk5MY1hQckcwTWlVWnF2WE1EM0gxNHc?oc=5",
+     "ts": "2026-11-22T13:48:06Z",
+     "summary": ""
+    },
+    {
+     "id": "d37d834b2b8d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Slideshow: GTA 6 Bikini Girl Screenshots",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZXVENXpUZ2JqLTlkelRFQ3lQUmU5TDhDUFUxYWl4ZGhldHplVnlnQktxQ1NPRnNIMXcwN2FsUEkzaTM3Rjd5a2t6SWxsMGpOQWt1elZFUGxoMGlSbEo0TzIxNVVRYW5kdHkzS3JxbVlZS1ZaVjR2Ym50UG5DUk9yeg?oc=5",
+     "ts": "2026-11-23T09:58:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "low",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️Слайд-шоу IGN: кадры с девушкой в бикини из GTA 6",
+    "summary": "IGN опубликовал слайд-шоу с кадрами девушки в бикини из GTA 6. Это подборка скриншотов без новых подробностей об игре.",
+    "idea": "Короткая нарезка кадров из слайд-шоу IGN под динамичную музыку с подписью «IGN показал кадры с девушкой в бикини». Зрителю интересно увидеть свежие визуалы GTA 6, пусть и без новых деталей.",
+    "hook": "IGN выкатил слайд-шоу GTA 6 — смотрим кадры с девушкой в бикини.",
+    "stars": 2,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-22T14:51:03Z"
+   }
+  },
+  {
+   "id": "b9a1384b5f06",
+   "title": "Mark Zuckerberg turned his wife Priscilla Chan into a GTA 6 character who asks him to bring groceries, an",
+   "first_seen": "2026-11-23T10:01:08Z",
+   "updated": "2026-11-23T10:01:08Z",
+   "items": [
+    {
+     "id": "b9a1384b5f06",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Times of India",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Mark Zuckerberg turned his wife Priscilla Chan into a GTA 6 character who asks him to bring groceries, an",
+     "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQUTNvSWU1MWtxUG5BNWQtZnJEdnJSMVIwOUp4Y3pRR1NBNk1HVS05VGtsdU9rb3FwYks1cXo3U2piOFotQzE5S2VuQkE4UGZmYWtPUi1mZHo1cHJnZDhQQm5QVzRFNk8wWWp0TDdnZEV6STVsVV9DSHpTMmN1a3FqLXBfRG1ROFlZUjQ4Z1dwbXg2UXZER2oxdVVBRFQ2elJhOGVHczFteUkzVW1XM0ZqRTB5Y21kT1RiWGpiYmlOR3FzZUZ5R29EYUR4N2owUVVvaHBqcWtyZUpMTHRTSENYcW9hUkQyME9ZWlY4a1BsWnExbVpyWF9Ud1NKbzluS1RiZFV3THVic0o5cnozd0dRbVBJeW0zclFTY29VTklTaElxMW5MbzFZb3RmT0lFTEd2eWItcER3VFlEczlPYnRKU2NqTlkyMHNmWkdCejlXMDljNkpHZVBzaEJpcFliRDZETnY5MFlkaWxQVXpyWWkydjJhVExiUWhnTGdBOdIBggNBVV95cUxPeF9LTjViVDNXZlpINkR0dU5HdFF3VGxNVVEtY1ZneFlzV2NSdFpwOURCTDZFRW5CWFBDcGp4eU44SHpmR21jVmI0eG9qSUo5ZTZOQm9OLWpiZ0ZGWlBfNHFKbDFhcnFiSWxVVnF4UlNnYkFyNXlwalI1SVh4TFgtX01QZ2tBY01faEcyZzNhNXo2NTg0VTZCeldSU21hbGx0Mk1sdlRqem5rNEIyX0pZX0piOHVHZUg0WmpkREcxdEJNQ0pSUWFSOWVHMTN5SkdzQy05emJueUdabl9NbzhJNHJVdVFjOGlLTmpnTWpZTzRwaC1jelM1YmJZc2Z6N2wtcDdRemhMbjljUDRjbXctcFhYTGRJYzBsam50QzFDbGRfR0tjYWJsVVBNTWxrR2hJVlB3MVh6MUJSMmEzTk83Zy1JNWg3S3FEaG1jVGFVMGJKREU0TVc3N04zSW4zWFNFU2wzR2ZvZjBHUW9QM005ZHMwbVFrQjNIeFJpSHZmcHkwUQ?oc=5",
+     "ts": "2026-11-23T09:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fb55c0f29cac",
+   "title": "GTA 6 — мировая сенсация, а на Reddit постоянно возникают технические проблемы.",
+   "first_seen": "2026-11-23T10:01:08Z",
+   "updated": "2026-11-23T10:01:08Z",
+   "items": [
+    {
+     "id": "fb55c0f29cac",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Vietnam.vn",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 — мировая сенсация, а на Reddit постоянно возникают технические проблемы.",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UWo2LUVoNmJhekJ2UXJYYXk0MTIyWm1zVWFNTFRrZUMwOE82MzJyN2VWTmlUT1RUUndMS01LYjQ4STRiZ01LQVRFVnFaZU1wb2F2emtwSGdiS0o1MjZnWW1mdGhIa2Q5NXhBZHdTcTBXbWdmWTdnTmJNS2dOMHc?oc=5",
+     "ts": "2026-11-23T09:47:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "be0baadc9449",
+   "title": "GTA 6 Get Lucia’s Clothes guide: picking up Andy’s bag at Manatee’s Rest",
+   "first_seen": "2026-11-23T10:01:08Z",
+   "updated": "2026-11-23T10:01:08Z",
+   "items": [
+    {
+     "id": "be0baadc9449",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Get Lucia’s Clothes guide: picking up Andy’s bag at Manatee’s Rest",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWQxQ29xMUxIdjRHanVxR1doX0dKMWFsUHo5dk1KaUFjbHRJWHRSM2FrWUg1cm1aWG8zclp3N1dZcHVGV09JU29TN1Zya2lweXpnMjdqdjhzTHJtUkp2ODhKQUtiWEdVNGhOcUlVaGM0eW9JeDFxaWV6SnVOY2FnQjI4dXJZcVlySTNuVTZUTzdBQQ?oc=5",
+     "ts": "2026-11-23T09:51:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "59ca9a8750e3",
+   "title": "Махачев после вопроса о GTA 6 рассказал, как выбросил компьютер из-за видеоигр",
+   "first_seen": "2026-11-23T10:01:08Z",
+   "updated": "2026-11-23T10:01:08Z",
+   "items": [
+    {
+     "id": "59ca9a8750e3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Meta MMA",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Махачев после вопроса о GTA 6 рассказал, как выбросил компьютер из-за видеоигр",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMFRITktyZ2JJdG1DOHlSMF9oU3Y3aDFhd2l2TVRma0U3WjhLaUVadWhoa0FMNUNaSmszS3FSdzVYdGFGZE92SmdLdTFQQlRzb0puZFNSRDdiNUxjck9oNU55VDg1WXJZc3FhM0U0OTVRXzEzTTJONFpUd052Z0tyWTZHREpqVmcyYk9nZWV0aGt5aWtkWG9tdzVRYmhXaHVPNU9CQy1LTGlrMUlLSTNoWDNUZGdadFQyelpv?oc=5",
+     "ts": "2026-11-23T09:52:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fe6b1bce0a11",
+   "title": "The GTA 6 Jason Arrest Video Going Viral Is Real Footage",
+   "first_seen": "2026-11-23T10:01:08Z",
+   "updated": "2026-11-23T10:01:08Z",
+   "items": [
+    {
+     "id": "fe6b1bce0a11",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "The GTA 6 Jason Arrest Video Going Viral Is Real Footage",
+     "url": "https://www.gtaboom.com/the-gta-6-jason-arrest-video-going-viral-is-real-footage-c5e5",
+     "ts": "2026-11-23T09:56:15Z",
+     "summary": "The viral GTA 6 clip shows a supercar wrapped in Jason and Lucia artwork under D.C. police lights, with a “Call Lucia” overlay that mimics gameplay."
+    }
+   ],
+   "tags": [
+    "геймплей"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Вирусный ролик ареста Джейсона в GTA 6 — реальное геймплейное видео",
+    "summary": "По данным GTA Boom, вирусный ролик с арестом Джейсона — это реальные кадры GTA 6. На видео суперкар с артом Джейсона и Лусии под полицейскими огнями D.C. и надписью «Call Lucia», которая выглядит как элемент геймплея.",
+    "idea": "Разбор по кадрам: где тут геймплей, а где интерфейс. Зрителю интересно понять, что именно утекло и как это работает в игре.",
+    "hook": "Этот вирусный арест Джейсона — реальный геймплей GTA 6? Смотрим по кадрам.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T10:01:15Z"
+   },
+   "msg_id": 1974
+  },
+  {
+   "id": "3c7dc8c62ddb",
+   "title": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online",
+   "first_seen": "2026-11-23T09:31:07Z",
+   "updated": "2026-11-23T10:01:07Z",
+   "items": [
+    {
+     "id": "3c7dc8c62ddb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Euronews.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSi03NXpzUzA4MDE3bURSb2FCcml4Q1loeDF3WURWTmxjSFpzdkprZ21BejU2eWVVWU5Qd1l1bFFyYnpqT2FSN1UySWdLVGFrV2N6RHdpNWZ1ajFRd0otYVRwVVBiYlZxXzYzUHg5N1RuVjNQVTdfN3Z4dF90UGluVlFuVFdxTGJUVzZZSzNyR0g3RjQ4OF9RdnB1T05CakVIR2FWeEt5N1ZJTGNPOGVmaG1LNW9JdUV3bUVpVzZpTEM?oc=5",
+     "ts": "2026-11-23T09:19:13Z",
+     "summary": ""
+    },
+    {
+     "id": "a9423a68e388",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo News UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1waFhsUUNRdzNwUmw5RGxuOExaY3RaUjNkb3JFalNvV3BQUi1JalctSi1BaFFBd2d6SjY1OE16Mk4xSFRQNG80N0Z2RUZ0T3NvN1lWbnRNUzFqV0R3c3Y0TGt3SUwwWTUxWHAwdkRSMWdBUEd3RGc?oc=5",
+     "ts": "2026-11-23T09:19:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "a4196c93465a",
+   "title": "GTA 6: What You Absolutely Need to Do Before the End of Chapter 1",
+   "first_seen": "2026-11-23T10:01:07Z",
+   "updated": "2026-11-23T10:01:07Z",
+   "items": [
+    {
+     "id": "a4196c93465a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Sortir à Paris",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: What You Absolutely Need to Do Before the End of Chapter 1",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZk1fa01aYmQtS3JhZ0p1N0k3cWhJN1FWVi1TdEkwME9fS1FaV2lnNUQ0OHpDWHIxVlhCVzVaNTdzSGdMbE1HS191VFhPWnAzNm14WVJKVHd5OUF6MkEyM296TTE5azJLZUVwZ01fTjl1djczemlMNnJEdDFYNDJqSEdmRUd3VmttVEZHc1AzM3RsRFJ2bGpHaDNqWUR6MWxjcTc1VzEzWGZlbVpmWG56NS1CR0FrVmNIbUpNZU5iVk10ZlJ2SEFKdFZ0YjktWDA5WjFWVjNn?oc=5",
+     "ts": "2026-11-23T09:28:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fc41d90bb49d",
+   "title": "Durov deems GTA 6 less realistic as crime gangs don’t use Telegram",
+   "first_seen": "2026-11-23T10:01:07Z",
+   "updated": "2026-11-23T10:01:07Z",
+   "items": [
+    {
+     "id": "fc41d90bb49d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Cybernews",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Durov deems GTA 6 less realistic as crime gangs don’t use Telegram",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pVmNXSG9EWXU1ZUhfbDV5MnZMbzRLYWNCOWI3MFlMSHNSeWVka1NOZW1hNVNacklXMkFVWWNUVEFmSEpxaVBIWUJnSkhwcnJ0c205Smo5cjBPOTExaVVXeGRHZHc3bzNFQ2VN?oc=5",
+     "ts": "2026-11-23T09:36:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "368ac8ba2e0e",
    "title": "This Is the One Thing I’ll Never Do Again in GTA 6",
    "first_seen": "2026-11-22T14:10:54Z",
@@ -142,32 +570,6 @@
    "status": "new"
   },
   {
-   "id": "2475bb26f9dd",
-   "title": "Прощай GTA 6? На сервере произошел массовый сбой",
-   "first_seen": "2026-11-23T09:50:53Z",
-   "updated": "2026-11-23T09:50:53Z",
-   "items": [
-    {
-     "id": "2475bb26f9dd",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "14.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Прощай GTA 6? На сервере произошел массовый сбой",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44WHFvNDFUTTdtOWJDSlJKR1M0UXNRVkJEbTlxWktKMzRuVV9NMTdSRzh4SFJqOW1aQjg5YWFUX2VaWFR0QkVZWmkxZFozekdoMUNrOFNUTkg?oc=5",
-     "ts": "2026-11-23T09:40:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "1da92c6abb23",
    "title": "Lana Del Rey celebrates ‘GTA 6’ launch with Miami tour and Vice City Birkin",
    "first_seen": "2026-11-23T09:50:53Z",
@@ -218,45 +620,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "76c2f15e375d",
-   "title": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with",
-   "first_seen": "2026-11-23T09:50:53Z",
-   "updated": "2026-11-23T09:50:53Z",
-   "items": [
-    {
-     "id": "76c2f15e375d",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with",
-     "url": "https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources",
-     "ts": "2026-11-23T09:50:30Z",
-     "summary": "If you've been a fan of Grand Theft Auto for a while, you might have noticed a strange absence in GTA 6 . While the game is packed full of different activities, the recurring pastime of darts is missing, having been present in GTA 5 , GTA Online , and GTA 4. Read more"
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 85,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Дартс вырезали из GTA 6. Причина — нехватка ресурсов",
-    "summary": "В GTA 6 нет дартса, хотя он был в GTA 5, GTA Online и GTA 4. По данным Eurogamer, Rockstar убрала режим, потому что не хватило ресурсов сделать его на нужном уровне качества.",
-    "idea": "Короткий ролик: «Куда пропал дартс в GTA 6?» — показываем дартс в прошлых частях и цитируем причину Rockstar. Зрителю интересно, потому что это привычная мини-игра, и хочется понять, что ещё урезали.",
-    "hook": "Заметил, что в GTA 6 нет дартса? Вот настоящая причина.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-23T09:50:57Z"
-   },
-   "msg_id": 1973
   },
   {
    "id": "d5a36d0a43d0",
@@ -770,34 +1133,6 @@
    "score": 40,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3c7dc8c62ddb",
-   "title": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online",
-   "first_seen": "2026-11-23T09:31:07Z",
-   "updated": "2026-11-23T09:31:07Z",
-   "items": [
-    {
-     "id": "3c7dc8c62ddb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Euronews.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSi03NXpzUzA4MDE3bURSb2FCcml4Q1loeDF3WURWTmxjSFpzdkprZ21BejU2eWVVWU5Qd1l1bFFyYnpqT2FSN1UySWdLVGFrV2N6RHdpNWZ1ajFRd0otYVRwVVBiYlZxXzYzUHg5N1RuVjNQVTdfN3Z4dF90UGluVlFuVFdxTGJUVzZZSzNyR0g3RjQ4OF9RdnB1T05CakVIR2FWeEt5N1ZJTGNPOGVmaG1LNW9JdUV3bUVpVzZpTEM?oc=5",
-     "ts": "2026-11-23T09:19:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -9065,45 +9400,6 @@
    "status": "new"
   },
   {
-   "id": "d34bafd192ec",
-   "title": "GTA 6 drew 61% of active US PS5 players and 56% of global Xbox players on launch day, Circana data show",
-   "first_seen": "2026-11-22T13:31:14Z",
-   "updated": "2026-11-22T22:40:51Z",
-   "items": [
-    {
-     "id": "d34bafd192ec",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mezha.net",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 drew 61% of active US PS5 players and 56% of global Xbox players on launch day, Circana data show",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLWS15S21sOXhXWWdfQ2dKSTlMT0hmMllKYWhJbTZWN0FOOXFlaDRQaWhjUVN6VlFlSl9KRVdUd1NETDBjZjdpY1REZURza2MzMDZIYWo3c1VwVmt2RFlBb1VUSHZaOXF1LXNjb25RbWgzTVc3Sk0xaw?oc=5",
-     "ts": "2026-11-22T12:08:17Z",
-     "summary": ""
-    },
-    {
-     "id": "f0acae155b26",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Notebookcheck",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLWZfd3dSNFJ6NUF2T0tHS2RiZmlIWUdHdFpheDNlTlAxbERnNGk3QXRqR2xuRDZPSkNKY000TUhMbVJZTlpacUx3eU93Z1NIdktneWJvbXNycDg4eTlZSWdlTjhmQXJhaGsyNVJMSFkyNVFhTERuXzVhd3d0SG9XX08xS2Z3YnlYSGE4V1JCQlFNdEh0U1RrQndxWUlYU3paR3FXbFNPam5RYkFGQkl2VkVGeXZ4eFZjZUNRd003THpub1ltR2ZIV2pFNXpPczdITDFOOG5sTTZLMDV5UktFRk5UXzJRZw?oc=5",
-     "ts": "2026-11-22T22:23:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
    "id": "926082d975d0",
    "title": "Побежала за щенками в GTA 6 и нашла логово серийного убийцы: гайд по поиску пропавших туристов",
    "first_seen": "2026-11-22T22:40:51Z",
@@ -16618,42 +16914,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "cca736e338eb",
-   "title": "Slideshow: GTA 6 Bikini Girl Screenshots",
-   "first_seen": "2026-11-22T14:50:49Z",
-   "updated": "2026-11-22T14:50:49Z",
-   "items": [
-    {
-     "id": "cca736e338eb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Slideshow: GTA 6 Bikini Girl Screenshots",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOFpHYUM3bnBxYlJUamVnekNhbTBCMFVrcG5QWW9kVVlDc3BPR0IzeVRsNXZwUk5pZlIwNVREZEhjcWZyUFBVRzVDam5qOWltMjhyX052MkkwUU0zSnBhakFWR1lYZzRRNzZnN1FPM1c4dUN5Qk5MY1hQckcwTWlVWnF2WE1EM0gxNHc?oc=5",
-     "ts": "2026-11-22T13:48:06Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "low",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Слайд-шоу IGN: кадры с девушкой в бикини из GTA 6",
-    "summary": "IGN опубликовал слайд-шоу с кадрами девушки в бикини из GTA 6. Это подборка скриншотов без новых подробностей об игре.",
-    "idea": "Короткая нарезка кадров из слайд-шоу IGN под динамичную музыку с подписью «IGN показал кадры с девушкой в бикини». Зрителю интересно увидеть свежие визуалы GTA 6, пусть и без новых деталей.",
-    "hook": "IGN выкатил слайд-шоу GTA 6 — смотрим кадры с девушкой в бикини.",
-    "stars": 2,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-22T14:51:03Z"
-   }
   },
   {
    "id": "9d9bae6d74dd",
@@ -197073,18 +197333,18 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-23T09:50:58Z",
+  "last_run": "2026-11-23T10:01:16Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 97/100",
+   "gnews_ru: 96/100",
    "gamesbeat: 1/10",
-   "vgc: 10/10",
+   "vgc: 9/10",
    "insider_gaming: 5/10",
    "ign: 7/20",
    "eurogamer: 9/100",
    "dexerto_gta: 10/50",
-   "rockstarintel: 6/10",
+   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
    "gtaboom: 30/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 14/14",
