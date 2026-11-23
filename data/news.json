@@ -1,51 +1,75 @@
 {
  "stories": [
   {
-   "id": "e832f8e4f16b",
-   "title": "YouTuber Discovers Wild GTA 6 Easter Egg, Cracks Code in Just 3 Days to Reveal Brilliant Surprise",
-   "first_seen": "2026-11-23T19:50:45Z",
-   "updated": "2026-11-23T20:01:09Z",
+   "id": "79db6e2295df",
+   "title": "Давайте поговорим о завершении первого акта в GTA VI ИМХО: это самая запоминающаяся миссия из всех GTA в принципе и игр последних лет.",
+   "first_seen": "2026-11-23T20:20:55Z",
+   "updated": "2026-11-23T20:20:55Z",
    "items": [
     {
-     "id": "e832f8e4f16b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
+     "id": "79db6e2295df",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
      "alert": true,
-     "title": "YouTuber Discovers Wild GTA 6 Easter Egg, Cracks Code in Just 3 Days to Reveal Brilliant Surprise",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RQWlKVVdvY3NmYXU0czZVNFdUSTllYzNWdzRzRGZheUxjdDV2THNQSFhYR2hoWUZTbnJFV1NxemNjY2pyM3hfUzU2emdlQnVXVnJQY0xFS21zTF8xbG1Ld0dtZlhSSExfREhWUFJxMDNtYUcw?oc=5",
-     "ts": "2026-11-23T19:42:34Z",
-     "summary": ""
-    },
+     "title": "Давайте поговорим о завершении первого акта в GTA VI ИМХО: это самая запоминающаяся миссия из всех GTA в принципе и игр последних лет.",
+     "url": "https://t.me/GTAVIStar/1044",
+     "ts": "2026-11-23T20:18:00Z",
+     "summary": "Давайте поговорим о завершении первого акта в GTA VI ИМХО: это самая запоминающаяся миссия из всех GTA в принципе и игр последних лет. А за трек Трэвиса Скотта отдельное спасибо Rockstar. А как вам завершение первой главы? 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "dabe39a41d1c",
+   "title": "Where to Find Arthur Morgan's Hat in GTA 6",
+   "first_seen": "2026-11-23T20:20:55Z",
+   "updated": "2026-11-23T20:20:55Z",
+   "items": [
     {
-     "id": "12d958bd827d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
+     "id": "dabe39a41d1c",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
      "alert": true,
-     "title": "YouTuber Discovers Wild GTA 6 Easter Egg, Cracks Code in Just 3 Days to Reveal Brilliant Surprise",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQlNGUDR5ZlFJMVdVaDlTU1FQYjVEdFZUT0pmTHBOVGp2Ni1FdlQ5OHh6QWNpZUtrTFRManBXSFZ1ZEN4NVpzUk1oWkNONlJfT1poclpZdWh2bTZDUFdpZVJNSEdhZTNNOGdodkktQUZfc3dMUzdabTVCb3VjdGwzSWk0OWdRMkl5bGlEcDNabG1kUUwtd3hVcjBVbUpWZENrV1g0OGFIYVU4OVFJNWxLMEVWb3FBM2tKbDd1eWdjM3UtUFI3czcxZVZEUlFUUVFtRDgyeVVJMUFPcUlPQUVZ?oc=5",
-     "ts": "2026-11-23T19:53:00Z",
-     "summary": ""
+     "title": "Where to Find Arthur Morgan's Hat in GTA 6",
+     "url": "https://www.gtaboom.com/gta-6-arthur-morgan-hat-location-2fba",
+     "ts": "2026-11-23T20:18:25Z",
+     "summary": "Buy the Genuine Cowboy Hat for GTA$35 at a morning yard sale in southern Port Gellhorn."
     }
    ],
    "tags": [
-    "анонс"
+    "цена/издания"
    ],
-   "score": 93,
+   "score": 60,
    "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Ковбойская шляпа Артура Моргана в GTA 6 за GTA$35",
+    "summary": "По данным GTA Boom, в южном Порт-Геллхорн на утренней дворовой распродаже можно купить настоящую ковбойскую шляпу Артура Моргана за GTA$35. Это внутриигровой предмет, который можно найти в GTA 6.",
+    "idea": "Показываем маршрут к дворовой распродаже в Порт-Геллхорн и покупку шляпы за GTA$35. Зрителю интересно: редкий предмет, точная цена и быстрый способ забрать.",
+    "hook": "Шляпа Артура Моргана в GTA 6 за 35 баксов — где взять прямо сейчас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T20:21:09Z"
+   },
+   "msg_id": 2065
   },
   {
    "id": "cc831021dd7f",
    "title": "GTA 6 Leaker Cyberleek Reportedly Releases .exe File for Xbox Build, Sparking Concern an Unofficial PC Port Could Be Around the Corner",
    "first_seen": "2026-11-22T23:31:00Z",
-   "updated": "2026-11-23T20:01:09Z",
+   "updated": "2026-11-23T20:20:54Z",
    "items": [
     {
      "id": "cc831021dd7f",
@@ -813,6 +837,19 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWi1TNlMzX2pabjF5djdEcUlPWjlnSWhUOW11MTVWTFlaZmhGLXRfZ3hSOC1BRVJ1U2x3Y0NCaXowOFlpUkFlc1lVSW5hbmM1UkpvOWNnd1pYejBKRlRWSmpMNEY3TXFfLXZ3TTRKR1BDOE54R3R3MmtRUTJrUnB2Wi1yMlVNXzA0V3dqYnI0aGxpT2F3SUY4ZVh0M0l3RkRU?oc=5",
      "ts": "2026-11-23T19:43:30Z",
      "summary": ""
+    },
+    {
+     "id": "66f6c5db95da",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 PC port progressing at breakneck speed",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekhfZnpxejd4b0FQMHRZZXpicEtCSUY1UWxsVng2d3ZQb1FySU1Xa0ttSkx1MEZVTWdZMGFwbTVkdVFwT3NGV1FLeEtRckl3cnpHekxZcHh2X1NXb2JDdGQzOUlOeTVWOWJaSzhUS3RxQWg5bVRKbGtVdDR6MmltbUVfbXd0el81Z2pKRndhbV9UZEU?oc=5",
+     "ts": "2026-11-23T20:01:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -825,6 +862,740 @@
    ],
    "score": 100,
    "level": "SPECULATION",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "bbf25dc25369",
+   "title": "В Британии хакера GTA VI приговорили к семи годам тюрьмы",
+   "first_seen": "2026-11-23T18:50:55Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "bbf25dc25369",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Euronews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В Британии хакера GTA VI приговорили к семи годам тюрьмы",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2poVGRiTXAyTW9uWklYOFl2QjZGRld6Wjh6MFIzdkJSOHBlZmgzWnVzOFktSVp0WC1DeENnNEg3XzJXLXdCMFlZVFJOOXA3Zm5jVzluQlpNNXZxYXhycWtaVmkwbGI2d1FYYXFFVmpIM2x0aXR2T0hidHJVbWRQYU1FZkVaRlg2dWJyTUJQNVhWUkdmXzlJeA?oc=5",
+     "ts": "2026-11-23T18:43:30Z",
+     "summary": ""
+    },
+    {
+     "id": "44d383320545",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "TRT Russian.",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Британского хакера приговорили к семи годам за утечку материалов GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NYWRJa284OEtsSHpCcDNwRkFtakhfd1ZHTkozM2syUXhsTzNRUEplbFA1MVZwd3FmWTBPblh6eEpBNm42S1dOV0tEY1lDcG5kS2xFTHk4U0czT1k?oc=5",
+     "ts": "2026-11-23T20:09:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 63,
+   "level": "SPECULATION",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "e8bdc72bdda9",
+   "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
+   "first_seen": "2026-11-23T12:40:44Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "e8bdc72bdda9",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
+     "url": "https://insider-gaming.com/gta-6-45-million-copies/",
+     "ts": "2026-11-23T12:37:07Z",
+     "summary": "A research firm claims GTA 6 has already sold nearly 45 million copies in its launch weekend, amounting to over $4 billion in revenue. The post GTA 6 Has Already Sold 45 Million Copies, Says Research Firm appeared first on Insider Gaming ."
+    },
+    {
+     "id": "f946863cd5b6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlVXR0RHlpakFudVlydE1uWG54RU9BQnhha1F4dHVRSDRxaDlfYzZtak0ydUJKMGZhc1h2Z3R3bVNVQ01NbFZ1bnJuUHcwcWt2MnI0SnpxdWdKc3dCQ3QwTQ?oc=5",
+     "ts": "2026-11-23T12:37:07Z",
+     "summary": ""
+    },
+    {
+     "id": "a7e59c3de8f8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Instant Gaming News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI has reportedly already sold about 45 million copies",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSFpRTWNkbnFpRHZ1clZRU3hGNEVMeVp3VFBGd0dOTUFhV1VMMEJrdlYwUzdJRjZvQnVIQzAzNmg4V3o3QlNVNVhFOXFwM3VxYTNkV3c5NnNVVjQ5YTdBQ3AyaXlkcGMwNEhxdU52Tm5uM3BWbjJYZ2l4NWtPY0FENWgxcjNua0NJTVZsaFQ0aXQ2ZWljM3F3OVZjMnRtNHpaelZtaGlrbGNVajQx?oc=5",
+     "ts": "2026-11-23T13:06:17Z",
+     "summary": ""
+    },
+    {
+     "id": "e85bba7aca5b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Crypto Briefing",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI surpasses 45 million copies sold",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OX2owcmYtNUVvdDVpQ05CUVZHaWNDUnExc2JFUUQxMnkwZENhcldoa3FqSWl4TDJmS2lFSmVBZWV6NjljWWhscjIzUlhDUWJOYjcxanB5d2xTWU0wTWo5RUh3WXNDbzZWZEQ5M0ktTVhqcXlxVnc?oc=5",
+     "ts": "2026-11-23T20:08:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "af15ffe8f135",
+   "title": "The Infamous GTA 6 Hacker Has Been Released After Pleading Guilty",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "af15ffe8f135",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Engadget",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Infamous GTA 6 Hacker Has Been Released After Pleading Guilty",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1hwQlFvSzVzdHRVMlBSSmlOcGNFc2ktNzRJRDRFeTBQZjdKdHZhQmMwbFIzZjJyMF9WeGw1dlNyQkNYdjJUYjNhWGk1cFRXTnVqWlN1SmFqRExBd0lNOFNIUHF1c3E0WXBzREFXVlRscE8xSWt4VmJ6a1BWQjlIOVR6eHNHRXN0d3o5ZUtPeU5mWXptVnNKRW9FNzV5TkFm?oc=5",
+     "ts": "2026-11-23T19:42:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b9f98c1c18a5",
+   "title": "Another GTA VI Glitch Unlocks Frame Rates on Xbox",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "b9f98c1c18a5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TechPowerUp",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Another GTA VI Glitch Unlocks Frame Rates on Xbox",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV05VR1dpNWdTMjNmRW9PdEFCQ1ZVa2kxQlhqRWpGQW15aDJUS2ppT2w1SVR2R0Z6eFViZ2JvS0Z5blFsZ3o2V2xqdUViRU9QU3dFUWNISTV4MVgyUGFhS3A2X2FoQUxtNURxemNwVldoXzlGcm1oMFY2ZHRYX2ltbGFyQVlKUFlYTE5rT9IBkgFBVV95cUxOZGhzdFVpS3ktSG1sNUtPNlhVUjhOb191a3ozdzZ6WlFqSkduV2JBYTdROUhOTUdOa2lmaVdOVnVxUVFZc1QwbWFMaGxoNWFzYU4tS1Fkb2gxR3NhZjVRamliSjAyaWpIM2FfUjZoY1dUS3IyR2ItR2VsTThOSkhqTWVBSTRHWmh4VkVLU1N0ZXJ6UQ?oc=5",
+     "ts": "2026-11-23T19:56:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "48f0ec1f3dc4",
+   "title": "‘GTA 6’ Won Men. ‘Hunger Games’ Won the Box Office",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "48f0ec1f3dc4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Ankler",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘GTA 6’ Won Men. ‘Hunger Games’ Won the Box Office",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wa2otWUNnNE94RmRUR3A2NUQtdEZGMjdXVmR1YnVjdzdXdEhnUERIX0RFTE9TdVdLdXloRzJCbkFTQ3JaZWt6LWRHZVptc3BveGRvZWg4UHlUUEFoVFZQNVcwOGFscUM5aThSdGROcV92eUR4bE4w?oc=5",
+     "ts": "2026-11-23T19:58:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "baff53b58996",
+   "title": "Gary Plauche, who killed his son's kidnapper, spotted in 'GTA VI' airport",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "baff53b58996",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WBRZ",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Gary Plauche, who killed his son's kidnapper, spotted in 'GTA VI' airport",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmtYOTEtdG1iX3VUbHZZakUxZkpiWWl4S3k0cDktcU43V0VtZlZmbjl5WmZMXzZkc2V0Z3JjcWpGcWtBak50M0p0WmFTRTdCWFo5UW5qQ1VUb0NFWEcxYjJNS0pzY0sxeEFLY1NJRG56b09UbThiekdOaFo3UkRxQmtfS0ppeXU2SzhFMTVxbTQtMGJaVGFJSkktM2k?oc=5",
+     "ts": "2026-11-23T19:59:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d909e87542d0",
+   "title": "10 Hacks Every 'GTA 6' Player Should Know",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "d909e87542d0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Lifehacker",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "10 Hacks Every 'GTA 6' Player Should Know",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMmU5eF9Ja1p5QUpuanlXa3JobktsRklLMU9KbEx2dmwyRE16SlZFVFVaNlNfY1A2ZWpNTnhURVE3Y3VCUXZuMXZhSVRBSVBteHcycEY5SXMxVTJaV200RmxQLXJWdUJQa21qYk8yblFQUGpjSE9VOF8zd2M1SDhXU3FGM3dsdUl5MFE?oc=5",
+     "ts": "2026-11-23T20:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6d48ae675c11",
+   "title": "GTA 6's first platinum trophy has been unlocked, and here's how long it took",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "6d48ae675c11",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GAMINGbible",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6's first platinum trophy has been unlocked, and here's how long it took",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQjYxcUcxSG0yeTZGeGRhbjdvNU0zUlplTUFZem9LbUtQelBBV1JPS1FrU09MZ25YNHR3MzVib0ZMeTV2dDFXbXYxaGlodHJXQ0NKVFNMd1Rpb3NmOHlaYXc2Z19WRW92LURuZzFGT1JVTWJHd1lQNFM2QS10NnhNbHlhdkJIaTNDTXdnNS04WHd2VkJIdlZvUVh3?oc=5",
+     "ts": "2026-11-23T20:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "40f9ddc49d79",
+   "title": "Пользовательские оценки GTA 6 на Metacritic, повторяющие судьбу The Last of Us Part II, только дискредитируют платформу и сам формат таких ревью",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "40f9ddc49d79",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Пользовательские оценки GTA 6 на Metacritic, повторяющие судьбу The Last of Us Part II, только дискредитируют платформу и сам формат таких ревью",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOY0dGSUhzUGh4bWtwYVl3MVZXUGxSQmtxeGxqRldKNHIyeHVqQUpHMTNGZTMwVVRGM2FzN0I0aDR6bVFjeGx1d0RpT1daRkpmMEhQMzN4LXk2Y1FVODhuYmgyTk5fVFJyYWVKeU12alFoY2NNbFZ2eTFBd0QtR1dvMWZIaWpHTU5qZGVFMHRzb0ltdkxncDF5djBheDZMN0VScW1vY1U4REliS0dSamhyZ1NRaG5RaU5veTQ4Y09kM2hoVTktMkV2Uk1oaVUzZFZFV3ZtNUk3cURmYmptdndQc2UtRi0yMG1rXzE4dE1SOVdxSWdJYU1IN0s1MVZBTXl4WGJ4SFBQS3RMejQ?oc=5",
+     "ts": "2026-11-23T20:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b2ed069d69d2",
+   "title": "Players Have Found a GTA 6 60fps Glitch, but It Just Reaffirms Rockstar's 30fps Cap",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "b2ed069d69d2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Players Have Found a GTA 6 60fps Glitch, but It Just Reaffirms Rockstar's 30fps Cap",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV0FRZjlaUXllVjEtMC1jX2steUZIemlmUDFJZUdtRlZmTW9nQjhfaG5KUnU5c3dINW1SMlhsTmJGZW9razRmZU04ZGFMbFZMSGVXSi1UR3VFR1haSk4zdGpfY1N2OFZOb2F0OF9NYzdmLWhsUzhRd3Nia2NtaVQ0MDNBbEpBOXNHWGludjY3LTN3Unl2X1g1RVk5U2NEdmZoT09kelViemU0NENPcnVzbWEwWGRMV0VjVkFVZTZUYlFYRVdnTVIzLWZ2cw?oc=5",
+     "ts": "2026-11-23T20:00:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f97007f23bda",
+   "title": "GTA 6 Players Are Learning the Hard Way Not to Steal Teslas",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "f97007f23bda",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Consequence of Sound",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Players Are Learning the Hard Way Not to Steal Teslas",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96OXZwdTJFb01LOGpsbXgtZ0Nkek1DbUtSTEQwRmpnNVB6c2ZlaDM3S3VKd2ZBVGdzcmNPTHotNkhwQUU3a1Z6cktMdnlxcTBPWVMyRXl0U19oYm9KNnhscl9XcFlubnBVak13?oc=5",
+     "ts": "2026-11-23T20:01:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "17aae52b02eb",
+   "title": "D’Angelo’s Estate Releases Posthumous Song ‘Kamikazi’ for ‘GTA 6’: Singer ‘Approved This Track’ Before His Death",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "17aae52b02eb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Billboard",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "D’Angelo’s Estate Releases Posthumous Song ‘Kamikazi’ for ‘GTA 6’: Singer ‘Approved This Track’ Before His Death",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2VIZEo5dmNZdVhaUmRTMXFmaWplOS1zdFNQejhZZEhkSl9fRDlnMXlzS3BCMUZydVdiVjlYRXZXaEdlX083YVFpYmdSbHBwTlg2ZjJ5T1Z3SWpmNGVZUE9YREpaN0x0ak9KZXFhczFzdkZ0TnhtZWdma3Rwc1Qta3ZJdmtxYUR5ejMzdUxnT1ZXaXZvNU84cjc3Ymw?oc=5",
+     "ts": "2026-11-23T20:02:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0b089d0e7426",
+   "title": "Easy Method for Randy’s Supercars in GTA 6—How To Beat Advanced Trackers",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "0b089d0e7426",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Easy Method for Randy’s Supercars in GTA 6—How To Beat Advanced Trackers",
+     "url": "https://insider-gaming.com/easy-method-randy-supercars-advanced-trackers/",
+     "ts": "2026-11-23T20:07:06Z",
+     "summary": "If you're hunting Randy's supercars for his GTA 6 wishlist, you might be plagued by advanced trackers. This is how you beat them. The post Easy Method for Randy’s Supercars in GTA 6—How To Beat Advanced Trackers appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔧 Как обойти продвинутые трекеры у машин Рэнди в GTA 6",
+    "summary": "Insider Gaming (Tom Henderson) рассказал, как обойти продвинутые трекеры при поиске суперкаров для списка Рэнди в GTA 6. Материал объясняет простой способ пройти миссии с продвинутыми трекерами.",
+    "idea": "Короткий гайд: показываем быстрый способ обмануть продвинутые трекеры у машин Рэнди и забрать суперкар без погони.",
+    "hook": "Мучают продвинутые трекеры у машин Рэнди? Вот быстрый способ.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T20:21:03Z"
+   },
+   "msg_id": 2064
+  },
+  {
+   "id": "f5b5198ea9a3",
+   "title": "GTA 6 Chapter 1 Mission List – Every Mission in GTA 6 Chapter 1 in Order",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "f5b5198ea9a3",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Chapter 1 Mission List – Every Mission in GTA 6 Chapter 1 in Order",
+     "url": "https://insider-gaming.com/gta-6-chapter-1-mission-list-in-order/",
+     "ts": "2026-11-23T20:07:16Z",
+     "summary": "A complete mission list for GTA 6 Chapter 1 The post GTA 6 Chapter 1 Mission List – Every Mission in GTA 6 Chapter 1 in Order appeared first on Insider Gaming ."
+    },
+    {
+     "id": "1aaa11d0cd1a",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Chapter 2 Mission List – Every Mission in GTA 6 Chapter 2 in Order",
+     "url": "https://insider-gaming.com/gta-6-chapter-2-mission-list-in-order/",
+     "ts": "2026-11-23T20:17:07Z",
+     "summary": "A complete mission list for GTA 6 Chapter 2 The post GTA 6 Chapter 2 Mission List – Every Mission in GTA 6 Chapter 2 in Order appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 56 (char 57)"
+  },
+  {
+   "id": "039702638033",
+   "title": "GTA 6 Chapter 2 guide: Best moves, strategies and tips to progress faster",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "039702638033",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Chapter 2 guide: Best moves, strategies and tips to progress faster",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYlFiV2p3SjdFLUg2TWtlb3JnTnU4a0FIemp4dVhlX0hibmRrNmxxRE5laS1xMndXYVluY3ktLW9iNXBReDJCaVNPUkJFQjA5R3AzNEdaX1NqWVgtdDZqbTBnT2hEQmd1SjNyRUhKT0ZmbEhlZ1dVejUtQUx4X2JMREh2SDBjOHVxcDdHR295Tzl6WGJKMTJmTDRxUkI2MVgyMG8wV05wVHR2ZU9sYUhSelVMWEx2dXM?oc=5",
+     "ts": "2026-11-23T20:11:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e9271ca4957e",
+   "title": "GTA 6 Here Kitty Kitty mission walkthrough: How to find Charles",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "e9271ca4957e",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Here Kitty Kitty mission walkthrough: How to find Charles",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-here-kitty-kitty-mission-walkthrough-how-to-find-charles/",
+     "ts": "2026-11-23T20:16:56Z",
+     "summary": "Where to find Charles in Here Kitty Kitty"
+    },
+    {
+     "id": "c37f4216c75a",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Tyrone Mission Walkthrough: Where to Find Tyrone",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-tyrone-mission-walkthrough-where-to-find-tyrone/",
+     "ts": "2026-11-23T20:16:59Z",
+     "summary": "This mission introduces you to the Kitty Litter subplot in GTA 6"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Как найти Чарльза и Тайрона в GTA 6: гайды по миссиям",
+    "summary": "По данным VGC, вышли гайды по миссиям GTA 6: «Here Kitty Kitty» — где найти Чарльза, и «Tyrone» — где найти Тайрона. В «Tyrone» начинается подсюжет Kitty Litter.",
+    "idea": "Короткий маршрут по обеим миссиям с отметками на карте: где искать Чарльза и Тайрона, чтобы не бегать кругами.",
+    "hook": "Застрял на Here Kitty Kitty и Tyrone? Показываю, где Чарльз и Тайрон.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T20:20:59Z"
+   },
+   "msg_id": 2063
+  },
+  {
+   "id": "714b747ee58b",
+   "title": "GTA 6 Alien Encounter Walkthrough for All 3 Parts",
+   "first_seen": "2026-11-23T20:20:54Z",
+   "updated": "2026-11-23T20:20:54Z",
+   "items": [
+    {
+     "id": "714b747ee58b",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Alien Encounter Walkthrough for All 3 Parts",
+     "url": "https://www.gtaboom.com/gta-6-alien-encounter-walkthrough-86de",
+     "ts": "2026-11-23T20:17:36Z",
+     "summary": "Find the abandoned car near the Starlet Motel, solve Lucia's dream puzzles, then use the same code and controls to reach the alien in the facility..."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "297151542134",
+   "title": "I streamed GTA VI to my PC – it was awesome, even with lag",
+   "first_seen": "2026-11-23T18:50:54Z",
+   "updated": "2026-11-23T20:20:53Z",
+   "items": [
+    {
+     "id": "297151542134",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ZDNET",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I streamed GTA VI to my PC – it was awesome, even with lag",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOEVNTXdzTENmYXZCa0JPcWhidVVkZ0VXU1JoVW81YUI0TWdmak5tcmtRTkpsX2JsRGpzVWNmYnA4SVZ2U1FxbVNDQU1VbVl1WGJwSms0YW5aWmxBOHVhdFNJeURfUVh1TlpvQ1dIcVdRZWc0bThtc1piZnJyQVcxMWN5bmtQclY4MmVB?oc=5",
+     "ts": "2026-11-23T18:39:58Z",
+     "summary": ""
+    },
+    {
+     "id": "272cefad79bb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ZDNET",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I streamed GTA VI to my PC – it was awesome, even with lag",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nS2tnU0ctbTVEMXJmYTZoMEgwV294NjFsa1VEZWJDaTllQ0V1Z1M1YjBGUmV5WEYxcDlzWk44WmRZNUh2VjJnbXYwSC1WV1locW9kZTlfU0FKNVJuRzFfeDJvemdjMDlxbV9yUW5ydG5uNzRHU0VQZUpn?oc=5",
+     "ts": "2026-11-23T18:39:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "bfe738178326",
+   "title": "McDonald's Launches McDelivery on Discord Ahead of GTA VI",
+   "first_seen": "2026-11-23T08:40:51Z",
+   "updated": "2026-11-23T20:20:53Z",
+   "items": [
+    {
+     "id": "bfe738178326",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "L’Express Franchise",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "McDonald's Launches McDelivery on Discord Ahead of GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWVXa1BJUE5SNHFJejJVMTNCcWVtdEprNDV3ams1MXNVSzNld0tDcm11Y0ZoZ0lFbHZhdi1FbFhVTVY4VFpGa1JrNE1QRDRxQ1FYZFFCS3dNWDRMUmN6WkI3ODRjY2JmOWJrZTN2UmRNRjNYQldzYWVJVER5cnNWdkhSR0Q1emRy?oc=5",
+     "ts": "2026-11-23T08:20:33Z",
+     "summary": ""
+    },
+    {
+     "id": "2b217f90c12a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "L’Express Franchise",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "McDonald's Launches McDelivery on Discord Ahead of GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVnQ5QWlKUjBYaGR6aWhJVUJUUEc0cl9UdE1TRkFHZ1BjUVVHc25fN1lLd09vUXM2bElaMV9malRGYUhBa0pMS3l4TmRWTENPU3VnNW5ILTBoZ09qUUhBSDZ4NFdJMHYzQW5ETDBuVk03S3lMUjREaWxoTWtTMzF5Ry1MQQ?oc=5",
+     "ts": "2026-11-23T08:20:33Z",
+     "summary": ""
+    },
+    {
+     "id": "08f9a9f49fde",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "McDonald’s Launches Discord Food Delivery Ahead of GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV01ReGdMTUVEbF9UMl9DdVV4dHdfcUtqMlZEQV9UY3k1Y0hXNG16OUxFa1FyeUNDSzNoWU8tTkxHVTJJdEJaZ2k3Q082cXRrWEN5NVduNGx5YmhUaXdQQlljWjdQQ2NGZ20tTzdzOHJ5eXNzOGFJX2pkbHQybkpLZEQ2LTFxUGRWRXlHUWRqUUdWU3UyZVJGZU55ZzZIcEVx?oc=5",
+     "ts": "2026-11-23T19:25:57Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "f339c42a21b6",
+   "title": "«Cyberpunk 2 отменена»: разработчик CDPR ушел в депрессию из-за GTA 6",
+   "first_seen": "2026-11-23T20:20:53Z",
+   "updated": "2026-11-23T20:20:53Z",
+   "items": [
+    {
+     "id": "f339c42a21b6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Cyberpunk 2 отменена»: разработчик CDPR ушел в депрессию из-за GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbnd4U3VNYWNpMUI2czRzYklIalhUSkZTLWFxWm1kZE5rZ3Azb000WlVZQm5Kc3dKbGw1VXNyeUV6ZmIwRWsxcEZSLVpXeWc3a1dBZTd3N2J3ekM1cG95Ni0yX2ZfTDdxcHViNDNDeDl0SVE1RFFlVzZZMXFVc2t3ME1pZmU3czE5M2taVHJiWUV3bi1xRnY2R0F3UmpZeU5v?oc=5",
+     "ts": "2026-11-23T14:38:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "79b5f8354016",
+   "title": "Баг с разблокировкой 60 FPS в GTA VI не работает — эксперт Digital Foundry опроверг фанатскую теорию",
+   "first_seen": "2026-11-23T20:20:53Z",
+   "updated": "2026-11-23T20:20:53Z",
+   "items": [
+    {
+     "id": "79b5f8354016",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Баг с разблокировкой 60 FPS в GTA VI не работает — эксперт Digital Foundry опроверг фанатскую теорию",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONUJ0dTRWWFh6c1F4LTAtaWJTdUpPalNuOFVWYy1nZWwtYjZDTldaRTRYaEFhWFNEOWVWMThneUx4cVNDeDhXZ3B2M3NLbWdCTldwX0VkVEE0Wi1zM2lkUDBtY1JEN21qem5qd3BZajRpMEl2eFdWOE1jNy15UWhkVHgxdUFFLXBzNWFBSy1Jd2g3a2JObk92MS1vbUV5NG1hZExBTFNQbXVxRHhPZGhPRUlETE03RVVyYXR3R0cxSG5ITWFjd2hpZnowM2VRQ3dWbmE1QVRnd9IB3AFBVV95cUxNWkFkaUloSDBPekQtUjhGSVNYWlRCTWx3SDhaTUdDX24tQjVXMkxHNnNoZXFDMTc2ekQ4emxFdk5BOE52b25GNmhVWkwtNHBWa29rOEtDR1pYVHJiYzR5WDN4NzIxcWFKWGM2LUozbnZuVHo5a1BtVWEtbkxuck9rUUNWN3JrWXVrZFdUYk04bzFwUkIySGg1UmJ5MTVRaXl1S3cxcEkxS2VmRlJLaXFZWmUtQWpFRjN2SU16VGZObUR5cGhETzZ1clM4V05LYW5DTVU3ckhFZU1YUDdu?oc=5",
+     "ts": "2026-11-23T16:46:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e832f8e4f16b",
+   "title": "YouTuber Discovers Wild GTA 6 Easter Egg, Cracks Code in Just 3 Days to Reveal Brilliant Surprise",
+   "first_seen": "2026-11-23T19:50:45Z",
+   "updated": "2026-11-23T20:01:09Z",
+   "items": [
+    {
+     "id": "e832f8e4f16b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "YouTuber Discovers Wild GTA 6 Easter Egg, Cracks Code in Just 3 Days to Reveal Brilliant Surprise",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RQWlKVVdvY3NmYXU0czZVNFdUSTllYzNWdzRzRGZheUxjdDV2THNQSFhYR2hoWUZTbnJFV1NxemNjY2pyM3hfUzU2emdlQnVXVnJQY0xFS21zTF8xbG1Ld0dtZlhSSExfREhWUFJxMDNtYUcw?oc=5",
+     "ts": "2026-11-23T19:42:34Z",
+     "summary": ""
+    },
+    {
+     "id": "12d958bd827d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "YouTuber Discovers Wild GTA 6 Easter Egg, Cracks Code in Just 3 Days to Reveal Brilliant Surprise",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQlNGUDR5ZlFJMVdVaDlTU1FQYjVEdFZUT0pmTHBOVGp2Ni1FdlQ5OHh6QWNpZUtrTFRManBXSFZ1ZEN4NVpzUk1oWkNONlJfT1poclpZdWh2bTZDUFdpZVJNSEdhZTNNOGdodkktQUZfc3dMUzdabTVCb3VjdGwzSWk0OWdRMkl5bGlEcDNabG1kUUwtd3hVcjBVbUpWZENrV1g0OGFIYVU4OVFJNWxLMEVWb3FBM2tKbDd1eWdjM3UtUFI3czcxZVZEUlFUUVFtRDgyeVVJMUFPcUlPQUVZ?oc=5",
+     "ts": "2026-11-23T19:53:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 93,
+   "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
   },
@@ -3608,32 +4379,6 @@
    "status": "new"
   },
   {
-   "id": "bbf25dc25369",
-   "title": "В Британии хакера GTA VI приговорили к семи годам тюрьмы",
-   "first_seen": "2026-11-23T18:50:55Z",
-   "updated": "2026-11-23T18:50:55Z",
-   "items": [
-    {
-     "id": "bbf25dc25369",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Euronews",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "В Британии хакера GTA VI приговорили к семи годам тюрьмы",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2poVGRiTXAyTW9uWklYOFl2QjZGRld6Wjh6MFIzdkJSOHBlZmgzWnVzOFktSVp0WC1DeENnNEg3XzJXLXdCMFlZVFJOOXA3Zm5jVzluQlpNNXZxYXhycWtaVmkwbGI2d1FYYXFFVmpIM2x0aXR2T0hidHJVbWRQYU1FZkVaRlg2dWJyTUJQNVhWUkdmXzlJeA?oc=5",
-     "ts": "2026-11-23T18:43:30Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "710d5f42d6bc",
    "title": "Players Are Roasting GTA 6's Romance. Here's Why Jason and Lucia's Love Story Won Me Over",
    "first_seen": "2026-11-23T18:31:11Z",
@@ -3797,34 +4542,6 @@
      "title": "GTA 6 PC Rumors: What's Real and What's Just Hype",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5elYwVXFYT1ZYSmpoSThtZDFSZ09wMVhMWkVvY3RJVTFTU3RhWldIMXlMRWdYM1k4NzhTaFNCMHN1d3hRSEl1VGZEaWpUS3A3cTJrNnRlYXB6MkY2WmZRMEduTWNvY29PZ2NFeVhJVVlNWFkyZnRKbw?oc=5",
      "ts": "2026-11-23T18:38:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "297151542134",
-   "title": "I streamed GTA VI to my PC – it was awesome, even with lag",
-   "first_seen": "2026-11-23T18:50:54Z",
-   "updated": "2026-11-23T18:50:54Z",
-   "items": [
-    {
-     "id": "297151542134",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ZDNET",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "I streamed GTA VI to my PC – it was awesome, even with lag",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOEVNTXdzTENmYXZCa0JPcWhidVVkZ0VXU1JoVW81YUI0TWdmak5tcmtRTkpsX2JsRGpzVWNmYnA4SVZ2U1FxbVNDQU1VbVl1WGJwSms0YW5aWmxBOHVhdFNJeURfUVh1TlpvQ1dIcVdRZWc0bThtc1piZnJyQVcxMWN5bmtQclY4MmVB?oc=5",
-     "ts": "2026-11-23T18:39:58Z",
      "summary": ""
     }
    ],
@@ -11856,60 +12573,6 @@
    "msg_id": 2001
   },
   {
-   "id": "e8bdc72bdda9",
-   "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
-   "first_seen": "2026-11-23T12:40:44Z",
-   "updated": "2026-11-23T13:10:52Z",
-   "items": [
-    {
-     "id": "e8bdc72bdda9",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
-     "url": "https://insider-gaming.com/gta-6-45-million-copies/",
-     "ts": "2026-11-23T12:37:07Z",
-     "summary": "A research firm claims GTA 6 has already sold nearly 45 million copies in its launch weekend, amounting to over $4 billion in revenue. The post GTA 6 Has Already Sold 45 Million Copies, Says Research Firm appeared first on Insider Gaming ."
-    },
-    {
-     "id": "f946863cd5b6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlVXR0RHlpakFudVlydE1uWG54RU9BQnhha1F4dHVRSDRxaDlfYzZtak0ydUJKMGZhc1h2Z3R3bVNVQ01NbFZ1bnJuUHcwcWt2MnI0SnpxdWdKc3dCQ3QwTQ?oc=5",
-     "ts": "2026-11-23T12:37:07Z",
-     "summary": ""
-    },
-    {
-     "id": "a7e59c3de8f8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Instant Gaming News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI has reportedly already sold about 45 million copies",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSFpRTWNkbnFpRHZ1clZRU3hGNEVMeVp3VFBGd0dOTUFhV1VMMEJrdlYwUzdJRjZvQnVIQzAzNmg4V3o3QlNVNVhFOXFwM3VxYTNkV3c5NnNVVjQ5YTdBQ3AyaXlkcGMwNEhxdU52Tm5uM3BWbjJYZ2l4NWtPY0FENWgxcjNua0NJTVZsaFQ0aXQ2ZWljM3F3OVZjMnRtNHpaelZtaGlrbGNVajQx?oc=5",
-     "ts": "2026-11-23T13:06:17Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 96,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
    "id": "97a6c0c0333e",
    "title": "GTA VI is the latest game to be ‘review-bombed’ online",
    "first_seen": "2026-11-23T13:10:52Z",
@@ -19332,45 +19995,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "bfe738178326",
-   "title": "McDonald's Launches McDelivery on Discord Ahead of GTA VI",
-   "first_seen": "2026-11-23T08:40:51Z",
-   "updated": "2026-11-23T09:21:18Z",
-   "items": [
-    {
-     "id": "bfe738178326",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "L’Express Franchise",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "McDonald's Launches McDelivery on Discord Ahead of GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWVXa1BJUE5SNHFJejJVMTNCcWVtdEprNDV3ams1MXNVSzNld0tDcm11Y0ZoZ0lFbHZhdi1FbFhVTVY4VFpGa1JrNE1QRDRxQ1FYZFFCS3dNWDRMUmN6WkI3ODRjY2JmOWJrZTN2UmRNRjNYQldzYWVJVER5cnNWdkhSR0Q1emRy?oc=5",
-     "ts": "2026-11-23T08:20:33Z",
-     "summary": ""
-    },
-    {
-     "id": "2b217f90c12a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "L’Express Franchise",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "McDonald's Launches McDelivery on Discord Ahead of GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVnQ5QWlKUjBYaGR6aWhJVUJUUEc0cl9UdE1TRkFHZ1BjUVVHc25fN1lLd09vUXM2bElaMV9malRGYUhBa0pMS3l4TmRWTENPU3VnNW5ILTBoZ09qUUhBSDZ4NFdJMHYzQW5ETDBuVk03S3lMUjREaWxoTWtTMzF5Ry1MQQ?oc=5",
-     "ts": "2026-11-23T08:20:33Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -201733,70 +202357,18 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "abe3defc05ce",
-   "title": "PlayStation 5 — GTA 6 Launch Triggers Global Console Shortages",
-   "first_seen": "2026-11-16T20:20:50Z",
-   "updated": "2026-11-16T20:20:50Z",
-   "items": [
-    {
-     "id": "abe3defc05ce",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Korea Daily",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "PlayStation 5 — GTA 6 Launch Triggers Global Console Shortages",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wZTU0cHJDVHVuaVhxb3NZV2E5dThoeTdrN3l6bWd3MGpSZGpoM0dyMXlvdkJxXzZwWnZiLWk1cnhVczExUmlxV3ZFc3NZN1Y0TW5IY1BlcnMzcW9Vb0szWl9mMVJDZnp3bHBsNlNuOHQ?oc=5",
-     "ts": "2026-11-16T20:09:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0b9adfa06a6d",
-   "title": "Are fans receiving copies of GTA VI with no download code?",
-   "first_seen": "2026-11-16T20:20:50Z",
-   "updated": "2026-11-16T20:20:50Z",
-   "items": [
-    {
-     "id": "0b9adfa06a6d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Mary Sue",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Are fans receiving copies of GTA VI with no download code?",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVHJKSzY4OEpDRDF4dHNqTDN4RVk2Y3IwMzB3R1k1WWVBSWlZUGh3b2prU2ZCUlVVeTNnVVY2bzhKOHdMWlBIcXk2NWlJX1VBZXRIQm1RRmNfRi1yYXc1bERwV0s0d1h4LVBUVHh5ckJBd1lmVzNVSjRma2dYRnlWeWdrOEotSlMtYWdaSUpmT1RHZXpqY2FfUUhoUnh4amx4b25iQmQyNjlPdG1mTkF6dmg2YVl3QUtFV3FGZkQtOHlIc2QyaW5sNU5naFBJYnlkX3lFeFgyQU90RmZVZWhXc0dOblVncllFb01jMGR3Y0pHTlJkd3p4U1RvdGVLX2c?oc=5",
-     "ts": "2026-11-16T20:15:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-23T20:11:15Z",
+  "last_run": "2026-11-23T20:21:10Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/3",
+   "gnews_en: 100/100",
+   "gnews_ru: 99/100",
    "gamesbeat: 0/10",
    "vgc: 7/10",
-   "insider_gaming: 3/10",
+   "insider_gaming: 6/10",
    "ign: 3/20",
    "eurogamer: 10/100",
    "dexerto_gta: 8/50",
