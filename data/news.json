@@ -1,6 +1,95 @@
 {
  "stories": [
   {
+   "id": "640930adc265",
+   "title": "Robbing Banks is a Blast, But I Wish There Were More Houses to Repair in GTA 6",
+   "first_seen": "2026-11-23T07:01:18Z",
+   "updated": "2026-11-23T07:01:18Z",
+   "items": [
+    {
+     "id": "640930adc265",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Robbing Banks is a Blast, But I Wish There Were More Houses to Repair in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjJmd0FSSTJPTVlzS0ZiMVhnQkRXTUlvU3hXNDhBdi1JU09OWHhOdWtBd1hodUtxQkZqSXpMVFZpWm1tWmloMjBmMjd4V09LZkhRUGl2TG9CdHYxWk5JeU5yRmRYWWZveDFIMFpBR1ZxVnNLUERYbEVDdUxvRHRybkN1bGpHUVAyUVF0aW5Zc1JRQTBsTXo4eWk4b3hyQnRhX01TSTlwUzFMZw?oc=5",
+     "ts": "2026-11-23T06:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Ограбления — кайф, но домов для ремонта мало в GTA 6",
+    "summary": "Автор IGN поиграл в GTA 6 и похвалил ограбления банков, назвав их взрывными. При этом он пожаловался, что в игре мало домов, которые можно ремонтировать.",
+    "idea": "Короткая нарезка удачных ограблений из GTA 6 с реакцией автора IGN и титр про нехватку домов для ремонта. Зрителю интересно увидеть, за что хвалят игру и где у неё слабое место.",
+    "hook": "Ограбления в GTA 6 — кайф, но вот с домами есть проблема.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T07:01:21Z"
+   },
+   "msg_id": 1963
+  },
+  {
+   "id": "fbbe42b05c07",
+   "title": "Забирайте красивейшие обои в стиле GTA VI Vice City",
+   "first_seen": "2026-11-23T07:01:18Z",
+   "updated": "2026-11-23T07:01:18Z",
+   "items": [
+    {
+     "id": "fbbe42b05c07",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iGuides.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Забирайте красивейшие обои в стиле GTA VI Vice City",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcVVZQzltNHhoZy0zQUcxWkdteS1ldlZma2NaX1ZfRFZQQmFkYUxETmd0QkNrMUxWYXQyX0F3MHZsTE5TNEZWNVQ5MVRGMU9TMlMxc0UwUk1UNi16anQtVXQxMlN4ZktsSWNaZTgySjVNRkFTcWVvcTZ0NGNCamlEVzgwRzFYMjRDU3YzbTJDQ3c?oc=5",
+     "ts": "2026-11-23T06:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "460d02c75df6",
+   "title": "Фанаты GTA 6 и Ocarina of Time воюют за оценки",
+   "first_seen": "2026-11-23T07:01:18Z",
+   "updated": "2026-11-23T07:01:18Z",
+   "items": [
+    {
+     "id": "460d02c75df6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Фанаты GTA 6 и Ocarina of Time воюют за оценки",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVhHSExZM2NwdklOdEhxTEhrb3YwRkF1TUdBTnJkXzNvYVVsNE1VX0dtNjRzVjJ4bzNuMlJfMzJIcnl6UGV4UXhfT1I3bkdZRjI4djF0TnRDUkdhQ1gyNFVCYXZWMEg3UjJOQ2VxS0FBSXVzLUFNSFZGblZCZndESGFYbzI0ZmozYWRTd1p1bWlRdVc2M1dra3FReWIyX3JFUDh4dnNJNHdnMTBueVRVMlM3TlEybXVZUnlMalRKVzhVMHZI?oc=5",
+     "ts": "2026-11-23T06:52:05Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "47631f0bd70f",
    "title": "Only in GTA 6 can an ALLIGATOR walk into a shop and refuse to leave until you FEED HIM with a hot dog 💀 Writer: Sol",
    "first_seen": "2026-11-23T06:51:01Z",
@@ -195230,72 +195319,16 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "c551754449ca",
-   "title": "GTA 6 Will Be a Test of Endurance",
-   "first_seen": "2026-11-16T07:01:15Z",
-   "updated": "2026-11-16T07:01:15Z",
-   "items": [
-    {
-     "id": "c551754449ca",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Root-Nation.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Will Be a Test of Endurance",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnNzSXBsWldHMGdFdVhvQmYyYkY5b1hGdVRwbjhUZ3ZWeUpUNmpJMWQ4N19CQlduWkpxMExBdU9ZT1ZJUXVrX0tNcmVjZjE5Y0hocXRHNFdqel8yTUtDcTExbnFuMzhCMXYwSkd5Qk01Q1NDWklWYktiSXVFUk1CRmRMVQ?oc=5",
-     "ts": "2026-11-16T06:52:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "64c506155de8",
-   "title": "GTA VI: новые подробности геймплея и игровых механик",
-   "first_seen": "2026-11-16T07:01:15Z",
-   "updated": "2026-11-16T07:01:15Z",
-   "items": [
-    {
-     "id": "64c506155de8",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Kursiv Media Узбекистан",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI: новые подробности геймплея и игровых механик",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYkNJbE9HTVNiOGFuNHM4eXM0VWJ1T2FWTzVkY2Zma2xubDQ5cVAzdVdoZ2VkWVdSY0kweTNrM1o1aENReDlCeEpWcVNZaXBaOS1OUGJjRWRnZGdrSHBfdWRFNTFnMDkzLVNWMXNHXzVLcndtdzlLMkt5YmZIcHZXNmZPcHlZV1o3eG9PVmxyc2JBZw?oc=5",
-     "ts": "2026-11-16T06:53:07Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "геймплей"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-23T06:51:01Z",
+  "last_run": "2026-11-23T07:01:21Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 99/100",
    "gnews_ru: 97/100",
-   "gamesbeat: 1/10",
+   "gamesbeat: 2/10",
    "vgc: 10/10",
    "insider_gaming: 7/10",
    "ign: 5/20",
