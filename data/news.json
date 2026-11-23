@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "0e5117263e58",
+   "title": "Телосложения NPC в GTA 6 делала отдельная команда",
+   "first_seen": "2026-11-23T06:20:50Z",
+   "updated": "2026-11-23T06:20:50Z",
+   "items": [
+    {
+     "id": "0e5117263e58",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Телосложения NPC в GTA 6 делала отдельная команда",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2RQSnk2TkJxdkJ2QnVCcl9tNUNza01xVG5MbFVHS2IyMWJHZFRfX0FoZmM5aHV3aUNQbGF1SjBOcmVNYkw2bEpOdVlLbDkyWUd4RlE0aTcyWmpHQV95RGNpOFBJSG41b2ZGRmdHR0tMYmdEODFGUzA2dG5yM2hWTkZLajlxVzdxSzA4bVZzTTRLLU93SC1KUWd5bVZWZWJiMGNFQ1JldF9oSXZIZ1lZ?oc=5",
+     "ts": "2026-11-23T06:16:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "2fdf073dcfda",
    "title": "Неуязвимый прохожий из GTA 6 стал главной загадкой первых дней после релиза",
    "first_seen": "2026-11-23T06:10:54Z",
@@ -195039,12 +195065,12 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-23T06:10:54Z",
+  "last_run": "2026-11-23T06:20:50Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/0",
    "gnews_en: 99/100",
    "gnews_ru: 98/100",
-   "gamesbeat: 1/10",
+   "gamesbeat: 2/10",
    "vgc: 10/10",
    "insider_gaming: 7/10",
    "ign: 5/20",
