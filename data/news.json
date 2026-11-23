@@ -1,6 +1,542 @@
 {
  "stories": [
   {
+   "id": "ab575ec4da79",
+   "title": "'GTA 6' players love its in-game memes",
+   "first_seen": "2026-11-23T08:40:52Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "ab575ec4da79",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' players love its in-game memes",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56Uy1rUDduSE1RSnpqOHU0YWJKNmhqWEN2ek05LXdFZ2FIX25kd2pFM2NxMjVVOTh6UlFRLUVOUWs5cGdkQXZpd3hveGkzTlZqdFVqZklJb1hHX1pib3AtVWFHV0xDYVk5V0RFVl96T3ctZw?oc=5",
+     "ts": "2026-11-23T08:33:43Z",
+     "summary": ""
+    },
+    {
+     "id": "0d8e64ec7ef5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable SEA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' players love its in-game memes",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XbzZaYy0xMjNNUHlfYkQtYWs3V2tuZzZDejBnZ1VINVFsaXlaYjUzNWRsU2s2YWllM2ZjdmNFSHg0NDUxYlU4WXRPNm13TzFpbWZwenhKZzRsWldqdnFvam0wYWFBVVMyR2JzNzkxbkZiRWJaVWNQWE9uem9kQQ?oc=5",
+     "ts": "2026-11-23T08:30:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Мемы из GTA 6 уже покорили игроков",
+    "summary": "Игроки активно обсуждают мемы из GTA 6, сообщает Mashable. По данным издания, шутки и сцены из игры стали вирусными в соцсетях.",
+    "idea": "Собираем самые смешные мемы из GTA 6 за минуту: кадры из игры и реакции игроков. Зрителю будет весело и узнаваемо.",
+    "hook": "Мемы из GTA 6 уже везде — вот что взорвало чаты.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T09:11:12Z"
+   },
+   "msg_id": 1971
+  },
+  {
+   "id": "e6f85af54a43",
+   "title": "'GTA 6' lets you use social media to find robbery targets",
+   "first_seen": "2026-11-23T08:31:34Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "e6f85af54a43",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' lets you use social media to find robbery targets",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjlPZm9MdHNKMk5jd3M3cWVsVzRBMXZZZk5YazAzcVpCZGMzc1d5c1h3QWtLaHFmQmFyVms4S2RqN1Q4Q3BSMVFRSjQ5YWxLZzQxd2d4b1B0akFSZmhqX1ZXQ1JFR2ozYWZMRWUtTThxdDk0SF9tVHE4MEZyUDRjVEZDOGg?oc=5",
+     "ts": "2026-11-23T08:28:55Z",
+     "summary": ""
+    },
+    {
+     "id": "2290aeab2fb0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable SEA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' lets you use social media to find robbery targets",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlRNT2Z0Zzc5TTJlVUw0bk5CcFpzQkVDd0djLUVmbURWWndHMy1tUEdKaGFjMmVaYkd2QkhhNUpwVG5IMnR6anRNdVdCQ0dZeUxoZW9tWFNJeWkwLVVUNUNQYW5YbkRNZU80YU9kc0pLV0ZwbGhuTExkakxkeHF6RUx3dl82Zlo5aTNDaFk2SmpLY2ZOR0g4?oc=5",
+     "ts": "2026-11-23T08:22:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В GTA 6 соцсети помогут искать цели для ограблений",
+    "summary": "По данным Mashable, в GTA 6 можно использовать соцсети, чтобы находить цели для ограблений. Об этом же пишет Mashable SEA. Официально Rockstar детали не раскрывала.",
+    "idea": "Короткая нарезка: герой листает телефон, ставит «лайк» на дом, получает метку на карте и идёт на дело. Зрителю интересно, как это работает в миссиях и можно ли на этом строить план.",
+    "hook": "Листай ленту — и выбирай, кого грабить в GTA 6.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T09:11:08Z"
+   },
+   "msg_id": 1970
+  },
+  {
+   "id": "a5ed119d63ed",
+   "title": "GTA 6 Made $3.79 Billion on Day One. Here’s Every Record It Broke",
+   "first_seen": "2026-11-23T05:40:50Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "a5ed119d63ed",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "NPR.BY",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI заработала $3,79 млрд за первый день и установила рекорд",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GUHJKekN2bXEtT0o2RllBS0hfaHFvY251d20xdFJIenAyZWZ2T1NPWHA0ZEY3OE10Q0MtWFF5N0FBWDhNcmF3LUZXSGczQXVV?oc=5",
+     "ts": "2026-11-23T05:33:40Z",
+     "summary": ""
+    },
+    {
+     "id": "1b4d7021d325",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NAG",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Made $3.79 Billion on Day One. Here’s Every Record It Broke",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnd0UmVtOFN6UUhWSWlMOHc2eUJfcW5zeF8xTnN0VEhvaGptMnZzM1dubm5jeC1aMklOeGM0OVAxY1F5SU9hWHVzZXR5WnR6bjZvUDBsbGRwVkZBNEh1cU1CMkw4Qzcyb3FaanQ1UDllT1ZDamRsMWwtZ2RDUGUySU13LTVpYjNOQkVkV2dnWWtKRDlUOV9GNE5tV3U?oc=5",
+     "ts": "2026-11-23T07:09:31Z",
+     "summary": ""
+    },
+    {
+     "id": "4d2434270450",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "tatlerasia.kz",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Продажи GTA VI побили мировой рекорд: $3,8 млрд за первые сутки после релиза",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZENwM0lmQ0ZrSVQ2ZTliSDREb2h4Z1kzUVJvdlZkRUhtTWhRUGVUVHE0Qlh3Vjk4QWNwRlFoQkZLdkg4aF8yZXY5bE9qa3A5bmVhTmM5RUt1dm1OY0xOVXZwa25VWjJ3WWstUGUyM3BSd25KUW0xWG1IYjFMYUNVZGozZy02ZndmTk1sdzF5cmlfSl9qUnBnUy0xU014M3pReldYWDVmQnZoZU4yUWkxNjFJN2U0YUNwTXBSbA?oc=5",
+     "ts": "2026-11-23T07:27:34Z",
+     "summary": ""
+    },
+    {
+     "id": "c83fea0e5f0b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BusinessToday Malaysia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Breaks Entertainment Launch Record With US$3.8 Billion In Sales",
+     "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPdGV0TENWMWhsa1gxek9XT2hxVnRvZVZQN3FtV2dwVjhHdEkzOGNua3gwc1hLOHlQdGMxRmE1Y2VFdXBiN1pmZFlTWGtBaVRPMUxJLUZuY3JxMVp1WVlRb3JkenVEUGFGcmI0ZWgyVWQ3SGVwYlBUc3BWZ2FBcGQxb05Jc3RqQkVONjRJMlc5azR1aWYtNmJjVkdiVHZaYm5ldGZOUm5meWlQSWw4eWVvWHY1STRsNnYzT3ZxQXg5T0JkcEx0ZHFDOHRRNWJzc2ZZd1V6MUJNWlVMTUY3eUU2SVYwNFE1azV5ODdfa3pyM0x0cnZ6cEh0SE9ERFdLcE5oeWltYmROWjZyQTFqbjMzendUdXpkTFY4MDBaS0NJOG81WktVQ3VvS0kzLURGZmRTeWJJcE0wWlBLdU9STzRSQU9WYW1tZFJy?oc=5",
+     "ts": "2026-11-23T07:37:14Z",
+     "summary": ""
+    },
+    {
+     "id": "d7e63bd14803",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PRESS Insider",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI generates record $3.79 billion in first-day sales, Take-Two says",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdTFORk94ckM3TGNUblNYeXc0UlR6LWEwMUtJVTB0TTFWWGJGUU05czhFXzlwSG53RXF3SlVYZUxaZXFnWGNiNXY1ZTFjZ1c2ajlHZ0FFMlhpY1hEY1JkdDRtekEyLWlwTGYxQU5rWEwwaWIwOGV0MVB4OWs4U3Jrb3hpc3dWZGtCdTFlMnRSeGtLbTlBYnc?oc=5",
+     "ts": "2026-11-23T08:10:18Z",
+     "summary": ""
+    },
+    {
+     "id": "623b2fcafdfc",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Канобу",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA VI заработала $3,79 млрд за первые сутки и установила абсолютный рекорд индустрии развлечений",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY0pmM1BreVNNSFlobHVlMjNtMzdKbEZrQkhhZmROTlgzVmNnRjI0T01jLVhWZEJHRW83NGZvX2NmaUF1UlZiNENKUjJidEZnZEZiclBWVC03aWpoRWE4Um1TQjlsd2ppVENKTXdLeWpYRWo1Z0JxU2VnQUdxSERHeHl4TWdHZ3U4anpoUzNLVzlWQTF3NXRBWFlxbm5RTW0wSlZHMkxMQXFVczJPZlJHTC00UEpHYWZXZzJhT2NiT3VWbk9GMHA2ejJB?oc=5",
+     "ts": "2026-11-23T06:27:14Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two",
+    "цена/издания"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "4f381a90898a",
+   "title": "😀 Бонус Vintage Vice City Pack, который давали за предзаказ, теперь можно купить ОТДЕЛЬНО — его цена всего 5 баксов За это вы получите: 😀 Vapid Stanier 1955 год",
+   "first_seen": "2026-11-22T12:10:46Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "4f381a90898a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The New York Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How Miami Heat’s GTA VI Vice City night sparked unprecedented $1.5M merch frenzy",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1B0eGlQWmZnd3BpMWgteHdhSHh3amdjVXRBMzQ4WHo5Q0VqWlRkYUlYY3NCN1c4Z1Itc2dBbG8yVXZPRXAyQ0lRc0V2S1VpcnVNU1ZmTk54Q2FHVEJFdjRKTmJfTm5WYzRndTE2aGpxR3BqZXZkcTFaNldNWGxHaVlXN1FUOThUSF9YeWtDZ2lrZjA2dzJZUjRiMlg5MzM5emc?oc=5",
+     "ts": "2026-11-22T12:00:19Z",
+     "summary": ""
+    },
+    {
+     "id": "a6d40393c53b",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "😀 Бонус Vintage Vice City Pack, который давали за предзаказ, теперь можно купить ОТДЕЛЬНО — его цена всего 5 баксов За это вы получите: 😀 Vapid Stanier 1955 год",
+     "url": "https://t.me/gta6deluxe/2332",
+     "ts": "2026-11-23T09:01:59Z",
+     "summary": "😀 Бонус Vintage Vice City Pack, который давали за предзаказ, теперь можно купить ОТДЕЛЬНО — его цена всего 5 баксов За это вы получите: 😀 Vapid Stanier 1955 года и отдельный гараж 😀 Гараж с оружейным шкафом и местом для сдачи краденого 😀 Винтажные костюмы и причёски для Джейсона и Люсии 😀 Эксклюзивную раскраску оружия в стиле Vice City 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "e1fbbb1709dc",
+   "title": "Около тысячи сотрудников Rockstar работают в студии уже больше 10 лет – это больше 20% штата",
+   "first_seen": "2026-11-22T11:40:51Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "e1fbbb1709dc",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Около тысячи сотрудников Rockstar работают в студии уже больше 10 лет – это больше 20% штата",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTU5NbHNLS0ttblRlREo1ZjhKUDZDeFgwaWxjQUt2d1VFS2F5TVRvbEozSkRNbkpJbXNzUUZ4YzI2VnpjQzBNV1BQWmduSUpiNTMzTmxydnNMNk4yX0RmUjhJRWVZUVBGVlJrSmw0by1oUnQ0WUZIRGpzcVNBcS1xTzhzNW1NTUNOSlVvZlRJSVRBQURhYnVDaUVqVDNCMW1HUVp1ZWlmaE05M1N6MVdNRTlhbmYzUnhOZmREZTRRd1VjLUE?oc=5",
+     "ts": "2026-11-22T11:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "ad571b300f0c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Секрет успеха GTA VI: тысяча сотрудников Rockstar работают в студии уже больше 10 лет",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQlY3NlRTbEs4MzlublNVNnJEdklKWnFBWi1ObFAtS1lEWGNQc1lBQWgtTl9US1RuUW5QTGNuVDdRcll6LWdvbUFXM1ZsS2NFZ2RXS2Vfc0xERm54azhLLVFCc29qSlJ1ODhULWZGaHRnY2tpQ2l0RWNzY1dFM0NsYUxkd0kxbDV2TWlza2R2VGc5d3JLa1kzQ1E4WVVYd3VjdklNa0swRUdyX1lkM2ZrOUxQemRiS1VNUmNEWHRDYVB2MDjSAcgBQVVfeXFMTllwbXdLT0dKLUlETXh5d0dXdVZ1UEtmdmpGVG8tNXlRRExwS0Y3LU83eFRvRm1IcG5KdUhhaW43NWd3UHBjRW1hR2tUYlVwMGJhTEZFZE42M3NXaG16WEE1dXh1NGZPbWswZlhuSWJ4b0drcnh1MTZuSVdIZ1dYLVBWeHRIQzBTWXM2MGxONmUyQlF5QmY3R3lEYUNjSDN5TUhYdUVLa3h4aUFyWjlCdTd6VnJ0UjlCYlhZaWxIX21GOUxNbGdJYkc?oc=5",
+     "ts": "2026-11-23T09:02:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "80a05b19e279",
+   "title": "GTA 6 включает множество пародий на комиксы DC, включая Бэтмена, Джокера и других",
+   "first_seen": "2026-11-23T09:11:04Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "80a05b19e279",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "EGW.News",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 включает множество пародий на комиксы DC, включая Бэтмена, Джокера и других",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2FKSmR2RmtiZVQtZUppVkZfMm5ndld6bnJpNlZCdHlYS3NyRmI2OWFreHBGNVFqakpIRzRIcmZkTmt0M2RieVVUTzdjclNZWk9UdkFyM25MS3NiYnJsUUtCNnloeVhMUTQtckp4XzBrYVBaVHNSTlVJMk5RbFRnWnpKYVEyS0JNUVc1b1Y2aUNYODBjZjZWZTdGZjJCYmpw?oc=5",
+     "ts": "2026-11-23T08:05:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f9574a8c143d",
+   "title": "GTA 6 finally reveals Jason and Lucia’s ages, and fans are already picking apart the details",
+   "first_seen": "2026-11-23T09:11:04Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "f9574a8c143d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mundo Deportivo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 finally reveals Jason and Lucia’s ages, and fans are already picking apart the details",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcE51YWxhUTN0alRiQU92T0lYcEFmbnh5dy1MSWxYWUg2NjhkUXdoZ3gwbVF4cFAwdTZvMTV1cFl4VDBrMWlkd3gwVjlHQnZpcmR1Mk1NZFZoOEJ1ME9Da0pHWWl4WkNXMDJLMGdqTlhsbW5NZHVQRmc4dkEzd0FPZVJKREwtamExNmZBNVVocXhib1QxdlFMWFprb0R2Skw0UW1iOXpKYkhYaFZRSU9KcXptMW9wNnFvUF9ZZ05HR2ZycURwVVgzZG53RGhHaFFzY1RubE5mdG5rdDYzUFM1bWUwVXPSAfIBQVVfeXFMTzNpdXVzUWdERW9XdTdrQ3A0Y1RXV1dzalY1UGk0bkpNdWxPTmFFc1hWTklQaTJFVjk4OW5ITllXNXdUVXhBNkFXc3BGLXFvOGJWc3ZhVkpraFVCUlRCWmltNUhFWm53d2hhOGtaU0p4WmxhTHZnWXFnQjE4LU1JMHN4ZkZfbzBWUkt4bGJRVWdjX3k2OWl4dFQ4SHBXdUZUdjdwMDVQVTlEaE8xY0l3bnZrYjBiazJQUGQ3b2thMUpJRVBBbXQ5SXJXQmd5VGZwU2sxRlB0ZndDRkp4bHM4eFp0MFZIc3dPWlFxajBrTjJ6NWc?oc=5",
+     "ts": "2026-11-23T08:36:05Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "e08eb49ff1ec",
+   "title": "GTA VI: оккультные ритуалы и сатанинский культ вызывают вопросы",
+   "first_seen": "2026-11-23T09:11:04Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "e08eb49ff1ec",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI: оккультные ритуалы и сатанинский культ вызывают вопросы",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ta3hTdmRYNjRTczRzQy03OUZyV1MwaFg4bjBzRDdacVhtajZSWXFmOXRRQ1ZNVU1UNFdWUGViMTY3TGRfb01BeE9OcTBPeTRHVlM3c0NaMkZSS3ZvSkI5aXdud01WTmVXUWpuYjFvNFZXbUdwU3hj?oc=5",
+     "ts": "2026-11-23T08:47:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "0d9d0fb45b37",
+   "title": "GTA VI: The Album is out now with Justice, Fred again.. and a Daft Punk production",
+   "first_seen": "2026-11-23T09:11:04Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "0d9d0fb45b37",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "We Rave You",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI: The Album is out now with Justice, Fred again.. and a Daft Punk production",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLUpSYlgycGYzV1NJT2tQMDUyWTlsZVdwbXVoMmMxcHoyM3l6NVJELUtqVmtHbUNLQ2ZBVG9TeElEazExenFabXJVZ1luZjdwbWJ2OFVLSUFDQ25LUy1LcnZleVV4Z0hTTmNteDJiMFZIUUpuMHpraXQza1hUUEVSelRnQzI5SGx2dVRxRA?oc=5",
+     "ts": "2026-11-23T08:50:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c73f33a79ddc",
+   "title": "Дуров* не нашел Telegram, SHAMAN не играл ни разу: GTA 6 свела мир с ума",
+   "first_seen": "2026-11-23T09:11:04Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "c73f33a79ddc",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "URA.RU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Дуров* не нашел Telegram, SHAMAN не играл ни разу: GTA 6 свела мир с ума",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ydl9mV3ppTm0tWG5TdGVmejhGWE9wY2FWa0FYdGtrbHhXazhNZlRXamNaS2hnSUJrSHR5c0dOdHF4MVN4UkdfcllxR2o?oc=5",
+     "ts": "2026-11-23T08:53:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5a266bdd89e2",
+   "title": "Споэльстра одобрил коллективу «Майами» погружение в GTA 6",
+   "first_seen": "2026-11-23T09:11:04Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "5a266bdd89e2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "StavkiPrognozy.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Споэльстра одобрил коллективу «Майами» погружение в GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeG44ZFNMWEJNM2ZJdTJQZVdPNW02NldNa2VrdW1MZ1EyN2Q1anhjQmVPNmJSQ2FDejVCcVpBajktTVBQOW0ycGNfa0tNY01tNTNfcER4VUlTYVQtNF9XY1RNS3RPOFVHNERFU3V2TnpZSVloNTZwUzJMcTRnLUpkSENQVWJOODNrQl9pZTNFQ3dTTVo1bWo1elo3NjVOQ0FkaUE?oc=5",
+     "ts": "2026-11-23T09:01:09Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d265d3e88343",
+   "title": "How GTA 6 is powering a gaming café revival in Mumbai - CNBC TV18",
+   "first_seen": "2026-11-23T09:11:04Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "d265d3e88343",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "LinkedIn",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How GTA 6 is powering a gaming café revival in Mumbai - CNBC TV18",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWkVJLVE3TERBUEZoeEdnN2VBcVd5c2pKemJqV0tGZ0Q5TEJGZWRXSi1rSzZ6SWxndm4yY1BPa2Y4TFlURjNSaV9IZlJ2R0F3OHJNLVozMjRfTFVHX3d0MG0xNlkzbjE0VXZaUUktZGs0aHVOVmRyLUVESEdodWlEM2JYald1WmxOZnFRRWxMbGdRMERnZEg3TGhtdXkxSzY4NkxiRGc0TzNFN2N2TzBFMkNvbF8zOUFhejdOYWJEakM?oc=5",
+     "ts": "2026-11-23T09:01:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b878abb5c6da",
+   "title": "GTA 6: How to Get into the Airport",
+   "first_seen": "2026-11-23T09:11:04Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "b878abb5c6da",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "DualShockers",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: How to Get into the Airport",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvOXhNSFZRZXRlczVYb2R6UFpmeXhmcHh4MVFwbW50Vmdyclc2b2k2VHVnV0MtUlE4bEY2QWU3MzVUMUE5dS1QWU9pRHd6cHY4TksxVnhtYmQ4aEw4QXhpRlRiMFJSbzA?oc=5",
+     "ts": "2026-11-23T09:03:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4be2c8e041d0",
+   "title": "Из-за GTA VI в ОАЭ подняли панику на государственном уровне",
+   "first_seen": "2026-11-23T09:11:04Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "4be2c8e041d0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "rosbalt.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Из-за GTA VI в ОАЭ подняли панику на государственном уровне",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnhPVldwT0dhZkNMOGlYNWNtWlhGdDNwaXBPYk4xbUxrYVFqaDZOYy0yUjVYREhjdlp1dEIwTXlnczl6QnBEMjF4SXdKQy1Sc1ZlQUFOZ0JfakVROUtyazNlM2h0UEFSNllCbGpEQ1dSWTBVUm9NVTlvYmcxNzN1bWVSS3YwX2lFWGVGbXlhdHVGMDJGZGdTZGdMbXJmajN6UndYdEtiMjdrVDA?oc=5",
+     "ts": "2026-11-23T09:06:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "eee8f13e4409",
+   "title": "Naughty Dog’s Michael Barclay Says GTA 6 Astonished Him",
+   "first_seen": "2026-11-23T09:11:04Z",
+   "updated": "2026-11-23T09:11:04Z",
+   "items": [
+    {
+     "id": "eee8f13e4409",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mezha.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Naughty Dog’s Michael Barclay Says GTA 6 Astonished Him",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnZrX1hpdThSbXpmTXY1RUFwXzd4dmVTbGdtNUE5Vm4zQ2hCR0MwU25ZY3RQRmJ3enZ4RlpQcmE0YXZtbEFZV1hWZU1HaE0yMXpoSzZqSWlGWmg3SENfWHR1b3p0SjNLbS02Ym1yb09IcDlXTDRtQWtGTHlfdDI1X3ZjNzdBWGM?oc=5",
+     "ts": "2026-11-23T09:08:03Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "85025895aa6c",
    "title": "GTA 6 review bombed on MetaCritic - and it's sadly exactly why you think",
    "first_seen": "2026-11-22T12:20:48Z",
@@ -238,32 +774,6 @@
      "title": "How to finish Pick Up Groceries in GTA 6: any 3 items will do",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUE05SlN2V0tQNDEyNExWQW9xQ2NGWEVJR29IS1ZrYjJNOG1CVXRBc0RMRnM5eTdab1d2VlBKd05BTHNnR0ZyQTVGYzBSRmhXR05KOGxQcHF2T1ZsdUlIdG9zdWZsbjFyUjdMR2dUUFZfSmpJSndFaWVDTWdSQVV2eVFZVDV0Z3c?oc=5",
      "ts": "2026-11-23T08:31:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ab575ec4da79",
-   "title": "'GTA 6' players love its in-game memes",
-   "first_seen": "2026-11-23T08:40:52Z",
-   "updated": "2026-11-23T08:40:52Z",
-   "items": [
-    {
-     "id": "ab575ec4da79",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6' players love its in-game memes",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56Uy1rUDduSE1RSnpqOHU0YWJKNmhqWEN2ek05LXdFZ2FIX25kd2pFM2NxMjVVOTh6UlFRLUVOUWs5cGdkQXZpd3hveGkzTlZqdFVqZklJb1hHX1pib3AtVWFHV0xDYVk5V0RFVl96T3ctZw?oc=5",
-     "ts": "2026-11-23T08:33:43Z",
      "summary": ""
     }
    ],
@@ -751,32 +1261,6 @@
    "status": "new"
   },
   {
-   "id": "e6f85af54a43",
-   "title": "'GTA 6' lets you use social media to find robbery targets",
-   "first_seen": "2026-11-23T08:31:34Z",
-   "updated": "2026-11-23T08:31:34Z",
-   "items": [
-    {
-     "id": "e6f85af54a43",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6' lets you use social media to find robbery targets",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjlPZm9MdHNKMk5jd3M3cWVsVzRBMXZZZk5YazAzcVpCZGMzc1d5c1h3QWtLaHFmQmFyVms4S2RqN1Q4Q3BSMVFRSjQ5YWxLZzQxd2d4b1B0akFSZmhqX1ZXQ1JFR2ozYWZMRWUtTThxdDk0SF9tVHE4MEZyUDRjVEZDOGg?oc=5",
-     "ts": "2026-11-23T08:28:55Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "c1212a142667",
    "title": "GTA 6 Feng Shui mission guide: moving furniture with Cal and two arcade games you can’t win",
    "first_seen": "2026-11-23T08:21:03Z",
@@ -826,87 +1310,6 @@
    "score": 50,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a5ed119d63ed",
-   "title": "GTA 6 Made $3.79 Billion on Day One. Here’s Every Record It Broke",
-   "first_seen": "2026-11-23T05:40:50Z",
-   "updated": "2026-11-23T08:21:02Z",
-   "items": [
-    {
-     "id": "a5ed119d63ed",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "NPR.BY",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI заработала $3,79 млрд за первый день и установила рекорд",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GUHJKekN2bXEtT0o2RllBS0hfaHFvY251d20xdFJIenAyZWZ2T1NPWHA0ZEY3OE10Q0MtWFF5N0FBWDhNcmF3LUZXSGczQXVV?oc=5",
-     "ts": "2026-11-23T05:33:40Z",
-     "summary": ""
-    },
-    {
-     "id": "1b4d7021d325",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NAG",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Made $3.79 Billion on Day One. Here’s Every Record It Broke",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnd0UmVtOFN6UUhWSWlMOHc2eUJfcW5zeF8xTnN0VEhvaGptMnZzM1dubm5jeC1aMklOeGM0OVAxY1F5SU9hWHVzZXR5WnR6bjZvUDBsbGRwVkZBNEh1cU1CMkw4Qzcyb3FaanQ1UDllT1ZDamRsMWwtZ2RDUGUySU13LTVpYjNOQkVkV2dnWWtKRDlUOV9GNE5tV3U?oc=5",
-     "ts": "2026-11-23T07:09:31Z",
-     "summary": ""
-    },
-    {
-     "id": "4d2434270450",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "tatlerasia.kz",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Продажи GTA VI побили мировой рекорд: $3,8 млрд за первые сутки после релиза",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZENwM0lmQ0ZrSVQ2ZTliSDREb2h4Z1kzUVJvdlZkRUhtTWhRUGVUVHE0Qlh3Vjk4QWNwRlFoQkZLdkg4aF8yZXY5bE9qa3A5bmVhTmM5RUt1dm1OY0xOVXZwa25VWjJ3WWstUGUyM3BSd25KUW0xWG1IYjFMYUNVZGozZy02ZndmTk1sdzF5cmlfSl9qUnBnUy0xU014M3pReldYWDVmQnZoZU4yUWkxNjFJN2U0YUNwTXBSbA?oc=5",
-     "ts": "2026-11-23T07:27:34Z",
-     "summary": ""
-    },
-    {
-     "id": "c83fea0e5f0b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BusinessToday Malaysia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Breaks Entertainment Launch Record With US$3.8 Billion In Sales",
-     "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPdGV0TENWMWhsa1gxek9XT2hxVnRvZVZQN3FtV2dwVjhHdEkzOGNua3gwc1hLOHlQdGMxRmE1Y2VFdXBiN1pmZFlTWGtBaVRPMUxJLUZuY3JxMVp1WVlRb3JkenVEUGFGcmI0ZWgyVWQ3SGVwYlBUc3BWZ2FBcGQxb05Jc3RqQkVONjRJMlc5azR1aWYtNmJjVkdiVHZaYm5ldGZOUm5meWlQSWw4eWVvWHY1STRsNnYzT3ZxQXg5T0JkcEx0ZHFDOHRRNWJzc2ZZd1V6MUJNWlVMTUY3eUU2SVYwNFE1azV5ODdfa3pyM0x0cnZ6cEh0SE9ERFdLcE5oeWltYmROWjZyQTFqbjMzendUdXpkTFY4MDBaS0NJOG81WktVQ3VvS0kzLURGZmRTeWJJcE0wWlBLdU9STzRSQU9WYW1tZFJy?oc=5",
-     "ts": "2026-11-23T07:37:14Z",
-     "summary": ""
-    },
-    {
-     "id": "d7e63bd14803",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PRESS Insider",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI generates record $3.79 billion in first-day sales, Take-Two says",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdTFORk94ckM3TGNUblNYeXc0UlR6LWEwMUtJVTB0TTFWWGJGUU05czhFXzlwSG53RXF3SlVYZUxaZXFnWGNiNXY1ZTFjZ1c2ajlHZ0FFMlhpY1hEY1JkdDRtekEyLWlwTGYxQU5rWEwwaWIwOGV0MVB4OWs4U3Jrb3hpc3dWZGtCdTFlMnRSeGtLbTlBYnc?oc=5",
-     "ts": "2026-11-23T08:10:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two",
-    "цена/издания"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -17425,34 +17828,6 @@
    "status": "new"
   },
   {
-   "id": "4f381a90898a",
-   "title": "How Miami Heat’s GTA VI Vice City night sparked unprecedented $1.5M merch frenzy",
-   "first_seen": "2026-11-22T12:10:46Z",
-   "updated": "2026-11-22T12:10:46Z",
-   "items": [
-    {
-     "id": "4f381a90898a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The New York Times",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How Miami Heat’s GTA VI Vice City night sparked unprecedented $1.5M merch frenzy",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1B0eGlQWmZnd3BpMWgteHdhSHh3amdjVXRBMzQ4WHo5Q0VqWlRkYUlYY3NCN1c4Z1Itc2dBbG8yVXZPRXAyQ0lRc0V2S1VpcnVNU1ZmTk54Q2FHVEJFdjRKTmJfTm5WYzRndTE2aGpxR3BqZXZkcTFaNldNWGxHaVlXN1FUOThUSF9YeWtDZ2lrZjA2dzJZUjRiMlg5MzM5emc?oc=5",
-     "ts": "2026-11-22T12:00:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
    "id": "5578ccc873fa",
    "title": "ElAnalistaDeBits сравнил GTA 6 и GTA Vice City — как изменилась графика за 24 года",
    "first_seen": "2026-11-22T07:20:47Z",
@@ -17801,32 +18176,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e1fbbb1709dc",
-   "title": "Около тысячи сотрудников Rockstar работают в студии уже больше 10 лет – это больше 20% штата",
-   "first_seen": "2026-11-22T11:40:51Z",
-   "updated": "2026-11-22T11:40:51Z",
-   "items": [
-    {
-     "id": "e1fbbb1709dc",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Около тысячи сотрудников Rockstar работают в студии уже больше 10 лет – это больше 20% штата",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTU5NbHNLS0ttblRlREo1ZjhKUDZDeFgwaWxjQUt2d1VFS2F5TVRvbEozSkRNbkpJbXNzUUZ4YzI2VnpjQzBNV1BQWmduSUpiNTMzTmxydnNMNk4yX0RmUjhJRWVZUVBGVlJrSmw0by1oUnQ0WUZIRGpzcVNBcS1xTzhzNW1NTUNOSlVvZlRJSVRBQURhYnVDaUVqVDNCMW1HUVp1ZWlmaE05M1N6MVdNRTlhbmYzUnhOZmREZTRRd1VjLUE?oc=5",
-     "ts": "2026-11-22T11:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -196160,22 +196509,22 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-23T09:01:13Z",
+  "last_run": "2026-11-23T09:11:12Z",
   "last_log": [
    "rockstar_site: 0/0",
-   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
-   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
+   "gnews_en: 98/100",
+   "gnews_ru: 96/100",
    "gamesbeat: 1/10",
    "vgc: 10/10",
-   "insider_gaming: 7/10",
+   "insider_gaming: 6/10",
    "ign: 7/20",
    "eurogamer: 8/100",
    "dexerto_gta: 10/50",
-   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
+   "rockstarintel: 6/10",
    "gtaboom: 30/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 14/14",
-   "tg_gta6deluxe: 14/14",
+   "tg_gta6deluxe: 15/15",
    "tg_gta6_m: 9/12",
    "tg_gta6newsdaily: 2/19"
   ],
