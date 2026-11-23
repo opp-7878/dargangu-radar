@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "63ec9c27b112",
+   "title": "Controversial windfall for Miami: GTA VI reopens debate over crime and protecting minors",
+   "first_seen": "2026-11-23T00:10:48Z",
+   "updated": "2026-11-23T00:10:48Z",
+   "items": [
+    {
+     "id": "63ec9c27b112",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IslanderNews.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Controversial windfall for Miami: GTA VI reopens debate over crime and protecting minors",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPLWlwNDAzU2djby1NSHRYQ29JM2U0d2pZX3BzSU52eVlveFJ0b3lucVl4aFY5YXotSldnQUh1SWNkWHFiU3BjWGZmeWFVOWZtcFp4RUpJcjJuM2RaZnNqUENELXFWQ0xXQmU3bXk3cmR6Z1gwZ1RKdXNDZnhyQ3l2NE5VZzhkTi15Y3FDbFpiWEhoNVQwYk1pOTJTTElvYTJBX0RwdkdFS1FvNjQxbl9YcWcxVE9hRWpRS0QxY0h3Z1NRQnQ0bnRNM3NBV2RvS3A1UEI4S3BTaHAyRHVXYjNRTXM2TjA5SXI5ZVF6RE94cFFUYk40eVVSVUNmckJpT3BtSjhxdGxtVQ?oc=5",
+     "ts": "2026-11-22T23:23:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f9197dba85a8",
+   "title": "Dessert: GTA 6 features a Cantopop classic",
+   "first_seen": "2026-11-23T00:10:48Z",
+   "updated": "2026-11-23T00:10:48Z",
+   "items": [
+    {
+     "id": "f9197dba85a8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Table.Briefings",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Dessert: GTA 6 features a Cantopop classic",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFlfRllZbmJFNHZ3UVQ1NVI1a1hLMU5vY2dxR2UtdnpFSjdiNHBWS2dWbTBHWURBWFpsbUJRYTFlWTVmbEp6SXF0cXl1RmNhX1VBWDd1RWpHUF9KdGxZeHVjSFRsSVk1WnFNeTBwaS1tNVYtZlJGdkthbENGMFJfRUFuaFU?oc=5",
+     "ts": "2026-11-22T23:58:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b3287278713d",
+   "title": "GTA 6 loosens the mission leash but loses the replay menu, GameRant says",
+   "first_seen": "2026-11-23T00:10:48Z",
+   "updated": "2026-11-23T00:10:48Z",
+   "items": [
+    {
+     "id": "b3287278713d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Digg",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 loosens the mission leash but loses the replay menu, GameRant says",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQeVdqOFE0WnJIeG5YNmdBYzlWV3BRWGw1OEIwajhYSUswOXJ3Sm9iWGllX0tJcXNULUFDdWhhblVZdU1sc3Uw?oc=5",
+     "ts": "2026-11-23T00:00:09Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "50d4cf6a4be9",
    "title": "GTA 6 Ride or Die walkthrough: Where to find the DWNPLY sneakers and get them for free",
    "first_seen": "2026-11-22T23:50:47Z",
@@ -195100,11 +195178,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-23T00:01:21Z",
+  "last_run": "2026-11-23T00:10:48Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
-   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
+   "rockstar_site: 0/0",
+   "gnews_en: 99/100",
+   "gnews_ru: 98/100",
    "gamesbeat: 2/10",
    "vgc: 10/10",
    "insider_gaming: 7/10",
