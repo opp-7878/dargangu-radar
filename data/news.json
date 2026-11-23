@@ -1,6 +1,151 @@
 {
  "stories": [
   {
+   "id": "44c1ef72952b",
+   "title": "Bill Maher roasts GTA 6 with brutal joke about ICE",
+   "first_seen": "2026-11-23T05:50:51Z",
+   "updated": "2026-11-23T05:50:51Z",
+   "items": [
+    {
+     "id": "44c1ef72952b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Independent",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Bill Maher roasts GTA 6 with brutal joke about ICE",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONU1rT0Y1WmNTS3pSaFJCOEJiLTJrLU1vTXgwd0gtcURsWEVKbTBaLXFsNnNxN2lOV0R2UGdIOFkxYndMWndZQWk1STdRNlRxbkJfekdOV2E5bHVLMVNRZDk2bFI0MUlUaW8zR091RG5sODJNMnIyM21FcUhQTEcxVWxLSFR1UDFaM1BzSUVoZW03WE1Sb3gwVDVxSWM?oc=5",
+     "ts": "2026-11-23T05:41:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "faed995f6895",
+   "title": "GTA 6 Strip Clubs: Locations, Prices and Private Dances",
+   "first_seen": "2026-11-23T05:50:51Z",
+   "updated": "2026-11-23T05:50:51Z",
+   "items": [
+    {
+     "id": "faed995f6895",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Strip Clubs: Locations, Prices and Private Dances",
+     "url": "https://www.gtaboom.com/gta-6-strip-clubs-locations-prices-and-private-dances-d5b0",
+     "ts": "2026-11-23T05:44:33Z",
+     "summary": "Delights Cabaret is the cheapest strip club in GTA 6, with private dances around $40 versus about $300 at NINE1NINE and $1,000 at Jack of Hearts."
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Стриптиз в GTA 6: цены на приватные танцы",
+    "summary": "По данным GTA Boom, в GTA 6 будут три стриптиз-клуба с разными ценами. Самый дешёвый — Delights Cabaret, где приватный танец стоит около 40 долларов.",
+    "idea": "Сравним цены на приватные танцы в трёх клубах Вайс-Сити за 30 секунд. Зрителю будет интересно узнать, где сэкономить, а где — пустить пыль в глаза.",
+    "hook": "Где в GTA 6 самый дешёвый приватный танец? Сравниваем цены.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T05:50:59Z"
+   },
+   "msg_id": 1960
+  },
+  {
+   "id": "f5814d9668ef",
+   "title": "Энтузиасты запустили оригинальные шейдеры консольной версии GTA VI на видеокарте ПК",
+   "first_seen": "2026-11-22T22:01:16Z",
+   "updated": "2026-11-23T05:50:50Z",
+   "items": [
+    {
+     "id": "f5814d9668ef",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Энтузиасты запустили оригинальные шейдеры консольной версии GTA VI на видеокарте ПК",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWQxc1VRajhQcnMwb1JOa0tPOURlMmVKaXBnWGxsRFJFVlJDTXF3MEYwSE9rZ2FEVXhudi1Ha0thQ19oaWhfcmRXRHYxSWxpd1VUeG9SS1Jya0xhNXpnYW5wT3RvYU92VUhDRzMtMDlqOVBaUFZNSzZGZzk3RzQ4ZlFFcGM4U0JHYWNhUDRUXzkyQUpDc2FQbU5pU0FodEJmVUY0YlA0X3FLU3JpWnpxT0R3?oc=5",
+     "ts": "2026-11-22T21:47:26Z",
+     "summary": ""
+    },
+    {
+     "id": "005367dd8182",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Для запуска неофициальной ПК версии GTA 6 потребуется Ryzen 5 5600X и RTX 30 с 8 ГБ памяти",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU21sRlVwRzVhV1dCTnVXeVFxb0MyQ204ZWlGaTZLSUtXTFZMOU5kRG5vQmZ0Z1lMY25YQ25lZHZwalJIbkVjdXB5M3Qza3hyR09oWHJhMW5oWE9CM1M3R0JnVTNPRUd1c1BWaFc4NFZlekdsbXhHWklQX0NITWpxWmZ4eGZMMThta0EtN1Jzc0Jac1JPZFJJMHp4djFiSTg2R045NTBpcmdySThuQ2RweXFBS0tqX0g0d1YxcTkwemc?oc=5",
+     "ts": "2026-11-23T03:50:00Z",
+     "summary": ""
+    },
+    {
+     "id": "4fd4fe374978",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "SecurityLab.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 на ПК: почему Rockstar задерживает порт и чего ждать от компьютерной версии",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QRkRsMmZtemRfdGg2SVdveE5lOGhiMmJDdW15blZSaHpZTGJRTHJGQmZhMTQ1SlBCSFN5cm9XSDZmTzExaWZBOTJyVWJYVlVRdjNUTUYwUDBhOFBCajg0MzhMRUY3U2dlLWlkNmdSY2Ridw?oc=5",
+     "ts": "2026-11-23T05:38:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 63,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "4fa51b0f24ac",
+   "title": "I spent a day playing ‘GTA VI’ at a friend’s house. It felt like being a kid again",
+   "first_seen": "2026-11-23T05:50:50Z",
+   "updated": "2026-11-23T05:50:50Z",
+   "items": [
+    {
+     "id": "4fa51b0f24ac",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GQ Australia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I spent a day playing ‘GTA VI’ at a friend’s house. It felt like being a kid again",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU0hYQVg3VVMwOEVqZGZBMXUwZFR4b280bWhkRlVxaDNpTE16Vjh3aFdDaUpRU3ZRdE5EUzU1ZXd2OTZfUEpjUDhOdVhVVUJXV2NjcFYtUG1CNEhSQ29ORF9qM21SZkJqaXA4Q0k4MmlyMnB5WGlzRW5veFh5WDZrZXVKZzdWOTFXeXpOQUFKN1dDbHBaRUwySERuN2p3bkllNkxYSjBYZGc5U3lhQlpF0gG0AUFVX3lxTE11LTRrVXVRYWpvVHZ6SnBPc0xNdE03N0N4ZmZXdDAxYUhsb2ZOSFB6WElmNjdrQU9GME9UdkttSEI1THRqMTNrOUVjMWVvakEtZTFuamZQMXNfWDEtOGhsU3RhUFBqV1pVV3RRc0VKMnFfTnBNdmNqRXdvd0Y2YjVPa05GNVpMRkQ2amlsYXlwNF9aNVg4eldORFFRUTk5c0Zub1V6YWlidXc4elhFOHhXaldCMQ?oc=5",
+     "ts": "2026-11-23T03:10:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "9e92d552262a",
    "title": "Rockstar сделала первого небинарного персонажа GTA 6 неуязвимым для игроков",
    "first_seen": "2026-11-23T05:40:50Z",
@@ -838,47 +983,6 @@
    "score": 50,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f5814d9668ef",
-   "title": "Энтузиасты запустили оригинальные шейдеры консольной версии GTA VI на видеокарте ПК",
-   "first_seen": "2026-11-22T22:01:16Z",
-   "updated": "2026-11-23T04:01:15Z",
-   "items": [
-    {
-     "id": "f5814d9668ef",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Энтузиасты запустили оригинальные шейдеры консольной версии GTA VI на видеокарте ПК",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWQxc1VRajhQcnMwb1JOa0tPOURlMmVKaXBnWGxsRFJFVlJDTXF3MEYwSE9rZ2FEVXhudi1Ha0thQ19oaWhfcmRXRHYxSWxpd1VUeG9SS1Jya0xhNXpnYW5wT3RvYU92VUhDRzMtMDlqOVBaUFZNSzZGZzk3RzQ4ZlFFcGM4U0JHYWNhUDRUXzkyQUpDc2FQbU5pU0FodEJmVUY0YlA0X3FLU3JpWnpxT0R3?oc=5",
-     "ts": "2026-11-22T21:47:26Z",
-     "summary": ""
-    },
-    {
-     "id": "005367dd8182",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Для запуска неофициальной ПК версии GTA 6 потребуется Ryzen 5 5600X и RTX 30 с 8 ГБ памяти",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU21sRlVwRzVhV1dCTnVXeVFxb0MyQ204ZWlGaTZLSUtXTFZMOU5kRG5vQmZ0Z1lMY25YQ25lZHZwalJIbkVjdXB5M3Qza3hyR09oWHJhMW5oWE9CM1M3R0JnVTNPRUd1c1BWaFc4NFZlekdsbXhHWklQX0NITWpxWmZ4eGZMMThta0EtN1Jzc0Jac1JPZFJJMHp4djFiSTg2R045NTBpcmdySThuQ2RweXFBS0tqX0g0d1YxcTkwemc?oc=5",
-     "ts": "2026-11-23T03:50:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -194905,67 +195009,15 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "90e5a8420f8a",
-   "title": "«Не удаляйте»: EA просит игроков не жертвовать спортивным симулятором ради GTA VI",
-   "first_seen": "2026-11-16T05:50:48Z",
-   "updated": "2026-11-16T05:50:48Z",
-   "items": [
-    {
-     "id": "90e5a8420f8a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "«Не удаляйте»: EA просит игроков не жертвовать спортивным симулятором ради GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd2poX2lMczlrUExzMUh1blgwT1ZaeU4yemFzeFpGV0tOODVkOFA2VVF4Q0ZjRjBVei0zcDlrdDhaLXNPT09MNEFhQ01lcWlsME9QQmJZNVRTY3dhZ05waTNXcmxPMlVvU1JQZE5EanhGU2NLRHNqcHVPMzhvV1d2UXBtNkYyc183Vzcxb3J6R0Q1aVB0bWliemVvcUpZQUpfdWtKYlZSRUplV1ZUODRYMGtLb2FKNnhaVndR0gHAAUFVX3lxTFAtZ2x0OFQ0U2pnOWI1eFlCTXRSeVBqblQzZnVSSXFGU2YtUGVwNVhIUFRSa2UxUjlPbm1rSHRHUXZZMUdmR3V2RG80SXVmRXlFcnMzU1BpU2Y1WXJ2WXgzbjh3dWlvU1Rib0dkaV85OFdVSm5UdWdkdVhQT2NZeHVxRm9YRllWTFZQWWlPQjhrQ2JBS3hHMURNLTB4eGZJU1dhbi1heEJPQVA5TDlITEYzYnZOekx1ZldPMEdmdGJycw?oc=5",
-     "ts": "2026-11-16T05:21:55Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ff21ca132761",
-   "title": "Final 3 days, take care of yourselves.",
-   "first_seen": "2026-11-16T05:50:48Z",
-   "updated": "2026-11-16T05:50:48Z",
-   "items": [
-    {
-     "id": "ff21ca132761",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Final 3 days, take care of yourselves.",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xxhkxe/final_3_days_take_care_of_yourselves/",
-     "ts": "2026-11-16T05:48:58Z",
-     "summary": "submitted by /u/DJ_Raxia to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-23T05:40:50Z",
+  "last_run": "2026-11-23T05:50:59Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/0",
    "gnews_en: 99/100",
-   "gnews_ru: 99/100",
+   "gnews_ru: 98/100",
    "gamesbeat: 2/10",
    "vgc: 10/10",
    "insider_gaming: 7/10",
