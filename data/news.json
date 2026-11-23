@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "cb205d7aaed1",
+   "title": "Мошенники разводят новосибирцев на деньги после выхода GTA 6 — Новости Новосибирска и области",
+   "first_seen": "2026-11-23T05:31:03Z",
+   "updated": "2026-11-23T05:31:03Z",
+   "items": [
+    {
+     "id": "cb205d7aaed1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Atas.info",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Мошенники разводят новосибирцев на деньги после выхода GTA 6 — Новости Новосибирска и области",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdXBzZ1dydGNGY1NfSkFUb3lzOUxTaUJCWW5FeVkwQnQ0eXRYUkc2dmRmQ0dlRWhkQXZaNkdHaUxyRGNxTDZvamVuY0FIT29Rd1FOM3dJWXluTVpwekpja1pJZUM2a3A1OGRTYWwycXc2UC1CUmRNcUZGNks3N3FUaVhFYzVfbXdMWFdwekozT1ozdE02SV9nODdVWk93T0NSNzNSYmFXdw?oc=5",
+     "ts": "2026-11-23T05:17:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ae69d15cb124",
+   "title": "GTA 6: Deus Ex Creator Says the Open-World Title’s Budget ‘Probably’ Shouldn’t Be Emulated by Anyone Else",
+   "first_seen": "2026-11-23T05:31:03Z",
+   "updated": "2026-11-23T05:31:03Z",
+   "items": [
+    {
+     "id": "ae69d15cb124",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN India",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Deus Ex Creator Says the Open-World Title’s Budget ‘Probably’ Shouldn’t Be Emulated by Anyone Else",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU0JacFdXMjNmRzF2VmxkZnk4N1BYZHA0MXRUSUZHSkZyQmF5MVhNVzNUX2piN3FkZnU1blFlZ0NhWHNwdU11bWdfQ0V5VFpYczA2ekVjVWg0ajlFelh0Mzd1WXhnWWwwQ1RHaVd3NnpWS2J6aTJaSFpEeFhOU0l5VmYzZVZHZkUtS09xNVhQRHFwWTRIRkVSX0FHdGNsNVIxN1EyNU5JNGVzWm1CU1lrblRlV1U1ZjYyQXotVzFoVzEyaWxheHhBMmxOQXVVbEtSWEJaT1Y3cTRTQ0pDQldj?oc=5",
+     "ts": "2026-11-23T05:26:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4c0d09603603",
    "title": "GTA 6 AI Photo Trend: 2 Tools, 4:5 Prompt, 0 Counts",
    "first_seen": "2026-11-23T05:20:49Z",
@@ -194946,7 +194998,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-23T05:20:49Z",
+  "last_run": "2026-11-23T05:31:04Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 99/100",
@@ -194954,7 +195006,7 @@
    "gamesbeat: 2/10",
    "vgc: 10/10",
    "insider_gaming: 7/10",
-   "ign: 6/20",
+   "ign: 5/20",
    "eurogamer: 9/100",
    "dexerto_gta: 10/50",
    "rockstarintel: 6/10",
