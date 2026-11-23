@@ -1,10 +1,64 @@
 {
  "stories": [
   {
+   "id": "53bcdacaa28b",
+   "title": "В GTA 6 Люсия ворует картошку фри у Джейсона в McDonald’s",
+   "first_seen": "2026-11-23T13:01:57Z",
+   "updated": "2026-11-23T13:01:57Z",
+   "items": [
+    {
+     "id": "53bcdacaa28b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В GTA 6 Люсия ворует картошку фри у Джейсона в McDonald’s",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vWHZHT0ZpUldNdkdGMlNIUk1odGh2VmZOUmxFZjVyd1E5S1VnTGRZWE5adkh2QXBYcDFscklrV2psekZNYkhpY2ZCRktfOXRlZjRkSWgzZHFkS3Q2VjhpVjBSeDJXWXE5MDhyUU1oYllzUVIwZFE?oc=5",
+     "ts": "2026-11-23T12:46:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "17a4daab18d8",
+   "title": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time",
+   "first_seen": "2026-11-23T13:01:57Z",
+   "updated": "2026-11-23T13:01:57Z",
+   "items": [
+    {
+     "id": "17a4daab18d8",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time",
+     "url": "https://www.eurogamer.net/gta-6-metacritic-review-bomb",
+     "ts": "2026-11-23T12:50:50Z",
+     "summary": "In the wake of Grand Theft Auto 6 's release and the wave of glowing reviews it received, a war is raging in Metacritic's user reviews, with some of the medium's best games of all time caught in the crossfire. Read more"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>"
+  },
+  {
    "id": "cc831021dd7f",
    "title": "Cyberleak's GTA 6 Xbox Build Could Reach PC Before an Official Port",
    "first_seen": "2026-11-22T23:31:00Z",
-   "updated": "2026-11-23T12:51:10Z",
+   "updated": "2026-11-23T13:01:56Z",
    "items": [
     {
      "id": "cc831021dd7f",
@@ -226,6 +280,19 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHNXTFhGVHFhLXNOVm0yUkhlZGVrZVFudDkzYWtqQVBfWHhtNFBrcjFidlJZbnVhN1NENDZTa1huWWV3a2pQalNXdzdDVXhRb0hOemgtVGZYa2F4QWJPdS1Zb0NoOVZDNnA0VTgySUE3dmw1WW56TDhMUUVWN0xRanZvNlpNTXF2MkQ2cnRMTktuMzZKSC1ucTBnQUIzd3N3a3k4SXpGYUttV1pFOUHSAbYBQVVfeXFMTlJZY1pNYkdTM0hoaUR1bWh5ZHFZTUlldzRMVXJyOTB2T1VZNEJYYjJxcHV5S1d4c0xncVp4SUV0dWVEdGpMUndLT1ZpQlBaYmhHWkh1QkdLRUw2V3hzMm1CaVY1LTB6b0hhNjRzVnYzSmJaX3I5aWstcEF5SURfN3BjR05rT1pYcW9ELWRoS083WHg0SGpDSHFoVFZGTDZTeTVUVXVnX0tTSXROUzAzUWd1TmhFWVE?oc=5",
      "ts": "2026-11-23T12:42:17Z",
      "summary": ""
+    },
+    {
+     "id": "c410f8b2f0f8",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "itzine.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Cyberleek слил GTA 6 для Xbox: можно ли поиграть на ПК и стоит ли качать",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1YzNFR1S0xISlp6Z2NsSy1UTE1pc0F5eHgtcGR4ZXlSZzJTRTZ4OTMzYjJMcXUxd3NXWlEwMkN4bXdzWmFqdFBIZmk5SUJOS1VrcFViV2o5a2hKckZ4bk9reV9RT0VkbUVsM3dCWk5NUWQtUlMwaDlwS2Y3dTE2ZXU5LTVLU0ItRHlaUmEwY255Z2tGSV9keDdOcWl6aFlLUmJ6Z3QzVi1tRVY1R1Nr0gG3AUFVX3lxTFByTXZLSkI4X2dOeEt5eURLdkVvR3pqWnJPMXM3Nm9oVVkzYVU5VTJid293Ti1YOXh3OEhhdGY5cmFDLU9qaXU4RDRUbzE5cEJJajlzVU53NzdHOTNrN1h1M1BCSG5IZnRkZjh0dEtZamtrUmdESkdOQnNHajFNZEFZYzc2SkRuRE10aEo0bFJDMllMVGtYUXpuOGlVZFBiQXI2Y1h0dlhkSEV4SnJrSnRRallMRXBVNA?oc=5",
+     "ts": "2026-11-23T12:42:39Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -238,6 +305,58 @@
    "score": 90,
    "level": "SPECULATION",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "400e52b28ddb",
+   "title": "Я наиграл 8 часов в GTA 6: игра стала глубже, но одна вещь бесит",
+   "first_seen": "2026-11-23T13:01:56Z",
+   "updated": "2026-11-23T13:01:56Z",
+   "items": [
+    {
+     "id": "400e52b28ddb",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "itzine.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Я наиграл 8 часов в GTA 6: игра стала глубже, но одна вещь бесит",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUTV0UDgwVHktZUswaVBud2lGeHd4RlNtSWRScjR4OGpsNE1hN3ZXZTc2anVCMG5yNzlGVVRTSWllZEJ5TUdHWkVoNWhreXVDZWlyd3FMaEJZQzctTlotTVpNNVlGV2JyNnk0NWo1cjQyclRYd2xTSklCekl2dmF6RWdOVGx3S1ZEUnVJZkZqREE4ekx0eVZhc1N5WlowNU3SAacBQVVfeXFMTnQ2QUxNXzdiRU1FWktPc3VBSDlsVWFYcnpPekZHU0w2N29ROTZuckc4ZWNVcmpiOFlEQlJ4NWdoTnBHWTAwQ2FROGNleUE5Vk5BY1lISW85U0RLOGdFY1VOUmlvUWNUdE1fX1hraVBQRTA1akcyOE9ldlE0b3lxWkQ1cjZRZHhyRDNBYkdLU1IxNHF6Y1Z4SHg1VFRrblMzT2hwN1RDWlk?oc=5",
+     "ts": "2026-11-23T12:42:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b65e11fd563c",
+   "title": "Есть ли Нико Беллик в GTA 6: камео героя GTA IV и кто ещё вернулся",
+   "first_seen": "2026-11-23T13:01:56Z",
+   "updated": "2026-11-23T13:01:56Z",
+   "items": [
+    {
+     "id": "b65e11fd563c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "itzine.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Есть ли Нико Беллик в GTA 6: камео героя GTA IV и кто ещё вернулся",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZHRvZWVrM0tmUGlBb3Q1dlBlQ3BYZ2dPbkJFN1YwZ2E2QWhZdW1qVDNFZVRrOEZ1MW1kdlBuOTJiNzVHMmk4cFRBbWY2NVRGTnhmeG1ZbE9PcU5GUWh6VzFGRE5vZjZLRnFFc2FrUnl5VnNzYXZEVHFMMnFaLXdHT3lkUHRJVWRwZ2ZlV1c1T0VyN04zVlJUbnZuV0JjTHRhMlBtMHI4T0RLUlHSAbMBQVVfeXFMT3EtTG5fdmhJbHNsOXpqbjBqcVhtWGJXWDNScmpYc2lIR01HMG5hODRrUnpTcXdxSTBWX0plMFNDRjZGZjVJWnBhckFPYUJOR0lSVmJmU3I0UVVxUndGS3k1a1VTN0VwSzJVQURXOVYwVXpkNG1TODREa001ckQ4R25BNkNsU2tCeXlfUmhDUWdOWTJORlNFNHhUMmR0STRWUnpMY3Y0MzJlZkVROERTV0wzWGc?oc=5",
+     "ts": "2026-11-23T12:42:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -199438,238 +199557,20 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "605d71ab0d45",
-   "title": "liberty city is in it.",
-   "first_seen": "2026-11-16T13:01:19Z",
-   "updated": "2026-11-16T13:01:19Z",
-   "items": [
-    {
-     "id": "605d71ab0d45",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "liberty city is in it.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xxonzd/liberty_city_is_in_it/",
-     "ts": "2026-11-16T12:56:35Z",
-     "summary": "they have a mission in liberty city. I havent seen the end of the game so idk if you can go back there or not. submitted by /u/rwxzz123 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5cbc5e4c97d6",
-   "title": "you cant buy apartments or houses.",
-   "first_seen": "2026-11-16T13:01:19Z",
-   "updated": "2026-11-16T13:01:19Z",
-   "items": [
-    {
-     "id": "5cbc5e4c97d6",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "you cant buy apartments or houses.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xxooww/you_cant_buy_apartments_or_houses/",
-     "ts": "2026-11-16T12:57:54Z",
-     "summary": "youre stuck with with wherever you live in the story and its broken up into chapters. submitted by /u/rwxzz123 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "38edf8034774",
-   "title": "🧑‍⚖️ Steam заблокируют в РФ?!",
-   "first_seen": "2026-11-16T13:01:19Z",
-   "updated": "2026-11-16T13:01:19Z",
-   "items": [
-    {
-     "id": "38edf8034774",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "🧑‍⚖️ Steam заблокируют в РФ?!",
-     "url": "https://t.me/GTA6_m/9385",
-     "ts": "2026-11-16T12:59:57Z",
-     "summary": "🧑‍⚖️ Steam заблокируют в РФ?! Внимание властей привлекли 2 млрд рублей налогов Valve в Казахстане. Часть этих денег связывают с покупками российских геймеров За отказ раскрывать данные россиян, в том числе с зарубежными аккаунтами, Steam может грозить блокировка Также планируют отслеживать доходы от продажи скинов и других цифровых активов Когда дождёмся GTA 6 на ПК, без VPN уже поиграть не получится? 🚬 🥺 Канал про GTA 6 | Наш чат"
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai": {
-    "title_ru": "Steam под угрозой блокировки в РФ: как это скажется на GTA 6 на ПК?",
-    "summary": "По информации канала @GTA6_m, власти РФ обратили внимание на налоги Valve в Казахстане и могут заблокировать Steam за отказ раскрыть данные россиян. Если это случится, для доступа к GTA 6 на ПК может понадобиться VPN.",
-    "idea": "Угол: «Без Steam — как купить GTA 6 на ПК в РФ?». Показываем карту блокировок и варианты покупки, чтобы зритель понял риски и решения.",
-    "hook": "Steam могут заблокировать в РФ. Что будет с GTA 6 на ПК и как её купить?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-16T13:01:25Z"
-   }
-  },
-  {
-   "id": "216e3488910a",
-   "title": "Игроки устраивают прощальные заезды по Лос-Сантосу перед выходом GTA VI",
-   "first_seen": "2026-11-16T10:10:48Z",
-   "updated": "2026-11-16T13:01:18Z",
-   "items": [
-    {
-     "id": "216e3488910a",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Игроки устраивают прощальные заезды по Лос-Сантосу перед выходом GTA VI",
-     "url": "https://t.me/GTAVIStar/898",
-     "ts": "2026-11-16T10:03:55Z",
-     "summary": "Игроки устраивают прощальные заезды по Лос-Сантосу перед выходом GTA VI • Фанаты начали символически прощаться с GTA V. Десятки тысяч игроков возвращаются в игру, чтобы напоследок прокатиться по знакомым улицам Лос-Сантоса перед выходом шестой части. 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    },
-    {
-     "id": "968fad609ae6",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "https://www.championat.ru/",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Фанаты GTA 5 устраивают прощальные заезды по Лос-Сантосу — к релизу GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkFwOG5RYTd4T0Y3WFFVUUdUZ1htWUFKSExNVWVuYVJKelhUUU9XSVhVbWNXSUdOQkQ4aThTdnVsY3pDUVJUQ21KUzJXaFBiMVZLeFBlaVhmOTZFYnB1VzZxRjNtUzk5OEVzWFpNcGVlRTlacDM4RjRwTXBzdXg5bllaQXJ5SGx5dHVrWEJTYlA4X2JmcGFLY3ZMNTF0OFI3bGhqOWx5MEdtckZPeEN3anVzQlFNMF9oYTQ1MElSTXlicHJFMlpB?oc=5",
-     "ts": "2026-11-16T12:47:51Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 53,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "030fe239b017",
-   "title": "GTA 6 players furious as physical copies reportedly arrive with missing or already-used codes",
-   "first_seen": "2026-11-15T17:20:55Z",
-   "updated": "2026-11-16T13:01:18Z",
-   "items": [
-    {
-     "id": "030fe239b017",
-     "src": "dexerto_gta",
-     "src_name": "Dexerto GTA",
-     "outlet": "",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "GTA 6 players furious as physical copies reportedly arrive with missing or already-used codes",
-     "url": "https://www.dexerto.com/gaming/gta-6-players-furious-as-physical-copies-reportedly-arrive-with-missing-or-already-used-codes-3428334/",
-     "ts": "2026-11-15T17:19:31Z",
-     "summary": "Some GTA 6 players who purchased physical copies of the game are reporting issues with missing or already-redeemed download codes."
-    },
-    {
-     "id": "8d02342ad6c7",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "GTA 6 players furious as physical copies reportedly arrive with missing or already-used codes",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xx7fv6/gta_6_players_furious_as_physical_copies/",
-     "ts": "2026-11-15T21:34:45Z",
-     "summary": "submitted by /u/Accomplished-Bit5490 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "cfe15864b5bb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TweakTown",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 players furious as physical copies reportedly arrive with missing or already-used codes",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmozbVNyNUxyNzVvZWpXbk5xVm9qY2JjeU4zNVkwbXVpZlgyQW9VUEwwRXJUTTdobE9IMnNwUlVORXQ1RG54bklqSl9pYjduZlZlNXBiOWxDbHNQTlE2NTVzVURFNzROMzBoRDBzaDFkSlFqMzVBbHY4Tl9sd2pXRnFqWE9xNTNjby1XbzJyNnZqQXJhVjI1UG5PLU5HVVRuenVmLVgzWnRiU1NsWnphTTY1QS1DbmlXbjBwTlZrSkVacnkyN2IyLXlLYnBiU21aRllEb2E1NTQ3QQ?oc=5",
-     "ts": "2026-11-16T12:50:05Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 76,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Коды не работают: игроки GTA 6 в ярости из-за физических копий",
-    "summary": "Игроки, купившие физические копии GTA 6, сообщают о проблемах с кодами загрузки: они либо отсутствуют, либо уже использованы. Об этом пишет Dexerto, ссылаясь на жалобы покупателей.",
-    "idea": "Короткий разбор: что делать, если код не работает, и как Rockstar обычно решает такие проблемы. Зрителю важно — чтобы не остаться с диском без игры.",
-    "hook": "Купил диск GTA 6, а код не работает? Вот что делать прямо сейчас.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-15T17:21:13Z"
-   },
-   "msg_id": 991
-  },
-  {
-   "id": "1007f5f814eb",
-   "title": "Grand Theft Auto 6 - A 2026 game that features the characters Lucia Caminos and this one guy.",
-   "first_seen": "2026-11-16T13:01:18Z",
-   "updated": "2026-11-16T13:01:18Z",
-   "items": [
-    {
-     "id": "1007f5f814eb",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Grand Theft Auto 6 - A 2026 game that features the characters Lucia Caminos and this one guy.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xxom22/grand_theft_auto_6_a_2026_game_that_features_the/",
-     "ts": "2026-11-16T12:53:47Z",
-     "summary": "Game of the Year already locked in submitted by /u/DrkBlueXG to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-23T12:51:49Z",
+  "last_run": "2026-11-23T13:02:27Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 100/100",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
    "gnews_ru: 99/100",
    "gamesbeat: 1/10",
    "vgc: 9/10",
    "insider_gaming: 5/10",
    "ign: 4/20",
-   "eurogamer: 8/100",
+   "eurogamer: 9/100",
    "dexerto_gta: 14/50",
    "⚠️ rockstarintel: The read operation timed out",
    "gtaboom: 30/30",
