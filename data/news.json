@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "e6b5a9b250fa",
+   "title": "Выход GTA VI: почему вокруг видеоигры такой ажиотаж и что она из себя представляет?",
+   "first_seen": "2026-11-23T03:10:44Z",
+   "updated": "2026-11-23T03:10:44Z",
+   "items": [
+    {
+     "id": "e6b5a9b250fa",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Новости ТВК",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Выход GTA VI: почему вокруг видеоигры такой ажиотаж и что она из себя представляет?",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fb2k4dV9wZTdGX3oyWDRPQllycy1oSjE1X1BGMXpSVVYtX2pvWmpreXlNMTJEcUg0NW9Yb0VMVHpMSWU0M2dNYU4tS05rVHlEVkhhaU9n?oc=5",
+     "ts": "2026-11-23T02:45:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e441c7682f73",
+   "title": "Авторов GTA VI обвинили в плагиате",
+   "first_seen": "2026-11-23T03:10:44Z",
+   "updated": "2026-11-23T03:10:44Z",
+   "items": [
+    {
+     "id": "e441c7682f73",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Авторов GTA VI обвинили в плагиате",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yZTVhdVVNZ2EyX3BrSENmcU1YTjNXUWp6RjdNTDZTdTNYSjZjbk9QRUw1Umd5Tkx6NWNGRWdzX21BdTZIdkwtajZ1SzBtTnVXS1RSMXdYSHQ4TG51MGpLZHJDalM4UU9GWTZPemNRUTV1eks4al9LenRFdy1TU0XSAYQBQVVfeXFMT1Q2SGthQmUtejJkeHVqMDUzNl9DX2ttODVvaE1uZEREVjMxdXMzYTM1ZG1tV1VydXdkTXo0YklvREp1VzFBX3NmZFNfVk5xSkNrS1g4UFpoa2FhWTJaQU1fR3hSRFpVbElrN3JkU2ItTU1kRTBZZmtLcHhSV05aMU8zUVpK?oc=5",
+     "ts": "2026-11-23T02:53:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5c2b24eb982f",
+   "title": "GTA VI creators accused of plagiarism",
+   "first_seen": "2026-11-23T03:10:44Z",
+   "updated": "2026-11-23T03:10:44Z",
+   "items": [
+    {
+     "id": "5c2b24eb982f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA VI creators accused of plagiarism",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSC1IYWEyYi1KRmtiUVJLQkhKa0NaVWEzQ2NMSngzRXhmLWc2Qk8tQ3hvTVFwTl9VbW1BbHZiaEtIaXpSVnVZNDZZZHB0UENaM1BNajBIU0l1MEJhbGs4TGlYY0RTeTJxTjF1UW9rWVZpWFkzWVhxMlZzUmhoODFMOUJfRdIBiAFBVV95cUxPN1BKWW56eVJTZWNfT18wYmZNcmRwVHF1YTJzT1E5ZlhtMVNHa3A3UlNYdW94U0hSWmdoc1M5eENuSzgxMGhJVngtN3pZcktTZV90NEx6MGhwOHp4TmVOeGNUTDFua2ZYb09yVGRrNlhFOW5GYnRfejRMLVRtcmd0bHhOYmxaNTFD?oc=5",
+     "ts": "2026-11-23T02:53:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "00cd167878b9",
    "title": "«Это почти невозможно»: журналист попробовал пройти GTA VI без убийств, но управление и крутые поворты стали серьёзным препятствием",
    "first_seen": "2026-11-23T03:01:18Z",
@@ -195206,9 +195284,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-23T03:01:18Z",
+  "last_run": "2026-11-23T03:10:44Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 429: Too Many Requests",
+   "rockstar_site: 0/0",
    "gnews_en: 99/100",
    "gnews_ru: 99/100",
    "gamesbeat: 2/10",
