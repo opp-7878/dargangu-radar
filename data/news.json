@@ -1,6 +1,807 @@
 {
  "stories": [
   {
+   "id": "d9290219551f",
+   "title": "GTA 6 Has Given Carly Rae Jepsen's Most Underrated Song Another Shot in the Charts",
+   "first_seen": "2026-11-23T12:51:10Z",
+   "updated": "2026-11-23T13:06:48Z",
+   "items": [
+    {
+     "id": "d9290219551f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Has Given Carly Rae Jepsen's Most Underrated Song Another Shot in the Charts",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdVBraDJEMTZlNHBxVllnd1MyMGI4eWtDcm5LUTZzU2dWUUdBaWVxNG41Y2FtXzAzbzNOUHEwUl9Nbm1JVndVVExxY01fTmdTdk90ZUh0a2k3cUlsUUNjTm9rdWJWdUhNXzRZcFd1Y3ZrM3BYQ1NxQnpnWVg1d0R1WTRCRUFxcHlrUDlkNDhkZGlXTnI3TmRnRVhLVllrQjFxTjZtTnFnQ0FLb2JKM0x3?oc=5",
+     "ts": "2026-11-23T12:38:39Z",
+     "summary": ""
+    },
+    {
+     "id": "17818d10a0b5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Has Given Carly Rae Jepsen's Most Underrated Song Another Shot in the Charts",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ2o2akZnZGc2MW8weVBhWkVRRlp2eXpHbXZLY3BqN0pPRmVGQVllckgwZ1UyTTBpa3dvLW96RFljM1pCVUk4M3VGMUxnRGEzaUFYZU1BU0J3TXdiOWgxdklUMXE3TmtpWjBjNm5tZFRFLU9LMGxyRzAzQWtIUVd3ZldrN3hTUkZESF9HUFpjaUFJUURhbTBTRzhndTE3a3hRUFd1QVprWXlKdm9RV3FYWnAwVGlQS3Q0cXBiS2JMa25ITWZBUGIweEJKeXlWZ1M5MjgzbjhobEEydw?oc=5",
+     "ts": "2026-11-23T13:01:42Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>",
+   "ai": {
+    "title_ru": "Песня Карли Рэй Джепсен взлетела в чартах из-за GTA 6",
+    "summary": "По данным IGN, песня Карли Рэй Джепсен снова попала в чарты после появления в GTA 6. Трек прозвучал в игре, и это дало ему вторую волну популярности.",
+    "idea": "Короткий ролик о том, как GTA 6 «реанимирует» старые песни: кадры из игры, график чартов и реакция фанатов.",
+    "hook": "GTA 6 вернула в чарты забытую песню — вот как это работает.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T13:06:52Z"
+   },
+   "msg_id": 1999
+  },
+  {
+   "id": "39ecb0787223",
+   "title": "Who Are Real Dimez in GTA 6? Every Confirmed Song and Voice Actor",
+   "first_seen": "2026-11-22T21:01:24Z",
+   "updated": "2026-11-23T13:06:48Z",
+   "items": [
+    {
+     "id": "39ecb0787223",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RouteNote",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Who Are Real Dimez in GTA 6? Every Confirmed Song and Voice Actor",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeTZiMTNvWUEyMkcxRFYtd3VXRzVfMEpZWk95eFpIYno5dWlVMmhJOUY5RENCNW1JbmMxakVHaVBCeVFmbXBwM3BlYXc2SFRDdzY3LVJBamhmYWRLY0JIOXBDOXFveDItLW1sVmJKYTJkbHNrQjl5eXFfSExnVFc0R0U0V3Rmc2c0UllwS2dBNHlNMXlzWVZ5ag?oc=5",
+     "ts": "2026-11-22T20:49:00Z",
+     "summary": ""
+    },
+    {
+     "id": "0d927f37b66d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GAMINGbible",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 cast: Every confirmed voice actor and character",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ySmFtMm96VkpsSFdhOHRLTUlIdlRBWDVNUmpwMmdfV05NQ2o5RGdiM1BaWVY4ZHUwSk4ydi1FOGU1TklUSmctbi1aZ29iVklnT0lxa0pmVl9VZ2MwRGlnNUdvM2ZLamthaFhBdlJJOUo1TFgwTFlrcTJnMTJ1eXc?oc=5",
+     "ts": "2026-11-23T13:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "cab22fb3eb53",
+   "title": "Rockstar пришлось приложить кучу усилий, чтобы проработать интимную близость между Джейсоном и Лусией в зависимости от уровня их отношений",
+   "first_seen": "2026-11-23T13:06:48Z",
+   "updated": "2026-11-23T13:06:48Z",
+   "items": [
+    {
+     "id": "cab22fb3eb53",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar пришлось приложить кучу усилий, чтобы проработать интимную близость между Джейсоном и Лусией в зависимости от уровня их отношений",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSmVkSUczcmtVSmhzY1JPVzk0Y2ppNVp2ZGtZRng1WDIwcUlEZ0dLaDltWHAxNkpjT21UTGprRXlzS0VudHIwRFN0Xy1WUU1JRzZQVzJ0RGF2MTVMd0dyTk1NMmxESTI1dVdYeUs4LU9RNTJZaElOTnNfaGU5WEhFdDVDeTRyTy1qbl9nYThsYUsyWk1xNzVaSkJVd2JTUVVmMEktZHc2MDljVVBkUlpKLTRfX0U2RlJGdGlHM3VibmJjbHQxT18zOHlvLVpBNW91aXVYWVhTZlNzMkZ1UkVhTXY1TU1QaGNVb2RTTVREMVJXWlZFVHhDVDQ0Mmp6UGU1?oc=5",
+     "ts": "2026-11-23T13:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1043af754e11",
+   "title": "Where to Find The Invetero Coquette D10 Supercar in GTA 6—Randy’s Wishlist Car Locations",
+   "first_seen": "2026-11-23T13:06:48Z",
+   "updated": "2026-11-23T13:06:48Z",
+   "items": [
+    {
+     "id": "1043af754e11",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Where to Find The Invetero Coquette D10 Supercar in GTA 6—Randy’s Wishlist Car Locations",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGVMcEtuYjZONHd0QWk1WTlDTW1TbXdYMXJCYkM5UlRkN281UzBtVm12QUc0M1F0MlhqV0JjeHVsaTF0Smw0RmVmSnlmVTJLSGVoY3BnNFdaN3N1enZIUWJkbC15S0dNSGFtRnpEbkR3T2k3WXI4ZlRlMDFuUkRrMjBn?oc=5",
+     "ts": "2026-11-23T13:01:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Где найти Coquette D10 в GTA 6 — локации для Рэнди",
+    "summary": "По данным Insider Gaming, Coquette D10 из списка Рэнди можно найти в нескольких точках Вайс-Сити. Машина появляется на парковках и у дилеров в определённое время суток.",
+    "idea": "Карта с отметками и быстрые заезды к точкам спавна — зритель сразу получает готовый маршрут для угона.",
+    "hook": "Нужна Coquette D10 для Рэнди? Вот три точки, где она точно появится.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T13:07:05Z"
+   },
+   "msg_id": 2001
+  },
+  {
+   "id": "c059a107deb9",
+   "title": "Бонус за предзаказ GTA VI стал платным — Vintage Vice City Pack стоит $5",
+   "first_seen": "2026-11-23T13:06:48Z",
+   "updated": "2026-11-23T13:06:48Z",
+   "items": [
+    {
+     "id": "c059a107deb9",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Бонус за предзаказ GTA VI стал платным — Vintage Vice City Pack стоит $5",
+     "url": "https://t.me/GTAVIStar/1040",
+     "ts": "2026-11-23T13:02:36Z",
+     "summary": "Бонус за предзаказ GTA VI стал платным — Vintage Vice City Pack стоит $5 • Rockstar открыла возможность отдельно приобрести набор Vintage Vice City Pack. Его цена составляет всего 5 долларов на обеих платформах. • Раньше получить его можно было только оформив предзаказ игры. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "a28c9a56f0f2",
+   "title": "GTA VI smashes entertainment records with $3.8bn opening day",
+   "first_seen": "2026-11-23T03:31:03Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "a28c9a56f0f2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Marketing-Interactive",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI smashes entertainment records with $3.8bn opening day",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVB1U0hqRFBnd0Q4SmNXZnMxSmhoYkMxdERTNDM2Y0UweUdzUDdha091NHBHVXp4am5FNlViSThKNi1TMC0yeXZfYmN0SzRtT1UxdmJvaFVYeTVqb1A2R0xCTWdYZ0h4ZnBJbnk4cngyN2k2UURkWXh6S0tPMXdmRW1JYXAwYlY5YkpOekJNUV9VUkU?oc=5",
+     "ts": "2026-11-22T23:28:55Z",
+     "summary": ""
+    },
+    {
+     "id": "a808e55d9cd6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KSL News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' sets record with $3.79B in first-day retail sales, Rockstar Games reports",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0hhMW1hbERPLXpIdnpDNkVPYzdWOW5rWmZkSGFRTkRnclBSWkNwT1JUSkxya1ZYeVFQRXcyOVVwQ0MzMkZPREx0V1c0bkptUk4zUU92dnY5N0ppd2hqMEF1aDQ5TnN4WGZKMnUwc2dRSWFUMm16Vmo0QkNwYV9TUzhyN3ZGUTdIYmtIcG5SM1hjaVFKZFd3RGtYbTFFb3J0WEZVSFgyZlBBMWFpV1JXVWt1dHZPQXJLZG0tNmVneUN1OUx4cnc?oc=5",
+     "ts": "2026-11-23T04:46:18Z",
+     "summary": ""
+    },
+    {
+     "id": "11fd34d0b94d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Capital FM Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 sales hit $3.8bn in a single day – the biggest entertainment launch in history",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWd2MXF0cTJjWjgxMGMtWXRzNk9CYk5nQ1NJbWFXVHpxT3MwQkp4NHREMjE1QlZRM2I3OGtyQWExVDZXcmdKdDAxNmZzOWdkSlllTUVpTWlZVUhSSVdIdWVBck1XV2F1VXM3QjFXeEFRMldNYmdLVUlpbmJhUWt0aXZYVTAzREhyZ056a0ZoSWVIX3VPU0dZSEZoS0hYdXdvTGljYzhQSTg2ZDg?oc=5",
+     "ts": "2026-11-23T05:07:12Z",
+     "summary": ""
+    },
+    {
+     "id": "8ccb95ab1a07",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Team-BHP",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI is the biggest entertainment launch in history!",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUp0RURWQ0JiQ2c1LWJDMTg5Uzh6Zi1oeWxiZmszTkFUajZVQzRVSHpKY3BCYlUxWWp0RThWNEZzcld2RlhoSWtxbmdWejJIWC1YUXZJQnhGcWlWdV94elc4SG52cEVZdTYtYnZORFZwd0lZOXp1azNydFdEWDFnc195blgwcHFsaUxPckRVVdIBlAFBVV95cUxPc05aQWJpYm9wS1A2ZHo4TVlFRVZmTG42QnVYMEUtelNRSEFUNmExcnUzNzA5bUI3NmRKeG4zNmRyREpWUkNQakNMYmRPejh4S2pFemRFMWM3ck5nVXJlR1p3RkQ3WXVHV2N5LWY3OWdTLXZLYzc3TTZvOU4xTndMVjhRaVRFZ2ZVWTBSdVNDUThkV3Bo?oc=5",
+     "ts": "2026-11-23T08:47:55Z",
+     "summary": ""
+    },
+    {
+     "id": "87abdd1095ed",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PocketGamer.biz",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 generates $3.79bn in day one sales to become the biggest entertainment launch in history",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMlZSWHF3S0NRNHA3azlnTXgzNG1SNlZ2S2JBVV9zU2N3cnBMM21Vc3lZNXQ4emNDNTk5SmVWb0FCZFFFUWZ2QU8yLWdNNGZja2RzVVVtQU9TZjJEQzNUd3BCVUlZbEIwTUVOMUZ3YzRseUtUSVY4aUZNMlo0OGExZGNRTW5tMmNaQURDX1lPM2ZkUEU1RVMycDVyN256WVJPRzNLcHYtTUg2OF8tOFVMMmo0YlFPdkxjR3U1eTRn?oc=5",
+     "ts": "2026-11-23T11:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "675a2c62aaa4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Cleveland.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 is already the most preordered game ever on PlayStation and Xbox — and launch day hasn't even arrived",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0w0a3JfRHhMUXlyX2x2SVloY0NUZFYyZm9EUndVdUhYcnZ3LUhHYlp0cHlTMmNkSmtwdXNlYVZBd200RFU3X1lKZFlpYVZMVG44TGhsdFNQRV9LQUxwWXhVNkNZVmlJX3pRelZMZTN4c3FJNmNPUGQ5UkhPV2Mta2lTbDBobVA0b29mMzZUVmhJTHdfNlMtMzQtdWNpbWw4SXBDR2U1SVFXcE1vdHhIcHFDNHhjS2kyNjhBQ2RhN1hzUEw3WkhfRjdjeW0?oc=5",
+     "ts": "2026-11-23T12:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "fcf8bc27ab45",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WTHR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA VI' rakes in billions of dollars on pre-orders, first day sales",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaElvQ2FPV1hDbjh6QVpPb2R5OWlrUWEwVFJ1bE5BNzRXUXREZ2o1blE1YVk5WFNUZGw4em1YbTlVNi03S2tqM0ZjakdNTW4xMXlodXZ4amN1Qmx6cDF3WEpLODhIQ21MVmQ2Q1g3Q0FzU2NieFlBRzd3V2NmMDBhSHA2TW5NX1VnNENpVnB2aXlQZno3cXRSbFI4dnlZN2hJTWpobHRtaWhCNl9XX0tqYXMwTkJLZjJmdFc5TmpZeUhsM0pJelI5VzFyQU93RG8tcUNjdS1zV0paakNRMVFfOWNNd29NRVhfZWtFaGFR?oc=5",
+     "ts": "2026-11-23T12:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "513044b7d1d7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Investing.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Wedbush raises Take-Two stock price target on GTA VI sales record",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQk5CVWo2XzFHZThEWlFHdFZHTHMtYWNzUEdCNW1pNHY3b2tYRWZtVVd2bjdtWTFHYjdBU1BKb0VtUDdHUlhlTmxiZTdYVzl0VEFIYVIxVG94R3pOTXRnNzdhQ0g4Z3RIclNaTTJNUlZNZ0w2bl95OGVRVlhHaDFKNnNmZW1jVElXZEpSWURRRm1oTUduTXAxVHZFaHNiUnBJQVRubm9wbnctd0pra1dkRmxwZkZlRVdpWFcyTUZUeTlMUQ?oc=5",
+     "ts": "2026-11-23T12:23:52Z",
+     "summary": ""
+    },
+    {
+     "id": "6f4661fd43f1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Traders Union",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Продажи GTA VI в первый день достигли 3,79B: почему ралли Take-Two сошло на нет?",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTRFN1dxM0VnSmdQcXlGVDJSQzlHaGJ4MlkzVnVaSi1QOE9TSDJvZHROTnQyd3hCcld6SU9uLUo3aWs1eVVlaEtEeElqRE5jRVEtb2s4SFhMRU5NUS1xeHJZazB3YzVtMU54aDc5SHhBMlBLS3V1blRKd1drNXhtZW5xN21udFk?oc=5",
+     "ts": "2026-11-23T12:33:23Z",
+     "summary": ""
+    },
+    {
+     "id": "4081c952bb53",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Music Ally",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI: $3.79bn sales, streaming activations, music-charts impact",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXgzY2VPQUN4QjRuQkVLMC1wZW5YX3JESjJoaVg2ZzBidGNkZkt1bDhzbDhkSlI3TFZBcVV3ZE1fZ0dKVmptUjJ1ODhnZGk3NjdoZHFHNnNqUUJodGZZdE5IeHhfWTdEMXpZd1BTekZtV0R2WUFhVWNDdWVaQnp3ZU1LQlhnS1A4QmFrWjR2dlpmX3RYVHNBOTA2Yw?oc=5",
+     "ts": "2026-11-23T12:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "651dde33dca0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Акции Take-Two упали на 7,8% после GTA VI, декабрьский анонс сулит $265",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vdktrTzNqOHBEX1dvQTVSUWc2b3VPMXFNV1hxd1hqRzd0bThFN0g0ZFIzNlBUcDI1dDd6Njd2bGxEMDdGaVpfRW5PaEhWZmE3a3RiajNENE13NU9TcTV4S2QzV3I4Q0cwLUowaEZR?oc=5",
+     "ts": "2026-11-23T12:53:23Z",
+     "summary": ""
+    },
+    {
+     "id": "5f915413b1d4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RouteNote",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Makes $3.79 Billion in One Day as Its Soundtrack Takes Over Spotify",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRm5KWWxhdE5iMXpXV0I0elc1QzViclktYm1qVERpd3NqQkowN2NIN1JVejVRTXhhQklKV01sdWltMERydWlSc1Z4Zkswd2hTUkxoRXI5c0ZnSU0zVmJtYy05VVl5X0NCTnRZRlBuMlgxaTluUFpUTUYtX3VpN0pDUi0wWXVQdjhWeWJyS3FxWWMyMEtuYVd5YzhXQ3kweU9vd29J?oc=5",
+     "ts": "2026-11-23T12:53:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two",
+    "анонс",
+    "цена/издания"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "200d9970ee1b",
+   "title": "Russians lost access to GTA Online and RDR — issues arose with the Rockstar Games launcher",
+   "first_seen": "2026-11-23T11:11:11Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "200d9970ee1b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Russians lost access to GTA Online and RDR — issues arose with the Rockstar Games launcher",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQanBxZXpDU0hoRmo4WnNwQmZUQ1NNNmVtRmRmN3puSDlfZV9SbFl6R3ZWOUhQM2RrRUM5ZjRxM094b245MkZ3NGpMYlh5U280LU96UWZWSDNSV1pIZmJneG1SWk9jaEkzM0tSRUg2d25nT0tEeTR1cGJublZQRUlNcU5xbnZfZ1liRk83SlVsbFBDQkp3Vy1JZnMwd2I5MFRsbzIzSjZOcElpN1JfQkhGekpEVlVNZ3RpT21kemZfellzM2F4MGNVX0stblLSAdIBQVVfeXFMT2t5aThBUnhlWWNMTTZxTzAyeURiMWF6NFZacDBrM01qdjhaVDRpY0EzZ3pNSzMyM0s3NTJGNXZfYlF1cTktcDBpclNOWFY2enpSNWFnY2NHTjFpRk5uX1JOODBRNGl5VEZTcjZib19VVEFiWGFVNWhIcUVnd1gwdWJYSmZSRnhvT19ja0xINTVBODhfMXhxSzYtRnFIa25RUThybXZBRzJUT2RQUnd1b1YyclduS2N6MWV1c2J0YTM3d1FOemxoOFVVV3VQQ1ZUS0ZR?oc=5",
+     "ts": "2026-11-23T10:53:00Z",
+     "summary": ""
+    },
+    {
+     "id": "51854928d6ed",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В России случился масштабный сбой Rockstar Launcher — игроки не могут зайти в GTA Online",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXFPSDd0c21XWTFfX2xxMW5CcWdXQm9oVExIZGVYakpNNkw0WlJici1GcXBybFBRY3hGR1lnUGxrcFFMc2N0b3kwMEJQYV83MHVDSXFZRVU2NGMydzhCSWZyalluMFFRd0wzVG5xTHplcl8wMUthNklzMUtiVmViRDM2dlMtYUNUa0p6YTJqbHNlZnlId0JIN0NSWFJJWlA0aXl5Y0tZM1_SAa4BQVVfeXFMTllLbHZaVHZnTjBzbTRESzZnZFoyQlBjTnRValBTSjlkcklmNkhHbDU2OUktN2JKODBqNm1KcE14a0JTa2xEOXRjekVwbG1fMDdhb29zVWZhTmRqTllQangxdmVQRTFVLTV3bjh5dmQ0NlQ4QXQ1eVpqaEpHcjIxbHlWMTVZZTZMUEpiTU5Eajlqci1PT0wzVENmaE53dzlFWDUxODJkZUpVRGgxaHB3?oc=5",
+     "ts": "2026-11-23T10:32:11Z",
+     "summary": ""
+    },
+    {
+     "id": "707455bd3e95",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В России случился масштабный сбой Rockstar Launcher — игроки не могут зайти в GTA Online",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUtsdlpUdmdOMHNtNERLNmdkWjJCUGNOdFVqUFNKOWRySWY2SEdsNTY5SS03Yko4MGo2bUpwTXhrQlNrbEQ5dGN6RXBsbV8wN2Fvb3NVZmFOZGpOWVBqeDF2ZVBFMVUtNXduOHl2ZDQ2VDhBdDV5WmpoSkdyMjFseVYxNVllNkxQSmJNTkRqOWpyLU9PTDNUQ2ZoTnd3OUVYNTE4MmRlSlVEaDFocHfSAa4BQVVfeXFMTllLbHZaVHZnTjBzbTRESzZnZFoyQlBjTnRValBTSjlkcklmNkhHbDU2OUktN2JKODBqNm1KcE14a0JTa2xEOXRjekVwbG1fMDdhb29zVWZhTmRqTllQangxdmVQRTFVLTV3bjh5dmQ0NlQ4QXQ1eVpqaEpHcjIxbHlWMTVZZTZMUEpiTU5Eajlqci1PT0wzVENmaE53dzlFWDUxODJkZUpVRGgxaHB3?oc=5",
+     "ts": "2026-11-23T11:08:27Z",
+     "summary": ""
+    },
+    {
+     "id": "f91c67b07041",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Россияне лишились доступа к GTA Online и RDR — возникли проблемы с лаунчером Rockstar Games",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPczVmWVktYUM1Nk1EYVVCV0pTRGRDRzdOR21la0dxZGVUMkpNak1sOEk5ZWFwYjRiWVlfQjljMXJFM01LTmlOZ1EyLThrX29QNVl0dkZ4RThqVWk3MTY1WjI2R1NRMFl5TnVFMjlybzE3R3NySTVhWEhTbmRDSlpuQTlhTTNPdkI2SGVfVFVSSzZxTHFpcDJyX3ljWE9Jam14TmpJaXEyalVEQTJYYU9Cd3RNRDhYSmFPbS1fZ3dCb1pCSE90QkNsTdIBzgFBVV95cUxNam5qMzVxSzUxYzNYNGljLWxZMFFlc2dyZ1Rma1FEYkdwSVlhNjk1QmFpYm5sZHg3S0t3cTFIc0Q0bVlTS1BtdTRKaFpvTFZYX0owVHBWbzlNMjdmdG54UUdTYkhwS1NpZXNOX0tITUUyMVpHVzVVLUZFY0xaVTBTbjNWWWdnSjl1QV9TdW5tc1V1WVBUSGpOekVvZ1JqSW5uUnAzc21lNlZtZ3lELVVkLUpyQVVwT2ZsTkQtTVNGdDJDQmpQdEx4NDRWQ2ZDQQ?oc=5",
+     "ts": "2026-11-23T10:53:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 68,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "063e3293b159",
+   "title": "Участник испытаний Neuralink сыграл в GTA 6 силой мысли",
+   "first_seen": "2026-11-23T12:20:51Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "063e3293b159",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Участник испытаний Neuralink сыграл в GTA 6 силой мысли",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0VoeWQ0clFPU2pqWmt3MXVVczNSQU01R1pqRUcxa3dmR3lYX2ZiQ2JFd0RXZ3BOelBFLVlnZ3ZRbmxLa1VUeF9LOWxuNFBNTFVzbTdhdVhtQjlDRHViNnNiR3ZKaVFCREhFRVlBcE9maFFrNnpsRlR3eEZWdUVienhMWjVHTEE1d0xuTGNKWl9BcnpMaERRNW1oWE9fdzFa0gGmAUFVX3lxTFB4V3h1eDhYbDgwUS0yTEZ4cnJNVWg0Y0NoOGl2RXpUbHJXZkRVdEUxc3F6eTMwVUFrSmdFTXJFQ280NnBGWlpMUndYSTRaTDI2QkVSM0xOejdTYWlYWG5VSFV2ZDlKa0U2UThBRXY3Z0R3dWhUYnBvTUxNZTdXT0dTMW8ySVJIVzJsOE9jcGYxT1BWdXlvZXJsUm85cWpqTllCREJscnc?oc=5",
+     "ts": "2026-11-23T12:06:54Z",
+     "summary": ""
+    },
+    {
+     "id": "4396839133f2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "ITSpeaker",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Участник испытаний Neuralink сыграл в GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGYWlCWmxiTWlBdVNBb3ZFb1dNaFB6MnJjNk12RFhQWTducF9qQ1VOUFJtZWVFeDh1R3JBZ2RoaVhlXy1wOEEzei1vRWhXYTMySTZWMFNMcEJPdFAyZC1JNTQtQ1lQd0RDU1l6NkctZGhIcHEyV3RMekxqRUR6dw?oc=5",
+     "ts": "2026-11-23T12:13:27Z",
+     "summary": ""
+    },
+    {
+     "id": "10624a24a499",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Участник испытаний Neuralink сыграл в GTA 6 силой мысли",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFd4dXg4WGw4MFEtMkxGeHJyTVVoNGNDaDhpdkV6VGxyV2ZEVXRFMXNxenkzMFVBa0pnRU1yRUNvNDZwRlpaTFJ3WEk0WkwyNkJFUjNMTno3U2FpWFhuVUhVdmQ5SmtFNlE4QUV2N2dEd3VoVGJwb01MTWU3V09HUzFvMklSSFcybDhPY3BmMU9QVnV5b2VybFJvOXFqak5ZQkRCbHJ30gGmAUFVX3lxTFB4V3h1eDhYbDgwUS0yTEZ4cnJNVWg0Y0NoOGl2RXpUbHJXZkRVdEUxc3F6eTMwVUFrSmdFTXJFQ280NnBGWlpMUndYSTRaTDI2QkVSM0xOejdTYWlYWG5VSFV2ZDlKa0U2UThBRXY3Z0R3dWhUYnBvTUxNZTdXT0dTMW8ySVJIVzJsOE9jcGYxT1BWdXlvZXJsUm85cWpqTllCREJscnc?oc=5",
+     "ts": "2026-11-23T12:11:02Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "2a594f4f53e9",
+   "title": "How to run GTA 6 at 60 FPS on Xbox Series X",
+   "first_seen": "2026-11-22T16:20:58Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "2a594f4f53e9",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA VI на Xbox Series X якобы удалось запустить в 60 FPS — но есть нюанс",
+     "url": "https://t.me/GTAVIStar/1028",
+     "ts": "2026-11-22T16:15:11Z",
+     "summary": "GTA VI на Xbox Series X якобы удалось запустить в 60 FPS — но есть нюанс • Игроки обнаружили необычный способ изменить частоту кадров: достаточно запустить игру через Quick Resume. После этого в сети появились ролики с заявлениями о почти стабильных 60 FPS. • Однако, по объяснению авторов Digital Foundry, игра при этом работает с двойной скоростью — фактически весь игровой процесс ускоряется. • Реальная частота кадров редко достигает даже 40 FPS и большую часть времени остаётся заметно ниже. Так что полноценного режима на 60 кадров здесь нет. 6️⃣ GTA VI News 💝 💬 Наш чатик"
+    },
+    {
+     "id": "b81c97682de0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "MobiDevices",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Как запустить GTA 6 в 60 FPS на Xbox Series X",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZNzVwcDB3QVBScHAxRkJsbGxQenpTNDZGWTMyS0JyTU5iaFpaeHJpSnlSQ2doZmlIWFRYXzJMS0c5eUVwVFBMSGt1cFhZUHd6Uk1XWDl2ZWtHWHhYZ1NJ?oc=5",
+     "ts": "2026-11-22T17:31:36Z",
+     "summary": ""
+    },
+    {
+     "id": "ad8937ccfdaa",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "mobidevices.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How to run GTA 6 at 60 FPS on Xbox Series X",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4X3pNbU9EdmJjbW8yTmZxVS1HTzNRVGh1VHBiWFpEUW5KS2h4Y1FxRWFIR2ZYQWktQ21UbFJ3NTYwYUJ4OFFSdVRlVGlaRkJzNTBFbTNWOTZ4eHZZVEpEOGZ6bw?oc=5",
+     "ts": "2026-11-22T17:31:57Z",
+     "summary": ""
+    },
+    {
+     "id": "7545b15ff1f8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI's 60 FPS unlock bug on Xbox Series X only results in 33 FPS.",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYThORWZqRnVyVnoyWjNNNGR1LXlJNU04SEJiQ1dDYk5JUjR4TE40OEZMeHdBelFySUJ5eWVrbXo3ekppYXpoNmM5dWlmNUNUeEhmLWVaR0hielYyQmhjcGplNmhnTjVQdEVrUENVVnBPajdhWFhYNGpmTDRJT0cwQkVsbEI2dlJSVlVrdU1FZThjQ25aZFNkMXV5M3pPdDdoSEVxeTZlSVVsRlNlV2lOVlI5Ty0tR25qdGc?oc=5",
+     "ts": "2026-11-23T12:58:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 74,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 в 60 FPS на Xbox? Есть нюанс с ускорением",
+    "summary": "Игроки утверждают, что запустили GTA 6 в 60 FPS на Xbox Series X через Quick Resume, и в сети появились ролики. Digital Foundry объяснили, что игра при этом ускоряется вдвое, а реальная частота кадров редко достигает 40 FPS.",
+    "idea": "Показываем «60 FPS» на Xbox и тут же — таймлапс геймплея. Объясняем, что это ускорение, а не честные 60 FPS.",
+    "hook": "60 FPS в GTA 6 на Xbox? Смотри, во что это превращается на самом деле.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-22T17:50:55Z"
+   },
+   "msg_id": 1926
+  },
+  {
+   "id": "b9745365846f",
+   "title": "«GTA 6 на ПК скачать»: как защитить Windows и распознать подделку",
+   "first_seen": "2026-11-23T13:06:47Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "b9745365846f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Neva.Today",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«GTA 6 на ПК скачать»: как защитить Windows и распознать подделку",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM21ra2ozc1gtTHlKdzRHSkhrS054eGhBVzdsSkhpODRROUVsX3pUVmV6ajk2RHpIX2oteTZNcGxuMnZPTzZxaVNjbm4xMEZTeXl4Sm5DVUxreTZ0X3BMdHFrZVRCSHdXXy1hdEtkTzdCN2xjMy1ybTAySTg2MzhYTks3Q1lkZ0tnLWZWUXhjdWh3YkoweXFPbTViTDFQZy00aVhYaDBBTXlOY0pULVYxcXlKMlhxcFhjRnk2dHJueHp3SVA5MmFkTkhsT2o?oc=5",
+     "ts": "2026-11-23T07:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "5dbe0b19ba0f",
+   "title": "Создатели GTA 6 приблизили игровую вселенную к реальному миру",
+   "first_seen": "2026-11-23T13:06:47Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "5dbe0b19ba0f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Создатели GTA 6 приблизили игровую вселенную к реальному миру",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeFdfQWZITEN2N2l3ZEQ2el9uV08wSXJrNV9lOW1sNDB2TklLYXg1bnUwM0lfLVptT2JqRGtxY2xPV3EzejBRSzdBWkRweXVPOTFjS2R3VThXLWRra3EwckIyVUhpSTNMZkVUVFh0bTVlaVoxd2wzWGVVbndTam5qRVJ3UVJSM3py?oc=5",
+     "ts": "2026-11-23T09:31:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1353322f572e",
+   "title": "Релизы недели: «Интурист», O Yuki Conjugate и вездесущая GTA VI",
+   "first_seen": "2026-11-23T13:06:47Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "1353322f572e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Большой город",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Релизы недели: «Интурист», O Yuki Conjugate и вездесущая GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Jbmk0UVQxdkRLOWlrN1VBNElSX282Wm94emREOFk3TzIyMldTWHRHS2VUanVxQzlmRTNtTS0wclVrYnZSbXppMnNLMUVxdVB6WWNCLVNPeS1jVTRYeF83eHpZbng?oc=5",
+     "ts": "2026-11-23T10:22:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a8f5a6ded583",
+   "title": "Убить или пощадить Бенедикта Галифакса в GTA 6 — последствия выбора",
+   "first_seen": "2026-11-23T13:06:47Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "a8f5a6ded583",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Убить или пощадить Бенедикта Галифакса в GTA 6 — последствия выбора",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTdWMmc3RUZNMnNMWkJ4V2FjcjhNUks3N0pJVzFKeEQ4RjVKV2JWMUJSMFpzWFlGMXIxTEcxdEp2dUtFX1Exbnh5M3QyRWVybWtBNG5McDhXTHR2U1QyZm9XLWJEMkNDM05zZWlaQi0yMjQ1NV9TbTJMTnFlSnRhd3k1N0Foblo4LTJmMmhyTjd1WW1vS2tDcFVMbXgyZjF3?oc=5",
+     "ts": "2026-11-23T11:14:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d887d7f1b6e3",
+   "title": "GTA 6 Kit Car locations: How to restore the fourth car for Wyman",
+   "first_seen": "2026-11-23T13:06:47Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "d887d7f1b6e3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Kit Car locations: How to restore the fourth car for Wyman",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vSzExMnZGM0dPVEtfa0o0Sk9qSjJ3Qmg3NGFmWW1nbklWRktvZ0xybkZVWUsya0RLLTZzbS1oVnlmNEtxNmhobkZjWV9ENmRYSEc3VHlpc1RPdEN2NU9FR0dpZFdpcnpzUGtDOEhvVHZhZVJkQWprWmU4MA?oc=5",
+     "ts": "2026-11-23T11:25:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Где найти 4-ю машину для Уайман в GTA 6: все локации",
+    "summary": "PC Gamer опубликовал гайд по локациям машин Kit Car в GTA 6 и показал, где найти четвёртую машину для Уайман. В материале — карта точек и порядок восстановления.",
+    "idea": "Карта на экране, быстрый проезд по 4 точкам и финал — машина в гараже Уайман. Зрителю важно: где именно искать, чтобы не кататься вслепую.",
+    "hook": "Ищешь четвёртую машину для Уайман? Вот все 4 точки прямо сейчас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T13:06:56Z"
+   },
+   "msg_id": 2000
+  },
+  {
+   "id": "67f5b5995c77",
+   "title": "GTA 6 Building a Life guide: how to assemble the coffee table with Lucia",
+   "first_seen": "2026-11-23T13:06:47Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "67f5b5995c77",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Building a Life guide: how to assemble the coffee table with Lucia",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVF6TGNvd0tnRVYzVUFlVHpZNmNQN1R3REIyQnQ4NkZ1TlAyZ2RjUHd3b080UXFuNU40S1ozUjV1dFRMQU5vSTVlYlVMbFk0U2xwc1JGMndhMi1uS2dVRklnMmF3V0x4X0Fya1RZMlZpZS0zQ3paQnJuVDNLUUF0b1F2ZVNrTks4MlhxUmFoV3dkdmRGMUE?oc=5",
+     "ts": "2026-11-23T12:50:14Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "92c89bc5b194",
+   "title": "DAta: GTA VI the biggest entertainment release ever",
+   "first_seen": "2026-11-23T13:06:47Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "92c89bc5b194",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Advanced Television",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "DAta: GTA VI the biggest entertainment release ever",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONVRSVl8zSno0Q0l0NlRQYnhtMWM1cXRCXzc3RFh3Vm1KdXFOWUtpa1ppTlVudDU5eEJDbGVOVjRLNTY0N19GekVzVEdRcGV6UWNGTnJLSmFKOXdlN1ZpXzhFa2l3STFzM25RVWtKRzdpN0UxcElqQ1pSbkZocFUyODRIUkJ6bzlIWGlsb19ERU56b283V3pQR19uZEltVXc?oc=5",
+     "ts": "2026-11-23T12:56:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c2848b469d69",
+   "title": "GTA 6 First Major Update Officially Released",
+   "first_seen": "2026-11-23T13:06:47Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "c2848b469d69",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ScreenRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 First Major Update Officially Released",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BaXJmTXNHMWp5TGlia05zNWpiRG1IM01rVmJkVHk4dTd6b2VKTmt2OEZtdnVhY093bWxkV09mNER5MEE3TzNWZkdXVktyR0pfdmhnc0dfbUpCY1JiOXQ0b1pZLWZZX0t3U3hCNWVtNA?oc=5",
+     "ts": "2026-11-23T12:58:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e07c408e8fe1",
+   "title": "Where To Find Cut-Off Tool in GTA 6 To Open Containers",
+   "first_seen": "2026-11-23T13:06:47Z",
+   "updated": "2026-11-23T13:06:47Z",
+   "items": [
+    {
+     "id": "e07c408e8fe1",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Where To Find Cut-Off Tool in GTA 6 To Open Containers",
+     "url": "https://insider-gaming.com/where-to-find-gta-6-cut-off-tool-containers/",
+     "ts": "2026-11-23T12:59:31Z",
+     "summary": "If you've tried to break into a Scoop container in GTA 6, you'll need a Cut-Off Tool. How do you get the Cut-Off Tool? Let's find out. The post Where To Find Cut-Off Tool in GTA 6 To Open Containers appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
    "id": "53bcdacaa28b",
    "title": "В GTA 6 Люсия ворует картошку фри у Джейсона в McDonald’s",
    "first_seen": "2026-11-23T13:01:57Z",
@@ -360,34 +1161,6 @@
    "status": "new"
   },
   {
-   "id": "d9290219551f",
-   "title": "GTA 6 Has Given Carly Rae Jepsen's Most Underrated Song Another Shot in the Charts",
-   "first_seen": "2026-11-23T12:51:10Z",
-   "updated": "2026-11-23T12:51:10Z",
-   "items": [
-    {
-     "id": "d9290219551f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Has Given Carly Rae Jepsen's Most Underrated Song Another Shot in the Charts",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdVBraDJEMTZlNHBxVllnd1MyMGI4eWtDcm5LUTZzU2dWUUdBaWVxNG41Y2FtXzAzbzNOUHEwUl9Nbm1JVndVVExxY01fTmdTdk90ZUh0a2k3cUlsUUNjTm9rdWJWdUhNXzRZcFd1Y3ZrM3BYQ1NxQnpnWVg1d0R1WTRCRUFxcHlrUDlkNDhkZGlXTnI3TmRnRVhLVllrQjFxTjZtTnFnQ0FLb2JKM0x3?oc=5",
-     "ts": "2026-11-23T12:38:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>"
-  },
-  {
    "id": "ae29ac3a1747",
    "title": "Почему у GTA 6 низкая оценка игроков на Metacritic, а у критиков 99",
    "first_seen": "2026-11-23T12:51:10Z",
@@ -553,152 +1326,6 @@
     "at": "2026-11-23T12:51:48Z"
    },
    "msg_id": 1998
-  },
-  {
-   "id": "a28c9a56f0f2",
-   "title": "GTA VI smashes entertainment records with $3.8bn opening day",
-   "first_seen": "2026-11-23T03:31:03Z",
-   "updated": "2026-11-23T12:51:09Z",
-   "items": [
-    {
-     "id": "a28c9a56f0f2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Marketing-Interactive",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI smashes entertainment records with $3.8bn opening day",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVB1U0hqRFBnd0Q4SmNXZnMxSmhoYkMxdERTNDM2Y0UweUdzUDdha091NHBHVXp4am5FNlViSThKNi1TMC0yeXZfYmN0SzRtT1UxdmJvaFVYeTVqb1A2R0xCTWdYZ0h4ZnBJbnk4cngyN2k2UURkWXh6S0tPMXdmRW1JYXAwYlY5YkpOekJNUV9VUkU?oc=5",
-     "ts": "2026-11-22T23:28:55Z",
-     "summary": ""
-    },
-    {
-     "id": "a808e55d9cd6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KSL News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' sets record with $3.79B in first-day retail sales, Rockstar Games reports",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0hhMW1hbERPLXpIdnpDNkVPYzdWOW5rWmZkSGFRTkRnclBSWkNwT1JUSkxya1ZYeVFQRXcyOVVwQ0MzMkZPREx0V1c0bkptUk4zUU92dnY5N0ppd2hqMEF1aDQ5TnN4WGZKMnUwc2dRSWFUMm16Vmo0QkNwYV9TUzhyN3ZGUTdIYmtIcG5SM1hjaVFKZFd3RGtYbTFFb3J0WEZVSFgyZlBBMWFpV1JXVWt1dHZPQXJLZG0tNmVneUN1OUx4cnc?oc=5",
-     "ts": "2026-11-23T04:46:18Z",
-     "summary": ""
-    },
-    {
-     "id": "11fd34d0b94d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Capital FM Africa",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 sales hit $3.8bn in a single day – the biggest entertainment launch in history",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWd2MXF0cTJjWjgxMGMtWXRzNk9CYk5nQ1NJbWFXVHpxT3MwQkp4NHREMjE1QlZRM2I3OGtyQWExVDZXcmdKdDAxNmZzOWdkSlllTUVpTWlZVUhSSVdIdWVBck1XV2F1VXM3QjFXeEFRMldNYmdLVUlpbmJhUWt0aXZYVTAzREhyZ056a0ZoSWVIX3VPU0dZSEZoS0hYdXdvTGljYzhQSTg2ZDg?oc=5",
-     "ts": "2026-11-23T05:07:12Z",
-     "summary": ""
-    },
-    {
-     "id": "8ccb95ab1a07",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Team-BHP",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI is the biggest entertainment launch in history!",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUp0RURWQ0JiQ2c1LWJDMTg5Uzh6Zi1oeWxiZmszTkFUajZVQzRVSHpKY3BCYlUxWWp0RThWNEZzcld2RlhoSWtxbmdWejJIWC1YUXZJQnhGcWlWdV94elc4SG52cEVZdTYtYnZORFZwd0lZOXp1azNydFdEWDFnc195blgwcHFsaUxPckRVVdIBlAFBVV95cUxPc05aQWJpYm9wS1A2ZHo4TVlFRVZmTG42QnVYMEUtelNRSEFUNmExcnUzNzA5bUI3NmRKeG4zNmRyREpWUkNQakNMYmRPejh4S2pFemRFMWM3ck5nVXJlR1p3RkQ3WXVHV2N5LWY3OWdTLXZLYzc3TTZvOU4xTndMVjhRaVRFZ2ZVWTBSdVNDUThkV3Bo?oc=5",
-     "ts": "2026-11-23T08:47:55Z",
-     "summary": ""
-    },
-    {
-     "id": "87abdd1095ed",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PocketGamer.biz",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 generates $3.79bn in day one sales to become the biggest entertainment launch in history",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMlZSWHF3S0NRNHA3azlnTXgzNG1SNlZ2S2JBVV9zU2N3cnBMM21Vc3lZNXQ4emNDNTk5SmVWb0FCZFFFUWZ2QU8yLWdNNGZja2RzVVVtQU9TZjJEQzNUd3BCVUlZbEIwTUVOMUZ3YzRseUtUSVY4aUZNMlo0OGExZGNRTW5tMmNaQURDX1lPM2ZkUEU1RVMycDVyN256WVJPRzNLcHYtTUg2OF8tOFVMMmo0YlFPdkxjR3U1eTRn?oc=5",
-     "ts": "2026-11-23T11:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "675a2c62aaa4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Cleveland.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 is already the most preordered game ever on PlayStation and Xbox — and launch day hasn't even arrived",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0w0a3JfRHhMUXlyX2x2SVloY0NUZFYyZm9EUndVdUhYcnZ3LUhHYlp0cHlTMmNkSmtwdXNlYVZBd200RFU3X1lKZFlpYVZMVG44TGhsdFNQRV9LQUxwWXhVNkNZVmlJX3pRelZMZTN4c3FJNmNPUGQ5UkhPV2Mta2lTbDBobVA0b29mMzZUVmhJTHdfNlMtMzQtdWNpbWw4SXBDR2U1SVFXcE1vdHhIcHFDNHhjS2kyNjhBQ2RhN1hzUEw3WkhfRjdjeW0?oc=5",
-     "ts": "2026-11-23T12:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "fcf8bc27ab45",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WTHR",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA VI' rakes in billions of dollars on pre-orders, first day sales",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaElvQ2FPV1hDbjh6QVpPb2R5OWlrUWEwVFJ1bE5BNzRXUXREZ2o1blE1YVk5WFNUZGw4em1YbTlVNi03S2tqM0ZjakdNTW4xMXlodXZ4amN1Qmx6cDF3WEpLODhIQ21MVmQ2Q1g3Q0FzU2NieFlBRzd3V2NmMDBhSHA2TW5NX1VnNENpVnB2aXlQZno3cXRSbFI4dnlZN2hJTWpobHRtaWhCNl9XX0tqYXMwTkJLZjJmdFc5TmpZeUhsM0pJelI5VzFyQU93RG8tcUNjdS1zV0paakNRMVFfOWNNd29NRVhfZWtFaGFR?oc=5",
-     "ts": "2026-11-23T12:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "513044b7d1d7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Investing.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Wedbush raises Take-Two stock price target on GTA VI sales record",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQk5CVWo2XzFHZThEWlFHdFZHTHMtYWNzUEdCNW1pNHY3b2tYRWZtVVd2bjdtWTFHYjdBU1BKb0VtUDdHUlhlTmxiZTdYVzl0VEFIYVIxVG94R3pOTXRnNzdhQ0g4Z3RIclNaTTJNUlZNZ0w2bl95OGVRVlhHaDFKNnNmZW1jVElXZEpSWURRRm1oTUduTXAxVHZFaHNiUnBJQVRubm9wbnctd0pra1dkRmxwZkZlRVdpWFcyTUZUeTlMUQ?oc=5",
-     "ts": "2026-11-23T12:23:52Z",
-     "summary": ""
-    },
-    {
-     "id": "6f4661fd43f1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Traders Union",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Продажи GTA VI в первый день достигли 3,79B: почему ралли Take-Two сошло на нет?",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTRFN1dxM0VnSmdQcXlGVDJSQzlHaGJ4MlkzVnVaSi1QOE9TSDJvZHROTnQyd3hCcld6SU9uLUo3aWs1eVVlaEtEeElqRE5jRVEtb2s4SFhMRU5NUS1xeHJZazB3YzVtMU54aDc5SHhBMlBLS3V1blRKd1drNXhtZW5xN21udFk?oc=5",
-     "ts": "2026-11-23T12:33:23Z",
-     "summary": ""
-    },
-    {
-     "id": "4081c952bb53",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Music Ally",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI: $3.79bn sales, streaming activations, music-charts impact",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXgzY2VPQUN4QjRuQkVLMC1wZW5YX3JESjJoaVg2ZzBidGNkZkt1bDhzbDhkSlI3TFZBcVV3ZE1fZ0dKVmptUjJ1ODhnZGk3NjdoZHFHNnNqUUJodGZZdE5IeHhfWTdEMXpZd1BTekZtV0R2WUFhVWNDdWVaQnp3ZU1LQlhnS1A4QmFrWjR2dlpmX3RYVHNBOTA2Yw?oc=5",
-     "ts": "2026-11-23T12:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two",
-    "цена/издания"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
   },
   {
    "id": "e8bdc72bdda9",
@@ -1558,60 +2185,6 @@
     "цена/издания"
    ],
    "score": 95,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "200d9970ee1b",
-   "title": "Russians lost access to GTA Online and RDR — issues arose with the Rockstar Games launcher",
-   "first_seen": "2026-11-23T11:11:11Z",
-   "updated": "2026-11-23T12:31:08Z",
-   "items": [
-    {
-     "id": "200d9970ee1b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Russians lost access to GTA Online and RDR — issues arose with the Rockstar Games launcher",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQanBxZXpDU0hoRmo4WnNwQmZUQ1NNNmVtRmRmN3puSDlfZV9SbFl6R3ZWOUhQM2RrRUM5ZjRxM094b245MkZ3NGpMYlh5U280LU96UWZWSDNSV1pIZmJneG1SWk9jaEkzM0tSRUg2d25nT0tEeTR1cGJublZQRUlNcU5xbnZfZ1liRk83SlVsbFBDQkp3Vy1JZnMwd2I5MFRsbzIzSjZOcElpN1JfQkhGekpEVlVNZ3RpT21kemZfellzM2F4MGNVX0stblLSAdIBQVVfeXFMT2t5aThBUnhlWWNMTTZxTzAyeURiMWF6NFZacDBrM01qdjhaVDRpY0EzZ3pNSzMyM0s3NTJGNXZfYlF1cTktcDBpclNOWFY2enpSNWFnY2NHTjFpRk5uX1JOODBRNGl5VEZTcjZib19VVEFiWGFVNWhIcUVnd1gwdWJYSmZSRnhvT19ja0xINTVBODhfMXhxSzYtRnFIa25RUThybXZBRzJUT2RQUnd1b1YyclduS2N6MWV1c2J0YTM3d1FOemxoOFVVV3VQQ1ZUS0ZR?oc=5",
-     "ts": "2026-11-23T10:53:00Z",
-     "summary": ""
-    },
-    {
-     "id": "51854928d6ed",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "В России случился масштабный сбой Rockstar Launcher — игроки не могут зайти в GTA Online",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXFPSDd0c21XWTFfX2xxMW5CcWdXQm9oVExIZGVYakpNNkw0WlJici1GcXBybFBRY3hGR1lnUGxrcFFMc2N0b3kwMEJQYV83MHVDSXFZRVU2NGMydzhCSWZyalluMFFRd0wzVG5xTHplcl8wMUthNklzMUtiVmViRDM2dlMtYUNUa0p6YTJqbHNlZnlId0JIN0NSWFJJWlA0aXl5Y0tZM1_SAa4BQVVfeXFMTllLbHZaVHZnTjBzbTRESzZnZFoyQlBjTnRValBTSjlkcklmNkhHbDU2OUktN2JKODBqNm1KcE14a0JTa2xEOXRjekVwbG1fMDdhb29zVWZhTmRqTllQangxdmVQRTFVLTV3bjh5dmQ0NlQ4QXQ1eVpqaEpHcjIxbHlWMTVZZTZMUEpiTU5Eajlqci1PT0wzVENmaE53dzlFWDUxODJkZUpVRGgxaHB3?oc=5",
-     "ts": "2026-11-23T10:32:11Z",
-     "summary": ""
-    },
-    {
-     "id": "707455bd3e95",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "В России случился масштабный сбой Rockstar Launcher — игроки не могут зайти в GTA Online",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUtsdlpUdmdOMHNtNERLNmdkWjJCUGNOdFVqUFNKOWRySWY2SEdsNTY5SS03Yko4MGo2bUpwTXhrQlNrbEQ5dGN6RXBsbV8wN2Fvb3NVZmFOZGpOWVBqeDF2ZVBFMVUtNXduOHl2ZDQ2VDhBdDV5WmpoSkdyMjFseVYxNVllNkxQSmJNTkRqOWpyLU9PTDNUQ2ZoTnd3OUVYNTE4MmRlSlVEaDFocHfSAa4BQVVfeXFMTllLbHZaVHZnTjBzbTRESzZnZFoyQlBjTnRValBTSjlkcklmNkhHbDU2OUktN2JKODBqNm1KcE14a0JTa2xEOXRjekVwbG1fMDdhb29zVWZhTmRqTllQangxdmVQRTFVLTV3bjh5dmQ0NlQ4QXQ1eVpqaEpHcjIxbHlWMTVZZTZMUEpiTU5Eajlqci1PT0wzVENmaE53dzlFWDUxODJkZUpVRGgxaHB3?oc=5",
-     "ts": "2026-11-23T11:08:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 68,
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
@@ -2513,45 +3086,6 @@
    ],
    "tags": [],
    "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "063e3293b159",
-   "title": "Участник испытаний Neuralink сыграл в GTA 6 силой мысли",
-   "first_seen": "2026-11-23T12:20:51Z",
-   "updated": "2026-11-23T12:20:51Z",
-   "items": [
-    {
-     "id": "063e3293b159",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Участник испытаний Neuralink сыграл в GTA 6 силой мысли",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0VoeWQ0clFPU2pqWmt3MXVVczNSQU01R1pqRUcxa3dmR3lYX2ZiQ2JFd0RXZ3BOelBFLVlnZ3ZRbmxLa1VUeF9LOWxuNFBNTFVzbTdhdVhtQjlDRHViNnNiR3ZKaVFCREhFRVlBcE9maFFrNnpsRlR3eEZWdUVienhMWjVHTEE1d0xuTGNKWl9BcnpMaERRNW1oWE9fdzFa0gGmAUFVX3lxTFB4V3h1eDhYbDgwUS0yTEZ4cnJNVWg0Y0NoOGl2RXpUbHJXZkRVdEUxc3F6eTMwVUFrSmdFTXJFQ280NnBGWlpMUndYSTRaTDI2QkVSM0xOejdTYWlYWG5VSFV2ZDlKa0U2UThBRXY3Z0R3dWhUYnBvTUxNZTdXT0dTMW8ySVJIVzJsOE9jcGYxT1BWdXlvZXJsUm85cWpqTllCREJscnc?oc=5",
-     "ts": "2026-11-23T12:06:54Z",
-     "summary": ""
-    },
-    {
-     "id": "4396839133f2",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ITSpeaker",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Участник испытаний Neuralink сыграл в GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGYWlCWmxiTWlBdVNBb3ZFb1dNaFB6MnJjNk12RFhQWTducF9qQ1VOUFJtZWVFeDh1R3JBZ2RoaVhlXy1wOEEzei1vRWhXYTMySTZWMFNMcEJPdFAyZC1JNTQtQ1lQd0RDU1l6NkctZGhIcHEyV3RMekxqRUR6dw?oc=5",
-     "ts": "2026-11-23T12:13:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 48,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -16838,34 +17372,6 @@
    "msg_id": 1944
   },
   {
-   "id": "39ecb0787223",
-   "title": "Who Are Real Dimez in GTA 6? Every Confirmed Song and Voice Actor",
-   "first_seen": "2026-11-22T21:01:24Z",
-   "updated": "2026-11-22T21:01:24Z",
-   "items": [
-    {
-     "id": "39ecb0787223",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "RouteNote",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Who Are Real Dimez in GTA 6? Every Confirmed Song and Voice Actor",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeTZiMTNvWUEyMkcxRFYtd3VXRzVfMEpZWk95eFpIYno5dWlVMmhJOUY5RENCNW1JbmMxakVHaVBCeVFmbXBwM3BlYXc2SFRDdzY3LVJBamhmYWRLY0JIOXBDOXFveDItLW1sVmJKYTJkbHNrQjl5eXFfSExnVFc0R0U0V3Rmc2c0UllwS2dBNHlNMXlzWVZ5ag?oc=5",
-     "ts": "2026-11-22T20:49:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
    "id": "74485ac768c3",
    "title": "iShowSpeed Rushed GTA 6 and Got a Bad Ending",
    "first_seen": "2026-11-22T21:01:24Z",
@@ -19691,69 +20197,6 @@
     "at": "2026-11-22T18:01:16Z"
    },
    "msg_id": 1928
-  },
-  {
-   "id": "2a594f4f53e9",
-   "title": "How to run GTA 6 at 60 FPS on Xbox Series X",
-   "first_seen": "2026-11-22T16:20:58Z",
-   "updated": "2026-11-22T17:50:50Z",
-   "items": [
-    {
-     "id": "2a594f4f53e9",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA VI на Xbox Series X якобы удалось запустить в 60 FPS — но есть нюанс",
-     "url": "https://t.me/GTAVIStar/1028",
-     "ts": "2026-11-22T16:15:11Z",
-     "summary": "GTA VI на Xbox Series X якобы удалось запустить в 60 FPS — но есть нюанс • Игроки обнаружили необычный способ изменить частоту кадров: достаточно запустить игру через Quick Resume. После этого в сети появились ролики с заявлениями о почти стабильных 60 FPS. • Однако, по объяснению авторов Digital Foundry, игра при этом работает с двойной скоростью — фактически весь игровой процесс ускоряется. • Реальная частота кадров редко достигает даже 40 FPS и большую часть времени остаётся заметно ниже. Так что полноценного режима на 60 кадров здесь нет. 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    },
-    {
-     "id": "b81c97682de0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "MobiDevices",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Как запустить GTA 6 в 60 FPS на Xbox Series X",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZNzVwcDB3QVBScHAxRkJsbGxQenpTNDZGWTMyS0JyTU5iaFpaeHJpSnlSQ2doZmlIWFRYXzJMS0c5eUVwVFBMSGt1cFhZUHd6Uk1XWDl2ZWtHWHhYZ1NJ?oc=5",
-     "ts": "2026-11-22T17:31:36Z",
-     "summary": ""
-    },
-    {
-     "id": "ad8937ccfdaa",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "mobidevices.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How to run GTA 6 at 60 FPS on Xbox Series X",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4X3pNbU9EdmJjbW8yTmZxVS1HTzNRVGh1VHBiWFpEUW5KS2h4Y1FxRWFIR2ZYQWktQ21UbFJ3NTYwYUJ4OFFSdVRlVGlaRkJzNTBFbTNWOTZ4eHZZVEpEOGZ6bw?oc=5",
-     "ts": "2026-11-22T17:31:57Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 в 60 FPS на Xbox? Есть нюанс с ускорением",
-    "summary": "Игроки утверждают, что запустили GTA 6 в 60 FPS на Xbox Series X через Quick Resume, и в сети появились ролики. Digital Foundry объяснили, что игра при этом ускоряется вдвое, а реальная частота кадров редко достигает 40 FPS.",
-    "idea": "Показываем «60 FPS» на Xbox и тут же — таймлапс геймплея. Объясняем, что это ускорение, а не честные 60 FPS.",
-    "hook": "60 FPS в GTA 6 на Xbox? Смотри, во что это превращается на самом деле.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-22T17:50:55Z"
-   },
-   "msg_id": 1926
   },
   {
    "id": "805b233fcfe7",
@@ -199561,23 +200004,23 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-23T13:02:27Z",
+  "last_run": "2026-11-23T13:07:06Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
+   "rockstar_site: 0/0",
+   "gnews_en: 100/100",
    "gnews_ru: 99/100",
    "gamesbeat: 1/10",
-   "vgc: 9/10",
-   "insider_gaming: 5/10",
+   "vgc: 8/10",
+   "insider_gaming: 6/10",
    "ign: 4/20",
    "eurogamer: 9/100",
    "dexerto_gta: 14/50",
-   "⚠️ rockstarintel: The read operation timed out",
+   "rockstarintel: 6/10",
    "gtaboom: 30/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 15/15",
    "tg_gta6deluxe: 14/14",
-   "tg_gta6_m: 7/10",
+   "tg_gta6_m: 6/10",
    "tg_gta6newsdaily: 1/19"
   ],
   "digest": "2026-11-23@9",
