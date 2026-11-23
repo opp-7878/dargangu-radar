@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "b688458ee7e7",
+   "title": "Почти шесть тысяч сотрудников Rockstar попали на карту разработчиков",
+   "first_seen": "2026-11-23T01:10:51Z",
+   "updated": "2026-11-23T01:10:51Z",
+   "items": [
+    {
+     "id": "b688458ee7e7",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "sport-express.net",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Почти шесть тысяч сотрудников Rockstar попали на карту разработчиков",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSGZmdXNNUGt6SU1YWGNRRzRuRXFjMEtRTUZRbUtwaU82eF9kUDlsbUl3UFBoVjZxNlJ6VE85NGE3cUV5U2k3d2JOemVMZjc3R3JWaGhhNE5VWm96LWlTOW9IVlFmZDBxNEg1aWpPeWNkdVd5MVA3ZVYyeHJ4eDZ2TUlvNjhZenROQ2Z4M2VIV19YY1VuVVc3YXZzRlRsYTNoR0s2eUl2MHNQaDV1N1VfQ0ZKcnJGcmV5Q1FIdUhsTURsV0llV25xeHpqVm9qaVF3?oc=5",
+     "ts": "2026-11-22T19:11:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "81b24d69bfab",
+   "title": "GTA 6: все чит-коды для PS5 и Xbox и способы их разблокировать",
+   "first_seen": "2026-11-23T01:10:51Z",
+   "updated": "2026-11-23T01:10:51Z",
+   "items": [
+    {
+     "id": "81b24d69bfab",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Sortir à Paris",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: все чит-коды для PS5 и Xbox и способы их разблокировать",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVTBLX3F4LUptem02RE9rSGVLQVZLSlpHU0ZPdERFbkFOR0EtM2dCTkg3SDRrWW5rZllSN1dpS0VYMWt5MmU3RHFTbHZMVUU4MWpib2hjQ2J4dG5CR2JvbEdaQVRCTG1rZURFeU1uSTdzNjZzZmlVeXNNLURmWXRrSTUwMHRkZmpPelBHTlp4LWVWLUdiZVlRbC1Sd0c1NjhTRlFLOFZxTzBQbGNQNGdSTzl5c1lhRTRrbW1pZi1yS19NcUJpN1NaNS13?oc=5",
+     "ts": "2026-11-22T20:47:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "84fb238cc659",
    "title": "GTA 6 Dev Honors Late Mother With In-Game Memorial That Players Can Visit",
    "first_seen": "2026-11-22T17:01:20Z",
@@ -195134,40 +195186,14 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c802baf16991",
-   "title": "Guide Book?",
-   "first_seen": "2026-11-16T01:01:15Z",
-   "updated": "2026-11-16T01:01:15Z",
-   "items": [
-    {
-     "id": "c802baf16991",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Guide Book?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xxbzb3/guide_book/",
-     "ts": "2026-11-16T00:58:12Z",
-     "summary": "What are the odds we get a walkthrough book like RDR2? I remember going to circuit city and flipping through the walkthroughs and strategy guides. View Poll submitted by /u/ifoundthisreddit to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-23T01:01:13Z",
+  "last_run": "2026-11-23T01:10:51Z",
   "last_log": [
-   "rockstar_site: 0/0",
-   "gnews_en: 99/100",
+   "rockstar_site: 0/1",
+   "gnews_en: 98/100",
    "gnews_ru: 98/100",
    "gamesbeat: 2/10",
    "vgc: 10/10",
