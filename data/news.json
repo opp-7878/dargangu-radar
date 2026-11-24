@@ -1,6 +1,62 @@
 {
  "stories": [
   {
+   "id": "f42a3d2cd32e",
+   "title": "Cyberleek сдержал обещание и опубликовал EXE-файл ГТА 6",
+   "first_seen": "2026-11-24T05:31:00Z",
+   "updated": "2026-11-24T05:31:00Z",
+   "items": [
+    {
+     "id": "f42a3d2cd32e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Esports.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Cyberleek сдержал обещание и опубликовал EXE-файл ГТА 6",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLYVJqWVZaSDc2bEFKd3NiVkh6VXpBcjM0MHIzazJXclVCOUlybE1rVmYzTGw1bHdxOTN6YjA1dEVmYV8tajlVYVJqYVFMTDB6VmVsa25iZjZ6MTdjeklOMEJ4ZDU0RnNPOHc?oc=5",
+     "ts": "2026-11-23T22:34:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 55,
+   "level": "SPECULATION",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "2e6959589192",
+   "title": "После публикации исполняемого файла GTA 6 разработчик одного из ПК-портов сообщил о закрытии проекта",
+   "first_seen": "2026-11-24T05:31:00Z",
+   "updated": "2026-11-24T05:31:00Z",
+   "items": [
+    {
+     "id": "2e6959589192",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Overclockers.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "После публикации исполняемого файла GTA 6 разработчик одного из ПК-портов сообщил о закрытии проекта",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTW5SS0pGV3NOMVppcGpORVNLVGc0Y3pvR3plNEpHZGctNnRtbnRWcVlKNWpfenFvQmVmdXp6QzNtSGtWNXpPRTlySlJWTTV5ZE10SEszcHZyOUkzekFIekY4V1FPeU4tSF8wRFYxb2RDR1ktbmFVWVlaaXpZRFVLOUU3SkVwVTQtT1pKdTd3TzViTTVscmg4bUp5b3c3NW5hVWhUeFV4SS1XVEQ3eXdidGN3cE5YalBTeWVoTXA0T21OcXl2and1R01ZZG9XRmt1U2d3Mm9hc0ZobjlJVkd6NzZKd19zeXEtZGNsWDZaUWHSAe8BQVVfeXFMTV9PNHNJby04WGs0aXduSlNoMEJCY2Y4ek5PeEhmRzZyRUxTOVNfTmF0TE5MajRiZHY3djFieVVJWUV4UnZZM2NZVHZPelNWQ1Rrd0d2cFk5VmtlSW45Z0RvYUgwWF9QeV9ESlBxc0gxVDFUUUQyWDYxbDRrVTlCYkdlUllneGlQd3ZmTjN6SkFULVF5RmNPTnJkYjNiSEJBUldVSzI3RjNIRmU3UkF2VWQxWWxZYjRKSnVuRVhQbk1tSlhibWFhZlNfb3g0Q21FUEE4c210REhHbWZoZmVCbTEwaVRBTHQybnJfV1paaGc?oc=5",
+     "ts": "2026-11-24T02:49:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "a5ed119d63ed",
    "title": "Продажи GTA VI достигли 45 миллионов копий, а выручка превысила $4 млрд Чтобы вы понимали: 😀 Каждый третий владелец консоли уже приобрел игру 😀 Лидером по прода",
    "first_seen": "2026-11-23T05:40:50Z",
@@ -202325,11 +202381,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-24T05:20:44Z",
+  "last_run": "2026-11-24T05:31:00Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 100/100",
-   "gnews_ru: 99/100",
+   "gnews_ru: 98/100",
    "gamesbeat: 1/10",
    "vgc: 9/10",
    "insider_gaming: 9/10",
