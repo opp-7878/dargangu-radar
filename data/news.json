@@ -4,7 +4,7 @@
    "id": "2e6959589192",
    "title": "GTA VI's cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder",
    "first_seen": "2026-11-24T05:31:00Z",
-   "updated": "2026-11-24T22:31:07Z",
+   "updated": "2026-11-24T22:40:51Z",
    "items": [
     {
      "id": "2e6959589192",
@@ -785,6 +785,19 @@
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TzlzV0NUVkFfSkNJRWRuT09pdjdrbTQ4S3dMNkpMQVEtWUxLcENTU1ZSLWlZS3RoNFg4X1R1ZDdfcjNzS1hNUkJ1RFNrcWVNZF9fXzBSb05uVUJOZFJkZjJtN0xPOXBCQ0w3dDNKMHNWWkFTOVVRVXJR?oc=5",
      "ts": "2026-11-24T21:47:58Z",
      "summary": ""
+    },
+    {
+     "id": "f6a8b86367a3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Энтузиасты запустили GTA 6 на ПК через несколько дней после релиза",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ydU5GbXQzenlIM1lLZEpxSUNyaHFQcFprcVJtWDdfVkFNR1U2TlMzOEduaVV2QnVvUGZRaDBDUDB0NlB6ZXJIdlRDM1VyVWV2NVlnU0xxNm9PVWYtOGJFOTU4TndKT3NsR2hmVEtGMGF3R2p5U1E?oc=5",
+     "ts": "2026-11-24T16:20:29Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -796,6 +809,108 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "ffb23a986228",
+   "title": "Epic 'GTA 6' scavenger hunt erupts after actor asks for help finding him in the game",
+   "first_seen": "2026-11-24T22:20:52Z",
+   "updated": "2026-11-24T22:40:51Z",
+   "items": [
+    {
+     "id": "ffb23a986228",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Epic 'GTA 6' scavenger hunt erupts after actor asks for help finding him in the game",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEdoMExBM1AtOEtsbGozUnJubnNPX3RnQkh2Qy1WSldfa0tDWjlvVUFVTTY0WWF0UktVOXNWQTVyVnRNNFFpOEVNbkhQR2p3ZFFhSXVJX2ZRdWxPVnNzcmJ6UVZySHlwcmJZdTJhcHUxU2Q0a0t3bUg1QWRMYzdidUNKXzkwZVFY?oc=5",
+     "ts": "2026-11-24T22:10:11Z",
+     "summary": ""
+    },
+    {
+     "id": "fc7d93f01992",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable SEA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Epic 'GTA 6' scavenger hunt erupts after actor asks for help finding him in the game",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWRYTzFNSGttSkctZGVabnBwSDVmaDdjYl9Ndk1VU2V0MFlBVDAxbkVFOW1weFBwdkpfR2dMUk1NSEZnY3czTHpXMEVKeHIyM2M0eFNwbHl1RHNONEtYV29oNDVnSVRwS3FBNEM4RnNtRm5NMHV4TkhINnhlT0FCYkUwVUNXcE1VVVRnNzNXWGRhc1Zhd2hGanJLOWpDNWlhYXJxcTlybWZYR25zQnB3eXlvVDFHSzVRdFE?oc=5",
+     "ts": "2026-11-24T22:04:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "👀 Актёр спрятался в GTA 6 — комьюнити ищет его по всему Вайс-Сити",
+    "summary": "По данным Mashable, актёр бросил фанатам вызов: найти его персонажа в GTA 6, и в Вайс-Сити началось масштабное расследование. Игроки делятся подсказками и скринами, охота быстро разрослась по соцсетям.",
+    "idea": "Короткая нарезка поисков по Вайс-Сити с реакциями чата и картой: зрители включаются в «охоту» и ищут вместе. Это вовлекает аудиторию и даёт повод для комментариев с находками.",
+    "hook": "Актёр спрятался в GTA 6 — сможешь найти его первым в Вайс-Сити?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T22:40:56Z"
+   },
+   "msg_id": 2197
+  },
+  {
+   "id": "0438bcf178ac",
+   "title": "Скачок между The Witcher 3 и The Witcher 4 будет похож на переход от GTA V к GTA VI, заверила CDPR",
+   "first_seen": "2026-11-24T22:40:51Z",
+   "updated": "2026-11-24T22:40:51Z",
+   "items": [
+    {
+     "id": "0438bcf178ac",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Скачок между The Witcher 3 и The Witcher 4 будет похож на переход от GTA V к GTA VI, заверила CDPR",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMTZLMU5UVDBnZ2tyVE55SHJyRnVhRmFrT2xDOVBjMl92UHlZSjFNZWxiVFZNdy1YcEl6RXBUc0drUzN3dzNzOS1VV3lvS3JCVVJWZzc5STkyVGotMGVtR1RhTHBoVmt2S1dXTVFCTnFJMERZOXFjMkNFZ2dlNVF1NHJhN3FiQXpTYTRhLWE2TlI4WUJyVHM1SnNaS29aZ2ZKZWR5Z1FyZi1aOElGM1NheFFqazlkVGlUTElvbkgzajBNZGlKSEhwUUxNTEJyazhIRzVN?oc=5",
+     "ts": "2026-11-24T20:30:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c40c6401e2f5",
+   "title": "Grand Theft Auto VI takes over Miami, including its art destinations",
+   "first_seen": "2026-11-24T22:40:51Z",
+   "updated": "2026-11-24T22:40:51Z",
+   "items": [
+    {
+     "id": "c40c6401e2f5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Art Newspaper",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI takes over Miami, including its art destinations",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2w2a3NtU0lWa2szd1FCQlB2UXZaQ3ZTNUVIakpzcko1MFplclFLRmFQalYwOUJNWWdKZk02Y0hkZlpMUVZUbVpYbzZTUWgtQWFoajdjZGgtVkx4LVVGZzJnV1lvcXZaOWp3VUtyamNHWlN2S2J2MzZzQk1JYkRMSmdaVktJRXhTbm9LUWhQWlNIcjdEZnhtNDloZUU?oc=5",
+     "ts": "2026-11-24T22:36:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -1355,32 +1470,6 @@
    "score": 65,
    "level": "PROBABLE",
    "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "ffb23a986228",
-   "title": "Epic 'GTA 6' scavenger hunt erupts after actor asks for help finding him in the game",
-   "first_seen": "2026-11-24T22:20:52Z",
-   "updated": "2026-11-24T22:20:52Z",
-   "items": [
-    {
-     "id": "ffb23a986228",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Epic 'GTA 6' scavenger hunt erupts after actor asks for help finding him in the game",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEdoMExBM1AtOEtsbGozUnJubnNPX3RnQkh2Qy1WSldfa0tDWjlvVUFVTTY0WWF0UktVOXNWQTVyVnRNNFFpOEVNbkhQR2p3ZFFhSXVJX2ZRdWxPVnNzcmJ6UVZySHlwcmJZdTJhcHUxU2Q0a0t3bUg1QWRMYzdidUNKXzkwZVFY?oc=5",
-     "ts": "2026-11-24T22:10:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -198642,10 +198731,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-24T22:31:07Z",
+  "last_run": "2026-11-24T22:40:57Z",
   "last_log": [
    "rockstar_site: 0/3",
-   "gnews_en: 97/100",
+   "gnews_en: 98/100",
    "gnews_ru: 99/100",
    "gamesbeat: 3/10",
    "vgc: 9/10",
