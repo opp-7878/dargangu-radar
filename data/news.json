@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "5edba3efd657",
+   "title": "Rockstar удалила GitHub-репозиторий, Discord-канал и Kick-канал порта GTA VI",
+   "first_seen": "2026-11-24T00:50:48Z",
+   "updated": "2026-11-24T00:50:48Z",
+   "items": [
+    {
+     "id": "5edba3efd657",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar удалила GitHub-репозиторий, Discord-канал и Kick-канал порта GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHpzbWFtLTBFSkxRa2s5aFAxbVNtb0tuamJReDF6MWE3MGJkZkdBX0V6VFpObXZtMWYxN3pibjZ5dnhNcUtFZnRHMnFpcTRVdTFfRnhzMjFFQjN4NDZBTHg1SjBtM1g0a25SRDRWTjk5cU5pb0xZV0tFVzRCamJkY1VfVlRaMDdJNHh3cQ?oc=5",
+     "ts": "2026-11-24T00:49:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "a28c9a56f0f2",
    "title": "GTA 6 was the ‘biggest launch in PlayStation history’ with over 39 million players",
    "first_seen": "2026-11-23T03:31:03Z",
@@ -203223,9 +203249,9 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-24T00:47:07Z",
+  "last_run": "2026-11-24T00:50:48Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/4",
    "gnews_en: 100/100",
    "gnews_ru: 100/100",
    "gamesbeat: 0/10",
