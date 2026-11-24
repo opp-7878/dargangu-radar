@@ -1,6 +1,773 @@
 {
  "stories": [
   {
+   "id": "fa647fdc34a6",
+   "title": "Grand Theft Auto 6 has received a new update which fixes autosaving",
+   "first_seen": "2026-11-23T14:50:52Z",
+   "updated": "2026-11-24T14:50:52Z",
+   "items": [
+    {
+     "id": "fa647fdc34a6",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Grand Theft Auto 6 has received a new update which fixes autosaving",
+     "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/",
+     "ts": "2026-11-23T14:44:32Z",
+     "summary": "The new patch fixes other bugs, including being unable to lose Wanted Levels"
+    },
+    {
+     "id": "d3d4d7fb6d28",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "VGChartz",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Update Fixes Autosaving, Game Crashes, and More",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUlyRjRsa2R3Xzl1eG5fbjYxeHZtR0hMVzdzbWV1eUdPVnlsc2lZcWxLYWh5QVhRWlRaLXF4eEZjYnVuWk9ackJwd1U5RGNTbi1SZERSb3NZY1VqQlZHbWo0M0NrWkp6VHcxS2JLY19FckJCV2Z2aHoxTG11T29KVGRyb2NxRng3SkZ1MmluMjQ0TXFrYnpz?oc=5",
+     "ts": "2026-11-23T15:40:03Z",
+     "summary": ""
+    },
+    {
+     "id": "54b3aacda695",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "finchannel",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 update fixes crashes, autosaving and story-progress bugs",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaDVTQU9qemxmN2R1eGl2c2p6NmRYQWJhTV9CaWw3U0dvall1MG1XMzFNSG45a3YtcE1hUEhSOEwtclhDcGswM3NzdnBNbGZjSDJxSEpkR1lfQzl5VUFCTzNUcDljVEdCMklmTV84SVhVbldnUTRiQi1WOVB1dUpET3licWxINnR3M3FVQ0YtTHFseDZISHBwLXlBR3ZEQlhZNnJPUkNHOFl2Y0E?oc=5",
+     "ts": "2026-11-23T20:43:49Z",
+     "summary": ""
+    },
+    {
+     "id": "351b0bafa67a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Game Informer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI Update Addresses Bugs Affecting Autosaving, Weather, Story Progression, And More",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2FKcW15aDhTYkJzTGw4SzVKRlUwb3NrZHVGRWxNSjkwOXdiWjYtVkNvbWZGWDNIckVOdko0RlBrZUhKU3dKVUl5aF9FaFNUOENaeU1ROUwxaV9qTUdvcTRlYUd2Y0RTMjA3aG1NN0dMRld3d01XcGlTeF96UktkZkpBQWxTQTFPSkNjREdBX2dfNWpzYzRxUDVGb1ROaWx5MHVCaUNZei1qcWlab0xyV096YkJMZ0lLam4xeFBpYS1EUQ?oc=5",
+     "ts": "2026-11-24T14:48:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 94,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Вышло обновление GTA 6: исправили автосохранение и розыск",
+    "summary": "По данным VGC, GTA 6 получила патч, который исправляет автосохранение и другие баги, включая невозможность снять уровень розыска. Rockstar пока не публиковала официальный список изменений.",
+    "idea": "Короткий разбор патча: что починили и как это влияет на геймплей — без спойлеров. Зрителю важно знать, что игра стала стабильнее перед релизом.",
+    "hook": "Патч для GTA 6 уже вышел — автосохранение и розыск починили.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T14:50:58Z"
+   },
+   "msg_id": 2017
+  },
+  {
+   "id": "2e6959589192",
+   "title": "GTA VI's cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder",
+   "first_seen": "2026-11-24T05:31:00Z",
+   "updated": "2026-11-24T14:50:51Z",
+   "items": [
+    {
+     "id": "2e6959589192",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Overclockers.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "После публикации исполняемого файла GTA 6 разработчик одного из ПК-портов сообщил о закрытии проекта",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTW5SS0pGV3NOMVppcGpORVNLVGc0Y3pvR3plNEpHZGctNnRtbnRWcVlKNWpfenFvQmVmdXp6QzNtSGtWNXpPRTlySlJWTTV5ZE10SEszcHZyOUkzekFIekY4V1FPeU4tSF8wRFYxb2RDR1ktbmFVWVlaaXpZRFVLOUU3SkVwVTQtT1pKdTd3TzViTTVscmg4bUp5b3c3NW5hVWhUeFV4SS1XVEQ3eXdidGN3cE5YalBTeWVoTXA0T21OcXl2and1R01ZZG9XRmt1U2d3Mm9hc0ZobjlJVkd6NzZKd19zeXEtZGNsWDZaUWHSAe8BQVVfeXFMTV9PNHNJby04WGs0aXduSlNoMEJCY2Y4ek5PeEhmRzZyRUxTOVNfTmF0TE5MajRiZHY3djFieVVJWUV4UnZZM2NZVHZPelNWQ1Rrd0d2cFk5VmtlSW45Z0RvYUgwWF9QeV9ESlBxc0gxVDFUUUQyWDYxbDRrVTlCYkdlUllneGlQd3ZmTjN6SkFULVF5RmNPTnJkYjNiSEJBUldVSzI3RjNIRmU3UkF2VWQxWWxZYjRKSnVuRVhQbk1tSlhibWFhZlNfb3g0Q21FUEE4c210REhHbWZoZmVCbTEwaVRBTHQybnJfV1paaGc?oc=5",
+     "ts": "2026-11-24T02:49:00Z",
+     "summary": ""
+    },
+    {
+     "id": "2d5cc9d6a2a1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Overclockers.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Публикация хакером исполняемого файла GTA 6 позволяет моддерам приступить к ПК-порту",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX3pSNE1PbGd4TnpIaTNoWUpVcDZwLUlDRW44S3hIdUV0OUlSbUJ6Snp6RTVBaFZlYklYQ2tiVzlMbUlrWDFwYUt1NVdieC1CWk02TGV5aEdwa3FtYm1Bajgzdld6cTcteU5PeVN6RFpZSTdYMktNeXAwaTR4V2VxLXlwZlpHekVMaDRoYTVSbHFremg5UVdub1ZpR1k3WFdwTzlnR2ZrMTIxYlVhaU5CQTNFcVowb19Ba0tpeGxzeXdHRzduRk9qN0o0ZFk2eU5EWHl4QWMtZlHSAdcBQVVfeXFMTVdYeUJaOVVUaWRld01IYzJONHVldlJ6Y1Znay15TGFtVm1QOTNUUTNTaEJZMEktTmJ1T2pOdGpHeDJodFUwSHBZUHlLSWtPclNIcjl6X0VDY2pDMkZxQldFZC0xMi1aVmM2WUFCZWhRcXpPMUVwRVFpdjRmZHV4SEF2cWJ1a2l5UDl5aDBWQWdPcnBNMGVaOTZ4UG5tSmRHQVpNS0ptZlBMUVQwdXdRaENnNEpvRElzb0EwR3hUZFJtbWpvZ1RlZXpmcWUzd2NvVzlhVDZ1Uzg?oc=5",
+     "ts": "2026-11-23T16:20:00Z",
+     "summary": ""
+    },
+    {
+     "id": "ff248161c6ea",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Автор проекта Leonida по портированию GTA 6 на ПК покинул разработку, испугавшись юридических претензий со стороны издателя",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcUtJa0lhQ3Z6aS01bWI3QUUxdXltX05mQl9yT2YyTzlYalA5OGU4LXFTejFGanlNX19wa2MxVENoTDdlNU5PQUhEMjNWejJ3R2tWNFB2em9jQjZsZmNCTzc4eFNJT3I4eE5XeFVMNm14SnpmRHZiY2VTdWpPeTAyZzItVHVTS0dTZkxROXRwMk82Xy01Tm1pUHJwbjFubEZ1THVKNmMzX1RLLWg0LWExSlN0RHd0Tnp6SmdhR2U2OWt1Qlhsel9BVkJNZV94aEhIaXZvY2JnWGV4bFc1bjViQ2plR1BiRkM0?oc=5",
+     "ts": "2026-11-24T07:28:07Z",
+     "summary": ""
+    },
+    {
+     "id": "9f22a4a9b3a5",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Неофициальный ПК-порт GTA VI удалили с GitHub и Discord сразу после первых успешных запусков",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTkg0NjVEN0ZxaVJlU3JRZ3R2N1ZpVGlaY0RBSHJySDhtaHVtRkdobHhEY3VxZ3NJNUhQc09tckh6UXI3MVBhYmo5TW9HQWg0XzVvblNnOFR0QVJVemNWdjR4RmtvbXFTd2RzcE5jWko0cTRBcjBlVHVIUGh2ZVFJQ2xDelhsVXp3dGRhT0tMVjJqX3pSU1RXLW95MWhZWmlCNmQzVU9YNVpfdnQ3SWfSAa4BQVVfeXFMTU5INDY1RDdGcWlSZVNyUWd0djdWaVRpWmNEQUhyckg4bWh1bUZHaGx4RGN1cWdzSTVIUHNPbXJIelFyNzFQYWJqOU1vR0FoNF81b25TZzhUdEFSVXpjVnY0eEZrb21xU3dkc3BOY1pKNHE0QXIwZVR1SFBodmVRSUNsQ3pYbFV6d3RkYU9LTFYyal96UlNUVy1veTFoWVppQjZkM1VPWDVaX3Z0N0ln?oc=5",
+     "ts": "2026-11-24T06:45:10Z",
+     "summary": ""
+    },
+    {
+     "id": "bd6bb93df700",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Компьютерра",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI могут запустить на ПК уже через несколько дней после релиза",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUFSME5PMF9hQXZlMEdSVjZTaTdHdzcxR29JSTk3bmhaTTBqOVFTU3pWcWI4M3RscU5abFpLajN5dE85VkF1UkdEb3JZSk55MnZUbmlzdU5uSnpCeUZuMXhrU0JMbUtwek9DdWk0cklFZFB5TTY5cVhUcjlXU3pYaFJBaHRCbG9ZeHNzazFWUmgxNFZzMC0zeVRQNDRoX3BuR0E?oc=5",
+     "ts": "2026-11-24T08:40:41Z",
+     "summary": ""
+    },
+    {
+     "id": "5ea9fe335e3a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Игроки на ПК положительно восприняли разработку неофициального порта GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXpURVBOY3I2cEYwS1ZFWmdzMnJfZ24tSjFZbjFIZVlWN0xGMmlaeU1vbExlVU50X0R1ZmxsZ3VVcVFlMkRFWXhzY2tfbGF5S3I2MG1XMXVVS2d5aUtid2p3Zk5fQWNuazNjX0hVRDI0cHRDbnA5MGtWMzUwYmVXcm9ZX3lESkJVZ2RweDdPWEtpWGlDdkF1QUs4bGZrbUpBSVBqOHVwM2E?oc=5",
+     "ts": "2026-11-24T09:21:07Z",
+     "summary": ""
+    },
+    {
+     "id": "d06ee8ee98e4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Неофициальный ПК-порт GTA VI удалили с GitHub и Discord сразу после первых успешных запусков",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWc3aEJwbFJRa3R4TktfTEZZbGx1cUc2emlFNFpxSXlIdDdPeEtSOVFKMEFnRjRrYWRNTWdFSWpMMmRaNU03YWljRkkwVXdzQnpzLUhkRFh0dTVRU2tCWGtBNXdZTGNlTW5STUt3LWtURUtoa1ZVLTJlc3M4LUxrTVlXZlhpV0VOMHlnSEEzR3lENUtGWlNhZFZCUXFBX1I2MXFBc25mQjbSAa4BQVVfeXFMTU5INDY1RDdGcWlSZVNyUWd0djdWaVRpWmNEQUhyckg4bWh1bUZHaGx4RGN1cWdzSTVIUHNPbXJIelFyNzFQYWJqOU1vR0FoNF81b25TZzhUdEFSVXpjVnY0eEZrb21xU3dkc3BOY1pKNHE0QXIwZVR1SFBodmVRSUNsQ3pYbFV6d3RkYU9LTFYyal96UlNUVy1veTFoWVppQjZkM1VPWDVaX3Z0N0ln?oc=5",
+     "ts": "2026-11-24T03:31:45Z",
+     "summary": ""
+    },
+    {
+     "id": "aa46cfb0dd6f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Один из неофициальных ПК-портов GTA VI добрался до стадии рендеринга игрового процесса — Videocardz",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHRaNGxVSzZoc2ZzWDhrdUw5VktoM2VNV0phcVJsQW1SNnE5aktlWnBHZzZLOEdjamR2cjJVT3QtbDBsZWJOOE9rNXBxM2gxRVViRlQ0MGNQSUhKR2tpNWp3RkhpNGJDTXlDZnRWVUtxTkdHUDhQX19KZ3RReFByOE4yRmJjZEtjRDBydjJuOEpneFZsTUplSXhHTFJJQzJFSERXMUV1Z3NfZ9IBrwFBVV95cUxNSTVST0lCQm9HU0tuWVlUOFhYUXVTV1RCZ2c0QTloTWZfWXR1N2huSUpBU3c1cVJDV29GdXVwT0llU0tnSkdtR2M5azJGUW9jVG9RWFN4Ul9OZVpaVnRQTDh0cHQzSnZCM3FqRjFERWtGejEyYmd0ZER2aUpBdTRkNmlhN1NFZzJZM3ZjOVZFczVtZkh1OWppc2RSQmk2ZklTcU02UmdGOHlxblVpZEdN?oc=5",
+     "ts": "2026-11-24T10:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "331951ba5d16",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 на ПК: разработчики прогнозируют играбельную версию через неделю",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uaE83M0lhQnR4Sk5Ya1YwVFdnbWpyWkpOZWdMZTRNeWhqYk5iY2ViR1UxbjU1T3VUSHF0cDNCYkI2dlh6c0hOQjJMVUhZWGhGZ1FWT2dZUWpBVzZPX2ZvZXY4ekx2OEVPMXg4TTRaaUVyN1duSUFqRmV3cGlzUVU?oc=5",
+     "ts": "2026-11-24T10:40:28Z",
+     "summary": ""
+    },
+    {
+     "id": "3afe7ec467e2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Один из неофициальных ПК-портов GTA VI добрался до стадии рендеринга игрового процесса — Videocardz",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTVST0lCQm9HU0tuWVlUOFhYUXVTV1RCZ2c0QTloTWZfWXR1N2huSUpBU3c1cVJDV29GdXVwT0llU0tnSkdtR2M5azJGUW9jVG9RWFN4Ul9OZVpaVnRQTDh0cHQzSnZCM3FqRjFERWtGejEyYmd0ZER2aUpBdTRkNmlhN1NFZzJZM3ZjOVZFczVtZkh1OWppc2RSQmk2ZklTcU02UmdGOHlxblVpZEdN0gGvAUFVX3lxTE1JNVJPSUJCb0dTS25ZWVQ4WFhRdVNXVEJnZzRBOWhNZl9ZdHU3aG5JSkFTdzVxUkNXb0Z1dXBPSWVTS2dKR21HYzlrMkZRb2NUb1FYU3hSX05lWlpWdFBMOHRwdDNKdkIzcWpGMURFa0Z6MTJiZ3RkRHZpSkF1NGQ2aWE3U0VnMlkzdmM5VkVzNW1mSHU5amlzZFJCaTZmSVNxTTZSZ0Y4eXFuVWlkR00?oc=5",
+     "ts": "2026-11-24T10:40:21Z",
+     "summary": ""
+    },
+    {
+     "id": "8f8d154a57b2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Один из неофициальных ПК-портов GTA VI добрался до рендеринга игрового процесса — Videocardz",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ21SaVZKd3p1ZUVyNTVfaDZKWWlvWEl5X2dScVExRWNQcHJGR3lOWkZwZXhOTXhTS29yZUdqeG81RnRvRkZaNDh6UDRkUzFjMnA4RkZrbENqbkZhWVdINlJmNmpTM3ZKd0w4YVdOY0IwTlM4SDZURlI1QTJsaGdfMUIwMzJtQ0I5MDBNZm9teFJzYm1KRV9XdWw0T05yNkIyQkNiZW1nczhrRXVMYXpj0gGvAUFVX3lxTE5DbVJpVkp3enVlRXI1NV9oNkpZaW9YSXlfZ1JxUTFFY1BwckZHeU5aRnBleE5NeFNLb3JlR2p4bzVGdG9GRlo0OHpQNGRTMWMycDhGRmtsQ2puRmFZV0g2UmY2alMzdkp3TDhhV05jQjBOUzhINlRGUjVBMmxoZ18xQjAzMm1DQjkwME1mb214UnNibUpFX1d1bDRPTnI2QjJCQ2JlbWdzOGtFdUxhemM?oc=5",
+     "ts": "2026-11-24T10:14:11Z",
+     "summary": ""
+    },
+    {
+     "id": "22e0ff9236bf",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "УНИАН",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Опубликованы системные требования неофициального ПК-порта GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcjhKOWFGZ0Z5VFlzODRaUF9Ccks1TDh3YzJqbnFrUTJKMzlrdkRtb1BiNHFiSjVyQmF2UDhpQWhFanZLXzBBWVByeVRvSHFNZ0xZd2RqdWtyemZhZDJZMzU3S0I5WUltUWhSY2xhRUZ6VVZfS3pxUk9iOW1zMHlvQXZxcUVQaGNvSVRqeXpsWjFRYzZvaGZZZmlwcjltQk5UZ0poa05hbENnd09jRFE4OXQ4Snp3amxLUUx2WGhoNUh3bUc5RFHSAcsBQVVfeXFMUF81cEN0bF85aVU1Zmk4ZkJaM1QtNFBpUXBXS3RINTBJc0REVHRPOEo0RnA2eVpxQnRaV2ZxeVNmYkx2cExsSEtXTEpzdjdtUVRncFI0M3J6dHQ1TTlHR0RqQnRCYkhHVEFheHlNWlFwVnlMOTBYT0MxVVRwWUt1M2VNei1NZndLeFliQmVDaWRaMVByZ1p1RjB3WThFRmFUcXZZdnhiUkJDa2o3bFVrZ05TbUVvSlNkVWNZVkdKdk1kSUZlSTY0X3F6NXM?oc=5",
+     "ts": "2026-11-24T12:44:00Z",
+     "summary": ""
+    },
+    {
+     "id": "da6103e184d4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Один из неофициальных ПК-портов GTA VI добрался до рендеринга игрового процесса — Videocardz",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81VXpEZU9nMGFzSklEQU9zQ3pwc2FyZURSaWdqbUhkcDd4SGYwRVBNTm9wWnBOYjBqUGRBZzJoMG5yeXVJVThqU1NnODJKZ9IBrwFBVV95cUxOQ21SaVZKd3p1ZUVyNTVfaDZKWWlvWEl5X2dScVExRWNQcHJGR3lOWkZwZXhOTXhTS29yZUdqeG81RnRvRkZaNDh6UDRkUzFjMnA4RkZrbENqbkZhWVdINlJmNmpTM3ZKd0w4YVdOY0IwTlM4SDZURlI1QTJsaGdfMUIwMzJtQ0I5MDBNZm9teFJzYm1KRV9XdWw0T05yNkIyQkNiZW1nczhrRXVMYXpj?oc=5",
+     "ts": "2026-11-24T10:14:05Z",
+     "summary": ""
+    },
+    {
+     "id": "5a530b221d7b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "ПК-игроки поддержали неофициальные порты GTA VI и обвинили Rockstar",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzZfTmE0VWJRTDBpTy1hMmVJZWh3MC1lRE05eWI4TFNmX2RMY2p5dXIwZDBZdW9ReXBJWGZmYTVhdE52WENZUE9RR0FmTU5kTXp4WWJjTEVQRXhKNWkwYUx4VmNtRVdIS0pteGhlbXZOakFBVVNlWkdYSTg0ZHhxenVBZ0lvbFE?oc=5",
+     "ts": "2026-11-24T13:12:37Z",
+     "summary": ""
+    },
+    {
+     "id": "84f2c73e9b4f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Газета",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Энтузиасты запустили GTA 6 на ПК через сутки после утечки версии для Xbox",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByaG9LSmc5OHdZRHdIREVzckt4UFk2MWkzaFRjZFB3WGlidWFCeE1YcjBhZkNjYXdGbGdkVGNfMGhrcEZTZ0h0R1NiZ2p2Qy1PV0Q3Y0pQTHlINzA0SVViYXBfbTlmalBRbFVHTdIBckFVX3lxTFBLOXl3VExvV3I4SlFfNDBMNGpTa24xM21yRDJtQ09tbDVQMksyb1dVZm1mVnJBVWp4T0FVWDd5YWtXNWIyTGItWjU5QXYySF9UaEFWWWluUFJwbWlQY3o0VmpxLUtFZHA1ZXVUQTFEaU5KZw?oc=5",
+     "ts": "2026-11-24T13:17:27Z",
+     "summary": ""
+    },
+    {
+     "id": "06e7a0031ea5",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
+     "url": "https://www.eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish",
+     "ts": "2026-11-24T13:40:00Z",
+     "summary": "A lot has happened in the last 24 hours in the community working to get Grand Theft Auto 6 running on PC. And now, Rockstar has dealt a major blow to their efforts. Read more"
+    },
+    {
+     "id": "e0d859f71936",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Энтузиасты запустили меню GTA VI на ПК с 30 FPS",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRaE1Wckt0SmFOa3pJRnZJdnYtUVpOS3dueE9ob28tSHVLeTd4a3p5ZkU3ZDJvUEhLTzFhdkhpX3dqNkJqaXF6RHJ4MW4xcVhEZVcwZmNXbDh2dW0wWk1tZ2ZGX3QzVjd4SzRISVZkWjJ4NndEN0hEd1pWTQ?oc=5",
+     "ts": "2026-11-24T07:39:25Z",
+     "summary": ""
+    },
+    {
+     "id": "760d4810a8a6",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Carexpo.ru_ все авто на одном сайте",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 на ПК: Фанатский порт запущен, системные требования и почему Take-Two готовит иски",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUtnNElQMk5Zejh4Wld1WHJqd29TLXJYbWc1QldXVTBDQ3J6NUhDcm5NQmNpbjlFbmlBeXBhUHdCSEMwb01MdlhsblhUbUpWTElWWkwyT2JKcVpwZVdzNFlzaC02WFBkYThTRllyQXhLaFp1czRJSllkTlc1X1hzcmI3VDlLM281eTRpTXNRcmZjb3R4akpmVi13eVBQTjlTNTZTVGU3bk5KRTg4bElRNjRyWVc0eFk5?oc=5",
+     "ts": "2026-11-24T13:54:45Z",
+     "summary": ""
+    },
+    {
+     "id": "a1bc92a94b0d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 запустили на ПК — благодаря утечке версии для Xbox",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTM2enpXT3RwaFBEZEtNRlZpNVNkQzdiY1RqcFVfRnJUMkNoRXVTUG9yQ1VIS0F3Q1JPN0lLMDEyOVpiSkJHMkFRdmViZXFudndHTmwzMGNMOWpvR3YxWkJJYWZSQ0xLemw3bnYtQTRyUGFJRm9JMnRCVDRlMjJyZTBvWVRKMUZ1ZFlGaG1PeU0?oc=5",
+     "ts": "2026-11-24T10:02:56Z",
+     "summary": ""
+    },
+    {
+     "id": "37b5acba5e61",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesBeat",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "GTA VI's cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZVZPSEQ3b3dheFVacnZyZXNpTjIzaU03d1VWQjBuNDB2QUpiMjRFbThCcnBzaUs5ZFd0dDB2Z3RvRGJ2QU5zbXdPLVd6UC1EMU9QTnFjb1ZUVkZqeFNseEVPWXQ1eUY0Q09VeEJUZ0RWUHRlWmRyZ0pYTkszUEZ4OGluWFpQQ0xIM0FNb1QwQmFGSUJHRFRrUF93UEpSZFhRVktXVXhISkFpcUF1ckRJdQ?oc=5",
+     "ts": "2026-11-24T14:30:50Z",
+     "summary": ""
+    },
+    {
+     "id": "2da546d6141e",
+     "src": "gamesbeat",
+     "src_name": "GamesBeat",
+     "outlet": "",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "GTA VI’s cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder",
+     "url": "https://gamesbeat.com/gta-vis-cultural-moment-shows-gaming-at-its-most-powerful-says-ex-take-two-ceo-ben-feder/",
+     "ts": "2026-11-24T14:30:00Z",
+     "summary": "Grand Theft Auto VI is already the biggest entertainment launch in history, but for Ben Feder, former CEO of Take-Two Interactive, the game’s significance... The post GTA VI’s cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder appeared first on GamesBeat ."
+    },
+    {
+     "id": "c29e2f60de84",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TweakTown",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Why Take-Two shares have yet to spike from GTA 6's meteoric success",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFZGTnFhRk5KTFNRNlNieUJYS0MzeUM3LXBVQ3psQzgyOGdZMC15ajJrVUQxd19nSXBkc0JQbmZiSHhOckxmdkZEclctX05tVUxFTEc0djBOUGdIbDUxZ0h2Q0ZOYll1S0pSVzhDZmFERWxWOWxfZlpoZDU3NFFGMlZoR0NpaHZUS0VrYW5CR2R4NnpyQk5EaXk2dUFqeFhnTi1aRURaWEVlVjF4MEhOUjhvNEpDUQ?oc=5",
+     "ts": "2026-11-24T14:38:09Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two",
+    "ПК",
+    "слив"
+   ],
+   "score": 100,
+   "level": "HIGH CONFIDENCE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "d77d9dce24f6",
+   "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
+   "first_seen": "2026-11-23T15:10:46Z",
+   "updated": "2026-11-24T14:50:51Z",
+   "items": [
+    {
+     "id": "d77d9dce24f6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jVmlDSnRvT2FSTmNmcUtZQUE1U3Eta2pVNTRBR0RXVFRTOVN2eHdVZFJBMjJ2V1g1YTBNdU5LVDNlbWxURTk3NHlPZll3blNEcUFEOWU0cDdpQS1tdzRyWTZiUUVIT01ZRWc?oc=5",
+     "ts": "2026-11-23T15:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "b8859c6a2cca",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
+     "url": "https://www.ign.com/articles/secret-controls-gta-6-buttons",
+     "ts": "2026-11-23T15:00:00Z",
+     "summary": "GTA 6 has a whole bunch of secret controls that the game doesn't really tell you about. Here's how to flip your car, flip the bird, and much more."
+    },
+    {
+     "id": "289ee0b218e7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUk1aSUR6bmJEVDgyQkZFbndla3FXQVhiZG1rOU1zNWF1RDN6bVFlSVNQaVFnOGpMV2Q4UDUwb1RqNDFUcFhsUUtTM29NTTR2aXBLWmlCVXA0Z0drd09LUHptNXVzQ19NU2RVcEhLMnU5Zms3M2F1dm53OEZ0d2RuZnpMclRLX0xWb1ZRVDlVNTA4YjQwYmdUdTk3N3VJRl84Nm5QYWdyR3pueUlQV2tXY2VGbDdNeERNOWlicmJEZWlTeWpRQmFmQXBickNkclRKMkYxTTVqSUVzcURqUEdtWEh4ZlVncEEtdE5heQ?oc=5",
+     "ts": "2026-11-23T15:14:35Z",
+     "summary": ""
+    },
+    {
+     "id": "05176fa99b60",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNU56ZFl5QU9fR0dfN05JQUk5WGxMNERZT0JUdkZTYXRVUkxlSUQyLXJSY0ZHZzczaEswSHlfTkNoN1lZbVZaR0xUOThHOUFTcVhQX3JnMUtSMW0wS1dRUHRWZVR1eThXaHpJQ1g5YmtsSmtuT3NSbGhHMlcyMF9ieUlGNmdTQlFUb0NnM05HdHByc3hHZEp4dmhHM1BJUTNCcVRFNHh5Tm9ZbkYwM0VvTDBfOXR1blR1aERWR0psNndQT1NxMEQ3d1dGU3pNcWRXR0h2eHlNTTFOaDVjOG9z?oc=5",
+     "ts": "2026-11-23T15:12:59Z",
+     "summary": ""
+    },
+    {
+     "id": "e28b38ff6551",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "The Secret Controls GTA 6 Doesn't Tell You About",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EVndlakNFTEYxSG1aVDh5OVZfZTROSWx6NlpCMExHeEkySnpuUmFna3pXUnpMMm1vY1h4QzBWRnEwWG5FRTdyS3NZSGNHdUNpM0Q1TEpDdUJHZjZaZ1VjSUVQMThMWmt2QnBqSlhLTXNJT2VQM3J5b25zWl9nVFU?oc=5",
+     "ts": "2026-11-24T14:25:00Z",
+     "summary": ""
+    },
+    {
+     "id": "025286d542a4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Secret Controls GTA 6 Doesn't Tell You About",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRGZidDVDeVBoZXR6SzFXZzM0WXV0eDhFOXJiLW04OHVLdXB1YnJHcV9LWDZSeFY3aUNPUWZDMEkzd2x6enU3RWpBa2hpOEg1cDZqVXg1amhXczl2OUFnYU9BclItUDNrWEY4QTFpX0tiRDJQNHdRYm1vQ1dFQ19DYUVDaEd0aF9VY2hEWnhHS0hVcWxreHFlaDlEWEh2SXFNeEtZS0RHdWo5Y0E?oc=5",
+     "ts": "2026-11-24T14:25:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 94,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🎮 Секретные кнопки GTA 6: как перевернуть машину и показать фак",
+    "summary": "IGN показал скрытые управления в GTA 6: как перевернуть машину, показать средний палец и другие действия. Это не официальные гайды Rockstar, а находки редакции и игроков. Материал собрал удобные приёмы, которые пригодятся в открытом мире.",
+    "idea": "Короткая нарезка скрытых действий с быстрыми субтитрами: что нажать и когда это спасёт. Зрителю полезно — лайфхаки экономят время и нервы.",
+    "hook": "Эти кнопки в GTA 6 никто не показывает — а зря.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T15:10:54Z"
+   },
+   "msg_id": 2020
+  },
+  {
+   "id": "13efdbbcc21e",
+   "title": "GTA 6: Почему Rockstar включила бытовые задачи в сюжет",
+   "first_seen": "2026-11-24T14:50:51Z",
+   "updated": "2026-11-24T14:50:51Z",
+   "items": [
+    {
+     "id": "13efdbbcc21e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "https://digirpt.com/",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: Почему Rockstar включила бытовые задачи в сюжет",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUhZX2V6WXRjdkpyUzhHbVNsek1vdldfN1l4WHVjOURkUV8yQV9OTURTcU56UnhmMmltRTZaVTVTT2FQSFp2c3FEOVZzdDlZVC13ZXVzaGRiR2JYN3FycmZrUXNxaDJUckZwdDZhZHlXX0pHUVVBa3U3amR5eVg0eU9MbnhyM1QxTGpQb3R0RzZKN25wU2c?oc=5",
+     "ts": "2026-11-24T13:16:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1f69223c6ccf",
+   "title": "GTA 6 exclusive songs: New music recorded for Grand Theft Auto VI",
+   "first_seen": "2026-11-24T14:50:51Z",
+   "updated": "2026-11-24T14:50:51Z",
+   "items": [
+    {
+     "id": "1f69223c6ccf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RouteNote",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 exclusive songs: New music recorded for Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObnR3S19sVjJZWG05QzE2SnRjd0JWcXA3dDJ3WXBhN2t5cVBwYnEwcVJULUxNLW1JQXRBV0I4UVM3NFk4SjQ1dmNrRlFGTGNvY1ZQV3Rna0hOcUxXUExxb2FPREtzc2ZFVWVIY202SXNGVWZ1ZHZLMTVQN2YyMFNBY1k1TzR6aDRiY3E0YUxBQzdDb1FSVS1URg?oc=5",
+     "ts": "2026-11-24T13:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "5f3fa275a834",
+   "title": "Как получить новую концовку с расставанием в ГТА 6. Как закончится история GTA 6, если не развивать роман Джейсона и Люсии",
+   "first_seen": "2026-11-24T14:50:51Z",
+   "updated": "2026-11-24T14:50:51Z",
+   "items": [
+    {
+     "id": "5f3fa275a834",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Escorenews.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Как получить новую концовку с расставанием в ГТА 6. Как закончится история GTA 6, если не развивать роман Джейсона и Люсии",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUWljYlRfSV8yNlFJLUZxempwaFlfclFFU2xINXVrRUtRMGhKTmdNYzJlbVFLLWtEaDJreEk0S2NnZm45RDM3QXpLQXNkc2JJMzgtMmZ6Q0k5N3NkWFl4a1VJQkRkMHJ2bFNvZUU5c2xwNGlIR0xZcDhIVmlpdkVLM3p5eFMyOXhiRFlEM1R1MWFwaXYzdUN1SnNwa0tGX2NGTG56MXByVDhkYkt0Mjh2ZFFpWkNfaHNUc094T2dKbi1kNWZTdFQwTkFrTTVXUEZiR2tzYUllemRzVE4td1Y5UUthMHZ0MkNOajZWQ0Y1T2VlRmV6?oc=5",
+     "ts": "2026-11-24T13:50:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4c44e904ae2b",
+   "title": "Travis Scott-Featuring 'Grand Theft Auto VI: The Album' on Track for Impressive Chart Debut",
+   "first_seen": "2026-11-24T14:50:51Z",
+   "updated": "2026-11-24T14:50:51Z",
+   "items": [
+    {
+     "id": "4c44e904ae2b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Complex",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Travis Scott-Featuring 'Grand Theft Auto VI: The Album' on Track for Impressive Chart Debut",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEdxRnRra3JremxrNHFaTy1fWFlES2pPbmhNZkVlYU5kdVpodVdlbzRkaHdJdWhPZ3hjcG80bGJIc1FlV1UwcWJBcFNZbGlabXlwOTU2YzFSUFlDNXFxV3hPZTB5ckhwaXlYYTE4WGlyWjNlc1dFRmpibE5qVDl0cWlpWWNOV3BmaEZxY25NbGxrTWxaay1TRA?oc=5",
+     "ts": "2026-11-24T13:52:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "da40dd0e61a4",
+   "title": "Rockstar снова сделала невозможное, обзор Crimson Desert Enhanced: Charting the Unknown — самые интересные материалы за неделю",
+   "first_seen": "2026-11-24T14:50:51Z",
+   "updated": "2026-11-24T14:50:51Z",
+   "items": [
+    {
+     "id": "da40dd0e61a4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Rockstar снова сделала невозможное, обзор Crimson Desert Enhanced: Charting the Unknown — самые интересные материалы за неделю",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR3duVDMwSExBWE5Obk96QVpfZkRVY1BIbC1GLVVzMnpPWmgzZTl3cnR5NUpGZXk2R2NmNU02U0d1dURucWVHZ182b2NtZVo4dmExSVc4dWtWSm1URl80Xy13WmdmOHJlRlNUSUNPa016YlVBeEIwUHJZakREc1JfMUFVS2hPQ3BKVlNqTWJoVXVzTlY2QlIzRzc5NWFmT1AwcmFoRENkel9YejNLU2JDVlNSbnYxSFNrV0FyZi0weHJiaDdZaElZTGh0R3RBMF9UVGpIR1pkRFk3cGtLZ2QzRGZ1dkFINER2MUtCYkNTdXh4TWVKeGfSAfsBQVVfeXFMTUpTSVM2SE9lMXI1UGltXy1wX2xIRXRIaHNaSjVpUWtiYXBESVF5OXZwUXA4Z05LT0xfNktKcU9hYlJXUDdJVEVyZG1pVUtnRS1nczBacS10RXp4aElUV1psdVQ4cXdGOW1LUE9xb3RpNW96YkJQeUVIc3NCUDQyMm5qSUFvWExfX0licC10VXV6dmUyRVZmZFhuYnc1UEJrUTNId3FwQnVKQXVqTWZ3cTZxOHVrdmxMcmtYY3BCUTZKajAxb1B3OVFlcVo4UEZHTHBZMkpXXzZqNmY2ckJuQTNBeWVHN3A5Tm9ib0xoRGs3MW1DWE0ycl8zdkk?oc=5",
+     "ts": "2026-11-24T14:14:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "352786fa6ecf",
+   "title": "Конец эпохи: игроки больше никогда не увидят проект уровня GTA VI, отмечает аналитик",
+   "first_seen": "2026-11-24T14:50:51Z",
+   "updated": "2026-11-24T14:50:51Z",
+   "items": [
+    {
+     "id": "352786fa6ecf",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Конец эпохи: игроки больше никогда не увидят проект уровня GTA VI, отмечает аналитик",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1RrZ0N0c3Y3a3JfV3U4dVQ4QnFiU19QUG9ZSDlvcXJzRnNDTlpWanY0T3dUZnBWU0ZoaEVYWnlQMmFmM2Q1VFBIcklsQXgwOWtOVk5raVJtMTFWNUNYRzdwR29iS1FWNWpXWThmZnFPSzNXVTA0RnppQjlpSzRzMEk4N1RiOUhqaGVnV3dpR1lpRk5MYlpSQ19sSG5TeGVPWk9kRGlDZ0NzWTk4LW9OR0c2R1ZmM1N5WHItcWhqT1nSAcYBQVVfeXFMT3V2TEZuZFc4ckNkeG9RMG5Ha0REckMxaFdkRVRvZmxrX2dqQ2ZPMVA2al9yckZjZkxPOTU0dW5iVS1LeU56bkFQWXFDcEZXRkc4Vnk0U2VaOHNlM01FdXEwblRuZzE5Ym9QNTNNMXlsd1ZLVjFqQ0RCZVN6YXM2RGxzX01sN2lSQjdCd1V0Ums5YU9WM2VKVl80V2NTSUV2SE1nSWFUT2kxTTVhaTlFdHFTWWd3LTJrX0FjZXBvaVZ6TGZVV0xR?oc=5",
+     "ts": "2026-11-24T14:28:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b30eece9ae01",
+   "title": "The end of an era: gamers will never see a project on the level of GTA VI again, analyst notes",
+   "first_seen": "2026-11-24T14:50:51Z",
+   "updated": "2026-11-24T14:50:51Z",
+   "items": [
+    {
+     "id": "b30eece9ae01",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "The end of an era: gamers will never see a project on the level of GTA VI again, analyst notes",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOWJhSlVDRUVqRG1Ld3NtSDBIVHFnaFRsSkl3U0hiVHpCTEVRMWFzc0lwczgyZk9MS1hiaXBwLWVFeGt1b2s4Yy1NMGdacEpHMGdpLUVzZGpwQUVyaDZKYV9WX1Z2UWJhU1c5bDRSVEpNRnpmZG5yZFlMdjFSSGxTYmYzNHN5dzNqTnl0NGw1VmxwNVRSRFhESWg5RWctUUFCMVFoZEJOU1NMM1hUMnlfXzY5OHA3UkVJYm9ZZGRVcGctTk9D0gHKAUFVX3lxTFA1NDk2b1pPQlV0dVdHbGUyaHV1MVRETU96ODBHV2hTdnA1Mzc2R3gxZE44RW9wRVRLcl9QYzFCVl9adjRPYlhHMkZsekVPckZaUlpPMU5HbUNRTWxtQzF3R0hSVldTdXJmMkJobUpFU2VWeUZkWHVxb1VWS0xjclJBOFNnTTZkUU1xZ1pJcklfRElKT2Q3cU9JbWxnWHN6RHRNRDZ5X01MSE5PU0lhd3Q3a1NIZDN4U2daa3Y3RklTeHNzYnFzTzNjX2c?oc=5",
+     "ts": "2026-11-24T14:28:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1650b3f664a4",
+   "title": "GTA 6: Pre-order bonus wasn't exclusive, now available separately for $5",
+   "first_seen": "2026-11-24T14:50:51Z",
+   "updated": "2026-11-24T14:50:51Z",
+   "items": [
+    {
+     "id": "1650b3f664a4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Pre-order bonus wasn't exclusive, now available separately for $5",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1JweU5ERzJEMWdXUGVkQTF6SDNCZnRWbnQ0aUtmN0RyMVUwcUhNMzJXUkN3ZHBITEpSUDR3RWtEeVg1bm80ai1KcTAwWF9NTmRlQUxnamVvdHRyUDNNMEhSTUs4emhlV2NvLW9EZVBudEhDREN5MFFpT2VZakQzcVZRb2tKbGJwX2dkeDlwNFQ0Mk9KZGlRaUFIZTAzc3h4eHUtUmwwN2lHYTBHNERpZEdDaEU?oc=5",
+     "ts": "2026-11-24T14:37:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Бонус за предзаказ GTA 6 теперь продаётся отдельно за $5",
+    "summary": "По данным Notebookcheck, бонус за предзаказ GTA 6 перестал быть эксклюзивным и теперь продаётся отдельно за 5 долларов. Речь о предмете, который ранее давали только за предзаказ.",
+    "idea": "Короткий разбор: что за бонус, почему его убрали из предзаказа и кому выгодно купить отдельно за $5. Зрителю важно понять, стоит ли брать сейчас или это пустышка.",
+    "hook": "Бонус за предзаказ GTA 6 теперь можно купить отдельно за $5.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T14:50:58Z"
+   },
+   "msg_id": 2135
+  },
+  {
+   "id": "d0a1ddf6035d",
+   "title": "Where to find Bigfoot in GTA 6: the swamp road south of Hamlet",
+   "first_seen": "2026-11-24T14:50:51Z",
+   "updated": "2026-11-24T14:50:51Z",
+   "items": [
+    {
+     "id": "d0a1ddf6035d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Where to find Bigfoot in GTA 6: the swamp road south of Hamlet",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVU81blFxNnl4YkZzQmlUOG55djM3bjVaempVQ1hXNVdxRzZ0N2I3RWMycFprMFZUZlRyYXBVZVBRUmNIaFROcjd4RjVrWTc1c2pZbXowS3M5SFlyel9sY1pCMjFnVndLeG92aFFGbTAyM1RhTG9aVGh5WXJiai1pOGRWRWc3dmNY?oc=5",
+     "ts": "2026-11-24T14:37:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "744336d3c3c1",
+   "title": "GTA 5 вернулась в мировые чарты Steam на фоне релиза GTA 6",
+   "first_seen": "2026-11-24T14:50:51Z",
+   "updated": "2026-11-24T14:50:51Z",
+   "items": [
+    {
+     "id": "744336d3c3c1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 5 вернулась в мировые чарты Steam на фоне релиза GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGxaSS1FcDlEQWVWb251M2V2LWRrbEp3aVpKT2ZfSThvcVM3TTZWOUlEbHdYWlZMc1d5RVZscUJKbEZ1X0hwcFFhRk1FRW5qTlBxT0MwNVlkSzVma0xqOXFiOF9SSUVsMklxVlVQbnBSYnhlSTVoSWxTT2RWTWVkc3ZCSzhyWk55UEVBMTRTWnNYNm50ZUczVzFwejRia3c?oc=5",
+     "ts": "2026-11-24T14:41:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 5 снова в топе Steam: что случилось на фоне GTA 6",
+    "summary": "По данным Igromania.ru, GTA 5 вернулась в мировые чарты Steam на фоне релиза GTA 6. Конкретные причины и позиции в чарте источник не уточняет.",
+    "idea": "Короткий разбор, почему GTA 5 взлетела в топ Steam в день релиза GTA 6, и что это значит для игроков. Зрителю важно понять, ждать ли наплыва в онлайне и скидок.",
+    "hook": "GTA 5 снова в топе Steam в день выхода GTA 6 — как так вышло?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T14:51:05Z"
+   },
+   "msg_id": 2136
+  },
+  {
    "id": "432066a6b9a9",
    "title": "GTA 6 Players Are Optimizing the Money Glitch to Within an Inch of Its Life to Make $100,000 in Just 10 Minutes",
    "first_seen": "2026-11-23T23:01:16Z",
@@ -335,283 +1102,6 @@
     "at": "2026-11-24T06:20:52Z"
    },
    "msg_id": 2099
-  },
-  {
-   "id": "2e6959589192",
-   "title": "GTA VI's cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder",
-   "first_seen": "2026-11-24T05:31:00Z",
-   "updated": "2026-11-24T14:40:56Z",
-   "items": [
-    {
-     "id": "2e6959589192",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Overclockers.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "После публикации исполняемого файла GTA 6 разработчик одного из ПК-портов сообщил о закрытии проекта",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTW5SS0pGV3NOMVppcGpORVNLVGc0Y3pvR3plNEpHZGctNnRtbnRWcVlKNWpfenFvQmVmdXp6QzNtSGtWNXpPRTlySlJWTTV5ZE10SEszcHZyOUkzekFIekY4V1FPeU4tSF8wRFYxb2RDR1ktbmFVWVlaaXpZRFVLOUU3SkVwVTQtT1pKdTd3TzViTTVscmg4bUp5b3c3NW5hVWhUeFV4SS1XVEQ3eXdidGN3cE5YalBTeWVoTXA0T21OcXl2and1R01ZZG9XRmt1U2d3Mm9hc0ZobjlJVkd6NzZKd19zeXEtZGNsWDZaUWHSAe8BQVVfeXFMTV9PNHNJby04WGs0aXduSlNoMEJCY2Y4ek5PeEhmRzZyRUxTOVNfTmF0TE5MajRiZHY3djFieVVJWUV4UnZZM2NZVHZPelNWQ1Rrd0d2cFk5VmtlSW45Z0RvYUgwWF9QeV9ESlBxc0gxVDFUUUQyWDYxbDRrVTlCYkdlUllneGlQd3ZmTjN6SkFULVF5RmNPTnJkYjNiSEJBUldVSzI3RjNIRmU3UkF2VWQxWWxZYjRKSnVuRVhQbk1tSlhibWFhZlNfb3g0Q21FUEE4c210REhHbWZoZmVCbTEwaVRBTHQybnJfV1paaGc?oc=5",
-     "ts": "2026-11-24T02:49:00Z",
-     "summary": ""
-    },
-    {
-     "id": "2d5cc9d6a2a1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Overclockers.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Публикация хакером исполняемого файла GTA 6 позволяет моддерам приступить к ПК-порту",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX3pSNE1PbGd4TnpIaTNoWUpVcDZwLUlDRW44S3hIdUV0OUlSbUJ6Snp6RTVBaFZlYklYQ2tiVzlMbUlrWDFwYUt1NVdieC1CWk02TGV5aEdwa3FtYm1Bajgzdld6cTcteU5PeVN6RFpZSTdYMktNeXAwaTR4V2VxLXlwZlpHekVMaDRoYTVSbHFremg5UVdub1ZpR1k3WFdwTzlnR2ZrMTIxYlVhaU5CQTNFcVowb19Ba0tpeGxzeXdHRzduRk9qN0o0ZFk2eU5EWHl4QWMtZlHSAdcBQVVfeXFMTVdYeUJaOVVUaWRld01IYzJONHVldlJ6Y1Znay15TGFtVm1QOTNUUTNTaEJZMEktTmJ1T2pOdGpHeDJodFUwSHBZUHlLSWtPclNIcjl6X0VDY2pDMkZxQldFZC0xMi1aVmM2WUFCZWhRcXpPMUVwRVFpdjRmZHV4SEF2cWJ1a2l5UDl5aDBWQWdPcnBNMGVaOTZ4UG5tSmRHQVpNS0ptZlBMUVQwdXdRaENnNEpvRElzb0EwR3hUZFJtbWpvZ1RlZXpmcWUzd2NvVzlhVDZ1Uzg?oc=5",
-     "ts": "2026-11-23T16:20:00Z",
-     "summary": ""
-    },
-    {
-     "id": "ff248161c6ea",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Автор проекта Leonida по портированию GTA 6 на ПК покинул разработку, испугавшись юридических претензий со стороны издателя",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcUtJa0lhQ3Z6aS01bWI3QUUxdXltX05mQl9yT2YyTzlYalA5OGU4LXFTejFGanlNX19wa2MxVENoTDdlNU5PQUhEMjNWejJ3R2tWNFB2em9jQjZsZmNCTzc4eFNJT3I4eE5XeFVMNm14SnpmRHZiY2VTdWpPeTAyZzItVHVTS0dTZkxROXRwMk82Xy01Tm1pUHJwbjFubEZ1THVKNmMzX1RLLWg0LWExSlN0RHd0Tnp6SmdhR2U2OWt1Qlhsel9BVkJNZV94aEhIaXZvY2JnWGV4bFc1bjViQ2plR1BiRkM0?oc=5",
-     "ts": "2026-11-24T07:28:07Z",
-     "summary": ""
-    },
-    {
-     "id": "9f22a4a9b3a5",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Неофициальный ПК-порт GTA VI удалили с GitHub и Discord сразу после первых успешных запусков",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTkg0NjVEN0ZxaVJlU3JRZ3R2N1ZpVGlaY0RBSHJySDhtaHVtRkdobHhEY3VxZ3NJNUhQc09tckh6UXI3MVBhYmo5TW9HQWg0XzVvblNnOFR0QVJVemNWdjR4RmtvbXFTd2RzcE5jWko0cTRBcjBlVHVIUGh2ZVFJQ2xDelhsVXp3dGRhT0tMVjJqX3pSU1RXLW95MWhZWmlCNmQzVU9YNVpfdnQ3SWfSAa4BQVVfeXFMTU5INDY1RDdGcWlSZVNyUWd0djdWaVRpWmNEQUhyckg4bWh1bUZHaGx4RGN1cWdzSTVIUHNPbXJIelFyNzFQYWJqOU1vR0FoNF81b25TZzhUdEFSVXpjVnY0eEZrb21xU3dkc3BOY1pKNHE0QXIwZVR1SFBodmVRSUNsQ3pYbFV6d3RkYU9LTFYyal96UlNUVy1veTFoWVppQjZkM1VPWDVaX3Z0N0ln?oc=5",
-     "ts": "2026-11-24T06:45:10Z",
-     "summary": ""
-    },
-    {
-     "id": "bd6bb93df700",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Компьютерра",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI могут запустить на ПК уже через несколько дней после релиза",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUFSME5PMF9hQXZlMEdSVjZTaTdHdzcxR29JSTk3bmhaTTBqOVFTU3pWcWI4M3RscU5abFpLajN5dE85VkF1UkdEb3JZSk55MnZUbmlzdU5uSnpCeUZuMXhrU0JMbUtwek9DdWk0cklFZFB5TTY5cVhUcjlXU3pYaFJBaHRCbG9ZeHNzazFWUmgxNFZzMC0zeVRQNDRoX3BuR0E?oc=5",
-     "ts": "2026-11-24T08:40:41Z",
-     "summary": ""
-    },
-    {
-     "id": "5ea9fe335e3a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Игроки на ПК положительно восприняли разработку неофициального порта GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXpURVBOY3I2cEYwS1ZFWmdzMnJfZ24tSjFZbjFIZVlWN0xGMmlaeU1vbExlVU50X0R1ZmxsZ3VVcVFlMkRFWXhzY2tfbGF5S3I2MG1XMXVVS2d5aUtid2p3Zk5fQWNuazNjX0hVRDI0cHRDbnA5MGtWMzUwYmVXcm9ZX3lESkJVZ2RweDdPWEtpWGlDdkF1QUs4bGZrbUpBSVBqOHVwM2E?oc=5",
-     "ts": "2026-11-24T09:21:07Z",
-     "summary": ""
-    },
-    {
-     "id": "d06ee8ee98e4",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Неофициальный ПК-порт GTA VI удалили с GitHub и Discord сразу после первых успешных запусков",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWc3aEJwbFJRa3R4TktfTEZZbGx1cUc2emlFNFpxSXlIdDdPeEtSOVFKMEFnRjRrYWRNTWdFSWpMMmRaNU03YWljRkkwVXdzQnpzLUhkRFh0dTVRU2tCWGtBNXdZTGNlTW5STUt3LWtURUtoa1ZVLTJlc3M4LUxrTVlXZlhpV0VOMHlnSEEzR3lENUtGWlNhZFZCUXFBX1I2MXFBc25mQjbSAa4BQVVfeXFMTU5INDY1RDdGcWlSZVNyUWd0djdWaVRpWmNEQUhyckg4bWh1bUZHaGx4RGN1cWdzSTVIUHNPbXJIelFyNzFQYWJqOU1vR0FoNF81b25TZzhUdEFSVXpjVnY0eEZrb21xU3dkc3BOY1pKNHE0QXIwZVR1SFBodmVRSUNsQ3pYbFV6d3RkYU9LTFYyal96UlNUVy1veTFoWVppQjZkM1VPWDVaX3Z0N0ln?oc=5",
-     "ts": "2026-11-24T03:31:45Z",
-     "summary": ""
-    },
-    {
-     "id": "aa46cfb0dd6f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Один из неофициальных ПК-портов GTA VI добрался до стадии рендеринга игрового процесса — Videocardz",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHRaNGxVSzZoc2ZzWDhrdUw5VktoM2VNV0phcVJsQW1SNnE5aktlWnBHZzZLOEdjamR2cjJVT3QtbDBsZWJOOE9rNXBxM2gxRVViRlQ0MGNQSUhKR2tpNWp3RkhpNGJDTXlDZnRWVUtxTkdHUDhQX19KZ3RReFByOE4yRmJjZEtjRDBydjJuOEpneFZsTUplSXhHTFJJQzJFSERXMUV1Z3NfZ9IBrwFBVV95cUxNSTVST0lCQm9HU0tuWVlUOFhYUXVTV1RCZ2c0QTloTWZfWXR1N2huSUpBU3c1cVJDV29GdXVwT0llU0tnSkdtR2M5azJGUW9jVG9RWFN4Ul9OZVpaVnRQTDh0cHQzSnZCM3FqRjFERWtGejEyYmd0ZER2aUpBdTRkNmlhN1NFZzJZM3ZjOVZFczVtZkh1OWppc2RSQmk2ZklTcU02UmdGOHlxblVpZEdN?oc=5",
-     "ts": "2026-11-24T10:30:00Z",
-     "summary": ""
-    },
-    {
-     "id": "331951ba5d16",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 на ПК: разработчики прогнозируют играбельную версию через неделю",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uaE83M0lhQnR4Sk5Ya1YwVFdnbWpyWkpOZWdMZTRNeWhqYk5iY2ViR1UxbjU1T3VUSHF0cDNCYkI2dlh6c0hOQjJMVUhZWGhGZ1FWT2dZUWpBVzZPX2ZvZXY4ekx2OEVPMXg4TTRaaUVyN1duSUFqRmV3cGlzUVU?oc=5",
-     "ts": "2026-11-24T10:40:28Z",
-     "summary": ""
-    },
-    {
-     "id": "3afe7ec467e2",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Один из неофициальных ПК-портов GTA VI добрался до стадии рендеринга игрового процесса — Videocardz",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTVST0lCQm9HU0tuWVlUOFhYUXVTV1RCZ2c0QTloTWZfWXR1N2huSUpBU3c1cVJDV29GdXVwT0llU0tnSkdtR2M5azJGUW9jVG9RWFN4Ul9OZVpaVnRQTDh0cHQzSnZCM3FqRjFERWtGejEyYmd0ZER2aUpBdTRkNmlhN1NFZzJZM3ZjOVZFczVtZkh1OWppc2RSQmk2ZklTcU02UmdGOHlxblVpZEdN0gGvAUFVX3lxTE1JNVJPSUJCb0dTS25ZWVQ4WFhRdVNXVEJnZzRBOWhNZl9ZdHU3aG5JSkFTdzVxUkNXb0Z1dXBPSWVTS2dKR21HYzlrMkZRb2NUb1FYU3hSX05lWlpWdFBMOHRwdDNKdkIzcWpGMURFa0Z6MTJiZ3RkRHZpSkF1NGQ2aWE3U0VnMlkzdmM5VkVzNW1mSHU5amlzZFJCaTZmSVNxTTZSZ0Y4eXFuVWlkR00?oc=5",
-     "ts": "2026-11-24T10:40:21Z",
-     "summary": ""
-    },
-    {
-     "id": "8f8d154a57b2",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Один из неофициальных ПК-портов GTA VI добрался до рендеринга игрового процесса — Videocardz",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ21SaVZKd3p1ZUVyNTVfaDZKWWlvWEl5X2dScVExRWNQcHJGR3lOWkZwZXhOTXhTS29yZUdqeG81RnRvRkZaNDh6UDRkUzFjMnA4RkZrbENqbkZhWVdINlJmNmpTM3ZKd0w4YVdOY0IwTlM4SDZURlI1QTJsaGdfMUIwMzJtQ0I5MDBNZm9teFJzYm1KRV9XdWw0T05yNkIyQkNiZW1nczhrRXVMYXpj0gGvAUFVX3lxTE5DbVJpVkp3enVlRXI1NV9oNkpZaW9YSXlfZ1JxUTFFY1BwckZHeU5aRnBleE5NeFNLb3JlR2p4bzVGdG9GRlo0OHpQNGRTMWMycDhGRmtsQ2puRmFZV0g2UmY2alMzdkp3TDhhV05jQjBOUzhINlRGUjVBMmxoZ18xQjAzMm1DQjkwME1mb214UnNibUpFX1d1bDRPTnI2QjJCQ2JlbWdzOGtFdUxhemM?oc=5",
-     "ts": "2026-11-24T10:14:11Z",
-     "summary": ""
-    },
-    {
-     "id": "22e0ff9236bf",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "УНИАН",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Опубликованы системные требования неофициального ПК-порта GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcjhKOWFGZ0Z5VFlzODRaUF9Ccks1TDh3YzJqbnFrUTJKMzlrdkRtb1BiNHFiSjVyQmF2UDhpQWhFanZLXzBBWVByeVRvSHFNZ0xZd2RqdWtyemZhZDJZMzU3S0I5WUltUWhSY2xhRUZ6VVZfS3pxUk9iOW1zMHlvQXZxcUVQaGNvSVRqeXpsWjFRYzZvaGZZZmlwcjltQk5UZ0poa05hbENnd09jRFE4OXQ4Snp3amxLUUx2WGhoNUh3bUc5RFHSAcsBQVVfeXFMUF81cEN0bF85aVU1Zmk4ZkJaM1QtNFBpUXBXS3RINTBJc0REVHRPOEo0RnA2eVpxQnRaV2ZxeVNmYkx2cExsSEtXTEpzdjdtUVRncFI0M3J6dHQ1TTlHR0RqQnRCYkhHVEFheHlNWlFwVnlMOTBYT0MxVVRwWUt1M2VNei1NZndLeFliQmVDaWRaMVByZ1p1RjB3WThFRmFUcXZZdnhiUkJDa2o3bFVrZ05TbUVvSlNkVWNZVkdKdk1kSUZlSTY0X3F6NXM?oc=5",
-     "ts": "2026-11-24T12:44:00Z",
-     "summary": ""
-    },
-    {
-     "id": "da6103e184d4",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Один из неофициальных ПК-портов GTA VI добрался до рендеринга игрового процесса — Videocardz",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81VXpEZU9nMGFzSklEQU9zQ3pwc2FyZURSaWdqbUhkcDd4SGYwRVBNTm9wWnBOYjBqUGRBZzJoMG5yeXVJVThqU1NnODJKZ9IBrwFBVV95cUxOQ21SaVZKd3p1ZUVyNTVfaDZKWWlvWEl5X2dScVExRWNQcHJGR3lOWkZwZXhOTXhTS29yZUdqeG81RnRvRkZaNDh6UDRkUzFjMnA4RkZrbENqbkZhWVdINlJmNmpTM3ZKd0w4YVdOY0IwTlM4SDZURlI1QTJsaGdfMUIwMzJtQ0I5MDBNZm9teFJzYm1KRV9XdWw0T05yNkIyQkNiZW1nczhrRXVMYXpj?oc=5",
-     "ts": "2026-11-24T10:14:05Z",
-     "summary": ""
-    },
-    {
-     "id": "5a530b221d7b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "ПК-игроки поддержали неофициальные порты GTA VI и обвинили Rockstar",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzZfTmE0VWJRTDBpTy1hMmVJZWh3MC1lRE05eWI4TFNmX2RMY2p5dXIwZDBZdW9ReXBJWGZmYTVhdE52WENZUE9RR0FmTU5kTXp4WWJjTEVQRXhKNWkwYUx4VmNtRVdIS0pteGhlbXZOakFBVVNlWkdYSTg0ZHhxenVBZ0lvbFE?oc=5",
-     "ts": "2026-11-24T13:12:37Z",
-     "summary": ""
-    },
-    {
-     "id": "84f2c73e9b4f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Газета",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Энтузиасты запустили GTA 6 на ПК через сутки после утечки версии для Xbox",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByaG9LSmc5OHdZRHdIREVzckt4UFk2MWkzaFRjZFB3WGlidWFCeE1YcjBhZkNjYXdGbGdkVGNfMGhrcEZTZ0h0R1NiZ2p2Qy1PV0Q3Y0pQTHlINzA0SVViYXBfbTlmalBRbFVHTdIBckFVX3lxTFBLOXl3VExvV3I4SlFfNDBMNGpTa24xM21yRDJtQ09tbDVQMksyb1dVZm1mVnJBVWp4T0FVWDd5YWtXNWIyTGItWjU5QXYySF9UaEFWWWluUFJwbWlQY3o0VmpxLUtFZHA1ZXVUQTFEaU5KZw?oc=5",
-     "ts": "2026-11-24T13:17:27Z",
-     "summary": ""
-    },
-    {
-     "id": "06e7a0031ea5",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
-     "url": "https://www.eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish",
-     "ts": "2026-11-24T13:40:00Z",
-     "summary": "A lot has happened in the last 24 hours in the community working to get Grand Theft Auto 6 running on PC. And now, Rockstar has dealt a major blow to their efforts. Read more"
-    },
-    {
-     "id": "e0d859f71936",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Энтузиасты запустили меню GTA VI на ПК с 30 FPS",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRaE1Wckt0SmFOa3pJRnZJdnYtUVpOS3dueE9ob28tSHVLeTd4a3p5ZkU3ZDJvUEhLTzFhdkhpX3dqNkJqaXF6RHJ4MW4xcVhEZVcwZmNXbDh2dW0wWk1tZ2ZGX3QzVjd4SzRISVZkWjJ4NndEN0hEd1pWTQ?oc=5",
-     "ts": "2026-11-24T07:39:25Z",
-     "summary": ""
-    },
-    {
-     "id": "760d4810a8a6",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Carexpo.ru_ все авто на одном сайте",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 на ПК: Фанатский порт запущен, системные требования и почему Take-Two готовит иски",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUtnNElQMk5Zejh4Wld1WHJqd29TLXJYbWc1QldXVTBDQ3J6NUhDcm5NQmNpbjlFbmlBeXBhUHdCSEMwb01MdlhsblhUbUpWTElWWkwyT2JKcVpwZVdzNFlzaC02WFBkYThTRllyQXhLaFp1czRJSllkTlc1X1hzcmI3VDlLM281eTRpTXNRcmZjb3R4akpmVi13eVBQTjlTNTZTVGU3bk5KRTg4bElRNjRyWVc0eFk5?oc=5",
-     "ts": "2026-11-24T13:54:45Z",
-     "summary": ""
-    },
-    {
-     "id": "a1bc92a94b0d",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 запустили на ПК — благодаря утечке версии для Xbox",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTM2enpXT3RwaFBEZEtNRlZpNVNkQzdiY1RqcFVfRnJUMkNoRXVTUG9yQ1VIS0F3Q1JPN0lLMDEyOVpiSkJHMkFRdmViZXFudndHTmwzMGNMOWpvR3YxWkJJYWZSQ0xLemw3bnYtQTRyUGFJRm9JMnRCVDRlMjJyZTBvWVRKMUZ1ZFlGaG1PeU0?oc=5",
-     "ts": "2026-11-24T10:02:56Z",
-     "summary": ""
-    },
-    {
-     "id": "37b5acba5e61",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesBeat",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "GTA VI's cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZVZPSEQ3b3dheFVacnZyZXNpTjIzaU03d1VWQjBuNDB2QUpiMjRFbThCcnBzaUs5ZFd0dDB2Z3RvRGJ2QU5zbXdPLVd6UC1EMU9QTnFjb1ZUVkZqeFNseEVPWXQ1eUY0Q09VeEJUZ0RWUHRlWmRyZ0pYTkszUEZ4OGluWFpQQ0xIM0FNb1QwQmFGSUJHRFRrUF93UEpSZFhRVktXVXhISkFpcUF1ckRJdQ?oc=5",
-     "ts": "2026-11-24T14:30:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two",
-    "ПК",
-    "слив"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
   },
   {
    "id": "dbbdee5224cb",
@@ -1033,95 +1523,6 @@
     "at": "2026-11-24T14:01:17Z"
    },
    "msg_id": 2128
-  },
-  {
-   "id": "d77d9dce24f6",
-   "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
-   "first_seen": "2026-11-23T15:10:46Z",
-   "updated": "2026-11-24T14:31:11Z",
-   "items": [
-    {
-     "id": "d77d9dce24f6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jVmlDSnRvT2FSTmNmcUtZQUE1U3Eta2pVNTRBR0RXVFRTOVN2eHdVZFJBMjJ2V1g1YTBNdU5LVDNlbWxURTk3NHlPZll3blNEcUFEOWU0cDdpQS1tdzRyWTZiUUVIT01ZRWc?oc=5",
-     "ts": "2026-11-23T15:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "b8859c6a2cca",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
-     "url": "https://www.ign.com/articles/secret-controls-gta-6-buttons",
-     "ts": "2026-11-23T15:00:00Z",
-     "summary": "GTA 6 has a whole bunch of secret controls that the game doesn't really tell you about. Here's how to flip your car, flip the bird, and much more."
-    },
-    {
-     "id": "289ee0b218e7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUk1aSUR6bmJEVDgyQkZFbndla3FXQVhiZG1rOU1zNWF1RDN6bVFlSVNQaVFnOGpMV2Q4UDUwb1RqNDFUcFhsUUtTM29NTTR2aXBLWmlCVXA0Z0drd09LUHptNXVzQ19NU2RVcEhLMnU5Zms3M2F1dm53OEZ0d2RuZnpMclRLX0xWb1ZRVDlVNTA4YjQwYmdUdTk3N3VJRl84Nm5QYWdyR3pueUlQV2tXY2VGbDdNeERNOWlicmJEZWlTeWpRQmFmQXBickNkclRKMkYxTTVqSUVzcURqUEdtWEh4ZlVncEEtdE5heQ?oc=5",
-     "ts": "2026-11-23T15:14:35Z",
-     "summary": ""
-    },
-    {
-     "id": "05176fa99b60",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNU56ZFl5QU9fR0dfN05JQUk5WGxMNERZT0JUdkZTYXRVUkxlSUQyLXJSY0ZHZzczaEswSHlfTkNoN1lZbVZaR0xUOThHOUFTcVhQX3JnMUtSMW0wS1dRUHRWZVR1eThXaHpJQ1g5YmtsSmtuT3NSbGhHMlcyMF9ieUlGNmdTQlFUb0NnM05HdHByc3hHZEp4dmhHM1BJUTNCcVRFNHh5Tm9ZbkYwM0VvTDBfOXR1blR1aERWR0psNndQT1NxMEQ3d1dGU3pNcWRXR0h2eHlNTTFOaDVjOG9z?oc=5",
-     "ts": "2026-11-23T15:12:59Z",
-     "summary": ""
-    },
-    {
-     "id": "e28b38ff6551",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "The Secret Controls GTA 6 Doesn't Tell You About",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EVndlakNFTEYxSG1aVDh5OVZfZTROSWx6NlpCMExHeEkySnpuUmFna3pXUnpMMm1vY1h4QzBWRnEwWG5FRTdyS3NZSGNHdUNpM0Q1TEpDdUJHZjZaZ1VjSUVQMThMWmt2QnBqSlhLTXNJT2VQM3J5b25zWl9nVFU?oc=5",
-     "ts": "2026-11-24T14:25:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 94,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🎮 Секретные кнопки GTA 6: как перевернуть машину и показать фак",
-    "summary": "IGN показал скрытые управления в GTA 6: как перевернуть машину, показать средний палец и другие действия. Это не официальные гайды Rockstar, а находки редакции и игроков. Материал собрал удобные приёмы, которые пригодятся в открытом мире.",
-    "idea": "Короткая нарезка скрытых действий с быстрыми субтитрами: что нажать и когда это спасёт. Зрителю полезно — лайфхаки экономят время и нервы.",
-    "hook": "Эти кнопки в GTA 6 никто не показывает — а зря.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-23T15:10:54Z"
-   },
-   "msg_id": 2020
   },
   {
    "id": "0048552e06b0",
@@ -19123,69 +19524,6 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
-  },
-  {
-   "id": "fa647fdc34a6",
-   "title": "Grand Theft Auto 6 has received a new update which fixes autosaving",
-   "first_seen": "2026-11-23T14:50:52Z",
-   "updated": "2026-11-23T20:50:44Z",
-   "items": [
-    {
-     "id": "fa647fdc34a6",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Grand Theft Auto 6 has received a new update which fixes autosaving",
-     "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/",
-     "ts": "2026-11-23T14:44:32Z",
-     "summary": "The new patch fixes other bugs, including being unable to lose Wanted Levels"
-    },
-    {
-     "id": "d3d4d7fb6d28",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "VGChartz",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Update Fixes Autosaving, Game Crashes, and More",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUlyRjRsa2R3Xzl1eG5fbjYxeHZtR0hMVzdzbWV1eUdPVnlsc2lZcWxLYWh5QVhRWlRaLXF4eEZjYnVuWk9ackJwd1U5RGNTbi1SZERSb3NZY1VqQlZHbWo0M0NrWkp6VHcxS2JLY19FckJCV2Z2aHoxTG11T29KVGRyb2NxRng3SkZ1MmluMjQ0TXFrYnpz?oc=5",
-     "ts": "2026-11-23T15:40:03Z",
-     "summary": ""
-    },
-    {
-     "id": "54b3aacda695",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "finchannel",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 update fixes crashes, autosaving and story-progress bugs",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaDVTQU9qemxmN2R1eGl2c2p6NmRYQWJhTV9CaWw3U0dvall1MG1XMzFNSG45a3YtcE1hUEhSOEwtclhDcGswM3NzdnBNbGZjSDJxSEpkR1lfQzl5VUFCTzNUcDljVEdCMklmTV84SVhVbldnUTRiQi1WOVB1dUpET3licWxINnR3M3FVQ0YtTHFseDZISHBwLXlBR3ZEQlhZNnJPUkNHOFl2Y0E?oc=5",
-     "ts": "2026-11-23T20:43:49Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 86,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Вышло обновление GTA 6: исправили автосохранение и розыск",
-    "summary": "По данным VGC, GTA 6 получила патч, который исправляет автосохранение и другие баги, включая невозможность снять уровень розыска. Rockstar пока не публиковала официальный список изменений.",
-    "idea": "Короткий разбор патча: что починили и как это влияет на геймплей — без спойлеров. Зрителю важно знать, что игра стала стабильнее перед релизом.",
-    "hook": "Патч для GTA 6 уже вышел — автосохранение и розыск починили.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-23T14:50:58Z"
-   },
-   "msg_id": 2017
   },
   {
    "id": "bff9cf193e87",
@@ -199186,305 +199524,17 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e3b4188542f8",
-   "title": "Greetings from Leonida",
-   "first_seen": "2026-11-17T14:40:49Z",
-   "updated": "2026-11-17T14:50:54Z",
-   "items": [
-    {
-     "id": "e3b4188542f8",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Greetings from Leonida",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xym32t/greetings_from_leonida/",
-     "ts": "2026-11-17T14:38:35Z",
-     "summary": "submitted by /u/ElliotSmelliot123 to r/GTAVI [link] [comments]"
-    },
-    {
-     "id": "8c7208bbbc70",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Greetings from Leonida",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xymc2z/greetings_from_leonida/",
-     "ts": "2026-11-17T14:48:44Z",
-     "summary": "submitted by /u/ElliotSmelliot123 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "648325852014",
-   "title": "Twitchers rejoice: GTA 6 will have 62 different species of birds, though that falls a bit short of the over 500 native species found in Florida",
-   "first_seen": "2026-11-17T14:50:54Z",
-   "updated": "2026-11-17T14:50:54Z",
-   "items": [
-    {
-     "id": "648325852014",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PC Gamer",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Twitchers rejoice: GTA 6 will have 62 different species of birds, though that falls a bit short of the over 500 native species found in Florida",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQSXB6Nk9RTDJwQXFQVGpwbzE2WUp4Wk9KV1RaUzZsbTZSQXJNVk1EVlpoWnpOVTRnODhiM2ZGcm5lNFlCNWtJeEtWcTdQTk5XVzY5bWUtQ0NsZ05HSkpZOUtsckg4dTJ4dk5ISHFGMTVndHVFck5WcWgydDBWWDJRb2JIclpfaWRtVHZxNVRjX3puUVFsUEc2MGNKcWVEbGVPeTQ4cFIzZGJPMTIxSDBFMGlJM1VfYnVEd1NNcjV6ekFabUd5cm5SeXg5d1BNTWV1MFdLNFZPRERSTkFjcXJtLU5hR3lRRzREMkRoaWpCcGtqTzRlRXc0MEdIQWJfcEdJUjIxOEZiNzloNjc5d0IwcmowSURreGln?oc=5",
-     "ts": "2026-11-17T14:35:57Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "В GTA 6 будет 62 вида птиц. Вайс-Сити оживает?",
-    "summary": "По данным PC Gamer, в GTA 6 будет 62 вида птиц. Это меньше, чем более 500 видов, обитающих во Флориде в реальности.",
-    "idea": "Сравнение с реальной флоридской фауной: показываем птиц в игре и реальные кадры, чтобы подчеркнуть внимание Rockstar к деталям.",
-    "hook": "В GTA 6 — 62 вида птиц. А во Флориде их больше 500. Разница?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-17T14:50:58Z"
-   },
-   "msg_id": 1131
-  },
-  {
-   "id": "e9ade875f75e",
-   "title": "Is there any update on GTA6 decrypt file? Or breaking new PS5 Patch update?",
-   "first_seen": "2026-11-17T14:50:54Z",
-   "updated": "2026-11-17T14:50:54Z",
-   "items": [
-    {
-     "id": "e9ade875f75e",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Is there any update on GTA6 decrypt file? Or breaking new PS5 Patch update?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xym4zf/is_there_any_update_on_gta6_decrypt_file_or/",
-     "ts": "2026-11-17T14:40:47Z",
-     "summary": "I just want to that it's been around 6 days since GTA 6 file are preloaded into millions of PS5 , but as of I know that no one decrypted it . Or Am I missed something? Also did they cracked the new PS5 patch? I didn't anything in recent . submitted by /u/Physical-Luck3593 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9eeae4118fed",
-   "title": "GTA 6 Took So Long Because Rockstar Wanted to “Take Big Swings”, Says Co-Studio Lead",
-   "first_seen": "2026-11-17T14:50:54Z",
-   "updated": "2026-11-17T14:50:54Z",
-   "items": [
-    {
-     "id": "9eeae4118fed",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamingBolt",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Took So Long Because Rockstar Wanted to “Take Big Swings”, Says Co-Studio Lead",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZG9QUklwWGt1b0Y0eGJsbEFNRTZZdmZCMk9sZnV1emN5QlZyWXRvRzh5dlFGbHhQeFRkMlQyeUlTdklCaDJudF96YkRUalBXaG5nWXMxSE9rS3I1eUVud0laOWVYa1g5OGM0VC1ORy11blp6UUVGcVhMRm5DY25zX21sUFVKdWV4XzVFcUtKdDc2NUJOTk5PTnFZMEJUQmh0eFFSN3JDZw?oc=5",
-     "ts": "2026-11-17T14:41:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "23cca531e3dd",
-   "title": "GTA 6 Vice City real places: 11 Florida spots behind it",
-   "first_seen": "2026-11-17T14:50:54Z",
-   "updated": "2026-11-17T14:50:54Z",
-   "items": [
-    {
-     "id": "23cca531e3dd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "qz.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Vice City real places: 11 Florida spots behind it",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0MzU5alBQQ1JjOG5vZDFnMkt6aVp1aHJZRkJaT1Exa2pScmRuTGpjVGZNbEk0WkdseDAzQjNWZ3FycXJCVDY3ZWpIWXhVaHBrWUk2SjRoSEFnSV8yNzNN?oc=5",
-     "ts": "2026-11-17T14:41:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "190af94230f0",
-   "title": "Игроки обсуждают оценку GTA 6 на Metacritic",
-   "first_seen": "2026-11-17T14:50:54Z",
-   "updated": "2026-11-17T14:50:54Z",
-   "items": [
-    {
-     "id": "190af94230f0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Plugged In Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Игроки обсуждают оценку GTA 6 на Metacritic",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3V6b044UDNaaHU0UXgxZ0FxM3hERnU2SjJtRFFfN0VRY3N0bENycnRxeWx1Mkh3Q1hSVlFlTlNsZzNteXdZQTg3ZngxYlB6bkdrTDhXZFE2d25qVFk2bjRxRVItVE43SG5RUjJHSEtJSXJhc2xkX0dxZEJxYmJwUjMtSQ?oc=5",
-     "ts": "2026-11-17T14:42:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a2a19d029b28",
-   "title": "Will there be flooding?",
-   "first_seen": "2026-11-17T14:50:54Z",
-   "updated": "2026-11-17T14:50:54Z",
-   "items": [
-    {
-     "id": "a2a19d029b28",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Will there be flooding?",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xym80v/will_there_be_flooding/",
-     "ts": "2026-11-17T14:44:10Z",
-     "summary": "I remember watching in the 1st ever leaks that there was a system of flooding of the city, maybe related to hurricanes. I haven’t read anything about it yet, what do you guys think? submitted by /u/a1phaw0lf_23 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0eb7a723af89",
-   "title": "GTA VI & the 21st-century economy: the new drivers of value",
-   "first_seen": "2026-11-17T14:50:54Z",
-   "updated": "2026-11-17T14:50:54Z",
-   "items": [
-    {
-     "id": "0eb7a723af89",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Lombard Odier",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI & the 21st-century economy: the new drivers of value",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRE9CRGsxQ2VKUDN4VUN3aFNLdlh4cGFFNEhyaTdFcE01ZVhPem4tbzZJZUw4RUtnVVF5S045X3dTWTVHdmF6V2ExbnBnT3ZTR1Q1R1Nmekp0dTlyS0I0dzluWWpLejNWSUlHQURKcVdSY3hDMENDblJLMGF1X1l0eEEtaDZ4b3VI?oc=5",
-     "ts": "2026-11-17T14:45:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ad75d29ef108",
-   "title": "Digital Foundry Closes the Door on a 40fps GTA 6 on PS5 Pro",
-   "first_seen": "2026-11-17T14:50:54Z",
-   "updated": "2026-11-17T14:50:54Z",
-   "items": [
-    {
-     "id": "ad75d29ef108",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "Digital Foundry Closes the Door on a 40fps GTA 6 on PS5 Pro",
-     "url": "https://www.gtaboom.com/digital-foundry-closes-the-door-on-a-40fps-gta-6-on-ps5-pro-9bac",
-     "ts": "2026-11-17T14:47:30Z",
-     "summary": "Rockstar promises sharper GTA 6 visuals on PS5 Pro; Digital Foundry says 40fps would need major optimization or cutbacks."
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "cdbcfebb6908",
-   "title": "Thank you underpaid reddit mods, see you tomorrow Leonida!",
-   "first_seen": "2026-11-17T14:50:54Z",
-   "updated": "2026-11-17T14:50:54Z",
-   "items": [
-    {
-     "id": "cdbcfebb6908",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Thank you underpaid reddit mods, see you tomorrow Leonida!",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xymbtj/thank_you_underpaid_reddit_mods_see_you_tomorrow/",
-     "ts": "2026-11-17T14:48:26Z",
-     "summary": "submitted by /u/BaconShadow to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-24T14:41:04Z",
+  "last_run": "2026-11-24T14:51:05Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 98/100",
-   "gamesbeat: 1/10",
-   "vgc: 8/10",
+   "gnews_ru: 97/100",
+   "gamesbeat: 2/10",
+   "vgc: 7/10",
    "insider_gaming: 7/10",
    "ign: 7/20",
    "eurogamer: 12/100",
