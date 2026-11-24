@@ -4,7 +4,7 @@
    "id": "2e6959589192",
    "title": "После публикации исполняемого файла GTA 6 разработчик одного из ПК-портов сообщил о закрытии проекта",
    "first_seen": "2026-11-24T05:31:00Z",
-   "updated": "2026-11-24T13:21:04Z",
+   "updated": "2026-11-24T13:31:11Z",
    "items": [
     {
      "id": "2e6959589192",
@@ -187,10 +187,24 @@
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzZfTmE0VWJRTDBpTy1hMmVJZWh3MC1lRE05eWI4TFNmX2RMY2p5dXIwZDBZdW9ReXBJWGZmYTVhdE52WENZUE9RR0FmTU5kTXp4WWJjTEVQRXhKNWkwYUx4VmNtRVdIS0pteGhlbXZOakFBVVNlWkdYSTg0ZHhxenVBZ0lvbFE?oc=5",
      "ts": "2026-11-24T13:12:37Z",
      "summary": ""
+    },
+    {
+     "id": "84f2c73e9b4f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Газета",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Энтузиасты запустили GTA 6 на ПК через сутки после утечки версии для Xbox",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByaG9LSmc5OHdZRHdIREVzckt4UFk2MWkzaFRjZFB3WGlidWFCeE1YcjBhZkNjYXdGbGdkVGNfMGhrcEZTZ0h0R1NiZ2p2Qy1PV0Q3Y0pQTHlINzA0SVViYXBfbTlmalBRbFVHTdIBckFVX3lxTFBLOXl3VExvV3I4SlFfNDBMNGpTa24xM21yRDJtQ09tbDVQMksyb1dVZm1mVnJBVWp4T0FVWDd5YWtXNWIyTGItWjU5QXYySF9UaEFWWWluUFJwbWlQY3o0VmpxLUtFZHA1ZXVUQTFEaU5KZw?oc=5",
+     "ts": "2026-11-24T13:17:27Z",
+     "summary": ""
     }
    ],
    "tags": [
-    "ПК"
+    "ПК",
+    "слив"
    ],
    "score": 80,
    "level": "PROBABLE",
@@ -198,36 +212,10 @@
    "status": "new"
   },
   {
-   "id": "21bc62160437",
-   "title": "K-pop songs in GTA 6: JENNIE, JISOO, KATSEYE and more",
-   "first_seen": "2026-11-24T13:21:04Z",
-   "updated": "2026-11-24T13:21:04Z",
-   "items": [
-    {
-     "id": "21bc62160437",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "RouteNote",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "K-pop songs in GTA 6: JENNIE, JISOO, KATSEYE and more",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanVtRjJzY0hBbmtPYUtrdm1UZXlhN3BGQmgyc29kYm1mQ1o0N21nMl9fVVhJeGpFcnh4ZUNJVURTbmIzVlU2OUNhMXNyQnUxNUJya01DdVllbWNWUDY3ZlgxTHZVNU1iel9rVVlTMFRfYlU1UWRvSU5BYTVVRVdLam80Y2NBZw?oc=5",
-     "ts": "2026-11-24T13:15:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "faffafa76927",
    "title": "GTA VI Is Coming To PC Thanks To Major Leak",
    "first_seen": "2026-11-24T01:20:50Z",
-   "updated": "2026-11-24T13:21:03Z",
+   "updated": "2026-11-24T13:31:11Z",
    "items": [
     {
      "id": "faffafa76927",
@@ -371,6 +359,19 @@
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb1c2cmVxclNfSVdlRElGWkd5Y3BvOExZaXNCZHRBVXFlUVZGSFQzc3JMeHBEcV91SzlPV3dub1RQYno2NVNWTUd5WUNSSFdNb1JyNm9takdYRXZHT3J5SE10MVFzVm9McDZPVWhENXpuY3hlVkthQzVDdkRSMklHcVByaHgzS2g1Qi1ZZjA3TjBHc25lTURmeDVmRQ?oc=5",
      "ts": "2026-11-24T13:01:30Z",
      "summary": ""
+    },
+    {
+     "id": "55bd4398a5b8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDVmczTEFSLWZTQzdTQ0w1d2tvUDQ0S2FJOFdsaVU3SFFrUkR5M0wyTFJZbEZoSU9nYU9WVHRyMmJMbm12alhZS1NZS1pVdTQzMWhmNE5NTVhIcmREZjA4b1hkZjFZb0xyb05sUmxGSFYtTFR6akk2TlFQYkt6aTQ?oc=5",
+     "ts": "2026-11-24T13:01:30Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -380,6 +381,366 @@
    "score": 95,
    "level": "PROBABLE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "6a4783294cfe",
+   "title": "Does GTA 6 Have Darts or Bowling?",
+   "first_seen": "2026-11-24T13:21:03Z",
+   "updated": "2026-11-24T13:31:11Z",
+   "items": [
+    {
+     "id": "6a4783294cfe",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Does GTA 6 Have Darts or Bowling?",
+     "url": "https://insider-gaming.com/gta-6-darts-bowling/",
+     "ts": "2026-11-24T13:10:51Z",
+     "summary": "Darts and bowling have been popular minigames and pastimes in Grand Theft Auto games, but does GTA 6 have either? The post Does GTA 6 Have Darts or Bowling? appeared first on Insider Gaming ."
+    },
+    {
+     "id": "a7e62d14fa30",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Does GTA 6 Have Darts or Bowling?",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wXzNQTVp1YzBOZXpxdW1tdTBWSW5zVDdVcXNqdl8wblktS1BoVGxOSE5ENFpHcS1uV05SYUJxVTBuQmpUMF94TlFsVVpSN3dhSFJEWlFkeHlSeEU?oc=5",
+     "ts": "2026-11-24T13:10:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Дартс и боулинг в GTA 6: что известно на сегодня",
+    "summary": "По данным Insider Gaming (Tom Henderson), пока нет подтверждения, что в GTA 6 будут дартс или боулинг. Автор напоминает, что эти мини-игры были популярны в прошлых частях серии. Официально Rockstar это не подтверждала.",
+    "idea": "Короткий разбор слухов: есть ли дартс и боулинг в GTA 6 и где это уже было. Зрителю важно понять, ждать ли любимые мини-игры на релизе.",
+    "hook": "Дартс и боулинг в GTA 6 — правда или просто слух?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T13:21:08Z"
+   },
+   "msg_id": 2124
+  },
+  {
+   "id": "211386ee34ca",
+   "title": "Cyberpunk 2 creative director jokes that he’s cancelling the game after playing GTA 6",
+   "first_seen": "2026-11-23T15:41:06Z",
+   "updated": "2026-11-24T13:31:11Z",
+   "items": [
+    {
+     "id": "211386ee34ca",
+     "src": "dexerto_gta",
+     "src_name": "Dexerto GTA",
+     "outlet": "",
+     "group": "media",
+     "weight": 60,
+     "alert": true,
+     "title": "Cyberpunk 2 director jokes game is “cancelled” after seeing GTA 6",
+     "url": "https://www.dexerto.com/gta/cyberpunk-2-director-jokes-game-is-cancelled-after-seeing-gta-6-3430664/",
+     "ts": "2026-11-23T15:27:51Z",
+     "summary": "Cyberpunk 2’s creative director has joked that the sequel is “cancelled” after seeing what Rockstar has achieved with GTA 6."
+    },
+    {
+     "id": "2246ca6dcaad",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "80 Level",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "“Cyberpunk 2 is Canceled” Jokes CDPR Creative Director After Playing GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNXzJMcFFmVmJzZEpGRzdGRkxCdHc3X3FhcE5sczktZi15T2d3UnZkRlpDalduYXEyRjFMZ1BwaEhwa2wtWU9jMVlKNTluNmZKLWRja2JldFBid2JSd29KY1lQOXVydTB3UWtrcUMwSFRSRlRhSDU2UVhqdFhkSlh4eWptcGhOM0lUb29J?oc=5",
+     "ts": "2026-11-23T19:51:06Z",
+     "summary": ""
+    },
+    {
+     "id": "dac18333db5c",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "A Cyberpunk 2 Director Joked His Game Was Cancelled After Seeing GTA 6",
+     "url": "https://www.gtaboom.com/a-cyberpunk-2-director-joked-his-game-was-cancelled-after-seeing-gta-6-c8d2",
+     "ts": "2026-11-23T20:33:44Z",
+     "summary": "The scale and density of Grand Theft Auto VI impressed creative director Igor Sarzynski enough to joke that his own game, Cyberpunk 2, was cancelled."
+    },
+    {
+     "id": "4e0de1d8d0ea",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Cyberpunk 2 creative director says he's suffering from 'GTA 6-induced-open-world-game-dev-depression,' jokes that 'Cyberpunk 2 is cancelled'",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2EwVDQ5dEdhM2czbGFsMFRwVW5BUm4weTlOcFh5YVJKMThuOVNOaEoxbzBoUVd2NVpKcHlPUm1ZcHlVM0txXzRjVlBZam9nTnpITEljZ2EzT1Z2c1p3THIyM1Y3NnJfYXNDYnZPZmtZWkxtR2xhaUxPOFN0bjUtNjlZLTF4TFNyMW9LbmZRNTR1bnZpczdLa3NrNEZCZjcxZ1ptampJM3BwSmFYNWlOMTlTUGs4LXBOV1NCUldhaVB3UHZJNXZ1R21saFJGN2FLQVhzbS1HbnlkQWEtQ2MyS05FLXlWc2tFX2M2NWU5X1lRTXBQLWFiQQ?oc=5",
+     "ts": "2026-11-23T20:55:56Z",
+     "summary": ""
+    },
+    {
+     "id": "0016d72011fe",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TweakTown",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Cyberpunk 2 creative director jokes that the game is canceled after seeing what Rockstar achieved with GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX080MlVSa2xLRG95cDNjT1ljZlUyNXV1R29rYW5WUTBiQ1ZSOU5QM09peUJ3VFUzTnloOGtWMDFQaWJjb1BwcVRMVmlidElRaUFmR2pQUUloZGNydW1tcFVfR2oyRjFFeXQ5ZzNDLUl2Y09ndzRpSUs2eDBhekZlZHg1Y1RWeWpqRVZWMVplUlRPSmhXTU11RnBiRlI5ODZQMlloUmc1d3ZSVU5YeDJuRzc3TjZncHp0ci1mY2paUnNZUE1VRUFPWjFYMUZXVFUyZWhhM2ZpQjNQUHZkU25NVnBhTDU2NEsyMHctYS1R?oc=5",
+     "ts": "2026-11-24T05:31:15Z",
+     "summary": ""
+    },
+    {
+     "id": "4785bf048384",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Cyberpunk 2 creative director jokes that he’s cancelling the game after playing GTA 6",
+     "url": "https://www.videogameschronicle.com/news/cyberpunk-2-creative-director-jokes-that-hes-cancelling-the-game-after-playing-gta-6/",
+     "ts": "2026-11-24T10:33:52Z",
+     "summary": "Igor Sarzyński says Rockstar's game is \"the single greatest artistic achievement in history\""
+    },
+    {
+     "id": "672b1f945cce",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo News UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Cyberpunk 2 director jokes game is ‘cancelled’ after playing GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vQ3k1TTRlZ09NZzlNT1FlSVc5Q2FlREFUUDZLWk96NDJ6b2s4MmdQb1lqbndLeEVsTkpRQVpFazBLQktfdjFoNGo2Z3NzLXVIRjFFcExRMFZKdGJsOEtzY0JMNnpVd2h3Wk9BM21mNy13azdsZF80SUduZXM?oc=5",
+     "ts": "2026-11-24T12:09:03Z",
+     "summary": ""
+    },
+    {
+     "id": "c5fd670a1623",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Wccftech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "CD Projekt RED Creative Director Jokes Cyberpunk 2 Is Canceled, Calling Grand Theft Auto VI “Probably the Greatest Artistic Achievement in History”",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVFMUWZTVUE4YzBPWERhNEppU3g1b3JkNjZ1LWhkXy1fTk5iVEtiZ2VxUGJleF9mZ09GOTA3aUVtLU9Hd1NMVFZyeWNJRXVLZl9KTjhSOWhsUzJLZW1zSlRoeDJoMUVYajBfdXFMYUJPQkhwZV93UjFPd1p0ZUN4dTNKSUVDY2RUMmtJ0gGQAUFVX3lxTE0tekdvSFJQUXcweGx1MVFDdU9uN2s1WllhTWkwaVhSSFRRSnowbjNsbWZtczBQTllIUUF1Tl9qV3pWNVB0LUlDalZQaGNhOVpId1RKcVlJaE9qcDlDOV9VUWppaEZDQVQ4SXl0UHZSdWVzOERzMDNlVFdlaGNuWGNXSjZIeWlNTFpYSllqRG1YWQ?oc=5",
+     "ts": "2026-11-24T13:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 95,
+   "level": "HIGH CONFIDENCE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Директор Cyberpunk 2: «игра отменена» после GTA 6",
+    "summary": "Креативный директор Cyberpunk 2 пошутил, что сиквел «отменён» после того, как увидел, чего добилась Rockstar в GTA 6. Об этом сообщил Dexerto.",
+    "idea": "Сравнение ожиданий: реакция конкурента на GTA 6. Зрителю интересно, насколько всё серьёзно и что это говорит о GTA 6.",
+    "hook": "Cyberpunk 2 «отменён»? Директор пошутил после того, как увидел GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-23T15:41:20Z"
+   },
+   "msg_id": 2025
+  },
+  {
+   "id": "45ed21ed2de3",
+   "title": "When is GTA 6 online coming out? Here’s everything we know",
+   "first_seen": "2026-11-24T10:29:07Z",
+   "updated": "2026-11-24T13:31:11Z",
+   "items": [
+    {
+     "id": "45ed21ed2de3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Independent",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "When is GTA 6 online coming out? Here’s everything we know",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOE1kemxOeFJCbFBDNGVoSWpoSDNNOVhPRGxfLURpSDB0LW4xMTY4cmJ1RmFldEtxaUxucmF0V2V3b3dtQUFmR2VBS05Oc29pckx3ZmxpTFQySXA2UklwQlVKQTgwM2F6ZlR6RmhWOEx5ZTY1aFEzbWYyV2tmT0JRX0gxQlFhbURtNlVzRHI1UXVoZkFNNWE1Y1p4QW5qQQ?oc=5",
+     "ts": "2026-11-24T09:57:00Z",
+     "summary": ""
+    },
+    {
+     "id": "c77f6406f7c6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "HuffPost UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "When Does GTA 6 Online Come Out? Everything We Know",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1REZlBiWVpWZFotODhIckUxQTgzQzgxRGxSU2FlWXZYQ1c0Nl83ZHlURmdhbzhadVlFYXo4dXdmbGx0SmNJUEFGbXhzbnZBQUFZVC1rLWt3TDltZE1xTnZ6aGIxeWU0MnlIVm9HNlRlTTUtN0lvUktibmJ5VzI1RFUtVHNNVGROTjVwbG9CRjI1Y3JuYjNoYnNYS0tvTlpzX0VrejV0eTVoLWpBeHc?oc=5",
+     "ts": "2026-11-24T12:56:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "cf29de17936a",
+   "title": "Game over? How the launch of Grand Theft Auto VI is affecting athletes’ performances | The Guardian - newspaper",
+   "first_seen": "2026-11-24T13:31:11Z",
+   "updated": "2026-11-24T13:31:11Z",
+   "items": [
+    {
+     "id": "cf29de17936a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Magzter",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Game over? How the launch of Grand Theft Auto VI is affecting athletes’ performances | The Guardian - newspaper",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSnVnMFBaMWJ3RlFLdHJiSWFzLWp2ZjBLNmF5WUdUQlBhdTZGMUpVQW1NLTF2Ylc4bFdfMENkdi1xYXR5cjNadmgwMTlqTC1kRnRVbXNUR0wtMk9JcEpqUkV2S2dseUh0ZEZXeU1ySXBLYnJQNGFjQzhvdGdSaExiaEl4Q19td3JRLWgySlBBdGljUnNuTU1EamdLMHR6MWVOTWtoWC1vWDFjN29jMVhTVVFHcndpZVhXb29MdFNGbmV2ZUF3TWp2YjB2blowanBoWTZJ?oc=5",
+     "ts": "2026-11-24T12:54:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "b84abe34f89d",
+   "title": "Какую консоль купить для GTA VI: PS5 Pro, PS5, XBOX Series X или Series S",
+   "first_seen": "2026-11-24T13:31:11Z",
+   "updated": "2026-11-24T13:31:11Z",
+   "items": [
+    {
+     "id": "b84abe34f89d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "AppleInsider.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Какую консоль купить для GTA VI: PS5 Pro, PS5, XBOX Series X или Series S",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdTBzclNqenNVSjNUTHlOSEZKTFRrdml3RVdtLXlLUXdheDJyYXRwb2RJRXR6NXlkN0tsak5xUE9hQmllclZpdEJFdjhUdi1nTFpmRmhGa2I5OW40NGN0czVQWWR2dmJGYkgxN083NW0zaGp3cFJody1pYmJKTlo5M2RyN0ZLVWlfYlRMT3d0YlNaTXdKdkFZcEJublpkeUh5NUZuVnY2VkF0Szg?oc=5",
+     "ts": "2026-11-24T13:00:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a381927ba177",
+   "title": "GTA 6 Creepy Photos: All Missing Persons locations in Port Gellhorn",
+   "first_seen": "2026-11-24T13:31:11Z",
+   "updated": "2026-11-24T13:31:11Z",
+   "items": [
+    {
+     "id": "a381927ba177",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Radio Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Creepy Photos: All Missing Persons locations in Port Gellhorn",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BRlBSbjBKWmgtV0t3bmNWMnJVeDdQZDktV2s5amZHZDUyaldOSGM5YkYxNXZmNDVmYzVGVDdkZUdPNTZ5Vm8weW9wdk9DcmFPb3JBVV80RHpuSFFET3pNMmJHYWMtdnllY2JBbWlieC1EUklIUkRrUDFFR0dGdw?oc=5",
+     "ts": "2026-11-24T13:01:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "135500f33d5f",
+   "title": "GTA 6 - PlayStation 5 Pro Vs Base PlayStation 5 | Graphics Comparison",
+   "first_seen": "2026-11-24T13:31:11Z",
+   "updated": "2026-11-24T13:31:11Z",
+   "items": [
+    {
+     "id": "135500f33d5f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 - PlayStation 5 Pro Vs Base PlayStation 5 | Graphics Comparison",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZm5Gd2FNVHZSQWEyYVh6VnFoT2dTeC13YkJnWnJSRGttUTRyYzJqVTMtMG1wN2k2cW1Pay10QUZ6WXlwNS1LSThNZmVMQno0SDAzb3NmNXMyRldJZTU4dTFfWXZkNkRQb3llRTZKNmxxWFc2b1pQMlNadXNEdmVHWU9TNHNQdzFRQ2gtYkRqWnotQ0R3SjJJ?oc=5",
+     "ts": "2026-11-24T13:15:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 GTA 6 на PS5 Pro против обычной PS5: сравнение графики",
+    "summary": "IGN опубликовали сравнение графики GTA 6 на PlayStation 5 Pro и базовой PlayStation 5. В ролике показывают разницу в картинке и производительности на двух консолях.",
+    "idea": "Короткий сплит‑скрин: одна и та же сцена GTA 6 на PS5 Pro и на обычной PS5. Зрителю за 30 секунд видно, стоит ли переплачивать за Pro.",
+    "hook": "GTA 6 на PS5 Pro против обычной PS5 — где картинка реально лучше?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T13:31:17Z"
+   },
+   "msg_id": 2127
+  },
+  {
+   "id": "21bc62160437",
+   "title": "K-pop songs in GTA 6: JENNIE, JISOO, KATSEYE and more",
+   "first_seen": "2026-11-24T13:21:04Z",
+   "updated": "2026-11-24T13:21:04Z",
+   "items": [
+    {
+     "id": "21bc62160437",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RouteNote",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "K-pop songs in GTA 6: JENNIE, JISOO, KATSEYE and more",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanVtRjJzY0hBbmtPYUtrdm1UZXlhN3BGQmgyc29kYm1mQ1o0N21nMl9fVVhJeGpFcnh4ZUNJVURTbmIzVlU2OUNhMXNyQnUxNUJya01DdVllbWNWUDY3ZlgxTHZVNU1iel9rVVlTMFRfYlU1UWRvSU5BYTVVRVdLam80Y2NBZw?oc=5",
+     "ts": "2026-11-24T13:15:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -750,43 +1111,6 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
-  },
-  {
-   "id": "6a4783294cfe",
-   "title": "Does GTA 6 Have Darts or Bowling?",
-   "first_seen": "2026-11-24T13:21:03Z",
-   "updated": "2026-11-24T13:21:03Z",
-   "items": [
-    {
-     "id": "6a4783294cfe",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Does GTA 6 Have Darts or Bowling?",
-     "url": "https://insider-gaming.com/gta-6-darts-bowling/",
-     "ts": "2026-11-24T13:10:51Z",
-     "summary": "Darts and bowling have been popular minigames and pastimes in Grand Theft Auto games, but does GTA 6 have either? The post Does GTA 6 Have Darts or Bowling? appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Дартс и боулинг в GTA 6: что известно на сегодня",
-    "summary": "По данным Insider Gaming (Tom Henderson), пока нет подтверждения, что в GTA 6 будут дартс или боулинг. Автор напоминает, что эти мини-игры были популярны в прошлых частях серии. Официально Rockstar это не подтверждала.",
-    "idea": "Короткий разбор слухов: есть ли дартс и боулинг в GTA 6 и где это уже было. Зрителю важно понять, ждать ли любимые мини-игры на релизе.",
-    "hook": "Дартс и боулинг в GTA 6 — правда или просто слух?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-24T13:21:08Z"
-   },
-   "msg_id": 2124
   },
   {
    "id": "2ff4850b936b",
@@ -2875,121 +3199,6 @@
     "at": "2026-11-24T10:50:53Z"
    },
    "msg_id": 2107
-  },
-  {
-   "id": "211386ee34ca",
-   "title": "Cyberpunk 2 creative director jokes that he’s cancelling the game after playing GTA 6",
-   "first_seen": "2026-11-23T15:41:06Z",
-   "updated": "2026-11-24T12:31:13Z",
-   "items": [
-    {
-     "id": "211386ee34ca",
-     "src": "dexerto_gta",
-     "src_name": "Dexerto GTA",
-     "outlet": "",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "Cyberpunk 2 director jokes game is “cancelled” after seeing GTA 6",
-     "url": "https://www.dexerto.com/gta/cyberpunk-2-director-jokes-game-is-cancelled-after-seeing-gta-6-3430664/",
-     "ts": "2026-11-23T15:27:51Z",
-     "summary": "Cyberpunk 2’s creative director has joked that the sequel is “cancelled” after seeing what Rockstar has achieved with GTA 6."
-    },
-    {
-     "id": "2246ca6dcaad",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "80 Level",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "“Cyberpunk 2 is Canceled” Jokes CDPR Creative Director After Playing GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNXzJMcFFmVmJzZEpGRzdGRkxCdHc3X3FhcE5sczktZi15T2d3UnZkRlpDalduYXEyRjFMZ1BwaEhwa2wtWU9jMVlKNTluNmZKLWRja2JldFBid2JSd29KY1lQOXVydTB3UWtrcUMwSFRSRlRhSDU2UVhqdFhkSlh4eWptcGhOM0lUb29J?oc=5",
-     "ts": "2026-11-23T19:51:06Z",
-     "summary": ""
-    },
-    {
-     "id": "dac18333db5c",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "A Cyberpunk 2 Director Joked His Game Was Cancelled After Seeing GTA 6",
-     "url": "https://www.gtaboom.com/a-cyberpunk-2-director-joked-his-game-was-cancelled-after-seeing-gta-6-c8d2",
-     "ts": "2026-11-23T20:33:44Z",
-     "summary": "The scale and density of Grand Theft Auto VI impressed creative director Igor Sarzynski enough to joke that his own game, Cyberpunk 2, was cancelled."
-    },
-    {
-     "id": "4e0de1d8d0ea",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PC Gamer",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Cyberpunk 2 creative director says he's suffering from 'GTA 6-induced-open-world-game-dev-depression,' jokes that 'Cyberpunk 2 is cancelled'",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2EwVDQ5dEdhM2czbGFsMFRwVW5BUm4weTlOcFh5YVJKMThuOVNOaEoxbzBoUVd2NVpKcHlPUm1ZcHlVM0txXzRjVlBZam9nTnpITEljZ2EzT1Z2c1p3THIyM1Y3NnJfYXNDYnZPZmtZWkxtR2xhaUxPOFN0bjUtNjlZLTF4TFNyMW9LbmZRNTR1bnZpczdLa3NrNEZCZjcxZ1ptampJM3BwSmFYNWlOMTlTUGs4LXBOV1NCUldhaVB3UHZJNXZ1R21saFJGN2FLQVhzbS1HbnlkQWEtQ2MyS05FLXlWc2tFX2M2NWU5X1lRTXBQLWFiQQ?oc=5",
-     "ts": "2026-11-23T20:55:56Z",
-     "summary": ""
-    },
-    {
-     "id": "0016d72011fe",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TweakTown",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Cyberpunk 2 creative director jokes that the game is canceled after seeing what Rockstar achieved with GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX080MlVSa2xLRG95cDNjT1ljZlUyNXV1R29rYW5WUTBiQ1ZSOU5QM09peUJ3VFUzTnloOGtWMDFQaWJjb1BwcVRMVmlidElRaUFmR2pQUUloZGNydW1tcFVfR2oyRjFFeXQ5ZzNDLUl2Y09ndzRpSUs2eDBhekZlZHg1Y1RWeWpqRVZWMVplUlRPSmhXTU11RnBiRlI5ODZQMlloUmc1d3ZSVU5YeDJuRzc3TjZncHp0ci1mY2paUnNZUE1VRUFPWjFYMUZXVFUyZWhhM2ZpQjNQUHZkU25NVnBhTDU2NEsyMHctYS1R?oc=5",
-     "ts": "2026-11-24T05:31:15Z",
-     "summary": ""
-    },
-    {
-     "id": "4785bf048384",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Cyberpunk 2 creative director jokes that he’s cancelling the game after playing GTA 6",
-     "url": "https://www.videogameschronicle.com/news/cyberpunk-2-creative-director-jokes-that-hes-cancelling-the-game-after-playing-gta-6/",
-     "ts": "2026-11-24T10:33:52Z",
-     "summary": "Igor Sarzyński says Rockstar's game is \"the single greatest artistic achievement in history\""
-    },
-    {
-     "id": "672b1f945cce",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo News UK",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Cyberpunk 2 director jokes game is ‘cancelled’ after playing GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vQ3k1TTRlZ09NZzlNT1FlSVc5Q2FlREFUUDZLWk96NDJ6b2s4MmdQb1lqbndLeEVsTkpRQVpFazBLQktfdjFoNGo2Z3NzLXVIRjFFcExRMFZKdGJsOEtzY0JMNnpVd2h3Wk9BM21mNy13azdsZF80SUduZXM?oc=5",
-     "ts": "2026-11-24T12:09:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 95,
-   "level": "HIGH CONFIDENCE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Директор Cyberpunk 2: «игра отменена» после GTA 6",
-    "summary": "Креативный директор Cyberpunk 2 пошутил, что сиквел «отменён» после того, как увидел, чего добилась Rockstar в GTA 6. Об этом сообщил Dexerto.",
-    "idea": "Сравнение ожиданий: реакция конкурента на GTA 6. Зрителю интересно, насколько всё серьёзно и что это говорит о GTA 6.",
-    "hook": "Cyberpunk 2 «отменён»? Директор пошутил после того, как увидел GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-23T15:41:20Z"
-   },
-   "msg_id": 2025
   },
   {
    "id": "526861671fed",
@@ -6658,34 +6867,6 @@
    "score": 50,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "45ed21ed2de3",
-   "title": "When is GTA 6 online coming out? Here’s everything we know",
-   "first_seen": "2026-11-24T10:29:07Z",
-   "updated": "2026-11-24T10:29:07Z",
-   "items": [
-    {
-     "id": "45ed21ed2de3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Independent",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "When is GTA 6 online coming out? Here’s everything we know",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOE1kemxOeFJCbFBDNGVoSWpoSDNNOVhPRGxfLURpSDB0LW4xMTY4cmJ1RmFldEtxaUxucmF0V2V3b3dtQUFmR2VBS05Oc29pckx3ZmxpTFQySXA2UklwQlVKQTgwM2F6ZlR6RmhWOEx5ZTY1aFEzbWYyV2tmT0JRX0gxQlFhbURtNlVzRHI1UXVoZkFNNWE1Y1p4QW5qQQ?oc=5",
-     "ts": "2026-11-24T09:57:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -199579,300 +199760,11 @@
    "level": "SPECULATION",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "81a9c5c8f75c",
-   "title": "Продажи GTA 6 могли приблизиться к 15 миллионам копий",
-   "first_seen": "2026-11-16T13:41:00Z",
-   "updated": "2026-11-17T13:31:07Z",
-   "items": [
-    {
-     "id": "81a9c5c8f75c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Игромания",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Продажи GTA 6 могли приблизиться к 15 миллионам копий",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDhWZGtNVktfeFJlMTlPbWpPdVdnQVJ3ZDdHcG5OTkNzR3NDTlFmRy1QTFFGUHdpamo3ckUtN0swdi03ZVp1YU5WMU9rZkJ2aDhxM1E1NnRNNDVwQ0xabkNNTlZMT1ZKeW1mNlFQMjhoRkZILU1QR2tJY1pDbFpxaUIxclJ1cVcyRkRmb1hQV3hoM1BJcUd3QmhOZzhXQzdqaGhVM2RfMDFFNjQxVDg4?oc=5",
-     "ts": "2026-11-16T13:37:41Z",
-     "summary": ""
-    },
-    {
-     "id": "87fe85390ef7",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Overclockers.ua",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Продажи GTA VI приблизились к 15 миллионам копий",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV05naFJ3SU9NR284MW9kdlBjblNUc09XNVpaQTlSNWw5cHBMM1c4YVhGNHFSdmZMNkEwUF9kdy1ET3JSUGxVRElsMjdrLXpXaE53eHJuVE53Nmt4NGtmVzhjUy1IWDBPTzYtV19CeFo2bGlkQnVPSTJmOWsxdXF4MdIBhgFBVV95cUxNbnBwUjJfZWpyWEZJQ09sYXc5ZDZGVWxpYXZlbTJqQlNFellLLTRlMVFDdXAxZkEyTXlHUDlCd09vY2YxeklvbWN5alhwaXA2cHU1VG81bU1SYzlpankzZnA4SVpYX3V5T1UtYWNMSHExUUE0UkJwZmpLbFoyZWVhTW9sU1dNQQ?oc=5",
-     "ts": "2026-11-17T07:49:00Z",
-     "summary": ""
-    },
-    {
-     "id": "214fa23bbdcc",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW.News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Продажи GTA 6 официально превысили 15 миллионов копий",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVVPd0VFVGtEN3RhWkFEMVg2ZmZxTTRfQUl5dXdQTGRfbklZYk9rV1c5UGpMa1lvYW1kVVRTRzYwVTJUeUY5Nkt4ZExsOF92RVR2Tm1reXQzLXFyRGNFM19ZWWxndWI0bldBWnF5aXJJMVQxNEhUdWU5UHlVU0VoNXhhYVlzV2RqMUlxaXBnc3A5aFpjY3dZR1NjelpOLU5F?oc=5",
-     "ts": "2026-11-17T12:57:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "bf4538978279",
-   "title": "GTA 6 Can Be Nominated For Game Of The Year Two Days Before Anyone Is Allowed To Play It",
-   "first_seen": "2026-11-17T13:31:07Z",
-   "updated": "2026-11-17T13:31:07Z",
-   "items": [
-    {
-     "id": "bf4538978279",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Can Be Nominated For Game Of The Year Two Days Before Anyone Is Allowed To Play It",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXNzcWhnZzdKMjFNUzV2SUpDSlo2U3hXcjRuV1J2VlFia01lYkMtaTRHQThFRzRPc29ZbGRhMVpGNHJWaEkyVEdiak5tNjUzY1llVXM2blFXQ3gzRUpRMFdweGVhVnROZ1RJeTNEdDdITmotUTBWNWo0cUFLUXNOc1dzMG4?oc=5",
-     "ts": "2026-11-17T13:00:02Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "339e535be947",
-   "title": "Продажи GTA VI уже приблизились к отметке в 15 млн, рапортуют аналитики",
-   "first_seen": "2026-11-17T13:31:07Z",
-   "updated": "2026-11-17T13:31:07Z",
-   "items": [
-    {
-     "id": "339e535be947",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Продажи GTA VI уже приблизились к отметке в 15 млн, рапортуют аналитики",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnZqamY3dGZuSXlQWE0yYUlfXzZOTG1aX1VIT3ZncjhLRFVCRWhCR1pXLVlmVk1VU2twb3JUWjFFMGJKTWFtNlhsNjlmTWlHTVZtQmxEUlFXYi1SMlIzeUxCUFpjbnlka2Vsd3Z4U2hsZjlWeUtORkNuRDhub2ZOd3c2M1hMbmo5S0JuVEcwVzBPajRIVmVTY19mYlMxWVJiY3loUkF2WElvczd0S2Jz0gG0AUFVX3lxTFBtQ3NIY1V5WDRBTUs0TkhLSXVNYXZfeEpnRjlQQXZia01vVWFhblZzYlVQR2xkTjl2cHVvRW5sSGI5NWhXTlR4ZUJlMVNlSFVIYjFXcGE4NjlzbTVDSUdjTUFWekVjY0Y2aUQwRGNGc0hHakM3R3ZlOTNoQXZ0eVNIWVZHMzlDYks3UkduR2J3SnZmbkZNb285bldXaDh2cjYzenRnVlRWdGx1TDFaT2FmVjREMw?oc=5",
-     "ts": "2026-11-17T13:18:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "40b871b020e7",
-   "title": "Испанский учитель отменил домашние задания и перенёс экзамен ради недели релиза GTA 6",
-   "first_seen": "2026-11-17T13:31:07Z",
-   "updated": "2026-11-17T13:31:07Z",
-   "items": [
-    {
-     "id": "40b871b020e7",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Испанский учитель отменил домашние задания и перенёс экзамен ради недели релиза GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWVia1FKd0lZVnY4cFR1b3JycnZsS2ctdS1Fa19WZUVEUnA4cThwT0VHczBVTkl3dWdYQXE5Sk81RjJSX1Q2b0RwN2o4VDFzZVdvV25rbm9aUFNoMVVRMEdOZFpXN1RQdjRzallTM1NmZFVORmY2QUhSdzQ5MkJvOEJ6WWRpYnJ0NDhiNVZHdnpLMDdWYUhpdk1yRWJ5dkN6M0pHU0lCRTZTdmxNaWNicHZSVEZmNWs5UzZlaWhR?oc=5",
-     "ts": "2026-11-17T13:20:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4b7b5d6a927c",
-   "title": "So excited to play!",
-   "first_seen": "2026-11-17T13:31:07Z",
-   "updated": "2026-11-17T13:31:07Z",
-   "items": [
-    {
-     "id": "4b7b5d6a927c",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "So excited to play!",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xykcsu/so_excited_to_play/",
-     "ts": "2026-11-17T13:24:17Z",
-     "summary": "submitted by /u/samplingstiring to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "61eb5d58dcb2",
-   "title": "🚫 Ранний доступ к бану — геймерам, купившим новозеландские аккаунты ради раннего доступа к GTA VI, начали прилетать блокировки Вместе с аккаунтом пропадает и до",
-   "first_seen": "2026-11-17T13:31:07Z",
-   "updated": "2026-11-17T13:31:07Z",
-   "items": [
-    {
-     "id": "61eb5d58dcb2",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "🚫 Ранний доступ к бану — геймерам, купившим новозеландские аккаунты ради раннего доступа к GTA VI, начали прилетать блокировки Вместе с аккаунтом пропадает и до",
-     "url": "https://t.me/GTA6_m/9393",
-     "ts": "2026-11-17T13:24:52Z",
-     "summary": "🚫 Ранний доступ к бану — геймерам, купившим новозеландские аккаунты ради раннего доступа к GTA VI, начали прилетать блокировки Вместе с аккаунтом пропадает и доступ к купленной игре. Но назвать проблему массовой пока сложно Может, лучше подождать полдня, чем идти за второй копией? 😬 🥺 Канал про GTA 6 | Наш чат"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d4157b17f1e9",
-   "title": "Al final GTAVI",
-   "first_seen": "2026-11-17T13:31:07Z",
-   "updated": "2026-11-17T13:31:07Z",
-   "items": [
-    {
-     "id": "d4157b17f1e9",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Al final GTAVI",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xykeqw/al_final_gtavi/",
-     "ts": "2026-11-17T13:26:53Z",
-     "summary": "submitted by /u/AlbaMyst to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "88936ab1c333",
-   "title": "🎮 Giving away GTA 6 to one gamer (PS5/Xbox) — because not everyone can afford it on launch day",
-   "first_seen": "2026-11-17T13:31:07Z",
-   "updated": "2026-11-17T13:31:07Z",
-   "items": [
-    {
-     "id": "88936ab1c333",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "🎮 Giving away GTA 6 to one gamer (PS5/Xbox) — because not everyone can afford it on launch day",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xykf0n/giving_away_gta_6_to_one_gamer_ps5xbox_because/",
-     "ts": "2026-11-17T13:27:16Z",
-     "summary": "Remember when we were kids and all we wanted was to play GTA 5, but either our PC couldn't run it or we couldn't afford the game? 😭 Well, GTA 6 is finally here, and I know there are still plenty of gamers in India who might have to wait months or even years to experience it. So I thought, why not help at least one person experience it without worrying about the price? **I'm hosting a GTA 6 giveaway for gamers!** 🎁 **Prize:** Cash equivalent to one GTA 6 Standard Edition copy. Cash equivalent only if you are in India. 🎮 **Platform:** PS5 or Xbox — winner's choice 🎲 **Winner:** Selected randomly"
-    }
-   ],
-   "tags": [
-    "ПК",
-    "цена/издания"
-   ],
-   "score": 35,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2160a083a8ba",
-   "title": "Miami Heat GTA VI merchandise",
-   "first_seen": "2026-11-17T13:31:07Z",
-   "updated": "2026-11-17T13:31:07Z",
-   "items": [
-    {
-     "id": "2160a083a8ba",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Miami Heat GTA VI merchandise",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xykhm1/miami_heat_gta_vi_merchandise/",
-     "ts": "2026-11-17T13:30:24Z",
-     "summary": "So back on October 3rd, when the shirts and stuff went up for sale, I got two t-shirts right away, and they took my money, and I haven't heard anything yet and yesterday I downloaded the thing that track my shipment and it still hasn't updated at all so I'm just wondering if anyone else is in the same boat as me? submitted by /u/SuddenDepact to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c3ba8b88019f",
-   "title": "\"Before GTA6\" is almost ending",
-   "first_seen": "2026-11-17T13:31:07Z",
-   "updated": "2026-11-17T13:31:07Z",
-   "items": [
-    {
-     "id": "c3ba8b88019f",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "\"Before GTA6\" is almost ending",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xykhum/before_gta6_is_almost_ending/",
-     "ts": "2026-11-17T13:30:39Z",
-     "summary": "These last few years I've grieved over the thought of waiting years before the release. I found no outlet to express my frustrations, no person to talk to, no place to go. The only shining glimmer through the window holding me sane and keeping my mind safe from slowly perishing was the abundance of \"We got _ before GTA6\" and even then, it too is slowly dying. One day. One day before its gone. I've lost all hope. submitted by /u/KitchenWeather7173 to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-24T13:21:19Z",
+  "last_run": "2026-11-24T13:31:18Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 97/100",
@@ -199880,7 +199772,7 @@
    "gamesbeat: 1/10",
    "vgc: 8/10",
    "insider_gaming: 4/10",
-   "ign: 8/20",
+   "ign: 7/20",
    "eurogamer: 11/100",
    "dexerto_gta: 12/50",
    "rockstarintel: 9/10",
