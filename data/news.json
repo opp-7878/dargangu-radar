@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "521157711e64",
+   "title": "Analyst upgrades GTA VI sales estimates from 39M to 48M by March 31 — will it be enough?",
+   "first_seen": "2026-11-24T01:50:50Z",
+   "updated": "2026-11-24T02:31:00Z",
+   "items": [
+    {
+     "id": "521157711e64",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesBeat",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "Analyst upgrades GTA VI sales estimates from 39M to 48M by March 31 — will it be enough?",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkFDcllpUkt6bjFVeDA3WDJwdEphWWpIZjZRR1gxSmI3Z0dya0h0NVlESkhkTjVZTU1UYjhRcFJJeGFoWTVQb0dVY3pncktXNDhwNDZ1Q3o0dVJTbnRGX0F5TnoyaG5PSVdoWFhRV1djenZGTklHNm5CY2dremhPdkFnR2I0dVNIREh5STlMQWRVRVRZWGJ6ZUJpUGEwTnJVWm9JanJ1SmZqSTRH?oc=5",
+     "ts": "2026-11-24T01:43:51Z",
+     "summary": ""
+    },
+    {
+     "id": "86f90ef79fda",
+     "src": "gamesbeat",
+     "src_name": "GamesBeat",
+     "outlet": "",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "Analyst upgrades GTA VI sales estimates from 39M to 48M by March 31 — will it be enough?",
+     "url": "https://gamesbeat.com/analyst-upgrades-gta-vi-sales-estimates-from-39m-to-48m-by-march-31-will-it-be-enough/",
+     "ts": "2026-11-24T01:43:00Z",
+     "summary": "It looks like Grand Theft Auto VI is going to keep running ahead of sales estimates. Keep Reading with GB MAX Get the full... The post Analyst upgrades GTA VI sales estimates from 39M to 48M by March 31 — will it be enough? appeared first on GamesBeat ."
+    }
+   ],
+   "tags": [
+    "размер/preload"
+   ],
+   "score": 98,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Прогноз продаж GTA 6 вырос: 48 млн копий к марту",
+    "summary": "По данным GamesBeat, аналитик повысил прогноз продаж GTA 6 с 39 до 48 млн копий к 31 марта. Официально Rockstar и Take-Two эти цифры не подтверждали.",
+    "idea": "Сравниваем 48 млн с GTA 5 и RDR2 и показываем, что это значит для онлайна и поддержки игры. Зрителю важно понять, станет ли GTA 6 самой продаваемой и как это скажется на контенте.",
+    "hook": "48 миллионов к марту — реально ли для GTA 6? Считаем факты.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T01:50:55Z"
+   },
+   "msg_id": 2097
+  },
+  {
    "id": "a3e7aac4c586",
    "title": "How GTA 6’s “Good Boyfriend” Simulator Is a Retention Pipeline in Disguise",
    "first_seen": "2026-11-24T02:20:46Z",
@@ -116,43 +168,6 @@
     "at": "2026-11-24T01:10:53Z"
    },
    "msg_id": 2094
-  },
-  {
-   "id": "521157711e64",
-   "title": "Analyst upgrades GTA VI sales estimates from 39M to 48M by March 31 — will it be enough?",
-   "first_seen": "2026-11-24T01:50:50Z",
-   "updated": "2026-11-24T01:50:50Z",
-   "items": [
-    {
-     "id": "521157711e64",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesBeat",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "Analyst upgrades GTA VI sales estimates from 39M to 48M by March 31 — will it be enough?",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkFDcllpUkt6bjFVeDA3WDJwdEphWWpIZjZRR1gxSmI3Z0dya0h0NVlESkhkTjVZTU1UYjhRcFJJeGFoWTVQb0dVY3pncktXNDhwNDZ1Q3o0dVJTbnRGX0F5TnoyaG5PSVdoWFhRV1djenZGTklHNm5CY2dremhPdkFnR2I0dVNIREh5STlMQWRVRVRZWGJ6ZUJpUGEwTnJVWm9JanJ1SmZqSTRH?oc=5",
-     "ts": "2026-11-24T01:43:51Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Прогноз продаж GTA 6 вырос: 48 млн копий к марту",
-    "summary": "По данным GamesBeat, аналитик повысил прогноз продаж GTA 6 с 39 до 48 млн копий к 31 марта. Официально Rockstar и Take-Two эти цифры не подтверждали.",
-    "idea": "Сравниваем 48 млн с GTA 5 и RDR2 и показываем, что это значит для онлайна и поддержки игры. Зрителю важно понять, станет ли GTA 6 самой продаваемой и как это скажется на контенте.",
-    "hook": "48 миллионов к марту — реально ли для GTA 6? Считаем факты.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-24T01:50:55Z"
-   },
-   "msg_id": 2097
   },
   {
    "id": "3603fb36f14e",
@@ -202446,12 +202461,12 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-24T02:20:46Z",
+  "last_run": "2026-11-24T02:31:00Z",
   "last_log": [
    "rockstar_site: 0/4",
    "gnews_en: 100/100",
    "gnews_ru: 100/100",
-   "gamesbeat: 0/10",
+   "gamesbeat: 1/10",
    "vgc: 9/10",
    "insider_gaming: 9/10",
    "ign: 8/20",
