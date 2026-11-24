@@ -1,6 +1,394 @@
 {
  "stories": [
   {
+   "id": "a62cb03cf4dd",
+   "title": "Customers stocked up on gaming hardware ahead of 'Grand Theft Auto VI' launch",
+   "first_seen": "2026-11-24T21:40:51Z",
+   "updated": "2026-11-24T21:50:53Z",
+   "items": [
+    {
+     "id": "a62cb03cf4dd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance Singapore",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Customers stocked up on gaming hardware ahead of 'Grand Theft Auto VI' launch",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTNpSTYwVndrY3Y1dk92OFVqWDBvSloyV0RHZXA0R1ZVQm1GeFVQOFRvVnJ0UGEyODJiVU40ZXdvMWdwMmVlVFdQcTh3dGVNQzczZW1oR21SNzZvbUotbWFSNHJrdUowZW41clducEpVbDBVSVVIQ1hpV2FncUhxLVFDZEpienVNS29ndTBfcVpQZV9UYnp6aHpET3puajg5Z0RxNkR6RWdHRzBMMmJGTGROcWNaZVR4b1R0Q2RoRUZ2Zw?oc=5",
+     "ts": "2026-11-24T21:30:56Z",
+     "summary": ""
+    },
+    {
+     "id": "306ccf054948",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo! Finance Canada",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Customers stocked up on gaming hardware ahead of 'Grand Theft Auto VI' launch",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb0VMTzlBQWNBV3BYTEpFSlEwZ2NZVDlYS1A4V1NFZVJyUnJVeEZCMUFrVU5lQTR6WVEzM3ZoYm1JSGl2ZkRxakV5QzFSVWZ2MWpjci1YZWFpdnN5LURPVFVPV09Lb1lzX3VRd2VBMS1KdGpZSkNxeXZMWVNOZkxYUENKYkcxTW5mWDgwQ3JObmVBcVJFRFZicTIwM1BlSUY1WkMtMURjZGttSHFNZVppOXNrRGdod29jei16aW9ndTVaUQ?oc=5",
+     "ts": "2026-11-24T21:30:56Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Перед GTA 6 раскупают консоли и видеокарты",
+    "summary": "По данным Yahoo! Finance, перед выходом GTA 6 игроки массово закупают консоли и видеокарты. В материалах ссылаются на ритейлеров и аналитиков, отмечая повышенный спрос на PlayStation 5 и Xbox.",
+    "idea": "Короткий ролик о том, как взлетел спрос на консоли и видеокарты перед GTA 6. Покажи пустые полки и рост цен — зрителю важно понять, успеет ли он купить железо.",
+    "hook": "Железо улетает с полок: GTA 6 уже ломает рынок.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T21:51:03Z"
+   },
+   "msg_id": 2193
+  },
+  {
+   "id": "3c5b042064fe",
+   "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
+   "first_seen": "2026-11-24T20:50:51Z",
+   "updated": "2026-11-24T21:50:53Z",
+   "items": [
+    {
+     "id": "3c5b042064fe",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWI1R1VuaDBkR3RFLWZ3dEw2aFItN3plN0I2NzMxOG1fNHVZcHlkTk9FWDRWdWFwMzlHVUpScTZHbzUzUDhOczcxQVpYRVR5Z3dxQUdIdEZTN1J6eWVOa0pJX0dVQk96SWNrZTVFeW1lb1JGcmhCUzV4UHR0TXJLZjVPTlJSU3lyNnVBVlVScGJoNUp6XzFtbHNyY1pqU0lhYnhMakFtR2pzUGFzOHJBNmlvOXJSd1ZFMVVXQnc5YzF1VjdVNjhVX2JVOHh2R3Nwa0E?oc=5",
+     "ts": "2026-11-24T20:49:30Z",
+     "summary": ""
+    },
+    {
+     "id": "1faa74b74ccb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSVVXaGg1N2hoYnlVRXRFNklQVXNxMUtoSmJrTkpqVzdLYl9aZGt6djU3aTJRSmRMNXA2aHNmbjZTOFVROVYwcW5hZUxiVnYzRjFnR3J3RS1sZjMyWWdzUTR5YkNXTzVMWWNtNXg5R3RTQWhqaVlWQmdDN21oVzBLMHNhdGFPeWNPOXl3cEtwSUJsUjZvaERNd3AwOFpzaTBrRkhLU2ozRFFKWkFaOE5zSEp0RnJLbnc2TUtPSVpZZXF4U3Yy?oc=5",
+     "ts": "2026-11-24T20:50:31Z",
+     "summary": ""
+    },
+    {
+     "id": "6f8c4b718742",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
+     "url": "https://www.ign.com/articles/crazy-secretive-gta-6-voice-actor-reveals-details-of-rockstars-humongous-nda",
+     "ts": "2026-11-24T20:36:14Z",
+     "summary": "A voice actor who appeared in GTA 6 described the wild non-disclosure agreement she had to sign before working on the game, calling the project “crazy secretive.”"
+    },
+    {
+     "id": "2c0b40c86a9e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTjNTeXZmT0hjU2EwY0ljbVROUEZXZ1lsQkE3X1RTSlU4MGZoVzd4UVUtMHpoaUplYXFmVXNGZ1R0STNLT3JRUXdabzdzQTVKdEhMRnZHM29OdDAzaWMtRFl4NEpNbUIwQ05RNE80Qnd1c0V4SUUzdGNZVnplYnBnMFJmX1JNNTZWMGZKaHF6NVdyblFZZjJmVDZGZi0yTnlBTzg1eEZCczBBTmVKdWNyUF9aZG9zZkZUWGVqZUJ1V0VHeG9WeHVuOEZPcjZrWUgzaWNN?oc=5",
+     "ts": "2026-11-24T21:03:34Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "01f0c723b78a",
+   "title": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
+   "first_seen": "2026-11-24T18:20:51Z",
+   "updated": "2026-11-24T21:50:53Z",
+   "items": [
+    {
+     "id": "01f0c723b78a",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
+     "url": "https://www.eurogamer.net/cd-projekt-red-cdpr-witcher-3-4-gta-5-6",
+     "ts": "2026-11-24T18:13:30Z",
+     "summary": "CD Projekt Red has said people can expect a similar qualitative and technological leap from The Witcher 3 to The Witcher 4 as has been witnessed between Grand Theft Auto 5 and Grand Theft Auto 6 . Read more"
+    },
+    {
+     "id": "a9b281ee88b5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Witcher 4 will be a GTA 6-like leap forward, CD Projekt Red says",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pakhlU0hUUE1YQ1g4VC1fTjR3eGZoLUEwUFhMVWxJSGQ0OXREZVFfbkNHMGp3S1Z4M0VLZW5ya2NiYXdqeTRXYXI4U3NsZU1YVC1yUE1XRmpLTHFlNGJUX2FuTmpiZXlvQmF5WFBidTRQRGlJWTlHSmRwNzd5WFE?oc=5",
+     "ts": "2026-11-24T20:10:45Z",
+     "summary": ""
+    },
+    {
+     "id": "2f58c3730f09",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
+     "url": "https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
+     "ts": "2026-11-24T21:15:26Z",
+     "summary": "CD Projekt Red expects a leap between The Witcher 3 and 4 that is comparable to the one between GTA 5 and 6."
+    },
+    {
+     "id": "69a6e45a10cf",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "CD Projekt RED сравнила графический прогресс The Witcher 4 с GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkQxRkxkZnVTT3FHM2tRUktUZTBiZUozUHdLVjFxa3VCYkRrb256aEJiVVlmQXJxajhVdFZ2aThmLVRDS2xHUlppTkExMnpoWDF5RU5idDRVUGhDcnJmLVBScG91S01ma2pCSU91djN6N21USVpnMlROeUViblVHTFZ6cGhpM3NWZ0hleG9pY1Vha3I4SWo4Nl9rV0pEQQ?oc=5",
+     "ts": "2026-11-24T21:40:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 94,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "CDPR: скачок Witcher 4 как между GTA 5 и GTA 6",
+    "summary": "CD Projekt Red заявила, что технологический скачок от The Witcher 3 к The Witcher 4 будет как между GTA 5 и GTA 6. Об этом сообщает Eurogamer. Компания обещает заметный качественный и технологический рывок.",
+    "idea": "Сравниваем обещанный скачок Witcher 4 с тем, что мы уже видели в GTA 6. Зрителю интересно, станет ли Witcher 4 таким же «next-gen», как GTA 6.",
+    "hook": "Witcher 4 обещает скачок как между GTA 5 и GTA 6 — что это значит?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T18:20:55Z"
+   },
+   "msg_id": 2164
+  },
+  {
+   "id": "bf273214a779",
+   "title": "Cyberpunk 2 «отменили» из-за страха конкуренции с GTA 6",
+   "first_seen": "2026-11-24T10:10:56Z",
+   "updated": "2026-11-24T21:50:53Z",
+   "items": [
+    {
+     "id": "bf273214a779",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Kursiv Media",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Cyberpunk 2 «отменили» из-за страха конкуренции с GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3l2R0hCV2lLT1VTYnBDMG05VXNVeUxSWXI4dVVRQ0NpZVplZTRrUENDaEw0TERaNG5qcWNoS1locGtPeEphTjVmb2VfRzdlTi1ZWXRHVm9Fd2dTbE15c3VrUjNNRnQ0cDM2OTk4c2tRbHd0b0Y0MEJubkxyUmloY01LbE1ma0dUbnBJWDl4b2RuZnlXSUVIUXFaYVY?oc=5",
+     "ts": "2026-11-24T10:09:24Z",
+     "summary": ""
+    },
+    {
+     "id": "68746001b1d1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Onlíner",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Cyberpunk 2 «отменили» из-за GTA VI — разработчики в депрессии",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PY1ZqeEVOcEVkSzhoM0Vic09xUkFONGRMOUNncEgza3VJazRjMjdrVnh3M21aNUlKUGVjUVdsZWFuSjZxOGxTbl9lbExmZkMzZGRYRVFCakk4Tk5yTmlCSVFQUWZ1WTJEVkFfbWVlQkxDVFlkcmc?oc=5",
+     "ts": "2026-11-24T13:26:11Z",
+     "summary": ""
+    },
+    {
+     "id": "9414bde7e83b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Onlíner",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Cyberpunk 2 «отменили» из-за GTA VI — разработчики в депрессии",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmVuVnZ5aHo0TXlWSjlkcWZMejFOR3ppQlh5dzhMekpmNXc4SFhkdG5Ta2tWWGFiSGdmR0RBWV9HU2x5RW9KOEpQUTFUWE5wRjNreXJ6ckpNbm5BTXJZanUyd0dRLU5TLTFqVjl2WnowMlpiSFRjNGxnTGJCc0RCVXR0dG9adDhvbTNvNUNUTkdadGt1cUc5ekRmXzhRUFZoN1pycg?oc=5",
+     "ts": "2026-11-24T13:26:11Z",
+     "summary": ""
+    },
+    {
+     "id": "0f0b6cdddafa",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Onlíner",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Cyberpunk 2 «отменили» из-за GTA VI — разработчики в депрессии",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRFBjd09QUlhxbmdrME9haW0yWWpTTHpveDNrd2xodE5sbUZPektrU3E2VTMwT2JlQ21kYkJ0V0dTbURUdkZmZjA5Sk1wSTFfa0xZSzBkaDM1MnQtbVdWczZTbWdoeUxfN1BxN2Z3YXdpelJiSnRsRlNQaWoxOExqNTVUa2JjR0xkRWxROWhzMXNhOF9vUzQ2N3FvQmY3dnNPdFB6eg?oc=5",
+     "ts": "2026-11-24T13:26:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7e7eff96b349",
+   "title": "A Month In, and I Thought I'd Seen All of GTA 6. I Was So Wrong",
+   "first_seen": "2026-11-24T19:01:19Z",
+   "updated": "2026-11-24T21:50:53Z",
+   "items": [
+    {
+     "id": "7e7eff96b349",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "A Month In, and I Thought I'd Seen All of GTA 6. I Was So Wrong",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0lfRG1YNVFVSDA0MUxWOFBVRlMydHljRUk3UVNYdkZLcGlnOWVlSll3dmc4RXIzXzNoa1gtZF9EOVlvZUd5Tm1WM2REN2NndEwxZkU5enlNVGY2cHF3VDdDejY1T1FuN3QyTk9kM0tYeEpGSDlQYWpQNzl0Vzd1U1NYSlBsR3dWV3dzUEF3M0E?oc=5",
+     "ts": "2026-11-24T18:57:33Z",
+     "summary": ""
+    },
+    {
+     "id": "4a9cf98c42bc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "A Month In, and I Thought I'd Seen All of GTA 6. I Was So Wrong",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDUwbVdVTEZtOXd4NU9tS0FXUlJDOE8yNUt5RDVja0ItVFVxdzlxZDdPdDhaMHkwUC0xakE4dWs4Vm5nVG9kR2p2ME43YTJtMDFmWUJjVGpVZ2FHSU1taC14elF5SjBtZDFaa1EycXpqVTJzbHVvdWhGSFRiUkNjYTUtVmh6Q29ZN2NnWXBpY1VDSk5fVVM3WHBn?oc=5",
+     "ts": "2026-11-24T18:57:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Месяц в GTA 6: журналист нашёл то, чего не ждал",
+    "summary": "Спустя месяц после выхода GTA 6 журналист PCMag нашёл в игре неожиданные детали, о которых не знал. По его словам, он думал, что видел всё, но ошибался — в открытом мире Вайс-Сити продолжают всплывать скрытые механики и события.",
+    "idea": "Короткий показ 3–4 неожиданных деталей из Вайс-Сити с реакцией «я такого не ждал». Зрителю интересно увидеть скрытые фичи, которые легко пропустить даже через месяц игры.",
+    "hook": "Месяц в GTA 6 — и я только что нашёл то, чего не ждал.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T21:50:59Z"
+   },
+   "msg_id": 2192
+  },
+  {
+   "id": "a5e49c1b09c6",
+   "title": "Rockstar Reportedly Open to Selling Red Dead Redemption TV Rights",
+   "first_seen": "2026-11-24T12:50:47Z",
+   "updated": "2026-11-24T21:50:53Z",
+   "items": [
+    {
+     "id": "a5e49c1b09c6",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "Rockstar Reportedly Selling Red Dead Redemption Movie and TV Rights For $100 Million",
+     "url": "https://rockstarintel.com/rockstar-reportedly-selling-red-dead-redemption-movie-and-tv-rights-for-100-million/",
+     "ts": "2026-11-24T12:42:17Z",
+     "summary": "Rockstar Games are looking to sell the live action TV or film rights for Red Dead Redemption for around nine figures. That’s according to a new report from within Hollywood. After many years of talks for GTA films, it appears Rockstar are keeping that door closed but have opened another to a wild west live [...] The post Rockstar Reportedly Selling Red Dead Redemption Movie and TV Rights For $100 Million appeared first on RockstarINTEL ."
+    },
+    {
+     "id": "7a94c8b120ff",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Rockstar Reportedly Open to Selling Red Dead Redemption TV Rights",
+     "url": "https://insider-gaming.com/red-dead-redemption-developer-reportedly-open-to-selling-tv-rights/",
+     "ts": "2026-11-24T16:10:54Z",
+     "summary": "Rockstar Games is reportedly interested in selling the licensing rights to its popular game series Red Dead Redemption. The post Rockstar Reportedly Open to Selling Red Dead Redemption TV Rights appeared first on Insider Gaming ."
+    },
+    {
+     "id": "d05210834b52",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rock Paper Shotgun",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "All Red Dead Redemption references in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUHV3STA1UzV6SjRlTWh0d3pvdk03U0lHSWY4NEZTbGphNXJIZ1FGSUxRblZ3ekJ1bE4yX2czOGJyNUlFWXp3M3Nfc0Z3U1U2OHZQLWJKc1lxb2RRVllISW1TYUhwOEI1R2w3TEZnRnZZY3hoekZnU0g0elYtVGpJNGJKMWxaNllNVlJvOENOM1Q?oc=5",
+     "ts": "2026-11-24T21:34:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 96,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "8c51b1adbe84",
+   "title": "Judge Frees GTA 6 Hacker Immediately After Handing Him 7-Year Sentence",
+   "first_seen": "2026-11-24T21:50:53Z",
+   "updated": "2026-11-24T21:50:53Z",
+   "items": [
+    {
+     "id": "8c51b1adbe84",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "HotHardware",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Judge Frees GTA 6 Hacker Immediately After Handing Him 7-Year Sentence",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVJvWHgwVDJaZmplTGpLU0p1cE5yZlJNMXY0R0RTeVMydVd0aDMzZnFfTmFlaEVQZWdaRFhsMU1DTnVlMmFSWmJoNDloQnJTcWFsbHgzUkxGNFMyWjZqV2l3eGMzX2tvdlF6cWotQ2lDRFF0bFR1UnBxa3Rla01rZFBxN2JlOHls?oc=5",
+     "ts": "2026-11-24T17:25:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f4efbd624b0a",
    "title": "Real-Life Strip Club Spearmint Rhino Is Recreating Dances From GTA 6",
    "first_seen": "2026-11-24T21:40:52Z",
@@ -163,32 +551,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a62cb03cf4dd",
-   "title": "Customers stocked up on gaming hardware ahead of 'Grand Theft Auto VI' launch",
-   "first_seen": "2026-11-24T21:40:51Z",
-   "updated": "2026-11-24T21:40:51Z",
-   "items": [
-    {
-     "id": "a62cb03cf4dd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Finance Singapore",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Customers stocked up on gaming hardware ahead of 'Grand Theft Auto VI' launch",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTNpSTYwVndrY3Y1dk92OFVqWDBvSloyV0RHZXA0R1ZVQm1GeFVQOFRvVnJ0UGEyODJiVU40ZXdvMWdwMmVlVFdQcTh3dGVNQzczZW1oR21SNzZvbUotbWFSNHJrdUowZW41clducEpVbDBVSVVIQ1hpV2FncUhxLVFDZEpienVNS29ndTBfcVpQZV9UYnp6aHpET3puajg5Z0RxNkR6RWdHRzBMMmJGTGROcWNaZVR4b1R0Q2RoRUZ2Zw?oc=5",
-     "ts": "2026-11-24T21:30:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -1044,123 +1406,6 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "3c5b042064fe",
-   "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
-   "first_seen": "2026-11-24T20:50:51Z",
-   "updated": "2026-11-24T21:31:11Z",
-   "items": [
-    {
-     "id": "3c5b042064fe",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWI1R1VuaDBkR3RFLWZ3dEw2aFItN3plN0I2NzMxOG1fNHVZcHlkTk9FWDRWdWFwMzlHVUpScTZHbzUzUDhOczcxQVpYRVR5Z3dxQUdIdEZTN1J6eWVOa0pJX0dVQk96SWNrZTVFeW1lb1JGcmhCUzV4UHR0TXJLZjVPTlJSU3lyNnVBVlVScGJoNUp6XzFtbHNyY1pqU0lhYnhMakFtR2pzUGFzOHJBNmlvOXJSd1ZFMVVXQnc5YzF1VjdVNjhVX2JVOHh2R3Nwa0E?oc=5",
-     "ts": "2026-11-24T20:49:30Z",
-     "summary": ""
-    },
-    {
-     "id": "1faa74b74ccb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSVVXaGg1N2hoYnlVRXRFNklQVXNxMUtoSmJrTkpqVzdLYl9aZGt6djU3aTJRSmRMNXA2aHNmbjZTOFVROVYwcW5hZUxiVnYzRjFnR3J3RS1sZjMyWWdzUTR5YkNXTzVMWWNtNXg5R3RTQWhqaVlWQmdDN21oVzBLMHNhdGFPeWNPOXl3cEtwSUJsUjZvaERNd3AwOFpzaTBrRkhLU2ozRFFKWkFaOE5zSEp0RnJLbnc2TUtPSVpZZXF4U3Yy?oc=5",
-     "ts": "2026-11-24T20:50:31Z",
-     "summary": ""
-    },
-    {
-     "id": "6f8c4b718742",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
-     "url": "https://www.ign.com/articles/crazy-secretive-gta-6-voice-actor-reveals-details-of-rockstars-humongous-nda",
-     "ts": "2026-11-24T20:36:14Z",
-     "summary": "A voice actor who appeared in GTA 6 described the wild non-disclosure agreement she had to sign before working on the game, calling the project “crazy secretive.”"
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "01f0c723b78a",
-   "title": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
-   "first_seen": "2026-11-24T18:20:51Z",
-   "updated": "2026-11-24T21:31:11Z",
-   "items": [
-    {
-     "id": "01f0c723b78a",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
-     "url": "https://www.eurogamer.net/cd-projekt-red-cdpr-witcher-3-4-gta-5-6",
-     "ts": "2026-11-24T18:13:30Z",
-     "summary": "CD Projekt Red has said people can expect a similar qualitative and technological leap from The Witcher 3 to The Witcher 4 as has been witnessed between Grand Theft Auto 5 and Grand Theft Auto 6 . Read more"
-    },
-    {
-     "id": "a9b281ee88b5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The Witcher 4 will be a GTA 6-like leap forward, CD Projekt Red says",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pakhlU0hUUE1YQ1g4VC1fTjR3eGZoLUEwUFhMVWxJSGQ0OXREZVFfbkNHMGp3S1Z4M0VLZW5ya2NiYXdqeTRXYXI4U3NsZU1YVC1yUE1XRmpLTHFlNGJUX2FuTmpiZXlvQmF5WFBidTRQRGlJWTlHSmRwNzd5WFE?oc=5",
-     "ts": "2026-11-24T20:10:45Z",
-     "summary": ""
-    },
-    {
-     "id": "2f58c3730f09",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
-     "url": "https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
-     "ts": "2026-11-24T21:15:26Z",
-     "summary": "CD Projekt Red expects a leap between The Witcher 3 and 4 that is comparable to the one between GTA 5 and 6."
-    }
-   ],
-   "tags": [],
-   "score": 86,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "CDPR: скачок Witcher 4 как между GTA 5 и GTA 6",
-    "summary": "CD Projekt Red заявила, что технологический скачок от The Witcher 3 к The Witcher 4 будет как между GTA 5 и GTA 6. Об этом сообщает Eurogamer. Компания обещает заметный качественный и технологический рывок.",
-    "idea": "Сравниваем обещанный скачок Witcher 4 с тем, что мы уже видели в GTA 6. Зрителю интересно, станет ли Witcher 4 таким же «next-gen», как GTA 6.",
-    "hook": "Witcher 4 обещает скачок как между GTA 5 и GTA 6 — что это значит?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-24T18:20:55Z"
-   },
-   "msg_id": 2164
   },
   {
    "id": "dbbdee5224cb",
@@ -2749,58 +2994,6 @@
    "score": 63,
    "level": "SPECULATION",
    "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "bf273214a779",
-   "title": "Cyberpunk 2 «отменили» из-за страха конкуренции с GTA 6",
-   "first_seen": "2026-11-24T10:10:56Z",
-   "updated": "2026-11-24T20:31:03Z",
-   "items": [
-    {
-     "id": "bf273214a779",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Kursiv Media",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Cyberpunk 2 «отменили» из-за страха конкуренции с GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3l2R0hCV2lLT1VTYnBDMG05VXNVeUxSWXI4dVVRQ0NpZVplZTRrUENDaEw0TERaNG5qcWNoS1locGtPeEphTjVmb2VfRzdlTi1ZWXRHVm9Fd2dTbE15c3VrUjNNRnQ0cDM2OTk4c2tRbHd0b0Y0MEJubkxyUmloY01LbE1ma0dUbnBJWDl4b2RuZnlXSUVIUXFaYVY?oc=5",
-     "ts": "2026-11-24T10:09:24Z",
-     "summary": ""
-    },
-    {
-     "id": "68746001b1d1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Onlíner",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Cyberpunk 2 «отменили» из-за GTA VI — разработчики в депрессии",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PY1ZqeEVOcEVkSzhoM0Vic09xUkFONGRMOUNncEgza3VJazRjMjdrVnh3M21aNUlKUGVjUVdsZWFuSjZxOGxTbl9lbExmZkMzZGRYRVFCakk4Tk5yTmlCSVFQUWZ1WTJEVkFfbWVlQkxDVFlkcmc?oc=5",
-     "ts": "2026-11-24T13:26:11Z",
-     "summary": ""
-    },
-    {
-     "id": "9414bde7e83b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Onlíner",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Cyberpunk 2 «отменили» из-за GTA VI — разработчики в депрессии",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmVuVnZ5aHo0TXlWSjlkcWZMejFOR3ppQlh5dzhMekpmNXc4SFhkdG5Ta2tWWGFiSGdmR0RBWV9HU2x5RW9KOEpQUTFUWE5wRjNreXJ6ckpNbm5BTXJZanUyd0dRLU5TLTFqVjl2WnowMlpiSFRjNGxnTGJCc0RCVXR0dG9adDhvbTNvNUNUTkdadGt1cUc5ekRmXzhRUFZoN1pycg?oc=5",
-     "ts": "2026-11-24T13:26:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 48,
-   "level": "PROBABLE",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -5123,32 +5316,6 @@
      "title": "GTA 6 Photo/Shoot mission guide: helicopter photos, a car chase and Dre’Quan’s rescue",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTVPcS1hZ3RWQzdSWHRDTDlRLWFzVThQQVVjcWlsOXNqMWtVRDBnWFhvWms0djlMUUFmUjY5ZUhncUc1bGJRc1hkeE9BX2JJTkkyeUZxUkJ5dk9FTnFSaC0wMm1zcmNHaTRiSFdBbGtsUW11R3V4dkkwUm9vdC1RbzNtVDNwMnVBNzg5RlIyN2x6clNtX0MzTWd3RzdTWkZDNGxV?oc=5",
      "ts": "2026-11-24T18:51:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7e7eff96b349",
-   "title": "A Month In, and I Thought I'd Seen All of GTA 6. I Was So Wrong",
-   "first_seen": "2026-11-24T19:01:19Z",
-   "updated": "2026-11-24T19:01:19Z",
-   "items": [
-    {
-     "id": "7e7eff96b349",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PCMag",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "A Month In, and I Thought I'd Seen All of GTA 6. I Was So Wrong",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0lfRG1YNVFVSDA0MUxWOFBVRlMydHljRUk3UVNYdkZLcGlnOWVlSll3dmc4RXIzXzNoa1gtZF9EOVlvZUd5Tm1WM2REN2NndEwxZkU5enlNVGY2cHF3VDdDejY1T1FuN3QyTk9kM0tYeEpGSDlQYWpQNzl0Vzd1U1NYSlBsR3dWV3dzUEF3M0E?oc=5",
-     "ts": "2026-11-24T18:57:33Z",
      "summary": ""
     }
    ],
@@ -8694,47 +8861,6 @@
    "score": 50,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a5e49c1b09c6",
-   "title": "Rockstar Reportedly Open to Selling Red Dead Redemption TV Rights",
-   "first_seen": "2026-11-24T12:50:47Z",
-   "updated": "2026-11-24T16:20:52Z",
-   "items": [
-    {
-     "id": "a5e49c1b09c6",
-     "src": "rockstarintel",
-     "src_name": "Rockstar INTEL",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 55,
-     "alert": true,
-     "title": "Rockstar Reportedly Selling Red Dead Redemption Movie and TV Rights For $100 Million",
-     "url": "https://rockstarintel.com/rockstar-reportedly-selling-red-dead-redemption-movie-and-tv-rights-for-100-million/",
-     "ts": "2026-11-24T12:42:17Z",
-     "summary": "Rockstar Games are looking to sell the live action TV or film rights for Red Dead Redemption for around nine figures. That’s according to a new report from within Hollywood. After many years of talks for GTA films, it appears Rockstar are keeping that door closed but have opened another to a wild west live [...] The post Rockstar Reportedly Selling Red Dead Redemption Movie and TV Rights For $100 Million appeared first on RockstarINTEL ."
-    },
-    {
-     "id": "7a94c8b120ff",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Rockstar Reportedly Open to Selling Red Dead Redemption TV Rights",
-     "url": "https://insider-gaming.com/red-dead-redemption-developer-reportedly-open-to-selling-tv-rights/",
-     "ts": "2026-11-24T16:10:54Z",
-     "summary": "Rockstar Games is reportedly interested in selling the licensing rights to its popular game series Red Dead Redemption. The post Rockstar Reportedly Open to Selling Red Dead Redemption TV Rights appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 88,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -198229,222 +198355,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "740b9ce9a51e",
-   "title": "GAMING: A GTA 6 wakeup call – Taking the stigma out of taking time off to game",
-   "first_seen": "2026-11-17T21:50:51Z",
-   "updated": "2026-11-17T21:50:51Z",
-   "items": [
-    {
-     "id": "740b9ce9a51e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Startup Daily",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GAMING: A GTA 6 wakeup call – Taking the stigma out of taking time off to game",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzQ4MTk0Zmlsd1ZLb19yS05YWTdHR0dPWk1jRndTZGUyMzhfNUFrLWVOUkpDZm5BcXhlOTRhdEx2aHRISDllMlIzQ1BCckdjWG9obDRDY1RTTS1yYWhlUnktYXoxcUQ0VGtqTmQxLTB2dFZlOFg4YWVzVkhUQWRIb1QtZDdYbWdPeTRkanZDOC1rZ0RENkFLQnBqbE9hdFZSRDJKRGtiYTVvdG9sRkRISHI0VFplS1JsRzRJYzd6SjJHQQ?oc=5",
-     "ts": "2026-11-17T21:46:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e37594ef1d4a",
-   "title": "GTA 6 получила наибольшее количество номинаций на The Game Awards в этом году",
-   "first_seen": "2026-11-17T21:41:02Z",
-   "updated": "2026-11-17T21:41:02Z",
-   "items": [
-    {
-     "id": "e37594ef1d4a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "EGW.News",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 получила наибольшее количество номинаций на The Game Awards в этом году",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnVlQkQ1Uk9xMDRUend0ZlpKRkNhLUZsOTU1Q1V2ZWxMZThXOXNyOXJ3dUhUc3V0S3NvNFdoN3NabVh0REpQMUtRblY4WlNqRUhUNU11S2JoSDcwSjdMTFE0WmF0aUhqQXdoaUlFajMyMXBtczFINHVia1d5eV9aV1otNjRDLWstY2RSYU5ZRnM2WkVXTlVfUjJiZHIzeU8x?oc=5",
-     "ts": "2026-11-17T20:23:49Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5bd5bbdb2eb0",
-   "title": "From Asteroids to GTA 6: Why video games keep pulling us back",
-   "first_seen": "2026-11-17T21:41:02Z",
-   "updated": "2026-11-17T21:41:02Z",
-   "items": [
-    {
-     "id": "5bd5bbdb2eb0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Cleveland.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "From Asteroids to GTA 6: Why video games keep pulling us back",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTRrQ2tDcEh4anJMbG9xX1Q0Mk9kQzVETHBqSDR3RGgyRk9POVRkakJMSVMya1lLVW1Cc2dMQzFoWEwtVmZLeGgzcUhzaUFLdkRyaEp0N1kyMmNRc1R4SThVNHNlZUtyQ2MtMmd5OVo3aTlBWUMyZExUTG41aXY5Tmh1TkFoWE9VVV92NzJ5YWJ4aVJheHplYjBIeEVObFZGSndVYTFTWDVVUQ?oc=5",
-     "ts": "2026-11-17T21:16:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2f8e8dbda7c7",
-   "title": "GTA VI on Xbox Series X and S will receive optimal image settings for 30 FPS.",
-   "first_seen": "2026-11-17T21:41:02Z",
-   "updated": "2026-11-17T21:41:02Z",
-   "items": [
-    {
-     "id": "2f8e8dbda7c7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI on Xbox Series X and S will receive optimal image settings for 30 FPS.",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX28tMHJJVmc4WExNcHd3OFFuM2xPLUN1SUQwU2h6QjRSa016bVAyWlZ6X0RHNC16V1NOTUhNWWZBMUZkTDJHVnhVcWtIMkpSNXhEU3E3d2pNam03RU1VTUtkaG5PQ1d0UE5Ub0tweDIzTUd3ZkhoZ1VnNjkzaVFLTUxXc1FValRsVENjVE0ydFp4cDFZRVlHM3lDc2pob0M5dkNJQmtkU3UyRzlfdmh6aEs4OVBRVms?oc=5",
-     "ts": "2026-11-17T21:18:34Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "fb18e57d873b",
-   "title": "GTA VI на Xbox Series X и S получит оптимальные настройки изображения для 30 FPS",
-   "first_seen": "2026-11-17T21:41:02Z",
-   "updated": "2026-11-17T21:41:02Z",
-   "items": [
-    {
-     "id": "fb18e57d873b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA VI на Xbox Series X и S получит оптимальные настройки изображения для 30 FPS",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2U0dVBWZFgzZnZtaW9ZeU84U201ZUllVzhOVFBSSXYzLTU0dzZNQi1SNU04UjVWZVBUbi0tdTJYeVBDV2E4M3RuLW85aDhXRFlYWFFENmtVRWZkOThqZjJHVTQ4bVkySkpKd1BrdkVPNEwyX3p2NGV1Z2hveExtWHM4UkUtUVpMNjIyclFjYmtqVEllRUF3VXM4Y2l2NFJJX1dOLUNBYWRDbExySU04WVpKOA?oc=5",
-     "ts": "2026-11-17T21:18:34Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2b12df63a49d",
-   "title": "Хакер слил видео GTA 6 - что известно, Rockstar Games смотреть реакцию",
-   "first_seen": "2026-11-17T21:41:02Z",
-   "updated": "2026-11-17T21:41:02Z",
-   "items": [
-    {
-     "id": "2b12df63a49d",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Neva.Today",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Хакер слил видео GTA 6 - что известно, Rockstar Games смотреть реакцию",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YazhQaHVzOVFGbGc4Y0dzYm9TcWJuOHZSZ2sxV21Jd2luR09IYXNaSzVDenV0TjdxYlo3WmxkU0xEVlVEdWNaZjZaTHJBQ2pJakRz?oc=5",
-     "ts": "2026-11-17T21:20:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d4ee4b96fee2",
-   "title": "The long wait is almost over. Here's what to know about the upcoming release of 'Grand Theft Auto VI'",
-   "first_seen": "2026-11-17T21:41:02Z",
-   "updated": "2026-11-17T21:41:02Z",
-   "items": [
-    {
-     "id": "d4ee4b96fee2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PBS",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The long wait is almost over. Here's what to know about the upcoming release of 'Grand Theft Auto VI'",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSlRHVzNMNU9iVDJPZXc4aTk3NVA4LThTX0JxbHF3RDdqRVpKdk43dlc4Y21xaXBfQ1NZNlVpRUNPTTFkZTZUaS1MYWRSTHNUWS10SGM2dFRTdm5pdGtLV09pWW5kemZkZUVaTWFIeDFYS3dSZ3F2N2RJZlc1cDFwMU5ia3RZOEhtRHRRT1V0SWZHRVRndGZPVXY2djlLbUtWZXRCVlhiY0FsdkxrV3pOWXR2a3U4Y0NUNzNlZEdBVUdNdERURW9pN29zMA?oc=5",
-     "ts": "2026-11-17T21:22:58Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1761d81c8f0e",
-   "title": "GTA Vice City теперь доступна прямо в браузере с мультиплеером на 64 человека",
-   "first_seen": "2026-11-17T21:41:02Z",
-   "updated": "2026-11-17T21:41:02Z",
-   "items": [
-    {
-     "id": "1761d81c8f0e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "The GEEK",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA Vice City теперь доступна прямо в браузере с мультиплеером на 64 человека",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sQ3VaVkVqVjhPLVN5dTRLemM5ZFkyLWNxNzRoOGpNZVk4ekw5UTUyQkw3UVFHOHluazNIVUdHcldSNUlOT19xR0hhYnliV2lZZnNUY3V5elBpSlhvSzlQRXBiQ1dzQVZpQmc?oc=5",
-     "ts": "2026-11-17T21:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-24T21:40:57Z",
+  "last_run": "2026-11-24T21:51:03Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 97/100",
+   "gnews_en: 98/100",
    "gnews_ru: 99/100",
    "gamesbeat: 3/10",
    "vgc: 10/10",
