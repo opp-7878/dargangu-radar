@@ -202991,93 +202991,15 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "add970431e04",
-   "title": "This photo is completely unedited. I think the universe might be trying to tell me something.",
-   "first_seen": "2026-11-17T00:10:56Z",
-   "updated": "2026-11-17T00:10:56Z",
-   "items": [
-    {
-     "id": "add970431e04",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "This photo is completely unedited. I think the universe might be trying to tell me something.",
-     "url": "https://www.reddit.com/r/GTAVI/comments/1xy5pfa/this_photo_is_completely_unedited_i_think_the/",
-     "ts": "2026-11-17T00:08:56Z",
-     "summary": "submitted by /u/KiddShi to r/GTAVI [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ddbe8a83977a",
-   "title": "Unreal to look at🥹",
-   "first_seen": "2026-11-17T00:10:56Z",
-   "updated": "2026-11-17T00:10:56Z",
-   "items": [
-    {
-     "id": "ddbe8a83977a",
-     "src": "reddit",
-     "src_name": "Reddit r/GTA6 + r/GTAVI",
-     "outlet": "",
-     "group": "reddit",
-     "weight": 20,
-     "alert": false,
-     "title": "Unreal to look at🥹",
-     "url": "https://www.reddit.com/r/GTA6/comments/1xy5pu9/unreal_to_look_at/",
-     "ts": "2026-11-17T00:09:28Z",
-     "summary": "submitted by /u/nothing533439878 to r/GTA6 [link] [comments]"
-    }
-   ],
-   "tags": [],
-   "score": 20,
-   "level": "SPECULATION",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "25429cc94b9f",
-   "title": "‘GTA 6’ Debuts to a Shockingly Mixed Reception on Metacritic",
-   "first_seen": "2026-11-17T00:01:16Z",
-   "updated": "2026-11-17T00:01:16Z",
-   "items": [
-    {
-     "id": "25429cc94b9f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Men's Journal",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA 6’ Debuts to a Shockingly Mixed Reception on Metacritic",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdlZFOE9PRlpzdmJ6R29BMTR4aXJuWWNoNnc0SlVibk1IeVhFejVCMFlmNDdzRXEyeGtVOTJ4blBNTTdHb0VjekxOa3JUZkVQVjkzZnFFSndBWTZmc0N4VVQzckNOZVQ3ZXBtVnRCVDN0ZHJKUGhxcmdJbHBobTdLWkF6cWdRSEE5SHFIOW1HOElyaEhlWUJraDU0SW1Sd3ZRd2c?oc=5",
-     "ts": "2026-11-16T23:43:40Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-24T00:01:11Z",
+  "last_run": "2026-11-24T00:11:09Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 100/100",
-   "gnews_ru: 100/100",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 0/10",
    "vgc: 9/10",
    "insider_gaming: 8/10",
