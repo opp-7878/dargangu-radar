@@ -4,7 +4,7 @@
    "id": "901bcf0ec54d",
    "title": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
    "first_seen": "2026-11-25T13:31:02Z",
-   "updated": "2026-11-25T13:50:52Z",
+   "updated": "2026-11-25T14:01:20Z",
    "items": [
     {
      "id": "901bcf0ec54d",
@@ -44,6 +44,19 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVUE2WjZsek9INUN6NVd0ZEpQeXpXMHpnanM4V1dCcHByTG9Ya0NlcjIyQ28wQ0J5b2tCYmpKWUhlTElhRWdyeUx6MUpiWW5mRTRyZEVYNk9JTzFZUTFSQ20wVVhFRGl2Yld6ZXJZcEhOOU9qT2lBd3MwZTAzTjc4YkN3cm9VV25MZmlJLUV3aUhnRmZUcVJOVUVuWWlnT2Q5d2c?oc=5",
      "ts": "2026-11-25T10:38:04Z",
      "summary": ""
+    },
+    {
+     "id": "0c89ea70ed67",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Рекордный запуск GTA VI поднял акции Take-Two на 5,3%",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nNzRhWHk0RkNfb1BkdG5LVlVEVWhBcGFYajVVN2wxbEkzQVR6OElSSFB0Wnp4WFp1Q2F6RFM3RmhRa1RQdFpIeXpad0RfMVdIMTlacDhrcXQwdnFpbkVYQUdXQXZrZ1Y5czJQNnZTUkFOX0ktSmFIeXotOTBpQQ?oc=5",
+     "ts": "2026-11-25T13:37:53Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -55,6 +68,247 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
+  },
+  {
+   "id": "325ef1f188ac",
+   "title": "I Can't Stop Watching GTA 6's Fake TV",
+   "first_seen": "2026-11-25T13:50:52Z",
+   "updated": "2026-11-25T14:01:20Z",
+   "items": [
+    {
+     "id": "325ef1f188ac",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag Australia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I Can't Stop Watching GTA 6's Fake TV",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DX21DVW0zMENTQnFmMkxWUHB4Yy1pZC1ZMU14NVVIR1Z2dmRDR1VLbVYtdzJCeUljUmRwbkF4YTF3OWFST19XTndwR2I0WDRtTlBmQkdnbkFSMjcwNXRONlg1WFdPYW1UWk9FeEdkWUJ4MmQ0RzZycw?oc=5",
+     "ts": "2026-11-25T13:39:44Z",
+     "summary": ""
+    },
+    {
+     "id": "3b74092ef34f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PCMag UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I Can't Stop Watching GTA 6's Fake TV",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95cFgzemhjVzRvY1l6Y08yNUJsdURUaFN0Z1c4dlZpbXBidzdZbHFOTHRLVU43Z3pwaUF1Rmg5d2h3U0huZlBDbkNfTFFpWlJIazhodkhBNDJDRFdPYlVRS3NvSDViRzVvZDRvU0l3djN4SU9XMFY5Mw?oc=5",
+     "ts": "2026-11-25T13:39:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Фейковое ТВ в GTA 6: почему от него не оторваться",
+    "summary": "По данным PCMag Australia и PCMag UK, игроки залипают на фальшивом телевидении из GTA 6 — каналы и передачи выглядят как настоящие. Журналисты отмечают, что это усиливает атмосферу Вайс-Сити и делает мир живее.",
+    "idea": "Короткий дайджест «каналов» из GTA 6 с абсурдными перебивками и бегущей строкой — зрителю интересно узнать, что придумали Rockstar на этот раз.",
+    "hook": "Залип на ТВ в GTA 6 — и это не баг, а фича.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T14:01:33Z"
+   },
+   "msg_id": 2239
+  },
+  {
+   "id": "3ccf87fe064f",
+   "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
+   "first_seen": "2026-11-24T14:10:56Z",
+   "updated": "2026-11-25T14:01:20Z",
+   "items": [
+    {
+     "id": "3ccf87fe064f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYURlWVU4bUo4UHJIemQ4YThuc3dMdTEtWFFkRTgyUDJ4ZUhYMFh5OEN0ZEtEY1c4M1dfN0d5VVhXd20zLWZrRkFLSUpWalUza2g4N1d5MVM0bi1kWW5rMC1fd3NPb1NsQW1WdHhVaVU3STRwSFAtWGFFY2pLQWVUU0dMREJNWmQ4M1dmcl9hLWtEX01uaC01Y2Jadw?oc=5",
+     "ts": "2026-11-24T14:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "633023e71e1a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZjNMWWt4RnZIcWlPaGdBd2RLWjNScldaS3ppdXQ4LWtSY01uZTRUS0Q3cEcyNFpqbF8xcjVXOHAtdVpTaDRub0NLbFoxR054WlVGLURTell5bDJPbUxxZHZFMEdFOWFjejItUHVvb1ZFNkd4U1dLUTIwWVpHTEF5eGkzU0tzdDJJRXQ3Qk0zS1RjRWlMMTdrYWdZeDBDb3dEMlFKRjk0RFZCWFZsVGkxMEV2LTVmbk0?oc=5",
+     "ts": "2026-11-24T14:14:33Z",
+     "summary": ""
+    },
+    {
+     "id": "bd2d1a12586d",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
+     "url": "https://www.ign.com/articles/i-watched-gta-6s-in-game-tv-shows-for-hours-theyre-absolutely-wild",
+     "ts": "2026-11-24T14:00:00Z",
+     "summary": "Rockstar's satire has reached new levels with in-game cartoons like Barnyard Blue and the dark comedy The Tyrone Show."
+    },
+    {
+     "id": "0df2f74ef5f9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX2U2d1I1Zmp2c3BXVU1XVG91aHNpeGJSdlNjRWtFNEIzNGhsY2NLTWZTTkxxREd2YzAydlZCZ0kzWnBFWGljZW9Mczh4ZDlwNzJheWZJeTRoR1hIcU1TVlhDenNRZlFaVlpDbVdBUGEwYzlVbVZ4TFEzR0dmcmFMNzB2NVJiNzdlYVctYkM4cldGSXV0TVJhUi1NTVpxcDFZU3hYd19nbTh5bTZ1NVI5OTBjZzVtTl9wQlN4RHJ1SHUzZV9Y?oc=5",
+     "ts": "2026-11-24T14:13:59Z",
+     "summary": ""
+    },
+    {
+     "id": "96921d31c47b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN India",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbElzVW9CdmNabWpCbTNRYjZ5cGI1UTFmODhrZjJXYUgwNGpkS2ZtbEVqSmNZMzUweW9CM1E3dWhUM2NWbEtVTnY2MWVnNHhyamFsN3dmbUJ3dGhJOHhzV25WSkNTWEtJaTBIR3QwR3lpNTV1N2xkR3lMWW40dWF2a2tQeUJOX3VCd3BvbnMwLWYybmtMeVNBUUFGZzFhVGEtNmhOWUF3RnRRckhhNjFtN0tR?oc=5",
+     "ts": "2026-11-24T14:13:25Z",
+     "summary": ""
+    },
+    {
+     "id": "67a0d8087a3c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I Watched GTA 6's In-Game TV Shows for Hours, They're Absolutely Wild",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbm5YVk5Dd1VJVUpLOWVPMTJGYWJGMnBnbWlndUVWaTVBVTZPdEF0TGpQWXFjeFJQMktVazFiMWcwQTNvbUdwTW15eUdsanFSWVNyUEpWVHIySEYzS0s3SUNYR1RDUkp2dFhiZlkwUnVWbjJLV2t3VlFQV18xaDdfYXpIVEU3ZElmbDlYRlktVHJQeF9MMlRLa0REUzFSNmRsR1BPZlVvM3JGLV93X1VNNVF3?oc=5",
+     "ts": "2026-11-25T06:44:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 95,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "📺 В GTA 6 безумные телешоу: что увидел журналист IGN",
+    "summary": "Журналист IGN рассказал, что провёл часы за просмотром внутриигровых телешоу в GTA 6 и назвал их «абсолютно безумными». По его словам, телепередачи в игре получились яркими и непредсказуемыми.",
+    "idea": "Короткая нарезка самых безумных моментов из телешоу GTA 6 с реакцией Даргана — зрителю будет смешно и захочется увидеть больше.",
+    "hook": "Я залип на телешоу в GTA 6 на часы — и вот почему.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T14:11:03Z"
+   },
+   "msg_id": 2129
+  },
+  {
+   "id": "e2ca7dd13542",
+   "title": "YouTube's official 'GTA 6' release day numbers are staggering",
+   "first_seen": "2026-11-25T14:01:20Z",
+   "updated": "2026-11-25T14:01:20Z",
+   "items": [
+    {
+     "id": "e2ca7dd13542",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "YouTube's official 'GTA 6' release day numbers are staggering",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnN1lhcDNoaHpBZUNTNTNTMnVfbnptakJ5bWRkX3BRSk5FNThhbUltZ09keVpNcmJqSnVZaXNOSVlPVy1xb1dDblNnU3h6V0wxTF9vMWtJX2VqbDRxRUZ4ZnhjdjlwV09O?oc=5",
+     "ts": "2026-11-25T13:03:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3158694b44c9",
+   "title": "Grand Theft Auto VI Pulls Off the Heist of the Century",
+   "first_seen": "2026-11-25T14:01:20Z",
+   "updated": "2026-11-25T14:01:20Z",
+   "items": [
+    {
+     "id": "3158694b44c9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gameindustry.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI Pulls Off the Heist of the Century",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFNUeTFYTk94RnZwbUdENFVScmVELTNRX3Qzb1Q1V2pQZFRsaENZRHNBVnlPUHAybUhMZG82VVR5V2JjUllTVWdtYWp2WkRhbGl5aWprSkVaeFFvNjRsZDlESDRFVmVXd1NXWlFuVllqMlVoRWpvWHI4dGRGS3JGY2xqSDJMTFBIVVJjb01udWVMMUxRTWtERVFZWGswZWNENUQ1UGc3NA?oc=5",
+     "ts": "2026-11-25T13:50:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f95e637f1343",
+   "title": "How to Listen to the Radio While Walking in GTA 6",
+   "first_seen": "2026-11-25T14:01:20Z",
+   "updated": "2026-11-25T14:01:20Z",
+   "items": [
+    {
+     "id": "f95e637f1343",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "How to Listen to the Radio While Walking in GTA 6",
+     "url": "https://insider-gaming.com/music-radio-walking-gta-6/",
+     "ts": "2026-11-25T13:50:36Z",
+     "summary": "Check out this guide to learn how you can play music through the radio while walking around the streets of GTA 6. The post How to Listen to the Radio While Walking in GTA 6 appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔊 Радио на ходу в GTA 6: как слушать",
+    "summary": "Insider Gaming (Tom Henderson) опубликовал руководство, как слушать радио на ходу в GTA 6. В нём объясняется, как включить музыку через радио, гуляя по улицам.",
+    "idea": "Короткая демонстрация: идём по Вайс-Сити, нажимаем кнопку — и радио продолжает играть на ходу. Зрителю важно увидеть, что это работает и как включить.",
+    "hook": "Гуляешь по Вайс-Сити и хочешь, чтобы играло радио? Смотри, как включить.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T14:01:27Z"
+   },
+   "msg_id": 2238
   },
   {
    "id": "2787b14c4a87",
@@ -274,32 +528,6 @@
      "title": "GTA 6: How to Find the Buntosaurus Bat",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5emszd3Bua0Vhc19UX1psNm1FYy1ubFAwamtka0gxWUZOZUl6U1dRSlBkaFNFYjNNaFNSQWRtaTVKZko3eUN1VGVaUFZ4dlJkUkNiVEF6YlRhc09ZX1NtUk55SFBEaFJvMUljTHZ2UlAyYURjelE?oc=5",
      "ts": "2026-11-25T13:39:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "325ef1f188ac",
-   "title": "I Can't Stop Watching GTA 6's Fake TV",
-   "first_seen": "2026-11-25T13:50:52Z",
-   "updated": "2026-11-25T13:50:52Z",
-   "items": [
-    {
-     "id": "325ef1f188ac",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PCMag Australia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "I Can't Stop Watching GTA 6's Fake TV",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DX21DVW0zMENTQnFmMkxWUHB4Yy1pZC1ZMU14NVVIR1Z2dmRDR1VLbVYtdzJCeUljUmRwbkF4YTF3OWFST19XTndwR2I0WDRtTlBmQkdnbkFSMjcwNXRONlg1WFdPYW1UWk9FeEdkWUJ4MmQ0RzZycw?oc=5",
-     "ts": "2026-11-25T13:39:44Z",
      "summary": ""
     }
    ],
@@ -22459,95 +22687,6 @@
     "at": "2026-11-23T23:01:20Z"
    },
    "msg_id": 2082
-  },
-  {
-   "id": "3ccf87fe064f",
-   "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
-   "first_seen": "2026-11-24T14:10:56Z",
-   "updated": "2026-11-24T15:10:56Z",
-   "items": [
-    {
-     "id": "3ccf87fe064f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYURlWVU4bUo4UHJIemQ4YThuc3dMdTEtWFFkRTgyUDJ4ZUhYMFh5OEN0ZEtEY1c4M1dfN0d5VVhXd20zLWZrRkFLSUpWalUza2g4N1d5MVM0bi1kWW5rMC1fd3NPb1NsQW1WdHhVaVU3STRwSFAtWGFFY2pLQWVUU0dMREJNWmQ4M1dmcl9hLWtEX01uaC01Y2Jadw?oc=5",
-     "ts": "2026-11-24T14:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "633023e71e1a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZjNMWWt4RnZIcWlPaGdBd2RLWjNScldaS3ppdXQ4LWtSY01uZTRUS0Q3cEcyNFpqbF8xcjVXOHAtdVpTaDRub0NLbFoxR054WlVGLURTell5bDJPbUxxZHZFMEdFOWFjejItUHVvb1ZFNkd4U1dLUTIwWVpHTEF5eGkzU0tzdDJJRXQ3Qk0zS1RjRWlMMTdrYWdZeDBDb3dEMlFKRjk0RFZCWFZsVGkxMEV2LTVmbk0?oc=5",
-     "ts": "2026-11-24T14:14:33Z",
-     "summary": ""
-    },
-    {
-     "id": "bd2d1a12586d",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
-     "url": "https://www.ign.com/articles/i-watched-gta-6s-in-game-tv-shows-for-hours-theyre-absolutely-wild",
-     "ts": "2026-11-24T14:00:00Z",
-     "summary": "Rockstar's satire has reached new levels with in-game cartoons like Barnyard Blue and the dark comedy The Tyrone Show."
-    },
-    {
-     "id": "0df2f74ef5f9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX2U2d1I1Zmp2c3BXVU1XVG91aHNpeGJSdlNjRWtFNEIzNGhsY2NLTWZTTkxxREd2YzAydlZCZ0kzWnBFWGljZW9Mczh4ZDlwNzJheWZJeTRoR1hIcU1TVlhDenNRZlFaVlpDbVdBUGEwYzlVbVZ4TFEzR0dmcmFMNzB2NVJiNzdlYVctYkM4cldGSXV0TVJhUi1NTVpxcDFZU3hYd19nbTh5bTZ1NVI5OTBjZzVtTl9wQlN4RHJ1SHUzZV9Y?oc=5",
-     "ts": "2026-11-24T14:13:59Z",
-     "summary": ""
-    },
-    {
-     "id": "96921d31c47b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbElzVW9CdmNabWpCbTNRYjZ5cGI1UTFmODhrZjJXYUgwNGpkS2ZtbEVqSmNZMzUweW9CM1E3dWhUM2NWbEtVTnY2MWVnNHhyamFsN3dmbUJ3dGhJOHhzV25WSkNTWEtJaTBIR3QwR3lpNTV1N2xkR3lMWW40dWF2a2tQeUJOX3VCd3BvbnMwLWYybmtMeVNBUUFGZzFhVGEtNmhOWUF3RnRRckhhNjFtN0tR?oc=5",
-     "ts": "2026-11-24T14:13:25Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 95,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "📺 В GTA 6 безумные телешоу: что увидел журналист IGN",
-    "summary": "Журналист IGN рассказал, что провёл часы за просмотром внутриигровых телешоу в GTA 6 и назвал их «абсолютно безумными». По его словам, телепередачи в игре получились яркими и непредсказуемыми.",
-    "idea": "Короткая нарезка самых безумных моментов из телешоу GTA 6 с реакцией Даргана — зрителю будет смешно и захочется увидеть больше.",
-    "hook": "Я залип на телешоу в GTA 6 на часы — и вот почему.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-24T14:11:03Z"
-   },
-   "msg_id": 2129
   },
   {
    "id": "509101ab833f",
@@ -191489,439 +191628,18 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "06d54f918f4d",
-   "title": "Grand Theft Auto VI release takes over Miami, the internet",
-   "first_seen": "2026-11-18T14:01:07Z",
-   "updated": "2026-11-18T14:01:08Z",
-   "items": [
-    {
-     "id": "06d54f918f4d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Detroit Free Press",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI release takes over Miami, the internet",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUkRTVWphNFhVLW5NYXRNeDVOSzRQay1mUVptS0NlZlRrTnIzY2N1TkdiajUta2M4Z1VBWG5UcjNhQ00tZno0OHg0MERWeGNTX1hqalRrSjM5MF9ubjZqazd5aU9Wd2RSVVh3OEJaeWdRb3pwaXZSWWF4a3R4aWd2SzlzcU5VZEZBQk1fOTB6NjNHeG1NVHVzRG1jNy05Umpl?oc=5",
-     "ts": "2026-11-18T13:50:32Z",
-     "summary": ""
-    },
-    {
-     "id": "3ba116627ab4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Arizona Republic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI release takes over Miami, the internet",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2k2Yi14RlpzOV9VSTFNQ2lZeXV0UHlDTG45ZlVabi1pbktDeGJvTWlJVGZQVzFWWE95NDFGM3ZHWHBnSk1OMmJ5RlhYVE9LR2Q1YVF6SU01ZzJTVi1NWExud01pS192SXZXcVZ1T2hIX0s3NnpKM2N4ckdjaC1DLWZKSFN1c2xNQWpuc00ybDY3OVZWQURfa3FCS2NrYWxTbVRhZDZB?oc=5",
-     "ts": "2026-11-18T13:53:48Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 GTA 6 вышла: улицы Майами захватили фанаты и интернет",
-    "summary": "По данным Detroit Free Press и The Arizona Republic, выход GTA 6 вызвал ажиотаж в Майами и в сети. Улицы города заполнили фанаты, а интернет обсуждает релиз.",
-    "idea": "Короткая нарезка уличных празднований в Майами и реакций в сети под энергичную музыку — показать масштаб хайпа и дать зрителю ощущение причастности.",
-    "hook": "Майами встал на уши из-за GTA 6 — смотри, что творится на улицах!",
-    "stars": 5,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T14:01:20Z"
-   },
-   "msg_id": 1319
-  },
-  {
-   "id": "67ec8cd4ff11",
-   "title": "Can I play GTA 6 early today if I change my time zone? Sort of",
-   "first_seen": "2026-11-18T14:01:08Z",
-   "updated": "2026-11-18T14:01:08Z",
-   "items": [
-    {
-     "id": "67ec8cd4ff11",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Palm Beach Post",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Can I play GTA 6 early today if I change my time zone? Sort of",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV2RCbk9KTlpUOUpYaFBFY0psMmU5cExzV01mb3RHRk5fZGo3SXlvT2kwUUlNbHFONGNGUHBmUGNiVVlLYzFvSlh6aUhLUVM0dHRkalczeE5KMGd0T2ZwVzZyQUQ5blNNSDlxaF8yVnlMOXh2eGtTQkR3RU1DUWUwWWIzaFVYcmRMOFU1bmVNTlJPVlBxNlEtdE01NG16U0prRkxCNm9TNGtaWGNGMUdCbHZGNW91OEw3c3I1clZBRldIMTVWVVVPY3p4NGR5bnVpbFh1OGxBQQ?oc=5",
-     "ts": "2026-11-18T13:56:00Z",
-     "summary": ""
-    },
-    {
-     "id": "dec0df5dbbdc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Palm Beach Post",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Can I play GTA 6 early today if I change my time zone? Sort of",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObjlXTWhyZ1J6Yk5jUjhWdm8zNHEtR3pXZEJVSTZrTVVJMDFLNVlKXzVlSDdaYkxGMnNpNXVPbXFxb2dXTGxPMkl5UlU3TURWUW02TXVDU2lEaDNYdWlrT2FwTEd4Z3BNM3pmbF9RczJLNkhMZ3ZIMWU4azRrWmYxNENKQ1NWUThPNHF3QzczOHFZU3F5ZWZ6ckV0MkpmVFFVRlNjdE1BdkZ0UUNNYjU1Vjh2Uy1NM1pOTk1QUHVkR1pOYXhrMHlqNDlBNldVVXotZjlGTUk0cEc4Zw?oc=5",
-     "ts": "2026-11-18T13:56:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f46ac5baf7bc",
-   "title": "How Do Weapons Work in GTA 6? Buying and Storing Guns, Explained",
-   "first_seen": "2026-11-18T14:01:08Z",
-   "updated": "2026-11-18T14:01:08Z",
-   "items": [
-    {
-     "id": "f46ac5baf7bc",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "How Do Weapons Work in GTA 6? Buying and Storing Guns, Explained",
-     "url": "https://insider-gaming.com/gta-6-full-weapons-guide-types-and-how-to-buy/",
-     "ts": "2026-11-18T13:57:10Z",
-     "summary": "Learn everything you need to know about weapons in GTA 6 with this guide. Find out how to buy, store, and customize weapons here. The post How Do Weapons Work in GTA 6? Buying and Storing Guns, Explained appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Оружие в GTA 6: как покупать, хранить и кастомизировать",
-    "summary": "По данным Insider Gaming (Tom Henderson), в GTA 6 можно будет покупать, хранить и кастомизировать оружие. Подробности о том, как это работает, собраны в его материале.",
-    "idea": "Короткая нарезка интерфейса покупки и кастомизации оружия с акцентом на хранение. Зрителю важно понять, как не потерять пушки и быстро их улучшать.",
-    "hook": "Где в GTA 6 хранить пушки и как их прокачать? Смотри за 30 секунд.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T14:01:11Z"
-   },
-   "msg_id": 1317
-  },
-  {
-   "id": "647dbb5951f9",
-   "title": "😃 Графика на Xbox Series X выглядит также, как и на PS5 — есть только одна проблема, частота кадров менее стабильна 😀 В отдельных локациях отсутствуют тени и ме",
-   "first_seen": "2026-11-18T14:01:08Z",
-   "updated": "2026-11-18T14:01:08Z",
-   "items": [
-    {
-     "id": "647dbb5951f9",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "😃 Графика на Xbox Series X выглядит также, как и на PS5 — есть только одна проблема, частота кадров менее стабильна 😀 В отдельных локациях отсутствуют тени и ме",
-     "url": "https://t.me/gta6deluxe/2203",
-     "ts": "2026-11-18T13:57:44Z",
-     "summary": "😃 Графика на Xbox Series X выглядит также, как и на PS5 — есть только одна проблема, частота кадров менее стабильна 😀 В отдельных локациях отсутствуют тени и мелкие детали растительности, но в целом графика выглядит вполне достойно 😀 На Xbox Series S частота кадров местами падает до 18 FPS , при этом в среднем игра выдаёт около 25–28 FPS 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 GTA 6 на Xbox: графика как на PS5, но FPS ниже",
-    "summary": "По данным Telegram-канала @gta6deluxe, графика GTA 6 на Xbox Series X выглядит как на PS5, но частота кадров менее стабильна. На Series S местами 18 FPS, в среднем 25–28 FPS, в отдельных локациях нет теней и мелких деталей.",
-    "idea": "Сравнение Series X и PS5 в одних и тех же сценах с замером FPS — зрителям важно увидеть, где картинка проседает и стоит ли Series S вообще.",
-    "hook": "GTA 6 на Xbox: картинка как на PS5, но FPS подводит — смотри сравнение.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T14:01:23Z"
-   },
-   "msg_id": 1320
-  },
-  {
-   "id": "b50f3242d5b6",
-   "title": "🤯 Пиковый геймплей — стример xQc провёл целый час в GTA VI за ремонтом дома Вручную менял кровлю, красил стены и закручивал винтики 10 «Школ ремонта» из 10 🥺 Ка",
-   "first_seen": "2026-11-18T14:01:08Z",
-   "updated": "2026-11-18T14:01:08Z",
-   "items": [
-    {
-     "id": "b50f3242d5b6",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "🤯 Пиковый геймплей — стример xQc провёл целый час в GTA VI за ремонтом дома Вручную менял кровлю, красил стены и закручивал винтики 10 «Школ ремонта» из 10 🥺 Ка",
-     "url": "https://t.me/GTA6_m/9418",
-     "ts": "2026-11-18T13:59:58Z",
-     "summary": "🤯 Пиковый геймплей — стример xQc провёл целый час в GTA VI за ремонтом дома Вручную менял кровлю, красил стены и закручивал винтики 10 «Школ ремонта» из 10 🥺 Канал про GTA 6 | Наш чат"
-    }
-   ],
-   "tags": [
-    "геймплей"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "xQc час чинил дом в GTA 6: кровля, стены и винтики",
-    "summary": "По сообщению Telegram-канала GTA6_m, стример xQc провёл час в GTA VI за ремонтом дома: вручную менял кровлю, красил стены и закручивал винтики. Канал оценил это на 10 из 10 «школ ремонта».",
-    "idea": "Короткая нарезка: xQc на крыше, с кистью и отвёрткой — без слов, только звуки ремонта и таймер. Зрителю интересно, насколько глубоко проработан быт в GTA 6.",
-    "hook": "xQc час чинил дом в GTA 6 — и это неожиданно круто.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T14:01:16Z"
-   },
-   "msg_id": 1318
-  },
-  {
-   "id": "ef38066aed7b",
-   "title": "GTA VI уже вышла в Новой Зеландии — когда игра станет доступна в других регионах",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T14:01:07Z",
-   "items": [
-    {
-     "id": "ef38066aed7b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Igromania.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 вышла в Новой Зеландии — с каждым часом она будет доступна во всё новых регионах",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLThobktMSWMweVc4OENCNjFUV3VnWEc1MmxyTS1NMHQyQzVqMmNnZ05saWdwcUh6X1VjSC1TMXd4NllhallwR0drTWNaWTM0NXUxX25UaXhuT1ZuelJ6elBPbmRtVGxDeWFnQmU5OXdZZ0w0eE1obC1jT3lfYmdfSU01MTJuRlVlYVVtdWRtT1lhX0JXU2VrMGlpanUzbEROWnB0ZTV2R2FMQ29fS3lPOGZhcHpjQmtIU3RLMUNMbklCdHFaZkNZMg?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "7bc483bc5239",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA VI уже вышла в Новой Зеландии — когда игра станет доступна в других регионах",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFVsYWg3dzVNbHl5RnpDYmN0NWwySkVNM29GZWQ2ZGUydmZoLWlxQTNxV0o0aWlOOVJuTDRvdW9lNG5USlctM3NSQWNSOFBGM1I1QzQ0QlVvRG45b0hRLUtmWmdWUWw1aHh3cHJsWElBM3hXQ3NMSmZpX0h5TTdnZEc2T0dCd3dBX2JtQUxzbHlhQ1FKS1BvNWgxN0cwemRQdlFKYVNEaWdORTVNQnJpQVBiRXN0Vk9JY0HSAb8BQVVfeXFMTkNTN1pOVUtnb2tNV3pwMkQ0eVFmTlB2akdlMW9kVzRQYV96VVpBdkdYaExMbTdDM1N3YWU2UDN1YVg2cXYtaXBzelBCemRQUXo4WE1yZG5zNlQyOVhfS19mcTFZR1YybS1BdWhUajhHQS1oTmVvN3Z5V3VHU3YtR3hQNHlHTFBMOUNYSjRIYzZTUDJ0RERwWjJzSWptSWk5dkRvOE9vaWxJUFNjTFI4NFc2dzdBZFF6aFk4aUJ4YjQ?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "672568b0cbda",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "sport-express.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 вышла в Новой Зеландии и Австралии — с каждым часом она будет доступна во все новых регионах мира",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONG1mdTZrdWNTLVV1ZTFHMlY4VEVkYnlDbTJ2ME5IVEpTakJlTHpzb3M4OVFmRlppaDRja3FWVGkzdFE4YWJqZFUxUzduREZLVW5CelIwYTVGR0taVUxIUzlqUzhWQW9kQUJXUnhJQ09OOG5pd3hvdGdZalF2NHJnNkN5TlBqaWFtb2dJT01ZTWIxbWRjd1ItZ3A3MGlOYmJhWGxYdmxrNGpHVm9VaTVFSjNrWExXNk9fRVZxSTZzd3IxNFpwbHR0MGx3bnh1VUtseEZqMVl3dlh0bFBuaVBKRmNMVGZWMWlNTTN6N3prVlR1b0dfZDltNndlYW80YUE?oc=5",
-     "ts": "2026-11-18T13:00:02Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 61,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "381677425a8a",
-   "title": "What parents need to know about GTA 6 and kids",
-   "first_seen": "2026-11-17T15:01:11Z",
-   "updated": "2026-11-18T14:01:07Z",
-   "items": [
-    {
-     "id": "381677425a8a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ABC News - Breaking News, Latest News and Videos",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "What parents need to know about GTA 6 and kids",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PbEN4a1lzaGtSZzFJVjlVYVhYZjUtb0I0UG9mcU40TDdCcEZtbVRURXduVzV5LWVrMjlKV19uM3lmV3Z1SVBienNMTkIzbXBRWFVEQW5uWVktM29wa2ZJbVpkeDhlX2tlZ1FBLURFUkljSzh2V2s40gF8QVVfeXFMUGpZT296SDktUjQtTVRwX1pEVlZnbHppVk9CSGlqZURuanVGUTV0NlRYLUtmWE9wUHZNaU5MYXZsREdzSWpva3lPSjRtczZrRndkNndTMDRQMjRnbE16RVRISVNYUEdZVVo0NmhCc3pKeFdwa2w0eldOTmt6Sg?oc=5",
-     "ts": "2026-11-17T14:50:47Z",
-     "summary": ""
-    },
-    {
-     "id": "735fdc77b5ab",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Good Morning America",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "What parents need to know about GTA 6 and kids",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSjdGVWE5Y1ZsQmpUczJnY1dmbnJaRGQ3VVYyV203czlENVZtQ1RZQzQ5dklfR3FBVUdNdTVYUHNQMTI3UklSbjFNQTVNMnhEcGxySWpoUEhzT093RC1DemdqYnIyajZnNFc0ZWhMeTVDX2tZYV9Ia1Iwb2tVbktjLWd30gGHAUFVX3lxTFA3aDVFS3c5ZElKQmhoTElTNV96WmhrVEFrejB1Mm9uTG9BbnpYOUN4MU9kQVZDVkM1Y1JGcGdUZWdqcWIzVkVFbVdmVmxrMFNpajhIYzhwOW00cUpGV1A3M0NpSXFBMzhScTZRSUl1QmdmbEtPOHgxMERZeExyQWlFbU85bnRsVQ?oc=5",
-     "ts": "2026-11-17T14:47:16Z",
-     "summary": ""
-    },
-    {
-     "id": "337a2763a337",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Newsweek",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Age Rating: What Parents Need to Know",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2VaczBSUUJUUVdzWXhqWk14Q1Nmd2dzd0tjV1JxSF9VY0lncHVBX2FXTlhSb1V0VHJhVllVSkZCY211U2dxakROMC1laXJYMzFjaTc0SDNZbk5xNGxHeDJuREc0UVNrbnFWYlh6QUFrZEJ5VHg2VHg2cUFDS2QyaTBNYw?oc=5",
-     "ts": "2026-11-18T13:48:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 и дети: что важно знать родителям",
-    "summary": "ABC News и Good Morning America выпустили материалы о том, что родителям стоит знать о GTA 6 и детях. В сюжетах обсуждают возрастной рейтинг и влияние открытого мира на подростков.",
-    "idea": "Короткий гид для родителей: что изменилось с GTA 5, на что смотреть в настройках и как говорить с детьми об открытом мире.",
-    "hook": "Родители, GTA 6 близко — вот что важно знать о игре и детях.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-17T15:31:14Z"
-   },
-   "msg_id": 1136
-  },
-  {
-   "id": "73054c31415f",
-   "title": "За что уже ругают ГТА 6: что упустили в Rockstar",
-   "first_seen": "2026-11-18T14:01:07Z",
-   "updated": "2026-11-18T14:01:07Z",
-   "items": [
-    {
-     "id": "73054c31415f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "RTVI",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "За что уже ругают ГТА 6: что упустили в Rockstar",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUk1oeGNKc3NEWHpwOUN6dXlnTGY4cXNSUF94YUtiWkZtRENZX1FyUmtDN3ZLSnVyT1ZxZC0zMVJFSzdLYnNRZXBKMGctSmJhSDRRN3hzZ2RHTkZYSXcyeFFKcjhKUHRQZFRJQURWOV9RcDVGSEE0d1RqSEozYW9kR2haclQ?oc=5",
-     "ts": "2026-11-18T06:32:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f4454b0fd071",
-   "title": "Here's where you know GTA 6 voice actress Manni L. Perez from",
-   "first_seen": "2026-11-18T14:01:07Z",
-   "updated": "2026-11-18T14:01:07Z",
-   "items": [
-    {
-     "id": "f4454b0fd071",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "USA Today",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Here's where you know GTA 6 voice actress Manni L. Perez from",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0tyUHFkM0o5VEc1MHVrVHRYa3lHTW1QSE93dnQxN1dMSVVpN0piOGtmOGpFU1NVZnNtdDFBRnNuYko5ZEJFUXlJbk1OSy1PUDhTNUJDbC03cklGR3NSR3BMMFhlR0NmclYwdC1JSGlxQmY4UVVsZmRXSjBMak1pSXZjekJUU0tLU0ZfekVyc3dyNkhoRmtiNk1hcUY2QnNfSlVLY0c0bXBhSGJjQTBuZ3lVblFWNE9qdGZETw?oc=5",
-     "ts": "2026-11-18T13:19:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c9fde25193eb",
-   "title": "ГТА 6 уже запустили в Новой Зеландии. Первые впечатления: живой Вайс-Сити, мощный сюжет и неидеальные перестрелки",
-   "first_seen": "2026-11-18T14:01:07Z",
-   "updated": "2026-11-18T14:01:07Z",
-   "items": [
-    {
-     "id": "c9fde25193eb",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "sport-express.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "ГТА 6 уже запустили в Новой Зеландии. Первые впечатления: живой Вайс-Сити, мощный сюжет и неидеальные перестрелки",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb25kODVUZHRVQ1ZENVNXU3JyTVhncjFhNWlPRXJDOU9QRzJmdmZtT1FNTXZWMFJRQzZNLURpRF81VXpSWkxZV0ZCeC1ibmpHbFFaLTg3eV90TzFIRERuLTg3a18yWWQ0NVVYb1l3bU1YRkx5OHg0MGRfSkhWcnhTMVRzcjFZSlFtb3VsUXNYN3I0bWt3Qmo1V0JaV3I2WS1OcDR1cnZaaXpKb2wxR1ZXMVZIYnJOeE9rVlNuRnRHLUJZLUlteGpfT2s1QnlLY2YxUXBJ?oc=5",
-     "ts": "2026-11-18T13:30:02Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "806ed26b3e92",
-   "title": "Власти Новой Зеландии пошутили о том, что местные жители смогут поиграть в GTA VI раньше остальных",
-   "first_seen": "2026-11-18T14:01:07Z",
-   "updated": "2026-11-18T14:01:07Z",
-   "items": [
-    {
-     "id": "806ed26b3e92",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Власти Новой Зеландии пошутили о том, что местные жители смогут поиграть в GTA VI раньше остальных",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzczSkRLUFhuLTNFWmh2czItbjZYMk0yaUh6SG1zZ0lrSEhTREFwZU52Z0tJcjJaMXZVbnJKSXlGSnRsN1o4MTcwQURld2pWcmYxcDdMNlYybVN0SEJGaUxLMHRJRVEwZVZ2NTJNdGJkWXpPTkQ0RTlmdHEwLVdIQVZwN3k3MWtZYXdZZFZkMlpob1p2OG9IVmM4NVJRQWVldWhHWnFYV0Nldk1FM1NkVlNUeHZtQzk1Ry16Z1lWTnJnejZGZkdCTTJYdVRwWDTSAdQBQVVfeXFMUDl2eGVENDBaQmJFVWxqV2xCTm1pdVdpTHV2NlNKTkRfejRmUlA5RkNGalhpc2Z1cmNialNQVGNmV1FWa0VXdE9PbGpUM0dxZDk3SnBCdDA3NWNVSW5fRDBTblhveHd2eUczNDVnY1FfYVFkRzhSeEkza1VkMmhNZjBZaGlCVHNDb2dMUHlHUlE0QVh3VTVfcm9hcExCVTRqT3lfQ3Vqekt3MXR1NjNUZlR2VUpwSWxURW5DNTZTWlVHVnRDTXpQVUJUbDJtRE5wNkxVTnI?oc=5",
-     "ts": "2026-11-18T13:51:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T13:51:03Z",
+  "last_run": "2026-11-25T14:01:33Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 98/100",
+   "gnews_en: 97/100",
    "gnews_ru: 94/100",
    "gamesbeat: 3/10",
    "vgc: 5/10",
-   "insider_gaming: 6/10",
+   "insider_gaming: 7/10",
    "ign: 8/20",
    "eurogamer: 16/100",
    "dexerto_gta: 10/50",
