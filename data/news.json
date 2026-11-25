@@ -1,6 +1,108 @@
 {
  "stories": [
   {
+   "id": "fd6c606254f4",
+   "title": "Slideshow: Vehicles in GTA 6",
+   "first_seen": "2026-11-25T02:10:45Z",
+   "updated": "2026-11-25T02:30:58Z",
+   "items": [
+    {
+     "id": "fd6c606254f4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Slideshow: Vehicles in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFNsOWxyQ2RjbC1FZGtPeE03MzFKR1g5VEFNZGprbVk0YnZZVnN6dHk1SFRPQWc2LXg5U1FZTWlNSktTc0J4TklvTjNSdUFxRjJvajl1Z3FKS1FLRXByX19IdnBlc1hMSF9XaWlLZUNFQ1JmYWx5ZXFLNnNPR29kODkzY2g?oc=5",
+     "ts": "2026-11-25T02:07:46Z",
+     "summary": ""
+    },
+    {
+     "id": "71f5f7e75dbe",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Slideshow: Vehicles in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MTmdBMzlxYThhbHR0TDU3eUQwRzFZX3pGREszMXlPc214bTM4WkFoUkxkbnJJQjVEVnNfRHpvbnJFVHB0WTR1UHZRcnBjUEZFaWZNYWtPa1AybWlPbzRWcFlXV1ZNZWdobDEzTi03aWx6Q005akE?oc=5",
+     "ts": "2026-11-25T02:19:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Автопарк GTA 6: IGN показал машины из игры",
+    "summary": "IGN Southeast Asia и IGN Nordic выпустили слайд-шоу с автомобилями GTA 6. В подборках собрали машины, которые мелькали в официальных материалах игры.",
+    "idea": "Короткая нарезка машин из слайд-шоу IGN под динамичный бит с подписями моделей. Зрителю интересно увидеть знакомые и новые авто в одном ролике.",
+    "hook": "Все машины GTA 6 в одном видео — смотри, что нашли IGN.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T02:31:03Z"
+   },
+   "msg_id": 2209
+  },
+  {
+   "id": "10f52d062c87",
+   "title": "Atlantic Records и Rockstar Games неожиданно выпустили расширенную версию саундтрека GTA VI",
+   "first_seen": "2026-11-25T02:30:58Z",
+   "updated": "2026-11-25T02:30:58Z",
+   "items": [
+    {
+     "id": "10f52d062c87",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "NUR.KZ",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Atlantic Records и Rockstar Games неожиданно выпустили расширенную версию саундтрека GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGVwcWl1bW15U2dFUGpyNUlwN0xOWGRkaHJaanNfMVZGYmhMVFVteDZNWndVUHhCbjNLbXhCQWd4RmZiV2gyZmdWbi0wR2xkb1lOZTFXUHAtTk1FOHFvTkcxLU9rODBKUHg3bjZROUhqcURtNzYxVk14S2pEMkJCZ1F3R1hvaU00WlJnSkM1U1RNMHVRNjRIUU1zQXRkS1A3dGs1TTdGQ05PVWhydDVTY1BTRDBzWU9ucFBmdVllYTN5VklmM0xXNE5sbnNJRzl0QWhRaQ?oc=5",
+     "ts": "2026-11-25T02:20:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a483366585df",
+   "title": "Video The cultural impact of Grand Theft Auto VI",
+   "first_seen": "2026-11-25T02:30:58Z",
+   "updated": "2026-11-25T02:30:58Z",
+   "items": [
+    {
+     "id": "a483366585df",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ABC News - Breaking News, Latest News and Videos",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Video The cultural impact of Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JOWRXNldwZ0F2Ym16b0RNMm14U3F2cXh2dDZIbkZIandGS1N6LUgzY1JiMjlCRHR4ZTZkNUdtQU5qeGhxVmQ2WjhKaTk?oc=5",
+     "ts": "2026-11-25T02:25:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "7138b289c5a3",
    "title": "Около 1 млн человек по всему миру играют в GTA 6 по 10 часов в день — аналитики",
    "first_seen": "2026-11-24T15:40:51Z",
@@ -128,32 +230,6 @@
    },
    "msg_id": 2175,
    "upgraded": true
-  },
-  {
-   "id": "fd6c606254f4",
-   "title": "Slideshow: Vehicles in GTA 6",
-   "first_seen": "2026-11-25T02:10:45Z",
-   "updated": "2026-11-25T02:10:45Z",
-   "items": [
-    {
-     "id": "fd6c606254f4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Slideshow: Vehicles in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFNsOWxyQ2RjbC1FZGtPeE03MzFKR1g5VEFNZGprbVk0YnZZVnN6dHk1SFRPQWc2LXg5U1FZTWlNSktTc0J4TklvTjNSdUFxRjJvajl1Z3FKS1FLRXByX19IdnBlc1hMSF9XaWlLZUNFQ1JmYWx5ZXFLNnNPR29kODkzY2g?oc=5",
-     "ts": "2026-11-25T02:07:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "a27fb044a2a6",
@@ -198905,65 +198981,13 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c042c93fd7ab",
-   "title": "Rockstar explained why GTA VI development took 13 years",
-   "first_seen": "2026-11-18T02:30:59Z",
-   "updated": "2026-11-18T02:30:59Z",
-   "items": [
-    {
-     "id": "c042c93fd7ab",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Rockstar explained why GTA VI development took 13 years",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXBvaWJMaUFOU21WcWdESW1KS0pxYU5fVzNQVGJ4MUtoUnB4OEtNcWx6bTI0Nm1zY2tRSzltUE1aWUNfbHNzLXhiSFFoVDQzZVdmSWtYSUtHZFFWXzlLRVV6Z3JpWmNZRENGSlJGczRENkdpa2JRMm53bXNmQUI4WDZyVm4tNzdjcXhmMldCZUNnOWFOY3plTk1QMlg0Z0w4T1RVdk4zZ3l6YmlkTnfSAbMBQVVfeXFMTnQycWVYSG9NVVJyLS1jOHhjVkN1SEhqbVUtVFhfb0cwYVVGRFpQQUt2VUU0LWw1RFpTN0ZvQWdZNHhhUlRjQTFVLW9WV2VLLVRYQlJNbkRTWkZud29UZF9IeTBpdW0waHpDUEU2WWdieUNGVTRFWTZ2c3lScDRhczNxdEVGMFZOeHd6UzdoTDEzNzVobmFUdllSZnc4aEdqa0VQZzl6ZUoya18zMEwtd2lDNzA?oc=5",
-     "ts": "2026-11-18T02:05:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c1f4c1ff0a5a",
-   "title": "Asian Gamers Are Finding Ways Around Censorship to Play ‘GTA VI’",
-   "first_seen": "2026-11-18T02:30:59Z",
-   "updated": "2026-11-18T02:30:59Z",
-   "items": [
-    {
-     "id": "c1f4c1ff0a5a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Resonate Voices",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Asian Gamers Are Finding Ways Around Censorship to Play ‘GTA VI’",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSzRrcGN0aTJtVldEWHNkekFLcnZZTy16c3dLTDJKaVZBNHphemFrOGpYLVdrV01RU3hfR3ZsOFhSOUJDVEF2Mi1ZY2FjQmtSOWNCTFJQYXMzR2xGc3ZFSWZYYV96bFdIcW1rRTJUX1dfT1pmSGRHVTlrTlp4NWNPSkxsUlFLU1ZtZ3Vsb1duR0laUmowR2NoRkh2TVExRkdFQ0dj?oc=5",
-     "ts": "2026-11-18T02:23:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T02:20:47Z",
+  "last_run": "2026-11-25T02:31:04Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/4",
    "gnews_en: 99/100",
    "gnews_ru: 99/100",
    "gamesbeat: 3/10",
