@@ -1,6 +1,188 @@
 {
  "stories": [
   {
+   "id": "8a94f4091dc2",
+   "title": "Max Verstappen Spent the Weekend Playing 40 Hours of GTA 6 and Still Won the Las Vegas Grand Prix",
+   "first_seen": "2026-11-25T00:01:10Z",
+   "updated": "2026-11-25T00:10:46Z",
+   "items": [
+    {
+     "id": "8a94f4091dc2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Max Verstappen Spent the Weekend Playing 40 Hours of GTA 6 and Still Won the Las Vegas Grand Prix",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjJXRmprSHBjMDBDa1BhZWZadnhDaXZteDlQUllyOGFxRTNXVlZ0TTNOVG5ELWJKX0NTVzI2Q3ppZGtNb3c5STZkcDZvdE1rdDB4WU9sMXc2ZGRHZzNpaEFhOFZ4VmRlc2tySjFSb0hEOW9fVHJfWWprMkJVbG9CY05xNVNsUDd4bnhHR1lYWVp0aTYtTDV1bHRkWHkyQXh4cUFwRDlwdjI1YkI0RWRobw?oc=5",
+     "ts": "2026-11-24T23:49:51Z",
+     "summary": ""
+    },
+    {
+     "id": "8b52df7c0111",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSXVUdXlDVzd1eGtYY3dnWmZuUjJadnVJSFRKRHFaV2pNS1ZFckYwSzZtaGZFcXRHRTJ3QTZwOUNBYkRHdFIwRVhnQ1ZiMDZFb3lLTml5bl9sdUtDZnVKRllsZjhHTWFHekZCWVg5RnZPa2RpWldKYTNYd3pva09qU2huQ3otajNFWnF2STg2VzlKWnIyV0RDWVRxdFZTcmxyUF9ocXEwWVJsT2hBLS1zYWdKY05qbFVhc1RuOFVHUW96YkNkUGN4QkNESWw?oc=5",
+     "ts": "2026-11-25T00:03:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru",
+   "ai": {
+    "title_ru": "40 часов GTA 6 и победа в Вегасе: как Макс Ферстаппен успевает всё",
+    "summary": "По данным IGN, Макс Ферстаппен провёл 40 часов за GTA 6 за выходные и всё равно выиграл Гран-при Лас-Вегаса. Гонщик совмещал игру и победу на трассе. Источник — IGN и IGN Nordic.",
+    "idea": "Короткий контраст: «40 часов GTA 6» и «победа в Вегасе» — как он успевает, и что это значит для нас, геймеров. Зрителю интересно, потому что это редкий пример «играю много — выступаю топ».",
+    "hook": "40 часов в GTA 6 за выходные — и победа в Вегасе. Как он это делает?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T00:10:51Z"
+   },
+   "msg_id": 2205
+  },
+  {
+   "id": "469f8b98b153",
+   "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
+   "first_seen": "2026-11-24T17:11:07Z",
+   "updated": "2026-11-25T00:10:46Z",
+   "items": [
+    {
+     "id": "469f8b98b153",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 runs smoother on Xbox Series X than PS5",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGpvLVM2YU94UGk4SS1lQUlERUlIV2NTRllNWmZLYWw2Uzc3T0VmS2pnSkwxQllWRFNxdGJHb19SR1FLMmIyYnNhMmhZeUJzSG42VDk4eFJiS1dEZlNSb2g1NUp0R2phZ0p2SDlMYi1WQlV3eWdVUm5DUXZfTjJ6V1FaRElicmlCYWgydmFCTzI2VGpnQVhj?oc=5",
+     "ts": "2026-11-24T17:00:03Z",
+     "summary": ""
+    },
+    {
+     "id": "f1f50e744477",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 работает плавнее на Xbox Series X по сравнению с PS5",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakdfci1rT0NkVDFmR2VZLTBuMV9LRkNoeFFFVmw4dzBnSm1SZzVKZ1NPNGdzTDYyNndERkVrMjJ5TGM4OTE1WXdUX3Q4aXJZU241SGZueWZ5Mi04eERodzdub2FjczlsMHl1eU1SQ0xiR3lkWUpnalhLYVlES2hLT2lFZVBsRkJnRkRCUXhrbjFlTVk?oc=5",
+     "ts": "2026-11-24T17:00:03Z",
+     "summary": ""
+    },
+    {
+     "id": "128f81ce5edd",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
+     "url": "https://insider-gaming.com/gta-6-runs-better-xbox-series-x/",
+     "ts": "2026-11-24T22:51:38Z",
+     "summary": "After extensive testing from Digital Foundry, it's been found that GTA 6 performs better on Xbox Series X compared to base PS5. The post GTA 6 Runs Better On Xbox Series X Than Base PS5 appeared first on Insider Gaming ."
+    },
+    {
+     "id": "44c84f80fa93",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnS1VRS1FmMXJhQU1rYzJ2VWdsc3hGUFg0QWNubGUwTFZUMERqWGtoVnVTVWo3ZTFoOTIweDREQ1o2YXlJRGNERDJnMmNkaHl0TzFIN1NZRVVaQ1IzcHcwVU1VWGd2N29YbGNn?oc=5",
+     "ts": "2026-11-24T22:51:38Z",
+     "summary": ""
+    },
+    {
+     "id": "ba84c3702396",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Windows Central",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 runs better on Xbox Series X — a huge blow to the PS5 and Sony",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV211azFoZ1gtd19WbGRtLTBlLXotcUlCd0RQcF9OVWJpT2xoRW5vQXNibXpaVWY4b2R1ampSNFRDMHV5UXRteDIxVWdwVzhSYVYxOGo0V2x1Y18zcDBmNEplUTdvaDZwd0VfOFJHQW5lNl8tb0UxeDRlZlNvZnVkMHY0Qkl5eTJQNS01bW5jWE9Td0VXMGNFZnZBVFQ?oc=5",
+     "ts": "2026-11-25T00:02:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 89,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "d04a880a2635",
+   "title": "'GTA VI' Players Discover a 'Teenage Mutant Ninja Turtles' Easter Egg",
+   "first_seen": "2026-11-25T00:10:46Z",
+   "updated": "2026-11-25T00:10:46Z",
+   "items": [
+    {
+     "id": "d04a880a2635",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Complex",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA VI' Players Discover a 'Teenage Mutant Ninja Turtles' Easter Egg",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYXdEalhnRk5kWTdFNHpTLVpCY25VbktvUVhtX19jb01acHBpSVk2M0x2Smd1SWk1V3FuY3J4TkI0VHZqZkFLd0prRUc0bkZfSjB6cWZPRTU5MGthYkUwaVBoUEtoLVpybnFMcmI0M090bU9udUdlNVF5S1daWGVuUVlKUnNyY25nS3pWeVRCdWtqaFFkV1JIVHU2TQ?oc=5",
+     "ts": "2026-11-24T23:38:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "55dfc09ee19c",
+   "title": "Sight-Seeing: ‘Grand Theft Auto VI’ – can faith and virtual violence coexist?",
+   "first_seen": "2026-11-25T00:10:46Z",
+   "updated": "2026-11-25T00:10:46Z",
+   "items": [
+    {
+     "id": "55dfc09ee19c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Sight Magazine",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Sight-Seeing: ‘Grand Theft Auto VI’ – can faith and virtual violence coexist?",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEZ6WnFna090ZHNaRnM3aHBuS1VXX3VjRXBjTC1JaTc0c2QyVzJKUVFwZFNxVXFiS1k3dVpBTmY4TlVaM3h1SXpYNlM3SUtwRENtYWs0NkRLV0N6Tk1LM2NWSE5KMkR3Z2FtRjFienplbXhZbzk2cF9YX00zaXQyemJWVlB6bFg1azcxQlJDY2k5azNMRzRwazc2LXNJblJWM0pmc0trdjFXY2ZxN0hoTzhyYzY?oc=5",
+     "ts": "2026-11-24T23:54:43Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "78348d7674a4",
    "title": "'GTA VI' reclaims the car radio as a music discovery machine",
    "first_seen": "2026-11-24T20:20:50Z",
@@ -112,34 +294,6 @@
     "at": "2026-11-25T00:01:18Z"
    },
    "msg_id": 2204
-  },
-  {
-   "id": "8a94f4091dc2",
-   "title": "Max Verstappen Spent the Weekend Playing 40 Hours of GTA 6 and Still Won the Las Vegas Grand Prix",
-   "first_seen": "2026-11-25T00:01:10Z",
-   "updated": "2026-11-25T00:01:10Z",
-   "items": [
-    {
-     "id": "8a94f4091dc2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Max Verstappen Spent the Weekend Playing 40 Hours of GTA 6 and Still Won the Las Vegas Grand Prix",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjJXRmprSHBjMDBDa1BhZWZadnhDaXZteDlQUllyOGFxRTNXVlZ0TTNOVG5ELWJKX0NTVzI2Q3ppZGtNb3c5STZkcDZvdE1rdDB4WU9sMXc2ZGRHZzNpaEFhOFZ4VmRlc2tySjFSb0hEOW9fVHJfWWprMkJVbG9CY05xNVNsUDd4bnhHR1lYWVp0aTYtTDV1bHRkWHkyQXh4cUFwRDlwdjI1YkI0RWRobw?oc=5",
-     "ts": "2026-11-24T23:49:51Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
   },
   {
    "id": "69fe4b2519b7",
@@ -1044,71 +1198,6 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "469f8b98b153",
-   "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
-   "first_seen": "2026-11-24T17:11:07Z",
-   "updated": "2026-11-24T23:50:47Z",
-   "items": [
-    {
-     "id": "469f8b98b153",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 runs smoother on Xbox Series X than PS5",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGpvLVM2YU94UGk4SS1lQUlERUlIV2NTRllNWmZLYWw2Uzc3T0VmS2pnSkwxQllWRFNxdGJHb19SR1FLMmIyYnNhMmhZeUJzSG42VDk4eFJiS1dEZlNSb2g1NUp0R2phZ0p2SDlMYi1WQlV3eWdVUm5DUXZfTjJ6V1FaRElicmlCYWgydmFCTzI2VGpnQVhj?oc=5",
-     "ts": "2026-11-24T17:00:03Z",
-     "summary": ""
-    },
-    {
-     "id": "f1f50e744477",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 работает плавнее на Xbox Series X по сравнению с PS5",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakdfci1rT0NkVDFmR2VZLTBuMV9LRkNoeFFFVmw4dzBnSm1SZzVKZ1NPNGdzTDYyNndERkVrMjJ5TGM4OTE1WXdUX3Q4aXJZU241SGZueWZ5Mi04eERodzdub2FjczlsMHl1eU1SQ0xiR3lkWUpnalhLYVlES2hLT2lFZVBsRkJnRkRCUXhrbjFlTVk?oc=5",
-     "ts": "2026-11-24T17:00:03Z",
-     "summary": ""
-    },
-    {
-     "id": "128f81ce5edd",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
-     "url": "https://insider-gaming.com/gta-6-runs-better-xbox-series-x/",
-     "ts": "2026-11-24T22:51:38Z",
-     "summary": "After extensive testing from Digital Foundry, it's been found that GTA 6 performs better on Xbox Series X compared to base PS5. The post GTA 6 Runs Better On Xbox Series X Than Base PS5 appeared first on Insider Gaming ."
-    },
-    {
-     "id": "44c84f80fa93",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnS1VRS1FmMXJhQU1rYzJ2VWdsc3hGUFg0QWNubGUwTFZUMERqWGtoVnVTVWo3ZTFoOTIweDREQ1o2YXlJRGNERDJnMmNkaHl0TzFIN1NZRVVaQ1IzcHcwVU1VWGd2N29YbGNn?oc=5",
-     "ts": "2026-11-24T22:51:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 81,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -198582,170 +198671,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "a813ab38b372",
-   "title": "Xbox Just Revealed The Exact Hour GTA 6 Starts Streaming, And It Isn’t Midnight",
-   "first_seen": "2026-11-17T01:31:08Z",
-   "updated": "2026-11-18T00:10:49Z",
-   "items": [
-    {
-     "id": "a813ab38b372",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Xbox Just Revealed The Exact Hour GTA 6 Starts Streaming, And It Isn’t Midnight",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYUZ1R2dQQXNtbTd3ODYwZVpTbkgtT19wcWpfTE9mb29leGUwMUtIWDFpYmV4bmZOVUVxVkR4RC16bFFacm5CYm9nLUdQQ3FnYUFLWG1yQ3l5ZU16MmxQa0ctaUs5SHhjR1JObk5jbUctdXJxOFMxZlNYb0VkZWN4Y3RBSVZfQ3pZWHgw?oc=5",
-     "ts": "2026-11-17T01:13:02Z",
-     "summary": ""
-    },
-    {
-     "id": "96cc982144ad",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NDTV Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "IShowSpeed Reveals GTA 6 Streaming Plans, Rules Out 24-Hour Marathon",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWdtaURmUkFMZm41U0U3V1dITkhvMjRYMmdUMGtZVTJ5MGpmWUEzbEwwTXBIRUFvdW1FSWkyU2tueWE5RUhkNm5ETjhiQUQyeTZ1TEVfNlptMEQ5ampNbWdLbGJjUFhEYU5KWnRJUlFwZkFvSnJ0S3FncXpob25DUmI3ZnBkWWgzYkdKTFZXZWN3NlNuNjBMUDdZTEpwU2I0bVZBWEJDOVQtSEl3Nm1BMEZMQmx5bEU?oc=5",
-     "ts": "2026-11-17T09:45:56Z",
-     "summary": ""
-    },
-    {
-     "id": "764eab71b06a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IMDb",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA 6’ Download Size Revealed: How Much Storage Do You Need on PS5 & Xbox?",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5a2NIZ215bGpheHVfM2ZRSmdUZXlQVzhrOVRrUy04MGpuUExBbmpkNWt2RFZEM3hYWGNyR1hwME9aTWVPbWh1MTBVNm9nMklmQ2xWY3N2ZVlIYVBKcFFMWXRrdC1LdFlDcFE?oc=5",
-     "ts": "2026-11-17T22:15:25Z",
-     "summary": ""
-    },
-    {
-     "id": "29fc5e72ef7b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IMDb",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA 6’ Download Size Revealed: How Much Storage Do You Need on PS5 & Xbox?",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84MDdHVl85akNHQnJISzFVWl9uNWcyWWdyczlvd0NWY05aMUlOdHFiNG9rTElYOEVqay1fS3p5Ym5rRnp4cmNjSnQ5OUJVZ3FQTUlvXzl2aW16cU14SzlZTzlKWkJuZw?oc=5",
-     "ts": "2026-11-17T22:52:30Z",
-     "summary": ""
-    },
-    {
-     "id": "21fb4170d4e6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA 6’ Download Size Revealed: How Much Storage Do You Need on PS5 & Xbox?",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY2JKYVJqcmczYWZ4TzBUY0QxUnhYYTFfLVlsUHV4MGhGOEFZZXFyWUdyVzZveHQ1UWx4dzJtUFphWUVfaWpVOVhzNDJPU0dmN1ZncnJ3QnlDamp6clplc2ZaWTdHZkNiTWduQkJ1YnVmVXR5NTlhVVMtdDA0WThZRWw5V3l3cnVNZUE?oc=5",
-     "ts": "2026-11-17T21:58:09Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 81,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "64d9b2d6dd3a",
-   "title": "GTA 6: My wife and daughter have signed a 'do not disturb' contract",
-   "first_seen": "2026-11-17T23:01:18Z",
-   "updated": "2026-11-18T00:10:49Z",
-   "items": [
-    {
-     "id": "64d9b2d6dd3a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: My wife and daughter have signed a 'do not disturb' contract",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlBCcjFoTGpxdnQwN3d0c2llNFRFaEFTTGlydkpNZU12UzNtcDlDU2hBOWtPNjRHRGRWbDBsSmc3eFRjTUUtbUxhZW1OTUEzdXlLUjRUM25sZTZFZmFUTFNyVWRJZTNTckJMQ05rTEhOblVvYk84ZDVoYWU2WUlOYm1xYWUzdXM5OHc?oc=5",
-     "ts": "2026-11-17T22:52:13Z",
-     "summary": ""
-    },
-    {
-     "id": "d36834b73717",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BBC",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: My wife and daughter have signed a 'do not disturb' contract",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yOXVDa3Zxb191dzlDQ1BmQ05NaHB3aHZEMjE4VmRPQUdlNWdLem1BUnpiMnVoLWJGaExKRGxNX0tXeG5SWkhwVGFnb3h4dHhmb2dodDRoU1hYVU0?oc=5",
-     "ts": "2026-11-17T22:52:09Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "👀 Игрок GTA 6: жена и дочь подписали договор «не беспокоить»",
-    "summary": "Игрок рассказал BBC и Yahoo, что его жена и дочь подписали с ним договор «не беспокоить» на время игры в GTA 6. Он объяснил, что хочет спокойно пройти сюжет и не отвлекаться.",
-    "idea": "Короткая зарисовка: человек с табличкой «не беспокоить» садится за GTA 6, семья кивает и уходит. Зрителю смешно и знакомо — это про их собственные «договоры» на релизы.",
-    "hook": "Жена и дочь подписали договор «не беспокоить» — ради GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T00:10:53Z"
-   },
-   "msg_id": 1185
-  },
-  {
-   "id": "5e05329f53bd",
-   "title": "World Business Report | Will GTA VI Live Up to the Hype?",
-   "first_seen": "2026-11-18T00:10:49Z",
-   "updated": "2026-11-18T00:10:49Z",
-   "items": [
-    {
-     "id": "5e05329f53bd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BBC",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "World Business Report | Will GTA VI Live Up to the Hype?",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xeE1nc1NxZWp1aFZ3VGl1aG1Idi1pLWlKLS1HZzN6Qy04am5lVjZNbkg5ZWRTUjJoUU9mbUM1SWRlSWI2ajlZUlJFZGkwMkRW?oc=5",
-     "ts": "2026-11-18T00:01:31Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T00:01:18Z",
+  "last_run": "2026-11-25T00:10:51Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 98/100",
+   "gnews_en: 99/100",
    "gnews_ru: 99/100",
    "gamesbeat: 3/10",
    "vgc: 9/10",
