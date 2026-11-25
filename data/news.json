@@ -1,6 +1,175 @@
 {
  "stories": [
   {
+   "id": "78348d7674a4",
+   "title": "'GTA VI' reclaims the car radio as a music discovery machine",
+   "first_seen": "2026-11-24T20:20:50Z",
+   "updated": "2026-11-25T00:01:10Z",
+   "items": [
+    {
+     "id": "78348d7674a4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NPR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA VI' reclaims the car radio as a music discovery machine",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15QUwySXZWWWQ5RDRlVUp2QXMweHNGdjhsblVrbHkxdWZnZTEyUWRxUTB5SEE0QWNRR0pQU2xwckI3M3NiMWZJd3lOUkJiaWw1TW51b2l4VHplT3U5QkNkSzhXWDN0TkdnREUzSTR3RnNTenA1LUZ1LW5KdkRGQQ?oc=5",
+     "ts": "2026-11-24T20:12:17Z",
+     "summary": ""
+    },
+    {
+     "id": "dc5629a6d1b6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WFAE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "In 'GTA VI,' every stolen car is a music discovery machine",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWpyWjlFTFRxZUcxN3F5U2tmaG9ldlhYS2hOU2huYzI0SnR0S1N3NHRTVjZCd09xQnFIZzdsTVJKOHVCSHNzcV9mdk95TC1MUFJUNlpnWDNuRnR5aHcxY1NGb19rOUtNanlaWXM2N0lVQk5aVmdMZmxsLVhxV2JMb0FQblBxanBlU1ZiRm9DVkFPZkR6dDBZeDRtRnU3MG9MdUtB?oc=5",
+     "ts": "2026-11-24T20:12:00Z",
+     "summary": ""
+    },
+    {
+     "id": "8f62e16df7f2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KOSU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "In 'GTA VI,' every stolen car is a music discovery machine",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkJsMG9IYl9JS2xOZVpKbFZ4bzRwODYzUUQwQi13NnByUnNoX3otRnYtNzNGOVAtZXFsVWxVblFraTM5a25fLXp3a1FHX0xkS21BVDlMR01sVVllQ2ZuaWx3RG5BeFVEb1FkZ1B3RU1QQ0hjRDhGZTBWYVlmVkI1X2FWS2xlOVdnNmRRY0pkZXA3MTFZMU1JaQ?oc=5",
+     "ts": "2026-11-24T20:17:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В GTA 6 радио снова открывает музыку: что говорят NPR и WFAE",
+    "summary": "По данным NPR и WFAE, в GTA 6 радио вновь становится машиной для музыкальных открытий: каждая угнанная машина — новый плейлист. Журналисты отмечают, что саундтрек помогает находить треки и расширяет фонотеку игрока.",
+    "idea": "Короткий тест: угоняем три машины подряд и показываем, как меняется радио, плюс трек, который захочется Shazam-нуть.",
+    "hook": "Угоняешь тачку в GTA 6 — и находишь свой новый любимый трек.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T22:51:02Z"
+   },
+   "msg_id": 2199
+  },
+  {
+   "id": "9e498ffe1bd1",
+   "title": "GTA VI features a town inspired by Panama City",
+   "first_seen": "2026-11-24T21:31:11Z",
+   "updated": "2026-11-25T00:01:10Z",
+   "items": [
+    {
+     "id": "9e498ffe1bd1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Panama City News Herald",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI features a town inspired by Panama City",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHZYRnZlVGM1WlVEeWF3RXVxeTc5b1Z1bkN5RkwzMk5PdnlOcHFSNWhTZG5YWjFmdG4yejZ4Y3BZZUJCb2dpRU1PUGN1VUJEeFNfSHJQNU5FbzNzS1ZQdXNXNWRnZWxFVFJmdGMtVHU5d2JCcTFETUxSaFRwaDdRaHlaSWhEdk9zNEZhTWJGQ3J2Tkp3SFYwdTRWOGUwSEVIRzBodDFWTjRTcUhqcThhbENTUDc?oc=5",
+     "ts": "2026-11-24T21:15:00Z",
+     "summary": ""
+    },
+    {
+     "id": "4f5fb07e7e11",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Bradenton Herald",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI features a town inspired by Panama City",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95TGpJdFpCcU9jelZsakx5YU1pTWVYcnl1NDB1eWVzYXRDUDN4dmZ2Z0lwZTlEZlRVTGg0M2JGWkV3SFcydUltOFpIeDlpekNOdFZvQnlFd3pidDdZSlJvYVNXaEhmb1JWbEY0c3Rab1JvelNv?oc=5",
+     "ts": "2026-11-24T21:15:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В GTA 6 нашли город по мотивам Панама-Сити",
+    "summary": "По данным Panama City News Herald и Bradenton Herald, в GTA 6 есть город, вдохновлённый Панама-Сити. Журналисты ссылаются на материалы и наблюдения игроков. Официально Rockstar детали не подтверждала.",
+    "idea": "Сравним улицы и вывески Панама-Сити и утёкшие кадры GTA 6: найдём сходства за 30 секунд. Зрителю интересно увидеть реальные места в игре.",
+    "hook": "В GTA 6 нашли город, списанный с Панама-Сити — смотри сравнение.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T00:01:18Z"
+   },
+   "msg_id": 2204
+  },
+  {
+   "id": "8a94f4091dc2",
+   "title": "Max Verstappen Spent the Weekend Playing 40 Hours of GTA 6 and Still Won the Las Vegas Grand Prix",
+   "first_seen": "2026-11-25T00:01:10Z",
+   "updated": "2026-11-25T00:01:10Z",
+   "items": [
+    {
+     "id": "8a94f4091dc2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Max Verstappen Spent the Weekend Playing 40 Hours of GTA 6 and Still Won the Las Vegas Grand Prix",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjJXRmprSHBjMDBDa1BhZWZadnhDaXZteDlQUllyOGFxRTNXVlZ0TTNOVG5ELWJKX0NTVzI2Q3ppZGtNb3c5STZkcDZvdE1rdDB4WU9sMXc2ZGRHZzNpaEFhOFZ4VmRlc2tySjFSb0hEOW9fVHJfWWprMkJVbG9CY05xNVNsUDd4bnhHR1lYWVp0aTYtTDV1bHRkWHkyQXh4cUFwRDlwdjI1YkI0RWRobw?oc=5",
+     "ts": "2026-11-24T23:49:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "69fe4b2519b7",
+   "title": "GTA 6 Nude Glitch and Money Exploit Survives First Patch",
+   "first_seen": "2026-11-25T00:01:10Z",
+   "updated": "2026-11-25T00:01:10Z",
+   "items": [
+    {
+     "id": "69fe4b2519b7",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Nude Glitch and Money Exploit Survives First Patch",
+     "url": "https://www.gtaboom.com/gta-6-nude-glitch-and-money-exploit-survives-first-patch-cd3d",
+     "ts": "2026-11-24T23:56:48Z",
+     "summary": "In GTA 6, the Apollo Aggregates robbery still pays $8,000 to $10,000 per run after the first patch if you save and reload to respawn the loot."
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 60,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "2e6959589192",
    "title": "GTA VI's cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder",
    "first_seen": "2026-11-24T05:31:00Z",
@@ -1869,56 +2038,6 @@
    "msg_id": 2193
   },
   {
-   "id": "78348d7674a4",
-   "title": "'GTA VI' reclaims the car radio as a music discovery machine",
-   "first_seen": "2026-11-24T20:20:50Z",
-   "updated": "2026-11-24T22:50:55Z",
-   "items": [
-    {
-     "id": "78348d7674a4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NPR",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA VI' reclaims the car radio as a music discovery machine",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15QUwySXZWWWQ5RDRlVUp2QXMweHNGdjhsblVrbHkxdWZnZTEyUWRxUTB5SEE0QWNRR0pQU2xwckI3M3NiMWZJd3lOUkJiaWw1TW51b2l4VHplT3U5QkNkSzhXWDN0TkdnREUzSTR3RnNTenA1LUZ1LW5KdkRGQQ?oc=5",
-     "ts": "2026-11-24T20:12:17Z",
-     "summary": ""
-    },
-    {
-     "id": "dc5629a6d1b6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WFAE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "In 'GTA VI,' every stolen car is a music discovery machine",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWpyWjlFTFRxZUcxN3F5U2tmaG9ldlhYS2hOU2huYzI0SnR0S1N3NHRTVjZCd09xQnFIZzdsTVJKOHVCSHNzcV9mdk95TC1MUFJUNlpnWDNuRnR5aHcxY1NGb19rOUtNanlaWXM2N0lVQk5aVmdMZmxsLVhxV2JMb0FQblBxanBlU1ZiRm9DVkFPZkR6dDBZeDRtRnU3MG9MdUtB?oc=5",
-     "ts": "2026-11-24T20:12:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "В GTA 6 радио снова открывает музыку: что говорят NPR и WFAE",
-    "summary": "По данным NPR и WFAE, в GTA 6 радио вновь становится машиной для музыкальных открытий: каждая угнанная машина — новый плейлист. Журналисты отмечают, что саундтрек помогает находить треки и расширяет фонотеку игрока.",
-    "idea": "Короткий тест: угоняем три машины подряд и показываем, как меняется радио, плюс трек, который захочется Shazam-нуть.",
-    "hook": "Угоняешь тачку в GTA 6 — и находишь свой новый любимый трек.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-24T22:51:02Z"
-   },
-   "msg_id": 2199
-  },
-  {
    "id": "289e3b9dd70c",
    "title": "How to flip your car in GTA 6",
    "first_seen": "2026-11-24T22:50:55Z",
@@ -3735,32 +3854,6 @@
     "at": "2026-11-24T11:31:13Z"
    },
    "msg_id": 2109
-  },
-  {
-   "id": "9e498ffe1bd1",
-   "title": "GTA VI features a town inspired by Panama City",
-   "first_seen": "2026-11-24T21:31:11Z",
-   "updated": "2026-11-24T21:31:11Z",
-   "items": [
-    {
-     "id": "9e498ffe1bd1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Panama City News Herald",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI features a town inspired by Panama City",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHZYRnZlVGM1WlVEeWF3RXVxeTc5b1Z1bkN5RkwzMk5PdnlOcHFSNWhTZG5YWjFmdG4yejZ4Y3BZZUJCb2dpRU1PUGN1VUJEeFNfSHJQNU5FbzNzS1ZQdXNXNWRnZWxFVFJmdGMtVHU5d2JCcTFETUxSaFRwaDdRaHlaSWhEdk9zNEZhTWJGQ3J2Tkp3SFYwdTRWOGUwSEVIRzBodDFWTjRTcUhqcThhbENTUDc?oc=5",
-     "ts": "2026-11-24T21:15:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "9fe9d36e89e9",
@@ -198645,314 +198738,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "eef9bb3f0fec",
-   "title": "Who's taking the day off work to play GTA 6? Apparently, everyone",
-   "first_seen": "2026-11-17T08:50:49Z",
-   "updated": "2026-11-18T00:01:13Z",
-   "items": [
-    {
-     "id": "eef9bb3f0fec",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "British GQ",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Who's taking the day off work to play GTA 6? Apparently, everyone",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVmZjcXdnVXVqcjJEVzEzRXBtRW94R0lIYzdNMTBnaHlvUDFOVUN4dlpLbXhTc1JwYXVrZUxPUmJGZ0FfUmJUZUJ4X0tZNy1lRkZNM2pTbW9ldWhDUE90aUpMWEpYRS1YTWNBdV9DZUtncUVSWFZNajY2TEFuS2ttWjFsNWVaT0lIMHMxdXo3WXZHMEVxWTJyZFgwRW9nV1puRE5uSA?oc=5",
-     "ts": "2026-11-17T07:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "b6c7e82515e2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Seattle Times",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Are you taking off work to play GTA 6? Tell us about it",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS04xTGxGUTJuRDYyZENmZDZDNTNQWm5ZdjVRU3VvYktrdmpOUHZ3bDFEdThSZ3FwNWZkX3FtZXEwejRFSXhxQXpDYkFWdm1tVkdfRC1uUXZnZWpfUVBlUE1KOTh5LTVueHVIMEVBT3pGVXFiSTI5SElDWlhkWm9ybWxqSEpkTjVZYndwOWJFbkZpdlJkaTBlag?oc=5",
-     "ts": "2026-11-17T23:56:08Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "1234f4e6ce20",
-   "title": "What’s Behind the Craze Over ‘Grand Theft Auto VI’?",
-   "first_seen": "2026-11-18T00:01:13Z",
-   "updated": "2026-11-18T00:01:13Z",
-   "items": [
-    {
-     "id": "1234f4e6ce20",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "FOX News Radio",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "What’s Behind the Craze Over ‘Grand Theft Auto VI’?",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMldvZlJnODRIcmo4QWdlS0EtWFJDT0dYWThBaWU0Y3pSX1lrNzVWZk81M3lfZ1RjTjJkUGszMEhQc2tZUHlQNl9VcmZRUmpseTVEYlBUTmY5NUtLTXlnUnNoanVvYnJyY1ZBMFpyMldVamFIeURIYlpScFpHUUs4V3NHZm1lcXZ6TGFuaHFn?oc=5",
-     "ts": "2026-11-17T23:47:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d87a665eead7",
-   "title": "GTA 6 Update 1.002.001 Hits PS5 In Three Waves Before Launch",
-   "first_seen": "2026-11-18T00:01:13Z",
-   "updated": "2026-11-18T00:01:13Z",
-   "items": [
-    {
-     "id": "d87a665eead7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Forbes",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "GTA 6 Update 1.002.001 Hits PS5 In Three Waves Before Launch",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQkNVaGdxQTRreVY5c2p4VDRPa3k4V1B2T3ZsZi1FSE8xUmhCazh6SEpYS2JxbUp6eV81eHpxenRpM1A3WkljTWtSemZpWS0xeTk3V19lWjJpRTRoVWRlR1Jxak9PVmQ0OWU2MTYtYmE4V3FsMmFXNnZyS1lqc05lVkpkcE1vOEE0d1J5cFhsalM4bG51M3RBbldkZndPUi1wNldBcFU1UExyblRwUkMyZlBMRXdaLU9JVFF2VmltX0RJM2hvOXdLaThXc1NUYTVCVjdqTzY1WDJYWlNKTHhXdWEtbzZvMXRMcTg1cVNn?oc=5",
-     "ts": "2026-11-17T23:53:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Патч 1.002.001 для GTA 6 на PS5: три волны до релиза",
-    "summary": "По данным Forbes, обновление 1.002.001 для GTA 6 на PS5 выходит в три волны до запуска. Rockstar пока не подтверждала детали, но патч уже готовят к предзагрузке.",
-    "idea": "Короткая хронология трёх волн патча с таймером до релиза — зрителю важно понять, когда ставить загрузку.",
-    "hook": "Патч 1.002.001 на PS5 уже в пути — три волны до релиза GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T00:01:17Z"
-   },
-   "msg_id": 1184
-  },
-  {
-   "id": "29002d38fbf8",
-   "title": "GTA 6 Players Officially Getting Free Reward Worth $70",
-   "first_seen": "2026-11-17T22:50:54Z",
-   "updated": "2026-11-18T00:01:12Z",
-   "items": [
-    {
-     "id": "29002d38fbf8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ScreenRant",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Players Officially Getting Free Reward Worth $70",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdlV0WFE0OTU0UjBPQ3VhdmZodVdqcUQwN3dGOExlWUx1X0pMUFdlTW9uRUZXejJXems0MzJSOXJMem1ERGNvTDJFY3lyNWVBaVVSdlRwZGZBdkNGY2dPT0o5N0k3azJGNW5hTVRMem5LUnN3OWFBUEFGcGIxTG5QQXIxUQ?oc=5",
-     "ts": "2026-11-17T22:44:14Z",
-     "summary": ""
-    },
-    {
-     "id": "323fcd47e3d7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "OpenCritic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Players Officially Getting Free Reward Worth $70",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYXp0blBLUzBzZ2FXeElDUTZrYV9YUlVFY3JFRjVNMjBSbFpNeTFGdjQxNTFLQkxzMzQ1bFQ0UVJIQVNKcU95d2RrazhJS1NsX3BvUlotYzNkcUw1SVpOR055Z1FweF85dW9rMUw5ZHp0UE1naVhHQm5ET0dBQ0M4a3pDRk1pQzhFYlQ4T3pIM3I?oc=5",
-     "ts": "2026-11-17T22:49:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Бесплатный бонус в GTA 6 на $70: что внутри",
-    "summary": "По данным ScreenRant, в GTA 6 игроков ждёт официальный бесплатный бонус стоимостью $70. Подробности о содержимом и условиях получения пока не раскрыты.",
-    "idea": "Коротко показываем «ценник $70» и перечисляем, что это может быть: валюта, одежда, транспорт. Почему интересно: зритель сразу поймёт, стоит ли бонус времени и не скрыта ли доплата.",
-    "hook": "Бесплатный бонус в GTA 6 на 70 долларов — что реально дадут?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-17T22:50:57Z"
-   },
-   "msg_id": 1181
-  },
-  {
-   "id": "dd673ced1add",
-   "title": "Exclusive: Kia Shine talks about role in Grand Theft Auto VI",
-   "first_seen": "2026-11-17T21:41:02Z",
-   "updated": "2026-11-18T00:01:12Z",
-   "items": [
-    {
-     "id": "dd673ced1add",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WREG.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Exclusive: Kia Shine talks about role in Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGg4YWtJWllCVUNIN3gzbmxlVWdRVUp5QXRVaHFFZXdpZDFLMzBEVzBOYTBDOWRhcG9GakY3Q1V1NUVydm5CdW0tYUxMbFUxSlIxaklMREVhb1JLb1VGY2czcEpDUm1ldVpXZkd6aXkzQjJYb09kQlY4U0hQcTNRdDJWb3BOU2ptZ0ZxV3o1QzdqckhKUEhz?oc=5",
-     "ts": "2026-11-17T21:12:01Z",
-     "summary": ""
-    },
-    {
-     "id": "7cbf16409de6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WREG.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Exclusive: Kia Shine talks about role in Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVUE0TkJFc3JJSmVJYTNwVl9FODhnaWNIeEhVM0tFM3VINEhVTktEVjRKZElhNFQxZXM2bmZRVkFvLVZXX3Z0WnZ3Q08zODM1eTd6SG1CdHFWblFaVTNQWFhhWk5sbzRzVDN6bjBSemRvbDdvazNKSzFtUGdSclhQQmRScDByNlQ4aWMyU3k5R21sQzTSAZgBQVVfeXFMT1ZBUHo0OF9hbzJIX2xXeV9GSFFSbWw2anB5aW43TlQyZ3h1azNfUU9iblFSZVN6OUZTbkU1U2xwRnRWQm5oRFI4X0V2MFlTaWpzbFhCNjhuZy12QW1EdHkxblY0a3d3Z1BSNmI2VG9yYkFuYmpLYWE5eFZ2TGYxV1pEYS1lWjFFZXl3dzN0WUJIczJsNk45T3c?oc=5",
-     "ts": "2026-11-17T21:12:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c3afd0931ff2",
-   "title": "Бустер отправился в Новую Зеландию ради раннего доступа к GTA 6",
-   "first_seen": "2026-11-18T00:01:12Z",
-   "updated": "2026-11-18T00:01:12Z",
-   "items": [
-    {
-     "id": "c3afd0931ff2",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Esports.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Бустер отправился в Новую Зеландию ради раннего доступа к GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXdHcW1YUDhidGxCSHZ2TFBTZkw1aW91Mm95UWkyREhYWTNFZ0pVeTdRSS1MUG02UkQxTzNKRUNKdWt4dU1OMy1rZ3AxY0plOVdBS2M3V2VxMTB6Sk5DcXUxVlJhcFdoQnBWMlk1V2ZLY3V0NFd2QnNZamJpc05TMjducW5fdm5EMF9tZDI3UktmVEYyNnV1bQ?oc=5",
-     "ts": "2026-11-17T14:27:34Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1f31a65909a3",
-   "title": "Релиз на ПК не нужен: владельцы Steam Deck готовятся к GTA 6",
-   "first_seen": "2026-11-18T00:01:12Z",
-   "updated": "2026-11-18T00:01:12Z",
-   "items": [
-    {
-     "id": "1f31a65909a3",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Notebookcheck-ru.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Релиз на ПК не нужен: владельцы Steam Deck готовятся к GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMC1GTnpwRHpVM0VDeHhMY3cyMzNocVlqTDBPWWxKb2dLZ1dzQTB2WFUyZU1zNV9XcUtNQWFzSkgxOW16Um91UThEQldjOGZVWVVPX3FGdjZsaFFhSF96b2Jnd084ZEZVaU1NU19jYXhkMFlzN3pfTVV4RmF1MGZLNHdKdUxIanZqbHpIejdYQmlpRGhwaEZ4ZXYtTWxZdWtSY0s3MDNKVzJ4dW5PbUE?oc=5",
-     "ts": "2026-11-17T14:33:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "ПК"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "875b1ff3b4a4",
-   "title": "«Майами» представил необычный паркет в стиле GTA 6 для матча НБА",
-   "first_seen": "2026-11-18T00:01:12Z",
-   "updated": "2026-11-18T00:01:12Z",
-   "items": [
-    {
-     "id": "875b1ff3b4a4",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "https://www.championat.ru/",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Майами» представил необычный паркет в стиле GTA 6 для матча НБА",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVllMUVk3dlE0T2llVXBIdlFpWG9URXlyc1dyLTZIS2tQRVMzcHJURkpzeHFXQVYyRDl1b0steWNOYWJ3aTNpN2VlZGphMU0tbEdCT2pBSkFRZ3NXdWJVQU1iSkpOcGRpclk0MFNQa1FEWXlldjJTQ1pvdXdJclBLMF9GRENYMVlkblNCbjFUbFdsRGowWnh0RXRrUWpsNGV5WlduXzU1dWVfVzc1RC1hSlhsYWxkRXYzSjdRWA?oc=5",
-     "ts": "2026-11-17T23:26:40Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6c11bc79aedb",
-   "title": "Claude Code оценил продолжительность GTA VI более чем в 150 часов",
-   "first_seen": "2026-11-18T00:01:12Z",
-   "updated": "2026-11-18T00:01:12Z",
-   "items": [
-    {
-     "id": "6c11bc79aedb",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Claude Code оценил продолжительность GTA VI более чем в 150 часов",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYUpJZzJRXzFGWVktb3V3ejhlQ2t5MU5OeEU2OUphaEtVZGpMNHQtTnZkQ1pyV0FEYU8yQzBuVXJDR1FwQk5OWHVSSGRMTlNFVHRaWWJWMzNKUFlidHo0UHkwbmZlbnZjN1pBdFgxeEJuMWJudHliNks1UmtLdk5aQnUzS2NqSDBiSlNzdkdwWWxvVExxLW84RkJlUHlEQQ?oc=5",
-     "ts": "2026-11-17T23:44:48Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-24T23:50:52Z",
+  "last_run": "2026-11-25T00:01:18Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/4",
    "gnews_en: 98/100",
-   "gnews_ru: 98/100",
+   "gnews_ru: 99/100",
    "gamesbeat: 3/10",
    "vgc: 9/10",
    "insider_gaming: 4/10",
