@@ -1,138 +1,10 @@
 {
  "stories": [
   {
-   "id": "289e3b9dd70c",
-   "title": "GTA 6: How to flip a car in Grand Theft Auto 6",
-   "first_seen": "2026-11-24T22:50:55Z",
-   "updated": "2026-11-25T11:01:16Z",
-   "items": [
-    {
-     "id": "289e3b9dd70c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How to flip your car in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14Znhsdk1qU0RsWW0wSGZLejh3TFBib3NFR3k2XzFDaUh4YlVXLXhEY1d6WDhIQ0Zhck9DTzVVQVZyQkpHcTJ1TWpWdm02bXo4TkhWU0Q0WndVQQ?oc=5",
-     "ts": "2026-11-24T22:27:23Z",
-     "summary": ""
-    },
-    {
-     "id": "4da3e0bf6bf7",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6: How to flip a car in Grand Theft Auto 6",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-how-to-flip-car-grand-theft-auto/",
-     "ts": "2026-11-25T10:51:12Z",
-     "summary": "How to flip a car in the open world and reset your car in races in Grand Theft Auto 6"
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "314682169cf2",
-   "title": "GTA 6 Company Property walkthrough: How to save the weapons cargo",
-   "first_seen": "2026-11-25T11:01:16Z",
-   "updated": "2026-11-25T11:01:16Z",
-   "items": [
-    {
-     "id": "314682169cf2",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Company Property walkthrough: How to save the weapons cargo",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-company-property-walkthrough-how-to-save-the-weapons-cargo/",
-     "ts": "2026-11-25T10:53:37Z",
-     "summary": "How to complete Company Property in GTA 6"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Миссия Company Property в GTA 6: как спасти груз оружия",
-    "summary": "По данным VGC, в GTA 6 есть миссия Company Property: нужно спасти груз оружия. Издание описывает условия и цель задания.",
-    "idea": "Короткий гайд: как пройти Company Property и спасти груз оружия без провала. Покажем 2–3 ключевых шага.",
-    "hook": "Застрял на Company Property? Вот как спасти груз оружия за минуту.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-25T11:01:22Z"
-   },
-   "msg_id": 2225
-  },
-  {
-   "id": "af7c466dcc17",
-   "title": "Mistakes to Avoid in GTA 6",
-   "first_seen": "2026-11-25T10:50:50Z",
-   "updated": "2026-11-25T10:50:50Z",
-   "items": [
-    {
-     "id": "af7c466dcc17",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Vocal",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Mistakes to Avoid in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yc1hDclRGUnpvTkhrNlZSa09hUUJnTExoVzRvMW1wVnBvTi1iazJFQlpqVnNfcFpvZ2E4NVZtejM5NnFZUXhPdHBScWxtY2EzU2FNYVJmQnJhS003RXBKMWM1VQ?oc=5",
-     "ts": "2026-11-25T10:44:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "bb2102931588",
-   "title": "GTA VI hits 45.5M units sold in first 3 days",
-   "first_seen": "2026-11-25T10:50:50Z",
-   "updated": "2026-11-25T10:50:50Z",
-   "items": [
-    {
-     "id": "bb2102931588",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Investing.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI hits 45.5M units sold in first 3 days",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkFCZzhBeGNOUW81YkJ0OVFORFd3TGJMUkZzcWVSMm1NZlpMbjQwelVtWDZzYWVBd2pub0NYbERrbkFaZUpRS0h0amE0cWQyVmRab1JXNExERllrV082aHZOd0pYMzFUT2FIUjd2cHJWOUR5NUJZcFpKczVQOEZpQVRkTGdwUlpEeVptVVdKa3ZDUGxROVZJc3pxcU81VjdIN2c?oc=5",
-     "ts": "2026-11-25T10:47:26Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "9ef4f5ea9ee5",
    "title": "DA Davidson reiterates Buy on Take-Two stock, cites GTA VI dominance",
    "first_seen": "2026-11-24T11:50:51Z",
-   "updated": "2026-11-25T10:50:49Z",
+   "updated": "2026-11-25T11:10:54Z",
    "items": [
     {
      "id": "9ef4f5ea9ee5",
@@ -315,6 +187,45 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MRFlPYWdlQnBYdU9rcDZpbmVacE11MWVIR3NCdHFjdEl3MlJJMmFxUlk1bWxNdzk3aDdnNXNSZVAwTnJhbHVBNTQxVUtXVTg5MXdMRmYwWnBZN3VoZFBfZk1FY3hvc25GeWthRTdmekpZdmRvR1p5SUNkZw?oc=5",
      "ts": "2026-11-25T10:35:57Z",
      "summary": ""
+    },
+    {
+     "id": "6eb11008a8d8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rock Paper Shotgun",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails \"most ridiculous dumpster fire ever\"",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQa190THh3dkdCUFZpTDhvQWpJTkhUWjQya2lRLWFvTGItZTVUbzlIRFI5cnM4WGxsc29TX0MwVFU5U0VJTVZEQmdvTnprWHh4N2trNXdvRV95OGhfemhmS2RxQ1NBMWpFcVA1MVJ3V0NqeW9MU0M3ZFZxY2FheXg5bXh6WW5sYmYzaGg3R2lLLU1NMF9pZUhsNWVZYmo5MkY5eGpadDZ2dld6MW1zTE5rQV83ZHB6NGR3N2M1bTRiS3FsQmlqOWxBc1c4LTltTzg0RXhuQWVWSW5DY3pOT1RXejFnTklOOTQ0SzdZeC16cXFCb25YQjhlNjJMVQ?oc=5",
+     "ts": "2026-11-25T10:38:50Z",
+     "summary": ""
+    },
+    {
+     "id": "fdb3a28c987c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Фанаты запустили GTA 6 на ПК с трассировкой лучей, зачистка Take-Two не помогла",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDRfRGxTUkFzNFloNHlPaUtKcldTSzhVZVdjVXlzaUh2ejF0YU5qMWZnSWtGVEpjNUU2eHFGSk8yamF5Q0p6cElpeTRDQnVncWhGMGpJTmh4b2xaV0pRTGUwbVZQQWVEMGVDYm1VT3RkMUNnb1hlZVJfbi0zTVJsYXNGdlNPamIyajhVOS1VTXFkUnI5dVdfemE1amxabFhZXzVHN2U0amRsZ9IBrwFBVV95cUxPWWpZRlNPbW44N1JaalQ5bFZhY3VOOWd4WHJhS1lNN0ppSDZvWVhWYnNBN3k3S0VHYzhqdktydHpQZGdhTk1nX0JFOVZZYXdTXzF6bEZUZzM3aG1CQXp5RmdhQnpueDRTVVBXSzFQR3dmRzc1YmlaN3h2aGhuMUNFN3c3YzNvYVFLTXlQcENENnlIWHdmVHYyN0pGN1ZmSjdnXzJHQmY2Vll1cVFZemhB?oc=5",
+     "ts": "2026-11-25T10:41:39Z",
+     "summary": ""
+    },
+    {
+     "id": "e78ae35ed287",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MakeUseOf",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Fake GTA 6 PC installers are stealing accounts for a port that doesn't exist",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aUGpXNVUzTHdUYXIxNnRVcjZ1VGREUGVzamtITnRERGJLNENiR3RVZGcySDNuM3BJVW9xajhmaHdmM0ZQTlJYcHJsdkhTV3JZMU9VOTJYb3l1U0hTbXZWS3NoTlVtRzVKdTAtTmJIUFV1M2I5OEludQ?oc=5",
+     "ts": "2026-11-25T10:48:09Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -338,6 +249,860 @@
     "at": "2026-11-24T11:51:12Z"
    },
    "msg_id": 2113
+  },
+  {
+   "id": "11ea4e8430c1",
+   "title": "Мизулина заявила, что GTA VI показалась ей скучной",
+   "first_seen": "2026-11-25T10:50:49Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "11ea4e8430c1",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Общественная служба новостей",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Мизулина заявила, что GTA VI показалась ей скучной",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1E5ZjhhT0dDS1dkVU50MklST2xYNUVXbmxyMGh4aUZ0RmlSNmFfUnEtUDBvWmNTTUR5OVdIdUdjdEVjR29DQTBLNlhldEJrTUtIbVBqU0JYSGV0YlRfdThSaFEtcUkzejYwb1hhaFpRbVdrNkl6NDRERUZqZkM2R0dUbEhJSWxBUWJUd1NGTlE?oc=5",
+     "ts": "2026-11-25T10:42:52Z",
+     "summary": ""
+    },
+    {
+     "id": "ca698f4dbd36",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Общественная служба новостей",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Мизулина заявила, что GTA VI показалась ей скучной – ОСН",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXNRdkstZEZHMDloYkRCQVdhLUJXTzBCRUlULWtWREVjbXh3VWZSdmdrMlBLU0RadkQtSUN5UGYxNUNjaE93cXpteDNfbGtTS0I2Wi1LWS1XZTFIRHVXTVdjcWFRRHV6STg2NGFac0FEb3FfWXVHemlsamNKUWoxWHl4WkFGNHFDbnFsNl84SVpjbE1kanc?oc=5",
+     "ts": "2026-11-25T10:42:54Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "023c57e94674",
+   "title": "GTA 6 First Official Paid DLC Released For All Players",
+   "first_seen": "2026-11-25T10:31:01Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "023c57e94674",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ScreenRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 First Official Paid DLC Released For All Players",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yeWQxNU9YcDdjaEd5WUplYUloRHVwZ0xaTEhXRVRVSks5LTVfbGttSmxmR1ZDN2IyWnJLSVlrc0ZXNTBVeVYwM09YWjFFNFFkTFl4Y0tkQmV0UTdNQ3NSTUoyOXE3ektrVVpIZXVoYw?oc=5",
+     "ts": "2026-11-25T10:26:37Z",
+     "summary": ""
+    },
+    {
+     "id": "63ebd0131afb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "OpenCritic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 First Official Paid DLC Released For All Players",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQkRrS1d2QjRPaG1yb3pJVWlrNy05TjFKOS12T2FjMXl4WjRGWi1LaE10dlVTazJVaXloVmlRTF9zdWF1WldKdl9CaEpwU3N3cHBidmdhM2VjdWdxd195ZzRUXzFkbTU4WlM1S0gtaF9KTGVuNTg5aVA1MVQ5UWprQVBPYldjelNHei0zWEowc05HUQ?oc=5",
+     "ts": "2026-11-25T10:30:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Первое платное DLC для GTA 6 уже вышло для всех",
+    "summary": "Вышло первое официальное платное дополнение для GTA 6, доступное всем игрокам. Об этом сообщили ScreenRant и OpenCritic.",
+    "idea": "Короткий обзор первого платного DLC для GTA 6: что добавили и стоит ли брать. Зрителю важно понять ценность за свои деньги.",
+    "hook": "Первое платное DLC для GTA 6 уже доступно всем — что внутри?",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T11:11:02Z"
+   },
+   "msg_id": 2226
+  },
+  {
+   "id": "01f0c723b78a",
+   "title": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
+   "first_seen": "2026-11-24T18:20:51Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "01f0c723b78a",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
+     "url": "https://www.eurogamer.net/cd-projekt-red-cdpr-witcher-3-4-gta-5-6",
+     "ts": "2026-11-24T18:13:30Z",
+     "summary": "CD Projekt Red has said people can expect a similar qualitative and technological leap from The Witcher 3 to The Witcher 4 as has been witnessed between Grand Theft Auto 5 and Grand Theft Auto 6 . Read more"
+    },
+    {
+     "id": "a9b281ee88b5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Witcher 4 will be a GTA 6-like leap forward, CD Projekt Red says",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pakhlU0hUUE1YQ1g4VC1fTjR3eGZoLUEwUFhMVWxJSGQ0OXREZVFfbkNHMGp3S1Z4M0VLZW5ya2NiYXdqeTRXYXI4U3NsZU1YVC1yUE1XRmpLTHFlNGJUX2FuTmpiZXlvQmF5WFBidTRQRGlJWTlHSmRwNzd5WFE?oc=5",
+     "ts": "2026-11-24T20:10:45Z",
+     "summary": ""
+    },
+    {
+     "id": "2f58c3730f09",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
+     "url": "https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
+     "ts": "2026-11-24T21:15:26Z",
+     "summary": "CD Projekt Red expects a leap between The Witcher 3 and 4 that is comparable to the one between GTA 5 and 6."
+    },
+    {
+     "id": "69a6e45a10cf",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "CD Projekt RED сравнила графический прогресс The Witcher 4 с GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkQxRkxkZnVTT3FHM2tRUktUZTBiZUozUHdLVjFxa3VCYkRrb256aEJiVVlmQXJxajhVdFZ2aThmLVRDS2xHUlppTkExMnpoWDF5RU5idDRVUGhDcnJmLVBScG91S01ma2pCSU91djN6N21USVpnMlROeUViblVHTFZ6cGhpM3NWZ0hleG9pY1Vha3I4SWo4Nl9rV0pEQQ?oc=5",
+     "ts": "2026-11-24T21:40:43Z",
+     "summary": ""
+    },
+    {
+     "id": "8b090c12616c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUDVqQ0JTUUp4WUtVSS13YWF5NHdQLWhUMVlkSEYyNXI4Umt5X01UVTJYd21GTHd2T285c2FIRzBVRUxxODhLQmRSZG9WQkJ4TUxPZVd2RWx0Zkd2LUxkZ3FSb0FTSmQ1QVVDVjJsNi1ac3EzQjFnZ0xzZ1B4R09rcERwblktc3JvUmdDOTYtSG9sdTJraS1NVWlEM281aGh6S0R6Mm9DbEVWYVdWNnlGTmx3RVN0Tmo3YmJPWG9vTk0yUmNxWXY4TzNwcmpudFFESjZBRnIzSWxvdw?oc=5",
+     "ts": "2026-11-24T22:03:34Z",
+     "summary": ""
+    },
+    {
+     "id": "bb294d1fae7b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TweakTown",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Witcher 4's evolution similar to GTA 5's leap to GTA 6, CD Projekt says",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnN6QXo5UXFmMVk1NlJvRk80c09SR3loczFkdzExbE1xdHRSaEMzaGY2VTNZVkF6TXAweVZBOHJQWVMwN3huTUFoWmpVV1BjMDF0dHFJaEpJaXVveXp4VVByODd1Sk9Fdzl2Qlp3WXh3QWhNT2RfdW1raEhqeG5XLXRIV0xTMWlGMGZBZFJaSElUNV9HQkU4OEhMNXVtbUV6ZVVYdWFhZXNlWlNqamJ4MlFPNkxsVW53?oc=5",
+     "ts": "2026-11-24T22:53:11Z",
+     "summary": ""
+    },
+    {
+     "id": "a8fa2d25d925",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TweakTown",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Witcher 4's evolution similar to GTA 5's leap to GTA 6, CD Projekt says",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZWhtTXdpT0dYTlRXMDJZZXhGQzZrNDR4LXUzSkRoeC03UjQzQlpQQ1FjSUs3dTFDUUt0VWdONDNoV1JwODlidU01T0VBRThiQUpqd0s3LVk1alNRazUydm9na1BRLVJ3NkdBczVDTHR2YXpON3YxLUEtS2cwVVQtcVNZLS1GS0k2dkZqdDFlT1dCZThZQXlxYzNjNWNfbTVBbHVuSTJlT3FGNEpEOXlWbkdaS3BTZldQMnl3UGV3cmZjVDVUYUp3WlJuR3Q5N0hQMGotcnhnYllWV1VCaVVKeS1KZHJnTEZYS0RmUXFXaXVhZ0c2WXBOcGtYYmpyZw?oc=5",
+     "ts": "2026-11-24T22:53:11Z",
+     "summary": ""
+    },
+    {
+     "id": "86fa2bcf65be",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "CD Projekt сравнила технологический скачок The Witcher 4 с переходом от GTA 5 к GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWJvWHBDbGl2dGJ4WmtzR0hCc1kyN01Yb3A3d05RTWwzLTVUOEptajlFVkRJeFFGZDNpakZIRzZ0MjcyeE1lOTlQLVZydV92cVBfakZTSVNDTTdGOHZHUkc1RkJ5c01iNmNMbG4zeFZ3THBMdjgxaEp0WjVYYk5NYXRLZGt0czVPVjAzNVdYc1Rfd3NNWHRXblZuS0stUjJFYWktS3BubzYwVFQxR2dzZE9GXzE?oc=5",
+     "ts": "2026-11-25T10:09:37Z",
+     "summary": ""
+    },
+    {
+     "id": "5d28f0aa475a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Push Square",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0N3dTlFUVJlWlFUenJPSXpsQ1dValpPTmp5Y21nTkZCZjJCQm9MSDEtOVRQNFJ3b1NWMW9WaGEwU1ZtWkNIc3RoejJFbGdKR2EwX2xHSWQ2ZU5ZVGR1TUhmaFpreGZhNzBiR25GUTVocVhUeHN3R3hjdlBBNlJVVjJlcFFHWG0xODBqN1plWlNOdWk2OWliQnhYVUVPNEpsUnRiZEtOTHk3R2s?oc=5",
+     "ts": "2026-11-25T11:01:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 95,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "CDPR: скачок Witcher 4 как между GTA 5 и GTA 6",
+    "summary": "CD Projekt Red заявила, что технологический скачок от The Witcher 3 к The Witcher 4 будет как между GTA 5 и GTA 6. Об этом сообщает Eurogamer. Компания обещает заметный качественный и технологический рывок.",
+    "idea": "Сравниваем обещанный скачок Witcher 4 с тем, что мы уже видели в GTA 6. Зрителю интересно, станет ли Witcher 4 таким же «next-gen», как GTA 6.",
+    "hook": "Witcher 4 обещает скачок как между GTA 5 и GTA 6 — что это значит?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T18:20:55Z"
+   },
+   "msg_id": 2164
+  },
+  {
+   "id": "f78ae66e8833",
+   "title": "Meet Dylan Rourke and Manni L. Perez aka Jason and Lucia in Grand Theft Auto VI",
+   "first_seen": "2026-11-25T10:11:05Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "f78ae66e8833",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "South China Morning Post",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Meet Dylan Rourke and Manni L. Perez aka Jason and Lucia in Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVzU4RjhUUVF5a0JiUmk0SHNSQkxKRWNCV1hPdzVnb09vQ1liRnVrcTZaQ0g1S1hLZWFzM3AxaGp2dVJwbzdzWl9HYmZ6cHlKTDRRWkYtejRwZExiX0t0V1ExMm5WWUx6UDN6MjRkWlI2dFJ5SldJVXBWUEtZc001OTNiaThKVjZ5WVVfanFZMHIyS3pPVmRzVzh6bXRZbWdNZXBxVzFwblRsMWM5ZDRxaUJjVjZiTzFtU2o5Zk9uZnRBTXBqaG1fUzVvb0s3WGVsWlBzakthU01nN255VGtCb0lfRlpMc2RGUGNIdDlJeVp6bXFwdUFselhSODBmVXluenl1Mk41VHZNM0tTbGc?oc=5",
+     "ts": "2026-11-25T10:00:08Z",
+     "summary": ""
+    },
+    {
+     "id": "85a6a4092480",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "South China Morning Post",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Meet Dylan Rourke and Manni L. Perez aka Jason and Lucia in Grand Theft Auto VI",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOWQ1Yk9fRWdaeGNMUWhBUEtndjJmVkg2TnBsc0ZySURPSGZYVDFfOWxkbWoyc0JDNzlycW93MVI2RExZbDdiS0dYWmFhZFNfQlU0Y3ktUFFkRU1Memw4SWZFVmhSb0pQUGlvVEhVRTd2U2REaGFoNlk5aDYzenp0YVhycDEtOU1xNk5XQ0xXTXVPa2p0M2pIN25pXzcyYkN3aE9GVEdJNzNwNDF1NlltelFidnZuU2hsbGVnd1pveS03Yk83enkxT1YweWNCVEZYbkJjU1ZQa2s4NE5BQUNUTVJyeWNwemVzZUhuWWNQa0FJNTJQTUpFU0htdDdOQdIB_gFBVV95cUxNdHduLUh3SWNYNjR3bzZrbmwyaDBGdmpSTUNzYlh4UlE5NUJpZ0lFQ2ZtSzZJemlxcDdmSTF5SWwyR0lJRHBOMmpkZnA3ZF9SdTJOSU1FbGszSnJJU2VhbjAxNEJNWlZya2NkT0s2S3FtTWhHWkt0LUVlU2szSWc3SW1JSEJKcC1IVndTRXdfcXlxZjRjeFNJeEh4dlBRNzZldGVQZnV5NEszUm9uUFUtc1g0ZHlfV0hXU003R011QV9DeXRHVFlzY0pTdk1nUEhUbnJ0TWZvUzBDQ3VWRmxyRTJjX1ZYemk3U1g3S0pDb2lFWDJSYTV3WmpMNndOUQ?oc=5",
+     "ts": "2026-11-25T10:00:08Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "469f8b98b153",
+   "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
+   "first_seen": "2026-11-24T17:11:07Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "469f8b98b153",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 runs smoother on Xbox Series X than PS5",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGpvLVM2YU94UGk4SS1lQUlERUlIV2NTRllNWmZLYWw2Uzc3T0VmS2pnSkwxQllWRFNxdGJHb19SR1FLMmIyYnNhMmhZeUJzSG42VDk4eFJiS1dEZlNSb2g1NUp0R2phZ0p2SDlMYi1WQlV3eWdVUm5DUXZfTjJ6V1FaRElicmlCYWgydmFCTzI2VGpnQVhj?oc=5",
+     "ts": "2026-11-24T17:00:03Z",
+     "summary": ""
+    },
+    {
+     "id": "f1f50e744477",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 работает плавнее на Xbox Series X по сравнению с PS5",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakdfci1rT0NkVDFmR2VZLTBuMV9LRkNoeFFFVmw4dzBnSm1SZzVKZ1NPNGdzTDYyNndERkVrMjJ5TGM4OTE1WXdUX3Q4aXJZU241SGZueWZ5Mi04eERodzdub2FjczlsMHl1eU1SQ0xiR3lkWUpnalhLYVlES2hLT2lFZVBsRkJnRkRCUXhrbjFlTVk?oc=5",
+     "ts": "2026-11-24T17:00:03Z",
+     "summary": ""
+    },
+    {
+     "id": "128f81ce5edd",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
+     "url": "https://insider-gaming.com/gta-6-runs-better-xbox-series-x/",
+     "ts": "2026-11-24T22:51:38Z",
+     "summary": "After extensive testing from Digital Foundry, it's been found that GTA 6 performs better on Xbox Series X compared to base PS5. The post GTA 6 Runs Better On Xbox Series X Than Base PS5 appeared first on Insider Gaming ."
+    },
+    {
+     "id": "44c84f80fa93",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnS1VRS1FmMXJhQU1rYzJ2VWdsc3hGUFg0QWNubGUwTFZUMERqWGtoVnVTVWo3ZTFoOTIweDREQ1o2YXlJRGNERDJnMmNkaHl0TzFIN1NZRVVaQ1IzcHcwVU1VWGd2N29YbGNn?oc=5",
+     "ts": "2026-11-24T22:51:38Z",
+     "summary": ""
+    },
+    {
+     "id": "ba84c3702396",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Windows Central",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 runs better on Xbox Series X — a huge blow to the PS5 and Sony",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV211azFoZ1gtd19WbGRtLTBlLXotcUlCd0RQcF9OVWJpT2xoRW5vQXNibXpaVWY4b2R1ampSNFRDMHV5UXRteDIxVWdwVzhSYVYxOGo0V2x1Y18zcDBmNEplUTdvaDZwd0VfOFJHQW5lNl8tb0UxeDRlZlNvZnVkMHY0Qkl5eTJQNS01bW5jWE9Td0VXMGNFZnZBVFQ?oc=5",
+     "ts": "2026-11-25T00:02:08Z",
+     "summary": ""
+    },
+    {
+     "id": "1c312a1aa133",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TweakTown",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 runs better on Xbox Series X than PS5 despite Sony declaring it 'plays best on PS5'",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPLWpvSHhRQTVvTE01NmktZ0JSdEFZRXh4bjAzUWszWTNDZXZfSjFEV0NlbGFtbTBVUUZGdEhhWUpZcmVNX1JWeTZFUGo2VnlZamM4SGNPU3JMQWZwVVBwN182QTlySG50TnFIVWRRNHczNHdROWRXTjlvdzI5SGFTX1BSWlk2Mmx4YW95a0FKa0x2R25wQkhpZVVvN1dGVUhPRW1WMnZsVUlrMGhpVzhfMFpxcU5IRWJqT3lNMXpoelpGZWhudlJnaVpiRFhJb29vQ000NmlPT2p0VXdyUEx5MG9mdHp3Q184SzNUN2JxTGw2U0dpNmQtQ1QtTllFR2hqeEh0Y3hMRzlybjhyZXVpN0VvVzdlWDQ?oc=5",
+     "ts": "2026-11-25T08:32:02Z",
+     "summary": ""
+    },
+    {
+     "id": "ba3caa16b59b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TweakTown",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 runs better on Xbox Series X than PS5 despite Sony declaring it 'plays best on PS5'",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS3owU19VekNBYVJOaWFLSHJNQ0dfWm44SVpObVhRLVpBRHNzR0hWYmpKcFRpZE9XdVd6OFczRkpNanhvVFU3SVBWVDhROExmc2lub2VQU0MwWktMUTZwNUd0Uzl5RmZxZlJmTDNETTI0ZG1GWENtMkIzVkhJSm42bHN2M0RKaDM0UEdBSmo3Q1habXRBalpScmw0bGZqeElEWWVBbk1OVWlnQzNRSjQ2Xy14N2FjZXpUNFJEbXZGYjZaRGtyY01qSTdPTlp4Q0RlNXc?oc=5",
+     "ts": "2026-11-25T08:32:02Z",
+     "summary": ""
+    },
+    {
+     "id": "7118e2c33f6a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA VI на PS5 работает хуже, чем на Xbox Series X: результаты сравнения консолей",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVJaOFl5UmtQN3JUWWx3VU9FQUQtdFVUYWNtOTdsbHNDRmNfNmgwUS1Bd0gtUzBmVTdMLWZUX1VpclJ4MGFpUHQtNHpHUlpNb1pDSE5lZUdRZFV4RGQ4cmxpRC16cUVvNzBuOVYyOXkwcnVGNFRVUjNCQXYyWExVaWRrUVh6TlNrclB1eXhRN25RT3Itdk1RRFlDbzZBLXVuSEw3WjF1R3MtOTVrU3lpVTVVUzFuQ09HX0HSAb8BQVVfeXFMUDlCS1p5Nk5PZzdjZ1kzeGNiS2VzZE5GN3hvVzBTN05yVzdaTnpLcWdUcVZNX3l0V21uUU5rNFY2eWtYOE1jemkxS3ZyYlNTQ3NGRHQzdzFSRjZRY3h6WFZvV085dGNOVFAyRkFVS1lKSmZNT0ZWRU10S3lJNzBLLUhmREJadEZwZ0M1VGNwaFMwV2ctX3RLc2ZBSUxFM0V6ZUNJbkdOQUdUeG01c0VIM3hhbzRfbHE5VS1VbmVETnc?oc=5",
+     "ts": "2026-11-25T08:03:00Z",
+     "summary": ""
+    },
+    {
+     "id": "43e94a6002db",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Instant Gaming News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI runs better on XBOX Series X than on PS5",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNzVOUE5zQjlrM2lseFM0dHBLV25ZM0RGNldBRTFHWHM3T3N5VkZjeUxZSEZqeFpOeWx1dWY2MTdRNmNCbTVUWWRwdDI1LWpjQkxsMnpFZjFNSnRCNWF6NV9ZR0o3YS1ISU0wNTl4Vi05WnNxQjB2eWRkd3V5dktJcFhYTXJPOE50bF8wNWlBMm5yY01UdzVUM1Bja0t0QQ?oc=5",
+     "ts": "2026-11-25T10:54:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "69e18059662d",
+   "title": "GTA 6 30 FPS Cap: Leaker Claim vs Rockstar's CPU Case",
+   "first_seen": "2026-11-24T18:10:57Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "69e18059662d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "shattered.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 30 FPS Cap: Leaker Claim vs Rockstar's CPU Case",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHpaY2Vtc2o4VnE4MWpxamw1UGVFTF8wMUxzaHZ6M2xKU2hzaDY1TUxocDFiY0NTcHoyakFRa1Qwcnk1ZHFtMDNtS2pRTHFsNG5adV8wTFJIbzN2bXA1QW1HV25HLVBKaUh6LXVIRlhGSEVQU0FRMXVuUFdEX01JNUljUENkQQ?oc=5",
+     "ts": "2026-11-24T18:01:24Z",
+     "summary": ""
+    },
+    {
+     "id": "4b0cd7468011",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Leaker suggests GTA 6 could run at 120 FPS on Xbox Project Helix and Sony PS6",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOczFuRTRTWkYzZUJ4RnZXNGx1eEtJS3B6V1RKUDVGdlZCLU85ZnNIdmFmQ08zRmRkSlFXSHBQLWIzajRvd3pQMWRkVnJpNWl3YW9HMXdrbWtVQm5NYjdEbnpuRTNkZWRsSXRBWmNyT1NPTlFPS3JNNFZ4X19FRzc4SXVRNzVfaVBnNmZUTTlhbDR3WEc3OGhHUm5WYzB6VV9YdTUxRTZESE85ZDh0bVkyTzdmN09ZaHByZC12VFl6dw?oc=5",
+     "ts": "2026-11-25T10:52:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 73,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Слив: GTA 6 на 30 FPS? Что говорит Rockstar про CPU",
+    "summary": "Неизвестный сливщик утверждает, что GTA 6 будет заблокирована на 30 FPS. Rockstar объясняет требования к процессору особенностями симуляции открытого мира.",
+    "idea": "Короткий разбор: 30 FPS — миф или реальность? Показываем тезис сливщика и ответ Rockstar про CPU, чтобы зритель сам решил, кому верить.",
+    "hook": "30 FPS в GTA 6 — правда или пугалка от очередного сливщика?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T18:11:08Z"
+   },
+   "msg_id": 2163
+  },
+  {
+   "id": "8ee44e54b6b5",
+   "title": "All the Drama: Jensen, GTA VI, and the Thanksgiving Box Office Show",
+   "first_seen": "2026-11-24T17:40:55Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "8ee44e54b6b5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "All the Drama: Jensen, GTA VI, and the Thanksgiving Box Office Show",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXQza2lac1hmUUZRTHNBZDBQNWZVVDNzUmhlWEJ3X3VXcWJGMGdLdkQxU21XSmhnQzc3UU54WmMtY2dzRTRneDZpcldxYmNRWE56YmQ3WjRNMGU3LXI3Ym81T1pfbnBTSWtjTUtCSzlMLUhkbWFHQ0pDeW5uQURueE1md0ZZOUxWeVlXWVMyOXgzMFRWSFVXS0dVTGEyZWlIZlE?oc=5",
+     "ts": "2026-11-24T16:31:14Z",
+     "summary": ""
+    },
+    {
+     "id": "8a5b4f0447f1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Seeking Alpha",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "All The Drama: Jensen, GTA VI, And The Thanksgiving Box Office Show",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0FaUUMyY1laNnR5blNLaDBscS0yUWhfMWF4ejkwZDdHTkUxSGhGZHJzbzIyMUlWTUEya0o2cDM3WGtxZktXV2NHeV9IdXI1TjZGNjM1bHl5M1dYNThNUjZuR3VzY0RocUdDdUNZVzN4RUR4SHA1QjdxSzF4S3R4SENTM1A3dHRyQ2k0X3pEMGg4OVhhMWU3b0JqZmoxQQ?oc=5",
+     "ts": "2026-11-25T11:05:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "7c3dc719b879",
+   "title": "GTA 6 laptop password: How to unlock the laptop in Boobie's apartment",
+   "first_seen": "2026-11-25T11:10:54Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "7c3dc719b879",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Radio Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 laptop password: How to unlock the laptop in Boobie's apartment",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKYnMxRVZMbGlma3FZNmItb216NWhlcmQ2YXYwRVcwOXZ2MlVmN1JqUEdyZ2M1WklWNzRNaVdvdi1XUDhyQm1ZS3FvUG5lZ3l3RkR4TWtCejRld0R0NE0tazM4emtpbWJub0taeUJKdFZUQVNRR2c?oc=5",
+     "ts": "2026-11-25T09:49:44Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "14938a8ce506",
+   "title": "Classics Such as Soulcalibur and Zelda: Ocarina of Time Are Being Review-Bombed on Metacritic to Drive Up GTA VI Scores",
+   "first_seen": "2026-11-25T11:10:54Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "14938a8ce506",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Time Extension",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Classics Such as Soulcalibur and Zelda: Ocarina of Time Are Being Review-Bombed on Metacritic to Drive Up GTA VI Scores",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYlk2Wm1PX0NGN01KT0twR2N2eUFoakd6VHY3TlhKQlhqWUVSOWRRa2VvV3JCRjBqdU01U1VtUEJCQlM4ejN3LWN4LW9aQ21JQVlWRm9VZkJFZmo3eXBaR2JJMDdfS1BNSkhOTE4za0lMdWV2MlJGRUkzbFJBbl9PQ3JacWtMcmpMZHllUENsSzRGN2ZrNTNYWnBUQjMyWE1tMW53OFJESzgwTHpWbGtEWlF0UWJVY1hOU3VMNHc1bm1XdmRiWm5JUUFZaTZmd1d1OEtMWHBUdmxRbExuZTlrS1RpRXh1a215Tk5DbUVwNFBuems?oc=5",
+     "ts": "2026-11-25T10:40:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d13c88676d0b",
+   "title": "Три часа и пауза: Как не «убить» игровую консоль новой GTA VI",
+   "first_seen": "2026-11-25T11:10:54Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "d13c88676d0b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Национальная Служба Новостей",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Три часа и пауза: Как не «убить» игровую консоль новой GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcS1JTmdXNzdrd0IwX1Q4OUxqTHNiN3RWTDByR0lpOXNqSUp0SU9JZzF4XzB0LUFuak04OXVWeW9JUjFaQ1R4RzRMSnFRUHNzd0dXZG1CRFB4SmtJc2JvWU04X1pzemh2c0ZfLTNNakNQRzgzTmRhcUQzZlFZUlJZeGdvTTVrYTBMVEM5akprdW9LN19SZDFvUDVydk7SAaIBQVVfeXFMTUhob2tVellBZGtwTE9iOFRnVWpubGpSQmo3RXFISXdidWllTXBvSHJJM214TEgzdkhiSng0ZWlTRDVVZGM2N3lOMXNRVW12TTBEZWlqLXZqeVJnTjR3SUZHM2p1b1JDYTIwbzBHRFdNNjNpTm9ZdkpwbnE4MHZJRWN0NWtrZThBZ1pvN1JuYXNnaWVrQXZGWUZ1U3RmVlpPS19B?oc=5",
+     "ts": "2026-11-25T10:42:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ba7cf8408dbb",
+   "title": "Is Taylor Swift in GTA 6? What the official soundtrack reveals",
+   "first_seen": "2026-11-25T11:10:54Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "ba7cf8408dbb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "RouteNote",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Is Taylor Swift in GTA 6? What the official soundtrack reveals",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN25QRXVkMC0tOFljNTR0VVNEajZOVDZTcXVkdDRTSlVKb1Y4UFF1MDRYbm9VbUJtekYyd0JmejY3dDlkZkVlZnIwRFpQZUppLWZvN2oyZUhyc085SnItSkdTaXdwR040bUJxTllIRHlsNzRrVkZWeVVmTnNwUVFnaHFnQWJtOVdHalRNT19IdkhrZzVO?oc=5",
+     "ts": "2026-11-25T10:50:59Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "84e363d6c61d",
+   "title": "The best GTA 6 Easter eggs, from Mario hats to time travel",
+   "first_seen": "2026-11-25T11:10:54Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "84e363d6c61d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Creative Bloq",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The best GTA 6 Easter eggs, from Mario hats to time travel",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORUs4cHVOSTNFa1NmcC1GWE9OblFQeTJxMUlUQzNMbWpRT3VJWHVwLWp4aHQ5RlB6Y1ozOVYtalFkWk5nblE4bm1Na3FFSXI4MkJTSF9vVms2cHNqdUp3Q2JoVmJVc2ItZW9oTy11N3haUFRsNEROb2ZxRFRPdGotUGtpQlJLUGd6X2xucm9ZeHI4em53OGc?oc=5",
+     "ts": "2026-11-25T11:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "856ac79c27fd",
+   "title": "The Witcher 4 will borrow from GTA 6 as it locks in exclusive 'plays best' partnership",
+   "first_seen": "2026-11-25T11:10:54Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "856ac79c27fd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GAMINGbible",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Witcher 4 will borrow from GTA 6 as it locks in exclusive 'plays best' partnership",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTBZUF9MQ2ZFYkdTRG1DMjBISWhHZU5UOWlpRzYzU1d2aHBMZXVVcWpuZFRQVmd4OVQ5eWoya21QTEFYOU9VWGU3X0I5RFhvODkySnBkZl9GVEh3dlFPV2NYMGdxWE5md1R4ZnZGdXVOMW4tSVpOVzcteDluX2pqY2NoRUUtRW1uYzBJb19WN1VnNUFHaVR4MHJ4Rk1PbGlwVkFMLTlsRzVNSGJGZWc?oc=5",
+     "ts": "2026-11-25T11:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "97e59aff5d51",
+   "title": "Фанаты Bethesda шутят про движок GTA 6, в котором анимации и физика до сих пор привязаны к FPS",
+   "first_seen": "2026-11-25T11:10:54Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "97e59aff5d51",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Фанаты Bethesda шутят про движок GTA 6, в котором анимации и физика до сих пор привязаны к FPS",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0tXdTZwZTg1T3JoVndjZzBfOG00REdsLWpxTnF0U0tZYkxnRGs0T1p0S3RFcUV4OTFvdWdJWjVJWG50Q1U5cVdqbUpmbHlRaGlJazVrcVhscjJqQVNkQkJoMGRnUXpKangzVHV4UHl4V3ZJWVhxY2JlbTJKc3E1Y1h5STJYdEx4LTdMSUhxMXhkQ1NWSTZXLWlwby1tZWVXNWg1RzVQVk9mbEp0THV0RkU4aUxMUWRjQWM5WkxQSzhhNnVhOE5PZjhuRQ?oc=5",
+     "ts": "2026-11-25T11:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "d0f2c0af172a",
+   "title": "Калининградская бодибилдерша стала прототипом персонажа в GTA 6",
+   "first_seen": "2026-11-25T11:10:54Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "d0f2c0af172a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "kaliningradnews.online",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Калининградская бодибилдерша стала прототипом персонажа в GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UbUN6d3Z1clhRa21NX2Y2MmRZTlhSdDhSbVZ1MWlycTBDVldtb0dFM3lRT3RZaW1KUVR5YzBmdnp3Q2ZJcFlpTEQxeHFJT2d0QndSRVFrcnVsUQ?oc=5",
+     "ts": "2026-11-25T11:02:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c5cccd9455b4",
+   "title": "Психолог объяснил неприязнь мужчин к заботе на примере GTA 6 | ОТВ - Новости",
+   "first_seen": "2026-11-25T11:10:54Z",
+   "updated": "2026-11-25T11:10:54Z",
+   "items": [
+    {
+     "id": "c5cccd9455b4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "obltv.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Психолог объяснил неприязнь мужчин к заботе на примере GTA 6 | ОТВ - Новости",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkw4MlRIakZyUlNGcFV2R0Y3ZnJEd2cyS0lXenQ0NVJLSmJOSWdqaVRJbjMzdE1scVpKUGl2VFdNd1FfTU8tTmJwYmdvU2FiTVc1N2MwZFJ1SjMwMnRyc1g0U1lXQXRqUmc2dDhkal9yYkUxSlJ1QWZQMmFyUUI1QWZpejVHX2JOTHc2VmlhbHRMRW5W?oc=5",
+     "ts": "2026-11-25T11:04:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "289e3b9dd70c",
+   "title": "GTA 6: How to flip a car in Grand Theft Auto 6",
+   "first_seen": "2026-11-24T22:50:55Z",
+   "updated": "2026-11-25T11:01:16Z",
+   "items": [
+    {
+     "id": "289e3b9dd70c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How to flip your car in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14Znhsdk1qU0RsWW0wSGZLejh3TFBib3NFR3k2XzFDaUh4YlVXLXhEY1d6WDhIQ0Zhck9DTzVVQVZyQkpHcTJ1TWpWdm02bXo4TkhWU0Q0WndVQQ?oc=5",
+     "ts": "2026-11-24T22:27:23Z",
+     "summary": ""
+    },
+    {
+     "id": "4da3e0bf6bf7",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6: How to flip a car in Grand Theft Auto 6",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-how-to-flip-car-grand-theft-auto/",
+     "ts": "2026-11-25T10:51:12Z",
+     "summary": "How to flip a car in the open world and reset your car in races in Grand Theft Auto 6"
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "314682169cf2",
+   "title": "GTA 6 Company Property walkthrough: How to save the weapons cargo",
+   "first_seen": "2026-11-25T11:01:16Z",
+   "updated": "2026-11-25T11:01:16Z",
+   "items": [
+    {
+     "id": "314682169cf2",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Company Property walkthrough: How to save the weapons cargo",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-company-property-walkthrough-how-to-save-the-weapons-cargo/",
+     "ts": "2026-11-25T10:53:37Z",
+     "summary": "How to complete Company Property in GTA 6"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Миссия Company Property в GTA 6: как спасти груз оружия",
+    "summary": "По данным VGC, в GTA 6 есть миссия Company Property: нужно спасти груз оружия. Издание описывает условия и цель задания.",
+    "idea": "Короткий гайд: как пройти Company Property и спасти груз оружия без провала. Покажем 2–3 ключевых шага.",
+    "hook": "Застрял на Company Property? Вот как спасти груз оружия за минуту.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T11:01:22Z"
+   },
+   "msg_id": 2225
+  },
+  {
+   "id": "af7c466dcc17",
+   "title": "Mistakes to Avoid in GTA 6",
+   "first_seen": "2026-11-25T10:50:50Z",
+   "updated": "2026-11-25T10:50:50Z",
+   "items": [
+    {
+     "id": "af7c466dcc17",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Vocal",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Mistakes to Avoid in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yc1hDclRGUnpvTkhrNlZSa09hUUJnTExoVzRvMW1wVnBvTi1iazJFQlpqVnNfcFpvZ2E4NVZtejM5NnFZUXhPdHBScWxtY2EzU2FNYVJmQnJhS003RXBKMWM1VQ?oc=5",
+     "ts": "2026-11-25T10:44:23Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bb2102931588",
+   "title": "GTA VI hits 45.5M units sold in first 3 days",
+   "first_seen": "2026-11-25T10:50:50Z",
+   "updated": "2026-11-25T10:50:50Z",
+   "items": [
+    {
+     "id": "bb2102931588",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Investing.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI hits 45.5M units sold in first 3 days",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkFCZzhBeGNOUW81YkJ0OVFORFd3TGJMUkZzcWVSMm1NZlpMbjQwelVtWDZzYWVBd2pub0NYbERrbkFaZUpRS0h0amE0cWQyVmRab1JXNExERllrV082aHZOd0pYMzFUT2FIUjd2cHJWOUR5NUJZcFpKczVQOEZpQVRkTGdwUlpEeVptVVdKa3ZDUGxROVZJc3pxcU81VjdIN2c?oc=5",
+     "ts": "2026-11-25T10:47:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
   },
   {
    "id": "6f66741228ba",
@@ -431,32 +1196,6 @@
     "at": "2026-11-25T10:50:54Z"
    },
    "msg_id": 2224
-  },
-  {
-   "id": "11ea4e8430c1",
-   "title": "Мизулина заявила, что GTA VI показалась ей скучной",
-   "first_seen": "2026-11-25T10:50:49Z",
-   "updated": "2026-11-25T10:50:49Z",
-   "items": [
-    {
-     "id": "11ea4e8430c1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Общественная служба новостей",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Мизулина заявила, что GTA VI показалась ей скучной",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1E5ZjhhT0dDS1dkVU50MklST2xYNUVXbmxyMGh4aUZ0RmlSNmFfUnEtUDBvWmNTTUR5OVdIdUdjdEVjR29DQTBLNlhldEJrTUtIbVBqU0JYSGV0YlRfdThSaFEtcUkzejYwb1hhaFpRbVdrNkl6NDRERUZqZkM2R0dUbEhJSWxBUWJUd1NGTlE?oc=5",
-     "ts": "2026-11-25T10:42:52Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "2fd65e178399",
@@ -1086,32 +1825,6 @@
    "status": "new"
   },
   {
-   "id": "023c57e94674",
-   "title": "GTA 6 First Official Paid DLC Released For All Players",
-   "first_seen": "2026-11-25T10:31:01Z",
-   "updated": "2026-11-25T10:31:01Z",
-   "items": [
-    {
-     "id": "023c57e94674",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ScreenRant",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 First Official Paid DLC Released For All Players",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yeWQxNU9YcDdjaEd5WUplYUloRHVwZ0xaTEhXRVRVSks5LTVfbGttSmxmR1ZDN2IyWnJLSVlrc0ZXNTBVeVYwM09YWjFFNFFkTFl4Y0tkQmV0UTdNQ3NSTUoyOXE3ektrVVpIZXVoYw?oc=5",
-     "ts": "2026-11-25T10:26:37Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "8b83297a3fa4",
    "title": "GTA 6 Boobie Time Walkthrough to Recover the Cash and Unlock Yasmani",
    "first_seen": "2026-11-25T10:31:01Z",
@@ -1424,134 +2137,6 @@
    "status": "new"
   },
   {
-   "id": "01f0c723b78a",
-   "title": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
-   "first_seen": "2026-11-24T18:20:51Z",
-   "updated": "2026-11-25T10:11:05Z",
-   "items": [
-    {
-     "id": "01f0c723b78a",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
-     "url": "https://www.eurogamer.net/cd-projekt-red-cdpr-witcher-3-4-gta-5-6",
-     "ts": "2026-11-24T18:13:30Z",
-     "summary": "CD Projekt Red has said people can expect a similar qualitative and technological leap from The Witcher 3 to The Witcher 4 as has been witnessed between Grand Theft Auto 5 and Grand Theft Auto 6 . Read more"
-    },
-    {
-     "id": "a9b281ee88b5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The Witcher 4 will be a GTA 6-like leap forward, CD Projekt Red says",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pakhlU0hUUE1YQ1g4VC1fTjR3eGZoLUEwUFhMVWxJSGQ0OXREZVFfbkNHMGp3S1Z4M0VLZW5ya2NiYXdqeTRXYXI4U3NsZU1YVC1yUE1XRmpLTHFlNGJUX2FuTmpiZXlvQmF5WFBidTRQRGlJWTlHSmRwNzd5WFE?oc=5",
-     "ts": "2026-11-24T20:10:45Z",
-     "summary": ""
-    },
-    {
-     "id": "2f58c3730f09",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
-     "url": "https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
-     "ts": "2026-11-24T21:15:26Z",
-     "summary": "CD Projekt Red expects a leap between The Witcher 3 and 4 that is comparable to the one between GTA 5 and 6."
-    },
-    {
-     "id": "69a6e45a10cf",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "CD Projekt RED сравнила графический прогресс The Witcher 4 с GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkQxRkxkZnVTT3FHM2tRUktUZTBiZUozUHdLVjFxa3VCYkRrb256aEJiVVlmQXJxajhVdFZ2aThmLVRDS2xHUlppTkExMnpoWDF5RU5idDRVUGhDcnJmLVBScG91S01ma2pCSU91djN6N21USVpnMlROeUViblVHTFZ6cGhpM3NWZ0hleG9pY1Vha3I4SWo4Nl9rV0pEQQ?oc=5",
-     "ts": "2026-11-24T21:40:43Z",
-     "summary": ""
-    },
-    {
-     "id": "8b090c12616c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUDVqQ0JTUUp4WUtVSS13YWF5NHdQLWhUMVlkSEYyNXI4Umt5X01UVTJYd21GTHd2T285c2FIRzBVRUxxODhLQmRSZG9WQkJ4TUxPZVd2RWx0Zkd2LUxkZ3FSb0FTSmQ1QVVDVjJsNi1ac3EzQjFnZ0xzZ1B4R09rcERwblktc3JvUmdDOTYtSG9sdTJraS1NVWlEM281aGh6S0R6Mm9DbEVWYVdWNnlGTmx3RVN0Tmo3YmJPWG9vTk0yUmNxWXY4TzNwcmpudFFESjZBRnIzSWxvdw?oc=5",
-     "ts": "2026-11-24T22:03:34Z",
-     "summary": ""
-    },
-    {
-     "id": "bb294d1fae7b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TweakTown",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Witcher 4's evolution similar to GTA 5's leap to GTA 6, CD Projekt says",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnN6QXo5UXFmMVk1NlJvRk80c09SR3loczFkdzExbE1xdHRSaEMzaGY2VTNZVkF6TXAweVZBOHJQWVMwN3huTUFoWmpVV1BjMDF0dHFJaEpJaXVveXp4VVByODd1Sk9Fdzl2Qlp3WXh3QWhNT2RfdW1raEhqeG5XLXRIV0xTMWlGMGZBZFJaSElUNV9HQkU4OEhMNXVtbUV6ZVVYdWFhZXNlWlNqamJ4MlFPNkxsVW53?oc=5",
-     "ts": "2026-11-24T22:53:11Z",
-     "summary": ""
-    },
-    {
-     "id": "a8fa2d25d925",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TweakTown",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Witcher 4's evolution similar to GTA 5's leap to GTA 6, CD Projekt says",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZWhtTXdpT0dYTlRXMDJZZXhGQzZrNDR4LXUzSkRoeC03UjQzQlpQQ1FjSUs3dTFDUUt0VWdONDNoV1JwODlidU01T0VBRThiQUpqd0s3LVk1alNRazUydm9na1BRLVJ3NkdBczVDTHR2YXpON3YxLUEtS2cwVVQtcVNZLS1GS0k2dkZqdDFlT1dCZThZQXlxYzNjNWNfbTVBbHVuSTJlT3FGNEpEOXlWbkdaS3BTZldQMnl3UGV3cmZjVDVUYUp3WlJuR3Q5N0hQMGotcnhnYllWV1VCaVVKeS1KZHJnTEZYS0RmUXFXaXVhZ0c2WXBOcGtYYmpyZw?oc=5",
-     "ts": "2026-11-24T22:53:11Z",
-     "summary": ""
-    },
-    {
-     "id": "86fa2bcf65be",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "CD Projekt сравнила технологический скачок The Witcher 4 с переходом от GTA 5 к GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWJvWHBDbGl2dGJ4WmtzR0hCc1kyN01Yb3A3d05RTWwzLTVUOEptajlFVkRJeFFGZDNpakZIRzZ0MjcyeE1lOTlQLVZydV92cVBfakZTSVNDTTdGOHZHUkc1RkJ5c01iNmNMbG4zeFZ3THBMdjgxaEp0WjVYYk5NYXRLZGt0czVPVjAzNVdYc1Rfd3NNWHRXblZuS0stUjJFYWktS3BubzYwVFQxR2dzZE9GXzE?oc=5",
-     "ts": "2026-11-25T10:09:37Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 95,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "CDPR: скачок Witcher 4 как между GTA 5 и GTA 6",
-    "summary": "CD Projekt Red заявила, что технологический скачок от The Witcher 3 к The Witcher 4 будет как между GTA 5 и GTA 6. Об этом сообщает Eurogamer. Компания обещает заметный качественный и технологический рывок.",
-    "idea": "Сравниваем обещанный скачок Witcher 4 с тем, что мы уже видели в GTA 6. Зрителю интересно, станет ли Witcher 4 таким же «next-gen», как GTA 6.",
-    "hook": "Witcher 4 обещает скачок как между GTA 5 и GTA 6 — что это значит?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-24T18:20:55Z"
-   },
-   "msg_id": 2164
-  },
-  {
    "id": "ee2746ad3a84",
    "title": "Девушка угнала истребитель в GTA VI силой мысли с помощью нейроинтерфейса",
    "first_seen": "2026-11-25T10:11:05Z",
@@ -1646,32 +2231,6 @@
      "title": "🇺🇸 The part of GTA VI where getting arrested in the upscale town of Capri gets you locked up in an apparent torture cage by corrupt cops. What's Rockstar trying to tell us here? Writer: Mhedi",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KaG9Uc0FHOTBTdGxhSzNxQ003V0F6SUdkdEtFUnUyaHBPOWF5SDJZSFZmc0xnakd4dk53UjJKaDAxX0x3YWY1dmt4MU1scGxjczZiVFRSSTdMdGpyVjM3cUx0YnF1LXFmdWlPUg?oc=5",
      "ts": "2026-11-25T10:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f78ae66e8833",
-   "title": "Meet Dylan Rourke and Manni L. Perez aka Jason and Lucia in Grand Theft Auto VI",
-   "first_seen": "2026-11-25T10:11:05Z",
-   "updated": "2026-11-25T10:11:05Z",
-   "items": [
-    {
-     "id": "f78ae66e8833",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "South China Morning Post",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Meet Dylan Rourke and Manni L. Perez aka Jason and Lucia in Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVzU4RjhUUVF5a0JiUmk0SHNSQkxKRWNCV1hPdzVnb09vQ1liRnVrcTZaQ0g1S1hLZWFzM3AxaGp2dVJwbzdzWl9HYmZ6cHlKTDRRWkYtejRwZExiX0t0V1ExMm5WWUx6UDN6MjRkWlI2dFJ5SldJVXBWUEtZc001OTNiaThKVjZ5WVVfanFZMHIyS3pPVmRzVzh6bXRZbWdNZXBxVzFwblRsMWM5ZDRxaUJjVjZiTzFtU2o5Zk9uZnRBTXBqaG1fUzVvb0s3WGVsWlBzakthU01nN255VGtCb0lfRlpMc2RGUGNIdDlJeVp6bXFwdUFselhSODBmVXluenl1Mk41VHZNM0tTbGc?oc=5",
-     "ts": "2026-11-25T10:00:08Z",
      "summary": ""
     }
    ],
@@ -2175,123 +2734,6 @@
    "score": 48,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "469f8b98b153",
-   "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
-   "first_seen": "2026-11-24T17:11:07Z",
-   "updated": "2026-11-25T09:40:48Z",
-   "items": [
-    {
-     "id": "469f8b98b153",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 runs smoother on Xbox Series X than PS5",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGpvLVM2YU94UGk4SS1lQUlERUlIV2NTRllNWmZLYWw2Uzc3T0VmS2pnSkwxQllWRFNxdGJHb19SR1FLMmIyYnNhMmhZeUJzSG42VDk4eFJiS1dEZlNSb2g1NUp0R2phZ0p2SDlMYi1WQlV3eWdVUm5DUXZfTjJ6V1FaRElicmlCYWgydmFCTzI2VGpnQVhj?oc=5",
-     "ts": "2026-11-24T17:00:03Z",
-     "summary": ""
-    },
-    {
-     "id": "f1f50e744477",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 работает плавнее на Xbox Series X по сравнению с PS5",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakdfci1rT0NkVDFmR2VZLTBuMV9LRkNoeFFFVmw4dzBnSm1SZzVKZ1NPNGdzTDYyNndERkVrMjJ5TGM4OTE1WXdUX3Q4aXJZU241SGZueWZ5Mi04eERodzdub2FjczlsMHl1eU1SQ0xiR3lkWUpnalhLYVlES2hLT2lFZVBsRkJnRkRCUXhrbjFlTVk?oc=5",
-     "ts": "2026-11-24T17:00:03Z",
-     "summary": ""
-    },
-    {
-     "id": "128f81ce5edd",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
-     "url": "https://insider-gaming.com/gta-6-runs-better-xbox-series-x/",
-     "ts": "2026-11-24T22:51:38Z",
-     "summary": "After extensive testing from Digital Foundry, it's been found that GTA 6 performs better on Xbox Series X compared to base PS5. The post GTA 6 Runs Better On Xbox Series X Than Base PS5 appeared first on Insider Gaming ."
-    },
-    {
-     "id": "44c84f80fa93",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnS1VRS1FmMXJhQU1rYzJ2VWdsc3hGUFg0QWNubGUwTFZUMERqWGtoVnVTVWo3ZTFoOTIweDREQ1o2YXlJRGNERDJnMmNkaHl0TzFIN1NZRVVaQ1IzcHcwVU1VWGd2N29YbGNn?oc=5",
-     "ts": "2026-11-24T22:51:38Z",
-     "summary": ""
-    },
-    {
-     "id": "ba84c3702396",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Windows Central",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 runs better on Xbox Series X — a huge blow to the PS5 and Sony",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV211azFoZ1gtd19WbGRtLTBlLXotcUlCd0RQcF9OVWJpT2xoRW5vQXNibXpaVWY4b2R1ampSNFRDMHV5UXRteDIxVWdwVzhSYVYxOGo0V2x1Y18zcDBmNEplUTdvaDZwd0VfOFJHQW5lNl8tb0UxeDRlZlNvZnVkMHY0Qkl5eTJQNS01bW5jWE9Td0VXMGNFZnZBVFQ?oc=5",
-     "ts": "2026-11-25T00:02:08Z",
-     "summary": ""
-    },
-    {
-     "id": "1c312a1aa133",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TweakTown",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 runs better on Xbox Series X than PS5 despite Sony declaring it 'plays best on PS5'",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPLWpvSHhRQTVvTE01NmktZ0JSdEFZRXh4bjAzUWszWTNDZXZfSjFEV0NlbGFtbTBVUUZGdEhhWUpZcmVNX1JWeTZFUGo2VnlZamM4SGNPU3JMQWZwVVBwN182QTlySG50TnFIVWRRNHczNHdROWRXTjlvdzI5SGFTX1BSWlk2Mmx4YW95a0FKa0x2R25wQkhpZVVvN1dGVUhPRW1WMnZsVUlrMGhpVzhfMFpxcU5IRWJqT3lNMXpoelpGZWhudlJnaVpiRFhJb29vQ000NmlPT2p0VXdyUEx5MG9mdHp3Q184SzNUN2JxTGw2U0dpNmQtQ1QtTllFR2hqeEh0Y3hMRzlybjhyZXVpN0VvVzdlWDQ?oc=5",
-     "ts": "2026-11-25T08:32:02Z",
-     "summary": ""
-    },
-    {
-     "id": "ba3caa16b59b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TweakTown",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 runs better on Xbox Series X than PS5 despite Sony declaring it 'plays best on PS5'",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS3owU19VekNBYVJOaWFLSHJNQ0dfWm44SVpObVhRLVpBRHNzR0hWYmpKcFRpZE9XdVd6OFczRkpNanhvVFU3SVBWVDhROExmc2lub2VQU0MwWktMUTZwNUd0Uzl5RmZxZlJmTDNETTI0ZG1GWENtMkIzVkhJSm42bHN2M0RKaDM0UEdBSmo3Q1habXRBalpScmw0bGZqeElEWWVBbk1OVWlnQzNRSjQ2Xy14N2FjZXpUNFJEbXZGYjZaRGtyY01qSTdPTlp4Q0RlNXc?oc=5",
-     "ts": "2026-11-25T08:32:02Z",
-     "summary": ""
-    },
-    {
-     "id": "7118e2c33f6a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA VI на PS5 работает хуже, чем на Xbox Series X: результаты сравнения консолей",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVJaOFl5UmtQN3JUWWx3VU9FQUQtdFVUYWNtOTdsbHNDRmNfNmgwUS1Bd0gtUzBmVTdMLWZUX1VpclJ4MGFpUHQtNHpHUlpNb1pDSE5lZUdRZFV4RGQ4cmxpRC16cUVvNzBuOVYyOXkwcnVGNFRVUjNCQXYyWExVaWRrUVh6TlNrclB1eXhRN25RT3Itdk1RRFlDbzZBLXVuSEw3WjF1R3MtOTVrU3lpVTVVUzFuQ09HX0HSAb8BQVVfeXFMUDlCS1p5Nk5PZzdjZ1kzeGNiS2VzZE5GN3hvVzBTN05yVzdaTnpLcWdUcVZNX3l0V21uUU5rNFY2eWtYOE1jemkxS3ZyYlNTQ3NGRHQzdzFSRjZRY3h6WFZvV085dGNOVFAyRkFVS1lKSmZNT0ZWRU10S3lJNzBLLUhmREJadEZwZ0M1VGNwaFMwV2ctX3RLc2ZBSUxFM0V6ZUNJbkdOQUdUeG01c0VIM3hhbzRfbHE5VS1VbmVETnc?oc=5",
-     "ts": "2026-11-25T08:03:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -14335,45 +14777,6 @@
    "status": "new"
   },
   {
-   "id": "69e18059662d",
-   "title": "GTA 6 30 FPS Cap: Leaker Claim vs Rockstar's CPU Case",
-   "first_seen": "2026-11-24T18:10:57Z",
-   "updated": "2026-11-24T18:10:57Z",
-   "items": [
-    {
-     "id": "69e18059662d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "shattered.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 30 FPS Cap: Leaker Claim vs Rockstar's CPU Case",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHpaY2Vtc2o4VnE4MWpxamw1UGVFTF8wMUxzaHZ6M2xKU2hzaDY1TUxocDFiY0NTcHoyakFRa1Qwcnk1ZHFtMDNtS2pRTHFsNG5adV8wTFJIbzN2bXA1QW1HV25HLVBKaUh6LXVIRlhGSEVQU0FRMXVuUFdEX01JNUljUENkQQ?oc=5",
-     "ts": "2026-11-24T18:01:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "слив"
-   ],
-   "score": 65,
-   "level": "SPECULATION",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Слив: GTA 6 на 30 FPS? Что говорит Rockstar про CPU",
-    "summary": "Неизвестный сливщик утверждает, что GTA 6 будет заблокирована на 30 FPS. Rockstar объясняет требования к процессору особенностями симуляции открытого мира.",
-    "idea": "Короткий разбор: 30 FPS — миф или реальность? Показываем тезис сливщика и ответ Rockstar про CPU, чтобы зритель сам решил, кому верить.",
-    "hook": "30 FPS в GTA 6 — правда или пугалка от очередного сливщика?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-24T18:11:08Z"
-   },
-   "msg_id": 2163
-  },
-  {
    "id": "aec1fb0748ce",
    "title": "‘Grand Theft Auto VI’ built a familiar – and darker – world from the ground up | Column",
    "first_seen": "2026-11-24T16:11:04Z",
@@ -15317,32 +15720,6 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "8ee44e54b6b5",
-   "title": "All the Drama: Jensen, GTA VI, and the Thanksgiving Box Office Show",
-   "first_seen": "2026-11-24T17:40:55Z",
-   "updated": "2026-11-24T17:40:55Z",
-   "items": [
-    {
-     "id": "8ee44e54b6b5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Finance",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "All the Drama: Jensen, GTA VI, and the Thanksgiving Box Office Show",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXQza2lac1hmUUZRTHNBZDBQNWZVVDNzUmhlWEJ3X3VXcWJGMGdLdkQxU21XSmhnQzc3UU54WmMtY2dzRTRneDZpcldxYmNRWE56YmQ3WjRNMGU3LXI3Ym81T1pfbnBTSWtjTUtCSzlMLUhkbWFHQ0pDeW5uQURueE1md0ZZOUxWeVlXWVMyOXgzMFRWSFVXS0dVTGEyZWlIZlE?oc=5",
-     "ts": "2026-11-24T16:31:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
    "status": "new"
   },
   {
@@ -195646,1182 +196023,18 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "c37a18c2e0ae",
-   "title": "How To Get A Plane In GTA 6",
-   "first_seen": "2026-11-18T11:10:50Z",
-   "updated": "2026-11-18T11:10:50Z",
-   "items": [
-    {
-     "id": "c37a18c2e0ae",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "How To Get A Plane In GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZQWFDT3NtNVA4cU5XOXZpdUwyb1dVVDZTTGJUbnYxRlI0UUZvNzM1MF9ablFMNmc0X245bFpzTEFlN3Zsc0hHeTk5MWYwMjFUemhDaGxqMnpsdlVuMFdRREhUbzd6UWtNaWc2WEh2MA?oc=5",
-     "ts": "2026-11-18T11:03:30Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "bd4139828f68",
-   "title": "What Are The GTA 6 Difficulty Options?",
-   "first_seen": "2026-11-18T11:10:50Z",
-   "updated": "2026-11-18T11:10:50Z",
-   "items": [
-    {
-     "id": "bd4139828f68",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "What Are The GTA 6 Difficulty Options?",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xU25vV2RCMzZwWFlkaFpVMndOUEZnNEZiOTAzU3A3amVQSE1yLVdUTV9qSmtzVW11UzIxZDNBUkRKOWlISmY2NFV1ZFQ0WTJSWU1uYUxLWHBvcWlKTVRsMEx3MjFwNnhrVFJuMURfdi1nUzJ3NmxPeE5NM3g?oc=5",
-     "ts": "2026-11-18T11:03:35Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e9c20c54aab6",
-   "title": "Can You Play GTA 6 Offline?",
-   "first_seen": "2026-11-18T11:10:50Z",
-   "updated": "2026-11-18T11:10:50Z",
-   "items": [
-    {
-     "id": "e9c20c54aab6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Can You Play GTA 6 Offline?",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84YXFBT0sxMWhDbTlMTEhwdjZEcVlNNUxudk8yNS1rSF9vVkZuVkppbEJZNTJMcUpyR3FUX0hnV2xWaFJ1RC15QjhtZzJGdERoNl9rT2pxWFFTNng2Uy1LZHVyU2lJSlc1SHlOdUR3?oc=5",
-     "ts": "2026-11-18T11:03:41Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0187babef2ca",
-   "title": "5 Best Things To Do First In GTA 6",
-   "first_seen": "2026-11-18T11:10:50Z",
-   "updated": "2026-11-18T11:10:50Z",
-   "items": [
-    {
-     "id": "0187babef2ca",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "5 Best Things To Do First In GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lOGl4TkxxLVJyMUpZcC1BTlh1NDlDS0w5cEI3ODV0TXBnSWJDci1lM0lIcm50ZjJxazZrU0VPX2lrRWhLVzE5WG93dXlIRFcwOVRJWXFGMHNOZ2QySGxmbjVTOU44UGNXVi1QSzFMRkVpVEpVeThZVw?oc=5",
-     "ts": "2026-11-18T11:03:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0fb94b7b3297",
-   "title": "How To Increase Your Inventory In GTA 6",
-   "first_seen": "2026-11-18T11:10:50Z",
-   "updated": "2026-11-18T11:10:50Z",
-   "items": [
-    {
-     "id": "0fb94b7b3297",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "How To Increase Your Inventory In GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12aDFZd0ZMeXdrdEg2TGxUUEJLd1VESndqYXJ6UFQ3Y2RUY19tSl9IQXpIc0hYQVU2cGZtYkUzTlRzZ2VHdzZreVNndG5IWUl2OWJ3SEJlN2JPNkVuaVhHcldKbzUzbThleXgtWGFjd1F2bEVyX0M4ZTdON3diVnc?oc=5",
-     "ts": "2026-11-18T11:03:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d412d8d25275",
-   "title": "🚨 99 БАЛЛОВ!",
-   "first_seen": "2026-11-18T11:10:50Z",
-   "updated": "2026-11-18T11:10:50Z",
-   "items": [
-    {
-     "id": "d412d8d25275",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "🚨 99 БАЛЛОВ!",
-     "url": "https://t.me/gta6deluxe/2122",
-     "ts": "2026-11-18T11:04:21Z",
-     "summary": "🚨 99 БАЛЛОВ! ПОВТОРЯЮ, У ИГРЫ 99 БАЛЛОВ НА МЕТАКРИТИК! 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "bce8f5994df6",
-   "title": "GTA 6 Has A Clever PS5 DualSense Trick For Keeping You Under The Speed Limit",
-   "first_seen": "2026-11-18T11:10:50Z",
-   "updated": "2026-11-18T11:10:50Z",
-   "items": [
-    {
-     "id": "bce8f5994df6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 Has A Clever PS5 DualSense Trick For Keeping You Under The Speed Limit",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaXZHSEZ0bGhsSVctQjNZUlNUdU1XY1NvaTJCSXdvUnJULWxCUDRwSVBlTWU0TEt4a3AwLUxFek5mOVEwTjB3WmN1SXZRTVloZU9xSUlZcm1ydkU1dlNBUDJzckFYS3FHYk90Q2dwcjVObGNCcE02VldrclpmZi1ocUR0dFJfVF9RMkdpWmtGa2RsVGtvODVqZW5fejNqOXRuZkdTeFlIOHowQzhSall5MA?oc=5",
-     "ts": "2026-11-18T11:04:22Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "fb17a3faf012",
-   "title": "98 баллов — вышли обзоры на GTA VI Статью с детальным обзором игры уже пишем.",
-   "first_seen": "2026-11-18T11:10:50Z",
-   "updated": "2026-11-18T11:10:50Z",
-   "items": [
-    {
-     "id": "fb17a3faf012",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "98 баллов — вышли обзоры на GTA VI Статью с детальным обзором игры уже пишем.",
-     "url": "https://t.me/GTAVIStar/932",
-     "ts": "2026-11-18T11:08:04Z",
-     "summary": "⚡️ 98 баллов — вышли обзоры на GTA VI Статью с детальным обзором игры уже пишем. 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e38121e4643f",
-   "title": "☺️ 2 million viewers on Twitch.",
-   "first_seen": "2026-11-18T11:10:50Z",
-   "updated": "2026-11-18T11:10:50Z",
-   "items": [
-    {
-     "id": "e38121e4643f",
-     "src": "tg_gta6newsdaily",
-     "src_name": "TG @gta6newsdaily",
-     "outlet": "",
-     "group": "telegram_en",
-     "weight": 45,
-     "alert": true,
-     "title": "☺️ 2 million viewers on Twitch.",
-     "url": "https://t.me/gta6newsdaily/5026",
-     "ts": "2026-11-18T11:08:59Z",
-     "summary": "☺️ 2 million viewers on Twitch. #GTA6 #GTAVI"
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "2c050cd8d4a6",
-   "title": "Grand Theft Auto VI Review – Masterpiece",
-   "first_seen": "2026-11-18T11:10:48Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "2c050cd8d4a6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "COGconnected",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Review – Masterpiece",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqMFV6b0w3cDV0M0wyenduTGlIWmFGb2lac1EyOTRJTDJEUGM4Q3JkY0pLR3ozcHJQQVRTbFBzVjlXMUJ0bU1wRXRxZ2tQWDNMbG91eHV0N2txZ1VMZXVkQVRVR0hmSlZlU1NB?oc=5",
-     "ts": "2026-11-18T10:59:21Z",
-     "summary": ""
-    },
-    {
-     "id": "1dc8b897f129",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "psxextreme.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Review -- Generation Defining Masterpiece",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZURuc3VDUFBWMUV6SXNOZzl6dFoyX0gzMG1RelJvQmFIOXdaWTV6MEp0UG80UkxtXzg1QVdVeWdiQzVhUGUxZ2FvMURSSWZZcGNrSl9xUlpZSUpVUXQzQlJJNDNxY1NGd1RXMU9hM3lHVGd0QUI4S240eE9ncUx5dUFVNXBGTm1ISS1hWUIwb05uTlJy?oc=5",
-     "ts": "2026-11-18T11:02:08Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "825c4045aaf0",
-   "title": "'Grand Theft Auto VI' Review: Rockstar's Masterful Love Story",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "825c4045aaf0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Slant Magazine",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI' Review: Rockstar's Masterful Love Story",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96TnRxc3RvT3ZoUnhYLW5ycnVQZjhsOU1pa1llMGRXbU1RWEwzNmlZbk8wLXQ5c3M5SENDZDY5M3dJZEFZTzNuX0I3czc4dEllZXlrTks0MDBwZzBHOVExanJtblprcnNfSGM4VTRJb2s?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "43891c6e406b",
-   "title": "GTA 6 review: Three weeks in Vice City and I’m still finding surprises",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "43891c6e406b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Creative Bloq",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 review: Three weeks in Vice City and I’m still finding surprises",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BWjJPT25pMDVVUkQxcjJuSGo2WktPa0R3aXdZYTRkbjhCTHh4RkhQNl9nLVBfZXdFblE2cF9KdUhBdVg1Wm56QUloNTY5WjRtcEN4OXJmSUdLYVZoVjhnYjlwejg2OEVEb0tkeXJQN1RITDZYYWpV?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "413f71af684b",
-   "title": "Grand Theft Auto VI Review: Outrageous Fortune",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "413f71af684b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Game Informer",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Review: Outrageous Fortune",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WRG9KX3hhTnlWVmt1TjhUdDBUZ0tBcnhacHdfSG1kYUg3NTBEQWtTZjBBdGVrOFBNbkE5cGtkd1Ywa3BfRFNpeUNiOHZ2cnVrTTBvd0JIUTd1eG1WRm5BQmxadVVsdTRXQnZvVWpKUlVjMHhBNU53V0xn?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d56fe3ab5989",
-   "title": "How Long Is GTA 6’s Campaign? We Tasked Four People With Completing Rockstar’s Latest To Find Out",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "d56fe3ab5989",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "How Long Is GTA 6’s Campaign? We Tasked Four People With Completing Rockstar’s Latest To Find Out",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VVWhkUnBsVVNHdFJuSXdjRHZDOEcyZ0hwU1FnOTVYZFRZcjlUQzN2S25SOG5YellaU1dzS3g4cnA4ZWFFVDdxUDh6eXhDbWJMakh4amgzY3Jodw?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Сколько часов сюжет GTA 6? Игроки проверили на себе",
-    "summary": "По данным IGN, четверо игроков прошли сюжет GTA 6 и замерили время. Кампания оказалась длиннее, чем у GTA 5 и RDR 2, но точная цифра в источнике не названа.",
-    "idea": "Короткий разбор: сколько часов ушло у четверых на сюжет GTA 6 и почему это важно для тех, кто ценит историю. Плюс сравнение с GTA 5 и RDR 2.",
-    "hook": "Четверо прошли сюжет GTA 6 на время — вот сколько часов вышло.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:11:12Z"
-   },
-   "msg_id": 1235
-  },
-  {
-   "id": "bb9c0e409728",
-   "title": "GTA VI, Biggest Game of This Gen, Unlocking Now on PS5",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "bb9c0e409728",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PlayStation LifeStyle",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI, Biggest Game of This Gen, Unlocking Now on PS5",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanN4MGlYWWtQdnZyangwTWNjOEtGUV8teDZiYkFiWUhva0ZfMEFrTmdlMENxVTBTXzE2Wkc5bGlCdWIwY3dGOFdQcFNXMFdPSmtaQUtITUVBWE9QRVZwdzFxakFrd0M4RG5kZGJQS3N6SkNlenQ3RDdYbkJ5Tm9zMWx6QUxiWGtxWVphdUNB0gGTAUFVX3lxTFBiLThLWVZOWjhDcG1DOG9ob3dHUEhGZmd5S1ZIUW11dzhuLVRQTE83Qks3SzVtc1ROMlR3cklSSEkzYUc2MG50UDRITkNDeGZlSWtSTmJDNUgtRUU1ZnhjYTRsOXRpYUo0MVc4RVlHV3NoclVfUV90bU5pZWZvaEF6cjhiRGF0NV84SHlUOGV1U3ZuUQ?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6539e6f3ad24",
-   "title": "GTA 6 Photo Mode Included At Launch, And It’s Fantastic - Check Out What You Can Do With Rocktar's Photo Studio",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "6539e6f3ad24",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Photo Mode Included At Launch, And It’s Fantastic - Check Out What You Can Do With Rocktar's Photo Studio",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05SUVGN0RTaVF1NU9nNTFRYzQzTUdvemhRajFpclhnT0JCaWlpUzhISVZ0TmpEUWE4OXQ5QVg2bXEzVEU0eU1uRHJBWHVLWlRPa2dOdFFfZFQ5UjlLTEtZb2t0OEZDc2dBVUNEeHB3Q0Mydms?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️В GTA 6 есть фоторежим на старте — и он крутой",
-    "summary": "В GTA 6 на релизе будет фоторежим, и он получился отличным, пишет IGN. По данным издания, в редакторе Rockstar много настроек и эффектов, чтобы делать крутые кадры в открытом мире.",
-    "idea": "Покажем лучшие кадры из фоторежима GTA 6 с зумами и эффектами — зритель захочет повторить такие снимки в открытом мире.",
-    "hook": "Фоторежим в GTA 6 уже на старте — и он реально крутой.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:11:17Z"
-   },
-   "msg_id": 1236
-  },
-  {
-   "id": "320737a67ba9",
-   "title": "GTA+ Subscribers Get Some In-Game Benefits in GTA 6 – Here’s Exactly How They Work",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "320737a67ba9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA+ Subscribers Get Some In-Game Benefits in GTA 6 – Here’s Exactly How They Work",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVN2c0xNVkstQW5PRWFCVlBCOHlyZVRKR2dlOGNUS05RRTEtZEE2azRyMVVRdDdsaFkwU001c3VHazVkNHNmX0h6MjZSWV8tVGpIYzFaNV9GekdLU0p1RklwYWV3VjNMcjA3dkstMjhyeHh0Y29qMWlvTy1ZNUtkX3A4cXM?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA+ в GTA 6: что получат подписчики — детали от IGN",
-    "summary": "По данным IGN, в GTA 6 появится GTA+ с внутриигровыми бонусами для подписчиков. Издание подробно расписало, как именно это будет работать. Официально Rockstar это пока не подтверждала.",
-    "idea": "Коротко показываем, что даёт GTA+ в GTA 6: бонусы, как их получить и стоит ли подписка того. Зрителю важно понять выгоду до релиза.",
-    "hook": "GTA+ в GTA 6 — что реально дадут подписчикам? Коротко и по делу.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:11:20Z"
-   },
-   "msg_id": 1237
-  },
-  {
-   "id": "f8187497cf1a",
-   "title": "Grand Theft Auto VI Review – 90 Hours In Leonida Make This The Greatest Crime Simulator Yet, Even Locked At 30 FPS On Console",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "f8187497cf1a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Wccftech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Review – 90 Hours In Leonida Make This The Greatest Crime Simulator Yet, Even Locked At 30 FPS On Console",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrTGJfTy1QY096TlVjc2pFZDBmdjhmMHpmZTZLTWR4VFAtM08yZVVNVTJmV2oyZ3Ywby1NUklCSDl5eEZtX1RJZ2NCTG9KMndBT1FCMG9IZVIzVkRRMmFEcldYajlBWkw3V0xYZkhsb9IBdEFVX3lxTE9tLV9GQ1FMRG12djduZUhVMDlGRDcxakxyVWdqbGF6TEo1Vzl3MElPT1JzeExIaHFuUXNibHhZdks2QnNzVWpXSC1pakZ2TTJ0YVBXSFN3ajN5YmlodnlXWnFBZkw0NWd3QU5sR054bjZyUlRY?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "76eef7ea5a2a",
-   "title": "Finally, GTA 6 Changes the Series Traditional Sprint Button to L3, Saving Thumbs Across the Globe",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "76eef7ea5a2a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Finally, GTA 6 Changes the Series Traditional Sprint Button to L3, Saving Thumbs Across the Globe",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcG02TTJkTjJuVmFOY0FzZFNaUWEwNWdoMnRScjlWN00wYWxIemc3eWlHeXNodUVrSnhqRFdYaE9RZXVJTnEzV1phQUx0YUpaVTRIbENrNTdFSEZQMERTVGNXUUtyN1V6bE1WejlPRzFpdDVTc1Z6SUlmSHNqdHc1aGdQblpXUQ?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 меняет спринт на L3: что это значит для игроков",
-    "summary": "По данным IGN, в GTA 6 спринт назначен на L3 вместо привычной кнопки. Это должно снизить нагрузку на большие пальцы и изменить привычный ритм бега.",
-    "idea": "Короткий тест: как меняется бег в GTA 6 с L3 вместо старой кнопки. Зрителю важно понять, станет ли удобнее в погонях и миссиях.",
-    "hook": "Спринт в GTA 6 теперь на L3. Вот что это меняет для нас.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:11:24Z"
-   },
-   "msg_id": 1238
-  },
-  {
-   "id": "622244fca630",
-   "title": "GTA 6 вышла спустя 13 лет ожиданий — в Новой Зеландии уже можно поиграть",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "622244fca630",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Plugged In Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 вышла спустя 13 лет ожиданий — в Новой Зеландии уже можно поиграть",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVkVXd0Zmd2UtY1lpbHRWUGx6SkQ5UTR3VFhRT1QycWo0bHVUT0l0WFNhaDVHUTZjNmlyOXdDWWlRSVJVTktvVlZqVkJfR3FsUTRYVTZBVmhidmJoQ2p0NUE5Zm01S3pEMC1nYkhRN3ptRXRXendTZDQ4cEprbWVMcG1jcUJzOEx5cW15ZmE1TllxS0Vwek1KZk1peWc5SWRZRWR2ckpRRGJVYmFN?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9f43b48c0337",
-   "title": "100/100... A Perfect Score for GTA 6 ⭐10",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "9f43b48c0337",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Inven Global",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "100/100... A Perfect Score for GTA 6 ⭐10",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUFEakt5WldnS1RGaFBoQlZvdW5MTERFOVBIdzVPRTZfcmxNdFBJWFNjMjhwRG1BQVZBZFYwTEpBUkt4a3hXLWpCbkc4UHREQUxLdmIyMlluMVQ5Y2lQcXlJMWRRS1EzekxLWE1IejNJQkNmTWFPTHVTSzU2X083aUJnSzk?oc=5",
-     "ts": "2026-11-18T11:00:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "34a22a6f33cc",
-   "title": "GTA 6 Review: The Megayacht of Gaming Has Something for Nearly Everyone",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "34a22a6f33cc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "CNET",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Review: The Megayacht of Gaming Has Something for Nearly Everyone",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14Y1VIdHBaNG41MVd6X0tJcUJESmlDeTJMc0Q3RGFzUFVDY2pvbW1oLVhZSXFCZEt5eGRRT21tV1lUY1pnNndrWXRtU1dQYXh5NXVNRGFkN212UQ?oc=5",
-     "ts": "2026-11-18T11:00:09Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6dd4b3fa058b",
-   "title": "GTA 6 Officially Launches, Spoiler Warning Issued for Players Still Waiting",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "6dd4b3fa058b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Officially Launches, Spoiler Warning Issued for Players Still Waiting",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2QmgzUWdJeHpmYzNELVpWd3p5NGNOZXgwb0lhalpUTDNxRUFpd0p0OVp4UnhBQTNweGVGQ2g0YVhDQUxrVTFwalBCYnVZLWRsNVpScXhkRDZ2aHVudlF4VHJEQ2dfS3JhU0RBcDF6ajFDbXJsRGZJX0RxOS03ajg?oc=5",
-     "ts": "2026-11-18T11:00:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "612e34789a39",
-   "title": "Grand Theft Auto VI is a technical marvel with easy-to-love protagonists",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "612e34789a39",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Ars Technica",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI is a technical marvel with easy-to-love protagonists",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWIxa0wxX2o2MWNKTmtXN2dkc0RGWV93STJXOTNCbnp3MWFfSVRYT19HT1ZlVUdlNlo0S3BWOHpab3NaeFJhZElVUG1tYzUwSlc4aDJ1djZlMWNOdVRHOFdXdmF6X3FyU1NkbTVFSEI5TVp2VW05aUMzYzNoaUhxYUpxMDhyUlZxSW1J?oc=5",
-     "ts": "2026-11-18T11:00:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1b874d3e4524",
-   "title": "Grand Theft Auto VI Review - But Why Tho?",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "1b874d3e4524",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "But Why Tho?",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Review - But Why Tho?",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VM00ycDVmcHMxeW1odXRuMFZKZUdrcVMxNGRaZnJ3VHNLVjBnMVBkRG9VVUhocHNGbEtSOFlCbEptcWpXT0xpaTFQWnZRQWNwNmpXY1luLXVYekdIcnJrR0I4YUg0bF9t?oc=5",
-     "ts": "2026-11-18T11:00:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "46e6e87b7f08",
-   "title": "Grand Theft Auto VI Review: It Will Steal Your Heart",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "46e6e87b7f08",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The New York Times",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Review: It Will Steal Your Heart",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSdVY1d29idzItRDc3UU9ySFdyMGF1ZzZzZ2xjWldiNjBKSnpDYl9LTXJvWDFhbThseWZ3QUxkOWRPN0pTLWtRX3NnRi1vN1lCYmZLY0pnMEUzOVhPc3Qwb081WWsxS05VSUpCMEhOaEZ2WF96Q0tESWR0aw?oc=5",
-     "ts": "2026-11-18T11:00:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8c381dbf563a",
-   "title": "'Contrary to What People Think, We Don't Have Infinite Money or Time' — How GTA 6 Came Together at Rockstar North",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "8c381dbf563a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "'Contrary to What People Think, We Don't Have Infinite Money or Time' — How GTA 6 Came Together at Rockstar North",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fSWhHOFZseVhnYWYtSDk4dXJLQWJGQzFreTNPYjJFbVR0SEU1REdoXzg2cFNWRkQ4dDJ2bFVkSHVNeUo4SFJXTUUzY2Zva2h2VkJoN0owMExwSDhtOVVlOU0wRHlNZXVvYUhkVzNSNndKN1R3ZG9lRll3?oc=5",
-     "ts": "2026-11-18T11:00:55Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3bf6b7c300b4",
-   "title": "Grand Theft Auto VI Review – One Last Job",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "3bf6b7c300b4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MonsterVine",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Review – One Last Job",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qVDctV3RxUXJGYTdvT0U5THpiQkVIa1NtajBtYTVwbjZRVHhIblZlSWJDVkdvdk1Ua1YxLTRlS056RHBpbGtkTkhqRk1DWXN6Yks3bkJ0dllzZ2RBaVZMUkFnQUo2TGRlUEFJ?oc=5",
-     "ts": "2026-11-18T11:00:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0e3e3c55d510",
-   "title": "GTA 6 получает отличные оценки прессы — в среднем 99 из 100",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "0e3e3c55d510",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Igromania.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 получает отличные оценки прессы — в среднем 99 из 100",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1NacWUwOGVZTVpFSFVSZFhWYTUwV2duNUhyaFIyeXlYZmh5bjFtR3hSY3BsbUc2ZFNRVWYwRjhSclVWd1VCR0dLNV9zOGlDbE5xMTJoQVhUcWNVZW5MQktHczNfZnlYVWdSMG1UcTVacnlTcHMwMGMzbnhxdVNQYlFjMUxHQnRQVjBWZmRURkg0Q0puWkhxZkh1dFNNNF9pRFE?oc=5",
-     "ts": "2026-11-18T11:01:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f73b3bd6ed9e",
-   "title": "Grand Theft Auto 6 is Officially Out Now",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "f73b3bd6ed9e",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Grand Theft Auto 6 is Officially Out Now",
-     "url": "https://insider-gaming.com/gta-6-is-officially-out-now/",
-     "ts": "2026-11-18T11:01:12Z",
-     "summary": "Grand Theft Auto 6 has just gone live in New Zealand, which means the game has officially hit the market after years of development. The post Grand Theft Auto 6 is Officially Out Now appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d9051ee4eb8a",
-   "title": "GTA 6 Review – Rockstar’s Magnum Opus",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "d9051ee4eb8a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "VICE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Review – Rockstar’s Magnum Opus",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4waDl6NzQ0NzBzemdTaER0clIyOGZhTk16Z0h2b2M1Ry0zeDczcEVTWDZaWG1HLTFvb2QyTWxWUVBUUjBfMGdyNmVuOTNSUkJCY0E1U2ZPdFM?oc=5",
-     "ts": "2026-11-18T11:02:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "af0fd8fde347",
-   "title": "Can You Skip Cutscenes In GTA 6?",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "af0fd8fde347",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Can You Skip Cutscenes In GTA 6?",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Wd3RJY1QtRGY5bmZPM2I1anFJbUFaNzNTRjBHLTB5TU5tY3ZJUmxsQktod0tmM2d4TTlFR25hTjJaVGU2d2VLdXFKYmlOdE9udVVodVZaczBBa3ZJY21Vcmp5LTc4aU8zT0V0c2UwZGpFSFNv?oc=5",
-     "ts": "2026-11-18T11:02:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "78e3ea1666d4",
-   "title": "GTA 6 Gym Workouts Have A Useful Trick That Saves You A Lot Of Time",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "78e3ea1666d4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 Gym Workouts Have A Useful Trick That Saves You A Lot Of Time",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTNibUI0U0hkM0l4cjBxN09LQ1JmYkxFT2dXeXJoR1JZR295X2pfUEhYdzlxcUlBNHVpZ2MxM1dCUTItTGl5cUp6NUl0UEVTLTlUX0dWS0pwRlBIb3NMQjBCRzB4MGtVekQxWUZDNVdUM1BnMTd2T0ppNWpxWmpHMVBvMzZnMlAxQU5IRmdNTklHSnpvV0ZhVjQ1T2dwVkZCdkpCOQ?oc=5",
-     "ts": "2026-11-18T11:02:20Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "621dfa55e0f2",
-   "title": "Is Grand Theft Auto 6 Down? GTA 6 Issues, Explained",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "621dfa55e0f2",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Is Grand Theft Auto 6 Down? GTA 6 Issues, Explained",
-     "url": "https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/",
-     "ts": "2026-11-18T11:02:42Z",
-     "summary": "Is Grand Theft Auto 6 down or experiencing any issues? Check out this guide to learn if GTA 6 is down on PlayStation or XBOX. The post Is Grand Theft Auto 6 Down? GTA 6 Issues, Explained appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b889cf8a7b59",
-   "title": "Российские геймеры запустили GTA 6 на 10 часов раньше официальной премьеры",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "b889cf8a7b59",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "StavkiPrognozy.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Российские геймеры запустили GTA 6 на 10 часов раньше официальной премьеры",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjFlcVRlUVlrR0tOTjNkTE9xa0RJNW5Fc2R5dlZVZU5wbm5ZeTFHMzF1MzVpbUJ5SUx6em1uSU1KYmZIWW1HdkVYWjhudC1Ydmtubnpfa1NHLU5MMVF3MGFpYWh4a1hpZnRNNERhenhYb2VIQVRFN1FQV1dNdVp0TUpsWUtJQTAwWXRERy1XenBkV29URzFLWE55OHBONjNWMnNFU05Bci1NNnEwNzg0TEhEdVlXTWprd2lF?oc=5",
-     "ts": "2026-11-18T11:02:43Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "fbae608c0a8c",
-   "title": "GTA 6 Gets a 99 in Early Metacritic Review Scores",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "fbae608c0a8c",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 Gets a 99 in Early Metacritic Review Scores",
-     "url": "https://insider-gaming.com/gta-6-gets-a-99-in-early-metacritic-review-scores/",
-     "ts": "2026-11-18T11:02:46Z",
-     "summary": "GTA 6 reviews are live and the game is highest rated title of the year, with a score of 99 on Metacritic. The post GTA 6 Gets a 99 in Early Metacritic Review Scores appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7d7868d79cc9",
-   "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "7d7868d79cc9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Guardian",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdk5OamxCekF2czVtazk5M2ZKYy1Bamg3TG9JOEU0YmdCRDdCUHVDdTlhWW9PZlVkUjg1SmY1T29jZnpIdk1qcnQ4RlN3bktfa1lBbENYMWNCaVhFbnhudnpVa09kSkRZdGFadnduQnFXM19zd0Y4VU9ZN2dVbVJBY2Q5b2JJUUhYUW1ZUEF0U2lSYUNQOU9vRUdXeFF3RHVX?oc=5",
-     "ts": "2026-11-18T11:03:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7a4c0511180c",
-   "title": "All Garage Locations And Prices In GTA 6",
-   "first_seen": "2026-11-18T11:10:49Z",
-   "updated": "2026-11-18T11:10:49Z",
-   "items": [
-    {
-     "id": "7a4c0511180c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "All Garage Locations And Prices In GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjZuZklOYzFWTlpqVmNKNEh1WE84SjFsVVl1T1E4X1pUcFRheFJSaTE0ZWVKWjl5SjAtLUYzUEJpdUQwUERNUld6NFV1WkprOFlLcFBLbHR6R20yblhOQnk1SF9WY0pnX2lKMk5nOTBtSGkxajNtQUhZY0VFV0EyNA?oc=5",
-     "ts": "2026-11-18T11:03:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 80,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Сколько стоят гаражи в GTA 6: цены и локации",
-    "summary": "GameSpot опубликовал список всех гаражей в GTA 6 с ценами и местами на карте. Это справочник для игроков, которые планируют покупки недвижимости в игре.",
-    "idea": "Короткий гайд: показываем 3–5 самых выгодных гаражей на карте и их цены. Зрителю важно знать, где парковать тачки и не переплатить.",
-    "hook": "Где держать тачки в GTA 6 и сколько это стоит — быстрый гайд.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:10:56Z"
-   },
-   "msg_id": 1231
-  },
-  {
-   "id": "d3d6a7f6077a",
-   "title": "«Не сверлить»: в московском подъезде объявили режим тишины из-за выхода GTA VI",
-   "first_seen": "2026-11-18T11:10:48Z",
-   "updated": "2026-11-18T11:10:48Z",
-   "items": [
-    {
-     "id": "d3d6a7f6077a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Москвич Mag",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Не сверлить»: в московском подъезде объявили режим тишины из-за выхода GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHRocXZnaUQ0NkFSUEZFUzFCVE01bTN6UGpLbWtfck5iRjBlWkxobmpLRU5XbEpaREhDcFpWT1BOVG9CUkxuRlNpQmp0c1hzTkEtX3M0Zi1jcE00dUJKUVloczlZNExmM3VER3ZIZ1dFU0s4RjM2UEo3OXAtajd0aWg4VjdGMnFVTTl0UU1YMTJDcjVWRDRFTXNKYTZiY3hYdWJHZ3JaQTQ?oc=5",
-     "ts": "2026-11-18T08:43:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "87cdf92c14cd",
-   "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
-   "first_seen": "2026-11-18T11:10:48Z",
-   "updated": "2026-11-18T11:10:48Z",
-   "items": [
-    {
-     "id": "87cdf92c14cd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NPR",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVdBSmpxdmx2Q01UNTBkMUNDSHNMa0VqYXJiNmV0d3RUMjdyVTRicklUcXFjUTBoY2J1MVB5T0QxTmhKUFdHNnlTaGdFREVGZm41OVU1RXAzTUNTRnZ6VHdEenNlZWU3Ty05VkpKeVdVRFltTU12ZXB6MUFSYmx3Z3J1dHBMNTVSaGx0YXlKQTFkcmRTeUxv?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a70569ee3806",
-   "title": "I reviewed GTA 6 for 70 hours and then had Rockstar personally answer every criticism I had",
-   "first_seen": "2026-11-18T11:10:48Z",
-   "updated": "2026-11-18T11:10:48Z",
-   "items": [
-    {
-     "id": "a70569ee3806",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GAMINGbible",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "I reviewed GTA 6 for 70 hours and then had Rockstar personally answer every criticism I had",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qREl2YnhEb0x1clNTNU9LZGxsOUpEUUV2d003eXRYcVhRZ3dfbXZQYTZHV1JCQVc5b2doMEZNN1VFVmZjU2cwWEFhaVF3ejdDQXBXOG11Zzh0endKYU16SG13U3RxVXplWFBwOTMxaVdhUQ?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "183b23ac17a4",
-   "title": "GTA 6 Review: An Unbelievable Achievement In Every Sense",
-   "first_seen": "2026-11-18T11:10:48Z",
-   "updated": "2026-11-18T11:10:48Z",
-   "items": [
-    {
-     "id": "183b23ac17a4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "SVG",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Review: An Unbelievable Achievement In Every Sense",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUUnhqOFFRMlBPVTVzbHk3VXZyMjNrX0FwdW9NdWcwc3RLTlh2RjN3Qnk4Y04tQno3OERRMFRYZmN2TlVsYjFnSlowNjZoUUI1cHlZ?oc=5",
-     "ts": "2026-11-18T11:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T11:01:23Z",
+  "last_run": "2026-11-25T11:11:02Z",
   "last_log": [
    "rockstar_site: 0/5",
-   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
-   "gnews_ru: 96/100",
+   "gnews_en: 99/100",
+   "gnews_ru: 94/100",
    "gamesbeat: 3/10",
    "vgc: 7/10",
-   "insider_gaming: 3/10",
+   "insider_gaming: 2/10",
    "ign: 7/20",
    "eurogamer: 15/100",
    "dexerto_gta: 11/50",
