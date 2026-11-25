@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "fe831658b425",
+   "title": "Analyst estimates Call of Duty lost 44% of its players when GTA 6 came out, and unlike fans of its live-service competitors they've been slow to come back",
+   "first_seen": "2026-11-25T03:40:47Z",
+   "updated": "2026-11-25T03:40:47Z",
+   "items": [
+    {
+     "id": "fe831658b425",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Analyst estimates Call of Duty lost 44% of its players when GTA 6 came out, and unlike fans of its live-service competitors they've been slow to come back",
+     "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNdVZtZUxqOERtQ1pUOFpMbW1jc3J1SlgtUUU0cUh1c2txQnBrRXpCSzIyX2tWZFZQSXZSSGFuZS1xUExBU0tPTEsyZFhpc2JXX3V6bnVfMHVRQlRpX2hXLUJKQzJqSUh5a1p3ZUJBdUVTN2ROUHdweFZyRF9NeTZkSzBldkRhemQ1ZlpMeF9MdmlRN0tyNlg1NHZEb3FQMVZWMUQxSlE2R09HcmU0RGl0M2wwclNWRWYyV0FXSE1IRU8wdGM2em9TRTE0NXg2QUNDTThqNlpuUWJqQ2o1UWVoUnFWbmZfVjVac0NpUmlVdlBBTklnSnNkY2FPelNEQTF0VGtZbzAwSEd3Wk5Ebm9WU2QtOVRIQk1Fd1lYRkFUTTN2MmxsazZIS1BYY1Z6NGdKQmc?oc=5",
+     "ts": "2026-11-25T03:37:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 вышла — Call of Duty потерял 44% игроков",
+    "summary": "По оценке аналитика, после выхода GTA 6 Call of Duty потерял 44% игроков, и фанаты CoD возвращаются медленнее, чем у других live-сервисов. Об этом пишет PC Gamer со ссылкой на данные аналитика.",
+    "idea": "Сравнение на таймлайне: пик GTA 6 — провал онлайна CoD — медленное возвращение. Зрителю интересно, «перетянула» ли GTA 6 аудиторию шутеров и надолго ли.",
+    "hook": "GTA 6 вышла — и Call of Duty потерял почти половину игроков.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T03:40:51Z"
+   },
+   "msg_id": 2211
+  },
+  {
    "id": "c9abfd0c957d",
    "title": "From Key Cloning To Car Trackers: How 'GTA 6' Is Making Car Theft A Bigger Hassle",
    "first_seen": "2026-11-25T03:31:03Z",
@@ -199033,54 +199070,15 @@
     "at": "2026-11-18T04:01:13Z"
    },
    "msg_id": 1192
-  },
-  {
-   "id": "7246225affdc",
-   "title": "GTA 6: We left Vice City as kids. Now, we're returning as adults",
-   "first_seen": "2026-11-18T03:31:04Z",
-   "updated": "2026-11-18T03:40:47Z",
-   "items": [
-    {
-     "id": "7246225affdc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Times of India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: We left Vice City as kids. Now, we're returning as adults",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV0lXX1dkQkhIWWNXLVVMUXJpOVRlQ1drQjdkd1hORVdkUnZycm8wMmtBOWNiMUFaelVXSy1iMjJaOU1qMDhRS0NBeHpaNGtkczFTanJxUGx0MHB2aVJFN2ZYSjI3LWFkRVFBTkJSRHVnV2ozQ3Q2M1RuQm9KRnlaS2RpaW1INmJ5LWo5NWc0X2VYZ3A3a2pjZUdfYVN3QjJiaFBya3d4SFY1QW9QMGdJdFJRUnZyN3ZLVTBRM25nZFlvbUNaR3dZSFZpMC1vQdIB0wFBVV95cUxPa1lLTzlScUkzNVZEWHhnYzdvd2M2X2ktOWd1MFZWM2JhTG1WdXgzOVpCRDItTE1IY1E0bzdUT2tBUC0wZDFUTlJEV2VIRURRa2dKNF9pVUZmc04zOGF1TEpDamx6UnlaVG1nT1VFOFdUQWt5WXBsQ3g4MTI4Q3QxWmhjdjE1WFBoUkF6R3N3MnlWOW1uTU5KZ1p3WFlod0ppOFQ5NXJaZGR0Q0RCRTkzeHkyRXFFdnR3UEhjN2Nmam9jNDRvSWxLVlRGRVhsNFhBeklJ?oc=5",
-     "ts": "2026-11-18T02:58:00Z",
-     "summary": ""
-    },
-    {
-     "id": "3cf28cab6549",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Times of India",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: We left Vice City as kids. Now, we're returning as adults",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV0lXX1dkQkhIWWNXLVVMUXJpOVRlQ1drQjdkd1hORVdkUnZycm8wMmtBOWNiMUFaelVXSy1iMjJaOU1qMDhRS0NBeHpaNGtkczFTanJxUGx0MHB2aVJFN2ZYSjI3LWFkRVFBTkJSRHVnV2ozQ3Q2M1RuQm9KRnlaS2RpaW1INmJ5LWo5NWc0X2VYZ3A3a2pjZUdfYVN3QjJiaFBya3d4SFY1QW9QMGdJdFJRUnZyN3ZLVTBRM25nZFlvbUNaR3dZSFZpMC1vQdIB3AFBVV95cUxQTHRLV2dUczJqVjFBYUlIeXh2N2VsQ00zaXN4Si11TXVGUHNyNHRMdjdWaHZwMnZ4N2FuZWtIMlB1X09EQXRWQTE5SkNmOTR4aWdZeUl6UFR0MkRNMHhpczZkTEZDblQ2LVQyQWxRdjZieDE5VklKck5EYzY5ZFBxMmNxbEN5U3B0QXlGbFhCeFM2b09aZVBrWVZURTJDczlDX3gxVmtKZUtXVGh0MldlMGZodzkycFZhcmo5akdZcEZLVVRFaUphOGkxc3p2U0ItSjIzTjVlLWNPck5f?oc=5",
-     "ts": "2026-11-18T02:58:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T03:31:10Z",
+  "last_run": "2026-11-25T03:40:52Z",
   "last_log": [
-   "rockstar_site: 0/4",
-   "gnews_en: 100/100",
-   "gnews_ru: 98/100",
+   "rockstar_site: 0/3",
+   "gnews_en: 99/100",
+   "gnews_ru: 97/100",
    "gamesbeat: 3/10",
    "vgc: 9/10",
    "insider_gaming: 4/10",
