@@ -1,6 +1,95 @@
 {
  "stories": [
   {
+   "id": "9e498ffe1bd1",
+   "title": "GTA VI features a town inspired by Panama City",
+   "first_seen": "2026-11-24T21:31:11Z",
+   "updated": "2026-11-25T01:50:43Z",
+   "items": [
+    {
+     "id": "9e498ffe1bd1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Panama City News Herald",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI features a town inspired by Panama City",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHZYRnZlVGM1WlVEeWF3RXVxeTc5b1Z1bkN5RkwzMk5PdnlOcHFSNWhTZG5YWjFmdG4yejZ4Y3BZZUJCb2dpRU1PUGN1VUJEeFNfSHJQNU5FbzNzS1ZQdXNXNWRnZWxFVFJmdGMtVHU5d2JCcTFETUxSaFRwaDdRaHlaSWhEdk9zNEZhTWJGQ3J2Tkp3SFYwdTRWOGUwSEVIRzBodDFWTjRTcUhqcThhbENTUDc?oc=5",
+     "ts": "2026-11-24T21:15:00Z",
+     "summary": ""
+    },
+    {
+     "id": "4f5fb07e7e11",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Bradenton Herald",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI features a town inspired by Panama City",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95TGpJdFpCcU9jelZsakx5YU1pTWVYcnl1NDB1eWVzYXRDUDN4dmZ2Z0lwZTlEZlRVTGg0M2JGWkV3SFcydUltOFpIeDlpekNOdFZvQnlFd3pidDdZSlJvYVNXaEhmb1JWbEY0c3Rab1JvelNv?oc=5",
+     "ts": "2026-11-24T21:15:00Z",
+     "summary": ""
+    },
+    {
+     "id": "2cd8224d7715",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Panama City News Herald",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI features Panama City-inspired area",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEtjMDFsMWJkeXFsa1d1azl2MXF1Z25vcVhNXzk5bWQtaFNPSng0RFdSaWpmT01IMk9raXl6ajg3WlBXdEwxbWJWUkZJNzBXZWswRzFmQ3NCTTFtQm5icHBqczJIXy1ldXJtUTQ3UUhxdHlXWWllUE1aOFFZaUJWWXI4aDExQUdLeDNkS0NSRnVsX3pNSHVDZUk2cW9MZFg3Yi1MWlZKYmlxMFVYanRJclJWWQ?oc=5",
+     "ts": "2026-11-24T23:48:49Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В GTA 6 нашли город по мотивам Панама-Сити",
+    "summary": "По данным Panama City News Herald и Bradenton Herald, в GTA 6 есть город, вдохновлённый Панама-Сити. Журналисты ссылаются на материалы и наблюдения игроков. Официально Rockstar детали не подтверждала.",
+    "idea": "Сравним улицы и вывески Панама-Сити и утёкшие кадры GTA 6: найдём сходства за 30 секунд. Зрителю интересно увидеть реальные места в игре.",
+    "hook": "В GTA 6 нашли город, списанный с Панама-Сити — смотри сравнение.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T00:01:18Z"
+   },
+   "msg_id": 2204
+  },
+  {
+   "id": "f83f621cc48b",
+   "title": "GTA 6 Guide: All Guides & Collectibles",
+   "first_seen": "2026-11-25T01:50:43Z",
+   "updated": "2026-11-25T01:50:43Z",
+   "items": [
+    {
+     "id": "f83f621cc48b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Push Square",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Guide: All Guides & Collectibles",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZQ0o0R1NyamtXaXVjSmFDTlQ3REpjWXRsanE1dmxjQlZPS2NpVkhCaVliSWl6aFp5Rm1nNS1yTmg2V0J6R2ZNVXlDbjY1OFB0MnhxTE9TTVY?oc=5",
+     "ts": "2026-11-24T22:43:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "2e6959589192",
    "title": "GTA VI's cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder",
    "first_seen": "2026-11-24T05:31:00Z",
@@ -2231,56 +2320,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "9e498ffe1bd1",
-   "title": "GTA VI features a town inspired by Panama City",
-   "first_seen": "2026-11-24T21:31:11Z",
-   "updated": "2026-11-25T00:01:10Z",
-   "items": [
-    {
-     "id": "9e498ffe1bd1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Panama City News Herald",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI features a town inspired by Panama City",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHZYRnZlVGM1WlVEeWF3RXVxeTc5b1Z1bkN5RkwzMk5PdnlOcHFSNWhTZG5YWjFmdG4yejZ4Y3BZZUJCb2dpRU1PUGN1VUJEeFNfSHJQNU5FbzNzS1ZQdXNXNWRnZWxFVFJmdGMtVHU5d2JCcTFETUxSaFRwaDdRaHlaSWhEdk9zNEZhTWJGQ3J2Tkp3SFYwdTRWOGUwSEVIRzBodDFWTjRTcUhqcThhbENTUDc?oc=5",
-     "ts": "2026-11-24T21:15:00Z",
-     "summary": ""
-    },
-    {
-     "id": "4f5fb07e7e11",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Bradenton Herald",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI features a town inspired by Panama City",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95TGpJdFpCcU9jelZsakx5YU1pTWVYcnl1NDB1eWVzYXRDUDN4dmZ2Z0lwZTlEZlRVTGg0M2JGWkV3SFcydUltOFpIeDlpekNOdFZvQnlFd3pidDdZSlJvYVNXaEhmb1JWbEY0c3Rab1JvelNv?oc=5",
-     "ts": "2026-11-24T21:15:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "В GTA 6 нашли город по мотивам Панама-Сити",
-    "summary": "По данным Panama City News Herald и Bradenton Herald, в GTA 6 есть город, вдохновлённый Панама-Сити. Журналисты ссылаются на материалы и наблюдения игроков. Официально Rockstar детали не подтверждала.",
-    "idea": "Сравним улицы и вывески Панама-Сити и утёкшие кадры GTA 6: найдём сходства за 30 секунд. Зрителю интересно увидеть реальные места в игре.",
-    "hook": "В GTA 6 нашли город, списанный с Панама-Сити — смотри сравнение.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-25T00:01:18Z"
-   },
-   "msg_id": 2204
   },
   {
    "id": "69fe4b2519b7",
@@ -198931,100 +198970,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "14b3742df575",
-   "title": "GTA 6's release will stress test the internet just as everything's falling apart",
-   "first_seen": "2026-11-18T01:40:51Z",
-   "updated": "2026-11-18T01:40:51Z",
-   "items": [
-    {
-     "id": "14b3742df575",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's release will stress test the internet just as everything's falling apart",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmYyWEk0T2FvZ3BPSDljaTZzdjQzaUlSWlFIb3E0ajdCM0JNZ0p1QWlyOVRnOEZtR3FRSjhJLUZqWG9sZWtHeEdfM3FGMk4ycXgzNjh6NFZaVWF6S2ozMUVJcXZZTzBrOWw3MnRoYWNvZ2xESjJtMG9WYXNCancyTWxhT3R5RU43MWxNcTVR?oc=5",
-     "ts": "2026-11-18T01:29:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a1f72aa6ee61",
-   "title": "Игровые приставки резко подорожали перед выходом GTA 6: цены в Челябинске",
-   "first_seen": "2026-11-18T01:40:51Z",
-   "updated": "2026-11-18T01:40:51Z",
-   "items": [
-    {
-     "id": "a1f72aa6ee61",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "kursdela.biz",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Игровые приставки резко подорожали перед выходом GTA 6: цены в Челябинске",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHc4YTVnV3NHWGJJbEZCRnJNRnhhZUhHNTVfdUxuY3hBeG5xRUtoclFxWE45aDZLRG5DLVlfWkV6ZGh4UEZYNnBwSEFRSThianBpWEYyVEhKLTRPSDBEN1hPZ0hxX3lXeFFlZGU1ekUtX08zR1Y4OUpiUmUwVDNjamFBY3JLU3VVNHFVTkF3YUJnS3Nnd29uUy16UkJwVjFTMHNrVmhWR1k0Z1hSWXNIOFlUaEh1dUc1Y05tQnhR?oc=5",
-     "ts": "2026-11-18T01:35:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6b61e38b8f2d",
-   "title": "The GTA 6 Uninstallation Graveyard: Everything We Deleted To Make Room",
-   "first_seen": "2026-11-18T01:40:51Z",
-   "updated": "2026-11-18T01:40:51Z",
-   "items": [
-    {
-     "id": "6b61e38b8f2d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "The GTA 6 Uninstallation Graveyard: Everything We Deleted To Make Room",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUoyRFU1UktOMjQxX2JjcS1nVXVJb05Xa2pKSWdoUC1SV2RJUklKN1FRRlBtV1J3bGU1a3pIdVB5TVdBMjFFdnljd2J1QW0zTlk0VkVKOEdldzhncHBTVFpJTHA0X1hObzVOekRBV3BOSjljYWtRaFJkNlI2anptbi1nVEc1T29nNDdyUU03SmNwZWZPSUFwSzhkMVB2T09qUTM0UUVEbw?oc=5",
-     "ts": "2026-11-18T01:36:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Кладбище удалений ради GTA 6: что стирали ради места",
-    "summary": "GameSpot выпустил материал о том, что игроки удаляли ради GTA 6. В подборке — игры, сохранения и тяжёлые приложения, которые стирали ради предзагрузки.",
-    "idea": "Короткий ролик-опрос с быстрым показом скринов: что ты удалил ради GTA 6? Зрителю интересно узнать чужие жертвы и сравнить со своими.",
-    "hook": "Что ты удалил ради GTA 6? Вот что стирали игроки — и это больно.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T01:40:59Z"
-   },
-   "msg_id": 1189
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T01:40:43Z",
+  "last_run": "2026-11-25T01:50:43Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
