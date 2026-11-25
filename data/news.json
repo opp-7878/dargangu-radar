@@ -4,7 +4,7 @@
    "id": "2e6959589192",
    "title": "GTA VI's cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder",
    "first_seen": "2026-11-24T05:31:00Z",
-   "updated": "2026-11-25T04:10:45Z",
+   "updated": "2026-11-25T04:20:56Z",
    "items": [
     {
      "id": "2e6959589192",
@@ -926,6 +926,19 @@
      "alert": true,
      "title": "GTA 6 Prologue Now Runs on PC with a Graphics Card Radeon RX 7800 XT at 2 FPS",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmt1NXJKOXoxN3MyeThHX2N1ZkEtUmlKSVRWNUNCeERVVlpzdV9MUjF0a1RXT2JtcjdibXNIYmwyaXlvZXBEdkZDWmVoMG9BSzZHVnlKWVFEeXR3d2RkV1lfRW1OaXVyZDBhNjBkUmJUNWVlVlE3eEVPTnhwU3ZwQVFzM041dmNfdTR0cXVWODA0QkYtU1RocG9qZWQ0ZjIxaHdvUGR3?oc=5",
+     "ts": "2026-11-25T04:02:20Z",
+     "summary": ""
+    },
+    {
+     "id": "904e52065d1f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Пролог GTA 6 заработал на ПК с видеокартой Radeon RX 7800 XT при 2 FPS",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOejFxSkpKN3F2NXM5YVBTWGt0TWJVTnhNNGNoSnNld256ajJKNjZXR3dXc3hKMmlkbGROcjZ5c0JZMGdXQmFJaHFWOTR5Q3RQcWNmWHRxbHVWYkhOT01pdW5GckVjSjlEZzQ0NjJfc0l5QTJmaE9wc2RWb29aNVFfcDFKeVdBRWl6Tk14YS1RTWdlNTlwWUpneHlDQXV1LTlEQUE?oc=5",
      "ts": "2026-11-25T04:02:20Z",
      "summary": ""
     }
@@ -199243,41 +199256,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "55490e844777",
-   "title": "Does GTA 6 Have a Physical Disc? Code-in-Box Explained",
-   "first_seen": "2026-11-18T04:20:49Z",
-   "updated": "2026-11-18T04:20:49Z",
-   "items": [
-    {
-     "id": "55490e844777",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Game Haus",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Does GTA 6 Have a Physical Disc? Code-in-Box Explained",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzY1RmxHSnZSXzUyeW01aS1GWGpMZGxwNEIwbGFQWUlXT3o3SnlJaWtXSzVZcjVKM0dXTU0wYm9xTDdva0VEUGM1WTA5OVlrank3dENBNUdKaEhlTThBWWRzdWZTVUlKNXpnRXdIZmVha0ZpMkJjV1dsUkJTQW9XVGttSTJsNjZSRFREa0dSamNwQTV1Q0lmbWI2UQ?oc=5",
-     "ts": "2026-11-18T04:15:26Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T04:10:49Z",
+  "last_run": "2026-11-25T04:20:56Z",
   "last_log": [
    "rockstar_site: 0/4",
-   "gnews_en: 100/100",
-   "gnews_ru: 99/100",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
+   "gnews_ru: 98/100",
    "gamesbeat: 3/10",
    "vgc: 9/10",
    "insider_gaming: 4/10",
