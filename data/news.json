@@ -1,6 +1,80 @@
 {
  "stories": [
   {
+   "id": "bf28111d3cc9",
+   "title": "Hell yeah, there's a zoo in GTA 6",
+   "first_seen": "2026-11-25T21:40:51Z",
+   "updated": "2026-11-25T21:40:51Z",
+   "items": [
+    {
+     "id": "bf28111d3cc9",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Hell yeah, there's a zoo in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa1ByR1BHTTNnRWFBYkNNV0Q3bXd1MW9tdzNZOE5FVlEzdExQYjhLZGN6WVZaRTBDQlBSTmhJVDFxQmhjc3Z2RTlZc0tfTF9sWGQ5bnY0aU5uMlNvWHppVXZqczRybTlhYjY5c0ItQVFpTHlReVVoSG9RcWF0N0Rmbk1PenJVQQ?oc=5",
+     "ts": "2026-11-25T21:24:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В GTA 6 будет зоопарк? Что заметили в кадрах",
+    "summary": "По данным PC Gamer, в материалах GTA 6 заметили локацию, похожую на зоопарк. Издание ссылается на кадры и обсуждения фанатов. Официально Rockstar это не подтверждала.",
+    "idea": "Покажем кадры с «зоопарком» и сравним с Вайс-Сити — зрители любят искать скрытые локации. Короткий вердикт: ждём подтверждения.",
+    "hook": "Зоопарк в GTA 6? Смотрим кадры и решаем, фейк или нет.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T21:40:54Z"
+   },
+   "msg_id": 2298
+  },
+  {
+   "id": "82d41bf167bc",
+   "title": "GTA 6 vault: How to open it during big bank jobs",
+   "first_seen": "2026-11-25T21:40:51Z",
+   "updated": "2026-11-25T21:40:51Z",
+   "items": [
+    {
+     "id": "82d41bf167bc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 vault: How to open it during big bank jobs",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HZzk4OEwwWW9aVDNJNHpweDByWUtaTFVuNHVaUnVrT2tBMk5XdFptNDhXX2F3Q2RQWWtfQkR1eUhxeFlkT3hpdDRWSTItcnVadFFMRDU5NUg2amNiVkxaUmEwMnhUbnpFOEhFcFptdG5vMGF5ZGduUEpaQQ?oc=5",
+     "ts": "2026-11-25T21:31:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Как открыть хранилище GTA 6 в больших ограблениях банка",
+    "summary": "По данным PC Gamer, в GTA 6 для больших ограблений банка потребуется вскрывать хранилище. Детали механики пока не раскрыты, но ожидается мини-игра с инструментами.",
+    "idea": "Покажем, как может выглядеть взлом хранилища: инструменты, таймер и реакция на провал. Зрителю важно понять, насколько это сложно и зрелищно.",
+    "hook": "Как вскрыть хранилище в GTA 6 и не поднять тревогу — показываю.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T21:40:57Z"
+   },
+   "msg_id": 2299
+  },
+  {
    "id": "ea13ff25e65c",
    "title": "GTA 6 Animation Director Reveals Just How Far Rockstar Went to Make Holding Items More Immersive",
    "first_seen": "2026-11-25T21:20:48Z",
@@ -184729,130 +184803,15 @@
     "at": "2026-11-18T21:50:52Z"
    },
    "msg_id": 1411
-  },
-  {
-   "id": "889bf3ac9d26",
-   "title": "GTA VI by the numbers: My stats after finishing the campaign on PS5",
-   "first_seen": "2026-11-18T21:40:57Z",
-   "updated": "2026-11-18T21:40:57Z",
-   "items": [
-    {
-     "id": "889bf3ac9d26",
-     "src": "gamesbeat",
-     "src_name": "GamesBeat",
-     "outlet": "",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "GTA VI by the numbers: My stats after finishing the campaign on PS5",
-     "url": "https://gamesbeat.com/gta-vi-by-the-numbers-my-stats-after-finishing-the-campaign-on-ps5/",
-     "ts": "2026-11-18T20:02:00Z",
-     "summary": "I was able to get an early copy of Grand Theft Auto VI from Rockstar Games for the purposes of our review. I’ve published... The post GTA VI by the numbers: My stats after finishing the campaign on PS5 appeared first on GamesBeat ."
-    }
-   ],
-   "tags": [],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Геймплей GTA 6 изнутри: цифры и факты после финала",
-    "summary": "Журналист GamesBeat получил раннюю копию GTA 6 от Rockstar и прошёл кампанию на PS5. Он поделился итоговой статистикой после финала — это первые реальные цифры по игре.",
-    "idea": "Короткая нарезка самых ярких чисел из кампании (время, миссии, погони) с динамичным монтажом. Зрителю интересно увидеть, насколько насыщенной получилась игра.",
-    "hook": "Я прошёл GTA 6 на PS5 — вот цифры, которые вас удивят.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T21:41:02Z"
-   },
-   "msg_id": 1410
-  },
-  {
-   "id": "d53da48f96ab",
-   "title": "‘GTA 6 The Album’: Tracklist, Artists, and What to Know",
-   "first_seen": "2026-11-18T21:40:57Z",
-   "updated": "2026-11-18T21:40:57Z",
-   "items": [
-    {
-     "id": "d53da48f96ab",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Complex",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA 6 The Album’: Tracklist, Artists, and What to Know",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeEp6cFRXdUstWGxQZGhsbE4teGJxMUR6VUtDdl9RNGx1RDhic3k3SnhxbTg5bXRhZ2cyQXdoUWVJVHZHSDhjWElJTjF4WkJzeHE4UXRCU2dvTVJWekxqc3NvVXN6TUpYem1Ka1pwRFdIOHA0ZzlTYXB6WEd3SnlCQlRQcmpranAwTk5pcVVnQnJBaWdjUWkzNg?oc=5",
-     "ts": "2026-11-18T21:01:30Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "877ccfe173ec",
-   "title": "How to Complete Pipework in GTA 6",
-   "first_seen": "2026-11-18T21:40:57Z",
-   "updated": "2026-11-18T21:40:57Z",
-   "items": [
-    {
-     "id": "877ccfe173ec",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "How to Complete Pipework in GTA 6",
-     "url": "https://www.gtaboom.com/gta-6-pipework-walkthrough-dac2",
-     "ts": "2026-11-18T21:32:44Z",
-     "summary": "Finish Pipework in GTA 6 by grabbing the plunger beside Mandy's bathroom toilet, then using it and the wrench at her kitchen sink."
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9dacc2047dd1",
-   "title": "‘Grand Theft Auto 6’ hype is off the charts. Here’s why experts say that is",
-   "first_seen": "2026-11-18T21:40:57Z",
-   "updated": "2026-11-18T21:40:57Z",
-   "items": [
-    {
-     "id": "9dacc2047dd1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MassLive",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto 6’ hype is off the charts. Here’s why experts say that is",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFJqNGUzRjY1N25kQXlGRHZNVWhZUmttRkF4Y05NYnNZVkFBS1R0ZUNEcGdPWHlSTEpTXy1pNjlPYWVIVVhwaTQ3U090RWRzUUNnR0dvaHFyQlFnQkZLYWpmSkZmMEY2bEN1aFc2X3VHdDZGaS1vdlpsVi1ZWlN4NmMtTy11OXpmSEJ6TzQ4aWR0Y0F2bXM0TUdPd0VOcDU1Z2YzT2lUS2xKTVg0WHc?oc=5",
-     "ts": "2026-11-18T21:33:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T21:31:09Z",
+  "last_run": "2026-11-25T21:40:58Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 97/100",
-   "gnews_ru: 99/100",
+   "gnews_ru: 98/100",
    "gamesbeat: 2/10",
    "vgc: 5/10",
    "insider_gaming: 7/10",
