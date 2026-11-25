@@ -1,86 +1,10 @@
 {
  "stories": [
   {
-   "id": "78348d7674a4",
-   "title": "'GTA VI' reclaims the car radio as a music discovery machine",
-   "first_seen": "2026-11-24T20:20:50Z",
-   "updated": "2026-11-25T01:30:58Z",
-   "items": [
-    {
-     "id": "78348d7674a4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NPR",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA VI' reclaims the car radio as a music discovery machine",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15QUwySXZWWWQ5RDRlVUp2QXMweHNGdjhsblVrbHkxdWZnZTEyUWRxUTB5SEE0QWNRR0pQU2xwckI3M3NiMWZJd3lOUkJiaWw1TW51b2l4VHplT3U5QkNkSzhXWDN0TkdnREUzSTR3RnNTenA1LUZ1LW5KdkRGQQ?oc=5",
-     "ts": "2026-11-24T20:12:17Z",
-     "summary": ""
-    },
-    {
-     "id": "dc5629a6d1b6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WFAE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "In 'GTA VI,' every stolen car is a music discovery machine",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWpyWjlFTFRxZUcxN3F5U2tmaG9ldlhYS2hOU2huYzI0SnR0S1N3NHRTVjZCd09xQnFIZzdsTVJKOHVCSHNzcV9mdk95TC1MUFJUNlpnWDNuRnR5aHcxY1NGb19rOUtNanlaWXM2N0lVQk5aVmdMZmxsLVhxV2JMb0FQblBxanBlU1ZiRm9DVkFPZkR6dDBZeDRtRnU3MG9MdUtB?oc=5",
-     "ts": "2026-11-24T20:12:00Z",
-     "summary": ""
-    },
-    {
-     "id": "8f62e16df7f2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KOSU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "In 'GTA VI,' every stolen car is a music discovery machine",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkJsMG9IYl9JS2xOZVpKbFZ4bzRwODYzUUQwQi13NnByUnNoX3otRnYtNzNGOVAtZXFsVWxVblFraTM5a25fLXp3a1FHX0xkS21BVDlMR01sVVllQ2ZuaWx3RG5BeFVEb1FkZ1B3RU1QQ0hjRDhGZTBWYVlmVkI1X2FWS2xlOVdnNmRRY0pkZXA3MTFZMU1JaQ?oc=5",
-     "ts": "2026-11-24T20:17:00Z",
-     "summary": ""
-    },
-    {
-     "id": "8f95b2685855",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WEAA",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "In 'GTA VI,' every stolen car is a music discovery machine",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3RvLV9tNkFmNXc2VFFoLVV3ZFMzX0ZQZ1R1RjVjdk5qcGJsODd3N3VWUFNSWE14dm40eFB6aDltV2o0ZzVVZmF3UnlNdm5YcU5yY2ZPdVdiYk80M0ViVmJTd2NvQ2hPWWViakNFZTRBSDlMbG00TU5tQkhtdFZVT0hyMUhaQXpQM2pTdkxwN2drT2p6MTljMQ?oc=5",
-     "ts": "2026-11-24T20:12:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 74,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "В GTA 6 радио снова открывает музыку: что говорят NPR и WFAE",
-    "summary": "По данным NPR и WFAE, в GTA 6 радио вновь становится машиной для музыкальных открытий: каждая угнанная машина — новый плейлист. Журналисты отмечают, что саундтрек помогает находить треки и расширяет фонотеку игрока.",
-    "idea": "Короткий тест: угоняем три машины подряд и показываем, как меняется радио, плюс трек, который захочется Shazam-нуть.",
-    "hook": "Угоняешь тачку в GTA 6 — и находишь свой новый любимый трек.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-24T22:51:02Z"
-   },
-   "msg_id": 2199
-  },
-  {
    "id": "2e6959589192",
    "title": "GTA VI's cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder",
    "first_seen": "2026-11-24T05:31:00Z",
-   "updated": "2026-11-25T01:30:58Z",
+   "updated": "2026-11-25T01:40:43Z",
    "items": [
     {
      "id": "2e6959589192",
@@ -952,6 +876,19 @@
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjdtOVBHb19CV0Z2WGxqR29ZaENoclUzQTVtcldXbE9MVXgtOVM5RWRvNzJwalE1aEV5cE8xV3VYT3Z1aWQzcnJoUHBleHNjazk4R1hoczFIX29ZYWtRdUFNRllVUHk2aWRiSGN5dnJoNm9LbkpZNzBqQUx2ZzVhenprY2NHMmhtQy1xd3BB?oc=5",
      "ts": "2026-11-25T01:21:25Z",
      "summary": ""
+    },
+    {
+     "id": "e4df3f01191d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Wenatchee World",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' sets record $3.79B in first-day retail sales, Rockstar Games reports",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYkdzNWhiclIzU2xHZ1M0Uy1tNUxqNm9KY0ZkMFRkQ05ZS2thT19LUmZhcF9zNUJYM1BZampsTUJTM3Q5MGZvNWVlU25nSXNfUkx0NEhtVl84QmgyeERDQVFBbnpfZmZzNmNHYUJWdGtUd1REaGlTcTVTQmtfSnNoaWxIbEZpU3YtaWVIR0xMS1lRVTFXaDBPTjNTWExmc2hrbUg5NDJEVmpSeHNNbnN2V3NUM0k4cnNCUUV0VEQxd2NTRGNZRlF4XzN4U3hQdFhxalpCMGZZWi0zVXl5YnhQN0J4WVBrN20xYmwtU01WWFEyai1tVjNQc3BkQzk?oc=5",
+     "ts": "2026-11-25T01:03:00Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -965,6 +902,318 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
+  },
+  {
+   "id": "8a94f4091dc2",
+   "title": "Max Verstappen Spent the Weekend Playing 40 Hours of GTA 6 and Still Won the Las Vegas Grand Prix",
+   "first_seen": "2026-11-25T00:01:10Z",
+   "updated": "2026-11-25T01:40:43Z",
+   "items": [
+    {
+     "id": "8a94f4091dc2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Max Verstappen Spent the Weekend Playing 40 Hours of GTA 6 and Still Won the Las Vegas Grand Prix",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjJXRmprSHBjMDBDa1BhZWZadnhDaXZteDlQUllyOGFxRTNXVlZ0TTNOVG5ELWJKX0NTVzI2Q3ppZGtNb3c5STZkcDZvdE1rdDB4WU9sMXc2ZGRHZzNpaEFhOFZ4VmRlc2tySjFSb0hEOW9fVHJfWWprMkJVbG9CY05xNVNsUDd4bnhHR1lYWVp0aTYtTDV1bHRkWHkyQXh4cUFwRDlwdjI1YkI0RWRobw?oc=5",
+     "ts": "2026-11-24T23:49:51Z",
+     "summary": ""
+    },
+    {
+     "id": "8b52df7c0111",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSXVUdXlDVzd1eGtYY3dnWmZuUjJadnVJSFRKRHFaV2pNS1ZFckYwSzZtaGZFcXRHRTJ3QTZwOUNBYkRHdFIwRVhnQ1ZiMDZFb3lLTml5bl9sdUtDZnVKRllsZjhHTWFHekZCWVg5RnZPa2RpWldKYTNYd3pva09qU2huQ3otajNFWnF2STg2VzlKWnIyV0RDWVRxdFZTcmxyUF9ocXEwWVJsT2hBLS1zYWdKY05qbFVhc1RuOFVHUW96YkNkUGN4QkNESWw?oc=5",
+     "ts": "2026-11-25T00:03:29Z",
+     "summary": ""
+    },
+    {
+     "id": "ccb48df99ca8",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
+     "url": "https://www.ign.com/articles/max-verstappen-spent-40-hours-playing-gta-6-and-still-won-the-las-vegas-grand-prix",
+     "ts": "2026-11-24T23:49:50Z",
+     "summary": "Famous Dutch-Belgian race driver Max Verstappen revealed that he’d spent the weekend of the Las Vegas Grand Prix locked in to GTA 6, saying he played over 40 hours of the game."
+    },
+    {
+     "id": "8c8d7e1567fa",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWG5RS3NUWEVPaDRfOEg4cGp4TTI3RmJiZE5vV1VtU0dxRGIzUHR2aGYzTnZlVE10VkNhaG4xQWF6amNubnJtR3VWWDFRMENaclJYYU9weXV1N1YwcE1JMlo1bVVtd1ZoYm9DTU5WUHB1a1hSOEhMZ29OdFl2N0dXMmFpZDZxRzdHVmp6ZHlsTEl6MDhkQU1Tc1E0QTZSUkNHQ1lKMFNkSWZNRWdJYVNQenN6Z0FITW1QSmkyM2hvRDNmYkJtci1uVHFyMmpGWm5WbGdILVFUSnUyQQ?oc=5",
+     "ts": "2026-11-25T00:04:08Z",
+     "summary": ""
+    },
+    {
+     "id": "3bd1668eb0c0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN3VCXzc1RFVoaXhyWkRWczFJSXo2eHVSYkJkRmRGWU9HTjVLemU0aXl1NGlIaUY2QU5YdW1Kd1RuTkJhUTdoakJaVlhjS0dVMXZ4RGZFSy1zWmwycGJxc3MzZmM0d2p5UVg2MHdpeC15ek9QaTQtby0zM190MW5FTGFRN2RpLW83WFg2QjZIakVzSXRjYVJkdGtQc1BrQXE0ZTV5VlhMZkpoUmI5U25jb0VBYWg1MUhxSjRQTWk1WUtiTllLTWkzTE9EWmVOYl9jaVpudGpfRnp0MGs?oc=5",
+     "ts": "2026-11-25T01:38:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru",
+   "ai": {
+    "title_ru": "40 часов GTA 6 и победа в Вегасе: как Макс Ферстаппен успевает всё",
+    "summary": "По данным IGN, Макс Ферстаппен провёл 40 часов за GTA 6 за выходные и всё равно выиграл Гран-при Лас-Вегаса. Гонщик совмещал игру и победу на трассе. Источник — IGN и IGN Nordic.",
+    "idea": "Короткий контраст: «40 часов GTA 6» и «победа в Вегасе» — как он успевает, и что это значит для нас, геймеров. Зрителю интересно, потому что это редкий пример «играю много — выступаю топ».",
+    "hook": "40 часов в GTA 6 за выходные — и победа в Вегасе. Как он это делает?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T00:10:51Z"
+   },
+   "msg_id": 2205
+  },
+  {
+   "id": "1650b3f664a4",
+   "title": "GTA 6: Pre-order bonus wasn't exclusive, now available separately for $5",
+   "first_seen": "2026-11-24T14:50:51Z",
+   "updated": "2026-11-25T01:40:43Z",
+   "items": [
+    {
+     "id": "1650b3f664a4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Notebookcheck",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Pre-order bonus wasn't exclusive, now available separately for $5",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1JweU5ERzJEMWdXUGVkQTF6SDNCZnRWbnQ0aUtmN0RyMVUwcUhNMzJXUkN3ZHBITEpSUDR3RWtEeVg1bm80ai1KcTAwWF9NTmRlQUxnamVvdHRyUDNNMEhSTUs4emhlV2NvLW9EZVBudEhDREN5MFFpT2VZakQzcVZRb2tKbGJwX2dkeDlwNFQ0Mk9KZGlRaUFIZTAzc3h4eHUtUmwwN2lHYTBHNERpZEdDaEU?oc=5",
+     "ts": "2026-11-24T14:37:00Z",
+     "summary": ""
+    },
+    {
+     "id": "e46de260f401",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "MIXED News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Missed GTA 6’s Vintage Vice City bonus? Rockstar is now selling the pack separately for $4.99",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrb3l2dGhEWDFtRXIxdDVtbkM2MTFkRGk1bTAxZTg0dE9FeEZHcl9zYVRDQ21xWlFvcHp3WDRLWG9Ib1B6MVN5bnRuV0dCa2RvMjEzT3V2dVctMjk4aTRVNkRPZTBURUJjdS1BZGJqMnJFMEUzTWQwOVVZX3hmLVk?oc=5",
+     "ts": "2026-11-24T19:53:39Z",
+     "summary": ""
+    },
+    {
+     "id": "026a5ce9e314",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TweakTown",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Pre-ordering GTA 6 only got you an early seat and $5 in savings, as its supposedly exclusive bonus goes on sale for $4.99",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQangwc2tMZ2MzMUF1ZWlaSEhHQ3V2QzFLRk9DNU5NRzdsR002WE9oYWlEaGRUNE5VQ1NEWjh4RzNMMGg2U1IxSm4tY0RfT0ZENjBLNWFtM1gzZ0U5cVdwdmY3aWtQaFJVRG4wampvYWtZeFRDQmpqLVBRdWdyZDVMd0JNdTQ2MFJUT2hlWldXMVNVd2MydDhmM1JWc3FwYXplTHpUQUI5c0l4eGhCRlFaVTFqNXBGdWthbmdtZS12T1lwb0wySEZ4VFNoR0ZTRXVuMF9taG81TTJQLTAyamlzREx2X2ZLNTFyaFVuaFNSQ3JVd2tUSk9hVlRRblkxSWduTndsNjVWRldqZWFidXc?oc=5",
+     "ts": "2026-11-25T01:35:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Бонус за предзаказ GTA 6 теперь продаётся отдельно за $5",
+    "summary": "По данным Notebookcheck, бонус за предзаказ GTA 6 перестал быть эксклюзивным и теперь продаётся отдельно за 5 долларов. Речь о предмете, который ранее давали только за предзаказ.",
+    "idea": "Короткий разбор: что за бонус, почему его убрали из предзаказа и кому выгодно купить отдельно за $5. Зрителю важно понять, стоит ли брать сейчас или это пустышка.",
+    "hook": "Бонус за предзаказ GTA 6 теперь можно купить отдельно за $5.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T14:50:58Z"
+   },
+   "msg_id": 2135
+  },
+  {
+   "id": "df0546a42fc2",
+   "title": "Rockstar Games Employees Voting to Unionize Amid ‘GTA VI’ Release",
+   "first_seen": "2026-11-25T01:40:43Z",
+   "updated": "2026-11-25T01:40:43Z",
+   "items": [
+    {
+     "id": "df0546a42fc2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games Employees Voting to Unionize Amid ‘GTA VI’ Release",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFQeWYxUHh3NnBDdXotbmJSenQwWnotVDlQS2pOVDd3ajZVX2M1N29rUGNpYWxlMkhBSXdXYkNrQk5xek9CNUtKclBZem9hTlA5RkV2UXo3Y2VpUzZLYjBwdmVBTktXekdmSjkyUXQwTmZrOURma3JzcWtyTDY0Zy1pdDFVMDhza3o3VktuVmtuUlZHdEF2ZmRJVUlpaFFaUWc?oc=5",
+     "ts": "2026-11-25T01:08:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4147f90a0e39",
+   "title": "The Witcher 4 Should Improve on Witcher 3 as Much as GTA 6 Did on GTA 5, Says CDPR",
+   "first_seen": "2026-11-25T01:40:43Z",
+   "updated": "2026-11-25T01:40:43Z",
+   "items": [
+    {
+     "id": "4147f90a0e39",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TechPowerUp",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Witcher 4 Should Improve on Witcher 3 as Much as GTA 6 Did on GTA 5, Says CDPR",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRDBvUlozTW0zcTN0QVV6SERETW51VEREQmkxY1pQVURVMFhqZ1NxalVmazBuMnBfbFhRNFNZQ0lPSW9Rbm1NZnd5d05HdVd5bjlRMkVhRHJoX3FHZkdzRDJqTjFqR09ZV0t1VzVQTEthMHFBOHRIUWl1SldrNzRWb3Nob1BoYndmWWZvUy1USXh1Qi1QWnJuNThjN3AzelJnd25EaS1xUVUzaF9yOTdaR1N5OThQS3fSAbwBQVVfeXFMTzA1b3FUYWU2Q184c2hYWERyN3ZwOGxSWTJQWkgtUzV5SURtYms0SkpLT0pteDBYUnBfNlc2QjJSVUlKbE8ta25tcTY2VXVnaG95T3FmcWlEbmlfdFJQV0xBcUVfTWl1dnpScW1peHdmQmdzRTRxMXljWlBnVF9ESmdiNkdMNW9LS0F0LVFCa255ZERwS3gwUmZkU1dDR0FoSDhERjgybkNtMjVaaHQzVlNuZHU3VVY5cmxkajI?oc=5",
+     "ts": "2026-11-25T01:33:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4c9166db2a26",
+   "title": "Obbe Vermeij Says the GTA 6 Headphones Feature Goes Back to Vice City in 2002",
+   "first_seen": "2026-11-25T01:40:43Z",
+   "updated": "2026-11-25T01:40:43Z",
+   "items": [
+    {
+     "id": "4c9166db2a26",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "Obbe Vermeij Says the GTA 6 Headphones Feature Goes Back to Vice City in 2002",
+     "url": "https://www.gtaboom.com/obbe-vermeij-says-the-gta-6-headphones-feature-goes-back-to-vice-city-in-2002",
+     "ts": "2026-11-25T01:34:44Z",
+     "summary": "Obbe Vermeij shared the unused pickup icon for the headphones feature planned for Grand Theft Auto: Vice City in 2002, long before GTA 6."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "78348d7674a4",
+   "title": "'GTA VI' reclaims the car radio as a music discovery machine",
+   "first_seen": "2026-11-24T20:20:50Z",
+   "updated": "2026-11-25T01:30:58Z",
+   "items": [
+    {
+     "id": "78348d7674a4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NPR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA VI' reclaims the car radio as a music discovery machine",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15QUwySXZWWWQ5RDRlVUp2QXMweHNGdjhsblVrbHkxdWZnZTEyUWRxUTB5SEE0QWNRR0pQU2xwckI3M3NiMWZJd3lOUkJiaWw1TW51b2l4VHplT3U5QkNkSzhXWDN0TkdnREUzSTR3RnNTenA1LUZ1LW5KdkRGQQ?oc=5",
+     "ts": "2026-11-24T20:12:17Z",
+     "summary": ""
+    },
+    {
+     "id": "dc5629a6d1b6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WFAE",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "In 'GTA VI,' every stolen car is a music discovery machine",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWpyWjlFTFRxZUcxN3F5U2tmaG9ldlhYS2hOU2huYzI0SnR0S1N3NHRTVjZCd09xQnFIZzdsTVJKOHVCSHNzcV9mdk95TC1MUFJUNlpnWDNuRnR5aHcxY1NGb19rOUtNanlaWXM2N0lVQk5aVmdMZmxsLVhxV2JMb0FQblBxanBlU1ZiRm9DVkFPZkR6dDBZeDRtRnU3MG9MdUtB?oc=5",
+     "ts": "2026-11-24T20:12:00Z",
+     "summary": ""
+    },
+    {
+     "id": "8f62e16df7f2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "KOSU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "In 'GTA VI,' every stolen car is a music discovery machine",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkJsMG9IYl9JS2xOZVpKbFZ4bzRwODYzUUQwQi13NnByUnNoX3otRnYtNzNGOVAtZXFsVWxVblFraTM5a25fLXp3a1FHX0xkS21BVDlMR01sVVllQ2ZuaWx3RG5BeFVEb1FkZ1B3RU1QQ0hjRDhGZTBWYVlmVkI1X2FWS2xlOVdnNmRRY0pkZXA3MTFZMU1JaQ?oc=5",
+     "ts": "2026-11-24T20:17:00Z",
+     "summary": ""
+    },
+    {
+     "id": "8f95b2685855",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WEAA",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "In 'GTA VI,' every stolen car is a music discovery machine",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3RvLV9tNkFmNXc2VFFoLVV3ZFMzX0ZQZ1R1RjVjdk5qcGJsODd3N3VWUFNSWE14dm40eFB6aDltV2o0ZzVVZmF3UnlNdm5YcU5yY2ZPdVdiYk80M0ViVmJTd2NvQ2hPWWViakNFZTRBSDlMbG00TU5tQkhtdFZVT0hyMUhaQXpQM2pTdkxwN2drT2p6MTljMQ?oc=5",
+     "ts": "2026-11-24T20:12:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 74,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В GTA 6 радио снова открывает музыку: что говорят NPR и WFAE",
+    "summary": "По данным NPR и WFAE, в GTA 6 радио вновь становится машиной для музыкальных открытий: каждая угнанная машина — новый плейлист. Журналисты отмечают, что саундтрек помогает находить треки и расширяет фонотеку игрока.",
+    "idea": "Короткий тест: угоняем три машины подряд и показываем, как меняется радио, плюс трек, который захочется Shazam-нуть.",
+    "hook": "Угоняешь тачку в GTA 6 — и находишь свой новый любимый трек.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T22:51:02Z"
+   },
+   "msg_id": 2199
   },
   {
    "id": "d1e52e78f470",
@@ -1722,86 +1971,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "8a94f4091dc2",
-   "title": "Max Verstappen Spent the Weekend Playing 40 Hours of GTA 6 and Still Won the Las Vegas Grand Prix",
-   "first_seen": "2026-11-25T00:01:10Z",
-   "updated": "2026-11-25T00:30:59Z",
-   "items": [
-    {
-     "id": "8a94f4091dc2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Max Verstappen Spent the Weekend Playing 40 Hours of GTA 6 and Still Won the Las Vegas Grand Prix",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjJXRmprSHBjMDBDa1BhZWZadnhDaXZteDlQUllyOGFxRTNXVlZ0TTNOVG5ELWJKX0NTVzI2Q3ppZGtNb3c5STZkcDZvdE1rdDB4WU9sMXc2ZGRHZzNpaEFhOFZ4VmRlc2tySjFSb0hEOW9fVHJfWWprMkJVbG9CY05xNVNsUDd4bnhHR1lYWVp0aTYtTDV1bHRkWHkyQXh4cUFwRDlwdjI1YkI0RWRobw?oc=5",
-     "ts": "2026-11-24T23:49:51Z",
-     "summary": ""
-    },
-    {
-     "id": "8b52df7c0111",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSXVUdXlDVzd1eGtYY3dnWmZuUjJadnVJSFRKRHFaV2pNS1ZFckYwSzZtaGZFcXRHRTJ3QTZwOUNBYkRHdFIwRVhnQ1ZiMDZFb3lLTml5bl9sdUtDZnVKRllsZjhHTWFHekZCWVg5RnZPa2RpWldKYTNYd3pva09qU2huQ3otajNFWnF2STg2VzlKWnIyV0RDWVRxdFZTcmxyUF9ocXEwWVJsT2hBLS1zYWdKY05qbFVhc1RuOFVHUW96YkNkUGN4QkNESWw?oc=5",
-     "ts": "2026-11-25T00:03:29Z",
-     "summary": ""
-    },
-    {
-     "id": "ccb48df99ca8",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
-     "url": "https://www.ign.com/articles/max-verstappen-spent-40-hours-playing-gta-6-and-still-won-the-las-vegas-grand-prix",
-     "ts": "2026-11-24T23:49:50Z",
-     "summary": "Famous Dutch-Belgian race driver Max Verstappen revealed that he’d spent the weekend of the Las Vegas Grand Prix locked in to GTA 6, saying he played over 40 hours of the game."
-    },
-    {
-     "id": "8c8d7e1567fa",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWG5RS3NUWEVPaDRfOEg4cGp4TTI3RmJiZE5vV1VtU0dxRGIzUHR2aGYzTnZlVE10VkNhaG4xQWF6amNubnJtR3VWWDFRMENaclJYYU9weXV1N1YwcE1JMlo1bVVtd1ZoYm9DTU5WUHB1a1hSOEhMZ29OdFl2N0dXMmFpZDZxRzdHVmp6ZHlsTEl6MDhkQU1Tc1E0QTZSUkNHQ1lKMFNkSWZNRWdJYVNQenN6Z0FITW1QSmkyM2hvRDNmYkJtci1uVHFyMmpGWm5WbGdILVFUSnUyQQ?oc=5",
-     "ts": "2026-11-25T00:04:08Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru",
-   "ai": {
-    "title_ru": "40 часов GTA 6 и победа в Вегасе: как Макс Ферстаппен успевает всё",
-    "summary": "По данным IGN, Макс Ферстаппен провёл 40 часов за GTA 6 за выходные и всё равно выиграл Гран-при Лас-Вегаса. Гонщик совмещал игру и победу на трассе. Источник — IGN и IGN Nordic.",
-    "idea": "Короткий контраст: «40 часов GTA 6» и «победа в Вегасе» — как он успевает, и что это значит для нас, геймеров. Зрителю интересно, потому что это редкий пример «играю много — выступаю топ».",
-    "hook": "40 часов в GTA 6 за выходные — и победа в Вегасе. Как он это делает?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-25T00:10:51Z"
-   },
-   "msg_id": 2205
   },
   {
    "id": "2f7ec1981556",
@@ -6808,58 +6977,6 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "1650b3f664a4",
-   "title": "GTA 6: Pre-order bonus wasn't exclusive, now available separately for $5",
-   "first_seen": "2026-11-24T14:50:51Z",
-   "updated": "2026-11-24T20:01:11Z",
-   "items": [
-    {
-     "id": "1650b3f664a4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Notebookcheck",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: Pre-order bonus wasn't exclusive, now available separately for $5",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1JweU5ERzJEMWdXUGVkQTF6SDNCZnRWbnQ0aUtmN0RyMVUwcUhNMzJXUkN3ZHBITEpSUDR3RWtEeVg1bm80ai1KcTAwWF9NTmRlQUxnamVvdHRyUDNNMEhSTUs4emhlV2NvLW9EZVBudEhDREN5MFFpT2VZakQzcVZRb2tKbGJwX2dkeDlwNFQ0Mk9KZGlRaUFIZTAzc3h4eHUtUmwwN2lHYTBHNERpZEdDaEU?oc=5",
-     "ts": "2026-11-24T14:37:00Z",
-     "summary": ""
-    },
-    {
-     "id": "e46de260f401",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MIXED News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Missed GTA 6’s Vintage Vice City bonus? Rockstar is now selling the pack separately for $4.99",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrb3l2dGhEWDFtRXIxdDVtbkM2MTFkRGk1bTAxZTg0dE9FeEZHcl9zYVRDQ21xWlFvcHp3WDRLWG9Ib1B6MVN5bnRuV0dCa2RvMjEzT3V2dVctMjk4aTRVNkRPZTBURUJjdS1BZGJqMnJFMEUzTWQwOVVZX3hmLVk?oc=5",
-     "ts": "2026-11-24T19:53:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Бонус за предзаказ GTA 6 теперь продаётся отдельно за $5",
-    "summary": "По данным Notebookcheck, бонус за предзаказ GTA 6 перестал быть эксклюзивным и теперь продаётся отдельно за 5 долларов. Речь о предмете, который ранее давали только за предзаказ.",
-    "idea": "Короткий разбор: что за бонус, почему его убрали из предзаказа и кому выгодно купить отдельно за $5. Зрителю важно понять, стоит ли брать сейчас или это пустышка.",
-    "hook": "Бонус за предзаказ GTA 6 теперь можно купить отдельно за $5.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-24T14:50:58Z"
-   },
-   "msg_id": 2135
   },
   {
    "id": "33cc054462ee",
@@ -198903,37 +199020,11 @@
     "at": "2026-11-18T01:40:59Z"
    },
    "msg_id": 1189
-  },
-  {
-   "id": "2d880dc2c165",
-   "title": "The Game Awards 2026 - номинанты 17 ноября и шансы GTA 6",
-   "first_seen": "2026-11-18T01:31:09Z",
-   "updated": "2026-11-18T01:31:09Z",
-   "items": [
-    {
-     "id": "2d880dc2c165",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Neva.Today",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "The Game Awards 2026 - номинанты 17 ноября и шансы GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPX0wySDJDMFlkWjJMVkFlWUJZRGpDRjRyODNzUGJDVF9XLURWZjNGXzYxZ3BTOEVtQmdkSXBfdEJzSTE1NnhWN2E2cEI5T3hDeEVrT1V0U2hlLWhkcEtlN1lmWVBIUTFCTU9rZmpFdGRBQ2gxUllZTWw4WC1FU2FwR1E2dXBJeEN3aVNxcHNTdUU0QkFWRTVLU0JXTkhOdHAzSF9qQldxV0JjSUtBQXl5TUs4NE1wcDFJYkg5XzhLVjU1TXltWVNXeHl5RE5Zb1JzV2d6dDZwR0pXcHVsTGFoYmZ6VVdyY3J4MUotTERORm4tazVXVDNuZ01ZSFZXaGNtMmlr?oc=5",
-     "ts": "2026-11-18T01:20:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T01:30:58Z",
+  "last_run": "2026-11-25T01:40:43Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
