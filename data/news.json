@@ -1,6 +1,84 @@
 {
  "stories": [
   {
+   "id": "5c76e848d58f",
+   "title": "Хакер Sventek заявил, что слил в сеть расшифрованную сборку GTA VI для PS5 — для запуска нужна прошивка 11.60",
+   "first_seen": "2026-11-25T22:11:00Z",
+   "updated": "2026-11-25T23:31:13Z",
+   "items": [
+    {
+     "id": "5c76e848d58f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Хакер Sventek заявил, что слил в сеть расшифрованную сборку GTA VI для PS5 — для запуска нужна прошивка 11.60",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJoUmE1WnRhU1N1dVEwRC1QZnBXMDc3WkxLc2dhUGNPOGNaT2twMGZpNU9POGdQZy1kQ2E5eC1sLTFsSmxKYkpqa2U1OW1Ob2FSQnQ2Wl9iWTltRmFjQ3lpZnBWazRBZHc0RmJtNFVGcEVraC16YzNtTDF2akdXZWlRY2JvMzRfaENmcnA1QnU4NEpxc3ZycjNOWXhZRF80SUR4dENLSdIBrAFBVV95cUxQemFoQVJULUlzNHFFSXZKSE5mejlxT1hmVno1NGxrZHhILTI5X01MWFVVdFpseVI0THlRZTd4aHBZTVg4enZJbDVmTDZZX1FudFhnUEVKNXNHMW12cHlTdHhPZ3NtbU11MDR4WGMyQ3JEN21BSlRhU1VvbldMMXRnWjFIT1JrejRaOFNxdXFKSDVmT2R0VmFOamZObV93bmFka0pDTWx2VnFFblk4?oc=5",
+     "ts": "2026-11-25T21:49:06Z",
+     "summary": ""
+    },
+    {
+     "id": "444df3883738",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Хакер Sventek заявил, что слил в сеть расшифрованную сборку GTA VI для PS5 — для запуска нужна прошивка 11.60",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemFoQVJULUlzNHFFSXZKSE5mejlxT1hmVno1NGxrZHhILTI5X01MWFVVdFpseVI0THlRZTd4aHBZTVg4enZJbDVmTDZZX1FudFhnUEVKNXNHMW12cHlTdHhPZ3NtbU11MDR4WGMyQ3JEN21BSlRhU1VvbldMMXRnWjFIT1JrejRaOFNxdXFKSDVmT2R0VmFOamZObV93bmFka0pDTWx2VnFFblk40gGsAUFVX3lxTFB6YWhBUlQtSXM0cUVJdkpITmZ6OXFPWGZWejU0bGtkeEgtMjlfTUxYVVV0Wmx5UjRMeVFlN3hocFlNWDh6dklsNWZMNllfUW50WGdQRUo1c0cxbXZweVN0eE9nc21tTXUwNHhYYzJDckQ3bUFKVGFTVW9uV0wxdGdaMUhPUmt6NFo4U3F1cUpINWZPZHRWYU5qZk5tX3duYWRrSkNNbHZWcUVuWTg?oc=5",
+     "ts": "2026-11-25T21:56:56Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "10b2db37895f",
+   "title": "Spotify Reveals Massive Spike in Streams for Music Featured in GTA 6",
+   "first_seen": "2026-11-25T23:31:13Z",
+   "updated": "2026-11-25T23:31:13Z",
+   "items": [
+    {
+     "id": "10b2db37895f",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Spotify Reveals Massive Spike in Streams for Music Featured in GTA 6",
+     "url": "https://www.ign.com/articles/spotify-reveals-massive-spike-in-streams-for-music-featured-in-gta-6",
+     "ts": "2026-11-25T23:19:11Z",
+     "summary": "Spotify has released new data that shows huge spikes in streams for music featured in GTA 6, including a Carly Rae Jepsen song from over a decade ago."
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 85,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Spotify показал всплеск прослушиваний музыки из GTA 6",
+    "summary": "Spotify опубликовал данные о резком росте прослушиваний треков, которые звучат в GTA 6. Среди них — песня Карли Рэй Джепсен, выпущенная более десяти лет назад. Об этом сообщает IGN.",
+    "idea": "Покажем топ-3 песни с самым большим всплеском после трейлера GTA 6 и объясним, как это намекает на саундтрек. Зрителю интересно узнать, какие треки «выстрелили» и что это говорит о настроении игры.",
+    "hook": "Spotify выдал цифры — и одна старая песня внезапно взорвала чарты из-за GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T23:31:17Z"
+   },
+   "msg_id": 2305
+  },
+  {
    "id": "ff046acb17f6",
    "title": "The best things to do in GTA 6 after beating the main story",
    "first_seen": "2026-11-25T17:31:05Z",
@@ -1780,32 +1858,6 @@
    ],
    "tags": [],
    "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5c76e848d58f",
-   "title": "Хакер Sventek заявил, что слил в сеть расшифрованную сборку GTA VI для PS5 — для запуска нужна прошивка 11.60",
-   "first_seen": "2026-11-25T22:11:00Z",
-   "updated": "2026-11-25T22:11:00Z",
-   "items": [
-    {
-     "id": "5c76e848d58f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Клуб DNS",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Хакер Sventek заявил, что слил в сеть расшифрованную сборку GTA VI для PS5 — для запуска нужна прошивка 11.60",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmJoUmE1WnRhU1N1dVEwRC1QZnBXMDc3WkxLc2dhUGNPOGNaT2twMGZpNU9POGdQZy1kQ2E5eC1sLTFsSmxKYkpqa2U1OW1Ob2FSQnQ2Wl9iWTltRmFjQ3lpZnBWazRBZHc0RmJtNFVGcEVraC16YzNtTDF2akdXZWlRY2JvMzRfaENmcnA1QnU4NEpxc3ZycjNOWXhZRF80SUR4dENLSdIBrAFBVV95cUxQemFoQVJULUlzNHFFSXZKSE5mejlxT1hmVno1NGxrZHhILTI5X01MWFVVdFpseVI0THlRZTd4aHBZTVg4enZJbDVmTDZZX1FudFhnUEVKNXNHMW12cHlTdHhPZ3NtbU11MDR4WGMyQ3JEN21BSlRhU1VvbldMMXRnWjFIT1JrejRaOFNxdXFKSDVmT2R0VmFOamZObV93bmFka0pDTWx2VnFFblk4?oc=5",
-     "ts": "2026-11-25T21:49:06Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -183174,703 +183226,19 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "02b9ee647493",
-   "title": "‘GTA VI’ BUZZ TO REALITY: Examining the much-anticipated release of Grand Theft Auto VI today",
-   "first_seen": "2026-11-18T23:10:50Z",
-   "updated": "2026-11-18T23:31:03Z",
-   "items": [
-    {
-     "id": "02b9ee647493",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "New Britain Herald",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA VI’ BUZZ TO REALITY: Examining the much-anticipated release of Grand Theft Auto VI today",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcWt3THdRbXFHS3hiajUwMk44RVJPOFA1X3VhbFFLU3dNT0ptMDdwTFdrU3ZXeG1aTGFBUEM3bHlyRVprcVU1MzBPblpidEZsZWJHaFBTbGhXalZkVnBfZDF0cVB2MUNkdS0xb2hyb2s1QU1MX2dIZGk5M3AtV2ladEtWdFA5Mm53amwxZmduVzRNd2taemVpTEV3SHJ6cHdldWVNMGswTzZFN2dxRmc1NGtneklNdnQxRzJaWkZBOTFGcE4yQjhscG1qRUlDRDFLV3Q4WGxsWXQyRkJQX2lDWEZobHhncXpUYVc0MV9PR0gxS0dUV1NrSFdDcEJoRzRSVHc?oc=5",
-     "ts": "2026-11-18T23:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "9df6f584afc3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Bristol Press",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA VI’ BUZZ TO REALITY: Examining the much-anticipated release of Grand Theft Auto VI today",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX1ItaVZzYkdXZnE5TFd0emVJdFdnNU42OFQ2MjFIY01MakxHSE8tMDZxcTlYZUZKRGdZaEFmcE4zRlZCRnpvSURlOEhWNjk5OWd3eGItUUV4QjVjcHpEdU91VmtDdVQ5MEd5MEdzODZCU09MSU1WUTc0UWE2VEV6WTQ3cDRBTG5TeVEydGo2LTlLcUtJdUlvbmhWRU9GUm1idmJjdEI4a2Vpa3dWWDVuRmY2RktoY1FENzExV3NfTjEyZ0ZUUllkWmhMSE9hVzR2LUdKM3UtbWktQnBJS0RuNmxLT0xkOWo1REk0dmpYRVk4M2hGblhBVXhzZjQ?oc=5",
-     "ts": "2026-11-18T23:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
-  },
-  {
-   "id": "3b11a1fe43f5",
-   "title": "GTA 6: Where to find your first plane and helicopter right away",
-   "first_seen": "2026-11-18T23:31:03Z",
-   "updated": "2026-11-18T23:31:03Z",
-   "items": [
-    {
-     "id": "3b11a1fe43f5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PC Gamer",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6: Where to find your first plane and helicopter right away",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQXY5THQ3eS13T0Z2QjJZOG4tWmFsejlWdmV0SjZQYVhUTUU4bzZFd0lDU0ZNX21LNUR3MTBGYzJHT0NLNm5tTERDTlk0Ui1UVzl1SUNmcnd4Z0FYUFJYXzYwVlNMM1ZUZWZ6cUNrWDB5R2NOdi0wcVA3TGpyQmZoVlNuTDBYbTA?oc=5",
-     "ts": "2026-11-18T22:51:08Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🛩️ Где в GTA 6 взять самолёт и вертолёт сразу",
-    "summary": "PC Gamer рассказал, где в GTA 6 найти первый самолёт и вертолёт сразу. Издание отмечает удобные точки спавна и быстрый доступ к ним с начала игры.",
-    "idea": "Карта на экране, быстрый маршрут к точке и посадка без лишних кругов — зрителю важно улететь с первой попытки.",
-    "hook": "Первый самолёт и вертолёт в GTA 6 — вот где их взять сразу.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T23:31:08Z"
-   },
-   "msg_id": 1424
-  },
-  {
-   "id": "1c74f744a794",
-   "title": "6 Stocks Set to Cash In on the Grand Theft Auto VI Launch Boom",
-   "first_seen": "2026-11-18T23:31:03Z",
-   "updated": "2026-11-18T23:31:03Z",
-   "items": [
-    {
-     "id": "1c74f744a794",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Motley Fool",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "6 Stocks Set to Cash In on the Grand Theft Auto VI Launch Boom",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzkwNVUtTnRVdUFfNVVReC1kSzJjaXh3TEoySDB5T1ZyaFVPY0tOOFVGY2dsYVZJYXdrZXh5ZU5pUkYtWE42bDlGU2lrck9nUjV2UGNfV2JST0lsX19sTzJWUE9JZVhtNEJDZVJHM25PMUJMVEwyUkFuejJWSE9QVGZuS0ZEX3NqUElaQVpzQmtIdXZSUVJTLVNKMjRldWc3QW8ybGl2R0M?oc=5",
-     "ts": "2026-11-18T23:04:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b398e018a71b",
-   "title": "Use the Kalshi promo code AL55 to trade Heat-Bucks, GTA VI markets during “Vice City Night”",
-   "first_seen": "2026-11-18T23:31:03Z",
-   "updated": "2026-11-18T23:31:03Z",
-   "items": [
-    {
-     "id": "b398e018a71b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "AL.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Use the Kalshi promo code AL55 to trade Heat-Bucks, GTA VI markets during “Vice City Night”",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlBXMmZ0QlRrMUlrWWdjOHN1UTFhLWFtaHM2Ukc2dm1yRU5jX21UbVJZclI4NlBCRTZELWhrNFVmM1V5YlBVeU8td1gyUUtiTHczX2RvbVJKbTh4aDZlYW9ieDQ3UXJlV2duamdtUnlLS0xpdmNySllMR29XMWhnbDNtakhJSzNtYkl3MkNodlN2THFtOHpBaVZDTkUxNkQ1UlV6Q2oyUEFaWHlqeFZ0Q2ZiRVJFRUIxc2lnTC1ZZHV4eWJMOXhZ?oc=5",
-     "ts": "2026-11-18T23:15:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6bd2268e6a97",
-   "title": "🚨 PUBLIC SAFETY ANNOUNCEMENT: GRAND THEFT AUTO VI IS ALMOST HERE. 🚨 As we approach the highly anticipated release of GTA 6, the Bay County Sheriff's Office would like to remind everyone of a few important things: 🎮 Keep your grand theft to t",
-   "first_seen": "2026-11-18T23:31:03Z",
-   "updated": "2026-11-18T23:31:03Z",
-   "items": [
-    {
-     "id": "6bd2268e6a97",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Facebook",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "🚨 PUBLIC SAFETY ANNOUNCEMENT: GRAND THEFT AUTO VI IS ALMOST HERE. 🚨 As we approach the highly anticipated release of GTA 6, the Bay County Sheriff's Office would like to remind everyone of a few important things: 🎮 Keep your grand theft to t",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObl96QVZpYVVUSWV0QV9DMTZMcU0zZTJnLUdsdmdSZU9rSHoxVGwwT0JybUp0NEtfdER0bjJNQ0FMOF9COGt1ck9nY1BPNzJnRFBtQlNERlZsNVZTcExpX2pTX2h1UTBRdTJVbnFDMnhvV2dqTUJWS0hSY2x2UWIwSXlBeFJvem50ZTIzNEI1aDNaTzZLdjVIdkVab1RObzQ3ZHVKclRTU29yYzJBREd0VUU5LXctZzBaVmpudzRyOElrWXFhMWgyV0RRUTRPbFh4WjIzeW1JTFhnUQ?oc=5",
-     "ts": "2026-11-18T23:15:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "86021c16461a",
-   "title": "Стала известна стоимость специальной формы «Майами» в стиле GTA 6",
-   "first_seen": "2026-11-18T23:31:03Z",
-   "updated": "2026-11-18T23:31:03Z",
-   "items": [
-    {
-     "id": "86021c16461a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "https://www.championat.ru/",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Стала известна стоимость специальной формы «Майами» в стиле GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1FyUkJQbDg1TEF2b2x1UHFwTjVLU2dCZFRaNWZFX09tZ3ItOTU1SU1IQjJjTXdKM0k3NUc5aWNzcUhLUU95alhGUjZkRDlfSW1hR0VfWkd2MVFWS1IyZUdsdWN3YTV2R08zcmtiVEJDbUFwbFhXZmhyZG9TTzd0amtieVlrdEFVVTFYdlIzN3psOWl1VkpBeXlwV1Ftb0dLYXN3Ty1wQmJxdTUtMU5VcmtmZEhrMTA?oc=5",
-     "ts": "2026-11-18T23:20:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8c79b3f18079",
-   "title": "Entropico Produces 24-Hour GTA VI Livestream For YouTube and Rockstar Games — LBB",
-   "first_seen": "2026-11-18T23:31:03Z",
-   "updated": "2026-11-18T23:31:03Z",
-   "items": [
-    {
-     "id": "8c79b3f18079",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "LBB - Little Black Book",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Entropico Produces 24-Hour GTA VI Livestream For YouTube and Rockstar Games — LBB",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWHQ2NHA5S3h3TENkeGx6RExheVZ4eE8zSENab1UyNUVKNkphTTlrN1ppalk4aHlQUFQ1ZXAzRHNTSU1NQTRUa1B2LUVXR3k1VlNHLWNveFc4Ykh0WUgteUtxcU82cVpCREFEV3U5SDI0UjRaTFdJMlFkUzlZa0tud2Fuemd1UQ?oc=5",
-     "ts": "2026-11-18T23:20:59Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "df8beeaa7ab7",
-   "title": "«Если пришлют приставку, я сыграю». Тренер «Майами» Споэльстра — о GTA 6",
-   "first_seen": "2026-11-18T23:31:03Z",
-   "updated": "2026-11-18T23:31:03Z",
-   "items": [
-    {
-     "id": "df8beeaa7ab7",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "https://www.championat.ru/",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Если пришлют приставку, я сыграю». Тренер «Майами» Споэльстра — о GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjMwb1B4N1o5dExZYWx4OFNDUVRhckdraEx6Q29oaDJ2NHlLMHJGR2ZibE1TQlNUX1RCTzlNTWxBby1sbGFOd3dIenBiVktQNkVRSEdpWkE2WnQ0Y3dYdlpzWkMyWWZlVjRDWUZwa09iVnFaM2RZZ1RJOExobzlHc1kzQlFmRHdBdjZaUGJfSnVFVEc2MjNhanJJMm5aajFPd0ZmbEFkNjVwWlZRYWxNMDFqNE9kRHpHRUc1NW5zRQ?oc=5",
-     "ts": "2026-11-18T23:22:06Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "39138cedce14",
-   "title": "GTA VI taps music trends to create a cultural time capsule of 2026",
-   "first_seen": "2026-11-18T23:31:02Z",
-   "updated": "2026-11-18T23:31:02Z",
-   "items": [
-    {
-     "id": "39138cedce14",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Northeastern Global News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI taps music trends to create a cultural time capsule of 2026",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NR2RBb0FLR2JRQTA1WThTN1J3am00WDJaRTFuTDF6UGhVMWdKZHlEUTZjczZJWE5acy1Tc1ktZjdYcWxXVzhZSFM4N3VqN185cDRlcXVoZ1hlZmtuWklPUkV3ZlR0YnM2YWJ5djNNMkl2WHlaX3U2aUxHaw?oc=5",
-     "ts": "2026-11-18T21:49:57Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1e60c7ffbf3f",
-   "title": "If You Invested $100 in Bitcoin When Rockstar First Confirmed GTA 6, Here’s How Much You’d Have Today",
-   "first_seen": "2026-11-18T23:31:02Z",
-   "updated": "2026-11-18T23:31:02Z",
-   "items": [
-    {
-     "id": "1e60c7ffbf3f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Benzinga",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "If You Invested $100 in Bitcoin When Rockstar First Confirmed GTA 6, Here’s How Much You’d Have Today",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNEtwREI5WFQya3NCME00emFBb2hVQ0VoT083ekpWbVR5UmxqbUx2MUlLcEJSWGFJSlBucml5T1JnWXJocFVyWXY1aTVwZGoxVGY1T3Atd0xfX0dsRThhYk9oa28xSmZIajEydGhyQzRLSzNmeG5vTXY4R0xLbEgtMS1ud25HUVRNcmo2SjJhcXh6VnRIeHZJaThMUWc2THZLNDhEUmZKSjVzWTJZMUstZEUyTG1nZkE3Mm1JWHhONFhLZmNnenhHaGtualVpWlZabUpENWFWR3NOSUdwMlRrZHlfLTFJWDVBZmlZbHVMU1Q?oc=5",
-     "ts": "2026-11-18T22:00:10Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс",
-    "цена/издания"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "4f8fd135fda1",
-   "title": "Sony Issues Official PS5 Firmware Update Warning, Confirms GTA 6 Requirement",
-   "first_seen": "2026-11-18T06:20:43Z",
-   "updated": "2026-11-18T23:20:53Z",
-   "items": [
-    {
-     "id": "4f8fd135fda1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Notebookcheck",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6’s custom PS5 Pro plates revealed, but Sony won’t sell you any — fans slam Rockstar",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWxRZjVSS1ZLWmxIdlFKR3ZXVS1XazhYWXB4NE9zUDVCZ29DMHprdnpwU0phM2ZkbVZRRXBDdnhLeHBsZHZkQllaVTIwYm1VTGRzTVhxVUtOS0lueGtTVjZBdUdBSjMydnRXV1duMFNMeFJIQklSeFAyTkhoVU9LMWRJU3dCczlQLWdLTUp3Zm1paXcxX2dyenlDUDJWak8wMmpNc01NaWlTSm1kUkdmWVd4bzFfTkVSRG9LVndUdWlGYmZCX0ZFOFRn?oc=5",
-     "ts": "2026-11-18T06:03:00Z",
-     "summary": ""
-    },
-    {
-     "id": "e3e810e1c394",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Sony Issues Official PS5 Firmware Update Warning, Confirms GTA 6 Requirement",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXJSZ1NLOFhhUE5fUmdHTjVYcHRlbTRGTjVmUFhxX2Jlbm5EeFYtUFZfT1Nyd1JvQ1dBZU9YSW9tUmNyUU03WGxHZ2NUN3lNSWxfOWxWeVVFX2FIak8tMTl5eTFzaEdmdzkwRm5pVjFmazlTcDF1WEYwbWtma25jd1pkSktFSXZkN0Z3NWR4RXdRck5UMEo1ZUxtbnkxbHZocmZjQWs2VQ?oc=5",
-     "ts": "2026-11-18T07:33:00Z",
-     "summary": ""
-    },
-    {
-     "id": "a52f9a75be7a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony Issues Official PS5 Firmware Update Warning, Confirms GTA 6 Requirement",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa3NlaFJJbGowZWRDbUhZTGFveFl4SDRUTzBfSEZmdDlxSG5GdlgtOWM5d1lhYnRwS2FVbkFseUFDUzVUNHJsd3REX2hsMFpBTDdGRjdVZ2pPZVpjUzlHTXlERmJ3dVIwTjdWZ3hpTzFxQnd3ZE90ZTNLSUp0dTdCdFRlREczMWdYSmZsWnJ3dnVDWU9zSHNrMFNRZl9uQ1NEZnB4bVJWdXQ0V0RHS2FhNXgxSm5HQmhVMTJ1anNKRzdTQUprcEd3MXFabjVRMTlKdlE?oc=5",
-     "ts": "2026-11-18T08:05:01Z",
-     "summary": ""
-    },
-    {
-     "id": "3abe188c2434",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Sony Issues Official PS5 Firmware Update Warning, Confirms GTA 6 Requirement",
-     "url": "https://www.ign.com/articles/sony-issues-official-ps5-firmware-update-warning-confirms-gta-6-requirement",
-     "ts": "2026-11-18T07:33:45Z",
-     "summary": "Sony has confirmed that the recently released PS5 firmware 14.23 update is required before playing GTA 6, in a social media post boosted by Rockstar Games."
-    },
-    {
-     "id": "aa6351529017",
-     "src": "tg_gta6newsdaily",
-     "src_name": "TG @gta6newsdaily",
-     "outlet": "",
-     "group": "telegram_en",
-     "weight": 45,
-     "alert": true,
-     "title": "☺️ PS5 Pro - GTA 6 bundle has been revealed.",
-     "url": "https://t.me/gta6newsdaily/5024",
-     "ts": "2026-11-18T10:07:28Z",
-     "summary": "☺️ PS5 Pro - GTA 6 bundle has been revealed. It’s being sent exclusively to Miami Heat players in a custom suitcase with 2 Limited Edition DualSense Controllers and a copy of the game. #GTA6 #GTAVI"
-    },
-    {
-     "id": "f625fb69f1f1",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "PlayStation Confirms Latest PS5 System Software Update is Needed to Play GTA 6",
-     "url": "https://insider-gaming.com/playstation-confirms-latest-ps5-system-software-update-is-needed-to-play-gta-6/",
-     "ts": "2026-11-18T14:16:13Z",
-     "summary": "Sony has confirmed that the latest PS5 system software update is mandatory to play GTA 6. Here are more details. The post PlayStation Confirms Latest PS5 System Software Update is Needed to Play GTA 6 appeared first on Insider Gaming ."
-    },
-    {
-     "id": "ea871f206b45",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "VICE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 PS5 Trophy List Revealed – How Many Trophies Do You Need for Platinum?",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XSzg3d3UxWG42YzV4YzlxS3JIMHVXVWltamRtaU5uZjQ3SC0wbkNEdGZUNVU5Y25PbzJOZG1DMFJKYTBfRzh4cWVVTnZQMkl1dEl0YzBySnNpMTY5aTJhZGx4bkE?oc=5",
-     "ts": "2026-11-18T14:30:38Z",
-     "summary": ""
-    },
-    {
-     "id": "301154fa413e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WJTV",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "A couple of ‘Grand Theft Auto VI’ voice actors have been revealed. Who are they?",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWRTQ3JCUnN1bmtWazVPeG9wb24wWV83WE5tTWc2cFVxQ3FKakREbUtycUJqdmI2clpUQ1pYNXVJLVhEOFk0eEpzaFF0aWo4c3V2RWlzYU5nazRxQV82SlFfUnIzWlczVEtmQmVSZHhkWnBxaEt0NUhaOWRBanpqUHMxaWlHaGg0Q3pISW02eXZ2NzBiU0pWNFprekF2TXZsdXdHNlZ30gGrAUFVX3lxTE16LXB6RFdVclBFMmhZUnZMT09lZWNjeDc0VUl1a2pMc0dfYTIyU2taZTNSSldkVHJsZ1h4cVl5eXdXTC1FY1lhcm1sRlc3eGxkTVF2WWxEUXdybHJEdFl6WU51dHMwM1MxRmhQXzNDRWI2NzlvRWtVeHRHTk0zcXdsTnlpZ1JRTVlOYUVJcmoxT1NJVXhBREp3SnJzekV0U2FsdlBMdzQzUWJCUQ?oc=5",
-     "ts": "2026-11-18T15:11:02Z",
-     "summary": ""
-    },
-    {
-     "id": "782fb972e4a6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WGN-TV",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "A couple of ‘Grand Theft Auto VI’ voice actors have been revealed. Who are they?",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWjJicHpMVHB3R2NralVqRDBZb0ROd3pBUUhvUl85NWhwSnB5Mk0zRldtS0VCcjhlUk5BRzFiT2hRbmdoWXRTYU1OeUdzTDNQN2VYTEZSb2VmWnhEbDlWenozSGxYSDJuaVp5MkxTRTZVTzgyRXdBY0IwamdaOHF5VXF4bVdPVnBDU3phVE9POTFfYVp3ZExaeFdGeU5lbVM4cm83amVFVnFkUGZfNGfSAbMBQVVfeXFMUGwxaDdyU0pqdmRvMGs3ZWVyLWFtZFRlYmRpdW0wdGVGcklvTGpKVUI2NWRhUjVsUFNZczY5ZGNYUXFNUG9RcGdabC1jbUhKS3g5MFJQVWVtc2M2Y2MzRXI0dDFPdVIxcFhaLWFaeHhMRVZqN2VlSlB6blFmVW5NMVQ2V3Y5ODFkY01WMGdkOHdmSnBkVTY2Yndxa3RFd2ZfMjFudjkxYmt4bXU4NFdXWjhCeG8?oc=5",
-     "ts": "2026-11-18T15:30:26Z",
-     "summary": ""
-    },
-    {
-     "id": "5e970a9aa47e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "FOX16.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "A couple of ‘Grand Theft Auto VI’ voice actors have been revealed. Who are they?",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXI1c1pvTWtiS25JWGp5dDFKOVhaSlNuR3VPYjlHRjdJSlhwZ0dyMkFEYk9NWDQ3c2s5b2h2eHFOdGJzazVwUHhJODJNTk9yNDVnaDhmM1Z6RWE4dWEtUFlMNEJrbWdEWm5LLU1KbGJmN1A2SHpYLUFJeGVsaGp2VUdSWGNYRE5qN013SW5COFFmSzZXTHZXYWRFdl9IYmdyTnhBWVRXdzJaZU1qSFJNZFBoSmlMWWV0eVHSAb8BQVVfeXFMTjR3WU51dzlMODVKZ1ppZkZwOGtxNTVzejBpR05EYmZPX1JhOEdjaGlVcTVDWjBmRnFncFBiTnQtejJ4eF8wOEp4Q05oSTJ6UWFZVnJuV3MyU05lT2ZteG1zSmpxTHlTRVg3SFJhMDQ2bmJ3T2VTbko1aWdyb1RobUxUR0ZtZ19hRi1TUmdnT2I2R3N1LXE3b1c5T0JvUkxBc3RuWFVXSExrYWlTdENkalJPcm5tZFlMeWpZV09HLUE?oc=5",
-     "ts": "2026-11-18T16:48:11Z",
-     "summary": ""
-    },
-    {
-     "id": "ec451547ea6b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WKRG",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "A couple of ‘Grand Theft Auto VI’ voice actors have been revealed. Who are they?",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMGpYQ0tPcEZjSFBtZ0RocXlRVzMzSE8yMXN5R3VseDAzMG9ESzQ5SkxhT3hlLXZkRWlHRmY1QUllRjZvZUp4bE5PNU01emw5c1FiZ0FTMnJzUXZmTE9UaUZiajcxS2JUY0FVRzlPT0dyRkFXVENUYTcwUVVhQ2lsUkNzdjY4X0ViLWs2YWJwMjlPMzVCTHdvd0pFbURqUElacWNSQXVB0gGrAUFVX3lxTE50UnRpeV9USm9Fek1ZN21rNThuM2IzUV9xVEEzR2FwTVhxYmNMN3ZSOHZONGhXWXdqcjkzeENid1Nyd3gxUmlYVk9QOGpheUJIQ2NhaHZJWG81WmFuWm51dFBaZG1QeDJHVHExNVNzS2Mta1JRekxxMktBeVJpN1RvWGNWVG9SZFplVG5xa3dpeXlwM0NmQzBpaVlIanJmX0EzYnkxTmpzeGFzOA?oc=5",
-     "ts": "2026-11-18T17:09:15Z",
-     "summary": ""
-    },
-    {
-     "id": "17dcd61acdf4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KARK",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "A couple of ‘Grand Theft Auto VI’ voice actors have been revealed. Who are they?",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORnhQekdnal9lS3NnTDZrVFUwREk5dEtlQ3Q2V0hKOWxpN3ZjRnAzRlFHSTlGRXR5R1BIb3dKLVJSeGJZTm40eU5CMXZXYl80b1kwTF8xX3BDOFVlOVk4SVJDTVNGYkxJR2M1NmZoWW41TjZuX1p0WHBobnNaeWwyYUxfUlk5WWMzSEJGVEpydTBYZ09nRGUxM1FneWZmeC1Pb1dmMl9oSzU3MUVXVXdzZ3E1aDdEUlg4?oc=5",
-     "ts": "2026-11-18T16:47:01Z",
-     "summary": ""
-    },
-    {
-     "id": "5ea9ea4dc1ac",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "DC News Now",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "A couple of ‘Grand Theft Auto VI’ voice actors have been revealed. Who are they?",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc19sLU5WMEdtcGMzMGxMTktKNVgtMUtMTTRNTnlScmE1UU50bmkyb1VobTVEZWJrX2dRdmhkWkxZYzdaaVhRQUZfbGdDOThzSzhWSTc1dmhQeHF6SUZUMnRxczA2bHI2RFZoVEd2bnRjcnYza0lqMlgybnQwcE1NYmRraDlSRTVKd0VVS0EzU3lWVkk5YW5QVmpYbTV1VlM5M0Z4M3RieG5xamttU0FIWlRNRjhLYTFkdjJFamcxVW5oaWY2TUHSAcsBQVVfeXFMTzc4eU94QlZkbW5RSmVTVnpOZUxPNXdhdmRQQXVhdnQ5MjROUF8zZ0NhVVBQaDdNTmVreHV6anpvM3FqcndweHpsS0ZqRXl1TzZIamFqemZrV280RzBFOFNMZFNmUzE0aHp2MGtXQ1BVbjRiYkpyVHI2eWN4ZGNZbG9TYlo1Sno3eU4yeFFlUG9PMEZBbk9pZW9IM2tJZDZ6THY4ZV9NNWc4UENNUGFWck8zV2JCdjBEeU0xbnlpWHhDekJ2enF0aGFhbzQ?oc=5",
-     "ts": "2026-11-18T17:43:38Z",
-     "summary": ""
-    },
-    {
-     "id": "6166d85e869b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The lead actress in ‘Grand Theft Auto VI’ has finally been revealed. What to know about the woman behind Lucia.",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNaUlOSllidjFiLWRTOWV2bTZXOGlfbjUyVERrT25RdDRfUnIyRnB3WTBselpjdnhrVHVrMUFwT2V0TUxKQXVHQ1BIVEJlSVA1YkhnLW1ZTnJsQ2RiQlNlWUJ4NkJWRktXdTI1anhhVUlxdVNmVFBPajhSd3ZVcWJwdmxFVVE5Y1dna2RxXzQ3SE9TbzdNT2NPSGk5MERpVTEweFhDM3pYS1RFT1RxeVZNSzlhVFcyTVlrb05UbnNrMlJHUDJPbkFBSW1fb3ZXMUFCV2JOeGphX2ltQWk4VS1pVzlVXzFNSTd0WG5BdngyWDdNTWpMUzFMQlFteEpyOXdqbTFVellxQQ?oc=5",
-     "ts": "2026-11-18T18:44:38Z",
-     "summary": ""
-    },
-    {
-     "id": "23d05d24e24f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TweakTown",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers can't play GTA 6 on PS5 without updating system firmware, Sony and Rockstar confirm",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVm9FS1BTVkw5NUpmd1Fwai1HLTA0VzN3c1lobk9Jc0VRazA4cFduNEVia0lFc3hUY3ZFVGdBZXhmakpqTWJpdjFyRFNzQUxLMVhvLWlmZlhFTmFpb3R1TjJmMThncnh6bWh4eEVQWFp0Wm4wMk1kR2l5b2N0cGVOWlhYcGE3UU5jaGJWaVdIYlhscmo1Qm1lVFoySEhNRkI1Z2pYRGI5WlV2WF94a2ZWWE16UURqY0RyVERWYXZmbkQ5X0JSdm5ZUFplcTJnYUNWbTZR?oc=5",
-     "ts": "2026-11-18T22:34:15Z",
-     "summary": ""
-    },
-    {
-     "id": "dceed08ef4a5",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Confirmed GTA 6 Voice Actors—Cast List",
-     "url": "https://insider-gaming.com/gta-6-voice-actors/",
-     "ts": "2026-11-18T23:08:31Z",
-     "summary": "Rockstar Games has assembled a hugely talented cast to act out the GTA 6 story, and the cast list is pieced together with many voice actors. The post Confirmed GTA 6 Voice Actors—Cast List appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [
-    "анонс",
-    "цена/издания"
-   ],
-   "score": 100,
-   "level": "HIGH CONFIDENCE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "a8e515d907e6",
-   "title": "Rockstar Needed 13 Years to Develop GTA VI. Here’s a Timeline.",
-   "first_seen": "2026-11-18T23:20:53Z",
-   "updated": "2026-11-18T23:20:53Z",
-   "items": [
-    {
-     "id": "a8e515d907e6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Barron's",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Needed 13 Years to Develop GTA VI. Here’s a Timeline.",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNclZveEhiTXVuMkNJUWQtYTlFQVJoS3RLUVQ1S29WS3F4dTNwQloxYTN4dlB6R2c2YTFCWEpFRDhVRVlyS21iMl9sbVVnZHBuTjAwdWV1VVRWVE1BY3BCdUEyU0hUMUpUU05VN0VUcEh1WkdERnp3VVVvdW1aaW5wclpn?oc=5",
-     "ts": "2026-11-18T23:12:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d8d103932f21",
-   "title": "GTA 6 Chapter 1 warning: Read this before finishing chapter 1 of GTA 6",
-   "first_seen": "2026-11-18T23:20:53Z",
-   "updated": "2026-11-18T23:20:53Z",
-   "items": [
-    {
-     "id": "d8d103932f21",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Chapter 1 warning: Read this before finishing chapter 1 of GTA 6",
-     "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-1-warning-read-this-before-finishing-chapter-1-of-gta-6/",
-     "ts": "2026-11-18T23:13:45Z",
-     "summary": "One of the game's early missions has massive consequences"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Выбор в 1-й главе GTA 6 меняет всё: последствия",
-    "summary": "По данным VGC, один из ранних выборов в GTA 6 в первой главе приводит к масштабным последствиям. Издание предупреждает: решение в ранней миссии сильно влияет на дальнейшую игру.",
-    "idea": "Угол: «Один выбор в 1-й главе — и сюжет идёт по разным рельсам». Зрителю важно, чтобы не «запороть» ранний выбор и увидеть альтернативные последствия.",
-    "hook": "Один выбор в первой главе GTA 6 — и сюжет меняется кардинально.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T23:21:01Z"
-   },
-   "msg_id": 1423
-  },
-  {
-   "id": "45ff7f62798a",
-   "title": "GTA 6 Finally Fixes The Biggest Problem The Cars Of Grand Theft Auto Games Have Always Had",
-   "first_seen": "2026-11-18T23:20:53Z",
-   "updated": "2026-11-18T23:20:53Z",
-   "items": [
-    {
-     "id": "45ff7f62798a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Autopian",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Finally Fixes The Biggest Problem The Cars Of Grand Theft Auto Games Have Always Had",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUlM2SEg3NnZFdlNGMjV4a00wR2xKOTdNWXU3YjdDZnhTeWM4TzdOME9CRVF1NkZvZi1rOWFqNXVWOW9XTmtyVTlUVjQ4STRQcGZkTFpRb0E4NllGVklDQk5nbDNFS3ZaMmhLZExjc2lvbnUyRHBWYlJ3djRMWXdnVzZaOWRQOWhKU2RQVWNXMlE4VDZrZTRXYlBlZ0Fwbm1JQThzNE8yem9SNm1acWNfTUVMQ2szRnZoeDdz?oc=5",
-     "ts": "2026-11-18T23:16:47Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c9a96da0dd14",
-   "title": "43 Army Members Reenlisted in Exchange for Paid Time Off to Play GTA 6",
-   "first_seen": "2026-11-18T23:20:52Z",
-   "updated": "2026-11-18T23:20:52Z",
-   "items": [
-    {
-     "id": "c9a96da0dd14",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "43 Army Members Reenlisted in Exchange for Paid Time Off to Play GTA 6",
-     "url": "https://www.ign.com/articles/43-army-members-reenlisted-in-exchange-for-paid-time-off-to-play-gta-6",
-     "ts": "2026-11-18T23:00:30Z",
-     "summary": "If you’ve been following the GTA 6 hype train, you’ll probably remember the time that an army battalion went viral for offering service members four days of paid time off to play Rockstar's highly-anticipated game if they reenlisted."
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 73 (char 74)"
-  },
-  {
-   "id": "34e82ff1add9",
-   "title": "The wait for GTA 6 is almost over",
-   "first_seen": "2026-11-18T23:20:52Z",
-   "updated": "2026-11-18T23:20:52Z",
-   "items": [
-    {
-     "id": "34e82ff1add9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "CBS News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The wait for GTA 6 is almost over",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZSFg3UXFsbkhZemRvNG4wendLSl9mdE9QQ05rTG1CUTlOWmNfaUxvS3JISjd4TzlJcFYyWGZTVTZZbUMySUVTMTFSMDVoMXNySTZ2MldFSEhZSjFVb2xsSFJLRWkzN0I4ckMyNHFaLTNuaEI0T0l6U0Y3Mkw?oc=5",
-     "ts": "2026-11-18T23:01:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3036c5f21c87",
-   "title": "The wait is over: GTA 6 arrives at midnight",
-   "first_seen": "2026-11-18T23:20:52Z",
-   "updated": "2026-11-18T23:20:52Z",
-   "items": [
-    {
-     "id": "3036c5f21c87",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "FOX 2 Detroit",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The wait is over: GTA 6 arrives at midnight",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RWTNIUFJfR3VLa0tONFJTaWw2dFIxaGtTcHBCbUx4QTN4UHBqcU1ZNjZiZ3F0UmR1alcxb3FIRmhxLTRIeDVQYkV5SXNKcW8wdlJvUWtVdk1aTjU5bGR0WnhTVVnSAWpBVV95cUxPY25jWUEyT1lTNlJ5cDdlUTlSUUt6WmM4TmNTVjRualNmd1IxcHdONVhrQUFZY1ZHR1Z5UlVGUWE1Z3FiVC1mWVpQLWh2dzZFalNOWlhQajFxQjEza3NCd3lDSzRxV2pZYk9R?oc=5",
-     "ts": "2026-11-18T23:03:43Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T23:20:50Z",
+  "last_run": "2026-11-25T23:31:17Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 96/100",
-   "gnews_ru: 99/100",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
+   "gnews_ru: 98/100",
    "gamesbeat: 2/10",
    "vgc: 5/10",
    "insider_gaming: 4/10",
-   "ign: 2/20",
+   "ign: 3/20",
    "eurogamer: 16/100",
    "dexerto_gta: 11/50",
    "rockstarintel: 8/10",
