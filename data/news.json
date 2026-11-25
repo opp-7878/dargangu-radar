@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "a40ea6c642de",
+   "title": "Nearly 340,000 real players reviewed GTA VI. The result is drastically different from Metacritic",
+   "first_seen": "2026-11-25T03:50:45Z",
+   "updated": "2026-11-25T03:50:45Z",
+   "items": [
+    {
+     "id": "a40ea6c642de",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Nearly 340,000 real players reviewed GTA VI. The result is drastically different from Metacritic",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNTdkTUYxQnlaaXYwU3QwNWdyXzJrRk5EZEIyOTJ2U1hvdjhlMGFsZVQ5aHhMV0FKR1djQ09pOWp6a1JJeXQzSE1DelpXNmtwVXktUjlwMmMyV0xQMWdwMXRWY3NiT3dGV0ZRQUs5bmpuWE0tQWVRV3lDajVHUFYxX0VnVmV6TUNkMlZicEFlWC1HYW1aYlVrenlXRWl1UkdORTVENDZuV2lHbmhIOXZyaFUwSXI2aGxIVjIxV1Y1STZJVElBUW930gHMAUFVX3lxTFBKZ2xDYnpzRG15X2IxQVN0V25oemE4SVFteGFwTEd0WlVtVUJqSWdVYUd0LWp4VXF0aG83VUNTQlc3UFVhQWVITW5OT3NmV01pSlgzQUdyTzhoa2FKTnZyZkstS1ZMdUtFSFJNZHF2M05UVTZ6cGI5V2hMZkFZMDVBY1RtanVlcFdVcFlqRU5mVWwzZUtId0RleHVIWm1QaktqQjIydjIyUWkyZUNILTBuWGZhRS1YdGZHV3BHTUZMdDBmTDd1LVdmV3FhaQ?oc=5",
+     "ts": "2026-11-25T03:42:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "2e6959589192",
    "title": "GTA VI's cultural moment shows gaming at its most powerful, says ex-Take-Two CEO Ben Feder",
    "first_seen": "2026-11-24T05:31:00Z",
@@ -199153,11 +199179,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T03:49:33Z",
+  "last_run": "2026-11-25T03:50:45Z",
   "last_log": [
-   "rockstar_site: 0/4",
-   "gnews_en: 99/100",
-   "gnews_ru: 98/100",
+   "rockstar_site: 0/3",
+   "gnews_en: 100/100",
+   "gnews_ru: 97/100",
    "gamesbeat: 3/10",
    "vgc: 9/10",
    "insider_gaming: 4/10",
