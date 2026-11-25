@@ -1,6 +1,82 @@
 {
  "stories": [
   {
+   "id": "289e3b9dd70c",
+   "title": "GTA 6: How to flip a car in Grand Theft Auto 6",
+   "first_seen": "2026-11-24T22:50:55Z",
+   "updated": "2026-11-25T11:01:16Z",
+   "items": [
+    {
+     "id": "289e3b9dd70c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How to flip your car in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14Znhsdk1qU0RsWW0wSGZLejh3TFBib3NFR3k2XzFDaUh4YlVXLXhEY1d6WDhIQ0Zhck9DTzVVQVZyQkpHcTJ1TWpWdm02bXo4TkhWU0Q0WndVQQ?oc=5",
+     "ts": "2026-11-24T22:27:23Z",
+     "summary": ""
+    },
+    {
+     "id": "4da3e0bf6bf7",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6: How to flip a car in Grand Theft Auto 6",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-how-to-flip-car-grand-theft-auto/",
+     "ts": "2026-11-25T10:51:12Z",
+     "summary": "How to flip a car in the open world and reset your car in races in Grand Theft Auto 6"
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "314682169cf2",
+   "title": "GTA 6 Company Property walkthrough: How to save the weapons cargo",
+   "first_seen": "2026-11-25T11:01:16Z",
+   "updated": "2026-11-25T11:01:16Z",
+   "items": [
+    {
+     "id": "314682169cf2",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Company Property walkthrough: How to save the weapons cargo",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-company-property-walkthrough-how-to-save-the-weapons-cargo/",
+     "ts": "2026-11-25T10:53:37Z",
+     "summary": "How to complete Company Property in GTA 6"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Миссия Company Property в GTA 6: как спасти груз оружия",
+    "summary": "По данным VGC, в GTA 6 есть миссия Company Property: нужно спасти груз оружия. Издание описывает условия и цель задания.",
+    "idea": "Короткий гайд: как пройти Company Property и спасти груз оружия без провала. Покажем 2–3 ключевых шага.",
+    "hook": "Застрял на Company Property? Вот как спасти груз оружия за минуту.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T11:01:22Z"
+   },
+   "msg_id": 2225
+  },
+  {
    "id": "af7c466dcc17",
    "title": "Mistakes to Avoid in GTA 6",
    "first_seen": "2026-11-25T10:50:50Z",
@@ -9484,32 +9560,6 @@
     "at": "2026-11-24T21:51:03Z"
    },
    "msg_id": 2193
-  },
-  {
-   "id": "289e3b9dd70c",
-   "title": "How to flip your car in GTA 6",
-   "first_seen": "2026-11-24T22:50:55Z",
-   "updated": "2026-11-24T22:50:55Z",
-   "items": [
-    {
-     "id": "289e3b9dd70c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How to flip your car in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14Znhsdk1qU0RsWW0wSGZLejh3TFBib3NFR3k2XzFDaUh4YlVXLXhEY1d6WDhIQ0Zhck9DTzVVQVZyQkpHcTJ1TWpWdm02bXo4TkhWU0Q0WndVQQ?oc=5",
-     "ts": "2026-11-24T22:27:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "1ff6b8683012",
@@ -196760,604 +196810,21 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f462e82ef154",
-   "title": "'We're Getting GTA 6 First': New Zealand Trick Celebrated by Country's Official Tourist Board",
-   "first_seen": "2026-11-18T10:01:13Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "f462e82ef154",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "'We're Getting GTA 6 First': New Zealand Trick Celebrated by Country's Official Tourist Board",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGgtek1WeXNxVnNnN2Z0SVYzZUZEcWJFZkRkU2FTcmFhX1F4M0dWZDNBQkRTN0dpdTNhOTZ5eXRXQkktVExoZWR5ZjM0eG1rZXVpd2YtWExYbjFZeEcycVdDdzFVbFl1ZUZTSHUySmxxZjdxcnI3aEJuREx5RWhfcGhlQXA3TmFrU1RSQ00yczRySkNiYmdsV25GOEp2UHRUUDZGOUxBNjZUckZhZDRBVWxHb1FFdFhs?oc=5",
-     "ts": "2026-11-18T09:56:01Z",
-     "summary": ""
-    },
-    {
-     "id": "0f187ea6f8ee",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'We're Getting GTA 6 First': New Zealand Trick Celebrated by Country's Official Tourist Board",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONHJTX2l6YVY3WkJudFdHbjN2bUxXc05fRF9kU3hYSVc5blV6WjhNRkZpY3R5Y3ltc1E2ajZhOFg5VndnWFhWOUo4Y2FyRnhRQS1WSWxEdnNKc3p5X0h5RW9fT1JPZHVkVW5aMGNwNFFBVUZnLXQ4Q1dWODhKbi1KUmJOdG1iTnpmTGI1ZVRhVEtZX1Fib1BNQUwwcGN2NzFPbm94VjFVUE5fTnVGSHlLWkxqVWpIMW9nS3JGdklYaUhQVG1FWHZYVWsyQ2piRjUtRm5UakZhTy1IQmU0U1RqQmhn?oc=5",
-     "ts": "2026-11-18T10:11:22Z",
-     "summary": ""
-    },
-    {
-     "id": "4c85522d2149",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "'We're Getting GTA 6 First': New Zealand Trick Celebrated by Country's Official Tourist Board",
-     "url": "https://www.ign.com/articles/were-getting-gta-6-first-new-zealand-trick-celebrated-by-countrys-official-tourist-board",
-     "ts": "2026-11-18T09:55:55Z",
-     "summary": "New Zealand's official tourism board has celebrated the launch of GTA 6 by welcoming gamers taking advantage of the infamous New Zealand trick."
-    },
-    {
-     "id": "394ac35cedab",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'We're Getting GTA 6 First': New Zealand Trick Celebrated by Country's Official Tourist Board",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQclpnc1VZYVN3VjBKeEFNanpiRE51SEVpSnhnTHVXZDd3TjJKX29NRkpJT0lwSmhiQzRaVU9Oc1Q5TkdLWUozYUZ6TVdFcW1vdlFWV3BHTldRaWZRQ19xYVROMnBkYXh4Sm44dlZwWVhPd0xUZDlYbVNxQ2VSS1BEcVpvNkxMS0RLLWNvZVgxSGxKcUNrQXV0WDQ2eUs5b1lxRkxVbTlwZU0xeFNnTTVfWHRUVDFLT1ZIcXBWeEw0Mk1lblR3YzRzY3lFU3A1N0UtWU5PZ01Udmw4NFhmSERtb2o2dw?oc=5",
-     "ts": "2026-11-18T10:20:02Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 94,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Новая Зеландия празднует GTA 6: «Мы первые»",
-    "summary": "Официальный туристический совет Новой Зеландии поддержал лайфхак с часовыми поясами, чтобы сыграть в GTA 6 раньше всех. Власти страны обыграли это в промо, заявив: «Мы получаем GTA 6 первыми». Об этом сообщает IGN.",
-    "idea": "Короткий ролик о том, как страна официально празднует «первый запуск» GTA 6 из-за часовых поясов. Зрителю интересно увидеть, как государство шутит про игру и как это обыграть в своём видео.",
-    "hook": "Страна официально празднует запуск GTA 6 — и вот почему.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T10:01:19Z"
-   },
-   "msg_id": 1212
-  },
-  {
-   "id": "2a2dfb1b4530",
-   "title": "New Zealand prepares for the release of \"Grand Theft Auto VI\"",
-   "first_seen": "2026-11-18T10:31:08Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "2a2dfb1b4530",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo News Canada",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "New Zealand prepares for the release of \"Grand Theft Auto VI\"",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNUtFeVd5RHM4ZGNFTXk3ZHR1elZXU2lhRE9XblMxaDBwSnBUdW5IUC1ZbC1ueWpsOXBKcW9hZDZxX281YkNoeFQ5VmNZX1BLdzJlSXBFajJ0M1QzanJkcno1UXUtalNLN2ZxbmRaR0FlSHNyWWVRQ1drcl9JVjdzTXZBMA?oc=5",
-     "ts": "2026-11-18T10:15:06Z",
-     "summary": ""
-    },
-    {
-     "id": "8556eec1ce78",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo News Singapore",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "New Zealand prepares for the release of \"Grand Theft Auto VI\"",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTGtvRDlUY19hdVFLWlZtU2wyekFvNUwzTWZCXzdtRWpnMUVyeGQ3ci1RdFdMUmZHb2ttV0prcUs0WHVvUFdEbnU2OUxOOTFkNC1XZXVEUElSZ252Vms2dW94RVdNS1lCS0hWWHQ2cUxEd1pWVDFzbkFGWW5Kd29MNkIyTQ?oc=5",
-     "ts": "2026-11-18T10:13:40Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Новая Зеландия готовится к релизу GTA 6",
-    "summary": "В Новой Зеландии готовятся к выходу GTA 6, сообщает Yahoo News Canada и Yahoo News Singapore. Страна ожидает высокий спрос и повышенный интерес к игре в день релиза.",
-    "idea": "Короткая нарезка: пустые полки, очереди, часы до 19.11.2026. Почему интересно — зритель видит, как мир готовится к релизу GTA 6.",
-    "hook": "Новая Зеландия уже готовится к релизу GTA 6 — смотри, что происходит.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:01:36Z"
-   },
-   "msg_id": 1228
-  },
-  {
-   "id": "f8a348aa3cdc",
-   "title": "Sony has released a mandatory PS5 update ahead of GTA VI.",
-   "first_seen": "2026-11-17T12:31:07Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "f8a348aa3cdc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony has released a mandatory PS5 update ahead of GTA VI.",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXk3c1ZQRTg3dm5QY0VfWC00RThqVmxQaDF0ZXFENFM0Z3NxeGxyVlZHNlV1RVhiSkNWVWNuNzRFaXo1aWMxYVhuX2hZTHJpZm9nNERKeE9Ra1ZqSWxITU9uZk5VOXFWYmNFQjNhQ0RnQktCMUNJVkt1dG1aXzdLbjNQTWRhNjM4Uko3R2Y4UExVM3ZybmYxOU5zV3Rmdw?oc=5",
-     "ts": "2026-11-17T12:22:12Z",
-     "summary": ""
-    },
-    {
-     "id": "a8bbde962a03",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Android Authority",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony says this PS5 update is mandatory if you want to play GTA 6 at launch",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yR0JVNFA5WGp5NFpEa0FOY2ptYTRqRnNQSGtyVW5LVnVBd080SE9PSnR1a2pIOURXM0paWnRlUjczN2RfUUpPck5SdHdJaG4zUWthY3R4cm03UHpuaEdjZWt3WUkybElnYWFzU05QVWs?oc=5",
-     "ts": "2026-11-18T03:50:00Z",
-     "summary": ""
-    },
-    {
-     "id": "0591aa6886f8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mezha.net",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony confirms PS5 update is required to play GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUzU5bWg3Sm41LXhVTXllMnRNb0pRWDA1VjRhTVdoUHBwX3ZCVjBtTEZuNFNEMUZEXzRQMHJjbFpCaTR4cFJMWk9LLTgyc2hOTElNTTBHNGNTbUlTaE9oRVBGMzNQbmh6VkdmbC1WV0ctQVhwR0l4OFA1QUNrcm9XeU13?oc=5",
-     "ts": "2026-11-18T08:42:23Z",
-     "summary": ""
-    },
-    {
-     "id": "78e5d43ca9b0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameWatcher",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sony Releases New PS5 Firmware Update Required to Play GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTRMTUZZTEFmTW9YSlJRcEd4WmhQSmdPalB1SU5BQnNoWVJ1aTJUTHBMVDdCYm5ZT2xRU19uQnlmNUVVTnphNXZ6T2ZfS3J2dFRkWldJSEk1RVkzNldaVkRIMFRMUFpXX2YwLWJmcTducC1Gd0k0UFNYak1waVEtLXRiWEw1YnBjSkFNOUtfMjIxZw?oc=5",
-     "ts": "2026-11-18T10:11:00Z",
-     "summary": ""
-    },
-    {
-     "id": "8cb323dde36d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gta 6 Won’t Launch Without This PS5 Anti-Piracy Update Sony Just Released",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcXA1Q2RjYk5YZXZHd1ZkbTRtdUtmQ0piVTdydHZSVVRJQXRCcjM0ejlHcFhmZ1k4TEg0Y19ya3Q1QXRQMFdkWEh0M2ZfUEx6X0tVbDhtcFFrRFdLZmRMb0RFUTBhQWRxVUNmVmgweTJJRzBONUFpenBoVm1vdjVjMDFpVU1jNGc?oc=5",
-     "ts": "2026-11-18T10:50:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "540bff0b9fc1",
-   "title": "Graffiti Mansion goes all out for Grand Theft Auto VI",
-   "first_seen": "2026-11-18T05:20:45Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "540bff0b9fc1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "AP News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Graffiti Mansion goes all out for Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTEFuXzhoOHZ2WW45TmNkT2Uzb1BmbnljYmJtajNxV3M5T1JTal9yYThsUWN3QjM2YTJmTW5IZ0RHRFVwZ1o1X1dIdFB2Uk5oRUNSSmk3RFBqaGluTEN1U3VvcjJEdVZFSXJGRU12ZTRkSEJqMGZTVUY5aWQ3V1NmQzQ5NGV3Tk9JQUJvejIzUnpCRFVTNVR2VzV6Nzk2aG9QajFrdERrSVg4VmtFS2lYaA?oc=5",
-     "ts": "2026-11-18T05:15:00Z",
-     "summary": ""
-    },
-    {
-     "id": "ec87f5cea17d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "AP News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Las Vegas’ Graffiti Mansion goes all out for ‘GTA VI’",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb0RCM19lY0RnMTVnREVHTEs1b0JZV3F2N2k0bEhiWHZLLUxvd1RZNEpUbXc3RXJocEltVURCbXpqME11Z01ZcmcwNG1NUlplNmp1T2h0UTlwMTVSUEZmUGZqYTF4UlNvOGI0c0xjdUdKUVY4QXdvWGh0YXQ0aHFEZGtvNjEzLUxEVnhvYUpaVEJlV1gyWWxHSnFyZFQzRlk4NDY2Q3FGaDZlcVQw?oc=5",
-     "ts": "2026-11-18T10:48:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f1ca4d591f2b",
-   "title": "GTA 6 выйдет 19 ноября: рекордные предзаказы и 13 лет ожидания",
-   "first_seen": "2026-11-18T11:01:12Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "f1ca4d591f2b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 выйдет 19 ноября: рекордные предзаказы и 13 лет ожидания",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02Ukt6VUhLc3RvMEJkZ2FSRWMwcUJ0ZUp0WWI4U1lJUEFrWHotQl9GZ29VOTl3akg3bGYyc0drcVVSU3k2N1luelJRLTNaa3JmS1JCa1pFMWplWGlvMFhqMjNPUlhHaW5RQnNvamJnbFVENDU0RU5qVQ?oc=5",
-     "ts": "2026-11-18T08:29:57Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6: рекордные предзакажи и 13 лет ожидания",
-    "summary": "По данным Techora.ru, GTA 6 выходит 19 ноября и показывает рекордные предзаказы после 13 лет ожидания. Издания и цена не уточняются. Официально Rockstar это не комментировала.",
-    "idea": "Короткий таймер до 19 ноября с фактом «13 лет ожидания» и строкой «рекордные предзаказы». Зрителю важно увидеть масштаб и понять, что игра уже завтра.",
-    "hook": "Завтра GTA 6. 13 лет ожидания и рекордные предзаказы — вот цифры.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:01:39Z"
-   },
-   "msg_id": 1229
-  },
-  {
-   "id": "80b3bbeb4ed0",
-   "title": "“GTA VI” launches Thursday after 13 years, with a 212 GB download that has telecoms bracing",
-   "first_seen": "2026-11-18T11:01:12Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "80b3bbeb4ed0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Plataforma Media",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "“GTA VI” launches Thursday after 13 years, with a 212 GB download that has telecoms bracing",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTjZaRklnd190cnZRaXNCQXVSUDFBbmZzQUF3NGtKMzNtbWlYVDBhaktGdEtfWnhGeW5fWlk5Tnc2aEM2ZWk3ZC1yR2Nzeks0amx6UkRKaGt1SE85blBFbmhUanFyUkFaVGxEdVV2aVRERVU5V1g0NzNvaG00VE5oR1dSVTRvWUlzam1TazZ3cjVuemVxck4yR1ZLRUVyc0RydkJkeWtzbVBINGlzVGRqbmNFcnZrSjNJeWhVTnRKamY0c1N6NG5LR3BPeE1RQTB6?oc=5",
-     "ts": "2026-11-18T10:49:55Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "размер/preload"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️ GTA 6: предзагрузка 212 ГБ — сети готовятся",
-    "summary": "По данным Plataforma Media, GTA 6 выходит в четверг после 13 лет ожидания, а размер загрузки — 212 ГБ. Из-за этого провайдеры готовятся к наплыву трафика.",
-    "idea": "Коротко показываем экран с «212 ГБ» и шкалу загрузки, затем — реакцию провайдеров и игроков. Зрителю важно понять, сколько ждать скачивания и не «лягут» ли сети в день релиза.",
-    "hook": "212 гигабайт. GTA 6 выходит в четверг — интернет готов?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:01:32Z"
-   },
-   "msg_id": 1227
-  },
-  {
-   "id": "d6472fb628cc",
-   "title": "☺️ 10 minutes until GTA 6 launches.",
-   "first_seen": "2026-11-18T11:01:12Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "d6472fb628cc",
-     "src": "tg_gta6newsdaily",
-     "src_name": "TG @gta6newsdaily",
-     "outlet": "",
-     "group": "telegram_en",
-     "weight": 45,
-     "alert": true,
-     "title": "☺️ 10 minutes until GTA 6 launches.",
-     "url": "https://t.me/gta6newsdaily/5025",
-     "ts": "2026-11-18T10:52:48Z",
-     "summary": "☺️ 10 minutes until GTA 6 launches. #GTA6 #GTAVI"
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0acc50037c60",
-   "title": "New Zealand’s official tourism agency jokes about GTA 6 players ‘joining us’ to play the game early",
-   "first_seen": "2026-11-18T11:01:12Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "0acc50037c60",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "New Zealand’s official tourism agency jokes about GTA 6 players ‘joining us’ to play the game early",
-     "url": "https://www.videogameschronicle.com/news/new-zealands-official-tourism-agency-jokes-about-gta-6-players-joining-us-to-play-the-game-early/",
-     "ts": "2026-11-18T10:54:35Z",
-     "summary": "Players are using the New Zealand trick to play GTA before it arrives in their country"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Новая Зеландия зовёт игроков GTA 6 «приехать поиграть»",
-    "summary": "Новозеландское туристическое агентство пошутило, что игроки могут «приехать к нам», чтобы сыграть в GTA 6 раньше. Игроки используют «новозеландский трюк» со сменой региона, чтобы запустить игру до релиза в своей стране. Об этом пишет VGC.",
-    "idea": "Короткий гайд: как работает смена региона на NZ и почему это всплыло именно сейчас — с реакцией агентства. Зрителю интересно, потому что это реальный способ поиграть раньше и повод для мемов.",
-    "hook": "Хочешь в GTA 6 на день раньше? Туристы Новой Зеландии зовут.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:01:18Z"
-   },
-   "msg_id": 1224
-  },
-  {
-   "id": "c4b93d77ba54",
-   "title": "— \"Lucia, do you know why you're here?\" — 🗣 \"Bad luck, I guess\"",
-   "first_seen": "2026-11-18T11:01:12Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "c4b93d77ba54",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "— \"Lucia, do you know why you're here?\" — 🗣 \"Bad luck, I guess\"",
-     "url": "https://t.me/gta6deluxe/2112",
-     "ts": "2026-11-18T10:54:48Z",
-     "summary": "— \"Lucia, do you know why you're here?\" — 🗣 \"Bad luck, I guess\""
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🗣 Первая реплика Лусии в GTA 6 — «Bad luck, I guess»",
-    "summary": "По сообщению TG @gta6deluxe, первая реплика Лусии в GTA 6 — «Bad luck, I guess». Это короткая фраза из диалога, который, судя по тексту, связан с допросом.",
-    "idea": "Короткая нарезка: вопрос «Lucia, do you know why you're here?» и ответ Лусии «Bad luck, I guess» с субтитрами и реакцией в кадре. Зрителю интересно услышать «голос» героини и поймать тон игры до релиза.",
-    "hook": "Первая реплика Лусии в GTA 6 уже известна — и это «Bad luck, I guess».",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:01:42Z"
-   },
-   "msg_id": 1230
-  },
-  {
-   "id": "3d16e86768f7",
-   "title": "Для запуска GTA 6 на PS5 действительно потребуется особый патч",
-   "first_seen": "2026-11-18T11:01:12Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "3d16e86768f7",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Igromania.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Для запуска GTA 6 на PS5 действительно потребуется особый патч",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSkxzNEFuZHJndEw2VFphMDRNNXA1YWNUYkpIRng3RGMtM2diTGxoaGhzNDJmRTVuZmlhcm93UV9wODMzS0JScDgyaUlHWTV2aDB0S3d1RUNQZWI4b0Q5VjFXS2Nibl80RlhFNnJFNUpQbFZkeFJBbUpCSkhXTUFCNmhWMGJ0aWdHeEJuX1BlRm9RV08zZGpnRjVDSVpyX0hqaHVqeUxB?oc=5",
-     "ts": "2026-11-18T10:54:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9d5135355468",
-   "title": "А тем временем до релиза в Новой Зеландии остаётся менее 5 минут А на Twitch уже 1 миллион зрителей!",
-   "first_seen": "2026-11-18T11:01:12Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "9d5135355468",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "А тем временем до релиза в Новой Зеландии остаётся менее 5 минут А на Twitch уже 1 миллион зрителей!",
-     "url": "https://t.me/GTAVIStar/929",
-     "ts": "2026-11-18T10:56:31Z",
-     "summary": "А тем временем до релиза в Новой Зеландии остаётся менее 5 минут А на Twitch уже 1 миллион зрителей! 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3016e29824e5",
-   "title": "ОДНА МИНУТА!",
-   "first_seen": "2026-11-18T11:01:12Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "3016e29824e5",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "ОДНА МИНУТА!",
-     "url": "https://t.me/gta6deluxe/2114",
-     "ts": "2026-11-18T10:59:08Z",
-     "summary": "ОДНА МИНУТА!"
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "deefaa889976",
-   "title": "Rockstar Issues an Official GTA 6 Spoiler Alert on Its Discord as Launch Begins",
-   "first_seen": "2026-11-18T11:01:12Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "deefaa889976",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "Rockstar Issues an Official GTA 6 Spoiler Alert on Its Discord as Launch Begins",
-     "url": "https://www.gtaboom.com/rockstar-issues-an-official-gta-6-spoiler-alert-on-its-discord-as-launch-begins-16d7",
-     "ts": "2026-11-18T10:59:55Z",
-     "summary": "Rockstar warns that intentionally trolling members with GTA 6 spoilers will get you removed from its official Discord server."
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9a912bf81215",
-   "title": "13 лет ждали GTA VI Из них, 12 лет Arizona Online удивляет каждый день.",
-   "first_seen": "2026-11-18T11:01:12Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "9a912bf81215",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "13 лет ждали GTA VI Из них, 12 лет Arizona Online удивляет каждый день.",
-     "url": "https://t.me/GTA6_m/9404",
-     "ts": "2026-11-18T10:59:58Z",
-     "summary": "13 лет ждали GTA VI Из них, 12 лет Arizona Online удивляет каждый день. И пока для новой GTA нужна PS5, на наш Vice City можно попасть даже с мобильного. Что тебя ждет всегда: — 🚀 Регулярные обновления игрового контента — 🫂 Игра с друзьями — 🤠 Возможность создания своего сюжета."
-    }
-   ],
-   "tags": [
-    "Online"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "f6a4c81b9e14",
-   "title": "Grand Theft Auto 6 review: Rockstar delivers everything I hoped for – the game of the generation",
-   "first_seen": "2026-11-18T11:01:12Z",
-   "updated": "2026-11-18T11:01:12Z",
-   "items": [
-    {
-     "id": "f6a4c81b9e14",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Grand Theft Auto 6 review: Rockstar delivers everything I hoped for – the game of the generation",
-     "url": "https://www.videogameschronicle.com/review/grand-theft-auto-6/",
-     "ts": "2026-11-18T11:00:21Z",
-     "summary": "Rockstar delivers its modern masterpiece with a remarkable artistic achievement that exceeds all expectations"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T10:50:54Z",
+  "last_run": "2026-11-25T11:01:23Z",
   "last_log": [
    "rockstar_site: 0/5",
-   "gnews_en: 99/100",
-   "gnews_ru: 97/100",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
+   "gnews_ru: 96/100",
    "gamesbeat: 3/10",
    "vgc: 7/10",
-   "insider_gaming: 4/10",
+   "insider_gaming: 3/10",
    "ign: 7/20",
    "eurogamer: 15/100",
-   "dexerto_gta: 12/50",
+   "dexerto_gta: 11/50",
    "rockstarintel: 10/10",
    "gtaboom: 30/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
