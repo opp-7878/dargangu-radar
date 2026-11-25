@@ -198645,41 +198645,15 @@
     "at": "2026-11-18T00:31:12Z"
    },
    "msg_id": 1187
-  },
-  {
-   "id": "3c5e94dd9d25",
-   "title": "Аферисты заработали 914 тысяч рублей на желании россиян поиграть в GTA 6",
-   "first_seen": "2026-11-18T00:20:49Z",
-   "updated": "2026-11-18T00:20:49Z",
-   "items": [
-    {
-     "id": "3c5e94dd9d25",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Общественная служба новостей",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Аферисты заработали 914 тысяч рублей на желании россиян поиграть в GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNDZwaS14VWFKR3BvSjMtbTFtU0pBZTFGajV4bEdQSFppUWk1aFBFOHo2RjRmRm1QeTNTc1d0dDlEb1VLcUNtc2RoeW1rajYxSU1FU2tXcC1Ta2dXQ2xmYWFCMi1iQ1VFbTBLZjhEOGRNWlVtRTlhbk9FZXd2Z2FwMS1xcjV2Z0dXYVcyQVI4S19vM05xT0UyVWlkdEt2S2ROeVQxOHMwZjVzWWZ5Y05CeA?oc=5",
-     "ts": "2026-11-18T00:15:16Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T00:10:51Z",
+  "last_run": "2026-11-25T00:21:13Z",
   "last_log": [
-   "rockstar_site: 0/4",
-   "gnews_en: 99/100",
-   "gnews_ru: 99/100",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 3/10",
    "vgc: 9/10",
    "insider_gaming: 4/10",
