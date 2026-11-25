@@ -1,6 +1,392 @@
 {
  "stories": [
   {
+   "id": "9ef4f5ea9ee5",
+   "title": "DA Davidson reiterates Buy on Take-Two stock, cites GTA VI dominance",
+   "first_seen": "2026-11-24T11:50:51Z",
+   "updated": "2026-11-25T07:31:04Z",
+   "items": [
+    {
+     "id": "9ef4f5ea9ee5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Investing.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "DA Davidson reiterates Buy on Take-Two stock, cites GTA VI dominance",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGZuR0dMTUJFZXdyUmprNndfRjZoaTVqc1JSN2FKczNfTF9YZjlncEhPZzBhSkRZMEVfVjRyRmlVcmJ3Y1hBaFRkSmhGcVpsZExHdm1iVHJHZ3hiRzh1bXNvRjRIT0pjSzJHWUQ5OEJFZkY0WWYta0tkZ2dLLTE3Sll1Q2l4ZWJnRXhfeFphU1k1UnpBbmE0azRNQTNVUTlBTFFwcUxfd29pWkZleklQQW1YN0RPN3NidjZ4LWtFV2Y4djlx?oc=5",
+     "ts": "2026-11-24T11:40:02Z",
+     "summary": ""
+    },
+    {
+     "id": "e913c2c15386",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "eGamers.io",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Take-Two Puts GTA 6 at 3.79 Billion USD in Retail Sales After Launch Day, With 32.5 Million Copies Sold Before Release",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeHRmbkgwY2EyZk1GNnIyenFjWTFMRHE3d1JLOG9keWZvT25GOVVFUGtpS1lCNWdkM3BiUy1iMjV0TnJad3BjLUdKUVdrajR2Y0p3V2M1ZlhOeUJqV1JVMndWdDJpdXRjVG9wd1J6QnVPME0xUXRnLUZlTlVTR1Q1T1ktcjFLOWJDci0zbHUxc1NKLTQ2bjJmSkpRbG9xMHIzcHNYMUJCdVNxNk9RWjhqX3F5ZTVMSk52b1pjRFB6TUdacUt5Y3lob2x2NU5IVFU1UjA4?oc=5",
+     "ts": "2026-11-24T12:22:52Z",
+     "summary": ""
+    },
+    {
+     "id": "95cd185fa337",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TweakTown",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 PC port takedown confirmed: Take-Two cites Rockstar's ban on reverse engineering",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0hZMUZrS2Zqc3RHNzE2WWNTVTU5YUN4QlY1OUFxcjdrUVEtTElyb3g2emJjcENHV1g5dTE2ZWI5V3hMTmgxeE1BdkJlNkNURGRLY2liZTdUOE1zNW5mcWJJd2dnSnFsMGNFWUJpY1B0RVNwMXVwZl9qeGU4VENkU0NRakRFMS1FTVplbng0X0R3dkxyQW1DWVVnQ2VraHVtdUhsNHpkZHZpTFBoTjdwdW03dndUZUJpcFV0SUo1SVc3YnRMVDV3dkNVM0Q5UQ?oc=5",
+     "ts": "2026-11-25T07:00:03Z",
+     "summary": ""
+    },
+    {
+     "id": "4484fed12de0",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Take-Two рассылает уведомления DMCA за неофициальные ПК-версии GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sR0NGUjFfMW9IdGVubUVnNnlIXzUxcGhqYktBWnprNnVUeE50NF8yRWtfeEpKOFJuYnVBa29kWnJOdXFMdGVETlZ6N2FPclVnQW9uUjdEdTNYTGtMNzFRdUhCVXVZTjRXTnNPQ0ktdzFGak96RF80N3I0alNBRE0?oc=5",
+     "ts": "2026-11-25T04:42:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two",
+    "ПК",
+    "анонс"
+   ],
+   "score": 89,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Инвесторы верят в GTA 6: Take-Two советуют покупать",
+    "summary": "Аналитики DA Davidson подтвердили рекомендацию «покупать» акции Take-Two, сославшись на доминирование GTA VI. Об этом сообщает Investing.com.",
+    "idea": "Угол: деньги верят в игру. Показываем график акций Take-Two и трейлер GTA 6 — зрителям интересно, что GTA 6 уже «оплачена» рынком.",
+    "hook": "Инвесторы ставят миллионы на GTA 6 — вот что это значит для нас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T11:51:12Z"
+   },
+   "msg_id": 2113
+  },
+  {
+   "id": "bbfcf9ae2e26",
+   "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
+   "first_seen": "2026-11-25T07:10:52Z",
+   "updated": "2026-11-25T07:31:04Z",
+   "items": [
+    {
+     "id": "bbfcf9ae2e26",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVlpNjBMSTZIUUdOUXhrOTBXTF9WUGpXQWd6V1NxTmtHT2tpU0QyeDR0aVlRNFRHdWVvSmNtUWcyOS1oSklYVVhHTXZ2Nm9HT3dCdjRGOVlfZV9iQ2M3eVdESTFqR29WdHNudE9DM0pYX0YycFQyYzhtRTMwRkJoMHA4TklyS1Frc0pPS19DTmNxOFBTbnBIQVBqRGJXdlNLdEVXU2RZRU1IT3VqZW9aa1NqbENLZw?oc=5",
+     "ts": "2026-11-25T07:09:08Z",
+     "summary": ""
+    },
+    {
+     "id": "f87f5b5efcdf",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
+     "url": "https://www.ign.com/articles/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz",
+     "ts": "2026-11-25T06:55:24Z",
+     "summary": "Rockstar chopped out a temporary stat buff from GTA 6, although players down under may not ever really notice it."
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "❗️В GTA 6 вырезали временный бафф для Австралии и Новой Зеландии",
+    "summary": "Rockstar удалила из GTA 6 временный бафф характеристик для Австралии и Новой Зеландии, пишет IGN. По данным издания, игроки из этих регионов могут даже не заметить изменений.",
+    "idea": "Короткий разбор: какой именно временный бафф убрали и заметят ли его игроки в Австралии и Новой Зеландии. Зрителю интересно, как локальные правки влияют на баланс.",
+    "hook": "В GTA 6 вырезали временный бафф — только для Австралии и Новой Зеландии.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T07:31:09Z"
+   },
+   "msg_id": 2216
+  },
+  {
+   "id": "fdd76b8d8590",
+   "title": "Almost five years in secret: GTA VI actor speaks about working on the game",
+   "first_seen": "2026-11-25T05:40:49Z",
+   "updated": "2026-11-25T07:31:04Z",
+   "items": [
+    {
+     "id": "fdd76b8d8590",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "iXBT.games",
+     "group": "media",
+     "weight": 45,
+     "alert": true,
+     "title": "Almost five years in secret: GTA VI actor speaks about working on the game",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTXQxb1ZjTEZaUUNyaml1VF9HUC1zZ1NIVk5WNWlURlRVenNYR1ZmQmduS29pZ0NSaUMxbXU2V3luOHhRdTZ3LU9YX1RBamNpeWdZV2diM1ZWUlB2MHVHUFpSMWVNNnNSSHlRbElGMTQ5TUFrNXZVLTdjTlIxcnlZb2pmOE1PMGVVSHlEZ1BRMVRfbDFPOVJWWjBpUXlsOGhqZHVsSjhadnd6aEnSAbABQVVfeXFMUGlCclFYVVUxM2wxRUoxdG84eUhFZkxvR2o1TjV6Vl8td2pQdkV5TlZDMTBpdkNIaFA0R0g5c2tPMExhWk1XNGVqNFdxS1d6dmNQQkFLZjRLV25ud3N1VXdEYmZaWFlhRWV5TFBxZ1NkS255dnBuTUdmYUdBRm1GZl9SYmtqaWR6eVVJTVFQMU9SM1BseUpwZ0ZidVR3WGlzQTItMGFxQWVkaVNNOFNOclo?oc=5",
+     "ts": "2026-11-25T05:26:00Z",
+     "summary": ""
+    },
+    {
+     "id": "2f3621094d6c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Almost five years in secret: GTA VI actor speaks about working on the game",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTXQxb1ZjTEZaUUNyaml1VF9HUC1zZ1NIVk5WNWlURlRVenNYR1ZmQmduS29pZ0NSaUMxbXU2V3luOHhRdTZ3LU9YX1RBamNpeWdZV2diM1ZWUlB2MHVHUFpSMWVNNnNSSHlRbElGMTQ5TUFrNXZVLTdjTlIxcnlZb2pmOE1PMGVVSHlEZ1BRMVRfbDFPOVJWWjBpUXlsOGhqZHVsSjhadnd6aEnSAbABQVVfeXFMUGlCclFYVVUxM2wxRUoxdG84eUhFZkxvR2o1TjV6Vl8td2pQdkV5TlZDMTBpdkNIaFA0R0g5c2tPMExhWk1XNGVqNFdxS1d6dmNQQkFLZjRLV25ud3N1VXdEYmZaWFlhRWV5TFBxZ1NkS255dnBuTUdmYUdBRm1GZl9SYmtqaWR6eVVJTVFQMU9SM1BseUpwZ0ZidVR3WGlzQTItMGFxQWVkaVNNOFNOclo?oc=5",
+     "ts": "2026-11-25T05:26:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "fd6c606254f4",
+   "title": "Slideshow: Vehicles in GTA 6",
+   "first_seen": "2026-11-25T02:10:45Z",
+   "updated": "2026-11-25T07:31:04Z",
+   "items": [
+    {
+     "id": "fd6c606254f4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Slideshow: Vehicles in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFNsOWxyQ2RjbC1FZGtPeE03MzFKR1g5VEFNZGprbVk0YnZZVnN6dHk1SFRPQWc2LXg5U1FZTWlNSktTc0J4TklvTjNSdUFxRjJvajl1Z3FKS1FLRXByX19IdnBlc1hMSF9XaWlLZUNFQ1JmYWx5ZXFLNnNPR29kODkzY2g?oc=5",
+     "ts": "2026-11-25T02:07:46Z",
+     "summary": ""
+    },
+    {
+     "id": "71f5f7e75dbe",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Slideshow: Vehicles in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MTmdBMzlxYThhbHR0TDU3eUQwRzFZX3pGREszMXlPc214bTM4WkFoUkxkbnJJQjVEVnNfRHpvbnJFVHB0WTR1UHZRcnBjUEZFaWZNYWtPa1AybWlPbzRWcFlXV1ZNZWdobDEzTi03aWx6Q005akE?oc=5",
+     "ts": "2026-11-25T02:19:55Z",
+     "summary": ""
+    },
+    {
+     "id": "383926663ca0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Slideshow: Vehicles in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFNaN1dpX3hENFJOVmhuaEtlYUdQY1Y2UEZHQnJ4QW0xUGNaakdHVzFkSnd2bVF0cTRXZ3pkYl9mVGtIY0Z1aEhxdVlpMnlvX21ZdzRDSGxTYlFLeDJhR2tISHA5dUl2SXd0N2E5Z3JpSEQtSThjVXpqbFRtb3hwLVFYbktYY1dKOVE?oc=5",
+     "ts": "2026-11-25T06:00:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Автопарк GTA 6: IGN показал машины из игры",
+    "summary": "IGN Southeast Asia и IGN Nordic выпустили слайд-шоу с автомобилями GTA 6. В подборках собрали машины, которые мелькали в официальных материалах игры.",
+    "idea": "Короткая нарезка машин из слайд-шоу IGN под динамичный бит с подписями моделей. Зрителю интересно увидеть знакомые и новые авто в одном ролике.",
+    "hook": "Все машины GTA 6 в одном видео — смотри, что нашли IGN.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T02:31:03Z"
+   },
+   "msg_id": 2209
+  },
+  {
+   "id": "845d6db5fdbc",
+   "title": "The Travis Scott x Rockstar x Nike Air Force 1 Low GTA 6 Pack Raffle is Live",
+   "first_seen": "2026-11-24T22:20:52Z",
+   "updated": "2026-11-25T07:31:04Z",
+   "items": [
+    {
+     "id": "845d6db5fdbc",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Sole Retriever",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Travis Scott x Rockstar x Nike Air Force 1 Low GTA 6 Pack Raffle is Live",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVNCZ1ZoV2t2NVg0bzZ3d2tvRERMbTVQSEU5RFlWc3dNSDBtZ3kwbDlyUHlCd0FYT0JZNVVJc0RtYkVlTjlKTjFiMUxoWmJkTGd6djZpcVFrdTBUeHliZE9TYkNGZFdlc01NLW9KcXVoRVkwaTVyM0VMekkzN0U4VWNBVU95Q1J5ZWdOT2poTTgxLW1ZVUhKZEJWV0JGc3pEdVd1cnM0S0k4NTJiVFE?oc=5",
+     "ts": "2026-11-24T22:04:24Z",
+     "summary": ""
+    },
+    {
+     "id": "1860697bf31c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Sneaker News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "RAFFLE LIVE: Travis Scott x Nike Air Force 1 “GTA 6”",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2lrMktvWVFxazNmSXBSOG0zY1Y1ZE1fSUNzUy1fU3ZVc0QyWmZEWGpwSEk3YW50LTltcFpENVhzVnNicVdvUklZOHlhdUtvNFpoWWRXdXhZLVd1U3V5OFBWdWV2cTFDMmZ6REpBVm04SWJ2eUpMOXI1c3ZGWENvRkVSelVBMmFQYTYyN2EzSTNDd9IBkgFBVV95cUxNM2lrMktvWVFxazNmSXBSOG0zY1Y1ZE1fSUNzUy1fU3ZVc0QyWmZEWGpwSEk3YW50LTltcFpENVhzVnNicVdvUklZOHlhdUtvNFpoWWRXdXhZLVd1U3V5OFBWdWV2cTFDMmZ6REpBVm04SWJ2eUpMOXI1c3ZGWENvRkVSelVBMmFQYTYyN2EzSTNDdw?oc=5",
+     "ts": "2026-11-25T05:07:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "d5d2b58ef142",
+   "title": "GTA VI стала серьезным стресс-тестом для PS5 — в сети появились сообщения о поломках и перегреве",
+   "first_seen": "2026-11-25T07:31:04Z",
+   "updated": "2026-11-25T07:31:04Z",
+   "items": [
+    {
+     "id": "d5d2b58ef142",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI стала серьезным стресс-тестом для PS5 — в сети появились сообщения о поломках и перегреве",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ0NwbzZlWENEMVRNSU9PN1AwTy1lZ1ZGTkFVVVJ1VTNnVUNOb3FROEhKZTNNVlBHYkE0Z3NDX2tldHVQUjBYY3hwY2YwVWxYVWVFUXRUb2JCYURTRmRKQVFTMzhoemRabmRFSE5FampPMjNHWmE4bG1hN0t5LTJCa2ZmRnRfRUVTVUVTR0Z3OXpSY295WDUtR0NRcHJickM1WFhSa1NiazQyUdIBqgFBVV95cUxOZ0NwbzZlWENEMVRNSU9PN1AwTy1lZ1ZGTkFVVVJ1VTNnVUNOb3FROEhKZTNNVlBHYkE0Z3NDX2tldHVQUjBYY3hwY2YwVWxYVWVFUXRUb2JCYURTRmRKQVFTMzhoemRabmRFSE5FampPMjNHWmE4bG1hN0t5LTJCa2ZmRnRfRUVTVUVTR0Z3OXpSY295WDUtR0NRcHJickM1WFhSa1NiazQyUQ?oc=5",
+     "ts": "2026-11-25T05:27:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c70817da3f8c",
+   "title": "В отчёте CDPR отметили влияние GTA 6 и ход работы над новыми играми Cyberpunk и «Ведьмак",
+   "first_seen": "2026-11-25T07:31:04Z",
+   "updated": "2026-11-25T07:31:04Z",
+   "items": [
+    {
+     "id": "c70817da3f8c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В отчёте CDPR отметили влияние GTA 6 и ход работы над новыми играми Cyberpunk и «Ведьмак",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNlJsd1pfQUJQRnhOSkV1cXZqOHR0QkdjeGczN2ZvSURZT0pKM3hXdHgyNFlyVjlRdGkyWllJNjB4SjJyS2tTNFNRa2RadFVfU2FkZ2d2N3pBNlJNWEcyNWVMU25yZEthc0lPYXZQMWx0S1NaNnRDeGFnaFpCTmtBUnRodDIwUTJHSnRPUFcwekVxTUI4MzhHaGVlZ3ZNeG1TWlRzT09nZVdVWW1wQnhsUUFPeGN4OUNXbm1zRW4tdw?oc=5",
+     "ts": "2026-11-25T07:22:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "928f1b714e39",
+   "title": "Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough",
+   "first_seen": "2026-11-24T12:41:11Z",
+   "updated": "2026-11-25T07:31:03Z",
+   "items": [
+    {
+     "id": "928f1b714e39",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough",
+     "url": "https://insider-gaming.com/gta-6-legendary-weapons/",
+     "ts": "2026-11-24T12:33:21Z",
+     "summary": "GTA 6 has various legendary weapons for you to find and become permanent additions to your arsenal, and we have locations for the best ones. The post Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough appeared first on Insider Gaming ."
+    },
+    {
+     "id": "403b2609fad8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsWmZ5c2ZDV1V4b1dZQVpwTmE1b2lJWG9iZ2pGWlhJWHRLNnRZaVpCellNS0g5UGpiUnV2bDYzSFVjQ2dsZ1lhRUFxbHdKOVE3Vld3ak5XaDBHVE9scEcxTQ?oc=5",
+     "ts": "2026-11-24T12:33:21Z",
+     "summary": ""
+    },
+    {
+     "id": "dafa511e3d80",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "YouTube",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "30 Unique Weapon Variants Locations GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52N3dnUFpQbU42RDM0ZU94ZUZKT1M3a1M0VE9YeTQ1YU1DTGF3cm5TZEZsRHVraXpzcHd5dmEzdWg3dw?oc=5",
+     "ts": "2026-11-25T02:24:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔫 Легендарные пушки в GTA 6: где искать лучшие варианты",
+    "summary": "Insider Gaming (Tom Henderson) опубликовал гайд по лучшим легендарным вариантам оружия в GTA 6 и их локациям. По данным материала, эти пушки становятся постоянным пополнением арсенала.",
+    "idea": "Быстрый маршрут по 3–5 точкам с редкими вариантами оружия — где искать и что выпадает. Зрителю интересно сэкономить время и сразу получить топ-стволы.",
+    "hook": "Топ-5 легендарных пушек в GTA 6 и точные места — поехали!",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-24T12:41:18Z"
+   },
+   "msg_id": 2118
+  },
+  {
    "id": "bf4dbe38f7b3",
    "title": "GTA 6 Gets Real Trading Cards Based on In-Game Collectibles",
    "first_seen": "2026-11-24T19:01:19Z",
@@ -321,99 +707,6 @@
     "at": "2026-11-24T20:01:18Z"
    },
    "msg_id": 2180
-  },
-  {
-   "id": "9ef4f5ea9ee5",
-   "title": "DA Davidson reiterates Buy on Take-Two stock, cites GTA VI dominance",
-   "first_seen": "2026-11-24T11:50:51Z",
-   "updated": "2026-11-25T07:10:52Z",
-   "items": [
-    {
-     "id": "9ef4f5ea9ee5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Investing.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "DA Davidson reiterates Buy on Take-Two stock, cites GTA VI dominance",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGZuR0dMTUJFZXdyUmprNndfRjZoaTVqc1JSN2FKczNfTF9YZjlncEhPZzBhSkRZMEVfVjRyRmlVcmJ3Y1hBaFRkSmhGcVpsZExHdm1iVHJHZ3hiRzh1bXNvRjRIT0pjSzJHWUQ5OEJFZkY0WWYta0tkZ2dLLTE3Sll1Q2l4ZWJnRXhfeFphU1k1UnpBbmE0azRNQTNVUTlBTFFwcUxfd29pWkZleklQQW1YN0RPN3NidjZ4LWtFV2Y4djlx?oc=5",
-     "ts": "2026-11-24T11:40:02Z",
-     "summary": ""
-    },
-    {
-     "id": "e913c2c15386",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "eGamers.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Take-Two Puts GTA 6 at 3.79 Billion USD in Retail Sales After Launch Day, With 32.5 Million Copies Sold Before Release",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeHRmbkgwY2EyZk1GNnIyenFjWTFMRHE3d1JLOG9keWZvT25GOVVFUGtpS1lCNWdkM3BiUy1iMjV0TnJad3BjLUdKUVdrajR2Y0p3V2M1ZlhOeUJqV1JVMndWdDJpdXRjVG9wd1J6QnVPME0xUXRnLUZlTlVTR1Q1T1ktcjFLOWJDci0zbHUxc1NKLTQ2bjJmSkpRbG9xMHIzcHNYMUJCdVNxNk9RWjhqX3F5ZTVMSk52b1pjRFB6TUdacUt5Y3lob2x2NU5IVFU1UjA4?oc=5",
-     "ts": "2026-11-24T12:22:52Z",
-     "summary": ""
-    },
-    {
-     "id": "95cd185fa337",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TweakTown",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 PC port takedown confirmed: Take-Two cites Rockstar's ban on reverse engineering",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0hZMUZrS2Zqc3RHNzE2WWNTVTU5YUN4QlY1OUFxcjdrUVEtTElyb3g2emJjcENHV1g5dTE2ZWI5V3hMTmgxeE1BdkJlNkNURGRLY2liZTdUOE1zNW5mcWJJd2dnSnFsMGNFWUJpY1B0RVNwMXVwZl9qeGU4VENkU0NRakRFMS1FTVplbng0X0R3dkxyQW1DWVVnQ2VraHVtdUhsNHpkZHZpTFBoTjdwdW03dndUZUJpcFV0SUo1SVc3YnRMVDV3dkNVM0Q5UQ?oc=5",
-     "ts": "2026-11-25T07:00:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two",
-    "ПК",
-    "анонс"
-   ],
-   "score": 81,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Инвесторы верят в GTA 6: Take-Two советуют покупать",
-    "summary": "Аналитики DA Davidson подтвердили рекомендацию «покупать» акции Take-Two, сославшись на доминирование GTA VI. Об этом сообщает Investing.com.",
-    "idea": "Угол: деньги верят в игру. Показываем график акций Take-Two и трейлер GTA 6 — зрителям интересно, что GTA 6 уже «оплачена» рынком.",
-    "hook": "Инвесторы ставят миллионы на GTA 6 — вот что это значит для нас.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-24T11:51:12Z"
-   },
-   "msg_id": 2113
-  },
-  {
-   "id": "bbfcf9ae2e26",
-   "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
-   "first_seen": "2026-11-25T07:10:52Z",
-   "updated": "2026-11-25T07:10:52Z",
-   "items": [
-    {
-     "id": "bbfcf9ae2e26",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVlpNjBMSTZIUUdOUXhrOTBXTF9WUGpXQWd6V1NxTmtHT2tpU0QyeDR0aVlRNFRHdWVvSmNtUWcyOS1oSklYVVhHTXZ2Nm9HT3dCdjRGOVlfZV9iQ2M3eVdESTFqR29WdHNudE9DM0pYX0YycFQyYzhtRTMwRkJoMHA4TklyS1Frc0pPS19DTmNxOFBTbnBIQVBqRGJXdlNLdEVXU2RZRU1IT3VqZW9aa1NqbENLZw?oc=5",
-     "ts": "2026-11-25T07:09:08Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "6dcd4bfba21e",
@@ -1480,32 +1773,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "fdd76b8d8590",
-   "title": "Almost five years in secret: GTA VI actor speaks about working on the game",
-   "first_seen": "2026-11-25T05:40:49Z",
-   "updated": "2026-11-25T05:40:49Z",
-   "items": [
-    {
-     "id": "fdd76b8d8590",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "iXBT.games",
-     "group": "media",
-     "weight": 45,
-     "alert": true,
-     "title": "Almost five years in secret: GTA VI actor speaks about working on the game",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTXQxb1ZjTEZaUUNyaml1VF9HUC1zZ1NIVk5WNWlURlRVenNYR1ZmQmduS29pZ0NSaUMxbXU2V3luOHhRdTZ3LU9YX1RBamNpeWdZV2diM1ZWUlB2MHVHUFpSMWVNNnNSSHlRbElGMTQ5TUFrNXZVLTdjTlIxcnlZb2pmOE1PMGVVSHlEZ1BRMVRfbDFPOVJWWjBpUXlsOGhqZHVsSjhadnd6aEnSAbABQVVfeXFMUGlCclFYVVUxM2wxRUoxdG84eUhFZkxvR2o1TjV6Vl8td2pQdkV5TlZDMTBpdkNIaFA0R0g5c2tPMExhWk1XNGVqNFdxS1d6dmNQQkFLZjRLV25ud3N1VXdEYmZaWFlhRWV5TFBxZ1NkS255dnBuTUdmYUdBRm1GZl9SYmtqaWR6eVVJTVFQMU9SM1BseUpwZ0ZidVR3WGlzQTItMGFxQWVkaVNNOFNOclo?oc=5",
-     "ts": "2026-11-25T05:26:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -4076,56 +4343,6 @@
    "status": "new"
   },
   {
-   "id": "fd6c606254f4",
-   "title": "Slideshow: Vehicles in GTA 6",
-   "first_seen": "2026-11-25T02:10:45Z",
-   "updated": "2026-11-25T02:30:58Z",
-   "items": [
-    {
-     "id": "fd6c606254f4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Slideshow: Vehicles in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFNsOWxyQ2RjbC1FZGtPeE03MzFKR1g5VEFNZGprbVk0YnZZVnN6dHk1SFRPQWc2LXg5U1FZTWlNSktTc0J4TklvTjNSdUFxRjJvajl1Z3FKS1FLRXByX19IdnBlc1hMSF9XaWlLZUNFQ1JmYWx5ZXFLNnNPR29kODkzY2g?oc=5",
-     "ts": "2026-11-25T02:07:46Z",
-     "summary": ""
-    },
-    {
-     "id": "71f5f7e75dbe",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Slideshow: Vehicles in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MTmdBMzlxYThhbHR0TDU3eUQwRzFZX3pGREszMXlPc214bTM4WkFoUkxkbnJJQjVEVnNfRHpvbnJFVHB0WTR1UHZRcnBjUEZFaWZNYWtPa1AybWlPbzRWcFlXV1ZNZWdobDEzTi03aWx6Q005akE?oc=5",
-     "ts": "2026-11-25T02:19:55Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Автопарк GTA 6: IGN показал машины из игры",
-    "summary": "IGN Southeast Asia и IGN Nordic выпустили слайд-шоу с автомобилями GTA 6. В подборках собрали машины, которые мелькали в официальных материалах игры.",
-    "idea": "Короткая нарезка машин из слайд-шоу IGN под динамичный бит с подписями моделей. Зрителю интересно увидеть знакомые и новые авто в одном ролике.",
-    "hook": "Все машины GTA 6 в одном видео — смотри, что нашли IGN.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-25T02:31:03Z"
-   },
-   "msg_id": 2209
-  },
-  {
    "id": "10f52d062c87",
    "title": "Atlantic Records и Rockstar Games неожиданно выпустили расширенную версию саундтрека GTA VI",
    "first_seen": "2026-11-25T02:30:58Z",
@@ -6616,32 +6833,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "845d6db5fdbc",
-   "title": "The Travis Scott x Rockstar x Nike Air Force 1 Low GTA 6 Pack Raffle is Live",
-   "first_seen": "2026-11-24T22:20:52Z",
-   "updated": "2026-11-24T22:20:52Z",
-   "items": [
-    {
-     "id": "845d6db5fdbc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Sole Retriever",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The Travis Scott x Rockstar x Nike Air Force 1 Low GTA 6 Pack Raffle is Live",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVNCZ1ZoV2t2NVg0bzZ3d2tvRERMbTVQSEU5RFlWc3dNSDBtZ3kwbDlyUHlCd0FYT0JZNVVJc0RtYkVlTjlKTjFiMUxoWmJkTGd6djZpcVFrdTBUeHliZE9TYkNGZFdlc01NLW9KcXVoRVkwaTVyM0VMekkzN0U4VWNBVU95Q1J5ZWdOT2poTTgxLW1ZVUhKZEJWV0JGc3pEdVd1cnM0S0k4NTJiVFE?oc=5",
-     "ts": "2026-11-24T22:04:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -19372,56 +19563,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "928f1b714e39",
-   "title": "Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough",
-   "first_seen": "2026-11-24T12:41:11Z",
-   "updated": "2026-11-24T12:50:47Z",
-   "items": [
-    {
-     "id": "928f1b714e39",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough",
-     "url": "https://insider-gaming.com/gta-6-legendary-weapons/",
-     "ts": "2026-11-24T12:33:21Z",
-     "summary": "GTA 6 has various legendary weapons for you to find and become permanent additions to your arsenal, and we have locations for the best ones. The post Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough appeared first on Insider Gaming ."
-    },
-    {
-     "id": "403b2609fad8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsWmZ5c2ZDV1V4b1dZQVpwTmE1b2lJWG9iZ2pGWlhJWHRLNnRZaVpCellNS0g5UGpiUnV2bDYzSFVjQ2dsZ1lhRUFxbHdKOVE3Vld3ak5XaDBHVE9scEcxTQ?oc=5",
-     "ts": "2026-11-24T12:33:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔫 Легендарные пушки в GTA 6: где искать лучшие варианты",
-    "summary": "Insider Gaming (Tom Henderson) опубликовал гайд по лучшим легендарным вариантам оружия в GTA 6 и их локациям. По данным материала, эти пушки становятся постоянным пополнением арсенала.",
-    "idea": "Быстрый маршрут по 3–5 точкам с редкими вариантами оружия — где искать и что выпадает. Зрителю интересно сэкономить время и сразу получить топ-стволы.",
-    "hook": "Топ-5 легендарных пушек в GTA 6 и точные места — поехали!",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-24T12:41:18Z"
-   },
-   "msg_id": 2118
   },
   {
    "id": "3c754d549204",
@@ -198852,208 +198993,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7411fa5e75e8",
-   "title": "GTA 6 takes over workplaces as companies announce gaming breaks",
-   "first_seen": "2026-11-18T07:20:45Z",
-   "updated": "2026-11-18T07:31:04Z",
-   "items": [
-    {
-     "id": "7411fa5e75e8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "India Today",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 takes over workplaces as companies announce gaming breaks",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdDJDQzl3MjVXMmJWTnk2REF6NjJyU1FtTUY1blpZSEtyODVReVhJSW1icEd4TDR5SjlKdmJoaFcyQ2p6QkhybnBmcXJMYkJMb21laEx0YlpMbjVGdlJVZXJIaXFqdHVtVng5ZU92UGZpTTY4REZhVU01OGNrdzZaUjQwSm1nXzZ0ckVFZjZnRUc2N21Qb09oRmlxTzVzNUJ4TWxfSzg4NzhIYkNIYWpQQ1o2b2luTV9QT1ZFRl94MmRKSHFfWDhob1IxeHIxSENtM3lV0gHTAUFVX3lxTE90MkNDOXcyNVcyYlZOeTZEQXo2MnJTUW1NRjVuWllIS3I4NVF5WElJbWJwR3hMNHlKOUp2YmhoVzJDanpCSHJucGZxckxiQkxvbWVoTHRiWkxuNUZ2UlVlckhpcWp0dW1WeDllT3ZQZmlNNjhERmFVTTU4Y2t3NlpSNDBKbWdfNnRyRUVmNmdFRzY3bVBvT2hGaXFPNXM1QnhNbF9LODg3OEhiQ0hhalBDWjZvaW5NX1BPVkVGX3gyZEpIcV9YOGhvUjF4cjFIQ20zeVU?oc=5",
-     "ts": "2026-11-18T07:12:10Z",
-     "summary": ""
-    },
-    {
-     "id": "4afee6a7fbe2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "India Today",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 takes over workplaces as companies announce gaming breaks",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWx4TzhBXzBmcDY1YnMzR1Y2dHg4TWZad0dnNjJFQjRIdUdaSEpYMkNoRFRleV9qa3B5aGIzVWYxM25YSnJDa3VOV0otbmtCTnhtV2o5Z2x4aTBNRU5KcDQySDRiZTZnektWTkF1TjJjNTBFVTlUN3pLNU5mYlI0TE81S1A4aExkeDhNMmJxN1EyT0pSTVdsczZTWUI0RnoyQml6QlRVUTdXMFVLZU5VcmlnencxT3RsNXMxbmV0ekdSMG1udGRQVTlqaTlMd9IB0wFBVV95cUxPdDJDQzl3MjVXMmJWTnk2REF6NjJyU1FtTUY1blpZSEtyODVReVhJSW1icEd4TDR5SjlKdmJoaFcyQ2p6QkhybnBmcXJMYkJMb21laEx0YlpMbjVGdlJVZXJIaXFqdHVtVng5ZU92UGZpTTY4REZhVU01OGNrdzZaUjQwSm1nXzZ0ckVFZjZnRUc2N21Qb09oRmlxTzVzNUJ4TWxfSzg4NzhIYkNIYWpQQ1o2b2luTV9QT1ZFRl94MmRKSHFfWDhob1IxeHIxSENtM3lV?oc=5",
-     "ts": "2026-11-18T07:12:10Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "7d244f06eee9",
-   "title": "KFC brings GTA-inspired Cluck n’ Bell to life with delivery car straight out of GTA 6",
-   "first_seen": "2026-11-18T07:31:04Z",
-   "updated": "2026-11-18T07:31:04Z",
-   "items": [
-    {
-     "id": "7d244f06eee9",
-     "src": "dexerto_gta",
-     "src_name": "Dexerto GTA",
-     "outlet": "",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "KFC brings GTA-inspired Cluck n’ Bell to life with delivery car straight out of GTA 6",
-     "url": "https://www.dexerto.com/food/kfc-brings-gta-inspired-cluck-n-bell-to-life-with-delivery-car-straight-out-of-gta-6-3428986/",
-     "ts": "2026-11-17T15:17:52Z",
-     "summary": "KFC is bringing a GTA-inspired chicken delivery experience to the real world with Cluck n’ Bell, a limited-time promotion that will see fans receive food from a bright pink Cadillac."
-    }
-   ],
-   "tags": [],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "875cf8c3a711",
-   "title": "30 FPS для GTA VI — это норм или позор?",
-   "first_seen": "2026-11-18T07:31:04Z",
-   "updated": "2026-11-18T07:31:04Z",
-   "items": [
-    {
-     "id": "875cf8c3a711",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Mobile-review.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "30 FPS для GTA VI — это норм или позор?",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzBDYUUzREstdUUyYzFCMVBNVXRneTYzVWQ4MmVFZGVoTzR3S3N3Z1YxUEpoRnBvT0E3N2NGMF9JMWdIQUViUGlRcXFMTW1yUTEyWGVldk5WTExIRDNqaG42QmtOblBkSnMyXzdPR0RFNU5JanU1R3NOZVRaQjdSMW5qOTl0V3JLSnc?oc=5",
-     "ts": "2026-11-17T21:01:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8ba1c1f611a2",
-   "title": "Grand theft holiday: workers book days off en masse for GTA 6 launch",
-   "first_seen": "2026-11-18T07:31:04Z",
-   "updated": "2026-11-18T07:31:04Z",
-   "items": [
-    {
-     "id": "8ba1c1f611a2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Brussels Signal",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand theft holiday: workers book days off en masse for GTA 6 launch",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFExSGZCN09WTm1INmdYWmx0YWU0ckNEWWRYWnpZTkx2TFBlTjQ4MmZiNUdTbl80Nlpoa0pIVmlfT3pXYnltZ2tLczRSUGtOZVYzZ2ptX0tWT3JTTzRFUDZFdVl1bXd3djQ1ZXNkb3d3TFFsZERpdWxfWEtBT2lMOUZQTnRhTC1NRzdSbWFSTFhtSUh5UmVQLTNxTFRBUDdjWl9ZRg?oc=5",
-     "ts": "2026-11-18T05:00:35Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9efb486c8ea0",
-   "title": "\"Посмотреть, как я играю в GTA VI\". Белорусы предлагают необычную услугу",
-   "first_seen": "2026-11-18T07:31:04Z",
-   "updated": "2026-11-18T07:31:04Z",
-   "items": [
-    {
-     "id": "9efb486c8ea0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "БрестСИТИ",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "\"Посмотреть, как я играю в GTA VI\". Белорусы предлагают необычную услугу",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81NmZGcEwxX1dkdXc3T2JTR2ZHNU12ZDcwUGJvdzhTQUFTd3QwNFJoZmRUVzRxS0JtUG5URjdLTzAzdllKR1lXRGc2U3JSQ2pqLTZaUw?oc=5",
-     "ts": "2026-11-18T05:16:43Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "602a5248c3bc",
-   "title": "After GTA 6, I want Rockstar to make smaller games again",
-   "first_seen": "2026-11-18T07:31:04Z",
-   "updated": "2026-11-18T07:31:04Z",
-   "items": [
-    {
-     "id": "602a5248c3bc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Tom's Guide",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "After GTA 6, I want Rockstar to make smaller games again",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnY1ekx5bVNWUUxZMU5PclAyajc4S3czTVdKZnhSV0JJX2txeEEtaWZhd1FnNVRWVVdDOGtfSmtXcEUyMG9MUW1ZaGotMy1RdnhyMHZTam5QTHNYdUJralVtenhpQ0o5d1dxRDNOT1NUUjAxVzUtYUUtbW5VQ2VEUG5YQVFxQW54bUpmSXpRQ215R3Z2X0F5NTlpN3JIdUhHY0ItcnBDaXJuN3lqWnQ3MTRTMDFhR2tnZVl0Q0Rxb1Nmd25JZmpYeg?oc=5",
-     "ts": "2026-11-18T07:21:43Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5dcef882830d",
-   "title": "GTA 6 Xbox Cloud Time: U.S. Start by Time Zone",
-   "first_seen": "2026-11-18T07:31:04Z",
-   "updated": "2026-11-18T07:31:04Z",
-   "items": [
-    {
-     "id": "5dcef882830d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NeoTeo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Xbox Cloud Time: U.S. Start by Time Zone",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RamotS191VFpJUFJFMDg2UlZBTjNRaFdiYTlSTXZzdXVTem9PX2xPWU9vbXZjNW1iRGxsYU5YUGttb3g5Ml9HeXhhamVHN2QzcGltbElCSmdwVWUyalYwZGM3Ml9JZ1hsZjhnRHZCSGhtVDFiUXF6Smk3a0RSdw?oc=5",
-     "ts": "2026-11-18T07:25:57Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T07:20:57Z",
+  "last_run": "2026-11-25T07:31:10Z",
   "last_log": [
    "rockstar_site: 0/3",
    "gnews_en: 99/100",
@@ -199061,7 +199005,7 @@
    "gamesbeat: 3/10",
    "vgc: 9/10",
    "insider_gaming: 4/10",
-   "ign: 5/20",
+   "ign: 6/20",
    "eurogamer: 15/100",
    "dexerto_gta: 14/50",
    "rockstarintel: 9/10",
