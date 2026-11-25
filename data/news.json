@@ -199412,41 +199412,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "bf598bd1400f",
-   "title": "GTA 6 Soundtrack & Radio Stations: Full Tracklist, Score, and Celebrity Hosts",
-   "first_seen": "2026-11-18T04:50:47Z",
-   "updated": "2026-11-18T04:50:47Z",
-   "items": [
-    {
-     "id": "bf598bd1400f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Man of Many",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Soundtrack & Radio Stations: Full Tracklist, Score, and Celebrity Hosts",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVZUlXV2dNOUMwd08xNl9VaHlmYkZEQ2V5Zk9YWE00VE1DSUc0YXo5Z1R5bnhOWENZSU8weVpHcy1HOG1xemN4Z3ZsYlBCdVRHY1B3dEFBY1RQZEdWX1ZDTk8xZTdqTmNTMUxr?oc=5",
-     "ts": "2026-11-18T04:40:35Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T04:40:51Z",
+  "last_run": "2026-11-25T04:51:10Z",
   "last_log": [
-   "rockstar_site: 0/4",
-   "gnews_en: 100/100",
-   "gnews_ru: 98/100",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 3/10",
    "vgc: 9/10",
    "insider_gaming: 4/10",
