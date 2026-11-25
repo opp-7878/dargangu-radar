@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "7ff2c087f299",
+   "title": "30 Things You Might Have Missed in GTA 6",
+   "first_seen": "2026-11-25T22:01:23Z",
+   "updated": "2026-11-25T22:01:23Z",
+   "items": [
+    {
+     "id": "7ff2c087f299",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "30 Things You Might Have Missed in GTA 6",
+     "url": "https://insider-gaming.com/30-things-you-might-have-missed-in-gta-6/",
+     "ts": "2026-11-25T21:55:38Z",
+     "summary": "From secret locations to hidden controller settings, here are 30 things that you might have missed in GTA 6 so far. The post 30 Things You Might Have Missed in GTA 6 appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "30 деталей GTA 6, которые вы могли пропустить — Insider Gaming",
+    "summary": "Insider Gaming (Tom Henderson) собрал 30 мелочей из GTA 6: от секретных мест до скрытых настроек контроллера. Это не официальный список Rockstar, а подборка фактов по материалам, которые уже всплывали в сети.",
+    "idea": "Быстрый монтаж 30 фактов с таймером: кадр — подпись — следующий. Зрителю интересно проверить, сколько деталей он заметил сам.",
+    "hook": "30 деталей GTA 6, которые почти никто не заметил — успеешь за 30 секунд?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T22:01:27Z"
+   },
+   "msg_id": 2301
+  },
+  {
    "id": "850d25840510",
    "title": "GTA 6 Gave Me Guns, Cars, and Cash. All I Wanted Was to Take Pictures",
    "first_seen": "2026-11-25T19:10:56Z",
@@ -184251,238 +184288,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "9aa143c57796",
-   "title": "GTA 6 drops tonight. Here's the California release time",
-   "first_seen": "2026-11-18T20:30:54Z",
-   "updated": "2026-11-18T22:01:15Z",
-   "items": [
-    {
-     "id": "9aa143c57796",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Desert Sun",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 drops tonight. Here's the California release time",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMmNqVHBhSTVSNjZtaU9tb3poM0kzYWJVMHZ1RFBNNnJObU82enpBUVB5TkJsX3RPNVhqQlZONlhELXQzX3E2V3VWX1hlWG1KRmdaZWNhanBKOUk2VHlpWXNxczdvNlh0MWNHNm43UHkzUnVmMlRSNkRCYzVRZkpqdHRhbWh2WHVzYVZITE9jeGhyWWdLYlhQTXU1Z0xHRzY1OVhTaGV6Y0d3Zlp3XzNzVDl5QjR0QmFPeWpKWHNMSjNRbGlG?oc=5",
-     "ts": "2026-11-18T20:18:00Z",
-     "summary": ""
-    },
-    {
-     "id": "b71a2ec79202",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 drops tonight. Here's the California release time",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSFVIelRfbFR4ZDQ4YU5pWVY3S3U2azNxOTZ5bV9yNDFlZjZNUHBqaGdnNUJfRWRvVUxjZG9ocW9zRktPX2ZOUW5nZUlIdUZiekFtQ0lwUW9NdTdOU0xzSDROakRET3ZHdFJhMGVhTXYtbGE1Zm9KZWZPNTlQWjQtWGxzZUNxdw?oc=5",
-     "ts": "2026-11-18T20:18:52Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 63 (char 64)"
-  },
-  {
-   "id": "9347c693b5b5",
-   "title": "How to Play Grand Theft Auto 6 All Weekend Without Destroying Your Body",
-   "first_seen": "2026-11-18T22:01:15Z",
-   "updated": "2026-11-18T22:01:15Z",
-   "items": [
-    {
-     "id": "9347c693b5b5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GQ",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How to Play Grand Theft Auto 6 All Weekend Without Destroying Your Body",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWxVaUJQNmJyZjdncGJWS2FZQ2FrbTcybE9CRXIySGlQMlhTeWlUM0Z6MEpmamtUdzJPUVVJYkg0TWotQy11Qk9OX2FLdlB4b19nQ3MydEFEbUxyaHdVRmxhaGRRd002cU1YcGhycHM3Q2xkei0xUDZjMElHeWg2dVNn?oc=5",
-     "ts": "2026-11-18T20:53:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c5f3e6eb3c93",
-   "title": "Hype for GTA VI higher than ever just hours until the end of a 13-year wait",
-   "first_seen": "2026-11-18T22:01:15Z",
-   "updated": "2026-11-18T22:01:15Z",
-   "items": [
-    {
-     "id": "c5f3e6eb3c93",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "wtol.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Hype for GTA VI higher than ever just hours until the end of a 13-year wait",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS2ptYVNhMG9ObFVrYzMtZUVaUGhLeHZtYmFzeEt6YVBoZ1BLdkIyVFVkcy1UWnJiYjhNdmFwZ216LXUxWmJOQ1FnQ1NPUjRQTmNBUnJyb0Jjd1RnUVh6eENDTmpVRUtOSlpXUGhkaVBBMEJrT3o3TUZBaTRNaDk3Y3JacUUxTDhnWE15RU5DbE5iX0lwTGV0UlRCREV3aDFFLVowSEd4Mk9MdVZDeWIyWFprS3JESDJFSUhXRlVQWW5MS2VSY3ZUcGhsbXBnZmE1YWRwVm9GbTZtUG8xQmVoSWJSUE13cTdtalE?oc=5",
-     "ts": "2026-11-18T21:50:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1170a7b7e362",
-   "title": "GTA 6 Hits an Estimated 17 Million Digital Sales as It Launches, Nearly 6 Million More Than GTA 5 Sold on Day One",
-   "first_seen": "2026-11-18T22:01:15Z",
-   "updated": "2026-11-18T22:01:15Z",
-   "items": [
-    {
-     "id": "1170a7b7e362",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Wolf's Gaming Blog",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Hits an Estimated 17 Million Digital Sales as It Launches, Nearly 6 Million More Than GTA 5 Sold on Day One",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkZlQ0tiNjdqU09YUnllbVF1TzJBb1NEWTBaSWJ4V0h0SjQ0VzhTSy1LMzdHVFVyel9MRnc5Wm1Wa0ZMdFI2amV2bzQtRFRlVV8wVkxsdlBvMjRjQ0RNWV84Nm9BUmRpc3ZNbEJTaURZdms2am4tU2hJbGpiSmNrNzU2X2g3Z2ozOGtrS1NZcl83al9CamRoeVY3LWY4WlFpMHpSQkZiQ3o2RlpOdkFISWw5OENFMGdVTWxDZC1QRlBOVGlZ?oc=5",
-     "ts": "2026-11-18T21:50:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5327028ea3d2",
-   "title": "‘GTA VI’ Industry Domination Will Not End Anytime Soon",
-   "first_seen": "2026-11-18T22:01:15Z",
-   "updated": "2026-11-18T22:01:15Z",
-   "items": [
-    {
-     "id": "5327028ea3d2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Hollywood Reporter",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA VI’ Industry Domination Will Not End Anytime Soon",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMURhSFdab1o3M3JJMHU5SjRWaHJTaXNTRWVBX0g1c01EaUd6MEpPckloRFU3czFkdEdPRnlfZTNNc2l2QXd4el9kZm56Uk5TMkJxVFZJaGRzV3lWQW5aNEMydDh3OVRPN04tbHNmS3p0dnQxNWM1bzBjTHduRkRYVWRxX1dza3g0UE95aGdKdE1HTFdqa0VtaHlOcDczNEpyT01CQy1qcEoyTnROYmJmRGFlTkpRdGVRVENxdg?oc=5",
-     "ts": "2026-11-18T21:54:49Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "51661cfe04e6",
-   "title": "GTA 6 хотят запретить в России: что ждет игру после релиза",
-   "first_seen": "2026-11-18T22:01:15Z",
-   "updated": "2026-11-18T22:01:15Z",
-   "items": [
-    {
-     "id": "51661cfe04e6",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Neva.Today",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 хотят запретить в России: что ждет игру после релиза",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMnNGcUhBejkzRUhjYlpKenpsNUpFYkdVYy1JVTdIWHNGczFnU1BaeU5KZFpPYjhReDhoYmdxVFkyV0UyMTVSMzhmcG9BZzE3SkR5Nm9ZdUVuUVpSNUYxZzZma19xZU1IWHJvMlZzZUNqTTVQNEJOVDB6QzZLR201Y2lUZXRGX0hoWUtYWEluLXBJdndPQWFKUnJWZWFDZzV6ZGdvVjVMSUtnT0p3bEFROFZodFlXSmFDUmNWOS1QdTNmTVk?oc=5",
-     "ts": "2026-11-18T21:58:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4b932d960292",
-   "title": "School Thursday for Uvalde students, fake account claims day off for 'GTA VI'",
-   "first_seen": "2026-11-18T22:01:15Z",
-   "updated": "2026-11-18T22:01:15Z",
-   "items": [
-    {
-     "id": "4b932d960292",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "San Antonio Express-News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "School Thursday for Uvalde students, fake account claims day off for 'GTA VI'",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNck9nRnZsM1RPMUt4c0tYQk5MSEg1Q3Iwd2ZjT0MxNWdJTHp5X21lalRyTDgydzJzeUlaSS1raDZZWDRxbmF5MnhfZzh6UlM1c3duaTR2STVnVExJU0gwc0Q2V0d2ZXdHRzg4T2dVQXhSNWZsNDhMdzhzNFhTSmpQZlZ2b1B1X2hvRVo2d0xkb2Vzb01IWXVN?oc=5",
-     "ts": "2026-11-18T21:58:25Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f19d5b24b549",
-   "title": "Soldiers sign up to play ‘Grand Theft Auto VI’ in exchange for reenlisting",
-   "first_seen": "2026-11-18T22:01:15Z",
-   "updated": "2026-11-18T22:01:15Z",
-   "items": [
-    {
-     "id": "f19d5b24b549",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Washington Post",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Soldiers sign up to play ‘Grand Theft Auto VI’ in exchange for reenlisting",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGstLUJXanc0c0tYRVV2RWNvVnFjc2cycS1waWhENTdhYkNMY3NESTY5aDhCY0ZhN1NOUkxfaTd6UnhBVURhRC01cWF6aHpVczFfLVU0THJidWVXUlJXWnctVmQ0UTlFOGlOblNJT044Z0hPR0FNb2NTT3VuNzJoT2hHXy1TNzZyUk9UdjRMemFoOHRNMHR4dDF5WS15MGYtbGdTSHhmY2pneFhEekpxblNtMGtMX1dRQ0JxdDUwVTc?oc=5",
-     "ts": "2026-11-18T21:58:55Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-25T21:51:01Z",
+  "last_run": "2026-11-25T22:01:28Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 96/100",
-   "gnews_ru: 99/100",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 2/10",
    "vgc: 5/10",
    "insider_gaming: 7/10",
