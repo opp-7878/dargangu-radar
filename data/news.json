@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "66c377a0945a",
+   "title": "GTA VI causes major surge in Spotify streams of a Carly Rae Jepsen classic",
+   "first_seen": "2026-11-26T22:01:12Z",
+   "updated": "2026-11-26T22:01:12Z",
+   "items": [
+    {
+     "id": "66c377a0945a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Checkpoint Gaming",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI causes major surge in Spotify streams of a Carly Rae Jepsen classic",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNF9rZm00U19Zd3ZwSUtINk9tRkJydlA0VktVX3BlX2NzX2oxZUpOY3JyR1pLZ3RhZTlwS0EyU3Y0LXR5THVCMWlFN25QZjluOV9UUGJjNjhhVmtybUNlYTJSV09td2hmYkJQTFE5Tk9tYzFVNGpPOTdYdFJpUEU2czhJbW1oOThJWVF1N1dkUEw2SVduTmp4SUhNYXhMek5XaktxcmN5bzlKTjJPYlJ5aUZtUURkZ3lF?oc=5",
+     "ts": "2026-11-26T21:52:15Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f4d6602a0e04",
    "title": "GTA 6 runs at 25 FPS on PC",
    "first_seen": "2026-11-26T13:31:07Z",
@@ -163402,7 +163428,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-26T21:50:50Z",
+  "last_run": "2026-11-26T22:01:12Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 98/100",
