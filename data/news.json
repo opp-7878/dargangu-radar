@@ -1,6 +1,618 @@
 {
  "stories": [
   {
+   "id": "17dbdd9e222f",
+   "title": "GTA VI Developers Vote Against Unionization Following Battle With Rockstar",
+   "first_seen": "2026-11-26T15:31:09Z",
+   "updated": "2026-11-26T15:31:09Z",
+   "items": [
+    {
+     "id": "17dbdd9e222f",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA VI Developers Vote Against Unionization Following Battle With Rockstar",
+     "url": "https://rockstarintel.com/gta-vi-developers-vote-against-unionization-following-battle-with-rockstar/",
+     "ts": "2026-11-26T15:27:53Z",
+     "summary": "GTA VI developers have voted no unionising following the game’s launch. This is was almost a monumental moment in not only the UK video games space but the entire industry. Over 1600 Rockstar Games employees who worked on the new game Rockstar Games permitted over 1600 UK-based staff to vote from November 12th to 26th [...] The post GTA VI Developers Vote Against Unionization Following Battle With Rockstar appeared first on RockstarINTEL ."
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Разработчики GTA 6 проголосовали против профсоюза после релиза",
+    "summary": "Разработчики GTA 6 проголосовали против объединения в профсоюз после выхода игры. С 12 по 26 ноября голосовали более 1600 сотрудников Rockstar в Великобритании. Об этом сообщает Rockstar INTEL.",
+    "idea": "Коротко объясняем, что значит отказ от профсоюза для команды после релиза — и почему это важно игрокам. Берём угол «что будет с кранчем и условиями дальше», чтобы зацепить тех, кто следит за судьбой игры.",
+    "hook": "GTA 6 вышла — и 1600+ разработчиков Rockstar сказали «нет» профсоюзу.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T15:31:21Z"
+   },
+   "msg_id": 2365
+  },
+  {
+   "id": "e2bfaee4eb05",
+   "title": "Rockstar Games employees vote against union recognition",
+   "first_seen": "2026-11-26T15:31:09Z",
+   "updated": "2026-11-26T15:31:09Z",
+   "items": [
+    {
+     "id": "e2bfaee4eb05",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rockstar Games employees vote against union recognition",
+     "url": "https://www.eurogamer.net/rockstar-games-employees-vote-against-union-recognition",
+     "ts": "2026-11-26T15:29:00Z",
+     "summary": "Rockstar Games employees have voted against official recognition of the Rockstar Game Workers Union, with 93.2 percent of staff participating in the vote. Read more"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Сотрудники Rockstar проголосовали против профсоюза. Что это значит для GTA 6?",
+    "summary": "Сотрудники Rockstar Games проголосовали против официального признания профсоюза Rockstar Game Workers Union. В голосовании участвовали 93,2% штата, сообщает Eurogamer.",
+    "idea": "Коротко объясняем, что значит отказ от профсоюза для студии и игроков: сроки, переработки и качество GTA 6.",
+    "hook": "Rockstar отказалась от профсоюза. Что это значит для GTA 6 и для нас?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T15:31:15Z"
+   },
+   "msg_id": 2363
+  },
+  {
+   "id": "f4d6602a0e04",
+   "title": "GTA 6 runs at 25 FPS on PC",
+   "first_seen": "2026-11-26T13:31:07Z",
+   "updated": "2026-11-26T15:31:08Z",
+   "items": [
+    {
+     "id": "f4d6602a0e04",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iGuides.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "На торрентах начали появляться пиратские порты GTA VI для ПК",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wQ01IcFdsM0JTOVpxbzlnb1NaODVKbEVpRDNSLThTd1F4WFhSYm1FbE9WLUo0TExJckVBVWNjNXVicmw3NzhvdUgxVUs4bmpCU2VmUjU2dEtqMDdUWHkzOGJhNXR3WlFab1pKUEJxZk91Um8?oc=5",
+     "ts": "2026-11-26T13:05:08Z",
+     "summary": ""
+    },
+    {
+     "id": "9e2e9eae704e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Tribuna.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Неофициальная ПК-версия GTA 6 появилась на торрентах – стали известны системные требования",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSC0tNkRiUEZuWjhydFlEWmtyd1ZjVVRITXdrcjJMSjh2VjBPZ2g0NmxoZHRWUkJKRXlwNEhvYnMxRDdEMzdCT2pIamVsNFYzeXpyVFMyQzYxSEtpU0RVSkV3LWVMUXUxOGp5Y0ZjSXhhYldkOHVfQXZ3eFdpV2g5TTBpSVNjc0w2M25zUzZ3S19oOTZ0VEZQdGZaNUJZbmpUZmJWVTc1Y07SAa4BQVVfeXFMTjZzak9hS25fWHU0NXU0algwVGRiUGlPcHJMLUN5THRGTjhxRkVjME1FbmV4SWs4VGdDUVk1dmxGYi1McjVsa0ZETjVmcHJqUFRaUXVoTi1DUXJ3RFdYV2VBZVVLS3lPd0tWcXZiNlMxUVhKdUY0d2NUTXN0bVMyMW5qT1NGS0RaS3MtVWM1NTl5djU5MFlLR2tJZDMyTUhmQ0ZXYl9ZNzQ5UEtXN2pR?oc=5",
+     "ts": "2026-11-26T12:15:23Z",
+     "summary": ""
+    },
+    {
+     "id": "4e9f916ea197",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Dead Brush",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 на ПК: фанатские порты, FPS и ответ Take-Two",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43RkppeFdnRHNyX1NQUjR1VUZER243R2FmZEpIVm5ZRjdsNzQya1dpelVuYXAtQUZNa2I3dXJ6UTJuYjNxaENEUnk1TmRlSEhacVNyeTlzNDAxV3BLSXJ2emR3?oc=5",
+     "ts": "2026-11-26T14:16:22Z",
+     "summary": ""
+    },
+    {
+     "id": "e392e3b8e0ac",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "MobiDevices",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 вышла на ПК в 25 FPS",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SUWVuTDVmTV9JWjI2XzdSaUQtbWt3bkRDcWd3N2w4dFlURkt6OWxEcWZaT2YxRWIyX2pXVnl0UGNXUFV5N2NDa0xwMXJOZExKLWVMMUZDTVQ4V0ZkU2Y4aQ?oc=5",
+     "ts": "2026-11-26T14:30:09Z",
+     "summary": ""
+    },
+    {
+     "id": "da855a853354",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "mobidevices.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 runs at 25 FPS on PC",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5N3VSUmhjaTFIeFBYQVJwVm5uakhfSzJpaENvVE5hb1ZudVNGZW9sR0JOUWtMYWhGdVl5V3JoUmc4TFpSM2NGdUVNLW9kV1N1aUVFTDFoR210NDRDLTRWRTVOWlU?oc=5",
+     "ts": "2026-11-26T14:30:29Z",
+     "summary": ""
+    },
+    {
+     "id": "2b97efcc2350",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Неофициальный порт GTA 6 на ПК преодолел отметку в 40 FPS благодаря FSR",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQW9Xa3o3ajBvSXlPUE1tTXFLVF9DLVB3TzMzWElGUWY4T0w2VFhwWWtwN0tDcm14VVRiRFlKRWlFYjlhWUs1bE41eXJnYjJhdjRKMVBEdjdRUnpDMnpqSnRBX0NzMFJpTERJeExsUVpWUVZSVHJWbXJhd3V2LTNvS0hKRXJsbzdEcl9oTm9NZnZRZlB1cmkyMlZUUGV5SzFmV2FTcQ?oc=5",
+     "ts": "2026-11-26T14:38:19Z",
+     "summary": ""
+    },
+    {
+     "id": "07a32a0f109c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 бьет рекорды на торрентах РФ: 10 000 игроков качают с PS5, ПК — на эмуляторе с 25 FPS",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xTk9hS1hGRXhsVl9jQmo2NGIyWTM2OTN1Rk50QW5FQjZQUGNObHhmT1doUHNKMjJIYjF2MXpfVE9kLTUtcGhBdnJIVU5rVU1KVlhiWlNaRlIzeGR2d3NUTlJaS1RHVmtRQngwMTZhVVBTbUxf?oc=5",
+     "ts": "2026-11-26T14:40:37Z",
+     "summary": ""
+    },
+    {
+     "id": "895e7b3f977f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Бывший глава Take-Two считает, что у GTA 6 до сих пор остаётся \"хулиганская\" репутация – хотя серия сегодня \"мейнстримнее некуда\"",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSWJFaDJScjA0NTNtRlp5MnpjOXNMSm1CRGYybHNTS3VhUFJLQ2x6YkhjbXFPXzJuM2tqamdreEJ1azd2RzRvNEcwdXNQTF9leWpnY2JkendtaUVKNl9HbkRqMFFOam1vbjFOR1NjcWJ4bEx3RDFZb1FzYzVGYWxkRnRrWnNYbW90Vms2M2dBWnZncG5GemFlUkFTNGdydF8xQkh2bmE0c3BLTlJDV1l4aGNoNnpJWk0zZHhndHpoWWJLSllYRlctaFFpUWd4VGdXcGFvd3FoWTFjVzJHbURaeHFjaDJYbmVQNU1DbEJlR0NKRnZ6VXpr?oc=5",
+     "ts": "2026-11-26T15:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "bfdafeca188a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Pasquale Pillitteri",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "У GTA 6 на ПК уже появилось мод-меню, на видео неофициальный порт",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ObDcwQnM1TEhYS0hsUm5Tbk1DSFZ6Wjd6WFpMV2tUb3hiMHE5YVFJM0U4cVVSamtySzZraERwSWk2ZXhvaEdqRUh4M0dkNFFDYVFDN0ZGUm9rV3hWNWxRYlVkU2NCNnRYYngxcjdxQWR2WkhtbEt4SzJHanhwUQ?oc=5",
+     "ts": "2026-11-26T15:01:22Z",
+     "summary": ""
+    },
+    {
+     "id": "d3d5dd657f18",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The unofficial GTA 6 PC port has surpassed 40 FPS thanks to FSR.",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2QzSmNNcEx5T28ySzREQ3BqcGp4cmhyVkI1UllHV19EUkNnMExGMFFFem84eUYyMS1lM0VFUkxBakZVRVdmNDhVcHRoOTg2Wld2VEprODZCRGM5RG1lSnVUbDIzXzlabkoyQzNuQ3lKcEVfUjdhS214bFZJQzd3alJval8xZnY3VVVpdzViWFJRd3NidTN0Z21YXzY3c3pIQ2xYcGRfeW4?oc=5",
+     "ts": "2026-11-26T14:38:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two",
+    "ПК"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "7099b83096bb",
+   "title": "How to Find and Complete Kingpin Bowling Alley in GTA 6—All Key Valuables",
+   "first_seen": "2026-11-25T21:31:05Z",
+   "updated": "2026-11-26T15:31:08Z",
+   "items": [
+    {
+     "id": "7099b83096bb",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "How to Find and Complete Kingpin Bowling Alley in GTA 6—All Key Valuables",
+     "url": "https://insider-gaming.com/gta-6-kingpin-bowling-alley-all-key-valuables/",
+     "ts": "2026-11-25T21:27:37Z",
+     "summary": "Here's a guide on how to find the Kingpin Bowling Alley illegal operation in GTA 6 and grabbing all it's key valuables. The post How to Find and Complete Kingpin Bowling Alley in GTA 6—All Key Valuables appeared first on Insider Gaming ."
+    },
+    {
+     "id": "0ecdd81fa0d0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mobalytics",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "All Kingpin Bowling Alley Robbery Key Valuables Locations - GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLVBUWkxwanlVTkhudWVzaWFxbjlua2dpWkdObUpsaGJGUHBxRmtKcU1CQXdRV3I4SnNpdU1KSmxnb0NCTzB6Rzg2UGI3RzdCMi1kOF9uZUxMdVdwUDRwbE4tNXlScWZhbUNZWTd3d0NsOGRKZmQ2cFd6V0JtZGJIMnVR?oc=5",
+     "ts": "2026-11-26T03:08:44Z",
+     "summary": ""
+    },
+    {
+     "id": "0b36f4a0d374",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mobalytics",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "All Brooks Boatworks Robbery Key Valuables Locations - GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXVqR2txT293M0RwbnYybmNtVzRVZndLTUZzTnZ4eXByTUZvNHFpRGRzYVp3SGZYYTVVVTVpN3ltWUpsMUE3RllZdUg0SFNqNVBaTVVwRFQ3MlM5c29SdFQxdGNCdGpSRVVWNy1FbFp2Zlotc0pfUmMxak5vT3ZQT0FzZXpoR1lK?oc=5",
+     "ts": "2026-11-26T05:13:46Z",
+     "summary": ""
+    },
+    {
+     "id": "0c43cb9b02b4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mobalytics",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "All Kolt Stash House Robbery Key Valuables Locations - GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUc5a1ZnMXpPbHV5TWlTc21QWjFVOFU3Z0gzVEN6eGJmYm1WSDl6aDdVbWFwblUwQlh6ZnVacTB0emdHY3M5alVoTXZjLXh0aWt0TDEwdWVlb3NFM05BOGhDMVdWaEdMQXROLWNmek9Rci1VMjhITWdKb2FnVFpkT2VsOGlOUkhh?oc=5",
+     "ts": "2026-11-26T08:51:27Z",
+     "summary": ""
+    },
+    {
+     "id": "4531c19c0b71",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables",
+     "url": "https://insider-gaming.com/gta-6-biker-hideout-all-key-valuables/",
+     "ts": "2026-11-26T14:36:21Z",
+     "summary": "Here’s a guide on how to find the Biker Hideout Alley illegal operation in GTA 6 and grabbing all it’s key valuables. The post How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables appeared first on Insider Gaming ."
+    },
+    {
+     "id": "e3c50b250a4f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0MG5ORGtRWFM2RF9JSjlZb09KWEV1RjhJcl9CM0x2ZG0tcl9xeWYwM1phQzZMU1ptZXhlMzRvQlFmelprdzI4UHVEbUZUb3A1ankwNktDMFFYdFBSejVpekh0S2t0Vnp6Wnk5Y1NUTnBoYVE?oc=5",
+     "ts": "2026-11-26T14:36:21Z",
+     "summary": ""
+    },
+    {
+     "id": "616ae710209e",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "How to Find and Complete the Farm Fix Meth Lab Illegal Operation in GTA 6—All Key Valuables",
+     "url": "https://insider-gaming.com/gta-6-farm-fix-meth-lab-all-key-valuables/",
+     "ts": "2026-11-26T15:27:31Z",
+     "summary": "Here’s a guide on how to find the Farm Fix Meth Lab illegal operation in GTA 6 and grabbing all it’s key valuables. The post How to Find and Complete the Farm Fix Meth Lab Illegal Operation in GTA 6—All Key Valuables appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "0a9d3fd3c24a",
+   "title": "I love that Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
+   "first_seen": "2026-11-26T14:40:47Z",
+   "updated": "2026-11-26T15:31:08Z",
+   "items": [
+    {
+     "id": "0a9d3fd3c24a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "I love that Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSndRdzJEZHEwdWptVjF5aWltaGtkRC1iRmN3V3l6SWEtemFEcEpJcXk2bS02MExwMHBxMU5NY0hDbFltbGxzRmJGSlk3b1FxdEZFcHQyUFRNRDRZenZ2a2JqQmlWSllFYVZYQ1hrVThUaEN3ZF9rQnhXaFVyY2tWaldHX1kzYXFQdm9LNWNkNHdvZFNfQjEtWDBfZWpGdw?oc=5",
+     "ts": "2026-11-26T14:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "d4969aa46482",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTFuRGdzRDFmbmk4NHllUUZKN0xIRHYzSWg0eWtMUUZZX0o4QmJvTi1kN3hrcS1naUFmMl84TDFYdlVDWEg1Yi00TmxXY254UGdWcDd0VmY2TFdhNVM4aU9vYjF0VVNwQ09KZ3hDeXdRVmJacV85WXlUUlU1RGVQU2VBNTFmYzhjS0VxdmVxNzFVZkNCbEZBQ0JPUGs1b0JmZnNpOGVvNDFBanoyVmpRRXFBclFtb3NOeDJhNHVTOGJTeWpLOHNJ?oc=5",
+     "ts": "2026-11-26T14:48:45Z",
+     "summary": ""
+    },
+    {
+     "id": "c5cafed43f3e",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
+     "url": "https://www.ign.com/articles/creating-fresh-looks-is-more-important-in-gta-6-than-any-game-before",
+     "ts": "2026-11-26T14:30:00Z",
+     "summary": "GTA 6 has Rockstar's best-ever customisation, with hundreds of amazing pieces. But it's about more that creating a fresh fit - clothes are key to surviving the cops."
+    },
+    {
+     "id": "e2d3bff1f4a8",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGlaVG1TcTNXY3lCc05ja01hZ0FEdmpxSjRqcDdYWF9uOUlfbWpZSUVqUlExcXM1T05JOXpwd2IxcHBMWE1iUHpmY2h3YjVfZldkWTVoU19IbHozUU5ZOXJoTmZ5UExNTXhUdWVYWFIxaWxoeGNxY0RQUTZvMXZ5dG1qV0JTZEtVRnVTQkdILTZ0R01tU05Oc2lrajBua3hiS25VeTMxel8tQVlCckdoVXM1a0FzVS1fcC1nX0xrWE1HbXRtblZYdg?oc=5",
+     "ts": "2026-11-26T15:03:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 94,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В GTA 6 внешний вид важнее, чем когда-либо — IGN",
+    "summary": "По данным IGN, в GTA 6 создание свежих образов важнее, чем в любой предыдущей игре серии. Издание отмечает акцент на индивидуальности персонажей и стиле. Официально Rockstar это не комментировала.",
+    "idea": "Покажем, как в GTA 6 собирают «лук» и почему это влияет на геймплей — от магазинов до реакций NPC. Зрителю интересно, как стиль меняет игру, а не только сюжет.",
+    "hook": "В GTA 6 твой «лук» решает больше, чем в любой части серии.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T14:40:52Z"
+   },
+   "msg_id": 2351
+  },
+  {
+   "id": "3c41d59ee2eb",
+   "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
+   "first_seen": "2026-11-26T15:31:08Z",
+   "updated": "2026-11-26T15:31:08Z",
+   "items": [
+    {
+     "id": "3c41d59ee2eb",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
+     "url": "https://www.ign.com/articles/rockstar-north-chief-was-praying-gta-6s-big-story-reveal-stayed-under-wraps-ahead-of-launch",
+     "ts": "2026-11-26T14:40:51Z",
+     "summary": "Rockstar North has explained why it was so important that GTA 6's big early story reveal stayed under wraps before the game came out."
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 85,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "fc8252e956a6",
+   "title": "5 GTA 6 Side Quests You Probably Missed",
+   "first_seen": "2026-11-26T15:31:08Z",
+   "updated": "2026-11-26T15:31:08Z",
+   "items": [
+    {
+     "id": "fc8252e956a6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BGR",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "5 GTA 6 Side Quests You Probably Missed",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hWlVYbFdOa1hVZ00xbXFsU1JHWHFzVER3VFJSSnVmc0RUaWpBRFp2MUdkMVBEMDdfOU1ncjNiN21ZRnVXQ1I2VTBQcFpJOGxJWmRmVFUtT0hkek5xVkk4NGdEcmVjUDBzWjZnMUZ1VnB1R2c?oc=5",
+     "ts": "2026-11-26T15:17:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9502f9cc3665",
+   "title": "GTA 6 on Xbox One Tested: The Power of the Cloud Delivers - Save for One Big Issue",
+   "first_seen": "2026-11-26T15:31:08Z",
+   "updated": "2026-11-26T15:31:08Z",
+   "items": [
+    {
+     "id": "9502f9cc3665",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Digital Foundry",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 on Xbox One Tested: The Power of the Cloud Delivers - Save for One Big Issue",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObzFoVF9WbzViU0Y3X3g1YXZYcG1DVmEwQ2NveHFFa3d1TzQyYW5Fa21JRld5WnNXMjVYUHhLeVpaU2ItRzQxVTgwR0xEdVBuV2hncklBM0JKQlVTVzdyS0dtSlpudkhSbHJoek9GbzFCSnVvb3FyQWdIU1piLU5mekcweUhwTXdXTkVJQmJFamlvOF8wUkJQQTJoMFVCRmlfR0dJV0JIMVF1bzJNZUNDRndKNzVnc2xMOHQw?oc=5",
+     "ts": "2026-11-26T15:19:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f2881e0037b9",
+   "title": "GTA VI неофициально портировали на ПК",
+   "first_seen": "2026-11-26T15:31:08Z",
+   "updated": "2026-11-26T15:31:08Z",
+   "items": [
+    {
+     "id": "f2881e0037b9",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "SOTA",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI неофициально портировали на ПК",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OMjc2Zmw0YkEtc21LZmVXNXpzTDJDcnRLa0UzM0lkRlprcjU2ZEo5Zk5UUVFua1M0VHdCdHJGQ3B4cnh0QXJZdkJEdw?oc=5",
+     "ts": "2026-11-26T15:20:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "77e53182516c",
+   "title": "All GTA 6 Endings Explained & How to Get The Best Ending",
+   "first_seen": "2026-11-26T15:31:08Z",
+   "updated": "2026-11-26T15:31:08Z",
+   "items": [
+    {
+     "id": "77e53182516c",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "All GTA 6 Endings Explained & How to Get The Best Ending",
+     "url": "https://insider-gaming.com/all-gta-6-endings-explained-how-to-get-best-ending/",
+     "ts": "2026-11-26T15:21:15Z",
+     "summary": "Grand Theft Auto 6 is enormous, and that means it has many endings. In this guide, learn how many endings there are and what they contain. The post All GTA 6 Endings Explained & How to Get The Best Ending appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Сколько концовок в GTA 6 и как получить лучшую",
+    "summary": "По данным Insider Gaming (Tom Henderson), в GTA 6 будет несколько концовок. Издание объясняет, сколько их и как получить лучшую.",
+    "idea": "Короткий разбор концовок GTA 6: сколько их и как получить лучшую. Зрителю важно не «запороть» финал.",
+    "hook": "Сколько концовок в GTA 6 и как выйти на лучшую? Смотри.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T15:31:17Z"
+   },
+   "msg_id": 2364
+  },
+  {
+   "id": "28cf3543033c",
+   "title": "Rockstar Games Issues Statement as Union Vote Fails",
+   "first_seen": "2026-11-26T15:31:08Z",
+   "updated": "2026-11-26T15:31:08Z",
+   "items": [
+    {
+     "id": "28cf3543033c",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rockstar Games Issues Statement as Union Vote Fails",
+     "url": "https://www.ign.com/articles/rockstar-games-issues-statement-as-union-vote-fails",
+     "ts": "2026-11-26T15:22:12Z",
+     "summary": "The Rockstar Games union vote has failed, with 75% voting against a recognition agreement with the IWGB Game Workers Union."
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Голосование за профсоюз в Rockstar провалилось: 75% против",
+    "summary": "По данным IGN, голосование за признание профсоюза IWGB в Rockstar Games провалилось — 75% сотрудников проголосовали против. Компания выпустила заявление по итогам голосования.",
+    "idea": "Коротко объясняем, что значит провал профсоюза для Rockstar и GTA 6: переработки, стабильность и сроки. Зрителю важно, как это скажется на игре и команде.",
+    "hook": "Профсоюз в Rockstar провалился. Что это значит для GTA 6 и команды?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T15:31:12Z"
+   },
+   "msg_id": 2362
+  },
+  {
+   "id": "b3a3be2dfc4b",
+   "title": "The GTA VI physical edition has broken sales records in Europe",
+   "first_seen": "2026-11-26T15:31:08Z",
+   "updated": "2026-11-26T15:31:08Z",
+   "items": [
+    {
+     "id": "b3a3be2dfc4b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Instant Gaming News",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The GTA VI physical edition has broken sales records in Europe",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTVuTmZVeFhPY2N2NmZZQVN3Q0hDWFhaeWpiUzJrV2hLc0s5bmIxekU4MGRKVV9uaW9sUWlIdUR0VDlOM3h2RUUxeHZ0ZkdVdVgxd3BsbVFoUTNUc3hXb1YyaEpFU2xBZkZsSnR6MXhQNmpmLTB3UnVXN0hURFRsTmJRMlhUT3VocGJ1cVZtTEgtd0RPQTVqdHY1RWdwN1dRdy1GRUNlSXJYcjMtNnJHRGpn?oc=5",
+     "ts": "2026-11-26T15:26:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "c8f21f88534c",
    "title": "One of GTA 6's Best Features Was Actually Planned for GTA: Vice City, Reveals Ex-Rockstar Dev",
    "first_seen": "2026-11-25T18:31:14Z",
@@ -509,139 +1121,6 @@
    "status": "new"
   },
   {
-   "id": "f4d6602a0e04",
-   "title": "GTA 6 runs at 25 FPS on PC",
-   "first_seen": "2026-11-26T13:31:07Z",
-   "updated": "2026-11-26T15:10:43Z",
-   "items": [
-    {
-     "id": "f4d6602a0e04",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iGuides.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "На торрентах начали появляться пиратские порты GTA VI для ПК",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wQ01IcFdsM0JTOVpxbzlnb1NaODVKbEVpRDNSLThTd1F4WFhSYm1FbE9WLUo0TExJckVBVWNjNXVicmw3NzhvdUgxVUs4bmpCU2VmUjU2dEtqMDdUWHkzOGJhNXR3WlFab1pKUEJxZk91Um8?oc=5",
-     "ts": "2026-11-26T13:05:08Z",
-     "summary": ""
-    },
-    {
-     "id": "9e2e9eae704e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Tribuna.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Неофициальная ПК-версия GTA 6 появилась на торрентах – стали известны системные требования",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSC0tNkRiUEZuWjhydFlEWmtyd1ZjVVRITXdrcjJMSjh2VjBPZ2g0NmxoZHRWUkJKRXlwNEhvYnMxRDdEMzdCT2pIamVsNFYzeXpyVFMyQzYxSEtpU0RVSkV3LWVMUXUxOGp5Y0ZjSXhhYldkOHVfQXZ3eFdpV2g5TTBpSVNjc0w2M25zUzZ3S19oOTZ0VEZQdGZaNUJZbmpUZmJWVTc1Y07SAa4BQVVfeXFMTjZzak9hS25fWHU0NXU0algwVGRiUGlPcHJMLUN5THRGTjhxRkVjME1FbmV4SWs4VGdDUVk1dmxGYi1McjVsa0ZETjVmcHJqUFRaUXVoTi1DUXJ3RFdYV2VBZVVLS3lPd0tWcXZiNlMxUVhKdUY0d2NUTXN0bVMyMW5qT1NGS0RaS3MtVWM1NTl5djU5MFlLR2tJZDMyTUhmQ0ZXYl9ZNzQ5UEtXN2pR?oc=5",
-     "ts": "2026-11-26T12:15:23Z",
-     "summary": ""
-    },
-    {
-     "id": "4e9f916ea197",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Dead Brush",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 на ПК: фанатские порты, FPS и ответ Take-Two",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43RkppeFdnRHNyX1NQUjR1VUZER243R2FmZEpIVm5ZRjdsNzQya1dpelVuYXAtQUZNa2I3dXJ6UTJuYjNxaENEUnk1TmRlSEhacVNyeTlzNDAxV3BLSXJ2emR3?oc=5",
-     "ts": "2026-11-26T14:16:22Z",
-     "summary": ""
-    },
-    {
-     "id": "e392e3b8e0ac",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "MobiDevices",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 вышла на ПК в 25 FPS",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SUWVuTDVmTV9JWjI2XzdSaUQtbWt3bkRDcWd3N2w4dFlURkt6OWxEcWZaT2YxRWIyX2pXVnl0UGNXUFV5N2NDa0xwMXJOZExKLWVMMUZDTVQ4V0ZkU2Y4aQ?oc=5",
-     "ts": "2026-11-26T14:30:09Z",
-     "summary": ""
-    },
-    {
-     "id": "da855a853354",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "mobidevices.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 runs at 25 FPS on PC",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5N3VSUmhjaTFIeFBYQVJwVm5uakhfSzJpaENvVE5hb1ZudVNGZW9sR0JOUWtMYWhGdVl5V3JoUmc4TFpSM2NGdUVNLW9kV1N1aUVFTDFoR210NDRDLTRWRTVOWlU?oc=5",
-     "ts": "2026-11-26T14:30:29Z",
-     "summary": ""
-    },
-    {
-     "id": "2b97efcc2350",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Неофициальный порт GTA 6 на ПК преодолел отметку в 40 FPS благодаря FSR",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQW9Xa3o3ajBvSXlPUE1tTXFLVF9DLVB3TzMzWElGUWY4T0w2VFhwWWtwN0tDcm14VVRiRFlKRWlFYjlhWUs1bE41eXJnYjJhdjRKMVBEdjdRUnpDMnpqSnRBX0NzMFJpTERJeExsUVpWUVZSVHJWbXJhd3V2LTNvS0hKRXJsbzdEcl9oTm9NZnZRZlB1cmkyMlZUUGV5SzFmV2FTcQ?oc=5",
-     "ts": "2026-11-26T14:38:19Z",
-     "summary": ""
-    },
-    {
-     "id": "07a32a0f109c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 бьет рекорды на торрентах РФ: 10 000 игроков качают с PS5, ПК — на эмуляторе с 25 FPS",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xTk9hS1hGRXhsVl9jQmo2NGIyWTM2OTN1Rk50QW5FQjZQUGNObHhmT1doUHNKMjJIYjF2MXpfVE9kLTUtcGhBdnJIVU5rVU1KVlhiWlNaRlIzeGR2d3NUTlJaS1RHVmtRQngwMTZhVVBTbUxf?oc=5",
-     "ts": "2026-11-26T14:40:37Z",
-     "summary": ""
-    },
-    {
-     "id": "895e7b3f977f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Бывший глава Take-Two считает, что у GTA 6 до сих пор остаётся \"хулиганская\" репутация – хотя серия сегодня \"мейнстримнее некуда\"",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSWJFaDJScjA0NTNtRlp5MnpjOXNMSm1CRGYybHNTS3VhUFJLQ2x6YkhjbXFPXzJuM2tqamdreEJ1azd2RzRvNEcwdXNQTF9leWpnY2JkendtaUVKNl9HbkRqMFFOam1vbjFOR1NjcWJ4bEx3RDFZb1FzYzVGYWxkRnRrWnNYbW90Vms2M2dBWnZncG5GemFlUkFTNGdydF8xQkh2bmE0c3BLTlJDV1l4aGNoNnpJWk0zZHhndHpoWWJLSllYRlctaFFpUWd4VGdXcGFvd3FoWTFjVzJHbURaeHFjaDJYbmVQNU1DbEJlR0NKRnZ6VXpr?oc=5",
-     "ts": "2026-11-26T15:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "bfdafeca188a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Pasquale Pillitteri",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "У GTA 6 на ПК уже появилось мод-меню, на видео неофициальный порт",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ObDcwQnM1TEhYS0hsUm5Tbk1DSFZ6Wjd6WFpMV2tUb3hiMHE5YVFJM0U4cVVSamtySzZraERwSWk2ZXhvaEdqRUh4M0dkNFFDYVFDN0ZGUm9rV3hWNWxRYlVkU2NCNnRYYngxcjdxQWR2WkhtbEt4SzJHanhwUQ?oc=5",
-     "ts": "2026-11-26T15:01:22Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two",
-    "ПК"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
    "id": "ecd91e080f56",
    "title": "How Many Buildings Can You Enter in GTA 6? Enterable Buildings Walkthrough",
    "first_seen": "2026-11-26T14:51:06Z",
@@ -690,99 +1169,6 @@
     "at": "2026-11-26T14:51:12Z"
    },
    "msg_id": 2353
-  },
-  {
-   "id": "7099b83096bb",
-   "title": "How to Find and Complete Kingpin Bowling Alley in GTA 6—All Key Valuables",
-   "first_seen": "2026-11-25T21:31:05Z",
-   "updated": "2026-11-26T15:10:43Z",
-   "items": [
-    {
-     "id": "7099b83096bb",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "How to Find and Complete Kingpin Bowling Alley in GTA 6—All Key Valuables",
-     "url": "https://insider-gaming.com/gta-6-kingpin-bowling-alley-all-key-valuables/",
-     "ts": "2026-11-25T21:27:37Z",
-     "summary": "Here's a guide on how to find the Kingpin Bowling Alley illegal operation in GTA 6 and grabbing all it's key valuables. The post How to Find and Complete Kingpin Bowling Alley in GTA 6—All Key Valuables appeared first on Insider Gaming ."
-    },
-    {
-     "id": "0ecdd81fa0d0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mobalytics",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "All Kingpin Bowling Alley Robbery Key Valuables Locations - GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLVBUWkxwanlVTkhudWVzaWFxbjlua2dpWkdObUpsaGJGUHBxRmtKcU1CQXdRV3I4SnNpdU1KSmxnb0NCTzB6Rzg2UGI3RzdCMi1kOF9uZUxMdVdwUDRwbE4tNXlScWZhbUNZWTd3d0NsOGRKZmQ2cFd6V0JtZGJIMnVR?oc=5",
-     "ts": "2026-11-26T03:08:44Z",
-     "summary": ""
-    },
-    {
-     "id": "0b36f4a0d374",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mobalytics",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "All Brooks Boatworks Robbery Key Valuables Locations - GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXVqR2txT293M0RwbnYybmNtVzRVZndLTUZzTnZ4eXByTUZvNHFpRGRzYVp3SGZYYTVVVTVpN3ltWUpsMUE3RllZdUg0SFNqNVBaTVVwRFQ3MlM5c29SdFQxdGNCdGpSRVVWNy1FbFp2Zlotc0pfUmMxak5vT3ZQT0FzZXpoR1lK?oc=5",
-     "ts": "2026-11-26T05:13:46Z",
-     "summary": ""
-    },
-    {
-     "id": "0c43cb9b02b4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mobalytics",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "All Kolt Stash House Robbery Key Valuables Locations - GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUc5a1ZnMXpPbHV5TWlTc21QWjFVOFU3Z0gzVEN6eGJmYm1WSDl6aDdVbWFwblUwQlh6ZnVacTB0emdHY3M5alVoTXZjLXh0aWt0TDEwdWVlb3NFM05BOGhDMVdWaEdMQXROLWNmek9Rci1VMjhITWdKb2FnVFpkT2VsOGlOUkhh?oc=5",
-     "ts": "2026-11-26T08:51:27Z",
-     "summary": ""
-    },
-    {
-     "id": "4531c19c0b71",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables",
-     "url": "https://insider-gaming.com/gta-6-biker-hideout-all-key-valuables/",
-     "ts": "2026-11-26T14:36:21Z",
-     "summary": "Here’s a guide on how to find the Biker Hideout Alley illegal operation in GTA 6 and grabbing all it’s key valuables. The post How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables appeared first on Insider Gaming ."
-    },
-    {
-     "id": "e3c50b250a4f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Insider Gaming",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0MG5ORGtRWFM2RF9JSjlZb09KWEV1RjhJcl9CM0x2ZG0tcl9xeWYwM1phQzZMU1ptZXhlMzRvQlFmelprdzI4UHVEbUZUb3A1ankwNktDMFFYdFBSejVpekh0S2t0Vnp6Wnk5Y1NUTnBoYVE?oc=5",
-     "ts": "2026-11-26T14:36:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 81,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
   },
   {
    "id": "0a36bbd916b0",
@@ -1126,56 +1512,6 @@
     "at": "2026-11-26T14:51:09Z"
    },
    "msg_id": 2352
-  },
-  {
-   "id": "0a9d3fd3c24a",
-   "title": "I love that Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
-   "first_seen": "2026-11-26T14:40:47Z",
-   "updated": "2026-11-26T15:01:11Z",
-   "items": [
-    {
-     "id": "0a9d3fd3c24a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "I love that Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSndRdzJEZHEwdWptVjF5aWltaGtkRC1iRmN3V3l6SWEtemFEcEpJcXk2bS02MExwMHBxMU5NY0hDbFltbGxzRmJGSlk3b1FxdEZFcHQyUFRNRDRZenZ2a2JqQmlWSllFYVZYQ1hrVThUaEN3ZF9rQnhXaFVyY2tWaldHX1kzYXFQdm9LNWNkNHdvZFNfQjEtWDBfZWpGdw?oc=5",
-     "ts": "2026-11-26T14:30:00Z",
-     "summary": ""
-    },
-    {
-     "id": "d4969aa46482",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTFuRGdzRDFmbmk4NHllUUZKN0xIRHYzSWg0eWtMUUZZX0o4QmJvTi1kN3hrcS1naUFmMl84TDFYdlVDWEg1Yi00TmxXY254UGdWcDd0VmY2TFdhNVM4aU9vYjF0VVNwQ09KZ3hDeXdRVmJacV85WXlUUlU1RGVQU2VBNTFmYzhjS0VxdmVxNzFVZkNCbEZBQ0JPUGs1b0JmZnNpOGVvNDFBanoyVmpRRXFBclFtb3NOeDJhNHVTOGJTeWpLOHNJ?oc=5",
-     "ts": "2026-11-26T14:48:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "В GTA 6 внешний вид важнее, чем когда-либо — IGN",
-    "summary": "По данным IGN, в GTA 6 создание свежих образов важнее, чем в любой предыдущей игре серии. Издание отмечает акцент на индивидуальности персонажей и стиле. Официально Rockstar это не комментировала.",
-    "idea": "Покажем, как в GTA 6 собирают «лук» и почему это влияет на геймплей — от магазинов до реакций NPC. Зрителю интересно, как стиль меняет игру, а не только сюжет.",
-    "hook": "В GTA 6 твой «лук» решает больше, чем в любой части серии.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-26T14:40:52Z"
-   },
-   "msg_id": 2351
   },
   {
    "id": "1866f1f7f115",
@@ -169537,384 +169873,22 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "1fdf96246a6c",
-   "title": "GTA 6’s Opening Two Hours Teach You Everything You’ll Ever Need To Know About the Next 100",
-   "first_seen": "2026-11-19T14:20:49Z",
-   "updated": "2026-11-19T15:31:11Z",
-   "items": [
-    {
-     "id": "1fdf96246a6c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6’s Opening Two Hours Teach You Everything You’ll Ever Need To Know About the Next 100",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSHhYc2xPUVYwdWFiWHE0LWRYcUU3eXZnLUdBNHlvTFVDVkVvSll5djQwT3B2eWtjNmxJalM2VUViNmZuSmFicTlkU05nam12N3NJelFBSXVDajlTWGFPemo4S1k2N1h0UzY1dVdOQ0ZNNzdyaGpfdjZHandaN0dxSGdwZUxMVzhraVR4VS1wRnFySUFZc1NtM1dXS2tCV1pNYmlIa21GSFM0NjFPeUhvUlhIczIzaUZtdVJJMEJUT2JGanBWNkZsWFJHbF9LRDRZUzZ4cQ?oc=5",
-     "ts": "2026-11-19T14:15:11Z",
-     "summary": ""
-    },
-    {
-     "id": "b28d001448ad",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6’s Opening Two Hours Teach You Everything You’ll Ever Need To Know About the Next 100",
-     "url": "https://www.ign.com/articles/gta-6s-opening-two-hours-teach-you-everything-youll-ever-need-to-know-about-the-next-100",
-     "ts": "2026-11-19T14:00:00Z",
-     "summary": "GTA 6 has a slower, more deliberate opening than previous GTA games, but it's the perfect introduction to this 100 hour adventure."
-    },
-    {
-     "id": "84e31d8d319c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6’s First Two Hours Teach You Everything You Need to Know About The Next 100",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSW9jSkh6X0dBUDhsamxmSGpZMW1GYmpBTUhxNWVZUlRCWFRuaUVCSndJQTZNZHVkZjBiXzUta2dlYkI5WDYtN296TW9ORVNXa2IxN29nb2tiRjEya3hlTExwY0Nka3BfSVJ2UlBmTXlNaE9nTXlwejI2aUdBcEZ3MHJYdGdJS1NzQlI5NUVWVVUxMjlia0xULWJXNHBNT1NYNXB2MGZVY0xFdk9XYm5nLVZwcEgtd3NHR1RFSFc3ZVBuZDR1SnNXblhRWGp0T01fS0xoOVhR?oc=5",
-     "ts": "2026-11-19T14:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "230e91eb1e2d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6’s Opening Two Hours Teach You Everything You’ll Ever Need To Know About the Next 100",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWY5V1lOVHM5YkkzX1pWNnNrM0JXSkI5bDEtWTBjbnBpY2t6SWtxVHdPVGFERjI5UjdXYlkxZ1ZHa1J5Y3hVTXdLOHZrUEdBWFgtUG5DQ0NKb1VPVFAzUGRuYkxaaXlNR3BEU1Y0Q0lKNEg5bHAxWE1SdHBxQkx3b1ZMcE9lMmNUd2huYVM1ejRwYlZCM3RBeEJidGRNMzhJeEduUkJYSVpsRHJwNGNudFh2Uk9zR1k2?oc=5",
-     "ts": "2026-11-19T14:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "426b67c87bf5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6’s First Two Hours Teach You Everything You Need to Know About The Next 100",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLUFSNlJJNXRPMEE3clY1aVdkUlZ0bm1JNUptQ25UVVp4VEpvVXVtNFFGem9oejdTNklOeUo5Wk1xQ1NqQTZIeVBEaWpSdTd0ai1PN203Tjc3eW41QnA4VEpiSEZzTThoY2J2RFF2VE1XbHJhdmdDcFBrWUpTVnoxRGdJdWhncUJUS0JjUFhnQW1xTzc1eHREanJIOHZDVUZISHlTdHlNUVBXdVl1TnBMS0h6MVFRcWdDWTRVS3NqOEdQRUN3RE5zQjNrdEZiT25tSjRmNGZPOA?oc=5",
-     "ts": "2026-11-19T14:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 95,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Первые 2 часа GTA 6: медленный старт ради 100 часов игры",
-    "summary": "По данным IGN, первые два часа GTA 6 идут медленнее и вдумчивее, чем в прошлых частях серии. По словам издания, это идеальное введение в приключение на 100 часов.",
-    "idea": "Сравнение темпа: почему медленный старт — плюс для 100-часового прохождения. Покажем тезисы IGN и реакцию игроков.",
-    "hook": "Медленный старт GTA 6 — это не баг, а план на 100 часов.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T14:31:16Z"
-   },
-   "msg_id": 1516
-  },
-  {
-   "id": "c60a7b570ad6",
-   "title": "Game experts, local fans react to release of ‘Grand Theft Auto VI’",
-   "first_seen": "2026-11-19T00:01:22Z",
-   "updated": "2026-11-19T15:31:11Z",
-   "items": [
-    {
-     "id": "c60a7b570ad6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WKBN.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Game experts, local fans react to release of ‘Grand Theft Auto VI’",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGc1eEwzQzJlZVJESjVILUduQ2pzbFJNb3dZazBUTFdDQ0RXQXZRQWZXeThRWU5qaDQ5N1VGakJ4cTdRZW8xN2VDVklWNWdGMXlTb2l1MkJBQ2FGc0hudG5HLVVHaVZiUjd0TGt6YkhXM19Xd3U1VnM5bzJFXzRRc1ExdUlCeWkzcWVpbFl5YThsNm9HbnFVVV9qNTAybnNsVlJaZHhxekcxNVNVTTVjYVNETVgxaU9z0gG-AUFVX3lxTFBtcnh5TzZJdDZIZFFlMlk3OUEtTTVrRFBpeUNucVNobzFJWjlmN0REU1BuWTZtcXNYSGdQQ0kzSUlqZUhiY1NjUHlXdWsycHJHSml2VUNMaVh1UkVkQjFmWG0wNlgtRmNtUVN6aWNVVklWeW1QZFlveXkzeWNmQ0dhLU5CYWpNcVRwRmN6SFhGX1VJeUVCUzBsSjJuNUNZbTVfTDZoS3c5MVM4RW01VFZJWDdpUERHbWJUUXg0NXc?oc=5",
-     "ts": "2026-11-18T23:40:12Z",
-     "summary": ""
-    },
-    {
-     "id": "d97f0ceb3602",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "France 24",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA VI': A masterpiece? Fans react to gaming's biggest release",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMURvQVo3NWxIVldvMllMZUlZRzZXVnRwN2NIeHFJQmVpR1VwRGw1a0oxdVdLcHlFcFU0WnZTWVNGNGphM0N5YUl5MncySG9QVThXeVhUbWFkajk5dVBnUjcyREhyMTc2OFQtc2xEUktvaG1ELXN0aGhkSTlfeWVNZWZaaV93bE5IQURYSWdRVVJ0Q0ptZG14UWR3U2Z2aHpGTlpwVDVjZl9qcTR5Z1VMdEZ3?oc=5",
-     "ts": "2026-11-19T15:23:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "d2180660f713",
-   "title": "GTA 6 Launches with Big Impact on Black Gamers",
-   "first_seen": "2026-11-19T15:31:11Z",
-   "updated": "2026-11-19T15:31:11Z",
-   "items": [
-    {
-     "id": "d2180660f713",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "EBONY Magazine",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Launches with Big Impact on Black Gamers",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zWVlhZlU0RmJtVHVuaHQzaTdaNXlLMTltQjhtdjFvZzh0blNfTzZ1a3JpUkdQYkloTmk2YWNxMGNGYW1jNE9fazdtTzBPZ1lmdkRhUnh0MVFLYm0wMFJqdGM2ek91NHJJSUgtdy1yd25wd0F2emJNWg?oc=5",
-     "ts": "2026-11-19T14:14:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5f1ac171c9f3",
-   "title": "Tech Bytes: Universal praise for Grand Theft Auto VI",
-   "first_seen": "2026-11-19T15:31:11Z",
-   "updated": "2026-11-19T15:31:11Z",
-   "items": [
-    {
-     "id": "5f1ac171c9f3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WDIO.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Tech Bytes: Universal praise for Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0ZKQVNGX1BvcFFWNm9ZeG8xcjF5T01NeEhUakhCNmJnOE9RTUR6U2pTUXo2M3VtZHlxd3MzcVloSnlYVVJ5UkJlU2l6TTVGRUxCZ3N2NHBNam1IZUowRjVXZ2xNQUd2SkM5aTJDdWxVMEs0ZHB3dEFmUmNhSUFabUtSampZX3hLVVN2aXdUS0IwR2tZT2xTcHZDeW4?oc=5",
-     "ts": "2026-11-19T14:53:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "974e47997fb0",
-   "title": "GTA 6 Just Brought Back the Best E3 Meme of All Time",
-   "first_seen": "2026-11-19T15:31:11Z",
-   "updated": "2026-11-19T15:31:11Z",
-   "items": [
-    {
-     "id": "974e47997fb0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Just Brought Back the Best E3 Meme of All Time",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HYjZ1V1Y3Qk94TXhpeGRFaC11UXJNQXYtcGYxdTAxZXNqTzRfdm1BaFliYzdaVUpIVWVwcU04X0puOWJFc3B6Njd0NVZnQVpYa3pncnBJZ0pDRUp3Y3hJ?oc=5",
-     "ts": "2026-11-19T15:00:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4d76fe785382",
-   "title": "GTA 6’s Metal Radio Station Is Lacking Modern Talent",
-   "first_seen": "2026-11-19T15:31:11Z",
-   "updated": "2026-11-19T15:31:11Z",
-   "items": [
-    {
-     "id": "4d76fe785382",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Forbes",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "GTA 6’s Metal Radio Station Is Lacking Modern Talent",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWtHeWRxSlc2XzhVazFTYTR2MWdHdjZQZVE4dXFIa1ZNbkVWZUw4aE5od3ZzNGpoZnlnX2dicE9EdzBXemVPVmRGQmhMbGxMYURHQUc0SkJ3bWVKc1BIQ2ZKd3ZXZWlEZGRib3RJUUllWDNROU9EQVdTcVBycEZMb2JEM3I3ZUpwcDlnWnZDdE9Jak11UjlGNmNvb0h1ZzlOZjhMc3NEOVgtdw?oc=5",
-     "ts": "2026-11-19T15:14:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "JSONDecodeError: Expecting ':' delimiter: line 2 column 59 (char 60)"
-  },
-  {
-   "id": "b3714ba1c5ae",
-   "title": "Assassin's Creed Maker Ubisoft Confirms Further Layoffs, With 166 Jobs Lost From 2 Major Studios",
-   "first_seen": "2026-11-19T15:31:11Z",
-   "updated": "2026-11-19T15:31:11Z",
-   "items": [
-    {
-     "id": "b3714ba1c5ae",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Assassin's Creed Maker Ubisoft Confirms Further Layoffs, With 166 Jobs Lost From 2 Major Studios",
-     "url": "https://www.ign.com/articles/ubisoft-cuts-166-jobs-assassins-creed",
-     "ts": "2026-11-19T15:15:00Z",
-     "summary": "As gaming headlines focus on the launch of GTA 6, Assassin's Creed maker Ubisoft has announced another round of restructuring that eliminates 166 more jobs."
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 85,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️Ubisoft сокращает 166 человек в день выхода GTA 6",
-    "summary": "Ubisoft официально объявила о сокращении 166 сотрудников в двух крупных студиях. По данным IGN, это произошло на фоне запуска GTA 6.",
-    "idea": "Контраст: в день релиза GTA 6 Ubisoft увольняет 166 человек — показываем цифры и реакцию игроков. Зрителю интересно, как праздник одной игры совпал с проблемами другой.",
-    "hook": "GTA 6 вышла, а Ubisoft сокращает 166 человек — как так вышло?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T15:31:16Z"
-   },
-   "msg_id": 1532
-  },
-  {
-   "id": "c5c16a9178f0",
-   "title": "Как использовать быстрое перемещение в GTA 6. Как скипнуть поездку в ГТА 6",
-   "first_seen": "2026-11-19T15:31:11Z",
-   "updated": "2026-11-19T15:31:11Z",
-   "items": [
-    {
-     "id": "c5c16a9178f0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Escorenews.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Как использовать быстрое перемещение в GTA 6. Как скипнуть поездку в ГТА 6",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDZTQWF0aS1BVENqaEpIaHpTVVJlUHd1NHVfQnpPU2ZCbWJQajZ3a2RPdW9jUHE5SGxvTEVHZjlQc1pBSE1ydzg4VDE3algtVWt5MW13UDZlbEZMRTl6NmlodkE3LUNXbExlUU1GS2FPLTR1VjMya0pzenRlLUh5MndwdEZmbEpVcjRPWm1DUkNXTUdULXd6WlJfRTg2TndwR0ZLTDZPZkluQ2VzVEVkWW1yYw?oc=5",
-     "ts": "2026-11-19T15:19:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9798f8280c60",
-   "title": "The Best ‘GTA 6’ Gun Is Very Easy To Get From The Start",
-   "first_seen": "2026-11-19T15:31:11Z",
-   "updated": "2026-11-19T15:31:11Z",
-   "items": [
-    {
-     "id": "9798f8280c60",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Forbes",
-     "group": "media",
-     "weight": 60,
-     "alert": true,
-     "title": "The Best ‘GTA 6’ Gun Is Very Easy To Get From The Start",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVNBTGhvTllHRWtqbnpBTWppb0dLcGxYd0ZfY284eFdaNElSRkQ3RnJTY190YW51V1J0XzhUX2hpVzRINkxLTkV0bkZDSm11emc2NFdEZnNDMXFtZENkZHZvMG1mMi1fbkZNTld1UElScVN4YU5BR2JkMExVZ0pVdmVac3ZLTThLbVA2MXlud182dXcxU05iWHVTN2JSTVd3cVVWaXJTZw?oc=5",
-     "ts": "2026-11-19T15:21:46Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔫 Лучший стартовый ствол в GTA 6: как получить",
-    "summary": "Forbes назвал лучший стартовый пистолет в GTA 6 и рассказал, как его легко получить в начале игры. Издание отмечает доступность оружия и простоту получения без фарма.",
-    "idea": "Короткий гайд: где взять лучший стартовый пистолет и почему он тащит в начале. Зрителю важно — быстрый буст без фарма.",
-    "hook": "Лучший стартовый пистолет в GTA 6 — и он реально бесплатный.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T15:31:27Z"
-   },
-   "msg_id": 1534
-  },
-  {
-   "id": "c06d49746002",
-   "title": "Estefans, Travis Scott among celebs spotted at highly-anticipated ‘GTA VI’-themed Miami Heat game",
-   "first_seen": "2026-11-19T15:31:11Z",
-   "updated": "2026-11-19T15:31:11Z",
-   "items": [
-    {
-     "id": "c06d49746002",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WSVN",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Estefans, Travis Scott among celebs spotted at highly-anticipated ‘GTA VI’-themed Miami Heat game",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LeG5PNlZ2bm9LMnpjRUlYdnhPQlVBT0FMeHVtWXdMZEpSV1VwcEF3RlliUVplQmNoYmFHV3ZLWTZjdXh4aDRNR0NGQWNnTDZKQWtsYTdwMDBhY1ZDd3YzVlpNVnIzZE5TalYycUZSTQ?oc=5",
-     "ts": "2026-11-19T15:22:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-26T15:21:01Z",
+  "last_run": "2026-11-26T15:31:21Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 97/100",
+   "⚠️ rockstar_site: HTTP Error 429: Too Many Requests",
+   "gnews_en: 99/100",
    "gnews_ru: 96/100",
    "gamesbeat: 2/10",
    "vgc: 6/10",
-   "insider_gaming: 6/10",
-   "ign: 4/20",
-   "eurogamer: 11/100",
+   "insider_gaming: 8/10",
+   "ign: 6/20",
+   "eurogamer: 12/100",
    "dexerto_gta: 11/50",
-   "rockstarintel: 6/10",
+   "rockstarintel: 7/10",
    "gtaboom: 30/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 13/13",
