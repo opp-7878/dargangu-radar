@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "d09090c3a60b",
+   "title": "Lucia actress Manni L. Perez claims she worked on GTA 6 for ‘almost a decade’",
+   "first_seen": "2026-11-26T21:01:28Z",
+   "updated": "2026-11-26T21:01:28Z",
+   "items": [
+    {
+     "id": "d09090c3a60b",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Lucia actress Manni L. Perez claims she worked on GTA 6 for ‘almost a decade’",
+     "url": "https://www.videogameschronicle.com/news/lucia-actress-manni-l-perez-claims-she-worked-on-gta-6-for-almost-a-decade/",
+     "ts": "2026-11-26T20:52:29Z",
+     "summary": "Manni L. Perez thanks GTA 6 fans for their response to Lucia"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Актриса Лусии: работала над GTA 6 почти 10 лет",
+    "summary": "Актриса Манни Л. Перес, озвучившая Лусию в GTA 6, поблагодарила фанатов за реакцию на героиню. По её словам, она работала над игрой почти 10 лет. Об этом она написала в соцсетях.",
+    "idea": "Зачитать цитату актрисы о «почти 10 годах» и показать кадры с Лусией — зрителям интересно, как долго делалась игра.",
+    "hook": "Актриса Лусии раскрыла срок работы над GTA 6 — почти 10 лет.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T21:01:31Z"
+   },
+   "msg_id": 2404
+  },
+  {
    "id": "f4d6602a0e04",
    "title": "GTA 6 runs at 25 FPS on PC",
    "first_seen": "2026-11-26T13:31:07Z",
@@ -163881,350 +163918,14 @@
    "status": "new",
    "ai_fail": 1,
    "ai_error": "ValueError: нет полей: title_ru"
-  },
-  {
-   "id": "6231179071d4",
-   "title": "Who Plays Mandy in GTA 6—GTA 6 Mandy Actress in Real Life",
-   "first_seen": "2026-11-19T17:10:17Z",
-   "updated": "2026-11-19T21:01:18Z",
-   "items": [
-    {
-     "id": "6231179071d4",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Who Plays Mandy in GTA 6—GTA 6 Mandy Actress in Real Life",
-     "url": "https://insider-gaming.com/who-plays-mandy-in-gta-6/",
-     "ts": "2026-11-19T16:59:01Z",
-     "summary": "If you've been playing GTA 6 recently, you might have come across Mandy, but who plays Mandy, and who is the real-life actress? The post Who Plays Mandy in GTA 6—GTA 6 Mandy Actress in Real Life appeared first on Insider Gaming ."
-    },
-    {
-     "id": "8bff08f8a663",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Complex",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI': Meet the Actress Who Plays Breakout Character Mandy",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFBWMEVILUNReEVwcmp5RnFUTkNWV2laV1pOODE3ci1ETXZQMlRLR0xYcWJfLTczMHpxcHJGa0lBODlxMW9fUWxnTHp0bzFlVkpBUTFpNmZoS0xoS25leHlZbkFCMWJuRDB3b2tuVm1Cenh2cHpXVVJtSmdTN0hoWDUxMWNYN040?oc=5",
-     "ts": "2026-11-19T19:52:09Z",
-     "summary": ""
-    },
-    {
-     "id": "4f14aab8b3fe",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "www.svg.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Who Plays Mandy In GTA 6?",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYMkxicXV1WExXbG5KcjVVZUs1SnpISGcxa1Q1a0FUUWRwa0lrdmp0cGZxQUlEOGNvTXNiUGkyMEVCaUpoYlZmRjZUelp6S3d4LUhWVmdma1BOY05oalNNWGt2NzhBSE1SaWZCN19Qcw?oc=5",
-     "ts": "2026-11-19T20:49:57Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 81,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Кто такая Мэнди в GTA 6? Инсайдер раскрыл актрису",
-    "summary": "По данным Insider Gaming (Tom Henderson), раскрыли актрису, которая сыграла Мэнди в GTA 6. Материал посвящён тому, кто исполнил роль и как выглядит актриса в жизни.",
-    "idea": "Крупный план на Мэнди в игре, затем фото реальной актрисы — кто скрывается за ролью. Зрителю интересно узнать лицо и имя за знакомым персонажем.",
-    "hook": "Видели Мэнди в GTA 6? Вот кто её сыграл в реальной жизни.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T17:10:22Z"
-   },
-   "msg_id": 1560
-  },
-  {
-   "id": "284b2ddf8316",
-   "title": "Grand Theft Auto VI released as gamers rejoice globally",
-   "first_seen": "2026-11-19T00:31:02Z",
-   "updated": "2026-11-19T21:01:18Z",
-   "items": [
-    {
-     "id": "284b2ddf8316",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "DW.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI released as gamers rejoice globally",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjN0NU9HZ1B6Zkg0WGFoWWJQYUJLX3BQVHBCWjYtdWxEOEx5dlExVHFBVjRZT0F4eTdLZW9KSnd3Zy12T092RU56YndGcnJqeEdVYmNYc1QwQkNndXliajhNeVQtS0RESUg2dzNuclplOTdSbmY0ckZTdl91SUc3bzlSbnVubk9DNWlZNzUyMFJVZ9IBkgFBVV95cUxPSlROdU9TRDF3Y01ZM0diaFdJdlk4RWpTTUFQWW04NXFCbUswYk1od0tJaFlVQlBDSTdWcktsQ3Z0dEFnamJxeVhLWUI2aFJtdURqRktzY0ZkWFdkaHVHZlRydlF3RjBWTTNuZXVIQmFxYy1qMjk1Um1Tc0g0RzBsQjZCY3hOY2dNclk4UWgyeFFnQQ?oc=5",
-     "ts": "2026-11-19T00:21:45Z",
-     "summary": ""
-    },
-    {
-     "id": "323bb2c54f63",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WBOC TV",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Gamers Rejoice As GTA 6 Releases",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0NhbjRiQnk5QlVpdmt1S241VzNRWW9UcXg2MVFpTmYwSldEY1pwZkJSWHpMdFZqUWkyWTdnUzVOMUFIWmhmMTVYNlV2R3NuLUdYUVFSX3E3Zl90c3dHM1NfTDFnc3VUaHdEbEV0M2tlYjBqcThnSEoxbUFfS1ptY0J5VUVpSl9OdFp4QlBScTY5QWdEcGxDdEM4UG1NQnA4clNxVTVEcWhKZw?oc=5",
-     "ts": "2026-11-19T18:31:00Z",
-     "summary": ""
-    },
-    {
-     "id": "8d9648f2f865",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NBC News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI': Gamers rejoice as Rockstar Games releases long-awaited title after 13 years",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZERoX29IR0xBTGk3TFc2UmdXR3hsYklaX1FJX1MtSk1rVkE2bEdJWGY3VGlvUlBHV3FKbzRDWmFCcy1pSGdyaG5KQnhmVEtGVnNZelQzSGczM1hUZW1WWnhEVmFDcThBSmhSTDJQdUY3RkdCY1BxTFVPNTRhMzV4ZkwtZGw1UzBCOE9DRTdxRG1kRGswNTJPUkx0S0FUYVRrUkljcjladDdHdm1LTnkyemY0WWhKTzdRT28wTVRlNjJWY1ZhV3JKbGxvSlBaeWlkcDNxMUE2UDhTRVU?oc=5",
-     "ts": "2026-11-19T20:59:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "a242fcb223d4",
-   "title": "How 'GTA VI' Got Its Vice City Sound: Trick Daddy, Trina, and More",
-   "first_seen": "2026-11-19T15:50:54Z",
-   "updated": "2026-11-19T21:01:18Z",
-   "items": [
-    {
-     "id": "a242fcb223d4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Rolling Stone",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How 'GTA VI' Got Its Vice City Sound: Trick Daddy, Trina, and More",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMFNvMGNRNC1UQTNMaEpZTzRKYWpLb2F0cm50X1Y3VXU1VUxZNFM4cVZVRzFiMG5pVDRfN1RtUDlQMTd5UXhFZThJZ1ZwaWRsVUlnc0FycUdCbWtSM3RJNFdwZ0ROM2ptOERTdEVYVTBVNW9JeWpwNVczbk5ycEhpMUhvTWNvS29uc0d4T3ktbVFXa2dYeEM5RGpYUzVxajVfZENSWDV3?oc=5",
-     "ts": "2026-11-19T15:40:08Z",
-     "summary": ""
-    },
-    {
-     "id": "fa60ffc329fe",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How ‘GTA VI’ Got Its Vice City Sound",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTi05WEVJQjFuUUktNlRISnBFN3FkNFY4YkxDLU5FZEZXOWtPcnBEQ1JfREZXVWpuel9haWREUEZHSW9ua18yWmdLSnd3LUoxWm1LVUZMT29URVRoQXRodE9hSWJTbHl3YnVUb0ZKVWJ3SEZTVWNIUGxSRE80ZWJwYkhJZ0gtUnB6QUtIQzJNSQ?oc=5",
-     "ts": "2026-11-19T15:40:08Z",
-     "summary": ""
-    },
-    {
-     "id": "c90f8aff91ea",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Rolling Stone Australia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How ‘GTA VI’ Got Its Vice City Sound",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUdFOVZjOE5JRXNOTmRKVWI3STFQVlV2WDYxU2VUblJYcVo3WGpMT3NJVUhUcjVkdVp1ZENaak9YR0dlaDRnXzJobkZrN1ZLRUdrNXE3WHdnTExMa0JWdy1uUmNMNGhZbUdVaDdjZEFDX01yNHZCTTVXejU2Q0dWdnAzVk1teWJmampuQ0owS09hOExSZk9qVG01MVZnOW8?oc=5",
-     "ts": "2026-11-19T20:52:41Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔊 Вайс-Сити звучит: Trick Daddy, Trina и другие в GTA 6",
-    "summary": "По данным Rolling Stone и Yahoo, Rockstar собрала саундтрек Вайс-Сити с участием Trick Daddy, Trina и других. Журналисты объясняют, как подбирали музыку под атмосферу города.",
-    "idea": "Короткая нарезка узнаваемых треков и кадров Вайс-Сити с подписью «кто попал в плейлист». Зрителю интересно узнать имена и понять, как музыка задаёт настроение города.",
-    "hook": "Вайс-Сити получил голос: Trick Daddy, Trina и другие — в GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T16:20:56Z"
-   },
-   "msg_id": 1548
-  },
-  {
-   "id": "920b56062260",
-   "title": "GTA 6 breaks the internet: 7.9 million viewers tune in as global traffic hits record high",
-   "first_seen": "2026-11-19T21:01:18Z",
-   "updated": "2026-11-19T21:01:18Z",
-   "items": [
-    {
-     "id": "920b56062260",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The American Bazaar",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 breaks the internet: 7.9 million viewers tune in as global traffic hits record high",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHh6b0xINVcxQnZPVldKN2ZWV2xGd0RmRDN6N3psQWszZWJzdUNNakZZcTFpNElIeE1fU1QwQ1NyWmNiNzJMYXY0aEdLdjNWd1ljajViZE9ubWRock5UdU1GRDhzeVkzcVhkS012MVd3cnVFRTE5UHFhTmdCWXdjZVZEeWEtekhhN3haSkJLbU5sNURmS1JyMkxpM0pkekoy?oc=5",
-     "ts": "2026-11-19T20:48:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f8d320c011ef",
-   "title": "How To Fast Travel In GTA 6",
-   "first_seen": "2026-11-19T12:21:01Z",
-   "updated": "2026-11-19T21:01:17Z",
-   "items": [
-    {
-     "id": "f8d320c011ef",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Rock Paper Shotgun",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How to fast travel in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ScFVIWE51eXRwbFNRSm9vbDFkRjQ3dFpQaFNaaTVSbTlHcnJVNXVIQm9NTV9zUUFBNFRKams5b2FEOUJmYTJoU1Ezb1R6dWFLUG5XV3E3d3NxT2hQQkFN?oc=5",
-     "ts": "2026-11-19T12:08:30Z",
-     "summary": ""
-    },
-    {
-     "id": "89456c9e675d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "How To Fast Travel In GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CMVNwb2syS3pFdjF4eHBUYUxzQzJXaHdIOXF0T3BjOWVVR1d0WWUxTHVpcFdFeWdxVnFwYUQyZTdkV0xqNnhGZTM1RGJGTkRHZHVPazkwbkYyNVRvVldROTJiRkFiWElSdjR4cw?oc=5",
-     "ts": "2026-11-19T18:18:00Z",
-     "summary": ""
-    },
-    {
-     "id": "cd2da11b7728",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "www.bgr.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "You Can Fast Travel In GTA 6 Using This $100 Trick",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uUXo0cHRpZGFTTzV5VkVCQ3hnU2stRGtMemp0b2NjelFaS2JrUnlHNHZ2N2lmZXJoUzFmeG5Va2VQV3dGS2UwMzJMQUdNODlOZGlnRVFaQjRFcDRUZHhaUUV3?oc=5",
-     "ts": "2026-11-19T20:44:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 96,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "c0cdc64c126a",
-   "title": "GTA 6 Lands With a 99 on Metacritic, But Launch Day Failures Are Already Making Headlines",
-   "first_seen": "2026-11-19T21:01:17Z",
-   "updated": "2026-11-19T21:01:17Z",
-   "items": [
-    {
-     "id": "c0cdc64c126a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Latin Times",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Lands With a 99 on Metacritic, But Launch Day Failures Are Already Making Headlines",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOekpzaGRSSzdlekk1Q2tuZ1VwTllGaThvd3BVRkxUYlZoNDRZaml3YWFiVXo3UlJSTTBhYUdVbnB2U1AzUDJwTXJLWmZoc0hYSV9hdE5Sc1NEU19vV0xTZXhVNlJrWVFsdmJGN0gtV3dxcHMtRnNBZVpOdlNxV1BQMzVuZ2h6aTg?oc=5",
-     "ts": "2026-11-19T19:56:31Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b108c485e459",
-   "title": "GTA 6 released today. Here are 5 major takeaways from the big day",
-   "first_seen": "2026-11-19T21:01:17Z",
-   "updated": "2026-11-19T21:01:17Z",
-   "items": [
-    {
-     "id": "b108c485e459",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "USA Today",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 released today. Here are 5 major takeaways from the big day",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbllMVlAyZTVEaUFpT21LQ3dMWGNXeDFHTnNrdW9zdHdVV0NjYjRWaldaMmFJbkRkYkRxa0hoYnFScUoxUjdxUkJXQTVjWEpWVGtJYjJFQk9ITjJ2U2NOdWYzb3lkbWs0elp4S3MwVlNDNE5CU3pDcUtaVGVWdm91MXpHSkdmTHBxY3VHMmIyZ2dBWFVQZFBJUXFrWHFPQmZXVFE?oc=5",
-     "ts": "2026-11-19T20:42:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "aa8ef0562ebf",
-   "title": "Rockstar Just Explained How GTA 6 Could Fit Even More Content Into Vice City",
-   "first_seen": "2026-11-19T21:01:17Z",
-   "updated": "2026-11-19T21:01:17Z",
-   "items": [
-    {
-     "id": "aa8ef0562ebf",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BGR",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar Just Explained How GTA 6 Could Fit Even More Content Into Vice City",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tRC1nSkNLSVEydWZkTl9ieTNqSmNlUWVhbld5ZlVnWGFZSndJb2R1WWNxa283UXozY0tKWXNkVnZTbFRfYnhIdXp1N1BpaGROaTBIc3FPZ3hwVEl1Yl9XZVc3bmQ1WmxKb2tReDVmLUR3RWpHR2lR?oc=5",
-     "ts": "2026-11-19T20:46:51Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-26T20:51:09Z",
+  "last_run": "2026-11-26T21:01:32Z",
   "last_log": [
    "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
    "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 3/10",
    "vgc: 8/10",
