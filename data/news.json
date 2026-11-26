@@ -1,6 +1,80 @@
 {
  "stories": [
   {
+   "id": "b1ae0a84fa99",
+   "title": "Despite being a code in a box, GTA 6’s physical release broke sales records",
+   "first_seen": "2026-11-26T14:51:06Z",
+   "updated": "2026-11-26T14:51:06Z",
+   "items": [
+    {
+     "id": "b1ae0a84fa99",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Despite being a code in a box, GTA 6’s physical release broke sales records",
+     "url": "https://www.videogameschronicle.com/news/despite-being-a-code-in-a-box-gta-6s-physical-release-broke-sales-records/",
+     "ts": "2026-11-26T14:49:17Z",
+     "summary": "Across Europe, GTA 6 has enjoyed one of the most successful physical launches of all time"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Физический релиз GTA 6 побил рекорды продаж в Европе",
+    "summary": "По данным VGC, физический релиз GTA 6 в Европе стал одним из самых успешных запусков в истории. Игра вышла в виде кода в коробке, но всё равно установила рекорды продаж.",
+    "idea": "Показать пустые полки магазинов и очереди, объяснив, что даже «код в коробке» побил рекорды. Зрителю будет любопытно увидеть, как игра без диска так мощно стартовала.",
+    "hook": "Код в коробке, очереди на улицах — и рекордные продажи GTA 6.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T14:51:09Z"
+   },
+   "msg_id": 2352
+  },
+  {
+   "id": "ecd91e080f56",
+   "title": "How Many Buildings Can You Enter in GTA 6? Enterable Buildings Walkthrough",
+   "first_seen": "2026-11-26T14:51:06Z",
+   "updated": "2026-11-26T14:51:06Z",
+   "items": [
+    {
+     "id": "ecd91e080f56",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "How Many Buildings Can You Enter in GTA 6? Enterable Buildings Walkthrough",
+     "url": "https://insider-gaming.com/buildings-gta-6/",
+     "ts": "2026-11-26T14:50:15Z",
+     "summary": "GTA 6's open, thriving world has so many buildings, so find out how many you can enter, as well as how to enter them. The post How Many Buildings Can You Enter in GTA 6? Enterable Buildings Walkthrough appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Сколько зданий можно зайти в GTA 6? Свежие данные",
+    "summary": "По данным Insider Gaming (Tom Henderson), в открытом мире GTA 6 много зданий, которые можно посетить. Материал разбирает, сколько именно и как в них попасть.",
+    "idea": "Короткая нарезка с попытками зайти в разные здания с таймером: сколько реально открыто. Зрителю важно понять, насколько живой мир и не пустой ли он.",
+    "hook": "Сколько зданий реально открыто в GTA 6? Проверяем прямо сейчас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T14:51:12Z"
+   },
+   "msg_id": 2353
+  },
+  {
    "id": "febe146f5fb7",
    "title": "GTA 6 Players Have Found a Cheeky Method to Quickly Steal ATMs",
    "first_seen": "2026-11-26T14:30:58Z",
@@ -170890,11 +170964,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-26T14:40:55Z",
+  "last_run": "2026-11-26T14:51:12Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 99/100",
-   "gnews_ru: 96/100",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 2/10",
    "vgc: 6/10",
    "insider_gaming: 6/10",
