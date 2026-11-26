@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "feec26bb7fa6",
+   "title": "‘South Park’ Season 29 Finale: ‘GTA 6’ Inspires Stan, Kyle and Cartman to Get to the Bottom of South America’s Power Outages",
+   "first_seen": "2026-11-26T04:40:51Z",
+   "updated": "2026-11-26T05:01:11Z",
+   "items": [
+    {
+     "id": "feec26bb7fa6",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘South Park’ Season 29 Finale: ‘GTA 6’ Inspires Stan, Kyle and Cartman to Get to the Bottom of South America’s Power Outages",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Uck00U1FzZVpXY21FSzA3X2pPYk9VUk5XY2dSZl9yelJEemFoVmhfY0NpX0otam9mQ0VnMEJON0hnN3h3S0M4X0NlaDFpRFpBWFZNRVVNc1U4cXFCbERHM1Z2UXlRMXZLVkE?oc=5",
+     "ts": "2026-11-26T04:36:56Z",
+     "summary": ""
+    },
+    {
+     "id": "395cab06e7b7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘South Park’ Season 29 Finale: ‘GTA 6’ Inspires Stan, Kyle and Cartman to Get to the Bottom of South America’s Power Outages",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2dDZyZExzTmxERzVkX0huVjNkbHdZaXctMS1GdzluTW5lejBQY2hWektXYlhkaXctOWtvdTJCZlQzMmxYM2g1UU0tdVhnVndLWENFR1c1WWJ0TDA4cy12RUJPdDNsTEdPdHc?oc=5",
+     "ts": "2026-11-26T04:58:26Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "44faf4513c81",
    "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
    "first_seen": "2026-11-25T16:50:49Z",
@@ -345,32 +384,6 @@
    ],
    "tags": [],
    "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "feec26bb7fa6",
-   "title": "‘South Park’ Season 29 Finale: ‘GTA 6’ Inspires Stan, Kyle and Cartman to Get to the Bottom of South America’s Power Outages",
-   "first_seen": "2026-11-26T04:40:51Z",
-   "updated": "2026-11-26T04:40:51Z",
-   "items": [
-    {
-     "id": "feec26bb7fa6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IMDb",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘South Park’ Season 29 Finale: ‘GTA 6’ Inspires Stan, Kyle and Cartman to Get to the Bottom of South America’s Power Outages",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Uck00U1FzZVpXY21FSzA3X2pPYk9VUk5XY2dSZl9yelJEemFoVmhfY0NpX0otam9mQ0VnMEJON0hnN3h3S0M4X0NlaDFpRFpBWFZNRVVNc1U4cXFCbERHM1Z2UXlRMXZLVkE?oc=5",
-     "ts": "2026-11-26T04:36:56Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -179529,11 +179542,11 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-26T04:50:51Z",
+  "last_run": "2026-11-26T05:01:11Z",
   "last_log": [
-   "rockstar_site: 0/2",
+   "rockstar_site: 0/1",
    "gnews_en: 96/100",
-   "gnews_ru: 98/100",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 2/10",
    "vgc: 5/10",
    "insider_gaming: 4/10",
