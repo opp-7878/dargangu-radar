@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "0297cc60f1a1",
+   "title": "'GTA 6' fans are flying planes into buildings (or trying to)",
+   "first_seen": "2026-11-26T22:40:46Z",
+   "updated": "2026-11-26T22:40:46Z",
+   "items": [
+    {
+     "id": "0297cc60f1a1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' fans are flying planes into buildings (or trying to)",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0pmWlZtanNxYmFHTHJtNkZJQzltaGxQLUNhNUxubmhhcnNTQU9vbW9GdWhJX3lHV2tlS3B2RDlKVDFfamx2bThZS2FsbGstV3daWFNHQVBfYkRpQzRTQTFXODYwTkNzUmxidHVPaURWUU02UXFnbTlwUFZjSkJ3LUg2X1c?oc=5",
+     "ts": "2026-11-26T20:39:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "11dd71337b3d",
    "title": "PS5 Pro может выдавать 40–50 fps в GTA VI — энтузиасты разблокировали фреймрейт на взломанных консолях",
    "first_seen": "2026-11-26T22:31:07Z",
@@ -162509,10 +162535,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-26T22:31:07Z",
+  "last_run": "2026-11-26T22:40:46Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 98/100",
+   "gnews_en: 96/100",
    "gnews_ru: 99/100",
    "gamesbeat: 3/10",
    "vgc: 7/10",
