@@ -1,6 +1,564 @@
 {
  "stories": [
   {
+   "id": "f4d6602a0e04",
+   "title": "GTA 6 runs at 25 FPS on PC",
+   "first_seen": "2026-11-26T13:31:07Z",
+   "updated": "2026-11-26T16:20:51Z",
+   "items": [
+    {
+     "id": "f4d6602a0e04",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iGuides.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "На торрентах начали появляться пиратские порты GTA VI для ПК",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wQ01IcFdsM0JTOVpxbzlnb1NaODVKbEVpRDNSLThTd1F4WFhSYm1FbE9WLUo0TExJckVBVWNjNXVicmw3NzhvdUgxVUs4bmpCU2VmUjU2dEtqMDdUWHkzOGJhNXR3WlFab1pKUEJxZk91Um8?oc=5",
+     "ts": "2026-11-26T13:05:08Z",
+     "summary": ""
+    },
+    {
+     "id": "9e2e9eae704e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Tribuna.com",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Неофициальная ПК-версия GTA 6 появилась на торрентах – стали известны системные требования",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSC0tNkRiUEZuWjhydFlEWmtyd1ZjVVRITXdrcjJMSjh2VjBPZ2g0NmxoZHRWUkJKRXlwNEhvYnMxRDdEMzdCT2pIamVsNFYzeXpyVFMyQzYxSEtpU0RVSkV3LWVMUXUxOGp5Y0ZjSXhhYldkOHVfQXZ3eFdpV2g5TTBpSVNjc0w2M25zUzZ3S19oOTZ0VEZQdGZaNUJZbmpUZmJWVTc1Y07SAa4BQVVfeXFMTjZzak9hS25fWHU0NXU0algwVGRiUGlPcHJMLUN5THRGTjhxRkVjME1FbmV4SWs4VGdDUVk1dmxGYi1McjVsa0ZETjVmcHJqUFRaUXVoTi1DUXJ3RFdYV2VBZVVLS3lPd0tWcXZiNlMxUVhKdUY0d2NUTXN0bVMyMW5qT1NGS0RaS3MtVWM1NTl5djU5MFlLR2tJZDMyTUhmQ0ZXYl9ZNzQ5UEtXN2pR?oc=5",
+     "ts": "2026-11-26T12:15:23Z",
+     "summary": ""
+    },
+    {
+     "id": "4e9f916ea197",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Dead Brush",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 на ПК: фанатские порты, FPS и ответ Take-Two",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43RkppeFdnRHNyX1NQUjR1VUZER243R2FmZEpIVm5ZRjdsNzQya1dpelVuYXAtQUZNa2I3dXJ6UTJuYjNxaENEUnk1TmRlSEhacVNyeTlzNDAxV3BLSXJ2emR3?oc=5",
+     "ts": "2026-11-26T14:16:22Z",
+     "summary": ""
+    },
+    {
+     "id": "e392e3b8e0ac",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "MobiDevices",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 вышла на ПК в 25 FPS",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SUWVuTDVmTV9JWjI2XzdSaUQtbWt3bkRDcWd3N2w4dFlURkt6OWxEcWZaT2YxRWIyX2pXVnl0UGNXUFV5N2NDa0xwMXJOZExKLWVMMUZDTVQ4V0ZkU2Y4aQ?oc=5",
+     "ts": "2026-11-26T14:30:09Z",
+     "summary": ""
+    },
+    {
+     "id": "da855a853354",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "mobidevices.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 runs at 25 FPS on PC",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5N3VSUmhjaTFIeFBYQVJwVm5uakhfSzJpaENvVE5hb1ZudVNGZW9sR0JOUWtMYWhGdVl5V3JoUmc4TFpSM2NGdUVNLW9kV1N1aUVFTDFoR210NDRDLTRWRTVOWlU?oc=5",
+     "ts": "2026-11-26T14:30:29Z",
+     "summary": ""
+    },
+    {
+     "id": "2b97efcc2350",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Неофициальный порт GTA 6 на ПК преодолел отметку в 40 FPS благодаря FSR",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQW9Xa3o3ajBvSXlPUE1tTXFLVF9DLVB3TzMzWElGUWY4T0w2VFhwWWtwN0tDcm14VVRiRFlKRWlFYjlhWUs1bE41eXJnYjJhdjRKMVBEdjdRUnpDMnpqSnRBX0NzMFJpTERJeExsUVpWUVZSVHJWbXJhd3V2LTNvS0hKRXJsbzdEcl9oTm9NZnZRZlB1cmkyMlZUUGV5SzFmV2FTcQ?oc=5",
+     "ts": "2026-11-26T14:38:19Z",
+     "summary": ""
+    },
+    {
+     "id": "07a32a0f109c",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6 бьет рекорды на торрентах РФ: 10 000 игроков качают с PS5, ПК — на эмуляторе с 25 FPS",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xTk9hS1hGRXhsVl9jQmo2NGIyWTM2OTN1Rk50QW5FQjZQUGNObHhmT1doUHNKMjJIYjF2MXpfVE9kLTUtcGhBdnJIVU5rVU1KVlhiWlNaRlIzeGR2d3NUTlJaS1RHVmtRQngwMTZhVVBTbUxf?oc=5",
+     "ts": "2026-11-26T14:40:37Z",
+     "summary": ""
+    },
+    {
+     "id": "895e7b3f977f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "Бывший глава Take-Two считает, что у GTA 6 до сих пор остаётся \"хулиганская\" репутация – хотя серия сегодня \"мейнстримнее некуда\"",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSWJFaDJScjA0NTNtRlp5MnpjOXNMSm1CRGYybHNTS3VhUFJLQ2x6YkhjbXFPXzJuM2tqamdreEJ1azd2RzRvNEcwdXNQTF9leWpnY2JkendtaUVKNl9HbkRqMFFOam1vbjFOR1NjcWJ4bEx3RDFZb1FzYzVGYWxkRnRrWnNYbW90Vms2M2dBWnZncG5GemFlUkFTNGdydF8xQkh2bmE0c3BLTlJDV1l4aGNoNnpJWk0zZHhndHpoWWJLSllYRlctaFFpUWd4VGdXcGFvd3FoWTFjVzJHbURaeHFjaDJYbmVQNU1DbEJlR0NKRnZ6VXpr?oc=5",
+     "ts": "2026-11-26T15:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "bfdafeca188a",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Pasquale Pillitteri",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "У GTA 6 на ПК уже появилось мод-меню, на видео неофициальный порт",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ObDcwQnM1TEhYS0hsUm5Tbk1DSFZ6Wjd6WFpMV2tUb3hiMHE5YVFJM0U4cVVSamtySzZraERwSWk2ZXhvaEdqRUh4M0dkNFFDYVFDN0ZGUm9rV3hWNWxRYlVkU2NCNnRYYngxcjdxQWR2WkhtbEt4SzJHanhwUQ?oc=5",
+     "ts": "2026-11-26T15:01:22Z",
+     "summary": ""
+    },
+    {
+     "id": "d3d5dd657f18",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The unofficial GTA 6 PC port has surpassed 40 FPS thanks to FSR.",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2QzSmNNcEx5T28ySzREQ3BqcGp4cmhyVkI1UllHV19EUkNnMExGMFFFem84eUYyMS1lM0VFUkxBakZVRVdmNDhVcHRoOTg2Wld2VEprODZCRGM5RG1lSnVUbDIzXzlabkoyQzNuQ3lKcEVfUjdhS214bFZJQzd3alJval8xZnY3VVVpdzViWFJRd3NidTN0Z21YXzY3c3pIQ2xYcGRfeW4?oc=5",
+     "ts": "2026-11-26T14:38:19Z",
+     "summary": ""
+    },
+    {
+     "id": "44d35767a88b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TechRadar",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Specs for unofficial GTA 6 port are worrying some PC gamers — but this is nothing to panic about",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW5MOG1ZTVFmUGtWTlZYRDhZQTYtZHJmSlQ4Vm0yeWotMmZlc2E3OW42NWJJOGhFNFNIMkdmV29FRmVubXlpQ3FxdDhMVkhhSEJjMDE0bk9GWU9td3pwUlgwcmMtaTdDTTFJbEZxMnBLNWoyZWRFZUZuOFVFZHo0T2psMTkwLWdRZW8xcDhCR19hWVhwSlkyYzJBVERsaEdaU3dnM0wtaXJWZzNTT1ZlWVlfMWxOZklpVDU2ZW9Xem9IeUdvZ3c?oc=5",
+     "ts": "2026-11-26T15:24:41Z",
+     "summary": ""
+    },
+    {
+     "id": "c7c38ab974a2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GameGPU",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "An unofficial PC port of Grand Theft Auto VI has broken the 60 FPS mark on PC for the first time.",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYlk4NDlOeHZtbjhkVHM5VFRSNWhBbEZXd0JoYTVhMjBaOU8welhKWE9kVnpUaDJRMEVJc0lLNmpRLUMydWY4eUJobVB3aGl4NWVuUGVPWTg4Qm5pczRQOXNmc0w2a1ZlcENQdExZbGxHR3ZlS2pFclpleWdxTThLc29EcFFzM1FCUHJETTJEX0JoT0ZlcVVjMlBtMy11YWNXSmI3ZENPSWd5ckN2VHdpN3E5ODZaZw?oc=5",
+     "ts": "2026-11-26T15:51:20Z",
+     "summary": ""
+    },
+    {
+     "id": "02c091df9c34",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Plugged In Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Неофициальная ПК-версия GTA 6 уже запускается",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZlFmR1MwVGVoQ2Q3Yl92a2oxS3lSYkxfZUtqQ1JkblhFaXJ0U2szaUNZWW8zUkF0ZkhQbWphUlhFMHNGLURtU1RhRktHWGE0QU0zRWRVZGV5bXRLaDNZNUloOTZlajdvN0I3eE5PbGtLeW5Sd3JEeS1rS1JPaEVseFViVWxTSEVO?oc=5",
+     "ts": "2026-11-26T15:53:00Z",
+     "summary": ""
+    },
+    {
+     "id": "3ae26bbceccf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 PC footage pulled after Rockstar takedown, says ex-Blizzard dev Mark Kern",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDFuX1Q3WXFEMXVtT2tFaEJPYzRoY2ZKS09uQWNCNFBRX3hNbzJITlZ6SmJNZE1oaEYwSUdGOGVYT3g3cWZ2dnppUl9zbDNoSzJWWG5pUVRUTFV2UVVtMlRNVk03WGlxRWpYZFhjSlhibWRPYUdSWGtNZ1I0YmZjMzE2NA?oc=5",
+     "ts": "2026-11-26T15:17:13Z",
+     "summary": ""
+    },
+    {
+     "id": "bc338751d03b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Foreign Policy Journal",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Keith Gill's Social Media Return Meets \"Grand Theft Auto VI\" Launch As Take-Two Interactive (NASDAQ: TTWO) Surges And GameStop (NYSE: GME) Slides",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMjNpU3YwLXpLMVVZeEdXZ1A4cWR3OXVEOUdmTUdhRl9oY0VENWpHWVljcmtUS05KNUFuUHM1TjVWZHpfaEFfUXBXcTI5VmFzLW5LeDFXdE5zNndDUExscDhWeXpaZkgzbmtGM1JfQzJMWUVoSlJtQjhNOXRRNGRLTEVTVV92YlBNbkR3djVkRkUxV2tXNUFEaXhXbk1BanEzV1c4anZ4VUd4UldXNHZwcnRTY0VsY3d1SUt2YzV5QkdWcHZTWmwzcjdycjR4SlV4NzZBLW11dW5LTXp1cFp4eW9NWTBBZHFkSE1FdW9LQWdrZm1WY1MxV2QyR05GSUZvRUtvZEhSeEk4U09JbjdadXVpdw?oc=5",
+     "ts": "2026-11-26T16:14:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Take-Two",
+    "ПК"
+   ],
+   "score": 90,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "17dbdd9e222f",
+   "title": "GTA VI developers vote against unionization",
+   "first_seen": "2026-11-26T15:31:09Z",
+   "updated": "2026-11-26T16:20:51Z",
+   "items": [
+    {
+     "id": "17dbdd9e222f",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA VI Developers Vote Against Unionization Following Battle With Rockstar",
+     "url": "https://rockstarintel.com/gta-vi-developers-vote-against-unionization-following-battle-with-rockstar/",
+     "ts": "2026-11-26T15:27:53Z",
+     "summary": "GTA VI developers have voted no unionising following the game’s launch. This is was almost a monumental moment in not only the UK video games space but the entire industry. Over 1600 Rockstar Games employees who worked on the new game Rockstar Games permitted over 1600 UK-based staff to vote from November 12th to 26th [...] The post GTA VI Developers Vote Against Unionization Following Battle With Rockstar appeared first on RockstarINTEL ."
+    },
+    {
+     "id": "b08273ee440b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Verge",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA VI developers vote against unionization",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuU0xoeDJ2OXRRRWtxR3NybjRReHJXcS00bVlZbWdCTkN1Sk5INThNMUZMeEVFYVpCeS1ZTUhHSU0yWXI5QU9saG8zQ1BHWVdrMTdyQUx1T1JRNjMxTUUwZC12UllpOWZhUUtpd2ZQTHRabndqdWFHOA?oc=5",
+     "ts": "2026-11-26T15:55:24Z",
+     "summary": ""
+    },
+    {
+     "id": "86fbaf4b4384",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Majority of Rockstar Workers Vote Against Unionization",
+     "url": "https://insider-gaming.com/rockstar-workers-vote-against-unionization/",
+     "ts": "2026-11-26T16:11:15Z",
+     "summary": "A new update has revealed that 75% of the workers at Rockstar Games UK have voted against unionization. Here are more details. The post Majority of Rockstar Workers Vote Against Unionization appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 96,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Разработчики GTA 6 проголосовали против профсоюза после релиза",
+    "summary": "Разработчики GTA 6 проголосовали против объединения в профсоюз после выхода игры. С 12 по 26 ноября голосовали более 1600 сотрудников Rockstar в Великобритании. Об этом сообщает Rockstar INTEL.",
+    "idea": "Коротко объясняем, что значит отказ от профсоюза для команды после релиза — и почему это важно игрокам. Берём угол «что будет с кранчем и условиями дальше», чтобы зацепить тех, кто следит за судьбой игры.",
+    "hook": "GTA 6 вышла — и 1600+ разработчиков Rockstar сказали «нет» профсоюзу.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T15:31:21Z"
+   },
+   "msg_id": 2365
+  },
+  {
+   "id": "7019d10edc79",
+   "title": "Does GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained",
+   "first_seen": "2026-11-26T15:40:46Z",
+   "updated": "2026-11-26T16:20:51Z",
+   "items": [
+    {
+     "id": "7019d10edc79",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Does GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained",
+     "url": "https://insider-gaming.com/is-there-point-no-return-in-gta-6/",
+     "ts": "2026-11-26T15:33:28Z",
+     "summary": "Does GTA 6 let you know when you're about to finish the game with a 'point of no return' prompt? Find out here. The post Does GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained appeared first on Insider Gaming ."
+    },
+    {
+     "id": "29a14f4c7a50",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Does GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2VVEtM1BQMU95VFJMbTBnTDhyaU9wcjRvSklsWEVWa3FjVFZmcEFNaEJXZTNnaHh4dFByX0t2aGwxTno4ZFYwN3dQLXluRFR2NDB1T1dvWlFITlRLMUtYbk92UThGQ2VwQXptRml3?oc=5",
+     "ts": "2026-11-26T15:33:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "В GTA 6 будет предупреждение «точка невозврата»? 👀",
+    "summary": "Insider Gaming (Tom Henderson) разбирает, будет ли в GTA 6 предупреждение о «точке невозврата» перед финалом. Материал объясняет, как это обычно работает в играх Rockstar и чего ждать в GTA 6.",
+    "idea": "Коротко объясняем, что такое «точка невозврата» и как Rockstar обычно предупреждает игроков перед финалом. Зрителю важно знать, можно ли будет после финала свободно исследовать Вайс-Сити.",
+    "hook": "Где в GTA 6 сработает «точка невозврата» и закроют ли Вайс-Сити?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T15:40:52Z"
+   },
+   "msg_id": 2367
+  },
+  {
+   "id": "28cf3543033c",
+   "title": "Rockstar Games Issues Statement as Union Vote Fails",
+   "first_seen": "2026-11-26T15:31:08Z",
+   "updated": "2026-11-26T16:20:51Z",
+   "items": [
+    {
+     "id": "28cf3543033c",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rockstar Games Issues Statement as Union Vote Fails",
+     "url": "https://www.ign.com/articles/rockstar-games-issues-statement-as-union-vote-fails",
+     "ts": "2026-11-26T15:22:12Z",
+     "summary": "The Rockstar Games union vote has failed, with 75% voting against a recognition agreement with the IWGB Game Workers Union."
+    },
+    {
+     "id": "4929e468bccf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Nordic",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar Games Issues Statement as Union Vote Fails",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkJFVjY4dnl5cDR0YTRNNWoyZlhlbmxPcmlIN21XTFpMZmRqV3FmRzlzZ0xRTG93Nmc3T25TcFFVaDhHZTBVOUh0alFYRTdvTEVGRzl0UzFHZjlJRktsTmIweEVpUDQ1aEVEYXFCV2V3ZXd3VER4RDY4NVBhVERZUzFBQ19Xb0x6blBHcXpYVkNqRXF1VTRRTjd2UWhzazZHM3hN?oc=5",
+     "ts": "2026-11-26T15:35:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Голосование за профсоюз в Rockstar провалилось: 75% против",
+    "summary": "По данным IGN, голосование за признание профсоюза IWGB в Rockstar Games провалилось — 75% сотрудников проголосовали против. Компания выпустила заявление по итогам голосования.",
+    "idea": "Коротко объясняем, что значит провал профсоюза для Rockstar и GTA 6: переработки, стабильность и сроки. Зрителю важно, как это скажется на игре и команде.",
+    "hook": "Профсоюз в Rockstar провалился. Что это значит для GTA 6 и команды?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T15:31:12Z"
+   },
+   "msg_id": 2362
+  },
+  {
+   "id": "10259f73954d",
+   "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
+   "first_seen": "2026-11-26T09:41:10Z",
+   "updated": "2026-11-26T16:20:51Z",
+   "items": [
+    {
+     "id": "10259f73954d",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
+     "url": "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6",
+     "ts": "2026-11-26T09:40:10Z",
+     "summary": "Despite the far higher prices of PlayStation and Xbox consoles today compared to their launch, or even the same period last year, both brands of console saw a significant boost in US sales leading up to the launch of this generation's biggest game: Grand Theft Auto 6 . Read more"
+    },
+    {
+     "id": "34c9ad118975",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Eurogamer.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1liRklyRWkxU3BBQ2xyM1NJczd5T1pyZ0lXSmFfRGV4ejdjU3kyNmp1em9XV0Nxd0JOU2VVUkc1RFRFekJHMzQwbnd1bElaZkpjaXdJMVAtWE1mYlhjQldKSU85Nm93TGpNcGVpRkFjWi15T3dDYko0dFowdU82LTFmSzRDLWtIVDFxcQ?oc=5",
+     "ts": "2026-11-26T09:40:10Z",
+     "summary": ""
+    },
+    {
+     "id": "09dd0eb9b040",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mezha.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "US PS5 and Xbox sales surged ahead of GTA 6 launch despite higher prices",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmdUVvYzVjMF9YNDJHeV9kaUUxY1FVZFVSWURpTV9nLWZfNTZYWFJTZGdHTXUxTllGVlowWHpOaC1pdzVBV2MwZkxFMVdpaHVLcHhWeUR0ZDNaRk1XMFFHWVNINS1vU3dvVGJ2bjBQajFaSG01WUVVSw?oc=5",
+     "ts": "2026-11-26T09:48:49Z",
+     "summary": ""
+    },
+    {
+     "id": "6e3dbe04a452",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Crypto Briefing",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Anthropic prices record IPO as Grand Theft Auto VI smashes entertainment launch marks",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CSWhiWG9pY1czSWRXa0VTMG9vcFlNWnFEdlRGMVFqMXpMeHllN0FaNnpOTk9LdnVsQmRiczlXWmRJWWhzRUoyYzdXQWZ5enRrUW1DMHlpb2QxTjNOejNBZTZDRDJCR2VhTWQ5WWMzMA?oc=5",
+     "ts": "2026-11-26T16:04:55Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "473943a4f5e2",
+   "title": "GTA 6 Safe Word choice: Should you participate or not?",
+   "first_seen": "2026-11-26T16:20:51Z",
+   "updated": "2026-11-26T16:20:51Z",
+   "items": [
+    {
+     "id": "473943a4f5e2",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Radio Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Safe Word choice: Should you participate or not?",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RSDE0Nkg4dWYwWnRMbmRvNmdaRVFzQW1YY2VEdFNfck02cUJVUGh3N0NXOWIxQUxrZ1lWVmFoZllnTldlVEEtSzVscDB2RGxmQXBMQkYya3lUb3dsb2tSM2xXQW96LUQ5ZGUtX3prTzBfQjdCM01j?oc=5",
+     "ts": "2026-11-26T14:49:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c86462659cd0",
+   "title": "I’d love a PlayStation Portal to play GTA 6 anywhere – but where are the Black Friday deals?",
+   "first_seen": "2026-11-26T16:20:51Z",
+   "updated": "2026-11-26T16:20:51Z",
+   "items": [
+    {
+     "id": "c86462659cd0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Trusted Reviews",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I’d love a PlayStation Portal to play GTA 6 anywhere – but where are the Black Friday deals?",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZlVMQldQeVpfVVhwVGFoYlYwblhvRXJUc05yTW90REFzTlNUOG5iX1hYcjBENVRYZmZ4NFZSRDdMc3QwWG05bkhPcXdTNnllSmtQMXBJbEIzVGZPeWdqU1dGN0hIOVpEdWFUbV9wRlNfQUJFWmdPeDFTTjFTN3NvcWQwMk96SnRUTDNPV3lUem8?oc=5",
+     "ts": "2026-11-26T15:38:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "77e43b4e1d47",
+   "title": "Here's where to steal the Bravado Banshee for Randy in GTA 6",
+   "first_seen": "2026-11-26T16:20:51Z",
+   "updated": "2026-11-26T16:20:51Z",
+   "items": [
+    {
+     "id": "77e43b4e1d47",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "PC Gamer",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Here's where to steal the Bravado Banshee for Randy in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmg4X0NMQkQ0aWNDOERiQUNvLWRKcFZnWkxwbVlhS3dhS2JqOU1FeHk4VWYtVEw0b0tuYjFxamU3TDYtYkdRT2ZPZnhxQVEzYkRTcUlCN0ZkSFB2aERKa3JuN2poLTgwNkZCYnBmbWF3SHB4eUdYZnd2VVhHYklPVTVVV2Y?oc=5",
+     "ts": "2026-11-26T16:02:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Где угнать Bravado Banshee для Рэнди в GTA 6",
+    "summary": "По данным PC Gamer, в GTA 6 есть задание, где нужно угнать Bravado Banshee для персонажа по имени Рэнди. Издание указывает место и условия угона в рамках миссии.",
+    "idea": "Короткая карта: где стоит Banshee и как быстро её забрать для Рэнди. Зрителю важно не застрять на поиске машины.",
+    "hook": "Нужна Bravado Banshee для Рэнди? Показываю точку и быстрый маршрут.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T16:20:55Z"
+   },
+   "msg_id": 2373
+  },
+  {
+   "id": "c17e4c2ede6f",
+   "title": "As Anthropic goes public, Grand Theft Auto VI makes the case against efficiency",
+   "first_seen": "2026-11-26T16:20:51Z",
+   "updated": "2026-11-26T16:20:51Z",
+   "items": [
+    {
+     "id": "c17e4c2ede6f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mezha.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "As Anthropic goes public, Grand Theft Auto VI makes the case against efficiency",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM3VjQlJhTC1LaDVJMWs2MzNUenRTMEp3cG5iQ2k1YXNuMkhqREZLYm5EZTR2RF9zQzJ0T2tWNTlTMWxicV92R0xwOXZ4TU5oS3hVYlhya2dHQ3BDR2o4c2NVaW52eUxVTGRURWtRREZZUzAtSl9uWTk4MGtCZDVRSTBB?oc=5",
+     "ts": "2026-11-26T16:12:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "8ed6d4dbc7d4",
    "title": "Can You Continue Playing GTA 6 After The Ending?",
    "first_seen": "2026-11-26T16:01:11Z",
@@ -343,241 +901,6 @@
    "level": "PROBABLE",
    "alerted": "dup",
    "status": "new"
-  },
-  {
-   "id": "f4d6602a0e04",
-   "title": "GTA 6 runs at 25 FPS on PC",
-   "first_seen": "2026-11-26T13:31:07Z",
-   "updated": "2026-11-26T16:01:11Z",
-   "items": [
-    {
-     "id": "f4d6602a0e04",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iGuides.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "На торрентах начали появляться пиратские порты GTA VI для ПК",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wQ01IcFdsM0JTOVpxbzlnb1NaODVKbEVpRDNSLThTd1F4WFhSYm1FbE9WLUo0TExJckVBVWNjNXVicmw3NzhvdUgxVUs4bmpCU2VmUjU2dEtqMDdUWHkzOGJhNXR3WlFab1pKUEJxZk91Um8?oc=5",
-     "ts": "2026-11-26T13:05:08Z",
-     "summary": ""
-    },
-    {
-     "id": "9e2e9eae704e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Tribuna.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Неофициальная ПК-версия GTA 6 появилась на торрентах – стали известны системные требования",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSC0tNkRiUEZuWjhydFlEWmtyd1ZjVVRITXdrcjJMSjh2VjBPZ2g0NmxoZHRWUkJKRXlwNEhvYnMxRDdEMzdCT2pIamVsNFYzeXpyVFMyQzYxSEtpU0RVSkV3LWVMUXUxOGp5Y0ZjSXhhYldkOHVfQXZ3eFdpV2g5TTBpSVNjc0w2M25zUzZ3S19oOTZ0VEZQdGZaNUJZbmpUZmJWVTc1Y07SAa4BQVVfeXFMTjZzak9hS25fWHU0NXU0algwVGRiUGlPcHJMLUN5THRGTjhxRkVjME1FbmV4SWs4VGdDUVk1dmxGYi1McjVsa0ZETjVmcHJqUFRaUXVoTi1DUXJ3RFdYV2VBZVVLS3lPd0tWcXZiNlMxUVhKdUY0d2NUTXN0bVMyMW5qT1NGS0RaS3MtVWM1NTl5djU5MFlLR2tJZDMyTUhmQ0ZXYl9ZNzQ5UEtXN2pR?oc=5",
-     "ts": "2026-11-26T12:15:23Z",
-     "summary": ""
-    },
-    {
-     "id": "4e9f916ea197",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Dead Brush",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 на ПК: фанатские порты, FPS и ответ Take-Two",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43RkppeFdnRHNyX1NQUjR1VUZER243R2FmZEpIVm5ZRjdsNzQya1dpelVuYXAtQUZNa2I3dXJ6UTJuYjNxaENEUnk1TmRlSEhacVNyeTlzNDAxV3BLSXJ2emR3?oc=5",
-     "ts": "2026-11-26T14:16:22Z",
-     "summary": ""
-    },
-    {
-     "id": "e392e3b8e0ac",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "MobiDevices",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 вышла на ПК в 25 FPS",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SUWVuTDVmTV9JWjI2XzdSaUQtbWt3bkRDcWd3N2w4dFlURkt6OWxEcWZaT2YxRWIyX2pXVnl0UGNXUFV5N2NDa0xwMXJOZExKLWVMMUZDTVQ4V0ZkU2Y4aQ?oc=5",
-     "ts": "2026-11-26T14:30:09Z",
-     "summary": ""
-    },
-    {
-     "id": "da855a853354",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "mobidevices.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 runs at 25 FPS on PC",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5N3VSUmhjaTFIeFBYQVJwVm5uakhfSzJpaENvVE5hb1ZudVNGZW9sR0JOUWtMYWhGdVl5V3JoUmc4TFpSM2NGdUVNLW9kV1N1aUVFTDFoR210NDRDLTRWRTVOWlU?oc=5",
-     "ts": "2026-11-26T14:30:29Z",
-     "summary": ""
-    },
-    {
-     "id": "2b97efcc2350",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Неофициальный порт GTA 6 на ПК преодолел отметку в 40 FPS благодаря FSR",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQW9Xa3o3ajBvSXlPUE1tTXFLVF9DLVB3TzMzWElGUWY4T0w2VFhwWWtwN0tDcm14VVRiRFlKRWlFYjlhWUs1bE41eXJnYjJhdjRKMVBEdjdRUnpDMnpqSnRBX0NzMFJpTERJeExsUVpWUVZSVHJWbXJhd3V2LTNvS0hKRXJsbzdEcl9oTm9NZnZRZlB1cmkyMlZUUGV5SzFmV2FTcQ?oc=5",
-     "ts": "2026-11-26T14:38:19Z",
-     "summary": ""
-    },
-    {
-     "id": "07a32a0f109c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 бьет рекорды на торрентах РФ: 10 000 игроков качают с PS5, ПК — на эмуляторе с 25 FPS",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xTk9hS1hGRXhsVl9jQmo2NGIyWTM2OTN1Rk50QW5FQjZQUGNObHhmT1doUHNKMjJIYjF2MXpfVE9kLTUtcGhBdnJIVU5rVU1KVlhiWlNaRlIzeGR2d3NUTlJaS1RHVmtRQngwMTZhVVBTbUxf?oc=5",
-     "ts": "2026-11-26T14:40:37Z",
-     "summary": ""
-    },
-    {
-     "id": "895e7b3f977f",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Бывший глава Take-Two считает, что у GTA 6 до сих пор остаётся \"хулиганская\" репутация – хотя серия сегодня \"мейнстримнее некуда\"",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSWJFaDJScjA0NTNtRlp5MnpjOXNMSm1CRGYybHNTS3VhUFJLQ2x6YkhjbXFPXzJuM2tqamdreEJ1azd2RzRvNEcwdXNQTF9leWpnY2JkendtaUVKNl9HbkRqMFFOam1vbjFOR1NjcWJ4bEx3RDFZb1FzYzVGYWxkRnRrWnNYbW90Vms2M2dBWnZncG5GemFlUkFTNGdydF8xQkh2bmE0c3BLTlJDV1l4aGNoNnpJWk0zZHhndHpoWWJLSllYRlctaFFpUWd4VGdXcGFvd3FoWTFjVzJHbURaeHFjaDJYbmVQNU1DbEJlR0NKRnZ6VXpr?oc=5",
-     "ts": "2026-11-26T15:00:00Z",
-     "summary": ""
-    },
-    {
-     "id": "bfdafeca188a",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Pasquale Pillitteri",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "У GTA 6 на ПК уже появилось мод-меню, на видео неофициальный порт",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ObDcwQnM1TEhYS0hsUm5Tbk1DSFZ6Wjd6WFpMV2tUb3hiMHE5YVFJM0U4cVVSamtySzZraERwSWk2ZXhvaEdqRUh4M0dkNFFDYVFDN0ZGUm9rV3hWNWxRYlVkU2NCNnRYYngxcjdxQWR2WkhtbEt4SzJHanhwUQ?oc=5",
-     "ts": "2026-11-26T15:01:22Z",
-     "summary": ""
-    },
-    {
-     "id": "d3d5dd657f18",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The unofficial GTA 6 PC port has surpassed 40 FPS thanks to FSR.",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2QzSmNNcEx5T28ySzREQ3BqcGp4cmhyVkI1UllHV19EUkNnMExGMFFFem84eUYyMS1lM0VFUkxBakZVRVdmNDhVcHRoOTg2Wld2VEprODZCRGM5RG1lSnVUbDIzXzlabkoyQzNuQ3lKcEVfUjdhS214bFZJQzd3alJval8xZnY3VVVpdzViWFJRd3NidTN0Z21YXzY3c3pIQ2xYcGRfeW4?oc=5",
-     "ts": "2026-11-26T14:38:19Z",
-     "summary": ""
-    },
-    {
-     "id": "44d35767a88b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TechRadar",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Specs for unofficial GTA 6 port are worrying some PC gamers — but this is nothing to panic about",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW5MOG1ZTVFmUGtWTlZYRDhZQTYtZHJmSlQ4Vm0yeWotMmZlc2E3OW42NWJJOGhFNFNIMkdmV29FRmVubXlpQ3FxdDhMVkhhSEJjMDE0bk9GWU9td3pwUlgwcmMtaTdDTTFJbEZxMnBLNWoyZWRFZUZuOFVFZHo0T2psMTkwLWdRZW8xcDhCR19hWVhwSlkyYzJBVERsaEdaU3dnM0wtaXJWZzNTT1ZlWVlfMWxOZklpVDU2ZW9Xem9IeUdvZ3c?oc=5",
-     "ts": "2026-11-26T15:24:41Z",
-     "summary": ""
-    },
-    {
-     "id": "c7c38ab974a2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameGPU",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "An unofficial PC port of Grand Theft Auto VI has broken the 60 FPS mark on PC for the first time.",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYlk4NDlOeHZtbjhkVHM5VFRSNWhBbEZXd0JoYTVhMjBaOU8welhKWE9kVnpUaDJRMEVJc0lLNmpRLUMydWY4eUJobVB3aGl4NWVuUGVPWTg4Qm5pczRQOXNmc0w2a1ZlcENQdExZbGxHR3ZlS2pFclpleWdxTThLc29EcFFzM1FCUHJETTJEX0JoT0ZlcVVjMlBtMy11YWNXSmI3ZENPSWd5ckN2VHdpN3E5ODZaZw?oc=5",
-     "ts": "2026-11-26T15:51:20Z",
-     "summary": ""
-    },
-    {
-     "id": "02c091df9c34",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Plugged In Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Неофициальная ПК-версия GTA 6 уже запускается",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZlFmR1MwVGVoQ2Q3Yl92a2oxS3lSYkxfZUtqQ1JkblhFaXJ0U2szaUNZWW8zUkF0ZkhQbWphUlhFMHNGLURtU1RhRktHWGE0QU0zRWRVZGV5bXRLaDNZNUloOTZlajdvN0I3eE5PbGtLeW5Sd3JEeS1rS1JPaEVseFViVWxTSEVO?oc=5",
-     "ts": "2026-11-26T15:53:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two",
-    "ПК"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "17dbdd9e222f",
-   "title": "GTA VI developers vote against unionization",
-   "first_seen": "2026-11-26T15:31:09Z",
-   "updated": "2026-11-26T16:01:11Z",
-   "items": [
-    {
-     "id": "17dbdd9e222f",
-     "src": "rockstarintel",
-     "src_name": "Rockstar INTEL",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 55,
-     "alert": true,
-     "title": "GTA VI Developers Vote Against Unionization Following Battle With Rockstar",
-     "url": "https://rockstarintel.com/gta-vi-developers-vote-against-unionization-following-battle-with-rockstar/",
-     "ts": "2026-11-26T15:27:53Z",
-     "summary": "GTA VI developers have voted no unionising following the game’s launch. This is was almost a monumental moment in not only the UK video games space but the entire industry. Over 1600 Rockstar Games employees who worked on the new game Rockstar Games permitted over 1600 UK-based staff to vote from November 12th to 26th [...] The post GTA VI Developers Vote Against Unionization Following Battle With Rockstar appeared first on RockstarINTEL ."
-    },
-    {
-     "id": "b08273ee440b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Verge",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA VI developers vote against unionization",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuU0xoeDJ2OXRRRWtxR3NybjRReHJXcS00bVlZbWdCTkN1Sk5INThNMUZMeEVFYVpCeS1ZTUhHSU0yWXI5QU9saG8zQ1BHWVdrMTdyQUx1T1JRNjMxTUUwZC12UllpOWZhUUtpd2ZQTHRabndqdWFHOA?oc=5",
-     "ts": "2026-11-26T15:55:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Разработчики GTA 6 проголосовали против профсоюза после релиза",
-    "summary": "Разработчики GTA 6 проголосовали против объединения в профсоюз после выхода игры. С 12 по 26 ноября голосовали более 1600 сотрудников Rockstar в Великобритании. Об этом сообщает Rockstar INTEL.",
-    "idea": "Коротко объясняем, что значит отказ от профсоюза для команды после релиза — и почему это важно игрокам. Берём угол «что будет с кранчем и условиями дальше», чтобы зацепить тех, кто следит за судьбой игры.",
-    "hook": "GTA 6 вышла — и 1600+ разработчиков Rockstar сказали «нет» профсоюзу.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-26T15:31:21Z"
-   },
-   "msg_id": 2365
   },
   {
    "id": "9ff5d169eee6",
@@ -967,43 +1290,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7019d10edc79",
-   "title": "Does GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained",
-   "first_seen": "2026-11-26T15:40:46Z",
-   "updated": "2026-11-26T15:40:46Z",
-   "items": [
-    {
-     "id": "7019d10edc79",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Does GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained",
-     "url": "https://insider-gaming.com/is-there-point-no-return-in-gta-6/",
-     "ts": "2026-11-26T15:33:28Z",
-     "summary": "Does GTA 6 let you know when you're about to finish the game with a 'point of no return' prompt? Find out here. The post Does GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "В GTA 6 будет предупреждение «точка невозврата»? 👀",
-    "summary": "Insider Gaming (Tom Henderson) разбирает, будет ли в GTA 6 предупреждение о «точке невозврата» перед финалом. Материал объясняет, как это обычно работает в играх Rockstar и чего ждать в GTA 6.",
-    "idea": "Коротко объясняем, что такое «точка невозврата» и как Rockstar обычно предупреждает игроков перед финалом. Зрителю важно знать, можно ли будет после финала свободно исследовать Вайс-Сити.",
-    "hook": "Где в GTA 6 сработает «точка невозврата» и закроют ли Вайс-Сити?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-26T15:40:52Z"
-   },
-   "msg_id": 2367
   },
   {
    "id": "cfcf2905eede",
@@ -1588,43 +1874,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "28cf3543033c",
-   "title": "Rockstar Games Issues Statement as Union Vote Fails",
-   "first_seen": "2026-11-26T15:31:08Z",
-   "updated": "2026-11-26T15:31:08Z",
-   "items": [
-    {
-     "id": "28cf3543033c",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Rockstar Games Issues Statement as Union Vote Fails",
-     "url": "https://www.ign.com/articles/rockstar-games-issues-statement-as-union-vote-fails",
-     "ts": "2026-11-26T15:22:12Z",
-     "summary": "The Rockstar Games union vote has failed, with 75% voting against a recognition agreement with the IWGB Game Workers Union."
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Голосование за профсоюз в Rockstar провалилось: 75% против",
-    "summary": "По данным IGN, голосование за признание профсоюза IWGB в Rockstar Games провалилось — 75% сотрудников проголосовали против. Компания выпустила заявление по итогам голосования.",
-    "idea": "Коротко объясняем, что значит провал профсоюза для Rockstar и GTA 6: переработки, стабильность и сроки. Зрителю важно, как это скажется на игре и команде.",
-    "hook": "Профсоюз в Rockstar провалился. Что это значит для GTA 6 и команды?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-26T15:31:12Z"
-   },
-   "msg_id": 2362
   },
   {
    "id": "b3a3be2dfc4b",
@@ -9698,60 +9947,6 @@
    "score": 50,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "10259f73954d",
-   "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
-   "first_seen": "2026-11-26T09:41:10Z",
-   "updated": "2026-11-26T10:01:08Z",
-   "items": [
-    {
-     "id": "10259f73954d",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
-     "url": "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6",
-     "ts": "2026-11-26T09:40:10Z",
-     "summary": "Despite the far higher prices of PlayStation and Xbox consoles today compared to their launch, or even the same period last year, both brands of console saw a significant boost in US sales leading up to the launch of this generation's biggest game: Grand Theft Auto 6 . Read more"
-    },
-    {
-     "id": "34c9ad118975",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Eurogamer.net",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1liRklyRWkxU3BBQ2xyM1NJczd5T1pyZ0lXSmFfRGV4ejdjU3kyNmp1em9XV0Nxd0JOU2VVUkc1RFRFekJHMzQwbnd1bElaZkpjaXdJMVAtWE1mYlhjQldKSU85Nm93TGpNcGVpRkFjWi15T3dDYko0dFowdU82LTFmSzRDLWtIVDFxcQ?oc=5",
-     "ts": "2026-11-26T09:40:10Z",
-     "summary": ""
-    },
-    {
-     "id": "09dd0eb9b040",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mezha.net",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "US PS5 and Xbox sales surged ahead of GTA 6 launch despite higher prices",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmdUVvYzVjMF9YNDJHeV9kaUUxY1FVZFVSWURpTV9nLWZfNTZYWFJTZGdHTXUxTllGVlowWHpOaC1pdzVBV2MwZkxFMVdpaHVLcHhWeUR0ZDNaRk1XMFFHWVNINS1vU3dvVGJ2bjBQajFaSG01WUVVSw?oc=5",
-     "ts": "2026-11-26T09:48:49Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -169373,233 +169568,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "ccb28d7b643d",
-   "title": "🚨 Копы из GTA 6 расстреляли квадробера, после того как он послал их нахуй и показал фак Игрок заснял интересную сцену в бинокль.",
-   "first_seen": "2026-11-19T12:01:15Z",
-   "updated": "2026-11-19T16:20:49Z",
-   "items": [
-    {
-     "id": "ccb28d7b643d",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "🚨 Копы из GTA 6 расстреляли квадробера, после того как он послал их нахуй и показал фак Игрок заснял интересную сцену в бинокль.",
-     "url": "https://t.me/gta6deluxe/2243",
-     "ts": "2026-11-19T11:53:00Z",
-     "summary": "🚨 Копы из GTA 6 расстреляли квадробера, после того как он послал их нахуй и показал фак Игрок заснял интересную сцену в бинокль. Симулятор жизни, не иначе... 😀 Подписаться | Наш чат 😀"
-    },
-    {
-     "id": "23a936ead1b3",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "🚨 Копы из GTA 6 расстреляли квадробера, после того как он послал их нахуй и показал фак Игрок заснял интересную сцену в бинокль.",
-     "url": "https://t.me/gta6deluxe/2259",
-     "ts": "2026-11-19T16:18:19Z",
-     "summary": "🚨 Копы из GTA 6 расстреляли квадробера, после того как он послал их нахуй и показал фак Игрок заснял интересную сцену в бинокль. Симулятор жизни, не иначе... 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Копы в GTA 6 расстреляли квадробера после фака — засняли в бинокль",
-    "summary": "Игрок заснял в бинокль сцену, где копы в GTA 6 расстреляли персонажа-квадробера после того, как тот их оскорбил и показал фак. Об этом сообщил Telegram-канал @gta6deluxe.",
-    "idea": "Крупный план в бинокль: копы подъезжают, диалог, фак — и очередь. Зрителю интересно, как живо работает полиция и ИИ в GTA 6.",
-    "hook": "Смотри в бинокль: копы в GTA 6 расстреляли квадробера за фак.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T12:01:29Z"
-   },
-   "msg_id": 1477
-  },
-  {
-   "id": "58f66c48242c",
-   "title": "GTA 6 is finally here after 13 years — but there’s a catch for some gamers",
-   "first_seen": "2026-11-19T16:20:49Z",
-   "updated": "2026-11-19T16:20:49Z",
-   "items": [
-    {
-     "id": "58f66c48242c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "New York Post",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 is finally here after 13 years — but there’s a catch for some gamers",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3doXzhmOGlLQWFvVmlCZm5rN0xKMW8wejhkNzBBRW1CMkxoZTl2d2V0WE5kX0pBNFllRURBQjhiT25qSmkwOTZYb0E1YVU4bXFSUXRJWVotWU5ZeUlfMUJxVVRmMkVOSngtVmFqb3J1d0pOWDBCUWpNT0lCbjBGcDRnVkNmSTVxcVZmNWJPajZUUmdsRllQYnUwMTdJR182Wmk1Y2pkakxtZ2txRFlrREZ4cw?oc=5",
-     "ts": "2026-11-19T16:09:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "cf8669bf972a",
-   "title": "Parents Reveal Meticulous Plan To Play GTA 6 While Caring for Toddler",
-   "first_seen": "2026-11-19T16:20:49Z",
-   "updated": "2026-11-19T16:20:49Z",
-   "items": [
-    {
-     "id": "cf8669bf972a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Newsweek",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Parents Reveal Meticulous Plan To Play GTA 6 While Caring for Toddler",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRTBSVWItWHQ3NFU4UUNvNm0zUVhIa1hQRXBkazVmRG1INk1zcE5GOUZodkpfSFBzVVZUWmNORHNrTE56VG1GSzVjQWFzbVZfZEdrdjJVUGp4eGNRcmlmaVZGMkEwRklUYXA3M1lOMWo5a281QTMtVG94UHktRG13ZklxZmpjTFhSRkZ4bDZKMFRMdnNkUVRPdTJhdEtzYzF6R3c?oc=5",
-     "ts": "2026-11-19T16:10:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "87f5938e2d3f",
-   "title": "'Christmas morning': Our Live Impact producer shares first impressions of GTA 6",
-   "first_seen": "2026-11-19T16:20:49Z",
-   "updated": "2026-11-19T16:20:49Z",
-   "items": [
-    {
-     "id": "87f5938e2d3f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WCNC",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Christmas morning': Our Live Impact producer shares first impressions of GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMElUSHlWaHhBUWg4UXBjcmpKN0d4VFZMeDVjbE1iN25JLUVXb2xWUE90dV9mQlNKODdJUzlYM3JzY1FpdndnMmxtUWZ0dnFLd0xHN2JGTWtXMjNBT1lqWXhpRXI5ZDYweklQaWlQUHM1enNyZ2RyZjJQWW44QmJnc1NyczY3YVVlUTNfYlVXOFltMnZnNEMyVXM1b2ZXRnAwYmdjYkNKZGxJVTRNU0t4SmNR?oc=5",
-     "ts": "2026-11-19T16:11:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "91bada1cfae6",
-   "title": "Make Sure To Read Everything In GTA 6",
-   "first_seen": "2026-11-19T16:20:49Z",
-   "updated": "2026-11-19T16:20:49Z",
-   "items": [
-    {
-     "id": "91bada1cfae6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GameSpot",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Make Sure To Read Everything In GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xWVd3VEFsd3gzNFIzaEpZQWppbUxWMmJWbEd1UWxXa0hPOTB0bFBKRExJSFRwVXlnMUhZZEw4N25DQktmNWNyT3RaLWFnbTQ4NXNBUnd1NnpTNjhxYnVrSFYwYTBRVkxYZk9HQ1Q4MG80UXNtck9QOEctUEw?oc=5",
-     "ts": "2026-11-19T16:13:04Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "В GTA 6 важно читать всё — что нашли игроки",
-    "summary": "По данным GameSpot, в GTA 6 важно читать всё, что попадается на глаза. Игроки отмечают подсказки и детали, которые легко пропустить без внимательного чтения.",
-    "idea": "Короткий гайд: где в игре прячутся важные подсказки в тексте и почему их чтение меняет прохождение.",
-    "hook": "Читаешь всё в GTA 6? Вот где текст реально решает.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T16:20:53Z"
-   },
-   "msg_id": 1547
-  },
-  {
-   "id": "a02505cbe020",
-   "title": "GTA 6's Hidden Seinfeld Reference Explained",
-   "first_seen": "2026-11-19T16:20:49Z",
-   "updated": "2026-11-19T16:20:49Z",
-   "items": [
-    {
-     "id": "a02505cbe020",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "ScreenRant",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Hidden Seinfeld Reference Explained",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aWWJoVG4zUmh3QTlyd1lNQURUaktGczNmRUd0SXg5NE5Sb1drQTY0Q25XUFY1aXhlcnlERHE3ZWxMMFBheE1uVlBaS0QxSHNxU3RaVkVMdUpyMUJScFZIcTVwNjN3bld1b1RJYUhR?oc=5",
-     "ts": "2026-11-19T16:15:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "aecaee3295bc",
-   "title": "The dangerous fantasy of GTA VI",
-   "first_seen": "2026-11-19T16:20:48Z",
-   "updated": "2026-11-19T16:20:48Z",
-   "items": [
-    {
-     "id": "aecaee3295bc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Spectator",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The dangerous fantasy of GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DMmlYckhBZWQ1VEtLWHg5SU4ydHphckRmX3FaRG9DcEx4SHZqY0YtTnZadjVKRXc4S2JUN295c21IOHVFcFVQY2pJcGF4aktWOEtFQWJVaFIzQUQ2Q05aNWpZa21ZeHItMlFCQnREeFdRM0NyNkhIc25ZNm56dw?oc=5",
-     "ts": "2026-11-19T15:30:40Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-26T16:11:02Z",
+  "last_run": "2026-11-26T16:20:55Z",
   "last_log": [
-   "rockstar_site: 0/1",
-   "gnews_en: 99/100",
+   "rockstar_site: 0/2",
+   "gnews_en: 98/100",
    "gnews_ru: 96/100",
    "gamesbeat: 2/10",
    "vgc: 7/10",
