@@ -1,6 +1,98 @@
 {
  "stories": [
   {
+   "id": "17dbdd9e222f",
+   "title": "Rockstar’s UK workers vote against unionization",
+   "first_seen": "2026-11-26T15:31:09Z",
+   "updated": "2026-11-26T18:01:12Z",
+   "items": [
+    {
+     "id": "17dbdd9e222f",
+     "src": "rockstarintel",
+     "src_name": "Rockstar INTEL",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 55,
+     "alert": true,
+     "title": "GTA VI Developers Vote Against Unionization Following Battle With Rockstar",
+     "url": "https://rockstarintel.com/gta-vi-developers-vote-against-unionization-following-battle-with-rockstar/",
+     "ts": "2026-11-26T15:27:53Z",
+     "summary": "GTA VI developers have voted no unionising following the game’s launch. This is was almost a monumental moment in not only the UK video games space but the entire industry. Over 1600 Rockstar Games employees who worked on the new game Rockstar Games permitted over 1600 UK-based staff to vote from November 12th to 26th [...] The post GTA VI Developers Vote Against Unionization Following Battle With Rockstar appeared first on RockstarINTEL ."
+    },
+    {
+     "id": "b08273ee440b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Verge",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA VI developers vote against unionization",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuU0xoeDJ2OXRRRWtxR3NybjRReHJXcS00bVlZbWdCTkN1Sk5INThNMUZMeEVFYVpCeS1ZTUhHSU0yWXI5QU9saG8zQ1BHWVdrMTdyQUx1T1JRNjMxTUUwZC12UllpOWZhUUtpd2ZQTHRabndqdWFHOA?oc=5",
+     "ts": "2026-11-26T15:55:24Z",
+     "summary": ""
+    },
+    {
+     "id": "86fbaf4b4384",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Majority of Rockstar Workers Vote Against Unionization",
+     "url": "https://insider-gaming.com/rockstar-workers-vote-against-unionization/",
+     "ts": "2026-11-26T16:11:15Z",
+     "summary": "A new update has revealed that 75% of the workers at Rockstar Games UK have voted against unionization. Here are more details. The post Majority of Rockstar Workers Vote Against Unionization appeared first on Insider Gaming ."
+    },
+    {
+     "id": "83a838843008",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Polygon.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Developers Have Voted Against Unionization by 75% to 25%",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkbmRoY3JwQzhqOTBFMXFnNFRFWXQxR0FWY2FMS1Z4YkxOTVFZY1doWk9JbjFsTmVFYnczWGdUSENxcS1vVmgyT19EekVFMTRocjZiOUUyT2h1eTlIRThZcGN5Y0pKczVhamN6cWpEZ2s?oc=5",
+     "ts": "2026-11-26T17:16:26Z",
+     "summary": ""
+    },
+    {
+     "id": "a9f2ede0945e",
+     "src": "gamesbeat",
+     "src_name": "GamesBeat",
+     "outlet": "",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "Rockstar’s UK workers vote against unionization",
+     "url": "https://gamesbeat.com/rockstars-uk-workers-vote-against-a-union/",
+     "ts": "2026-11-26T17:36:00Z",
+     "summary": "The U.K. workers at Grand Theft Auto VI maker Rockstar Games voted against a unionization at the Rockstar North location the U.K. The deal... The post Rockstar’s UK workers vote against unionization appeared first on GamesBeat ."
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 100,
+   "level": "HIGH CONFIDENCE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Разработчики GTA 6 проголосовали против профсоюза после релиза",
+    "summary": "Разработчики GTA 6 проголосовали против объединения в профсоюз после выхода игры. С 12 по 26 ноября голосовали более 1600 сотрудников Rockstar в Великобритании. Об этом сообщает Rockstar INTEL.",
+    "idea": "Коротко объясняем, что значит отказ от профсоюза для команды после релиза — и почему это важно игрокам. Берём угол «что будет с кранчем и условиями дальше», чтобы зацепить тех, кто следит за судьбой игры.",
+    "hook": "GTA 6 вышла — и 1600+ разработчиков Rockstar сказали «нет» профсоюзу.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T15:31:21Z"
+   },
+   "msg_id": 2365,
+   "upgraded": true
+  },
+  {
    "id": "68ad6332ea8b",
    "title": "GTA 6 PC port hits 20 FPS just days after drawing one frame every two seconds",
    "first_seen": "2026-11-26T11:01:37Z",
@@ -386,84 +478,6 @@
     "at": "2026-11-26T16:40:59Z"
    },
    "msg_id": 2375
-  },
-  {
-   "id": "17dbdd9e222f",
-   "title": "GTA VI developers vote against unionization",
-   "first_seen": "2026-11-26T15:31:09Z",
-   "updated": "2026-11-26T17:40:46Z",
-   "items": [
-    {
-     "id": "17dbdd9e222f",
-     "src": "rockstarintel",
-     "src_name": "Rockstar INTEL",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 55,
-     "alert": true,
-     "title": "GTA VI Developers Vote Against Unionization Following Battle With Rockstar",
-     "url": "https://rockstarintel.com/gta-vi-developers-vote-against-unionization-following-battle-with-rockstar/",
-     "ts": "2026-11-26T15:27:53Z",
-     "summary": "GTA VI developers have voted no unionising following the game’s launch. This is was almost a monumental moment in not only the UK video games space but the entire industry. Over 1600 Rockstar Games employees who worked on the new game Rockstar Games permitted over 1600 UK-based staff to vote from November 12th to 26th [...] The post GTA VI Developers Vote Against Unionization Following Battle With Rockstar appeared first on RockstarINTEL ."
-    },
-    {
-     "id": "b08273ee440b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Verge",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA VI developers vote against unionization",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuU0xoeDJ2OXRRRWtxR3NybjRReHJXcS00bVlZbWdCTkN1Sk5INThNMUZMeEVFYVpCeS1ZTUhHSU0yWXI5QU9saG8zQ1BHWVdrMTdyQUx1T1JRNjMxTUUwZC12UllpOWZhUUtpd2ZQTHRabndqdWFHOA?oc=5",
-     "ts": "2026-11-26T15:55:24Z",
-     "summary": ""
-    },
-    {
-     "id": "86fbaf4b4384",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Majority of Rockstar Workers Vote Against Unionization",
-     "url": "https://insider-gaming.com/rockstar-workers-vote-against-unionization/",
-     "ts": "2026-11-26T16:11:15Z",
-     "summary": "A new update has revealed that 75% of the workers at Rockstar Games UK have voted against unionization. Here are more details. The post Majority of Rockstar Workers Vote Against Unionization appeared first on Insider Gaming ."
-    },
-    {
-     "id": "83a838843008",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Developers Have Voted Against Unionization by 75% to 25%",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkbmRoY3JwQzhqOTBFMXFnNFRFWXQxR0FWY2FMS1Z4YkxOTVFZY1doWk9JbjFsTmVFYnczWGdUSENxcS1vVmgyT19EekVFMTRocjZiOUUyT2h1eTlIRThZcGN5Y0pKczVhamN6cWpEZ2s?oc=5",
-     "ts": "2026-11-26T17:16:26Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Разработчики GTA 6 проголосовали против профсоюза после релиза",
-    "summary": "Разработчики GTA 6 проголосовали против объединения в профсоюз после выхода игры. С 12 по 26 ноября голосовали более 1600 сотрудников Rockstar в Великобритании. Об этом сообщает Rockstar INTEL.",
-    "idea": "Коротко объясняем, что значит отказ от профсоюза для команды после релиза — и почему это важно игрокам. Берём угол «что будет с кранчем и условиями дальше», чтобы зацепить тех, кто следит за судьбой игры.",
-    "hook": "GTA 6 вышла — и 1600+ разработчиков Rockstar сказали «нет» профсоюзу.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-26T15:31:21Z"
-   },
-   "msg_id": 2365
   },
   {
    "id": "90e1b8bbca3a",
@@ -167661,714 +167675,20 @@
     "model": "GigaChat-3-Ultra",
     "at": "2026-11-19T18:10:55Z"
    }
-  },
-  {
-   "id": "5cc9586c6579",
-   "title": "AP reporter shares first impressions of GTA 6 on release",
-   "first_seen": "2026-11-19T07:10:54Z",
-   "updated": "2026-11-19T18:01:12Z",
-   "items": [
-    {
-     "id": "5cc9586c6579",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Audubon County Advocate Journal",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "AP reporter shares first impressions of GTA 6 on release",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1d6NDgyTWFRRldmQmtLUFhXM1dQR0xnbHBseTFQNlhIWV9KbEZVdTBVOUdNb0dxMG9YMkVLWHNNaS1MM1JBaUhTOUhCbWdvN0Zyd1RkOV9FcWxvNm5OQUpvTVFhNGxvQ04xVUp6X0g1bDh5aWMtTmJKcndSNmQ1UlRLTG80dm8?oc=5",
-     "ts": "2026-11-19T06:45:24Z",
-     "summary": ""
-    },
-    {
-     "id": "eb6abd7640c0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Daily Gate City",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "AP reporter shares first impressions of GTA 6 on release",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS1ZyQ3B3cVNaQXgyVkJJWVhCb1l6c0NBbEVHQXJWMmpGaUVNUWdJR0xoN3ppTk5IeF9OcHg5ZlZvR21rOHg3MXpnSjdHbmQ0SFRYbkgzSXRzUDU4QWUwLWZiUFFRU3hzYmpGb1o1dEc3UFRsdDVtcE5sRW1NV1ZaSEJqanc3aTR2aWZJMVJkSWdTdjg1eTNfYXoyRG90eldaUndpeDAwTmhzbFlQWW84UlZvcEFRdjBsX1djTUItYjRPaWRnUWs4NG1vemxoV0ZxR2psWS1veE1iNEEtTVItQWJB?oc=5",
-     "ts": "2026-11-19T06:45:24Z",
-     "summary": ""
-    },
-    {
-     "id": "b504a1d0910e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Complex",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Grand Theft Auto VI': First Impressions",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS3lsUnhXeU1Nb2t0ZS13dlpva01PUzdlc245ZjFWRjBFU0pYaTUtWWgxSFBHR1o5ZFBEbWEtdUpBSl9xNmRRVDlkNjFVVGhydXc4c3FvNU54M2hPRU5PelRaQzJrSUhVZ013Z1FQUW4yWFRnQ3h3VTdrVlhDc2Nkc0JJT2JzUTEtX25TMC1hdw?oc=5",
-     "ts": "2026-11-19T17:47:40Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️ Первые впечатления AP: GTA 6 на релизе",
-    "summary": "Репортер AP поделился первыми впечатлениями от GTA 6 в день выхода. По данным AP, игра ощущается масштабной и живой, без технических подробностей. Об этом пишут The Audubon County Advocate Journal и Daily Gate City.",
-    "idea": "Короткая реакция на живой отзыв AP: что зацепило в первые часы и почему это важно в день релиза. Зрителю — быстрый ориентир по настроению игры без спойлеров.",
-    "hook": "AP уже поиграл в GTA 6 в день релиза — вот что зацепило.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T07:20:54Z"
-   },
-   "msg_id": 1443
-  },
-  {
-   "id": "b2a0a6e3a07f",
-   "title": "GTA 6 release: Here's how the sports world will be affected by the most anticipated video game of all time",
-   "first_seen": "2026-11-18T19:10:50Z",
-   "updated": "2026-11-19T18:01:12Z",
-   "items": [
-    {
-     "id": "b2a0a6e3a07f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 release: Here's how the sports world will be affected by the most anticipated video game of all time",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQkhyYTYyTl93VkxxVWFud2taQXBKVks5TmdabmFBU2xuYTRPb2l2WmFWbXFfaWNGT2ZFR0FWRXdNWUhmTTlzLXpGcFRlMnFjZ2E0aHpZaGM2MTZBX3QyUUNjV1NOWWg4c1JybWlwZ29TZzlQOXBidHRqNXNldUlhT1VKdENod2NnOGVqUzBjeEdWeFZCTjhnS0RQemJuS2xjSm9MQnRSUzhNMUttRXJzR3pwTlBGWVRoQ2ZOWFJQVEp2cE5qZ2w1UkdOeHEtV3BRZHpHaGd4WEZMM3ZfVmhLT3NIQ2RRTE0?oc=5",
-     "ts": "2026-11-18T19:03:45Z",
-     "summary": ""
-    },
-    {
-     "id": "57e254646e4a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Bleacher Report",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Video Game Release Celebrated by Sports World",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNzEzVDFQQUlubHJSMVBPa2hIYW5KNGlRdG9mR3d3b1NMMXo4MXh6M01EbktnRm1hT2ZDQUhraGhZYlQwUWVOQVNRNTdkTzQtOWdhOGlicU5TZHpBN1AzS19UUXd0cnRsM1JzM3pJVEotTTQ0QW9ULWZqSHVDcTVrYXktcFpwNGEzdVdtTUZmMGpOQVJQTVIwQ0xFM3h5TWpkTVlqck1WWGtudVk?oc=5",
-     "ts": "2026-11-19T17:56:40Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "7b474ffdf789",
-   "title": "It’s only fitting that GTA 6 is coming out on the anniversary of infamous Malice at the Palace between Pistons, Pacers",
-   "first_seen": "2026-11-19T18:01:12Z",
-   "updated": "2026-11-19T18:01:12Z",
-   "items": [
-    {
-     "id": "7b474ffdf789",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "It’s only fitting that GTA 6 is coming out on the anniversary of infamous Malice at the Palace between Pistons, Pacers",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhOWwxWEMyVC1wbG9zcUlSZjNYM29HYThLMjNmdVJNLW9qaE1GY2llQ1Fobm1CVDk5Q0hRanFoQktfY2hUWVhjMnVkWko0cXhqeUJ5dmZ0Y2R4d3BDbXFqeGhicUxBTzFnejF5YnFSTVhfcjc2bFZ4N3ZNaktfVlk?oc=5",
-     "ts": "2026-11-19T17:44:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a3befb9a52f7",
-   "title": "GTA VI is out after 13 years: What were Arizona sports team doing when GTA V released?",
-   "first_seen": "2026-11-19T18:01:12Z",
-   "updated": "2026-11-19T18:01:12Z",
-   "items": [
-    {
-     "id": "a3befb9a52f7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Arizona Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI is out after 13 years: What were Arizona sports team doing when GTA V released?",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN0pZS1dWdjdJT2xSTE50SThad1hYcThaejRMcktlcW9XWDM4OW5Way1vVXA5cjJGMXhCVlpqMXRMcmo4WXdaaHdfb2RGbHlRUkxXWkRfajh0enBOS0pUclpBN3JobXpmV1dKRkZfdzBEUHl5LXg3WjNjRV9YMWJzY3JOMnp5a084ckc0ZFl6Mjh5NEVVS1ZfMXlNYlVpXzQta241alhfZGZuUlhGZHk1OWp6TDRpcnRMZXpHZGlKTTB6by1ndWVPUGtNazk?oc=5",
-     "ts": "2026-11-19T17:47:59Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1203f0219849",
-   "title": "Jon Jones & Josh Hokit continue war of words, GTA 6 review, UFC Qatar preview | The Boys in the Back | November 19, 2026",
-   "first_seen": "2026-11-19T18:01:12Z",
-   "updated": "2026-11-19T18:01:12Z",
-   "items": [
-    {
-     "id": "1203f0219849",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Jon Jones & Josh Hokit continue war of words, GTA 6 review, UFC Qatar preview | The Boys in the Back | November 19, 2026",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMFBIRi1Qdmw0VUliME11Q0JWOTlfTWFUSWdsSlRtYWw0U1hvNVkwb1pDNkJYNFctcm1XWV9RSFI5bFJ6R2tzSzZyeXU3dl9wWHpNS3NvcXhuelZhdGJOUEM1cjdRZ09jcUItd0xKRGlsVzd1NjhKSDdUR0o5RkNpUFhxaUJIZGNyQ3dqclNwbGhhaXh3SnJST2Z3Wmwtd2pKbW56Tk9TVVZGU3hUUURvLVBLNlN5WE1uOF9DaHpaR3hlWHpFaFVwU3FxMG9YbUEzOTdNa1d4bjA3Z1ZOd0dObXpzLWlnRndGRTcwMXNEZlZoUQ?oc=5",
-     "ts": "2026-11-19T17:49:10Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5312858d2459",
-   "title": "Did you call in sick for GTA VI?",
-   "first_seen": "2026-11-19T18:01:12Z",
-   "updated": "2026-11-19T18:01:12Z",
-   "items": [
-    {
-     "id": "5312858d2459",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KSAT",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Did you call in sick for GTA VI?",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd2dIbkhNS1hnc3pfVUMtZHNoTVFabGJ6eUUzMGlCdGVpZ1RlemQtbmNoU0EtT2NfclZlbmhVYkV6MnlRcG96T1ZmOWNsbkVOdURVNlFqUEhDU01rNktUN1VfcVl1QVdnaWw2NTJYNVZfalJUekdyZzBfVEUxT2IyWQ?oc=5",
-     "ts": "2026-11-19T17:51:52Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8ee3771aa7bc",
-   "title": "GTA 6 and cheating: People are making a strange accusation about the game. I have an official ruling.",
-   "first_seen": "2026-11-19T18:01:12Z",
-   "updated": "2026-11-19T18:01:12Z",
-   "items": [
-    {
-     "id": "8ee3771aa7bc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Slate",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 and cheating: People are making a strange accusation about the game. I have an official ruling.",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2FkLVNpSUN1Z3dMTnlwUTJWRGFMdUZqTmZfNlFSNWx1X0Vra3YwWnl6bWlnazNqcDVhTGdDTTVoR0MwOVdJal9FdnhYU2tSQk5kVGMwOF90SDNYZV9Ka2NnOW9JNFlJYVRMZWhrazN2Q204VnFKZjVrcUJrLWJLRUMyb1ZtSG1BSEJLYg?oc=5",
-     "ts": "2026-11-19T17:54:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "36d78a1d823f",
-   "title": "GTA 6 Ships as 1,600 Rockstar Workers Vote on a Union",
-   "first_seen": "2026-11-19T18:01:12Z",
-   "updated": "2026-11-19T18:01:12Z",
-   "items": [
-    {
-     "id": "36d78a1d823f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "shattered.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Ships as 1,600 Rockstar Workers Vote on a Union",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPME40YXZQTllFcFV6eXlrc0haQ3IyaWx6djhBLTJCVERFY041RnJiZ0h5dlRudU5wNUdxN01fRno0X202bGZpbUpZU3hheGxSeGNUcUxtUzBLalBoYVFFUEdnQVB6QnZSZmxLTllfY0pxUDlqWC00cFpYTFV1Vno0Nw?oc=5",
-     "ts": "2026-11-19T17:54:32Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a152fbc5b5fb",
-   "title": "GTA 6 hype builds as Las Vegas gamers reflect on franchise's cultural impact",
-   "first_seen": "2026-11-19T18:01:12Z",
-   "updated": "2026-11-19T18:01:12Z",
-   "items": [
-    {
-     "id": "a152fbc5b5fb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KSNV",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 hype builds as Las Vegas gamers reflect on franchise's cultural impact",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnlSVXBsc04wS2oyQldFOExwZ3VQak5TdDVHSmtTZmhtOUVuSFBhVGl2dHFWZTdYUmJ1OFc5d2Q4dHlNUDVzWEJqNE02cXZDTGJYd044ajRiVy13WmNHbTVDeGJfdnpPV1RFbjhQbDcyWmVqNWhhYkhfbzM3UDUxQU5Va19jUGxSbWVKcUhpamVSWXN6ZkRSUlVpU0pjOVVSdEdMR2U2LWI?oc=5",
-     "ts": "2026-11-19T17:57:51Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "afafedee7234",
-   "title": "GTA 6 Is Already Breaking Twitch Records",
-   "first_seen": "2026-11-18T18:20:48Z",
-   "updated": "2026-11-19T18:01:11Z",
-   "items": [
-    {
-     "id": "afafedee7234",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Is Already Breaking Twitch Records",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sNzd2OFhhSzR4TUZQaUFRZHkxWk5QemJwTVQxcm43RkNhdWxlMmcwS0N6dWNEbTR0ZUhxQW5vYzF1MUVBVkc2YnVNdUpydThJV2gyMXpnMEhJQTByY21yX3JHV0pFOEt4SXEybUM5OU03SVpQLWFYX1pn?oc=5",
-     "ts": "2026-11-18T17:52:28Z",
-     "summary": ""
-    },
-    {
-     "id": "4db3d95b7c9a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WZZM13.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Release of 'Grand Theft Auto VI' already breaking records",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeE9idFZ5VHRXQWZaeUZDb3JlbzViT1p4Yk95d2hYenE2VDBVN1VsWmpyU3ZoU3RadkxjVm1OM0ZQa2dwTWU4VjZGU2N3dmRoVGJKMFhGTFFQZFNTVDFQNzl1ZURBOElnUkg0ZzNQdjBPYjFseG5ab0xOT3Vha3pvVUdvdk5WUTJ0aWNOOUg3ampWUnI4SndHYnV6YXFDQ1dVaWFZa05jVmF4eXlYZHFFZzExcTZVbVg5WHdwdEw3M1JadmUyX0RjSjd1b3JMdU5q?oc=5",
-     "ts": "2026-11-19T12:32:00Z",
-     "summary": ""
-    },
-    {
-     "id": "3f8a9e75789f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KITV",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 is here after 13 years and it's already breaking records",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEZkMWdGaUxxWkcweWM2VFNzUGtTT3dxSGkwTmVsYlNTRUFsUkU0eTd4VHdybF9HempIeVpiZExpY3pRZlZOOVBMbDd5YXFZZVl0VlZHWXNZR25ZMXVLVXpGR0dJTlVjM3dpLXJXaUVEb0lTaC1jVnFEOWFCalRVeDd1eHdWSGMyMGpHNm4zeEhQQWtvWTFpUE5wSHI0QmU3X2JaalBla1lmV0pmTWRyTE5LcVczbjFwUFNsT1lRZ1oxVS1KZVZaVXE1d295QUFqWTBpdG1nbU0?oc=5",
-     "ts": "2026-11-19T17:41:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "669d3aa0b1bc",
-   "title": "‘They Better Give Him One,’ ‘Absolute Goat in Life’ — Erik Spoelstra’s GTA 6 Plea Has NBA Fans Loving the Heat Coach",
-   "first_seen": "2026-11-19T18:01:11Z",
-   "updated": "2026-11-19T18:01:11Z",
-   "items": [
-    {
-     "id": "669d3aa0b1bc",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘They Better Give Him One,’ ‘Absolute Goat in Life’ — Erik Spoelstra’s GTA 6 Plea Has NBA Fans Loving the Heat Coach",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2stZ3hxZzEwSXh0UVd4SHhmN3hra20yRGZIWDdfWEg2dGVsbG1YX09qMkxvcUktSllWSGZNN2RpMFVPNEtyZXJjaWpNcVlnelBIYTJxdmxhbHFkTHlDR09kWDltVkVLRURsWmI4ZUlCQl96aXRUT2xJNUZUanVlOHRlZw?oc=5",
-     "ts": "2026-11-19T16:12:10Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a04725e79c07",
-   "title": "Разработчики Atomic Heart и Owlcat отпраздновали релиз GTA VI — представили промо-арт в стиле обложки и показали поездку в Вайс-Сити",
-   "first_seen": "2026-11-19T17:51:00Z",
-   "updated": "2026-11-19T17:51:00Z",
-   "items": [
-    {
-     "id": "a04725e79c07",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Разработчики Atomic Heart и Owlcat отпраздновали релиз GTA VI — представили промо-арт в стиле обложки и показали поездку в Вайс-Сити",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZkVaX2pMREZUUFBlck1QZWFtRTF4dmdUMzE4STlXdG1OMG1FQzVsbUpkeHR1c0xSWGlBYVAyOGQtX24zSnF0VV96bExsVXo5YzJVNlBfRXdhdVBTSmo1YkVvLXQwR3hQUWhKMFZ3WC1SZVQ5ZEZkSHhNYnZ1VVN0VGg4QU9EODM2Mi14ZS1reHZXSUlic0dOTVhGZXg2UVFQbk5nMGJwUTZQM2oyLWNWOUZUX190NWlBa09HQzBtU25EVjRTekxmeW1zSXJXV0JTQXAxcHJUT1lUMWVxc1M5ZEo3ZXRMa2FRS2VKekVnOC1YdU1ZU1JsZldBY2pwMzjSAYQCQVVfeXFMTUdOQkNVVXNvUmQ5MGZjTWNWWjZmWDNTeHVVenpoazNCZXFXWTFEYXlBbHRCUU14enlZYk9hS0tVanItRmtDM3NaSDhxU29qOU9SSENHTXRNcWU3ZEFzeUxFRGR6VDFKeUoyeC1ZMXVtRjlQZ0ktOHdIR0d0UE9WSmlkRFVFenAzSmFmVF82YWtFdUdwMGxZNWU1dUFOTjM1RkNhOUxZbWFXcWU2X0NyMDBrRjBCOGtpSTZ6YVhzYlR2TzJwcEZER0ZkbEZORVRRZ3l6MXFVRVo1ZHp5dWo3MEpEZkhhSFBjSmRXLUxUNjNuYnpkRVd5aFAtUnpCRTVqRF9kdFo?oc=5",
-     "ts": "2026-11-19T17:26:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a821aa65ab32",
-   "title": "GTA 6’s Best-Kept Secret Is the Most Important Part of the Game",
-   "first_seen": "2026-11-19T17:51:00Z",
-   "updated": "2026-11-19T17:51:00Z",
-   "items": [
-    {
-     "id": "a821aa65ab32",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6’s Best-Kept Secret Is the Most Important Part of the Game",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RM3NNMDlRZFRDQlJNMl9Hb0VhZXp6dHgyaHlmQV9EbXkxdXBLNlFyYXVzcVBXTFhmUTUyYXVVbEdCdFFnUVBYdnJWaEtoV1RBU05wUGVzUnY?oc=5",
-     "ts": "2026-11-19T17:31:18Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "dfd077d354e6",
-   "title": "Everything We Know About Manni L. Perez, ‘GTA 6’ Female Lead Lucia Caminos",
-   "first_seen": "2026-11-19T17:51:00Z",
-   "updated": "2026-11-19T17:51:00Z",
-   "items": [
-    {
-     "id": "dfd077d354e6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "TODAY.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Everything We Know About Manni L. Perez, ‘GTA 6’ Female Lead Lucia Caminos",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWgwYkRrclRhLU92SlpsdDlTU2pSQTRKTnJJRHNpZTVwYkFPSGJ3cms3YjJjOVQxaVpHb0NmbGdFZ2E0Tl9qUGNCWmJBT1lZN0lvckQzck1kXzQwejlDcUdEanZVYjNmWGpGUVVWX0ducXVQdm5xZjlNR2VMcl9GLXNWbTVGN1Y5Skw1ek56WkZoNDlwRExRa2MwcWpfei1aZjBz?oc=5",
-     "ts": "2026-11-19T17:35:53Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e892bb99c6a9",
-   "title": "GTA 6 is only going to get better from here",
-   "first_seen": "2026-11-19T17:51:00Z",
-   "updated": "2026-11-19T17:51:00Z",
-   "items": [
-    {
-     "id": "e892bb99c6a9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "PC Gamer",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 is only going to get better from here",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaW1FZXdSSGdvRXh5NUw5NEtlMndQbGFLNkJyRUg2SUhjdlludDM2TkxFM1Z3RkNtRXAyQUJWVGJBLUJRSjFtU3B5SnFmMGtWTHI0cDlkbUR1Z2RIRDZ5bUNXaGEzdzZEbUVaeWxIMnc4djB4U0JodmJ5ZFRCcExuNGZqSWxWTWNfdVNRc0NYSkJwY2EtdXhzdnFJZHNIUElfdklFbXk0STNjdjNQWjlkcERoamw?oc=5",
-     "ts": "2026-11-19T17:40:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 будет только лучше: что пишет PC Gamer",
-    "summary": "PC Gamer пишет, что GTA 6 будет только улучшаться после релиза. Издание отмечает потенциал игры и ожидания игроков.",
-    "idea": "Коротко разбираем тезис PC Gamer и показываем кадры GTA 6. Зрителю важно понять, что игра будет расти после старта.",
-    "hook": "PC Gamer считает, что GTA 6 только начинает — вот что это значит для нас.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T17:51:08Z"
-   },
-   "msg_id": 1572
-  },
-  {
-   "id": "d35bc262c817",
-   "title": "FOR THESE GUYS, GTA VI IS SERIOUS BUSINESS",
-   "first_seen": "2026-11-19T17:51:00Z",
-   "updated": "2026-11-19T17:51:00Z",
-   "items": [
-    {
-     "id": "d35bc262c817",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Wonderland Magazine",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "FOR THESE GUYS, GTA VI IS SERIOUS BUSINESS",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WVGVwcmZSeVhlR3FUdDVwUFdIT2dGZ2tjN21HMEx6bEc1X1Nkb0pBcUhzcEp2LUk1cmFhbk9HcVlXSC1BdjFacXl2emM2bUc4S25YaDR0eW8taE1wdWVTRDV1Zw?oc=5",
-     "ts": "2026-11-19T17:41:55Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "62abc14192e9",
-   "title": "GTA VI is finally here, and it’s already pushing the internet around",
-   "first_seen": "2026-11-19T17:51:00Z",
-   "updated": "2026-11-19T17:51:00Z",
-   "items": [
-    {
-     "id": "62abc14192e9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Poc Network // Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI is finally here, and it’s already pushing the internet around",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHdqWkYyYTRpb2Y4MjRGM25hclBKaWpidE5iSGhIamwyQ05Ualg5TndmQlhRZEZXdHdKVGd5Qzc5VGNvY0tXbEx0Skx3Sm0wcGFuZnVlSE9pTnVzcG15SGVLSWV6cWZCbTlBRlpiWDlnUkNYdTNZQU5fRHZ3R1FFRE44SXFHV2ZXTTRNZ3BUbjl5U19lS09qYUUyQnBqektsbVNiNDl1Z2xWMDRH?oc=5",
-     "ts": "2026-11-19T17:42:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "fc5a7317dbf0",
-   "title": "GTA 6: система чести и пацифистский путь изменяют игру",
-   "first_seen": "2026-11-19T17:51:00Z",
-   "updated": "2026-11-19T17:51:00Z",
-   "items": [
-    {
-     "id": "fc5a7317dbf0",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "dungen.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6: система чести и пацифистский путь изменяют игру",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpcWJxUU5EYmpQNkR6QjljN2M1RGhmWlJucmZSNzl3NE9Zc2xwUTV5elV2em1UWFREem5rYXRDTDcxWXJPUHZod2xBbXZ5Mk54NHZHY1dFeTYwVUpHUUNIV2J3dw?oc=5",
-     "ts": "2026-11-19T17:44:36Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0a572d19b0df",
-   "title": "GTA 6 players are being abducted by aliens and knocked out by Bigfoot",
-   "first_seen": "2026-11-19T17:51:00Z",
-   "updated": "2026-11-19T17:51:00Z",
-   "items": [
-    {
-     "id": "0a572d19b0df",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 players are being abducted by aliens and knocked out by Bigfoot",
-     "url": "https://www.eurogamer.net/gta-6-ufo-bigfoot-easter-eggs",
-     "ts": "2026-11-19T17:48:50Z",
-     "summary": "Grand Theft Auto 6 has only been out for a matter of hours, and players have already tracked down a UFO in the woods and a Bigfoot in the swamps. Read more"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "👽 GTA 6: НЛО в лесу и Бигфут в болотах — в первый день",
-    "summary": "По данным Eurogamer, в первые часы после выхода GTA 6 игроки уже нашли НЛО в лесу и Бигфута в болотах Леониды. Rockstar это не комментировала.",
-    "idea": "Короткая вылазка за 30 секунд: как добраться до леса и болот, где игроки засняли НЛО и Бигфута, плюс реакция чата. Зрителю интересно — это первые мемы и тайны GTA 6.",
-    "hook": "В GTA 6 уже ловят НЛО и Бигфута — и это в первый день.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T17:51:04Z"
-   },
-   "msg_id": 1571
-  },
-  {
-   "id": "18a2a1f5d696",
-   "title": "В GTA VI вы можете залутать ГЕЛИК — для этого вам надо пробраться в защищенный бункер Вот гайд: 😀 Сам бункер находится в Северной Леониде, там вам надо забратьс",
-   "first_seen": "2026-11-19T17:51:00Z",
-   "updated": "2026-11-19T17:51:00Z",
-   "items": [
-    {
-     "id": "18a2a1f5d696",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "В GTA VI вы можете залутать ГЕЛИК — для этого вам надо пробраться в защищенный бункер Вот гайд: 😀 Сам бункер находится в Северной Леониде, там вам надо забратьс",
-     "url": "https://t.me/gta6deluxe/2263",
-     "ts": "2026-11-19T17:50:17Z",
-     "summary": "⚡️ В GTA VI вы можете залутать ГЕЛИК — для этого вам надо пробраться в защищенный бункер Вот гайд: 😀 Сам бункер находится в Северной Леониде, там вам надо забраться на башню с северной стороны и спрыгнуть на крышу 😀 Везде будут мины и дроны, которые лучше сбивать при обнаружении 😀 Находим огромный туннель. Подходим к нему и выскочит подсказка. Выполняете её и к вам добавится новый контакт 😀 Он отключит защиту и скажет, что обновит защиту и позовет вас еще раз проникнуть к нему 😀 После сообщения едем туда же и ищем на полях трактор с прицепом. Подгоняем его к электрическому забору ближе к бункеру и перелезаем 😀 Добираемся до двери и вас ебн#т током, но после этого он откроет бункер 😀 После мужик спросит вас: хотите ли вы остаться или уйти, то выбирайте остаться. У вас упадет отношение с Люсией, но за это вы заберете 5к баксов и ГЕЛИК Перед выполнением всех этих пунктов, обязательно сохраняйтесь, чтобы не потерять прогресс 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 В GTA 6 можно залутать ГЕЛИК: гайд по бункеру в Северной Леониде",
-    "summary": "По данным канала @gta6deluxe, в GTA 6 можно залутать ГЕЛИК, пробравшись в защищённый бункер в Северной Леониде. Нужно забраться на башню с северной стороны, спрыгнуть на крышу, сбивать мины и дроны, найти туннель и выполнить подсказку — тогда появится контакт, который отключит защиту и позже позовёт снова.",
-    "idea": "Короткий гайд: как добраться до бункера, обойти мины и дронов, спрыгнуть на крышу и вызвать контакт для лутания ГЕЛИКА. Зрителю интересно — редкий транспорт и понятные шаги.",
-    "hook": "Хочешь ГЕЛИК в GTA 6? Вот быстрый путь в бункер Северной Леониды.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T17:51:11Z"
-   },
-   "msg_id": 1573
-  },
-  {
-   "id": "9d2c647da4c8",
-   "title": "Anitta, Bad Bunny and RaiNao lend voices to 'Grand Theft Auto VI'",
-   "first_seen": "2026-11-19T17:10:17Z",
-   "updated": "2026-11-19T17:50:59Z",
-   "items": [
-    {
-     "id": "9d2c647da4c8",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "upi",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Anitta, Bad Bunny and RaiNao lend voices to 'Grand Theft Auto VI'",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOblZhOEJMMkdZYTYyTWlmREtuMVk1RXFOZDhLSUxtcVgxeE5DcWxuOFFNUHhzb0xOUGhlcTFNX2lRS2htN3VqVHE1VFVMekMtUTRIR1JrQ1hyM2YyWHNlaXJSX1lWR1ZJNDBBUlRNTnVQTDEwUzFRbGdvQ1BlaWFYYm9valNabDBDM2V1bC1FZWpRa2ZDM2pTOTBCT1V0a2_SAaQBQVVfeXFMT1I4dlZkT3RRSlFuRjFob3dwVUd6VVh0bnFLSlljbDR5X2pYM1U1YnJuRVBnMkl5Vk1iVU5kUi1JZmtuQTk5a2o0MmlsSmwtY2JMX3VUMVR5bkF2ZFlVRkFIMnZCaDBrdjQ2dlNmcGFhM1J4VUlpVVlFS3dsem5QdDhRODMwcjBwU3VvdWNQRG5kN3ZJUUNVcEdkamNUWWUwUTNyYk8?oc=5",
-     "ts": "2026-11-19T16:26:09Z",
-     "summary": ""
-    },
-    {
-     "id": "6ec48175d16e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "upi",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Anitta, Bad Bunny and RaiNao lend voices to 'Grand Theft Auto VI'",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWRnVEFzbmlKa09uUGxycWxXRmdhaThZZnJhNTVVOElkNlE2ZnFKYVFGR2xkSTV0R0hUS1VaSTJDdjFFWmZhc2U1VDc2YklCRjd0bklva1pzU2RGWEpZYmpHUW94RnBEZVA1SmV6NWZ5QzV0dEtua3VfT3N1NE5qTEdPcklkN0xyNzRZQ0h2bUl6NVd5NDFHczdCbHNvd9IBowFBVV95cUxNeUp5Wnh5UGFKbV92QzRGUWYwTFFLMWU4d0R3amJKZzRadElmWERwRFoxNzFyaktNdUd0Y09oQUx4dkE0LUdLckZkZHFkMHk3eXhNZDVTakVMZUtlTUppcTZDVzRBdjFOUTNwSm1ENnlhN0Nqd2JnN2J1TjRaMi1iZU83VFRJUzN5eWFCZnlMemRkcHVuS3RKQTZOS3lRV3hKeHhn?oc=5",
-     "ts": "2026-11-19T16:26:09Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1a72597c84c2",
-   "title": "Mbeumo Posts GTA 6 Screen at Midnight Before Pochettino's First Training",
-   "first_seen": "2026-11-19T17:50:59Z",
-   "updated": "2026-11-19T17:50:59Z",
-   "items": [
-    {
-     "id": "1a72597c84c2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Mbeumo Posts GTA 6 Screen at Midnight Before Pochettino's First Training",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2a3NGWEZmOTMxaXFsY2QwYzViT3RkWGdfSlVMSXdFWndJRUpLZUhlNmIwN0RCeUxNRlZUdURlTzhhMnAyOXlLbmVFTFZxVHVpaWVaT2pKbFVIb21HZERNSWRTWTd4YXZOcGg1NF9DZVpxdVhoWG9XYXJDUjlNOGc?oc=5",
-     "ts": "2026-11-19T16:58:53Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-26T17:50:52Z",
+  "last_run": "2026-11-26T18:01:14Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 97/100",
-   "gnews_ru: 98/100",
-   "gamesbeat: 2/10",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
+   "gnews_ru: 99/100",
+   "gamesbeat: 3/10",
    "vgc: 9/10",
    "insider_gaming: 6/10",
    "ign: 7/20",
-   "eurogamer: 14/100",
+   "eurogamer: 13/100",
    "dexerto_gta: 10/50",
    "rockstarintel: 8/10",
    "gtaboom: 30/30",
@@ -168378,7 +167698,7 @@
    "tg_gta6_m: 3/5",
    "tg_gta6newsdaily: 1/19"
   ],
-  "digest": "2026-11-26@9",
+  "digest": "2026-11-26@21",
   "tg_offset": 854319078
  }
 }
