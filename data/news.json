@@ -1,6 +1,350 @@
 {
  "stories": [
   {
+   "id": "8ed6d4dbc7d4",
+   "title": "Can You Continue Playing GTA 6 After The Ending?",
+   "first_seen": "2026-11-26T16:01:11Z",
+   "updated": "2026-11-26T16:10:53Z",
+   "items": [
+    {
+     "id": "8ed6d4dbc7d4",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Can You Continue Playing GTA 6 After The Ending?",
+     "url": "https://insider-gaming.com/can-you-play-gta-6-after-finishing-it/",
+     "ts": "2026-11-26T15:47:51Z",
+     "summary": "Are you wondering if you can play GTA 6 once you've completed the story? Find out how the endgame works here. The post Can You Continue Playing GTA 6 After The Ending? appeared first on Insider Gaming ."
+    },
+    {
+     "id": "3066065b82f0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Can You Continue Playing GTA 6 After The Ending?",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82aDEyUTVlN2NUWkxXMzF0bDhWNzlpQTBxM3c0TFprVFpRT3lGLW1rVmV1QkQ0bEFZRU56Z2czOVkxX2RLYlRJQ0liMHZhS0xQeGVoMjQ0Y1dDSHZWUUcyYW5WbWw1VDZRaGJDajZuVXZXdWc?oc=5",
+     "ts": "2026-11-26T15:47:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru",
+   "ai": {
+    "title_ru": "Можно ли играть в GTA 6 после финала? Что известно",
+    "summary": "По информации Insider Gaming (Tom Henderson), в GTA 6 после финала можно продолжать играть в открытом мире. Детали пока не раскрывают, но обещают, что после титулок игра не заканчивается.",
+    "idea": "Коротко объясняем, что после финала GTA 6 не заблокируют мир, и задаём вопрос: чем займётесь после титров — фриплей или сайд-квесты.",
+    "hook": "Финал пройден — мир GTA 6 закроют или оставят открытым?",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T16:11:01Z"
+   },
+   "msg_id": 2372
+  },
+  {
+   "id": "3c41d59ee2eb",
+   "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
+   "first_seen": "2026-11-26T15:31:08Z",
+   "updated": "2026-11-26T16:10:53Z",
+   "items": [
+    {
+     "id": "3c41d59ee2eb",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
+     "url": "https://www.ign.com/articles/rockstar-north-chief-was-praying-gta-6s-big-story-reveal-stayed-under-wraps-ahead-of-launch",
+     "ts": "2026-11-26T14:40:51Z",
+     "summary": "Rockstar North has explained why it was so important that GTA 6's big early story reveal stayed under wraps before the game came out."
+    },
+    {
+     "id": "52c65eb7fb9c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQUtmbjJZTWduRFhLMTFQN0Y4Q0Zlckg2Nk54T1YtWXAtU0dlY1hQRTJ0VXBNb2thWDMxQjUzSHlzN3Bja3FJY3RnNHhXdXJUaW9Ud01sSGowcmZPYUtTWGEyT2FzR1BuRE9fNmtxbDk0NUJkUE43aGM3Y2NfNi02THZkWTZYaGFBWF8zWG01OTBPYWVlbFFfaFB2ZFJUc0g4YnRUT1dObHEzM1BkZTE0aGVEQnhrQ1hzSzZ3V3NDcExwRm0yOEFjYUN3aHJyb25PTHg2SDBhZ25Gem5mNjZBNmxwcVJ4Zw?oc=5",
+     "ts": "2026-11-26T14:55:12Z",
+     "summary": ""
+    },
+    {
+     "id": "2ea1e8175884",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVHJadFZSU0x6NEtEMlhNQmNhSEp6eWhGeXprXzFXSFFNcXhCdFUxYkdtMFpVYUxBTUNNd0pKSWxxZlMyNUJEQjR3MmlENGxVeDBialF2clM5MlRsd19SbG1lVE1Dck5vcVQwQklkVTNrVjVzeDhsUklmOTJDVjJJX0hHYmJwN3BiLUpiaERHdGVFMjdyZzRZUkFqVThrbnZNREoxRXhtV21IdExFUndWYjF4bEhPVjc5SGIteA?oc=5",
+     "ts": "2026-11-26T14:40:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "40094d8e59f0",
+   "title": "GTA 6 The Missing Link Walkthrough",
+   "first_seen": "2026-11-26T09:31:25Z",
+   "updated": "2026-11-26T16:10:53Z",
+   "items": [
+    {
+     "id": "40094d8e59f0",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 The Missing Link Walkthrough With Monty's 1992 Pistol Location",
+     "url": "https://www.gtaboom.com/gta-6-the-missing-link-walkthrough-afab",
+     "ts": "2026-11-26T09:24:15Z",
+     "summary": "In The Missing Link, double back after the first attacker to grab Monty’s 1992 Pistol off the photo room floor before leaving with Andrea."
+    },
+    {
+     "id": "fa95884fb65b",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 The Missing Link Walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-the-missing-link-walkthrough/",
+     "ts": "2026-11-26T16:07:11Z",
+     "summary": "How to complete The Missing Link and what to do with Monty"
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "f1585e182dc2",
+   "title": "Главная прелесть GTA VI в том, что в чем-то она даже лучше жизни современного человека",
+   "first_seen": "2026-11-26T16:10:53Z",
+   "updated": "2026-11-26T16:10:53Z",
+   "items": [
+    {
+     "id": "f1585e182dc2",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Москвич Mag",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Главная прелесть GTA VI в том, что в чем-то она даже лучше жизни современного человека",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHlGLVRQNm9FWmZvRzQ1dTBad0pQOHJqNUp0TVNNS0dSMUhmUmoxQmFPQ2x4N0RldlV3NjN6RmxKVnA1akFNakZnNHI5VEI2S1ZNVlV3cVhJb2lsengxcThHWC02ZHE1dFpLdUIta0lDbmI2aGZydU1EUk1WLS1ubk8xTXNsTXlBSjU0b1JWMVRncnlhTWZLYzZfY0IxSDQzUFBxbG9haWQ2M2lWUVVEMW1pbUlOQ1U0Q3l6RjdsVQ?oc=5",
+     "ts": "2026-11-26T13:07:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bf721ee48a0f",
+   "title": "«Добро пожаловать в Вайс-Сити». Да, «Медуза» неделю играла в GTA VI — и это вау",
+   "first_seen": "2026-11-26T16:10:53Z",
+   "updated": "2026-11-26T16:10:53Z",
+   "items": [
+    {
+     "id": "bf721ee48a0f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Meduza",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Добро пожаловать в Вайс-Сити». Да, «Медуза» неделю играла в GTA VI — и это вау",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFZoUk16ZmhScHRlZFdSWUR0bC1xNktSbElZa3F1SnBrd2lDUV90djBJbG1HYTJBendadGpBb2EzNFMyQUQ3cFBQRG9CUnVYMHg4TllvcmZJX1hVSmVrX3BfLWJlcW1lX3RILXdDdjZiRDQ3Q25QUjJQaGdIVHFXQkxDeERmOXN2UER0b0t4YTRSNGNMM0ZZZGx6bmE2Q1dSYzZ0S1doMkxMUdIBrwFBVV95cUxPUk9oRjh6bWJ5MEV2cTJRa3F0dGpvZFRUUC1MNDZsaDlEb0l1S3Rjb005Zmc3NWNOSDR4TVZJY0ZRTzhNYTFyT0g4S0tuTGl4andwY28xdEZLbnJ0TmRiNTQtQURpejNJcmY2QjVWSDNrOVQ5c2RmTHJJWGJIdUhBV2IxVzdZa21rVGZHUng5YnFsRHd5RzB5Z0pqRnU5OTJXSDhURHc1OUhuTy11MUtN?oc=5",
+     "ts": "2026-11-26T14:47:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ddfbf66e9694",
+   "title": "Jorge Martin reveals marathon GTA 6 play time after Portuguese MotoGP podium",
+   "first_seen": "2026-11-26T16:10:53Z",
+   "updated": "2026-11-26T16:10:53Z",
+   "items": [
+    {
+     "id": "ddfbf66e9694",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Crash.net",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Jorge Martin reveals marathon GTA 6 play time after Portuguese MotoGP podium",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWNEZUZMVm1KbWEyV2hsYTlvUmJGcm9XSUFHa053MVlUd3VqV0FVMzl5eDQ4VUhXUDk4WTd4czRneld2alNwVHVRRXdXME91LUJxY0xGNWdoRExZbkZjUnJscEtSN09fcVJUNEVBaVdkZ2pkcllLTDVMNDhicVNlZXRjRWt6eXV2UTRhM3JKWURRT3o2c0MxNG1LdVlNUkNKakVFX2pFYlVrbGVGVXJVRm5ybWotOTZKWFk4Qg?oc=5",
+     "ts": "2026-11-26T15:55:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "dae3f54b4e6d",
+   "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "first_seen": "2026-11-26T16:10:53Z",
+   "updated": "2026-11-26T16:10:53Z",
+   "items": [
+    {
+     "id": "dae3f54b4e6d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "TechCrunch",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ1R3cmlmQUhhMmw5b2Rsc0hZNVhWbEFyVXRFaXM3bVE3NWsta2k2QmFyekZzdDJwd3NJbDZ1bUJ3aVIzdDI4allRbkxvZjVkOXY0a2ZRZHRTM202cjRLWWtmLWRheFJjUHFDbm5rNzhpeHRUNHJLcUFLMEZZaEZMY2RCSkVhNG12TlJycTd6eVljblNEeXFlTWotQlpMRkd2R2hPYTQyYUd1eXhv?oc=5",
+     "ts": "2026-11-26T16:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "188f5487058d",
+   "title": "'GTA VI: The Album' (Deluxe Edition) Adds 23 New Tracks From Travis Scott, Slayyyter and More",
+   "first_seen": "2026-11-26T16:10:53Z",
+   "updated": "2026-11-26T16:10:53Z",
+   "items": [
+    {
+     "id": "188f5487058d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "CelebMix",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA VI: The Album' (Deluxe Edition) Adds 23 New Tracks From Travis Scott, Slayyyter and More",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ3RFdjlaZGpyZXpCbmN2OTVBY21PNmhtcURiblFzR1lNYUFad3lXaUQxSkdYV3lvTFg0ekVKMkZ2TXYtT2Znd0FiZ3VZZEx5NzhESjlYQ3gtY0MxOVhzeFpiQ2o5ek1uaFNuZDViUkk4TktOaVliSUMtZVg0ZEZiWUpuOERDOFJZSEZzNlRlWTFiX0tsMXFEUlFiV0FYblIxWk1yWTFZZkZWejFjQ3c?oc=5",
+     "ts": "2026-11-26T16:01:41Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "4ba73a1304f0",
+   "title": "GTA VI’s launch causes 26% drop in live-service game attention",
+   "first_seen": "2026-11-26T16:10:53Z",
+   "updated": "2026-11-26T16:10:53Z",
+   "items": [
+    {
+     "id": "4ba73a1304f0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesBeat",
+     "group": "media",
+     "weight": 75,
+     "alert": true,
+     "title": "GTA VI’s launch causes 26% drop in live-service game attention",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYjJOYVJYTkt2a1p6eGV5MnZBdXlkNjJMQllPYVlQY0RjWUZocW40ZG1UbVZERFJwSFh4Y1dNTzJUUFB0b2pseXZXNUt5eFhfUTFzbnFfSVZjVkI3Qkp0QmlaV1cwQk1SaU9YenRHNzdubHBVLWRtbFVlWkQ1eHVjZURxeDhDUEdmWGI0?oc=5",
+     "ts": "2026-11-26T16:02:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 75,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 вышла — внимание к онлайн-играм упало на 26%",
+    "summary": "По данным GamesBeat, после выхода GTA 6 внимание игроков к онлайн-играм упало на 26%. Это говорит о сильном перетягивании аудитории в релизные дни.",
+    "idea": "Сравним онлайн-игры до и после релиза GTA 6: график падения на 26% и пара примеров. Зрителю важно понять масштаб влияния релиза на любимые сервисы.",
+    "hook": "GTA 6 вышла — и онлайн-игры потеряли 26% внимания игроков.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T16:10:58Z"
+   },
+   "msg_id": 2371
+  },
+  {
+   "id": "ae9c0a889ecc",
+   "title": "Rockstar постучит в вашу дверь, если вы хотите портировать GTA 6 на ПК За эту ночь они: 😀 Роки въе#али команду Leonida, которая занимались портом Xbox-версии на",
+   "first_seen": "2026-11-26T16:10:53Z",
+   "updated": "2026-11-26T16:10:53Z",
+   "items": [
+    {
+     "id": "ae9c0a889ecc",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "Rockstar постучит в вашу дверь, если вы хотите портировать GTA 6 на ПК За эту ночь они: 😀 Роки въе#али команду Leonida, которая занимались портом Xbox-версии на",
+     "url": "https://t.me/gta6deluxe/2446",
+     "ts": "2026-11-26T16:04:12Z",
+     "summary": "❗️ Rockstar постучит в вашу дверь, если вы хотите портировать GTA 6 на ПК За эту ночь они: 😀 Роки въе#али команду Leonida, которая занимались портом Xbox-версии на ПК. Им снесли GitHub, Discord и Kick 😀 Множество других команд по портированию сообщили на…"
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
    "id": "f4d6602a0e04",
    "title": "GTA 6 runs at 25 FPS on PC",
    "first_seen": "2026-11-26T13:31:07Z",
@@ -432,34 +776,6 @@
    "msg_id": 2370
   },
   {
-   "id": "8ed6d4dbc7d4",
-   "title": "Can You Continue Playing GTA 6 After The Ending?",
-   "first_seen": "2026-11-26T16:01:11Z",
-   "updated": "2026-11-26T16:01:11Z",
-   "items": [
-    {
-     "id": "8ed6d4dbc7d4",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Can You Continue Playing GTA 6 After The Ending?",
-     "url": "https://insider-gaming.com/can-you-play-gta-6-after-finishing-it/",
-     "ts": "2026-11-26T15:47:51Z",
-     "summary": "Are you wondering if you can play GTA 6 once you've completed the story? Find out how the endgame works here. The post Can You Continue Playing GTA 6 After The Ending? appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
-  },
-  {
    "id": "85d68ec74ad2",
    "title": "Pegassi Toros GTA 6 Location – Where to Find Randy’s SUV",
    "first_seen": "2026-11-25T16:10:59Z",
@@ -765,47 +1081,6 @@
    "score": 50,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3c41d59ee2eb",
-   "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
-   "first_seen": "2026-11-26T15:31:08Z",
-   "updated": "2026-11-26T15:40:45Z",
-   "items": [
-    {
-     "id": "3c41d59ee2eb",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
-     "url": "https://www.ign.com/articles/rockstar-north-chief-was-praying-gta-6s-big-story-reveal-stayed-under-wraps-ahead-of-launch",
-     "ts": "2026-11-26T14:40:51Z",
-     "summary": "Rockstar North has explained why it was so important that GTA 6's big early story reveal stayed under wraps before the game came out."
-    },
-    {
-     "id": "52c65eb7fb9c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQUtmbjJZTWduRFhLMTFQN0Y4Q0Zlckg2Nk54T1YtWXAtU0dlY1hQRTJ0VXBNb2thWDMxQjUzSHlzN3Bja3FJY3RnNHhXdXJUaW9Ud01sSGowcmZPYUtTWGEyT2FzR1BuRE9fNmtxbDk0NUJkUE43aGM3Y2NfNi02THZkWTZYaGFBWF8zWG01OTBPYWVlbFFfaFB2ZFJUc0g4YnRUT1dObHEzM1BkZTE0aGVEQnhrQ1hzSzZ3V3NDcExwRm0yOEFjYUN3aHJyb25PTHg2SDBhZ25Gem5mNjZBNmxwcVJ4Zw?oc=5",
-     "ts": "2026-11-26T14:55:12Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 93,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -10092,32 +10367,6 @@
      "url": "https://www.gtaboom.com/gta-6-sinfrontera-national-bank-walkthrough-67f5",
      "ts": "2026-11-26T09:23:30Z",
      "summary": "Inspect the cameras, man in pink, two elevator guards and panel between the elevators from your lobby table to trigger Raul’s call upstairs."
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "40094d8e59f0",
-   "title": "GTA 6 The Missing Link Walkthrough With Monty's 1992 Pistol Location",
-   "first_seen": "2026-11-26T09:31:25Z",
-   "updated": "2026-11-26T09:31:25Z",
-   "items": [
-    {
-     "id": "40094d8e59f0",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA 6 The Missing Link Walkthrough With Monty's 1992 Pistol Location",
-     "url": "https://www.gtaboom.com/gta-6-the-missing-link-walkthrough-afab",
-     "ts": "2026-11-26T09:24:15Z",
-     "summary": "In The Missing Link, double back after the first attacker to grab Monty’s 1992 Pistol off the photo room floor before leaving with Andrea."
     }
    ],
    "tags": [],
@@ -169343,377 +169592,17 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "830afcfd8a09",
-   "title": "Полное прохождение GTA 6: главы, сюжетные миссии и советы",
-   "first_seen": "2026-11-19T16:10:49Z",
-   "updated": "2026-11-19T16:10:49Z",
-   "items": [
-    {
-     "id": "830afcfd8a09",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "sport-express.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Полное прохождение GTA 6: главы, сюжетные миссии и советы",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRnM2RzcwaWpmcFBvR0FibG1wTXczME44bzJIQmhCaUFubWJlRUpTMDFDMDBLZ204VDRLU1FJQTVuR2dxV0RidldtM2RGUzFJTFNJWXhaWDk2ZE5hZVVEQi1uWlF6ZHFPZDl4YXNkWWpwZXlIeEUxQnlMOW1KWWZLc2FoYkt5bk9ZeHZEa1dDX2VhQkJXMnFEZjZEc2ppYy0takJWYkRuWTJZcFZYbFJsLXVnNjRvUUx3QTd5Vg?oc=5",
-     "ts": "2026-11-19T16:00:04Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ab958e50c9b2",
-   "title": "Two Cool, Hidden Features GTA 6 Doesn’t Explain: Flipping And Sitting",
-   "first_seen": "2026-11-19T16:10:49Z",
-   "updated": "2026-11-19T16:10:49Z",
-   "items": [
-    {
-     "id": "ab958e50c9b2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Kotaku",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Two Cool, Hidden Features GTA 6 Doesn’t Explain: Flipping And Sitting",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXZnS3MwLWtBMS1ELW13WTB5U29JT3ZfNXNCM2VWcG1OVnhwNFlSTUY4LTBSN0tQWFprSjNrNnBIZzEycjJDd3RhbXBLT1B2V2JGVW54QWpfeDFTOHI5UWV3UUJWSVlKMDFmY21uWDhNbk43WTVITEpaOTNvR1Z1akUwM3Y0dDh1MkNiUWY1WUgtcTRnUGEzY2czVXk?oc=5",
-     "ts": "2026-11-19T16:00:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "👀 GTA 6 прячет 2 фишки: переворот и сидение",
-    "summary": "По данным Kotaku, в GTA 6 есть две скрытые механики, о которых игра не рассказывает: переворот персонажа и возможность сидеть на поверхностях. Rockstar не объясняет их в обучении, игроки находят их сами.",
-    "idea": "Покажем вживую, как перевернуться и присесть — без подсказок из игры. Зрителю интересно, потому что это полезные мелочи, которые легко пропустить.",
-    "hook": "GTA 6 молчит об этом — переворот и сидение, которые вы могли пропустить.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T16:10:58Z"
-   },
-   "msg_id": 1540
-  },
-  {
-   "id": "76720253d11b",
-   "title": "Rockstar ввела ограничения на насилие против отдельных NPC в GTA VI",
-   "first_seen": "2026-11-19T16:10:49Z",
-   "updated": "2026-11-19T16:10:49Z",
-   "items": [
-    {
-     "id": "76720253d11b",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Rockstar ввела ограничения на насилие против отдельных NPC в GTA VI",
-     "url": "https://t.me/GTAVIStar/969",
-     "ts": "2026-11-19T16:03:38Z",
-     "summary": "Rockstar ввела ограничения на насилие против отдельных NPC в GTA VI • Несмотря на привычную свободу действий в серии, в GTA VI нельзя будет атаковать всех персонажей без исключения. В частности, под запрет попали посетители гей-клубов и участники протестов. • Их нельзя избивать, расстреливать или давить автомобилем. Аналогичные ограничения действуют и в отношении некоторых других NPC. 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a5eb2b000715",
-   "title": "‘Grand Theft Auto VI’ launch hammers global networks",
-   "first_seen": "2026-11-19T16:10:49Z",
-   "updated": "2026-11-19T16:10:49Z",
-   "items": [
-    {
-     "id": "a5eb2b000715",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Computer Weekly",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ launch hammers global networks",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ21tb1lkSmJEWFQySUZVU1lsLUx6czd2SEsxZ25vbHVrYUN3TlBIbnJPZ1E1cEJRNkZlS21OSEFPcGFrSGVLSG5Sb21zTlBUNjdPSWppcjVyZW1USW83NjE2cDg2a1V1ZVJMYWg0dWNfLVp6dzZ0dnc5V0x5QmFXZnJSajhwOTQwUHVfYUoxSGNXVkNvRkNlY3QxSk4?oc=5",
-     "ts": "2026-11-19T16:06:28Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "79eb924199cf",
-   "title": "Millions of gamers exploited time zone settings to play GTA VI ahead of its launch date",
-   "first_seen": "2026-11-19T16:10:48Z",
-   "updated": "2026-11-19T16:10:48Z",
-   "items": [
-    {
-     "id": "79eb924199cf",
-     "src": "gamesbeat",
-     "src_name": "GamesBeat",
-     "outlet": "",
-     "group": "media",
-     "weight": 75,
-     "alert": true,
-     "title": "Millions of gamers exploited time zone settings to play GTA VI ahead of its launch date",
-     "url": "https://gamesbeat.com/millions-of-gamers-exploited-time-zone-settings-to-play-gta-vi-ahead-of-its-launch-date/",
-     "ts": "2026-11-19T15:50:13Z",
-     "summary": "Ahead of the official launch of Grand Theft Auto VI today, November 19, millions of gamers exploited time zone settings to jump into Vice... The post Millions of gamers exploited time zone settings to play GTA VI ahead of its launch date appeared first on GamesBeat ."
-    }
-   ],
-   "tags": [],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Миллионы игроков взломали время и зашли в GTA 6 раньше релиза",
-    "summary": "По данным GamesBeat, миллионы геймеров изменили настройки часового пояса, чтобы сыграть в GTA 6 до официального старта 19 ноября 2026. Это произошло прямо перед запуском игры в Vice-Сити.",
-    "idea": "Короткий разбор трюка с часовыми поясами: как игроки обошли блокировку и что из этого вышло. Зрителю интересно, потому что это массово, хитро и касается старта GTA 6 прямо сейчас.",
-    "hook": "Релиз GTA 6 сегодня, но миллионы уже играют — как так вышло?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T16:10:55Z"
-   },
-   "msg_id": 1539
-  },
-  {
-   "id": "f015cbdd446c",
-   "title": "“Grand Theft Auto VI” Blurs Fiction and Reality",
-   "first_seen": "2026-11-19T16:10:48Z",
-   "updated": "2026-11-19T16:10:48Z",
-   "items": [
-    {
-     "id": "f015cbdd446c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Bloomberg.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "“Grand Theft Auto VI” Blurs Fiction and Reality",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHdCSzBaTU5BS1JFTmlaNGRwZThZYmdmdkJacUZQM1FldHlsZUlUS3huaWJyOXVEQmoxUXlSWTNNd0pjaXN6RXpIUGZfR3ZDV0JjaU9FUEVKaFlfdURBQW9aQm9ZRTVfNm9CbDdtekRHZWUxRW5YVEhKRGU0ODUtNEpyLW9faVY5OFVMSVpGYXA3MGJwQ1VZ?oc=5",
-     "ts": "2026-11-19T15:51:01Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "39224cb5f9a9",
-   "title": "Denver police warn ‘grand theft auto is still illegal’ amid GTA 6 joy",
-   "first_seen": "2026-11-19T16:10:48Z",
-   "updated": "2026-11-19T16:10:48Z",
-   "items": [
-    {
-     "id": "39224cb5f9a9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Denver Gazette",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Denver police warn ‘grand theft auto is still illegal’ amid GTA 6 joy",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnFFN3M4SGhCdUdIcTBkbzRWb01Eb2xYQi14Wk5McE95Q3NGSTlzbVcwY0JmZVNMenM2aC1YalRvU0REaEdkODZQNUtUZENlcVQ2MU9QR3VEODZ1SDZIS1gyYWYzdmlTcS16aDNZY2JCZ3dPSVJ1SjJJd09wVFU5cDlyQzd5ay0xR1FCbnZyUkRsQjEyMmFJcXA0Q3FqWjdxSHFRWktvT1JLekR1SkE?oc=5",
-     "ts": "2026-11-19T15:55:17Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8ff7bf542e62",
-   "title": "From Trump to Milei: How World Leaders Hijack the GTA 6 Hype",
-   "first_seen": "2026-11-19T16:10:48Z",
-   "updated": "2026-11-19T16:10:48Z",
-   "items": [
-    {
-     "id": "8ff7bf542e62",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Hungarian Conservative",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "From Trump to Milei: How World Leaders Hijack the GTA 6 Hype",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXkyQWxPRnhuN2FORENpODVGX21mbUE1Q3B6blhIaDlXMG1ZWEVBcS1SeUdhVnpRdjZrNlhqQUg5dUU1YjNnTS0xMWM4Smw0NWtzb1JIemxOZk1nVUhjNC14cHVfODBmZkw3cEF1QklVSEh6bkJwdmttX0gzaEVfVGNBNGlKbDBhb24zMEhtNHV6UUNnVUFQLUx0bw?oc=5",
-     "ts": "2026-11-19T15:56:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "573d92182edd",
-   "title": "В Госдуме назвали фанатов GTA VI из России «идиотами», NVIDIA расширяет поддержку DLSS 4.5 — самое интересное за 18 ноября",
-   "first_seen": "2026-11-19T16:10:48Z",
-   "updated": "2026-11-19T16:10:48Z",
-   "items": [
-    {
-     "id": "573d92182edd",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "В Госдуме назвали фанатов GTA VI из России «идиотами», NVIDIA расширяет поддержку DLSS 4.5 — самое интересное за 18 ноября",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeW5Va3FNTklURWZ6aUVNdUpNM3lHSzEzY3BUcHg0QXdZRU8xVFllRXNVX1V1RlpULTQ4RkM3N3pCb0p2aTU5VDI2cEU5N25MQ0RNd1RzMGdDeG5HTlRJdTBXWlNSVmVpc3BzZkl2SEdTOVI2OEs5bkNEOXl1VEtWR0VubGF1ZXBWalVZT3dfb0I0OXV0U25SZm1qVDllRnFDaXQwMDJydXBZWjkzbms2SW1nR0lwdXNJUWpnd2NxTVBVRzk4QUo1UjVvamNIdzNUVW9aX0VrRFE2dFpHRjc2ZTk5c3J6WUotclBoUk9GUlDSAfYBQVVfeXFMT2JGU0pIUk1vSGNBdUQ4cm5RT2ZESkRjeUV6ckRKcVRYOWZjR3hWUUY0N3BuV19QZ2V4OWhldkZuWGRMcU92MUd5MjdUWDJ3aDFHZ09xNGdRWEVlV3plZlVrVUNIdUdjS0xERVRacV95dFFOMWF1Nnpqd0lYeU56NDhnVjJrNUhpbnJCR3ptQTY2anl2RHZvajJrZW9yaDRUdmF4R2xyQ1g5R0FxYWFEa0lCSHdOcExRZzB2NjVCOWNJM0F6U28yaGVtbklxZFFlWUltZlgzc2FMbDl2VV8yNlYyVXNiQm1EbC1kM3lYLUt6Z1JIYlBn?oc=5",
-     "ts": "2026-11-19T15:58:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b06ef746ad42",
-   "title": "Who Is Mandy In GTA 6? The Surprise Fan-Favorite Might Be The Game's Most Dangerous Character",
-   "first_seen": "2026-11-19T16:10:48Z",
-   "updated": "2026-11-19T16:10:48Z",
-   "items": [
-    {
-     "id": "b06ef746ad42",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "www.svg.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Who Is Mandy In GTA 6? The Surprise Fan-Favorite Might Be The Game's Most Dangerous Character",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QSUZVLS1zUWZGU2EtVVBwSXMtYWhPc0dlUndyZVhOTHk1YlNuNE9VSXc5eFpTWGpfcDc5SllvVmJscjU3dk9NT2wtSEd1MXdESUNGT1JMdDdEUFdqaW5yelYzWWwzdzZIdkhpOQ?oc=5",
-     "ts": "2026-11-19T15:58:54Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5531830dff85",
-   "title": "GTA VI finally hits the streets",
-   "first_seen": "2026-11-19T16:10:48Z",
-   "updated": "2026-11-19T16:10:48Z",
-   "items": [
-    {
-     "id": "5531830dff85",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "11Alive.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI finally hits the streets",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemh6TjFLdVBvMVZJZUF2d0tSbnZjdjhGTndDSmhpZjNTUlF5Y3E1NnBpYlBnb1d5enpodk84MURMeHFUcjhURzNjcmFDMWpYMzB6LWF0ZDJUbXVEZHlKSTJtbnRVckJadTFZNlVtZ0lQXzdFU3N3TmRLMkJzbGtibFR2NWF1ZkVTSExOZ2ZJSUlSQ1pmdWZpUkEwSGV4bnczVWFpdE05clVGeWVjRjQ0WnoydWtUdw?oc=5",
-     "ts": "2026-11-19T15:59:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d7c716acb7f1",
-   "title": "Today’s Your Last Day to Order GTA VI and Get the Free Vintage Vice City Pack",
-   "first_seen": "2026-11-19T16:10:48Z",
-   "updated": "2026-11-19T16:10:48Z",
-   "items": [
-    {
-     "id": "d7c716acb7f1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "VICE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Today’s Your Last Day to Order GTA VI and Get the Free Vintage Vice City Pack",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Sdm1MWXhsSUhkeGk1ODY4cTFnX05tbFE2S0xtRGhOcm4yTnVBTTZyUnlPWE05ci1GZEJQRGJrSVRRTDhCWDFBMVpQcWNHN1FTTkh1QlpqYjZFbmsyZURxcVpYeGV2QnA3TmNVbDFnc3dXdERCNFRZMGZ3?oc=5",
-     "ts": "2026-11-19T15:59:17Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "99b01cab5442",
-   "title": "Pocketpair не собирается делиться новостями о Palworld 1.1 и Palfarm во время выхода GTA 6, потому что это PR-самоубийство",
-   "first_seen": "2026-11-19T16:10:48Z",
-   "updated": "2026-11-19T16:10:48Z",
-   "items": [
-    {
-     "id": "99b01cab5442",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Shazoo",
-     "group": "media_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Pocketpair не собирается делиться новостями о Palworld 1.1 и Palfarm во время выхода GTA 6, потому что это PR-самоубийство",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVHhNUUI0NkVuSjJCMjc0bjdia0U0aGpyVGp1LXFDSm5FSVM0WUIteUlOMlRKclZKRkJsUWhyZHFLN0dFVkdRNzZOaWFPUFAweWxKZGNEWnhOQkE0a2RfakFxeENMdGxVaVo1Rk82eWJ0WDdxbHM0WFVZZGZQc1N3eGpfSkJWMVZhRVZvZVdXd281aWQ2S0loOW1pVVhia0Vhamw1TVppbDhzeDRDelRZVklUZV9JVEZfT3cwYjdsZnJBaUVQNWF4cm93YTJZWlByRmVVSFNzVDQ2WlN1d1hIRE9sRTA0ZzZ0TG5ucUFKX2k?oc=5",
-     "ts": "2026-11-19T16:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-26T16:01:18Z",
+  "last_run": "2026-11-26T16:11:02Z",
   "last_log": [
    "rockstar_site: 0/1",
    "gnews_en: 99/100",
-   "gnews_ru: 97/100",
+   "gnews_ru: 96/100",
    "gamesbeat: 2/10",
-   "vgc: 6/10",
+   "vgc: 7/10",
    "insider_gaming: 8/10",
    "ign: 6/20",
    "eurogamer: 13/100",
@@ -169722,7 +169611,7 @@
    "gtaboom: 30/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 14/14",
-   "tg_gta6deluxe: 10/10",
+   "tg_gta6deluxe: 7/7",
    "tg_gta6_m: 3/5",
    "tg_gta6newsdaily: 1/19"
   ],
