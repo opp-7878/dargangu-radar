@@ -1,6 +1,254 @@
 {
  "stories": [
   {
+   "id": "fffca7a8751a",
+   "title": "GTA 6 apparently features a reference to the infamous Luka Doncic trade from Mavericks to Lakers",
+   "first_seen": "2026-11-26T09:41:10Z",
+   "updated": "2026-11-26T10:10:57Z",
+   "items": [
+    {
+     "id": "fffca7a8751a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "HITC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 apparently features a reference to the infamous Luka Doncic trade from Mavericks to Lakers",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVExnZ2RnUG5pY3BsMTI3MXlDS1Zfc0o0am5HQkZpQWFRTmNVMXl3RVRrTVZhUnZjdFczY00wYW5nLVhNT05RejFVazJwLTI5VnI5ZE9xZFdKNER6MEN1UFZtdGpaOE1reEthR24xeV9TWDZnQTB0UkFicXhTS3VDbG5YUkozUWgtLWJ0UWxKcjc5d0lGcEp0R1k0TDhISW9pVjJDY3ZJQWo5UVFXMzktc2IyVnFnemtFcmc?oc=5",
+     "ts": "2026-11-26T09:30:00Z",
+     "summary": ""
+    },
+    {
+     "id": "6a258d65697d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo News UK",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 apparently features a reference to the infamous Luka Doncic trade from Mavericks to Lakers",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3hDWHBEdFZucVVkUXFnV0xYa0JwbXd6dTBvSnBsR3Uzc05mUGh5NDFORmZtVU5tdkxuNFZlU1hjLVhDQVU5c3FYSkhfcHF2QXpCNVpKS0Q2dGFyWU1fTVh3Tm9XbjR6TDBsUmRad2s2TkhPMm5CNmoyeUhlc3BidFZB?oc=5",
+     "ts": "2026-11-26T10:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Лука Дончич в Вайс-Сити? В GTA 6 нашли отсылку к обмену",
+    "summary": "В GTA 6 обнаружили отсылку к нашумевшему обмену Луки Дончича из Mavericks в Lakers, пишут HITC и Yahoo News UK. Игроки заметили деталь, связывающую игру с этим событием НБА.",
+    "idea": "Короткий разбор найденной пасхалки: что именно нашли, где это видно и почему это смешно для фанатов НБА.",
+    "hook": "В GTA 6 спрятали шутку про обмен Луки Дончича — смотри, где именно.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T10:11:00Z"
+   },
+   "msg_id": 2323
+  },
+  {
+   "id": "e2acb92a162e",
+   "title": "Rockstar рассказала, какие механики вырезала из GTA 6",
+   "first_seen": "2026-11-25T17:20:49Z",
+   "updated": "2026-11-26T10:10:57Z",
+   "items": [
+    {
+     "id": "e2acb92a162e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar рассказала, какие механики вырезала из GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM0FuU3ZwOEFjTnllWkIzZ3JWUWNOa19TenQ1RDVxeDlBN0lIZnZxd1E1UlFYQVVQZ1VGRmo3OUpqTnZaVWNWSGc2US1STFJDT1ZWTWJZa1dtczVEc2dCZlRFVkFmRi1QZXZCWFJWemozU3ZLaDNlejgtbmZtVUJLckhMYnRxVkVtcHhv?oc=5",
+     "ts": "2026-11-25T15:11:09Z",
+     "summary": ""
+    },
+    {
+     "id": "cb5d01499898",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "3DNews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "От тенниса до декорирования дома: Rockstar призналась, какие механики вырезала из GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE00MEdBZklmSXBjZjRMVGp5WXY4R0ZfLWw3N0NGYTZvX2QydWdaZlNnWmlJOTFqeXBBRVREaEJn0gG3AUFVX3lxTE5lLWp0S2ZsNG01ZXp6UEd0NGlrb0JDNXRMRWhsMTJJZ1ZrM0hoejRqV2wyWWxyXzcwcjJqTlF5bEhHWHZCdFNpQ2pxZjcxVmRLYWJQTTVhcmpncVl2QnFUMFJmLWszb2JIT3NYb3FQWFFmZVN4WXJ5RlJtb0hlaUVtR29USFl2MWc4VF9uQVFjdnR4VnNEZ19zWjNtTXdMOERFNzNubEp6WkxhUlBtVGZjOVBRM0R0bw?oc=5",
+     "ts": "2026-11-26T06:23:00Z",
+     "summary": ""
+    },
+    {
+     "id": "7c8683d0ae95",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "3DNews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "От тенниса до декорирования дома: Rockstar призналась, какие механики вырезала из GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXYxX2NRWTBqemNwUDRVUWpLZ1BHcEpsRXNiVzJIeDdTMDV3VGRGQ2xOTEtTdG5nV09OZXl5WENQWVFuUXBOMDZzX19iUkl6cE5qR3FiZ3pXSDZRUE80bTRPdGx1anBfcm91MWw1UGJqa2s4ZHo0ODBHdU12OHowQm9yV2tPNU5xV09OaU9ZUXlORm0yTVljZlVlM0QxcUhZSUxPTzZ2d053OHdjVmlmVkh3?oc=5",
+     "ts": "2026-11-26T06:23:00Z",
+     "summary": ""
+    },
+    {
+     "id": "2c045554c31b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "3DNews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "От тенниса до декорирования дома: Rockstar призналась, какие механики вырезала из GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE00MEdBZklmSXBjZjRMVGp5WXY4R0ZfLWw3N0NGYTZvX2QydWdaZlNnWmlJOTFqeXBBRVREaEJn?oc=5",
+     "ts": "2026-11-26T06:23:00Z",
+     "summary": ""
+    },
+    {
+     "id": "3e5e8fd098f3",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "3DNews",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "От тенниса до декорирования дома: Rockstar призналась, какие механики вырезала из GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXYxX2NRWTBqemNwUDRVUWpLZ1BHcEpsRXNiVzJIeDdTMDV3VGRGQ2xOTEtTdG5nV09OZXl5WENQWVFuUXBOMDZzX19iUkl6cE5qR3FiZ3pXSDZRUE80bTRPdGx1anBfcm91MWw1UGJqa2s4ZHo0ODBHdU12OHowQm9yV2tPNU5xV09OaU9ZUXlORm0yTVljZlVlM0QxcUhZSUxPTzZ2d053OHdjVmlmVkh30gG3AUFVX3lxTE5lLWp0S2ZsNG01ZXp6UEd0NGlrb0JDNXRMRWhsMTJJZ1ZrM0hoejRqV2wyWWxyXzcwcjJqTlF5bEhHWHZCdFNpQ2pxZjcxVmRLYWJQTTVhcmpncVl2QnFUMFJmLWszb2JIT3NYb3FQWFFmZVN4WXJ5RlJtb0hlaUVtR29USFl2MWc4VF9uQVFjdnR4VnNEZ19zWjNtTXdMOERFNzNubEp6WkxhUlBtVGZjOVBRM0R0bw?oc=5",
+     "ts": "2026-11-26T06:23:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 48,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "ea13ff25e65c",
+   "title": "GTA 6 Animation Director Reveals Just How Far Rockstar Went to Make Holding Items More Immersive",
+   "first_seen": "2026-11-25T21:20:48Z",
+   "updated": "2026-11-26T10:10:57Z",
+   "items": [
+    {
+     "id": "ea13ff25e65c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Animation Director Reveals Just How Far Rockstar Went to Make Holding Items More Immersive",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnE2RXVTVXVKR0tCdzU3ZHYwQldrRm9IbEpqM2lMYU82TEFuUXg2TU9PQUVvX0NGSDJqVTRKSzF3RDlfQldmbUh6Sy1VWFIzZkdMTlR0NmZCeHJ1bFc2OVNEbFpIMjhSdzM5M1hiUERfc1U4eWRtOEJqY2ZOMnNEV21FdUZzTlF1Rm1ZM0JuWHlZa1V0aXhsLTZzN2xsOXBDYlBPRWpzYzV4bEdPbkd3aTRCZU0?oc=5",
+     "ts": "2026-11-25T21:08:56Z",
+     "summary": ""
+    },
+    {
+     "id": "d7ea9cf4fc35",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction",
+     "url": "https://www.ign.com/articles/gta-6-animation-director-reveals-rockstar-made-3-animations-for-each-item-interaction",
+     "ts": "2026-11-25T21:08:54Z",
+     "summary": "Mike Jones, the director of gameplay animation for GTA 6, revealed that the team at Rockstar created three separate animations for each item interaction in the game."
+    },
+    {
+     "id": "776cb1196a88",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN18tZXJNM2QtMFltb2VCQnhNS2FJcFUwbE9OZnJjNVkwVjR5ZHNSbjl5SFhmdWg3NmN2X1FacE15ZHdRYkZGUDhFXzJxUTloTGVpeWVoT1NLdFFoM3J5T09HVndOa3dTRnJwNFJpbjRRWDNYMUt2Y0tMQjF3clhSWWVJUHBCTFU1RjczZ2Nkc3hlYzhFR0lCdjN0b0tGcHkyU19qanNqaFZVQUphb0dzR1QzdUlDZ2FnbE5oUzV6MW1SM1gyRFJfRXRXQ2xTMGpNRzE1aGVRaFgxV0VMTXpz?oc=5",
+     "ts": "2026-11-25T22:03:39Z",
+     "summary": ""
+    },
+    {
+     "id": "e4f38b7b9a20",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Africa",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGw2c2hQaEdQT21aZ3VGVnkxU1NoQk83VkFoTU4tRFdEbVFsV2JHN3E3blFFWUdoajd3UmZuOFE2T0xtVGZYbkJWdEQ5eFdTTlpRRGpfTVI2aG1CUUtTRU10M1ZCZzZXeC12Q0lvOUJtYVFXcXVxVWNMMlJaMEVYbUs4N1FWVTY0UHBBREVsRjJtdEVicVJHZHVJWjVnb1hjT0xpVzZ6MDdrRW1RUHhmM3I4ZnViZmpmM3ZqWUxvZjhmTFZfeU5WbEVQaw?oc=5",
+     "ts": "2026-11-26T08:15:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс",
+    "геймплей"
+   ],
+   "score": 100,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "bd58c98820da",
+   "title": "Rockstar объяснила, почему в GTA 6 выгоднее быть добрым",
+   "first_seen": "2026-11-26T10:10:57Z",
+   "updated": "2026-11-26T10:10:57Z",
+   "items": [
+    {
+     "id": "bd58c98820da",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Rockstar объяснила, почему в GTA 6 выгоднее быть добрым",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51U1pmdUI1Zmx5SFFTLXlDZzlvenlHT1JUclpuNklHaXltRnAyUEJZWTFicHVLVmpMbWVMMU9lVFlMTUlfYXZ1dEhnUVRuX0M0VG1RSEl0VmlRb1hidGtUbmVjTDBnMnZoNlBockMtckdVYlAyd2ZZTQ?oc=5",
+     "ts": "2026-11-26T09:56:50Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "929e82837700",
+   "title": "PS5 users report 'increased sudden shutdowns' while playing GTA 6, three major errors noted",
+   "first_seen": "2026-11-26T10:10:57Z",
+   "updated": "2026-11-26T10:10:57Z",
+   "items": [
+    {
+     "id": "929e82837700",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GAMINGbible",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "PS5 users report 'increased sudden shutdowns' while playing GTA 6, three major errors noted",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbXVORTljQU1fSFNUX0FTUkI0ME54bGljX1psWk9aY0h3bDNBRGsxQTZfMTN3bnl1MG9iQnZDZjV3MWNobWJtYW1fRHNFcVV1SDdrUVFUSGdLbDlkTXZNSlNobFpSczdyRmxDWGlfMjZWTVNQMG1JVnc2c2Vlb2lkWlNiZG1jYkhpMVdVcExpWkJrMVk?oc=5",
+     "ts": "2026-11-26T10:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "10259f73954d",
    "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
    "first_seen": "2026-11-26T09:41:10Z",
@@ -1035,32 +1283,6 @@
    "status": "new"
   },
   {
-   "id": "fffca7a8751a",
-   "title": "GTA 6 apparently features a reference to the infamous Luka Doncic trade from Mavericks to Lakers",
-   "first_seen": "2026-11-26T09:41:10Z",
-   "updated": "2026-11-26T09:41:10Z",
-   "items": [
-    {
-     "id": "fffca7a8751a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "HITC",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 apparently features a reference to the infamous Luka Doncic trade from Mavericks to Lakers",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVExnZ2RnUG5pY3BsMTI3MXlDS1Zfc0o0am5HQkZpQWFRTmNVMXl3RVRrTVZhUnZjdFczY00wYW5nLVhNT05RejFVazJwLTI5VnI5ZE9xZFdKNER6MEN1UFZtdGpaOE1reEthR24xeV9TWDZnQTB0UkFicXhTS3VDbG5YUkozUWgtLWJ0UWxKcjc5d0lGcEp0R1k0TDhISW9pVjJDY3ZJQWo5UVFXMzktc2IyVnFnemtFcmc?oc=5",
-     "ts": "2026-11-26T09:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "414373223f85",
    "title": "Героям GTA 6 создали по 3 варианта анимации для каждого взаимодействия с предметами",
    "first_seen": "2026-11-26T09:41:10Z",
@@ -2071,71 +2293,6 @@
    ],
    "tags": [],
    "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e2acb92a162e",
-   "title": "Rockstar рассказала, какие механики вырезала из GTA 6",
-   "first_seen": "2026-11-25T17:20:49Z",
-   "updated": "2026-11-26T08:51:26Z",
-   "items": [
-    {
-     "id": "e2acb92a162e",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Rockstar рассказала, какие механики вырезала из GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM0FuU3ZwOEFjTnllWkIzZ3JWUWNOa19TenQ1RDVxeDlBN0lIZnZxd1E1UlFYQVVQZ1VGRmo3OUpqTnZaVWNWSGc2US1STFJDT1ZWTWJZa1dtczVEc2dCZlRFVkFmRi1QZXZCWFJWemozU3ZLaDNlejgtbmZtVUJLckhMYnRxVkVtcHhv?oc=5",
-     "ts": "2026-11-25T15:11:09Z",
-     "summary": ""
-    },
-    {
-     "id": "cb5d01499898",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "3DNews",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "От тенниса до декорирования дома: Rockstar призналась, какие механики вырезала из GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE00MEdBZklmSXBjZjRMVGp5WXY4R0ZfLWw3N0NGYTZvX2QydWdaZlNnWmlJOTFqeXBBRVREaEJn0gG3AUFVX3lxTE5lLWp0S2ZsNG01ZXp6UEd0NGlrb0JDNXRMRWhsMTJJZ1ZrM0hoejRqV2wyWWxyXzcwcjJqTlF5bEhHWHZCdFNpQ2pxZjcxVmRLYWJQTTVhcmpncVl2QnFUMFJmLWszb2JIT3NYb3FQWFFmZVN4WXJ5RlJtb0hlaUVtR29USFl2MWc4VF9uQVFjdnR4VnNEZ19zWjNtTXdMOERFNzNubEp6WkxhUlBtVGZjOVBRM0R0bw?oc=5",
-     "ts": "2026-11-26T06:23:00Z",
-     "summary": ""
-    },
-    {
-     "id": "7c8683d0ae95",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "3DNews",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "От тенниса до декорирования дома: Rockstar призналась, какие механики вырезала из GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXYxX2NRWTBqemNwUDRVUWpLZ1BHcEpsRXNiVzJIeDdTMDV3VGRGQ2xOTEtTdG5nV09OZXl5WENQWVFuUXBOMDZzX19iUkl6cE5qR3FiZ3pXSDZRUE80bTRPdGx1anBfcm91MWw1UGJqa2s4ZHo0ODBHdU12OHowQm9yV2tPNU5xV09OaU9ZUXlORm0yTVljZlVlM0QxcUhZSUxPTzZ2d053OHdjVmlmVkh3?oc=5",
-     "ts": "2026-11-26T06:23:00Z",
-     "summary": ""
-    },
-    {
-     "id": "2c045554c31b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "3DNews",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "От тенниса до декорирования дома: Rockstar призналась, какие механики вырезала из GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE00MEdBZklmSXBjZjRMVGp5WXY4R0ZfLWw3N0NGYTZvX2QydWdaZlNnWmlJOTFqeXBBRVREaEJn?oc=5",
-     "ts": "2026-11-26T06:23:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 48,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -8375,61 +8532,6 @@
    "score": 45,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ea13ff25e65c",
-   "title": "GTA 6 Animation Director Reveals Just How Far Rockstar Went to Make Holding Items More Immersive",
-   "first_seen": "2026-11-25T21:20:48Z",
-   "updated": "2026-11-25T22:11:01Z",
-   "items": [
-    {
-     "id": "ea13ff25e65c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Animation Director Reveals Just How Far Rockstar Went to Make Holding Items More Immersive",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnE2RXVTVXVKR0tCdzU3ZHYwQldrRm9IbEpqM2lMYU82TEFuUXg2TU9PQUVvX0NGSDJqVTRKSzF3RDlfQldmbUh6Sy1VWFIzZkdMTlR0NmZCeHJ1bFc2OVNEbFpIMjhSdzM5M1hiUERfc1U4eWRtOEJqY2ZOMnNEV21FdUZzTlF1Rm1ZM0JuWHlZa1V0aXhsLTZzN2xsOXBDYlBPRWpzYzV4bEdPbkd3aTRCZU0?oc=5",
-     "ts": "2026-11-25T21:08:56Z",
-     "summary": ""
-    },
-    {
-     "id": "d7ea9cf4fc35",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction",
-     "url": "https://www.ign.com/articles/gta-6-animation-director-reveals-rockstar-made-3-animations-for-each-item-interaction",
-     "ts": "2026-11-25T21:08:54Z",
-     "summary": "Mike Jones, the director of gameplay animation for GTA 6, revealed that the team at Rockstar created three separate animations for each item interaction in the game."
-    },
-    {
-     "id": "776cb1196a88",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN18tZXJNM2QtMFltb2VCQnhNS2FJcFUwbE9OZnJjNVkwVjR5ZHNSbjl5SFhmdWg3NmN2X1FacE15ZHdRYkZGUDhFXzJxUTloTGVpeWVoT1NLdFFoM3J5T09HVndOa3dTRnJwNFJpbjRRWDNYMUt2Y0tMQjF3clhSWWVJUHBCTFU1RjczZ2Nkc3hlYzhFR0lCdjN0b0tGcHkyU19qanNqaFZVQUphb0dzR1QzdUlDZ2FnbE5oUzV6MW1SM1gyRFJfRXRXQ2xTMGpNRzE1aGVRaFgxV0VMTXpz?oc=5",
-     "ts": "2026-11-25T22:03:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс",
-    "геймплей"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "dup",
    "status": "new"
   },
   {
@@ -175951,757 +176053,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e85f550a1a66",
-   "title": "GTA 6: 15 Minutes of First Mission Gameplay",
-   "first_seen": "2026-11-18T11:20:55Z",
-   "updated": "2026-11-19T10:10:49Z",
-   "items": [
-    {
-     "id": "e85f550a1a66",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6: 15 Minutes of First Mission Gameplay",
-     "url": "https://www.ign.com/articles/gta-6-15-minutes-of-first-mission-gameplay",
-     "ts": "2026-11-18T11:20:00Z",
-     "summary": "Check out 15 minutes of gameplay from the first mission of GTA 6 captured on PS5 Pro."
-    },
-    {
-     "id": "fcc09811f6ab",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6: 15 Minutes of First Mission Gameplay",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtQnB0al9XcmcyMV9CeFY0OUFvdnFtaHVLYkFLU2VfTDBUOS1FdHgtOGdhd0tTYWNKNy1pMFc2eDd0MjhJeTg0bVN6am1uUmVyQS1sWWhwNkd1c0oyalRXU1g1ZHBydVJXMDRSYkRnajhEMXIxZWhFSU5QOA?oc=5",
-     "ts": "2026-11-18T11:20:00Z",
-     "summary": ""
-    },
-    {
-     "id": "374f6df97f60",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Nordic",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: 15 Minutes of First Mission Gameplay",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVFlSEdkeGUzZFRtRXdPRlN2ZEJaYWF5bWN0U2lqN3FFTDZpM09xLWRsSnhXVXIxbzUzMkNNVWU3Vm5ma0xlS3ZodElXN3czRzdsYm1lLW9DTWlKZThmUnFtbnRqVHpkME5KSEVGeHItQ2tTbmhTVFhkRFIwa2x4Uk9pTFdXSEcwcVVNYmxDMG1zdWNXLWJB?oc=5",
-     "ts": "2026-11-18T11:31:25Z",
-     "summary": ""
-    },
-    {
-     "id": "8b46e3f32083",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Southeast Asia",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "15 Minutes of GTA 6 PS5 Pro Gameplay (First Mission)",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRndOaTdFbE15NGhlRXVkLTgxUURabjNpaXFZRHFpYjk4WTVMeTVBY09CQ2VtNzBxRTl5WC1iZ05xWEljdnRxTlVWTjEtVG44S1dvTzFZVHJMR2hUaDBLOTZCRUVMNlY3ZU5FMEU2SnV6ZVRFZXlUNDVPeUJBenVpYW5iLUxGanNJdEhJWUU3dksxOEN5MlBQdkN1XzljQmh0NE9uTkl4cUFPZHlZeFNiYw?oc=5",
-     "ts": "2026-11-18T11:30:00Z",
-     "summary": ""
-    },
-    {
-     "id": "effaed66c5e5",
-     "src": "tg_gta6newsdaily",
-     "src_name": "TG @gta6newsdaily",
-     "outlet": "",
-     "group": "telegram_en",
-     "weight": 45,
-     "alert": true,
-     "title": "☺️ 18 minutes of GTA VI gameplay captured on PS 5, including elements from RDR2, police, driving, etc.",
-     "url": "https://t.me/gta6newsdaily/5033",
-     "ts": "2026-11-18T13:06:31Z",
-     "summary": "☺️ 18 minutes of GTA VI gameplay captured on PS 5, including elements from RDR2, police, driving, etc. #GTA6 #GTAVI"
-    },
-    {
-     "id": "189d2c4ce29d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "15 Minutes of GTA 6 PS5 Pro Gameplay (First Mission)",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1gweTR5Y1B4bzgtSjNrejlzV1RhS0wtN2xqVEtleS1tbTdydmZGdlozS2thNXFKMXBBcndQUUE3UWp5ajBySlZmSWY3akVMZkhBTnZ3Rm51eUh1OGpqSlJYWk5IZ2h1cVJmVjNya1BMVjdnazVjLUZUTXlXX2hjRlk0Vk9YNkxNLVlERkd6dmFWd2ZZLUdXZWl5VUwwMUN3?oc=5",
-     "ts": "2026-11-18T13:23:16Z",
-     "summary": ""
-    },
-    {
-     "id": "04467461bc5c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "autoevolution",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: Watch the First Hour of Gameplay and the First Two Chapters",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFBpMlBIWWdCMkZqeXQ0N2JjNHFLdzl0dnJValRzWlNfMGt0MmZKQnVjc1VIX3ZnOGlPY1VscTM2TnpPSjNHbE9POEJfUTVwV2pWWUZzT3hXb1ktR3kxcjNUUmtaQUJmYmhFYzN3cWNheWk3Qnd2RTVWLUlYb3VZaVNITzQ5dVlyTXlsN3BKVFlBX0dLQVVNZkRLNkZlVUZSQ09fdXo5R04tTGVMdXdETEl3?oc=5",
-     "ts": "2026-11-19T07:54:20Z",
-     "summary": ""
-    },
-    {
-     "id": "757abf98fb2a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Benelux",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 PS5 Pro vs Xbox Series S Gameplay - Closer Than You'd Think",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUtBVExlV1JESU1YSTV0ZFdsZlhwT3V5RHpacjFsX3BGZS1wUTAxMWVtRjJfbVhqN0NWdUd5OTJiLUlQUExzelpEWkFIYzdReW5ERk9LZnNvNlowSjJObVY5b3RGTUJtQlRpLUZIUG9CWGlEUkJqVmYtWnhKQmtmcWZydmczdDVVcjlTdXdiVDg5RjZLSUVLUlVKeWxSOEVSc0M2MmJtanJidEtL?oc=5",
-     "ts": "2026-11-19T08:38:51Z",
-     "summary": ""
-    },
-    {
-     "id": "5c56bfd54f27",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Hardwareluxx Russia",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 вышла: как игра работает на PS5, PS5 Pro и Xbox Series X|S",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajltQjRxVWFFZ1hxZU9TNHoxcHA0MTFEU1QyaFd1OEZrcF8xWnZNSkNFNFFWVXQ5d3ZNYUI4NFpORmRhZGExMHhBWENCMDBKazVwQmY2eGJOWW1PS0lOUDF5U1h4Q1V6ODZYUUViUGl0NnloUE9RTGtRUDROaUg3X1IyZWo3NFZ3VDBFOWd2WVdIOE5ZQjQ4YVV6Vlc3cFg0Sk9RemZjcGNaaEo1aGxWdHZJMnc4NmxYbmo0eE5GZXU?oc=5",
-     "ts": "2026-11-19T10:02:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "геймплей"
-   ],
-   "score": 100,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "5502d0af6eef",
-   "title": "Want to visit GTA 6 in real life? Start with these 5 Florida destinations",
-   "first_seen": "2026-11-19T10:10:49Z",
-   "updated": "2026-11-19T10:10:49Z",
-   "items": [
-    {
-     "id": "5502d0af6eef",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "USA TODAY 10BEST",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Want to visit GTA 6 in real life? Start with these 5 Florida destinations",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxRTJxblpCS2JZaVRxVGUxZ19hbnIyZk9pSWxGMTdBMERUTjl6VzRRdnhiMF9zZVVMMHdXVWp2V2p4ejY0T1ZrWGVvNWZuZHNpWWxvQ2g5UDNQczB3Ukg2R05TOGNUay1tb0hVMGlzd3lZV1ZiTFd3?oc=5",
-     "ts": "2026-11-19T10:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "876ebcbbacee",
-   "title": "GTA 6 removes controversial franchise feature as players declare it 'makes no sense', but it does",
-   "first_seen": "2026-11-19T10:10:49Z",
-   "updated": "2026-11-19T10:10:49Z",
-   "items": [
-    {
-     "id": "876ebcbbacee",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GAMINGbible",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 removes controversial franchise feature as players declare it 'makes no sense', but it does",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZlQwZWlXS3pRYjZBQjZhX2taa3c5dnVDWUZydXJNN2VlR0RrS1lSTmpPOGgtMG5IZ0l0R2pORUV3YUlHRWozdmpLbGFrOW50OHZKNTFiUzc2RkJnQTFPeVB6QUswZ0t2NlJjcDdtYk15bU1QcWJGTnJJTDktOEJpY2NuUlZab0lVT3lkNkdOY0ZHanNvMTl1XzZ3?oc=5",
-     "ts": "2026-11-19T10:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9187c4fafc29",
-   "title": "‘Grand Theft Auto VI’ Trains Gamer Spotlight on New Zealand for a Day",
-   "first_seen": "2026-11-19T10:10:49Z",
-   "updated": "2026-11-19T10:10:49Z",
-   "items": [
-    {
-     "id": "9187c4fafc29",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Bloomberg",
-     "group": "media",
-     "weight": 85,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ Trains Gamer Spotlight on New Zealand for a Day",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ3F4UlYyOUVncGZqaFB5X3ZBcFN0b2FhVXRZSDVZcU9aeVhvVUZLU2NhZUViX0lrUVRjNlRINGxuUy1WbzNQQzlBeUx5R2pjZGF0UFFVR3RRaFlWSmZ5UkN3SHc2X2VyZE1uRnNROVM2SDdqWVVNSlZrcVBkOHpFTU9nN180Z0NaYkk3bWw0akhMNUsxc1JES1pyUE1JRjBaV09mWFNrQ2w1STEtLXotU19Tc19lQjRtQXV2eExOQmVpQQ?oc=5",
-     "ts": "2026-11-19T10:00:25Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 85,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 на день подсветила Новую Зеландию: что это значит",
-    "summary": "По данным Bloomberg, Rockstar на день подсветила Новую Зеландию в промо GTA 6. Официально это не объяснили, но фанаты считают это намёком на локацию.",
-    "idea": "Короткая нарезка: карта, Новая Зеландия, реакция чата. Объясняем, почему это может быть намёком на регион в игре.",
-    "hook": "GTA 6 на день подсветила Новую Зеландию — случайность или намёк?",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-19T10:10:53Z"
-   },
-   "msg_id": 1457
-  },
-  {
-   "id": "8ca0e59e4922",
-   "title": "I Played GTA 3 As a Kid. Now As a Dad I Sneak Away to Play GTA 6.",
-   "first_seen": "2026-11-19T10:10:49Z",
-   "updated": "2026-11-19T10:10:49Z",
-   "items": [
-    {
-     "id": "8ca0e59e4922",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Business Insider",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "I Played GTA 3 As a Kid. Now As a Dad I Sneak Away to Play GTA 6.",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXpoQzQ2THdfVFVnc1hoSDFIN1otWkhraHNRTTloVE1XN0J5clptT0wtVGEwbjFCYWZBZkE3RHlkenZ5NWQtSVhiQm5JZ0xmN3VfTTBkMUtxVHl6U0xtU2FFUWJuUDJhZFJISFE0TXJOa2tuUU11ZUs4d2hBd3JfbE9mbnRONHMxdU9UUVlKUmdIQ1BSX1E?oc=5",
-     "ts": "2026-11-19T10:05:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4b7a03008a16",
-   "title": "60 FPS в GTA VI оказались недостижимы для нынешних консолей",
-   "first_seen": "2026-11-19T10:10:49Z",
-   "updated": "2026-11-19T10:10:49Z",
-   "items": [
-    {
-     "id": "4b7a03008a16",
-     "src": "tg_gtavistar",
-     "src_name": "TG @GTAVIStar",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "60 FPS в GTA VI оказались недостижимы для нынешних консолей",
-     "url": "https://t.me/GTAVIStar/964",
-     "ts": "2026-11-19T10:05:18Z",
-     "summary": "60 FPS в GTA VI оказались недостижимы для нынешних консолей • Rockstar подтвердила, что добиться высокой частоты кадров в GTA VI мешает нагрузка на процессор. Огромное количество симуляций, физика волос NPC и сложные взаимодействия персонажей требуют слишком много ресурсов. • Марк Чемберс из Rockstar отметил, что даже PS5 Pro с улучшенной графикой и поддержкой PSSR не располагает достаточно мощным CPU для таких задач. Эксперты Digital Foundry также считают, что для достижения 60 FPS на ПК понадобится особенно производительный процессор. 6️⃣ GTA VI News 💝 💬 Наш чатик"
-    }
-   ],
-   "tags": [
-    "ПК",
-    "анонс"
-   ],
-   "score": 60,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "865e83250da6",
-   "title": "The Xbox Series S version of GTA 6 is seemingly the first to use AMD’s FSR 4.1 upscaling",
-   "first_seen": "2026-11-19T10:10:49Z",
-   "updated": "2026-11-19T10:10:49Z",
-   "items": [
-    {
-     "id": "865e83250da6",
-     "src": "vgc",
-     "src_name": "VGC",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "The Xbox Series S version of GTA 6 is seemingly the first to use AMD’s FSR 4.1 upscaling",
-     "url": "https://www.videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling/",
-     "ts": "2026-11-19T10:08:25Z",
-     "summary": "It was announced last month that the new tech was coming to Xbox Series X/S consoles"
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 85,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "bc17d512c087",
-   "title": "💔 В GTA VI не снять проститутку — впервые со времён GTA III в игре нет такой возможности По словам студии, шестёрка рассказывает о влюблённых в бегах, а такая м",
-   "first_seen": "2026-11-19T10:10:49Z",
-   "updated": "2026-11-19T10:10:49Z",
-   "items": [
-    {
-     "id": "bc17d512c087",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "💔 В GTA VI не снять проститутку — впервые со времён GTA III в игре нет такой возможности По словам студии, шестёрка рассказывает о влюблённых в бегах, а такая м",
-     "url": "https://t.me/GTA6_m/9440",
-     "ts": "2026-11-19T10:09:30Z",
-     "summary": "💔 В GTA VI не снять проститутку — впервые со времён GTA III в игре нет такой возможности По словам студии, шестёрка рассказывает о влюблённых в бегах, а такая механика ломает их историю Довольствуемся стрипухами. 🥺 Канал про GTA 6 | Наш чат"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "74e64218d9d1",
-   "title": "Сколько можно проехать без дозаправки в GTA 6 — журналисты провели тест",
-   "first_seen": "2026-11-19T10:10:48Z",
-   "updated": "2026-11-19T10:10:48Z",
-   "items": [
-    {
-     "id": "74e64218d9d1",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Сколько можно проехать без дозаправки в GTA 6 — журналисты провели тест",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcWlENy1QNjlSQVNwdFlmbDBpeG1WWFlBVVF5Tk8xVjl4eS1YMl8wZE5jNHMxOFJ0eUJZODBraGEyZEtKd3pEQjNsTnR5NkZtaUphNkUyYkp5bXBqN1lqTlV3OGQ1c2w2TzRTSXNLQnNraXFsTy1uQnRQdTA5aWhiTlFGQ09QSDA1dmV0THViaFRHZ1hXRUZoR2ZvVlFaaURLY1E?oc=5",
-     "ts": "2026-11-19T06:38:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0297cc60f1a1",
-   "title": "'GTA 6' fans are flying planes into buildings (or trying to)",
-   "first_seen": "2026-11-19T10:10:48Z",
-   "updated": "2026-11-19T10:10:48Z",
-   "items": [
-    {
-     "id": "0297cc60f1a1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6' fans are flying planes into buildings (or trying to)",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0pmWlZtanNxYmFHTHJtNkZJQzltaGxQLUNhNUxubmhhcnNTQU9vbW9GdWhJX3lHV2tlS3B2RDlKVDFfamx2bThZS2FsbGstV3daWFNHQVBfYkRpQzRTQTFXODYwTkNzUmxidHVPaURWUU02UXFnbTlwUFZjSkJ3LUg2X1c?oc=5",
-     "ts": "2026-11-19T08:22:20Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "941f45d56b40",
-   "title": "Критики назвали GTA 6 игрой поколения",
-   "first_seen": "2026-11-19T10:10:48Z",
-   "updated": "2026-11-19T10:10:48Z",
-   "items": [
-    {
-     "id": "941f45d56b40",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Газета.СПб",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Критики назвали GTA 6 игрой поколения",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xclc2UU9IMkIwM0VaTkEzU19uMzE2T05rUWhhdXctbHNQQmZWeW15b19Eek1Sd2FjdkNBSE1qUGRJMm1mR040RHZueGpKV3lNci1QUk9fUExMekoxcHRPd3d5UTZvcW42UkRQbjBRRUVTekcxOE1YSg?oc=5",
-     "ts": "2026-11-19T09:43:30Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "4f13f78dbe18",
-   "title": "PlayStation Network прилегла от желающих срочно активировать ключи GTA 6 и скачать игру",
-   "first_seen": "2026-11-19T10:10:48Z",
-   "updated": "2026-11-19T10:10:48Z",
-   "items": [
-    {
-     "id": "4f13f78dbe18",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GoHa.Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "PlayStation Network прилегла от желающих срочно активировать ключи GTA 6 и скачать игру",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOazdMTjVlUmJFS3J4ek5PUjRWX0tZXzdkdnRqNmQwSEp6c2NRZG84STBpMzZDNlV0MWZUc3FxVTBDS0N0U0ViQkplUzFGUWt0S1d4bEQ3cEFmeEE4MkJydjBMOWs0dkZwYXVGUjRSWW9HdXVkVHJ4LVVBQlViV1l4ZERzTGI5YWhYbFRFa0hkYWpEV3J5WXM5em13STlvelFoYkg0bjZ4UXRwdHZEV2dyWXYwMUVyU29lX3JBUQ?oc=5",
-     "ts": "2026-11-19T09:58:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6ecd3c5f3050",
-   "title": "GTA 6 Map Guide: All 6 Leonida Regions, Vice City & Map Size",
-   "first_seen": "2026-11-19T10:01:18Z",
-   "updated": "2026-11-19T10:01:18Z",
-   "items": [
-    {
-     "id": "6ecd3c5f3050",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IndianEagle",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Map Guide: All 6 Leonida Regions, Vice City & Map Size",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41Mko2MzVEaG96LTM3bTcyRDhSYTV6NTQ2d2RRcG44aEp0ZXByTjIzSk5KcXlYakdUeDNINXAtVnB0bFJwb2NJNGFvd0hkUHpldHJNak94V0Rsa2lxM2R2XzJZZ1NZcjA?oc=5",
-     "ts": "2026-11-19T09:54:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e25ff5fbf8ce",
-   "title": "GTA 6 Gets Honored For the Worldwide Release By Everyone, Including the Aftermarket and CGI Realms",
-   "first_seen": "2026-11-19T10:01:18Z",
-   "updated": "2026-11-19T10:01:18Z",
-   "items": [
-    {
-     "id": "e25ff5fbf8ce",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "autoevolution",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Gets Honored For the Worldwide Release By Everyone, Including the Aftermarket and CGI Realms",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNDNmekEwU09IdGluVmpsM1J0WnVSS2VnUk5ZRXF2TkI3Vmswc0doanpXVFNRRUpfVTlJSUo5MWpLUm4yRVFHeDB5SWhIczlOdERHZS0yU3MxTTh1ajlxU0syN1YwdWd5R3ZwekJhTHE3cFBwVjZJampLelpIbGxnRmpycmhwNy02S0duQjQySk93TVpQLXBMNENTeUFlN3JycGlFQ1p4TUd2N3JaZTl3NG02ZWU2S09QUzVhcUVQcDN0X1dWX3Q2TDdwZWh5WlNzTFZzV2Z1UTJWRjNP?oc=5",
-     "ts": "2026-11-19T09:57:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "cc3a7734f2f9",
-   "title": "GTA 6: Jason and Lucia's unique abilities explained",
-   "first_seen": "2026-11-19T09:51:13Z",
-   "updated": "2026-11-19T10:01:17Z",
-   "items": [
-    {
-     "id": "cc3a7734f2f9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: Jason and Lucia's unique abilities explained",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHZEdBZkxMT3JieFRiY0tXbld4d2hKdGF0RU9XUHpqTzlHT042eHJSdy1ib3hxcEl0YnJQbU40bktrLXVqR1U5bHduUnVDcGdhR1ptaW54OFJYLW9CaWU2aENGNXNKRlBNMkw4Z1Z4NTFRZ2JW?oc=5",
-     "ts": "2026-11-19T09:43:38Z",
-     "summary": ""
-    },
-    {
-     "id": "f95dd4f254dd",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: Jason and Lucia's unique abilities explained",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yZWpBQnRFdjlfUkFzNE5Yc2ZDX1dtcEtwTjhtWkkzZlduSDdKX0ZWai1PVDNDdFh2X1dxOC1nOWtPODA1VmxWdGZXMlRILVhvQmEzUmRMY3kzNlBFT2ZUdThnNkl0bG5qNEdHY0FxMUV1YXlwZWc?oc=5",
-     "ts": "2026-11-19T09:43:38Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "73c8631254f1",
-   "title": "'Unprecedented. Unbelievable. Unmissable.' The 'GTA 6' reviews are in — here’s what they're saying",
-   "first_seen": "2026-11-18T21:31:09Z",
-   "updated": "2026-11-19T10:01:17Z",
-   "items": [
-    {
-     "id": "73c8631254f1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Unprecedented. Unbelievable. Unmissable.' The 'GTA 6' reviews are in — here’s what they're saying",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRUl6VkZ2eDB3ajR6aUY5Y2k5WnhVRUZYdVpXZ2tXM1pGbk1VQTE2aTJPNjJrRm1GVlhuaktTbE9IZWZKNGJZOS1FSkp2TjBySXk0S3VndWRONWN6cUhiUFBXS1pMX3JvQ2Z1cm5IeFVBZUVvUkZOMEhfMWt1bGRNaUotU2c5TlNSSzBrTXpMRUhaT014LWpOYm5peldQMmZ0VnNweWZzZmR6SmFCczgzWV8xNHZXZ0N4Ui00Yk11bkc2UVhTclhodVZWaG5yQjVfeE5sVlAwQW8?oc=5",
-     "ts": "2026-11-18T21:18:44Z",
-     "summary": ""
-    },
-    {
-     "id": "6e364678c071",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Unprecedented. Unbelievable. Unmissable.' The 'GTA 6' reviews are in — here's what they're saying.",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcXZzVXJ6dzRPMDZYbGZhT3FERTlINzhGM3JLY1dTaXJfOFBJei1fTVkzb3JLZmNhUHJ2SXQyUVM2dTA5SFRSdXdqWTh3MDBzX3VkakdKcVRXSnh2SjJHUk0wcGJJV1VyYkEwSlpQYXhfekpRRmxub3ZiU2JGLWNtbVNFeFJMOTR4V0FVeTRmeU5taXJxbE53SVZja1dBMDJXUk9yR3ZKMHpiMFlsSHliSENMeTlBUjNNOW9Edjh2T2VwX21LLXRVN1ZVTXhHTUpXX3g5cTFjdjVaRm1ZUVkzSGVxNHE1U3JBblpv?oc=5",
-     "ts": "2026-11-18T23:26:44Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6714934b1137",
-   "title": "Выход GTA VI вызвал рост числа отгулов и больничных в мире",
-   "first_seen": "2026-11-19T10:01:17Z",
-   "updated": "2026-11-19T10:01:17Z",
-   "items": [
-    {
-     "id": "6714934b1137",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Финансы Mail",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Выход GTA VI вызвал рост числа отгулов и больничных в мире",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTNFeEFwOUFGNjhpSm5qOHhtbVpjd1RmV3p0dWk1RVdocUVzYzZadTJSem45S2kzYUpnMlpmVUNwMjlEbXN2N2xZdHZsZld2R21sRUNJRllNVTFMSlRYNUNMN3lEanJ2MmFEdy03TGhmalkzdjV3VHpJbjFXR0xXU2gxbk51SVY1bmx0LVVUT21KcklEWmpHY0ZMVXkxQQ?oc=5",
-     "ts": "2026-11-19T07:45:40Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "79ca6e733a00",
-   "title": "В GTA 6 игроки заметили здание, похожее на дом героя сериала «Декстер»",
-   "first_seen": "2026-11-19T10:01:17Z",
-   "updated": "2026-11-19T10:01:17Z",
-   "items": [
-    {
-     "id": "79ca6e733a00",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Кино Mail",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "В GTA 6 игроки заметили здание, похожее на дом героя сериала «Декстер»",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDJuZ3RpbHlqb29EQ3JyRGtSSEFweUZORDlxYnhaTDV3OWNjR3llNDNEaGlUSjUyeFFHUkt2azVpSTQzcTloX1VEenppLVZVbGR4Si1vb3RMT09ZdFJNeGliYXJyQjVOTnJURDIyZGZWZkxfZkxTUUxFRERpeVVMbXJscWcwb29qUmFya2xIalRaR2xtSUwyMmhB?oc=5",
-     "ts": "2026-11-19T09:40:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ec2f6b567f09",
-   "title": "Alex Jones and Nick Fuentes Respond To GTA 6 Radio Station Clips",
-   "first_seen": "2026-11-19T10:01:17Z",
-   "updated": "2026-11-19T10:01:17Z",
-   "items": [
-    {
-     "id": "ec2f6b567f09",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Newsweek",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Alex Jones and Nick Fuentes Respond To GTA 6 Radio Station Clips",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1hvQUlrRDltT3JRSkt1X2lGTUJlOTRsZTFsTXUxVDVZelhIT0NnU0VzR01pbzhTWTdTUnFZWFJKMjJkSzU3eW5MOFlVZm4xOW1mazVkX3NBcEloa052Z3dyV2ZCdlhNREVqRDd2VDZtZlhZNlM5dTV1Zzdoai04c3N4N1dZZUxHZ3J4UnJVZnVnQWc1S3psX1RuVGFSM2c?oc=5",
-     "ts": "2026-11-19T09:41:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e21d81d5760c",
-   "title": "В GTA 6 всё же есть от первого лица — как его включить",
-   "first_seen": "2026-11-19T10:01:17Z",
-   "updated": "2026-11-19T10:01:17Z",
-   "items": [
-    {
-     "id": "e21d81d5760c",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "https://www.championat.ru/",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "В GTA 6 всё же есть от первого лица — как его включить",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ1BDcktuV1JydUZPc0I4cHVlemtZV0lqeEI4VGxzN1lEaVJ6OWctakVSOUtlOUVOSDE3bWVrVVFiTW9fZEVVRzRqNTc1Tjl3Zmg5UzdudUl4dnlRT1lMZ2JyQkl3dE9OUklnbFJlS25vd3B2SzVoTTA4V1dPZWhvd3ZzdFpfVkI2MEVzMmxhekV2Skg0NGFxNHRQcGV1V1lEWm5raEZOTDhhRkVxUWc?oc=5",
-     "ts": "2026-11-19T09:43:02Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "529cb8f9dbe2",
-   "title": "“We Will Get GTA 6 Before Jannik Sinner’s Comeback” – Fans Give Up Hope As Reports Emerge About Italian’s Latest Knee Injury Update",
-   "first_seen": "2026-11-19T10:01:17Z",
-   "updated": "2026-11-19T10:01:17Z",
-   "items": [
-    {
-     "id": "529cb8f9dbe2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "“We Will Get GTA 6 Before Jannik Sinner’s Comeback” – Fans Give Up Hope As Reports Emerge About Italian’s Latest Knee Injury Update",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeXM0a25fMXEtLU1nZkpnZU0zVUlsNXphZ292VzNhRWFUNDdpQmZ3S0JLSmFVX1ZkVlgtYk1iaE5Za2UxdG9wbktHT1JLS2RTQV9MNWZkZHBsOXhfUHNrMC12VGFWTHQ2NkNxdy16Z3lkTk9hdlIxV1BfTnRzVE1ENUgzNA?oc=5",
-     "ts": "2026-11-19T09:47:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8bf0d388e343",
-   "title": "Живой мир, реалистичные машины и тысячи деталей: первые впечатления от GTA 6",
-   "first_seen": "2026-11-19T10:01:17Z",
-   "updated": "2026-11-19T10:01:17Z",
-   "items": [
-    {
-     "id": "8bf0d388e343",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "kursdela.biz",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Живой мир, реалистичные машины и тысячи деталей: первые впечатления от GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUxCSDNtdTB5ZmFURHJZQWc1bkY1UVF0VFBkN1h1OE5sQ2NEOHpwTkN2VURZc2tjWU9iU1dCNVpROXdIZjFzSG9tdWhfTXUtRmR0Wll0Q0cxZm9ZRzlXRnlEd1JDc0Rka2lJLWh2enJ4RXlMN1k2V0tkTGNTaGJlYWQxUllIUmJjeDlrV3RCVkpkaG9pdk9sYm1ZQ0phaWRMeFlKeG1YRDRLTDRsX05OX2VlYjd4LXFjNzRoWXA3RUs3MmVU?oc=5",
-     "ts": "2026-11-19T09:48:25Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "74b9ed577777",
-   "title": "Россияне начали массово скупать игровые приставки — интерес к консолям вырос на фоне выхода GTA 6",
-   "first_seen": "2026-11-19T10:01:17Z",
-   "updated": "2026-11-19T10:01:17Z",
-   "items": [
-    {
-     "id": "74b9ed577777",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "rb.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Россияне начали массово скупать игровые приставки — интерес к консолям вырос на фоне выхода GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTdEYlM4ZkZTeFd3dU1fUG9lSndFcEdlWVFfT09jMzd0blA4REUxM01kWTBrSFVVaDBuYnRCajVhbFphLUgyREhEWjdDQlQzeE1qaS1fektCY1hwdHdzamVwU256NW5wUWNKbkNxcWNaaXJDZzh3aV9oRnNHTnVNYkhYN0lpSURjRUhWY0tONnhpYTF6enBWZVdCOGppckhheTYzU2VHWlVWUGZHcTBaelBHZ3JHdWNM?oc=5",
-     "ts": "2026-11-19T09:50:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-26T10:01:08Z",
+  "last_run": "2026-11-26T10:11:01Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 99/100",
@@ -176710,9 +176066,9 @@
    "vgc: 5/10",
    "insider_gaming: 3/10",
    "ign: 3/20",
-   "eurogamer: 16/100",
+   "eurogamer: 14/100",
    "dexerto_gta: 12/50",
-   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
+   "rockstarintel: 7/10",
    "gtaboom: 30/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
    "tg_gtavistar: 11/11",
