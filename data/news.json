@@ -1,6 +1,47 @@
 {
  "stories": [
   {
+   "id": "8fce969e44e7",
+   "title": "The staggering surge in physical video game sales following GTA 6 launch",
+   "first_seen": "2026-11-26T17:50:48Z",
+   "updated": "2026-11-26T19:40:58Z",
+   "items": [
+    {
+     "id": "8fce969e44e7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Independent",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The staggering surge in physical video game sales following GTA 6 launch",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOVVQRjljcFVHYkFBUXFyalVRUmtkb2lXcDZGdTdqTFBJcVAtSHp4UWNyYWowd09oUjZkOGtiTXpxclNLZk80VzZkSF9DM1Zjak02Q2N3bURiREp0ZGpwOHJHeEc1YVgzVXZ0a2xJMEd1cWY1SUpqRVVHb2llM3FaOQ?oc=5",
+     "ts": "2026-11-26T17:36:00Z",
+     "summary": ""
+    },
+    {
+     "id": "8f13fc78acfd",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Finance",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI launch sparks 400% surge in UK sales of physical games",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHRYWmsxQWFEU2NOWmxjcWVhMW5ONjdjcGlZekJGYVlCR21haEh5U0xNZzI3NHVHNE93LVc3SXNOWDlvUU1FamkxSmZaM1VzRnlhTm5YOE55c05tcGNROFowZEZGN191dnExMzkwVV9xMmFmcUEyTnI5bHQ4VE1kbGNkZ3JMemphNENoRlphU3o4b0lUNzdV?oc=5",
+     "ts": "2026-11-26T18:03:37Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 1,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
    "id": "04229f2c0b9f",
    "title": "GTA 6's 30 FPS lock didn’t last a week on jailbroken PS5s",
    "first_seen": "2026-11-26T19:31:01Z",
@@ -2259,32 +2300,6 @@
      "title": "GTA 6 Boobie Time walkthrough",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45UC10R1loNm5lYUZacjJzUW9GUnlZY2V2TExVXzZ2My1RX05VUkFlZWpsMk1SZWpFbHdxTzUtMGR5RFE1SkIxcWxBbzE5dThlOWh6b0J1b2VVTnRSWF9yZjJ2eFVaUQ?oc=5",
      "ts": "2026-11-26T16:52:10Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8fce969e44e7",
-   "title": "The staggering surge in physical video game sales following GTA 6 launch",
-   "first_seen": "2026-11-26T17:50:48Z",
-   "updated": "2026-11-26T17:50:48Z",
-   "items": [
-    {
-     "id": "8fce969e44e7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Independent",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The staggering surge in physical video game sales following GTA 6 launch",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOVVQRjljcFVHYkFBUXFyalVRUmtkb2lXcDZGdTdqTFBJcVAtSHp4UWNyYWowd09oUjZkOGtiTXpxclNLZk80VzZkSF9DM1Zjak02Q2N3bURiREp0ZGpwOHJHeEc1YVgzVXZ0a2xJMEd1cWY1SUpqRVVHb2llM3FaOQ?oc=5",
-     "ts": "2026-11-26T17:36:00Z",
      "summary": ""
     }
    ],
@@ -165872,200 +165887,16 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "f6c3af211760",
-   "title": "GTA VI physical release ditches discs",
-   "first_seen": "2026-11-18T20:40:50Z",
-   "updated": "2026-11-19T19:40:51Z",
-   "items": [
-    {
-     "id": "f6c3af211760",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "CNN",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI physical release ditches discs",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcWcwdkNwczFvbGptTXpvVUUyZDlKemV3VFpkTEZ6aUx1Y3B5dmF3QzIweUtpa191VHBMeGZZVktUZ0NiQkdhdkZlZExYN1lKdTZvZnVGem9MUGVkUU5sOUVQWnQ3MzhpdkVfbjgwRTdBUW9SVHMxbEFkbVBaQnk5aXBhc2ZBSDhsdW43T3V2WHJKVW9lNWlZdzBYNE1wZ1lYY0E?oc=5",
-     "ts": "2026-11-18T20:35:00Z",
-     "summary": ""
-    },
-    {
-     "id": "f9699969793b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WKYC",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI physical release ditches discs",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbWdwSFk0Rml5TURqLU9RYlJqLThQbHA1U2NUUElHTGt4T0IzSFU4b2cwemFyZlFCOUZMMTRHa3JzbXhINWg1TXZaTm5nRUx6REtSbVQyUS1Ob2NOdHlOQVRoVEZwRnBfTW9oNEdxQThCUFB2TERycVdaUjc0RGt0MDhIS0RGNjVqeWVPdDV3WWl1b3ctczFtek1MRTF2Q01FVnI0ODBrdVMzVVNXMS1OdGY3SjhXYmVZdUkxMWVQbzBpRTM5RnVN?oc=5",
-     "ts": "2026-11-18T23:41:00Z",
-     "summary": ""
-    },
-    {
-     "id": "44d509785b88",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "cbs19.tv",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI physical release ditches discs",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU1VlenhNSktUMnlOc0tPUlFOWUFLY2VjRXhDZmducXZ4M0ItamcydDFwc0c5V0YyeFdzUVJQdHhhdzBiNHVjMFNsMXhqOElZa1JFOEgxRU9BZnkwZWJVWEF3LVJ1UkppeUtmOGlRTFhzdk5JZ0QyUm5iNEgxMGFXVXBlOHFpeUhOTndKR2VrcUs2cFpIRGJ1aFY5N3FLM3JpSDVRcGN3RnRCNjBMc2hGRlhCa3djSjVDNlhGS2pzQWhxNFhlcDdZS3ZvY0xNcE9MWVg2cGozSUxyc002RnBZLTE5UHFLY0tpbTNBTy1OdVhrdDRkYUtPUllLN3h4MERHY212QzBIZ3Y1UQ?oc=5",
-     "ts": "2026-11-19T19:33:33Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 66,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "10979e5da624",
-   "title": "Did you know GTA 6 has a built-in Photo Studio for snapping your gameplay and even learning photo skills? I am COMPLETELY addicted",
-   "first_seen": "2026-11-19T19:40:51Z",
-   "updated": "2026-11-19T19:40:51Z",
-   "items": [
-    {
-     "id": "10979e5da624",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Amateur Photographer",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Did you know GTA 6 has a built-in Photo Studio for snapping your gameplay and even learning photo skills? I am COMPLETELY addicted",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOUVpRTl2RmNaU01vWnpMUWw5U1NZQlR4c3Q1UmtyOVFRX2pmamxWbWFhXzR4d0d3ZVV3UWlDa2NPWmE0UFN3cHBTOFVPVEVBVV8tYzhiTWdBUW1fcEFUX3hmYTlWYmU5S2J5SVFOV2Z2TzZxN1FHT2lTcy1yLXpzYTZQOFItQUwzYU1Sa3JpX0d6TmhNa0ZZR2hmbG5venJLQ2FBVWpyU0FEMmxHakFVSlhsVF85WVdJY1FlNXllS0tvSnZKVGd5dFpPSGxYU04xeXBQSDFtTi1FaWlYekt6QXdBMA?oc=5",
-     "ts": "2026-11-19T18:16:09Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "геймплей"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "7b0c0f966de9",
-   "title": "GTA 6 Players Should Change This One Setting Before Anything Else",
-   "first_seen": "2026-11-19T19:40:51Z",
-   "updated": "2026-11-19T19:40:51Z",
-   "items": [
-    {
-     "id": "7b0c0f966de9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Players Should Change This One Setting Before Anything Else",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpbzVHY3dfT2hmdzY2dEhYT2doSFdHNUk1WTI4WHFDN0xwLUhHallRanRCX2NSanR4VC1DN1V0R3l6S1ZGLUVJd0FnRVRIcWtLdmZmSHhzV2RBMmIzVHpZWkN5NWo?oc=5",
-     "ts": "2026-11-19T19:20:17Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "730307e97a38",
-   "title": "Erik Spoelstra gives Heat the green lite to play 'GTA VI' on off day (like it mattered either way)",
-   "first_seen": "2026-11-19T19:40:51Z",
-   "updated": "2026-11-19T19:40:51Z",
-   "items": [
-    {
-     "id": "730307e97a38",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Fox News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Erik Spoelstra gives Heat the green lite to play 'GTA VI' on off day (like it mattered either way)",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXhfdjZ2LXlDd2lybXZUczBBYWQ5NU1KR2JIeXpCZ1E2d29zNzk2cjRSMnhneEI3cWlYX3RCeS13SHB4b3luUWk0WjZuWm5kcm1GSHFqWFBRYzFFUVFKYmMzeS1pN0h0MzdBNTVGTHplTW45S3pYV0MzbHQ1VjFvdDFxNDNJd2JhaFB6bUlteTVILXZxQjhsb1FFUQ?oc=5",
-     "ts": "2026-11-19T19:25:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "3fccf4a7d5d0",
-   "title": "Relying Only On GTA 6's Autosave Could Cost You Hours Of Progress",
-   "first_seen": "2026-11-19T19:40:51Z",
-   "updated": "2026-11-19T19:40:51Z",
-   "items": [
-    {
-     "id": "3fccf4a7d5d0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BGR",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Relying Only On GTA 6's Autosave Could Cost You Hours Of Progress",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80NTVzblE2dldiYzFLbTBJUXYxYnE2a05mWHR3UVFnbUNfMVNjNzIwWENTUmlMZk9fTDhOZGQxM0p1N1ZMWGdJNm14X2R1MmdlRkxWRkdval9KZ3N6WGZDalZIYlNFVUNqWTFhM2RaMA?oc=5",
-     "ts": "2026-11-19T19:26:15Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "c82909f72587",
-   "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
-   "first_seen": "2026-11-19T19:40:51Z",
-   "updated": "2026-11-19T19:40:51Z",
-   "items": [
-    {
-     "id": "c82909f72587",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Al Jazeera",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmVUcjFqVHQ3ODNqUlJONHpXLUxoWjlDVzNha1RoYnVPT2tnV3U4X2dpXy1XVE9WSlYxYjZUYUwxbXJwYU9QYW5DczNkLWJfS3lHdTBQaF9seE1icnpTc3Zwdzl5eVA2bjBLdUw4bFd4UXMtLTliWmdFYzcwNk9iSDZJV21OWVdVZGJvYWNWSzd0Ukx0S3NqN2NZN2dUeWNUSEt1Z1F1cWZmakFTT21JdTB30gG3AUFVX3lxTE05cXJ6SFh5dlBPY1lXTDR5OEY2Nm5INUZ2SGozTWVZUHNINU5lUi1YMGwwQU56RU4wZzRScUVRTmlIdHZsd3dQdF9qRFNNaFVOeUJyYnI2VGVaUWo0amJHQXRDczNqeE5vS0RqNW94R2tFZVV5VWhqcVJGWFQ2U1ZQUDl1Tmtpd0VubWlvamNQUWgzQTFzcVNHaVFZdlVONlc4c09sc1Z1c0FJWlFiZ3VxZnN3azhiOA?oc=5",
-     "ts": "2026-11-19T19:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-26T19:31:05Z",
+  "last_run": "2026-11-26T19:41:02Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 96/100",
+   "gnews_en: 97/100",
    "gnews_ru: 99/100",
-   "gamesbeat: 2/10",
+   "gamesbeat: 3/10",
    "vgc: 8/10",
    "insider_gaming: 5/10",
    "ign: 5/20",
