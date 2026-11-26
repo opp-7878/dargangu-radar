@@ -4,7 +4,7 @@
    "id": "901bcf0ec54d",
    "title": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
    "first_seen": "2026-11-25T13:31:02Z",
-   "updated": "2026-11-26T10:51:07Z",
+   "updated": "2026-11-26T11:01:37Z",
    "items": [
     {
      "id": "901bcf0ec54d",
@@ -746,6 +746,19 @@
      "url": "https://t.me/gta6deluxe/2430",
      "ts": "2026-11-26T10:49:05Z",
      "summary": "⚡️ GTA 6 сумели запустить ВЫШЕ 30 FPS на ПК — в катсценах и геймплее игра выдает 41 кадр в пике и 30 кадров стабильно Пираты-разработчики всеми силами пытаются портировать игру. Говорят, что на миссии в тюрьме они смогли выжать почти 50 FPS 😀 Подписаться | Наш чат 😀"
+    },
+    {
+     "id": "45d01ef95968",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Энтузиасты портируют GTA VI на ПК, Take-Two удаляет 3000 репозиториев",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wc1RuaDVkWHNVejVVU3plTWN5MER6elljVWJVMzhQU0JFbTgtVkVWTXFxSnBwR1dFZkpqb3Bob0c5NHE3bUF3ZnNwWlZtVjJfYjNSU0gtVG1yNUtPd1d6YUFXc2dKZFB5QUY5XzNCWTlwODVWYzlwRw?oc=5",
+     "ts": "2026-11-26T09:35:42Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -760,6 +773,294 @@
    "score": 100,
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "a9fa5eb99b08",
+   "title": "Rockstar and Panini announce GTA VI: Sports Trading Card Collection",
+   "first_seen": "2026-11-25T19:40:50Z",
+   "updated": "2026-11-26T11:01:37Z",
+   "items": [
+    {
+     "id": "a9fa5eb99b08",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Comics Beat",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Rockstar and Panini announce GTA VI: Sports Trading Card Collection",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYy1nUkhTbzROZEltQXIwbFlJdkJWb3RlWEVqMHZMY1FVTVM2elVrYTBfTHRDdkNSVVE0ZjZUdUcwYWFHU0ZUc3ZuLWF5Q2x1azFkekprMDRfZFFQaVVsR0dod29QemUtZGZuMThZN3BOMW9hb2Z6X1JwN094MGVXWi1TYTZkT0h1bktWQUNnVlB3eHJuZ1dIQ1ZB?oc=5",
+     "ts": "2026-11-25T19:32:29Z",
+     "summary": ""
+    },
+    {
+     "id": "482b08a7e657",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Hypebeast",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Panini Turns ‘GTA VI's’ In-Game Collectibles Into a Real Sports Trading Card Collection",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2laR00wQWVfQmpXZzhLUGl0UmRyaFRaU3RCb1kzMU1TZElXdVVWQy02V3JySW9HVmxwdm50TEdvdXc4dDROcklxZ0JtRkZiQzZsXzRwMWJjM01Ca2lsSDVKR19mNG9SQTRqV0lpQ3EzOGdPRlNlZWpWbjhnMGR0Q19KNUxzUzVRRHNIQWl4WDRWU1B4aVd3a1RPZWNBcnM1Z3R6RmlmdE5kQnM?oc=5",
+     "ts": "2026-11-26T09:37:21Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 и Panini: анонс коллекционных карточек",
+    "summary": "Rockstar и Panini анонсировали коллекционную серию спортивных карточек GTA VI. Об этом сообщила Comics Beat.",
+    "idea": "Распаковка первой пачки карточек GTA 6 с реакцией и крупным планом редких карт — ностальгия и азарт коллекционеров.",
+    "hook": "GTA 6 стала коллекционными карточками — распаковываю первую пачку!",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-25T19:40:54Z"
+   },
+   "msg_id": 2291
+  },
+  {
+   "id": "bb3c0cde4107",
+   "title": "The Biggest Entertainment Launch Ever, 'GTA 6' Hides a Secret Tom Cruise Thriller Mission",
+   "first_seen": "2026-11-25T18:20:47Z",
+   "updated": "2026-11-26T11:01:37Z",
+   "items": [
+    {
+     "id": "bb3c0cde4107",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Biggest Entertainment Launch Ever, 'GTA 6' Hides a Secret Tom Cruise Thriller Mission",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yN1AxT1ItOW1vWDF3Y193aGZCWFV6UHp1V0g2VVJOWjBzNmh3V0J1NzAyVzZyd0JXd1h6bW1ZWnVxWm51QjhhaFU5eVlQUldoMlZQY3RFLWhLaHlJNmdhdEpIMUlfS0k?oc=5",
+     "ts": "2026-11-25T18:01:13Z",
+     "summary": ""
+    },
+    {
+     "id": "3ff50a5e4956",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The Biggest Entertainment Launch Ever, 'GTA 6' Hides a Secret Tom Cruise Thriller Mission",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GVWN4eF9oRFQ2bEVzUWs3VUt5RFpLUFJHMWtJV1Y2aU1TVF9HekVvUUtidHRfdmNOUUd1MTRVN1JwZzR5bDhSX2JkV1c2V3llOVBhSmd5TFZGY25HallERzJJWGM?oc=5",
+     "ts": "2026-11-26T08:33:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8a009b54e316",
+   "title": "Call of Duty потеряла три миллиона ежедневных игроков после выхода GTA 6. Вернуть аудиторию не помогли даже выходные",
+   "first_seen": "2026-11-26T11:01:37Z",
+   "updated": "2026-11-26T11:01:37Z",
+   "items": [
+    {
+     "id": "8a009b54e316",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Neva.Today",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Call of Duty потеряла три миллиона ежедневных игроков после выхода GTA 6. Вернуть аудиторию не помогли даже выходные",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5bTMzRHJua29qRm1jWVNQaDVTQlBOR2pEVnR2aDUzTnI4MVNPUXJxREllNTZ6ckdrakFhV0FwcFIxblAyQzh3Zjc1T05SRjdua3JJ?oc=5",
+     "ts": "2026-11-26T10:48:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8822aefabcf3",
+   "title": "GTA 6 Online: Will there be a GTA 6 multiplayer mode?",
+   "first_seen": "2026-11-26T11:01:37Z",
+   "updated": "2026-11-26T11:01:37Z",
+   "items": [
+    {
+     "id": "8822aefabcf3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Radio Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Online: Will there be a GTA 6 multiplayer mode?",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xcklNY2J5S2szeHQzdmxHVU4wSkFGSE9WYUEzcFhJaXYzb0ZNYTBybFREMmN6T3FUMUlyR1FSbmxaMmwzVE5ZeW1vWDM1U09WdDFIdTZ5ZExqMXFUWDNWck53U1o4SEZhSnFpVVN2LTU?oc=5",
+     "ts": "2026-11-26T10:52:28Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "Online"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 Online: что известно о мультиплеере прямо сейчас",
+    "summary": "По данным Radio Times, Rockstar подтвердила, что в GTA 6 будет онлайн-режим, но подробностей пока нет. Издание напоминает, что GTA Online приносила миллиарды и стала стандартом для серии. Официально Rockstar не раскрывает детали — ждём анонсов.",
+    "idea": "Коротко разбираем, что уже подтверждено про GTA 6 Online и чего ждать дальше. Зрителю важно понять, когда ждать деталей и что это значит для игры.",
+    "hook": "GTA 6 Online подтверждена, но что там будет? Коротко и по фактам.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T11:01:41Z"
+   },
+   "msg_id": 2327
+  },
+  {
+   "id": "68ad6332ea8b",
+   "title": "Take‑Two добилась закрытия 3007 репозиториев с фанатскими портами GTA VI",
+   "first_seen": "2026-11-26T11:01:37Z",
+   "updated": "2026-11-26T11:01:37Z",
+   "items": [
+    {
+     "id": "68ad6332ea8b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Хабр",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Take‑Two добилась закрытия 3007 репозиториев с фанатскими портами GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZRHFqaTFmTVR5MWhCalN1SWc3ODI0SWc5bTk2X3dzWm5yMDNxUzN5MUpLYng4bkpUY0RtNWxDbFJ2Y0dTXzVlS2VBY2RPUdIBWEFVX3lxTE51ZzVKTG9yUkdpMWNDX1V1VjRjVDZiMUVfQUlnRjM5Q2lNcVJuTXc5X1I4bFdpSE8yMXZLM01NQXd2cTc4VHJ2b09EYUZFQ2NmM3Q1eEFKUXU?oc=5",
+     "ts": "2026-11-26T10:56:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "3e7f9bdbe511",
+   "title": "Джейсон и Лусия получили высокую оценку от EDGE — их назвали легендарной парой",
+   "first_seen": "2026-11-26T11:01:37Z",
+   "updated": "2026-11-26T11:01:37Z",
+   "items": [
+    {
+     "id": "3e7f9bdbe511",
+     "src": "tg_gtavistar",
+     "src_name": "TG @GTAVIStar",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Джейсон и Лусия получили высокую оценку от EDGE — их назвали легендарной парой",
+     "url": "https://t.me/GTAVIStar/1079",
+     "ts": "2026-11-26T10:57:07Z",
+     "summary": "Джейсон и Лусия получили высокую оценку от EDGE — их назвали легендарной парой • Журнал EDGE включил главных героев GTA VI в число величайших дуэтов индустрии развлечений. В рецензии отдельно отметили, насколько разнообразной может быть их совместная жизнь: от утренних поездок на велосипедах до масштабных перестрелок к вечеру. • Журналисты также похвалили взаимодействие персонажей и свободу их настройки. По мнению EDGE, именно сочетание этих элементов делает Джейсона и Лусию настолько запоминающейся парой. • Авторы рецензии считают, что за всей жестокостью героев по отношению к окружающим скрывается главное — они действуют не из страха, а из любви друг к другу. 6️⃣ GTA VI News 💝 💬 Наш чат"
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "11bfd0061f70",
+   "title": "Is XXXTentacion in GTA 6? Tribute rumours explained",
+   "first_seen": "2026-11-26T11:01:37Z",
+   "updated": "2026-11-26T11:01:37Z",
+   "items": [
+    {
+     "id": "11bfd0061f70",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Radio Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Is XXXTentacion in GTA 6? Tribute rumours explained",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORlFsMTMzZktjNlRucnJRclRVM1k1TkxVdXhBTE9hSW5pd19oTmVPd29MdjZBam1zSFpPUHI5ODRwWmhqcFd1Z0h4OEkxSHZRbndoX2NOVmFUNE1ZLUpDUHQ4S085NlZmMmRwZEFyXzhfS2FhUkRNM3BNRFAybFlGdmhsa2x4YURSbEE?oc=5",
+     "ts": "2026-11-26T10:57:24Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "63127e8b0cba",
+   "title": "Is GTA 6 coming to PC?",
+   "first_seen": "2026-11-26T11:01:37Z",
+   "updated": "2026-11-26T11:01:37Z",
+   "items": [
+    {
+     "id": "63127e8b0cba",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Radio Times",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Is GTA 6 coming to PC?",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tX1kxN2w2VlJiVDZieUZoVUNfUmg2STNOOVVubi12LTV1UkNiQWlIQVRkTkRrTnBHQW9FWVJmUl80eDNsUnpMVVJONlJPYWVDa0xSRzk1R3pjY0RwVzdNNzJMY01QZXM3QXluQk44WQ?oc=5",
+     "ts": "2026-11-26T10:57:25Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "8282d8dbab77",
+   "title": "GTA 6: Money Guide & How to Get Rich Fast (WIP)",
+   "first_seen": "2026-11-26T11:01:37Z",
+   "updated": "2026-11-26T11:01:37Z",
+   "items": [
+    {
+     "id": "8282d8dbab77",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Push Square",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Money Guide & How to Get Rich Fast (WIP)",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TMDRaYlBONGJ1YXhqWnR6UTlVcV9RRkhNQ2RSXzJtOXBwY0swUFZzX1RXa3NLeEJiMkZRWHFqQ1BDa2NRSkZ3d193NUdhM0lxbWt2TDB5NXRFSjZNdnRWeA?oc=5",
+     "ts": "2026-11-26T10:59:47Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
    "status": "new"
   },
   {
@@ -11455,45 +11756,6 @@
    "status": "new"
   },
   {
-   "id": "a9fa5eb99b08",
-   "title": "Rockstar and Panini announce GTA VI: Sports Trading Card Collection",
-   "first_seen": "2026-11-25T19:40:50Z",
-   "updated": "2026-11-25T19:40:50Z",
-   "items": [
-    {
-     "id": "a9fa5eb99b08",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Comics Beat",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar and Panini announce GTA VI: Sports Trading Card Collection",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYy1nUkhTbzROZEltQXIwbFlJdkJWb3RlWEVqMHZMY1FVTVM2elVrYTBfTHRDdkNSVVE0ZjZUdUcwYWFHU0ZUc3ZuLWF5Q2x1azFkekprMDRfZFFQaVVsR0dod29QemUtZGZuMThZN3BOMW9hb2Z6X1JwN094MGVXWi1TYTZkT0h1bktWQUNnVlB3eHJuZ1dIQ1ZB?oc=5",
-     "ts": "2026-11-25T19:32:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 и Panini: анонс коллекционных карточек",
-    "summary": "Rockstar и Panini анонсировали коллекционную серию спортивных карточек GTA VI. Об этом сообщила Comics Beat.",
-    "idea": "Распаковка первой пачки карточек GTA 6 с реакцией и крупным планом редких карт — ностальгия и азарт коллекционеров.",
-    "hook": "GTA 6 стала коллекционными карточками — распаковываю первую пачку!",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-25T19:40:54Z"
-   },
-   "msg_id": 2291
-  },
-  {
    "id": "6f5aecf97d3f",
    "title": "Потрачено: мужчина вызвал полицию на бывшую из-за GTA VI",
    "first_seen": "2026-11-25T19:40:50Z",
@@ -12409,32 +12671,6 @@
     "at": "2026-11-25T18:20:51Z"
    },
    "msg_id": 2285
-  },
-  {
-   "id": "bb3c0cde4107",
-   "title": "The Biggest Entertainment Launch Ever, 'GTA 6' Hides a Secret Tom Cruise Thriller Mission",
-   "first_seen": "2026-11-25T18:20:47Z",
-   "updated": "2026-11-25T18:20:47Z",
-   "items": [
-    {
-     "id": "bb3c0cde4107",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IMDb",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The Biggest Entertainment Launch Ever, 'GTA 6' Hides a Secret Tom Cruise Thriller Mission",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yN1AxT1ItOW1vWDF3Y193aGZCWFV6UHp1V0g2VVJOWjBzNmh3V0J1NzAyVzZyd0JXd1h6bW1ZWnVxWm51QjhhaFU5eVlQUldoMlZQY3RFLWhLaHlJNmdhdEpIMUlfS0k?oc=5",
-     "ts": "2026-11-25T18:01:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   },
   {
    "id": "ffb83cb4ed84",
@@ -175216,327 +175452,25 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "92b3fc4ad5c3",
-   "title": "Even the PS5 Pro is \"not powerful enough\" to run GTA 6 at 60FPS or 40FPS, Rockstar says",
-   "first_seen": "2026-11-18T11:20:55Z",
-   "updated": "2026-11-19T11:01:19Z",
-   "items": [
-    {
-     "id": "92b3fc4ad5c3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Kotaku",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDM4WXU5eFRXaEpTMm0yRjAxNkxBUU9XTHRRVHVMdElnZURCcm5tRXo5ZmxFNEVnZEZfXzZiSV9xSk5HZFhqMjE2c1BETmtzX05qbURoWklpTjk4QjUwdUprUU5CUzlWYnV5cmRyN0swbVQwVHZEYkhEeXJ4WXBMV2NFTlpEc2djMDYyeDhXRTdGelNEWnZMNmQwRkktMHczeG1KeFV0cUJLZw?oc=5",
-     "ts": "2026-11-18T11:10:48Z",
-     "summary": ""
-    },
-    {
-     "id": "2b56a0b73bcf",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Won’t Be Getting a Future Performance Mode, Even on PS5 Pro",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JeDlncmdyeGw1UVdReUU5NDNSMTBVNnBPSlFfTkRCeDVmQ3NUZnFQRWNxVG41bTZZWUR5aW5rZWw0eDRLMmk0RjRkSlowck5Od29Yd285T0Z2MUYxSHJkU2J6YjNNSVE4WUkzc2hRSTREQQ?oc=5",
-     "ts": "2026-11-18T17:47:10Z",
-     "summary": ""
-    },
-    {
-     "id": "a94de2e1afdd",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Even the PS5 Pro is \"not powerful enough\" to run GTA 6 at 60FPS or 40FPS, Rockstar says",
-     "url": "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
-     "ts": "2026-11-18T18:17:50Z",
-     "summary": "Don't expect GTA 6 to get an update supporting higher framerate modes, at least, not on current-generation consoles. Rockstar has explained that even the most powerful console of the bunch, the PS5 Pro , isn't powerful enough to run the lavish game at 40FPS or 60FPS. Read more"
-    },
-    {
-     "id": "9c5ff656582f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "autoevolution",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Locked at 30 FPS: Not Even PS5 Pro Can Handle 60 FPS",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYUppWm5xT0llLU4zRkFTTkgxaG9uNjFOVERlWTJjTVhrOHZoUUpYRmlqejBqaEl4SkJOdDNWREZlckszU3ptX1hTQVBOSFhqVUpxb2VXRWQ0S2lkZUNqejJuMkhSR1doZF9nWmVZUDhDNmZMOVFXUGhaN2g4bkt0ZDlBbTg5Yk1TYjRWNjZiRDBTR21ub0xJYVNESUFOVVBXcF9CQkJqcw?oc=5",
-     "ts": "2026-11-19T08:42:02Z",
-     "summary": ""
-    },
-    {
-     "id": "0ba5680efbac",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Gameranx",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar: PS5 Pro Is Not Powerful Enough To Run GTA 6 At Higher Frame Rates",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX1dieHNaemZtUWd6RnY3UFZhWmdHcEJOeW5LZDJTREtTZHVSRlljMndlcnFCSk14TjVXVVNZdXNuS0dBejZZZnoxcWY5Q3JYT1FLVzBJZmN4M0ZkejJuSmtkRXdhbFF4MkwyWndTRWlJQ05sbXhmaldFZWlWODFUQ1J1emR1c1BFU09SSWdabWV6YTE0ZEEyQXhaa2I3MkJIQy1tVVU3c2daVzJSUzAxMHVqVTFYOXpsTUFQQVU0TQ?oc=5",
-     "ts": "2026-11-19T09:07:11Z",
-     "summary": ""
-    },
-    {
-     "id": "e8e60fb36033",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Wccftech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Rockstar’s Marc Chambers Says the PS5 Pro CPU Is ‘Not Powerful Enough’ for Grand Theft Auto VI’s Complex Simulation at 60 FPS, Squashing Performance Mode Hopes",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOXzREYXVOUFlmd2ltcmVPbzBDWHJmWkdfbUNBbTJKYTdmRlc5Ni00S1NTN18yUFNNWmhwXzI5RHJqMEo2TjE5cEFLQ1NGSEZ5TjNIV3kyRTZpdGtTOVFuZ1RvSkx2WHNyaWpaRl9NYnctanpYSHg0OFRHMER0dFN1Szh4U1ZkMExsN0pXMEdMTXJua3pMSThiakk0MXh0dGszdTFnbWlucFhhRVXSAbABQVVfeXFMUGR2a2w2MHhKaE1ac1BoRUR0NW56OFVHY1lNSlhxU01iTkdsZFhGWkhCcG5sbFg1NFZ2djhHM01qU21xMVpKaGFnb0ZKU09jeENzR3dxeFF4bjRodUtLSzBJaERuSEh2akZ2SzlVSWNyaE9IclJ5TlowY3dOMFV1NlVGcmxKUGFnNEc1dXRxRHQ4WFliU2VNSXhWYnVlQU13UnJzSFJIYU1ucGY1UHVpOUo?oc=5",
-     "ts": "2026-11-19T10:11:40Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 95,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 не получит режим 60 FPS даже на PS5 Pro",
-    "summary": "По данным Kotaku, GTA 6 не получит режим 60 FPS даже на PS5 Pro, потому что консоль «недостаточно мощная». Источник ссылается на людей, знакомых с разработкой.",
-    "idea": "Короткий разбор: почему даже PS5 Pro не тянет 60 FPS в GTA 6 и что это значит для игроков. Зрителю важно понять, ждать ли 60 FPS на релизе.",
-    "hook": "60 FPS в GTA 6 не будет даже на PS5 Pro — и вот почему.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-18T11:21:35Z"
-   },
-   "msg_id": 1244
-  },
-  {
-   "id": "a51367ed4395",
-   "title": "‘Grand Theft Auto VI’ Arrives After 13-Year Wait as Gamers Worldwide Celebrate Long-Awaited Release",
-   "first_seen": "2026-11-18T16:01:17Z",
-   "updated": "2026-11-19T11:01:19Z",
-   "items": [
-    {
-     "id": "a51367ed4395",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "People.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ Arrives After 13-Year Wait as Gamers Worldwide Celebrate Long-Awaited Release",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUTIxMkxycEtmUnJwb0o4UmZ1TVJ2MEVzWXowbWpaaXVUa0FHN2hBWXRaN1VjMjFWUWRuLU5LdHhjOFNjWEEweE5zQzh6blpRb2JCZHdwaUliZF9HVkJIRGstUmhadWxUQzNONGhwUjJFT3FMSWRUVm9YNHA1eEVsQlZnaU13R0RXYmZXdXZYdlk0WlZEQ25HNFZNOFA2NjNuVTVCX0lKNDlpTXU0M2R1QlFPNzlIV2xZd0JBUUxrbkt5d2M?oc=5",
-     "ts": "2026-11-18T15:50:16Z",
-     "summary": ""
-    },
-    {
-     "id": "b6afe047ba31",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Fox Business",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Take-Two stock jumps over 6% as Rockstar's long-awaited ‘GTA VI’ arrives after 13-year wait",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVRJakcxRmVtREpMZWJFWGZGX1NnRWJSOGtqQ0xPVE1hOWxCTkhWUkZ6ajlaTUFocnlkZlFTLVA1bWpVWHVsaS1sNVZCenZMb2lnRElCSDNVcGlmc3dSMFl4dEhMdjhlQ3VUWjAwREwxbVhvUWJQNFZfZ1ZUSjQ3aE9SeFV2NTNOYVlGNkVHUlVBa2xLYjZlR2pleF9PWGR5dkJGYm9EcF9CY2ZrVlZmTDdFSGdHUDdOQ0JVTdIBwgFBVV95cUxPV1BYV2JCalNaZURZcGYzMVVoRTAyNGtvRjYtV2MzY0kwVi1MaVhPaXV1cmFGbkhHdnpoU3pFZlVidDNvMHAzNnlKNWlIYnFjTU1FYjJmWTBLNlV0bUFOTnVqa0Z5OEtCNGtOejA1ZzBUZGJZRWVpQkh6NlhGaHNZWHhMd05lWjBTYnU5NXI2WkEtaWhxLUFNNmw5Z0poRzlXN0hvZUh1TDZhZWRXV3IzVHFJV0xORk0yVTl1NmNvMjZ3dw?oc=5",
-     "ts": "2026-11-19T02:04:00Z",
-     "summary": ""
-    },
-    {
-     "id": "ef2c3c4b2e57",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Benzinga",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI Is Live, Take-Two Stock Is Popping, and Crypto Punters Say Record Sales Are a Lock",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQenVjam55QzZaNFZMQXNOYl9nRk9iaXlZU01kV3dRa3hCVG50aWE3Q3hsU0VZTzU0V2diQVM3RU94aW1ubEtHSlU5VEw5d1dZdEZBejFvZ2ZZb2xUSHZUN3RfMUFTMTkybnlQUzhYbHVoU1ZqNGNfMlFKLUJVUTduNVhDUDc0SXI5RTE0VzBybWhvSmUxQ2ZKMGpQQWEyOXl1NW9SZjVhWmJXS0dNeVhNeWlYYTE0US1iRHFaNXFtbzJDamhEMFU5Rk10bw?oc=5",
-     "ts": "2026-11-19T03:07:52Z",
-     "summary": ""
-    },
-    {
-     "id": "134a5bae3d04",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Motley Fool",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Should You Buy Take-Two Interactive After the GTA VI Release?",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRk5oRWNFN205SFVLd01wbTlGWGlqNUk2M0VsaEpfSG85eWJfazlOb0NBZDdMOXhUY0JuTnJJaFR1ZmRIRkRSSk9OTENUNzNWRGRkaGk4d3dPVFYxc01VRDhUcThvVEtaQ2FNejNTYzUtUUkxWHd5YXR2Yk5KNGdjZ0NldklXU0h6R0k0c3FmNGh4X0pzNWNxa1hoLV82MmFq?oc=5",
-     "ts": "2026-11-19T05:01:02Z",
-     "summary": ""
-    },
-    {
-     "id": "2fd0fe33464f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Finance",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Should You Buy Take-Two Interactive After the GTA VI Release?",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnRlcW5tRnRBcVRqcVhqNzJrdzJMXzVvN05HdjVPYk1vT011YVZwOTdoNHRCdEFIaDV1bVV4bnJPX0lpU1dia1VHRVZ1WTVNOTM4bDVqSDMwZGhQbFJGaC14LW9aZ3Nad0RLNGdNSGRLb1lMU3JPcEM5aDM1TGlPd0VBeWVta1RRbHN0Qk92SDlqeGNqelE?oc=5",
-     "ts": "2026-11-19T05:21:00Z",
-     "summary": ""
-    },
-    {
-     "id": "dca97dc17f5a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Finance",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI Is Live, Take-Two Stock Is Popping, and Crypto Punters Say Record Sales Are a Lock",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQUc3VXZ1MmR5eHlYSkJfSG16VmRKeGZHZkNEdVZaQ1dYUmppTEpjTlZIbEpINXY1anFpYTFOcjI0UDNMTFpUNmx0aUdEdnhuTE95dUotTUNLNnp2RHNmOGVjYkx4bnV4YWhEcnJteG5MRUpXc1hTaFN5NHJqSjZUYnhfWEkwdklkV243S09uaw?oc=5",
-     "ts": "2026-11-19T03:07:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "Take-Two"
-   ],
-   "score": 90,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "0835cbe05da7",
-   "title": "GTA 6: Why the hype is huge, including the game's first female lead",
-   "first_seen": "2026-11-19T11:01:19Z",
-   "updated": "2026-11-19T11:01:19Z",
-   "items": [
-    {
-     "id": "0835cbe05da7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: Why the hype is huge, including the game's first female lead",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02MW5fUlRNSmJvZzF1LUR0ZXZ6MFNjeW5TeDM3UmNLLUJJNWJpaFhQeUdLYWRoVlljNUJSYy05a0Z1WVI5ZFRBUW5GTzdCQlhtRURtNGxEakcybjdxeHRKOE5LeGZGNU9JSUdGNmNGYkJ5eGxPTVZmX1ljdlZaQQ?oc=5",
-     "ts": "2026-11-19T10:00:05Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "ee0aef66d612",
-   "title": "ГТА 6: дата выхода, цена, платформы и где купить игру",
-   "first_seen": "2026-11-19T11:01:19Z",
-   "updated": "2026-11-19T11:01:19Z",
-   "items": [
-    {
-     "id": "ee0aef66d612",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Финансы Mail",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "ГТА 6: дата выхода, цена, платформы и где купить игру",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1dHbEt4MnphM2pPM0EzYW00Y0hvZG5iZGxYdHF6eUJqMDRPaEVFbW05cmh0M2RzRjJWaElOTEF2NTBkQk5FMnN6V1hfdndJRDhJaW9LUURBSjQxZk5veC0tVFpKbXFvamFGVXliS1dEaUJyZXBJOG9xZ2tUa0dVcDAzSWY1WDl3LV9uanpZcUptRkpkakJ3WG53?oc=5",
-     "ts": "2026-11-19T10:38:23Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "дата/перенос",
-    "цена/издания"
-   ],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "51a6eda45783",
-   "title": "«Майами» на один матч стал «Вайс-Сити». Клуб с размахом отметил выход GTA VI",
-   "first_seen": "2026-11-19T11:01:19Z",
-   "updated": "2026-11-19T11:01:19Z",
-   "items": [
-    {
-     "id": "51a6eda45783",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "sport-express.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "«Майами» на один матч стал «Вайс-Сити». Клуб с размахом отметил выход GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX1ZSWm9scUV6ampnWXpuRlA2Qk1NeVJ4M1NlMVBLSmtPczRlQkdxejFucy1pc29GS0d2UzVLSWh4SkNEamZwdnMtZGpuVG9MaWZpZk9SUElHNVJXX0hOTVc0Y3NBMjFuVmhJZDVTU0wxcmEtYjROTXhyMDhmNkphaEFSSU1yX2t2NkpKWmxZSXNra1BndzBWS3lJZTdPTDhGNUNPWHgwbHhsZm9GcG05TjQtbXVDWEp0aldmdXJiSUxKOUZLemVzS2d3cl9uOWM?oc=5",
-     "ts": "2026-11-19T10:45:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "45e2b55b2a4b",
-   "title": "How to holster your weapon in GTA 6",
-   "first_seen": "2026-11-19T11:01:19Z",
-   "updated": "2026-11-19T11:01:19Z",
-   "items": [
-    {
-     "id": "45e2b55b2a4b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Rock Paper Shotgun",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How to holster your weapon in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11SlI1ajV4aDFvT3EzOXlJMjVhWHUyV3BTZHBxdElJQjFJOHQtZjZWbFdXLWlveG0zckZWV3Q2dHFoS0UtSlM1dlBxVlZHcjg5SUtqTi1jMDg0VEJ0aDllVlcyajFqd2RNN1FJdDhhX0VreHM?oc=5",
-     "ts": "2026-11-19T10:46:30Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-26T10:51:07Z",
+  "last_run": "2026-11-26T11:01:41Z",
   "last_log": [
    "rockstar_site: 0/0",
    "gnews_en: 97/100",
-   "gnews_ru: 97/100",
+   "gnews_ru: 96/100",
    "gamesbeat: 2/10",
    "vgc: 5/10",
    "insider_gaming: 3/10",
    "ign: 2/20",
    "eurogamer: 14/100",
    "dexerto_gta: 12/50",
-   "⚠️ rockstarintel: HTTP Error 500: Internal Server Error",
+   "⚠️ rockstarintel: The read operation timed out",
    "gtaboom: 30/30",
    "⚠️ reddit: HTTP Error 404: Not Found",
-   "tg_gtavistar: 12/12",
+   "tg_gtavistar: 13/13",
    "tg_gta6deluxe: 9/9",
    "tg_gta6_m: 3/6",
    "tg_gta6newsdaily: 1/19"
