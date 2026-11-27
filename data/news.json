@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "55f6992f1401",
+   "title": "🎮 In GTA 6, if you shoot a car's gas tank, it starts leaking fuel and leaves a trail wherever you drive. So this player drove off with the tank still leaking, then lit the trail behind him. The fire followed him the whole way🔥 Writer: Naz",
+   "first_seen": "2026-11-27T05:01:13Z",
+   "updated": "2026-11-27T05:01:13Z",
+   "items": [
+    {
+     "id": "55f6992f1401",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "X",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "🎮 In GTA 6, if you shoot a car's gas tank, it starts leaking fuel and leaves a trail wherever you drive. So this player drove off with the tank still leaking, then lit the trail behind him. The fire followed him the whole way🔥 Writer: Naz",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lWkFIbnV4M20zZFU1TUZRY2k4R0x1bFdFWjdaRHN0ZW1FZ2ZzTW94V3FBSXl6LUltaWRLa3h6S2JHcUo0Y2pMZ3JTODUyNmNaRWt6TFBxcEV3S0ozQmRIbnJFbmNfdEhiN1RITg?oc=5",
+     "ts": "2026-11-27T04:48:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "слив"
+   ],
+   "score": 65,
+   "level": "SPECULATION",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Слив GTA 6: бензин течёт, след горит — огонь догоняет",
+    "summary": "По словам Naz, в слитой версии GTA 6 бензобак пробивается, топливо течёт и оставляет след. Игрок поджёг след, и огонь преследовал машину всю дорогу.",
+    "idea": "Короткий геймплейный трюк: пробиваем бак, поджигаем след и уезжаем, пока огонь догоняет. Зрителю зайдёт зрелищный эффект и понятная «фишка» физики.",
+    "hook": "Пробил бак, поджёг след — и огонь догнал меня на ходу.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T05:01:19Z"
+   },
+   "msg_id": 2409
+  },
+  {
    "id": "c47f939e9492",
    "title": "Nick Eh 30 Unleashes Creative Chaos in GTA VI Streams",
    "first_seen": "2026-11-27T04:50:53Z",
@@ -159293,67 +159332,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "30d618b31947",
-   "title": "'Dexter' References Have Been Found in 'GTA 6'",
-   "first_seen": "2026-11-20T05:01:11Z",
-   "updated": "2026-11-20T05:01:11Z",
-   "items": [
-    {
-     "id": "30d618b31947",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Men's Journal",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Dexter' References Have Been Found in 'GTA 6'",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZTkyWGdLTHRiWnRfTy11ME54Zm1abGpfOEp3U05aakRTTlhTejRFb3JEeFJSRk1lejNDdXNrSHBpcFI4SmhaQnZXN2xVQUhuVG90X3FxQ3Zid1ZTX25DdDNmRWdWdk1mR0YtR21md2lhQmx6aFNiaWR0VDN4czV2NWdrZWRuZTkzS0ctTWNn?oc=5",
-     "ts": "2026-11-20T00:59:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "094fdd1c4a0d",
-   "title": "Battlefield 6 потроллила Rockstar собственным Vice City на фоне выхода GTA VI",
-   "first_seen": "2026-11-20T05:01:11Z",
-   "updated": "2026-11-20T05:01:11Z",
-   "items": [
-    {
-     "id": "094fdd1c4a0d",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "Battlefield 6 потроллила Rockstar собственным Vice City на фоне выхода GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkZSRmVsOWQ4UldnX240eUk3NGhwSEFDbGVCbWplOGZwdEh0YlNweHFZSUlJZDE5QXJYUGRGanRlUHNtbGNfYWhYR1lFc0xxZjUtVWZqbnBmS003OVFMYW1CRmI3ZFg4OUQxdkdadXAteXhHQjdsVEpCQXlwYUVzZDU1ZEdQT2UzaWpLdjhVWTUzck1CTjJFZDRlczNoODIzVVBWT3lOMUdRbkw4bUpLbkh1eVhOS1N50gG-AUFVX3lxTE5VS010cnNKaDdmVVhteUZvOC1uNXJFV2hfRHJSeXd6OHBZS0pvZnFoT1otazRRTXRjMmI5VEZ5Y3dSZUlkWm9CY3VBX2lqTmYyZk5pM2dkODZnbkd0bEhvamIxRnk1LTZlTFRCQUsxRHFwS1Zvb1hYUmozRzNOU2N3elFFTVJJYUhVdk54eFpDRGRNTlhYWFVqZTNRZ0t0QVJ1NWJPSDNPaEE1bmdpWHgtRlh1WHBCZnJjZXNtdnc?oc=5",
-     "ts": "2026-11-20T04:50:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T04:50:53Z",
+  "last_run": "2026-11-27T05:01:19Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "⚠️ rockstar_site: HTTP Error 429: Too Many Requests",
    "gnews_en: 96/100",
-   "gnews_ru: 98/100",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 3/10",
    "vgc: 7/10",
    "insider_gaming: 5/10",
