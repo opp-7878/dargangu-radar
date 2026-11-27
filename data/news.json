@@ -1,60 +1,10 @@
 {
  "stories": [
   {
-   "id": "80bfa0358df5",
-   "title": "On Top of Everything Else, GTA 6 Is a Solid Stealth Sandbox",
-   "first_seen": "2026-11-27T15:31:12Z",
-   "updated": "2026-11-27T15:50:52Z",
-   "items": [
-    {
-     "id": "80bfa0358df5",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "On Top of Everything Else, GTA 6 Is a Solid Stealth Sandbox",
-     "url": "https://www.ign.com/articles/on-top-of-everything-else-gta-6-is-a-solid-stealth-sandbox",
-     "ts": "2026-11-27T15:00:00Z",
-     "summary": "I came to GTA 6 for its wild car chases and explosive shootouts, but its the really solid stealth that has me hooked."
-    },
-    {
-     "id": "2b655ad98e15",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "On Top of Everything Else It Does Brilliantly, GTA 6 Is a Solid Stealth Sandbox",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXVkY0NURHNoT0NjVGdUWm0tSjRFdnVSMTRETGtVclVHcWVSU0x1UVNZNndXZlBBOEc4M0FYTGJkYlQ4YUp2cUN5dDBlSWJ6TzlDdWdBSU1CNVY5aXVYZlk5Z0FScHZCRlhLb2FIekE5VTJVQkdJUFFneEFNc2RwbDBlT1BHOHpBQkpxVVd5Z1Q?oc=5",
-     "ts": "2026-11-27T15:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 удивила скрытностью: не только погони и взрывы",
-    "summary": "По данным IGN, в GTA 6 неожиданно сильная и продуманная стелс-механика. Автор пришёл ради погонь и перестряжек, но именно скрытность его зацепила.",
-    "idea": "Короткий тест стелса в миссии: прячемся, вырубаем, обходим патрули. Зрителю интересно, что скрытность в GTA 6 реально работает.",
-    "hook": "Я пришёл за взрывами, а залип на стелсе в GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-27T15:31:15Z"
-   },
-   "msg_id": 2446
-  },
-  {
    "id": "ae9c0a889ecc",
    "title": "Despite Take-Two Takedown, Vibecoding Teen Behind Nuked GTA 6 PC Port Project 'Leonida' Vows to Continue",
    "first_seen": "2026-11-26T16:10:53Z",
-   "updated": "2026-11-27T15:50:52Z",
+   "updated": "2026-11-27T16:01:14Z",
    "items": [
     {
      "id": "ae9c0a889ecc",
@@ -393,6 +343,19 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ESTJOSnVFN09EUzRtNmZuQnBHQ3NRbEhCVXZlQVM5X2VxYV91WVU1cnlHc3ZlVkd4NGNkRWdHSHktZEVYQ3JkOGVld0xjei1yREg3S3Y4bE1vV0FoQzBKR1lwZFhmWWhPSVJIaDlJRW1hTTEt?oc=5",
      "ts": "2026-11-27T15:46:08Z",
      "summary": ""
+    },
+    {
+     "id": "f8768ffef4f8",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Неофициальный порт GTA VI выдвл 12 FPS на ПК с Ryzen 5 4500 и RX 6600",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObUJ3czkwU3NJTjVPRmQzaFIxa2tSSGV0TEZKNlN6ZEZwTEtDUGRKR1BtdVlpdS0xTktxR29IeXlJZEVQRXFoQTBDZ21Ma1N5VWtuU3VXeWJndVItRzN4VnNkQ2ttT19WSzlId1E0bFZZSHdMVHMxWWh1UDZlQnFWTEF5OEVQVjdDVTljN3V1UTUtMUNXMVAyWnlqUEEzeXFu?oc=5",
+     "ts": "2026-11-27T13:41:30Z",
+     "summary": ""
     }
    ],
    "tags": [
@@ -404,6 +367,158 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
+  },
+  {
+   "id": "4bc9472b8d7d",
+   "title": "The employees of Rockstar Games did not support the idea of forming a union within the company",
+   "first_seen": "2026-11-27T16:01:14Z",
+   "updated": "2026-11-27T16:01:14Z",
+   "items": [
+    {
+     "id": "4bc9472b8d7d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Game World Observer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "The employees of Rockstar Games did not support the idea of forming a union within the company",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZzlmSmRpM3BLSDhxbXpGOW0ydzVHT1NSMW1wdXdNSk1mZmlrSEExUk1jWWp2UFBLSDM4X1RRLTQwX0N0ZHJVcG1MNjNXLW8tV21YdjNoR21qMkp2RXU4MHJJWFhBYkxzaExIU0lJQ09HWGdsNGZfNi10UWhXYVZuUnNCLXZmc2Y2djhrcW53aXZ0d29XSHViSHZTc0pKaFJEOFhvRUk3Vi1OMXprYVdxYlQzZy16eTR1WWdzMTAwc2tXNnZhWnpVOEt2ZXNWS3o4?oc=5",
+     "ts": "2026-11-27T14:28:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8d851c524a83",
+   "title": "GTA VI “overclocked” to 40 fps on PS5",
+   "first_seen": "2026-11-27T16:01:14Z",
+   "updated": "2026-11-27T16:01:14Z",
+   "items": [
+    {
+     "id": "8d851c524a83",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Українські Національні Новини (УНН)",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA VI “overclocked” to 40 fps on PS5",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wejByTUdEY0xMb3RNZE02ZkFuTzNmOTRpOVRrandOS011cU9pTVVyZ1h1RzNYSm9NSmtuUHQ4U2xCSzB4bmwzXzhUMFlyd3FqMk5hU1hPTEJ0SUN5N0hseDlRektXemhWRGfSAWhBVV95cUxPWEJRUFdxaXptVmVuOFY4dDhxMVktZXhHaFB0TExhUEdtTlhORG5lbkVoTmEzQ195dGlUSkNZa0h6ODQwWFYxbG9iTXFBQmJJUUoyRnJTSDJzS3diRmdNaUpjY3ZrcWhkQQ?oc=5",
+     "ts": "2026-11-27T15:48:22Z",
+     "summary": ""
+    },
+    {
+     "id": "326392aa490e",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Українські Національні Новини (УНН)",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA VI «разогнали» до 40 fps на PS5",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PQk9lR1NzTlFDZHJJZjRTVExRSGJ1d2xtMHNlTGJ2aVh3aFVYTDl0WEszdS1LN1hKNGdiaUJVVmhrUURsbDlDdzFnRXBaNXJacHp3T0c2MS1xdW40Nms5NEJQNTZYcknSAWZBVV95cUxPdE5GdHFNU2NpMDBDbU0wbDYtOGNkMkZla2pTY2h5Z1lSNHhfNEduSVpjd0JEemRHT2xudzFpVFFqUmNxVjdvNVE3c09PM3dSRXMtVS1peW1yS2FTZnA1X21rNzBmS2c?oc=5",
+     "ts": "2026-11-27T15:48:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "aafa3a0ba677",
+   "title": "How To Find The Best GTA 6 Outfits—GTA 6 Fits Site, Explained",
+   "first_seen": "2026-11-27T16:01:14Z",
+   "updated": "2026-11-27T16:01:14Z",
+   "items": [
+    {
+     "id": "aafa3a0ba677",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "How To Find The Best GTA 6 Outfits—GTA 6 Fits Site, Explained",
+     "url": "https://insider-gaming.com/gta-6-fits-website-best-outfits-find/",
+     "ts": "2026-11-27T15:58:56Z",
+     "summary": "If you're trying to find the best GTA 6 outfits, you need to use a site like GTA 6 Fits, which maps it all out for you! The post How To Find The Best GTA 6 Outfits—GTA 6 Fits Site, Explained appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "👀 GTA 6 Fits: сайт для лучших аутфитов в игре",
+    "summary": "По данным Insider Gaming (Tom Henderson), для поиска лучших аутфитов в GTA 6 предлагают использовать сайт GTA 6 Fits, который всё это показывает на карте. Материал объясняет, как работает сервис и чем он полезен игрокам.",
+    "idea": "Покажем, как за минуту собрать топовый аутфит через GTA 6 Fits: фильтры, карта, телепорт к луку. Зрителю — быстрый способ выглядеть стильно в игре.",
+    "hook": "Ищешь идеальный аутфит в GTA 6? Вот сайт, который всё найдёт за тебя.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T16:01:17Z"
+   },
+   "msg_id": 2448
+  },
+  {
+   "id": "80bfa0358df5",
+   "title": "On Top of Everything Else, GTA 6 Is a Solid Stealth Sandbox",
+   "first_seen": "2026-11-27T15:31:12Z",
+   "updated": "2026-11-27T15:50:52Z",
+   "items": [
+    {
+     "id": "80bfa0358df5",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "On Top of Everything Else, GTA 6 Is a Solid Stealth Sandbox",
+     "url": "https://www.ign.com/articles/on-top-of-everything-else-gta-6-is-a-solid-stealth-sandbox",
+     "ts": "2026-11-27T15:00:00Z",
+     "summary": "I came to GTA 6 for its wild car chases and explosive shootouts, but its the really solid stealth that has me hooked."
+    },
+    {
+     "id": "2b655ad98e15",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "On Top of Everything Else It Does Brilliantly, GTA 6 Is a Solid Stealth Sandbox",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXVkY0NURHNoT0NjVGdUWm0tSjRFdnVSMTRETGtVclVHcWVSU0x1UVNZNndXZlBBOEc4M0FYTGJkYlQ4YUp2cUN5dDBlSWJ6TzlDdWdBSU1CNVY5aXVYZlk5Z0FScHZCRlhLb2FIekE5VTJVQkdJUFFneEFNc2RwbDBlT1BHOHpBQkpxVVd5Z1Q?oc=5",
+     "ts": "2026-11-27T15:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 удивила скрытностью: не только погони и взрывы",
+    "summary": "По данным IGN, в GTA 6 неожиданно сильная и продуманная стелс-механика. Автор пришёл ради погонь и перестряжек, но именно скрытность его зацепила.",
+    "idea": "Короткий тест стелса в миссии: прячемся, вырубаем, обходим патрули. Зрителю интересно, что скрытность в GTA 6 реально работает.",
+    "hook": "Я пришёл за взрывами, а залип на стелсе в GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T15:31:15Z"
+   },
+   "msg_id": 2446
   },
   {
    "id": "e9ebd94e1c0f",
@@ -153155,245 +153270,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "56c7baf95f97",
-   "title": "‘GTA VI’ Is So Demanding, It’s Failing on Some PS5s",
-   "first_seen": "2026-11-20T15:50:57Z",
-   "updated": "2026-11-20T15:50:57Z",
-   "items": [
-    {
-     "id": "56c7baf95f97",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Gizmodo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘GTA VI’ Is So Demanding, It’s Failing on Some PS5s",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ROHNJU3RueGNPOEVwSkVaNFZOZ0NCQkRMZ3RKTER0eUxUN3VwdjFKSVJvSWIwZ3hhbVJCc0RlUzdYckpnc2lEaFF5VDFGUU1MS01qMl80V1d6NGM?oc=5",
-     "ts": "2026-11-20T15:40:33Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a15168706ce6",
-   "title": "Metal Band Debuts New Song Exclusively in 'GTA 6' Instead of Releasing It on Streaming Platforms",
-   "first_seen": "2026-11-20T15:50:57Z",
-   "updated": "2026-11-20T15:50:57Z",
-   "items": [
-    {
-     "id": "a15168706ce6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "VICE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Metal Band Debuts New Song Exclusively in 'GTA 6' Instead of Releasing It on Streaming Platforms",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWR5aHZYaGZKM2FtdUp5STNlTnhjSDFDTl9MQS1nWTJSRUVEMldBOFowTWtkMGlmUzUtQ1IySFlQVDNtc0I1UEpZc2Viak5rTzN2MmppWU8xRXo4S0ZjR3N5UGJxNnI2dGNCUnc4M0JWbk1hS2pxWkhxZnJTZFJURjNpUTFUa2VERGw4QURob0dmcE9nVld6NTdMa29Nb053VjA1d3VDc2h5Nks1YVlMdXh6NmRva0VsbldKRU5VVUxfOTVwM1E?oc=5",
-     "ts": "2026-11-20T15:43:50Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "164b490586f2",
-   "title": "Every Non -GTA 6 Story Kotaku Published Since Launch",
-   "first_seen": "2026-11-20T15:50:57Z",
-   "updated": "2026-11-20T15:50:57Z",
-   "items": [
-    {
-     "id": "164b490586f2",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Kotaku",
-     "group": "media",
-     "weight": 65,
-     "alert": true,
-     "title": "Every Non -GTA 6 Story Kotaku Published Since Launch",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObjYtUW16QlZjcTlmTlltXzltM3cxRkgyak9UTU80TFlqajE4SmFXRGp1Zzg1Q3N5ZlJSMFpiSXJJbnNheVBsQXNZMW94YjBYb19xTVhNS1VjWVAwTDlieTVjVk9hc1N3TlZIVGc5YmZoeU9BcGdDSGRGUWE5VUlEVUlCb2l4Xzd3?oc=5",
-     "ts": "2026-11-20T15:44:26Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: выдуманные числа: 100"
-  },
-  {
-   "id": "1b37144777cf",
-   "title": "Durban's DJ Lag celebrates place on GTA VI soundtrack",
-   "first_seen": "2026-11-20T14:50:49Z",
-   "updated": "2026-11-20T15:50:56Z",
-   "items": [
-    {
-     "id": "1b37144777cf",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Durban's DJ Lag celebrates place on GTA VI soundtrack",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPckYtVC1DbzVqbUVaZlUydWZSTlNKV1ZoZVY4UGhQRlpRNVVGMEVwbTM5TElpZktySWdxNmRXcElsOGNRak5qRUt4eUJlZUNKM1Q4SHhwY0FYR1BGa3k2Wk93eVZLZjhkTVR2NHpFREV5UUUxejRmclhXLVFMZDlkMzRpcG1vS3VkVzFUb013UGFrdDZ1T3FITUh0YXdjQQ?oc=5",
-     "ts": "2026-11-20T14:27:39Z",
-     "summary": ""
-    },
-    {
-     "id": "5ac9328fe153",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Semafor",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Durban’s DJ Lag celebrates place on GTA VI soundtrack",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSk1pa2o3X1FVd2lQTko1MFVUY1NvZFlUVks4MFNiX2pLQ2pmMXNFTXZYbjkwZlU1TEZmSzFPSjZWZktmOTlNYWN0dGJUYkdZSDJhSDcxUmRuV1RYYjJ6dUpPUHBMOV84dG1hNnZyZDZsdmhETnVBU2dWTnJObWh6UXg2ZXVQZjIzZTE4ZjZNT0p4R1g5bDZyd3g3SQ?oc=5",
-     "ts": "2026-11-20T14:27:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔊 DJ Lag из Дурбана попал в саундтрек GTA 6",
-    "summary": "Южноафриканский диджей DJ Lag подтвердил своё участие в саундтреке GTA 6. Об этом он рассказал в интервью Yahoo и Semafor.",
-    "idea": "Угол: «афрохаус в Вайс-Сити» — показать кадры DJ Lag и нарезку GTA 6. Зрителю интересно, какая музыка будет в игре и как она задаст атмосферу.",
-    "hook": "Саундтрек GTA 6 стал жарче: DJ Lag из Дурбана официально в деле.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-20T15:51:12Z"
-   },
-   "msg_id": 1702
-  },
-  {
-   "id": "d420dd5cbd68",
-   "title": "Ampere Analysis: Over 1m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand",
-   "first_seen": "2026-11-20T15:50:56Z",
-   "updated": "2026-11-20T15:50:56Z",
-   "items": [
-    {
-     "id": "d420dd5cbd68",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "GamesIndustry.biz",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Ampere Analysis: Over 1m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN1VPRHFjRzgxbWVIcjJIalAwVFFqVExvQzFNXzNtRnpYSEZrX3VBU0RZUlBYQkktdkdzQVlTQ2VsOTV0dW0wWTQ2cEtDTHhzQmt6LS1FaXVvNEtFQUJNaGs5cUplZXNXZEZZSVV3M2ljUW01N0Y5TF9zOVA0XzZQbnZWUTVBVFhXYlhlcVR2RnRoWGFYT3ViMC1EbmtlbVlQcU12TkdRMDhWY0czUnVEbXFVT0J6WnV5dkt0U0VYcmVRR1dsUjhvc0p1bnJTUzJRRW1tUDFqc0pGRFU2alFUaUJfZFZjZw?oc=5",
-     "ts": "2026-11-20T15:21:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5711161c2c40",
-   "title": "Стало известно, кто сыграл Мэнди в GTA 6 — актриса раскрыла свою роль",
-   "first_seen": "2026-11-20T15:50:56Z",
-   "updated": "2026-11-20T15:50:56Z",
-   "items": [
-    {
-     "id": "5711161c2c40",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Plugged In Ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Стало известно, кто сыграл Мэнди в GTA 6 — актриса раскрыла свою роль",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWDhKdE9zUHhVMENKT0NaRGpwRHlsRlZxaFVibC1jcS1fYkFjQlplNGJYdGlNVm1Jd213cG5YbV9iRFhUTzVWQ25fOG95RGx0THYzc3pteWNHYXJJTW45Q3U4Y0UwVU94VnhObnV3OGhMVDNJa3BoUXAwb0wwZEZDVlQ0TV9nTFpHRHlOeWw4RGl0TWhobWt4SVBnTzRZZWRJOWc?oc=5",
-     "ts": "2026-11-20T15:37:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "35a99e89e857",
-   "title": "Cowboys legend Jimmy Johnson discovers his restaurant in GTA 6 and capitalizes on it by immediately launching some merchandise",
-   "first_seen": "2026-11-20T15:50:56Z",
-   "updated": "2026-11-20T15:50:56Z",
-   "items": [
-    {
-     "id": "35a99e89e857",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MARCA",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Cowboys legend Jimmy Johnson discovers his restaurant in GTA 6 and capitalizes on it by immediately launching some merchandise",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbmVpQkFBaTNKYTZhUjFPWHFKZU1XNExOSnZRZzJLNVFZMG5IV2gzb0lneVcxajItX0phUURZMWcyZjFQbXhfQ0laMGp2OWlwYjhrdERodjFKbEh4X3ZlZG9uVS0tQmU5Q0pldXlpVWM0U0tJa0JkRGFsb3FEZHQ1WGszSmdJYzFpM2FQcVdwOFhPQUxQejFIWjZyWUFxUElmMFcwRnBQdlNLZmxMeU04X2lMRmU5YTcyUVBlMFhsLXlXS2xnbFhXbE1fUVlwTVNYd3lTUmlTS193Zmp0dFRYQUZlb2M5NjliY1BGYlZSWlZwLXVDNVMzNFluQ0IwS0hfNW8yOGE2bEF4bXpMS0FFblF1SEjSAZQCQVVfeXFMTmFVT0pHclBvR0hLNTA5SURrbHlRcHpkd2NSZFU4LXo3NFpUbE1tY2hYYldsLXNGcTY2X2UyWTZ0U1RLRl9rOTNRN2sxM0V3SGdFbmpwX2tPZTRZMHVQd1J4bWhIS19NR24zMXRYVFpKaVI3ckhDdWhPdUhWb1ZFLVZMLVh4WU9BcFpISE9ReEZJT29IT0NfSW9sWEM3aV9uMVpwZ0RpUm92Z3BURDc4V3pQR0QySkFncTVNYmJsUlJZWVRva2MtaW9ZNmJsNWFaQjdGRGNRbVBuRkNHZVVSTjBOZ3J5TGhMa0tDR1FzME1nUm5mWUw5d1FNVHcwZjc5M0xSQmVOSTRUOG5Relp2Y2NpeEly?oc=5",
-     "ts": "2026-11-20T15:37:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5dcdbbf0b4c0",
-   "title": "How to change radio stations in GTA 6",
-   "first_seen": "2026-11-20T15:50:56Z",
-   "updated": "2026-11-20T15:50:56Z",
-   "items": [
-    {
-     "id": "5dcdbbf0b4c0",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Polygon.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "How to change radio stations in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcnJHTU1Wb3V6X2xBZm9nNHJ2RVlUbzVBQnlYSWdIZEdEVGh6cFpvMG0zVDh1ZmNpMnZQVjJ1QUNabVJDZkVwZkxHSGFsMVRacHFVQmZ6aTd6NlRNQ0VhcVFMaE94UTVsdHc?oc=5",
-     "ts": "2026-11-20T15:39:13Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T15:50:52Z",
+  "last_run": "2026-11-27T16:01:18Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 95/100",
