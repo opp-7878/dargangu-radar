@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "93c66fb55c19",
+   "title": "GTA 6 Set Physical Launch Records Across Europe Without a Disc",
+   "first_seen": "2026-11-27T00:31:01Z",
+   "updated": "2026-11-27T00:31:01Z",
+   "items": [
+    {
+     "id": "93c66fb55c19",
+     "src": "gtaboom",
+     "src_name": "GTA Boom",
+     "outlet": "",
+     "group": "fansite",
+     "weight": 45,
+     "alert": true,
+     "title": "GTA 6 Set Physical Launch Records Across Europe Without a Disc",
+     "url": "https://www.gtaboom.com/gta-6-set-physical-launch-records-across-europe-without-a-disc-3846",
+     "ts": "2026-11-27T00:27:24Z",
+     "summary": "GTA 6 set Spain’s boxed launch record and had the UK’s biggest boxed launch since 2019 with a download code in place of a disc."
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "f4d6602a0e04",
    "title": "GTA 6 runs at 25 FPS on PC",
    "first_seen": "2026-11-26T13:31:07Z",
@@ -160411,168 +160437,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e65a234ffb78",
-   "title": "3 Common Problems With GTA 6 On PS5 (And How To Fix Them)",
-   "first_seen": "2026-11-20T00:30:57Z",
-   "updated": "2026-11-20T00:30:57Z",
-   "items": [
-    {
-     "id": "e65a234ffb78",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "BGR",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "3 Common Problems With GTA 6 On PS5 (And How To Fix Them)",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00QjFXVndaRWtnY29hZFZ0ZWZ2M1FlNnlscHFjd3JYaEtNal9CMHZEYjJnbFFPUlc0R1V5QWp3TXNSVk5KV21ERU5sU21UZmxyVFN4UE9lUWpqd3A1TGZ0OHZ4WXJKeW9rY1pQS0FnSkpnQQ?oc=5",
-     "ts": "2026-11-19T23:34:19Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "dfdb8cfa250e",
-   "title": "GTA 6 Has Police Departments Across America Begging People Not to Commit Crimes IRL",
-   "first_seen": "2026-11-20T00:30:57Z",
-   "updated": "2026-11-20T00:30:57Z",
-   "items": [
-    {
-     "id": "dfdb8cfa250e",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 Has Police Departments Across America Begging People Not to Commit Crimes IRL",
-     "url": "https://www.ign.com/articles/gta-6-has-police-departments-across-america-begging-people-not-to-commit-crimes-irl",
-     "ts": "2026-11-19T23:55:01Z",
-     "summary": "GTA 6's popularity has led to police departments around the United States pleading with citizens to not commit real crimes."
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Полиция США просит не повторять GTA 6 в жизни",
-    "summary": "По данным IGN, полиция США просит граждан не повторять преступления из GTA 6 в реальной жизни из-за популярности игры. Официально Rockstar это не комментировала.",
-    "idea": "Угол: «GTA 6 настолько реалистична, что полиция США просит не повторять её в жизни». Зрителю интересно, потому что это забавный и неожиданный эффект игры на реальный мир.",
-    "hook": "Полиция США официально просит игроков GTA 6 не повторять это в жизни.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-20T00:31:00Z"
-   },
-   "msg_id": 1623
-  },
-  {
-   "id": "5649ebd22e59",
-   "title": "GTA 6 hype takes over North Texas as fans celebrate long-awaited release",
-   "first_seen": "2026-11-19T04:31:06Z",
-   "updated": "2026-11-20T00:20:49Z",
-   "items": [
-    {
-     "id": "5649ebd22e59",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NBC 5 Dallas-Fort Worth",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 hype takes over North Texas as fans celebrate long-awaited release",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNW84SjBDcEE0VUMwNGFVNm1EZzVPZkJINklQMFdQUDV2ZElzTkZlbFlSS3lXaVhVZGkzNFUzUXBOSko2OGdDSmkyMGh6aldpcWp4OTM4cVF3cXBZdUowZUhhb1Ftc3JvQVpsSWZUZVB0dTc2VjRISF9iX0p0QlZ4WDFRNGxMOVFLZ2hXNWdiQzhISk1hQzRhcVc3WUtPRWFxaDFkdW5DY05obXpSZGN5RFZkdGx0d9IBvgFBVV95cUxOMHU4Y1BSYzdING5YTkRkSnhmclVuTlFRREZsbHFSY1FQSVp3QUpNcl9NRmMzQzVHZEdFVWlINGI1MGFRX2FpTUR6ZlRnaUR3X2FtY2Zfamd6SDVSYkpuQ2hEbnR2aDNpektGYmxuVmZfVDVNdG16UnJickIzN3lfbnZwTUs0TEJzeWpPLUFMUEcxcldfdjBkS3hEVUwtSHh6SHRNME9JSnFiWVpXR2F1QzM0c2dNeXFyV3JmbTBB?oc=5",
-     "ts": "2026-11-19T04:02:19Z",
-     "summary": ""
-    },
-    {
-     "id": "50b6a7a81eeb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "KWCH",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Wichitans celebrate long-awaited release of Grand Theft Auto VI",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2FwWFFPSjBGbXJkOWFXU0VVd052X0x0TUxwSkpMR2g5eU5JXzFHNjBUNnVvbElFUnFjYXlxd195UW5OLWZ6VkozM3duRDdCQ2tzQl9NZnFZSG4wUkRuLVJEVnVTUHFtLUdDX1RFMlBwZ3hqdUtYSVl4VG1tcmlydnVjbnBZMnNyOXpVQmRPLWZucjJBUHpv0gGrAUFVX3lxTE9kelkzam5UMVJiNDBPTmFjOUlQYUVDYkZpT2tNcUxMc2ZjeDlXRWRXRkdlN1dyYkRWaWpKUFZqT2lEemV4Vlh4eURlVGw4S1RFTEM3TzlQZjROYXVoYU9oaWI3aGY3WVN0VGR5WHlRZGZ4aXpqd09iSjdwYmJrTk54UEh2UThUSWFTUmRrLTRDOXpoZVlkQ1hQbFZtVzRsU1NoVnlQTnRSNFJZVQ?oc=5",
-     "ts": "2026-11-19T22:22:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "8586a143e7c4",
-   "title": "Актеры GTA VI рассказали о работе над Джейсоном и Люсией",
-   "first_seen": "2026-11-20T00:20:49Z",
-   "updated": "2026-11-20T00:20:49Z",
-   "items": [
-    {
-     "id": "8586a143e7c4",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "GameGPU",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Актеры GTA VI рассказали о работе над Джейсоном и Люсией",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGI4UnVXSE1sZEpEX1NydUJYbWpoOEhYeEtvS1ppdmRMSzdxVXNuZGh1amVEVmp3TEVHb0lMOTdoMUVtOGpKTFJYS3FpSS1hQnh0bWQyRVRvUGd1QzZBYmdOMlR1bGg0TG54b0l3Rm5sVHh0Z05qZHktRDVmcjJJYUd4NnRxdkEyVlh5YlZ4NmFtQQ?oc=5",
-     "ts": "2026-11-19T23:46:57Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8f0d1ad54f95",
-   "title": "‘Grand Theft Auto VI’ release brings gaming excitement to Louisville",
-   "first_seen": "2026-11-20T00:20:49Z",
-   "updated": "2026-11-20T00:20:49Z",
-   "items": [
-    {
-     "id": "8f0d1ad54f95",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WLKY",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Grand Theft Auto VI’ release brings gaming excitement to Louisville",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUjJBTTgwMUt3YlViaU9oOEpPamRHTEFjN0J2Y3RGWXNoNkwtX3pGeGRQNWRkb0tBX3NVWkJpOWhuN296RUl1YmVlSWs0dnN5NGhtVjh5VkNCR05sY085M0lmaG85a3EyOE5FZ1lhd1p4TXJFV284aTdVRVM4UVBST21TWXZZS0N5V2lqLTIwMA?oc=5",
-     "ts": "2026-11-20T00:12:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T00:20:47Z",
+  "last_run": "2026-11-27T00:31:01Z",
   "last_log": [
    "rockstar_site: 0/1",
-   "gnews_en: 99/100",
+   "gnews_en: 98/100",
    "gnews_ru: 99/100",
    "gamesbeat: 3/10",
    "vgc: 7/10",
