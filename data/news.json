@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "0615690882d7",
+   "title": "‘Peggy’ from GTA 6 talks viral popularity: ‘It’s so phenomenal to me’",
+   "first_seen": "2026-11-27T03:40:51Z",
+   "updated": "2026-11-27T03:40:51Z",
+   "items": [
+    {
+     "id": "0615690882d7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NewsNation",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Peggy’ from GTA 6 talks viral popularity: ‘It’s so phenomenal to me’",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWpqUVJ6cFNIN0hjOVo1b1VaN3gtbkJjb1NJS21YdUdIc1lkbWxSdEc4YWd3UXVQRHd4eXBkUUt3RWJaSnljd0ZtQ1k2aE1yelktYXVSUWMtR3NwcnFaNE5QSlNhazFyTS11bnY2ZHRDQ196VUk0aEtIb1k0azc3dmVQOFY2THZu0gGOAUFVX3lxTE1DT1FvV3NQb3FXNjAzZVZoUTM4ZkZYSmN1RmJnd2IzTTRfSnBfYVpnd29DWnpvM0JYQS1Kb0JzR1E0RVA0VFlrTURwVTE1RkhXWTVwVEtfeWl5dVhObXlTODhwMy1KakpsbTlPN1IyR1Z3R3gzSDlRNndRY0IzTkNScFUxc2ZXYnppTURxMEE?oc=5",
+     "ts": "2026-11-27T02:38:07Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "d9061018ad7b",
    "title": "В GTA 6 нашли призрачный корабль — как в «Ведьмаке 3»",
    "first_seen": "2026-11-27T03:30:59Z",
@@ -159867,40 +159893,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7d0f03f67c13",
-   "title": "Doja Cat Really Wanted That GTA VI Cameo",
-   "first_seen": "2026-11-20T03:31:01Z",
-   "updated": "2026-11-20T03:31:01Z",
-   "items": [
-    {
-     "id": "7d0f03f67c13",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Vulture",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Doja Cat Really Wanted That GTA VI Cameo",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lSGlvZE9KNlJSbndsZzgtRkVnYzJhQUJNRkdRRDdsZDVZd2VISWl3LWJfU1BqbGpHSDRBZWNjS3BkMHJmemZ0VFNfbnl6YUZBMW5TazlOSDlBd3ZoWHY0UDBnTmc4YVZXRWc1eG9sczl3WndXakRFTUd3?oc=5",
-     "ts": "2026-11-19T23:08:34Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T03:30:59Z",
+  "last_run": "2026-11-27T03:40:51Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 97/100",
+   "rockstar_site: 0/1",
+   "gnews_en: 96/100",
    "gnews_ru: 99/100",
    "gamesbeat: 3/10",
    "vgc: 7/10",
