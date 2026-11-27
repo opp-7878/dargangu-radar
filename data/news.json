@@ -1,6 +1,394 @@
 {
  "stories": [
   {
+   "id": "786f20cb6a95",
+   "title": "Will GTA 6 Get a Story DLC? GTA 6 DLC Plans, Explained",
+   "first_seen": "2026-11-27T19:40:45Z",
+   "updated": "2026-11-27T19:50:48Z",
+   "items": [
+    {
+     "id": "786f20cb6a95",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "Will GTA 6 Get a Story DLC? GTA 6 DLC Plans, Explained",
+     "url": "https://insider-gaming.com/will-gta-6-get-story-dlc/",
+     "ts": "2026-11-27T19:34:00Z",
+     "summary": "It's been speculated that GTA 6 could be getting a story DLC sometime after release. The post Will GTA 6 Get a Story DLC? GTA 6 DLC Plans, Explained appeared first on Insider Gaming ."
+    },
+    {
+     "id": "013e5b7cb6f5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "Will GTA 6 Get a Story DLC? GTA 6 DLC Plans, Explained",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DZzNETVZwSkl3UlBfY3ZHbFVDcE5mTWFwSXIyaHRCN3ZJVGdOZEQzM2QyejNxQlJ5eFJDa3pjVGNJOHZGUk4wMTNxZElqNGVTNklGVkYtQmNhOW9JT3FBUVR3?oc=5",
+     "ts": "2026-11-27T19:34:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai_fail": 2,
+   "ai_error": "ValueError: нет полей: title_ru"
+  },
+  {
+   "id": "78703688a072",
+   "title": "'I've Dedicated Almost a Decade Bringing Lucia to Life' — GTA 6 Actress Manni L. Perez Breaks Silence in First Statement Since Launch",
+   "first_seen": "2026-11-26T21:10:50Z",
+   "updated": "2026-11-27T19:50:48Z",
+   "items": [
+    {
+     "id": "78703688a072",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "'I've Dedicated Almost a Decade Bringing Lucia to Life' — GTA 6 Actress Manni L. Perez Breaks Silence in First Statement Since Launch",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFBWcjFYb1NJRWwyUVdlbXlkNjZFNXlNamUxVXBGczRvRjljc3RjOEJLRlhhMFNyekJkeExwZTBkX0k4My1WVERfY0Z5cVpicGExZ0s3QkRZLUw4Wk1sdlNvTnB6Z2tEalN5YURmMnNWNGxPNEVLZHNGblM1RXdONEVqUFNnUEVkSmgzeThPTGp3VVF1bUtPOUNUdzVnVUE?oc=5",
+     "ts": "2026-11-26T21:02:42Z",
+     "summary": ""
+    },
+    {
+     "id": "3abcd51e92b5",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkdUcjFaNV9fRjNsajFXVEluZEZQZDZLR3hJcDhib0FfbVRHbzUyNjB6XzhJbmNXR3JqVXo4NlIyVGRzMzlMN09ZNnRYUTdoaTJPT3pTNEpmN3VlWTVlYXVsOHNfZ3Z4Rk53SjY2b1pWSU1VTTRvWkl4SEU1dHFtaE9WUjBIMUdvRjVuZFo1MXFfWno4OThydURQSmlFRG4tY3VWR0N0X09uOE1reW01Wjl3aWtwejJYSk1YeGlKQTRVYWdMT1hvYQ?oc=5",
+     "ts": "2026-11-26T21:15:12Z",
+     "summary": ""
+    },
+    {
+     "id": "fe858b435223",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
+     "url": "https://www.ign.com/articles/lucia-actress-manni-l-perez-issues-first-statement-since-gta-6-launch",
+     "ts": "2026-11-26T21:02:21Z",
+     "summary": "Manni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out."
+    },
+    {
+     "id": "c4e7aa0bbc3d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Manni L. Perez Finally Speaks on Playing Lucia in GTA 6: ‘I’ve Dedicated Almost a Decade Bringing Lucia to Life’",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM3ludmlwVHpXdzBDOThSOXJXcEFqbU1IdjJpalZlT3lNQkJveGNFRkVxYjJCaFlXMjJSU1hHWHRWZWtzN1pTaTZHNTg4VGlSWnVwNVk2Z0Z5eHk2V1hOQ2V3VmhpVm1tM2dyYzVfRzM5S2NVdjk2di1FQlpBazUxaDItQ04xaHpxT2c?oc=5",
+     "ts": "2026-11-27T09:56:52Z",
+     "summary": ""
+    },
+    {
+     "id": "b67c1e30a117",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NME",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA 6' Lucia actor makes first statement since the game's launch",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjNSYjM3YjZVeGoxRlh4c3BUWVBWTWp1dWhNTW85Zm43aUtCUFFwMkQ1bHJkZkNIam8tYWswSDlwb0ZIdzJNWmE0TGhhQnItRnJKYzJoN0VtT1I3eDgxaXVoenVLTUhuSVJEbkVTQ1d3MmY0QTg3WkQ4NEF4WFdHM0trazVyTDFnd2VNTkpjazJYSkpaZVNjUHd3R19SY0NEREJ6NWhFVFJNdVBK?oc=5",
+     "ts": "2026-11-27T12:32:31Z",
+     "summary": ""
+    },
+    {
+     "id": "d95eca8466ba",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Diario AS",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Manni L. Perez, the actress who plays Lucía in GTA 6: “I’ve dedicated almost a decade bringing Lucia to life”",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN0tHV1dXU1VDbTY2dFlwaEtHYlQwZDEzOFBQTTZDTnJ1SXZURHBZZWpJRUNuMGRLWHJwZVlSU0JSNlpNazdTQlgxdVJDczFyR0ZzUVZfeV81UVo0T0xXOXBaTENiMWZIbC1aUDIzUjkwV3pkZHM1eWpvOXFPWXB6eTRnS0lnbG4zMi1hczN4WXJIYWdOY29fVnB3U1RNXzFsNmg4c3dYcjJvWEdnZkFrNXd6VUpVN1h2N3hPSHEwTVZLa3gtWHBDNW5UWmJsSklVTWRnTVUyRHg1MzN6X0xXT2twNNIB9wFBVV95cUxNcE9zQTg3eUM0TU1fbXYteGQtbTR4azNCT2NqdW5WbUdqWUc0Q3I0T0lwc0VaVlpadHhlT01UeHJXcnBDcWhqQ3NLY2VuaFotSFhjMTk5cEZXZmlvQmUwWFByUGRLNmNpX211eW52aFh1TDF5X3BTZmtsUGtuVnVNeDAwT1VsR0dHQ3F0Y2VCUTFPRDd0U1N5WlkyVjZmVjFWVlpteUtWLUdWZ0l5aVdRb0h6Sm1ZUS1vSDdudUprSVBjT2o0MmtjVmZYellfV0ZMa1lHYVk2aEVfaTFkUnBQRXZMOC1DcjlFV3U0Z0xtTWxrTExEUEpJ?oc=5",
+     "ts": "2026-11-27T15:32:03Z",
+     "summary": ""
+    },
+    {
+     "id": "57a2f787990f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Lucia actor \"dedicated almost a decade\" to bringing Rockstar's new protagonist to life – and it's been \"a whirlwind\" for her since launch",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQa0U5Tnp1UGxBRGx5QWV5Y3NMekM0NWk0ZUJUYTJXdDVkN2dBbnQwWE04UlJFSFUyZUl0RTJNWkFOLUVsc3VoOVh3dEp5cDZ0MGdqSmVIQzBidTVaVDgtLUd1Qk4zb2h5RVpUbDZ6b3hrUXdxM0VOd3JxT2RBVnBXMEt1TkVUWmtCME5qVjRVOEk2TG9SS0Z1NGNZWkl0eGE2QjJDbzNMM2RsT2pmMXl3XzAwNDlUbE1GMEk5SjBmdmVfQWVMVk9Wc1Z2Q1pkSnRwRERGV2xRMjBSYnpacGYtWXpoUW4xMFlJOTl5bGtwd0xOV2N3MERURWNkZnRCWmYtcGdDNXp2X01PT0Z4UkxOMEI4ZHI?oc=5",
+     "ts": "2026-11-27T17:36:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 95,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Актриса Лусии из GTA 6 Манни Л. Перес впервые высказалась",
+    "summary": "Актриса Манни Л. Перес, озвучившая Лусию в GTA 6, впервые высказалась после выхода игры. В комментарии IGN она сказала, что почти десять лет работала над образом Лусии.",
+    "idea": "Короткий монолог актрисы о Лусии с кадрами героини из игры. Зрителю интересно услышать голос и эмоции человека, создавшего главного героя.",
+    "hook": "Голос Лусии впервые заговорил после выхода GTA 6 — вот что она сказала.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T21:10:54Z"
+   },
+   "msg_id": 2405
+  },
+  {
+   "id": "e52ee747459b",
+   "title": "Avoid the bad GTA 6 Black Friday deals – use this price hack instead",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T19:50:48Z",
+   "items": [
+    {
+     "id": "e52ee747459b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Creative Bloq",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Avoid the bad GTA 6 Black Friday deals – use this price hack instead",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNEZxZUVoQXczRWVBUHNqdjFYSC0yeGtNWHM3a0s2OFhtSTJmVkJVWmI0ZDJiZGNWbkVzVVl5TUhqQ2d0STJ1LWZkOVFvQmFHRUNLZzEzSVVYR2xCem5uaThFczh5S19ndjBzZVR3VWk4bnpzeFVkM0t6MUhxMTBhOW5ISTVfdHlqS1d4dlBpQ2w5VDFucGI1RVpDWFlleFN3TmtycnN6c3dmdmJRdnFmM2xLOVliSnc?oc=5",
+     "ts": "2026-11-27T14:57:30Z",
+     "summary": ""
+    },
+    {
+     "id": "2bb70a89c96e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Mashable",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Limited-edition: The GTA 6 DualSense PS5 Controller is up at Best Buy for Black Friday",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56dG5uaDg4ZXlPV3lJTHZoUWxSXzg1cEk1SGtrdkxfRGo5dUtxNmRjU05sa2gtMGdXcHF4a0ZSQ1lzbDllMFFJYjdia3FjYWlCd29VS01tZXJMVDBOM1dYN1RSTDlHR2xySVg5WGtwTDRlbF9KVV9SYkxXZVhYZw?oc=5",
+     "ts": "2026-11-27T17:03:45Z",
+     "summary": ""
+    },
+    {
+     "id": "9b22ff6997d7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "9to5Toys",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Score this $60 gaming pillow for Black Friday to make your GTA 6 marathons on PlayStation Portal a whole lot comfier",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUhFcFRkX0xrelF1ellUQ01zRXpCU1duLXBEV2F0VnZvcm5Rb1JKWUdiVDliaDlOdl80MEg2RHpLNmxIZkt0alIyVDJYMlZBS1pHd3lYMnJoOHVna0hKSm4yRkU3T2pMYmNIbEpNRlcxM2VXdmYyMGdfLWxSX3FuOVhzcVE?oc=5",
+     "ts": "2026-11-27T14:45:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 81,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Как купить GTA 6 дешевле в Чёрную пятницу: лайфхак",
+    "summary": "По данным Creative Bloq, в Чёрную пятницу стоит избегать сомнительных предложений GTA 6 и использовать ценовой лайфхак. Издание советует проверять цену в разных регионах и на разных площадках, чтобы не переплатить.",
+    "idea": "Короткий гайд: как за минуту проверить регион и площадку и сэкономить на предзаказе GTA 6. Зрителю это полезно прямо сейчас, пока идут распродажи.",
+    "hook": "Чёрная пятница, GTA 6, переплата — вот как реально сэкономить прямо сейчас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T15:20:53Z"
+   },
+   "msg_id": 2443
+  },
+  {
+   "id": "2833797f3e07",
+   "title": "I got eaten by a gator in GTA 6 because I exploded too many motorbikes to make a clean getaway",
+   "first_seen": "2026-11-27T19:50:48Z",
+   "updated": "2026-11-27T19:50:48Z",
+   "items": [
+    {
+     "id": "2833797f3e07",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "I got eaten by a gator in GTA 6 because I exploded too many motorbikes to make a clean getaway",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNjk5RFBFNkJnYTdIWm1FX1M2ZXdqVUh6UC1YN0Y1LVVmRXNLSkNvLUo5RjFoZWlHT0FST25MT3FRNW95cE5SX0JlQWxaVzluLUdpRmxVUjlsTlBESjh4dldaR2g3ZlVZbmxsOXExWGRBM2lHVmhRSHc2VDFaZkMtdUtfWkNXbGRqRGdWc2cwb0VSQ2RkQ09icnFqeERIS3VnSmxqdm1jRlJ0VEhsUWhyWlNlVUk3UHIwSzFtcUtoQnR5U2xVeEl3SkJqSExMZnNMckEwcjhNMVAyc1h1MlE?oc=5",
+     "ts": "2026-11-27T14:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e818ea5e8e84",
+   "title": "Forget Vice City – I wish GTA 6 had let me spend the entire game as a Key Lento himbo",
+   "first_seen": "2026-11-27T19:50:48Z",
+   "updated": "2026-11-27T19:50:48Z",
+   "items": [
+    {
+     "id": "e818ea5e8e84",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Forget Vice City – I wish GTA 6 had let me spend the entire game as a Key Lento himbo",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdGFUTDRtRW9kUVdjSVFMNEdCVW9oZkhPUjdzbzNFNENZUElrdTYteVpMR3loY1pUSENYU2ktZnUwUUJuQ1BxeW5CTnBoX3g4Zm03a0xNeDhCMUxSNUVHSzFQNWNaRjAtTW55WnREN3JabmtvTnJMTGVwRVFva2Z5V0J4UW1DdTBLVGFJdWx1Rno0NFhTNGIwY3NoVUtiSkZkR19QR0dpZnlOVXlEMXBlbFZIdjczRGQ5T0I5MTRxVUQ5ZEtHSkk5VU9xUlFOd2M?oc=5",
+     "ts": "2026-11-27T16:00:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "491153908a3a",
+   "title": "Former Rockstar artist says GTA 6 looks \"almost flawless\" but loses to Red Dead Redemption 2 in a few areas",
+   "first_seen": "2026-11-27T19:50:48Z",
+   "updated": "2026-11-27T19:50:48Z",
+   "items": [
+    {
+     "id": "491153908a3a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Former Rockstar artist says GTA 6 looks \"almost flawless\" but loses to Red Dead Redemption 2 in a few areas",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNjFubGEwbkd5ci1JZllNTEk5VzlBZTJVQ1d6cWFCcXVwd0JzS2Y3MUM5UF90a1Rld3BqNFJMcmJtQjJwdnlkNWJZb1hzTXdMRlEyZzVtR09RRHczZW13ekJab1l6TkM2VW9jOGNtREVjOWRDQ29WOWpkcjlOeDlVRGtIdjBRVExqRFB0ZXRlRE5DRkxRVEpoWGoyQWRVaDBtb28xTHItZnRYMVY1M2Jhd2pRQVdKQURSOHNuSGxMNTBtTVJVU1g1VjZKY0hFR0lFWTFfd2JfTXpEOGVVb1lxclQwUVhYZWtLSlZGTg?oc=5",
+     "ts": "2026-11-27T16:46:01Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "7d42fd379372",
+   "title": "GTA 6 sales estimates place it above Cyberpunk 2077, The Sims, and the first Pokemon games as the 13th best-selling game ever",
+   "first_seen": "2026-11-27T19:50:48Z",
+   "updated": "2026-11-27T19:50:48Z",
+   "items": [
+    {
+     "id": "7d42fd379372",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 sales estimates place it above Cyberpunk 2077, The Sims, and the first Pokemon games as the 13th best-selling game ever",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdFljcjcyMWJfUXRvVUJJVkUteWV0dVRRbi1zYzFxVlZoX2RvbGRxLVh6ek5MaEVqU3ZBc1J4YWZBZFktbmttWTdJQm1Rc0pPOEI5RWhaNzZUSU15Tl9IQUo4ZVFqX0RpZ1B3eXlPZDh6VXlUVGNGZFBGSjhtZEJmR3FVaFJPU0pLRkFWNF9zS1E5aHhwNTFlbm5HU2w4cE1XcmprVl85VDVUVTJtTHNOdy1XZlBqZC04cmtYamFHdm9PcURYYm1QLW9vSEhVa0xSOW9UWGgtaHdpNFdnNWZrN3dtazh2U2VOdzB4LXhieXhuTE1kb0JIODVGMmQyMnA2V2NETw?oc=5",
+     "ts": "2026-11-27T17:17:46Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "4d0ab1891086",
+   "title": "25 things you probably missed in GTA 6",
+   "first_seen": "2026-11-27T19:50:48Z",
+   "updated": "2026-11-27T19:50:48Z",
+   "items": [
+    {
+     "id": "4d0ab1891086",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "25 things you probably missed in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YZUlWcHdaR0d3Ync2Q0FKaC1TSC1DVDlQWTZNeUViVmV2MFg2cFF4bmhienROUnRtaWMtUHE1M29vM1pCSnVtaURkeFpRcllZdmFZZEh6VGp2enFseVY2RXRrWldZa05TSzhuNkVha002dzV5VDMwRkFRUVRIWEU?oc=5",
+     "ts": "2026-11-27T18:12:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a606d2aa339c",
+   "title": "GTA 6: Full Find Cars for Wyman mission walkthrough",
+   "first_seen": "2026-11-27T19:50:48Z",
+   "updated": "2026-11-27T19:50:48Z",
+   "items": [
+    {
+     "id": "a606d2aa339c",
+     "src": "vgc",
+     "src_name": "VGC",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6: Full Find Cars for Wyman mission walkthrough",
+     "url": "https://www.videogameschronicle.com/guide/gta-6-find-cars-wyman-mission-walkthrough/",
+     "ts": "2026-11-27T19:45:19Z",
+     "summary": "All classic car locations for Wyman in Grand Theft Auto 6"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🚗 Все классические машины для Уаймана в GTA 6 — где искать",
+    "summary": "VGC опубликовал полный гайд по поиску всех классических автомобилей для заданий Уаймана в GTA 6. В материале перечислены локации и ориентиры для каждого авто.",
+    "idea": "Карта на экране, быстрый проезд по 3–4 точкам с подсказками. Зрителю важно успеть собрать машины до миссий Уаймана.",
+    "hook": "Все машины для Уаймана в GTA 6 — где их искать прямо сейчас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T19:50:53Z"
+   },
+   "msg_id": 2475
+  },
+  {
    "id": "f31f017e89dc",
    "title": "We Got GTA 6 Online Before GTA 6 Online",
    "first_seen": "2026-11-27T18:50:46Z",
@@ -224,34 +612,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "786f20cb6a95",
-   "title": "Will GTA 6 Get a Story DLC? GTA 6 DLC Plans, Explained",
-   "first_seen": "2026-11-27T19:40:45Z",
-   "updated": "2026-11-27T19:40:45Z",
-   "items": [
-    {
-     "id": "786f20cb6a95",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Will GTA 6 Get a Story DLC? GTA 6 DLC Plans, Explained",
-     "url": "https://insider-gaming.com/will-gta-6-get-story-dlc/",
-     "ts": "2026-11-27T19:34:00Z",
-     "summary": "It's been speculated that GTA 6 could be getting a story DLC sometime after release. The post Will GTA 6 Get a Story DLC? GTA 6 DLC Plans, Explained appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai_fail": 1,
-   "ai_error": "ValueError: нет полей: title_ru"
   },
   {
    "id": "c9e4f4fe3be3",
@@ -1030,108 +1390,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "78703688a072",
-   "title": "'I've Dedicated Almost a Decade Bringing Lucia to Life' — GTA 6 Actress Manni L. Perez Breaks Silence in First Statement Since Launch",
-   "first_seen": "2026-11-26T21:10:50Z",
-   "updated": "2026-11-27T19:01:13Z",
-   "items": [
-    {
-     "id": "78703688a072",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "'I've Dedicated Almost a Decade Bringing Lucia to Life' — GTA 6 Actress Manni L. Perez Breaks Silence in First Statement Since Launch",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFBWcjFYb1NJRWwyUVdlbXlkNjZFNXlNamUxVXBGczRvRjljc3RjOEJLRlhhMFNyekJkeExwZTBkX0k4My1WVERfY0Z5cVpicGExZ0s3QkRZLUw4Wk1sdlNvTnB6Z2tEalN5YURmMnNWNGxPNEVLZHNGblM1RXdONEVqUFNnUEVkSmgzeThPTGp3VVF1bUtPOUNUdzVnVUE?oc=5",
-     "ts": "2026-11-26T21:02:42Z",
-     "summary": ""
-    },
-    {
-     "id": "3abcd51e92b5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkdUcjFaNV9fRjNsajFXVEluZEZQZDZLR3hJcDhib0FfbVRHbzUyNjB6XzhJbmNXR3JqVXo4NlIyVGRzMzlMN09ZNnRYUTdoaTJPT3pTNEpmN3VlWTVlYXVsOHNfZ3Z4Rk53SjY2b1pWSU1VTTRvWkl4SEU1dHFtaE9WUjBIMUdvRjVuZFo1MXFfWno4OThydURQSmlFRG4tY3VWR0N0X09uOE1reW01Wjl3aWtwejJYSk1YeGlKQTRVYWdMT1hvYQ?oc=5",
-     "ts": "2026-11-26T21:15:12Z",
-     "summary": ""
-    },
-    {
-     "id": "fe858b435223",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
-     "url": "https://www.ign.com/articles/lucia-actress-manni-l-perez-issues-first-statement-since-gta-6-launch",
-     "ts": "2026-11-26T21:02:21Z",
-     "summary": "Manni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out."
-    },
-    {
-     "id": "c4e7aa0bbc3d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Tech",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Manni L. Perez Finally Speaks on Playing Lucia in GTA 6: ‘I’ve Dedicated Almost a Decade Bringing Lucia to Life’",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM3ludmlwVHpXdzBDOThSOXJXcEFqbU1IdjJpalZlT3lNQkJveGNFRkVxYjJCaFlXMjJSU1hHWHRWZWtzN1pTaTZHNTg4VGlSWnVwNVk2Z0Z5eHk2V1hOQ2V3VmhpVm1tM2dyYzVfRzM5S2NVdjk2di1FQlpBazUxaDItQ04xaHpxT2c?oc=5",
-     "ts": "2026-11-27T09:56:52Z",
-     "summary": ""
-    },
-    {
-     "id": "b67c1e30a117",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NME",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6' Lucia actor makes first statement since the game's launch",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjNSYjM3YjZVeGoxRlh4c3BUWVBWTWp1dWhNTW85Zm43aUtCUFFwMkQ1bHJkZkNIam8tYWswSDlwb0ZIdzJNWmE0TGhhQnItRnJKYzJoN0VtT1I3eDgxaXVoenVLTUhuSVJEbkVTQ1d3MmY0QTg3WkQ4NEF4WFdHM0trazVyTDFnd2VNTkpjazJYSkpaZVNjUHd3R19SY0NEREJ6NWhFVFJNdVBK?oc=5",
-     "ts": "2026-11-27T12:32:31Z",
-     "summary": ""
-    },
-    {
-     "id": "d95eca8466ba",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Diario AS",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Manni L. Perez, the actress who plays Lucía in GTA 6: “I’ve dedicated almost a decade bringing Lucia to life”",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN0tHV1dXU1VDbTY2dFlwaEtHYlQwZDEzOFBQTTZDTnJ1SXZURHBZZWpJRUNuMGRLWHJwZVlSU0JSNlpNazdTQlgxdVJDczFyR0ZzUVZfeV81UVo0T0xXOXBaTENiMWZIbC1aUDIzUjkwV3pkZHM1eWpvOXFPWXB6eTRnS0lnbG4zMi1hczN4WXJIYWdOY29fVnB3U1RNXzFsNmg4c3dYcjJvWEdnZkFrNXd6VUpVN1h2N3hPSHEwTVZLa3gtWHBDNW5UWmJsSklVTWRnTVUyRHg1MzN6X0xXT2twNNIB9wFBVV95cUxNcE9zQTg3eUM0TU1fbXYteGQtbTR4azNCT2NqdW5WbUdqWUc0Q3I0T0lwc0VaVlpadHhlT01UeHJXcnBDcWhqQ3NLY2VuaFotSFhjMTk5cEZXZmlvQmUwWFByUGRLNmNpX211eW52aFh1TDF5X3BTZmtsUGtuVnVNeDAwT1VsR0dHQ3F0Y2VCUTFPRDd0U1N5WlkyVjZmVjFWVlpteUtWLUdWZ0l5aVdRb0h6Sm1ZUS1vSDdudUprSVBjT2o0MmtjVmZYellfV0ZMa1lHYVk2aEVfaTFkUnBQRXZMOC1DcjlFV3U0Z0xtTWxrTExEUEpJ?oc=5",
-     "ts": "2026-11-27T15:32:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 95,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Актриса Лусии из GTA 6 Манни Л. Перес впервые высказалась",
-    "summary": "Актриса Манни Л. Перес, озвучившая Лусию в GTA 6, впервые высказалась после выхода игры. В комментарии IGN она сказала, что почти десять лет работала над образом Лусии.",
-    "idea": "Короткий монолог актрисы о Лусии с кадрами героини из игры. Зрителю интересно услышать голос и эмоции человека, создавшего главного героя.",
-    "hook": "Голос Лусии впервые заговорил после выхода GTA 6 — вот что она сказала.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-26T21:10:54Z"
-   },
-   "msg_id": 2405
   },
   {
    "id": "bb4a1c5dc754",
@@ -3167,58 +3425,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e52ee747459b",
-   "title": "Avoid the bad GTA 6 Black Friday deals – use this price hack instead",
-   "first_seen": "2026-11-27T15:20:50Z",
-   "updated": "2026-11-27T17:10:50Z",
-   "items": [
-    {
-     "id": "e52ee747459b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Creative Bloq",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Avoid the bad GTA 6 Black Friday deals – use this price hack instead",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNEZxZUVoQXczRWVBUHNqdjFYSC0yeGtNWHM3a0s2OFhtSTJmVkJVWmI0ZDJiZGNWbkVzVVl5TUhqQ2d0STJ1LWZkOVFvQmFHRUNLZzEzSVVYR2xCem5uaThFczh5S19ndjBzZVR3VWk4bnpzeFVkM0t6MUhxMTBhOW5ISTVfdHlqS1d4dlBpQ2w5VDFucGI1RVpDWFlleFN3TmtycnN6c3dmdmJRdnFmM2xLOVliSnc?oc=5",
-     "ts": "2026-11-27T14:57:30Z",
-     "summary": ""
-    },
-    {
-     "id": "2bb70a89c96e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mashable",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Limited-edition: The GTA 6 DualSense PS5 Controller is up at Best Buy for Black Friday",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56dG5uaDg4ZXlPV3lJTHZoUWxSXzg1cEk1SGtrdkxfRGo5dUtxNmRjU05sa2gtMGdXcHF4a0ZSQ1lzbDllMFFJYjdia3FjYWlCd29VS01tZXJMVDBOM1dYN1RSTDlHR2xySVg5WGtwTDRlbF9KVV9SYkxXZVhYZw?oc=5",
-     "ts": "2026-11-27T17:03:45Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "цена/издания"
-   ],
-   "score": 73,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 Как купить GTA 6 дешевле в Чёрную пятницу: лайфхак",
-    "summary": "По данным Creative Bloq, в Чёрную пятницу стоит избегать сомнительных предложений GTA 6 и использовать ценовой лайфхак. Издание советует проверять цену в разных регионах и на разных площадках, чтобы не переплатить.",
-    "idea": "Короткий гайд: как за минуту проверить регион и площадку и сэкономить на предзаказе GTA 6. Зрителю это полезно прямо сейчас, пока идут распродажи.",
-    "hook": "Чёрная пятница, GTA 6, переплата — вот как реально сэкономить прямо сейчас.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-27T15:20:53Z"
-   },
-   "msg_id": 2443
   },
   {
    "id": "1b0cb2c67c56",
@@ -150236,105 +150442,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "2db2d719f3ed",
-   "title": "Чемпионка Arnold Classic работала над захватом движений в GTA 6",
-   "first_seen": "2026-11-20T19:50:46Z",
-   "updated": "2026-11-20T19:50:46Z",
-   "items": [
-    {
-     "id": "2db2d719f3ed",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Techora.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Чемпионка Arnold Classic работала над захватом движений в GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVF5R05MbVZRUWZtbVdYNUNUcVFCU3VBTkQ2M1hUdmYyVllwUmNteXlhUDZzXzBOYjBSZmh4Ul9FdlExSVJKS1ZtaUMwaFBnbVBLT1J3b2NxLVBXclZYaGhPWVZna2NqdzlYdWJHd3RrRmZiT01SUFF2WnExNjBxVkF4QnZKZVNWQmpz?oc=5",
-     "ts": "2026-11-20T19:33:20Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "70ecdbdcea8c",
-   "title": "The New York Times. . Grand Theft Auto VI is out now. Our reporter Zachary Small took a look at what made the franchise a phenomenon, including its emphasis on crime, satire and immersive gameplay — to the point where much of the new game is about doi",
-   "first_seen": "2026-11-20T19:50:46Z",
-   "updated": "2026-11-20T19:50:46Z",
-   "items": [
-    {
-     "id": "70ecdbdcea8c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Facebook",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The New York Times. . Grand Theft Auto VI is out now. Our reporter Zachary Small took a look at what made the franchise a phenomenon, including its emphasis on crime, satire and immersive gameplay — to the point where much of the new game is about doi",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaGY3SlBObDhaeTNVM2hlYjhVQlJSN2FYenNJMF9hVmtUam9hMkZUVnZMcmMySWxDWFJPRXBic3RmOG5DSG04UXhoQUJ2T3M4ZXhSZ01iOFgxNTJiSHh1NkMzNUxDYWd2di03UjdHMDk0bzN4a3VPSlNiaXZLY1lQVDYtQjBPVE9ObTJtXzFiQ3ZpeEVEUU8zYkthVk9Ta1RuM3M4YVA5UzV6S09tV1BxQmg0MGZRMDlRQkstTFptMkEtTXZDdWloUFBYa3dvZGFCdld2bQ?oc=5",
-     "ts": "2026-11-20T19:40:03Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "геймплей"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "NYT о GTA 6: акцент на сатиру и погружение в геймплей",
-    "summary": "По данным The New York Times, GTA 6 уже вышла, и издание отмечает упор на преступность, сатиру и погружение. Журналист Закари Смолл пишет, что значительная часть новой игры построена на иммерсивном геймплее.",
-    "idea": "Коротко показываем, что хвалит NYT: сатира и иммерсивность. Зрителю важно понять, за что игру хвалят крупные СМИ в день релиза.",
-    "hook": "NYT уже пишет о GTA 6. Что издание хвалит в геймплее?",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-20T19:50:50Z"
-   },
-   "msg_id": 1749
-  },
-  {
-   "id": "f0f0dac830bf",
-   "title": "GTA 6 Players Discover Secret Radio Station Hosted by Florida Rap Star Kodak Black",
-   "first_seen": "2026-11-20T19:50:46Z",
-   "updated": "2026-11-20T19:50:46Z",
-   "items": [
-    {
-     "id": "f0f0dac830bf",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "VICE",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Players Discover Secret Radio Station Hosted by Florida Rap Star Kodak Black",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDZBclM3amc4dTF2RHc0aFRHazlsaWR2eEd4dllMeERTUldsUlhFcGtidVJxQ3BIUXpyY1ZiYUhvblZMWmE1Vk55TlRlSjVMOVNZaGhWM0oyVzhyRkJEM0hleE5mWWVBeVVhb0Jmd0JVdlhMaG15enoxeWJUTTdia3NMNEFZSzl2cE93a2xuZzJfR01OdUZRQ0o1WnhYbVdOVDlFYnNGZW9MNTRlS2tZODBZeF8tQQ?oc=5",
-     "ts": "2026-11-20T19:40:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T19:40:49Z",
+  "last_run": "2026-11-27T19:50:53Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 96/100",
+   "gnews_en: 97/100",
    "gnews_ru: 100/100",
    "gamesbeat: 3/10",
    "vgc: 5/10",
