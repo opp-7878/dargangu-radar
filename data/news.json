@@ -1,46 +1,10 @@
 {
  "stories": [
   {
-   "id": "bf9ff3179ed9",
-   "title": "😀 Найдены лучшие магазины одежды, где вы можете сексуально приодеть Люсию Тут и купальники, и топы, и рубашки, каждый найдет что-то для себя 😀 Подписаться | Наш",
-   "first_seen": "2026-11-27T15:11:14Z",
-   "updated": "2026-11-27T15:11:14Z",
-   "items": [
-    {
-     "id": "bf9ff3179ed9",
-     "src": "tg_gta6deluxe",
-     "src_name": "TG @gta6deluxe",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 55,
-     "alert": true,
-     "title": "😀 Найдены лучшие магазины одежды, где вы можете сексуально приодеть Люсию Тут и купальники, и топы, и рубашки, каждый найдет что-то для себя 😀 Подписаться | Наш",
-     "url": "https://t.me/gta6deluxe/2476",
-     "ts": "2026-11-27T15:01:07Z",
-     "summary": "😀 Найдены лучшие магазины одежды, где вы можете сексуально приодеть Люсию Тут и купальники, и топы, и рубашки, каждый найдет что-то для себя 😀 Подписаться | Наш чат 😀"
-    }
-   ],
-   "tags": [],
-   "score": 55,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new",
-   "ai": {
-    "title_ru": "🔥 Где одеть Люсию: лучшие магазины одежды в GTA 6",
-    "summary": "По информации канала TG @gta6deluxe, в GTA 6 нашли лучшие магазины одежды для Люсии: есть купальники, топы и рубашки. Автор отмечает, что каждый найдёт подходящий стиль.",
-    "idea": "Короткая нарезка по лучшим магазинам одежды для Люсии с акцентом на купальники, топы и рубашки. Зрителю интересно, где быстро собрать стильные образы.",
-    "hook": "Где одеть Люсию стильно? Топ-3 магазина одежды в GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-27T15:11:17Z"
-   }
-  },
-  {
    "id": "119c64a3c657",
    "title": "Should you kill or spare Raul in GTA 6?",
    "first_seen": "2026-11-26T19:20:46Z",
-   "updated": "2026-11-27T15:01:13Z",
+   "updated": "2026-11-27T15:20:50Z",
    "items": [
     {
      "id": "119c64a3c657",
@@ -93,13 +57,719 @@
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4dG1US1dCcW5qOUdRMzNNR0daTnFKZEQ1bFNKZG5Ca0tPRkFzVWEzVFRfQy1oc0w0X193M2FmYWpCTUNISURZakk0VW9UYnJQSnVXd0o5VmZFZlE0ME9ZOWx1OG4xd2hZX2pvYXhB?oc=5",
      "ts": "2026-11-27T13:51:48Z",
      "summary": ""
+    },
+    {
+     "id": "a50d56883ddb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Cultured Vultures",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Should You Kill Or Spare Felipe?",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KVHhNZlJTcHNMUXFTdURlZUJtT0xHYzRDU2c3cmliNXU3Nlp1TzQzZVhfekk3cjNCcmtHYi1pZnRiY0J3bDFHQUJ3RnpKVW14TjJCN2EtbW5KbC1TYnlUM3lUVVcxcUNFLXJNYUZaTVVGNjJPbEE?oc=5",
+     "ts": "2026-11-27T15:00:19Z",
+     "summary": ""
     }
    ],
    "tags": [],
-   "score": 66,
+   "score": 74,
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
+  },
+  {
+   "id": "7e70ced8520f",
+   "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
+   "first_seen": "2026-11-27T14:20:53Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "7e70ced8520f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Pakistan",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUTFBYkVMR0hMNDA0SXUyWFpNaElUYUxJMHpvZXpDUmZJTG1oWU4taTJSUktLUFlsNzBVcHpTaVVEbzVDRXpnUGNJc2pPS0xOclhpallSRU01VVFoTExPYnNzeWl3YnY3T1dEcHB6OUtsaloyb1hUTmEwQmYxOFV2ZlY3dVpJLTYtOFJ6YUJXNlRsZzR1OEhwRWw2TE9IQlpKUVB6MWhJVjduT1ZTa3J1bERMUXRKR2hyN0JtdEhSQVZjZ2ZUMHE2X2lVWjdQWlN1OGtLSXNQa3d1YXJuY1B3Z2o4VDNuOVdfVWY1WGcwaDNOZw?oc=5",
+     "ts": "2026-11-27T14:15:12Z",
+     "summary": ""
+    },
+    {
+     "id": "b59b15d6b2e4",
+     "src": "ign",
+     "src_name": "IGN",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
+     "url": "https://www.ign.com/articles/losing-six-stars-in-gta-6",
+     "ts": "2026-11-27T14:01:09Z",
+     "summary": "Losing six stars in GTA 6 is meant to be impossible, but players are trying everything from interdimensional portals to hidden bunkers to escape the cops."
+    },
+    {
+     "id": "4d592c074d56",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN Southeast Asia",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ01nenZ1d01YUGMwQXZYQXpBaG5MQTg1VnozcDFRbnlrOWdVZWZUWkdpMnpRNDdNS1ZhVnM2NzFlV2FldVMzRGpVUTlGRDV0V09id1FjUVZFYzRxb2Rtb2FCeElOT0NSQU1KU0c4eHlOZzB4bmZWazJualowVEljLWthUVNISDhHYXpnY3ZrXzh5Y05kVFBHQkVMZUdhSGU1UnFhd0FtT1lZYl9IcWFSRU9zcjFENDc2SGxrbWhnNDF6Z19fNG5jcGpjSGRBREJzUDlfak5lYnFiY2EyWkphUGl5MTVla3JRTlFMT3NIbE9kZ2c?oc=5",
+     "ts": "2026-11-27T15:05:27Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 86,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "6 звёзд в GTA 6: игроки ищут порталы и бункеры, чтобы скрыться",
+    "summary": "По данным IGN, в GTA 6 уйти от 6 звёзд полиции задумано как невозможное. Игроки пытаются использовать межпространственные порталы и скрытые бункеры, чтобы всё-таки сбросить погоню.",
+    "idea": "Короткий челлендж: игрок получает 6 звёзд и пробует разные безумные способы скрыться — от порталов до бункеров. Зрителю интересно, сработает ли хоть что-то.",
+    "hook": "6 звёзд в GTA 6 — уйти нельзя. Проверяем порталы, бункеры и безумные лайфхаки.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T14:31:21Z"
+   },
+   "msg_id": 2440
+  },
+  {
+   "id": "f04beb20ef4a",
+   "title": "Danny Dyer makes surprise cameo in GTA 6 – but not all fans will find him",
+   "first_seen": "2026-11-27T13:40:49Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "f04beb20ef4a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo News New Zealand",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Danny Dyer makes surprise cameo in GTA 6 – but not all fans will find him",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VOEt0T3B1UVRXdDFTb0NxWnlIck9EZWtYM1BzMEJtQUY5b3R3TnlOSWMtX0NObmVVMzRVa0REV0ZydVVBTFVPMUI0cVhUdDBmUEdXMXVXek5XYl9KcHZPT2VTbzVBMVVzS1lXdjdHWTdhWU9MNW5Fc09BTlg?oc=5",
+     "ts": "2026-11-27T13:28:14Z",
+     "summary": ""
+    },
+    {
+     "id": "145c9353356e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Independent",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Danny Dyer makes surprise cameo in GTA 6 – but not all fans will find him",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNjRqV29oTHMtMnhnZFBZdVdKdXhwNHdTZUpwb0tZNVgyS19aZ3p5cGtvX2xObmh3d1dHbWdRVFZWdXNWV0JNYlJ0dmRObnQ0R0UzVHdzcVMwWWp3SmxHb0ZXVV9PWFFlLVBIcG1abFF5Rlp1MmFKVmhfeTlFWlhEV2RZbk81Uncyd04ycWpWV21NV0pPNW9mQy1MUQ?oc=5",
+     "ts": "2026-11-27T13:28:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "👀 Дэнни Дайер засветился в GTA 6. Камео, которое легко пропустить",
+    "summary": "По данным Yahoo News New Zealand и The Independent, в GTA 6 есть неожиданное камео Дэнни Дайера, которое легко не заметить. Журналисты отмечают, что не все игроки узнают актёра в этой сцене.",
+    "idea": "Короткий ролик «пасхалка дня»: где искать камео Дэнни Дайера и почему его легко пропустить. Зрителю будет интересно проверить, заметит ли он актёра сам.",
+    "hook": "Ищешь пасхалки в GTA 6? Дэнни Дайер уже спрятан в игре.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T15:21:01Z"
+   },
+   "msg_id": 2445
+  },
+  {
+   "id": "a7210e308a2d",
+   "title": "Where to find all Sunrise RV Park Key Valuables in GTA 6",
+   "first_seen": "2026-11-27T12:20:59Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "a7210e308a2d",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rock Paper Shotgun",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Where to find all Sunrise RV Park Key Valuables in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kVWQyQ0VoU2gwakpnNVJyM2FTa1R0SmdIanlZNFloQnR2N1ZGYmRSUV9yOTgweUl4MUdlamMxSmUwS2dzd1hFdlg5ZG5xZWhmUHRiOUNMWXptd0JVc0wyeUpiZkdRNUF0Z3AtZzU1SzN2X18zb3ZF?oc=5",
+     "ts": "2026-11-27T12:13:10Z",
+     "summary": ""
+    },
+    {
+     "id": "ae22e62802e3",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rock Paper Shotgun",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Where to find all Brooks Boatworks Key Valuables in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lRFJKNm5aYmNhbi1XTWFfTXpFVElRSmMxYnFHT1JPdGxDNlFFT1R0dDM0cXZRMFhDLURSM3JOaV82SklmeXp0cVJrelVjWWstamtvMW1pWmtQLTlLYjg1eTFNMkxLRTZYUDJHRm5SSjNIdThMS2V6LQ?oc=5",
+     "ts": "2026-11-27T13:00:20Z",
+     "summary": ""
+    },
+    {
+     "id": "50e1a7a68923",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rock Paper Shotgun",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Where to find all Kingpin Bowling Key Valuables in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HUnY1SGMwdUJVSXJET1pQRnVEdnJGV3M4SE1EWmh2SDNfUFZJUjVBOWNhQmVjOG9hLXltWUttTW9JYzJGV1FoYXNHdHctSURSMFpPUVE2bnd3bWNydjVIMDBzOU82VGdYUTRkclhZaHhBZVZvZXVF?oc=5",
+     "ts": "2026-11-27T15:16:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9a4512fc0d8c",
+   "title": "GTA 6: Lucia's actor Manni L Perez posts heartwarming Thanksgiving statement",
+   "first_seen": "2026-11-27T11:50:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "9a4512fc0d8c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Indy100",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Lucia's actor Manni L Perez posts heartwarming Thanksgiving statement",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03YUx4aTdrRUZJbnNNWHhuZGNEYlphZWF0Vks3OU5IZ0JPcE9odXl3VGd0WEtFVk82X0owZEtoWmFPNlJTYTlEQklxMXJYWFpYVEYxVXFLclI1VWhEZWV3dkx2cUhjN1k?oc=5",
+     "ts": "2026-11-27T11:44:09Z",
+     "summary": ""
+    },
+    {
+     "id": "023e10ba8eaf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Complex",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'GTA VI' Lucia Actor Manni L. Perez Shares Thanksgiving Message to Fans: 'I Am Beyond Grateful'",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOE1zYzRfdngyUWdsemU1X0JGdFV6OS15Tk9EajhBZ0hReFZQMjhkUDVlSHJyck13c2E5VDhwVUcxWDh0SkhnS1R2ZnQ2bTJWSVFvVldIM2l0REVLLXIyLUFvNXVlaGFsWklvYjduUjBKSmFEVDlxWDZFaW1FQlBsSUUtM2c2cDRiQ3ZV?oc=5",
+     "ts": "2026-11-27T14:56:32Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "d59aedf34ffb",
+   "title": "Where to find the Ocelot Jugular's location in GTA 6",
+   "first_seen": "2026-11-26T17:20:47Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "d59aedf34ffb",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rock Paper Shotgun",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Where to find the Ocelot Jugular's location in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZU1FT2lDM3NWZWw1bG9YOXRhakJJczRheTZVR0x4VnlBaGZ6dG9hQXZyNjBPM3QtaEh3Yk5jUWc5aXhhT21CUVhvSml4bnA0Vl90S1pGVUp0dDRxY1NIcTVaS0YwNTlYS3ROaFdydw?oc=5",
+     "ts": "2026-11-26T17:12:10Z",
+     "summary": ""
+    },
+    {
+     "id": "b90f43b91688",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rock Paper Shotgun",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Where to find the Bravado Banshee's location in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBET0xBWEpVbHFBRVYtSmZBWlhqNi1pSjBOd3dHSjRBaU0yX2h3R0p5blVQYi13SkRyV3hXdm5lSG9DRjJKUWtSdDFUeF9Lc0NSU2R2Wjd3N3JDWjJVdHhJRGxsdURobzNITTlkZTVvZ0c?oc=5",
+     "ts": "2026-11-27T14:57:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e8a56fe28567",
+   "title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
+   "first_seen": "2026-11-26T15:40:45Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "e8a56fe28567",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
+     "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
+     "ts": "2026-11-26T15:32:20Z",
+     "summary": "Grand Theft Auto 6 has broken another livestreaming record. After attracting more viewers across livestreaming platforms than any game ever on its launch day, Rockstar's open-world crime sim has reportedly continued to dominate on platforms like Twitch , YouTube, and Kick. Read more"
+    },
+    {
+     "id": "7795019a58ea",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamingBolt",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Had Higher Week One Livestream Viewership Than Elden Ring, Valorant, Diablo 4 Combined – Rumor",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGRXdjhISkFEelpVX1pYa01oMHByYk5JYkd5R0h3djZna21oaG1DNE9xZVV6TWtIM2tlZm9RU0ZmdUcwV0x4RHBnU01QQTBkU2JYanlLX1plWlMyXy1WVS1JUnRIQUNSMFRlY0pTcGRmdUxjdWtaV1YyQTdJTEc4SFJNYUQwbE1xNDRjMExvUmlfZWNGYlplVVM4ZkZweFNGSVIxbGd1SXlLXy1SdXluejloMVYyV1dxeDVB?oc=5",
+     "ts": "2026-11-27T15:13:13Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 78,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "GTA 6 побила рекорд стримов: больше, чем топ-игры вместе",
+    "summary": "По данным Eurogamer, GTA 6 установила новый рекорд по просмотрам стримов в первую неделю. На Twitch, YouTube и Kick её смотрели больше, чем Elden Ring, Diablo 4, Valorant и Lost Ark вместе взятые.",
+    "idea": "Сравним пиковые онлайны GTA 6 с топ-играми и покажем график — зрителям важно увидеть масштаб рекорда в цифрах.",
+    "hook": "GTA 6 порвала Twitch: рекорд, который не побили Elden Ring и Diablo 4.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-26T15:40:49Z"
+   },
+   "msg_id": 2366
+  },
+  {
+   "id": "43044b36b504",
+   "title": "Энтузиасты представили лаунчеры XSEmu и VILauncher с поддержкой сборок GTA VI для AMD и NVIDIA",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "43044b36b504",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GameGPU",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Энтузиасты представили лаунчеры XSEmu и VILauncher с поддержкой сборок GTA VI для AMD и NVIDIA",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjI1QWFzWnhHaEM3YTFUS1NMb2laRkVqTXkzclU2bHBoTkp5aFdyTm1YOGNJODBoNGpuWEFsdDRJZDFoQVgxU2NZcDZvQVRYVGVyckJET2JzdTZRUm5JQlN6QktpdGFjM0xLLWQ5dVJTanFuZGExLUVoU3hRNWxldTFoanhsQlcwckkxRjdBWDd0WWJUcWNxblBKZWZHdWpKaG85eXQ2Wnp4d3dZelREVjU5LURBUi05VGdrNTlMRU82QXNUb1E?oc=5",
+     "ts": "2026-11-27T13:01:22Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "f21df285fbca",
+   "title": "Энтузиаст запустил GTA 6 на старой майнинговой системе AMD BC-250",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "f21df285fbca",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Клуб DNS",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Энтузиаст запустил GTA 6 на старой майнинговой системе AMD BC-250",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzlIamQ5UEctZjR5T0NWUVNtSHd6Z25rcFJtVEJZbUtvRUtmOE1SWFdMNFVZS3o4dGtpV29taDRMeUpJYVdTWEpBRXlITEZVS1lBMmt4MmFaUVp0YUZiVF9hZzBrVXFCY2QxTEtoMHV0Ymd1azFUeV9SNEttZ0NFcmNUVVJqRmYtaThiSHlaek9FS2EyWGFIczk4c3V2dUkwVUlab3JFQdIBrAFBVV95cUxOeDd2ZVF0bnU5N3I5UDVCdmUwNkNDMy1veTcwNm9ESC1pN3cxaERwa01GYXk0dU5jTG43dHpSS1AzalhCV3RRaUtiREZoUWNVYjFCYVhLbFc4Wk5rbmxpamQ2LTZWc0RtYWFVSDRHRFE2Nnp2ZU9ybkhRMUQ0eFhLaFkxWW54dzZCcloxdXBuQW16NzBIRDd1VW1Td0thNHJRYTVyNkdaUG5KeHNW?oc=5",
+     "ts": "2026-11-27T14:15:39Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e6ef661ed748",
+   "title": "GTA 6: выйдет ли игра на ПК?",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "e6ef661ed748",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Sortir à Paris",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "GTA 6: выйдет ли игра на ПК?",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHA1VnpPak1qeXZJY1k4TEFRdTNNSnZ0bmJfZ1FpekJfWkZOZVprTnUtWDlsMUVwRTNHcXJDblZIRVo3bDlQNEJ2SE1FQmZwbS1lMDF1WURURlRncXVadzgxVmFxOTlUbXZSUFV4U2VWOXBWUXdCRG4zMElpanh6cW1odlRkZ1hpSTBTVTAwby1xeEhNcklON0VZcVN0MU85NWc?oc=5",
+     "ts": "2026-11-27T14:24:48Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "ПК"
+   ],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "dup",
+   "status": "new"
+  },
+  {
+   "id": "e46e42ee24df",
+   "title": "'Grand Theft Auto VI' sports and activities breakdown",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "e46e42ee24df",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ESPN",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Grand Theft Auto VI' sports and activities breakdown",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51ajQtSkZmN01BWk1LY0JzX3FQaktQdzlTNGFSMDBNRGdRMXI4MzlfeUJGZDFSRUFOdWN4RjUzMWJLNlhxRWF0c0t4X2dVY0NLYUlZR29LWkpSVHgzeXlNa3VtZUZNU2dWM3ZhMmhlU1lfWXR0TEdtRC1oX20?oc=5",
+     "ts": "2026-11-27T14:55:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "e52ee747459b",
+   "title": "Avoid the bad GTA 6 Black Friday deals – use this price hack instead",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "e52ee747459b",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Creative Bloq",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Avoid the bad GTA 6 Black Friday deals – use this price hack instead",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNEZxZUVoQXczRWVBUHNqdjFYSC0yeGtNWHM3a0s2OFhtSTJmVkJVWmI0ZDJiZGNWbkVzVVl5TUhqQ2d0STJ1LWZkOVFvQmFHRUNLZzEzSVVYR2xCem5uaThFczh5S19ndjBzZVR3VWk4bnpzeFVkM0t6MUhxMTBhOW5ISTVfdHlqS1d4dlBpQ2w5VDFucGI1RVpDWFlleFN3TmtycnN6c3dmdmJRdnFmM2xLOVliSnc?oc=5",
+     "ts": "2026-11-27T14:57:30Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "цена/издания"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Как купить GTA 6 дешевле в Чёрную пятницу: лайфхак",
+    "summary": "По данным Creative Bloq, в Чёрную пятницу стоит избегать сомнительных предложений GTA 6 и использовать ценовой лайфхак. Издание советует проверять цену в разных регионах и на разных площадках, чтобы не переплатить.",
+    "idea": "Короткий гайд: как за минуту проверить регион и площадку и сэкономить на предзаказе GTA 6. Зрителю это полезно прямо сейчас, пока идут распродажи.",
+    "hook": "Чёрная пятница, GTA 6, переплата — вот как реально сэкономить прямо сейчас.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T15:20:53Z"
+   },
+   "msg_id": 2443
+  },
+  {
+   "id": "cc33831116d4",
+   "title": "Major GTA 6 Glitch Is Locking Players Out Of Finishing The Story",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "cc33831116d4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "ScreenRant",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Major GTA 6 Glitch Is Locking Players Out Of Finishing The Story",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQ01pckk2RjB4NV9JZDQ5a1FMckxKZVZESThVYVk5bXJIVmJCWVhXZmM4NGlicmsyS1ZDR3ZuVllJd2drendKeWQ3S19BalZIRlFncWJUZFEteWhIbS1RTTd2a1I5aEpkYkhIWGg4TVZLZGM?oc=5",
+     "ts": "2026-11-27T14:58:52Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8d1d63400477",
+   "title": "Where to find the Progen Purple Drank Emerus location in GTA 6",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "8d1d63400477",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Rock Paper Shotgun",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Where to find the Progen Purple Drank Emerus location in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qRGdHTTRua2djNkdscDlfd2ZnM2Q4Z3NnVVYtRXljcWtqbjBjWEJBT1ZXUHRoMzJSMml5THk1Q3h4NmZNNkZmYVRIZFNhcVlQcjc3Nzh2SGFYTWV4V0pldl93NHotTTZvcTkyUHdURGJ2ODFzcG1MZ2lRR2F0ZVE?oc=5",
+     "ts": "2026-11-27T14:59:10Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "8e628217aa01",
+   "title": "11 Gifts To Buy For The GTA 6 Fan In Your Life",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "8e628217aa01",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Kotaku",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "11 Gifts To Buy For The GTA 6 Fan In Your Life",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQenVyOUlBTTIxRkZCb1Z3dGhpSWg0NEltQmFZcWVndmNhRXlDZk05bkluQ3BCWnRMbWpKTndkbV9SSm1QdVlVUFl4NkFFcENUN2lGcXQ1RFczaGFRNUJmTWVSSnhYbnNfMEt2cFJIQTgtVV9UTmU5X3hieUszVGQxQmp3?oc=5",
+     "ts": "2026-11-27T15:00:29Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Подарки для фаната GTA 6: идеи от Kotaku",
+    "summary": "Издание Kotaku собрало 11 идей подарков для фаната GTA 6 — от одежды до аксессуаров. Список опубликован на сайте Kotaku и не содержит утечек или дат.",
+    "idea": "Быстрый топ-5 подарков для фаната GTA 6 с кадрами мерча и реакцией. Зрителю полезно: идеи к подаркам без долгих поисков.",
+    "hook": "Ищешь подарок фанату GTA 6? Вот 5 идей, которые реально зайдут.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T15:20:56Z"
+   },
+   "msg_id": 2444
+  },
+  {
+   "id": "9396750b1f42",
+   "title": "Продажи GTA 6 превысили 53 миллиона копий — аналитики",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "9396750b1f42",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Igromania.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Продажи GTA 6 превысили 53 миллиона копий — аналитики",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUtVa0h1S0V6V2FYdzFTNnY5cnBoTzNBZ0VnQkRBcTlpSjROVWNNSTlJcm5ILWpnWGxFNHYxNVdkVnVkZE9uWWtVM01SOWZhUl83b0R2MkJkWkZvaVhES3UtVWdrNk53TEpiQ2lMcUdDZURTZ3hoY2lmRl9INUdWRDFLYy1rYkFDci1nSE42R3pSdkJrZHc?oc=5",
+     "ts": "2026-11-27T15:01:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "c885150853ef",
+   "title": "Вы можете прямо сейчас купить настоящий дом Джейсона из GTA 6 всего за 739 000 баксов",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "c885150853ef",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Вы можете прямо сейчас купить настоящий дом Джейсона из GTA 6 всего за 739 000 баксов",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGhabG81LVhqSTN5YU54ejV4dU5zeGt5ODhKdUJGV3FjanE0QjJrYVhHLWx0cTk1eU5zM1lNejh5a011WlFwOUZicF9tM0h0RGtnN1Bzci0zMERnd29jT1FLRGVEYUFZMS1KbG9selJoLXFZMktoQWxybUVValdpQzVKMzVRTnhqVkhTN3BXakVXOXZsLWxiUDhKZmpNa3A1ZmU1Rk9FbGc5aWp3R01YNGpQVFg1TTBQRFE?oc=5",
+     "ts": "2026-11-27T15:03:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "1a03e1be1fd1",
+   "title": "Fishing in GTA 6: Tips and tricks for catching every fish",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "1a03e1be1fd1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Red Bull",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Fishing in GTA 6: Tips and tricks for catching every fish",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmOWdKUncwYXRxSHRHVUhITlJTVHlqd1JWLTkyTWtibmNUV3lsakY2WFZiWDNxcnA5Rkp2RUJoNlZSZktIaHlIQTdJcE5GTElfZjdlel9Mbmgya2hVLVE?oc=5",
+     "ts": "2026-11-27T15:03:40Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bb9d6eb283f9",
+   "title": "«Хватит ныть, уе***ы»: Нед Люк в резкой форме ответил хейтерам GTA 6",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "bb9d6eb283f9",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "GoHa.Ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "«Хватит ныть, уе***ы»: Нед Люк в резкой форме ответил хейтерам GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0c3ejExcFM2TjM3U2M4TVNIVGxfeDFFRE8xNEJjcV9uZ25VTUtId3JuSWZpZzVPVzRTcGFZTTRLMERKOGh2Qk9meDVrVGdybk1XM05lRVJEdnlmYl84and2S1dxRXFYRTVzbmdVMTNTMDZ6UF94NDBqc0E5Y1BZSS1IVnE5eW5RcXpmQWhMUk83UQ?oc=5",
+     "ts": "2026-11-27T15:12:17Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6b07208b8225",
+   "title": "GTA 6 speculated to have already made PlayStation a ridiculous amount of money",
+   "first_seen": "2026-11-27T15:20:50Z",
+   "updated": "2026-11-27T15:20:50Z",
+   "items": [
+    {
+     "id": "6b07208b8225",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Indy100",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 speculated to have already made PlayStation a ridiculous amount of money",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTGJGQTRpTHQ1SExMSDJ6TFpLUGxCNU1fczFJMXFheDhWY1ZaUmZmdVlOMWRpbGl3bTRIM3VnTERIdUZWY2Y2cU1qZVBPQkpudW50SW1MV1RRanhFVmpPQ1FXWC1WTlB3SjJXNA?oc=5",
+     "ts": "2026-11-27T15:17:19Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "bf9ff3179ed9",
+   "title": "😀 Найдены лучшие магазины одежды, где вы можете сексуально приодеть Люсию Тут и купальники, и топы, и рубашки, каждый найдет что-то для себя 😀 Подписаться | Наш",
+   "first_seen": "2026-11-27T15:11:14Z",
+   "updated": "2026-11-27T15:11:14Z",
+   "items": [
+    {
+     "id": "bf9ff3179ed9",
+     "src": "tg_gta6deluxe",
+     "src_name": "TG @gta6deluxe",
+     "outlet": "",
+     "group": "telegram_ru",
+     "weight": 55,
+     "alert": true,
+     "title": "😀 Найдены лучшие магазины одежды, где вы можете сексуально приодеть Люсию Тут и купальники, и топы, и рубашки, каждый найдет что-то для себя 😀 Подписаться | Наш",
+     "url": "https://t.me/gta6deluxe/2476",
+     "ts": "2026-11-27T15:01:07Z",
+     "summary": "😀 Найдены лучшие магазины одежды, где вы можете сексуально приодеть Люсию Тут и купальники, и топы, и рубашки, каждый найдет что-то для себя 😀 Подписаться | Наш чат 😀"
+    }
+   ],
+   "tags": [],
+   "score": 55,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new",
+   "ai": {
+    "title_ru": "🔥 Где одеть Люсию: лучшие магазины одежды в GTA 6",
+    "summary": "По информации канала TG @gta6deluxe, в GTA 6 нашли лучшие магазины одежды для Люсии: есть купальники, топы и рубашки. Автор отмечает, что каждый найдёт подходящий стиль.",
+    "idea": "Короткая нарезка по лучшим магазинам одежды для Люсии с акцентом на купальники, топы и рубашки. Зрителю интересно, где быстро собрать стильные образы.",
+    "hook": "Где одеть Люсию стильно? Топ-3 магазина одежды в GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T15:11:17Z"
+   }
   },
   {
    "id": "48389980e180",
@@ -726,56 +1396,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7e70ced8520f",
-   "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
-   "first_seen": "2026-11-27T14:20:53Z",
-   "updated": "2026-11-27T14:31:14Z",
-   "items": [
-    {
-     "id": "7e70ced8520f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN Pakistan",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUTFBYkVMR0hMNDA0SXUyWFpNaElUYUxJMHpvZXpDUmZJTG1oWU4taTJSUktLUFlsNzBVcHpTaVVEbzVDRXpnUGNJc2pPS0xOclhpallSRU01VVFoTExPYnNzeWl3YnY3T1dEcHB6OUtsaloyb1hUTmEwQmYxOFV2ZlY3dVpJLTYtOFJ6YUJXNlRsZzR1OEhwRWw2TE9IQlpKUVB6MWhJVjduT1ZTa3J1bERMUXRKR2hyN0JtdEhSQVZjZ2ZUMHE2X2lVWjdQWlN1OGtLSXNQa3d1YXJuY1B3Z2o4VDNuOVdfVWY1WGcwaDNOZw?oc=5",
-     "ts": "2026-11-27T14:15:12Z",
-     "summary": ""
-    },
-    {
-     "id": "b59b15d6b2e4",
-     "src": "ign",
-     "src_name": "IGN",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
-     "url": "https://www.ign.com/articles/losing-six-stars-in-gta-6",
-     "ts": "2026-11-27T14:01:09Z",
-     "summary": "Losing six stars in GTA 6 is meant to be impossible, but players are trying everything from interdimensional portals to hidden bunkers to escape the cops."
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "6 звёзд в GTA 6: игроки ищут порталы и бункеры, чтобы скрыться",
-    "summary": "По данным IGN, в GTA 6 уйти от 6 звёзд полиции задумано как невозможное. Игроки пытаются использовать межпространственные порталы и скрытые бункеры, чтобы всё-таки сбросить погоню.",
-    "idea": "Короткий челлендж: игрок получает 6 звёзд и пробует разные безумные способы скрыться — от порталов до бункеров. Зрителю интересно, сработает ли хоть что-то.",
-    "hook": "6 звёзд в GTA 6 — уйти нельзя. Проверяем порталы, бункеры и безумные лайфхаки.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-27T14:31:21Z"
-   },
-   "msg_id": 2440
   },
   {
    "id": "06df89b73b42",
@@ -2444,32 +3064,6 @@
    "msg_id": 2430
   },
   {
-   "id": "f04beb20ef4a",
-   "title": "Danny Dyer makes surprise cameo in GTA 6 – but not all fans will find him",
-   "first_seen": "2026-11-27T13:40:49Z",
-   "updated": "2026-11-27T13:40:49Z",
-   "items": [
-    {
-     "id": "f04beb20ef4a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo News New Zealand",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Danny Dyer makes surprise cameo in GTA 6 – but not all fans will find him",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VOEt0T3B1UVRXdDFTb0NxWnlIck9EZWtYM1BzMEJtQUY5b3R3TnlOSWMtX0NObmVVMzRVa0REV0ZydVVBTFVPMUI0cVhUdDBmUEdXMXVXek5XYl9KcHZPT2VTbzVBMVVzS1lXdjdHWTdhWU9MNW5Fc09BTlg?oc=5",
-     "ts": "2026-11-27T13:28:14Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "7b82a0be888f",
    "title": "Toyota Turned The Hilux Into Something Straight Out of GTA VI",
    "first_seen": "2026-11-27T13:40:49Z",
@@ -3747,45 +4341,6 @@
      "title": "GTA 6 fits: Best clothing stores for Lucia and Jason",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnUVROb3JaUnZHN2FPd1o3eTR1TDdGRTZWeHZrX3ZhQlY5RkJiQ0l2ZV9GZGNNcEJwcDEwTmVUU3dYb2tIck92aFd2MXQ5MVR2aFBBMVp3V2QwMzJrOGQyaTlNc2NQTXRqbEJXV0pEbzhEZG9OVlJj?oc=5",
      "ts": "2026-11-27T13:16:48Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a7210e308a2d",
-   "title": "Where to find all Sunrise RV Park Key Valuables in GTA 6",
-   "first_seen": "2026-11-27T12:20:59Z",
-   "updated": "2026-11-27T13:10:48Z",
-   "items": [
-    {
-     "id": "a7210e308a2d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Rock Paper Shotgun",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Where to find all Sunrise RV Park Key Valuables in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kVWQyQ0VoU2gwakpnNVJyM2FTa1R0SmdIanlZNFloQnR2N1ZGYmRSUV9yOTgweUl4MUdlamMxSmUwS2dzd1hFdlg5ZG5xZWhmUHRiOUNMWXptd0JVc0wyeUpiZkdRNUF0Z3AtZzU1SzN2X18zb3ZF?oc=5",
-     "ts": "2026-11-27T12:13:10Z",
-     "summary": ""
-    },
-    {
-     "id": "ae22e62802e3",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Rock Paper Shotgun",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Where to find all Brooks Boatworks Key Valuables in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lRFJKNm5aYmNhbi1XTWFfTXpFVElRSmMxYnFHT1JPdGxDNlFFT1R0dDM0cXZRMFhDLURSM3JOaV82SklmeXp0cVJrelVjWWstamtvMW1pWmtQLTlLYjg1eTFNMkxLRTZYUDJHRm5SSjNIdThMS2V6LQ?oc=5",
-     "ts": "2026-11-27T13:00:20Z",
      "summary": ""
     }
    ],
@@ -5584,32 +6139,6 @@
      "title": "Проект trustno1 coder выдал до 170 FPS в GTA 6 на RTX 5070 с генерацией кадров DLSS",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHpQVXNmWDEtUjFaQ0YxN2Q1YzRYdC1Ea0NFT0o4M05JNzE5UU5uUVpzZlZxWHFYR2pXWjZrUEdzSHIxaTNMeFZHRnRSWHN4NW5McHkwLWpvMVItVy1QNnRidEdsZXFsYUtUYVJNamtnQklDX0lERWdwSWs0cnFCQms5U1hqUklrYTdjWEVXOTlpNnZRb3VSNVE5WlVWTjVzOXlzQ19panBvWUkyUFBCWWR4LW4?oc=5",
      "ts": "2026-11-27T11:43:27Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9a4512fc0d8c",
-   "title": "GTA 6: Lucia's actor Manni L Perez posts heartwarming Thanksgiving statement",
-   "first_seen": "2026-11-27T11:50:50Z",
-   "updated": "2026-11-27T11:50:50Z",
-   "items": [
-    {
-     "id": "9a4512fc0d8c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Indy100",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6: Lucia's actor Manni L Perez posts heartwarming Thanksgiving statement",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03YUx4aTdrRUZJbnNNWHhuZGNEYlphZWF0Vks3OU5IZ0JPcE9odXl3VGd0WEtFVk82X0owZEtoWmFPNlJTYTlEQklxMXJYWFpYVEYxVXFLclI1VWhEZWV3dkx2cUhjN1k?oc=5",
-     "ts": "2026-11-27T11:44:09Z",
      "summary": ""
     }
    ],
@@ -16032,32 +16561,6 @@
    "status": "new"
   },
   {
-   "id": "d59aedf34ffb",
-   "title": "Where to find the Ocelot Jugular's location in GTA 6",
-   "first_seen": "2026-11-26T17:20:47Z",
-   "updated": "2026-11-26T17:20:47Z",
-   "items": [
-    {
-     "id": "d59aedf34ffb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Rock Paper Shotgun",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Where to find the Ocelot Jugular's location in GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZU1FT2lDM3NWZWw1bG9YOXRhakJJczRheTZVR0x4VnlBaGZ6dG9hQXZyNjBPM3QtaEh3Yk5jUWc5aXhhT21CUVhvSml4bnA0Vl90S1pGVUp0dDRxY1NIcTVaS0YwNTlYS3ROaFdydw?oc=5",
-     "ts": "2026-11-26T17:12:10Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
    "id": "fddab673fe7d",
    "title": "Пока пекари радуются запуску, консольщики смакуют GTA VI в 60 fps",
    "first_seen": "2026-11-26T17:10:50Z",
@@ -17790,43 +18293,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "e8a56fe28567",
-   "title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
-   "first_seen": "2026-11-26T15:40:45Z",
-   "updated": "2026-11-26T15:40:45Z",
-   "items": [
-    {
-     "id": "e8a56fe28567",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
-     "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
-     "ts": "2026-11-26T15:32:20Z",
-     "summary": "Grand Theft Auto 6 has broken another livestreaming record. After attracting more viewers across livestreaming platforms than any game ever on its launch day, Rockstar's open-world crime sim has reportedly continued to dominate on platforms like Twitch , YouTube, and Kick. Read more"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 побила рекорд стримов: больше, чем топ-игры вместе",
-    "summary": "По данным Eurogamer, GTA 6 установила новый рекорд по просмотрам стримов в первую неделю. На Twitch, YouTube и Kick её смотрели больше, чем Elden Ring, Diablo 4, Valorant и Lost Ark вместе взятые.",
-    "idea": "Сравним пиковые онлайны GTA 6 с топ-играми и покажем график — зрителям важно увидеть масштаб рекорда в цифрах.",
-    "hook": "GTA 6 порвала Twitch: рекорд, который не побили Elden Ring и Diablo 4.",
-    "stars": 4,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-26T15:40:49Z"
-   },
-   "msg_id": 2366
   },
   {
    "id": "7099b83096bb",
@@ -152872,269 +153338,20 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "0242cdd379a9",
-   "title": "Мэра Парижа заподозрили в прогуле заседания из-за GTA VI",
-   "first_seen": "2026-11-20T08:20:50Z",
-   "updated": "2026-11-20T15:20:53Z",
-   "items": [
-    {
-     "id": "0242cdd379a9",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Ведомости",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Мэра Парижа заподозрили в прогуле заседания из-за GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFNGWkVnOEZpMzdvclFmYnJRZU5pT1dBbmZTN3MtN1ljNzhkYXpad0hmeEl5eVQwUTVDalpha0Q0SnZ1VDV6ME16TWdOc2JXUzMxa3R4a012b2gwSlc1RHVhNmlvdU5OeXZwczY1TE9IQ1Rka2pYajdqTFNRTkxhUi1ZTQ?oc=5",
-     "ts": "2026-11-20T08:07:53Z",
-     "summary": ""
-    },
-    {
-     "id": "d14e435c9f2b",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "VK Play",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Мэра Парижа заподозрили в прогуле заседания городского совета из-за GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVl3bkJZOExlelMtcHlIUmhPaDcySlZJMXBqeGcyb25LLU5pVVNNZnBGU0txQmdxaUFzcGk3NmFseXVwcTZYSUJxSHhWQkhFRHRuanVHY1pial93QmJyUENhZm9Cc0xKTWVoUzU5bXF0aEZKb1g4QlhpemFUUHk3WkhZNm1oQzFCTEFuSXZ6V0VxbEdjMWdabVhETU42em5WLWphNG40U2lueDBiWmYzNGlXbThRaDd5SE1iSHY4U2c?oc=5",
-     "ts": "2026-11-20T08:40:49Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 48,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "a7fae1da1fc6",
-   "title": "GTA 6: Six Star Wanted Level Gameplay",
-   "first_seen": "2026-11-20T00:01:12Z",
-   "updated": "2026-11-20T15:20:53Z",
-   "items": [
-    {
-     "id": "a7fae1da1fc6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Engadget",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "The GTA 6 Star System Says A Lot More Than Just Your Wanted Level",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04dHY4WG5PRkFzYXFKTy1NX1ZRM0paMFN1TDFhZHhqU1RMTmNEN081MGZsdnlDMGJCdno3SUp3R0tSbC00amJ6ZXgxSFJBajRCN1BJb3FoS3BLbFNsckhBY1k5YmY3LVc5Tk1KQkVKeDljSmRVMjdVMy1qOHE?oc=5",
-     "ts": "2026-11-19T23:28:22Z",
-     "summary": ""
-    },
-    {
-     "id": "118d7cc15c6e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6: Six Star Wanted Level Gameplay",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03dFBSNTJfUFpzTXdJS3E2enpMVlU1VU5WMUtlZWJ5TzU1Uy04Q0l5N21nSU14NDFtT1dTaEVjQlotbHYzbnl3RUw5M3N3RXZZZDdQS1RxWW1hV1UwRlJSSmNGWWdlVG9sUlpPWEszb2s?oc=5",
-     "ts": "2026-11-20T14:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "геймплей"
-   ],
-   "score": 93,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "e0ce93fc47e7",
-   "title": "GTA 6 Collectible Cards: All sets, cards and what they're worth",
-   "first_seen": "2026-11-20T15:20:53Z",
-   "updated": "2026-11-20T15:20:53Z",
-   "items": [
-    {
-     "id": "e0ce93fc47e7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Red Bull",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Collectible Cards: All sets, cards and what they're worth",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84ODVKS2sxYWJ0djJFWk1lVV9lOElqOFhSVU9zcjI1a1ZsYlBIV1pkaUhBSnhZckRJLWhHNjk4QVZ1UHdZNVE5bDhOOF91Nm5MU2Ixb2FhQ2pYeUpUMFNNaEl2ZGpsdGZIZ2c?oc=5",
-     "ts": "2026-11-20T14:52:41Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "bdafa9300e22",
-   "title": "These 7 PS5 Games Launched on the Same Day as GTA 6 Like Mad Men",
-   "first_seen": "2026-11-20T15:20:53Z",
-   "updated": "2026-11-20T15:20:53Z",
-   "items": [
-    {
-     "id": "bdafa9300e22",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Push Square",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "These 7 PS5 Games Launched on the Same Day as GTA 6 Like Mad Men",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVBYdDBIc2JQZ3M5dTJza2VZSllxU2kxd3lTd015ZGZTdElib2VfYlVoa0wtQ2phSGk1VDhfRU5lcWRabGtRRzlVSjNoVmV5MHpjTGMwLTg2eDd2SGVSV1VBczZiTm9mbVlxUjFlbnFIS040MHU2Zm95Y3R6SXBDbl90UmZ5cGZhQ3ZpdnllR284ZS1HeEpscllCR0plUmZnY2VyYXJ2WQ?oc=5",
-     "ts": "2026-11-20T15:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9fa479ff0221",
-   "title": "Как быстро открыть всю карту в GTA 6",
-   "first_seen": "2026-11-20T15:20:53Z",
-   "updated": "2026-11-20T15:20:53Z",
-   "items": [
-    {
-     "id": "9fa479ff0221",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Escorenews.com",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Как быстро открыть всю карту в GTA 6",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSXBWUEdDTXhqYWlIUDYtdHhHOUljdjEzanUxSUNQc2RGN2RHQmUxS3E3dDJ5eDFLdm5FQTRsNjFrOHZBMVBVVkZaM0E5T2VEWFRwNVkxSFNKS043Z3NaVTg0aTZSU3JDWk0zUGJsVlhTSFdhdlpDbDRpZnhYbTQ2YWhR?oc=5",
-     "ts": "2026-11-20T15:10:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e78e3245133d",
-   "title": "Memphis rapper Kia Shine lends his voice to ‘Grand Theft Auto VI’",
-   "first_seen": "2026-11-20T15:20:53Z",
-   "updated": "2026-11-20T15:20:53Z",
-   "items": [
-    {
-     "id": "e78e3245133d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Action News 5",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Memphis rapper Kia Shine lends his voice to ‘Grand Theft Auto VI’",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0lpZ3Bzb2ZUU1NtUUFVX3h2aVpqYlRYem9jM2d5NzhoNWJXbDBBbWV1cl90bnJFdWhqNWpXUEtlMGtBblVCb05DeU1lYkstVUxiVXpTZUg5WXNuN0tkTUpRZzFsNFlhclpKa3hqenlRX2pna0hMNWZZdl9nTHdNcmZ5YXJ4Y2RabzVldHNBaUdVRlVBTm5PMEpsTjBJY1NYYkHSAbYBQVVfeXFMTnplQmNsUFpmQ2o5Q0JvOVdhVklmU0h5ZWhTaFVZc085NmZmX1FPamZ1LWZLS0JIU0VhMndDYTBqMWY2djVZN3pmN3Rzek85RE1URGxaZW5vUmVCZ1F1Z3h4VUhMcmFTYW1IUHV4eXJqUnlSc3VfeTk0aTgzeGthOTA5X3BfalZOVUJQYWpZUXBWaTJNSEw4ZlRudURTbW1KQXROeGFQREJfXzVJSW9iSldmNDFsUFE?oc=5",
-     "ts": "2026-11-20T15:12:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "d0527f017096",
-   "title": "Laredo actor confirms involvement in 'Grand Theft Auto VI' after release",
-   "first_seen": "2026-11-20T15:20:53Z",
-   "updated": "2026-11-20T15:20:53Z",
-   "items": [
-    {
-     "id": "d0527f017096",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Laredo Morning Times",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Laredo actor confirms involvement in 'Grand Theft Auto VI' after release",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGpraUppMjM5M3ZzQzdBMGZWZjJETE9YcGJoMzFQMUpTR0ZYYlIyQWYwcGczbzB3VVduUzFEY3JEaEpNTTR0VTdqbEhNRms2LXVuWjQ5SC1WYnFDendBSnhjanJaQ29RLUVvV01RemJTSlFaWWtzQ0duS3lVRVZjR1UtazYzeHBxdWxpazRsd3AtbEV3Z1lQZWNqX0VIcGVRaEhV?oc=5",
-     "ts": "2026-11-20T15:18:24Z",
-     "summary": ""
-    }
-   ],
-   "tags": [
-    "анонс"
-   ],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "dup",
-   "status": "new"
-  },
-  {
-   "id": "2740e358f960",
-   "title": "It took me less than an hour to find my first incredibly minor Rockstar easter egg in GTA 6 - but it has some big implications for Leonida",
-   "first_seen": "2026-11-20T15:20:53Z",
-   "updated": "2026-11-20T15:20:53Z",
-   "items": [
-    {
-     "id": "2740e358f960",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "It took me less than an hour to find my first incredibly minor Rockstar easter egg in GTA 6 - but it has some big implications for Leonida",
-     "url": "https://www.eurogamer.net/gta-6-early-game-connection-rockstar-gta-5",
-     "ts": "2026-11-20T15:19:30Z",
-     "summary": "Are you wondering how connected the worlds of GTA 5 and GTA 6 are? Well, I've got some news for you. Keep on reading below if you'd like some very minor spoilers for the early game of GTA 6, spoilers for GTA 5, as well as some information about how the new game links to GTA 5 and other Rockstar games. Read more"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Первое пасхальное яйцо GTA 6: что оно значит для Леониды",
-    "summary": "Автор Eurogamer нашёл в GTA 6 небольшую пасхалку Rockstar менее чем за час. По его словам, она намекает на связь Леониды с миром GTA 5 и другими играми студии.",
-    "idea": "Короткий разбор найденной пасхалки и что она говорит о связи GTA 5 и GTA 6 — зрителям интересно, как связаны миры.",
-    "hook": "Первая пасхалка GTA 6 найдена — и она связывает Леониду с GTA 5.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-20T15:20:58Z"
-   },
-   "msg_id": 1696
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T15:11:17Z",
+  "last_run": "2026-11-27T15:21:02Z",
   "last_log": [
-   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
-   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
+   "rockstar_site: 0/2",
+   "gnews_en: 94/100",
+   "gnews_ru: 99/100",
    "gamesbeat: 3/10",
    "vgc: 5/10",
    "insider_gaming: 9/10",
    "ign: 4/20",
-   "eurogamer: 10/100",
+   "eurogamer: 9/100",
    "dexerto_gta: 13/50",
    "rockstarintel: 10/10",
    "gtaboom: 30/30",
