@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "b8922bc34f70",
+   "title": "В GTA VI за фото стоп девушки бьют ногой, Тарантино удаляет игру",
+   "first_seen": "2026-11-27T22:20:48Z",
+   "updated": "2026-11-27T22:20:48Z",
+   "items": [
+    {
+     "id": "b8922bc34f70",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Techora.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В GTA VI за фото стоп девушки бьют ногой, Тарантино удаляет игру",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EeVVzYXRQSU91MjhHa0tzTXdrSHZya05EWDNlWV9OblE5bWV2cFB4Z2hhV1VOTDZlOFNrNjBEWDA4VFBJc3k1RjBnVnpVWmdEVmpScHlyTF9zUUg5NVVaWXlCdnd4X3c?oc=5",
+     "ts": "2026-11-27T22:04:12Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "e52ee747459b",
    "title": "The Sony PlayStation DualSense Edge Controller Drops to $152 Exclusively at Lenovo for Black Friday",
    "first_seen": "2026-11-27T15:20:50Z",
@@ -149054,10 +149080,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T22:10:49Z",
+  "last_run": "2026-11-27T22:20:48Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 92/100",
+   "gnews_en: 95/100",
    "gnews_ru: 100/100",
    "gamesbeat: 4/10",
    "vgc: 6/10",
