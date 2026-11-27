@@ -1,6 +1,69 @@
 {
  "stories": [
   {
+   "id": "59820562730a",
+   "title": "Florida artist's tattoo designs appear in GTA VI video game",
+   "first_seen": "2026-11-27T19:40:45Z",
+   "updated": "2026-11-27T23:20:46Z",
+   "items": [
+    {
+     "id": "59820562730a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Tallahassee Democrat",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Florida artist's tattoo designs appear in GTA VI video game",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMTZ2WGVzRDlWeU5fS3F5YUNPUzBuZVJ1NldwSW42OWJLeHZEM0IzVmhxLVZNQ2tiZ2ZpTXRJM0lPLWVQemNWQVlGU2FpTHoyNi11NE90UXRGSlRXMC1OWl9BbVJGY09kWl9VbkdEWnh4S0xuNW5QX2RyMkgxUHFVSTFXaUphdlhBb25VVVI4U2NSQlhmUEI0VmxhUGlITWJTQTBCeEZ2elZLNFN2VnJlc0h1U2dHY0xZeTVSSA?oc=5",
+     "ts": "2026-11-27T19:29:00Z",
+     "summary": ""
+    },
+    {
+     "id": "004d671afe07",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Sarasota Herald-Tribune",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Florida artist's tattoo designs appear in GTA VI video game",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGVVTk1YcHBBbFh3SGZ2NjdpY1pvR1A3VV92TXVUUG01YVJCcnI4VGNxdjZoaWJGaXNJWmlTMWpaRVhJQ1BMYzBQajFWYzVUVWl1NVRTekZCQTdraXpkV0dyMkJBQzlZelNnNkZNOHJJdEtXc0xoSXluenVFV1ZhS0EzZ0pXZEVsOXczM2ZXUm9TQXlReUppY1E4ZXQ3Q2w2MzhMdDZ3UmRrQlpZR3JmVjhEVGZKTUFnMW16UlFraw?oc=5",
+     "ts": "2026-11-27T19:29:00Z",
+     "summary": ""
+    },
+    {
+     "id": "b2804092828c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Winter Haven News Chief",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Florida artist's tattoo designs appear in GTA VI video game",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFA3RmxLRG9fcnhkU2RRalBlNmk5N3VpRUFoX1FQVVlKSmVCcXpsRUlIcE5vamVLMXNMOU9YWVFaNEJyaFBZa2xIVkMyYUdYTUpFdEFpTHMtMUE3QS11c1BPQ1ZRQ3RNVWNjSmpnN0J2eExSNm92MV9hN1dXQTdDQU1tcnk1M0hGdm9ROXR5Z05HZGpVcFlFQkpjck9lOV8zTFhlUF9pdzAzVXo4ZVZLRW51LVZwNmlvcVE?oc=5",
+     "ts": "2026-11-27T19:29:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 66,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Татуировки флоридского художника попали в GTA 6",
+    "summary": "По данным Tallahassee Democrat и Sarasota Herald-Tribune, тату-дизайны флоридского художника появились в GTA 6. Издания отмечают факт использования его работ в игре.",
+    "idea": "Короткий разбор: показываем скрин с тату в игре и фото оригинала, затем комментарий художника. Зрителю интересно увидеть, как реальные работы попали в Вайс-Сити.",
+    "hook": "Реальные тату из Флориды теперь на героях GTA 6 — смотри сравнение.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T20:40:51Z"
+   },
+   "msg_id": 2477
+  },
+  {
    "id": "b00984b008df",
    "title": "Employees at GTA 6 develop Rockstar Games reject union",
    "first_seen": "2026-11-27T23:20:10Z",
@@ -2225,56 +2288,6 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "59820562730a",
-   "title": "Florida artist's tattoo designs appear in GTA VI video game",
-   "first_seen": "2026-11-27T19:40:45Z",
-   "updated": "2026-11-27T20:40:47Z",
-   "items": [
-    {
-     "id": "59820562730a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Tallahassee Democrat",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Florida artist's tattoo designs appear in GTA VI video game",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMTZ2WGVzRDlWeU5fS3F5YUNPUzBuZVJ1NldwSW42OWJLeHZEM0IzVmhxLVZNQ2tiZ2ZpTXRJM0lPLWVQemNWQVlGU2FpTHoyNi11NE90UXRGSlRXMC1OWl9BbVJGY09kWl9VbkdEWnh4S0xuNW5QX2RyMkgxUHFVSTFXaUphdlhBb25VVVI4U2NSQlhmUEI0VmxhUGlITWJTQTBCeEZ2elZLNFN2VnJlc0h1U2dHY0xZeTVSSA?oc=5",
-     "ts": "2026-11-27T19:29:00Z",
-     "summary": ""
-    },
-    {
-     "id": "004d671afe07",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Sarasota Herald-Tribune",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Florida artist's tattoo designs appear in GTA VI video game",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGVVTk1YcHBBbFh3SGZ2NjdpY1pvR1A3VV92TXVUUG01YVJCcnI4VGNxdjZoaWJGaXNJWmlTMWpaRVhJQ1BMYzBQajFWYzVUVWl1NVRTekZCQTdraXpkV0dyMkJBQzlZelNnNkZNOHJJdEtXc0xoSXluenVFV1ZhS0EzZ0pXZEVsOXczM2ZXUm9TQXlReUppY1E4ZXQ3Q2w2MzhMdDZ3UmRrQlpZR3JmVjhEVGZKTUFnMW16UlFraw?oc=5",
-     "ts": "2026-11-27T19:29:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Татуировки флоридского художника попали в GTA 6",
-    "summary": "По данным Tallahassee Democrat и Sarasota Herald-Tribune, тату-дизайны флоридского художника появились в GTA 6. Издания отмечают факт использования его работ в игре.",
-    "idea": "Короткий разбор: показываем скрин с тату в игре и фото оригинала, затем комментарий художника. Зрителю интересно увидеть, как реальные работы попали в Вайс-Сити.",
-    "hook": "Реальные тату из Флориды теперь на героях GTA 6 — смотри сравнение.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-27T20:40:51Z"
-   },
-   "msg_id": 2477
   },
   {
    "id": "28370da13f08",
@@ -146283,7 +146296,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T23:20:10Z",
+  "last_run": "2026-11-27T23:20:46Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 95/100",
