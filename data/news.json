@@ -159763,115 +159763,13 @@
    "level": "PROBABLE",
    "alerted": "late",
    "status": "new"
-  },
-  {
-   "id": "19b4346b74d5",
-   "title": "Does \"Grand Theft Auto VI\" live up to the 13-year wait? #Newsapan Check the comments section for the full story.",
-   "first_seen": "2026-11-20T04:01:07Z",
-   "updated": "2026-11-20T04:01:07Z",
-   "items": [
-    {
-     "id": "19b4346b74d5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Facebook",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Does \"Grand Theft Auto VI\" live up to the 13-year wait? #Newsapan Check the comments section for the full story.",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeF9lRGhzVDlMSndXaFExWjJTdnZTZmpsVEFBY1VtYUxpMkM0M0RJaGQxanhCbzRtWXBaaVVfNkZMZHkweXZwdUtiQnNTRm5SemJha0E4bjlYR1lzUXRsRzN6RjdPTzFLZzJ2SVBfdnFMRmEzMVg1LTRkZnJhczZ1Q0IzcHpDMXlqeGtJZ1BfRUIzZFV6Y05QR25JOGNzMXVJWmVHUG0ydFo5OXdTcU1DcVV1YVg4WmxqaFNPdmQ5TVloTHNGVk9HaUhFRmNLQzNORDY1UDFjQQ?oc=5",
-     "ts": "2026-11-20T03:50:02Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "9d4b690bcd52",
-   "title": "Photos: Grand Theft Auto VI release day",
-   "first_seen": "2026-11-20T01:50:47Z",
-   "updated": "2026-11-20T04:01:06Z",
-   "items": [
-    {
-     "id": "9d4b690bcd52",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA 6 Day Release Walkthrough",
-     "url": "https://www.gtaboom.com/gta-6-day-release-walkthrough-2211",
-     "ts": "2026-11-20T01:44:11Z",
-     "summary": "Start Day Release in GTA 6 by selecting Meet Mattia & Kat on the Story map and ordering a drink at the Rusty Anchor."
-    },
-    {
-     "id": "76979f6341c5",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Mankato Free Press",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Photos: Grand Theft Auto VI release day",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeVdULWd0WDNicEFjYUx1UHRCRnh6eDlLcExTNFFDdllVZk92d24yQllXVHJWV0ptcF9xZ2EyZElGV3dsREdHZTcyM3pMMTdHMVl0MFJhSkRRVVBudXdwbk90dF9uVGpFRW1hLVNBbGVqVEVrUENyQnVmLTZ5bzV1aVlfdTh2eU8ydWFsTFhRcklTbkpVTFkzRF9ER1JpWEYxQldvYmRVV213RkRHUWNPSk83TnZYZjdsbi1oUE0xS2NYSHZWWXBSM2N6RmtpMXpaTDZR?oc=5",
-     "ts": "2026-11-20T03:36:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️ День релиза GTA 6: как стартует сюжет",
-    "summary": "По данным GTA Boom, в день релиза GTA 6 можно начать сюжет с «Meet Mattia & Kat» на карте и заказать напиток в Rusty Anchor. Mankato Free Press публикует фото с дня релиза игры.",
-    "idea": "Покажем стартовый выбор в день релиза: «Meet Mattia & Kat» и заказ в Rusty Anchor. Зрителю важно увидеть, с чего реально начинается сюжет.",
-    "hook": "С чего стартует GTA 6 в день релиза? Вот первый выбор.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-20T04:01:11Z"
-   },
-   "msg_id": 1629
-  },
-  {
-   "id": "d717de59b1b9",
-   "title": "GTA VI оказалась прибыльнее «Одиссеи» Нолана. И это только начало – аналитики",
-   "first_seen": "2026-11-20T04:01:06Z",
-   "updated": "2026-11-20T04:01:06Z",
-   "items": [
-    {
-     "id": "d717de59b1b9",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "iXBT.games",
-     "group": "media_ru",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA VI оказалась прибыльнее «Одиссеи» Нолана. И это только начало – аналитики",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFE5SlZEUkVEYjNORnVSdDFqZy1uUVUtRGhybDljSVZOclFtWlhCZE1maEdQdDlrNlEtLU5JNHN3bG1YRVVDcTBWZjlVRzJHUEhYbjVObVNrQzlseWVFUTVPbFhJZzhMdXF3cWZRbE1ROWVLbnljalNhZ0FXdjNCVjRPN1BXcU9wLXRuRWg0djlzSVJRM1hKZkRobDBhRDFrQVlORWF3ZjdWZ01XZlHSAbMBQVVfeXFMUGlaVlh2eGhlY0Q4Z1Z1djhuSnlQcUJLZ0JTdEk4dXZzOW4xNU5qNzdGbkRDUWtXMnpuYlVNdHptLXQwYXdmcm1pSFNXdi1NMkhjTllYYjBiNFhBVTc4dGpFbm9tWTNQYlROQWFHN3RLZDZranJhR2puQTJmN0xmX25PMko3NnZTdEhYLUl4TDFrVWVBSXJMT1ZTYnN0MmhuWlJud0Nxb29wQ1JKcVhyZGFxVGs?oc=5",
-     "ts": "2026-11-20T03:44:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T03:50:47Z",
+  "last_run": "2026-11-27T04:01:20Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "⚠️ rockstar_site: HTTP Error 429: Too Many Requests",
    "gnews_en: 96/100",
    "gnews_ru: 99/100",
    "gamesbeat: 3/10",
