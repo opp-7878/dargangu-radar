@@ -1,47 +1,10 @@
 {
  "stories": [
   {
-   "id": "254e44dcd08e",
-   "title": "GTA 6's Car Physics Had Help From a Former Gran Turismo World Series Competitor",
-   "first_seen": "2026-11-27T12:40:48Z",
-   "updated": "2026-11-27T12:40:48Z",
-   "items": [
-    {
-     "id": "254e44dcd08e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IGN",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "GTA 6's Car Physics Had Help From a Former Gran Turismo World Series Competitor",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQajY2cjlsMjAyYUdEbExDaVVhMlpSZ3JQMDZ1WkpBN1RiQ0NpUGQxV0Zmbi1TYXJSUFo3QU1RS05odjBPeE53dU5rR3kwUDE5LXJCTWNXSlE5TF9iZzRQdk4yU0FSckt0UDhBN2ZzTlZRbWloS01yOTFCdExvSUhJRkh2c3ZZRWVjcFRILTdtZGFOWDhGOEhzdUVIcVNmZWw1ZDFzVA?oc=5",
-     "ts": "2026-11-27T12:34:16Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "Физика машин GTA 6: помог чемпион Gran Turismo",
-    "summary": "По данным IGN, в настройке физики автомобилей GTA 6 участвовал бывший участник Gran Turismo World Series. Это помогло сделать поведение машин более реалистичным и отзывчивым. Официально Rockstar детали не раскрывала.",
-    "idea": "Покажем разницу физики до и после: аркада против GT-вайба на короткой трассе. Зрителю интересно, станет ли вождение в GTA 6 «как в симуляторе» — спор в комментариях обеспечен.",
-    "hook": "Чемпион Gran Turismo тайно настраивал физику машин GTA 6.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-27T12:40:52Z"
-   },
-   "msg_id": 2424
-  },
-  {
    "id": "ae9c0a889ecc",
    "title": "Despite Take-Two Takedown, Vibecoding Teen Behind Nuked GTA 6 PC Port Project 'Leonida' Vows to Continue",
    "first_seen": "2026-11-26T16:10:53Z",
-   "updated": "2026-11-27T12:40:47Z",
+   "updated": "2026-11-27T12:50:55Z",
    "items": [
     {
      "id": "ae9c0a889ecc",
@@ -237,9 +200,49 @@
      "url": "https://t.me/gta6deluxe/2456",
      "ts": "2026-11-27T12:32:25Z",
      "summary": "🔥 Для ПК-порта GTA VI уже появились первые моды — в игре теперь есть СиДжей и заряженная жига FPS поднять и кайф 😀 Подписаться | Наш чат 😀"
+    },
+    {
+     "id": "c1473fda91ad",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 multiplayer reportedly running on PC as unofficial ports near completion, but it's certainly no Grand Theft Auto Online",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVjRZQkZqbmpLZlJaeE82SFE3Qi01cW9XQjBCRGkyTmF0Umw5MXNwMTNIYU15QlBSYWVIX19qOWRPNjZiWlM4a1d6aDVDeWpiNDhyTllxZXJfWDZ3MkF2U3BvZXBXLTVtWTA4eVVveHYxVTNGMDFjal9Wby1lUGtxbnpjTzdhWENXVE9RbGRUeGlkY3RKYzE2aFVUYmYzZkZjRjlXazlxM0J3OG11cjZVVXRiYmU0eEVYaTlHRnBnZGxNc0hqVklBSjByRkF3WUpqQzhBb2VSWV93cjR3Rkszclc0NWhEUExiV2cxNkVhQ0x6Q1BkRHFkQm81Y2NNbXdjem9abg?oc=5",
+     "ts": "2026-11-27T11:53:08Z",
+     "summary": ""
+    },
+    {
+     "id": "ef7db11dbdcf",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Root-Nation.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Fake GTA VI PC Ports Found on GitHub: Scammers Are Spreading Malware Instead of the Game",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkJISDdKUzFYSENnS0p3SzgySkRuZzJTWFJzLXJhUWJOZFdJd3lvbDdyV0VDbm1ZbjhTZGlCb1FuM1NpLU5zWGJTTE9JOUpMVXVXbFVkampYcVJUVGJKTTRoMjZfR29QdU5wTWdRem1MZmJZZWhKemFzMTVkT0tPbGdKVkExcjQ?oc=5",
+     "ts": "2026-11-27T12:33:47Z",
+     "summary": ""
+    },
+    {
+     "id": "35595e07a6e0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "The Mac Observer",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Is Already Running on PC and Apple Silicon Macs Through Unofficial Ports",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGZuQkJnUE9vbVRwd0pIdzdWb0Y5T3JUZnJIX2x1dGJ1UkpBSXZmVHEyejZxVEZuWFc4RV9yWnJ2RUZ6Tlhza1ItcmJyd0NHVzBwMndvNUlOVUlfQWxqcUJtcTZHbVk5RmZEQlBUb2RSN3g5TmFwXy1WNmdWZUNvcDh0LS0zdy1VelJzMmhSVmREV3A0Y1h0eF84Qnk3VjNQeEFPbWJZaHUtaHNqRmVXSzln?oc=5",
+     "ts": "2026-11-27T12:48:20Z",
+     "summary": ""
     }
    ],
    "tags": [
+    "Online",
     "Take-Two",
     "ПК"
    ],
@@ -247,6 +250,290 @@
    "level": "HIGH CONFIDENCE",
    "alerted": "dup",
    "status": "new"
+  },
+  {
+   "id": "0615690882d7",
+   "title": "‘Peggy’ from GTA 6 talks viral popularity: ‘It’s so phenomenal to me’",
+   "first_seen": "2026-11-27T03:40:51Z",
+   "updated": "2026-11-27T12:50:54Z",
+   "items": [
+    {
+     "id": "0615690882d7",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NewsNation",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Peggy’ from GTA 6 talks viral popularity: ‘It’s so phenomenal to me’",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWpqUVJ6cFNIN0hjOVo1b1VaN3gtbkJjb1NJS21YdUdIc1lkbWxSdEc4YWd3UXVQRHd4eXBkUUt3RWJaSnljd0ZtQ1k2aE1yelktYXVSUWMtR3NwcnFaNE5QSlNhazFyTS11bnY2ZHRDQ196VUk0aEtIb1k0azc3dmVQOFY2THZu0gGOAUFVX3lxTE1DT1FvV3NQb3FXNjAzZVZoUTM4ZkZYSmN1RmJnd2IzTTRfSnBfYVpnd29DWnpvM0JYQS1Kb0JzR1E0RVA0VFlrTURwVTE1RkhXWTVwVEtfeWl5dVhObXlTODhwMy1KakpsbTlPN1IyR1Z3R3gzSDlRNndRY0IzTkNScFUxc2ZXYnppTURxMEE?oc=5",
+     "ts": "2026-11-27T02:38:07Z",
+     "summary": ""
+    },
+    {
+     "id": "c9a54a955d8f",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "'Peggy' from GTA 6 talks viral popularity: 'It's so phenomenal to me'",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGVXIxbHlQWkl6MnZxbFlhbXVkcnVzNXJiRHhNQ2NvLUdYMjlYdVBuVTQ0OXd2R1hwTHZMVmRlYUMtLXhTaHprOXA2MmliN2hzQzNtTklQb3MzUy00MFdjaUlLTzE3cFQtb203TWpQR0ZNTE1XaWgzUzhyUkg?oc=5",
+     "ts": "2026-11-27T08:00:00Z",
+     "summary": ""
+    },
+    {
+     "id": "ae6d01fe95d0",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NewsNation",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Peggy’ from GTA 6 talks viral popularity: ‘It’s so phenomenal to me’",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3ZBcGdiYzBXMDFlNlctU1RFOG1FTVF5NlB5R1I4U3dxX3VLejFrX09jbldFOXlLd2Y2eFpIYTNEbmR0TzluMnlHazNqY0R5bm9DVEZVZ3IzcDFlRU93MEoyWGNLTm5YbmV5XzZ6RkZxcHJzVjJzWml3UElBSFRkYTVEYmxWLWZNc3pnSWNabzd4S0c2OU9TQjhR0gGfAUFVX3lxTFBqaHd6TmtSYVdYTV9SQzhaYk5DU25TdEM3QXJ2Vks1TmZYMzdIVGxHeG5DSTBaNC1GalUxTk5NQjFTamI5NUhMeUNad3dzRDhtZFFXWnNtZ3VLR3BIUUdtblVVQ01jR3FMSWFVSzRpRlBldHJDRDZzMUxETDNlNDJkd2NoemYtMEFYUmd5UHFnM0ZrR3AxeVZla28xWXFLTQ?oc=5",
+     "ts": "2026-11-27T11:53:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "late",
+   "status": "new"
+  },
+  {
+   "id": "490272306d86",
+   "title": "All the GTA 6 stat boost missions we've found",
+   "first_seen": "2026-11-27T12:50:54Z",
+   "updated": "2026-11-27T12:50:54Z",
+   "items": [
+    {
+     "id": "490272306d86",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "GamesRadar+",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "All the GTA 6 stat boost missions we've found",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWZGcXJRY0RtRTNQS204a3VUSkdrT2E2VWItMnRCUi1lXzhPQWcycnN5TkNBMC11UUp1OW9PdzA1VjFTeGFkeV8wTVZkeHY3OE1ETkpvWGJQZUwyR0hNb19LN09IbVRpT0lxVWpqajkycXdJakZWVVRTMHQ5dTgwWUZhR0NzQnc?oc=5",
+     "ts": "2026-11-27T10:55:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a28cbd90300b",
+   "title": "Enthusiasts push GTA VI to 40 fps on PlayStation 5",
+   "first_seen": "2026-11-27T12:50:54Z",
+   "updated": "2026-11-27T12:50:54Z",
+   "items": [
+    {
+     "id": "a28cbd90300b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "iXBT.games",
+     "group": "media_ru",
+     "weight": 45,
+     "alert": true,
+     "title": "Enthusiasts push GTA VI to 40 fps on PlayStation 5",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUJnUHJnZVAtSjdZRUhlRFFxbDNtdG1kVTZBSTVvdGNPTEpYNzJzYS13cTlfbE8wNnVqWEh3SGdodURkOGwtYWhjazVVbHBlMmNFcHZqSkpPcmR2UmNOUmRDT3l4OVZQbzdmeEhSSzFHNzBNeFU3S0IzcUFIbC1LV3RsYm1uckdLY01xY2tIeXFrTHlkM3dSNkxqNGRLV2Jq0gGmAUFVX3lxTE8tbkNoT0Zxb1NZVnljX1VjVTdNQkI1NllIRnZkajFQSkxuSVpTcmk2U05sUXNIemJfSmhFNWhKeEdKaUltR241bkNsYUN4VUNqRXJTX2REb3M1UjM4WHBBNFJuQ0xsZngtVXFJUXNZMzM2ZEtvLWZ1Rmx0dEEtMEVGLXlqVHo4VWhZSGQwa01ONVVubF9iZlJKUnJ4OENPMnpfS0RTVmc?oc=5",
+     "ts": "2026-11-27T12:09:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 45,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "6d1b63aff254",
+   "title": "\"Back To Family Friendly\"- NickEh30 Confirms Fortnite Return Date After GTA 6 Chaos",
+   "first_seen": "2026-11-27T12:50:54Z",
+   "updated": "2026-11-27T12:50:54Z",
+   "items": [
+    {
+     "id": "6d1b63aff254",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "NDTV Sports",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "\"Back To Family Friendly\"- NickEh30 Confirms Fortnite Return Date After GTA 6 Chaos",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVBSNnFkakZVY2JOTmJ1SkV2QVltWTlDY1hmOEhZTjR2MWI0d1M3d0NuWTdoajNrUlBzbHNzV0Vmb0taUDFzUnhYd09GTEtmaW5mMFZXYWh1YTUtdTBReUZOaHBtbEdrTVhHVTVJNldPcjZMMFl5cHIwUFl1bkYyZmFHbXpKSGdCYW5JVW96eG1qZU8ySG5MdmNNUVlBYXM4eUp3blowZDhaU1J6TEM1anZEWElXTk1ZNTNEazJZMWltM3BCcTgxNQ?oc=5",
+     "ts": "2026-11-27T12:15:11Z",
+     "summary": ""
+    }
+   ],
+   "tags": [
+    "анонс"
+   ],
+   "score": 65,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "🎙️ НикEh30 возвращается в Fortnite после хаоса GTA 6",
+    "summary": "Стример НикEh30 подтвердил дату возвращения в Fortnite после периода, который он назвал хаосом из-за GTA 6. Об этом он сообщил в своих соцсетях, по данным NDTV Sports.",
+    "idea": "Короткий контраст: «семейный» стример пережил GTA 6-ажиотаж и возвращается в Fortnite. Зрителю интересно, как GTA 6 влияет на других авторов.",
+    "hook": "НикEh30 пережил хаос GTA 6 и назвал дату возвращения в Fortnite.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T12:50:58Z"
+   },
+   "msg_id": 2425
+  },
+  {
+   "id": "f742e753e8c1",
+   "title": "Grand Theft Auto VI – Where to Find the Vapid Old Glory Caracara",
+   "first_seen": "2026-11-27T12:50:54Z",
+   "updated": "2026-11-27T12:50:54Z",
+   "items": [
+    {
+     "id": "f742e753e8c1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Gamer Social Club",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Grand Theft Auto VI – Where to Find the Vapid Old Glory Caracara",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFBYb3BPOFJoTk13R1NuWnVaN2RpNEMxVUp5dF9VdlNIeF9KNGJCQkxQczJyWDk0ZDRLMWxGa05CU0NZZHNqOWUxY0lLZ2dmdkwzU0ZMS3hMUmd4Y1NCN2lEODBBZko4aDZFSEVfQ0JnX0pYOTRnU0cwaXVBSXFXNEV2ejRKNmNQMFY3TXBndGw0VzcwMUQtVVZhZDFQc21IZkxr?oc=5",
+     "ts": "2026-11-27T12:27:33Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "a5f3eb2aba5f",
+   "title": "Из-за GTA VI перегревается приставка — как не остаться без консоли | ОТВ - Новости",
+   "first_seen": "2026-11-27T12:50:54Z",
+   "updated": "2026-11-27T12:50:54Z",
+   "items": [
+    {
+     "id": "a5f3eb2aba5f",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "obltv.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Из-за GTA VI перегревается приставка — как не остаться без консоли | ОТВ - Новости",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2dXSkhRV2xuWWlxbHZFTThERlEyV1dIbDRqTEVXNFplWlA1a21rdWptLWNkcU1FNDVFT0QtMzh3aHlGanZSZVFMNEdVNHlOWUdPNXhLdFU5anFKNGJTa3dEWVBocDhpUDh0czV3RllDbUVmTm5DelZ6TlhBZGdYV1JZeGk2Uy1Sd0hCZDJnQXNwUG9POV80bQ?oc=5",
+     "ts": "2026-11-27T12:37:20Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "857c2bb6fd8d",
+   "title": "GitHub удалила пост об успехе эмулятора PS5 после выхода GTA 6",
+   "first_seen": "2026-11-27T12:50:54Z",
+   "updated": "2026-11-27T12:50:54Z",
+   "items": [
+    {
+     "id": "857c2bb6fd8d",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Shazoo",
+     "group": "media_ru",
+     "weight": 50,
+     "alert": true,
+     "title": "GitHub удалила пост об успехе эмулятора PS5 после выхода GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVXk3MVZPeHRLaWxhOWkxY01xMzEyeGtDdkRSMVpZMmxlOGFhX29VUWotbWZjSFBjMDYzRkdnT0h2dWtWYzVpLVU4d2duRnRhTDlYM3FUaF9SV0lJZzk2enBmUF83MjNxUVpheW50WF9ZN3UwclFvWFI4S053QThRNHlxMmtxbzVVcm95VUI0VVpmLTBmUm54QUJoOVhmU1N3?oc=5",
+     "ts": "2026-11-27T12:40:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "94dea82aa9e4",
+   "title": "Слишком амбициозно даже для Rockstar – какие активности и механики вырезали из GTA 6 перед выпуском",
+   "first_seen": "2026-11-27T12:50:54Z",
+   "updated": "2026-11-27T12:50:54Z",
+   "items": [
+    {
+     "id": "94dea82aa9e4",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "24 Канал",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Слишком амбициозно даже для Rockstar – какие активности и механики вырезали из GTA 6 перед выпуском",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSE1GdlVub0V3b1RrUkttU3AxMDB2OEI2ZUlTaFlJSkJaampjTTZ3NFFCUVdZNDRqb29TU1hsVU9ISkMwOW4xUjctRmpXcHZkNzF6ajRrLWpwY09iajc0YmRUekJET0dHUUVyd2c2NWRDcVhFYmlNbWFySXRDTmRiU1Bra05fUzdPWDdsLWM5bk55OTJvdE5Yc001NzlybnZlYXFzYmM0YklZajI3QlkxMXVaLWJTQ3I2RGRpUkVDaC1NZkRMZmI3d1p3SmZrclhxLUR6MDRac9IB3AFBVV95cUxNVjlYejFlTTU1d19Pa29tTURKRUwtcVNTczhwRUNzdWlwUmJhV1BaSmJOQXhrZENXQ0hFVnZha0NFMUxoM0RJa21jQkZRQWFIOUtiUGh3RHdDMjk1aEVvdHpkd1ZNQWU4a29XN0ViVUFJX3BrX01CTWtqaGVmU05zLUUtSlJZMU1VUUVqbE15VDVLbTZCd0hvWS1HeTRIZVVKT1VqQkg4Z1M1QTVQdnNmT0t2a0VxVkhLRWlDQjVWcGxIekQ4OExzYWt1NzJyS3RCbFhoUXR3dmtOX2tH?oc=5",
+     "ts": "2026-11-27T12:43:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "254e44dcd08e",
+   "title": "GTA 6's Car Physics Had Help From a Former Gran Turismo World Series Competitor",
+   "first_seen": "2026-11-27T12:40:48Z",
+   "updated": "2026-11-27T12:40:48Z",
+   "items": [
+    {
+     "id": "254e44dcd08e",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IGN",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "GTA 6's Car Physics Had Help From a Former Gran Turismo World Series Competitor",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQajY2cjlsMjAyYUdEbExDaVVhMlpSZ3JQMDZ1WkpBN1RiQ0NpUGQxV0Zmbi1TYXJSUFo3QU1RS05odjBPeE53dU5rR3kwUDE5LXJCTWNXSlE5TF9iZzRQdk4yU0FSckt0UDhBN2ZzTlZRbWloS01yOTFCdExvSUhJRkh2c3ZZRWVjcFRILTdtZGFOWDhGOEhzdUVIcVNmZWw1ZDFzVA?oc=5",
+     "ts": "2026-11-27T12:34:16Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Физика машин GTA 6: помог чемпион Gran Turismo",
+    "summary": "По данным IGN, в настройке физики автомобилей GTA 6 участвовал бывший участник Gran Turismo World Series. Это помогло сделать поведение машин более реалистичным и отзывчивым. Официально Rockstar детали не раскрывала.",
+    "idea": "Покажем разницу физики до и после: аркада против GT-вайба на короткой трассе. Зрителю интересно, станет ли вождение в GTA 6 «как в симуляторе» — спор в комментариях обеспечен.",
+    "hook": "Чемпион Gran Turismo тайно настраивал физику машин GTA 6.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-27T12:40:52Z"
+   },
+   "msg_id": 2424
   },
   {
    "id": "78703688a072",
@@ -5854,45 +6141,6 @@
    "score": 50,
    "level": "PROBABLE",
    "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "0615690882d7",
-   "title": "‘Peggy’ from GTA 6 talks viral popularity: ‘It’s so phenomenal to me’",
-   "first_seen": "2026-11-27T03:40:51Z",
-   "updated": "2026-11-27T08:20:54Z",
-   "items": [
-    {
-     "id": "0615690882d7",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "NewsNation",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "‘Peggy’ from GTA 6 talks viral popularity: ‘It’s so phenomenal to me’",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWpqUVJ6cFNIN0hjOVo1b1VaN3gtbkJjb1NJS21YdUdIc1lkbWxSdEc4YWd3UXVQRHd4eXBkUUt3RWJaSnljd0ZtQ1k2aE1yelktYXVSUWMtR3NwcnFaNE5QSlNhazFyTS11bnY2ZHRDQ196VUk0aEtIb1k0azc3dmVQOFY2THZu0gGOAUFVX3lxTE1DT1FvV3NQb3FXNjAzZVZoUTM4ZkZYSmN1RmJnd2IzTTRfSnBfYVpnd29DWnpvM0JYQS1Kb0JzR1E0RVA0VFlrTURwVTE1RkhXWTVwVEtfeWl5dVhObXlTODhwMy1KakpsbTlPN1IyR1Z3R3gzSDlRNndRY0IzTkNScFUxc2ZXYnppTURxMEE?oc=5",
-     "ts": "2026-11-27T02:38:07Z",
-     "summary": ""
-    },
-    {
-     "id": "c9a54a955d8f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'Peggy' from GTA 6 talks viral popularity: 'It's so phenomenal to me'",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGVXIxbHlQWkl6MnZxbFlhbXVkcnVzNXJiRHhNQ2NvLUdYMjlYdVBuVTQ0OXd2R1hwTHZMVmRlYUMtLXhTaHprOXA2MmliN2hzQzNtTklQb3MzUy00MFdjaUlLTzE3cFQtb203TWpQR0ZNTE1XaWgzUzhyUkg?oc=5",
-     "ts": "2026-11-27T08:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
    "status": "new"
   },
   {
@@ -154823,549 +155071,20 @@
     "at": "2026-11-20T13:01:36Z"
    },
    "msg_id": 1669
-  },
-  {
-   "id": "346616c570de",
-   "title": "За первые сутки было продано более 24 миллионов копий GTA 6: игра установила абсолютный рекорд",
-   "first_seen": "2026-11-20T12:50:48Z",
-   "updated": "2026-11-20T12:50:48Z",
-   "items": [
-    {
-     "id": "346616c570de",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Дзеркало тижня",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "За первые сутки было продано более 24 миллионов копий GTA 6: игра установила абсолютный рекорд",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTVrVFEwR1M1Z2txUUNYeTZFb3FNLVk0WEpCYTM3SDlJT1hWbEdJcHl1bXVvUE85V05NaXdkWnJ1VUFTRHBoVDlPTjY3aXpuQUhvYzBKaFp3R0o0a2Vrc3VfYnZla2ZpbV9mOGtIME5Ob2ktS014SHR5WU1HRlpsdzdoUlNXenJTU0JaYm1VME0xVEVxczBHT2UySUhyS2FvUlk3dUxDVXUwdjMyS1huLXhHSk1jWXFOSjA4Tl9R?oc=5",
-     "ts": "2026-11-20T12:39:31Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "e884fa919cfc",
-   "title": "GTA 6 набрала 99 баллов на Metacritic и сравнялась с легендарной Zelda",
-   "first_seen": "2026-11-20T12:50:48Z",
-   "updated": "2026-11-20T12:50:48Z",
-   "items": [
-    {
-     "id": "e884fa919cfc",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "ZOOM.CNews.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 набрала 99 баллов на Metacritic и сравнялась с легендарной Zelda",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFlhVHlGTXdvQm85R1JOZzFEMXcwbmtNRC1FNmU1aUNhZ2FPcFl1b0lKa1NUb0RHQkptNGFKSjV4NURFUzFmN29wQ01pMUVjcG9Gb01rcFU1SFFJT2pCaUpTdnlrc0ZZbHBXUnVaSmNDdFZIdTAwSDVqSnN3MTBxUENVLWtiQmU4TndDUy1QaHowaFdyUzN4dkNkRkZTeTl3UTFjcw?oc=5",
-     "ts": "2026-11-20T12:41:52Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "473743602b94",
-   "title": "Grand Theft Attention: How Global Brands Are Cashing In on GTA VI's Cultural Pull — LBB",
-   "first_seen": "2026-11-20T12:50:48Z",
-   "updated": "2026-11-20T12:50:48Z",
-   "items": [
-    {
-     "id": "473743602b94",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "LBB - Little Black Book",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Attention: How Global Brands Are Cashing In on GTA VI's Cultural Pull — LBB",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWF6eWdwN094Rmo4SjlNNW1KMUtScFdfdzBvS0VLRWJSd29vZTdINk9xbjFmNFFyMFB4elhYdHZHZi1FV0NDR1kzdldwX1NSajEtTU5LMkpIT0l4NWtObUJzVjg1ckF0WnAxRWxFbUs4NUpTMlJlSmFZU3dhbUVrbnY2VG5ZVXl1RjRhb1YwRVJrUnc?oc=5",
-     "ts": "2026-11-20T12:42:26Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f228d29ff615",
-   "title": "24 GTA 6 Tips and Tricks We Wish We Knew Before Playing",
-   "first_seen": "2026-11-20T12:50:48Z",
-   "updated": "2026-11-20T12:50:48Z",
-   "items": [
-    {
-     "id": "f228d29ff615",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "IMDb",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "24 GTA 6 Tips and Tricks We Wish We Knew Before Playing",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtTmR6U1diZHp5U3h2dVZNM2hmdDdFRXhLQWE3V0xOX1l3VTc5Ry1UYkpxMHRkdnU5THhieG90NEZvcmpleW5DaDFMQUtNdWxsSGNkSFRoWHZGWE1RVDlSb2kyQkZmZDQ?oc=5",
-     "ts": "2026-11-20T12:42:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "cff89b9a4eb6",
-   "title": "GTA 6 Vice City FM tracklist: Every song, artist and radio host",
-   "first_seen": "2026-11-20T12:50:48Z",
-   "updated": "2026-11-20T12:50:48Z",
-   "items": [
-    {
-     "id": "cff89b9a4eb6",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "RouteNote",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Vice City FM tracklist: Every song, artist and radio host",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdUJSd2FQTW9SdlJlQnh3WUdpd2ZrdjI5RHdhXzU1Y3NWR3J5OEtLbmhCVnNxZTNTNThKZXRBeEZpMmNLYmYxa0RNU0xIWmtic054bUZkaV9zZmpSMzBvTDdtYlFiTlJpWkVray1nSVBBeDRTQ0xLRkUyRXU1WVZ1WklSMFlIdXNIWjZ6eTQ4OGI0QWZB?oc=5",
-     "ts": "2026-11-20T12:45:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5a7020d4a56b",
-   "title": "Has GTA VI included an air cargo GSSA?",
-   "first_seen": "2026-11-20T12:01:16Z",
-   "updated": "2026-11-20T12:41:00Z",
-   "items": [
-    {
-     "id": "5a7020d4a56b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Air Cargo Week",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Has GTA VI included an air cargo GSSA?",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yd2V0WEozaDlTV1JXYVFDRTBRdjFmOXJNbGFHWlpiRVV5cXhmaWRTSURZOFhMZ0diMzhLZmh6YnJNNVEyMThFLVB3N0tvS3N0SmVhc3hiUXBjNVA5bGNoUF90UGhlLTktNUlDdUxvaTU?oc=5",
-     "ts": "2026-11-20T11:55:09Z",
-     "summary": ""
-    },
-    {
-     "id": "531ac4dffa5f",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Air Cargo Week",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Has GTA 6 included an air cargo GSSA?",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLMTlZNF9Bdlk4b0hhODE3ajFiZ2JKWlRIYmFLejh2a1FEQW95RzNMekp4V1pKY09tV0dYSVdaamdxRkktSUZuVTZfOG01cUlnNU9uMlhzSXhtRHF1SmRKZUhvVGtPTlVoRUpTbl9WZw?oc=5",
-     "ts": "2026-11-20T11:55:09Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "23102be7c176",
-   "title": "After 13 Years, Grand Theft Auto VI Finally Arrives",
-   "first_seen": "2026-11-19T13:20:57Z",
-   "updated": "2026-11-20T12:41:00Z",
-   "items": [
-    {
-     "id": "23102be7c176",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WJR-AM",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "After 13 Years, Grand Theft Auto VI Finally Arrives",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUktqT1hvUm80c01QVll0WGowT2JlUHlnQ3BlVVhaMHZDa29pZFYtOExDeHR3X1VUNF9BS0ctLVI4Zmc5MXVoWDY5QTJIRzZYbHdwa1U1aG1yWmE1SjJHMnM3QmZnQWVxSzc5WWRZNENtdkFLNTgtMnZtbWdrc2NJNWtQQ2N2SGVidXc?oc=5",
-     "ts": "2026-11-19T13:07:27Z",
-     "summary": ""
-    },
-    {
-     "id": "e41ef6ce7563",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "WAFB",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI is finally here after 13 years. Here’s how much it costs",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzVha1BMczNyd0Y0dmFBMnhvVUpjOEVlSE83cEN0R1RkWmZidTdlWkZHTXZGZ1ppd0k2d0ZrQUZFUTY3Z1g2cnJVODVpdWJQZFdnVGJyUG9uNXczSExNZ0N5NjhpWDNrdkExb3huQUZadVFzbDZlZ291V2lLRGNjaC1TRWRSM1pOOGFaRkx4Z1VQcHpZejhwS2h30gGuAUFVX3lxTE42aWttSXVaVDAtSHgwWGV5UzF4ZTJzNV9TLUZZUTNJNkFfVG5SOGtlWlMxaUpSNURHZjhPZnlQSU9wRGhqTEx1N1g5WU5LRG1EWl9VMHQ1RWlMM1NPSXRicllVQmdBeW9FY0NTdEI0a01MQV9oa3M3X3FVSVJES3BucE4tRFYzcnJLT2pzNjVyOGxIOGtXd1F1TUxzVW5MMnNxU0x1ZlBvSmF6Q0hRQQ?oc=5",
-     "ts": "2026-11-19T16:15:00Z",
-     "summary": ""
-    },
-    {
-     "id": "c61e96afc919",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "My County Link",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI Finally Arrives",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ldE96TW01WE52NnhKMThteG1LOEZZZVBTVnNzeW9WclN5MlVmeUc3THJwbHcyWTFXUWg4U3dhOGFua0hlSThFS3Mxc1MzR3o5WHkxQ3p2QUJUOUsxVEJqN2hMUXphUVpCc3RCTEJn?oc=5",
-     "ts": "2026-11-19T18:52:25Z",
-     "summary": ""
-    },
-    {
-     "id": "ed3a32c7767b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "wfmynews2.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 is finally here after 13 years. Was it worth the wait?",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDVKajRUd3AybWpMVG9RMi04R3F3b3VHM0xPUjl2dzFfZ2g3VzRtVnhGY1Z5VHdETjB4S09sVEtnSE9iRERKSEg1S2xPUVlDcVVFMDctLU41R1hYMEYyR2ZDSEptblR1dTRLVS1iUl9HbEFWNE8xck9wQU5WcF9qVlE2OUo3UDJZOUJMckNrSUN1SGVuSzRHeFRtaDBHTWR6OUVhRzBSalVvTGx2bDFkZG9nU3FHQTlxc3M3cWZHV3JqTXVQeUVRRUtCZ04wZnVJNWZ1X3MxOEJkMVhl?oc=5",
-     "ts": "2026-11-19T22:37:00Z",
-     "summary": ""
-    },
-    {
-     "id": "c3c169d45fdb",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "The Towerlight",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA VI is well worth the wait. Here’s why.",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnUkxkQzMzVVB3dU00cXgxbFBpTndtXzYxbFh2VE5ZZE9QZWkzTnl3Y3VlNmI5cDBucGJqenVBQVpLZXhSbHExQTdHRkx0bHMtTklYbUtQTUpfRm1HWG5zY29QX0dldmtIdUN1bXU4dzZfUFB4?oc=5",
-     "ts": "2026-11-20T07:56:08Z",
-     "summary": ""
-    },
-    {
-     "id": "eabd787fce0c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "fox10tv.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Grand Theft Auto VI released after 13 years",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNWZVMTE4bXhuMzN6MXNhSFZRR3l6bmNudUlCbkNTNHN0Y2RVT2ZaU19HcFNVczFwbG1KOGx0b3BfVWVyMXpyZEYtc3JSNXRWZHRKQ3NIdDJnaUFyZFo1Skk3QWt6SHo2QkczXzExWFBUdUNvUjc5d0R3M1Q1aVhqeUtwaDBUVUxZV25VQTdn?oc=5",
-     "ts": "2026-11-20T04:12:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 75,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
-  },
-  {
-   "id": "0a3943743cf3",
-   "title": "GTA 6 собрала более 2,3 миллиарда долларов с запуска (оценка Sensor Tower)",
-   "first_seen": "2026-11-20T12:41:00Z",
-   "updated": "2026-11-20T12:41:00Z",
-   "items": [
-    {
-     "id": "0a3943743cf3",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Pasquale Pillitteri",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 собрала более 2,3 миллиарда долларов с запуска (оценка Sensor Tower)",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaWZQdm5RMC1oLWxQZE9yTVhiLTZCWVhWOVEyOWg1bUhZZDZBelYxRmdWX2xmeVV0S3l1RWN1WWlCaTR1TTRNWi1NY3V4RDBKSGVNU3FweGJER0FvRVR1QS05bUZkdC1QamZhcjNUdnY5aDdPRmkzbWpSU0NQenV2VGVwMnNaNDA5eWhTTG4wcw?oc=5",
-     "ts": "2026-11-20T11:30:11Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "09ae19c0a8c4",
-   "title": "GTA 6 fuel guide: how refuelling, gas stations and fuel gauges work",
-   "first_seen": "2026-11-20T12:41:00Z",
-   "updated": "2026-11-20T12:41:00Z",
-   "items": [
-    {
-     "id": "09ae19c0a8c4",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "eGamers.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 fuel guide: how refuelling, gas stations and fuel gauges work",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkY3Wk5NWlhWWjNtUzBBMU9XRlUyM1M3YXdaMnl0R0hLa3NOeHRtWHVMTWpCYTMySlRCSEtIbkxGTkdWdGpYMGdGc2pUTXdyN0x1SU1hQ2VrWFZxaVVvOGo3VGJwRkd2YU5NZFMwZ1VybkVEdUQ4MjRJQUFpbC1WNGRVTFV1bDNVQ3R1dGZn?oc=5",
-     "ts": "2026-11-20T12:10:17Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "b75e9ca34060",
-   "title": "Every Easter Egg In GTA 6—Locations & How To Find Them",
-   "first_seen": "2026-11-20T12:41:00Z",
-   "updated": "2026-11-20T12:41:00Z",
-   "items": [
-    {
-     "id": "b75e9ca34060",
-     "src": "insider_gaming",
-     "src_name": "Insider Gaming (Tom Henderson)",
-     "outlet": "",
-     "group": "insider",
-     "weight": 65,
-     "alert": true,
-     "title": "Every Easter Egg In GTA 6—Locations & How To Find Them",
-     "url": "https://insider-gaming.com/every-easter-egg-gta-6-locations/",
-     "ts": "2026-11-20T12:27:54Z",
-     "summary": "Here's every Easter Egg that we've discovered so far in Grand Theft Auto 6, with more to follow as we find even more. The post Every Easter Egg In GTA 6—Locations & How To Find Them appeared first on Insider Gaming ."
-    }
-   ],
-   "tags": [],
-   "score": 65,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "👀 Все пасхалки GTA 6: где искать и как найти",
-    "summary": "Insider Gaming (Tom Henderson) собрал все найденные пасхалки GTA 6 и указал места и способы их найти. Материал обещают дополнять по мере новых открытий. Это не официальный список от Rockstar, а подборка от редакции.",
-    "idea": "Короткий маршрут по 3–5 пасхалкам с отметками на карте и быстрым показом, как их активировать. Зрителю интересно повторить находки в первые часы и сравнить, что он сам уже поймал.",
-    "hook": "Собрал все пасхалки GTA 6 — показываю, где искать и как их открыть.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-20T12:41:14Z"
-   },
-   "msg_id": 1667
-  },
-  {
-   "id": "24d7407cf59c",
-   "title": "GTA 6 Too Dark? Here's How to Fix It on PS5",
-   "first_seen": "2026-11-20T12:41:00Z",
-   "updated": "2026-11-20T12:41:00Z",
-   "items": [
-    {
-     "id": "24d7407cf59c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Push Square",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 Too Dark? Here's How to Fix It on PS5",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcjExVVp3MTdqNndkRk4yeThtZVkxcWVjN21uRW96VVYtSk1MLXEtR21wUVQybWxUbXpvVHBwYXZUNHRUOFZ4ZVZuMHdsdGRGUDRNY1dkekk4emF1UDd5X1pPOFVid1JCR2haNVYtSlpSOEduODZxSUg5U28xWC0xZ0tZSHVwSk4t?oc=5",
-     "ts": "2026-11-20T12:30:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "8b75ae93131b",
-   "title": "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough",
-   "first_seen": "2026-11-20T12:41:00Z",
-   "updated": "2026-11-20T12:41:00Z",
-   "items": [
-    {
-     "id": "8b75ae93131b",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Eurogamer.net",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZeEhUYTZVWUI1NkkzamRhMmdJb29lakZXLXM5d3hfb2ExVWdTOHlXOWJFT3J6YkNQcHdQY2VZNlR6TkU2RnE1V19ZQnplTFJFM3Q4ZGc2eHgwcVpRUWl5ag?oc=5",
-     "ts": "2026-11-20T12:33:10Z",
-     "summary": ""
-    },
-    {
-     "id": "5e421fb3a62d",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough",
-     "url": "https://www.eurogamer.net/gta-6-spoiler-free-advice",
-     "ts": "2026-11-20T12:33:10Z",
-     "summary": "It's launch weekend for GTA 6 - in case you hadn't noticed - and since I've played the best part of a hundred hours of this thing, I thought it might be useful to share a few pieces of advice from my time with it. Read more"
-    }
-   ],
-   "tags": [],
-   "score": 78,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "❗️16 советов для GTA 6 без спойлеров",
-    "summary": "Eurogamer поделился 16 советами для первого прохождения GTA 6 без спойлеров. Автор опирался на десятки часов в игре и дал подсказки по исследованию мира.",
-    "idea": "Короткий топ-5 советов для старта в GTA 6 с динамичным монтажом. Зрителю важно не наломать дров в первые часы.",
-    "hook": "Запускаешь GTA 6? Вот 5 советов, чтобы не облажаться в первые часы.",
-    "stars": 3,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-20T12:41:10Z"
-   },
-   "msg_id": 1666
-  },
-  {
-   "id": "ee2c41a396ac",
-   "title": "Какое приложение внутри бота ТГ хотели бы видеть про GTA VI?",
-   "first_seen": "2026-11-20T12:41:00Z",
-   "updated": "2026-11-20T12:41:00Z",
-   "items": [
-    {
-     "id": "ee2c41a396ac",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "Какое приложение внутри бота ТГ хотели бы видеть про GTA VI?",
-     "url": "https://t.me/GTA6_m/9459",
-     "ts": "2026-11-20T12:34:01Z",
-     "summary": "Какое приложение внутри бота ТГ хотели бы видеть про GTA VI? 💬 Пишите под этим постом За лучшую идею отправим Код активации GTA VI 💲"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6e4999d00c40",
-   "title": "'GTA 6' Will Be the Creator Economy's Next Big Bonanza",
-   "first_seen": "2026-11-20T12:41:00Z",
-   "updated": "2026-11-20T12:41:00Z",
-   "items": [
-    {
-     "id": "6e4999d00c40",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Business Insider",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "'GTA 6' Will Be the Creator Economy's Next Big Bonanza",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3lNTGR2R1FTS0hVMUNpMmI2cVFUd2dhSkJQQVVvRHZGUUxBYkNJUmJVN0FNSWNDZ3c1UFduVGQ2dUFNOGFVbFUwRzRDS1B6WGRuNk5saGtnUThzS21Zd3RFWjZhc2FpNnZJaGYtOTBEalg5c3dUY0ZfUXg3OHEzTnNQbTNfZlBGOU9vb3h3?oc=5",
-     "ts": "2026-11-20T12:35:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f11274eda03e",
-   "title": "TikTok users spark viral craze around GTA VI soundtrack track Suzuki",
-   "first_seen": "2026-11-20T12:41:00Z",
-   "updated": "2026-11-20T12:41:00Z",
-   "items": [
-    {
-     "id": "f11274eda03e",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Contactmusic.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "TikTok users spark viral craze around GTA VI soundtrack track Suzuki",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRW1YT1FKQmtnb044bXk1elRqTlhjbVR4YVZvQXpmRUtSREZVTXBIRkJPSm5LVkZTVG53UUQ1MjdmODBYMGlfS2Y0eUNxelFkbUdkRkRrT3Q3cVpYem9jMnZhVnJCakJncG1fVmNjNmRXR2VKa21uVW9yak5XMVR5aENFMHhvU1NFT2FsUWJZSGUxZTB5RjRkdHM2bDdHUGh0RTN3bjREWW1sRmZueklwZnRvQndJQQ?oc=5",
-     "ts": "2026-11-20T12:36:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7b8fceb15f32",
-   "title": "Разработчикам предложили создать альтернативу GTA 6 с локациями в тундре",
-   "first_seen": "2026-11-20T12:41:00Z",
-   "updated": "2026-11-20T12:41:00Z",
-   "items": [
-    {
-     "id": "7b8fceb15f32",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Газета.СПб",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Разработчикам предложили создать альтернативу GTA 6 с локациями в тундре",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXUtc0MwdDlTQXM5czBISWdrTFk5cUg2SVYtYW9ob21iZUlaTzkxem5rdWZVUmU5bWdJWUp2WGo5YVQ4LUNDdGRMSGJYZWp5TE9MaVBPYVlETlZiWjQ2U3hIdnlHenlmdlJzdDRwUEJqWmN6ZS1vMlJTWnVrOURxSnlQODd6TXpuMDBfWWVyTU43XzVqQ1NyS0JwVVBDUUl0b1VUTngydzQ?oc=5",
-     "ts": "2026-11-20T12:37:48Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T12:40:52Z",
+  "last_run": "2026-11-27T12:50:59Z",
   "last_log": [
-   "rockstar_site: 0/3",
+   "rockstar_site: 0/2",
    "gnews_en: 89/100",
    "gnews_ru: 99/100",
    "gamesbeat: 3/10",
    "vgc: 6/10",
    "insider_gaming: 6/10",
    "ign: 1/20",
-   "eurogamer: 12/100",
+   "eurogamer: 11/100",
    "dexerto_gta: 13/50",
    "rockstarintel: 10/10",
    "gtaboom: 30/30",
