@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "0982930305f4",
+   "title": "GTA 6 Has Turned Gaming Back Into a Creator Power Center",
+   "first_seen": "2026-11-27T01:10:45Z",
+   "updated": "2026-11-27T01:10:45Z",
+   "items": [
+    {
+     "id": "0982930305f4",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "WeRSM",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Has Turned Gaming Back Into a Creator Power Center",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SeWxJUlRLSG53REZqXzB5QzM2Y1ZHLTF3WjVzX2lhUmwzWDlETUVYeUZPXzRCRWNDOWs2NW1iM2pDaUhWNEdNTGpSUFJ1UlZwNGdON3liajlBV3FoMmlOdGt5cnQ?oc=5",
+     "ts": "2026-11-27T01:00:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "68ad6332ea8b",
    "title": "GTA 6 PC port hits 20 FPS just days after drawing one frame every two seconds",
    "first_seen": "2026-11-26T11:01:37Z",
@@ -160224,10 +160250,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T01:01:16Z",
+  "last_run": "2026-11-27T01:10:45Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 98/100",
+   "rockstar_site: 0/1",
+   "gnews_en: 99/100",
    "gnews_ru: 99/100",
    "gamesbeat: 3/10",
    "vgc: 7/10",
