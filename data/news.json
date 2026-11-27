@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "id": "d9061018ad7b",
+   "title": "В GTA 6 нашли призрачный корабль — как в «Ведьмаке 3»",
+   "first_seen": "2026-11-27T03:30:59Z",
+   "updated": "2026-11-27T03:30:59Z",
+   "items": [
+    {
+     "id": "d9061018ad7b",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "VK Play",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "В GTA 6 нашли призрачный корабль — как в «Ведьмаке 3»",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVkJuTV8xZHZTV3F5dGxWTU5MSFFpeXVFSW13UEliWkotNlVEcklHNjhNUWZuZXY4UTRYMi1jeGpZR2lYU3I3eTRQRTNZUU1KN3l5RURUdG1zRjlrenppNTlpVXRjcG94M3ZLeGJrYldsMWFaTzNnUDdLZ0RkbWZXZ0REYW51dw?oc=5",
+     "ts": "2026-11-26T22:42:53Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "73bef146bd61",
+   "title": "From the swamp to 'GTA VI': Florida’s legendary skunk ape goes global",
+   "first_seen": "2026-11-27T03:30:59Z",
+   "updated": "2026-11-27T03:30:59Z",
+   "items": [
+    {
+     "id": "73bef146bd61",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Yahoo Tech",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "From the swamp to 'GTA VI': Florida’s legendary skunk ape goes global",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2dpMFI5X2tsYVc0c3VqODg4UlNNQVhiamdwU05IVVZ4QmdlX3lId0huYWpQSjlGY2JBTzFOWGJ6eXQydmZPUUxKU19lQ2pBV19idkN0eXRteVk1TTBIb2lyWnNLTllNOS1YVFk3SDd5VUZpeEYzQjQ1dU1VU2NZUV9pWkJWZVg0SUEwMw?oc=5",
+     "ts": "2026-11-27T03:03:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "dde216ac5ef6",
    "title": "Bowden: Hating GTA VI won’t make you a good person",
    "first_seen": "2026-11-27T03:10:48Z",
@@ -159841,39 +159893,13 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "7c1153d30177",
-   "title": "GTA 6 Is Censored in Japan, Exactly Like We Predicted",
-   "first_seen": "2026-11-20T03:21:16Z",
-   "updated": "2026-11-20T03:21:16Z",
-   "items": [
-    {
-     "id": "7c1153d30177",
-     "src": "gtaboom",
-     "src_name": "GTA Boom",
-     "outlet": "",
-     "group": "fansite",
-     "weight": 45,
-     "alert": true,
-     "title": "GTA 6 Is Censored in Japan, Exactly Like We Predicted",
-     "url": "https://www.gtaboom.com/gta-6-is-censored-in-japan-exactly-like-we-predicted-f912",
-     "ts": "2026-11-20T03:12:16Z",
-     "summary": "Game\\Spark found Japan's GTA 6 covers Jason's shower nudity and drops the blood intensity slider, but retains decapitations."
-    }
-   ],
-   "tags": [],
-   "score": 45,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T03:20:48Z",
+  "last_run": "2026-11-27T03:30:59Z",
   "last_log": [
-   "rockstar_site: 0/1",
+   "rockstar_site: 0/2",
    "gnews_en: 97/100",
    "gnews_ru: 99/100",
    "gamesbeat: 3/10",
