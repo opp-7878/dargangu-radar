@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "a514f643c85a",
+   "title": "GTA 6: Magazine Style Locations (WIP)",
+   "first_seen": "2026-11-28T04:01:11Z",
+   "updated": "2026-11-28T04:01:11Z",
+   "items": [
+    {
+     "id": "a514f643c85a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Push Square",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6: Magazine Style Locations (WIP)",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zbS16cGZwcXotdVBsU01NSmVDajFJcjZRZWo5d0dDUFE5WEc2U3hWRm9iV0JjeVE2amQyZllNZ3Z2UVMxS2dKMEgtVjFOalJ0ckMzZ3B0OEpxLThoajdocFdZQXByczdEalBaamNueWsxQQ?oc=5",
+     "ts": "2026-11-27T23:10:00Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "c9948a02629a",
    "title": "Did this North Carolina town inspire an area in Grand Theft Auto VI?",
    "first_seen": "2026-11-28T03:01:16Z",
@@ -145183,37 +145209,11 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "05a393c5cee1",
-   "title": "Even Benny the Bull can’t stop playing GTA 6 during player introductions",
-   "first_seen": "2026-11-21T04:01:11Z",
-   "updated": "2026-11-21T04:01:11Z",
-   "items": [
-    {
-     "id": "05a393c5cee1",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Yahoo Sports",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Even Benny the Bull can’t stop playing GTA 6 during player introductions",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYUHlJckhWYzkwM0FrZmd0N1ptZFpySlAwTTI3ZGpSV3pnLXI4Z0NsTjI5T3RZSkFTZ3o4bXcteldmMFBvSndHVjNXWXpoOUM0d0Zkemdram9Qc1VHdmt2NUUwTTdwVE5neFRqVU50eHJxVURUeTNuU1A4OA?oc=5",
-     "ts": "2026-11-21T03:28:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-28T03:50:49Z",
+  "last_run": "2026-11-28T04:01:11Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 95/100",
