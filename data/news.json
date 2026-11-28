@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "1828f0672213",
+   "title": "What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\"",
+   "first_seen": "2026-11-28T08:01:44Z",
+   "updated": "2026-11-28T08:01:44Z",
+   "items": [
+    {
+     "id": "1828f0672213",
+     "src": "eurogamer",
+     "src_name": "Eurogamer",
+     "outlet": "",
+     "group": "media",
+     "weight": 70,
+     "alert": true,
+     "title": "What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\"",
+     "url": "https://www.eurogamer.net/what-weve-been-playing-woman-on-a-bus",
+     "ts": "2026-11-28T08:00:00Z",
+     "summary": "It's nearly December. In fact, it will be next week. How do you feel about that? I'm undecided and I also have cold feet. But enough of that, welcome back to our regular feature where we say a bit about the games we've been playing this week! This week, Bertie has been enjoying Leonida but also rural England in the 17th century; Connor has been being a total scumbag and has also found himself coincidentally imprisoned; Matt keeps having revelations and can't stop discovering new things; and Dom's getting dirty looks. Again. Read more"
+    }
+   ],
+   "tags": [],
+   "score": 70,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Редактор Eurogamer поиграл в Леониду — что заметил?",
+    "summary": "Редактор Eurogamer Берт написал, что на этой неделе играл в Леониду. Он не раскрыл деталей, но упомянул, что ему понравилось.",
+    "idea": "Короткая нарезка реакций: что обычно замечают редакторы в первые часы в GTA — мир, физика, мелочи. Зрителю интересно, какие первые впечатления у профильной прессы.",
+    "hook": "Редактор Eurogamer поиграл в Леониду — и вот что его зацепило.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-28T08:01:47Z"
+   },
+   "msg_id": 2491
+  },
+  {
    "id": "d243a853d193",
    "title": "GTA VI Cultural Moment: $79.99 Game, Wrong Art Question",
    "first_seen": "2026-11-27T14:10:49Z",
@@ -143550,140 +143587,25 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "d45b3fcf710c",
-   "title": "Sexyy Red Pays Tribute to Tay Keith After Their Song “Pound Town” Appears in 'GTA VI'",
-   "first_seen": "2026-11-21T08:01:18Z",
-   "updated": "2026-11-21T08:01:18Z",
-   "items": [
-    {
-     "id": "d45b3fcf710c",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Complex",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Sexyy Red Pays Tribute to Tay Keith After Their Song “Pound Town” Appears in 'GTA VI'",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXBVUzQ1QTluSE90SUZKTDhjLUlZUzlHS2xJamVlTkRuc1J1SGU1WHZxZFY4cE01VkFrTmlTekwwZzVxN3ZTVzhPVmZEQWg0blpMalBONEhkNzBEZ253RmlYUVpsaWxvaDdKSGw1Y09aSHJ2LWlCdldCM3NLOGRsY1dXUWk?oc=5",
-     "ts": "2026-11-21T05:17:39Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "6493bb89bd61",
-   "title": "“Florida Joker” says he landed a GTA 6 voice role after years of public appeals",
-   "first_seen": "2026-11-21T08:01:18Z",
-   "updated": "2026-11-21T08:01:18Z",
-   "items": [
-    {
-     "id": "6493bb89bd61",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "MIXED News",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "“Florida Joker” says he landed a GTA 6 voice role after years of public appeals",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWYyemFJbnhsOXBzYm5uUkpHcjdtbThtSzM0M0hwSTBieGMzTVhyZDFYY0Q0NDhTRkRMR0RFY2JNUjZTeWhROFRldk1mRWZRelZaUHdGQU1ubEhFbFBUbnJzMmcyWDJ0VDhkVkpiQURjTjIyVElva2ZxdExob0ZrRXZBWGY?oc=5",
-     "ts": "2026-11-21T07:48:21Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "033df84afa3e",
-   "title": "❓ GTA VI оценили на 5,5 — на Metacritic открылись пользовательские оценки Игру массово завалили плохими отзывами.",
-   "first_seen": "2026-11-21T08:01:18Z",
-   "updated": "2026-11-21T08:01:18Z",
-   "items": [
-    {
-     "id": "033df84afa3e",
-     "src": "tg_gta6_m",
-     "src_name": "TG @GTA6_m",
-     "outlet": "",
-     "group": "telegram_ru",
-     "weight": 50,
-     "alert": true,
-     "title": "❓ GTA VI оценили на 5,5 — на Metacritic открылись пользовательские оценки Игру массово завалили плохими отзывами.",
-     "url": "https://t.me/GTA6_m/9466",
-     "ts": "2026-11-21T07:57:21Z",
-     "summary": "❓ GTA VI оценили на 5,5 — на Metacritic открылись пользовательские оценки Игру массово завалили плохими отзывами. В основном жалуются на: ➖ 30 FPS и баги ➖ «Пресный» сюжет и «симулятор подкаблучника» ➖ «SJW-пропаганда» и запрет стрельбы в гей-барах ➖ Слишком большой упор на реализм ➖ Посредственная графика и отсутствие инноваций При этом много «нулевых» оценок прилетает со свежих аккаунтов. Всё это похоже на попытку специально выставить игру хуже, чем она есть А какую оценку вы бы поставили шестерке? 🥺 Канал про GTA 6 | Наш чат"
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "1ba5d7851605",
-   "title": "What we've been playing - \"It's slow, it's awkward, it's weird, and it's hard\"",
-   "first_seen": "2026-11-21T08:01:18Z",
-   "updated": "2026-11-21T08:01:18Z",
-   "items": [
-    {
-     "id": "1ba5d7851605",
-     "src": "eurogamer",
-     "src_name": "Eurogamer",
-     "outlet": "",
-     "group": "media",
-     "weight": 70,
-     "alert": true,
-     "title": "What we've been playing - \"It's slow, it's awkward, it's weird, and it's hard\"",
-     "url": "https://www.eurogamer.net/what-weve-been-playing-its-slow-its-awkward-its-weird-and-its-hard",
-     "ts": "2026-11-21T08:00:00Z",
-     "summary": "Did anything notable happen this week? Not that I can remember. The weather was quite rainy - will that do? I'm just being silly, of course. We've had - and I suppose are still having - an historic week in video games, as Grand Theft Auto 6 arrives. It's dominated everything and I fear it's going to dominate this article too. But a reminder: next week is our \"Not-GTA Week\", so we'll be making a concerted effort to talk about games, probably smaller games, that aren't Godzilla blockbusters. Read more"
-    }
-   ],
-   "tags": [],
-   "score": 70,
-   "level": "PROBABLE",
-   "alerted": "yellow",
-   "status": "new",
-   "ai": {
-    "title_ru": "GTA 6 вышла! Eurogamer: неделя принадлежит игре",
-    "summary": "По словам Eurogamer, на этой неделе вышла Grand Theft Auto 6 и игра захватила всё внимание редакции. Издание отмечает, что следующая неделя станет «Not-GTA Week», чтобы поговорить о других играх.",
-    "idea": "Короткая нарезка мировых реакций и заголовков Eurogamer с титром «GTA 6 вышла — и съела весь инфоповод». Зрителю интересно увидеть масштаб хайпа в день релиза.",
-    "hook": "GTA 6 вышла — и съела весь инфоповод. Смотри, как отреагировал Eurogamer.",
-    "stars": 5,
-    "scale": 5,
-    "model": "GigaChat-3-Ultra",
-    "at": "2026-11-21T08:01:21Z"
-   },
-   "msg_id": 1794
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-28T07:50:51Z",
+  "last_run": "2026-11-28T08:01:48Z",
   "last_log": [
-   "rockstar_site: 0/2",
-   "gnews_en: 96/100",
-   "gnews_ru: 100/100",
+   "⚠️ rockstar_site: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_en: HTTP Error 503: Service Unavailable",
+   "⚠️ gnews_ru: HTTP Error 503: Service Unavailable",
    "gamesbeat: 4/10",
    "vgc: 6/10",
    "insider_gaming: 5/10",
    "ign: 0/20",
-   "eurogamer: 9/100",
+   "eurogamer: 10/100",
    "dexerto_gta: 13/50",
    "rockstarintel: 10/10",
    "gtaboom: 30/30",
-   "⚠️ reddit: HTTP Error 404: Not Found",
-   "tg_gtavistar: 9/14",
+   "⚠️ reddit: HTTP Error 429: Too Many Requests",
+   "tg_gtavistar: 8/14",
    "tg_gta6deluxe: 5/5",
    "tg_gta6_m: 1/3",
    "tg_gta6newsdaily: 1/19"
