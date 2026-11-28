@@ -145365,41 +145365,15 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "b8607ae6c79d",
-   "title": "GTA 6 получила 99 баллов, но игроки уже нашли серьезные баги",
-   "first_seen": "2026-11-21T03:30:59Z",
-   "updated": "2026-11-21T03:30:59Z",
-   "items": [
-    {
-     "id": "b8607ae6c79d",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Neva.Today",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "GTA 6 получила 99 баллов, но игроки уже нашли серьезные баги",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0YVAwWUtDVmxlSmp3azd6OGtYZUdSckdFc3FUMGV5Qnh1Mk51ZmRUVnFtU2VuNHd6ZVZQRGFDVU9SXzBjWjdDdFVJdExsdTZiS1dF?oc=5",
-     "ts": "2026-11-20T21:26:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-28T03:20:54Z",
+  "last_run": "2026-11-28T03:31:04Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 96/100",
-   "gnews_ru: 100/100",
+   "gnews_en: 95/100",
+   "⚠️ gnews_ru: HTTP Error 429: Too Many Requests",
    "gamesbeat: 4/10",
    "vgc: 6/10",
    "insider_gaming: 5/10",
