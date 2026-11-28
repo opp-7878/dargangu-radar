@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "7608e3a45200",
+   "title": "Мэддисон изменил мнение о GTA 6 и оценил игру на 8 из 10",
+   "first_seen": "2026-11-27T11:31:11Z",
+   "updated": "2026-11-28T04:30:59Z",
+   "items": [
+    {
+     "id": "7608e3a45200",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Dota2.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Мэддисон изменил мнение о GTA 6 и оценил игру на 8 из 10",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXlNektSdlpPZmF1ZHotdnZ4dWNjSVFaWk1yMmRlMlBMOGhtSVVuVld1cFl2ODRfakprYVllN0tsRWdSaUNXSXZQWGJaZWpZYUx1TG1hTnpCandrUXAzVDI5a2UyOHhOa0dzWkxwMGVMdjY1QTF5M1Vsa3AzbEZfYVdMVnRpVWJBRTBUWVlrWlU1d2QwOEZqUA?oc=5",
+     "ts": "2026-11-27T11:23:04Z",
+     "summary": ""
+    },
+    {
+     "id": "beb80ac88444",
+     "src": "gnews_ru",
+     "src_name": "Google News RU",
+     "outlet": "Dota2.ru",
+     "group": "media_ru",
+     "weight": 40,
+     "alert": true,
+     "title": "Мэддисон изменил мнение о GTA 6 и оценил игру на 8 из 10",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEd1NFZoM1BIVk9QYjlTZ3RiakdkanNYb1JQNXJQSi13R1VLZjZjeFdadHFEYWhodzBRaVBxOUlsVUxKLW9BLUR5Y1B3bTlLeTNFWHdqZFREbHNDTHd1YTA3RUNGa0J0c2RCQ0hibnM1REVqQTJjWXQzRjZ2VXJsTVdJaC1SSWFPTlFDRnhB?oc=5",
+     "ts": "2026-11-27T11:23:04Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 40,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "dd855b1b966f",
    "title": "How to Get Kvga-12 Shotgun in GTA 6",
    "first_seen": "2026-11-28T04:20:49Z",
@@ -15572,32 +15611,6 @@
      "title": "Как ограбить Meta Farm Fix в GTA 6. Какой код у сейфа фабрики",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUXBUem1mVEQ4SFhyaWpmaHlBMDZkU1Y5ZWxnLWxvMkl1Q3VjdEFLc1lhRjVpS1M5RTdDUl80cGd0VS1VdXlfQkc2TlpLWmlqdjl3RjUxb1hQRS1KRGczM1QwSzF4WkxLTFV3aEVqc3p4WHFTOXVxMFpWR1l6c2V0NWYxVUVOWDlpbHFrWk5tWnJRRlJKRUt1TmNfblJMTHBv?oc=5",
      "ts": "2026-11-27T11:18:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "7608e3a45200",
-   "title": "Мэддисон изменил мнение о GTA 6 и оценил игру на 8 из 10",
-   "first_seen": "2026-11-27T11:31:11Z",
-   "updated": "2026-11-27T11:31:11Z",
-   "items": [
-    {
-     "id": "7608e3a45200",
-     "src": "gnews_ru",
-     "src_name": "Google News RU",
-     "outlet": "Dota2.ru",
-     "group": "media_ru",
-     "weight": 40,
-     "alert": true,
-     "title": "Мэддисон изменил мнение о GTA 6 и оценил игру на 8 из 10",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXlNektSdlpPZmF1ZHotdnZ4dWNjSVFaWk1yMmRlMlBMOGhtSVVuVld1cFl2ODRfakprYVllN0tsRWdSaUNXSXZQWGJaZWpZYUx1TG1hTnpCandrUXAzVDI5a2UyOHhOa0dzWkxwMGVMdjY1QTF5M1Vsa3AzbEZfYVdMVnRpVWJBRTBUWVlrWlU1d2QwOEZqUA?oc=5",
-     "ts": "2026-11-27T11:23:04Z",
      "summary": ""
     }
    ],
@@ -145122,10 +145135,10 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-28T04:20:49Z",
+  "last_run": "2026-11-28T04:30:59Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 95/100",
+   "⚠️ gnews_en: HTTP Error 429: Too Many Requests",
    "gnews_ru: 100/100",
    "gamesbeat: 4/10",
    "vgc: 6/10",
