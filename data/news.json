@@ -1,6 +1,82 @@
 {
  "stories": [
   {
+   "id": "2134b69b8b39",
+   "title": "GTA 6 Has Recaptured the Beautifully Borked Energy of Skyrim",
+   "first_seen": "2026-11-28T00:01:15Z",
+   "updated": "2026-11-28T00:01:15Z",
+   "items": [
+    {
+     "id": "2134b69b8b39",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "GTA 6 Has Recaptured the Beautifully Borked Energy of Skyrim",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XelYyZEtjSm9XZ0VVZVFSSFpoaTF3cTNBWTl1ZTJVR0Y4djhMQ3VSUWstYWV3b2RyZjlPMC1WdmlhbHM5dkVnZzh0eUVVbDAtd05JVzF6VGZia2U5VkV3Tw?oc=5",
+     "ts": "2026-11-27T21:26:58Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
+   "id": "9ab679f38849",
+   "title": "GTA 6 Stash Bag Money Glitch—Duplication Trick To Make Millions",
+   "first_seen": "2026-11-28T00:01:15Z",
+   "updated": "2026-11-28T00:01:15Z",
+   "items": [
+    {
+     "id": "9ab679f38849",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "Insider Gaming",
+     "group": "media",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Stash Bag Money Glitch—Duplication Trick To Make Millions",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUo3bVdoNE9QSUp2TGt6QVlsMTBlcEtBWXc5UkhoYTBJLVk4alg3b3czRERpZDB1OE02UlIwYllDV2RMeTVGbndET1V5Q2ZpcU1laW9jbHNVMjZiRDBNWHkzRmVVaktnWmxlNHg3VG5aVHlEMFRBaUgyVmJOSHVjdQ?oc=5",
+     "ts": "2026-11-27T23:53:40Z",
+     "summary": ""
+    },
+    {
+     "id": "124e03326ffc",
+     "src": "insider_gaming",
+     "src_name": "Insider Gaming (Tom Henderson)",
+     "outlet": "",
+     "group": "insider",
+     "weight": 65,
+     "alert": true,
+     "title": "GTA 6 Stash Bag Money Glitch—Duplication Trick To Make Millions",
+     "url": "https://insider-gaming.com/how-to-gta-6-money-glitch-stash-bag-duplication/",
+     "ts": "2026-11-27T23:53:40Z",
+     "summary": "There's a new GTA 6 money glitch that involves duplicating stash bags, and this is exactly how you can do it. The post GTA 6 Stash Bag Money Glitch—Duplication Trick To Make Millions appeared first on Insider Gaming ."
+    }
+   ],
+   "tags": [],
+   "score": 73,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "💰 Баг с сумками в GTA 6: как дублировать деньги",
+    "summary": "В GTA 6 нашли баг с дублированием сумок с деньгами, позволяющий заработать миллионы. Об этом сообщил Insider Gaming со ссылкой на Тома Хендерсона.",
+    "idea": "Короткая инструкция: где найти сумку, как дублировать и сколько можно поднять. Зрителю интересно быстро повторить баг и не словить бан.",
+    "hook": "Миллионы за минуту? Показываю баг с сумками в GTA 6 — работает.",
+    "stars": 4,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-28T00:01:19Z"
+   },
+   "msg_id": 2484
+  },
+  {
    "id": "dba7606a42da",
    "title": "Сравнение GTA 6 с ранними трейлерами показало существенное различия в графике",
    "first_seen": "2026-11-27T23:51:00Z",
@@ -145802,7 +145878,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-27T23:51:00Z",
+  "last_run": "2026-11-28T00:01:19Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 95/100",
