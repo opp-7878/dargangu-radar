@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "id": "1bff23fc7a9c",
+   "title": "How to Use Nitrous in GTA 6",
+   "first_seen": "2026-11-28T04:50:47Z",
+   "updated": "2026-11-28T04:50:47Z",
+   "items": [
+    {
+     "id": "1bff23fc7a9c",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "IMDb",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "How to Use Nitrous in GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qY21oLVpPb0xHbFd1X1RnN0dxNVctTFlJQUpXZE9HWV82RjdhRlpDYVVBS190aUgzR3FfTnRrcUJwdTJRNXd6V1NDR2J2TEhKNE9HZGV4RGRLaGRLejBnTEdhNURCOEk?oc=5",
+     "ts": "2026-11-28T00:21:51Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "4616e432248f",
    "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
    "first_seen": "2026-11-27T16:31:02Z",
@@ -145006,7 +145032,7 @@
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-28T04:47:49Z",
+  "last_run": "2026-11-28T04:50:47Z",
   "last_log": [
    "rockstar_site: 0/2",
    "gnews_en: 95/100",
