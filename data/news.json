@@ -1,6 +1,82 @@
 {
  "stories": [
   {
+   "id": "5b096e2a8b4a",
+   "title": "Carly Rae Jepsen’s ‘Run Away With Me’ Finds New Life Thanks to GTA VI",
+   "first_seen": "2026-11-28T01:31:00Z",
+   "updated": "2026-11-28T03:20:49Z",
+   "items": [
+    {
+     "id": "5b096e2a8b4a",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "963xke.com",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Carly Rae Jepsen’s ‘Run Away With Me’ Finds New Life Thanks to GTA VI",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnlJNW5EN2MyOVhMMkVrTW03dXUxVGxTX2NIZ0RqNFotQ0hPbnNIRzV0aEsza05oYXh6aV80a3FuZU9pY1ZCb1l2LWN1d19tZ0JvT2FXLXZ2QnBtUWFhcXlZWFNfSWdCekI1RjhZZThMUFRQdFhVZWpPQ1JJamZUOFhzLWpRVXRBLW5iTC1mYlZrYzZsVDY1VlNzajE2Zw?oc=5",
+     "ts": "2026-11-28T01:24:29Z",
+     "summary": ""
+    },
+    {
+     "id": "a522e0f39096",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "BBC",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "Carly Rae Jepsen: How GTA 6 gave her song Run Away With Me a second life",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41eGRuREdINmJELV8yV1FnSVROX250V0RfMGZhWjZMeS02X3dlMzBlcHpSU3NkR1kyd3NuT3JSRWZkN3lGbW1lVERtdElxMGN5YjBPb194VHRuX1E?oc=5",
+     "ts": "2026-11-28T03:03:36Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 58,
+   "level": "PROBABLE",
+   "alerted": "yellow",
+   "status": "new",
+   "ai": {
+    "title_ru": "Песня Карли Рэй Джепсен снова в топе из-за GTA 6",
+    "summary": "По данным BBC и 963xke.com, песня Карли Рэй Джепсен Run Away With Me обрела вторую жизнь благодаря GTA 6. Трек снова набирает прослушивания и возвращается в чарты после появления в игре.",
+    "idea": "Покажем, как одна песня из GTA 6 взлетает в чартах, и дадим короткий факт-чек с источниками. Зрителю будет интересно узнать, какой трек сейчас «имба» по стримам.",
+    "hook": "Эта песня из GTA 6 снова в топе — вот цифры.",
+    "stars": 3,
+    "scale": 5,
+    "model": "GigaChat-3-Ultra",
+    "at": "2026-11-28T03:20:53Z"
+   },
+   "msg_id": 2487
+  },
+  {
+   "id": "7e42752f86d1",
+   "title": "‘Grand Theft Auto VI’ lets you visit Miami. ‘PlayTulsa’ wants you to visit downtown.",
+   "first_seen": "2026-11-28T03:20:49Z",
+   "updated": "2026-11-28T03:20:49Z",
+   "items": [
+    {
+     "id": "7e42752f86d1",
+     "src": "gnews_en",
+     "src_name": "Google News EN",
+     "outlet": "News On 6",
+     "group": "media",
+     "weight": 50,
+     "alert": true,
+     "title": "‘Grand Theft Auto VI’ lets you visit Miami. ‘PlayTulsa’ wants you to visit downtown.",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjE0LXdjdVFQNms3X0ZDME9ULV9qR213d1RlQzl4RlE1VThVTG5xdHM4S0FXS3pTMVl4M0tUM2JBLThqeFVUMzF2QUtBcEZ6ODQ2UlY1MTBxdzNkRHJqcVJsX3BPeHhCMHlwSC1kZEZXX0lSajZuTFh0LVJQRGliUXpsM0didw?oc=5",
+     "ts": "2026-11-28T03:16:38Z",
+     "summary": ""
+    }
+   ],
+   "tags": [],
+   "score": 50,
+   "level": "PROBABLE",
+   "alerted": "",
+   "status": "new"
+  },
+  {
    "id": "499774ff0e9d",
    "title": "The best vehicles for every situation in GTA 6",
    "first_seen": "2026-11-27T14:10:49Z",
@@ -1390,32 +1466,6 @@
    ],
    "tags": [],
    "score": 40,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "5b096e2a8b4a",
-   "title": "Carly Rae Jepsen’s ‘Run Away With Me’ Finds New Life Thanks to GTA VI",
-   "first_seen": "2026-11-28T01:31:00Z",
-   "updated": "2026-11-28T01:31:00Z",
-   "items": [
-    {
-     "id": "5b096e2a8b4a",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "963xke.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "Carly Rae Jepsen’s ‘Run Away With Me’ Finds New Life Thanks to GTA VI",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnlJNW5EN2MyOVhMMkVrTW03dXUxVGxTX2NIZ0RqNFotQ0hPbnNIRzV0aEsza05oYXh6aV80a3FuZU9pY1ZCb1l2LWN1d19tZ0JvT2FXLXZ2QnBtUWFhcXlZWFNfSWdCekI1RjhZZThMUFRQdFhVZWpPQ1JJamZUOFhzLWpRVXRBLW5iTC1mYlZrYzZsVDY1VlNzajE2Zw?oc=5",
-     "ts": "2026-11-28T01:24:29Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
@@ -145341,79 +145391,14 @@
    "level": "PROBABLE",
    "alerted": "",
    "status": "new"
-  },
-  {
-   "id": "2fc136109e49",
-   "title": "61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours",
-   "first_seen": "2026-11-21T03:20:45Z",
-   "updated": "2026-11-21T03:20:45Z",
-   "items": [
-    {
-     "id": "2fc136109e49",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "Push Square",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWN5VjVyX091bEJVRmhtNGdGSXY4NVJFdVBqRDRCTDl6NHVfeEJpQmFrSm1sWldORHlKUWMwUnRzcTdGdTItX1dBckw5M1Y3eUUtM3RBOGhJMkZRQ2Y3OWV3TEZpZE56YWJjVV9xRXJNZEdVZnRfUUtrUjNqd3FGdWJlX1JFQmFkX0o0ZUVVellJeGdxRGdLUlp1cGhCbkx2aXFjYmNfQm44ZUlPVkJSYjlBckZpdw?oc=5",
-     "ts": "2026-11-21T02:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 50,
-   "level": "PROBABLE",
-   "alerted": "",
-   "status": "new"
-  },
-  {
-   "id": "f7fd71d637f9",
-   "title": "GTA 6 romance explained: what affects Jason and Lucia’s bond",
-   "first_seen": "2026-11-20T15:40:51Z",
-   "updated": "2026-11-21T03:10:53Z",
-   "items": [
-    {
-     "id": "f7fd71d637f9",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "eGamers.io",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6 romance explained: what affects Jason and Lucia’s bond",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeG1rUE1yR0NCU0x6QWI2ZEpraXB2LThQU0NDaUxPVENHQTZTa25mMnRYWGxLM2pmRWFoZGVPNjQtYjZrU2Z3ZGF2VzNYanZ3SnI4WmhrN190WEpHbEVSbzFCSjliRW9PY0JjcDlDUmRnOHdNNUdKQlQ4MW1fVS15LXZfQTM?oc=5",
-     "ts": "2026-11-20T15:30:24Z",
-     "summary": ""
-    },
-    {
-     "id": "662542977f7d",
-     "src": "gnews_en",
-     "src_name": "Google News EN",
-     "outlet": "www.svg.com",
-     "group": "media",
-     "weight": 50,
-     "alert": true,
-     "title": "GTA 6's Romance Rules Explained: Can You Cheat On Lucia?",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzLUh6b0c2d2t0Ymk5QXZ6WFpmZjBqQ2hvS3p0T3k5OV9WNFo5R2s2dWpKRlJ1V2VIblo2Y08yTWQzVkRIcno2ejBLX1lhZlQxaTF0TVpvNHlLR0FrXzFqWnJ1bGplb29rc3hHRFN5V3FtdXlxVHF0MGtn?oc=5",
-     "ts": "2026-11-21T03:00:00Z",
-     "summary": ""
-    }
-   ],
-   "tags": [],
-   "score": 58,
-   "level": "PROBABLE",
-   "alerted": "late",
-   "status": "new"
   }
  ],
  "meta": {
   "started": "2026-10-14T06:27:48Z",
-  "last_run": "2026-11-28T03:10:51Z",
+  "last_run": "2026-11-28T03:20:54Z",
   "last_log": [
    "rockstar_site: 0/2",
-   "gnews_en: 95/100",
+   "gnews_en: 96/100",
    "gnews_ru: 100/100",
    "gamesbeat: 4/10",
    "vgc: 6/10",
